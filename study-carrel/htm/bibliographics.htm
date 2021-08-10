@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "asc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Bibliographics</li>
+		</ol>
+	</nav>
+
+<h1>Bibliographics</h1>
+<p>This is a table of authors, titles, dates and other bibliographic information; it is a list metadata describing the content of your study carrel. Think of it as your library.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>author</th>
+                <th>title</th>
+                <th>date</th>
+                <th>words</th>
+                <th>sentences</th>
+                <th>pages</th>
+                <th>cache</th>
+                <th>text</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>AF1</td><td>AfDB</td><td>Smallholder Agriculture Development For Food And Nutrition Security(sadfons)</td><td>2021</td><td>15809</td><td>1726</td><td>34</td><td>./cache/AF1.pdf</td><td>./txt/AF1.txt</td></tr>
+<tr><td>AF2</td><td>AfDB</td><td>Cabinda Province Agriculture Value Chains Development Project</td><td>2017</td><td>15178</td><td>1749</td><td>38</td><td>./cache/AF2.pdf</td><td>./txt/AF2.txt</td></tr>
+<tr><td>AF3</td><td>AfDB</td><td>Agricultural Value Chain Development Project</td><td>2018</td><td>14022</td><td>1503</td><td>32</td><td>./cache/AF3.pdf</td><td>./txt/AF3.txt</td></tr>
+<tr><td>AF4</td><td>AfDB</td><td>Cashew Nuts Sector And Agricultural Entrepreneurship Development Support Project</td><td>2019</td><td>15253</td><td>1788</td><td>32</td><td>./cache/AF4.pdf</td><td>./txt/AF4.txt</td></tr>
+<tr><td>AF5</td><td>AfDB</td><td>Support Project For Establishing An Agribusiness Bank</td><td>2018</td><td>17366</td><td>2253</td><td>37</td><td>./cache/AF5.pdf</td><td>./txt/AF5.txt</td></tr>
+<tr><td>AF6</td><td>AfDB</td><td>Agriculture And Livestock Value Chains Sustainable Development Support Project</td><td>2020</td><td>17720</td><td>1860</td><td>40</td><td>./cache/AF6.pdf</td><td>./txt/AF6.txt</td></tr>
+<tr><td>AF7</td><td>AfDB</td><td>Support To Agriculture Transformation In The Bugesera Natural Region Project</td><td>2017</td><td>16543</td><td>1877</td><td>39</td><td>./cache/AF7.pdf</td><td>./txt/AF7.txt</td></tr>
+<tr><td>AF9</td><td>AfDB</td><td>Project To Build Resilience For Food Security And Nutrition In Chadõs Rural Communities</td><td>2018</td><td>14449</td><td>1435</td><td>39</td><td>./cache/AF9.pdf</td><td>./txt/AF9.txt</td></tr>
+<tr><td>AF10</td><td>AfDB</td><td>Integrated Agricultural Value Chains Development Project</td><td>2019</td><td>17368</td><td>1558</td><td>38</td><td>./cache/AF10.pdf</td><td>./txt/AF10.txt</td></tr>
+<tr><td>AF12</td><td>AfDB</td><td>Belier Region Agro-industrial Pole Project</td><td>2017</td><td>19893</td><td>1915</td><td>39</td><td>./cache/AF12.pdf</td><td>./txt/AF12.txt</td></tr>
+<tr><td>AF13</td><td>AfDB</td><td>Project To Support The Development Of Agricultural Value Chains In Six Provinces In Drc</td><td>2019</td><td>12598</td><td>1463</td><td>35</td><td>./cache/AF13.pdf</td><td>./txt/AF13.txt</td></tr>
+<tr><td>AF14</td><td>AfDB</td><td>Rural Economy Integrated Development Support Project</td><td>2019</td><td>18486</td><td>2052</td><td>36</td><td>./cache/AF14.pdf</td><td>./txt/AF14.txt</td></tr>
+<tr><td>AF15</td><td>AfDB</td><td>Marketing Infrastructure, Value Addition And Rural Finance Support (mivarf) Programme</td><td>2018</td><td>13871</td><td>1557</td><td>32</td><td>./cache/AF15.pdf</td><td>./txt/AF15.txt</td></tr>
+<tr><td>AF16</td><td>AfDB</td><td>Agribusiness And Rice Value Chain Support</td><td>2019</td><td>14789</td><td>1603</td><td>35</td><td>./cache/AF16.pdf</td><td>./txt/AF16.txt</td></tr>
+<tr><td>AF17</td><td>AfDB</td><td>Technical Support For The Agricultural Transformation Strategy And Promotion Of Youth Entrepreneurship In The Agricultural Sector And Agribusiness</td><td>2017</td><td>25860</td><td>2329</td><td>56</td><td>./cache/AF17.pdf</td><td>./txt/AF17.txt</td></tr>
+<tr><td>AF18</td><td>AfDB</td><td>Climate Smart Rural Wash Development Project</td><td>2018</td><td>17551</td><td>1850</td><td>43</td><td>./cache/AF18.pdf</td><td>./txt/AF18.txt</td></tr>
+<tr><td>AF20</td><td>AfDB</td><td>Savannah Zone Agricultural Productivity Improvement Project</td><td>2017</td><td>14074</td><td>1650</td><td>34</td><td>./cache/AF20.pdf</td><td>./txt/AF20.txt</td></tr>
+<tr><td>AF21</td><td>AfDB</td><td>Incentive-based Risk-sharing System For Agricultural Lending (girsal) Project</td><td>2018</td><td>13785</td><td>1298</td><td>36</td><td>./cache/AF21.pdf</td><td>./txt/AF21.txt</td></tr>
+<tr><td>AF22</td><td>AfDB</td><td>Support Project For The Transformation Of Guinean Agriculture And Youth Agricultural Entrepreneurship</td><td>2018</td><td>17227</td><td>1739</td><td>34</td><td>./cache/AF22.pdf</td><td>./txt/AF22.txt</td></tr>
+<tr><td>AF23</td><td>AfDB</td><td>Value Chains, Agricultural And Rural Entrepreneurship Support Project</td><td>2019</td><td>17950</td><td>1784</td><td>35</td><td>./cache/AF23.pdf</td><td>./txt/AF23.txt</td></tr>
+<tr><td>AF24</td><td>AfDB</td><td>Special Agro-industrial Processing Zones Development Programme</td><td>2019</td><td>17506</td><td>1800</td><td>42</td><td>./cache/AF24.pdf</td><td>./txt/AF24.txt</td></tr>
+<tr><td>AF25</td><td>AfDB</td><td>Rice Value Chain Development Project (pdcv-riz) In The Bafata And Oio Regions</td><td>2017</td><td>16450</td><td>1634</td><td>35</td><td>./cache/AF25.pdf</td><td>./txt/AF25.txt</td></tr>
+<tr><td>AF26</td><td>AfDB</td><td>Agricultural Infrastructure And Youth In Agribusiness Project</td><td>2016</td><td>16007</td><td>1800</td><td>35</td><td>./cache/AF26.pdf</td><td>./txt/AF26.txt</td></tr>
+<tr><td>AF27</td><td>AfDB</td><td>Development Programme For The Special Agro- Industrial Processing Zone Of Koulikoro And Semi- Urban Bamako Regions</td><td>2019</td><td>19169</td><td>2208</td><td>46</td><td>./cache/AF27.pdf</td><td>./txt/AF27.txt</td></tr>
+<tr><td>AF28</td><td>AfDB</td><td>Inclusive And Sustainable Development Support Programme For Agricultural Sectors</td><td>2018</td><td>27731</td><td>2416</td><td>58</td><td>./cache/AF28.pdf</td><td>./txt/AF28.txt</td></tr>
+<tr><td>AF30</td><td>AfDB</td><td>Agricultural Value Chain And Youth Empowermentproject</td><td>2018</td><td>16191</td><td>3660</td><td>34</td><td>./cache/AF30.pdf</td><td>./txt/AF30.txt</td></tr>
+<tr><td>AF31</td><td>AfDB</td><td>Rural Livelihoodsõ Adaptation To Climate Change In The Horn Of Africa Ii</td><td>2017</td><td>13341</td><td>1288</td><td>36</td><td>./cache/AF31.pdf</td><td>./txt/AF31.txt</td></tr>
+<tr><td>AF32</td><td>AfDB</td><td>Technologies For African Agricultural Transformation: Framework Program In Support Of Òfeed Africaó</td><td>2017</td><td>28319</td><td>2136</td><td>62</td><td>./cache/AF32.pdf</td><td>./txt/AF32.txt</td></tr>
+<tr><td>AF33</td><td>AfDB</td><td>Agricultural Mechanisation And Seed Improvement Project (namsip)</td><td>2017</td><td>21590</td><td>3300</td><td>45</td><td>./cache/AF33.pdf</td><td>./txt/AF33.txt</td></tr>
+<tr><td>AF34</td><td>AfDB</td><td>Project To Strengthen Resilience Of Rural Communities To Food And Nutrition Insecurity In Niger</td><td>2020</td><td>19962</td><td>2108</td><td>48</td><td>./cache/AF34.pdf</td><td>./txt/AF34.txt</td></tr>
+<tr><td>AF36</td><td>AfDB</td><td>Agricultural Transformation Support Project</td><td>2019</td><td>16786</td><td>1753</td><td>38</td><td>./cache/AF36.pdf</td><td>./txt/AF36.txt</td></tr>
+<tr><td>AF37</td><td>AfDB</td><td>Savannah-based Agricultural Value Chains Development Support Project</td><td>2018</td><td>12049</td><td>1475</td><td>33</td><td>./cache/AF37.pdf</td><td>./txt/AF37.txt</td></tr>
+<tr><td>AF38</td><td>AfDB</td><td>South Agro-industrial Processing Zone</td><td>2019</td><td>21665</td><td>2359</td><td>47</td><td>./cache/AF38.pdf</td><td>./txt/AF38.txt</td></tr>
+<tr><td>AF39</td><td>AfDB</td><td>Agricultural Markets, Value Addition And Trade Development Project</td><td>2020</td><td>16293</td><td>1621</td><td>44</td><td>./cache/AF39.pdf</td><td>./txt/AF39.txt</td></tr>
+<tr><td>AF40</td><td>AfDB</td><td>Tanzania Agricultural Development Bank</td><td>2016</td><td>12441</td><td>882</td><td>31</td><td>./cache/AF40.pdf</td><td>./txt/AF40.txt</td></tr>
+<tr><td>AF41</td><td>AfDB</td><td>Governance And Agribusiness Promotion Support Programme</td><td>2017</td><td>19630</td><td>1513</td><td>53</td><td>./cache/AF41.pdf</td><td>./txt/AF41.txt</td></tr>
+<tr><td>AF42</td><td>AfDB</td><td>Project To Develop And Promote Agricultural Subsectors In Zaghouan Governorate</td><td>2019</td><td>16621</td><td>1983</td><td>36</td><td>./cache/AF42.pdf</td><td>./txt/AF42.txt</td></tr>
+<tr><td>AF43</td><td>AfDB</td><td>Agricultural Value Chain Development Programme (avcp) Ð Project 1</td><td>2017</td><td>17915</td><td>2074</td><td>46</td><td>./cache/AF43.pdf</td><td>./txt/AF43.txt</td></tr>
+<tr><td>AF45</td><td>AfDB</td><td>Support Project For Youth Employment And Skills Development In Rural Areas</td><td>2018</td><td>12704</td><td>1538</td><td>34</td><td>./cache/AF45.pdf</td><td>./txt/AF45.txt</td></tr>
+<tr><td>IDB2</td><td>IDB</td><td>Project To Implement The Census And Agricultural Surveys System</td><td>2019</td><td>11466</td><td>882</td><td>32</td><td>./cache/IDB2.pdf</td><td>./txt/IDB2.txt</td></tr>
+<tr><td>IDB3</td><td>IDB</td><td>Feasibility Nanni Weir And Maratakka Spillway</td><td>2018</td><td>8922</td><td>993</td><td>46</td><td>./cache/IDB3.pdf</td><td>./txt/IDB3.txt</td></tr>
+<tr><td>IDB4</td><td>IDB</td><td>Artisanal Fisheries Development Program</td><td>2015</td><td>14482</td><td>1190</td><td>35</td><td>./cache/IDB4.pdf</td><td>./txt/IDB4.txt</td></tr>
+<tr><td>IDB5</td><td>IDB</td><td>Agricultural Health And Food Safety Program Ii</td><td>2015</td><td>13776</td><td>998</td><td>33</td><td>./cache/IDB5.pdf</td><td>./txt/IDB5.txt</td></tr>
+<tr><td>IDB6</td><td>IDB</td><td>Direct Supports For The Creation Of Rural Agrifood Initiatives Ii</td><td>2015</td><td>12756</td><td>1004</td><td>33</td><td>./cache/IDB6.pdf</td><td>./txt/IDB6.txt</td></tr>
+<tr><td>IDB7</td><td>IDB</td><td>Rural Productive Development Program Ii</td><td>2018</td><td>14020</td><td>1221</td><td>38</td><td>./cache/IDB7.pdf</td><td>./txt/IDB7.txt</td></tr>
+<tr><td>IDB8</td><td>IDB</td><td>Agricultural And Agroforestry Technological Innovation Program - Pitag</td><td>2017</td><td>16203</td><td>1333</td><td>41</td><td>./cache/IDB8.pdf</td><td>./txt/IDB8.txt</td></tr>
+<tr><td>IDB9</td><td>IDB</td><td>Project To Improve And Expand Animal Health Services In Paraguay</td><td>2018</td><td>13044</td><td>1066</td><td>32</td><td>./cache/IDB9.pdf</td><td>./txt/IDB9.txt</td></tr>
+<tr><td>IDB10</td><td>IDB</td><td>Rural Land Regularization And Titling Program</td><td>2016</td><td>17100</td><td>1489</td><td>36</td><td>./cache/IDB10.pdf</td><td>./txt/IDB10.txt</td></tr>
+<tr><td>IDB11</td><td>IDB</td><td>Agricultural And Agroforestry Technological Innovation Program - Pitag</td><td>2017</td><td>16203</td><td>1333</td><td>41</td><td>./cache/IDB11.pdf</td><td>./txt/IDB11.txt</td></tr>
+<tr><td>IDB12</td><td>IDB</td><td>Sustainable Agricultural Development Program</td><td>2018</td><td>15562</td><td>1229</td><td>34</td><td>./cache/IDB12.pdf</td><td>./txt/IDB12.txt</td></tr>
+<tr><td>IDB13</td><td>IDB</td><td>Provincial Agricultural Services Program Ð Prosap Iv</td><td>2016</td><td>13902</td><td>1083</td><td>36</td><td>./cache/IDB13.pdf</td><td>./txt/IDB13.txt</td></tr>
+<tr><td>IF1</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of Liberia For The Rural Community Finance Project</td><td>2015</td><td>8418</td><td>775</td><td>22</td><td>./cache/IF1.pdf</td><td>./txt/IF1.txt</td></tr>
+<tr><td>IF2</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of Turkey For The Gšksu Ta_eli Watershed Development Project</td><td>2015</td><td>7051</td><td>714</td><td>22</td><td>./cache/IF2.pdf</td><td>./txt/IF2.txt</td></tr>
+<tr><td>IF3</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of El Salvador For The National Programme Of Rural Economic Transformation For Living Well - Rural Adelante</td><td>2015</td><td>10854</td><td>1495</td><td>28</td><td>./cache/IF3.pdf</td><td>./txt/IF3.txt</td></tr>
+<tr><td>IF4</td><td>IFAD</td><td>Proposed Grant To The Republic Of Burundi For The Value Chain Development Programme Ð Phase Ii</td><td>2015</td><td>11057</td><td>1508</td><td>29</td><td>./cache/IF4.pdf</td><td>./txt/IF4.txt</td></tr>
+<tr><td>IF5</td><td>IFAD</td><td>Proposed Loan To The Republic Of Madagascar For The Project To Support Development In The Menabe And Melaky Regions Ð Phase Ii</td><td>2015</td><td>8839</td><td>1347</td><td>26</td><td>./cache/IF5.pdf</td><td>./txt/IF5.txt</td></tr>
+<tr><td>IF6</td><td>IFAD</td><td>Proposed Loan To The Peopleõs Republic Of Bangladesh For The National Agricultural Technology Programme</td><td>2015</td><td>16269</td><td>1689</td><td>48</td><td>./cache/IF6.pdf</td><td>./txt/IF6.txt</td></tr>
+<tr><td>IF7</td><td>IFAD</td><td>Proposed Loan And Grant To Nepal For Samriddhi Ð Rural Enterprises And Remittances Project</td><td>2015</td><td>8754</td><td>746</td><td>26</td><td>./cache/IF7.pdf</td><td>./txt/IF7.txt</td></tr>
+<tr><td>IF8</td><td>IFAD</td><td>Proposed Loan And Grant To The Argentine Republic For The Goat Value Chain Development Programme</td><td>2016</td><td>8069</td><td>1218</td><td>23</td><td>./cache/IF8.pdf</td><td>./txt/IF8.txt</td></tr>
+<tr><td>IF9</td><td>IFAD</td><td>Proposed Loan And Grant To The Cooperative Republic Of Guyana For The Hinterland Environmentally Sustainable Agricultural Development Project</td><td>2016</td><td>9725</td><td>879</td><td>25</td><td>./cache/IF9.pdf</td><td>./txt/IF9.txt</td></tr>
+<tr><td>IF10</td><td>IFAD</td><td>Proposed Grant To The Lao Peopleõs Democratic Republic Strategic Support For Food Security And Nutrition Project Ð Global Agriculture And Food Security Program (gafsp) Funds</td><td>2016</td><td>8928</td><td>877</td><td>25</td><td>./cache/IF10.pdf</td><td>./txt/IF10.txt</td></tr>
+<tr><td>IF11</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of Uzbekistan For The Agriculture Diversification And Modernization Project</td><td>2017</td><td>10186</td><td>955</td><td>26</td><td>./cache/IF11.pdf</td><td>./txt/IF11.txt</td></tr>
+<tr><td>IF12</td><td>IFAD</td><td>Proposed Loan And Grant To The Kingdom Of Tonga For The Tonga Rural Innovation Project Ð Phase Ii (trip Ii)</td><td>2018</td><td>8995</td><td>896</td><td>25</td><td>./cache/IF12.pdf</td><td>./txt/IF12.txt</td></tr>
+<tr><td>IF15</td><td>IFAD</td><td>Presidentõs Report On A Proposed Loan And Grant To The Lebanese Republic For Harmonized Actions To Enhance Livestock Production And Processing</td><td>2017</td><td>8566</td><td>792</td><td>24</td><td>./cache/IF15.pdf</td><td>./txt/IF15.txt</td></tr>
+<tr><td>IF16</td><td>IFAD</td><td>Proposed Loan And Grant Under The Debt Sustainability Framework To The Togolese Republic For The Shared-risk Agricultural Financing Incentive Mechanism Support Project</td><td>2018</td><td>11130</td><td>1489</td><td>34</td><td>./cache/IF16.pdf</td><td>./txt/IF16.txt</td></tr>
+<tr><td>IF17</td><td>IFAD</td><td>Proposed Loan And Debt Sustainability Framework Grant To The Republic Of Sierra Leone For The Agricultural Value Chain Development Project</td><td>2018</td><td>9203</td><td>949</td><td>26</td><td>./cache/IF17.pdf</td><td>./txt/IF17.txt</td></tr>
+<tr><td>IF18</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of Liberia For The Tree Crops Extension Project Ii</td><td>2018</td><td>8423</td><td>830</td><td>23</td><td>./cache/IF18.pdf</td><td>./txt/IF18.txt</td></tr>
+<tr><td>IF19</td><td>IFAD</td><td>Proposed Loan And Debt Sustainability Framework Grant To The Republic Of The Niger For The Family Farming Development Programme In The Diffa Region</td><td>2018</td><td>10199</td><td>1473</td><td>30</td><td>./cache/IF19.pdf</td><td>./txt/IF19.txt</td></tr>
+<tr><td>IF20</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of Benin For The Agricultural Development And Market Access Support Project</td><td>2018</td><td>10446</td><td>1437</td><td>28</td><td>./cache/IF20.pdf</td><td>./txt/IF20.txt</td></tr>
+<tr><td>IF21</td><td>IFAD</td><td>Proposed Loan And Grant To The Republic Of The Union Of Myanmar For The Western States Agribusiness Project</td><td>2018</td><td>8747</td><td>890</td><td>25</td><td>./cache/IF21.pdf</td><td>./txt/IF21.txt</td></tr>
+<tr><td>IF22</td><td>IFAD</td><td>Proposal For A Grant To The Central African Republic For The Project To Revitalize Crop And Livestock Production In The Savannah</td><td>2018</td><td>9877</td><td>1455</td><td>26</td><td>./cache/IF22.pdf</td><td>./txt/IF22.txt</td></tr>
+<tr><td>IF23</td><td>IFAD</td><td>Proposal For A Loan To The Republic Of Gabon For The Agricultural And Rural Development Project Ð Phase Ii</td><td>2018</td><td>9456</td><td>1341</td><td>26</td><td>./cache/IF23.pdf</td><td>./txt/IF23.txt</td></tr>
+<tr><td>IF24</td><td>IFAD</td><td>Proposal For A Loan And Grant To The Republic Of Senegal For The Support To Agricultural Development And Rural Entrepreneurship Programme _ Phase Ii</td><td>2018</td><td>8158</td><td>1149</td><td>23</td><td>./cache/IF24.pdf</td><td>./txt/IF24.txt</td></tr>
+<tr><td>WB1</td><td>World Bank</td><td>Additional Financing To Rural Development Program Ii</td><td>2019</td><td>4689</td><td>571</td><td>14</td><td>./cache/WB1.pdf</td><td>./txt/WB1.txt</td></tr>
+<tr><td>WB2</td><td>World Bank</td><td>Second Additional Financing For The Rural Community Development And Water Mobilization Project (prodermo)</td><td>2016</td><td>2415</td><td>261</td><td>8</td><td>./cache/WB2.pdf</td><td>./txt/WB2.txt</td></tr>
+<tr><td>WB3</td><td>World Bank</td><td>Integrated Dairy Productivity Improvement Project</td><td>2016</td><td>2729</td><td>424</td><td>7</td><td>./cache/WB3.pdf</td><td>./txt/WB3.txt</td></tr>
+<tr><td>WB4</td><td>World Bank</td><td>Oecs Regional Agriculture Competitiveness Project</td><td>2017</td><td>9247</td><td>624</td><td>23</td><td>./cache/WB4.pdf</td><td>./txt/WB4.txt</td></tr>
+<tr><td>WB5</td><td>World Bank</td><td>Sierra Leone Agro- Processing Competitiveness Project</td><td>2017</td><td>2482</td><td>337</td><td>8</td><td>./cache/WB5.pdf</td><td>./txt/WB5.txt</td></tr>
+<tr><td>WB6</td><td>World Bank</td><td>Lesotho Smallholder Agriculture Development Project Additional Financing</td><td>2017</td><td>5284</td><td>446</td><td>13</td><td>./cache/WB6.pdf</td><td>./txt/WB6.txt</td></tr>
+<tr><td>WB7</td><td>World Bank</td><td>Moldova Agriculture Competitiveness Project Additional Financing</td><td>2015</td><td>2256</td><td>232</td><td>6</td><td>./cache/WB7.pdf</td><td>./txt/WB7.txt</td></tr>
+<tr><td>WB8</td><td>World Bank</td><td>Second Private Sector Competitiveness & Economic Diversification</td><td>2017</td><td>4474</td><td>435</td><td>12</td><td>./cache/WB8.pdf</td><td>./txt/WB8.txt</td></tr>
+<tr><td>WB9</td><td>World Bank</td><td>Resilient Productive Landscapes In Haiti</td><td>2017</td><td>14764</td><td>938</td><td>33</td><td>./cache/WB9.pdf</td><td>./txt/WB9.txt</td></tr>
+<tr><td>WB10</td><td>World Bank</td><td>Benin Second Fiscal Reform And Growth Dpf</td><td>2018</td><td>2853</td><td>218</td><td>8</td><td>./cache/WB10.pdf</td><td>./txt/WB10.txt</td></tr>
+<tr><td>WB11</td><td>World Bank</td><td>Guinea Bissau Emergency Food Security Project</td><td>2020</td><td>3861</td><td>319</td><td>10</td><td>./cache/WB11.pdf</td><td>./txt/WB11.txt</td></tr>
+<tr><td>WB12</td><td>World Bank</td><td>Zambia Integrated Forest Landscape Project</td><td>2017</td><td>6363</td><td>510</td><td>18</td><td>./cache/WB12.pdf</td><td>./txt/WB12.txt</td></tr>
+<tr><td>WB13</td><td>World Bank</td><td>Sustainable Fisheries Resources Development Project (fourth South West Indian Ocean Fisheries Governance And Shared Growth Project)</td><td>2017</td><td>8875</td><td>939</td><td>18</td><td>./cache/WB13.pdf</td><td>./txt/WB13.txt</td></tr>
+<tr><td>WB14</td><td>World Bank</td><td>Samoa Agriculture & Fisheries Productivity And Marketing Project (safprom)</td><td>2018</td><td>4981</td><td>389</td><td>13</td><td>./cache/WB14.pdf</td><td>./txt/WB14.txt</td></tr>
+<tr><td>WB15</td><td>World Bank</td><td>Afghanistan Strategic Grain Reserve ( Sgr Project )</td><td>2017</td><td>8361</td><td>583</td><td>21</td><td>./cache/WB15.pdf</td><td>./txt/WB15.txt</td></tr>
+<tr><td>WB16</td><td>World Bank</td><td>Lake Victoria Environmental Management Project Additional Financing</td><td>2015</td><td>2242</td><td>260</td><td>6</td><td>./cache/WB16.pdf</td><td>./txt/WB16.txt</td></tr>
+<tr><td>WB17</td><td>World Bank</td><td>Kosovo Agriculture And Rural Development Project - Third Additional Financing</td><td>2017</td><td>5781</td><td>517</td><td>14</td><td>./cache/WB17.pdf</td><td>./txt/WB17.txt</td></tr>
+<tr><td>WB18</td><td>World Bank</td><td>Lao Agriculture Commercialization Project</td><td>2017</td><td>4276</td><td>356</td><td>12</td><td>./cache/WB18.pdf</td><td>./txt/WB18.txt</td></tr>
+<tr><td>WB19</td><td>World Bank</td><td>Women''s Economic Empowerment Rural Development Project</td><td>2018</td><td>7934</td><td>560</td><td>18</td><td>./cache/WB19.pdf</td><td>./txt/WB19.txt</td></tr>
+<tr><td>WB20</td><td>World Bank</td><td>Moldova Climate Adaptation Project</td><td>2017</td><td>7043</td><td>453</td><td>16</td><td>./cache/WB20.pdf</td><td>./txt/WB20.txt</td></tr>
+<tr><td>WB21</td><td>World Bank</td><td>Moldova Economic Governance Development Policy Operation</td><td>2017</td><td>1101</td><td>153</td><td>5</td><td>./cache/WB21.pdf</td><td>./txt/WB21.txt</td></tr>
+<tr><td>WB22</td><td>World Bank</td><td>Montenegro Second Institutional Development And Agriculture Strengthening Project</td><td>2017</td><td>7188</td><td>493</td><td>18</td><td>./cache/WB22.pdf</td><td>./txt/WB22.txt</td></tr>
+<tr><td>WB23</td><td>World Bank</td><td>Relaunching Agriculture: Strengthening Agriculture Public Services Ii Project - Additional Financing</td><td>2017</td><td>8724</td><td>636</td><td>22</td><td>./cache/WB23.pdf</td><td>./txt/WB23.txt</td></tr>
+<tr><td>WB24</td><td>World Bank</td><td>Benin - First Fiscal Reform And Growth Operation</td><td>2017</td><td>1926</td><td>172</td><td>5</td><td>./cache/WB24.pdf</td><td>./txt/WB24.txt</td></tr>
+<tr><td>WB25</td><td>World Bank</td><td>Guinea Integrated Agricultural Development Project (giadp/pdaig)</td><td>2018</td><td>7684</td><td>544</td><td>16</td><td>./cache/WB25.pdf</td><td>./txt/WB25.txt</td></tr>
+<tr><td>WB26</td><td>World Bank</td><td>Png Agriculture Commercialization And Diversification Project</td><td>2018</td><td>5645</td><td>443</td><td>14</td><td>./cache/WB26.pdf</td><td>./txt/WB26.txt</td></tr>
+<tr><td>WB27</td><td>World Bank</td><td>Jamaica Rural Economic Development Initiative- Second Phase</td><td>2018</td><td>5664</td><td>499</td><td>16</td><td>./cache/WB27.pdf</td><td>./txt/WB27.txt</td></tr>
+<tr><td>WB28</td><td>World Bank</td><td>Chad Ð Climate Resilient Agriculture And Productivity Enhancement Project</td><td>2018</td><td>6849</td><td>529</td><td>18</td><td>./cache/WB28.pdf</td><td>./txt/WB28.txt</td></tr>
+<tr><td>WB29</td><td>World Bank</td><td>Agricultural Productivity And Diversification Additional Financing</td><td>2017</td><td>4474</td><td>470</td><td>11</td><td>./cache/WB29.pdf</td><td>./txt/WB29.txt</td></tr>
+<tr><td>WB30</td><td>World Bank</td><td>Second Development Policy Operation</td><td>2016</td><td>2854</td><td>214</td><td>6</td><td>./cache/WB30.pdf</td><td>./txt/WB30.txt</td></tr>
+<tr><td>WB31</td><td>World Bank</td><td>Transformation Of Agriculture Sector Program Phase 3 Additional Financing</td><td>2016</td><td>3458</td><td>301</td><td>8</td><td>./cache/WB31.pdf</td><td>./txt/WB31.txt</td></tr>
+<tr><td>WB32</td><td>World Bank</td><td>Regional And Local Roads Connectivity</td><td>2018</td><td>7011</td><td>526</td><td>17</td><td>./cache/WB32.pdf</td><td>./txt/WB32.txt</td></tr>
+<tr><td>WB33</td><td>World Bank</td><td>Chad Skills Development For Youth Employability Project</td><td>2019</td><td>9504</td><td>713</td><td>23</td><td>./cache/WB33.pdf</td><td>./txt/WB33.txt</td></tr>
+<tr><td>WB34</td><td>World Bank</td><td>Agricultural Productivity Program For Southern Africa - Angola & Lesotho</td><td>2018</td><td>4734</td><td>363</td><td>13</td><td>./cache/WB34.pdf</td><td>./txt/WB34.txt</td></tr>
+<tr><td>WB35</td><td>World Bank</td><td>Second Phase Smallholder Agriculture Development Project</td><td>2019</td><td>7962</td><td>600</td><td>20</td><td>./cache/WB35.pdf</td><td>./txt/WB35.txt</td></tr>
+<tr><td>WB36</td><td>World Bank</td><td>Serbia: Competitive Agriculture Project</td><td>2019</td><td>6745</td><td>429</td><td>13</td><td>./cache/WB36.pdf</td><td>./txt/WB36.txt</td></tr>
+<tr><td>WB37</td><td>World Bank</td><td>Burundi Coffee Sector Competitiveness Support Project</td><td>2015</td><td>6121</td><td>660</td><td>12</td><td>./cache/WB37.pdf</td><td>./txt/WB37.txt</td></tr>
+<tr><td>WB38</td><td>World Bank</td><td>Lake Qaraoun Pollution Prevention Project</td><td>2015</td><td>2613</td><td>398</td><td>6</td><td>./cache/WB38.pdf</td><td>./txt/WB38.txt</td></tr>
+<tr><td>WB39</td><td>World Bank</td><td>Smallholder Irrigated Agriculture And Market Access Project</td><td>2018</td><td>10592</td><td>720</td><td>24</td><td>./cache/WB39.pdf</td><td>./txt/WB39.txt</td></tr>
+<tr><td>WB40</td><td>World Bank</td><td>Liberia: Rural Economic Transformation Project</td><td>2021</td><td>8584</td><td>545</td><td>18</td><td>./cache/WB40.pdf</td><td>./txt/WB40.txt</td></tr>
+<tr><td>WB41</td><td>World Bank</td><td>Forests And Communities</td><td>2015</td><td>2902</td><td>431</td><td>7</td><td>./cache/WB41.pdf</td><td>./txt/WB41.txt</td></tr>
+<tr><td>WB42</td><td>World Bank</td><td>Accelerating Impacts Of Cgiar Climate Research For Africa</td><td>2020</td><td>5085</td><td>344</td><td>11</td><td>./cache/WB42.pdf</td><td>./txt/WB42.txt</td></tr>
+<tr><td>WB43</td><td>World Bank</td><td>First Programmatic Economic Recovery And Resilience Grant</td><td>2018</td><td>3321</td><td>255</td><td>7</td><td>./cache/WB43.pdf</td><td>./txt/WB43.txt</td></tr>
+<tr><td>WB44</td><td>World Bank</td><td>Modernization Of Rani Jamara Kulariya Irrigation Scheme</td><td>2017</td><td>6024</td><td>816</td><td>19</td><td>./cache/WB44.pdf</td><td>./txt/WB44.txt</td></tr>
+<tr><td>WB45</td><td>World Bank</td><td>Additional Financing For West Africa Agricultural Productivity Program</td><td>2016</td><td>3995</td><td>422</td><td>11</td><td>./cache/WB45.pdf</td><td>./txt/WB45.txt</td></tr>
+<tr><td>WB46</td><td>World Bank</td><td>Smallholder Agriculture Development And Commercialization Project</td><td>2015</td><td>5084</td><td>608</td><td>11</td><td>./cache/WB46.pdf</td><td>./txt/WB46.txt</td></tr>
+<tr><td>WB47</td><td>World Bank</td><td>Digital Solutions For Sustainable Development</td><td>2017</td><td>7846</td><td>561</td><td>17</td><td>./cache/WB47.pdf</td><td>./txt/WB47.txt</td></tr>
+<tr><td>WB48</td><td>World Bank</td><td>Southern Agricultural Growth Corridor Of Tanzania Investment Project</td><td>2016</td><td>2534</td><td>391</td><td>6</td><td>./cache/WB48.pdf</td><td>./txt/WB48.txt</td></tr>
+<tr><td>WB49</td><td>World Bank</td><td>Drc Agriculture Rehabilitation And Recovery Af</td><td>2017</td><td>5127</td><td>509</td><td>13</td><td>./cache/WB49.pdf</td><td>./txt/WB49.txt</td></tr>
+<tr><td>WB50</td><td>World Bank</td><td>Benin: Gazetted Forests Management Project</td><td>2019</td><td>4105</td><td>421</td><td>13</td><td>./cache/WB50.pdf</td><td>./txt/WB50.txt</td></tr>
+<tr><td>WB51</td><td>World Bank</td><td>Integrating Innovation For Rural Competitiveness In Honduras</td><td>2019</td><td>5644</td><td>402</td><td>15</td><td>./cache/WB51.pdf</td><td>./txt/WB51.txt</td></tr>
+<tr><td>WB52</td><td>World Bank</td><td>Ecuador - Sustainable Family Farming Modernization Project</td><td>2015</td><td>3267</td><td>481</td><td>8</td><td>./cache/WB52.pdf</td><td>./txt/WB52.txt</td></tr>
+<tr><td>WB53</td><td>World Bank</td><td>Niger Refugees And Host Communities Support Project</td><td>2018</td><td>4189</td><td>360</td><td>12</td><td>./cache/WB53.pdf</td><td>./txt/WB53.txt</td></tr>
+<tr><td>WB54</td><td>World Bank</td><td>Integrated Project For Source Sustainability And Climate Resilient Rain-fed Agriculture In Himachal Pradesh</td><td>2020</td><td>6891</td><td>473</td><td>16</td><td>./cache/WB54.pdf</td><td>./txt/WB54.txt</td></tr>
+<tr><td>WB55</td><td>World Bank</td><td>National Agricultural Higher Education Project</td><td>2015</td><td>2934</td><td>418</td><td>7</td><td>./cache/WB55.pdf</td><td>./txt/WB55.txt</td></tr>
+<tr><td>WB56</td><td>World Bank</td><td>Land Allocation For Social And Economic Development Project Iii</td><td>2020</td><td>3623</td><td>286</td><td>10</td><td>./cache/WB56.pdf</td><td>./txt/WB56.txt</td></tr>
+<tr><td>WB57</td><td>World Bank</td><td>Land Bank Financial Intermediation Loan</td><td>2017</td><td>4741</td><td>329</td><td>10</td><td>./cache/WB57.pdf</td><td>./txt/WB57.txt</td></tr>
+<tr><td>WB58</td><td>World Bank</td><td>Guangxi Rural Poverty Alleviation Pilot Project</td><td>2015</td><td>1804</td><td>330</td><td>5</td><td>./cache/WB58.pdf</td><td>./txt/WB58.txt</td></tr>
+<tr><td>WB59</td><td>World Bank</td><td>Additional Finance Bo Rural Alliances Project Ii</td><td>2017</td><td>5306</td><td>504</td><td>14</td><td>./cache/WB59.pdf</td><td>./txt/WB59.txt</td></tr>
+<tr><td>WB60</td><td>World Bank</td><td>Congo Commercial Agriculture Project</td><td>2017</td><td>9565</td><td>751</td><td>25</td><td>./cache/WB60.pdf</td><td>./txt/WB60.txt</td></tr>
+<tr><td>WB61</td><td>World Bank</td><td>Transformation Of Agriculture Sector Program 4 Pforr</td><td>2018</td><td>8750</td><td>898</td><td>20</td><td>./cache/WB61.pdf</td><td>./txt/WB61.txt</td></tr>
+<tr><td>WB62</td><td>World Bank</td><td>Agricultural Development Support Project</td><td>2015</td><td>2426</td><td>363</td><td>6</td><td>./cache/WB62.pdf</td><td>./txt/WB62.txt</td></tr>
+<tr><td>WB63</td><td>World Bank</td><td>Second Northern Mountains Poverty Reduction Project Additional Financing</td><td>2016</td><td>2015</td><td>237</td><td>6</td><td>./cache/WB63.pdf</td><td>./txt/WB63.txt</td></tr>
+<tr><td>WB64</td><td>World Bank</td><td>Ethiopia Resilient Landscapes And Livelihoods Project</td><td>2018</td><td>5684</td><td>430</td><td>16</td><td>./cache/WB64.pdf</td><td>./txt/WB64.txt</td></tr>
+<tr><td>WB65</td><td>World Bank</td><td>Kenya Marine Fisheries And Socio-economic Development Project</td><td>2018</td><td>4821</td><td>401</td><td>13</td><td>./cache/WB65.pdf</td><td>./txt/WB65.txt</td></tr>
+<tr><td>WB66</td><td>World Bank</td><td>Yemen Food Security Response And Resilience Project</td><td>2021</td><td>10652</td><td>706</td><td>22</td><td>./cache/WB66.pdf</td><td>./txt/WB66.txt</td></tr>
+<tr><td>WB67</td><td>World Bank</td><td>Ghana Productive Safety Net Project 2</td><td>2021</td><td>4569</td><td>381</td><td>12</td><td>./cache/WB67.pdf</td><td>./txt/WB67.txt</td></tr>
+<tr><td>WB68</td><td>World Bank</td><td>Niger - Agricultural And Livestock Transformation Project</td><td>2018</td><td>7755</td><td>531</td><td>18</td><td>./cache/WB68.pdf</td><td>./txt/WB68.txt</td></tr>
+<tr><td>WB69</td><td>World Bank</td><td>Transforming Landscapes For Resilience And Development In Zambia</td><td>2019</td><td>6393</td><td>470</td><td>16</td><td>./cache/WB69.pdf</td><td>./txt/WB69.txt</td></tr>
+<tr><td>WB70</td><td>World Bank</td><td>Productive Alliances Project</td><td>2019</td><td>4770</td><td>338</td><td>12</td><td>./cache/WB70.pdf</td><td>./txt/WB70.txt</td></tr>
+<tr><td>WB71</td><td>World Bank</td><td>Chad Second Programmatic Economic Recovery And Resilience Grant</td><td>2019</td><td>2118</td><td>196</td><td>6</td><td>./cache/WB71.pdf</td><td>./txt/WB71.txt</td></tr>
+<tr><td>WB72</td><td>World Bank</td><td>Eastern Ukraine: Reconnect, Recover, Revitalize</td><td>2020</td><td>4733</td><td>390</td><td>11</td><td>./cache/WB72.pdf</td><td>./txt/WB72.txt</td></tr>
+<tr><td>WB73</td><td>World Bank</td><td>Burkina Faso Covid-19 Emergency Dpo</td><td>2020</td><td>1401</td><td>171</td><td>5</td><td>./cache/WB73.pdf</td><td>./txt/WB73.txt</td></tr>
+<tr><td>WB74</td><td>World Bank</td><td>Regional Disease Surveillance Systems Enhancement</td><td>2016</td><td>2757</td><td>348</td><td>7</td><td>./cache/WB74.pdf</td><td>./txt/WB74.txt</td></tr>
+<tr><td>WB75</td><td>World Bank</td><td>Second Fostering Rural Reform Grant</td><td>2018</td><td>1788</td><td>191</td><td>5</td><td>./cache/WB75.pdf</td><td>./txt/WB75.txt</td></tr>
+<tr><td>WB76</td><td>World Bank</td><td>Fostering Rural Reform Grant</td><td>2018</td><td>2203</td><td>217</td><td>6</td><td>./cache/WB76.pdf</td><td>./txt/WB76.txt</td></tr>
+<tr><td>WB77</td><td>World Bank</td><td>Sri Lanka Agriculture Sector Modernization Project</td><td>2016</td><td>8309</td><td>964</td><td>18</td><td>./cache/WB77.pdf</td><td>./txt/WB77.txt</td></tr>
+<tr><td>WB78</td><td>World Bank</td><td>Climate Smart Irrigated Agriculture Project</td><td>2018</td><td>8285</td><td>568</td><td>20</td><td>./cache/WB78.pdf</td><td>./txt/WB78.txt</td></tr>
+<tr><td>WB79</td><td>World Bank</td><td>Additional Financing For Punjab Irrigated Agriculture Productivity Program Phase-1</td><td>2017</td><td>3275</td><td>370</td><td>10</td><td>./cache/WB79.pdf</td><td>./txt/WB79.txt</td></tr>
+<tr><td>WB80</td><td>World Bank</td><td>Angola: Commercial Agriculture Development Project</td><td>2017</td><td>9340</td><td>1048</td><td>19</td><td>./cache/WB80.pdf</td><td>./txt/WB80.txt</td></tr>
+<tr><td>WB81</td><td>World Bank</td><td>Turkey Resilient Landscape Integration Project (tulip)</td><td>2020</td><td>6976</td><td>524</td><td>15</td><td>./cache/WB81.pdf</td><td>./txt/WB81.txt</td></tr>
+<tr><td>WB82</td><td>World Bank</td><td>Tanzania: Resilient Natural Resource Management For Tourism And Growth</td><td>2017</td><td>4067</td><td>361</td><td>9</td><td>./cache/WB82.pdf</td><td>./txt/WB82.txt</td></tr>
+<tr><td>WB83</td><td>World Bank</td><td>Ma-large Scale Irrigation Modernization Project</td><td>2015</td><td>3049</td><td>420</td><td>7</td><td>./cache/WB83.pdf</td><td>./txt/WB83.txt</td></tr>
+<tr><td>WB84</td><td>World Bank</td><td>Poyang Lake Basin Town Water Environment Management Project</td><td>2017</td><td>5253</td><td>531</td><td>11</td><td>./cache/WB84.pdf</td><td>./txt/WB84.txt</td></tr>
+<tr><td>WB85</td><td>World Bank</td><td>Integrated Management Of Agricultural Risk</td><td>2017</td><td>8394</td><td>591</td><td>19</td><td>./cache/WB85.pdf</td><td>./txt/WB85.txt</td></tr>
+<tr><td>WB86</td><td>World Bank</td><td>Poverty Alleviation And Agriculture Development Demonstration In Poor Areas Project</td><td>2015</td><td>2491</td><td>368</td><td>6</td><td>./cache/WB86.pdf</td><td>./txt/WB86.txt</td></tr>
+<tr><td>WB87</td><td>World Bank</td><td>Groundnut Competitiveness And Agriculture Diversification Program For Results</td><td>2019</td><td>7956</td><td>471</td><td>15</td><td>./cache/WB87.pdf</td><td>./txt/WB87.txt</td></tr>
+<tr><td>WB88</td><td>World Bank</td><td>Responding To Covid-19: Modern And Resilient Agri-food Value Chains</td><td>2020</td><td>3537</td><td>303</td><td>10</td><td>./cache/WB88.pdf</td><td>./txt/WB88.txt</td></tr>
+<tr><td>WB89</td><td>World Bank</td><td>Malawi Resilient Productive Landscapes Project</td><td>2019</td><td>5761</td><td>427</td><td>12</td><td>./cache/WB89.pdf</td><td>./txt/WB89.txt</td></tr>
+<tr><td>WB90</td><td>World Bank</td><td>Odisha Integrated Irrigation Project For Climate Resilient Agriculture</td><td>2019</td><td>6093</td><td>452</td><td>14</td><td>./cache/WB90.pdf</td><td>./txt/WB90.txt</td></tr>
+<tr><td>WB91</td><td>World Bank</td><td>Uganda Irrigation Development And Climate Resilience Project</td><td>2019</td><td>6944</td><td>469</td><td>18</td><td>./cache/WB91.pdf</td><td>./txt/WB91.txt</td></tr>
+<tr><td>WB92</td><td>World Bank</td><td>Livestock And Fisheries Sector Development Project</td><td>2017</td><td>8617</td><td>779</td><td>19</td><td>./cache/WB92.pdf</td><td>./txt/WB92.txt</td></tr>
+<tr><td>WB93</td><td>World Bank</td><td>Lake Chad Region Recovery And Development Project</td><td>2019</td><td>10094</td><td>642</td><td>22</td><td>./cache/WB93.pdf</td><td>./txt/WB93.txt</td></tr>
+<tr><td>WB94</td><td>World Bank</td><td>Khyber Pakhthunkhwa Irrigated Agriculture Improvement Project</td><td>2019</td><td>8564</td><td>611</td><td>21</td><td>./cache/WB94.pdf</td><td>./txt/WB94.txt</td></tr>
+<tr><td>WB95</td><td>World Bank</td><td>Ap Integrated Irrigation & Agriculture Transformation Project</td><td>2019</td><td>7949</td><td>741</td><td>17</td><td>./cache/WB95.pdf</td><td>./txt/WB95.txt</td></tr>
+<tr><td>WB96</td><td>World Bank</td><td>Additional Financing For Mcrp</td><td>2020</td><td>6142</td><td>451</td><td>16</td><td>./cache/WB96.pdf</td><td>./txt/WB96.txt</td></tr>
+<tr><td>WB97</td><td>World Bank</td><td>Bangladesh Natp-2: National Agricultural Technology Program - Phase Ii</td><td>2015</td><td>3070</td><td>365</td><td>7</td><td>./cache/WB97.pdf</td><td>./txt/WB97.txt</td></tr>
+<tr><td>WB98</td><td>World Bank</td><td>Second Fiscal Reform And Growth Dpf</td><td>2018</td><td>2892</td><td>223</td><td>6</td><td>./cache/WB98.pdf</td><td>./txt/WB98.txt</td></tr>
+<tr><td>WB99</td><td>World Bank</td><td>National Agricultural And Rural Inclusive Growth Project</td><td>2016</td><td>3333</td><td>415</td><td>7</td><td>./cache/WB99.pdf</td><td>./txt/WB99.txt</td></tr>
+<tr><td>WB100</td><td>World Bank</td><td>Assam Agribusiness And Rural Transformation Project</td><td>2016</td><td>4728</td><td>553</td><td>10</td><td>./cache/WB100.pdf</td><td>./txt/WB100.txt</td></tr>
+<tr><td>WB101</td><td>World Bank</td><td>Cashew Value-chain Competitiveness Project</td><td>2017</td><td>12344</td><td>897</td><td>19</td><td>./cache/WB101.pdf</td><td>./txt/WB101.txt</td></tr>
+<tr><td>WB102</td><td>World Bank</td><td>Nigeria Staple Crop Processing Zones Support Project</td><td>2017</td><td>3628</td><td>440</td><td>8</td><td>./cache/WB102.pdf</td><td>./txt/WB102.txt</td></tr>
+<tr><td>WB103</td><td>World Bank</td><td>Myanmar National Food And Agriculture Systems Project</td><td>2019</td><td>6223</td><td>462</td><td>16</td><td>./cache/WB103.pdf</td><td>./txt/WB103.txt</td></tr>
+<tr><td>WB104</td><td>World Bank</td><td>Valorization Of Investments In The Valley Of The Benue</td><td>2019</td><td>11382</td><td>712</td><td>25</td><td>./cache/WB104.pdf</td><td>./txt/WB104.txt</td></tr>
+<tr><td>WB105</td><td>World Bank</td><td>Burkina Faso Agriculture Resilience And Competitiveness Project</td><td>2019</td><td>12190</td><td>819</td><td>27</td><td>./cache/WB105.pdf</td><td>./txt/WB105.txt</td></tr>
+<tr><td>WB106</td><td>World Bank</td><td>State Of Maharashtra''s Agribusiness And Rural Transformation Project</td><td>2019</td><td>4409</td><td>337</td><td>11</td><td>./cache/WB106.pdf</td><td>./txt/WB106.txt</td></tr>
+<tr><td>WB107</td><td>World Bank</td><td>Kenya Climate Smart Agriculture Project</td><td>2017</td><td>9084</td><td>1025</td><td>18</td><td>./cache/WB107.pdf</td><td>./txt/WB107.txt</td></tr>
+<tr><td>WB108</td><td>World Bank</td><td>Additional Financing To National Rural Economic Transformation Project</td><td>2018</td><td>5495</td><td>535</td><td>16</td><td>./cache/WB108.pdf</td><td>./txt/WB108.txt</td></tr>
+<tr><td>WB109</td><td>World Bank</td><td>Morocco Digital And Climate Smart Agriculture Program</td><td>2020</td><td>4484</td><td>356</td><td>10</td><td>./cache/WB109.pdf</td><td>./txt/WB109.txt</td></tr>
+<tr><td>WB110</td><td>World Bank</td><td>Strengthening Markets For Agriculture And Rural Transformation In Punjab</td><td>2017</td><td>7312</td><td>566</td><td>16</td><td>./cache/WB110.pdf</td><td>./txt/WB110.txt</td></tr>
+<tr><td>WB111</td><td>World Bank</td><td>Henan Green Agriculture Finance Fund</td><td>2020</td><td>3440</td><td>256</td><td>9</td><td>./cache/WB111.pdf</td><td>./txt/WB111.txt</td></tr>
+<tr><td>WB112</td><td>World Bank</td><td>Tamil Nadu Irrigated Agriculture Modernization Project</td><td>2017</td><td>4569</td><td>602</td><td>11</td><td>./cache/WB112.pdf</td><td>./txt/WB112.txt</td></tr>
+<tr><td>WB113</td><td>World Bank</td><td>Second Agricultural Growth Project</td><td>2015</td><td>4322</td><td>521</td><td>9</td><td>./cache/WB113.pdf</td><td>./txt/WB113.txt</td></tr>
+<tr><td>WB114</td><td>World Bank</td><td>Livelihoods Resilience And Commercialization Project (lrcp) In Pastoral And Agro- Pastoral Areas</td><td>2019</td><td>2700</td><td>288</td><td>10</td><td>./cache/WB114.pdf</td><td>./txt/WB114.txt</td></tr>
+<tr><td>WB115</td><td>World Bank</td><td>Guangxi Poverty Reduction Program For Results</td><td>2018</td><td>3464</td><td>389</td><td>9</td><td>./cache/WB115.pdf</td><td>./txt/WB115.txt</td></tr>
+<tr><td>WB116</td><td>World Bank</td><td>Colombia Institutional Strengthening For Territorial Development Dpf</td><td>2020</td><td>1377</td><td>148</td><td>5</td><td>./cache/WB116.pdf</td><td>./txt/WB116.txt</td></tr>
+<tr><td>WB117</td><td>World Bank</td><td>Uy - Covid-19 Response & Economic Recovery</td><td>2020</td><td>3084</td><td>241</td><td>8</td><td>./cache/WB117.pdf</td><td>./txt/WB117.txt</td></tr>
+<tr><td>WB118</td><td>World Bank</td><td>Maharashtra Project On Climate Resilient Agriculture</td><td>2017</td><td>9038</td><td>535</td><td>19</td><td>./cache/WB118.pdf</td><td>./txt/WB118.txt</td></tr>
+<tr><td>WB119</td><td>World Bank</td><td>Agriculture Modernization And Competitiveness Project</td><td>2019</td><td>5562</td><td>374</td><td>12</td><td>./cache/WB119.pdf</td><td>./txt/WB119.txt</td></tr>
+<tr><td>WB120</td><td>World Bank</td><td>Additional Financing - Horticulture Development Project</td><td>2018</td><td>5834</td><td>463</td><td>15</td><td>./cache/WB120.pdf</td><td>./txt/WB120.txt</td></tr>
+<tr><td>WB121</td><td>World Bank</td><td>Enhancing Shared Prosperity Through Equitable Services</td><td>2017</td><td>2206</td><td>215</td><td>6</td><td>./cache/WB121.pdf</td><td>./txt/WB121.txt</td></tr>
+<tr><td>WB122</td><td>World Bank</td><td>Nigeria: Covid-19 Action Recovery And Economic Stimulus</td><td>2020</td><td>4599</td><td>341</td><td>11</td><td>./cache/WB122.pdf</td><td>./txt/WB122.txt</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

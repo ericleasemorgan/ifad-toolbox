@@ -1,0 +1,2622 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+PARAGUAY 
+
+ 
+
+ 
+
+ 
+
+PROJECT TO IMPROVE AND EXPAND ANIMAL HEALTH SERVICES IN 
+PARAGUAY  
+
+(PR-L1148) 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+
+This document was prepared by the project team consisting of: Alvaro García Negro 
+(RND/CPR) Project Team Leader; Gonzalo Muñoz (CSD/RND) Project Team Co-leader; 
+Viviana Alva Hart (RND/CAR); Héctor Valdés Conroy (CSD/RND); Ana Rios Galvez 
+(CSD/RND); Fernando Glasman (VPC/FMP); Jorge Luis González (VPC/FMP); Milagros 
+Aime (VPS/ESG); Carolina Vera (CSC/CPR); Rodolfo Graham (LEG/SGO); Jennifer Doherty 
+Bigara (CSD/CCS); and Yolanda Valle (CSD/RND). 
+
+ 
+
+This document is being released to the public and distributed to the Bank’s Board of Executive Directors 
+simultaneously. This document has not been approved by the Board. Should the Board approve the 
+document with amendments, a revised version will be made available to the public, thus superseding 
+and replacing the original version. 
+
+ 
+
+
+
+ 
+
+CONTENTS 
+
+PROJECT SUMMARY 
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING ................................................. 1 
+
+A. Background, problem, and rationale ............................................................. 1 
+B. Objectives, components, and cost ................................................................ 8 
+C. Key results indicators ................................................................................. 10 
+
+II. FINANCING STRUCTURE AND MAIN RISKS ............................................................... 11 
+
+A. Financing instruments ................................................................................ 11 
+B. Environmental and social risks ................................................................... 11 
+C. Fiduciary risks ............................................................................................ 12 
+D. Other project risks ...................................................................................... 12 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 12 
+
+A. Summary of implementation arrangements ................................................ 12 
+B. Summary of arrangements for monitoring results ....................................... 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIXES 
+
+Proposed resolution 
+ 
+
+  
+
+
+
+ - ii - 
+ 
+ 
+
+ANNEXES 
+
+PRINTED ANNEXES 
+
+Annex I Summary Development Effectiveness Matrix (DEM) 
+
+Annex II Results matrix 
+
+Annex III Fiduciary Agreements and Requirements 
+
+ 
+
+ELECTRONIC LINKS 
+
+REQUIRED  
+
+1. Multiyear Execution Plan and annual work plan (AWP) 
+
+2. Monitoring and Evaluation Plan 
+
+3. Environmental and Social Management Report (ESMR) 
+
+4. Procurement Plan  
+
+OPTIONAL  
+
+1. Bibliography 
+
+2. Economic analysis of the project 
+
+3. Institutional Capacity Assessment System (ICAS)  
+
+4. Program Operating Regulations  
+
+5. Contribution to actions against climate change 
+
+6. SENACSA user survey and demand study 
+
+7. Animal health diagnostic study for SENACSA  
+
+8. Environmental and Social Analysis and Environmental and Social Management Plan 
+
+9. Public consultation report  
+
+ 
+  
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-22
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-23
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-25
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-22
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-24
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-18
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-20
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-19
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-17
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/15%20LifeCycle%20Milestones/Draft%20Area/POD%20-%20Enlace%20opcional%20-%20Estudio%20de%20Demanda%20SENACSA%20-%20PR-L1148.pdf
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/15%20LifeCycle%20Milestones/Draft%20Area/POD%20-%20Enlace%20opcional%20-%20Diagn%C3%B3stico%20Sanidad%20Animal%20SENACSA%20-%20PR-L1148.docx?d=w26f4b22bde8240db8f607175c8775d30
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1327205104-7
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1327205104-8
+
+
+ - iii - 
+ 
+ 
+
+ABBREVIATIONS 
+
+BCP Central Bank of Paraguay 
+CSF Classical Swine Fever 
+CVP Permanent Veterinary Committee of the Southern Cone 
+DIGEAF Bureau of Administration and Finance 
+ESMP Environmental and Social Management Plan 
+FMD Foot-and-Mouth Disease 
+GDP Gross domestic product 
+GEF Global Environmental Facility 
+ICAS Institutional Capacity Assessment System 
+IICA Inter-American Institute for Cooperation on Agriculture 
+IRR Internal rate of return 
+LIBOR London Interbank Offered Rate 
+NPV Net present value 
+OIE World Organisation for Animal Health 
+OVE Office of Evaluation and Oversight 
+PEU Program Execution Unit 
+PMU Project Management Unit 
+PPP Public-Private Partnership 
+PVS Performance of Veterinary Services 
+QCBS Quality- and Cost-Based Selection 
+SCSP Public Sector Procurement System 
+SEAM Ministry of the Environment 
+SENACSA National Service for Animal Health and Quality 
+SENASICA National Service for Agri-Food Health, Safety, and Quality 
+SIAF Integrated Financial Management System  
+SIGOR Regional Office Computerized Management System 
+SISA Animal Health System 
+UNDP United Nations Development Program 
+ 
+ 
+
+
+
+ 
+ 
+
+PROJECT SUMMARY  
+PARAGUAY 
+
+PROJECT TO IMPROVE AND EXPAND ANIMAL HEALTH SERVICES IN PARAGUAY  
+(PR-L1148) 
+
+Financial terms and conditions 
+
+Borrower: National Service for Animal Health and 
+Quality (SENACSA) 
+
+Flexible Financing Facility(a) 
+
+Guarantor: Republic of Paraguay Amortization period: 24 years  
+
+Executing agency: The borrower, through the Project 
+Management Unit and with the support of the Bureau of 
+Administration and Finance  
+
+Disbursement period: 5 years 
+
+Source Amount (US$) % Grace period:  5.5 years(b) 
+
+IDB Ordinary Capital: 15,000,000 100 
+
+Interest rate: LIBOR-based 
+
+Credit fee: (c) 
+
+Inspection and supervision fee: (c) 
+
+Total: 15,000,000 100 
+
+Weighted average life: 14.75 years 
+
+Approval currency: United States dollars 
+from the Ordinary 
+Capital 
+
+Project at a Glance 
+
+Project objective/description: The program’s general objective is to help improve the productivity of the livestock sector. 
+The specific objectives are to: (i) improve the effectiveness of animal health services with a risk management approach; 
+and (ii) expand the coverage of veterinary services, including for smaller species. 
+
+Special contractual conditions precedent to the first loan disbursement: (i) the Program Execution Unit will have been 
+formed according to the terms agreed upon with the Bank; and (ii) the borrower will have presented, to the Bank’s 
+satisfaction, evidence that the program Operating Regulations have entered into force (paragraph 3.4). 
+
+Special contractual conditions for execution: The project will be executed in accordance with the contractual provisions 
+on environmental, social, health, and safety issues set forth in the legal requirements section of the Environmental and 
+Social Management Report, including Annex B.  
+
+Exceptions to Bank policies: SENACSA will be the borrower and the executing agency. The guarantee by the Republic 
+of Paraguay will be limited to SENACSA’s financial obligations in the context of the loan (including repayment of principal, 
+payment of interest, and other lending charges) and will not cover performance obligations or local counterpart 
+contributions. Accordingly, the Board of Executive Directors is being asked to approve a partial waiver of the Bank’s 
+policy on Guarantees required from the borrower (document GP-104-2) (paragraph 3.1). 
+
+Strategic Alignment 
+
+Challenges:(d) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting themes:(e) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+(a) Under the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the 
+amortization schedule, as well as currency and interest-rate conversions. The Bank will take operational and risk 
+management considerations into account when reviewing these requests. 
+
+(b) Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted 
+provided that they do not entail any extension of the original weighted average life of the loan or the last payment date 
+as documented in the loan contract.  
+
+(c) The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors 
+as part of its review of the Bank’s lending charges, in accordance with applicable policies. 
+
+(d) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(e) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional 
+
+Capacity and Rule of Law). 
+ 
+
+ 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-25
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-25
+
+
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING1 
+
+A. Background, problem, and rationale  
+
+1.1 Paraguay closed 2017 with real GDP growth of 4.3%, up from 4.1% in 2016. 
+Inflation, meanwhile, reached 4.5%, higher than the target of 4% set by the Central 
+Bank of Paraguay (BCP) for 2017, while the central government’s budget deficit was 
+1.5% of GDP, similar to the previous year. In the short and medium terms, the 
+country’s GDP is expected to grow by around 3.5% to 4.0%, and its fiscal position 
+should get stronger in line with the provisions of the Fiscal Responsibility Law. 
+
+1.2 In this context, the agricultural sector is key to the Paraguayan economy, due to its 
+contribution to GDP (an annual average of 25% in the 2004-2016 period) as well as 
+to its share of the country’s jobs (annual average of 30% during the same period). 
+Furthermore, from 2004 to 2016, the sector grew at an average annual rate of 5.7%. 
+On par with this growth, the sector’s exports have significantly increased over the 
+past decade; in 2016, they accounted for 60% of the total value of exports (BCP, 
+2017). The livestock subsector accounts for approximately 5.5% of national GDP, 
+with around 13 million head of cattle, 1.3 million pigs, and 500,000 sheep, among 
+other species (National Service for Animal Health and Quality, SENACSA, 2016). 
+Exports of animal products and byproducts totaled an annual average of 
+US$1.424 billion in the three-year period 2014-2016 and account for 16% of all 
+exports (SENACSA, 2017).2  
+
+1.3 The importance of sheep, pig, and poultry products in the domestic market should 
+also be highlighted. The majority of these products come from small family farms 
+(IICA, Paraguay Observatory, 2016). According to the 2008 National Agricultural 
+Census, there are 289,000 productive farms managing 31 million hectares of land, 
+of which 66% are dedicated to livestock activity. Of these, 92% have less than 
+50 hectares and are considered family farms.  
+
+1.4 In the past few years, Paraguayan beef production has increased significantly due 
+to growth in the cattle herd and slaughter.3 However, there are still significant 
+productivity gaps compared to other countries in the region. For example, in 
+Paraguay, the bovine calving rate4 is approximately 46%, lower than in the other 
+MERCOSUR countries, which have an average rate of 61% (SIGOR SENACSA, 
+2017). The national annual average cattle offtake rate5 is 15%, while in the other 
+countries in the region it averages 24%. Likewise, while Paraguay produces 28 kg 
+of meat per hectare per year, Brazil produces 49 kg, Argentina 34 kg, and Uruguay 
+40 kg.6 With regard to productivity rates for small livestock, in Paraguay the lambing 
+
+                                                
+1  The references presented in the document are available at optional electronic link 1. 
+2  Paraguay ranks sixth in the world among meat exporters.  
+3  SIGOR: in the last decade the cattle herd grew 40% (from 10 million to 14 million heads) and the slaughter 
+
+doubled (from 1.1 million to 2 million head of cattle).  
+4  The calving rate refers to the percentage of weaned calves.  
+5  The offtake rate is the percentage of cattle slaughtered divided by the population monitored by the official 
+
+veterinary services; it is from 2016. 
+6 EA Digital 2014 http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-
+
+sinoineficiencia-a-escala-mayor/. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-24
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+http://ea.com.py/v2/blogs/el-aumento-del-hato-ganadero-no-genera-productividad-sino-ineficiencia-a-escala-mayor/
+
+
+  - 2 - 
+
+rate is 40%; in Uruguay, it is 90%.7 Increasing productivity through technical change 
+is complex, above all when taking into account the limited return on certain new 
+technologies compared to the extensive production in areas with a relative 
+abundance of land. However, expanding the agricultural frontier also has negative 
+effects, namely, increasing deforestation.8 The main challenges for improving 
+productivity include the availability of improved adapted pastureland; improving the 
+genetic quality of the herd to increase efficiency in converting pasture to meat or 
+milk; the appropriate management of pastures and livestock; improving reproductive 
+efficiency and animal health. Furthermore, productivity is affected by the sector’s 
+vulnerability to climate change, and the livestock sector is the country’s principal 
+source of greenhouse gas emissions.9  
+
+1.5 The importance of livestock health. International empirical evidence shows that 
+animal health has significant positive effects on livestock productivity, access to 
+international markets, and consumer health, due to fewer cases of zoonotic 
+diseases.10 Globally, there is ever more concern over the sustained increase in 
+detections of new and re-emerging infectious agents. This is accompanied by 
+significant social and economic impacts on public and animal health in the affected 
+regions. The growing risks of transmission of animal diseases and exchange of 
+pests associated with trade liberalization, the movement of persons, and climate 
+change, has led to greater epidemiological risks (Globalization and Infectious 
+Diseases, 2004).  
+
+1.6 The countries in the region, immersed in this risky scenario, are increasingly 
+vulnerable, since they have the world’s largest population of animals intended for 
+commercial use (Naranjo, 2017). This new global risk scenario led the member 
+states of the World Trade Organization to sign an Agreement on the Application of 
+Sanitary and Phytosanitary Measures (WTO, 1995), whereby they commit to 
+assessing and managing the risk to ensure sanitary and phytosanitary protection.11 
+Accordingly, government veterinary services must design their sanitary strategies 
+using a risk management approach that includes the pillars of identifying and 
+reducing risks, as well as responding to sanitary emergencies.  
+
+1.7 Pursuant to the Plan of Action 2011-2020 of the Hemispheric Program for the 
+Eradication of Foot-and-Mouth Disease,12 the region of South America will move 
+toward eradicating foot-and-mouth disease (FMD), which would mean an end to 
+vaccination in the near future. This would lead to significant economic benefits by 
+making it possible for Paraguay to access markets with more stringent health 
+requirements and higher prices, but it would also increase the vulnerability of the 
+
+                                                
+7  Efecto de características maternas y del cordero sobre peso vivo al nacimiento, señalada, destete  
+
+supervivencia neonatal [Effect of maternal and lamb characteristics on live weight at birth, marking weight, 
+weaning weight, and neonatal survival] (Grasso, 2013).  
+
+8  From 2001 to 2013 pastureland in Latin America was increased by 96.9 million hectares, mostly through 
+deforestation in regions like Colombia, central Brazil, western Paraguay, northern Guatemala, and eastern 
+Nicaragua (Graesser et al., 2015). 
+
+9  Taking into account emissions from converting forest to cropland (Third National Communication from 
+Paraguay to the United Nations Framework Convention on Climate Change (SEAM/UNDP/GEF, 2017)).  
+
+10  IDB. Agriculture and Natural Resources Management Sector Framework Document (document 
+GN-2709-5).  
+
+11  World Trade Organization. https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm. 
+12  Pan American Health Organization/Pan American Foot-and-Mouth Disease Center (PAHO/PANAFTOSA, 
+
+2010). 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/15%20LifeCycle%20Milestones/Draft%20Area/POD%20-%20Enlace%20opcional%20-%20Diagn%C3%B3stico%20Sanidad%20Animal%20SENACSA%20-%20PR-L1148.docx?d=w26f4b22bde8240db8f607175c8775d30
+https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm
+
+
+  - 3 - 
+
+country’s livestock population, which would be left without vaccine protection and 
+exposed to potential reintroductions of the disease. This represents a strategic shift 
+towards a risk management perspective in the design of health services, entailing 
+major structural and organizational-operational adaptations.  
+
+1.8 The animal products market, principally in the pork and poultry production sector, is 
+also rapidly evolving towards new requirements related to the comprehensive safety 
+of the production chain, including specifications on biosecurity management, 
+real-time monitoring of hygienic-sanitary conditions, and farm-to-fork traceability, 
+etc. Keeping more than one livestock species is another risk-reduction strategy for 
+farmers, as it provides them with a broader range of options for adapting to the 
+unpredictability of the weather than if they keep only one species (Reijntjes et al., 
+1992). 
+
+1.9 Ties between animal health and climate change. Evidence exists that 
+interventions in animal health represent an important strategy for adapting to13 and 
+mitigating14 climate change, which impacts animal health through its direct and 
+indirect effects on the host-pathogen system environment. In fact, climate variability 
+and extreme climate events are important factors in predicting the occurrence of 
+diseases in animals.15 The direct effects are more pronounced in vector-transmitted 
+diseases and/or diseases affected by weather conditions such as temperature and 
+humidity.16 In turn, the indirect effects are derived from changes in biodiversity and 
+land use, as well as from animals’ efforts to adapt to the new environment.17 
+Managing health risks (which involves preventive veterinary medicine, monitoring, 
+detection, and early response) is thus key to addressing the impacts of climate 
+change on animal health.18 Therefore, in many countries, measures aimed at and 
+support for effective animal health services may be the most important and 
+necessary adaptation strategies,19 since efficient veterinary services are vital to 
+addressing the impacts of climate change on animal health.20 It is also necessary to 
+support animal health services in all countries so as to control and appropriately 
+manage transboundary diseases and the food safety problems that may be 
+exacerbated by climate change and the intensification thereof associated with 
+climate variability.21 
+
+1.10 Health risk management approach. The challenges involved in implementing new 
+trade agreements that have stricter health requirements, as well as in addressing 
+climate change scenarios, call for a new approach in health services based on 
+identifying risks, assessing their potential effects, preventive action programs, and 
+timely, effective communication. This entails creating risk management platforms 
+
+                                                
+13  Climate Change Impacts and Risks for Animal Health in Asia (S. Forman et al., 2008).  
+14  Reducing Greenhouse Gas Emissions through Better Animal Health (A. Stoot et al., 2010).  
+15  Climate-smart livestock production. FAO 2017. https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm.  
+16  Impact of Climate Change on Livestock Health: A Review (N. Abdela and K. Jilo, 2016).  
+17  Climate-smart livestock production. FAO 2017.  
+18  Climate Change and Animal Health (J. Lubroth, 2012). 
+19  Managing Animal Diseases Risk in Australia: The Impact of Climate Change (P. Van den Bossche and 
+
+J.A.W. Coetzer, 2008). 
+20  Climate Change Impacts and Risks for Animal Health in Asia (S. Forman et al., 2008). 
+21  Managing Animal Diseases Risk in Australia: The Impact of Climate Change (P.F. Black et al., 2008). 
+
+https://www.wto.org/english/tratop_e/sps_e/spsagr_e.htm
+
+
+  - 4 - 
+
+that use modern information technologies (OIE, 2004 and 2011).22 Therefore, new 
+approaches to health certification and management are needed, with public-private 
+participation and integration; collaborative monitoring, detection, and intervention 
+systems; application of best practices protocols for production, health, and 
+biosecurity; and use integrated production systems. A notable example is Mexico’s 
+National Service for Agri-Food Health, Safety, and Quality (SENASICA), which has 
+successfully adopted the risk management concept. With the launch of its Health 
+Intelligence Unit, the incorporation of preventive medicine services, and the creation 
+of the Internal Rapid Alert Network for the timely exchange of data and generation 
+of strategic information, the country has been able to successfully comply with the 
+commitments it acquired upon joining the World Trade Organization, and over the 
+past 10 years has doubled the value of its agri-food exports, which has reached 
+US$30 billion. According to the OIE, Mexico’s preventive actions have enabled it to 
+obtain an animal health status held by only five countries in the world (Australia, 
+United States, Portugal, Switzerland, and Mexico).23 
+
+1.11 Livestock health in Paraguay. Paraguay has obtained official status as an 
+FMD-free country where vaccination is practiced and as a country free from classical 
+swine fever (CSF), pursuant to the World Organisation for Animal Health’s 
+Terrestrial Animal Health Code (OIE, 2017). Despite these achievements, the 
+country is a prime example of potential vulnerability due to emergency risk 
+scenarios. Indeed, Paraguay has the region’s highest proportion of farm animals to 
+humans, which reduces its capacity to contain epidemiological outbreaks. And as a 
+landlocked country with more than 3,500 km of land borders with three other 
+countries, it is highly exposed to the entry of infectious agents (Naranjo, 2017).  
+
+1.12 According to a study24 conducted in 2012, the country suffered losses worth 
+US$54 million in beef cattle and US$74 million in dairy cattle due to brucellosis and 
+tuberculosis, and lost revenue of US$33 million due to CSF and US$72 million due 
+to Newcastle disease in poultry. In 2011, FMD reappeared in Paraguay. The impacts 
+of this outbreak caused economic losses of US$170 million in exports alone, 
+equivalent to 7.2% of the livestock contribution to GDP (Giménez Rolón, 2012). 
+These figures are consistent with reports by the OIE, which attribute more than 20% 
+of global livestock production losses to various diseases.  
+
+1.13 Some economically important prevalent diseases25 are still having a significant effect 
+on the productivity of the national livestock herd; these diseases have a high 
+zoonotic risk and are included among export certification requirements. Addressing 
+these diseases is a priority in order to reduce productivity gaps and minimize barriers 
+to exportation, as well as because they pose a high risk to public health. Bovine and 
+caprine brucellosis are both on the rise in the country. These diseases have high 
+
+                                                
+22  OIE, 2004. Handbook on Import Risk Analysis for Animals Products, Vol. 2 quantitative risk analysis. OIE, 
+
+2010. Terrestrial Animal Health Code. Paris, France. 
+23  National Service for Agri-Food Health, Safety, and Quality of Mexico. https://www.gob.mx/senasica/ 
+
+articulos/unidad-de-inteligencia-sanitaria-101745?idiom=es. 
+24  Análisis del Gasto Publico en Servicios de Sanidad Agropecuaria [Analysis of Public Expenditure on 
+
+Agricultural Health Services] (Giménez Rolón, 2012).  
+25  The prevalence of a disease is the total number of individuals who have the disease or a characteristic at 
+
+a given time or during a given period of time, divided by the population at that moment in time or halfway 
+through the period. It quantifies the proportion of individuals in a population who have a disease at a given 
+time. 
+
+https://www.gob.mx/senasica/%20articulos/unidad-de-inteligencia-sanitaria-101745?idiom=es
+https://www.gob.mx/senasica/%20articulos/unidad-de-inteligencia-sanitaria-101745?idiom=es
+
+
+  - 5 - 
+
+prevalence rates and cause significant losses26 to affected producers (low 
+reproduction rates due to abortions, subfertility, and infertility); they also are 
+hazardous to human health, principally for family farmers (SENACSA, 2017). 
+Although bovine tuberculosis has been sporadically detected in some breeding 
+herds, up-to-date information that would make it possible to estimate its prevalence 
+and incidence rates is not available. 
+
+1.14 Health services in Paraguay. SENACSA27 is the national body responsible for 
+making, regulating, coordinating, implementing, and overseeing the country’s 
+policies on and management of animal health and quality. The Ministry of Agriculture 
+and Livestock28 is responsible for furthering livestock policies in coordination with 
+SENACSA. As the government veterinary service, SENACSA is committed to 
+maintaining the health statuses achieved in Paraguay,29 as well as to eliminating 
+prevalent diseases, including zoonotic diseases, making greater efforts to process 
+samples for surveillance and control throughout the country, including on the 
+borders.  
+
+1.15 In 2013, the OIE evaluated SENACSA’s performance (OIE-PVS,30 2014), assessing 
+the strengths and weaknesses of the government veterinary service. Among its 
+strengths, the service has material resources, including infrastructure, equipment, 
+and vehicles. It has been successfully administering the FMD control program for 
+years, which has given it experience in managing health programs. SENACSA’s 
+veterinary service is highly specialized in the fight against FMD and has 
+demonstrated the ability to fulfill its professional obligations of surveillance, control, 
+and certification for the safe export of beef to the most selective markets in the world. 
+SENACSA has also demonstrated its high level of commitment to the OIE process 
+of improving veterinary services. 
+
+1.16 The following are among the weaknesses identified for SENACSA’s transition to a 
+risk management approach: (i) shortage of highly trained human resources; (ii) lack 
+of infrastructure and modern equipment; (iii) limited capacity for identifying health 
+risks, as well as for the control and surveillance of prevalent and emerging diseases; 
+and (iv) weaknesses with regard to simplifying procedures and processes that would 
+
+                                                
+26  Quantifications of losses due to brucellosis calculated in Brazil in 2013 show an average loss of 
+
+US$120 and US$210 for each female infected with brucellosis in the meat and milk production systems, 
+respectively (Bovine Brucellosis Program 2017, IICA-SENACSA). 
+
+27  Law 2426/2004. 
+28  SENACSA and the Ministry of Agriculture (Law 81/92) are two independent institutions with 
+
+complementary functions. They coordinate to optimize their respective resources, plans, and programs. 
+Specifically, the Ministry of Agriculture, through its Office of the Deputy Minister of Livestock Farming 
+(Resolution 1783/11), enforces government policy on the livestock sector and proposes, evaluates, and 
+coordinates the enforcement of regulations on the health and quality of products and inputs for national 
+and international sales, as well as other functions.  
+
+29  Such as the statuses achieved with regard to FMD, rinderpest, bovine spongiform encephalopathy, peste 
+des petits ruminants (also known as sheep and goat plague), among other diseases.  
+
+30  The PVS is the OIE Tool for the Evaluation of Performance of Veterinary Services. The PVS gap analysis 
+allows the veterinary services to define the objectives to be reached in the next five years, in compliance 
+with OIE quality standards and based on national priorities and limitations. The OIE PVS Tool determines 
+the effectiveness of the veterinary services, identifies gaps and weaknesses, and establishes 
+recommendations for 40 competencies grouped into four components: (i) human, technical, and financial 
+resources; (ii) technical authority and capability; (iii) interaction with interested parties; and (iv) access to 
+markets. Each competency is evaluated from 1 to 5, with the latter being the most advanced. The resulting 
+values can be expressed as a percentage. In November 2017 the OIE performed a new PVS of SENACSA, 
+which will be used as a baseline once published. 
+
+
+
+  - 6 - 
+
+make it possible to lower transaction costs.31 Paraguay achieved an average 
+performance value of 64% in the PVS evaluation, which is worse than other 
+countries in the region like Uruguay (83%), Chile (82%), and Colombia (70%).  
+
+1.17 The PVS also identified the lack of an overall management system as one of the 
+government veterinary services’ greatest weaknesses. With the current data 
+management system, it is not possible to synthesize useful information for adequate 
+analysis, control, and/or planning. SENACSA does have SIGOR32 (the regional 
+office computerized management system) in place; this system can record and 
+analyze data on establishments and producers, livestock inventories, cattle 
+movements, progress on anti-FMD vaccine campaigns, etc. However, there are no 
+computerized systems in place for the laboratories, quarantines, food producer 
+inspections, and waste control, among other issues. Although SENACSA’s Animal 
+Health Bureau uses an animal health system (SISA)33 that was designed to inform, 
+store, and maintain a database about animal health in the country through 
+SENACSA’s zonal units, it is not integrated into SIGOR. SIGOR and SISA are both 
+key tools for the risk management model. 
+
+1.18 In addition, according to the user survey and demand study (Ferrari, 2017), 
+incorporating new information technologies into SENACSA’s services is a priority, in 
+order to streamline procedures, lower transaction costs, and facilitate the expansion 
+of services to users.34 The following key processes that can be improved were 
+identified as a result of the study: (i) reduction of in-person procedures; (ii) 24/7 
+availability of the online system; (iii) incorporation of functionalities for small livestock 
+producers; (iv) strengthening of services associated with the opening and 
+development of markets for new export chains; and (v) simplification of import and 
+export procedures.  
+
+1.19 Lastly, one of the main limitations observed in the PVS stems from the structure of 
+SENACSA’s annual budget. Funds come from several sources: the National 
+Treasury contribution (22%), internal resources from the provision of services (21%), 
+and taxes on the movement of animals and meat exports (57%). This reliance on 
+contributions from the livestock sector for services provided is a disadvantage of the 
+government veterinary services’ specialization in beef production, as it can create a 
+dependence on beef exports, meaning that if they are restricted for health reasons, 
+funding could be affected. A recent analysis of the effectiveness of various health 
+systems in Latin America (OVE, 2015) concluded that it was important to allocate 
+resources to generating public goods from the services. This analysis highlighted 
+the achievements of health campaigns in terms of reducing the effects of diseases, 
+as well as the social return on those initiatives.  
+
+                                                
+31  In the 2013 PVS, SENACSA achieved scores of 66% and 53% in the categories of (i) human, technical, 
+
+and financial resources; and (ii) technical authority and capacity, respectively.  
+32  SIGOR is a web-based system developed to manage the services provided by SENACSA throughout the 
+
+country. SIGOR manages health information, the control of poultry and cattle movement, revenue under 
+Law 808/96, and proceedings in legal cases. The system is used in facilities including zonal units, livestock 
+fairs, control posts, and meat packing plants. SIGOR has 12 modules in place and 3 online services offered 
+through the institution’s portal. 
+
+33  SISA has four modules in place (property georeferencing, immediate notification of diseases, attention to 
+suspected cases, and monthly epidemiological records). 
+
+34  This study sought to identify evidence of benchmarking associated with foreign trade practices involving 
+similar procedures, but did not find any. SENACSA does not have any studies on procedure costs. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/15%20LifeCycle%20Milestones/Draft%20Area/POD%20-%20Enlace%20opcional%20-%20Estudio%20de%20Demanda%20SENACSA%20-%20PR-L1148.pdf
+
+
+  - 7 - 
+
+1.20 The same assessment made recommendations for putting together joint strategies 
+for the public and private sectors, promoting the recovery of costs for institutional 
+sustainability, preventive health work, the economic evaluation of outcomes, and the 
+development of new health capacities. In Paraguay, public-private collaborative 
+efforts in animal health have been successful.35 SENACSA’s involvement with the 
+cattle sector is effective and encouraged, due to the importance of beef exports to 
+the country. However, coordination with other productive sectors, such as the dairy, 
+pig, small ruminant, and poultry sectors, is still incipient (OIE-PVS, 2013). 
+Accordingly, the Government of Paraguay is interested in emulating the public-
+private sector coordination achieved in the cattle subsector in other livestock 
+subsectors (e.g., pig, sheep, goat, and poultry). 
+
+1.21 Bank experience. Between 2002 and 2014, the Bank approved 17 investment 
+loans to strengthen agricultural health and food safety systems in the region, for 
+US$359 million, approximately 10% of the total sector portfolio (OVE, 2015).36 Based 
+on those operations, as well as on some recently approved ones (Peru 4457/OC-PE, 
+Uruguay 3800/OC-UR, Bolivia 3797/BL-BO, Guyana 3798/BL-GY, and Mexico 
+3864/OC-ME), and taking into account the conclusions and recommendations that 
+issue from the OVE document Comparative Project Evaluation of Agriculture Health 
+and Food Safety 2002-2014, Table 1 below shows the main lessons learned and 
+how they have been incorporated into the design of the proposed operation. 
+
+ 
+Table 1. Incorporation of recommendations into program design 
+
+Recommendations  Incorporation into program design 
+
+Participation of the private 
+sector, through joint work and 
+the incorporation of new 
+information and 
+communications technologies.  
+
+The program makes it a priority to make more services 
+available online, so as to streamline and improve the 
+efficiency of service delivery. Animal health control programs 
+will be executed in coordination with producers.  
+
+Make the laboratories 
+sustainable. 
+
+The laboratories currently operated by SENACSA are self-
+financed, but they do not have the capacity required to 
+execute the public disease control programs. The program 
+will finance the improvement of the laboratories’ capacities. 
+The laboratories will continue to be self-financed. 
+
+Evaluation and outcomes, with 
+regard to the direct 
+
+beneficiaries.  
+
+The program includes a monitoring and evaluation program, 
+and an impact assessment plan, which will analyze the 
+
+impacts of the program actions on its direct beneficiaries. 
+
+ 
+
+1.22 Country strategy with the sector. The project is first and foremost aligned with the 
+guidelines and objectives of the National Development Plan 2030, the Agriculture 
+Strategic Framework 2014-2018, and SENACSA’s Institutional Strategic Plan 
+2013-2018. The project is linked to the following strategic pillars of the National 
+Development Plan 2030: (i) inclusive economic growth and (ii) Paraguay’s 
+international integration, as well as with the crosscutting pillar of efficient and 
+transparent public management. The program will also contribute to the Agriculture 
+Strategic Framework strategic pillar of “livestock and farm development,” which 
+prioritizes establishing disease monitoring and control programs, maintaining and 
+
+                                                
+35  Law 808/96 declared the national FMD eradication program to be mandatory and created the Interagency 
+
+Commission, forming a public-private partnership (PPP) made up of representatives of SENACSA and the 
+Rural Association of Paraguay. 
+
+36  Of the 17 loans approved for agricultural health between 2002 and 2014, none involved Paraguay. 
+
+
+
+  - 8 - 
+
+improving the health status of livestock production, and upgrading and modernizing 
+the laboratory system. It is also aligned with the national contribution, which identifies 
+livestock farming as a priority sector for climate adaptation and highlights the 
+country’s commitment to reducing its vulnerability to climate change.37 
+
+1.23 IDB country strategy. The operation is aligned with the IDB Country Strategy with 
+Paraguay (2014-2018) (document GN-2769), since it contributes to the strategic 
+objective of increasing “the supply of agricultural public goods and services.” 
+
+1.24 Strategic alignment. The program is aligned with the Update to the Institutional 
+Strategy 2010-2020 (document AB-3008) and with the challenge of productivity and 
+innovation, by improving the provision of essential public goods, like health services 
+for rural development and economic integration. The program is also aligned with 
+the crosscutting areas of: (i) strengthening institutional capacity and the rule of law, 
+by strengthening an institution that is strategic for rural development; and (ii) climate 
+change and environmental sustainability, by providing mechanisms that contribute 
+to climate change adaptation. It also contributes to the Corporate Results 
+Framework 2016-2019 (document GN-2727-6), through the indicator: “government 
+agencies benefitted by projects that strengthen technological and managerial tools 
+to improve public service delivery.” In addition, the operation is included in the 2018 
+Operational Program Report (document GN-2915). The program is also consistent 
+with the first dimension of success of the Agriculture and Natural Resources 
+Management Sector Framework Document (document GN-2709-5), which calls for 
+achieving high levels of agricultural productivity in the region and proposes that 
+high-quality health services and public goods be provided; the Food Security Sector 
+Framework Document (document GN-2825-3) with regard to the dimension of 
+access to safe and nutritious foods; and the Climate Change Sector Framework 
+Document (document GN-2835-3), in that it promotes higher agricultural productivity 
+through the adoption of climate change adaptation practices. 
+
+1.25 Approximately 41% of operation resources will be invested in climate change 
+mitigation and adaptation activities, in accordance with the Multilateral Development 
+Banks’ joint methodology for estimating climate finance.38 These resources 
+contribute to the IDB Group’s target of increasing financing of climate-change-
+related projects to 30% of combined total approvals by the end of 2020. 
+
+B. Objectives, components, and cost  
+
+1.26 Objective. The program’s general objective is to help improve the productivity of the 
+livestock sector. The specific objectives are to: (i) improve the effectiveness of 
+animal health services with a risk management approach; and (ii) expand the 
+coverage of veterinary services, including for smaller species. 
+
+1.27 To those ends, investments are planned in two components, described below: 
+
+1.28 Component I. Health risk management (US$10.8 million). This component will 
+strengthen SENACSA’s capacities for identifying, assessing, and managing risk, by 
+expanding the functions of its information systems to generate epidemiological 
+information for decision-making. With a properly equipped monitoring network, 
+inspection processes at entry points, and posts for monitoring farm animal 
+movements, protocols will be established for responding to health events, and 
+
+                                                
+37  National Contributions of the Republic of Paraguay (Republic of Paraguay, 2015). 
+38  See optional electronic link 5 for detailed information.  
+
+https://publications.iadb.org/handle/11319/7807
+https://publications.iadb.org/handle/11319/7807
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-17
+
+
+  - 9 - 
+
+strategies will be drawn up for mitigating their potential effects. The institutional 
+strengthening will also include the training of human resources and the provision of 
+specific inputs and equipment. A health intelligence network will be implemented 
+while improving physical infrastructure at certain identified priority points; this will 
+involve equipping and modernizing the SENACSA laboratories. A network of public 
+and private laboratories will also be set up and provided with a comprehensive 
+management system to expand and speed up diagnostic and control capacities, as 
+required by the risk management approach. In addition, given the potential of 
+individual identification and traceability as a tool for health risk management, the 
+component will finance the design of software and the procurement of the equipment 
+necessary for animal identification and individual traceability. Moreover, in keeping 
+with the risk management approach, the component will support the Reproductive 
+Diseases Program in eradicating brucellosis, by helping to improve SENACSA’s 
+capacities for managing, preventing, and responding to that type of health event. In 
+short, this component will finance: (i) a health intelligence network (for identification 
+and prevention, with an early alert system for preventive communication and an 
+emergency response system); (ii) the modernization and expansion of physical 
+infrastructure (in the various regions, at control posts, and on the border) and 
+equipment to support the tasks of diagnosis, surveillance, and control; (iii) the 
+identification of individual animals for traceability; (iv) support for the national 
+brucellosis program; and (v) a program to modernize the organization. 
+
+1.29 Component II. Expansion of services (US$3.1 million). This component will 
+improve and expand service delivery to users by simplifying and digitizing 
+procedures,39 emphasizing the most important ones, to decrease transaction costs. 
+The component will also develop new computer functionalities, including expanding 
+and optimizing SIGOR, to facilitate decision-making and the provision of health 
+services. This will include not only expanding the systems’ capacities and improving 
+telecommunications, but also securing computer services to ensure availability 
+remotely and in zonal offices. The program will include training for human resources 
+on generating services for users and risk management capacities. The expansion of 
+SENACSA’s services is expected to involve the preparation and implementation of 
+health plans that will include the identification, registry, health management, 
+vaccination, surveillance, and certification of smaller species (sheep, goat, pigs, 
+poultry). To facilitate the process of executing the health plans and providing 
+services to small and medium-sized producers, the component will finance the 
+formation and operation of a public-private partnership40 that will include 
+representatives of SENACSA and of small livestock producer associations. The 
+component includes support activities to obtain the effective participation of 
+producers, such as: (i) training; (ii) certification of private technicians; and (iii) the 
+
+                                                
+39  This is aligned with the “infrastructure and connectivity” pillar of the digital agenda that the Bank is 
+
+promoting in Paraguay; among other improvements, the ability to use an electronic signature for priority 
+procedures will be incorporated.  
+
+40  The PPP will be formed by representatives of SENACSA and of the small livestock production sector 
+(Rural Association of Paraguay, associations of sheep, goat, pig, and poultry farmers). It will have one 
+standing member and one alternate from each institution, who will be unpaid and will each have a single 
+vote; it will be led by SENACSA, which will be responsible for auditing and certifying all national and 
+international processes. It will have one coordinator, and the Commission will decide how the allocated 
+resources are to be handled. Among its functions, the PPP will: (i) actively participate in health plans and 
+campaigns; (ii) ensure the use of best practices with regard to animal wellbeing and the defense of the 
+environment; (iii) implement compartmentalization for health campaigns; and (iv) update and train the 
+various actors. 
+
+
+
+  - 10 - 
+
+preparation of materials for dissemination. To summarize, this component will 
+finance: (i) the incorporation of new functionalities into the computer system, new 
+online services, and the implementation of electronic signatures to improve 
+efficiency in the delivery of services to users; and (ii) the preparation and 
+implementation of health plans (identification, registration, health management, 
+vaccination, surveillance, and certification) for small species (sheep, goat, pigs, 
+poultry); a public-private partnership will be formed to that end, and will facilitate 
+implementation of the health plans as well as the development and strengthening of 
+small livestock chains. 
+
+1.30 Program administration (US$1.1 million). Program administration resources will 
+be used to fund the formation and operation of the Program Execution Unit (PEU), 
+as well as for contingencies and reporting. 
+
+1.31 Activities from both components, in particular those focused on identifying, 
+monitoring, assessing, and managing health risks, and the training sessions for 
+technicians and producers, contribute to climate actions (optional electronic link 5). 
+
+C. Key results indicators  
+
+1.32 The program has a Results Matrix agreed upon with the borrower (Annex II) that 
+contains the program impact, outcome, and output indicators, and the respective 
+baselines and targets. In line with the program’s objective, the principal impacts will 
+be: (i) improved cattle offtake rate (proxy for improved productivity); and 
+(ii) increased small species exports. The expected outcomes are: (i) improved 
+effectiveness of the animal health services (SENACSA’s score on specific aspects 
+rated in the PVS, including risk management); (ii) reduced prevalence of brucellosis; 
+and (iii) health coverage expanded to new categories, emphasizing small livestock.  
+
+1.33 The incorporation of the risk management approach and the implementation of the 
+health surveillance unit represent important innovations that will improve the 
+country’s health capacity. In this context, SENACSA will enter into partnership 
+agreements with institutions that are leaders on this issue, such as Mexico’s 
+SENASICA.  
+
+1.34 Economic viability. An ex ante economic analysis (optional electronic link 2) of the 
+program has confirmed its expected viability. Based on a comparison of the costs 
+and benefits expected over a 20-year period, the analysis estimates that the 
+program will have a net present value (NPV) of US$58.4 million and an internal rate 
+of return (IRR) of 34.2%. 
+
+1.35 These estimates take into account the potential positive effects of the program in 
+terms of fewer losses from possible disease outbreaks, improved access to markets, 
+improved productivity, and SENACSA’s more efficient service delivery. More 
+specifically, the analysis includes the expected program benefits with regard to the 
+following: (i) beef productivity, production, and exports, as a result of improved 
+control of FMD, bovine brucellosis, and implementation of a traceability system; 
+(ii) pork production and exports, as a result of improved control and prevention of a 
+potential CSF outbreak; (iii) chicken productivity, production, and exports, as a result 
+of improved control of avian influenza and Newcastle disease, and the expansion of 
+SENACSA services to small species; and (iv) SENACSA’s administrative 
+management of services. It should be noted that other important benefits (like the 
+improvements in public health derived from the improved control of zoonotic 
+livestock diseases) were not considered in the analysis due to the difficulty of 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-17
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-18
+
+
+  - 11 - 
+
+accounting for them. Therefore, the program’s NPV and IRR may be 
+underestimated. 
+
+1.36 In terms of economic costs, the analysis took into account the program investment 
+as well as the associated incremental costs, namely: (i) incremental costs incurred 
+by SENACSA (on staff, transportation, control and monitoring, laboratories, 
+traceability, and operation of the SISA); and (ii) additional sanitation costs incurred 
+by the producers. 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 The program is designed as a specific investment loan under the Flexible Financing 
+Facility (document FN-655-1). It has a total cost of US$15 million, fully financed by 
+the Bank from Ordinary Capital resources.  
+
+ 
+Table 2. Program cost and financing (US$ thousands) 
+
+Description IDB % 
+
+Component I. Health risk management  10,860 73 
+
+Component II. Expansion of services 3,074 20 
+
+Administration (audit, evaluation, and contingencies) 1,066 7 
+
+TOTAL 15,000 100 
+
+ 
+
+2.2 The program’s disbursement period will be five years starting from the loan 
+contract’s effective date. Program funds will mostly be disbursed as advances of 
+funds, but the direct payment and reimbursement of expenditures modalities may 
+also be used.  
+
+ 
+Table 3. Disbursement schedule (in US$) 
+
+ Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+Total 1,191,162 6,898,277 4,901,727 1,054,167 954,667 15,000,000 
+
+% 8 46 33 7 6 100 
+
+ 
+
+B. Environmental and social risks 
+
+2.3 The program has been classified as a Category “B” operation according to the 
+Bank’s Environment and Safeguards Compliance Policy (sector policy OP-703); 
+Disaster Risk Management Policy (sector policy OP-704); Access to Information 
+Policy (operational policy OP-102); Gender Equality in Development (sector policy 
+OP-761); Indigenous Peoples Policy (sector policy OP-765); and Involuntary 
+Resettlement Policy (sector policy OP-710). 
+
+2.4 The Environmental and Social Analysis (optional electronic link 8) performed for the 
+program indicates that the construction works for the service facilities (regional, 
+zonal, and at border points) may have low to moderate localized, short-term 
+environmental and social impacts, such as: elimination of the plant cover; increased 
+noise levels; emission of gases, particulate matter, and dust; generation of waste; 
+and increased accident rates. An environmental and social management plan 
+(ESMP) was designed to prevent and mitigate these impacts. None of the projects 
+analyzed will entail resettlement, expropriation of lands, or significant harm to 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1327205104-7
+
+
+  - 12 - 
+
+indigenous communities or territories. The ESMP also includes a plan for improving 
+the environmental management of SENACSA’s central laboratory, to be 
+implemented prior to the equipment procurement bidding process. Although natural 
+threats in the project areas include drought, forest fires, and heat waves, the 
+associated risk is considered to be low. Nonetheless, the ESMP includes measures 
+to prevent exacerbation of the risk from heat waves (limiting construction work hours, 
+ensuring systems are in place for providing water at the work sites) and fires 
+(ensuring fire prevention systems are in place at the construction areas and in the 
+design of projects). 
+
+2.5 Meaningful consultations were held for the projects in Campo Aceval, Villa Hayes, 
+Filadelfia, Puerto Casado, Puerto Falcón, and Ciudad del Este. Queries included 
+requests for materials to be procured and labor contracted locally, and for horse 
+tie-up sites to be planned. The consultations report was published on the Bank’s 
+website (optional electronic link 9). The program will strengthen SENACSA by 
+financing the design and implementation of a socioenvironmental management 
+system. To ensure compliance with the program’s socioenvironmental 
+commitments, the coordinating unit will include a socioenvironmental specialist.  
+
+C. Fiduciary risks  
+
+2.6 The following aspects of SENACSA’s institutional capacity were evaluated during 
+preparation of the operation: capacity for programming and organizing; capacity for 
+executing the programmed and organized activities, including systems for managing 
+staff, goods, services, and finances; and control capacity. According to the 
+evaluation, in general the executing agency has technical competencies in fiduciary 
+matters, and the consolidated result of the evaluated capacities reveals that it has a 
+satisfactory degree of development. However, its lack of prior experience in 
+executing projects with multilateral financing, principally in the area of procurement, 
+is considered a weakness. Accordingly, the project has been assigned a medium 
+level of risk. As an action to mitigate the risk of delays in project procurement 
+processes, the area responsible for procurement requires strengthening with 
+competent staff knowledgeable about the policies of multilateral organizations, as 
+well as through specific workshops and courses on IDB procurement policies. 
+
+D. Other project risks  
+
+2.7 The following principal risks were identified, with their principal mitigation measures: 
+(i) as high risk: delay in processing of the loan law; and (ii) as medium risk: (a) a lack 
+of candidates interested in holding key positions in the PEU; (b) limited internet 
+connectivity and access speed; (c) traceability software not developed due to the 
+lack of a legal framework; and (d) execution times or priority affected by a change of 
+government. The respective mitigation activities were defined and agreed upon, and 
+are especially supported by SENACSA and the Rural Association of Paraguay, with 
+leading public and private sector agents, to reinforce the policy-level work in the 
+critical institutions identified. 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements  
+
+3.1 Borrower and executing agency. SENACSA will be the borrower and the 
+executing agency. The guarantee by the Republic of Paraguay will be limited to 
+SENACSA’s financial obligations in the context of the loan (including repayment of 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1327205104-8
+
+
+  - 13 - 
+
+principal, payment of interest, and other lending charges) and will not cover 
+performance obligations or local counterpart contributions.41 Accordingly, the Board 
+of Executive Directors is being asked to approve a partial waiver of the Bank’s policy 
+on Guarantees required from the borrower (document GP-104-2). The executing 
+agency will be SENACSA, acting through the Project Management Unit (PMU) with 
+the support of the Bureau of Administration and Finance (DIGEAF).  
+
+3.2 For program management, the executing agency will form a Program Execution Unit 
+(PEU), which will report to the program management unit (PMU) and will be directly 
+responsible for and have jurisdiction over the program’s technical and operational 
+issues. For execution and monitoring, the PEU will work in coordination with the 
+DIGEAF for the fiduciary processes involved in program management.42 The PMU 
+will play the strategic role of the program’s technical and operational management, 
+and will also be responsible for coordinating relations with other institutions and 
+SENACSA units involved in program execution. The program’s fiduciary procedures 
+will be carried out through SENACSA’s DIGEAF, which will determine how to 
+coordinate with the PEU and the functions for which the PEU is responsible.  
+
+3.3 The key program execution positions established for the PEU are: (i) general 
+coordinator; (ii) component I coordinator; (iii) component II coordinator; (iv) financial 
+and administrative specialist; (v) procurement specialist; (vi) planning and 
+monitoring specialist; and (vii) socioenvironmental specialist. 
+
+3.4 The following will be special contractual conditions precedent to the first loan 
+disbursement: (i) the PEU will have been formed according to the terms 
+agreed upon with the Bank; and (ii) the borrower will have presented, to the 
+Bank’s satisfaction, evidence that the program Operating Regulations have 
+entered into force.43 These conditions will be fulfilled before the start of program 
+execution. The program Operating Regulations define the basic rules applicable 
+during loan execution (for example, field work, regional coordination and oversight, 
+data processing and analysis, in addition to the fiduciary considerations), as well as 
+the PEU members’ levels of responsibility.  
+
+3.5 Procurement of works, goods, consulting and nonconsulting services. 
+Procurement financed in whole or in party with Bank resources will be conducted in 
+line with the Policies for the Procurement of Works and Goods Financed by the 
+Inter-American Development Bank (document GN-2349-9) and the Policies for the 
+Selection and Contracting of Consultants Financed by the Inter-American 
+Development Bank (document GN-2350-9). Pursuant to document GN-2538-11 of 
+October 2013, the use of the electronic reverse auction and competitive bidding 
+subsystems of Paraguay’s public sector procurement system (SCSP) will apply to 
+the operation in the terms specified in the Fiduciary Agreements and Requirements 
+(Annex III). The Procurement Plan contains a breakdown of the procurement 
+
+                                                
+41  SENACSA is an autonomous, self-governing legal entity of the Republic of Paraguay subject to public law, 
+
+which is able to finance its budget with resources from national and/or international loans. SENACSA has 
+sufficient capacity to execute the obligations assumed with respect to the Bank. Therefore, the waiver will 
+not affect the operation’s risk profile. 
+
+42  This arrangement will be maintained while SENACSA requests that the Finance Ministry change the 
+PMU’s status to Financial Administration Subunit and Procurement Operations Subunit, so it will be able 
+to manage the program independently from the DIGEAF. 
+
+43  For the Operating Regulations to enter into force, they must be approved by resolution of SENACSA’s 
+highest authority. 
+
+
+
+  - 14 - 
+
+processes to be implemented during execution, as well as the procedures the Bank 
+will apply to review them. 
+
+3.6 The Fiduciary Agreements and Requirements (Annex III) establish the framework 
+for the financial management, planning, supervision, and execution of procurement 
+involved in program execution. No specific situations that require special 
+arrangements or treatments are foreseen with regard to procurement. 
+
+3.7 Disbursements. Disbursements will be made as established in the financial 
+management guidelines set forth in document OP-273-6. Preferably, advances will 
+be made on a semiannual basis, once at least 80% of the advanced amount has 
+been justified with the required presentation of the accountability forms and the 
+financial planning spreadsheet. 
+
+3.8 Audits. During execution, the PEU will present, on an annual basis, the audited 
+financial statements for the program, in the terms required by the Bank. An 
+independent audit firm acceptable to the Bank will be selected for the program. The 
+audited financial statements will be presented within 120 days following the close of 
+the fiscal year, with the closing statements being presented within the 120 days 
+following the date set for the last disbursement.  
+
+B. Summary of arrangements for monitoring results  
+
+3.9 The project has a detailed monitoring and evaluation plan that has been agreed 
+upon with SENACSA, which, through the PEU, will be responsible for generating the 
+information necessary to monitor the indicators contained in the Results Matrix, and 
+for sharing it with the Bank. 
+
+3.10 Monitoring. During project execution, the PEU will prepare semiannual monitoring 
+reports and send them to the Bank no later than 60 days following the end of each 
+six-month period. These reports will provide a detailed account of the physical and 
+financial execution of the project, as well as of the progress made on all Results 
+Matrix indicators. The reports will also provide a detailed account of the problems 
+encountered during project execution and the corrective measures taken, and will 
+explain any deviation from the project management instruments (multiyear 
+execution plan, annual work plan, procurement plan). No later than the final quarter 
+of each year of project execution, the PEU will present, to the Bank’s satisfaction, 
+the AWP for the following year and the maintenance plan for the equipment 
+purchased with loan proceeds, as well as compliance with the program’s 
+environmental and social requirements established in the ESMP. Bank staff will 
+make periodic inspection visits during which they will meet with PEU staff to discuss 
+the progress made on the activities set forth in the AWP, the degree of compliance 
+with the indicators established in the Results Matrix, the AWP for the following year, 
+and the Procurement Plan for the next 12 months. 
+
+3.11 Pursuant to the Monitoring and Evaluation Plan, the project will include a midterm 
+and final evaluation. The midterm evaluation will be performed within 90 days 
+following the date on which 50% of the loan proceeds are committed, or when the 
+execution period is half over, whichever occurs first. The purpose of this evaluation 
+will be to review the progress of all activities, analyze the causes of any potential 
+deviations from the planned progress, and propose corrective measures. The final 
+evaluation will be conducted within 90 days following the date on which 95% of loan 
+proceeds have been disbursed. These reports will include: (i) financial execution by 
+subcomponent and financing source; (ii) progress made with regard to the Results 
+
+
+
+  - 15 - 
+
+Matrix outputs, outcomes, and impacts; (iii) compliance with the ESMP; 
+(iv) summary of the financial statements, procurement, disbursements, and internal 
+control; (v) review of implementation; and (vi) lessons learned. The midterm and 
+final evaluations will both be performed by non-PEU external consultants. 
+
+3.12 Impact evaluation. As set forth in the Monitoring and Evaluation Plan (required 
+electronic link 3), the program as a whole will be evaluated reflectively based on the 
+indicators included in the Results Matrix. Given that the program is an intervention 
+to strengthen a national institution, it is not feasible to construct a counterfactual 
+analysis that would make it possible to compare the final value of the impact and 
+outcome indicators with what would have occurred without the program being in 
+place. 
+
+3.13 Nevertheless, the impact of the reproductive diseases program, financed in 
+Component I, will be evaluated, since the its characteristics make this possible. This 
+program consists in the application of a treatment procedure to eliminate brucellosis 
+in infected beef-production establishments. As a pilot program, it will only treat 
+300 establishments, to be identified through serological tests of the cows brought to 
+cattle fairs.  
+
+3.14 The impact evaluation will follow an experimental methodology, using a treatment 
+group of 300 establishments and a control group of the same size. Both groups will 
+be selected randomly from among the infected establishments (of which there are 
+around 3,000). Once selected, the establishments in both groups will be notified that 
+they are infected. The control group establishments will be quarantined and will be 
+given a document with recommendations for carrying out the treatment at the 
+property. The treatment group establishments will be quarantined and the same 
+treatment procedure (which was merely recommended to the control group 
+establishments) will be performed there at no cost. 
+
+3.15 The treatment process will last five years and will fundamentally consist in 
+vaccinating the entire herd and in appropriately managing the infected animals, by 
+separating them out. As part of the treatment process, and to monitor brucellosis 
+prevalence and incidence rates, at each establishment a representative sample of 
+animals will be taken. These animals will be identified with tags and will be tested 
+throughout the treatment process. The information obtained from the samples at 
+each establishment, together with the administrative information from the 
+reproductive diseases program and a series of surveys performed at the beginning, 
+middle, and end of the program, will be used to perform a difference in differences 
+analysis of the treatment and control groups, before and after the reproductive 
+diseases program has been carried out. 
+
+3.16 The evaluation is important because it will make it possible to rigorously measure 
+the effectiveness of the treatment program implemented by SENACSA versus the 
+effectiveness of merely providing the producers with information on how to perform 
+the procedure. There appears to be some evidence (from Chile and Uruguay) that 
+the intervention of health authorities in implementing this type of treatment process 
+is highly effective, leading to a notable reduction of the disease’s incidence rate in 
+the short term. However, to date there is no rigorous empirical evidence showing 
+that it does so, above all compared to the possibility of voluntary implementation for 
+which the producers themselves are responsible. 
+
+ 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-23
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1148/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1395480667-23
+
+
+Annex I - PR-L1148 
+
+Page 1 of 1
+
+1. IDB Development Objectives
+
+     Development Challenges & Cross-cutting Themes
+
+     Country Development Results Indicators
+
+2. Country Development Objectives
+
+     Country Strategy Results Matrix GN-2769
+
+     Country Program Results Matrix GN-2915
+
+Relevance of this project to country development challenges (If not aligned to 
+
+country strategy or country program)
+
+II. Development Outcomes - Evaluability Evaluable
+8 326 10
+
+3. Evidence-based Assessment & Solution
+
+     3.1 Program Diagnosis
+
+     3.2 Proposed Interventions or Solutions
+
+     3.3 Results Matrix Quality
+
+4. Ex ante Economic Analysis
+
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA
+
+     4.2 Identified and Quantified Benefits and Costs
+
+     4.3 Reasonable Assumptions
+
+     4.4 Sensitivity Analysis
+
+     4.5 Consistency with results matrix
+
+5. Monitoring and Evaluation 
+
+     5.1 Monitoring Mechanisms
+
+     5.2 Evaluation Plan
+
+Overall risks rate = magnitude of risks*likelihood
+
+Identified risks have been rated for magnitude and likelihood
+
+Mitigation measures have been identified for major risks
+
+Mitigation measures have indicators for tracking their implementation
+
+Environmental & social risk classification
+
+The project relies on the use of country systems
+
+Fiduciary (VPC/FMP Criteria) Yes
+
+Non-Fiduciary Yes
+
+The IDB’s involvement promotes additional improvements of the intended 
+
+beneficiaries and/or public sector entity in the following dimensions:
+
+Additional (to project preparation) technical assistance was provided to the 
+
+public sector entity prior to approval to increase the likelihood of success of the 
+
+project
+
+Yes
+
+1.0
+
+8.0
+
+1.8
+
+4.0
+
+2.2
+
+9.0
+
+3.0
+
+3.0
+
+III. Risks & Mitigation Monitoring Matrix
+
+2.0
+
+8.0
+
+2.5
+
+5.5
+
+0.0
+
+The objective of the program is to contribute to improving the productivity of the livestock sector. The specific objectives are: (i) to improve the effectiveness of animal health 
+
+services with a risk management approach; and (ii) expand the coverage of veterinary services, including minor species. The relative low productivity of the livestock sector is 
+
+well articulated and supported, as well as its relationship with livestock health. However, little empirical evidence is presented about current weaknesses in managing health 
+
+risks.
+
+The results matrix exhibits vertical logic and presents medium-term impact indicators associated with productivity. Not all indicators classified as outcome indicators are 
+
+outcome indicators, or have well-established baselines and goals.
+
+The ex-ante economic analysis captures the benefits associated with the reduction of losses, improvements in access to markets and prices, and administrative efficiency. 
+
+The key assumptions are mostly clearly presented and well supported. The sensitivity analysis includes the key assumptions. Although the economic analysis incorporates 
+
+improvements in administrative efficiency, these indicators are not part of the results matrix.
+
+Strategic Planning National System, Monitoring and 
+
+Evaluation National System, Environmental 
+
+Assessment National System.
+
+Medium
+
+Yes
+
+IV. IDB´s Role - Additionality
+
+Yes
+
+Yes
+
+B
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+Financial Management: Budget, Treasury, Accounting 
+
+and Reporting.
+
+Procurement: nformation System, parison.
+
+-Government agencies benefited by projects that strengthen technological and 
+
+managerial tools to improve public service delivery (#)*
+
+-Farmers with improved access to agricultural services and investments  (#)*
+
+-Beneficiaries of IDBG projects that contribute to at least one key dimension of 
+
+food security  (#)*
+
+Yes
+
+Increase the supply of agricultural public goods and 
+
+services
+
+The intervention is included in the 2018 Operational 
+
+Program.
+
+Development Effectiveness Matrix
+
+Summary
+
+Yes
+
+-Productivity and Innovation
+
+-Climate Change and Environmental Sustainability
+
+-Institutional Capacity and the Rule of Law
+
+I. Corporate and Country Priorities
+
+
+
+Annex II 
+Page 1 of 4 
+
+ 
+
+RESULTS MATRIX 
+
+Project objective: 
+The program’s general objective is to help improve the productivity of the livestock sector. The specific objectives are to: (i) improve the effectiveness 
+of animal health services with a risk management approach; and (ii) expand the coverage of veterinary services, including for smaller species. 
+
+ 
+
+EXPECTED IMPACT 
+
+Indicators 
+Unit of 
+
+measurement 
+Baseline  
+
+Baseline 
+year 
+
+Final target Means of verification Comments 
+
+IMPACT: Increase in the beef cattle offtake rate and the volume of pork and poultry meat exports 
+
+Slaughter rate1/Cattle 
+population  
+
+Percentage 13.8% 
+2014-2016 
+
+average 
+18% SENACSA report 3-year average 
+
+Number of export 
+markets 
+
+Number of 
+countries for 
+which meat 
+exports are 
+authorized 
+
+13 
+2014-2016 
+
+average 
+16 SENACSA report 
+
+Export markets with SENACSA health 
+agreements 
+
+Volume of pork and 
+poultry meat, offal, and 
+giblets exports  
+
+Tons 5,754 2016 7,500 
+Volume of exports 
+
+reported by SENACSA 
+
+This indicator is used as a proxy for production 
+due to the lack of statistics. Annual growth 
+estimated at 5% 
+
+ 
+
+EXPECTED OUTCOMES 
+
+Indicators 
+Unit of 
+
+measurement 
+Baseline  
+
+Baseline 
+year 
+
+Final 
+target1 
+
+Means of verification Comments2 
+
+OUTCOME 1: More effective risk management and animal health services  
+
+Response time to 
+notifications of 
+suspected vesicular 
+diseases 
+
+Hours 4 2017 3 
+SENACSA report based on 
+specific records 
+
+Refers to the response time between the notification of 
+and attention to the suspected case 
+
+Rating in Chapter II of 
+the PVS (OIE)  
+
+Rating 32 2017 3.6 OIE PVS report Chapter II is “Technical Authority and Capability” 
+
+PVS critical 
+competencies rating 
+(OIE) 
+
+Rating 3 2017 3.6 OIE PVS report 
+Average rating obtained for critical competencies II.1 
+(laboratories), II.5 (epidemiological surveillance and 
+early detection) and II.6 (emergency response) 
+
+                                                           
+1  Slaughter in meat packing facilities with veterinary inspection. This is a more reliable proxy for the offtake rate that refers to the population addressed by the project.  
+2  To be confirmed. In November 2017 an OIE mission performed the fieldwork for a new evaluation that will serve as a baseline for the project. 
+
+
+
+Annex II 
+Page 2 of 4 
+ 
+ 
+
+OUTCOME 2: Reduced prevalence of brucellosis 
+
+Reduced prevalence of 
+bovine brucellosis 
+
+% 6% 2017 4.5% SENACSA report 
+Number of positive reactions divided by total number 
+of tested animals 
+
+OUTCOME 3: Health coverage expanded to new categories, emphasizing small livestock  
+
+Health plans in 
+operation  
+
+Number of 
+plans 
+
+2 2017 4 SENACSA report 
+
+Implies the existence of a registry of establishments, 
+owners, and the movements of poultry, sheep, goat, 
+and pigs, used as a basis for the health actions 
+defined by SENACSA. 
+
+ 
+
+OUTPUTS 
+
+Outputs 
+Unit of 
+
+measure-
+ment 
+
+Baseline 
+Baseline 
+
+year 
+Year 
+
+1 
+Year 
+
+2 
+Year 
+
+3 
+Year 
+
+4 
+Year 
+
+5 
+Final 
+
+target1 
+Means of 
+
+verification 
+Comments2 
+
+Component I: Health risk management  
+
+SISA’s functions 
+expanded and SISA 
+integrated into SIGOR  
+
+Score 
+Not 
+
+available =0 
+Available=1  
+
+0 2017   1   1 SENACSA report  
+
+Health surveillance 
+unit implemented 
+
+Command 
+unit 
+
+0 2017   1   1 SENACSA report  
+
+Entry point controls 
+operating in 
+accordance with 
+international 
+standards 
+
+Score 
+Not 
+
+available =0 
+Available=1  
+
+0 2017    1  1 
+
+SENACSA report and 
+OIE observations 
+contained in the PVS.  
+CVP project reports 
+(ATN/OC-16011-RG)  
+
+ 
+
+Simulations of foot-
+and-mouth disease 
+outbreaks performed 
+
+Number of 
+simulations 
+
+0 2016  1 1  1 3 
+Foot-and-mouth 
+disease outbreak 
+simulation reports 
+
+ 
+
+Samples processed 
+by laboratory 
+networks 
+ 
+ 
+ 
+New diagnostic 
+techniques 
+implemented 
+
+Number of 
+samples 
+
+(thousands) 
+ 
+ 
+ 
+Number of 
+techniques  
+
+120 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0 
+
+2016   
+
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+
+80 
+ 
+ 
+ 
+ 
+ 
+
+2 
+
+30 
+ 
+ 
+ 
+ 
+ 
+2 
+
+240 
+ 
+ 
+ 
+ 
+ 
+
+4 
+
+Report based on 
+laboratory 
+management system 
+
+In addition to the 
+number of samples, the 
+following should be 
+verified: (a) SENACSA 
+laboratory network has 
+been integrated with 
+equipped private 
+laboratories 
+(10 laboratories in total) 
+and (b) comprehensive 
+laboratory management 
+software is operational  
+
+
+
+Annex II 
+Page 3 of 4 
+
+ 
+
+Outputs 
+Unit of 
+
+measure-
+ment 
+
+Baseline 
+Baseline 
+
+year 
+Year 
+
+1 
+Year 
+
+2 
+Year 
+
+3 
+Year 
+
+4 
+Year 
+
+5 
+Final 
+
+target1 
+Means of 
+
+verification 
+Comments2 
+
+SENACSA facilities in 
+the field built or 
+renovated 
+
+Number of 
+facilities  
+
+0 2017   7 4 6 17 
+SENACSA report 
+based on inspection 
+of works 
+
+ 
+
+Computer system 
+implemented for 
+managing individual 
+traceability 
+
+Computer 
+application 
+
+0 0    1  1 SENACSA report 
+
+ 
+
+Properties treated in 
+the brucellosis 
+eradication program  
+
+Number of 
+properties  
+
+0 2017  100 200   300 SENACSA report 
+
+In addition to the 
+properties in the 
+brucellosis eradication 
+program, the disease 
+protocol should be 
+checked.  
+
+Strategic staff 
+members trained for 
+SENACSA's new 
+management model 
+
+Number of 
+persons 
+trained 
+
+0 2017  50 100 100  250 
+
+SENACSA report 
+specifying 
+implementation of the 
+new management 
+model and the 
+number of persons 
+trained for it 
+
+ 
+
+Component II: Expansion of services 
+
+Records of sheep and 
+goat stock counted 
+and control of 
+movements 
+functioning  
+
+Records 
+system 
+
+0 2017     2 2 
+SIGOR-based 
+SENACSA reports 
+ 
+
+ 
+
+Health plans that 
+include 
+epidemiological 
+surveillance 
+implemented for 
+sheep and goats 
+
+Health plans 0 2017  1 1   2 
+
+SENACSA reports on 
+epidemiological 
+surveillance results 
+for the two species 
+
+ 
+
+Poultry and pig farms 
+under surveillance 
+and certification 
+programs 
+
+Number of 
+farms 
+
+0 2017   5 10 10 25 
+
+SENACSA report 
+including updated 
+self-declaration of 
+status as free from 
+Newcastle disease, 
+avian influenza, and 
+CSF 
+
+ 
+
+Small livestock PPP 
+operating  
+
+Not 
+operating=0 
+Operating=1 
+
+0 2017 1     1 
+
+Acting coordinator 
+and documentation of 
+periodic meetings of 
+the PPP’s governing 
+body 
+
+ 
+
+
+
+Annex II 
+Page 4 of 4 
+ 
+ 
+
+Outputs 
+Unit of 
+
+measure-
+ment 
+
+Baseline 
+Baseline 
+
+year 
+Year 
+
+1 
+Year 
+
+2 
+Year 
+
+3 
+Year 
+
+4 
+Year 
+
+5 
+Final 
+
+target1 
+Means of 
+
+verification 
+Comments2 
+
+Technicians and 
+producers trained on 
+sheep, goat, and pig 
+health 
+
+Number of 
+persons 
+trained 
+
+Government 
+technicians. 
+
+Private 
+technicians. 
+Producers 
+
+ 
+
+0  
+30 
+30 
+ 
+
+30 
+30 
+
+400 
+
+30 
+30 
+
+600 
+
+ 
+ 
+
+600 
+
+90 
+90 
+
+1,600 
+
+Training reports 
+prepared by the PPP 
+
+The training sessions 
+include materials for 
+mass distribution to 
+participants  
+
+Improved 
+efficiency 
+in the 
+provision 
+of 
+services 
+to users  
+
+Online 
+proce-
+dures 
+
+and pay-
+ments 
+
+% of proce-
+dures 
+
+20 2017   20 20 20 80 
+
+SENACSA report 
+with list of procedures 
+at the start and end 
+of the program 
+
+Volume of online 
+procedures/total 
+volume of procedures 
+(in person + electronic) 
+
+Improved 
+efficiency 
+in the 
+provision 
+of 
+services 
+to users  
+
+New 
+modules 
+in SIGOR 
+
+Number of 
+modules 
+
+12 2017  1 1 1 1 16 
+
+Report on 
+incorporated modules 
+Initial baseline report 
+with the current 
+number of modules 
+(2017) and a 
+description thereof 
+
+ 
+
+ 
+
+
+
+Annex III  
+Page 1 of 6 
+
+ 
+
+FIDUCIARY AGREEMENTS AND REQUIREMENTS 
+
+ 
+
+Country: Paraguay 
+
+Project name:  Project to Improve and Expand Animal Health Services in 
+Paraguay  
+
+Project number: PR-L1148 
+
+Executing agency: National Service for Animal Health and Quality (SENACSA) 
+
+Prepared by:  Fernando Glasman, Bruno Candia, and Jorge Luis Gonzalez 
+(fiduciary specialists)  
+
+  
+
+I. EXECUTIVE SUMMARY 
+
+1.1 The institutional assessment for the project’s fiduciary management was based on: 
+(i) the fiduciary context of the country; (ii) the findings of the fiduciary risk 
+evaluation and project risk management workshop; and (iii) the September 2017 
+report on findings using the Institutional Capacity Assessment System on the 
+executing agency SENACSA. The fiduciary agreements applicable to project 
+execution have been prepared as a result of this assessment.  
+
+II. THE COUNTRY’S FIDUCIARY CONTEXT  
+
+2.1 In general terms, the country systems for financial management have a medium 
+level of development. Nevertheless, these systems need to be supplemented for 
+the execution of Bank-financed projects. Specific financial reports are prepared 
+through auxiliary accounting systems. Financial control tools such as the 
+Integrated Financial Administration System (SIAF), the Integrated Accounting 
+Subsystem (SICO), and other subsystems allow the executing agency to manage 
+payment transfers to vendors under acceptable conditions through the Central 
+Bank of Paraguay. The integration of these tools will allow audited financial 
+statements for a program or project to be prepared in the SIAF in the future. Until 
+then, parallel systems are being used. External control is currently performed 
+through private audit firms. 
+
+2.2 In terms of the country’s public sector procurement system (SCSP), Bank 
+operations make full use of the public procurement information system, as well as 
+the country’s electronic reverse auction and competitive bidding subsystems, for 
+the amounts and categories established in the agreements for the use thereof 
+signed between Paraguay and the Bank on 17 June 2014.  
+
+III. THE EXECUTING AGENCY’S FIDUCIARY CONTEXT  
+
+3.1 The executing agency will be SENACSA, acting through the Project Management 
+Unit (PMU) with the support of the Bureau of Administration and Finance 
+(DIGEAF). The PMU reports to the Office of the President of the institution, and will 
+provide general coordination of program execution, programming, and monitoring, 
+ensuring that the conditions and targets set in the loan contract are met; the PMU 
+will be the main contact between the IDB and the borrower during execution. In 
+
+
+
+Annex III  
+Page 2 of 6 
+ 
+ 
+
+turn, the DIGEAF will handle administrative and financial activities, as well as 
+procurement and contracting.  
+
+3.2 The following aspects of SENACSA’s institutional capacity were assessed during 
+the preparation of the operation: capacity for programming and organizing; 
+capacity for executing the programmed and organized activities, including systems 
+for managing staff, goods, services, and finances; and control capacity. According 
+to the assessment, SENACSA has overall technical competencies in fiduciary 
+matters. However, its lack of prior experience in executing projects with multilateral 
+financing, principally in the area of procurement, is considered a weakness. 
+Consequently, although the consolidated result for the SENACSA capacities 
+assessed using the ICAS shows a satisfactory level of development, the program 
+has been assigned a medium level of risk. 
+
+IV. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS 
+
+4.1 Based on the evaluations of SENACSA, opportunities for improvement should 
+focus on:  
+
+a. Implementing a financial and accounting information system that makes it 
+possible to record the transactions and issue information required by the 
+Ministry of Finance, SENACSA, and the Bank; 
+
+b. Designing and developing the profiles of the PEU positions; 
+
+c. Strengthening accounting and internal control in Bank financial management 
+policies.  
+
+4.2 Procurement management. In the September 2017 ICAS report, SENACSA was 
+considered to have a satisfactory overall level of development. However, the 
+specific assessment of the goods and services administration system yielded 
+medium levels of development and risk. Accordingly, as mitigation actions, the 
+area responsible for procurement needs to be strengthened with competent staff 
+knowledgeable about the policies of multilateral organizations, as well as through 
+specific workshops and courses on IDB procurement policies.  
+
+4.3 Financial management. The internal control unit lacks formal procedures for 
+monitoring project-related activities. Therefore, SENACSA will draw up these 
+procedures in a fiduciary manual for the PEU, contained in the Operating 
+Regulations and to be approved by the competent authorities. 
+
+V. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE CONTRACT 
+
+5.1 The following agreements and requirements should be considered in the special 
+provisions: for the purposes of Article 4.10 of the General Conditions, the parties 
+agree that the exchange rate to be applied will be the one indicated in section 
+(b)(ii) of that article. The agreed-upon exchange rate will be the exchange rate on 
+the effective date on which the borrower, the executing agency, or any other 
+person or legal entity given the power to incur expenses, makes the respective 
+payments to the contractor, vendor, or beneficiary. 
+
+
+
+Annex III  
+Page 3 of 6 
+
+ 
+
+VI. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION 
+
+6.1 The applicable procurement policies for this loan are documents GN-2349-9 and 
+GN-2350-9. The Bank’s Board of Executive Directors also approved (in document 
+GN-2538-11) the use of the electronic reverse auction and competitive bidding 
+subsystems of Paraguay’s public sector procurement system (Law 2051/03). The 
+use of other country systems accepted subsequent to approval of the project will 
+be implemented automatically, and so stated in the Procurement Plan. 
+
+ Procurement execution 
+
+6.2 Procurement of works, goods, and nonconsulting services. Contracts for 
+works, goods, and nonconsulting services1 subject to international competitive 
+bidding (ICB) will be executed using the standard bidding documents issued by the 
+Bank. In turn, the bidding procedures subject to national competitive bidding (NCB) 
+will be executed using national competitive bidding documents agreed upon with 
+the Bank. The project’s sector specialist will be responsible for reviewing the 
+technical specifications of procurement items during the preparation of selection 
+processes. Initially, there are no plans for selection processes involving single-
+source selection.  
+
+6.3 Selection and contracting of consultants. Contracts for consulting services 
+arising under the project will be executed using the standard request for proposals 
+issued by or agreed upon with the Bank. The project’s sector specialist is 
+responsible for reviewing the terms of reference for contracting consulting services.  
+
+a. Selection of individual consultants. Pursuant to procurement policies 
+contained in document GN-2350-9. 
+
+b. Training. Procurement workshops will be held. 
+
+c. Use of country system. Pursuant to document GN-2538-11 of October 
+2013, the use of the SCSP electronic reverse auction and competitive bidding 
+subsystems in Bank-financed operations will apply:  
+
+(i) To all contracts for goods and nonconsulting services subject to the 
+use of the electronic reverse auction procedure under the SCSP and 
+involving amounts below the Bank’s established threshold for the 
+shopping method for off-the-shelf goods (for reference, US$250,000);  
+
+(ii) To all contracts for works involving amounts below the Bank’s 
+established threshold for use of the shopping method for complex 
+works (for reference, US$250,000), and to contracts for goods and 
+nonconsulting services up to the amount established by the Bank for 
+the use of the shopping method for complex goods and services (for 
+reference, US$50,000); 
+
+(iii) Contracts for amounts greater than or equal to the aforementioned 
+amounts will be governed by Bank policies (document GN-2349-9). 
+
+6.4 Section 1 of the Bank policies (document GN-2349-9) will continue to be applicable 
+to all executed contracts, regardless of amount or procurement method. Any 
+system or subsystem approved subsequently will be applicable to this operation. 
+
+                                                
+1  Policies for the Procurement of Goods and Works Financed by the Inter-American Development Bank 
+
+(document GN-2349-9) paragraph 1.1: Nonconsulting services are treated as goods. 
+
+
+
+Annex III  
+Page 4 of 6 
+ 
+ 
+
+The operation’s Procurement Plan and updates thereto will indicate which 
+contracts are to be executed through the approved country systems.2 
+
+6.5 Advance procurement/retroactive financing. None foreseen for this operation. 
+
+6.6 Domestic preference. None foreseen for this operation.  
+
+Table 1. Thresholds for ICB and international shortlist (US$)  
+
+Method ICB works 
+ICB goods and 
+
+nonconsulting services 
+International shortlist in 
+
+consulting services 
+
+Threshold 3,000,000 250,000 200,000 
+
+ 
+
+Table 2. Main procurement items 
+
+Activity Method 
+Estimated 
+
+date 
+
+Estimated 
+amount 
+(US$) 
+
+Works 
+
+Contracting of construction firm for the construction of works for 
+SENACSA 
+
+ICB Year 3 3,380,000 
+
+Goods 
+
+Procurement of equipment for DIGELAB. 57 items ICB Year 1 2,307,500 
+
+Procurement of equipment ICB Year 2 330,000 
+
+Mobile inspections ICB Year 2 300,000 
+
+Nonconsulting services     
+
+Contracting of treatment services for infected establishments ICB Year 2 540,000 
+
+Contracting of logistical support services for training sessions, 
+workshops, and seminars 
+ 
+
+ICB Year 1 285,000 
+
+Consulting firms    
+
+Development of software for traceability 
+ 
+
+QCBS Year 1 1,830,000 
+
+Design and development of new SIGOR features, systems 
+security plan, and electronic signature functionality 
+
+QCBS Year 1 705,000 
+
+ 
+
+Table 3. Total amounts by category 
+
+Categories Total amounts (US$) 
+
+Works 3,380,500 
+
+Goods 3,862,500 
+
+Nonconsulting services  895,000 
+
+Consulting firms 4,535,500 
+
+Individual consultants  1,256,500 
+
+Training sessions 670,000 
+
+Total, Procurement Plan 14,600,000 
+
+ 
+
+6.7 Procurement supervision. All procurement processes governed by procurement 
+policy documents GN-2349-9 and GN-2350-9 will be subject to ex ante review by 
+the Bank. Supervision of all procurement processes governed by the SCSP 
+
+                                                
+2  If another system or subsystem is approved by the Bank, it will be applicable to the operation, in 
+
+accordance with the loan contract. 
+
+
+
+Annex III  
+Page 5 of 6 
+
+ 
+
+electronic reverse auction and competitive bidding subsystems (document 
+GN-2538-11) will be conducted through the country system.3 
+
+6.8 Special provisions. No special provisions are anticipated beyond those specified 
+in paragraph 5.1. 
+
+6.9 Records and files. The systems, formats, and procedures available to or agreed 
+upon with the Bank should be used for the preparation and filing of project reports. 
+
+VII. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR FINANCIAL EXECUTION  
+
+ Financial Management 
+
+7.1 Programming and budget 
+
+a. The PEU, reporting to the Office of the President of SENACSA and in 
+coordination with the DIGEAF, will centralize the coordination of execution, 
+supported by other departments and units of SENACSA, as necessary. 
+
+b. SENACSA will be responsible for budget programming, administration, and 
+execution, under the zero-based budget system.  
+
+7.2 Accounting and information systems. The country uses modified cash basis 
+accounting; however, cash basis accounting is used for the accountability process 
+of IDB-financed projects.  
+
+a. Information systems. The PEU will have access to the SIAF through the 
+DIGEAF. The country systems do not issue the reports necessary for the 
+Bank. These reports are prepared using different systems, which entails 
+additional work for the PEU. 
+
+b. Disbursements and cash flow. Program disbursements will typically be 
+made through advances of funds, which must be corroborated through the 
+monthly submission of one detailed financial plan for up to six months, and 
+one for a longer period, which can be used to determine the program’s actual 
+needs based on the multiyear execution plan, annual work plan, and 
+procurement plan. The second and subsequent disbursements will be subject 
+to justification of at least 80% of the previous advance. If requested, 
+disbursements may also be made as direct vendor payments or 
+reimbursements for payments made. 
+
+c. Exchange rate. The exchange rate agreed upon with the executing agency 
+for accountability will be the monetization rate.  
+
+d. Internal control and internal audit. The ICAS establishes that there is an 
+advanced level of internal control. However, the SENACSA internal audit 
+office does not include Bank-financed projects in its audit plan.  
+
+e. External control and reports. The executing agency will deliver annual 
+program audit reports prepared by an independent audit firm accepted by the 
+Bank, in accordance with the terms of reference previously approved by the 
+Bank. The project’s financial statements include a cash flow statement, 
+statement of accrued investments, notes to these financial statements, and 
+the statement from the project management team. The audit report will 
+
+                                                
+3  Depending on the scope of the use of the system, supervision may be supplemented by project audits. If 
+
+so, it should be mentioned in this Annex. 
+
+
+
+Annex III  
+Page 6 of 6 
+ 
+ 
+
+include an evaluation of the internal control system. The project will require 
+the selection of an eligible independent audit firm. External audits will be 
+covered by the loan proceeds, estimated at US$200,000 over the planned 
+five years of execution of the loan. 
+
+f. Financial supervision plan. Financial supervision may be adjusted based 
+on project execution and audit reports. 
+
+Table 4. Financial supervision plan 
+
+Nature/scope Frequency   
+
+ 
+Ex post review of disbursements 1 per year 
+
+ 
+Financial audit and delivery of financial statements Annual 
+
+ 
+Review of disbursement requests and attached 
+reports 
+
+2/3 per year 
+ 
+
+Inspection visit/analysis of internal controls and 
+control environment at the executing agency 
+
+Annual 
+ 
+
+7.3 Execution arrangements. As described in Section III.A. of the loan proposal. 
+
+7.4 Other financial management agreements and requirements, as set forth in 
+paragraph 3.11 of the loan proposal. 
+
+
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+ 
+ 
+ 
+ 
+
+PROPOSED RESOLUTION DE-__/18 
+ 
+ 
+ 
+
+Paraguay. Loan ____/OC-PR to Servicio Nacional de Calidad y Salud Animal (SENACSA) 
+Project to Improve and Expand Animal Health Services in Paraguay 
+
+ 
+ 
+ 
+
+The Board of Executive Directors 
+ 
+RESOLVES: 
+ 
+
+That the President of the Bank, or such representative as he shall designate, is authorized, 
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be 
+necessary with Servicio Nacional de Calidad y Salud Animal (SENACSA), as Borrower, and with 
+the Republic of Paraguay, as Guarantor, for the purpose of granting the former a financing to 
+cooperate in the execution of the Project to Improve and Expand Animal Health Services in 
+Paraguay. Such financing will be for the amount of up to US$15,000,000 from the resources of 
+the Bank’s Ordinary Capital, and will be subject to the Financial Terms and Conditions and the 
+Special Contractual Conditions of the Project Summary of the Loan Proposal. 
+ 
+ 
+ 
+
+(Adopted on __ ____________ 2018) 
+ 
+ 
+ 
+
+LEG/SGO/CSC/EZSHARE-746870777-7480 
+Pipeline No.: PR-L1148 
+
+ 
+
+
+	DEM pr-l1148_spd_validation_opc.pdf
+	Summary (I, II, III) 
+
+
+

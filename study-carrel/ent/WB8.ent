@@ -1,0 +1,320 @@
+id	sid	eid	entity	type
+WB8	1	1	12	CARDINAL
+WB8	1	2	PID/ISDS	ORG
+WB8	1	3	ADDITIONAL FINANCING Report No	ORG
+WB8	2	1	23-Dec-2016	CARDINAL
+WB8	4	1	Basic Project Data Country:	ORG
+WB8	4	2	P160964 Parent Project	ORG
+WB8	4	3	Second	ORDINAL
+WB8	4	4	Second	ORDINAL
+WB8	4	5	16-Jan-2017	CARDINAL
+WB8	4	6	30-Mar-2017	ORDINAL
+WB8	4	7	Ministry of Development Planning Implementing Agency	ORG
+WB8	4	8	Ministry of Trade and Industry Financing	ORG
+WB8	4	9	USD Million	CARDINAL
+WB8	4	10	IDA	ORG
+WB8	4	11	13.40	CARDINAL
+WB8	4	12	13.40	CARDINAL
+WB8	4	13	Decision Note	WORK_OF_ART
+WB8	6	1	12	CARDINAL
+WB8	6	2	The Kingdom of Lesotho	GPE
+WB8	6	3	1,350	MONEY
+WB8	7	1	Southern Africa	LOC
+WB8	7	2	one	CARDINAL
+WB8	8	1	about 2 million	CARDINAL
+WB8	8	2	Lesotho	PERSON
+WB8	8	3	South Africa	GPE
+WB8	8	4	second	ORDINAL
+WB8	8	5	Africa	LOC
+WB8	9	1	the Southern African Customs Union	ORG
+WB8	9	2	SACU	ORG
+WB8	9	3	the Southern African Development Community	ORG
+WB8	9	4	SADC	ORG
+WB8	9	5	the Common Monetary Area	ORG
+WB8	9	6	CMA	ORG
+WB8	10	1	➢	PRODUCT
+WB8	10	2	South African	NORP
+WB8	11	1	Lesotho➢	PERSON
+WB8	11	2	South Africa	GPE
+WB8	11	3	the United States	GPE
+WB8	12	1	Lesotho➢	PERSON
+WB8	12	2	SACU	ORG
+WB8	12	3	the African Growth and Opportunity Act	ORG
+WB8	12	4	the Trans-Pacific Partnership	ORG
+WB8	13	1	South African	NORP
+WB8	14	1	El NiÃ±o	ORG
+WB8	14	2	TB	ORG
+WB8	15	1	December 2015	DATE
+WB8	15	2	March 2017	DATE
+WB8	16	1	Lesotho➢	PERSON
+WB8	16	2	El NiÃ±o	ORG
+WB8	16	3	South Africa	GPE
+WB8	17	1	Lesotho➢	PERSON
+WB8	19	1	Lesotho➢	PERSON
+WB8	19	2	Foreign Direct Investment	ORG
+WB8	19	3	FDI	ORG
+WB8	20	1	Trans-Pacific	ORG
+WB8	20	2	FDI	ORG
+WB8	21	1	the Global Trade Reports, Doing Business Indicators	ORG
+WB8	22	1	Lesotho	PERSON
+WB8	24	1	the last two decades	DATE
+WB8	24	2	Lesotho	ORG
+WB8	28	1	3	CARDINAL
+WB8	28	2	12	CARDINAL
+WB8	30	1	AF	ORG
+WB8	32	1	AF	ORG
+WB8	32	2	three	CARDINAL
+WB8	33	1	AF	ORG
+WB8	33	2	➢	PRODUCT
+WB8	33	3	❨ s	CARDINAL
+WB8	33	4	NSDP	ORG
+WB8	33	5	2012	DATE
+WB8	33	6	❨ 2017	DATE
+WB8	35	1	two	CARDINAL
+WB8	37	1	1A	CARDINAL
+WB8	37	2	AF	ORG
+WB8	37	3	One	CARDINAL
+WB8	37	4	OBFC	ORG
+WB8	38	1	AF	ORG
+WB8	38	2	OBFC	ORG
+WB8	38	3	OBFC➢	PRODUCT
+WB8	38	4	❨ s	PRODUCT
+WB8	38	5	Business Registration	ORG
+WB8	38	6	LRA➢	ORG
+WB8	38	7	❨ s	PRODUCT
+WB8	38	8	OBFC	ORG
+WB8	38	9	OBFC	ORG
+WB8	38	10	4	CARDINAL
+WB8	38	11	12	CARDINAL
+WB8	40	1	1A	CARDINAL
+WB8	41	1	AF	ORG
+WB8	41	2	two years	DATE
+WB8	42	1	AF	ORG
+WB8	43	1	CIB	ORG
+WB8	43	2	AF	ORG
+WB8	45	1	AF	ORG
+WB8	46	1	AF	ORG
+WB8	47	1	AF	ORG
+WB8	47	2	Bill	PERSON
+WB8	47	3	the Office of the Master of the High Court	ORG
+WB8	47	4	the Master of the High Court	WORK_OF_ART
+WB8	48	1	Lesotho	ORG
+WB8	48	2	the Office of Parliamentary Counsel	ORG
+WB8	48	3	OPC	ORG
+WB8	48	4	AF	ORG
+WB8	49	1	two	CARDINAL
+WB8	51	1	Customs	ORG
+WB8	53	1	5	CARDINAL
+WB8	53	2	12	CARDINAL
+WB8	54	1	Lesotho	ORG
+WB8	56	1	US$ 1.3M	MONEY
+WB8	56	2	1A	CARDINAL
+WB8	56	3	US$ 0.03	MONEY
+WB8	56	4	US$ 1.7M	MONEY
+WB8	56	5	US$ 2.3M.	MONEY
+WB8	58	1	Subcomponent 2A	ORG
+WB8	58	2	AF	ORG
+WB8	59	1	AF	ORG
+WB8	59	2	LNDC	ORG
+WB8	59	3	entity(ies	PRODUCT
+WB8	60	1	AFDB	PRODUCT
+WB8	61	1	AF	ORG
+WB8	61	2	the Tourism & Handicraft Information Center	ORG
+WB8	63	1	AF	ORG
+WB8	65	1	Lesotho	GPE
+WB8	67	1	GoL	ORG
+WB8	68	1	Lesotho	PERSON
+WB8	69	1	6	CARDINAL
+WB8	69	2	12	CARDINAL
+WB8	70	1	LEAP	ORG
+WB8	71	1	GoL	ORG
+WB8	72	1	South Africa	GPE
+WB8	72	2	Kenya	GPE
+WB8	73	1	vii	ORG
+WB8	74	1	LICP	ORG
+WB8	75	1	AF	ORG
+WB8	76	1	the Lesotho Enterprise Assistance Program (LEAP) Program	ORG
+WB8	77	1	LEAP	ORG
+WB8	77	2	AF	ORG
+WB8	77	3	LEAP	ORG
+WB8	79	1	US$ 1.4M	MONEY
+WB8	79	2	US$ 1.7M	MONEY
+WB8	79	3	Subcomponent 2C	ORG
+WB8	79	4	US$ 2.4M	MONEY
+WB8	79	5	US$ 0.5M.	MONEY
+WB8	80	1	3	CARDINAL
+WB8	80	2	the Project Management Unit	ORG
+WB8	80	3	the Environment and Social Management	ORG
+WB8	81	1	the PSCED-II Project	ORG
+WB8	81	2	AF	ORG
+WB8	81	3	Investment Climate / Business Environment	ORG
+WB8	82	1	first	ORDINAL
+WB8	82	2	two	CARDINAL
+WB8	84	1	12	CARDINAL
+WB8	84	2	Comments	ORG
+WB8	84	3	Under Component 2	PRODUCT
+WB8	84	4	a Tourism Handicraft Centre	ORG
+WB8	84	5	Maseru	GPE
+WB8	84	6	Mahobong	GPE
+WB8	84	7	Likhetlane	GPE
+WB8	84	8	the Leribe District	LOC
+WB8	84	9	215km	QUANTITY
+WB8	84	10	Maseru	GPE
+WB8	85	1	F. Environmental and	ORG
+WB8	85	2	Kisa Mfalila	PERSON
+WB8	85	3	Nneka Okereke	PERSON
+WB8	85	4	Paula F. Lytle	PERSON
+WB8	86	1	Implementation Institutional and Implementation Arrangements Reflecting	ORG
+WB8	87	1	Project Steering Committee	ORG
+WB8	87	2	PSC	ORG
+WB8	87	3	PSC	ORG
+WB8	88	1	MTICM	ORG
+WB8	88	2	MTEC	ORG
+WB8	88	3	MAFS	ORG
+WB8	88	4	MFLR	GPE
+WB8	88	5	MoF	ORG
+WB8	88	6	MDP	ORG
+WB8	88	7	the Central Bank	ORG
+WB8	88	8	Town Clerk	PERSON
+WB8	88	9	MCC	ORG
+WB8	88	10	the Parliamentary Counsel	ORG
+WB8	88	11	LNDC	PERSON
+WB8	88	12	LTDC	ORG
+WB8	90	1	MTICM	ORG
+WB8	91	1	Project Management Unit	ORG
+WB8	91	2	Project Management Unit	ORG
+WB8	92	1	the Financial Management	ORG
+WB8	94	1	the Project Implementation Manual	ORG
+WB8	94	2	PIM	ORG
+WB8	96	1	the Project Steering Committee	ORG
+WB8	96	2	MTICM	ORG
+WB8	97	1	annual	DATE
+WB8	98	1	III	ORG
+WB8	99	1	Safeguard Policies Triggered	ORG
+WB8	100	1	8	CARDINAL
+WB8	100	2	12	CARDINAL
+WB8	100	3	Environmental Assessment OP/	ORG
+WB8	100	4	The Additional Financing to the Second Private Sector Competitiveness & Economic Diversification Project	WORK_OF_ART
+WB8	101	1	AF	ORG
+WB8	101	2	the Tourism Handicraft Center	ORG
+WB8	102	1	Global GAP	ORG
+WB8	102	2	the Environmental and Social Management Framework	ORG
+WB8	102	3	the Environmental and Social Management Plan	ORG
+WB8	103	1	Lesotho	GPE
+WB8	103	2	the Government of Lesotho	WORK_OF_ART
+WB8	103	3	PSCED-II Project	ORG
+WB8	105	1	the Additional Financing	LAW
+WB8	107	1	OP	PERSON
+WB8	107	2	OP	PERSON
+WB8	107	3	4.36	CARDINAL
+WB8	108	1	4.09	CARDINAL
+WB8	108	2	30-35 hectares	QUANTITY
+WB8	108	3	ESMF	ORG
+WB8	108	4	IPMP	ORG
+WB8	110	1	9	CARDINAL
+WB8	110	2	12	CARDINAL
+WB8	110	3	the Integrated Pest Management Plan	ORG
+WB8	110	4	IPMP	ORG
+WB8	111	1	Global Gap	ORG
+WB8	113	1	the Tourism Handicraft Center	ORG
+WB8	113	2	AF	ORG
+WB8	114	1	Peoples OP/BP	ORG
+WB8	114	2	no Indigenous Peoples	ORG
+WB8	118	1	ESMP	ORG
+WB8	120	1	International Waterways OP/BP	ORG
+WB8	121	1	OP	GPE
+WB8	121	2	7.60	CARDINAL
+WB8	126	1	GoL	ORG
+WB8	126	2	Maseru	DATE
+WB8	126	3	2C	CARDINAL
+WB8	127	1	10	CARDINAL
+WB8	127	2	12	CARDINAL
+WB8	127	3	Global GAP	ORG
+WB8	127	4	ESMP	ORG
+WB8	127	5	ESMF	ORG
+WB8	128	1	2	CARDINAL
+WB8	130	1	3	CARDINAL
+WB8	132	1	N/A 4	ORG
+WB8	135	1	AF	ORG
+WB8	135	2	PSCED II Project	ORG
+WB8	136	1	the Tourism Handicraft Centre	FAC
+WB8	136	2	ESMP	ORG
+WB8	136	3	ESMF	ORG
+WB8	138	1	World Bank	ORG
+WB8	138	2	Bank	ORG
+WB8	139	1	5	CARDINAL
+WB8	141	1	the Ministry of Trade and Industry	ORG
+WB8	141	2	The Ministry of Agriculture and Food Security	ORG
+WB8	141	3	the Ministry of Trade and Industry	ORG
+WB8	141	4	The Ministry of Forestry	ORG
+WB8	141	5	The Project Steering Committee	ORG
+WB8	141	6	MTICM	NORP
+WB8	141	7	MTEC	ORG
+WB8	141	8	MAFS	ORG
+WB8	141	9	MFLS	ORG
+WB8	141	10	the Central Bank	ORG
+WB8	141	11	Registrar General	ORG
+WB8	141	12	LNDC	PERSON
+WB8	141	13	LTDC	ORG
+WB8	141	14	The National Environmental Secretariat	ORG
+WB8	141	15	NES	ORG
+WB8	141	16	Lesotho	PERSON
+WB8	141	17	Maseru	GPE
+WB8	141	18	vii	ORG
+WB8	141	19	PSCEDP II	ORG
+WB8	141	20	the Lesotho Revenue Authority	ORG
+WB8	141	21	LRA	ORG
+WB8	141	22	Project	ORG
+WB8	143	1	23-Dec-2016	DATE
+WB8	143	2	Disclosure Lesotho 22-Dec-2016 Comments: Disclosed	WORK_OF_ART
+WB8	143	3	11	CARDINAL
+WB8	143	4	12	CARDINAL
+WB8	144	1	23-Dec-2016	DATE
+WB8	144	2	Disclosure Lesotho	WORK_OF_ART
+WB8	144	3	the Environmental Assessment/ Audit	ORG
+WB8	144	4	EMP	ORG
+WB8	145	1	C. Compliance Monitoring Indicators	PERSON
+WB8	145	2	BP	GPE
+WB8	145	3	EMP	WORK_OF_ART
+WB8	146	1	NA	ORG
+WB8	146	2	the Regional Environment Unit	ORG
+WB8	146	3	EA	PERSON
+WB8	147	1	NA	ORG
+WB8	147	2	EMP	ORG
+WB8	148	1	NA	ORG
+WB8	148	2	4.09 - Pest Management Does the EA	ORG
+WB8	149	1	NA	ORG
+WB8	150	1	NA	ORG
+WB8	152	1	NA	ORG
+WB8	152	2	The World Bank Policy on Disclosure of Information	ORG
+WB8	152	3	the World Bank's	ORG
+WB8	153	1	NA	ORG
+WB8	154	1	NA	ORG
+WB8	154	2	All Safeguard Policies	WORK_OF_ART
+WB8	155	1	NA	ORG
+WB8	156	1	NA	ORG
+WB8	156	2	NA	ORG
+WB8	156	3	12	CARDINAL
+WB8	156	4	12	CARDINAL
+WB8	158	1	NA	ORG
+WB8	158	2	V. Contact	PERSON
+WB8	158	3	World Bank Contact:	ORG
+WB8	158	4	Maria Paulina Mogollon	PERSON
+WB8	158	5	Ministry of Development Planning Contact:	ORG
+WB8	158	6	Tlohelang Aumane Title	ORG
+WB8	158	7	Email	PERSON
+WB8	158	8	Ministry of Trade and Industry	ORG
+WB8	158	9	Fusi Notoane	PERSON
+WB8	158	10	Email	PERSON
+WB8	159	1	The World Bank 1818 H Street	ORG
+WB8	159	2	NW	GPE
+WB8	159	3	Washington	GPE
+WB8	159	4	202	CARDINAL
+WB8	159	5	473-1000	CARDINAL
+WB8	160	1	Maria Paulina	PERSON
+WB8	160	2	Nathalie S. Munzberg	PERSON
+WB8	160	3	SA	ORG
+WB8	160	4	23-Dec-2016	CARDINAL
+WB8	160	5	David Bridgman	PERSON
+WB8	160	6	27-Dec-2016	CARDINAL
+WB8	160	7	Ivan Velev	PERSON

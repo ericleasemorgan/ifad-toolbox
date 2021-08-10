@@ -1,0 +1,518 @@
+id	sid	eid	entity	type
+WB78	1	1	World Bank Document	ORG
+WB78	1	2	Irrigated Agriculture Project	ORG
+WB78	1	3	Mar 13, 2018 Page	DATE
+WB78	1	4	PID/ISDS	ORG
+WB78	1	5	The World Bank Climate	ORG
+WB78	1	6	Irrigated Agriculture Project	ORG
+WB78	1	7	Mar 13, 2018	DATE
+WB78	1	8	2	CARDINAL
+WB78	1	9	20	CARDINAL
+WB78	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
+WB78	2	2	Sri Lanka P163742	ORG
+WB78	2	3	08-Nov-2018	TIME
+WB78	2	4	The Project Development Objective	ORG
+WB78	3	1	Millions	CARDINAL
+WB78	3	2	140.00	CARDINAL
+WB78	3	3	140.00	CARDINAL
+WB78	3	4	0.00	CARDINAL
+WB78	3	5	h1 World Bank Group Financing International Bank for Reconstruction and Development	ORG
+WB78	3	6	125.00	CARDINAL
+WB78	3	7	Irrigated Agriculture Project	ORG
+WB78	3	8	Mar 13, 2018	DATE
+WB78	3	9	20	CARDINAL
+WB78	3	10	15.00	CARDINAL
+WB78	3	11	10.00	CARDINAL
+WB78	3	12	5.00	CARDINAL
+WB78	4	1	Context 1	DATE
+WB78	5	1	Sri Lanka	GPE
+WB78	5	2	USD 4,073	CARDINAL
+WB78	5	3	2017	DATE
+WB78	5	4	21.4 million	CARDINAL
+WB78	6	1	30 years	DATE
+WB78	6	2	2009	DATE
+WB78	6	3	Sri Lanka	GPE
+WB78	6	4	5.8 percent	PERCENT
+WB78	6	5	2010-2017	DATE
+WB78	6	6	the last few years	DATE
+WB78	8	1	15.3 percent	PERCENT
+WB78	8	2	2006/07 to 4.1 percent	PERCENT
+WB78	8	3	2016	DATE
+WB78	10	1	2	CARDINAL
+WB78	11	1	2015	DATE
+WB78	13	1	2017	DATE
+WB78	13	2	Government	ORG
+WB78	13	3	Vision 2025	PRODUCT
+WB78	14	1	Sri Lanka	GPE
+WB78	15	1	3	CARDINAL
+WB78	16	1	Sri Lanka	GPE
+WB78	17	1	annual	DATE
+WB78	17	2	50 billion	CARDINAL
+WB78	17	3	USD 327 million	MONEY
+WB78	17	4	annual	DATE
+WB78	18	1	0.4 percent	PERCENT
+WB78	18	2	2.1 percent	PERCENT
+WB78	19	1	2016	DATE
+WB78	19	2	2017	DATE
+WB78	19	3	between 1992 and 2011	DATE
+WB78	22	1	Sri Lanka	GPE
+WB78	23	1	7.7 percent	PERCENT
+WB78	23	2	approximately 27 percent	PERCENT
+WB78	24	1	approximately 2.3 million	CARDINAL
+WB78	24	2	around 80 percent	PERCENT
+WB78	24	3	around 1.65 million	CARDINAL
+WB78	24	4	less than	CARDINAL
+WB78	24	5	2 hectares	QUANTITY
+WB78	25	1	Sri Lanka	GPE
+WB78	25	2	The World Bank Climate	ORG
+WB78	25	3	Irrigated Agriculture Project	ORG
+WB78	25	4	Mar 13,	DATE
+WB78	25	5	4 of 20	CARDINAL
+WB78	26	1	Research and Development	ORG
+WB78	26	2	only three percent	PERCENT
+WB78	28	1	Total Factor Productivity	ORG
+WB78	28	2	0.6 percent	PERCENT
+WB78	28	3	1980	DATE
+WB78	28	4	Sri Lanka	GPE
+WB78	28	5	South	LOC
+WB78	28	6	East Asian	NORP
+WB78	29	1	38 percent	PERCENT
+WB78	29	2	Sri Lanka	GPE
+WB78	30	1	more than 60 percent	PERCENT
+WB78	31	1	only 10 percent	PERCENT
+WB78	31	2	90 percent	PERCENT
+WB78	32	1	5	CARDINAL
+WB78	34	1	Sri Lanka	GPE
+WB78	35	1	between 500 BC and 300 AD	TIME
+WB78	37	1	approximately 74,150	CARDINAL
+WB78	37	2	approximately 154,744	CARDINAL
+WB78	38	1	annual	DATE
+WB78	39	1	2016	DATE
+WB78	39	2	2017	DATE
+WB78	39	3	1,927,069	CARDINAL
+WB78	39	4	17	CARDINAL
+WB78	39	5	the Disaster Management Centre	ORG
+WB78	40	1	Maha	ORG
+WB78	40	2	2016	DATE
+WB78	40	3	612,224	CARDINAL
+WB78	40	4	50,615	CARDINAL
+WB78	40	5	MT	ORG
+WB78	40	6	2.383 million	CARDINAL
+WB78	40	7	30 percent	PERCENT
+WB78	40	8	last ten years	DATE
+WB78	41	1	6	CARDINAL
+WB78	45	1	the Department of Agrarian Development	ORG
+WB78	45	2	the Ministry of Agriculture (MoA	ORG
+WB78	45	3	the World Food Program	ORG
+WB78	45	4	WFP	ORG
+WB78	45	5	the International Water Management Institute	ORG
+WB78	45	6	IWMI	ORG
+WB78	46	1	7	CARDINAL
+WB78	50	1	1978	DATE
+WB78	50	2	Participatory Irrigation Management	ORG
+WB78	50	3	PIM	ORG
+WB78	51	1	PIM	ORG
+WB78	51	2	1992	DATE
+WB78	51	3	Farmer Organizations	ORG
+WB78	51	4	the Agrarian Services Act	ORG
+WB78	51	5	1991	DATE
+WB78	53	1	three	CARDINAL
+WB78	53	2	Ministry of Irrigation, Water Resource	ORG
+WB78	53	3	Disaster Management (MIWRDM	ORG
+WB78	53	4	Ministry of Agriculture (MoA	ORG
+WB78	53	5	Provincial Councils	ORG
+WB78	56	1	O&M	ORG
+WB78	57	1	World Bank	ORG
+WB78	57	2	Irrigated Agriculture Project	ORG
+WB78	57	3	Mar 13, 2018	DATE
+WB78	57	4	5	CARDINAL
+WB78	57	5	20 8	DATE
+WB78	60	1	Firstly	ORDINAL
+WB78	62	1	Secondly	ORDINAL
+WB78	64	1	9	CARDINAL
+WB78	71	1	C. Proposed Development	PERSON
+WB78	71	2	PAD	ORG
+WB78	71	3	10	CARDINAL
+WB78	72	1	The Project Development Objective	ORG
+WB78	74	1	2	CARDINAL
+WB78	74	2	3	CARDINAL
+WB78	74	3	4	CARDINAL
+WB78	74	4	CRI	ORG
+WB78	76	1	World Bank	ORG
+WB78	76	2	Irrigated Agriculture Project	ORG
+WB78	76	3	Mar 13,	DATE
+WB78	76	4	6	CARDINAL
+WB78	76	5	20	CARDINAL
+WB78	78	1	Farmer Organizations	ORG
+WB78	79	1	13	CARDINAL
+WB78	87	1	14	CARDINAL
+WB78	88	1	470,000	CARDINAL
+WB78	88	2	375,000	CARDINAL
+WB78	88	3	eleven	CARDINAL
+WB78	88	4	Kilinochchi	PERSON
+WB78	88	5	Mullaitivu	GPE
+WB78	88	6	Anuradhapura	GPE
+WB78	88	7	Polonnaruwa	GPE
+WB78	88	8	Puttalam	GPE
+WB78	88	9	Kurunegala	GPE
+WB78	88	10	Trincomalee	GPE
+WB78	88	11	Batticaloa	GPE
+WB78	88	12	Ampara	GPE
+WB78	88	13	Hambantota	GPE
+WB78	88	14	Moneragala	GPE
+WB78	88	15	six	CARDINAL
+WB78	88	16	Northern	LOC
+WB78	88	17	North Central	LOC
+WB78	88	18	North Western	LOC
+WB78	88	19	Eastern	ORG
+WB78	88	20	Southern	NORP
+WB78	88	21	Sri The World Bank	ORG
+WB78	88	22	Irrigated Agriculture Project	ORG
+WB78	88	23	Mar 13, 2018 Page	DATE
+WB78	88	24	20	CARDINAL
+WB78	88	25	9	CARDINAL
+WB78	89	1	1.0	CARDINAL
+WB78	89	2	2.0	CARDINAL
+WB78	89	3	less than 1.0	CARDINAL
+WB78	93	1	15	CARDINAL
+WB78	94	1	Hot-Spot Area Development Model	ORG
+WB78	94	2	agrarian	NORP
+WB78	94	3	Sri Lanka	GPE
+WB78	94	4	agrarian	NORP
+WB78	95	1	the Hot-Spot Area Development	ORG
+WB78	97	1	agrarian	NORP
+WB78	98	1	1	CARDINAL
+WB78	98	2	2	CARDINAL
+WB78	98	3	3	CARDINAL
+WB78	99	1	year-round	DATE
+WB78	100	1	16	CARDINAL
+WB78	101	1	three	CARDINAL
+WB78	102	1	first	ORDINAL
+WB78	102	2	2018–2021	CARDINAL
+WB78	102	3	three	CARDINAL
+WB78	102	4	Hot-Spot Areas	ORG
+WB78	102	5	Anuradhapura	ORG
+WB78	102	6	Kurunegala	GPE
+WB78	102	7	Kilinochchi	PERSON
+WB78	102	8	second	ORDINAL
+WB78	102	9	2020–2023	CARDINAL
+WB78	102	10	third	ORDINAL
+WB78	102	11	2021–2024	CARDINAL
+WB78	102	12	eight	CARDINAL
+WB78	103	1	annually	DATE
+WB78	104	1	3 years	DATE
+WB78	104	2	O&M	ORG
+WB78	106	1	US$ 42 million	MONEY
+WB78	108	1	18	CARDINAL
+WB78	109	1	US$ 92 million	MONEY
+WB78	110	1	1 Headington Institute	ORG
+WB78	111	1	n.d	ORG
+WB78	113	1	Bahadur et al	PERSON
+WB78	114	1	2015	DATE
+WB78	114	2	1973	DATE
+WB78	115	1	World Bank	ORG
+WB78	115	2	Irrigated Agriculture Project	ORG
+WB78	115	3	Mar 13,	DATE
+WB78	115	4	8 of 20	CARDINAL
+WB78	116	1	19	CARDINAL
+WB78	117	1	Project Management	ORG
+WB78	117	2	US$ 6 million	MONEY
+WB78	119	1	PMU and DPD Offices	LAW
+WB78	120	1	20	CARDINAL
+WB78	121	1	US$ 0.0 million	MONEY
+WB78	123	1	21	CARDINAL
+WB78	124	1	about 95 percent	PERCENT
+WB78	125	1	22	CARDINAL
+WB78	126	1	six-year	DATE
+WB78	126	2	IPF	ORG
+WB78	127	1	US$140 million	MONEY
+WB78	127	2	US$125 million	MONEY
+WB78	127	3	US$ 10 million	MONEY
+WB78	127	4	US$ 5 million	MONEY
+WB78	128	1	US$ 5 million	MONEY
+WB78	128	2	Loan Agreement	ORG
+WB78	128	3	July 01, 2018	DATE
+WB78	129	1	E. Implementation 23	PERSON
+WB78	130	1	the National Poverty Alleviation Programme	ORG
+WB78	130	2	the People’s Company of the Grama Shakthi Programme	ORG
+WB78	130	3	Grama Niladhari Division	ORG
+WB78	130	4	GND	ORG
+WB78	131	1	World Bank	ORG
+WB78	131	2	Irrigated Agriculture Project	ORG
+WB78	131	3	Mar 13, 2018	DATE
+WB78	131	4	9	CARDINAL
+WB78	131	5	20 24	CARDINAL
+WB78	132	1	GOSL	PERSON
+WB78	132	2	Grama Niladhari Division	ORG
+WB78	133	1	Project Management Unit	ORG
+WB78	133	2	the Ministry of Agriculture	ORG
+WB78	133	3	the Ministries of Irrigation & Water Resources Management	ORG
+WB78	133	4	Provincial Councils and Local Government	ORG
+WB78	134	1	Provincial DPD Offices	ORG
+WB78	134	2	Provinces	LOC
+WB78	135	1	The Provincial DPD Offices	ORG
+WB78	135	2	Kilinochchi	GPE
+WB78	135	3	Kurunegala	GPE
+WB78	135	4	Anuradhapura	GPE
+WB78	135	5	Trincomalee	GPE
+WB78	135	6	Hambantota	GPE
+WB78	135	7	Moneragala Districts	PERSON
+WB78	136	1	District Unit of the DPD Office	ORG
+WB78	136	2	the Office of the Assistant Commissioner of Agrarian Development	ORG
+WB78	136	3	Batticaloa	PERSON
+WB78	136	4	Mullaitivu	GPE
+WB78	136	5	Polonnaruwa	PERSON
+WB78	137	1	25	CARDINAL
+WB78	138	1	the District Planning Director	ORG
+WB78	139	1	PAT	ORG
+WB78	139	2	DPD	ORG
+WB78	140	1	District	GPE
+WB78	141	1	the Advisory Committee	ORG
+WB78	142	1	The Advisory Committee	ORG
+WB78	142	2	CSIAP	ORG
+WB78	143	1	26	CARDINAL
+WB78	144	1	the Provincial DPD Office	ORG
+WB78	144	2	the Agrarian Service Center (ASC	ORG
+WB78	145	1	Provincial DPD	ORG
+WB78	145	2	the District Unit	ORG
+WB78	146	1	Farmer Organizations	ORG
+WB78	146	2	Grama Shakthi	PERSON
+WB78	146	3	the Grama Niladhari Division	ORG
+WB78	146	4	GND	ORG
+WB78	148	1	Annex 2 of the	ORG
+WB78	148	2	PAD	ORG
+WB78	149	1	27	CARDINAL
+WB78	150	1	the Ministry of Agriculture	ORG
+WB78	150	2	MOA	ORG
+WB78	151	1	MOA	ORG
+WB78	151	2	the Ministry of Irrigation, Water Resource	ORG
+WB78	151	3	Disaster Management (MIWRDM	ORG
+WB78	151	4	Department of Agriculture	ORG
+WB78	151	5	DOA	ORG
+WB78	151	6	Department of Agrarian Development	ORG
+WB78	151	7	DAD	ORG
+WB78	151	8	Irrigation Department	ORG
+WB78	152	1	day	DATE
+WB78	152	2	the Project Management Unit	ORG
+WB78	152	3	PD	ORG
+WB78	152	4	MOA	ORG
+WB78	152	5	MIWRDM	ORG
+WB78	152	6	MSPCLG	ORG
+WB78	154	1	MoA	PERSON
+WB78	154	2	ASMP	ORG
+WB78	155	1	the National Project Steering Committee	ORG
+WB78	155	2	the Ministry of National Policies and Economic Affairs	ORG
+WB78	156	1	NPSC	ORG
+WB78	157	1	NPSC	ORG
+WB78	157	2	annual	DATE
+WB78	157	3	Bank	ORG
+WB78	157	4	Irrigated Agriculture Project	ORG
+WB78	157	5	Mar 13,	DATE
+WB78	157	6	Bank	ORG
+WB78	158	1	28	CARDINAL
+WB78	159	1	annual	DATE
+WB78	159	2	PIP	ORG
+WB78	159	3	the World Bank	ORG
+WB78	159	4	IPF Borrowers	ORG
+WB78	159	5	2016	DATE
+WB78	160	1	quarterly	DATE
+WB78	160	2	annual	DATE
+WB78	160	3	the World Bank	ORG
+WB78	162	1	F. Project	ORG
+WB78	162	2	11	CARDINAL
+WB78	162	3	at least 5	CARDINAL
+WB78	163	1	annual	DATE
+WB78	163	2	900mm	QUANTITY
+WB78	163	3	November to January	DATE
+WB78	163	4	annual	DATE
+WB78	163	5	between 28	CARDINAL
+WB78	163	6	32	CARDINAL
+WB78	164	1	more than three months	DATE
+WB78	166	1	hundreds of years	DATE
+WB78	167	1	annual	DATE
+WB78	171	1	about 30%	PERCENT
+WB78	171	2	Sri Lanka	GPE
+WB78	172	1	one	CARDINAL
+WB78	178	1	World Bank	ORG
+WB78	178	2	Irrigated Agriculture Project	ORG
+WB78	178	3	Mar 13, 2018	DATE
+WB78	178	4	20	CARDINAL
+WB78	178	5	G. Environmental	ORG
+WB78	178	6	Bandita Sijapati	PERSON
+WB78	178	7	Social Safeguards Specialist SAFEGUARD	ORG
+WB78	179	1	EAMF	ORG
+WB78	182	1	RPF	GPE
+WB78	188	1	OP	PERSON
+WB78	188	2	4.36	MONEY
+WB78	192	1	The World Bank Climate	ORG
+WB78	192	2	Irrigated Agriculture Project	ORG
+WB78	192	3	Mar 13, 2018 Page	DATE
+WB78	192	4	12 of 20	CARDINAL
+WB78	192	5	4.01	CARDINAL
+WB78	192	6	4.37	CARDINAL
+WB78	193	1	4.09	MONEY
+WB78	195	1	Integrated Pest Management	ORG
+WB78	195	2	IPM	ORG
+WB78	196	1	4.11	CARDINAL
+WB78	198	1	OP	PERSON
+WB78	198	2	4.01	CARDINAL
+WB78	199	1	Peoples OP/BP	ORG
+WB78	200	1	OP	PERSON
+WB78	204	1	RPF	GPE
+WB78	204	2	OP/BP 4.12	ORG
+WB78	205	1	Strategic Environmental Social Assessment (SESA	ORG
+WB78	206	1	World Bank	ORG
+WB78	206	2	Irrigated Agriculture Project	ORG
+WB78	206	3	Mar 13, 2018 Page 13 of 20 Safety of Dams	DATE
+WB78	206	4	OP	PERSON
+WB78	206	5	4.01	CARDINAL
+WB78	207	1	The Dam Safety	ORG
+WB78	207	2	Water Resources Management Project	ORG
+WB78	207	3	the World Bank	ORG
+WB78	210	1	International Waterways OP/BP	ORG
+WB78	211	1	Disputed Areas OP/BP	ORG
+WB78	215	1	Ampara	GPE
+WB78	215	2	Batticaloa	GPE
+WB78	215	3	Trincomalee	GPE
+WB78	215	4	Kilinochchi	GPE
+WB78	215	5	Mullaitivu	GPE
+WB78	215	6	Anuradhapura	GPE
+WB78	215	7	Polonnaruwa	GPE
+WB78	215	8	Puttalam	GPE
+WB78	215	9	Kurunegala	GPE
+WB78	215	10	Hambantota	GPE
+WB78	215	11	Moneragala Districts	PERSON
+WB78	215	12	Eastern, Northern	LOC
+WB78	215	13	North Central	LOC
+WB78	215	14	North Western	LOC
+WB78	215	15	Uva Provinces	PERSON
+WB78	216	1	first	ORDINAL
+WB78	216	2	2018-2021	DATE
+WB78	216	3	three	CARDINAL
+WB78	216	4	Hot Spot Areas	ORG
+WB78	216	5	second	ORDINAL
+WB78	216	6	2020-2022	DATE
+WB78	216	7	third	ORDINAL
+WB78	216	8	2022-2024	DATE
+WB78	216	9	eight	CARDINAL
+WB78	220	1	2	CARDINAL
+WB78	220	2	The World Bank Climate	ORG
+WB78	220	3	Irrigated Agriculture Project	ORG
+WB78	220	4	Mar 13,	DATE
+WB78	220	5	14	CARDINAL
+WB78	220	6	20	CARDINAL
+WB78	230	1	2	CARDINAL
+WB78	231	1	11	CARDINAL
+WB78	233	1	3	CARDINAL
+WB78	236	1	RPF	ORG
+WB78	238	1	RPF	ORG
+WB78	239	1	4	CARDINAL
+WB78	241	1	The World Bank Climate	ORG
+WB78	241	2	Irrigated Agriculture Project	ORG
+WB78	241	3	Mar 13, 2018	DATE
+WB78	241	4	15 of 20	CARDINAL
+WB78	242	1	An Environmental Assessment and Management Framework	ORG
+WB78	244	1	EAMF	ORG
+WB78	247	1	Pest Management Plan	LAW
+WB78	247	2	PMP	ORG
+WB78	247	3	the Agriculture Modernization Project	ORG
+WB78	247	4	Integrated Pest Management	ORG
+WB78	247	5	IPM	ORG
+WB78	248	1	RPF	GPE
+WB78	249	1	WB	ORG
+WB78	249	2	Involuntary Resettlement	ORG
+WB78	249	3	vii	ORG
+WB78	249	4	GoSL	FAC
+WB78	249	5	WB	ORG
+WB78	250	1	EAMF	ORG
+WB78	250	2	RPF	GPE
+WB78	250	3	Strategic Environmental	ORG
+WB78	250	4	Social Assessments	ORG
+WB78	255	1	the Dam Safety Panels	ORG
+WB78	255	2	the Department of Irrigation and Mahaweli Authority	ORG
+WB78	255	3	Sri Lanka	GPE
+WB78	257	1	EAMF	ORG
+WB78	258	1	World Bank	ORG
+WB78	258	2	Irrigated Agriculture Project	ORG
+WB78	258	3	Mar 13,	DATE
+WB78	258	4	16 of 20	CARDINAL
+WB78	258	5	the Ministry of Agriculture	ORG
+WB78	258	6	the Irrigation Department	ORG
+WB78	258	7	two	CARDINAL
+WB78	258	8	Bank	ORG
+WB78	259	1	Eastern	ORG
+WB78	259	2	World Bank	ORG
+WB78	261	1	5	CARDINAL
+WB78	265	1	18 June 2018	DATE
+WB78	265	2	Anuradhapura	GPE
+WB78	265	3	21 June 2018	DATE
+WB78	265	4	Colombo	GPE
+WB78	265	5	minutes	TIME
+WB78	265	6	RPF	GPE
+WB78	266	1	RPF	ORG
+WB78	268	1	RPF	ORG
+WB78	268	2	EAMF	ORG
+WB78	268	3	EMP	ORG
+WB78	268	4	SIMP	ORG
+WB78	268	5	RAP	ORG
+WB78	269	1	RPF	GPE
+WB78	269	2	World Bank's	ORG
+WB78	271	1	the Bank Date	ORG
+WB78	271	2	31-May-2018 15-Jun-2018	DATE
+WB78	271	3	Disclosure OPS_RA_D ISCL OSURE_T ABLE Resettlement Action Plan/Framework/Policy Process Date	WORK_OF_ART
+WB78	271	4	the Bank Date	ORG
+WB78	271	5	15-Jun-2018	DATE
+WB78	271	6	World Bank	ORG
+WB78	271	7	Irrigated Agriculture Project	ORG
+WB78	271	8	Mar 13,	DATE
+WB78	271	9	ISCL OSURE_TA BLE Pest Management Plan	ORG
+WB78	272	1	the Bank Date	ORG
+WB78	272	2	31-May-2018 15-Jun-2018	DATE
+WB78	272	3	Disclosure OPS_PM_ PC R_TAB LE	WORK_OF_ART
+WB78	272	4	the Environmental Assessment/Audit	ORG
+WB78	272	5	EMP	ORG
+WB78	273	1	C. Compliance Monitoring Indicators	PERSON
+WB78	273	2	the Corporate Level	ORG
+WB78	273	3	ISDS	ORG
+WB78	273	4	EMP	ORG
+WB78	274	1	the Regional Environment Unit	ORG
+WB78	274	2	EA	PERSON
+WB78	275	1	EMP	ORG
+WB78	276	1	NH_C	PERSON
+WB78	276	2	BLE OP/BP	ORG
+WB78	277	1	Irrigated Agriculture Project	ORG
+WB78	277	2	Mar 13, 2018	DATE
+WB78	277	3	18 of 20	CARDINAL
+WB78	277	4	Bank	ORG
+WB78	278	1	NA	ORG
+WB78	278	2	PM_C	PERSON
+WB78	278	3	4.09 - Pest Management	PERCENT
+WB78	280	1	PM	TIME
+WB78	283	1	BP	ORG
+WB78	284	1	Regional	ORG
+WB78	285	1	OPS_F	GPE
+WB78	285	2	BLE OP/BP	ORG
+WB78	286	1	NA	ORG
+WB78	287	1	NA	ORG
+WB78	288	1	TABLE OP	PERSON
+WB78	289	1	POE	ORG
+WB78	289	2	Bank	ORG
+WB78	291	1	Irrigated Agriculture Project	ORG
+WB78	291	2	Mar 13,	DATE
+WB78	291	3	19 of 20	CARDINAL
+WB78	291	4	the World Bank	ORG
+WB78	297	1	Andrew D. Goodland	PERSON
+WB78	297	2	Shyam KC	PERSON
+WB78	297	3	R. H. S. Samaratunge	PERSON
+WB78	297	4	Treasury	ORG
+WB78	297	5	Irrigated Agriculture Project	ORG
+WB78	297	6	Mar 13, 2018	DATE
+WB78	297	7	20	CARDINAL
+WB78	297	8	Ministry of Agriculture B Wijayaratne	ORG
+WB78	297	9	NW	GPE
+WB78	297	10	Washington	GPE
+WB78	297	11	202	CARDINAL
+WB78	297	12	473-1000	CARDINAL
+WB78	297	13	Manoharan Andrew D. Goodland	PERSON
+WB78	297	14	Chakib Jenane 21-Aug-2018	PERSON
+WB78	297	15	Valerie Marie Helene Layrol	PERSON

@@ -1,0 +1,3363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+ 
+AFRICAN DEVELOPMENT BANK GROUP 
+
+ 
+
+ 
+ 
+ 
+
+CHAD 
+ 
+ 
+
+PROJECT TO BUILD RESILIENCE FOR FOOD SECURITY AND 
+NUTRITION IN CHAD’S RURAL COMMUNITIES 
+
+ 
+ 
+
+ 
+ 
+
+APPRAISAL REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RDGC/AHAI 
+
+ 
+November 2018 
+
+ 
+ 
+ 
+
+         Translated document
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+au
+
+th
+or
+
+iz
+ed
+
+  
+ 
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+au
+
+th
+or
+
+iz
+ed
+
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+
+Table of Contents  
+ 
+Abbreviations and Acronyms ............................................................................................. ii 
+Grant Information ................................................................................................................ iii 
+Project Summary .................................................................................................................. iv 
+Results-Based Logical Framework ....................................................................................... vi 
+Implementation Schedule ................................................................................................ xiiiiv 
+1. STRATEGIC THRUSTS AND RATIONALE ............................................................... 1 
+
+1.1 Project Linkages with Country Strategy and Objectives .......................................... 1 
+1.2 Rationale for the Bank’s Involvement .................................................................... .1 
+1.3  Donor Coordination……………………………………………………………………2 
+
+2. PROJECT DESCRIPTION ............................................................................................ 2 
+2.1 Objectives/Components of P2RS (Core Project) and GEF Project................................ 2 
+
+    2.2 Project Components……………………………….……………………………………4 
+2.3 Project Type ................................................................................................................ 6 
+2.4 Project Costs and Financing Arrangements .................................................................. 6 
+2.5 Project Impact Area ..................................................................................................... 7 
+2.6 Participatory Approach for the Project Identification, Design and Implementation....... 8 
+2.7  Bank Group's Experience and Lessons Learned Reflected in the Project Design ......... 9 
+
+   2.8. Key Performance Indicators        …9 
+3. PROJECT FEASIBILITY ............................................................................................... 10 
+
+3.1 Economic and Financial Performance ........................................................................ 10 
+3.2 Environmental and Social Impacts ............................................................................. 10 
+3.3 Project Rationale ..................................................................................................... 111 
+3.4  Project Objectives and Description ........................................................................... 12 
+
+4 IMPLEMENTATION .................................................................................................. 13 
+4.1 Implementation Arrangements ................................................................................... 13 
+
+   4.2 Procurement Procedure  ……………………………………………………………….14 
+   4.3 Financial Management and Disbursement Procedures…………………..…………….14 
+
+4.4 Monitoring ................................................................................................................ 15 
+4.5 Governance ............................................................................................................... 16 
+4.6 Sustainability ............................................................................................................. 16 
+
+4.7 Risk Management……………………………………………………………………....16 
+4.8 Knowledge Building .................................................................................................. 17 
+
+5 LEGAL INSTRUMENTS AND AUTHORITY ........................................................... 18 
+5.1 Legal Instruments ...................................................................................................... 18 
+5.2 Conditions Associated with Bank Intervention .......................................................... 18 
+5.3 Compliance with Bank Policies ................................................................................. 18 
+
+6 RECOMMENDATION ............................................................................................... 19 
+ 
+Annex 1:  Project Implementation Organisational Structure 
+Annex 2:  Country map 
+Annex 3:  Comparative socio-economic indicators 
+ 
+ 
+ 
+
+
+
+ 
+
+i 
+ 
+
+ 
+Currency Equivalents  
+
+October 2018 
+ 
+
+UA 1   =  CFAF 790.62 
+USD1   = CFAF 566.65 
+UA 1   =  USD 1.40  
+EUR 1     =  CFAF 655.957  
+UA 1   = EUR 1.21  
+UA 1   = SDR 1  
+
+ 
+ 
+
+Fiscal Year  
+1 July – 30 June  
+
+ 
+ 
+
+Weights and Measures  
+ 
+
+1 tonne (t)  =  2 204 pounds  
+1 kilogramme (kg)  =  2.200 pounds 
+1 metre (m)   =  3.28 feet  
+1 millimetre (mm)  =  0.03937 inch 
+1 kilometre (km)  =  0.62 mile  
+1 hectare (ha)  =  2.471 acres 
+
+  
+
+
+
+ 
+
+ii 
+ 
+
+Acronyms and Abbreviations  
+ 
+AfDB   African Development Bank 
+ANADER National Agency for Rural Development 
+AWPB  Annual Work Plan and Budget  
+BD  Biodiversity 
+BH  Budget Holder 
+CBO  Community-Based Organization 
+CEO  Chief Executive Officer  
+CSO  Civil Society Organisation  
+CSP  Country Strategy Paper  
+ERR  Economic Rate of Return  
+FCFA  Franc of Financial Cooperation in Central Africa 
+FEMSec GEF Secretariat 
+FO  Farmers' Organization 
+GDP  Gross Domestic Product 
+GEF  Global Environment Facility 
+GPRS2 Second Generation Growth and Poverty Reduction Strategy 
+Ha  Hectare 
+HDI  Human Development Index 
+IGA   Income-Generating Activities  
+IMF  International Monetary Fund 
+INRM  Integrated Natural Resource Management 
+lbs  Pounds  
+M&E   Monitoring and Evaluation 
+NAPA  National Adaptation Programme of Action 
+NBSAP National Biodiversity Strategy and Action Plan 
+NGO  Non-Governmental Organization 
+No.  Number 
+NPV  Net Present Value  
+NRM  Natural Resource Management 
+P2RS Programme to Build Resilience to Food and Nutrition Insecurity in the Sahel 
+PARSAT Project to Improve the Resilience of Agricultural Systems  in Chad 
+PIF  Project Identification Form 
+PIR  Project Implementation Review/Report 
+PMC  Project Management Cost 
+PMERL Participatory Monitoring, Evaluation, Reflection and Learning 
+PMU  Project Management Unit 
+PRAPS Regional Sahel Pastoralism Support Project  
+ProDoc Project Document  
+RAP  Project Progress Report 
+SFM  Sustainable Forest Management 
+SFM  Sustainable Land Management 
+SHG  Self-Help Group 
+SLFM  Sustainable Land and Forest Management 
+SLWM Sustainable Land and Water Management 
+UA  Unit of Account  
+UNFCCC United Nations Framework Convention on Climate Change 
+USD   United States Dollar  
+VAT  Value Added Tax 
+
+
+
+ 
+
+iii 
+ 
+
+Project Information Sheet  
+
+Client Information  
+Borrower    :  Republic of Chad 
+ 
+ 
+EXECUTING AGENCY:  Ministry in charge of Agriculture 
+ 
+Financing Plan  
+ 
+Source Amount (in USD) Instrument 
+GEF 5,329,452 Grant 
+ADF 15,045,800 Grant (already 
+
+approved) 
+TOTAL COST 20,375,252  
+
+ 
+Key Financing Information  
+
+ 
+Grant Currency  
+
+ 
+USD 
+
+Duration  36 Months 
+ERR, NPV (baseline scenario) 13% 
+
+*if need be  
+ 
+Timeframe  – Main Milestones (expected) 
+ 
+
+ 
+GEF Project Information Sheet (PIS) approval  
+
+ 
+April 2015 
+
+Project validation by the  GEF Chief Executive 
+Officer  and  Chairperson  
+
+September 2017 
+
+AfDB Board Approval   
+Signing of Grant Agreement   
+Effectiveness   
+Mid-term Review  
+Date of Last Disbursement   
+Completion  31 December 2022 
+Last Reimbursement  N/A 
+
+ 
+
+
+
+ 
+
+iv 
+ 
+
+Project Executive Summary 
+
+1.1 Project Overview: A Global Environment Facility (GEF) grant of USD 5,329,452 (UA 
+3.807 million) was mobilized to finance the project entitled “Building Resilience for Food 
+Security and Nutrition in Chad’s Rural Communities ”. This co-financed grant will be used to 
+maximize the impact of the Programme to Build Resilience to Food and Nutrition Insecurity 
+in the Sahel (P2RS), funded with African Development Fund (ADF) resources. P2RS, 
+approved by the Board of Directors in October 2014, was designed for a 20-year period 
+tosustainably increase agro-sylvo-pastoral and fisheries productivity in the Sahel. In addition 
+to the regional component, some countries are implementing their own national projects. P2RS 
+Project 1 involves seven Sahel countries most affected by food crises, including Chad. The 
+project will serve as a basis for GEF co-financing. The P2RS-Chad component, placed under 
+the supervision of the Ministry of Agriculture, specifically aims to strengthen the resilience of 
+rural communities through the development of agriculture and livestock, irrigation systems and 
+regional markets for agricultural inputs and livestock products. The implementation of P2RS 
+Project 1 is under way and involves both central and decentralized entities responsible for 
+agriculture, animal resources, the environment and nutrition. GEF’s co-financing, which 
+targets the same objectives as the initial P2RS, will be implemented concurrently with the Chad 
+component. The GEF Project Identification Form (PIF) was approved on 28 April 2015 and 
+endorsed by its Chief Executive Officer and Chairperson on 13 September 2017. The aim of 
+the GEF project is to help restore and maintain the basic productivity of the natural resources 
+on which people depend. The idea is to strengthen food security and nutrition by using 
+sustainable and resilient agro-sylvo-pastoral systems in the target regions. 
+
+1.2 The underlying concept of the GEF project is that resilience in the Sahel will be 
+impossible if equal attention is not paid to both  the rational and sustainable management of 
+the natural systems that support rural livelihoods. The proposed project will also seek to restore 
+and maintain the productivity of natural assets in fragile ecosystems through: (i) the 
+improvement of agro-sylvo-pastoral productivity in arid zones; (ii) the promotion of integrated 
+ecosystem management to protect biodiversity; and (iii) knowledge building and monitoring 
+and evaluation. It aims to build the resilience of communities and households regularly affected 
+by climate-related extreme events, through a sustained increase in the productivity of natural 
+resources, thus helping to enhance food security and nutrition in Kanem and Bahr el Ghazal 
+provinces. Therefore, the project will enable stakeholders to contribute to the restoration of 
+biodiversity in fragile ecosystems. On this basis, the GEF project will be implemented in the 
+regions targeted by the initial P2RS over a four-year period. The Ministry of Agriculture, which 
+oversees the initial P2RS, will remain the executing body for the GEF project. The activities 
+will be implemented by the existing Project Implementation Unit (PIU) and managed by the 
+same steering committee. It should be noted that the GEF project has already been approved 
+by the GEF Chief Executive Officer and Chairperson, and has now been submitted to the Board 
+of Directors for approval. 
+
+1.3 Needs Assessment: In line with the rural development, environmental management 
+and climate change priorities and the Chad Vision 2030 for Development, whose main 
+objective is to make Chad an emerging country by 2030, the Government has developed and 
+launched a number of sectoral policies and national development strategies, including the 
+National Development Plan 2017-2021, which succeeds the previous National Development 
+Plan 2013-2015, the National Poverty Reduction Strategies I and II, the National Biodiversity 
+Strategy and Action Plan (2014 - 2020) and the National Adaptation Programme of Action on 
+Climate Change (NAPA, 2009). The project interventions will help to reduce land degradation 
+and promote sustainable management of natural resources, thereby building economic, social 
+and climate resilience. As such, it is in line with thrust 4 of the Vision 2030 paper, which aims 
+
+
+
+ 
+
+v 
+ 
+
+to improve the quality of life of the Chadian people by creating a healthy environment with 
+preserved natural resources. 
+
+1.4 Target Beneficiaries: The project’s direct beneficiaries are the 11,000 smallholder 
+farmers who engage in subsistence agriculture and livestock farming on marginal lands and 
+derive their income from agriculture, livestock farming or the gathering of wood and non-wood 
+products. Through the various activities that will be initiated, the project will help to bolster 
+their resilience to food and nutrition insecurity and improve access to agro-pastoral and 
+transhumance resources, which should be developed with an emphasis on resource 
+sustainability and diversification.  
+
+Professional organizations, grassroots community organizations and actors at both local and 
+central levels involved in the implementation of the planned activities will have their capacities 
+strengthened through the activities proposed by the project. 
+
+1.5 Bank’s Value Added: The Bank will build on and develop implementation approaches 
+and principles based on its long experience in the Sahel, especially in water mobilization and 
+control, sustainable natural resource management and resilience-building among vulnerable 
+groups. In Chad,, the Bank has developed and implemented a number of projects in the rural 
+development sector, including the Surface Runoff Water Enhancement Project (PVERS), the 
+Natural Resources Management Project in the Sudan Region (PGRN-ZS) and the Food Crops 
+Cultivation Project in the Sudan Region (PCVZS). These have shown that technical support 
+for production through the dissemination of appropriate soil fertility management techniques 
+and access to water, accompanied by adequate medium- and long-term investments in a 
+participatory approach are necessary to cope with shocks and reduce the adverse effects of 
+climate change. Through this GEF financing, the Bank will draw on this wealth of experience  
+to undertake more sustained investments in support of the organization of farmers, women and 
+young people, focusing on the mainstreaming of environmental, climate issues and nutrition 
+issues.   
+
+1.6 Knowledge Building: The project will support environmental awareness and 
+stakeholder capacity-building, focusing on improving integrated landscape management and 
+agro-sylvo-pastoral planning. The project will also comprise sustainable land and forest 
+management technologies as well as the dissemination of best practices in Sahelian agriculture 
+and biodiversity conservation to stakeholders. The knowledge that will result from the 
+implementation of these approaches and techniques, as well as the lessons learned therefrom, 
+will be capitalized for dissemination and development  during the design and management of 
+future projects.  
+
+Lessons learned will be captured in quarterly and annual progress reports, technical reports 
+and the mid-term review and completion reports. 
+
+ 
+
+
+
+ 
+
+vi 
+ 
+
+Results-Based Logical Framework (Project’s Logical Framework/ Matrix) 
+ 
+
+Country and Project Name: CHAD –  Project to Build Resilience for Food Security and Nutrition in Rural Communities 
+Project Goal: Strengthen Food and Nutrition Security through Sustainable and Resilient Agro-Sylvo-Pastoral Systems in the Sahel Regions of Chad 
+
+RESULTS-CHAIN  
+ PERFORMANCE INDICATORS 
+
+MEANS OF 
+VERIFICATION RISKS /MITIGATION  MEASURES  Indicator 
+
+ (including CSI) Baseline Data  Goal  
+
+IM
+P
+
+A
+C
+
+T
+ 
+
+Impact:  Improvement 
+of the quality of life for 
+the people of the 
+project area. 
+Contribute to the 
+reduction of the food 
+and nutrition insecurity 
+and to the growth of 
+the agricultural sector.   
+
+Incidence of food insecurity  
+High rates of global acute 
+malnutrition  
+Child and infant mortality  
+- Share of the agricultural 
+
+sector in the GDP  
+
+18.5% (2016) 
+ 
+
+13.9% (2017) 
+ 
+133 (2015) 
+
+23% 
+(2015) 
+
+5% (2030) 
+ 
+
+ 
+5% (2030)              
+
+ 
+ 
+
+100 (2030) 
+ 
+Increase by +5.4 (2021) 
+ 
+
+- National strategies 
+review report 
+(ANADER).  
+
+- Statistics Directories, 
+- Reports by the 
+
+Ministry of Health. 
+- Reports by the 
+
+Ministry in charge of 
+the Plan and National 
+Economic Statistics 
+
+ 
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S 
+
+Outcome 1.1: 
+Sustainable increase in 
+agricultural and 
+livestock production to 
+support food security 
+and resilience 
+
+Surface area of degraded 
+land recovered. . 
+
+Not available 7,000 ha of degraded arable 
+land under SLM 
+
+Project monitoring systems, 
+reports by local monitoring 
+teams, P2RS, joint project 
+monitoring reports, project 
+mid-term  and  completion 
+reviews 
+
+Risk 1: The people may not use the new 
+techniques correctly, although they know 
+the benefit of adopting them  
+ 
+Mitigation measures: Constant 
+awareness-raising in local communities so 
+that they may focus on the proper use of 
+land and natural resource technologies. 
+
+ 
+Risk 2: Different groups with opposing 
+interests (e.g., herders/grazing versus 
+farmers/agricultural production) may 
+disrupt the project implementation 
+ 
+Mitigation Measures: Focus at each stage 
+on the overall  complementarity of project 
+activities and benefit of integrated 
+management 
+
+Volume of natural fodder 
+available on rangelands 
+
+Not available 3,000 ha under rangeland 
+pastoral management 
+
+Project monitoring systems, 
+reports by local monitoring 
+teams, P2RS, joint project 
+monitoring reports, mid-
+term review and project 
+completion review 
+
+% increase in agricultural 
+and livestock production due 
+to better land and ecosystem 
+management 
+
+Not available 5 micro-projects using 
+suitable land conservation and 
+regeneration techniques and 
+mixed cropping systems 
+implemented by farmers and 
+stockbreeders 
+
+Project monitoring systems, 
+reports by local monitoring 
+teams, P2RS, joint project 
+monitoring reports, mid-
+term review and project 
+completion review 
+
+
+
+ 
+
+vii 
+ 
+
+Number of land users trained 
+in the use of  INRM/SLEM 
+of best practices 
+
+Not available 11,000 land users trained in 
+INRM and SLEM 
+
+Project monitoring systems, 
+reports by local monitoring 
+teams, P2RS, joint project 
+monitoring reports, project 
+mid-term and completion 
+reviews  
+
+ 
+
+Number of staff trained in 
+INRM policies and practices 
+
+Not available 150 local staff trained in 
+sustainable INRM policies 
+and practices 
+
+Project monitoring systems, 
+reports by local monitoring 
+teams, P2RS, joint project 
+monitoring reports, project 
+mid-term and  completion 
+reviews  
+
+Output 1.2: 
+Development of  
+irrigation and pastoral 
+infrastructure and 
+adapted agro-sylvo-
+pastoral techniques to 
+improve livelihoods 
+and reduce 
+vulnerability 
+
+No. of ponds and boreholes 
+drilled 
+
+Not Available  
+ 
+
+15 ponds and 15 boreholes Project monitoring systems, 
+regional reports, 
+consultation reports   
+ 
+Acceptance and allocation 
+reports 
+ 
+Design reports 
+
+Risk 1: Failure by herders and  farmers to 
+agree on the location of water points 
+
+ 
+Mitigation measures: Ensure everyone's 
+participation in the project, from launch to 
+implementation  
+ 
+Risk 2: Reluctance of engineers to comply 
+with new guidelines and designs 
+ 
+Mitigation measures: Organize training in 
+a timely manner, implement activities and 
+learn lessons quickly. 
+ 
+
+No. of water points created   
+
+ 
+
+Not available 20 village water points -   
+
+ 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports 
+
+ 
+Allocation reports 
+ 
+Design reports 
+
+Land area in hectares 
+managed for irrigated crops 
+
+Not available Controlled irrigation on 345 
+ha on an exposed site 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports  
+ 
+Allocation reports 
+ 
+Design reports 
+
+
+
+ 
+
+viii 
+ 
+
+Quantity and variety of 
+improved seeds planted and 
+rate of increase in crop 
+productivity 
+ 
+
+Not available Resilient seed varieties 
+identified, produced and 
+distributed to about 100 
+households and farmers' 
+organizations  
+ 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, reports 
+on field extension services  
+ 
+Allocation reports 
+ 
+ 
+Acceptance reports 
+
+Number of sustainable 
+income-generating activities 
+developed and % increase in 
+incomes 
+ 
+
+Not available 6 other income-generating 
+activities (3 in the agricultural 
+sector and 3 in the livestock 
+sector)  
+ 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports 
+ 
+
+No. of cereal banks created  
+ 
+
+Not available 30 grain banks Project monitoring systems, 
+regional reports, 
+consultation reports, reports 
+on field extension services 
+Acceptance reports 
+
+No. of input  shops built Not available 20 agricultural input shops Project monitoring systems, 
+regional reports, 
+consultation reports , 
+reports on field extension 
+services  
+Allocation reports 
+Acceptance reports 
+
+No. of livestock feed stores 
+set up   
+ 
+
+Not available 30 livestock feed stores set up Project monitoring systems, 
+regional reports, 
+consultation reports , 
+reports on field extension 
+services  
+Allocation reports 
+Acceptance reports 
+
+
+
+ 
+
+ix 
+ 
+
+Outcome 1.3: 
+Improving agro-
+systems management 
+methods to generate 
+sustainable flows of 
+services related to the 
+agricultural and 
+forestry ecosystem 
+ 
+
+ 
+ No. of hectares of woodlots, 
+community forests, nurseries, 
+ 
+No. farmers practising 
+agroforestry 
+
+Not available  
+
+ 
+
+Not available 
+
+5,000 ha of woodlots, 
+community forests, nurseries 
+and agroforestry 
+ 
+ 
+50% in both regions 
+ 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+extension services reports 
+
+ 
+
+Risk 1:  Current policy prohibiting tree 
+cutting, for whatever reason, may 
+discourage tree planting activities. 
+
+ 
+Mitigation Measures: Farmers-
+Government discussions to reach an 
+agreement on how farmers will benefit 
+from reforestation 
+ 
+
+ 
+Risk 2: Risk that the battle for water will 
+divert resources to "priority areas", such as 
+livestock and food crops. 
+ 
+Mitigation measures: Water supply is 
+provided before or simultaneously with 
+other project activities so that there is 
+enough water to meet all needs 
+
+ 
+No. of producer groups  
+ 
+
+Not available 10 local producer groups 
+(including a minimum of 5 
+women's groups)  
+ 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+extension services reports 
+ 
+
+Outcome 2.1: 
+Improving integrated 
+landscape planning to 
+ensure the resilience 
+and protection of 
+habitats 
+ 
+
+No. of integrated land-use 
+plans  
+ 
+
+Not available Integrated land-use plan at 
+each project site 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+extension services reports 
+ 
+
+Risk: Lack of political commitment to 
+mainstream climate change issues and 
+integrated natural resource management 
+into development processes, with the 
+primary aim of preserving existing gains 
+from core development programmes. 
+ 
+Mitigation measures: Organize training, 
+carry out activities and draw lessons 
+quickly to demonstrate the benefits. 
+ 
+
+Area subject to sound land-
+use management  
+ 
+
+Not available Appropriate management of 
+all farmland in the project 
+area, with maintenance or 
+increase of vegetation cover 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+extension services reports 
+ 
+
+Outcome 2.2: A 
+favourable 
+environment through 
+land conservation 
+mechanisms, wood 
+
+No. of SLFM Plans 
+ 
+
+Not available SLFM is implemented in all 
+sections of the project area 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+extension services reports ,  
+SLFM plans 
+
+Risk: Lack of political commitment to 
+mainstream climate change issues and 
+integrated natural resource management 
+into development processes, with the 
+primary aim of preserving existing gains 
+
+
+
+ 
+
+x 
+ 
+
+biomass and 
+biodiversity 
+
+Certification system in place Not available Certification system (Plan 
+Vivo) in place 
+
+Project monitoring systems, 
+regional reports, 
+consultation reports, 
+certification documentation 
+developed  
+
+from core development programmes. 
+ 
+Mitigation measures: Identification and 
+acquisition by the project of the services of 
+a consultant with technical skills, 
+interested, available and willing to work 
+with communities and the Government in 
+the context of participatory monitoring, 
+while building local capacities to ensure 
+sustainability.  
+
+No. of areas and hectares 
+assessed for protection 
+
+Not available Assess the feasibility of 
+creating a protected area for 
+eco-regions of the Sahelian 
+acacia savannah or the flooded 
+savannah of Lake Chad  
+
+Project monitoring systems, 
+regional reports , 
+consultation reports, 
+delimitation maps 
+ 
+
+ 
+Outcome 3.1: The 
+lessons learned are 
+recorded and 
+knowledge 
+disseminated  
+ 
+
+Best practices knowledge 
+products available, shared 
+and in use 
+
+Not available At least 10 major knowledge 
+products acceptable by 
+international publication and 
+information standards, and are 
+adapted to local needs clearly 
+used in training 
+
+Project monitoring systems, 
+project implementation 
+reports, publications  
+ 
+
+ 
+
+ 
+
+Outcome 3.2: The  
+project impact 
+ismonitored and 
+evaluated  
+
+Involvement of communities 
+in vulnerability monitoring 
+
+Not available A series of indicators for 
+monitoring community 
+vulnerability and resilience is 
+adopted and intensely used 
+
+Community monitoring 
+reports, project monitoring 
+systems, district reports, 
+participatory monitoring, 
+evaluation, reflection and 
+learning (PMERL) report   
+
+ 
+ 
+ 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S 
+
+Output 1.1: 
+Land degradation is 
+decreasing: 7,000 ha of 
+degraded agricultural 
+land under SLM and 
+3,000 ha under 
+rangeland management  
+ 
+
+1. Ha of degraded arable 
+under SLM and km of 
+managed pastoral land  
+
+0 7 000 ha of degraded farmland 
+under SLM, 3 000 ha of 
+degraded land under rangeland 
+management 
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports 
+
+ 
+
+2. No. of micro-projects using 
+land-based conservation and 
+regeneration techniques and 
+mixed cropping systems 
+implemented by farmers and 
+herders 
+
+0 5 micro-projects  
+
+2. . Capacity of the agro-
+sylvo-pastoral actors built 
+
+0 11,000 land users trained in 
+the INRM and the SLWM 
+ 
+
+-  
+
+3.  No. of local staff trained in 
+sustainable INRM policies 
+
+0 150  -  
+
+
+
+ 
+
+xi 
+ 
+
+and practices at workshops 
+
+Output 1.2: 
+Investments are being 
+made in SLM, rural 
+hydro-agricultural 
+infrastructure, crop 
+diversification, 
+income-generating 
+activities and grain 
+banks 
+
+No. of investments in SLM 
+and rural hydro-agricultural 
+infrastructure 
+
+0 20 village water points, 
+controlled irrigation on 345 
+ha on exposed sites) 
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports 
+
+-  
+
+2. Appropriate crop species 
+and varieties of disseminated 
+
+0 Resilient seed varieties 
+identified, produced and 
+distributed to about 100 
+households and farmers' 
+organizations - 
+ 
+
+-  
+
+3. No. of income-generating 
+activities promoted 
+
+0 3 agricultural and 3 livestock 
+activities identified and 
+implemented jointly with 
+households - 
+
+-  
+
+4. No. of grain banks, farm 
+input stores and livestock 
+feed stores established   
+
+0 30 grain banks, 20 farm input 
+stores and 30 livestock feed 
+stores set up 
+
+-  
+
+Output 1.3: Increased 
+SFM area, training in 
+SFM and arable land 
+management and 
+diversification of local 
+producer groups  
+ 
+
+1. Area (ha) of land under 
+SFM 
+
+0 5,000 ha of woodlots, 
+community forests, nurseries, 
+agroforestry, etc.  
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports 
+
+-  
+
+2. Capacity-building in SFM 
+and land management at 
+district and local levels 
+
+0 Farmers, landholder groups, 
+local authorities, etc., trained 
+in SFM and land management 
+
+-  
+
+3. Diversification of income 
+sources  through agroforestry 
+and sylvo-pastoral activities 
+
+0 10 groups of local producers 
+(at least 5 women's groups) 
+diversify their sources of 
+income through agroforestry 
+and sylvo-pastoral activities 
+
+-  
+
+Output 2.1: 
+Demonstration of 
+participatory land-use 
+planning, integrated 
+land use planning for 
+priority 
+agroecosystems, and 
+effective land-use 
+management 
+ 
+
+1. Demonstration of 
+participatory land-use 
+planning 
+
+0 Number of participatory land 
+restoration and land-use/NRM 
+plans developed with local 
+authorities and communities 
+ 
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports 
+
+-  
+
+2. Integrated land use plans 
+for agroecosystems 
+
+0 Number of local land use 
+plans in targeted areas that 
+mainstream  INRM  and the  
+conservation and sustainable 
+exploitation of biodiversity 
+
+-  
+
+
+
+ 
+
+xii 
+ 
+
+ 3. Surface area of well-
+managed arable land, with 
+maintenance or increased 
+vegetation cover  
+
+0 Number of hectares of 
+properly managed arable land 
+
+-  
+
+Output 2.2: 
+Intensification of  
+SFLM practices and 
+introduction a 
+certification system for 
+forest and agroforestry 
+products 
+ 
+
+1. Integration of SFLM 
+practices 
+
+0 Intensification of land-use 
+systems by integrating SFLM 
+practices, which will improve 
+soil condition and carbon 
+sequestration (and avoid 
+deforestation and land 
+degradation) 
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports  
+ 
+
+-  
+
+2. Establishment of SFLM 
+support mechanisms over 
+wider areas, and appraisal and 
+implementation of benefit-
+sharing mechanisms to raise  
+SFLM awareness  at 
+community level. 
+
+0 300 improved cooking stoves 
+are distributed 
+
+-  
+
+3. Introduction of a 
+certification system for 
+forest/agroforestry products, 
+as well as management 
+systems with third-party 
+implementation 
+
+0 Plan Vivo system and standard 
+used for certification of forest 
+and agroforestry products - 
+
+-  
+
+4. Assess the feasibility of 
+creating a protected area for 
+the ecoregions of the Sahel  
+acacia savannah or the 
+flooded savannah of Lake 
+Chad  
+
+0 Assess the feasibility of 
+creating a protected area for 
+the ecoregions of the Sahel  
+acacia savannah or the flooded 
+savannah of Lake Chad 
+
+-  
+
+Output 3.1: 
+Assessment of 
+biodiversity and 
+conservation needs, 
+development of an 
+awareness campaign 
+framework, including 
+dissemination guides 
+and kits 
+
+1. Information on biodiversity 
+and conservation needs in the 
+Kanem and Bahr el Ghazal 
+ecoregions and possible 
+response mechanisms 
+
+0 Assessment of biodiversity 
+and conservation needs in the 
+Kanem and Bahr el Ghazal 
+ecoregions and possible 
+response mechanisms 
+ 
+
+Supervision reports and 
+M&E reports, national data 
+and regional reports  
+ 
+
+-  
+
+2. Awareness campaigns and 
+training in ecosystem 
+management aimed at raising 
+consciousness and creating 
+
+0 Framework developed for 
+awareness campaigns and 
+training to raise consciousness 
+and  create an enabling 
+
+-  
+
+
+
+ 
+
+xiii 
+ 
+
+ 
+  
+
+an  enabling environment environment for ecosystem 
+management 
+
+3. Guides and kits on 
+innovative INRM and 
+biodiversity conservation 
+practices in drylands 
+
+0 Development and 
+dissemination of guides and 
+kits on innovative INRM and 
+biodiversity conservation 
+practices in drylands 
+
+-  
+
+Output 3.2: 
+Establishment of a 
+project monitoring 
+system, including an 
+M&E system to enable 
+analysis of land 
+degradation and 
+biodiversity impacts, 
+and the conduct of the  
+mid-term review and 
+final evaluation 
+ 
+
+1. Systematic information on 
+the progress made towards 
+achievement of outcomes 
+and outputs  
+
+0 Adoption of the project 
+monitoring system  
+  
+
+-  -  
+
+2. M&E system for analysing 
+the trend of land degradation 
+and the socio-economic and 
+biodiversity impacts 
+
+0 M&E system for analysing the 
+trend of land degradation and  
+socio-economic and 
+biodiversity impacts 
+
+-  
+
+3. Mid-term and final 
+evaluations 
+
+0 Mid-term and final 
+evaluations conducted 
+
+-  
+
+ 
+
+Contributions: 
+Component 1: : Improving agro-sylvo-pastoral productivity in aridlands:        
+Component 2:  Promoting of an integrated ecosystem management system for building resilience and biodiversity:  
+Component 3: Knowledge management and M&E: 
+Project management cost 
+
+ 
+USD 2,525,000  
+USD 1,750,000 
+USD 800,668  
+USD 253,784  
+
+
+
+ 
+
+xiv 
+ 
+
+Project Implementation Schedule  
+ 
+
+ 
+No. 
+
+ 
+Description of Activities  
+
+2019 2020 2021 2022 
+Quarter 
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 
+
+0.0 Preparatory activities, Signature/ Effectiveness of Grant                 
+1.0 Component 1: Improving Agro-sylvo-pastoral Productivity in Dryland                 
+1.1 Improving agricultural, livestock and pasture production to support food security and resilience                 
+ 1.1.1 Decrease of land degradation: 7,000 ha of degraded farmland under SLM and 3,000 ha under pastoral 
+
+management 
+                
+
+ 1.1.2 Five (5) micro-projects using environment-adapted soil conservation / regeneration techniques and mixed 
+cropping systems practiced by farmers and herders 
+
+                
+
+ 1.1.3 Strengthenthe capacity of agro-sylvo-pastoral actors: 11,000 land users trained in INRM and SLWM                 
+ 1.1.4 150 local employees trained in sustainable INRM policies and practices through workshops                 
+1.2 Improving agro-pastoral techniques and access to productive assets to enhance livelihoods and reduce vulnerability                 
+ 1.2.1 Investments in the SLWM: rural hydro-agricultural infrastructures (30 ponds and boreholes, 20 village water 
+
+points, controlled irrigation on 345 ha on exposed sites) 
+                
+
+ 1.2.2 Crop diversification and farming of appropriate species: Resilient seed varieties are identified, produced and 
+distributed to about 100 households and farmers' organizations 
+
+                
+
+ 1.2.3 Six (6) other income-generating activities (3 agricultural, 3 livestock) identified and implemented by 
+households  
+
+                
+
+ 1.2.4 Thirty (30) grain banks, 20 farm input stores and 30 livestock feed stores established                 
+1.3 1.3 Improving forest management and/or reforestation generates sustainable flows of agricultural and forest 
+
+ecosystem services 
+                
+
+ 1.3.1 Increase in land under SFM: 5,000 ha of arable land, woodlots, community forests, nurseries, agroforestry, 
+etc. 
+
+                
+
+ 1.3.2 Training in SFM and farmland management at the district and local levels (farmers, landholder groups, local 
+authorities, etc.) 
+
+ 
+ 
+
+               
+
+ 1.3.3 Ten local producer groups (including at least 5 women's groups at least) diversify their income through and 
+sylvo-pastoralism 
+
+                
+
+2.0 Component 2: Promoting Integrated Ecosystem Management to Enhance Resilience and Biodiversity                 
+2.1 2.1 Improving integrated landscape planning for habitat resilience and preservation                 
+ 2.1.1 Participatory land-use planning demonstration: No. Participatory restoration and exploitation/NRM plans 
+
+developed with local authorities and communities 
+                
+
+ 2.1.2 Integrated management plans for priority agroecosystems: Number of local land use plans in targeted areas, 
+concerned with INRM practices and the conservation and sustainable use of biodiversity 
+
+                
+
+ 2.1.3 Hectares of cultivated land properly exploited, with maintenance or increase of the vegetation cover                 
+2.2 Enabling environment improved through land conservation mechanisms, woody biomass and biodiversity                 
+ 2.2.1 Intensification of land-use systems by integrating SLFM practices, improving soil condition and carbon 
+
+sequestration (deforestation and land degradation avoided) 
+                
+
+
+
+ 
+
+xv 
+ 
+
+ 
+No. 
+
+ 
+Description of Activities  
+
+2019 2020 2021 2022 
+Quarter 
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 
+
+ 
+ 2.2.2 Support mechanisms created for SLMF in larger landscapes, including assessment and implementation of 
+
+benefit-sharing mechanisms to promote SLM practice at the community level, and 300 improved stoves distributed  
+                
+
+ 2.2.3 Evaluation and introduction of a "sustainable forest management" certification system for forest products, 
+agro-forestry or third-party certified management systems 
+
+                
+
+ 2.2.4 Assess the feasibility of creating a protected area for the ecoregions of the Sahel acacia savannah or the 
+flooded savannah of Lake Chad 
+
+                
+
+3.0 Component 3: Knowledge Management and Monitoring and Evaluation                 
+3.1 Lessons learned, recorded and knowledge disseminated                 
+ 3.1.1 Assess biodiversity and conservation needs in the Kanem and Bahr el Ghazal ecoregions, and possible 
+
+response mechanisms 
+                
+
+ 3.1.2 Framework developed for awareness campaigns and training to raise awareness and promote an enabling 
+environment for ecosystem-based management 
+
+                
+
+ 3.1.3 Development and dissemination of guides and kits on innovative INRM practices and biodiversity 
+conservation in drylands 
+
+                
+
+3.2 Monitoring and evaluation of project  impact                 
+
+ 3.2.1 Establishment of a project monitoring system, which provides systematic information on progress towards 
+achievement of outcome and output targets 
+
+                
+
+ 3.2.2 M&E systems for analysing the evolution of land degradation and associated socio-economic and biodiversity 
+impacts. 
+
+                
+
+ 3.2.3 Mid-term review and completion review conducted                 
+ 
+
+
+
+ 
+
+1 
+ 
+
+MANAGEMENT’S REPORT AND RECOMMENDATION TO THE BOARD OF 
+DIRECTORS CONCERNING A PROPOSAL TO  FINANCE  FROM GEF 
+
+RESOURCES  THE PROJECT TO BUILD RESILIENCE FOR FOOD SECURITY 
+AND NUTRITION IN CHAD’S RURAL COMMUNITIES 
+
+ 
+
+Management hereby submits the following report and recommendation for a GEF grant 
+of USD 5,329,452 (UA 3.518 million) as additional resources to finance the Project to 
+Build Resilience for Food Security and Nutrition in Chad’s Rural Communities, as part 
+of the P2RS Programme. 
+
+1. STRATEGIC THRUSTS AND RATIONALE 
+
+1.1 Project Linkages with Country Strategy and Objectives 
+
+1.1.1 The Government's development programme is set out in the Vision 2030, the objective 
+being for Chad to "become an emerging middle-income country by 2030, whose economy is 
+driven by diverse sustainable sources of growth and value-added activities". The National 
+Development Plan (NDP 2017-2018) is the first operational planning paper of the Vision 2030. 
+It replaces the NDP 2013-2015 and the successive national poverty reduction strategies (2003-
+2006; 2008-2011), which give priority and special attention to agriculture and rural sector 
+development, with a view to increasing food production and improving the incomes of rural 
+communities. The Programme to Build Resilience to Food and Nutrition Insecurity in the Sahel 
+(P2RS) was designed to sustainably increase agro-sylvo-pastoral and fisheries productivity in 
+the Sahel, thus facilitating the achievement of Vision 2030. The three main components of 
+P2RS are (i) rural infrastructure development; (ii) value chains and regional markets 
+development; and (iii) project management and coordination. The initial P2RS will serve as 
+the basis for GEF co-financing. The project is  in line not only with Chad's Country Strategy 
+Paper (CSP) 2015-2020,  focused on "the development of infrastructure to promote robust and 
+more diversified economic growth", but also  with the objectives of the Bank's Ten-Year 
+Strategy since it will help Chad to move along a growth path that protects livelihoods, promotes 
+greener growth and stimulates economic development. The project is also consistent with two 
+of the Bank's five priorities, namely: “Feed Africa” and “Improve the quality of life for the 
+people of Africa”. 
+
+1.1.2 The GEF Project Identification Form (PIF) was approved in April 2015 and validated 
+on 13 September 2017 by the Facility’s Chief Executive Officer and Chairperson for an amount 
+of USD 5,329,452. The project aims to build the resilience of communities and households 
+regularly affected by extreme weather events, through sustained growth in natural resource 
+productivity, which will help to improve food security and nutrition in Kanem and Bahr el 
+Ghazal provinces. The project will thus enable stakeholders to contribute to the restoration of 
+biodiversity in fragile ecosystems. The GEF project is fully aligned with national strategies and 
+P2RS, in that it aims to reduce and reverse trends in desertification, land degradation and 
+biodiversity loss, which will improve productivity and food security while preserving the 
+natural resources that support agro-ecological production. 
+
+1.2 Rationale for the Bank’s Involvement 
+
+1.2.1 Chad is increasingly confronted with problems of environmental degradation and 
+extreme weather events, which are much more pronounced in such sectors as agriculture, 
+livestock, fisheries and health. All policy papers (Vision 2030, National Development Plan, 
+poverty reduction strategies) highlight the importance of protecting natural resources in a 
+context of worsening weather phenomena in Chad, and the need to implement actions that 
+
+
+
+ 
+
+2 
+
+promote food security and build the adaptive capacities of affected populations. However,  
+capacity to sustainably managenatural resources in the face of climate change is limited due to 
+the shortage of human and financial resources in existing administrative entities (ministries, 
+government agencies and local governments). 
+
+1.2.2 The project is in line with the Bank's Ten-Year Strategy (2013-2022), the ultimate 
+goal of which is sustainable inclusive growth. The focus is on protecting livelihoods, enhancing 
+water, electricity and food security, promoting the sustainable use of natural resources, creating 
+jobs, stimulating innovation and developing the economy. It will help to achieve the objectives 
+of the Ten-Year Strategy by strengthening agro-sylvo-pastoral productivity and promoting 
+integrated ecosystem management and inclusive growth. Undertaken in the Sahel, a region that 
+attracts particular attention because of the difficult living conditions and vulnerability of its 
+rural populations, but also because of its agricultural potential, the project will have an impact 
+on agriculture and food security, thus helping to achieve two of the Bank’s “High 5s”. Given 
+that the project also aims to promote innovative production techniques such as agroforestry and 
+sylvo-pastoralism, activities that are mainly carried out by women, it will also help in the 
+implementation of the Bank's Gender Strategy. Through its adaptation actions, the project will 
+also help in the implementation of the Bank's 2016-2020 Climate Change Action Plan (CCAP), 
+contributingapproximately 80.21% of the budget of components (1) and (2). 
+
+1.2.3 As on 1 October 2018, the African Development Bank has 15 operations in Chad, with 
+a net commitment of UA 214.23 million. Under the CSP 2016-2020, the Bank's support is 
+based on two pillars: (i) infrastructure development to promote inclusive green growth; and (ii) 
+promotion of good governance to increase the effectiveness of public actions and make the 
+economic framework more attractive.  The Bank's strategic approach is to help create 
+conditions conducive to more inclusive economic growth and to improve the country's 
+integration into a sub-regional economy. Since the project's interventions aim to reduce land 
+degradation and promote sustainable natural resource management, this will improve socio-
+economic resilience while strengthening agro-pastoral and transhumance resources, which 
+should be developed to enhance sustainability and diversify growth in the country. 
+
+1.3 Donor Coordination  
+
+1.3.1 A Technical and Financial Partners Committee, established in April 2011, is 
+responsible for harmonizing donor interventions in Chad. The committee is composed of nine 
+thematic groups and is chaired by France. The committee acts as a platform for dialogue, 
+consultation and collaboration on development issues and on bilateral and multinational 
+cooperation between Chad and its partners. A State/partners committee has also been set up to 
+encourage dialogue with national authorities and improve aid management. A matrix of 
+interventions for 2018-2021, which presents all partners’ planned interventions, has helped to 
+better assess their areas of intervention and improve the division and coordination of work. Aid 
+coordination has facilitated co-financing with technical and financial partners such as BADEA, 
+the OPEC Fund, BDEAC, UNDP, EU and IsDB. 
+
+2. PROJECT DESCRIPTION 
+
+2.1 Objectives of P2RS (Core Project) and GEF Project  
+
+2.1.1 Objectives and Components of the Initial P2RS: The P2RS Chad project served as a 
+basis for mobilizing co-financing for the GEF project. The P2RS programme aims to eliminate 
+the structural causes of acute and chronic food and nutrition crises by helping vulnerable 
+households to increase their production and income, secure access to basic social infrastructure 
+and services, and increase their livelihood options. It was designed for a 20-year period in four 
+
+
+
+ 
+
+3 
+
+phases, the first of which (Project 1) will be implemented over a five-year period, from 2015 
+to 2019. The overall cost of P2RS Project 1, which covers seven CILSS countries, amounts to 
+USD 271.77 million funded by ADF-XIII in the form of grants and loans, representing 85% of 
+the total cost of Project 1. The remaining 15% is funded by (i) the governments of the countries 
+involved in this first phase (Burkina Faso, Chad, the Gambia, Mali, Mauritania, Niger and 
+Senegal); (ii) the Permanent Interstate Committee for Drought Control in the Sahel (CILSS); 
+and (iii) beneficiaries. 
+
+2.1.2 In Chad, P2RS is under the technical supervision of the Ministry of Agriculture. The 
+project strategy  is based on the development of agricultural and livestock farming products, 
+the promotion of irrigation systems, accessibility to input markets and capacity-building for 
+private and public institutions and communities in the agricultural sector. In that regard, the 
+project is  constructing  pastoral and village water infrastructure in targeted rural districts and 
+will help vulnerable households to not only improve their productivity through rational and 
+sustainable management of natural resources but also to have better access to markets. A value 
+chain approach based on growth sub-sectors is currently being used to ensure, maintain and 
+increase access to and the marketing of agricultural products. The basic project will be 
+implemented through three components, covering: 
+
+(i)  Rural infrastructure development: This component aims to increase and improve 
+agricultural production, processing and marketing infrastructure, which is 
+indispensable for increasing the competitiveness of promising agricultural 
+sectors and strengthening the resilience of agricultural operations in the Sahel. 
+The main activities focus on the development of pastoral infrastructure and 
+facilities, conservation, processing and marketing infrastructure, and basic 
+social infrastructure. 
+
+(ii)  Development of regional value chains and markets: This component aims to 
+increase on a sustainable basis the production and productivity of the main agro-
+sylvo-pastoral farming systems and to strengthen nutrition.  
+
+(iii)  Programme management: The last component aims to define and deliver the 
+institutional architecture for the management and coordination of all project-
+related aspects, including procurement, monitoring and evaluation, and 
+communication. 
+
+2.1.3 A standing committee, composed of representatives of the central administration of 
+the rural sector and all the actors involved in the development of the regions within the project 
+area, is responsible for managing and making decisions concerning P2RS. 
+
+2.1.4 Objectives and description of the GEF project: Entitled "Building Resilience for Food 
+and Nutrition Security in Rural Communities in Chad", the GEF project will be based on the 
+activities planned under the original project, to increase their impact on the environment and 
+on the people. The activities are grouped into three components: (i) improvement of agro-
+sylvo-pastoral productivity in drylands; (ii) promotion of integrated ecosystem management to 
+enhance resilience and biodiversity; and (iii) knowledge management and monitoring and 
+evaluation, in accordance with the GEF eligibility criteria for the areas of intervention under 
+which this project is funded, namely land degradation, biodiversity and sustainable forest 
+management. The components and activities are presented in Table 2.1 below. 
+
+The GEF project’s main expected outcomes  are as follows: (i) improvement of rural 
+communities’ agricultural production practices and the management of natural pasture to 
+support food security and resilience; (ii) use by rural communities of improved agro-pastoral 
+
+
+
+ 
+
+4 
+
+technologies and their access to production assets for enhanced livelihoods and reduced 
+vulnerability; (iii) improved  management of forests  and/or reforestation areas, to generate 
+sustainable flows of ecosystem services; (iv) enhanced integrated landscape planning for 
+habitat resilience and preservation; (v) enabling  natural environment is enhanced through 
+mechanisms for the conservation of land, woody biomass and biodiversity, (vi) lessons learned 
+are captured and knowledge is disseminated; and (vii) the project impact is monitored and 
+evaluated. 
+
+2.1.5. The first objective of the initial P2RS is to develop rural infrastructure, value chains 
+and regional markets. The additional GEF project will build on the first objective (development 
+of rural infrastructure) to undertake investments in irrigation schemes development,  establish 
+cereal banks, agricultural input shops and livestock feed shops, and ensure sound land and soil 
+management (soil conservation/regeneration techniques and sustainable forest management). 
+The second objective of the initial P2RS (development of value chains and regional markets) 
+will be strengthened in the additional GEF project through crop diversification, identification 
+of resilient seed varieties and selection of other income-generating activities. The additional 
+GEF project will therefore increase the attention given to sustainability and resilience in the 
+initial P2RS. Its purpose is to enable stakeholders to restore and maintain the productivity of 
+natural resources and biodiversity in fragile ecosystems, in order to ultimately improve their 
+livelihoods and the natural resources on which they depend. This approach is based on the 
+premise that agro-sylvo-pastoral systems are essential for improving food and nutrition 
+security. 
+ 
+2.2 Project Components 
+ 
+
+Table 2.1: Project Components and Costs 
+ 
+
+Component 1: Enhancing agro-sylvo-pastoral productivity in drylands  
+
+Outcomes Outputs GEF 
+financing  
+
+Co-financing 
+
+1.1. Improved 
+agricultural, rangeland 
+and pastoral 
+production in support 
+of food security and 
+resilience 
+
+1.1.1 Land degradation is reduced: 7,000 ha of 
+degraded cropland in sustainable land 
+management mode and 3,000 ha in rangeland 
+pastoral management mode.     
+
+764,974 2,575,000 
+
+1.1.2 Five micro-projects on soil and associated 
+crop management and restoration techniques are 
+being implemented by farmers and herders 
+1.1.3 The capacities of agro-sylvo-pastoral actors 
+are improved: 11 000 land users trained in 
+integrated management of natural resources and 
+sustainable land and water management 
+1.1.4 150 local employees trained in sustainable 
+integrated natural resource management policies 
+and practices through workshops 
+
+1.2 Improved agro-
+pastoral technologies 
+and access to 
+production assets for 
+enhanced livelihoods 
+and reduced 
+vulnerability 
+
+1.2.1 Investments in sustainable land and water 
+management: rural hydro-agricultural 
+infrastructure (30 ponds and boreholes; 20 rural 
+water points; controlled irrigation system on 345 
+ha on exposed sites) 
+
+1,264,820 3,258,000 
+
+1.2.2 Crop diversification and cultivation of 
+appropriate species: resistant seed varieties 
+identified, produced and distributed to 100 
+households and farmers’ organizations (FOs) 
+1.2.3 Six alternative income-generating activities 
+(3 agricultural and 3 livestock activities) are 
+identified with households 
+
+
+
+ 
+
+5 
+
+1.2.4 30 cereal banks, 20 input stores, and 30 
+fodder banks are set up 
+
+1.3 Improved forest 
+management and/or 
+reforestation generate 
+sustainable flows of 
+agro- and forest 
+ecosystem services 
+
+1.3.1 Increased land area in sustainable forest 
+management mode: 5,000 ha of forests, 
+community forests, nurseries, agroforestry, etc. 
+
+495,206 1,167,000 
+
+1.3.2 Training in sustainable forest management 
+and cropland management at the local level 
+(farmers, land user groups, local authorities, etc.) 
+
+1.3.3 10 local producer groups (at least 5 women's 
+groups) diversify their income through 
+agroforestry and sylvo-pastoralism 
+
+Component 2: Promoting integrated ecosystem management for enhanced resilience and biodiversity 
+conservation 
+Outcomes Outputs GEF 
+
+financing 
+Co-financing 
+
+2.1 Enhanced 
+participatory 
+landscape planning for 
+habitat preservation 
+and resilience 
+
+2.1.1 Demonstration of participatory land-use 
+planning: Number of participatory restoration and 
+land use /natural resource management plans 
+developed with local authorities and 
+communities. 
+
+633,186 1,809,103 
+
+2.1.2 Land-use plans for priority agro-
+ecosystems: Number of local plans for land-use in 
+targeted areas including both integrated natural 
+resource management and conservation and 
+sustainable use of biodiversity 
+2.1.3 3 ha of agricultural land under effective 
+land-use management with maintenance or 
+increase of vegetation cover 
+
+2.2 Enabling 
+environment enhanced 
+through land, 
+biodiversity and 
+woody biomass 
+conservation 
+mechanisms 
+
+2.2.1 Increase in participatory land management 
+systems includes sustainable land and forest 
+management practices, resulting in improved soil 
+conditions and carbon sequestration (avoided 
+deforestation and land degradation) 
+
+1,116,814 3,190,897 
+
+2.2.2 Support mechanisms for sustainable land 
+and forest management are established in larger 
+areas, including the evaluation and 
+implementation of benefit-sharing mechanisms to 
+encourage sustainable land and forest 
+management practices at the community level, 
+and 300 improved stoves distributed 
+22.2.3 Evaluation and establishment of a 
+certification system for forest and agro-forestry 
+products or management systems with 
+implementation by a third party 
+2.2.4 Evaluation of the feasibility of creating a 
+protected area for Sahel Acacia forest stands or 
+the floodable ecoregions of the Lake Chad 
+savannah 
+
+Component 3: Knowledge management and monitoring and evaluation  
+Outcomes Outputs GEF 
+
+financing 
+Co-financing 
+
+3.1 Lessons learned 
+captured and 
+knowledge 
+disseminated 
+
+3.1.1 Biodiversity and conservation needs in the 
+Kanem and Bahr el Ghazal ecoregions and 
+possible response mechanisms are evaluated 
+
+462,514 1,210,000 
+
+3.1.2 Framework developed for awareness and 
+training campaigns to increase awareness and 
+promote an environment for ecosystem 
+management 
+
+
+
+ 
+
+6 
+
+2.3 Project Type 
+
+2.3.1 The proposed project aims to consolidate and increase the benefits of the existing 
+P2RS project. It will be financed from the resources of the GEF Special Fund and implemented 
+as part of the P2RS-Chad project. 
+
+2.4 Project Costs and Financing Arrangements  
+
+2.4.1 The overall cost of the GEF project is estimated at USD 5.329 million (UA 3.807 
+million) for a period of four (4) years. It will be financed by the GEF and will cover 100% of 
+the total project cost, net of taxes, fees and/or charges in Chad. The cost allocations, as extracted 
+from the letter of approval from the GEF Chief Executive Officer and Chairperson, are 
+presented in the tables below. 
+
+Table 2.2: Summary of project cost by component 
+
+Component  USD UA 
+Cost in: Local 
+Currency 
+(CFAF) 
+
+A) Improving agro-sylvo-pastoral productivity on arid land 2,525,000 1,666,887 1,427,938,000 
+B) Promoting integrated ecosystem management to improve 
+resilience and biodiversity 1,750,000 1,155,268 
+
+989,660,000 
+
+C) Knowledge management and monitoring and evaluation 800,668 528,564 452 793,767 
+Total base cost  5,075,668 3,350,719 2,870,391,767 
+Project management cost (Project Management Unit) 253,784 167,536 143,519,928 
+Total project cost 5,329,452 3,518,255 3,013,911,695 
+
+ 
+Table 2.3: Sources of financing and contribution percentage (%) 
+
+Source of Financing Amount (USD) and Contribution Percentage (%) 
+
+ Foreign Exchange % 
+Local 
+Currency 
+
+% Total % 
+
+GEF Special Fund 5,329,452 100 - - 5,329,452 100 
+Government - - - - - - 
+Beneficiaries - - - - - - 
+Overall  project cost 5,329,452 100 - - 5,329,452 100 
+
+  
+
+3.1.3 Innovative guides and tools on biodiversity 
+conservation and integrated natural resource 
+management practices in drylands are developed 
+and disseminated 
+
+3.2 Project impact 
+monitored and 
+evaluated  
+
+3.2.1 Project monitoring system established, 
+providing systematic information on progress 
+made towards achieving the targeted outcomes 
+and outputs 
+
+338,154 885,800 
+
+3.2.2 Monitoring and evaluation system for the 
+analysis of land degradation trends and related 
+socio-economic issues and impacts on 
+biodiversity 
+3.2.3 Mid-term and final evaluations are carried 
+out 
+
+
+
+ 
+
+7 
+
+Table 2.4: Project cost – Expenditure categories 
+
+Expenditure Category 
+Amount Expected from the GEF Special Fund (USD) 
+Cost in Foreign Exchange Cost in Local 
+
+Currency 
+Total 
+
+A. Goods 
+666,497 
+
+- 
+666,497 
+
+B. Works 2,555,014 - 2,555,014 
+C. Services 1,048,862 - 1,048,862 
+D. Operating costs 805,295 - 805,295 
+E. Retained 253,784 - 253,784 
+Overall  project cost 5,329,452  5, 329,452 
+
+ 
+Table 2.5: Expenditure Schedule by Component (USD)  
+
+Component Year 1 Year 2 Year 3 Year 4 Total 
+1. Improving agro-sylvo 
+pastoral productivity on 
+dryland 
+
+757,500 883,750 631,250 252,500 2,525,000 
+
+2. Promoting integrated 
+ecosystem management to 
+strengthen resilience and 
+biodiversity 
+
+525,000 612,500 437,500 175,000 1,750,000 
+
+Knowledge management and 
+monitoring and evaluation 
+
+240,200 280,234 200,167 80,067 800,668 
+
+Total base cost  1, 522,700 1,776,484 1,268,917 507,567 5,075,668 
+Retained amount 76,135 88,824 63,446 25,378 253,784 
+Overall project cost  1,598,835 1,865,308 1,332,363 532,945 5,329,452 
+
+2.4.2 Experiences and lessons learned by the Bank: The AfDB has been active in the Sahel 
+for many years, mainly in the following areas: water management and control, development of 
+agriculture, livestock farming, fisheries, and natural resource management. Its experience 
+shows that investing in the medium and long terms in the resilience of rural households is 
+essential for helping them to cope with shocks (famine, drought, conflict, etc.) and for reducing 
+their vulnerability. As at 1 October 2018, the Bank's net commitments in Chad for active 
+operations amounted to UA 214.23 million. After a portfolio review conducted in 2013, key 
+lessons were learned from previous CSPs and ongoing rural development initiatives. These 
+include: the need for greater selectivity in terms of country allocation, division of labour and 
+implementation capacity; the need for greater economic integration, stronger partnerships and 
+co-financing (to increase the economic and social impact of interventions); the need to 
+consolidate governance gains and build Chad's institutional capacities; and the need to promote 
+the role of the private sector, particularly in the agricultural sector. 
+
+2.5 Project Impact Area  
+
+2.5.1 The proposed project will be implemented in the Sahel regions of Kanem and Bahr el 
+Ghazal, where food insecurity is most acute in Chad, mainly due to difficult agro-ecological 
+conditions and high malnutrition rates. The project beneficiaries will be smallholder farmers 
+engaged in subsistence agriculture and livestock farming on marginal land, and who derive 
+their income from agriculture, stock-breeding or the gathering of wood products. The project 
+will specifically target 11,000 land operators who will receive training in integrated natural 
+resource management (INRM) and sustainable land and water management (SLWM) with 
+demonstrations. It will also train 150 local employees in sustainable INRM policies and 
+practices, distribute resilient seed varieties to 100 households, and assist 10 local producer 
+groups (including at least five women's groups) to diversify their incomes through agroforestry 
+and sylvo-pastoral activities. As the land on which they depend is characterized by sand dunes 
+and low-productivity wadis, the beneficiaries live on non-irrigated agriculture. The project will 
+
+
+
+ 
+
+8 
+
+address this issue by promoting sustainable land management, site-specific soil conservation 
+systems and mixed cropping systems, the construction of rural hydro-agricultural 
+infrastructure, and crop diversification with the cultivation of appropriate species. Low 
+agricultural productivity, lack of income opportunities and lack of rural socio-economic 
+infrastructure are the main causes of poverty in these areas. Poverty and insecurity are further 
+exacerbated by the weakness of community-based organizations, coupled with inefficient 
+service delivery, lack of resources (especially land in the wadis) and weak decision-making 
+power and scarcity of information. 
+ 
+2.6. Participatory Approach for Project Identification, Design and Implementation 
+ 
+2.6.1 During the identification of the core programme, extensive consultations were held, 
+and a participatory approach was adopted for the development of the programme. During the 
+preparation and appraisal phases, discussions and a workshop were held with key institutions 
+and stakeholders, including national institutions responsible for agriculture, fisheries, 
+livestock, environment, health and water (20 September 2016 to 5 October 2016). The 
+consultative process was extended to civil society (NGOs, including women's organizations, 
+farmers' organizations, etc.). Meetings were held with communities, key actors in production 
+systems, and administrative and local authorities, which provided an opportunity not only to 
+share information on the project and collect data on impact areas, but also to discuss planned 
+activities. Women's organizations were involved in these meetings to better understand the 
+difficulties they face and better capture their challenges and needs. These elements were fully 
+reflected in the design of the intervention and this participatory approach will be maintained 
+during the project implementation. Various stakeholders will also be involved in the 
+development of the envisaged monitoring and evaluation system to ensure smooth 
+implementation and achievement of goals. 
+
+2.7 Consideration of Bank Group’s Experience and Lessons Learned in Project 
+ Design 
+
+2.7.1 The Bank has extensive experience in resilience-building programmes in the Sahel 
+region. For instance, it implemented a USD 4 billion (2014) grant operation aimed at promoting 
+stability and economic growth in the region. In addition, the Bank, through the African Water 
+Facility (AWF) established in 2006, has funded 9 national and 11 multinational projects 
+focusing on capacity-building for integrated water resources management, and established 
+appropriate frameworks for collaborative water management, for example for Lake Chad, 
+among other interventions. Several statements have been made on the issue of water security 
+in the Sahel, reiterated as a priority for the Bank. The lessons learned from these previous Bank 
+interventions, as well as the P2RS design, and the actions implemented during the design of 
+the proposed project, are presented below in table form: 
+ 
+  
+
+
+
+ 
+
+9 
+
+No. Lessons Learned Consideration in Project Design 
+1. Institutional and organizational 
+
+weaknesses 
+The project is based on existing structures, including 
+P2RS, and on national project implementation bodies, 
+which allows for smooth implementation. 
+
+2 Importance of taking into account 
+conflicts between farmers and herders 
+
+Mediation efforts and specific activities that take into 
+account their realities and needs, which are distinct yet 
+are closely linked 
+
+3 Community conflicts around the project Establishment of consultation mechanisms and 
+organization of awareness-raising activities, including a 
+communication plan and workshops, and development of 
+a capacity-building and training programme 
+
+4 Weakness of the management and 
+evaluation system that undermines the 
+assessment of progress in 
+implementation  
+
+Inclusion in the project design of participatory and 
+regular monitoring and evaluation activities with 
+sufficient financial allocation 
+
+ 
+2.8 Key Performance Indicators  
+ 
+2.8.1. The impact, outcome and output indicators are those mentioned in the logical 
+framework, which will be measured using the existing monitoring and evaluation (M&E) 
+system developed under P2RS. The impact indicator, which will serve as a gauge for the 
+development objective, is the improvement of food security and nutrition following the 
+adoption of sustainable and resilient agro-sylvo-pastoral systems in the Sahelian regions of 
+Chad. Monitoring tools reflecting the multifocal nature of the project will also be developed 
+for the GEF project activities, in accordance with the requirements of this institution. 
+
+3. PROJECT FEASIBILITY  
+
+3.1 Economic and Financial Performance  
+
+3.1.1 Economic and financial analyses carried out were based on the premise that incentive 
+measures, sustainability considerations and an enabling environment are essential for the 
+success of any intervention, all of which conditions the P2RS and the proposed project plan to 
+fulfil. The measures envisaged in this regard are: (i) a multi-stakeholder participatory process, 
+the creation of three nurseries, the construction of hydro-agricultural infrastructure, the 
+establishment of land-use plans and the provision of training in sustainable land and water 
+management; (ii) the establishment of pilot areas, training of beneficiaries, promotion and use 
+of improved stoves, and the adoption of a forest certification system to encourage the 
+sustainable use of land and forests; (iii) the development of grazing plans, the reseeding of 
+grazing land, the adoption of species testing based on extension services to ensure the 
+availability of healthy animals; (iv) fencing to prevent crop destruction, seed trials, extension 
+services and cereal banks to improve crop productivity; (v) pilot/learning sites for training 
+activities to encourage soil conservation; and (vi) identification, training and prioritization of 
+IGAs to improve livelihoods, mainly for women and young people. 
+
+3.1.2 The implementation of the GEF Project in parallel with the core project (P2RS) is 
+expected to build food security and improve nutrition in the project areas. The adoption of 
+sustainable and resilient agro-sylvo-pastoral systems will improve agricultural production and 
+enhance the availability of fodder resources for livestock. Similarly, integrated space 
+management will increase land availability for crops and restore soil condition. The 
+dissemination and use of improved stoves, the promotion of related IGAs will reduce the 
+pressure on wooded areas and curb deforestation and land degradation. The implementation of 
+project activities focused on building resilience and food security will amplify the economic 
+benefits of the project, as well as the positive impacts on living conditions and the quality of 
+life.  
+
+
+
+ 
+
+10 
+
+3.1.3 A number of socio-economic benefits should stem from the project, including: (i) 
+greater food and nutrition security resulting from the overall increase in agricultural and 
+livestock products; (ii) reduced vulnerability due to crop diversification and the cultivat ion of 
+resistant seed varieties; (iii) constant flows of agricultural and forest ecosystem services with 
+improved habitat resilience and preservation; (iv) the introduction of a sustainable forest and 
+IGA management certification system, which will further stabilize incomes; and (v) increased 
+awareness and a more favourable environment for managing the ecosystem and combating 
+climate change. 
+
+3.2 Environmental and Social Impacts  
+
+3.2.1 Environment: P2RS, the core project, is classified in Environmental Category 2 and 
+has undergone Strategic Environmental Assessment (SEA), in accordance with the relevant 
+procedures of the Bank, as well as its policy and regulatory framework. The purpose of the 
+SEA is to integrate environmental, socio-economic and institutional concerns into the design 
+and implementation of P2RS. For instance, P2RS-funded infrastructure investments will have 
+short-term negative environmental impacts specific to the area. The assessment led to the 
+development of an Environmental and Social Management Framework Plan (ESMFP) 
+outlining the various mitigation and enhancement measures. The GEF Project specifically aims 
+to increase the attention devoted to environmental protection in the core project, which should 
+produce a generally positive environmental impact. 
+
+Assessment of environmental conditions during the field visits confirmed that the proposed 
+project will have positive impacts. A number of negative environmental impacts are 
+foreseeable in the construction and works implementation phases, but they will be limited, 
+reversible and controllable, subject to monitoring and the implementation of appropriate 
+mitigation measures. These measures will comprise the preparation and validation of a sub-
+project selection procedure that is consistent with Chad's regulations, the establishment and 
+monitoring of land-use plans in each council or municipality within the project impact area, 
+the development of environmental and social project management guides, and the promotion 
+of best practices in agriculture and natural resource management. 
+
+3.2.2 Climate Change 
+
+To combat climate change, Chad is committed to reducing its greenhouse gas emissions 
+unconditionally by18.2% and conditionally by 71% by 2030, through adaptation and mitigation 
+measures. Climate change adaptation is a major concern for the country, which has developed 
+its National Adaptation Programme of Action (NAPA), among other documents, in an effort 
+to reduce its climate vulnerability. 
+
+The GEF Project is committed to promoting climate resilience by improving food and nutrition 
+security. Livelihoods will be diversified through the introduction of mixed cropping systems, 
+crop diversification, agroforestry and the identification of alternative activities that would 
+generate incomes while at the same time contributing to climate change adaptation. The project 
+will support resilience by promoting (i) sustainable agriculture and livestock production, 
+including sustainable management of grazing areas; and (ii) better planning of landscape 
+development to ensure the resilience of communities and ecosystems. To build the capacity of 
+beneficiaries, the project will support the setting up of micro-projects to demonstrate 
+appropriate soil conservation techniques, train local staff in sustainable integrated natural 
+resource management (INRM), provide training in sustainable forest management and arable 
+land management, and a demonstration of participatory land-use planning to better adapt to 
+climate change and reduce climate vulnerability. The project will also contribute to mitigation 
+actions through reforestation and the establishment of agro-forestry plantations. It will also 
+
+
+
+ 
+
+11 
+
+foster the implementation of the Bank's 2016-2020 Climate Change Action Plan (PACC2) by 
+mobilizing external climate financing. 
+
+3.2.3 Gender: Chad is ranked 150th out of 187 countries on the Gender Parity Index. While 
+discrimination against women is clearly prohibited, the principle of equality is undermined by 
+resistance and the existence of de facto inequalities between men and women. Barriers rooted 
+in traditional practices favour men, thereby hindering the internalization and appropriation of 
+laws. The proposed project will mainstream gender-related issues by specifically targeting the 
+implementation of activities usually dominated by women, and for which they have recognized 
+know-how (trade, market gardening, rice cultivation, small livestock breeding, traditional 
+poultry farming, processing, marketing, etc.) and from which they can derive an income. At 
+least five women's organizations will benefit from income diversification assistance through 
+agroforestry and sylvo-pastoral activities. The project will also have to ensure that women have 
+access to project resources by identifying other income-generating activities to be implemented 
+in association with households, and that they are fairly represented in project management and 
+executing bodies. 
+ 
+3.2.4 Social: A number of socio-economic impacts are envisaged, including: (i) reduced 
+vulnerability to climate and other shocks; (ii) diversification of activities, income generation 
+and job creation; (iii) better access to socio-economic services; and (iv) food production 
+security. The increased resilience of the population brought about by the new infrastructure 
+and techniques will improve the socio-economic situation of the beneficiaries, mainly women. 
+Improving the delivery of ecosystem goods and services and building resilience will help 
+ensure overall food and nutrition security. 
+
+3.2.5 Inclusive green growth: Within a context of diversified, pro-poor growth in a healthy 
+environment that preserves natural resources, the project will promote inclusive growth by 
+equitably allocating resources to activities, which will benefit all participating communities at 
+all levels. The project will help men, women and young people in rural areas to improve dryland 
+productivity on the basis of a sustainable and environmentally-friendly agro-ecological model. 
+Improved agro-pastoral techniques, such as rural hydro-agricultural infrastructure and grain 
+banks, will also provide opportunities for rural men, women and youth to participate in non-
+agricultural activities, thereby improving their livelihoods and reducing vulnerability. 
+
+3.2.6 Involuntary Resettlement: The project activities will not entail any involuntary 
+resettlement and land acquisition since they will be implemented within the existing P2RS 
+areas in the Kanem and Bahr el Ghazal regions. 
+
+3.3 Project Rationale 
+
+3.3.1 Given the extent of poverty in Chad, there is a tendency to forget that improving the 
+exploitation of natural resources can enable the country to use the huge assets at its disposal to 
+bring sustainable solutions to the recurrent food and nutrition insecurity that prevails in its 
+territory and to the problem of environmental degradation. While the unavailability of arable 
+land is an obstacle, it may be resolved by investing in integrated natural resource management 
+and strategic actions for resilience. 
+
+3.3.2 The funding being sought is supposed to benefit the inhabitants of the Kanem and 
+Bahr el Ghazal regions. The project will have positive socio-economic impacts as well as 
+generate many benefits for the biophysical and human environment. The GEF funding will 
+contribute to rebuilding Chad's fragile ecosystems by enabling local communities and 
+institutions to rehabilitate degraded lands and forests and preserve biodiversity, while building 
+resilience and ensuring food and nutrition security.  
+
+
+
+ 
+
+12 
+
+3.4 Project Objectives and Description 
+
+3.4.1 P2RS, the core project, aims to increase on a sustainable basis agro-sylvo-pastoral and 
+fisheries productivity in the Sahel. The GEF project strengthens this core component by adding 
+to it substantial environmental benefits and a sustainability dimension. 
+
+The expected outcomes of the financing may be outlined as follows:  
+
+x Improved agricultural, rangeland and pasture production in support of security 
+and resilience; 
+
+x Improved agro-pastoral technologies and access to production assets for 
+enhanced livelihoods and reduced vulnerability; 
+
+x Improved forest management and/or reforestation to generate sustainable flows 
+of agro – and forest ecosystem services; 
+
+x Enhanced integrated landscape planning for habitat resilience and preservation; 
+
+x Enhanced enabling environment through mechanisms for the conservation of 
+woody biomass and biodiversity; 
+
+x Lesson learned captured and knowledge disseminated; and 
+
+x  Project impact monitoring and evaluated.    
+
+3.4.2 This multi-focal project contributes directly to GEF Objective LD-1: Maintain or 
+improve flow of agroecosystem services to sustain food production and livelihoods. As part of 
+this objective, the project contributes to GEF Outcome 1.1 (Improved agricultural, rangeland 
+and pasture production in support of security and resilience), Output 1.2 (Improved agro-
+pastoral technologies and access to production assets for enhanced livelihoods and reduced 
+vulnerability) and Output 1.3 (Improved forest management and/or reforestation generate 
+sustainable flows of agro – and forest ecosystem services).   
+
+3.4.3 It also contributes to GEF Objective LD-3 which seeks to: reduce pressures on natural 
+resources from competing land uses in the wider landscape, through Outcome 2.1 (Enhanced 
+integrated landscape planning for habitat resilience and preservation). 
+
+3.4.4 Under GEF Objective LD-4 (“biodiversity” focal area), which deals with the 
+conservation of biodiversity and its sustainable use in marine and terrestrial areas and in sectors 
+of economic activity, the project will manage the human-biodiversity interface through 
+Outcome 2.2 (Enhanced enabling environment through mechanisms for the conservation of 
+land, woody biomass and biodiversity).   
+
+3.4.5 The fourth GEF objective is SFM-2: Enhance forest management: Maintain flows of 
+forest ecosystem services and improve resilience to climate change through sustainable forest 
+management by means of Outcome 1.3 (Improved forest management and/or reforestation to 
+generate sustainable flows of agro – and forest ecosystem services).  
+  
+
+
+
+ 
+
+13 
+
+4.  IMPLEMENTATION 
+
+4.1 Implementation Arrangements  
+
+4.1.1 The Project Implementation Unit (PIU) that is currently executing the P2RS Project 
+will be the same for the proposed project, and no other one will be set up. The PIU will also be 
+responsible for implementing the three components of the GEF additional project.  
+
+Due to the interdisciplinary and inter-institutional nature of the project, its Implementation Unit 
+will comprise representatives of institutions implementing related agreements, such as those 
+involved in rural development support, agricultural production, pastoral systems, food and 
+nutrition techniques, and forestry and agricultural research. Representatives of leading 
+government institutions in the sectors of agriculture, food security, water, livestock, 
+infrastructure, etc., will also be involved.   
+
+4.2 Procurement Procedure 
+
+4.2.1 All procurements of goods, works and consultancy services financed by the Bank's 
+resources shall be made in accordance with the Procurement Policy for Operations financed by 
+the Bank Group ("Procurement Policy" of AfDB "), October 2015 edition and in accordance 
+with the provisions mentioned in the Financing Agreement. In accordance with this policy and 
+following the various evaluations conducted, it was agreed that: (a) all the following Goods 
+and Works acquisitions: (i) cooking stoves, (ii) goods for micro-projects, (iii) mobiles materials 
+and, work on (i) the development of small irrigated areas and ponds, (ii) the construction of 
+water points, (ii) the construction of cereal banks, input shops, shops for animal feeding;(ii) the 
+rehabilitation of the program’s headquarters will be in accordance with the country's 
+procurement system ("National System") embodied by Decree No. 2417 / PR / PM / 2015 of 
+December 17th, 2015 on the Public Procurement Code (PPC); (b) the following acquisitions 
+(i) all selections of consultants; (ii) community-based contracts; and (iii) the acquisition of the 
+Plan Vivo system and standard used for certification of forest products and agroforestry will 
+be in accordance with the Bank's procurement system ("System of Procurement" of AfDB ").  
+
+4.2.2 The use of the National System improves efficiency through, inter alia, the following 
+actions: (i) better ownership of the procurement system to be used by the executing agency; 
+(ii) a saving of time with the absence of a second control (after that of the national entities) that 
+represents, the a priori review of the Bank. However, the Bank reserves the right to ask the 
+borrower to return to the use of the Bank System if: (a) the legal framework for Chadian public 
+procurement changes to evolve into a system unsatisfactory for the Bank; (b) the provisions in 
+force were not complied with by the executing agency or (c) the appropriate risk mitigation 
+measures included in the Risk Assessment Action Plan were not complied with. . It is indicated 
+that the procurements funded by the GEF are subject to respect for the rule of origin. A waiver 
+will be asked to have the same rules for the procurements funded by the GEF and the 
+procurements funded by the ADF grant already approved. 
+
+4.2.3 Procurement Risk and Capacity Assessment (PRCA): In order to take into account the 
+specificities of the project, the Bank assessed: (i) risks at the national, sectoral and project 
+levels; and (ii) the capacities of the implementing agencies. The results of these evaluations 
+concluded at a Moderate risk level for contracting and determined, subject to the application 
+of proposed mitigation measures, the group of acquisitions to be concluded under the Bank's 
+system and those acquisitions likely to be implemented, without major risk, according to the 
+National System. 
+ 
+  
+
+
+
+ 
+
+14 
+
+4.3 Financial Management and Disbursement Procedures  
+
+4.3.1 Financial Management: This GEF funding integrates the P2RS objectives with more 
+substantial environmental benefits and a sustainability dimension. The P2RS Management Unit 
+(PMU), set up within the Ministry of Agriculture, will therefore be responsible for 
+implementing these activities as well as financial management. It has its own accounting and 
+financial administrative procedures manual (it will be updated accordingly). The financial 
+management system is composed of an Administrative and Financial Manager (AFM) and an 
+Accountant. TOMPRO multi-project accounting software is operational and in use. This 
+software allows i) to keep the accounts of several projects at once, ii) to generate the main 
+accounting sheets and journal, general ledger and account balance and iii) to prepare the 
+consolidated and specific financial statements. The RAF and the Accountant are trained on its 
+use. The interim and annual reports produced for the P2RS are satisfactory and show that they 
+effectively control the use of the software. The accounting system in place is therefore adequate 
+and can produce accurate and reliable information. The GEF complementary financing accounts 
+will be integrated into the P2RS accounts with the possibility of disaggregation of expenditures 
+by source of financing. This allows for accurate and specific financial information on GEF 
+funding. 
+ 
+4.3.2 Audit: The Audit of Accounts, relating to activities financed from GEF resources, will 
+be carried out as part of the audit of the P2RS annual accounts. Thus, the consolidated and 
+specific accounts for all financings will be audited each year by the same independent external 
+audit firm, meeting the required criteria and in accordance with the terms of reference (TOR) 
+acceptable to the Bank. The audit report must reach the Bank no later than six months after the 
+close of the financial year concerned.  
+
+4.3.3 Disbursement procedure: The project will use the Bank's disbursement methods, 
+namely: (i) direct payment, (ii) special account (SA), and (iii) reimbursement methods, in 
+accordance with the rules and procedures set out in the Disbursement Handbook. A separate 
+foreign exchange special account will be opened for the project with the Central Bank of Chad 
+and a local currency account with the same bank, which will be used by the Project 
+Implementation Unit to finance operating and other recurrent costs, eligible under the project. 
+To facilitate the payment of eligible operating costs, a separate local project sub-account, to be 
+managed by the Ministry of Agriculture through the Project Implementation Unit, will be 
+opened at a commercial bank acceptable to the Bank, in accordance with existing rules and 
+regulations. The management of bank accounts, including the payment of eligible expenses, the 
+preparation of requests for the withdrawal of funds from the special account (SA) and the 
+documentation of all direct payments, will be subject to the existing procedures within the 
+executing body (EB), and placed under the general responsibility of the Director-General of the 
+Ministry in charge of Agriculture. The Bank will issue a Disbursement Letter, the content of 
+which will be reviewed and agreed upon during the negotiations. 
+
+4.4 Monitoring 
+
+4.4.1 The monitoring and evaluation (M&E) of progress towards achieving project 
+outcomes and objectives will be conducted on the basis of the goal and outcome indicators 
+identified in the results framework and annual work and budget plans of the project. M&E 
+activities will be performed in line with M&E policies and guidelines of the Bank and GEF. 
+The day-to-day monitoring of project implementation will be the responsibility of the Project 
+Implementation Unit (PIU) and will include the preparation and implementation of annual 
+work plans and budgets, and the drafting semi-annual progress reports (SAPRs) of the project.  
+
+
+
+ 
+
+15 
+
+4.4.2 Specific reports that should be prepared as part of the monitoring and evaluation 
+programme are: the project launch report, the annual work plan and budget, project progress 
+reports; the annual project implementation review, technical reports, co-financing reports, and 
+a completion report. In addition, GEF monitoring tools for the land degradation (LD), 
+biodiversity (BD) and sustainable forest management (SFM) focus areas will be updated and 
+supplemented by the project team at the mid-term and the final evaluations. 
+
+It is extremely important for the project to use internationally recognized results-based 
+monitoring and evaluation frameworks throughout the project implementation process. 
+Responsibility for monitoring will rest with the Ministry of Agriculture, which will be 
+supported by the Ministry of the Environment. This work will be done in collaboration with 
+the Bank and the project team. The information collected through M&E will be taken into 
+account in the activities to help to ensure knowledge management, identify and share best 
+practices, identify problems and constraints, and promote sustained improvement of the project 
+and its contribution to the implementation of national and regional strategies on food security 
+and rural development.   
+
+4.4.3 The M&E mechanism will be fine-tuned to ensure that it mainstreams gender issues, 
+with special emphasis on the definition of specific parameters for women and young people. 
+The parameters to be monitored and evaluated will include, for example, the level of women's 
+involvement in decision-making bodies, and the number of young people trained. 
+ 
+
+Schedule Milestone Quarter Monitoring Process (Feedback Loop) 
+Year 1 (2018) Annual work plans and 
+
+budgets (AWPB) 
+Semi-annual progress reports 
+(SAPR) 
+
+Q1 
+ 
+Q3 
+
+National project coordinator and external audit firm 
+(Annually) 
+ 
+
+Year 2 (2019) Annual work plans and 
+budgets (AWPB) 
+Semi-annual progress reports 
+(SAPR) 
+Mid-term review  
+
+Q1 
+ 
+Q3 
+ 
+Q4 
+
+National project coordinator and external audit firm 
+(Annually) 
+ 
+Communities, beneficiaries, Ministry of Environment and 
+Agriculture, and consultant 
+
+Year 3 (2020) Annual work plans and 
+budgets (AWPBs) 
+Semi-annual progress reports 
+(SAPR) 
+
+Q1 
+ 
+Q3 
+
+National project coordinator and external audit firm 
+(Annually) 
+ 
+
+Year 4 (2021) Annual work plans and 
+budgets (AWPB) 
+Semi-annual progress reports 
+(SAPR) 
+Project completion report  
+
+Q1 
+ 
+Q3 
+ 
+Q4 
+
+National project coordinator and external audit firm 
+(Annually) 
+ 
+Communities, beneficiaries, Ministry of Environment and 
+Agriculture, and consultant 
+
+ 
+ 
+
+4.5 Governance 
+
+4.5.1 In Chad, governance is still a cause for concern in the area of public finance 
+management, including public procurement. In addition to using the direct agreement method, 
+the procurement process is extremely slow. The existing institutional and organizational 
+framework does not function properly due partly to non-compliance with applicable rules and 
+procedures and partly to the weak human resource capacity of the entities in charge of this 
+process.  
+
+To address these issues, supervision missions, financial and procurement audits will be 
+conducted to ensure that the services provided and the works performed are consistent with the 
+disbursements made. 
+
+
+
+ 
+
+16 
+
+4.5.2 Mitigation measures provided to address these issues include: (i) the development of 
+a tailored-made financial management procedures manual that will provided the  staff of the 
+Project Implementation Unit with programme implementation guidelines; (ii) the use of 
+MoFL's internal audit services to conduct project pre-audits; and (iii) the acquisition of serial 
+accounting software to capture and process transactions and to interface with IFMIS so as to 
+facilitate timely financial reporting, considering the IFMIS-related operational problems; and 
+(iv) the implementation of a system of timely submission of the interim quarterly progress 
+report (IQPR). 
+
+4.6 Sustainability 
+
+4.6.1 Carrying out activities and building infrastructure that are economically, financially 
+and technically viable will enhance the sustainability of project interventions. Sustainability 
+factors include: proper sizing and targeting of infrastructure, stakeholder participation and 
+ownership (men and women), and beneficiary involvement at all stages of planning and 
+implementation, the quality of facilities and equipment, and viable production activities adapted 
+to the agro-ecological zone. To ensure post-project sustainability, preference will be given, in 
+the conduct of each operation, to reliable and simple but resilient mechanisms, which will 
+enhance the scope and coherence of the actions implemented.  
+
+4.6.2 The project aims to build resilience by improving food security and nutrition through 
+the enhancement of agro-sylvo-pastoral productivity in drylands. Training in integrated natural 
+resource management (INRM), sustainable land and water management (SLWM) and the 
+proposed awareness campaigns will provide tools and approaches for maintaining commitment 
+and sustainability after the project completion. All stakeholders will be involved in the 
+implementation of project activities, including beneficiary communities, to ensure ownership 
+and commitment, as well as the viability of improved agro-sylvo-pastoral production 
+infrastructure. The project will strengthen the principles of sustainability which lay emphasis 
+on the use of a participatory approach during project preparation. This is important as it helps 
+to ensure the relevance of the investments and to build institutional capacity at the community 
+level in order to guarantee the sustainability of planned activities. The sustainability will be 
+achieved by strengthening and consolidating the institutional framework using existing national 
+systems. 
+
+4.6.3 The project will lay a great emphasis on building the capacity of beneficiaries and 
+strengthening their institutions, such as interest groups, associations or cooperatives. 
+Beneficiaries will be mobilized, organized into viable autonomous entities, trained and 
+empowered, so they may view their activities as a business rather than a means of survival. 
+Awareness and training on gender mainstreaming at the community and local government 
+levels will ensure that women and young people continue to participate in and benefit equitably 
+from all project activities.    
+
+4.7 Risk Management 
+
+Description Classification Mitigation Measures  
+
+Climate risks, exemplified by the 
+recurrent droughts and floods, rainfall 
+deficits, extreme heat, which expose the  
+country’s natural resources to severe 
+degradation. Indicators of this situation 
+include land degradation, desertification, 
+deterioration of vegetation cover, 
+increasingly frequent conflicts between 
+farmers and herders, the decimation of 
+wildlife, the drying up of Lake Chad and 
+
+2 (moderate) The project’s special emphasis on resilience, for 
+example, agricultural practices, crop diversification, 
+heat-resistant species, and water management. This will 
+gradually reduce the impacts of climate variability. The 
+planned project activities will help rural communities to 
+better adapt to shocks and improve resilience. 
+
+
+
+ 
+
+17 
+
+Description Classification Mitigation Measures  
+
+food insecurity. The sectors most 
+severely affected by climate risks are 
+agriculture, livestock, fisheries, health 
+and housing.  
+Institutional and organizational 
+weaknesses: Exemplified  by 
+insufficient coordination between 
+governance structures at national, local 
+and community levels   
+
+2 (moderate) Strengthen existing structures, particularly those of 
+CILSS and national project executing bodies, encourage 
+cooperation and communication between the structures 
+to allow smooth implementation of the project. 
+
+Agriculture, livestock and fisheries - 
+Declining productivity in these sectors 
+may impoverish the people and expose 
+them to food insecurity. In the 
+agricultural sector, for example, fallow-
+free cultivation, poor agricultural and 
+land-use practices have reduced soil 
+fertility, decreased crop yields and led to 
+wind/soil erosion. Fishing, on the other 
+hand, is threatened by substantial 
+desiccation of important water resources, 
+attributed to frequent recurring droughts, 
+reduced vegetation around watercourses, 
+deforestation and overgrazing.  
+
+2 (moderate) Improved crop varieties and hardy livestock, control of 
+livestock population levels to ensure that they match the 
+carrying capacity; training in improved land-use 
+practices; diversification of livelihoods and construction 
+of transport infrastructure. 
+
+Conflicts between farmers and 
+herders: The project area has been 
+identified as a transhumance area, 
+although agriculture continues to be 
+practised in the wadis. The source of the 
+conflict lies mainly in the increasingly 
+fierce competition for land and natural 
+resources (pasture and water), due to the 
+increased frequency of droughts and 
+rainfall deficits.  
+
+2 (moderate) Mediation efforts, activities that are tailored to the 
+requirements of each group, bearing in mind their 
+distinct but closely related realities and needs 
+ 
+ 
+
+Conflicts between the project and the 
+communities: Poverty and insecurity are 
+exacerbated by weak community 
+organization, coupled with inefficient 
+service delivery, lack of resources and 
+weak decision-making powers and 
+information facilities. 
+ 
+
+2 (moderate) Establishment of broad-based consultation mechanisms 
+and awareness programmes, including a communication 
+plan, development of capacity building/training 
+programmes and organization of workshops. 
+
+Environmental impacts - natural 
+resources and biodiversity. The P2RS 1 
+core project is classified in 
+Environmental Category 2 (AfDB 
+Environmental and Social Safeguards). 
+ 
+
+1 (low) Project activities may have negative impacts ranging 
+from low to moderate, which should be outweighed by 
+the overall environmental benefits  
+ 
+Compliance with Chadian regulations, preparation and 
+monitoring of land-use plans, preparation of sub-project 
+ESMPs, promotion of agricultural and natural resource 
+management best practices 
+
+Health, Nutrition and Hygiene - Risk of 
+epidemics, malnutrition and poor hygiene 
+
+2 (moderate) Early warning mechanisms, hygiene programmes, 
+improved nutrition programmes, improved and 
+increased livelihoods and rural communities assets 
+
+Energy and transportation 
+infrastructure facilities - These will 
+include irrigation infrastructure, 
+boreholes and socio-economic 
+infrastructure. These infrastructure 
+facilities should minimize the effects of 
+extreme droughts and floods  
+
+2 (moderate) Development of climate-resilient energy sources, 
+diversification of energy sources, construction of 
+climate-resilient infrastructure  
+
+4.8 Knowledge Building  
+
+4.8.1 The project should generate substantial knowledge that will add value to the overall 
+design and management of future similar interventions. The lessons and experiences will be 
+shared within the Bank and other institutions interested in implementing similar projects, 
+
+
+
+ 
+
+18 
+
+through project progress reports, audit reports, the mid-term review report and the completion 
+report, especially as they will be part of the knowledge transfer and dissemination tools. The 
+project will promote community participation and management of agro-sylvo-pastoral 
+infrastructure. It will work closely with women's organizations and key stakeholders to ensure 
+the sharing of information and learning materials dealing with empowering women and young 
+people to build resilience for food and nutrition security. The project will also focus on building 
+the capacity of key staff, and the beneficiaries will be fully involved in the implementation of 
+planned activities. Exchanges with project beneficiaries will also be an opportunity to acquire 
+the valuable knowledge that will be shared. The project will also collaborate with local NGOs 
+and community-based organisations (CBOs) to increase their capacity and knowledge so that 
+they may be able to continue to carry out sustainable activities for the promotion of food and 
+nutrition security. Knowledge-building information will be systematically collected and 
+documented in monitoring/evaluation and supervision reports, as well as in the periodic reports 
+that will be shared at the Bank. 
+ 
+5. LEGAL INSTRUMENTS AND AUTHORITY  
+
+5.1 Legal Instruments 
+
+5.1.1 The funding instrument will be a GEF grant agreement between the Republic of Chad 
+and the AfDB to finance the costs of the Resilience Building Project for Food Security and 
+Nutrition in Rural Communities in Chad. 
+
+5.2 Conditions Associated with Bank Intervention  
+
+5.2.1 Conditions precedent to the entry into force of the GEF grant: The GEF grant 
+agreement will enter into force on the date of its signature by both parties. 
+
+5.2.2 Commitment to disbursement of subsequent tranches of the GEF grant: In addition to 
+the conditions relating to the grant effectiveness, the disbursement of the first tranche of the 
+grant resources will be subject to the fulfilment of the following condition:  
+
+ (i) Recruitment of an Environmental Expert in the Project Implementation Unit and 
+whose qualifications and terms of reference must have been deemed acceptable 
+by the Bank. 
+
+5.2.3 Undertakings: 
+
+ (i) Each year, to provide a copy of the  annual progress report for the fiscal year 
+that ends on 30 June, accompanied by an annual work plan at the latest 3 months 
+after the end of the relevant fiscal year; 
+
+5.3 Compliance with Bank Policies 
+
+5.3.1 The activities planned to be financed with the GEF resources are in line with all 
+applicable Bank and GEF policies. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+19 
+
+6. RECOMMENDATION 
+
+6.1 Management recommends to the Board of Directors: 
+
+- to grant the Republic of Chad, under the resources of the GEF, an amount of 5 329 452 
+United States dollars for the financing of the project to Build Resilience for Food Security and 
+Nutrition in Chad’s Rural Communities, subject to the conditions set out in this report; 
+ 
+- to decide that the acquisitions of goods, works and services which are financed under 
+the resources of the GEF grant will be open to all countries, including those which are not ADB 
+States Members. 
+
+
+
+ 
+
+I 
+ 
+
+ 
+
+Annex 1: Project Implementation Organisational Structure  
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Project Implementation Unit (PIU)  
+
+Component 1 
+ 
+
+Component 2 
+ 
+
+Component 3 
+
+Steering Committee  
+
+Agreements for the implementation of 
+specific activities: 
+  
+
+- National Agency for Rural 
+Development Support 
+
+- Agricultural Production and 
+Statistics Bureau  
+
+- Directorate of Pastoral 
+Organization and the Security 
+of Pastoral Systems 
+
+- Directorate of Nutrition and 
+Food Techniques 
+
+- Department of Forests and 
+Desertification Control 
+
+- Directorate of Environmental 
+Assessment and Pollution 
+Control 
+
+- Chadian Agricultural Research 
+Institute for Development 
+
+- Livestock Research Institute 
+for Development 
+
+- - Directorate-General of 
+Agricultural Engineering and 
+Agricultural Hydraulics 
+
+ 
+
+Directorate of Agric. 
+Production and 
+
+Training  
+
+
+
+ 
+
+II 
+ 
+
+Annex. 2  
+
+ 
+ 
+ 
+
+
+
+ 
+
+III 
+ 
+
+Annex 3: Chad Comparative socio-economic indicators 
+
+Year Chad Africa
+Develo-    
+
+ping         
+Countries
+
+Develo-       
+ped  
+
+Countries
+Basic Indicators
+Area ( '000 Km²) 2017 1 284 30 067 80 386 53 939
+Total Population (millions) 2017 15,0 1 184,5 5 945,0 1 401,5
+Urban Population (% of Total) 2017 22,0 39,7 47,0 80,7
+Population Density  (per Km²) 2017 11,9 40,3 78,5 25,4
+GNI per Capita (US $) 2016  720 2 045 4 226 38 317
+Labor Force Participation *- Total (%) 2017 71,6 66,3 67,7 72,0
+Labor Force Participation **- Female (%) 2017 64,0 56,5 53,0 64,5
+Sex  Ratio (per 100 female) 2017 100,3 0,801 0,506 0,792
+Human Dev elop. Index  (Rank among 187 countries) 2015 186 ... ... ...
+Popul. Liv ing Below  $ 1.90 a  Day  (% of Population) 2011 38,4 39,6 17,0 ...
+
+Dem ographic Indicators
+Population Grow th Rate   - Total (%) 2017 3,2 2,6 1,3 0,6
+Population Grow th Rate   - Urban (%) 2017 3,7 3,6 2,6 0,8
+Population < 15 y ears  (%) 2017 47,3 41,0 28,3 17,3
+Population 15-24 y ears (%) 2017 20,4 3,5 6,2 16,0
+Population >= 65 y ears  (%) 2017 2,5 80,1 54,6 50,5
+Dependency  Ratio (%) 2017 99,3 100,1 102,8 97,4
+Female Population 15-49 y ears (% of total population) 2017 22,2 24,0 25,8 23,0
+Life Ex pectancy  at Birth - Total (y ears) 2017 52,4 61,2 68,9 79,1
+Life Ex pectancy  at Birth - Female (y ears) 2017 53,6 62,6 70,8 82,1
+Crude Birth Rate (per 1,000) 2017 43,9 34,8 21,0 11,6
+Crude Death Rate (per 1,000) 2017 13,3 9,3 7,7 8,8
+Infant Mortality  Rate (per 1,000) 2016 75,2 52,2 35,2 5,8
+Child Mortality  Rate (per 1,000) 2016 127,3 75,5 47,3 6,8
+Total Fertility  Rate (per w oman) 2017 5,8 4,6 2,6 1,7
+Maternal Mortality  Rate (per 100,000) 2015 856,0 411,3 230,0 22,0
+Women Using Contraception (%) 2017 6,8 35,3 62,1 ...
+
+Health & Nutrition Indicators
+Phy sicians (per 100,000 people) 2013 4,4 46,9 118,1 308,0
+Nurses and midw iv es (per 100,000 people) 2013 30,9 133,4 202,9 857,4
+Births attended by  Trained Health Personnel (%) 2015 20,2 50,6 67,7 ...
+Access to Safe Water (% of Population) 2015 50,8 71,6 89,1 99,0
+Access to Sanitation (% of Population) 2015 12,1 51,3 57 69
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2016 1,3 39,4 60,8 96,3
+Incidence of Tuberculosis (per 100,000) 2016 153,0 3,8 1,2 ...
+Child Immunization Against Tuberculosis (%) 2016 56,0 245,9 149,0 22,0
+Child Immunization Against Measles (%) 2016 58,0 84,1 90,0 ...
+Underw eight Children (% of children under 5 y ears) 2015 28,8 76,0 82,7 93,9
+Prev alence of stunding 2015 39,9 20,8 17,0 0,9
+Prev alence of undernourishment (% of pop.) 2015 32,5 2 621 2 335 3 416
+Public Ex penditure on Health (as % of GDP) 2014 2,0 2,7 3,1 7,3
+
+Education Indicators
+ Gross Enrolment Ratio (%)
+      Primary  School       -   Total 2016 88,1 106,4 109,4 101,3
+      Primary  School       -   Female 2016 77,0 102,6 107,6 101,1
+      Secondary  School  -   Total 2016 22,7 54,6 69,0 100,2
+      Secondary  School  -   Female 2016 14,3 51,4 67,7 99,9
+Primary  School Female Teaching Staff (% of Total) 2012 15,4 45,1 58,1 81,6
+Adult literacy  Rate - Total (%) 2016 22,3 61,8 80,4 99,2
+Adult literacy  Rate - Male (%) 2016 31,3 70,7 85,9 99,3
+Adult literacy  Rate - Female (%) 2016 14,0 53,4 75,2 99,0
+Percentage of GDP Spent on Education 2013 2,9 5,3 4,3 5,5
+
+Environm ental  Indicators
+Land Use (Arable Land as % of Total Land Area) 2015 3,9 8,6 11,9 9,4
+Agricultural Land (as % of land area) 2015 39,7 43,2 43,4 30,0
+Forest (As % of Land Area) 2015 3,9 23,3 28,0 34,5
+Per Capita CO2 Emissions (metric tons) 2014 0,1 1,1 3,0 11,6
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available. * Labor force participation rate, total (%  of total population ages 15+)
+** Labor force participation rate, female (%  of female population ages 15+) 
+
+Chad
+COMPARATIVE SOCIO-ECONOMIC INDICATORS
+
+May 2018
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+20
+00
+
+20
+05
+
+20
+10
+
+20
+11
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+Infant Mortality Rate
+( Per 1000 )
+
+Chad A fric a
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+20
+00
+
+20
+05
+
+20
+10
+
+20
+11
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+GNI Per Capita US $
+
+Chad A fric a
+
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+
+20
+00
+
+20
+05
+
+20
+10
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+20
+17
+
+Population Growth Rate (%)
+
+Chad A fric a
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+20
+00
+
+20
+05
+
+20
+10
+
+20
+12
+
+20
+13
+
+20
+14
+
+20
+15
+
+20
+16
+
+20
+17
+
+Life Expectancy at Birth 
+(years)
+
+Chad A fric a
+
+
+

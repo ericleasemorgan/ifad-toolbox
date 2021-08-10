@@ -1,0 +1,224 @@
+Received: from 10.220.174.235
+ by atlas104.sbc.mail.ne1.yahoo.com with HTTPS; Mon, 9 Aug 2021 15:15:39 +0000
+Return-Path: <emorgan+caf_=eric.lease.morgan=att.net@nd.edu>
+X-Originating-Ip: [209.85.221.47]
+Received-SPF: pass (domain of nd.edu designates 209.85.221.47 as permitted sender)
+Authentication-Results: atlas104.sbc.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nd.edu header.s=google;
+ spf=pass smtp.mailfrom=nd.edu;
+ dmarc=pass(p=NONE) header.from=nd.edu;
+X-Apparently-To: eric.lease.morgan@att.net; Mon, 9 Aug 2021 15:15:39 +0000
+X-YMailISG: Sq3s.w4WLDsb6CTtq5DXClxSa6MZTII20Sau_dLaR_k4oGJX
+ pYs5NSzYQ3w1e12Axsv9nLBhssIoifZ89C3KYr2VLirV3Gk.A3PzG5EmpRSY
+ GHw20OSvTZZq3e2uWwkNnBbuTg8JVAiMZYpICxg1WFmalktM9QsyD6e9o.5Q
+ lezjxj8csD4fODD9pUn_yn0C.fo_J3AgJuEADn3FIr9nK_VH.KAym.vknDVl
+ 9PSpiCg8s8WNwOZv5Vek4pEV0MZKxKjGEaLJbETIq0Q.IhLeoQ7Yv6oi4dPq
+ Zvd7pYAX.bphMwDnuXUvwLps.VVnPDc8GO7G4ppahg.a1QKLkvbHW7nIKiIM
+ kULjWHND7rAMquQz_vrnw_V0AUFi7LvxJioUCgyTkI7qYtM25h_d3V5oMUt9
+ rf_nAju_KTlfUkiF5hm_4ZMLl_GzZ1mnFzPCYhCVKOUio3371.L4hr12g22F
+ UJBv2hIHhG2zK0nufXVMcYi01UVdgp782sg5kALhnsBEtDrK.CD3JGtaJU3t
+ oUB3GZhoOHnoLBMgmvvQnvG4.khC674uN3oswootvSAwhAl1T4QwTettymTV
+ ZL1x6Qv1nKv.GEvqsidPcIFKif9MMirX8ySX7X2MZX9mc_JztSTOCOVOzCbw
+ MXcpeEyBXtXawstSwhKj5S4ZpYK3MshiViL3LWfb_rjLM064c2uCnv5wxrUZ
+ 1LlqveLvtLqb2RIz10l3s.WZl6cirIqCfzIBbU4HCnN_.0iD.i_8HZj75yg9
+ ya8IQICajKU_IVGJmOT_nda0b93tP0a29iZybg27ZDpfmX95XVYjdIKyQomE
+ lrtgHNQEepVE6Cev5J4lpb.7rcmdaXEah2ZiPrmT3q1ao0werqtiXUrmuUYs
+ I8RR5a3TSKSMYt_9xtJaGLxGyUGi1gH.awDMDNyYT7asYBvFPAR8apSKE6m3
+ ZJIbeHySuYzrJxzEW2I_sbBbkqAnf.3L7cD7KYLGW9XDRRiptbkfVW4yNGEo
+ aABP8mtIea15lZJxoqBumx37dXWafAod298zgs7qaibrdd9BXu43eqsu9fuN
+ uv_6sfMqw0uP_S8jDeurLLm5kOIr5Ckjbua5E6Yppp87SaN1ixAY0qFyJihC
+ QordMlKibPNE9xiRyetqjASE1QHBRzAWQH3wnHAsi4RsyDj9FjNksMicrc8O
+ KYUwv.X9.NGrkKf_
+Received: from 144.160.152.239 (EHLO flph823.prodigy.net)
+ by 10.220.174.235 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 09 Aug 2021 15:15:39 +0000
+X-Originating-IP: [209.85.221.47]
+Received: from mail-wr1-f47.google.com (mail-wr1-f47.google.com [209.85.221.47])
+	by flph823.prodigy.net (Inbound 8.15.2/8.15.2) with ESMTPS id 179FCs9U036663
+	(version=TLSv1.2 cipher=AES128-GCM-SHA256 bits=128 verify=FAIL)
+	for <eric.lease.morgan@att.net>; Mon, 9 Aug 2021 08:15:38 -0700
+Received: by mail-wr1-f47.google.com with SMTP id f5so6149404wrm.13
+        for <eric.lease.morgan@att.net>; Mon, 09 Aug 2021 08:15:38 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:delivered-to:dkim-signature:from:mime-version
+         :subject:message-id:date:to;
+        bh=KoFACYlBJhBJCs/XAX9lgsbX/QvPW1RWhuWq+6RCs9g=;
+        b=MHtDHfR35LmJyt+4W352RVsBNSD5FVH373aXHzLmRkNaeBU1roAJQKw8E+DbxYTOht
+         Hot+/4D6oKHmlQgnGIvMFKHM4DV2bJoD7IfLUoVFs5PzT27gs5Ka3lIFArhy+e/i06El
+         ZiFpmX4KSE4l/0GMML9EjEVBSpIonxt33io/ilDeg2oMczu3Jd99avia0ldKmzW43wtm
+         4Ec6KJ4u3DmaR9uRtfi3ySuP5WwQ7f0LYfJjdVs3fWQEbXg7tf6eGzHIlxDUxznpcLUR
+         /ltVGDoV0GR2HwOQZDvKrUk0mewsgwy5JKMZNTSFuTFPiuMt+4U1GgUqOkMWdGEcMIqS
+         Wg9g==
+X-Gm-Message-State: AOAM533seMFB4SIwOD/Og05KsinkAYKaNZnfaIInFpSoXdyitkvYPW82
+	f22FCERVhCdHHQT0aNQba8UGYhUEJvfXQr6r6YwlHdNjDhPzqHehMqaz
+X-Received: by 2002:adf:c549:: with SMTP id s9mr25721734wrf.344.1628522138180;
+        Mon, 09 Aug 2021 08:15:38 -0700 (PDT)
+X-Forwarded-To: eric.lease.morgan@att.net
+X-Forwarded-For: emorgan@nd.edu eric.lease.morgan@att.net
+Delivered-To: emorgan@nd.edu
+Received: by 2002:a05:600c:2e42:0:0:0:0 with SMTP id q2csp2602151wmf;
+        Mon, 9 Aug 2021 08:15:37 -0700 (PDT)
+X-Received: by 2002:a05:6e02:1bcb:: with SMTP id x11mr879750ilv.168.1628522137189;
+        Mon, 09 Aug 2021 08:15:37 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1628522137; cv=none;
+        d=google.com; s=arc-20160816;
+        b=WwmPDQmmT5RJEXOijXeKxyDZNTpH+hHEn/157K0KNHkpdzxT6+OfPJSgmvc9m8H2x6
+         zANsf3ktxAbc4j2WO4Zv4uEsK9kZ3BF0Y/osC+vBpc5VnuB2LDvFQbt19W6lELbBlx51
+         0HcuReZpOTF/tVXs8mDGZJe7cOApL+/1+voNeygZHfvgM90QDSxypnnohTHlC565I1Lm
+         1dfEZsKxnYF1YTSF5iuy+hkjBfaiekhKD7tNUhxtCCP5kvl1xm39n3oj7EEfNdpthLJg
+         fQX5peuyjRr2usndLPl7ovyfbIgtRs93IC5IJRWuBf5kcEUf+lODWIIssJW7lnbyqq+H
+         wqTQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:date:message-id:subject:mime-version:from:dkim-signature;
+        bh=KoFACYlBJhBJCs/XAX9lgsbX/QvPW1RWhuWq+6RCs9g=;
+        b=gdhmWYDlU/zQnGqZ4Rto57WJsKuBYkgra0/qsXGJeK62semE7e7cCtPMZTNe+lDTRw
+         NaYxn7cr3xBb0rdAdct/yE9DsV2SiQvI5+RAyYW3eVTcTymuLLm6SzhSItmyoJ6938MM
+         pae8ksy7IAts11xc4k9WCFmOE2zpLb++Z5KyfZohPcU5+xcu3YQh7/s4Cf04Vd0WGh4Y
+         uJFrNpUsL0xv7J4WUq8eR8HWfPuMYHVJH3R/FQ+02WPL7fVrIJPMxXhgIzvIiGgioVjz
+         kj7OKqsw41GOWrTYKFR3fyMIoHgpOMP2e4nj1hBv76wkK/ENbGmQjxF0PkB4nxMqlfW8
+         sZSg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@nd.edu header.s=google header.b=C8+12J3e;
+       spf=pass (google.com: domain of mhowat1@nd.edu designates 209.85.220.41 as permitted sender) smtp.mailfrom=mhowat1@nd.edu;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=nd.edu
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id s8sor8874572iol.77.2021.08.09.08.15.37
+        for <emorgan@nd.edu>
+        (Google Transport Security);
+        Mon, 09 Aug 2021 08:15:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nd.edu; s=google;
+        h=from:mime-version:subject:message-id:date:to;
+        bh=KoFACYlBJhBJCs/XAX9lgsbX/QvPW1RWhuWq+6RCs9g=;
+        b=C8+12J3ez4mwIQcKAp1nFuzfURcEiuzSEVp8RgXrDd8PU7/tt+lsiWNwuVuYsRlfum
+         UnaxRPYb08jMVuodXwnHzpKTC8ZZ/4goBq+vVRNx/KEKhm/IvyR6+ifT7ipqUsoq13wn
+         nfHx+b9FE3OOAL3/d2Y6Q/Fl74Jk9qGJIZyU8uZGjnIT3wc25WXmXKZLSCmWmJrj1nBd
+         yPqDYd2OGcF+iZzo4ht5xbeWCsFxLrw0j/oKoyZFHXa8KojZxI1WcI4Sc2lsWYmxSATd
+         7dbPf4yMkZLHa5nmGNOD3xiakUBhh+16pJsyKq/I4h512pnNnt7DSkivQgiDvvrVSH4u
+         F5fg==
+X-Google-Smtp-Source: ABdhPJzaMGorD7enhUua0HZDfeFmHGkBrpFGZ5eHcI8JlIO4inQoVYO4Y8E8ujVm+ht0M2ofyAD+2w==
+X-Received: by 2002:a05:6602:1848:: with SMTP id d8mr305880ioi.72.1628522136648;
+        Mon, 09 Aug 2021 08:15:36 -0700 (PDT)
+Received: from smtpclient.apple ([96.72.123.25])
+        by smtp.gmail.com with ESMTPSA id l5sm629565iln.13.2021.08.09.08.15.36
+        for <emorgan@nd.edu>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 09 Aug 2021 08:15:36 -0700 (PDT)
+From: Meghan Howat <mhowat1@nd.edu>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_88171C13-7917-451C-A324-39376B125885"
+Mime-Version: 1.0 (Mac OS X Mail 14.0 \(3654.80.0.2.43\))
+Subject: Objectives 
+Message-Id: <291A2071-DCC6-4C2B-BEE2-16FF528D90AB@nd.edu>
+Date: Mon, 9 Aug 2021 10:15:35 -0500
+To: Eric Lease Morgan <emorgan@nd.edu>
+X-Mailer: Apple Mail (2.3654.80.0.2.43)
+Content-Length: 5764
+
+
+--Apple-Mail=_88171C13-7917-451C-A324-39376B125885
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=utf-8
+
+
+Objectives:
+
+To what extent are these different institutions being inclusive in their =
+agricultural projects?=20
+
+Word counts on =E2=80=9Csmallholder=E2=80=9D =E2=80=9Csmall scale =
+producer=E2=80=9D =E2=80=9Csmall farmer=E2=80=9D
+Frequency per 100 words per institution, year, region=20
+Connect to area of intervention
+If it mentions these words a lot, is it with projects focused on =
+irrigation? Infrastructure? Livestock?=20
+Maybe a word cloud of frequent topics when a paper talks a lot about =
+small farmers
+Histogram with frequency per 100 words per institution and/or what types =
+of projects are more or less inclusive=20
+
+
+
+--Apple-Mail=_88171C13-7917-451C-A324-39376B125885
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=utf-8
+
+<html><body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><div class=3D""><br =
+class=3D""></div><div class=3D"">Objectives:</div><div class=3D""><br =
+class=3D""></div><div class=3D"">To what extent are these different =
+institutions being inclusive in their agricultural =
+projects?&nbsp;</div><div class=3D""><br class=3D""></div><div =
+class=3D""><span =
+id=3D"docs-internal-guid-bbc83f88-7fff-6252-34ce-709ba268d206" =
+class=3D""><ul =
+style=3D"margin-top:0;margin-bottom:0;padding-inline-start:48px;" =
+class=3D""><li dir=3D"ltr" style=3D"list-style-type: disc; font-size: =
+11pt; font-family: &quot;Times New Roman&quot;; font-variant-ligatures: =
+normal; font-variant-east-asian: normal; font-variant-position: normal; =
+vertical-align: baseline; white-space: pre;" aria-level=3D"1" =
+class=3D""><div style=3D"line-height: 1.38; margin-top: 0pt; =
+margin-bottom: 0pt;" class=3D""><span style=3D"font-size: 11pt; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">Word counts on =E2=80=9Csmallholder=E2=80=9D =
+=E2=80=9Csmall scale producer=E2=80=9D =E2=80=9Csmall =
+farmer=E2=80=9D</span></div></li><li dir=3D"ltr" style=3D"list-style-type:=
+ disc; font-size: 11pt; font-family: &quot;Times New Roman&quot;; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre;" aria-level=3D"1" class=3D""><div style=3D"line-height: 1.38; =
+margin-top: 0pt; margin-bottom: 0pt;" class=3D""><span style=3D"font-size:=
+ 11pt; font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">Frequency per 100 words per institution, year, =
+region&nbsp;</span></div></li><li dir=3D"ltr" style=3D"list-style-type: =
+disc; font-size: 11pt; font-family: &quot;Times New Roman&quot;; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre;" aria-level=3D"1" class=3D""><div style=3D"line-height: 1.38; =
+margin-top: 0pt; margin-bottom: 0pt;" class=3D""><span style=3D"font-size:=
+ 11pt; font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">Connect to area of =
+intervention</span></div></li><ul =
+style=3D"margin-top:0;margin-bottom:0;padding-inline-start:48px;" =
+class=3D""><li dir=3D"ltr" style=3D"list-style-type: disc; font-size: =
+11pt; font-family: &quot;Times New Roman&quot;; font-variant-ligatures: =
+normal; font-variant-east-asian: normal; font-variant-position: normal; =
+vertical-align: baseline; white-space: pre;" aria-level=3D"2" =
+class=3D""><div style=3D"line-height: 1.38; margin-top: 0pt; =
+margin-bottom: 0pt;" class=3D""><span style=3D"font-size: 11pt; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">If it mentions these words a lot, is it with =
+projects focused on irrigation? Infrastructure? =
+Livestock?&nbsp;</span></div></li><li dir=3D"ltr" =
+style=3D"list-style-type: disc; font-size: 11pt; font-family: =
+&quot;Times New Roman&quot;; font-variant-ligatures: normal; =
+font-variant-east-asian: normal; font-variant-position: normal; =
+vertical-align: baseline; white-space: pre;" aria-level=3D"2" =
+class=3D""><div style=3D"line-height: 1.38; margin-top: 0pt; =
+margin-bottom: 0pt;" class=3D""><span style=3D"font-size: 11pt; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">Maybe a word cloud of frequent topics when a paper =
+talks a lot about small farmers</span></div></li></ul><li dir=3D"ltr" =
+style=3D"list-style-type: disc; font-size: 11pt; font-family: =
+&quot;Times New Roman&quot;; font-variant-ligatures: normal; =
+font-variant-east-asian: normal; font-variant-position: normal; =
+vertical-align: baseline; white-space: pre;" aria-level=3D"1" =
+class=3D""><div style=3D"line-height: 1.38; margin-top: 0pt; =
+margin-bottom: 0pt;" class=3D""><span style=3D"font-size: 11pt; =
+font-variant-ligatures: normal; font-variant-east-asian: normal; =
+font-variant-position: normal; vertical-align: baseline; white-space: =
+pre-wrap;" class=3D"">Histogram with frequency per 100 words per =
+institution and/or what types of projects are more or less inclusive =
+</span></div></li></ul></span><div class=3D""><br =
+class=3D""></div></div><div class=3D""><br class=3D""></div></body></html>=
+
+--Apple-Mail=_88171C13-7917-451C-A324-39376B125885--

@@ -1,0 +1,665 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 1 of 8  
+
+     
+
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Program Information Document 
+(PID)  
+
+ 
+Appraisal Stage | Date Prepared/Updated: 15-May-2020 | Report No: PIDA29255 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 2 of 8  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+A. Basic Project Data OPS TABLE 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Uruguay P172796 
+UY - COVID-19 Response & 
+Economic Recovery 
+(P172796) 
+
+ 
+
+Region Estimated Board Date Practice Area (Lead) Financing Instrument 
+
+LATIN AMERICA AND 
+CARIBBEAN 
+
+18-Jun-2020 
+Environment, Natural 
+Resources & the Blue 
+Economy 
+
+Development Policy 
+Financing 
+
+Borrower(s) Implementing Agency 
+
+Oriental Republic of Uruguay Ministry of Economy and Finance 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The development objective of the proposed operation is to support the Government of Uruguay in (i) mitigating the 
+economic and social impact of the COVID-19 outbreak and (ii) laying the foundations for a strong and resilient economic 
+recovery.  
+ 
+
+ 
+ Financing (in US$, Millions) FIN_SUMM_PUB_TBL 
+
+SUMMARY 
+ 
+
+Total Financing 400.00 
+ 
+
+ 
+DETAILS-NewFin3 
+
+Total World Bank Group Financing 400.00 
+
+     World Bank Lending 400.00 
+   
+
+  
+Decision 
+The review did authorize the team to appraise and negotiate 
+
+     
+ 
+ 
+ 
+ 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 3 of 8  
+
+     
+
+B. Introduction and Context  
+ 
+Country Context  
+ 
+
+1. The COVID-19 outbreak is expected to push Uruguay’s economy into a recession for the first time in two 
+decades. Over the past years, real GDP growth had been on a downward trend, declining from 4.6 percent in 2013 to 0.2 
+percent in 2019, the lowest level since 2002. Prior to the outbreak, it was expected that this trend would be reversed in 
+2020 as result of the implementation of the new Government’s reform agenda as well as the prospect of large 
+infrastructure investments associated with a paper mill project of historic proportions coming on stream. The economic 
+fallout resulting from the COVID-19 outbreak has changed this scenario dramatically. Total exports contracted y-o-y by 
+10.9 percent1 as early as February, due to a drastic drop in exports to China, Uruguay’s largest trading partner. The 
+domestic lockdown mandated in March then triggered a sharp decline in economic activity, affecting both demand and 
+supply. Real GDP growth projections are nearly 6 percentage lower than they were at the beginning of 2020; they are 
+projected to register at -3.7 percent, from an originally projected growth of 2.0 percent.  
+
+ 
+2. The economic fallout will result in a significant increase in poverty and will generate an enormous strain for 
+many Uruguayan families, with children and youth being particularly vulnerable to the shock.  Although the Government 
+swiftly adopted emergency measures to mitigate the impact on the most vulnerable, building on existing social safety nets 
+and adding temporary measures to expand the protection to those that do not qualify to existing programs, notably 
+informal workers, Bank staff estimate that poverty will increase from 8.8 percent in 2019 to 11.8 percent in 2020, 
+annihilating the major progress witnessed over the past decade. This is due to the economic impact of the pandemic 
+layered over the effects of the drop in agricultural productivity from the drought as well as contagion from both 
+Argentina’s economic crisis and Brazil’s recession. The increase in the poverty incidence translates into 106,000 additional 
+people falling into poverty, disproportionately affecting households with children. Afro-descendants (1 in every 5 people 
+in the poorest decile) and informal workers (7 in every 10 workers in the poorest decile) are disproportionately exposed 
+to the shock. People in the bottom 40 percentile of the income distribution face higher risks of unemployment and labor 
+income losses and make up a disproportionally large share of the workforce in the sectors most affected by the crisis, such 
+as retail and hospitality. The expected increase in poverty incidence and severity threatens to erode human capital with 
+lasting negative effects, and to raise concerns about perpetuation of disadvantages and social exclusion which stands in 
+contrast to Uruguay’s societal preference for equity and social cohesion.  
+ 
+3. To spur a strong economic recovery, Uruguay will have to set the foundations for a robust growth trajectory, 
+notably by strengthening policies and institutions to enhance resilience to different types of shocks. The unprecedented 
+economic shock caused by the COVID-19 outbreak is hitting Uruguay at the time of multiple risks pressing on the economy. 
+First, Uruguay is confronting an increasingly adverse regional economic scenario, notably the protracted economic crisis 
+and high market volatility in Argentina. Second, Uruguay is faced with a growing exposure to climate variability that is 
+putting at risks major sectors of its economy, particularly agriculture. The different risk dimensions - health, fiscal and 
+environmental - are mutually reinforcing and have the potential to create a “perfect storm” for the Uruguayan economy. 
+The COVID-19 outbreak highlights the need for a more comprehensive and integrated approach to risk management, at 
+the core of which is restoring prudent fiscal policy making. In order to put the economy back on a strong recovery path, 
+the new authorities will need to embark on their ambitious medium-term reform program once the crisis abates, with a 
+focus on the following dimensions: (i) fiscal consolidation, (ii) development of the private sector and (ii) resilience to 
+climate and weather-related shocks.  
+ 
+
+ 
+1 Although exports began to recover in March (in line with the rebound in industrial activity in China), they still were 23 percent lower than in 
+March 2019. 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 4 of 8  
+
+     
+
+Relationship to CPF 
+ 
+
+4. The proposed operation is fully aligned with the 2016-20 Country Partnership Framework (CPF), and the 2018 
+PLR, notably as it supports Uruguay in “building resilience to shocks.” The 2015 Systematic Country Diagnostic (SCD) had 
+identified the need to “build resilience to face economic volatility and extreme weather events” as one of the three main 
+challenges for Uruguay. Accordingly, the first of the CPF’s two Focus Areas is dedicated to “building resilience to shocks.” 
+This operation responds to the immediate needs to cushioning the impact of the pandemic on the most vulnerable 
+workers and firms (Pillar 1) and lays the ground for a strong recovery (Pillar 2), through enhanced resilience to future 
+shocks. The SCD update, currently under preparation, deepens the analysis of the vulnerability of the Uruguayan economy 
+to multiple, reinforcing shocks (i.e. fiscal/financial, sanitary and environmental) and identifies key institutional weaknesses 
+in this regard.  
+ 
+
+C. Proposed Development Objective(s) 
+ 
+5. The development objective of the proposed operation is to support the Government of Uruguay in (i) mitigating 
+the economic and social impact of the COVID-19 outbreak and (ii) laying the foundations for a strong and resilient 
+economic recovery.  
+ 
+Key Results  
+
+ 
+6. Following corporate guidance on new IBRD financing for countries with an income above the Graduation 
+Discussion Income (GDI), this operation addresses critical institutional shortcomings. At the core of the operation are 
+policy and institutional reforms that will lay the foundations for a strong and resilient economic recovery, notably through 
+enhancing resilience to multiple shocks. It supports measures that aim at mitigating the economic shock caused by COVID-
+19, helping weather the impact on public finances, and restoring a robust fiscal outlook in the medium term. The operation 
+thereby also contributes to safeguarding access to external capital markets on reasonable terms, an additional key feature 
+of corporate guidance on GDI countries. This is critical given that the COVID-19 crisis has rendered access to sovereign 
+financing more challenging for emerging economies, including Uruguay. Uruguay is currently rated just above the 
+investment grade2, with a negative outlook in recognition of its large fiscal consolidation needs in a time of economic 
+downturn. In addition, through its objective of enhancing resilience of the economy against climate shocks, the operation 
+supports the provision of regional and global public goods.   
+ 
+
+D. Project Description   
+
+7. The proposed DPL is a stand-alone operation aimed at mitigating the economic and social impact of the COVID-
+19 outbreak and improving policies and institutions for a strong and resilient economic recovery. The policy matrix of 
+the operation includes key priorities in the Government’s emergency response to the COVID-19 crisis and in the medium-
+term reform program. The first pillar is focused on supporting efforts to cushion the expected strong social and economic 
+impact of the crisis, with a focus on the most vulnerable households and firms that would otherwise by financially viable. 
+The second pillar is reflective is reflective of the ambitious medium-term reform commitments of the Government to 
+support a strong and resilient economic recovery through: (i) instituting a fiscal policy framework that safeguards fiscal 
+and debt sustainability, (ii) improving business climate for private sector development, (iii) enhancing disaster and 
+environmental risk management and, (iv) transforming agricultural production towards higher resilience to climate 
+change and increased productivity.  
+
+ 
+2 Uruguay’s sovereign credit rating, according to Fitch, is the lowest possible rating within the creditworthiness band, i.e., BBB- with a negative 
+outlook. The other two major credit rating agencies place Uruguay at BBB. 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 5 of 8  
+
+     
+
+ 
+8. The proposed DPF will support important reforms along two pillars:  
+ 
+
+• Pillar 1 of this operation aims at supporting a series of temporary countercyclical measures to protect the most 
+vulnerable and avoid the destruction of productive assets in the face of the COVID-19 pandemic. These measures 
+include: (i) the enactment of a series of countercyclical measures, including the creation of the COVID-19 Fund to 
+swiftly respond to the sanitary crisis (PA#1), (ii) the strengthening of three important social assistance programs to 
+(partially) offset temporary income losses of lower income groups (PA#2), (iii) the creation of a temporary 
+unemployment insurance scheme to protect workers against effects of lay-offs or partial suspensions (PA#3), (iv) the 
+strengthening of the institutional response to the expected rise of violence in the context of the COVID-19 quarantine 
+(PA#4), and (v) the adoption of emergency measures to support access to finance for MSMEs (PA#5). In the 
+presentation of these emergency measures, the Government emphasized their temporary and countercyclical nature 
+and committed to rolling them back once the crisis will have passed.  
+
+ 
+
+• Pillar 2 of this operation aims at laying the foundations for a strong and resilient economic recovery. The COVID-19 
+outbreak brings to the fore how the deteriorating fiscal position over the past years has limited the scope of a 
+countercyclical fiscal crisis response. The Government is committed to reversing the trend of rising fiscal deficits and 
+debt levels by instituting a fiscal policy framework that safeguards fiscal and debt sustainability and allows for 
+conducting countercyclical policies in times of economic downturns. This agenda is at the heart of the medium-term 
+reform program, as reflected in the Urgent Reform Bill, and will be implemented in full once recovery sets in. The 
+commitment to fiscal consolidation has already manifested itself by measures adopted soon after the Government 
+started its mandate, such as the elimination of certain tax expenditures in VAT (as reflected under the PA#6). Pillar 2 
+also reflects the Government’s commitment to continue advancing on structural reforms for private sector 
+development and on institutional strengthening for better protection of the economy against climate-related shocks. 
+Both agendas were initiated under the previous Government and have been endorsed by the current administration 
+as critical foundations for a dynamic and sustainable recovery after the COVID-19 pandemic. The Government will 
+pursue a broader reform effort aimed at improving Uruguay’s regulatory environment, such as by easing requirements 
+and costs for firm registration (PA#7). Uruguay also needs to strengthen its capacity to shelter its economy against 
+climate variability to avoid jeopardizing its recovery post-COVID. Addressing disaster and environmental risks is by 
+nature a complex and multi-sectoral endeavor, transmitting through various channels to the entire economy, and 
+requires differentiated yet coordinated interventions at various levels of government. In this sense, the operation 
+supports the institutional strengthening of the emergency response system, with enhanced coordination (both 
+horizontal and vertical) between public and private stakeholders (PA#8) as well as the transformation of the 
+agriculture model that increases resilience to climate variability, while enhancing productivity (PA#9). 
+
+ 
+
+E. Implementation  
+ 
+Institutional and Implementation Arrangements  
+
+ 
+9. The Ministry of Economy and Finance (MEF) will be the main responsible agency for the monitoring, evaluation, 
+and results framework and will coordinate actions across relevant ministries and agencies involved in the operation. 
+The agencies responsible for the implementation of the prior actions supported by the operation include: (i) Pillar 1: 
+Ministry of Social Development (MIDES), Ministry of Labor and Social Security (MLSS), Ministry of Public Health (MPH), 
+National Institute for Women (InMujeres) and MEF; (ii) Pillar 2: MEF, SINAE and Ministry of Livestock, Agriculture and 
+Fisheries (MGAP). The World Bank will be monitoring the implementation of the DPF program through regular supervision 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 6 of 8  
+
+     
+
+missions. The World Bank will maintain close dialogue with counterparts throughout preparation and collaborate with 
+MEF for the monitoring of indicators.  
+ 
+
+F. Poverty and Social Impacts, and Environmental, Forests, and Other Natural Resource Aspects 
+ 
+10. The policy measures supported by this DPF series are aimed at mitigating the short-term social and economic 
+impact of the Covid-19 pandemic on the most vulnerable, while implementing structural reforms aiming at building 
+enhanced resilience to multiple shocks (sanitary, fiscal and environmental). As such, the overall reform package 
+supported is expected to contribute to mitigating the effects of the pandemic shock on the poor, both directly through 
+strengthening the social safety net, but also by facilitating a faster and more sustainable recovery. By strengthening the 
+social protection systems, the policy program under the first pillar is expected to mitigate the impact of the Covid-19 
+shock on the most vulnerable by providing emergency relief as part of a time-bound countercyclical economic stimulus 
+package. Policies supported under the second pillar of the operation are aimed at strengthening the foundations for a 
+strong economic recovery with an emphasis placed on enhancing institutional capacities in reducing the country’s 
+exposure to future shocks, which tend to affect disproportionally the most vulnerable groups of the society. 
+
+ 
+
+Environmental, Forests, and Other Natural Resource Aspects 
+ 
+
+11. The policies supported under Pillar 1 of this DPL are not likely to cause significant negative effects on the 
+environment, forests, or other natural resources. The policies supported under the second pillar of this operation aim at 
+strengthening the foundations for private sector development and are expected to increase overall economic activity. 
+Spurring economic recovery after the COVID-19 pandemic does not imply a relaxation of environmental standards, given 
+the strong environmental management framework in Uruguay. The adoption of a policy on emergency and disaster risk 
+management and institutional strengthening of the National Emergency System-SINAE (PA#8) is expected to reduce 
+adverse impact to the environment including degradation of natural resources and the human urban environment from 
+exposure to disease and effects of infrastructure loss. The adoption of the national plan of adaptation to climate 
+variability and climate change (PA#9) is expected to have significant positive environmental effects.  
+ 
+12. Uruguay has a strong legislative and regulatory framework and relatively effective public-sector environmental 
+agencies. The limited negative environmental effects that could result from the operation will be well managed and 
+mitigated by the existing laws and regulations. Agencies such as the DINAMA and DINAGUA and DIGESA (under the 
+Ministry of Health) provide oversight and regular monitoring of environmental indicators, especially pollution. 
+Environmental impact assessment and licensing has been a requirement since 1994 (Ley 16,466) and is considered among 
+the top ranked countries based on environmental performance.3 
+
+ 
+
+G. Risks and Mitigation 
+ 
+
+13. The overall risk to achieving the PDO is assessed as Moderate. Given the severe economic impact of the COVID-
+19 outbreak around the globe, the macroeconomic risk is rated as Substantial: if the projected recovery path that foresees 
+a return to positive growth rates at end-2020 does not materialize, the country may be stretched beyond its fiscal capacity 
+to support the businesses and households affected by the crisis. The temporary COVID-19 response measures supported 
+through this operation would help the economy withstand the shock, while the medium-term institutional and policy 
+reforms also contained in the policy matrix will be critical for embarking as swiftly as possible on a sustained recovery 
+
+ 
+3 Ranked #6 according to the 2018 Environmental Performance Index. See: Wendling, Z. A., Emerson, J. W., Esty, D. C., Levy, M. A., de Sherbinin, A., 
+et al. (2018). 2018 Environmental Performance Index. New Haven, CT: Yale Center for Environmental Law & Policy. https://epi.yale.edu/ 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 7 of 8  
+
+     
+
+trajectory. The risks related to Sector Strategies and Policies are rated Substantial because the timing of this operation, 
+(prepared shortly after the new Government took up its mandate, as well as the enormous amount of personal and 
+financial resources needed to respond to the COVID-19 crisis) may affect the ability to implement effectively the measures 
+contained in the policy matrix and meet the result targets. These risks are however mitigated by supporting through this 
+operation the reforms falling under the Government’s priority areas, as set by the COVID-19 response package and policy 
+package put forward in the Urgent Reform Bill. The risk categories for the Technical Design of the Program, Institutional 
+Capacity for Implementation and Sustainability and Stakeholders are rated as Moderate. In terms of technical design and 
+institutional capacity, Uruguay has a strong track record in terms of implementing programs, and a long trajectory of 
+successful DPL programs with the Bank and similar programs with other IFIs. On risks related to Stakeholders, the DPL 
+series supports further strengthening of the policies underpinning this social contract, notably those captured under Pillar 
+1.  . 
+    
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+Carole Megevand, Peter Siegenthaler 
+
+Sector Leader 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Oriental Republic of Uruguay 
+
+Mariella Maglia 
+
+Director - Multilateral Organisms 
+
+mariella.maglia@mef.gub.uy 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+Ministry of Economy and Finance 
+
+Mariella  Maglia 
+
+Director - Multilateral Organisms 
+
+mariella.maglia@mef.gub.uy 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+http://www.worldbank.org/projects
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 8 of 8  
+
+     
+
+APPROVAL 
+
+Task Team Leader(s): Carole Megevand, Peter Siegenthaler 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Country Director: Jordan Z. Schwartz 22-Apr-2020 
+    
+ 
+
+
+

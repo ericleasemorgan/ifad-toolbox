@@ -1,0 +1,1377 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 1 of 15  
+
+     
+
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 06-Apr-2020 | Report No: PIDC28743 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 2 of 15  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Turkey P172562  Turkey Resilient 
+Landscape Integration 
+Project (TULIP) 
+(P172562) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EUROPE AND CENTRAL ASIA Sep 28, 2020 Dec 17, 2020 Environment, Natural 
+Resources & the Blue 
+Economy 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Turkey General Directorate of 
+Forestry (Ministry of 
+Agriculture and Forestry) 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The project development objective is to strengthen integrated management of natural resources at the landscape level 
+and increase access to climate-resilient infrastructure to communities in targeted areas of the Bolaman Basin. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-NewFin1 
+ 
+
+Total Project Cost 300.00 
+
+Total Financing 300.00 
+
+of which IBRD/IDA 300.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 300.00 
+
+   
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 3 of 15  
+
+     
+
+Substantial  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+
+Other Decision (as needed) 
+ 
+tbd 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Turkey has achieved commendable economic and social development results between 2000 and 2016. GDP per 
+
+capita more than doubled from US$4,200 in 2000 to US$9,505 in 2018. Poverty incidence more than halved over 2002-
+
+2015, and extreme poverty fell even faster from 13 to 3.1 percent. During this period, Turkey urbanized dramatically, 
+
+maintained strong macroeconomic and fiscal policy frameworks, opened to foreign trade and finance, harmonized many 
+
+laws and regulations with European Union (EU) standards, and greatly expanded access to public services. However, 
+
+growing economic vulnerabilities and a challenging external environment have threatened to undermine the 
+
+sustainability of these achievements in the last few years. Turkey experienced a period of economic overheating in late 
+
+2017 and early 2018 and intense market volatility in mid-2018, resulting in contracting economic output, rising 
+
+unemployment (from 10 percent in January 2018 to 14 percent in mid-2019), and high inflation (estimated at around 15 
+
+percent in September 2019). Recent adjustments in the Turkish economy have lessened external vulnerabilities and 
+
+contributed to a more stable Lira. The economy grew in the first half of 2019 and has stabilized in the short-term. 
+
+Nevertheless, stagnating output, high costs of production, and high consumer prices have also led to significant job losses 
+
+and falling real wages. Poorer households have been most impacted because many low-income workers are employed 
+
+in construction and agriculture – the sectors that saw a significant decline in jobs. Large regional disparities continue to 
+
+persist, as rural poverty remains higher than urban poverty1. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+2. Turkey has made progress in relatively decoupling growth from a range of environmental pressures, but rapid 
+
+population growth, urbanization, and industrialization continue to take a heavy toll on the country’s natural resources 
+
+and the environment2. Soil erosion, land degradation, and desertification are among the most severe environmental 
+
+problems in Turkey. Soil erosion, mostly caused by human factors coupled with geographic, topographic, climatic, and 
+
+soil characteristics, is observed at very large scales, affecting about 86% of Turkey’s lands3 and putting most of the country 
+
+under risk of desertification4. Turkey has undertaken considerable afforestation efforts for erosion control, adding a total 
+
+of 2.14 million hectares of forest land since 1973. Despite this increase in forest cover, about 43% of Turkey’s forests 
+
+(9.64 out of 22.34 million hectares) are degraded5, and the deterioration of forest ecosystems and their associated 
+
+ecosystem services and loss of biodiversity continue to be critical issues6. Water quality and scarcity are also of grave 
+
+concern as they affect the availability of water resources for human consumption and economic uses. Deforestation, 
+
+sedimentation, discharges of untreated industrial and domestic effluents into freshwater bodies and the sea, 
+
+insufficiency of wastewater treatment facilities, and diffuse nitrogen and ammonia pollution from agricultural activities, 
+
+all contribute to decreased water quality. By international standards, Turkey is currently considered a water-stressed 
+
+country and, with rapid population growth, is predicted to be water-scarce by 20307. In addition to natural resource 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 4 of 15  
+
+     
+
+degradation problems, Turkey is also vulnerable to a range of natural disasters, with floods and landslides being the 
+
+second (25.3 percent) and third (7.4 percent) most frequent and disastrous hazards after earthquakes8. Floods and 
+
+landslides in Turkey are directly linked to topography, land use, land cover, urbanization levels, and rainfall regimes. 
+
+Between 1975 and 2015, 1209 floods were recorded, causing loss of 720 lives and damaging 894,474 hectares of land. 
+
+The amount of average annual property damage caused by floods has reached 300 million Turkish Liras. Hazardous floods 
+
+are mostly observed in the Black Sea, Mediterranean, and Western Anatolia regions9. 
+
+ 
+3. Climate change is expected to further exacerbate the pressure on the natural resource base of Turkey. The 
+
+country is already experiencing an increase in annual mean temperature and changes in the precipitation regime. A long-
+
+term downward trend in average yearly precipitation is projected for overall Turkey, although the distribution pattern 
+
+varies across locations. The Eastern Black Sea and northeastern parts of the country will likely experience an increase in 
+
+average annual precipitation, while the southern regions will experience a decrease. Projected climate change impacts 
+
+include reduction in surface water availability, more frequent and severe incidences of floods, and more prolonged 
+
+droughts. With a mostly arid and semiarid climate and environment, increased frequency and severity of droughts and 
+
+extreme precipitation events will negatively affect water holding capacity of the upper layers of the soil, further 
+
+exacerbating soil erosion and increasing the risks of flooding and landslides, particularly in terrains with rough 
+
+topography10. More frequent droughts will negatively affect crop yields and threaten food security, while floods and 
+
+landslides will continue to affect the safety and welfare of hundreds of thousands of people. Without accelerated actions, 
+
+the combination of climate-induced hazards, a degrading natural resource base, and water scarcity and quality issues will 
+
+increasingly affect societal wellbeing and act as constraints on growth. Poor rural communities whose livelihoods depend 
+
+on natural resources will be disproportionately affected11, which could lead to an increase in rural-to-urban migration. 
+
+ 
+4. Recognizing the importance of adapting to the impacts of climate change and protecting the country’s natural 
+
+capital to sustain current gains, Turkey’s Eleventh Development Plan for the 2019-2023 period pays significant 
+
+attention to a sustainable and inclusive growth pathway.  The Plan places “Livable Cities and Sustainable Environment” 
+
+among its five fundamental pillars of development. Priorities and targets embraced under this pillar include reduction of 
+
+environmental pollution, protection of biodiversity, and sustainable management and use of land, forest, water, and 
+
+other natural resources through integrated watershed management. This pillar also includes targets to ensure access to 
+
+healthy drinking water, including appropriate waste water treatment, combat poverty, promote the employability of 
+
+rural labor force, prevent and mitigate disaster risks, and develop climate adaptation capacity and resilience of affected 
+
+communities. The Plan highlights agriculture and forestry as one of the three priority development areas and emphasizes 
+
+the need to bridge regional disparities and increase job opportunities and employment of women and youth12. 
+
+ 
+5. Natural resource management in Turkey is guided by a multitude of sectoral strategies and plans, however 
+
+integration among them is currently low. The Turkey National Forestry Program (2004 – 2023) has the objective to 
+
+ensure sustainable forest management, ecosystems and biodiversity conservation, and efficient use of forest resources, 
+
+with the participation of stakeholders, including local communities. A special emphasis is placed on the ecosystem 
+
+services provided by forests, including soil conservation, water quality protection, prevention of desertification, erosion, 
+
+and natural disasters, air quality regulation and carbon storage13. The National Strategy and Action Plan to Combat 
+
+Desertification (2015-2023) aims at mitigating against the adverse effects of aridity, desertification, and land degradation 
+
+and balancing conservation with efficient land use objectives14. The National Climate Change Action Plan (2011-2023) 
+
+includes the objectives to increase the amount of carbon sequestered in forests and to reduce deforestation and 
+
+associated GHG emissions from land use and land use change. The National Basin Management Strategy (NBMS) (2014-
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 5 of 15  
+
+     
+
+2023) provides guidance for the medium and long-term investment programs for the sustainable management of 
+
+Turkey’s 25 river basins15. Under the NBMS, River Basin Management Plans (RBMPs) are now been prepared for each of 
+
+the basins to address the water quality and quantity issues and meet the ecological status for both surface and 
+
+groundwater bodies as per the requirements of related EU water legislation, including the EU Water Framework 
+
+Directive, Flood Directive, Drinking Water Directive, and Urban Waste Water Directive. The NBMS attempts to integrate 
+
+the objectives of several relevant sectoral strategies and plans by promoting an integrated landscape-based ecosystem 
+
+approach at basin or sub-basin scale, through coordinated efforts of related agencies and stakeholders to enhance the 
+
+sustainability, while also improving the productivity of natural resources in Turkey’s river basins. Such integrated 
+
+watershed/sub-basin management approach can address the interrelationships among land use, soil, and water and the 
+
+interlinkage between upstream and downstream areas, and help link natural resources management with socioeconomic 
+
+wellbeing and regional development.16 Nevertheless, the RBMPs (the planning tools under NBMS) that have been 
+
+developed so far are highly water-focused and not sufficiently detailed to be operationalized at the sub-basin level. There 
+
+is also a lack of integration among various basin-related plans (RBMPs, Flood Management Plans, Drought Management 
+
+Plans, Sectoral Water Allocation Plans) and other sectoral plans including land use planning, spatial planning, and 
+
+agricultural development plans. 
+
+ 
+6. Institutional coordination also poses constraints to the implementation of integrated natural resources 
+
+management (NRM) approaches in Turkey. Institutions directly involved in NRM include the Ministry of Agriculture and 
+
+Forestry and its line agencies such as the General Directorate (DG) of Forestry, DG for Combatting Desertification and 
+
+Erosion, DG of Agricultural Reform, DG of Water Management, and State Hydraulic Works (DSI); the Ministry of 
+
+Environment and Urbanization, the Ministry of Energy and Natural Resources, the Disaster and Emergency Management 
+
+Presidency under the Ministry of Interior, as well as the Provincial Directorates of these respective ministries, and local 
+
+authorities, among others. The involvement of numerous institutions with often overlapping jurisdictions and 
+
+responsibilities results in duplicities and fragmentation in management efforts, leading to inefficient use of public 
+
+resources. The institutional arrangement for river basin management in Turkey is meant to bring these institutions 
+
+together to coordinate their works, however, it has yet to be effectively implemented in practice.  
+
+ 
+7. The Eastern Black Sea (EBS) Basin has the 3rd highest poverty rate (20.9%) in Turkey combined with a multitude 
+
+of environmental challenges.17 The EBS Basin has the third-largest annual flow rate, after the Euphrates-Tigris and 
+
+Eastern Mediterranean Basin18 and is home to approximately 2.46 million people19. It has a harsh mountainous 
+
+topography with no extensive plains and the highest peak at 3,937 meters running parallel to shore. EBS has a prevailing 
+
+humid-temperate Black Sea climate with the highest precipitation level in Turkey (averaged above 2500mm annually 
+
+versus the national average of 574 mm)20. A combination of short rivers with rapid descending slopes, an abundance of 
+
+snow and rains, and the highest rainfall level on the slopes facing the sea make EBS highly flood-prone, with flooding 
+
+being the most commonly occurred natural disaster in EBS (39% of the total number of disasters). Climate-induced 
+
+change in precipitation will likely further exacerbate flood risks. Additionally, soil erosion and landslide-caused disasters 
+
+are prevalent in EBS due to topography, morphological structure, lithology, climate characteristics such as heavy 
+
+precipitation, and land use change. The transformation of natural vegetation for hazelnut and tea cultivation since the 
+
+1950s in the region has resulted in the formation and increased frequency of landslides.21 Landslide frequency is higher 
+
+in the elevation range of 0-500 meters due to slope instability connected to the conversion of forest areas into hazelnut 
+
+gardens and road construction.22 Despite the abundance in annual rainfall, EBS is considered water-stressed due to high 
+
+seasonal rainfall variability, severe water pollution from agricultural and livestock activities, industrial and domestic 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 6 of 15  
+
+     
+
+waste discharges, and insufficient water storage capacity. EBS has four sub-basins, including Ordu-Giresun, Harşit Stream, 
+
+Trabzon, and Rize-Artvin23. 
+
+ 
+8. The Bolaman Basin, located within the Ordu-Giresun sub-basin of EBS, is an area severely challenged by 
+
+landslides, flooding, and degradation of natural resources affecting the wellbeing and livelihoods of the local 
+
+population. The Bolaman Basin has its distinct geographical boundaries and hydrological structure and covers an area of 
+
+158,886 hectares almost entirely within the Ordu Province. With a population of 255,000, most of its residents live in 
+
+rural areas across 97 villages, 53 of which are forest villages. Over 58 percent of the basin area is agricultural land, of 
+
+which 39 percent is cultivated land, and 19 percent is pasture land. Forest land has been largely converted to hazelnut 
+
+groves over the years and currently only accounts for 28.9 percent of the basin area. Hazelnut is cultivated monoculturally 
+
+up to altitudes of 600-700 meters from the coast and accounts for 98 percent of cultivated lands. Ordu Province is the 
+
+biggest hazelnut producer in Turkey. In 2018, Ordu produced 180,397 tons of hazelnut, accounting for 35 percent of the 
+
+entire hazelnut production in Turkey with a total export value of US$3 billion. Hazelnut is almost the only source of 
+
+income in all villages; the remaining comes from small-scale subsistence farming and livestock activities. Bolaman 
+
+experiences a composite of problems typical for the EBS Basin, including soil erosion, degradation of forest ecosystems, 
+
+surface water pollution, landslides, drought and floods. An estimated 457,411 tons of soil is moved annually due to 
+
+erosion in the basin. Estimated annual point source and non-point source nitrogen and phosphorous pollution recorded 
+
+in 2012 for the entire Ordu-Giresun sub-basin was the highest in EBS (6,866 tons/year and 421 tons/year, respectively)24. 
+
+Drinking water in Bolaman is mostly supplied from surface water, and pollution of over 75 percent of surface water bodies 
+
+seriously threatens the availability of drinking water sources for communities in Ordu. Turbidity problems experienced 
+
+in heavy precipitation events and water level declines during episodes of drought further impede access to healthy 
+
+drinking water. Ordu also experiences natural disasters that have caused the loss of life and properties to local 
+
+communities. Between 1950 and 2011, 368 incidences of landslides, 44 incidences of flooding, and 36 incidences of falling 
+
+rocks occurred in the province25. Landslides and floods due to excessive rainfall in 2016 and 2018 caused substantial 
+
+damage to roads, settlements, bridges and agricultural and forest areas in Ordu.26 Recent landslide events resulted in the 
+
+complete collapse of 15 and substantial damages to 30 houses and a flood in 2018 led to the collapse of a large bridge in 
+
+the Ünye, Fatsa, and Çaybaşı districts. In 2019, a village completely collapsed by landslides in the Aybastı district and 
+
+severe landslides affected the Kabataş district. The road system in the basin is frequently impacted and damaged by these 
+
+disaster events, preventing access to markets and certain isolated settlements. Integrated solutions to the severe and 
+
+multifaceted problems in the Bolaman Basin are urgently needed as this area has become a priority for the Government 
+
+of Turkey (GoT). It also presents an opportunity for piloting innovative elements for integrated approaches to NRM that 
+
+can generate valuable lessons for other basins in Turkey and the region. 
+
+ 
+9. Turkey is well poised to pursue integrated approaches for the sustainable use of natural resources but lacks 
+
+experience in current cost-effective innovations in NRM such as Nature-Based Solutions. Watershed management has 
+
+evolved significantly since its inception. The first generation of watershed management projects in the 1970s and 1980s 
+
+mostly applied an engineering approach to soil and water management with specific on-site and downstream physical 
+
+outcomes. The investments were costly with limited benefits as the needs of upstream communities and their ownership 
+
+of the interventions were not considered. The second generation of watershed management projects in the 1990s 
+
+departed from this top-down engineering approach to focus more on farming systems and stakeholder participation, in 
+
+order to create synergies between resources conservation and rural poverty reduction.27 In recent years, Nature-based 
+
+Solutions (NBS), including Green Infrastructure (GI) and others, have been promoted as innovative, cost-effective and 
+
+sustainable solutions to a variety of environmental, social, and economic challenges. NBS operationalizes the concept of 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 7 of 15  
+
+     
+
+ecosystem services to address specific problems and deliver multiple benefits such as buffering against natural disasters, 
+
+regulating water, sequestrating carbon, and providing resources for sustaining livelihoods and economic activities.28 In 
+
+many cases, combining GI with traditional gray infrastructure can create next generation solutions that can better protect 
+
+communities by tackling the immediately pressing problems while restoring the regulatory functions of ecosystems that 
+
+can enhance the performance, life cycle, and cost-effectiveness of gray infrastructure29. In the case of Turkey, this hybrid 
+
+green-gray solution can prevent capital lock-in as most of the interventions implemented and planned at the basin level 
+
+have been predominantly traditional gray infrastructure, which are highly expensive.30 In addition, previous investment 
+
+operations spread out across large river basins have resulted in moderate visible results for local communities.  
+
+ 
+Relationship to CPF 
+
+ 
+10. The proposed project is aligned with the World Bank Country Partnership Framework (CPF) for Turkey for the 
+
+FY18-21 period and with the objectives of Turkey’s 11th Development Plan (2019–2023). The CPF sets out the overall 
+
+objective of supporting Turkey in achieving more sustainable and inclusive development by focusing on growth, inclusion, 
+
+and sustainability dimensions31. The proposed project will contribute to meeting CPF objective 9 (Increased sustainability 
+
+of infrastructure assets and natural capitals) under the sustainability focus area to help Turkey orient its growth toward 
+
+a more resilient and sustainable trajectory. 
+
+ 
+11. The proposed project will also contribute to meeting Turkey’s sectoral objectives as set out in multiple national 
+
+strategies and plans as well as commitments under global conventions. These include: (i) sustainable development 
+
+objectives under the 11th Development Plan; (ii) voluntary national Land Degradation Neutrality targets for afforestation, 
+
+soil conservation, and rehabilitation of forest lands and pastures per the commitments under the United Nations 
+
+Convention on Combating Desertification and National Strategy and Action Plan to Combat Desertification (2015-2023); 
+
+(iii) water quality and quantity as well as disaster reduction objectives in line with the EU Water Framework Directive, EU 
+
+Flood Directive, Drinking Water Directive, Urban Waste Water Directive, and EU Integrated Environmental Approximation 
+
+Strategy (2007-23); (iv) increased carbon capture and sink capacity of forests in line with the Intended National 
+
+Determined Contribution under the UN Framework Convention on Climate Change and Turkey Climate Change Strategy 
+
+(2010-2023); (v) climate change adaptation objectives per Turkey’s National Climate Change Adaptation  Strategy and 
+
+Action Plan (2011-2023); and (vi) rural development and income generation for rural communities as targeted in the 
+
+National Rural Development Strategy (2014-2020) and National Strategy for Regional Development (2014-2023). 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+The project development objective is to strengthen integrated management of natural resources at the landscape level 
+and increase access to climate-resilient infrastructure to communities in targeted areas of the Bolaman Basin. 
+ 
+Key Results (From PCN) 
+
+ 
+12. The key results expected by the project and respective PDO indicators (including Corporate Results Indicators, 
+
+CRIs) are: 
+
+i. Land area under sustainable landscape management practices (ha) (CRI) 
+ii. Improved institutional capacity for integrated NRM at the national level (number of integrated NRM plans 
+
+adopted for other basins) 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 8 of 15  
+
+     
+
+iii. People provided with increased access to climate-resilient infrastructure included in an integrated NRM plan 
+(number, disaggregated by gender and type of service). Composite indicator including the following underlying 
+indicators: 
+
+a. People provided with increased protection against landslides and/or flooding 
+b. People provided with access to improved drinking water supply (CRI) 
+c. People provided with access to improved sanitation services (CRI) 
+d. People provided with access to rural roads rehabilitated for climate and disaster resilience. 
+
+13. Gender, GHG, citizen engagement, and additional CRIs will be included in the project’s Results Framework.  
+
+ 
+D. Concept Description 
+
+ 
+14. The proposed project will support the GoT in addressing the multitude of environmental challenges facing the 
+
+Bolaman Basin in the Ordu province, while enhancing the livelihood security and resilience of local communities 
+
+against the risks and impacts of climate-induced landslides, flooding, and drought. The project will adopt an integrated 
+
+landscape management approach at the sub-basin scale (Boloman) to achieve these objectives. This integrated approach 
+
+can help address the interlinked problems in Bolaman and rebuild the resilience of the social-ecological system within 
+
+the sub-basin. Building on GoT and the Bank’s previous experience in watershed management, this project will design a 
+
+participatory planning process to take into account inputs from different stakeholder groups, allowing for the 
+
+coordination and integration of solutions among different government agencies as well as between government and local 
+
+stakeholders. Such participatory planning approach will contribute to bridging various stakeholders within the NRM 
+
+sphere and improving institutional coordination. The project will also deploy integrated green and gray infrastructure 
+
+solutions as both short-term and long-term responses to mitigate the risks of landslides, floods, and drought, and 
+
+enhance climate resilience of the local populations and ecosystems. NBS in combination with sustainable and climate-
+
+smart agricultural practices will be designed based on sound technical, social, and financial analysis to achieve synergies 
+
+between resources conservation and livelihood enhancement and ensure local stakeholders’ ownership and thus, the 
+
+sustainability of project interventions.  
+
+ 
+15. The integrated NRM approach of the project will generate valuable lessons and innovative elements that can 
+
+be applied to other basins with similar problems in Turkey and in other countries. To demonstrate and promote an 
+
+integrated landscape approach to NRM, the project will also include a technical assistance and capacity building sub-
+
+component that will develop and employ planning tools at the landscape level to optimize the synergies and integration 
+
+of interventions across the sub-basin and establish associated institutional structures.  
+
+ 
+16. Theory of Change and Project design. The central problem statement the Project tries to address is that the 
+
+degradation of natural resources and unsustainable land use, coupled with climate change, and the lack of appropriate 
+
+infrastructures for landslide and flooding control, water and sanitation, and mobility are affecting the well-being and 
+
+livelihoods of the local population in the Ordu province. The proposed operation will address these issues through six 
+
+groups of interventions: (i) strengthening of institutional capacity for INRM; (ii) restoration of ecosystem functions and 
+
+services; (iii) promotion of sustainable land use practices and diversification of rural livelihoods; (iv) construction of 
+
+resilient flood and sedimentation control structures; (v) construction of resilient water and sanitation facilities; and (vi) 
+
+climate and disaster-proofing of rural road network. These groups of activities, organized under three interlinked 
+
+components, are expected to strengthen integrated management of natural resources at the landscape level and increase 
+
+access to climate-resilient infrastructure for flood and landslide control, water and sanitation services, and mobility for 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 9 of 15  
+
+     
+
+communities under the project lifetime. In the long run, these intermediate outcomes will help reduce the vulnerability 
+
+to natural disasters and climate change impacts and enhance their well-being and livelihoods of the population in the 
+
+Ordu Province and other vulnerable areas. The three project components are described below along with a menu of 
+
+activities that have been pre-identified at concept stage. The detailed project activities will be refined during preparation 
+
+through the development of a feasibility study and technical assistance to identify the right mix of green and gray 
+
+infrastructure in consultation with local stakeholders. 
+
+ 
+
+ 
+ 
+17. Component 1: Green and sustainable rural development (~US100 million). The objective of this component is to 
+
+restore and maintain the health, function, and productivity of critical ecosystems and promote sustainable land uses 
+
+within the watershed to improve the sustainability of the natural resource base, enhance the livelihood security of local 
+
+communities, and build resilience against climate-induced hazards. Investments will include a variety of green 
+
+infrastructure measures, sustainable and climate-smart agricultural practices, and livelihoods diversification 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 10 of 15  
+
+     
+
+implemented by the General Directorate of Forestry (OGM) and the General Directorate of Agricultural Reform (TRGM) 
+
+through their regional and provincial units. Forests play a key role in protecting soil cover and regulating water. Green 
+
+infrastructure can improve the resilience and strengthen the functions of ecosystems and produce long-term climate 
+
+adaptation and mitigation co-benefits such as soil, water and sediment retention, buffering extreme flood events, and 
+
+reducing CO2 emissions. Green infrastructure can also provide habitats to enhance biodiversity and provide economic 
+
+benefits through tourism and circular economy related activities. Increasing forest cover and improving forest health can 
+
+help prevent soil erosion and landslides and reduce the impacts of floods. Green infrastructure will be designed in 
+
+conjunction with gray infrastructure to optimize the functionality, cost-effectiveness, and resilience of the integrated 
+
+natural and built system. Income generation and livelihood diversification for the rural poor enhance their livelihood 
+
+security and welfare while reducing the pressure on the forest ecosystems upon which these communities traditionally 
+
+depend. This will also contribute to reversing the current trend of outward migration of the local population. 
+
+ 
+
+18. Sub-component 1.1: Green infrastructure and rural livelihoods. This subcomponent will be implemented by OGM 
+
+and aim at restoring and sustainably managing ecosystems that provide resources for income generation to local 
+
+communities and critical services for soil retention and water regulation that contribute to buffering against landslides 
+
+and floods and regulating the flow and quality of water. The menu of activities under this sub-component will include: (i) 
+
+afforestation and reforestation; (ii) erosion and sedimentation control works; (iii) upstream natural water retention and 
+
+storage works; (iv) restoration of riparian ecosystems and stream corridors; (v) rehabilitation and climate-smart pasture 
+
+management; (vi) maintenance and sustainable management of secondary forests; (vii) income generation and livelihood 
+
+diversification activities for poor forest communities, such as bee-keeping, non-timber forest products, and ecotourism. 
+
+ 
+
+19. Sub-Component 1.2: Sustainable agriculture and climate-resilient value chains. This sub-component will be 
+
+implemented by TRGM with the aim to promote sustainable and climate-smart agricultural practices and associated 
+
+climate-resilient agri-food value chains. The menu of activities under this sub-component will include: i) sustainable and 
+
+climate-smart agricultural production practices such as terracing for hazelnut gardens to protect topsoil layer, micro-
+
+dosing to reduce the application pesticides and fertilizers, agroforestry, and rainwater harvesting to manage soils and 
+
+water sustainably; ii) diversification of agricultural production (kiwi, persimmon, mushroom, truffles vegetables) to 
+
+reduce land areas used for hazelnut cultivation; iii) improvement of livestock productivity to reduce environmental and 
+
+natural resources footprint; iv) climate resilient and energy-efficient agri-food value chains to enhance market access for 
+
+local farmers; and v) branding and marketing of sustainably produced agricultural products. 
+
+ 
+
+20. Component 2: Climate resilient gray infrastructure (~US$ 185 million). The objective of this component is to 
+
+increase access to climate-resilient infrastructure systems for protection against climate-related disasters such as 
+
+landslides and floods, and for provision of drinking water supply, sanitation, and mobility for local communities. Although 
+
+the Bolaman Basin is an area with relatively high annual rainfall, the lack of access to drinking water is a major problem 
+
+in the cities and small villages within the basin due to the increase in population (particularly during the tourist season), 
+
+seasonal changes in precipitation, polluted surface and groundwater sources, and turbidity problems in heavy 
+
+precipitation and flooding events. Currently, Bolaman has a population of approximately 255,000 people, and the 
+
+required drinking water need is 600 lt/s. By 2070, the population in the basin is projected to be roughly 550,000 people, 
+
+with drinking water needs expected to rise to 1300 lt/s. Adequate infrastructures to meet drinking water needs and 
+
+protect surface water and groundwater resources from domestic and industrial pollution are much needed. Drinking 
+
+water sources are further threatened as wastewater from domestic and industrial sources are mostly discharged directly 
+
+into the natural environment without any treatment due to a lack of wastewater treatment facilities, which could also 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 11 of 15  
+
+     
+
+treat water for reuse for agricultural purposes. The high precipitation levels in the region make it easier for bacteria, 
+
+parasites, and harmful chemicals from untreated discharges to reach creeks, lakes, and rivers network. Landslides and 
+
+floods that frequently occur in Bolaman are of a disastrous nature, causing the loss of life, property, transport and other 
+
+infrastructure. All of these problems are threatening the wellbeing of the local population and requiring immediate 
+
+solutions that can be readily met through “no-regret” gray infrastructure measures. The design of these infrastructure 
+
+systems will integrate green infrastructure into their plans to deliver more cost-effective and resilient services and extend 
+
+their lifespan. The design will also include appropriate measures to withhold the impacts of climate change. This 
+
+component will be implemented by State Hydraulic Works (DSI) and the General Directorate of Highways (KGM), in close 
+
+coordination with the Ordu Metropolitan Municipality General Directorate of Water and Sewerage Administration (OSKI). 
+
+The scope and specific locations for some of these investments have already been pre-identified by participating 
+
+institutions and will be assessed during preparation through a feasibility study. 
+
+ 
+
+21. Sub-component 2.1: Flooding, landslide, and sedimentation control works. This subcomponent will be 
+
+implemented by DSI. The menu of investments considered includes: (i) multipurpose reservoirs for effective use and 
+
+regulation of water resources in the basin; (ii) flood control structures, precipitation levees, and sediment control 
+
+structures; and (iii) disaster emergency maintenance of existing infrastructures and repair works. 
+
+ 
+
+22. Sub-component 2.2: Drinking water and wastewater treatment works. This subcomponent will also be 
+
+implemented by DSI. The menu of investments considered includes: (i) drinking water infrastructure systems 
+
+rehabilitation and development (including treatment plants and distribution networks); and (ii) wastewater 
+
+infrastructure systems rehabilitation and development (including wastewater treatment plants and sewage networks). 
+
+The design of these systems will include energy-efficient measures and measures to minimize non-revenue water loss 
+
+and promote water reuse where possible. 
+
+ 
+
+23. Sub-component 2.3: Climate-resilient rural road system. This sub-component will be implemented by KGM and 
+
+will invest in measures such as drainage and walls to climate and disaster-proof rural road segments that are frequently 
+
+and heavily damaged by landslides, floods, and falling rocks, with the aim to provide safe access and mobility to local 
+
+communities and markets. 
+
+ 
+
+24. Component 3: Institutional coordination, project management and sustainability (~US$15 million). The 
+
+objective of this component is to strengthen the capacities and coordination among participating institutions, to ensure 
+
+not only effective and efficient project implementation, but also to support the institutional structures and processes 
+
+that need to be established in a sustainable way to support integrated NRM planning and management in both the project 
+
+area and elsewhere. Implementation of this component will be the responsibility of OGM and will include the following 
+
+two sub-components: 
+
+ 
+
+25. Sub-component 3.1: Institutional coordination and sustainability. Activities under this component will include: 
+
+(i) technical assistance for developing an integrated NRM model, which will include planning tools at the landscape level 
+
+that can be replicated in other basins with similar problems in Turkey; (ii) strengthening of institutional coordination and 
+
+capacity building to establish institutional structures for integrated NRM to support the replicability and sustainability of 
+
+the approach implemented by the project. 
+
+ 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 12 of 15  
+
+     
+
+26. Sub-component 3.2: Project management, environment and social aspects, monitoring and evaluation. 
+
+Activities under this component will include: (i) project management support, including strengthening technical, 
+
+fiduciary, environment and social capacities of participating institutions; (ii) support for environmental and social 
+
+management aspects, including grievance redress, citizen engagement and communications; and (iii) monitoring and 
+
+evaluation.  
+
+ 
+
+27. Climate change. The project is designed to take into account Turkey’s climate change vulnerability context. In 
+
+particular, climate change is expected to result in more frequent and severe incidences of floods, more prolonged arid 
+
+seasons, and a reduction in surface water availability across the country. Climate change will also further exacerbate soil 
+
+erosion and increase the risks of landslides in vulnerable locations. The Bolaman Basin is an area already prone to soil 
+
+erosion, landslides, and floods due to its mountainous topography with steep slopes, morphological structure, lithology, 
+
+and heavy precipitation. Climate change will further exacerbate these problems. The availability of drinking water during 
+
+dry months will also be worsened due to more prolonged dry seasons and drought periods. The proposed project is 
+
+designed to address these problems and enhance the resilience of local communities in the project area against the risks 
+
+and impacts of climate change and climate-related hazards. The project will do so by implementing integrated green-gray 
+
+infrastructure solutions for mitigating against landslides and floods, rehabilitating rural road system to be climate and 
+
+disaster-resilient, and promoting climate-smart agricultural practices to enhance the livelihood security of the local 
+
+population. Thus, activities under sub-component 1.1., 1.2, 2.1, 2.2, 2.3 will generate significant adaptation co-benefits. 
+
+In addition, support for agricultural value chains under sub-component 1.2 and drinking water and wastewater treatment 
+
+systems under sub-component 2.2 will include energy-efficient measures in their design and will generate mitigation co-
+
+benefits. GHG accounting for applicable investments will be calculated using Bank approved methodologies in the 
+
+subsequent stage of project preparation. 
+
+ 
+
+28. Gender. The environmental and social impact assessment of the project will include a gender analysis of the 
+
+conditions, needs, and aspirations of women and men living within the Bolaman Basin. The gender analysis will be 
+
+conducted during project preparation to identify relevant gender gaps concerning rural livelihood, access to 
+
+infrastructure (drinking water, sanitation, irrigation), and access to agricultural investments and services. The gender 
+
+analysis will also help to define relevant actions and indicators to reduce identified gender gaps. A gender action plan will 
+
+be developed for the project to guide the mainstreaming of efforts for equitable distribution of project benefits between 
+
+men and women during and beyond implementation. 
+
+ 
+
+29. Citizen Engagement. The project will establish effective participation of stakeholders through extensive Citizen 
+
+Engagement activities at local and national levels during preparation and implementation. The project will explore 
+
+extensive and meaningful stakeholder consultations through focus groups and surveys, and employ monitoring 
+
+mechanisms such as satisfaction surveys, grievance redressal (GRM) and multi-stakeholder forums. Priority needs in local 
+
+communities particularly among marginalized/vulnerable groups will be identified through participatory mechanisms 
+
+under components 1 and 2, which will inform project design and implementation to ensure equitable distribution of 
+
+project benefits. Under component 3, the project will support capacity building for government officials and community 
+
+leaders on citizen engagement and efficient response to beneficiary/citizen needs. A detailed citizen engagement 
+
+strategy that highlights mechanisms and actions for enhancing multi-stakeholder dialogue and inclusion throughout the 
+
+project cycle will be designed. An indicator in citizen engagement will be included in the project’s Results Framework. 
+
+    
+ 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 13 of 15  
+
+     
+
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 No 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+.  
+ 
+
+The overall environmental risk is rated as Substantial. The rating is determined by the nature and magnitude of 
+infrastructural improvements considered under the project (drinking water facilities, waste water treatment plans, flood 
+and landslide preventing structures), and by the limited environmental and social management capacity of the lead 
+implementing agency. 
+The overall social risk is rated as Substantial due to contextual risks associated with the project and capacity of the 
+multiple implementing state agencies to implement the ESF. Contextual risks include child labor associated with the 
+hazelnut production in Turkey, and the use of seasonal migrant workers in the agriculture, including hazelnut. The 
+relevance and significance of these risk within the project scope will be assessed during ESA process carried out project 
+preparation. The proposed investments may require land acquisition and economic and physical displacement of a small 
+scale, and may generate temporary community health and safety risks and impacts, and OHS risks among civil works 
+contractors. Labor influx and SEA/SH risk is estimated as low. The risk of forced labor is not expected. 
+ 
+
+.  
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+Stavros Papageorgiou, Canan Yildiz 
+
+Sr Natural Resources Mgmt. Spec. 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Republic of Turkey 
+
+Ms. Gokben Yener 
+
+Head of Department for Economic Relations 
+
+gokben.yener@hazine.gov.tr 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+General Directorate of Forestry (Ministry of Agriculture and Forestry) 
+
+Bekir Karacabey 
+
+General Director 
+
+bekirkaracabey@ogm.gov.tr 
+ 
+ 
+
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 14 of 15  
+
+     
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): Stavros Papageorgiou, Canan Yildiz 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Practice Manager/Manager: Kseniya Lvovsky 12-Mar-2020 
+
+Country Director: Auguste Tano Kouame 07-Apr-2020 
+    
+ 
+ 
+ 
+ 
+
+1 World Bank. 2017. Turkey - Country Partnership Framework for the period FY18 - FY21. Washington, D.C.: World Bank Group. 
+2 OECD. 2019. OECD Environmental Performance Reviews: Turkey 2019. Paris: OECD. Environmental pressures that have been relatively decoupled 
+from growth in the latest review include: air emissions, energy use, waste generation and water consumption.  
+3 Gökbulak, F., et al. 2018. Causes of land degradation and rehabilitation efforts of rangelands in Turkey. Forestist 68(2): 106-113. 
+4 Çetin, S. C., et al. 2007. Global Attention to Turkey Due to Desertification. Environ. Monit. Assess. (128): 489-493. 
+5 World Bank. 2017. Turkey: Forest Policy Note. Washington, D.C.: World Bank. 
+6 Colak, A. H., et al. 2009. Restoration, Rehabilitation and Management of Deforested and Degraded Forest Landscapes in Turkey. Keep Asia Green 
+Volume IV “West and Central Asia”. IUFRO World Series Vol. 20-IV. Vienna.  
+7 Uslu, O. 2020. Water Quality. In: Water Resources of Turkey. World Water Resources 2. Springer Nature Switzerland AG.  
+8 World Bank. 2020. Climate Change Knowledge Portal. 
+9 Hafzullah, A. 2020. Surface Water. In: Water Resources of Turkey. World Water Resources 2. Springer Nature Switzerland AG.  
+10 Turkes, M., et al. 2020. Impacts of Climate Change on Precipitation Climatology and Variability in Turkey. In: Water Resources of Turkey. World 
+Water Resources 2. Springer Nature Switzerland AG. 
+11 OECD. 2019. OECD Environmental Performance Reviews: Turkey 2019. Paris: OECD. 
+12 Government of Turkey. 2019. Eleventh Development Plan (2019 – 2023).  
+13 Government of Turkey. 2004. National Forestry Program (2004 – 2023). 
+14 Government of Turkey. 2015. National Strategy and Action Plan to Combat Desertification (2015-2023). 
+15 Government of Turkey. 2012. National Basin Management Strategy (2012 – 2023). 
+16 Wang, G., et al. 2016. Integrated watershed management: evolution, development and emerging trends. J. For. Res. (2016) 27(5):967–994. 
+17 World Bank. 2017. Poverty, Forest Dependence and Migration in the Forest Communities of Turkey Evidence and policy impact analysis. 
+Washington, D.C.: World Bank. 
+18 Hafzullah, A. 2020. Surface Water. In: Water Resources of Turkey. World Water Resources 2. Springer Nature Switzerland AG. 
+19 Government of Turkey. 2017. Population Census. 
+20 Ministry of Forestry and Water Management. 2013. Eastern Black Sea River Basin Protection Action Plan. 
+21 Nefeslioğlu et al., 2012. Medium-scale hazard mapping for shallow landslide initiation: the Büyükköy catchment area (Çayeli, Rize, Turkey). 
+Landslide 8(4): 459-483. 
+22 Avci, V., Esen, F. 2019. Determination of Landslide Susceptibility in the Melet River Basin (Ordu, Turkey) by Bivariate Statistical Analysis Method. 
+
+ 
+
+http://www.worldbank.org/projects
+
+
+ 
+The World Bank  
+Turkey Resilient Landscape Integration Project (TULIP) (P172562) 
+
+ 
+ 
+
+  
+Mar 12, 2020 Page 15 of 15  
+
+     
+
+ 
+International Journal of Eurasia Social Sciences 10 (35): 42-75.  
+23 Ministry of Forestry and Water Management. 2013. Eastern Black Sea River Basin Protection Action Plan. 
+24 Ministry of Forestry and Water Management. 2013. Eastern Black Sea River Basin Protection Action Plan. 
+25 Data from the Disaster and Emergency Management Presidency (AFAD). 
+26 Avci, V., Esen, F. 2019. Determination of Landslide Susceptibility in the Melet River Basin (Ordu, Turkey) by Bivariate Statistical Analysis Method. 
+International Journal of Eurasia Social Sciences 10 (35): 42-75. 
+27 World Bank. 2008. Watershed Management Approaches, Policies, and Operations: Lessons for Scaling Up. Water Sector Board Discussion Paper 
+Series. Paper No. 11. Washington, D.C.: World Bank. 
+28 Faivre, N., et al. 2017. Nature-Based Solutions in the EU: Innovating with nature to address social, economic and environmental challenges. 
+Environmental Research 159: 509–518. 
+29 World Bank and World Resources Institute. 2019. Integrating Green and Gray: Creating Next Generation Infrastructure. Washington, D.C.: World 
+Bank. 
+30 OECD. 2019. OECD Environmental Performance Reviews: Turkey 2019. Paris: OECD. 
+31 World Bank. 2017. Turkey - Country Partnership Framework for the period FY18 - FY21. Washington, D.C.: World Bank Group. 
+
+
+

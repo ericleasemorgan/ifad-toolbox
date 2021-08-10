@@ -1,0 +1,292 @@
+id	sid	eid	entity	type
+WB53	1	1	World Bank Document	ORG
+WB53	1	2	1	CARDINAL
+WB53	1	3	12	CARDINAL
+WB53	1	4	PID/ISDS	ORG
+WB53	1	5	Concept Stage	ORG
+WB53	1	6	22-Feb-2018	TIME
+WB53	1	7	2	CARDINAL
+WB53	1	8	12	CARDINAL
+WB53	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB53	2	2	12, 2018	DATE
+WB53	2	3	Social, Urban	ORG
+WB53	2	4	Rural and Resilience Global Practice Financing Instrument Borrower(s)	ORG
+WB53	2	5	Implementing Agency Investment Project Financing Ministère du Plan Cabinet	ORG
+WB53	2	6	Ministre	PERSON
+WB53	2	7	Projet de Gestion des Risques de Catastrophes et de Développement Urbain	ORG
+WB53	2	8	Stratégie de Développement et de Sécurité	ORG
+WB53	2	9	du Niger	ORG
+WB53	2	10	SDS	ORG
+WB53	3	1	PROJECT FINANCING DATA	ORG
+WB53	3	2	Millions	CARDINAL
+WB53	3	3	SUMMARY-N ewFin1	ORG
+WB53	3	4	80.00	CARDINAL
+WB53	3	5	80.00	CARDINAL
+WB53	3	6	0.00	CARDINAL
+WB53	3	7	h1 World Bank Group Financing International Development Association	ORG
+WB53	3	8	IDA	ORG
+WB53	3	9	80.00	CARDINAL
+WB53	3	10	3	CARDINAL
+WB53	3	11	12	CARDINAL
+WB53	3	12	IDA	ORG
+WB53	3	13	47.50	CARDINAL
+WB53	3	14	IDA	ORG
+WB53	3	15	Other Decision	ORG
+WB53	4	1	Niger	PERSON
+WB53	4	2	390	MONEY
+WB53	4	3	2015	DATE
+WB53	4	4	almost half	CARDINAL
+WB53	4	5	Nigeriens	GPE
+WB53	4	6	45.7 percent	PERCENT
+WB53	4	7	2014	DATE
+WB53	5	1	2015	DATE
+WB53	5	2	Niger	PERSON
+WB53	5	3	188	CARDINAL
+WB53	5	4	the United Nations Human Development Index	ORG
+WB53	6	1	Nigerien	GPE
+WB53	8	1	Niger	ORG
+WB53	8	2	4 percent	PERCENT
+WB53	8	3	2015	DATE
+WB53	8	4	113	CARDINAL
+WB53	8	5	2015	DATE
+WB53	9	1	99	CARDINAL
+WB53	9	2	168	CARDINAL
+WB53	9	3	2015	DATE
+WB53	9	4	Corruption Perceptions Index	EVENT
+WB53	11	1	March 2016—has	DATE
+WB53	15	1	Niger	PERSON
+WB53	16	1	over 280,000	CARDINAL
+WB53	16	2	approximately 158,000	CARDINAL
+WB53	16	3	109,000	CARDINAL
+WB53	16	4	16,000	CARDINAL
+WB53	16	5	Nigerien	NORP
+WB53	16	6	Nigeria	GPE
+WB53	17	1	two	CARDINAL
+WB53	17	2	Mali	PERSON
+WB53	17	3	22 percent	PERCENT
+WB53	17	4	78 percent	PERCENT
+WB53	18	1	2017	DATE
+WB53	18	2	4	CARDINAL
+WB53	18	3	12	CARDINAL
+WB53	18	4	2011	DATE
+WB53	18	5	Niger	PERSON
+WB53	19	1	March 2016	DATE
+WB53	20	1	Boko Haram	PERSON
+WB53	20	2	the Joint Multi National Force	ORG
+WB53	20	3	Mali	PERSON
+WB53	21	1	Niger	PERSON
+WB53	21	2	Libya	GPE
+WB53	21	3	Mali	PERSON
+WB53	21	4	Nigeria	GPE
+WB53	21	5	Boko Haram	ORG
+WB53	21	6	Niger	PERSON
+WB53	21	7	Diffa	ORG
+WB53	21	8	the Nigerien Army	ORG
+WB53	22	1	Bosso	GPE
+WB53	22	2	Niger	PERSON
+WB53	22	3	Chad	PERSON
+WB53	23	1	Niger	GPE
+WB53	24	1	flux	GPE
+WB53	25	1	Boko Haram	PERSON
+WB53	26	1	Diffa	ORG
+WB53	26	2	Mali-Niger	PERSON
+WB53	27	1	Diffa	ORG
+WB53	27	2	Mali-Niger	PERSON
+WB53	33	1	Diffa	ORG
+WB53	34	1	Niger	GPE
+WB53	37	1	Diffa	GPE
+WB53	38	1	1951	DATE
+WB53	38	2	United Nations Convention Relating	ORG
+WB53	38	3	1967	DATE
+WB53	38	4	1969	DATE
+WB53	38	5	Organization of African Unity Convention Governing Specific Aspects of Refugee Problems	ORG
+WB53	38	6	Africa	LOC
+WB53	39	1	Niger	ORG
+WB53	39	2	CERD	ORG
+WB53	39	3	CERD	ORG
+WB53	40	1	Article 10 of the 1997 law ensures	LAW
+WB53	41	1	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
+WB53	41	2	5	CARDINAL
+WB53	41	3	12	CARDINAL
+WB53	41	4	Décret n°	ORG
+WB53	41	5	PCMS/MI/MAE/C	ORG
+WB53	41	6	June 18, 1987	DATE
+WB53	41	7	the Ministry of Labor	ORG
+WB53	42	1	the African Union Convention for the Protection and Assistance of Internally Displaced Persons	ORG
+WB53	42	2	Africa	LOC
+WB53	42	3	Kampala Convention	FAC
+WB53	43	1	Diffa	GPE
+WB53	44	1	Niger	PERSON
+WB53	44	2	1954	DATE
+WB53	44	3	1961	DATE
+WB53	46	1	Malian	NORP
+WB53	47	1	UNHCR	ORG
+WB53	47	2	the Governments of Niger and Mali	ORG
+WB53	47	3	2014	DATE
+WB53	48	1	Mali	PERSON
+WB53	50	1	Mali	PERSON
+WB53	50	2	a Voluntary Repatriation Form	WORK_OF_ART
+WB53	51	1	one	CARDINAL
+WB53	51	2	UNHCR	ORG
+WB53	52	1	Malian	NORP
+WB53	52	2	Zones d’Accueil des Réfugiés	PERSON
+WB53	53	1	UNHCR	ORG
+WB53	53	2	the Comité National	EVENT
+WB53	53	3	the Comité d’Appel	ORG
+WB53	53	4	the Direction Générale de l'État Civil et des Réfugiés	FAC
+WB53	53	5	the Comité de Recours Gracieux	ORG
+WB53	53	6	CRG	ORG
+WB53	54	1	Diffa	ORG
+WB53	55	1	Réfugiés	PERSON
+WB53	56	1	three	CARDINAL
+WB53	56	2	Niger	GPE
+WB53	56	3	1	CARDINAL
+WB53	56	4	2	CARDINAL
+WB53	56	5	3	CARDINAL
+WB53	57	1	CPF	ORG
+WB53	57	2	Improved Social Protection System	ORG
+WB53	57	3	CPF	ORG
+WB53	57	4	two	CARDINAL
+WB53	57	5	5.3	CARDINAL
+WB53	57	6	5.4	CARDINAL
+WB53	58	1	CPF	ORG
+WB53	58	2	Result Matrix	PERSON
+WB53	59	1	the Disaster Risk Management and Urban Development	ORG
+WB53	59	2	the Safety Net Project	ORG
+WB53	59	3	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
+WB53	59	4	6	CARDINAL
+WB53	59	5	12	CARDINAL
+WB53	59	6	the Skills Development for Growth	ORG
+WB53	59	7	the Community Action Project	ORG
+WB53	59	8	3	CARDINAL
+WB53	60	1	four	CARDINAL
+WB53	61	1	C. Proposed Development	PERSON
+WB53	62	1	PCN	GPE
+WB53	71	1	D. Concept Description	PERSON
+WB53	71	2	Diffa	ORG
+WB53	71	3	Malian	NORP
+WB53	74	1	between September 2017 - March 2018	DATE
+WB53	75	1	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
+WB53	75	2	7	CARDINAL
+WB53	75	3	12	CARDINAL
+WB53	77	1	Components Activities	ORG
+WB53	77	2	three	CARDINAL
+WB53	77	3	three	CARDINAL
+WB53	77	4	1	CARDINAL
+WB53	77	5	2	CARDINAL
+WB53	77	6	3	CARDINAL
+WB53	82	1	two	CARDINAL
+WB53	83	1	1	CARDINAL
+WB53	85	1	2	CARDINAL
+WB53	87	1	3	CARDINAL
+WB53	89	1	4	CARDINAL
+WB53	91	1	5	CARDINAL
+WB53	94	1	1	CARDINAL
+WB53	96	1	2	CARDINAL
+WB53	98	1	3	CARDINAL
+WB53	100	1	two	CARDINAL
+WB53	101	1	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
+WB53	101	2	8	CARDINAL
+WB53	101	3	12	CARDINAL
+WB53	102	1	1	CARDINAL
+WB53	104	1	Business Development and Individual Skill Building	ORG
+WB53	107	1	two	CARDINAL
+WB53	109	1	B. Preparedness of Government	PERSON
+WB53	112	1	OP/BP 10.00	ORG
+WB53	112	2	12 and 13	DATE
+WB53	114	1	WB	ORG
+WB53	114	2	WB	ORG
+WB53	115	1	the Project Steering Committee	ORG
+WB53	115	2	the Project Implementation Unit	ORG
+WB53	117	1	SAFEGUARDS A.	PERSON
+WB53	119	1	Diffa	ORG
+WB53	119	2	Malian	NORP
+WB53	119	3	Tillaberi	GPE
+WB53	119	4	Tahoua	PERSON
+WB53	119	5	Agadez	PERSON
+WB53	120	1	2017	DATE
+WB53	120	2	9	CARDINAL
+WB53	120	3	12	CARDINAL
+WB53	120	4	B. Borrower’s	PERSON
+WB53	120	5	Bank	ORG
+WB53	120	6	Environmental	ORG
+WB53	120	7	Environmental and	ORG
+WB53	120	8	Social Management Frameworks	ORG
+WB53	120	9	ESMF	ORG
+WB53	120	10	Bank	ORG
+WB53	121	1	The Bureau des Evaluations	ORG
+WB53	121	2	BEEEI	ORG
+WB53	121	3	the National Environmental Agency	ORG
+WB53	121	4	NEA	ORG
+WB53	121	5	ESMF	ORG
+WB53	121	6	RPF	GPE
+WB53	121	7	PMP	ORG
+WB53	121	8	ESMF	ORG
+WB53	121	9	RPF	GPE
+WB53	122	1	World Bank	ORG
+WB53	122	2	BEEEI	ORG
+WB53	123	1	C. Environmental	PERSON
+WB53	123	2	Emmanuel Ngollo	PERSON
+WB53	123	3	Safeguard Policies Triggered	ORG
+WB53	125	1	Environmental and	ORG
+WB53	125	2	the World Bank Website	ORG
+WB53	126	1	ESMF	ORG
+WB53	126	2	Social Management	ORG
+WB53	127	1	World Bank Website	ORG
+WB53	128	1	Social Assessment	ORG
+WB53	130	1	OP	PERSON
+WB53	131	1	2017	DATE
+WB53	131	2	10	CARDINAL
+WB53	131	3	12	CARDINAL
+WB53	131	4	4.09	CARDINAL
+WB53	132	1	Pest Management Plan	LAW
+WB53	132	2	Bank	ORG
+WB53	132	3	World Bank	ORG
+WB53	133	1	4.11	CARDINAL
+WB53	133	2	Niger	PERSON
+WB53	136	1	ESMF	ORG
+WB53	137	1	Peoples OP/BP	ORG
+WB53	137	2	no Indigenous Peoples	ORG
+WB53	138	1	OP	PERSON
+WB53	138	2	4.12	CARDINAL
+WB53	139	1	RPF	GPE
+WB53	139	2	World Bank	ORG
+WB53	140	1	RPF	ORG
+WB53	140	2	Resettlements Action	ORG
+WB53	143	1	International Waterways OP/BP	ORG
+WB53	143	2	7.50	CARDINAL
+WB53	143	3	Niger	PERSON
+WB53	143	4	Komadougou	PERSON
+WB53	144	1	Disputed Areas OP/BP	ORG
+WB53	144	2	7.60	CARDINAL
+WB53	145	1	2017	DATE
+WB53	145	2	11	CARDINAL
+WB53	145	3	12	CARDINAL
+WB53	145	4	Appraisal Stage PID/ISDS Feb 13, 2018 Time	ORG
+WB53	146	1	Appraisal Stage PID/ISDS An Environmental and	ORG
+WB53	146	2	Social Management Framework	ORG
+WB53	146	3	ESMF	ORG
+WB53	146	4	RPF	GPE
+WB53	146	5	the Pest Management Plan	LAW
+WB53	146	6	PMP	ORG
+WB53	147	1	three	CARDINAL
+WB53	147	2	Bank	ORG
+WB53	147	3	World Bank	ORG
+WB53	148	1	CONTACT POINT World Bank Sabine W. Beddies Sr Urban Spec	ORG
+WB53	149	1	Borrower/Client/Recipient Ministère du Plan	ORG
+WB53	149	2	Boulama Kané Ministre du Plan	PERSON
+WB53	149	3	Gouverneur de la Banque	PERSON
+WB53	149	4	Ministre Mahamadou	PERSON
+WB53	149	5	Directeur de Cabinet	FAC
+WB53	149	6	The World Bank	ORG
+WB53	149	7	12	CARDINAL
+WB53	149	8	12	CARDINAL
+WB53	149	9	Stratégie de Développement et de Sécurité	ORG
+WB53	149	10	SDS	ORG
+WB53	149	11	Ada Laoualy Secrétaire	PERSON
+WB53	149	12	NW	GPE
+WB53	149	13	Washington	GPE
+WB53	149	14	202	CARDINAL
+WB53	149	15	473-1000	CARDINAL
+WB53	149	16	Sabine W. Beddies Approved	PERSON
+WB53	149	17	Michael Hamaide 29-May-2018	PERSON

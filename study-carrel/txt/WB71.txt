@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 1 of 6  
+
+     
+
+ 
+      
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Program Information Document 
+(PID)  
+
+ 
+Concept Stage | Date Prepared/Updated:  06-Dec-2018| Report No: PIDC26196 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 2 of 6  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Chad P168606 Chad Second Programmatic 
+Economic Recovery and 
+Resilience Grant (P168606) 
+
+P163424 
+
+Region Estimated Board Date Practice Area (Lead) Financing Instrument 
+
+AFRICA Jul 31, 2019 Macroeconomics, Trade 
+and Investment 
+
+Development Policy 
+Financing 
+
+Borrower(s) Implementing Agency 
+
+Ministry of Economy and 
+Development Planning 
+
+Ministry of Finance and Budget 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Program Development Objectives and pillars of the proposed series are to (1) enhance fiscal risk management; 
+(2) improve oil revenue transparency and management; (3) promote resilience and economic diversification in key 
+real sectors; and (4) increase social protection for the poor and vulnerable. 
+
+ 
+ Financing (in US$, Millions) 
+
+FIN_SUMM_PUB_TBL 
+SUMMARY 
+ 
+
+Total Financing 40.00 
+    
+DETAILS-NewFin3 
+
+Total World Bank Group Financing 40.00 
+
+     World Bank Lending 40.00 
+   
+
+  
+Decision 
+The review did authorize the preparation to continue 
+
+    
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+ 
+
+1. The collapse of global oil prices caused a fiscal and economic crisis in 2016 and 2017. Low oil prices left Chad’s 
+external debt unsustainable and threw the economy into deep recession. Falling revenues, together with the obligation 
+
+to service an oil collateralized commercial loan, rendered the government illiquid. In fact, more than 80 percent of oil 
+revenues were used to directly service debt owed to Glencore, with only about 15 percent entering treasury accounts in 
+
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 3 of 6  
+
+     
+
+cash terms. Real GDP contracted by 6.3 percent in 2016 and 3 percent in 2017, opening a large negative output gap. This 
+was reflected in a sharp drop in CPI inflation from 3.7 percent in 2015 to -1.1. percent in 2016, and 0.2 percent in 2017.  
+
+2. In response to the oil price shock, the government had to pursue severe fiscal consolidation. In early 2016, the 
+authorities introduced cash-based budgeting and adopted an Emergency Fiscal Plan aimed at mitigating the short-term 
+impact of the crisis. Significant expenditure cuts led to a fall in the non-oil primary deficit from 9.7 percent of non-oil GDP 
+at end-2015 to 3.8 percent at end-2017, while the overall fiscal deficit (cash basis) was contained at 2.5 percent of non-oil 
+GDP in 2017. In 2018, the overall fiscal balance is estimated to be at -0.6 percent of non-oil GDP. Domestically financed 
+public investment took a major hit and dropped from 9.8 percent of non-oil GDP in 2014 to 0.7 percent in 2017, while 
+recurrent spending dropped from 16.6 percent to 13.7 percent and arrears accumulated. 
+
+3. To return to fiscal and debt sustainability, commercial debt restructuring as well as strong external budget support 
+were necessary. An important challenge has been to close an original financing gap of US$1.222 billion in 2017 and 2018. 
+Following almost a year of negotiation, Chad and Glencore signed a final debt restructuring agreement in June 2018, notably 
+linking debt service to oil revenues through a dynamic cash sweep mechanism. This arrangement reduces the debt service 
+to revenue ratio, mitigates the fiscal risk of oil price volatility, reduces the financing gap and returns Chad to a sustainable 
+debt path. Furthermore, authorities have financed part of the deficit by issuing bonds in the regional market, however, banks 
+have approached their regulatory limits on Chadian Government securities. Ultimately, Chad’s development partners have 
+provided budget support requiring the Government to adhere to the rules and mechanisms as agreed for the restructuring 
+of its commercial debt while further rationalizing public financial management (PFM) and tightening expenditure controls. 
+
+4. Despite fiscal stabilization translating into gradual recovery, years of recession and austerity have constrained 
+social welfare and poverty-reduction.1   Real GDP expected to grow at an estimated 2.6 percent in 2018, largely supported 
+by increases in oil prices and oil production. In the non-oil economy, favorable weather conditions and the privatization 
+of the cotton public enterprise are expected to improve the agriculture sector’s contribution to (non-oil) GDP growth. 
+However, in the absence of a well-targeted and effective social safety net (SSN), the poor and vulnerable have been deeply 
+affected by the crisis. During the oil boom, poverty rates declined (from 55 percent in 2003 to 47 percent in 2011), 
+however, the absolute number of poor increased from 4.9 million to 5.6 million due to population growth. Progress on 
+non-monetary poverty also presents a mixed picture. Since 2014 and up until 2018, dwindling fiscal resources and poor 
+social spending execution have disrupted vital public services despite efforts to protect priority social and productive 
+spending 
+
+Relationship to CPF 
+ 
+
+5. The Country Partnership Framework (CPF) for FY16-FY202 is based on three engagement themes: (i) 
+strengthening management of public resources; (ii) improving returns to agriculture and building value chains; and (iii) 
+building human capital and reducing vulnerability. The program supported by the proposed second Development Policy 
+Grant is closely aligned with the three pillars of the CPF and designed to leverage World Bank investment lending projects 
+and Technical Assistance activities across the four pillars, notably in the areas of domestic resource mobilization, tax policy 
+and administration, SOE management, oil sector capacity building, agriculture value chain support and productivity 
+enhancement, and social safety nets development. 
+
+C. Proposed Development Objective(s)  
+ 
+
+                                            
+1 The latest poverty data are available as of 2011 only. 
+2 Report No. 95277-TD (November 3, 2015). 
+
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 4 of 6  
+
+     
+
+The Program Development Objectives and pillars of the proposed operation are to (1) enhance fiscal risk management; 
+(2) improve oil revenue transparency and management; (3) promote resilience and economic diversification in key real 
+sectors; and (4) increase social protection for the poor and vulnerable. 
+ 
+Key Results  
+ 
+
+6. This second programmatic Economic Recovery and Resilience (ERR) DPO will support Chad in building resilience 
+and consolidating transition to a sustainable, structural growth path. Building on the First Economic Recovery and 
+Resilience DPO (P163424), this second grant in a series of two solidifies the shift of World Bank support towards a 
+structural resilience and growth agenda. The authorities aim at sustaining recovery, fostering economic diversification, 
+and developing coping mechanisms for the poor and vulnerable. Four intertwined pillars combine structural measures to 
+enhance fiscal risk management with boosting economic diversification and social resilience. Improved debt, Public 
+Financial and oil revenue management are complemented by increased productivity in agriculture and competitive, open 
+access information and communication technologies (ICT). Finally, putting in place a well-targeted and fully operational 
+social protection system adds an explicit micro layer of resilience. 
+
+ 
+
+D. Concept Description 
+ 
+
+7. The proposed operation supports structural policy reform to improve debt and oil revenue management, 
+increase productivity in agriculture and ICT telecom sectors and build a well targeted social safety net.  The operation 
+is programmed under IDA18 with a total amount of US$40 million. It follows the First Programmatic Economic Recovery 
+and Resilience DPO that passed Board in September 2018, as well as a 2017 standalone Emergency Fiscal Stabilization 
+Operation that was conceived as a first stage supporting Chad in its stabilization effort while preparing the ground for the 
+second stage, i.e. structural measures to build resilience and start sustainable recovery in the context of this programmatic 
+DPO series. 
+
+8. The main policy pillars are to (1) enhance fiscal risk management; (2) improve oil revenue transparency and 
+management; (3) promote resilience and economic diversification in key real sectors; and (4) increase social protection 
+for the poor and vulnerable. First, this programmatic series aims at enhancing fiscal risk management through (a) 
+improved debt management; (b) rationalization of tax expenditures; (c) streamlining the payroll for enhanced fiscal space; 
+and (d) improved oversight and transparency in the management of SOEs. Second, to improve the contribution of the oil 
+sector to fiscal sustainability and economic resilience it promotes (i) a functional oil revenue management mechanism; (ii) 
+transparency in the financial performance of the SHT; and (iii) improved control over oil production costs. Third, to 
+increase diversification and resilience of Chad’s population in face of economic and climatic shocks, the operation (a) 
+contributes to greater agricultural productivity for more sustainable and inclusive growth; and (b) strengthens the 
+contribution of the ICT sector to inclusive growth through enhanced affordability and coverage of services, as well as 
+improved transparency for public and private service delivery. Fourth, it increases social protection for the poor and most 
+vulnerable groups including refugees, by developing an effective and well-targeted SSN system, and implementing cash 
+transfers.  
+
+9. The operation is well aligned with the strategic objectives of the 2017-2021 National Development Plan (NDP). 
+It focuses on three of the four strategic Pillars of the government’s program, including Pillar 2, strengthening good 
+governance and the rule of law, Pillar 3, development of a robust and competitive economy, and Pillar 4, improving the 
+quality of life of the Chadian population.  
+
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 5 of 6  
+
+     
+
+10. This second programmatic DPO will also help catalyze private investment through improving the investment 
+climate and creating opportunities in key sectors of the economy. Maximizing the impact of development financing is a 
+central medium-term objective. The importance of concessional finance in supporting inclusive economic growth should 
+be gradually reduced and compensated by private sector activity and investment: 1) Improved debt management and SOE 
+oversight will reduce fiscal risk and create fiscal space for effective public investment able to crowd in private investment; 
+2) at the same time, enabling competitive input markets in agriculture (here through effective agricultural extension 
+services and high-quality seeds) and telecommunication (here through a competitive, open access fiber optics 
+infrastructure) will not only break power of inefficient SOEs, but also lower entry and business costs across the economy. 
+In the medium-term, it creates permanent opportunity for competition and innovation as well as significant consumer 
+welfare gains. 
+
+ 
+
+E. Poverty and Social Impacts and Environmental Aspects 
+ 
+Poverty and Social Impacts 
+ 
+11. The proposed programmatic Development Policy Grant is expected to have a positive impact on poverty 
+reduction in the medium- and long- term. Actions supported by this operation are expected to help decrease poverty in 
+the medium- and long-term through the promotion of inclusive growth in agriculture, and the development of more 
+affordable ICT services and broader coverage in underserved areas. In addition, a properly targeted expansion of the 
+Social Safety Net system has the potential to have a significant impact on allowing households to move out of poverty 
+and strengthen household resilience to shocks.  
+ 
+Environmental Impacts 
+ 
+
+12. The reforms and policy actions supported by the proposed operation are not likely to have significant negative 
+effects on the country’s environment, forests and other natural resources. All the actions are policy-oriented; they do 
+not support direct investment in environmentally impactful projects or involve policy actions with significant 
+environmental consequences. The assessment of potential impacts related to actions supported by the DPO will rely on 
+the existing national legal and regulatory framework and will be monitored and addressed through the national 
+procedures in place in Chad. Environmental Assessment (EA) is a legal requirement in Chad and is widely applied to all 
+developmental projects. The EA process is based on Presidential Decree No. 630/PR/PM/MEERH/2010 on EA regulations 
+and the ministerial decision No. 039/PR/PM/MERH/SG/DGE/DEELCPN/2012 with respect to the general guidelines and 
+procedures for EA. The department of EA and pollution control in the Ministry of Environment and Fisheries is 
+institutionally charged with reviewing and clearing environmental impact assessment (EIA) documents. 
+ 
+ .    
+CONTACT POINT 
+ 
+
+World Bank 
+
+Markus Kitzmuller, Giuseppe Zampaglione 
+
+Senior Economist 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+
+
+
+ 
+The World Bank  
+Chad Second Programmatic Economic Recovery and Resilience Grant (P168606) 
+
+ 
+ 
+
+  
+ Page 6 of 6  
+
+     
+
+ 
+
+Ministry of Economy and Development Planning 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+Ministry of Finance and Budget 
+
+Senoussi Zakaria 
+
+DG Finance 
+
+senoussizakg@gmail.com 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): Markus Kitzmuller, Giuseppe Zampaglione 
+ 
+
+Approved By 
+APPROVALTBL 
+
+Country Director: Francois Nankobogo 07-Jan-2019 
+   
+ 
+
+http://www.worldbank.org/projects
+
+

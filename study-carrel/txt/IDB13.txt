@@ -1,0 +1,2590 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+ARGENTINA 
+
+ 
+
+ 
+
+ 
+
+PROVINCIAL AGRICULTURAL SERVICES PROGRAM – PROSAP IV 
+
+(AR-L1198) 
+
+ 
+
+THIRD INDIVIDUAL OPERATION UNDER THE CONDITIONAL CREDIT LINE FOR 
+INVESTMENT PROJECTS (CCLIP)  
+
+(AR-X1006) 
+
+ 
+
+ 
+
+ 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+
+This document was prepared by the project team consisting of: Ricardo Quiroga (RND/CAR), 
+Project Team Leader; Viviana Alva-Hart (RND/CAR), Project Team Co-leader. Juan de Dios 
+Mattos and Maria Claudia Perazza (CSD/RND); Juan Manuel Leaño and Carolina Benitez 
+(TSP/CAR); Alonso Chaverri-Suarez (LEG/SGO); Teodoro Noel, Marisol Pinto, and Carlos 
+Carpizo (PDP/CAR); Denis Corrales and María Elena Castro (VPS/ESG); Gabriela Szarfer 
+(CAR/CAR); and Elizabeth Chávez (CSD/RND). 
+
+ 
+
+This document is being released to the public and distributed to the Bank’s Board of Executive Directors 
+simultaneously. This document has not been approved by the Board. Should the Board approve the 
+document with amendments, a revised version will be made available to the public, thus superseding 
+and replacing the original version. 
+
+ 
+
+
+
+
+
+ 
+
+CONTENTS 
+
+PROJECT SUMMARY 
+
+I. DESCRIPTION AND RESULTS MONITORING ................................................................ 1 
+
+A. Background, problem addressed, and rationale ............................................ 1 
+B. Objectives, components, and cost .............................................................. 10 
+C. Key results indicators ................................................................................. 12 
+
+II. FINANCING STRUCTURE AND MAIN RISKS ............................................................... 12 
+
+A. Financing instruments and costs ................................................................ 12 
+B. Environmental and social risks ................................................................... 13 
+C. Fiduciary risks ............................................................................................ 15 
+D. Other project risks and special issues ......................................................... 15 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 15 
+
+A. Summary of implementation arrangements ................................................ 15 
+B. Summary of arrangements for monitoring results ....................................... 16 
+
+ 
+ 
+ 
+ 
+ 
+
+  
+
+
+
+ - ii - 
+ 
+ 
+
+ANNEXES 
+
+Annex I Summary Development Effectiveness Matrix (DEM) 
+
+Annex II Results Matrix 
+
+Annex III Fiduciary Agreements and Requirements 
+
+ 
+
+ELECTRONIC LINKS 
+
+REQUIRED 
+
+1. Multiyear Execution Plan 
+
+2. Annual work plan (AWP) 
+
+3. Monitoring and Evaluation Plan 
+
+4. Environmental and Social Management Report (ESMR) 
+
+5. Procurement Plan 
+
+OPTIONAL 
+
+1. Program Operating Regulations (Preliminary) 
+
+2. Complete Results Matrix 
+
+3. PROSAP I Completion Report (899/OC-AR) 
+
+4. PROSAP II Completion Report (1956/OC-AR) 
+
+5. PROSAP III midterm evaluation (2573/OC-AR)  
+
+6. Economic evaluation of the program (PROSAP IV) 
+
+7. Ex post economic evaluation of the PROSAP III projects 
+
+8. List of feasibility documents for the sample projects – major works 
+
+9. List of feasibility documents for the sample projects – minor works 
+
+10. Information on the projects in Component 2  
+
+11. Bibliography 
+
+ 
+  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676316
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676316
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679756
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40664746
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676313
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670869
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40673929
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679857
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40120638
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676141
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40678623
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40681141
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677463
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677618
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679522
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - iii - 
+ 
+ 
+
+ABBREVIATIONS 
+
+AGN Office of the National Auditor General 
+CCLIP Conditional Credit Line for Investment Projects 
+CDC Country Development Challenge 
+CRF Corporate Results Framework 
+DCIP Development and competitiveness improvement plans 
+EIRR Economic internal rate of return 
+ESM Environmental and Social Manual 
+ESMP Environmental and social management plan 
+ESMR Environmental and social management report 
+FAO Food and Agriculture Organization of the United Nations 
+GDP Gross domestic product 
+GHG Greenhouse gases 
+INDC Intended Nationally Determined Contribution  
+MAGyP Ministry of Agriculture, Livestock, and Fisheries  
+NEA Northeastern region of Argentina 
+NG Norte Grande 
+NPV Net present value  
+NRC Nonreimbursable contribution 
+NWA Northwestern region of Argentina 
+OC Ordinary Capital 
+OVE Office of Evaluation and Oversight  
+PCR Project completion report 
+PROSAP Programa de Servicios Agrícolas Provinciales [Provincial Agricultural 
+
+Services Program] 
+PSAS Provincial strategies for the agrifood sector  
+SMEs Small and medium-sized enterprises 
+UIS Update to the Institutional Strategy  
+URC Unit for Rural Change 
+ 
+ 
+
+
+
+ 
+ 
+
+PROJECT SUMMARY 
+
+ARGENTINA 
+PROVINCIAL AGRICULTURAL SERVICES PROGRAM – PROSAP IV 
+
+(AR-L1198) 
+THIRD INDIVIDUAL OPERATION UNDER THE CONDITIONAL CREDIT LINE FOR INVESTMENT 
+
+PROJECTS – (AR-X1006)  
+ 
+
+Financial Terms and Conditions 
+
+Borrower: Argentine Republic 
+Flexible Financing Facility(a) 
+
+Amortization period: 25 years 
+
+Executing agency: Ministry of Agroindustry 
+
+Original WAL: 15.25 years 
+
+Disbursement period: 4 years 
+
+Grace period: 5.5 years 
+
+Source Amount (US$) % Inspection and supervision fee: (b) 
+
+IDB (OC): 100,000,000 76 Interest rate: LIBOR based 
+
+Local 31,426,000 24 Credit fee: (b) 
+
+Total 131,426,000 100 Approval currency: 
+U.S. dollars from the 
+Ordinary Capital 
+
+Project at a Glance 
+
+Project objective/description:  
+
+The objective of the Conditional Credit Line for Investment Projects (CCLIP) is to contribute to the competitiveness and development of 
+regional rural economies through the execution of individual programs consistent with this purpose. Specifically, the third i ndividual 
+operation proposed herein seeks improvements to productivity and an increase in sales and value-added for small and medium-sized 
+agricultural producers, with a focus on increasing resilience to climate change. 
+
+Special contractual condition precedent to the first disbursement of the loan proceeds: 
+
+The executing agency, through the Unit for Rural Change (URC), will provide evidence that the updated program Operating Regulations 
+have been approved and entered into effect, and have been reviewed in accordance with the terms previously agreed upon with the 
+Bank, including the Environmental and Social Manual (ESM) (paragraph 3.3). 
+
+Special contractual conditions for environmental and social execution: 
+
+Those established in the environmental and social management report (ESMR) will be included (paragraph 2.6).  
+
+Exceptions to Bank policies: None. 
+
+Strategic Alignment 
+
+Challenges:(c) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting themes:(d) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+ 
+(a) Under the terms of the Flexible Financing Facility (FN-655-1), the borrower has the option of requesting changes in the amortization schedule as well as 
+
+currency and interest rate conversions. The Bank will take operational and risk management considerations into account when reviewing such requests. 
+(b) The credit fee and the inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the Bank’s 
+
+lending charges, in accordance with applicable policies. 
+(c) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).). 
+(d) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of Law). 
+
+  
+
+
+
+ 
+ 
+
+I. DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problem addressed, and rationale 
+
+ Recent context on the development of the agricultural sector in Argentina  
+
+1.1 In Argentina, the agrifood sector accounts for around 10% of gross domestic product 
+(GDP), and 20% of GDP including the agroindustry sector. The sector generates 
+65% of total exports (US$35 billion) and 36% of employment. The country’s Pampa 
+region1 generates 90% of agricultural production by value and 80% of the sector’s 
+exports. The non-Pampa agriculture sector accounts for around 65% of agricultural 
+exploitation, generates 20% of total production, and provides 54% of all rural jobs to 
+220,000 rural families, the majority of them without their own capital (INDEC, 
+Gallacher, and Lema, 2014).  
+
+1.2 Over the last 10 years, Argentina’s agricultural sector passed through three distinct 
+periods of sector and macroeconomic context that significantly affected its structure 
+and performance. Between 2006 and 2012, the strong growth of the sector’s grain 
+exports stood out, a result mainly of high demand from Asian countries and the 
+agricultural capacity of the Pampa to meet growing international demand. Six 
+products accounted for 65% of all exports, with a significant contribution from the 
+soy chain and with export destinations highly concentrated: 82% of the soy was 
+exported to China and 60% of the wheat to Brazil. For agricultural products, 30% is 
+exported without any processing, and only 54% of agribusiness exports are products 
+with basic processing (soy oil and flour). Although the expansion of soy was 
+concentrated in the Pampa provinces, growing areas have also expanded to other 
+regions, causing changes in land use and replacement of traditional crops (Anlló, 
+Bisang, and Salvatierra, 2010).  
+
+1.3 A second contextual period from 2012 to 2015 was characterized by the application 
+of policies resulting in strong macroeconomic distortions: taxes and quantitative 
+restrictions on agricultural exports (grains mainly), foreign-exchange controls and 
+differentiated exchange rates, import controls, price controls, and targeted 
+subsidies. Estimates from the IDB Agrimonitor (2014) show that from 2007 to 2012, 
+producers generated net transfers to the public purse (via tax collection) and to 
+consumers (through lower prices) that averaged US$11 billion annually, accounting 
+for more than 30% of the value of the sector’s production. This policy framework 
+caused productive and export activity in general to stall, but particularly impacted the 
+non-Pampa regional economies, since as described in the following section, these 
+regions face significant development gaps, forcing them to compete with greater 
+disadvantages (Gallacher and Lema, 2014). 
+
+1.4 A third period of context began with the change of government in December 2015, 
+one of whose first measures was to eliminate the macroeconomic and sector policy 
+distortions (Argentina, Country Development Challenge 2016 – CDC). Along these 
+lines, restrictions on corn and wheat were eliminated and restrictions on soy were 
+reduced; the exchange rate was free floated and foreign exchange restrictions were 
+removed, as were administrative price and import controls. The new government 
+seeks to reposition Argentine agriculture to make it competitive in external markets, 
+
+                                                
+1  Argentina’s provinces are grouped into the following five broad geographic regions: (i) Pampa region; 
+
+(ii) Northeast region (NEA); (iii) Northwest region (NWA); (iv) Cuyo Region; and (v) Patagonia region. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 2 - 
+ 
+ 
+
+ 
+incentivize private investment in cutting-edge technology, and focus attention on 
+structural shortcomings and development gaps that affect the sector, particularly in 
+the more vulnerable regional economies that have fallen behind in terms of social 
+and economic development (Belgrano Plan). 
+
+ Gaps in regional development and priorities for competitiveness and 
+developing rural regional economies  
+
+1.5 Development gaps in regional economies, particularly the Norte Grande (NG) 
+provinces, are notable. The per capita GDP in the NG is 47.5% of that of the nation 
+as a whole. With 20.7% of the total population, the NG only generates 9.8% of the 
+country’s GDP and exports around 10% of the national total. (Meloni, 2012; 
+Argentina CDC). In a study on production and technology gaps for the agricultural 
+sector, Cuervo (2016) tracks the Global Yield Gap in Agriculture. The index 
+measures the production gap based on maximum achievable yield and actual yield 
+(farm yield) for national-scale field crops. The production gap shows low relative 
+levels of technical efficiency: 41.5% for corn, followed by wheat with 41% and soy 
+with 31.7%. Measured as “yield” differences in the production of national field crops 
+(cereals and oilseeds) for the 2011-2014 period, the productive gap figures show 
+that the NG’s technical efficiency index in corn is 62% that of the humid Pampa area, 
+while for soy it is 82%, for wheat it is only 53%, sorghum stands at 62%, and 
+sunflower at 74%. 
+
+1.6 A number of factors affect the regional gaps in technology and development for 
+Argentina’s rural regional economies, with the following generally standing out: (i) a 
+deficit in production infrastructure, particularly irrigation, connectivity, and rural 
+logistics infrastructure, as well as dependable access to energy sources; (ii) climate 
+change and its implications for water availability for high quality and high volume 
+agricultural production; (iii) deficits in services for improving competitiveness and 
+value added, restricting productivity and innovation; and (iv) institutional, 
+governance, and social participation weaknesses, both public and within private 
+organizations and associations of small and medium-sized rural producers. (Lema, 
+2010; Lissi and Losi, 2010; Leyva, 2016; Bisang, Campi, and Aniló, 2013). These 
+factors are described below. 
+
+1.7 Productive infrastructure: Irrigation. According to the 2014 National Irrigation 
+Plan and the study “Potencial de Ampliación del Riego en la Argentina,” [Potential 
+for Expanding Irrigation in Argentina, United Nations Food and Agriculture 
+Organization (FAO), PROSAP, World Bank, 2015], Argentina has a little more than 
+2 million hectares of irrigated land, with potential to expand that to around 6 million 
+hectares.2 The non-Pampa regions are the most dependent on this infrastructure for 
+agricultural development. Half of all irrigated land is in dry regions with annual 
+precipitation of less than 500 mm (e.g. the Andean areas of Jujuy, Salta, Tucumán, 
+Catamarca, La Rioja, San Juan, and Mendoza), while 20% is in the semi-dry central 
+and northern regions, with between 600 mm and 800 mm of rain during the summer. 
+The water stress situation in these regions is worsening due to the effects of climate 
+change and more intense drought periods. Irrigation accounts for 70% of total water 
+consumption in Argentina, and 75% of the water used for this purpose comes from 
+
+                                                
+2  Including expansion over existing areas, new areas, and complementary irrigation.  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 3 - 
+ 
+ 
+
+ 
+surface sources, generally reservoirs created by dams and river diversion, with the 
+other 25% coming from aquifers through individual wells. 
+
+1.8 The four irrigation systems identified by the program have low efficiency (60%) as a 
+result of: (i) main canals that are not lined (75%); (ii) secondary canals that are not 
+lined (80%); and (iii) little use of pressurized irrigation systems (25% of farmers). The 
+records and technical evaluations of the systems rehabilitated by PROSAP show 
+that it is possible to increase initial efficiency levels from 60% to over 90% in terms 
+of water loss reduction. Also, in terms of technology, at the level of the individual 
+farm, the use of inefficient irrigation technology is still prevalent (e.g. surface 
+irrigation) partly due to limited management capacity and knowledge, but also 
+because of the property investment costs. The improved gravity systems have an 
+average cost of US$398/hectare, but with objective efficiency of 65%, while 
+pressurized irrigation systems (micro spray, drip, pivot) that achieve efficiency of 
+80% to 90%, cost between US$2,600/hectare and US$4,000/hectare 
+(FAO-PROSAP).  
+
+1.9 The PROSAP interventions address the investment niche needed to rehabilitate 
+existing systems and expand irrigated areas in provinces with a high degree of water 
+stress, while targeting the needs of small and medium-sized producers. In the NG, 
+investments have been identified of around US$3.6 billion that would make it 
+possible to increase arable land by between 22% and 50% (approximately 320,000 
+hectares). In any case, the success of irrigation interventions requires ensuring 
+proper coordination between three areas: (i) institutional and legal, including 
+regulatory frameworks, land titling and registration, institution-strengthening, and 
+development of financially-autonomous user organizations; (ii) economic, including 
+accessible financing instruments, viable public-private partnership models, 
+affordable water fees and prices, and tax incentives; and (iii) technical, for dealing 
+with cutting-edge engineering and technology, modern water information systems, 
+and environmental studies. Investments in irrigation infrastructure financed by 
+PROSAP have included actions in these three areas and contributed to improving 
+productivity in the intervention areas (see paragraphs 1.19, 1.20, and 1.21).  
+
+1.10 Productive infrastructure: Rural roads and rural energy. Of the total volume of 
+cargo transported, 95% is moved over the country’s road network. Annual average 
+daily traffic has been increasing, but not evenly across all regions, with significant 
+imbalances for cargo traffic (Agosta, R. 2010). For rural economies in the non-
+Pampa provinces, the poor condition of secondary and tertiary roads results in: 
+(i) high transportation and logistical costs; and (ii) poor accessibility to large 
+expanses of territory. For example, the project for secondary route RT13 in 
+Corrientes province shows that the route is closed on average more than 80 days 
+out of the year. RT13 is 163 km, unpaved and without drainage. In the rainy season, 
+70 km of it (43%) is impassable. This worsens the competitiveness of non-Pampa 
+rural areas considering that for the main exportable grains and oilseeds, logistical 
+costs of transportation to the ports or mill account for 30% of the price for NEA and 
+NWA producers (IDEA. FIEL, 2009). Likewise, regarding the rural public energy 
+infrastructure, significant gaps and coverage needs are evident. Nationally, more 
+than 60% of rural homes do not have access to electricity, with the farms furthest 
+from the grid’s main lines being the most affected (Mendoza, 2016).  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677487
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 4 - 
+ 
+ 
+
+ 
+1.11 Climate change challenges. Given the fundamental role that Argentina plays in 
+
+global food security, addressing extreme events resulting from climate change is of 
+vital importance considering their impact on agricultural activity and the production 
+and provision of food. Agricultural and livestock activity are estimated to contribute 
+28% of the country’s total greenhouse gas (GHG) emissions, for which reason these 
+sectors are a central focus for the government as it complies with its goal of reducing 
+GHG emissions by 15% by 2030, as established in its intended nationally 
+determined contribution (INDC) under the United Nations Framework Convention on 
+Climate Change.  
+
+1.12 According to Argentina’s Second National Message on Climate Change, there is 
+evidence that the effects of climate change have contributed to glacier melt in the 
+Andes Mountains, increasing desertification, and an increased recurrence in forest 
+fires over the last 10 years. From the perspective of impact on agriculture, the most 
+severe effects manifest themselves through water stress and water availability for 
+production, particularly in the areas of Cuyo, NEA, and NWA where PROSAP is 
+engaged (Argentina: Second National Message; ECLAC 2012; Ludeña, Wilk, and 
+Quiroga).  
+
+1.13 The Cuyo region has been under a water emergency during 7 of the last 10 years, 
+and the trend toward declining availability of water directly impacts availability of the 
+irrigation needed to maintain the current levels of irrigation-dependent wine and fruit 
+production (Brown, 2015). According to a study entitled “The Economics of Climate 
+Change in Argentina” (ECLAC, 2014), if adaptation measures are not taken, climate 
+change-related productivity losses could reach 17% of the national agriculture 
+sector’s value added, along with drops in yield of between 11% and 16% for wheat, 
+15% and 24% for corn, and 14% and 25% for soy. In terms of its effect on irrigation, 
+in a study of Argentina’s irrigation potential, the FAO reports potential climate 
+change-related productivity losses in areas under irrigation equivalent to the loss of 
+325,000 hectares, or production value of US$900 million. 
+
+ 
+Table 1. Production losses due to climate change in areas under irrigation (in 1,000s of ha) 
+
+ 
+
+*FAO-PROSAP World Bank (2015). 
+
+51
+
+74 78
+
+58
+
+18
+
+62
+29
+
+9
+
+1
+
+8
+
+22 24 22 19 7
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Central Cuyo NWA NEA Patagonia
+
+Underground irrigation Surface irrigation
+
+Losses (% of total surface area)
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 5 - 
+ 
+ 
+
+ 
+ 
+
+1.14 Competitiveness services gaps. Integration of agricultural producers into clusters 
+and value chains is necessary for regional economies to take off. The diagnosis of 
+Argentina’s CDC indicates that the lower competitiveness of the non-Pampa 
+agricultural systems can be partly attributed to the lower degree of sophistication of 
+scientific-technological-educational subsystems and of management in general, as 
+well as their poor links to agricultural technology supply companies. Along these 
+lines, Martin, Mayer, and Mayneris (2008) find that the benefits of increased sector 
+clustering are positive and highly significant, although to be effective it requires 
+strengthened institutions. Likewise, using company-level data, Long and Zhang 
+(2011) show that China’s rapid industrialization is characterized by the growing 
+formation of clusters. They find that the clusters help overcome the credit restrictions 
+that small and medium-sized enterprises (SMEs) face. Scalice (2016) finds in an 
+analysis of nine agrifood supply chains in Argentina’s NG that more than 80% of 
+small producers of are not part of a value chain, nor do they have access to financial 
+services. The author also identifies a number of limitations to developing competitive 
+chains and clusters, including: (i) low product quality; (ii) limited access to capital; 
+(iii) lack of economies of scale; (iv) weak organizational capacity; and (v) limited 
+capacity to innovate. Regarding access to capital, Sanguinetti (2011) identifies 
+access to financial services as one of the main restrictions faced by rural areas of 
+regional economies, and Lapelle (2007) finds that more than 80% of SMEs in 
+regional economies are self-financing. 
+
+1.15 Weaknesses in institutions, governance, and social participation. The various 
+provinces are distinctly heterogeneous in terms of their institutional capacities. The 
+provinces in the NWA and NEA have institutional quality gaps averaging -2.3 
+and -1.2, respectively This means that, compared to the national average, these 
+regions are being left behind. (Villalobos, 2015, CDC Argentina). In terms of social 
+participation, which is an integral part of governance, unequal access for and 
+participation by women is a key weakness. The URC report entitled “Las nuevas 
+generaciones de mujeres rurales como promotoras de cambio (2015)” [New 
+generations of rural women as agents of change] conducts a quantitative and 
+qualitative analysis of the needs of and opportunities for young rural women. This 
+study provides evidence of the relatively low impact of participation among women 
+in rural areas, although regional differences are noteworthy (between 5% and 20%), 
+and for young women facing a series of disadvantages that intensify in remote rural 
+areas, the differences are related to difficulties participating in the labor market while 
+caring for members of the household. PROSAP project design has found that only 
+5% of the beneficiaries of training or technical assistance are women, and only 
+between 0.3% and 3% of land owners in irrigator organizations are women.  
+
+ Progress and outcomes of PROSAP loans from the CLIPP 
+
+1.16 The national government implemented PROSAP in the mid-1990s to support 
+agricultural development in the rural economies of the non-Pampa provinces. The 
+implementation of this program was mainly focused on the construction of rural 
+public works. PROSAP’s first phase was financed by the Bank through operation 
+899/OC-AR. Based on that program’s outcomes, in 2008, the Government of 
+Argentina requested a CCLIP (AR-X1006) for US$600 million. The CCLIP began 
+with operation 1956/OC-AR (PROSAP II), execution of which completed in 2014. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 6 - 
+ 
+ 
+
+ 
+The second operation, 2573/OC-AR (PROSAP III) was approved in 2011. Its level 
+of execution is 90%, and it is set for closure in March 2017. Project completion 
+reports (PCR) for loans 899/OC-AR and 1956/OC-AR, as well as the midterm 
+evaluation for 2573/OC-AR, describe in detail the outputs and outcomes achieved, 
+as well as the lessons learned in each operation. The following table summarizes 
+the scope and main outputs of the PROSAP operations.  
+
+ 
+Table 2. Outputs of PROSAP operations 
+
+ 
+PROSAP I: 
+899/OC-AR 
+
+PROSAP II: 
+
+1956/OC-AR 
+
+First operation 
+under the 
+
+CCLIP 
+
+PROSAP III: 
+2573/OC-AR 
+
+Second 
+operation under 
+
+the CCLIP 
+
+Loan amounts (millions of US$) 322 200 230 
+
+Irrigation and drainage systems built (km) 294 154 374 
+
+Hectares irrigated 137,521 73,038 59,560 
+
+Beneficiaries of irrigation systems 12,769 14,489 5,269 
+
+Rural roads improved (km) 482 339 49  
+
+Rural electrification (km of power lines) 5,251 1,020 45  
+
+Producers receiving services, technical 
+assistance, and training 
+
+111,819 34,039 149,111 
+
+Business plans financed—
+Nonreimbursable contribution (NRC) 
+
+133 85 229 
+
+ 
+
+1.17 The types of outputs that have been generated from PROSAP I to PROSAP III 
+reflect the evolution of the interventions from an approach predominately aimed at 
+physical infrastructure to interventions that are more balanced with technical 
+assistance and soft components on management and market development. The 
+PCRs for the completed PROSAP projects show that they have achieved the direct 
+outcomes and effects expected, including: (i) productive overhaul of irrigation 
+projects, with increases in surface area irrigated, better water availability and quality 
+throughout the year for irrigators, and improved irrigation efficiency; (ii) improved 
+productivity at the level of individual farms for specific crops; (iii) irrigator 
+organizations strengthened and taking over the operation, maintenance, and 
+financial management of their systems; (iv) the rural roads that were financed are 
+usable year-round; and (v) development and consolidation of clusters that have 
+been able to diversify into and/or export processed products for the first time. An 
+ex post economic assessment of the Canal del Norte and 25 de Mayo, San Juan 
+rehabilitation projects and the project to improve rural roads in productive areas in 
+Entre Ríos, Zone VII, based on surveys conducted upon project completion shows 
+that both projects achieved economic benefits demonstrating their economic return, 
+with economic internal rates of return (EIRR) of 21.1% and 19.4%, respectively.  
+
+1.18 Other noteworthy outcomes of PROSAP are institutional and strategic. Among them, 
+PROSAP has provided the Ministry of Agroindustry with a land management 
+operating model that enables it to strengthen and leverage programs with greater 
+scope and coverage in the provinces as part of its provincial strategies for the 
+agrifood sector (PSAS) and its development and competitiveness improvement 
+plans (DCIP). Among other outcomes, this has enabled the strengthening of an 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679857
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40120638
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676141
+
+
+ - 7 - 
+ 
+ 
+
+ 
+environmental and social area that enables it to move forward on these issues 
+proactively, incorporating the inclusion of the gender dimension in rural 
+development, as well as addressing climate change, resulting in the Ministry 
+qualifying as an executing agency for the Climate Change Adaptation Fund.  
+
+1.19 PROSAP impact evaluations. During the design of PROSAP I and PROSAP II, 
+impact evaluations were not performed for experimental designs. Recently, 
+PROSAP III has incorporated a methodology for evaluating the impact of quasi-
+experimental designs that will enable analysis of how outcomes are attributed to the 
+program’s investments. These evaluations will be conducted once PROSAP III ends 
+in 2017. However, some partial and complimentary impact evaluations have been 
+conducted using data generated by PROSAP projects, as described below. 
+
+1.20 Using quasi-experimental methodologies, Gibbons, Maffioli, and Rossi (2016) and 
+Rossi (2016) evaluated the impact of the PROSAP component providing improved 
+irrigation channels in the provinces of Mendoza and San Juan. These studies 
+conclude that PROSAP had positive impacts on both production and per-hectare 
+productivity, showing that producers who participate in the program produce 9.4% 
+more than nonparticipants, with per-hectare yields higher by 7%. 
+
+1.21 Lastly, the Inter-American Institute for Cooperation on Agriculture conducted a study 
+entitled The Territorial Impact of Public Policies: The case of PROSAP (2016), which 
+evaluated the outcomes of PROSAP I projects from 1998 to 2010. The study applied 
+a synthetic methodology by comparing administrative data from departments that 
+had PROSAP interventions with data from departments that did not. The study finds 
+that out of all the departments, those with PROSAP projects had better development 
+results in each of the dimensions analyzed and in the total synthetic index. The 
+degree of overall development of the departments without PROSAP was almost 
+37%, while for those benefiting from PROSAP it was almost 50%. 
+
+ Lessons learned for PROSAP IV design and compliance with CCLIP 
+requirements 
+
+1.22 The main lessons learned from the execution of PROSAP II and III were taken into 
+account when preparing this operation and formed the basis for the inclusion of 
+certain adjustments. The following table provides a summary of these lessons. 
+
+ 
+Table 3. Lessons learned and adjustment measures for PROSAP IV 
+
+Lesson learned Agreed measures 
+
+Institutional consolidation. The creation of a 
+
+comprehensive strategic coordination 
+structure, with the same functions as the URC, 
+has been the basis for better PROSAP project 
+performance  
+
+The Ministry of Agroindustry has decided to 
+maintain the URC’s functional structure and 
+has launched a process to consolidate it 
+internally as a specialized agency for 
+coordinating investment with external funding. 
+
+Coordination of public interventions in the 
+field. Prioritizing projects in the framework of 
+
+the PSASs, which were introduced starting 
+with PROSAP II, has enabled participatory 
+processes that offer better coordination and 
+strategic synergy with a variety of initiatives, 
+expanding the area of impact.  
+
+The proposal is to strengthen and consolidate 
+these processes for territory and microregion 
+management in the framework of the PSAS so 
+as to achieve synergies among PROSAP 
+projects and other URC projects, in addition to 
+better coordinating the intervention of other 
+public policy instruments in the same areas. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676386
+
+
+ - 8 - 
+ 
+ 
+
+ 
+Table 3. Lessons learned and adjustment measures for PROSAP IV 
+
+Lesson learned Agreed measures 
+
+Priority on investment in public goods, 
+complemented by direct support that is 
+intelligent and well targeted on producers. 
+
+The initial focus of the first PROSAP on 
+building public works demonstrated the need 
+for supporting small and medium-sized 
+producers with technical assistance and NRC 
+for in-field improvements and development of 
+new products. The evaluations conducted, 
+including those of the Office of Evaluation and 
+Oversight (OVE), found that the instrument 
+had positive outcomes, but that it was 
+necessary to ensure that the NRCs were 
+applied with stricter diagnostic, eligibility, real 
+market failure justification, measurement, and 
+variability criteria.  
+
+The Technology Modernization Fund, which 
+includes NRC, has been redesigned based on 
+the standards established in the recent 
+Agriculture and Natural Resources 
+Management Sector Framework Document: 
+(i) focus on technological support for mitigation 
+of and adaptation to climate change and 
+environmental sustainability; (ii) eligibility of 
+small producers lacking access to credit and 
+associations organized to establish new local 
+networks and value added in new markets; 
+(iii) technical assistance to promote the 
+participation of the banking sector in financing 
+the sector’s technological modernization, in 
+coordination with private sector operations; 
+and (iv) transient nature of the support and 
+transparent, flexible, and evaluable 
+mechanisms for granting it.  
+
+Minor infrastructure works for rural 
+development. During PROSAP III, a pilot 
+
+program of minor works intended to meet the 
+local production needs of small producers was 
+piloted successfully. These works, which are 
+prioritized in the PSAS, saw high ownership 
+and participation levels among producers. 
+
+The minor works component is continued in a 
+reinforced context of PSAS interventions in 
+priority microregions, along with technical 
+assistance for local organizations to ensure 
+the works’ sustainability. 
+
+ 
+
+1.23 Eligibility of the operation under the CCLIP. Compliance with the eligibility 
+conditions for a new individual operation under CCLIP AR-X1006 of 17 April 2008 
+has been verified: (i) the program is framed within the sectors and components 
+defined under the CCLIP; (ii) its objectives are related to the Bank’s country strategy, 
+and it is included in the country program; (iii) the aforementioned agreement 
+stipulated that the executing agency would be the same for all the individual loans 
+under the line, which is the case given that the URC will continue to be in charge of 
+execution; (iv) the outcomes obtained by the URC in these two individual operations 
+are satisfactory and have been supported by the corresponding performance 
+evaluations for PROSAP II and PROSAP III, meaning the project team and national 
+authorities can expect the new proposed program will perform satisfactorily; 
+(v) regarding the financial execution of PROSAP III, under execution, 84% of the 
+loan proceeds have been committed, while 94% of the proceeds have been 
+disbursed; and (vi) the borrower and executing agency have fulfilled the conditions 
+of the loan contract and the Bank’s policies on disbursements and procurement of 
+goods and services, including updated financial statements.3 
+
+ Design of PROSAP IV  
+
+1.24 As the third individual operation under CCLIP AR-X1006, PROSAP IV has the same 
+design as the first two operations. Specifically, PROSAP IV is designed to bolster 
+
+                                                
+3  The most recent report including audited financial statements includes a minor qualification that does not 
+
+affect the reasonableness thereof. This minor qualification refers to a debt observed by the Office of the 
+National Auditor General between contractors and the provinces of Mendoza, Entre Ríos, and Catamarca, 
+set forth in a note to the financial statements, representing an integral part thereof. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40120638
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676141
+
+
+ - 9 - 
+ 
+ 
+
+ 
+local production systems via the strengthening of critical local assets (public goods: 
+the economic infrastructure—irrigation, transportation, energy, social capital—
+business culture; quality of regional associations and business networks) and 
+improve the effectiveness of the intergovernmental framework. These actions 
+contribute to improving the efficiency of local production systems by creating positive 
+externalities through clustering and by resolving market and coordination failures. 
+
+1.25 In particular, PROSAP IV will strengthen local development mechanisms, bolstering 
+public-private partnerships in order to increase the competitiveness of producers 
+and their associations. Also, the following specific objectives will be consolidated 
+and strengthened: (i) internalization of measures for adapting to climate change with 
+special emphasis on managing water resources and implementing climate-smart 
+irrigation systems; (ii) the comprehensive incorporation of the gender dimension in 
+the program through implementation of specific gender action plans for each 
+provincial public investment project that include gender diagnostics, training, 
+technical assistance, access to available funds, and monitoring of indicators; and 
+(iii) consolidation of mechanisms for measuring outcomes and impacts.  
+
+1.26 Strategic alignment with the Update to the Institutional Strategy (UIS) 
+2010-2020, and the Corporate Results Framework (CRF) 2016-2019. The 
+program is consistent with UIS 2010-2020 (document AB-3008) and strategically 
+aligned with the development challenges of productivity and innovation through 
+investments in productive public infrastructure and technical assistance that will 
+enable increases in the productivity of rural producers in the program’s work areas. 
+The program is also in line with the crosscutting issue of climate change and 
+environmental sustainability through improved use of water and land via investments 
+in irrigation technology. A full 100% of the proceeds of the operation are invested in 
+climate change adaptation activities, according to the as climate financing for 
+adaptation to climate change according to the multilateral development banks’ joint 
+methodology for tracking climate finance. These resources contribute to the IDB 
+Group target of increasing financing for projects related to climate change to 30% of 
+all operation approvals through 2020. The program provides additionality in terms of 
+gender equality through specific activities for promoting the participation of women 
+in the training provided by the program through gender action plans. In addition, the 
+program will contribute to the goals of CRF 2016-2019 (document GN-2727-6) via 
+the indicator of the number of beneficiaries that improve their management and use 
+of natural resources. 
+
+1.27 Alignment with the IDB country strategy. The operation is aligned with the IDB 
+Country Strategy with Argentina 2012-2015 (document GN-2687), in particular with 
+the priority area “Alleviating Obstacles to Growth” in the area of rural and agricultural 
+development, the objectives of which include supporting investment programs in 
+basic rural infrastructure in regional economies. It is also aligned with the priorities 
+of the new Country Strategy with Argentina (2016-2019), which is in the approval 
+process as of the distribution date of this loan proposal, in particular with the 
+following strategic areas: (i) business climate improvement by fostering 
+environmentally sustainable solutions; and (ii) strengthening of private-sector 
+integration and insertion into value chains by developing public goods for innovation 
+and cluster development.  
+
+https://publications.iadb.org/handle/11319/7807
+
+
+ - 10 - 
+ 
+ 
+
+ 
+B. Objectives, components, and cost 
+
+1.28 The objective of the CCLIP is to contribute to the competitiveness and development 
+of regional rural economies through the execution of individual programs consistent 
+with this purpose. Specifically, the third individual operation proposed herein seeks 
+improvements to productivity and an increase in sales and value-added for small 
+and medium-sized agricultural producers, with a focus on strengthening resilience 
+to climate change. The program is structured in two main components. 
+
+1.29 Component 1: Investment to support competitiveness (loan amount: 
+US$80.2 million). This component includes: (i) a subcomponent for strengthening 
+public infrastructure of major works aimed at increasing the coverage and quality of 
+rural infrastructure in the provinces by executing the public investment projects 
+prioritized in the PSAS. Investments include the rehabilitation of irrigation and 
+drainage systems, forest fire prevention, and tertiary roads in climactically vulnerable 
+areas with a focus on adaptation and resilience, and (ii) a subcomponent for minor 
+infrastructure works for building, overhauling, or expanding public works and 
+community improvements. All investments include financing for the technical 
+assistance and training necessary for execution, use, and maintenance of the works 
+and for strengthening local governance and the provincial and municipal agencies 
+that manage water resources for irrigation while managing the promotion of 
+participation by women. The objective of all the works and activities under this 
+component is to support adaptation of the agricultural productive activity to scenarios 
+and conditions of climactic vulnerability, with technical designs that take those 
+scenarios into account in the long-term.  
+
+1.30 The major infrastructure works to be financed whose final technical, economic, 
+social, climactic, and environmental designs are in place are the following:  
+
+ 
+
+Table 4. Major Works Projects 
+
+Project 
+
+Total 
+amount 
+
+(US$ 
+millions) 
+
+Lining of the of the upper section of the Cacique Guaymallén irrigation channel. 
+First section. Mendoza 
+
+21.5 
+
+Improvements to the Colorado River irrigation system. Second stage. Colonia 
+Santa Rosa. Salta 
+
+13.9 
+
+Improvements to the Benavidez Gral. 9 de Julio Canal system. Departments of 
+Rivadavia, Chimbas, Santa Lucía, and 9 de Julio. San Juan 
+
+17.7 
+
+Development of the Tala River system irrigation area. Department of Trancas. 
+Tucumán 
+
+19.4 
+
+Improvement of rural roads in productive areas of the province of Corrientes. 
+Provincial Route 13 
+
+10.4 
+
+Improvement of provincial fire management services for preventing and 
+controlling fires in the Northwest of Chubut 
+
+6.1 
+
+Total 89.1 
+
+ 
+
+1.31 For their part, the minor works being prioritized and whose technical, economic, and 
+environmental designs are in place are: (i) overhaul of systems for surface irrigation 
+and increasing production yields, located in Anjullon, La Rioja; (ii) irrigation 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677496
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677507
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677534
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677541
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677487
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677483
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677618
+
+
+ - 11 - 
+ 
+ 
+
+ 
+improvement project in Colalao del Valle, Tucumán; (iii) water system improvement 
+project in Angulos, La Rioja; (iv) improvements to the irrigation infrastructure of the 
+water system in Figueroa, Santiago del Estero; and (v) micro reservoirs in the Cano 
+River basin, Córdoba.  
+
+1.32 Component 2: Support services for competitiveness (loan amount: 
+US$14.4 million). This component finances technical assistance and business 
+plans aimed at strengthening the competitiveness and value-added of agricultural 
+products in regional economies, with a priority on complementing the major and 
+minor works projects of Component 1. The criteria for prioritizing and selecting 
+business plans and technical assistance activities is detailed in the program 
+Operating Regulations and the technical annexes for each of the three instruments, 
+with technical, economic, financial, institutional, social, and environmental feasibility 
+being a priority prerequisite: (i) Technology modernization fund, which uses NRCs 
+to cofinance in-field  and partnership-building projects that contribute to closing 
+technological gaps, bolstering value added at origin; and promoting environmentally 
+sustainable practices and climate smart agriculture (CSA) to address the challenges 
+of climate change. The focus of the fund is generating positive externalities and 
+seeking synergies with private initiatives that promote producer access to formal 
+banking and its financial product lines, including access to green financing;4 
+(ii) Territorial development initiatives for financing development projects and 
+consolidating agrifood clusters that are formulated and prioritized in the participatory 
+framework of the DCIPs, which bring together public/private actors with 
+scientific/technology actors and producers in the provinces. These projects finance 
+technical assistance activities, generating knowledge and cutting edge technology 
+that benefit the cluster and the regions where they are developed; (iii) Institutional 
+strengthening and preinvestment, providing underlying and crosscutting support for 
+technical assistance and training activities to improve management in provincial 
+institutions, including raising awareness on climate change and improving capacities 
+to identify, prepare, and monitor public investment projects. 
+
+1.33 The program’s beneficiary provinces are the non-Pampa provinces, which will be 
+prioritized based on the criteria set forth in the program’s Operating Regulations, 
+including: (i) relative degree to which they lag behind; (ii) vulnerability to climate 
+change; (iii) provincial sector strategies with a time horizon of at least 10 years; 
+(iv) provincial association in place with adequate human and technical resources; 
+and (v) due authorizations in place for the province to take on debt in order to accept 
+PROSAP resources. The projects are chosen through a planning process consistent 
+with the priorities of Argentina’s CDCs and the diagnostics performed. The program 
+Operating Regulations defines project eligibility criteria, considering the different 
+decision levels, type of project, criteria for analysis, and the project cycle from 
+identification and preparation through to approval and execution.  
+
+1.34 Program coordination, monitoring, and evaluation will also be financed. 
+Under this item, support will be provided for the strengthening, operation, and 
+maintenance of the project monitoring and evaluation system; the URC’s 
+incremental operating expenses; the preparation of studies, including impact 
+
+                                                
+4  MIF project AR-T1170 includes financing technology packages for small producers and their cooperatives 
+
+through a new line of credit between the Fund and Banco Credicoop. As part of the actions to integrate the 
+IDB Group, once the MIF operation is approved, the proposal is to offer PROSAP producers this line of credit.  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670869
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670869
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677606
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40677611
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679514
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679514
+
+
+ - 12 - 
+ 
+ 
+
+ 
+evaluations, progress reports, and audit reports; and environmental and social 
+monitoring. 
+
+C. Key results indicators  
+
+1.35 The program has a Results Matrix agreed upon with the executing agency 
+(Annex II). It includes indicators for impact, as well as outcomes and outputs, with 
+their corresponding baseline values, targets, and means of verification. The main 
+outputs include 31,638 hectares under irrigation, 71 km of main irrigation channels; 
+and 44 km of rural roads. The main outcomes expected from the sample projects 
+are described in Table 5. The program is expected to directly benefit 18,200 rural 
+producers in six provinces. Over the long term, the program’s impact will be reflected 
+in higher gross value of the production of rural producers and lower losses from 
+drought associated with climate change. 
+
+ 
+
+Table 5. Key Results Matrix Indicators 
+
+Outcomes 
+Time of 
+
+measurement 
+Proposed indicators 
+
+Improved productivity for producers 
+served by financed irrigation systems. 
+
+Year 4  Average increase in land productivity 
+(including both agriculture and livestock). 
+
+Greater irrigation water use efficiency by 
+rehabilitated systems. 
+
+Year 4  Volume of water delivered to the farms / 
+Volume of water that enters the system. 
+
+Improved rural accessibility on Route 13 in 
+the province of Corrientes. 
+
+Year 4  Lower number of impassable days. 
+
+Reduction of the average area affected 
+annually by fire. 
+
+Year 4  Average area affected by fire in the 
+province of Chubut. 
+
+Diversification of markets and/or products 
+in regions served by the program. 
+
+Annual  Number of business initiatives that 
+increase sales by at least 20%. 
+
+Users who adopt technologies for 
+adaptation to climate change. 
+
+Annual  Number of agricultural and livestock 
+producers adopting pressurized irrigation 
+technologies. 
+
+1.36 Economic viability of the program. Overall analysis of the program yields an 
+average weighted EIRR of 20.6% for a time horizon of 20 years. The benefits include 
+marginal changes to productivity and increases in the area under irrigation. The 
+costs include the total investment in the program, opportunity costs for training the 
+farmers; operation and maintenance; and additional investment on the plot (see 
+Annex). At a discount rate of 12%, overall net present value (NPV) is 
+US$77.7 million. The sensitivity analysis considered: (i) modification of investment 
+costs; (ii) changes in crop yields; (iii) changes in the costs of investment 
+sustainability; (iv) delays in benefit realization; and (v) technology adoption rates. 
+For a 30% increase in costs, the NPV is US$52.3 million, and the EIRR is 16.9%. 
+For a three-year delay in benefit realization, the NPV is US$77.7 million and EIRR 
+is 17.1%. For an adoption rate of 70%, the EIRR is 15.5%, with NPV of 
+US$28.3 million.  
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments and costs  
+
+2.1 The program’s cost is US$131,426,000, of which the Bank will finance 
+US$100 million, chargeable to the Ordinary Capital in United States dollars under 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40681141
+
+
+ - 13 - 
+ 
+ 
+
+ 
+CCLIP AR-X1006.5 The needed for the works and interventions analyzed accounts 
+for 100% of the available financing. It will be structured as an investment loan, with 
+an execution period of four years, taking into consideration that the major works to 
+be financed are all at the stage of executable projects ready for public tender, and 
+that the annual disbursements under PROSAP III over the last four years have 
+demonstrated execution levels in keeping with the proposed planning.  
+
+ 
+
+Table 6. Program cost and financing (in US$) 
+
+Investment categories* IDB 
+Local 
+
+contribution 
+Total % 
+
+1. Component 1: Support investments 80,200,000 26,476,000 106,676,000 81 
+
+1.1  Strengthening public infrastructure 73,000,000 26,476,000 99,476,000 76 
+
+1.2 Minor works 7,200,000 0 7,200,000 5 
+
+2. Component 2: Support Services  14,400,000 3,600,000 18,000,000 14 
+
+2.1  Technology modernization fund 5,600,000 1,400,000 7,000,000 5 
+
+2.2  Territorial development initiatives 6,400,000 1,600,000 8,000,000 6 
+
+2.3  Provincial institutional strengthening 2,400,000 600,000 3,000,000 2 
+
+3.  Management, monitoring, and evaluation 5,400,000 1,350,000 6,750,000 5 
+
+3.1  Management 5,013,900 1,253,475 6,267,375 5 
+
+3.1  Monitoring and evaluation (includes 
+environmental and social) 
+
+378,000 94,500 472,500 0 
+
+3.2  Audits 8,100 2,025 10,125 0 
+
+Total 100,000,000 31,426,000 131,426,000 100 
+
+Percentage 76 24 100   
+
+ 
+
+2.2 Bank financing will be disbursed according to the timetable provided in Table 7 and 
+detailed in the Multiyear Execution Plan. 
+
+ 
+
+Table 7. Estimated disbursement timetable (in thousands of US$) 
+
+Source Year 1 Year 2 Year 3 Year 4 Total % 
+
+IDB 23,626.00 33,530.00 34,194.00 8,650.00 100,000.00 76% 
+
+Local 7,513.00 10,631.60 10,797.60 2,483.80 31,426.00 24% 
+
+Total 31,139.00 44,161.60 44,991.60 11,133.80 131,426.00 100% 
+
+% 24% 34% 34% 8% 100%  
+
+ 
+
+B. Environmental and social risks 
+
+2.3 In accordance with the Environment and Safeguards Compliance Policy 
+(Operational Policy OP-703), and pursuant to the applied safeguards forms, this 
+program has been classified as a category “B” operation. This program is designed 
+to promote better management of natural resources related to agricultural production 
+and improve producers’ climate resilience and adaptation. Irrigation projects 
+
+                                                
+5  Total financing of the CCLIP (AR-X1006) was set at US$600 million, of which US$200 million were executed 
+
+under the first operation (1956/OC-AR) and US$230 million were allocated to the second operation 
+(2573/OC-AR), leaving US$170 million available. In the context of programming loans with the Bank for 2016, 
+the government has decided to allocate US$100 million to the financing of this third operation, leaving a 
+remainder of US$70 million. No additional operations are expected. 
+
+
+
+ - 14 - 
+ 
+ 
+
+ 
+internalize measures for adapting to hydrometeorological and climate change risks 
+(e.g., expanding drainage for rural roads, reviewing hydrological series for irrigation 
+works), as well as elements of sustainability and water use efficiency. Another 
+benefit is climate change mitigation through the project to improve rural roads in 
+Corrientes by reducing greenhouse gas emissions by 69.9 tons of CO2 equivalent 
+thanks to reductions in fuel consumption, or an emissions cut of 43.2% from the 
+scenario without the project. 
+
+2.4 The execution of the PROSAP program is governed by the program Operating 
+Regulations and the respective Environmental and Social Manual (ESM), with 
+updated guides for environmental and social evaluation, including involuntary 
+resettlement and mitigation and control procedures, as well as public consultation 
+and monitoring and evaluation. In line with directive B.14 of Operational Policy 
+OP-703, during preparation, an independent socioenvironmental review of the 
+execution of PROSAP III was conducted. It found that the executing agencies had 
+improved their socioenvironmental management capacity, and no 
+socioenvironmental liabilities were identified. 
+
+2.5 All of the infrastructure projects have socioenvironmental impact studies and 
+environmental and social management plans that comply with IDB policies. The 
+program Operating Regulations and ESM were reviewed mainly to incorporate 
+gender equality opportunities and actions to prevent and adapt to the risks from 
+disasters and climate change. Also, monitoring measures were strengthened by 
+defining evaluation and monitoring indicators. Where applicable, projects include 
+plans to ensure that indigenous peoples share in the projects’ benefits, in keeping 
+with Operational Policy OP-765. Plans are also in place to address effects on assets, 
+in keeping with Operational Policy OP-710. Likewise, all the projects include plans 
+for pest management in their training and assistance programs, as well as plans for 
+taking action on gender with a view toward increasing the participation of women in 
+training programs, technical assistance, and other services, consistent with 
+Operational Policy OP-761 of the Bank. 
+
+2.6 Participatory consultative meetings were held in the areas to benefit from the 
+projects as part of the design process. Prior to the Bank’s no objection for contracting 
+the works, where necessary, the provinces will submit the pertinent environmental 
+permits granted by the corresponding authorities. As established in the program 
+Operating Regulations, prior to issuing the public tender for the works, the URC will 
+present evidence to the Bank that it has obtained those permits. The environmental 
+and social studies are available for consultation at the URC/PROSAP and Bank 
+websites. The environmental and social management report (ESMR) summarizes 
+the outcomes of and recommendations for environmental and social management 
+to ensure the operation’s environmental and social sustainability. The borrower 
+agrees to carry out—through the executing agency—the program activities in 
+accordance with the environmental and social standards and recommendations 
+included in the program Operating Regulations, including its ESM and the program’s 
+environmental and social management plan (ESMP). The special contractual 
+conditions on environmental and social management are detailed in paragraph 6.4 
+of the ESMR. 
+
+http://www.prosap.gob.ar/uas_evaluaciones.aspx
+http://www.prosap.gob.ar/uas_evaluaciones.aspx
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40664746
+
+
+ - 15 - 
+ 
+ 
+
+ 
+C. Fiduciary risks  
+
+2.7 The main fiduciary risks identified are associated with processes of interaction 
+between the national and provincial levels, which are often complex. These risks 
+include: (i) delays in procurement processes; (ii) delays in the submission of 
+AWPs/procurement plans by the provinces and deficient quality thereof; and 
+(iii) delays in providing accounting information to the Bank. Experience with 
+execution has demonstrated that these risks are medium, that the executing agency 
+has adequate execution capacity, and that the executing agency has been able to 
+manage the aforementioned risks effectively in previous operations. The following 
+were agreed upon as the main mitigation measures: (i) quarterly update and 
+management of the procurement plan; (ii) implementation of Subcomponent 2.3: 
+Provincial Institution Strengthening; and (iii) permanent 65% flexibility for justification 
+of expenses for disbursement of advances of funds (see Annex III). 
+
+D. Other project risks and special issues  
+
+2.8 An inherent risk involved in rural infrastructure works is weak commitment by 
+beneficiaries to operating and maintaining the infrastructure works. The main 
+mitigation measure for this comes in the framework of participatory processes for 
+local empowerment, as well as the implementation of training and technical 
+assistance programs. Also, the risks associated with changes to the national and 
+provincial government are: weak interagency coordination between the program’s 
+executing agencies, as well as scattered and uncoordinated implementation of 
+external financing for agricultural projects The main mitigation measure is thus the 
+implementation of targeted training plans for the provincial execution units. 
+
+2.9 Regarding the program’s overall sustainability, at the level of the provincial 
+governments and producer organizations, PROSAP has been able to build 
+management mechanisms and secure commitments to ensure the operation and 
+maintenance of the works. It has also been able to consolidate the capacities and 
+processes developed in Component 2 (See program Operating Regulations).  
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements 
+
+3.1 The borrower is the Argentine Republic, and the Ministry of Agroindustry will be the 
+executing agency, through the Unit for Rural Change (URC). The URC will be 
+responsible for the execution, administration, and supervision of the program. Within 
+it, the Program and Project Management Area will be in charge of executing the 
+activities of the projects financed under the program. It will also have support from 
+the crosscutting support areas and units that are part of the URC. 
+
+3.2 The Ministry of Agroindustry is responsible for the local counterpart of the national 
+projects. The URC’s main responsibilities include: preparing the budget and 
+controlling and supervising fulfillment of the local contribution by the provinces and 
+other participating agencies; supervising and coordinating the preparation of the 
+AWPs, procurement plans, and financial plans; preparing and verifying 
+disbursement requests; supervising work and providing legal and administrative 
+support to the subexecuting agencies in procurement processes; paying contractors 
+and suppliers; coordinating all program activities with the provinces and other 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670869
+
+
+ - 16 - 
+ 
+ 
+
+ 
+beneficiaries; monitoring and evaluating project and program activities; and 
+commissioning and serving as counterpart for the external audit. 
+
+3.3 The program’s execution is governed by the program Operating Regulations, which 
+contain the details required to guide and regulate program operations, including the 
+requirements for transferring resources to the provincial projects. The program 
+Operating Regulations and their annexes also describe the specific execution 
+mechanism for each component. As a special condition precedent to the first 
+disbursement of loan proceeds, the executing agency, through the URC, will 
+provide evidence that the updated program Operating Regulations have been 
+approved and entered into effect, and have been reviewed in accordance with 
+the terms previously agreed upon with the Bank, including the ESM. The review 
+will include updating the description of the program’s components and excluding 
+investment projects with Category “A” socioenvironmental impacts under the 
+environmental and social safeguard policies from eligibility. 
+
+3.4 Component 1 of the program is executed through the URC’s Program and Project 
+Management area and its Infrastructure and Services unit, which coordinates the 
+relationships with the liaison entities and the units executing the projects at the 
+provincial level, as established in the program Operating Regulations. For each 
+case, specific planning, execution, monitoring, and evaluation functions are 
+established for the projects. Component 2 of the program is executed by the 
+Program and Project Management area through its Competitiveness unit and 
+through NRC. The process for executing this component includes the following 
+phases: identification and eligibility of clusters and territorial initiatives based on 
+prioritization criteria; preparation and evaluation of specific plans for improving 
+competitiveness; and implementation, monitoring, and technical evaluation of the 
+projects. The execution of both components is supported by the following 
+crosscutting areas of the URC: institutional development, environmental 
+management, legal issues, internal control, finance and accounting, procurement, 
+and management oversight and outcomes. 
+
+3.5 Furthermore, the main fiduciary measures to be applied to the proposed operation 
+were agreed upon during preparation. These measures are described in Annex III 
+and include aspects of disbursements and audits, as well as thresholds for 
+procurement processes, in accordance with the Bank’s policies and procedures as 
+set forth in documents GN-2349-9 and GN-2350-9. 
+
+B. Summary of arrangements for monitoring results 
+
+3.6 Monitoring. The program has a Monitoring and Evaluation Plan. During project 
+execution, the executing agency will prepare and send the Bank a monitoring report 
+no later than 60 days from the end of each six-month period. These reports will focus 
+on fulfillment of the output indicators and progress on outcomes, identifying 
+problems encountered, and corrective measures taken. No later than during the last 
+quarter of each year during project execution, the executing agency will submit the 
+AWP for the following year, to the Bank’s satisfaction. 
+
+3.7 Evaluation. The executing agency will conduct two independent evaluations funded 
+by the loan proceeds: (i) the midterm evaluation will be submitted to the Bank no 
+later than 90 days after 50% of the loan proceeds have been disbursed or two years 
+have passed from the date of the Bank’s first disbursement of the loan proceeds, 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670869
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40679756
+
+
+ - 17 - 
+ 
+ 
+
+ 
+whichever occurs first; and (ii) the final evaluation, no later than 90 days after 90% 
+of the loan proceeds have been disbursed by the Bank. These reports will include: 
+(i) an evaluation of the quality of the data provided by the monitoring system; (ii) the 
+level of fulfillment of the expected outputs, outcomes, and progress on the expected 
+impacts as established in the Results Matrix; and (iii) the level of compliance with 
+the ESMPs for the program and the investment projects, including a summary of the 
+socioenvironmental audits and the progress in the social and environmental 
+indicators. 
+
+3.8 Impact evaluation. Evaluation of the program’s impact will have two parts. The 
+proposed impact evaluation for public infrastructure will be conducted for two 
+irrigation systems and a rural road. Impact estimates will be based on the difference 
+in differences method applied to a panel of homes divided into a treatment group 
+and a control group. For this, two surveys—a baseline and a final evaluation—are 
+planned. The sample size for the treatment group will be 465, as well as 465 for the 
+control group (total for the three projects). For the beneficiaries of the public 
+investment projects, the control group will be comprised of farmers with no access 
+to irrigation systems and/or improved roads. Farmers will be selected at random 
+from the lists available in the executing agency’s archives.  
+
+3.9 To evaluate the impact of the NRCs and clusters, the phase-in and difference in 
+differences methods will be used. The implementation strategy will identify a 
+treatment/control group based on the year in which producers enter the program. 
+NRC not involving pressurized irrigation will be included in the evaluation (as they 
+are included in the evaluation of public works investment). Thus, 220 NRCs will be 
+evaluated. The sample will be 155 producers, selected at random from among the 
+NRC. The control group will be defined based on farms that requested NRC but did 
+not receive funding. 
+
+
+
+Annex I - AR-L1198
+
+Page 1 of 1
+
+1. IDB Strategic Development Objectives
+
+     Development Challenges & Cross-cutting Themes
+
+     Regional Context Indicators
+
+     Country Development Results Indicators
+
+2. Country Strategy Development Objectives
+
+     Country Strategy Results Matrix GN-2687
+
+     Country Program Results Matrix GN-2849
+
+Relevance of this project to country development challenges (If not aligned to country strategy or country program)
+
+II. Development Outcomes - Evaluability Highly Evaluable Weight Maximum Score
+
+9.9 10
+
+3. Evidence-based Assessment & Solution 9.6 33.33% 10
+
+     3.1 Program Diagnosis 3.0
+
+     3.2 Proposed Interventions or Solutions 3.6
+
+     3.3 Results Matrix Quality 3.0
+
+4. Ex ante Economic Analysis 10.0 33.33% 10
+
+     4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a General Economic Analysis 4.0
+
+     4.2 Identified and Quantified Benefits 1.5
+
+     4.3 Identified and Quantified Costs 1.5
+
+     4.4 Reasonable Assumptions 1.5
+
+     4.5 Sensitivity Analysis 1.5
+
+5. Monitoring and Evaluation 10.0 33.33% 10
+
+     5.1 Monitoring Mechanisms 2.5
+
+     5.2 Evaluation Plan 7.5
+
+Overall risks rate = magnitude of risks*likelihood
+
+Identified risks have been rated for magnitude and likelihood
+
+Mitigation measures have been identified for major risks
+
+Mitigation measures have indicators for tracking their implementation
+
+Environmental & social risk classification
+
+The project relies on the use of country systems
+
+Fiduciary (VPC/FMP Criteria) Yes
+
+Non-Fiduciary Yes
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries and/or public sector entity in the following 
+
+dimensions:
+
+Gender Equality Yes
+
+Labor
+
+Environment
+
+Additional (to project preparation) technical assistance was provided to the public sector entity prior to approval to increase the 
+
+likelihood of success of the project
+
+The ex-post impact evaluation of the project will produce evidence to close knowledge gaps in the sector that were identified in the 
+
+project document and/or in the evaluation plan
+Yes
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+Financial Management: Budget, Accounting and Reporting, External control.
+
+Procurement: Information System.
+
+The objective of the CCLIP is to contribute to the competitiveness and development of the rural economies through the implementation of individual programs. This third individual operation seeks to improve productivity levels, increase sales and value added of small and medium-scale 
+
+farmers, with a focus on building resilience to climate change. The program will implement two components: (i) competitiveness support, which includes the strengthening of public infrastructure via major works (rehabilitation of irrigation and drainage, fire prevention in forests, and tertiary rural 
+
+roads), and a sub-component for minor works (public works and community improvement); and (ii) support services for competitiveness comprising: a technological modernization fund, territorial development initiatives and institutional strengthening and pre-investment.
+
+The documentation is well structured, with a solid diagnosis of the problems faced by the prioritized areas and small- and medium-scale producers.
+
+The proposed solution is related to the magnitude of the problems identified. The results matrix (RM) reflects the program objectives and shows a clear vertical logic for each component. The key top-level indicators have values that are the result of the ex-ante economic analysis. The lower-
+
+level indicators reflect the design of the two components. The RM includes SMART indicators at the impact, outcome and output levels with their respective reference values, targets and means for collecting the information. The documentation alludes to rigorous empirical evidence on the 
+
+effectiveness of similar interventions in other countries and Argentina, specifically on the PROSAP.
+
+The economic analysis is based on a cost-benefit analysis for the major works for irrigation and rural roads and for the small works for fire control, and support to the private sector. The study provides results for each intervention, as well as a weighted average which yields a 20.6% IRR, and a 
+
+NPV of US$77.7 million. A sensitivity analysis is performed based on key variables that can affect the benefits and major cost. The conservative scenario finds an IRR of 15.5% with an NPV of US$28.3 million.
+
+The monitoring and evaluation plan proposes quasi-experimental evaluations to measure the impact of the irrigation systems, rural roads, and the non-reimbursable funds. The strategy is to measure the impact of these interventions, also the incremental impact of receiving two types of 
+
+treatment (irrigation + non-reimbursable funds). Importantly, no rigorous impact evaluations in Argentina have been done for interventions on rural roads or for multiple treatments.  The impact evaluations will make an important contribution to the knowledge base of the sector, country and 
+
+Bank.
+
+The risks identified in the risk matrix seem reasonable and are classified as medium risks.  All of them include mitigation actions and performance indicators.
+
+Gender action plans will be prepared for each major public work in order to facilitate the 
+
+participation of women in training and technical assistance.
+
+No rigorous impact evaluations in Argentina have been done for interventions on rural roads or for 
+
+multiple treatments.  The impact evaluations will make an important contribution to the knowledge 
+
+base of the sector, country and Bank.
+
+Strategic Planning National System, Monitoring and Evaluation National System.
+
+Medium
+
+Yes
+
+III. Risks & Mitigation Monitoring Matrix
+
+IV. IDB´s Role - Additionality
+
+Yes
+
+Yes
+
+B
+
+-Beneficiaries of improved management and sustainable use of natural capital (#)
+
+-Micro / small / medium enterprises financed (#)
+
+-Micro / small / medium enterprises provided with non-financial support (#)
+
+-Roads built or upgraded  (km)*
+
+-Government agencies benefited by projects that strengthen technological and managerial tools to improve public service 
+
+delivery (#)
+
+Aligned
+
+Improvement of rural infrastructure in regional economies, principally irrigation and drainage, that 
+
+contribute to improving productivity and access to markets
+
+The intervention is included in the 2015 Operational Program.
+
+Development Effectiveness Matrix
+
+Summary
+
+Aligned
+
+-Productivity and Innovation
+
+-Climate Change and Environmental Sustainability
+
+I. Strategic Alignment
+
+
+
+Annex II 
+Page 1 of 3 
+
+ 
+ 
+
+SUMMARY RESULTS MATRIX 
+
+(SEE COMPLETE RESULTS MATRIX) 
+
+ 
+
+General objective: To contribute to the competitiveness and development of regional rural economies. 
+
+ 
+
+Specific objective: To improve productivity and increase sales and value-added for small and medium-sized producers, with a focus on 
+strengthening resilience to climate change. 
+
+ 
+
+Impact Units 
+Baseline Target* Means of 
+
+verification 
+Observations 
+
+Value Year Value Year 
+
+Impact 1: Higher per-farmer annual 
+gross production value in the area 
+of influence of the selected projects 
+
+US$/farm 50,032 2016 75,561 2020 
+
+Infrastructure design 
+documents; baseline 
+and final program 
+surveys 
+
+Reports on major and 
+minor works design; NRC; 
+target reflects the target 
+group 
+
+Impact 2: Decreased production 
+losses associated with drought  
+
+% of total 
+production/ 
+farm/year 
+
+20.5% 2016 15% 2020 
+
+Infrastructure design 
+documents; baseline 
+and final program 
+surveys 
+
+Irrigation systems selected 
+for impact evaluation (San 
+Juan and Salta). Climate 
+change is the main cause 
+of increased drought in the 
+program’s intervention 
+area 
+
+*  Target by program end. 
+
+ 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40673929
+
+
+Annex II 
+Page 2 of 3 
+ 
+ 
+
+EXPECTED OUTCOMES 
+
+Outcomes Units 
+Baseline Target 
+
+Means of verification Observations 
+Value Year Value Year 
+
+1. Improved productivity for 
+producers served by financed 
+irrigation systems  
+
+       
+
+Indicator: 
+
+Average increase in land 
+productivity (including both 
+agriculture and livestock 
+producers) 
+
+US$/Ha 5,408 2016 6,866 2020 
+
+Program monitoring and 
+evaluation reports; 
+baseline survey and 
+ex post evaluations 
+
+The assessment of 
+physical productivity per 
+hectare using the baseline 
+product price for each 
+project 
+
+2. Greater irrigation water use 
+efficiency by rehabilitated 
+systems 
+
+      
+ 
+
+Indicator: 
+
+Volume of water delivered to the 
+farms / Volume of water that 
+enters the system. 
+
+% 66 2016 90 2020 
+
+Individual project 
+completion reports; final 
+evaluation; impact 
+assessment 
+
+Includes all four irrigation 
+systems 
+
+3. Improved rural accessibility on 
+Route 13 in the province of 
+Corrientes 
+
+       
+
+Indicator: 
+
+Lower number of impassable 
+days 
+
+Days 80 2016 30 2020 
+Infrastructure design 
+documents; baseline and 
+final program surveys 
+
+ 
+
+4. Reduction of the average area 
+affected annually by fire 
+
+      
+ 
+
+Indicator:  
+
+Average area affected by fire in 
+the province of Chubut 
+
+Ha 1,439.03 2016 719.5 2020 
+Provincial firefighting 
+service 
+
+ 
+
+
+
+Annex II 
+Page 3 of 3 
+
+ 
+ 
+
+Outcomes Units 
+Baseline Target 
+
+Means of verification Observations 
+Value Year Value Year 
+
+5. Diversification of markets 
+and/or products in regions 
+served by the program. 
+
+       
+
+Indicator: 
+
+Number of business initiatives 
+that increase sales by at least 
+20%. 
+
+Initiatives 0 2016 22 2020 
+
+Cluster diagnostic 
+reports; design of 
+productive initiatives; 
+baseline and end-of-
+program surveys 
+
+Includes initiatives 
+financed by: (i) the 
+technology modernization 
+fund; and (ii) territorial 
+development initiatives 
+
+6. Users who adopt technologies 
+for adapting to climate change. 
+
+      
+Beneficiaries of major 
+irrigation projects with 
+support from Component 2 
+or another source of 
+financing for in-field 
+investments. Pressurized 
+irrigation includes drip 
+irrigation, micro spray, 
+spray, and hose 
+
+Indicator: 
+
+Number of agricultural and 
+livestock producers adopting 
+pressurized irrigation 
+technologies 
+
+People 0 2016 1,600 2020 
+Project design reports; 
+final evaluation report; 
+URC reports 
+
+ 
+ 
+ 
+ 
+
+
+
+Annex III 
+Page 1 of 8 
+
+ 
+ 
+
+FIDUCIARY AGREEMENTS AND REQUIREMENTS 
+ 
+
+Country: Argentina 
+
+Project number: AR-1198 
+
+Name: Provincial Agricultural Services Program – PROSAP IV 
+
+Executing agency: Ministry of Agroindustry 
+
+Prepared by: Marisol Pinto Bernal (FMP/CAR), Teodoro Noel (FMP/CAR), 
+and Carlos Carpizo (FMP/CAR) 
+
+ 
+
+I. EXECUTIVE SUMMARY 
+
+1.1 The Provincial Agricultural Services Program (PROSAP IV) will be executed by the 
+Ministry of Agroindustry through the PROSAP Execution Unit, supervised by the Unit 
+for Rural Change (URC) created by MAGyP Resolution 45 of 9 December 2009, 
+which have the experience and installed capacity to execute projects partially 
+financed with Bank resources. 
+
+1.2 PROSAP IV is the third PROSAP operation to be executed by the URC under CLIPP 
+AR-X1006. The plan is to simultaneously execute two programs—PROSAP III 
+(2573/OC-AR) and PROSAP IV—for several months until the first operation 
+concludes in mid-2017.  
+
+1.3 The risk assessment for this operation was performed in the framework of a Project 
+Risk Management (PRM) workshop with the executing agency. The results of the 
+methodology returned a medium level of financial management risk and a medium 
+level of procurement risk. 
+
+1.4 There were no plans to conduct a new institutional capacity assessment because 
+the URC maintains the same internal structure and technical and management 
+team, ensuring the adequate capacity it has demonstrated during execution of 
+PROSAP III (2573/OC-AR) and three other IDB operations currently being executed 
+(2853/OC-AR, 2740/OC-AR, and 3255/OC-AR). The URC’s adequate institutional 
+capacity has also been verified continually through oversight visits by the Bank’s 
+fiduciary team.  
+
+1.5 The program does not include financing from the International Bank for 
+Reconstruction and Development. A number of different actors are involved in 
+execution and are coordinated by the URC/PROSAP.  
+
+II. THE EXECUTING AGENCY’S FIDUCIARY CONTEXT  
+
+2.1 As noted, the URC has a long track record of executing IDB-financed programs. 
+Starting in 2009, the URC satisfactorily completed execution of two IDB operations 
+(1956/OC-AR PROSAP II and 2086/OC-AR PROVIAR). Counting completed 
+programs and programs currently being executed, the URC has managed a total of 
+six Bank-financed projects.  
+
+
+
+Annex III 
+Page 2 of 8 
+ 
+ 
+
+2.2 The fiduciary systems used for program execution are the budgetary system via the 
+Integrated Financial Information System (IFIS) and the Information and Accounting 
+System (UEPEX). 
+
+2.3 As far as procurement of goods and services, the URC/PROSAP uses Bank policies 
+for centralized purchases and verifies the application of those policies for the 
+purchasing conducted at the provincial level. 
+
+III. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS 
+
+3.1 For analysis of the project’s fiduciary risks, the Bank’s PRM methodology was used 
+to identify and rate fiduciary risks, and the project RMM was developed. The project’s 
+fiduciary risk (financial and procurement) was determined to be medium and is 
+related to the processes of interaction between the national and provincial levels, 
+which are often complex. Nevertheless, experience has demonstrated that the 
+executing agency has adequate execution capacity and has been able to manage 
+the risks effectively.  
+
+3.2 The supervision modality applicable to financial management and procurement has 
+been determined based on the risks identified, although it could change during 
+project execution pursuant to the evaluations conducted.  
+
+ 
+
+Institutional Capacity and Fiduciary Risk 
+
+Institutional Capacity N/A Tool: N/A 
+
+Fiduciary risks Medium Tool: PRM 
+
+Type 
+of risk1 
+
+Risk Rating Mitigation Actions 
+
+FM 
+Delays in submitting 
+accounting information 
+
+Medium 
+
+Prepare and execute a plan for financial 
+management staff to conduct annual visits 
+to the execution unit to proactively identify 
+delays in execution by coexecuting 
+agencies. 
+
+Apply the permanent 65% flexibility for 
+justification of expenses for disbursement 
+of advances of funds. 
+
+P 
+
+Delays in procurement 
+processes due to weak 
+planning that prevents early 
+identification of appropriate 
+procurement strategy 
+
+Medium 
+
+Comprehensive planning of the operation 
+to coordinate the AWP with the 
+procurement plan. 
+
+Updating and management of the 
+procurement plan as set forth in Article 
+6.01(c) of the General Conditions. 
+
+ 
+
+Delays in the submission of 
+AWPs/procurement plans by 
+the provinces and deficient 
+quality thereof 
+
+Medium 
+Implementation of the Provincial 
+Institutional Strengthening subcomponent. 
+
+ 
+
+                                                
+1  Financial Management (FM); Procurement (P). 
+
+
+
+Annex III 
+Page 3 of 8 
+
+ 
+ 
+
+IV. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE CONTRACT 
+
+4.1 To expedite negotiation of the contract by the project team, and the Legal 
+Department in particular, the following is a list of agreements and requirements that, 
+where applicable, will be taken into consideration in the Special Provisions or the 
+Annex. They may be updated or changed during program execution, if necessary, 
+with the corresponding documentation and authorization from the Bank. 
+
+a. Conditions precedent to the first disbursement: The executing agency will 
+provide evidence that the updated program Operating Regulations have been 
+approved and entered into effect, and have been reviewed in accordance with 
+the terms previously agreed upon with the Bank, including the Environmental 
+and Social Manual (ESM).  
+
+b. Disbursement management: The executing agency will submit the program’s 
+financial planning in keeping with the guidelines agreed upon by the Bank and 
+the country. The minimum percentage required for replenishment of an 
+advance of funds will be 65%, as this is a decentralized program with complex 
+execution (permanent flexibility). 
+
+c. Exchange rate: For the purposes of Article 4.10 of the General Conditions, 
+the parties agree that the applicable exchange rate will be the one indicated in 
+paragraph (b)(i) of that Article. For the purposes of determining the equivalent 
+of expenses incurred in local currency and charged to the local contribution or 
+reimbursement of expenses charged to the loan, the agreed-upon exchange 
+rate will be the rate established by the Central Bank of the Argentine Republic 
+on the first working day of the month in which the borrower, the executing 
+agency, or any other individual or legal entity delegated the authority to incur 
+expenditures makes the corresponding payment to the contractor, supplier, or 
+beneficiary. In addition, the exchange rate indicated in paragraph (b)(i) of 
+Article 4.10 of the General Conditions will be used to determine the 
+equivalence of expenses incurred in local currency and charged to the 
+proceeds of the loan and the local contribution.  
+
+d. Financial oversight: For the purposes of flexibility and to be able to adjust the 
+loan portfolio to the capacity of the Office of the National Auditor General (AGN) 
+to conduct audits in a timely manner, it is recommended that both the AGN and 
+independent firms be contractually eligible to conduct audits of the program. 
+
+e. Other specific requirements for the financial management of projects that 
+will be established in the contract or agreement to be signed with the Bank: 
+Disbursements will be made in accordance with the provisions of Articles 4.03, 
+4.04, 4.05, 4.06, and 4.07 of the General Conditions of the loan contract. 
+
+V. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION 
+
+ Procurement execution 
+
+5.1 The March 2011 Policy for the procurement of works and goods financed by the 
+Inter-American Development Bank (document GN-2349-9) and the March 2011 
+Policy for selection and contracting of consultants financed by the Inter-American 
+Development Bank (document GN-2350-9) will be applied. It has also been agreed 
+
+
+
+Annex III 
+Page 4 of 8 
+ 
+ 
+
+with the executing agency that the Procurement Plan Execution System (SEPA) will 
+be used for the program’s procurement planning administration and management. 
+
+5.2 Management of the proceeds from the transfers to be made under the program2 will 
+be decentralized and under the supervision of the URC/PROSEP, in accordance 
+with the program Operating Regulations. The URC/PROSAP will be responsible for 
+following the guidelines established in the loan contract for all procurement under 
+the program, both centralized and decentralized. 
+
+a. Procurement of works, goods, and nonconsulting services: Works, goods, 
+and nonconsulting services contracts3 arising under the project and subject to 
+international competitive bidding (ICB) will be executed using the Bank’s 
+standard bidding documents (SBDs). Bidding processes subject to national 
+competitive bidding (NCB) will be executed using national bidding documents 
+acceptable to the Bank. The program’s sector specialist is responsible for 
+reviewing the technical specifications for procurement when selection 
+processes are being prepared. No direct contracting is provided for in these 
+categories, but any direct contracting provided for during the course of the 
+program will be identified in the procurement plans along with the 
+corresponding justification. Selection processes requiring prequalification of 
+bidders will also be identified.  
+
+b. Selection and contracting of consultants: Consulting services contracted 
+under the project will be included in the procurement plan and executed using 
+the standard request for proposals (SRP) issued by the Bank. 
+
+ Selection of individual consultants: In cases identified in the procurement 
+plans, individual consultants will be contracted pursuant to the provisions of 
+document GN-2350-9, Section V, paragraphs 5.1 to 5.4. For URC/PROSAP 
+operations, consultants may be hired by direct selection if, at that time, they 
+are performing work under contracts financed by other programs being 
+executed by the unit.  
+
+ Training: The procurement plan details the processes that are applied and 
+contracted as consulting or nonconsulting services on a case-by-case basis. 
+
+c. Incremental URC expenses: Incremental expenses required during the 
+program will include: leasing and services; maintenance; common expenses; 
+office supplies, courier and postage, cleaning services, computer supplies, 
+insurance, telephone, and minor expenses required for operation of the 
+URC/PROSAP that will be financed by the program counterpart and incurred 
+in compliance with the administrative procedures of the executing agency. 
+These operating expenses do not include salaries for civil servants. Fees, 
+travel expenses, per diem, and health insurance expenses required for the 
+regular performance of activities and consulting assignments contracted by the 
+program will be charged to the loan proceeds under the corresponding 
+component.  
+
+                                                
+2  Transfers refer to nonreimbursable contributions (NRCs) that are granted to different types of beneficiaries 
+
+selected via the mechanisms described in the program Operating Regulations. 
+3  Policies for the procurement of works and goods financed by the Inter-American Development Bank 
+
+(document GN-2349-9), paragraph 1.1: Nonconsulting services are treated as goods. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=774396
+
+
+Annex III 
+Page 5 of 8 
+
+ 
+ 
+
+d. Advance procurement/Retroactive financing: No advance procurement or 
+retroactive financing are anticipated. 
+
+e. National preference: For contracts subject to international competitive 
+bidding, bids offering goods originating in Argentina will be subject to a price 
+preference—pending Bank approval—equivalent to 15%. 
+
+f. Appropriateness of expenditures: The appropriateness of an expenditure—
+that is, its terms of reference, technical specifications, and the program 
+procurement budget—will be the responsibility of the Project Team Leader and 
+will always require no objection prior to the start of the procurement and 
+pursuant to the Project Team Leader’s operational discretion. 
+
+g. Other: There are no special provisions regarding grants, land acquisitions, 
+rights, or rights-of-way needed for project execution. 
+
+ 
+
+Thresholds for International Competitive Bidding and International Shortlists (US$) 
+
+Method ICB works 
+ICB goods and 
+
+nonconsulting services 
+International shortlist for 
+
+consulting services 
+
+Threshold ≥5,000,000 ≥500,000 ≥500,000 
+
+Note: (1) In addition, contracts worth more than US$200,000 will be listed on the UNDB and Bank websites. 
+(2) Goods worth less than US$100,000 can be procured through shopping, as can works for less than 
+US$350,000. 
+
+ 
+
+ Main procurement items: 
+
+5.3 The following table provides a list of the main procurement items identified for the 
+program thus far. 
+
+ 
+
+Main Procurement Items 
+
+Activity 
+Selection 
+method 
+
+Estimated 
+tender/announcement 
+
+date 
+
+Estimated 
+amount 
+
+Works       
+
+Irrigation works – Tala River, Tucumán 
+province. 
+
+ICB 1 May 2017 16,242,821.00 
+
+Irrigation works – Cacique Guaymallen – 
+Jocoli system – Mendoza Province. 
+
+ICB 1 February 2017 19,691,407.00 
+
+Road work RP 13 – Corrientes Province ICB 30 October 2016 9,436,386.00 
+
+* To view the 18-month procurement plan, click here. 
+
+ 
+
+ Procurement supervision 
+
+5.4 Procurement will be subject to ex post supervision for processes below the NCB 
+thresholds for works, goods, and non-consulting services, as well as for consulting 
+services of less than US$200,000 All ICB processes, direct contracting, and 
+
+file:///D:/DATA.IDB/Documents/Argentina/Adquisiciones/2016/Anexo%20III/PROSAP%20IV%20AR-L1198/Copy%20of%20PROSAP%20IV%20Plan%20de%20Adquisiciones%20-%2012.09.16.xlsx%23RANGE!A11
+file:///D:/DATA.IDB/Documents/Argentina/Adquisiciones/2016/Anexo%20III/PROSAP%20IV%20AR-L1198/Copy%20of%20PROSAP%20IV%20Plan%20de%20Adquisiciones%20-%2012.09.16.xlsx%23RANGE!A11
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40676313
+
+
+Annex III 
+Page 6 of 8 
+ 
+ 
+
+consulting services of greater than or equal to US$200,000 will be subject to ex ante 
+review, as will processes whose complexity or risk justify ex ante supervision. 
+
+5.5 For individual consultants, all contracting for amounts over US$50,000 will be 
+subject to ex ante review. Contracting for less than that amount will be subject to 
+ex post review. 
+
+5.6 For contracting in the framework of the transfers, the URC/PROSAP will supervise 
+to ensure they meet the provisions of the loan contract and the program Operating 
+Regulations.  
+
+5.7 Ex post reviews will be conducted every 12 months in accordance with the project 
+supervision plan by reviewing a sample extracted from all the processes carried out 
+during the review period. The ex post review reports will include at least one physical 
+inspection visit,4 selected from the procurement processes subject to ex post review.  
+
+ 
+
+Ex Post Review Threshold 
+
+Works 
+Goods and nonconsulting 
+
+services 
+Consulting services 
+
+<5,000,000 <500,000 <200,000 
+
+Note: (1) The thresholds established for ex post review are applied on the basis of the executing agency’s fiduciary 
+execution capacity and may be modified by the Bank to the extent that this capacity changes. (2) Goods of less 
+than US$100,000 may be procured through shopping, as can works for less than US$350,000. In both cases, 
+review will be conducted on an ex post basis. 
+
+ 
+
+ Special provisions 
+
+a. Measures to reduce the likelihood of corruption: The provisions set forth in 
+documents GN-2349-9 and GN-2350-9 on prohibited practices will be followed. 
+The executing agency is also responsible for checking the list of firms and 
+individuals prohibited from participating in processes financed by multilateral 
+development banks. 
+
+b. Other special procedures: Keep the procurement plan updated in 
+accordance with project needs and coordinated with project planning. The 
+processes carried out under the program will be included in the procurement 
+plan approved by the Bank before the public tender is announced. 
+
+ Records and files 
+
+5.8 The contracting area will be in charge of maintaining files on the project procurement 
+conducted in the URC/PROSAP, while for procurement in the provinces, the original 
+files will be maintained. 
+
+                                                
+4  The inspection verifies the existence of the acquisitions, leaving verification of quality and compliance with 
+
+specifications to the sector specialist. 
+
+
+
+Annex III 
+Page 7 of 8 
+
+ 
+ 
+
+VI. FINANCIAL MANAGEMENT AGREEMENTS AND REQUIREMENTS  
+
+ Programming and budget  
+
+6.1 The budget of the executing agency includes programmatic categories and other 
+classifications by expenditure purpose (line items), including: personnel expenses; 
+consumer goods; nonpersonnel services; fixed assets; transfers; financial assets; 
+debt service and reduction in other liabilities; and other expenses.  
+
+6.2 The URC is responsible for annual budget preparation and programming. It is in 
+charge of carrying out all the procedures involved in preparing the annual budget for 
+approval. As the need arises for expanding or reallocated budget items, the URC 
+requests the changes and is in charge of securing their approval. The budgeted 
+funds are executed via quarterly and monthly accrual quotas assigned by the 
+National Budget Office (Ministry of the Treasury and Public Finance). 
+
+6.3 No problems are expected in terms of budget management, timeliness of local 
+counterpart contributions, or system delays affecting execution.  
+
+ Treasury and disbursement management 
+
+6.4 The National Treasury transfers the local counterpart funds to the URC, into an 
+account opened for the program for the exclusive use of this loan, as it is a program 
+cofinanced with Bank resources. 
+
+6.5 Disbursements will be made based on a detailed financial plan. Its model has been 
+agreed upon with officials from the Ministry of the Treasury and Public Finance and 
+the Cabinet Leadership. 
+
+ Accounting, information systems, and reporting 
+
+6.6 The URC will use UEPEX as its financial management system. Cash-basis 
+accounting will be used and International Financial Reporting Standards (IFRS) will 
+be followed when applicable in accordance with established national criteria. The 
+following financial reports will be required: (i) financial execution plan for up to 
+180 days following a request for an advance of funds; (ii) audited annual financial 
+statements as stipulated in Article 7.03 paragraph (a) of the General Conditions of 
+the loan contract; and (iii) other reports required by the fiduciary specialists.  
+
+ Internal control and internal audit 
+
+6.7 The national internal control body is the Sindicatura General de la Nación [Office of 
+the Comptroller General] (SIGEN). The internal audit of each executing agency is 
+performed through the Internal Audit Unit. The unit, which reports directly to the 
+minister, is in charge of conducting audits and making recommendations pursuant 
+to the powers granted under Law 24,156 (Financial Administration Act).  
+
+ External control: External financial audit and project reports 
+
+6.8 In 2011, the Bank concluded a diagnostic on the government auditing practices of 
+the AGN, the result of which was to validate the AGN as auditor of Bank projects. 
+
+6.9 However, based on the track record of the promptness of audit submissions, in 
+October 2014, it was agreed with Argentina to reduce the AGN’s portfolio to match 
+its real compliance capacity. Programs 2853/OC-AR, 2740/OC-AR, 3255/OC-AR, 
+and 2573/OC-AR are being audited by the AGN. 
+
+
+
+Annex III 
+Page 8 of 8 
+ 
+ 
+
+6.10 For purposes of flexibility and to be able to adjust the loan portfolio to the capacity 
+of the AGN to conduct timely audits, it is recommended that both the AGN and 
+independent firms be contractually eligible to conduct program audits. 
+
+6.11 Audits will be conducted based on the new terms of reference prepared by the Bank 
+in 2014. 
+
+ Financial supervision of the project5 
+
+6.12 The initial financial supervision plan is based on risk and fiduciary capacity 
+evaluations conducted on the basis of onsite and desk reviews of the program, and 
+includes the scope of operational, financial, and accounting actions; compliance and 
+legal considerations; frequency; and identification of responsible parties.  
+
+6.13 In addition to the reports required for processing disbursements and the annual 
+audit, another report that will be required for conducting financial supervision will be 
+the financial plan.  
+
+ Execution arrangements 
+
+6.14 The details of program execution can be found in the draft Operating Regulations 
+and the Proposal for Operation Development. 
+
+ Other financial management agreements and requirements 
+
+6.15 N/A. 
+
+ 
+
+                                                
+5  See Financial Management Policy for IDB-financed Project (OP-273-6) Annex I on application of the 
+
+financial management principles and requirements, requirement 4 on financial oversight.  
+
+
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+ 
+ 
+ 
+ 
+
+PROPOSED RESOLUTION DE-___/16 
+ 
+ 
+ 
+
+Argentina. Loan ____/OC-AR to the Argentine Republic. Provincial Agricultural Services 
+Program - PROSAP IV. Third Individual Operation under the Conditional Credit Line 
+
+for Investment Projects (CCLIP) AR-X1006 
+ 
+ 
+ 
+
+The Board of Executive Directors 
+ 
+RESOLVES: 
+ 
+
+That the President of the Bank, or such representative as he shall designate, is 
+authorized, in the name and on behalf of the Bank, to enter into such contract or contracts as 
+may be necessary with the Argentine Republic, as Borrower, for the purpose of granting it a 
+financing aimed at cooperating in the execution of the Provincial Agricultural Services Program -
+PROSAP IV, which constitutes the third individual operation under the Conditional Credit Line 
+for Investment Projects (CCLIP) AR-X1006 approved on 16 January 2008 by Resolution 
+DE-6/08. Such financing will be in the amount of up to US$100,000,000, from the resources of 
+the Bank’s Ordinary Capital, and will be subject to the Financial Terms and Conditions and the 
+Special Contractual Conditions of the Project Summary of the Loan Proposal. 
+ 
+ 
+ 
+
+(Adopted on ___ ____________ 2016) 
+ 
+ 
+ 
+LEG/SGO/CSC/IDBDOCS: 40712797 
+Pipeline No.: AR-L1198 
+
+
+
+
+

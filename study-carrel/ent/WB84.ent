@@ -1,0 +1,405 @@
+id	sid	eid	entity	type
+WB84	1	1	1	CARDINAL
+WB84	1	2	11	CARDINAL
+WB84	1	3	Pu bl	PERSON
+WB84	1	4	ic D	PERSON
+WB84	1	5	PID	ORG
+WB84	1	6	CONCEPT STAGE Report	ORG
+WB84	2	1	PIDC33685 Project Name Poyang Lake Basin Town Water Environment Management Project	ORG
+WB84	2	2	Region EAST ASIA	ORG
+WB84	2	3	40%	PERCENT
+WB84	2	4	20%	PERCENT
+WB84	2	5	20%	PERCENT
+WB84	2	6	20%	PERCENT
+WB84	2	7	30%	PERCENT
+WB84	2	8	30%	PERCENT
+WB84	2	9	30%	PERCENT
+WB84	2	10	10%	PERCENT
+WB84	2	11	People's Republic of China	GPE
+WB84	2	12	27-Dec-2015 Date	DATE
+WB84	2	13	10-Jan-2016 Estimated Date	DATE
+WB84	2	14	31-Mar-2017	CARDINAL
+WB84	3	1	China	GPE
+WB84	3	2	the past three decades	DATE
+WB84	4	1	second	ORDINAL
+WB84	4	2	2010	DATE
+WB84	4	3	over half	CARDINAL
+WB84	5	1	About 500 million	CARDINAL
+WB84	6	1	another 300 million	MONEY
+WB84	6	2	China	GPE
+WB84	6	3	2030	DATE
+WB84	7	1	China	GPE
+WB84	7	2	China	GPE
+WB84	8	1	China	GPE
+WB84	8	2	2	CARDINAL
+WB84	8	3	11	CARDINAL
+WB84	8	4	Pu bl ic D	PERSON
+WB84	8	5	Pu bl	PERSON
+WB84	8	6	D	PERSON
+WB84	8	7	10 percent	PERCENT
+WB84	8	8	2.1 percent	PERCENT
+WB84	8	9	China 2030 Study	ORG
+WB84	10	1	Chinese	NORP
+WB84	11	1	20 percent	PERCENT
+WB84	11	2	only 7 percent	PERCENT
+WB84	11	3	China	GPE
+WB84	12	1	only 19 percent	PERCENT
+WB84	12	2	China	GPE
+WB84	12	3	40 percent	PERCENT
+WB84	13	1	the last three decades	DATE
+WB84	13	2	China	GPE
+WB84	14	1	2010	CARDINAL
+WB84	14	2	about 40 percent	PERCENT
+WB84	14	3	China	GPE
+WB84	15	1	more than half	CARDINAL
+WB84	15	2	200	CARDINAL
+WB84	15	3	40.3 percent	PERCENT
+WB84	15	4	14.7 percent	PERCENT
+WB84	17	1	Poyang Lake	PERSON
+WB84	17	2	China	GPE
+WB84	17	3	5,050 km2	QUANTITY
+WB84	17	4	30 billion m3	MONEY
+WB84	18	1	about 162,200	CARDINAL
+WB84	18	2	over 97 percent	PERCENT
+WB84	18	3	Jiangxi Province	GPE
+WB84	19	1	hydro-morphologic	ORG
+WB84	19	2	more than 40 million	CARDINAL
+WB84	19	3	Poyang Lake	LOC
+WB84	20	1	Poyang Lake	PERSON
+WB84	20	2	Yangtze River	LOC
+WB84	20	3	Hukou	GPE
+WB84	20	4	Jiujiang County	GPE
+WB84	21	1	the Yangtze River	LOC
+WB84	21	2	five	CARDINAL
+WB84	21	3	Fu	PERSON
+WB84	21	4	Rao	PERSON
+WB84	21	5	Xin Rivers	PERSON
+WB84	22	1	annual	DATE
+WB84	22	2	the Poyang Lake	LOC
+WB84	22	3	the recent years	DATE
+WB84	23	1	normal years	DATE
+WB84	23	2	lake area	LOC
+WB84	24	1	early 2002	DATE
+WB84	24	2	200	CARDINAL
+WB84	25	1	Poyang Lake	PERSON
+WB84	25	2	half a million migratory	QUANTITY
+WB84	26	1	over 95%	PERCENT
+WB84	26	2	60%	PERCENT
+WB84	27	1	55%	PERCENT
+WB84	27	2	60%	PERCENT
+WB84	27	3	96%	PERCENT
+WB84	27	4	swan goose population	EVENT
+WB84	28	1	Poyang Lake	PERSON
+WB84	28	2	156	CARDINAL
+WB84	28	3	136	CARDINAL
+WB84	28	4	230	CARDINAL
+WB84	28	5	58	CARDINAL
+WB84	28	6	89	CARDINAL
+WB84	29	1	the Yangtze River	LOC
+WB84	30	1	the Yangtze River	LOC
+WB84	30	2	15.6%	PERCENT
+WB84	30	3	annual	DATE
+WB84	31	1	Lake	LOC
+WB84	31	2	83%	PERCENT
+WB84	31	3	III	ORG
+WB84	31	4	13%	PERCENT
+WB84	31	5	4%	PERCENT
+WB84	32	1	the World Bank	ORG
+WB84	32	2	Ministry of Environmental Protection	ORG
+WB84	32	3	DO	ORG
+WB84	33	1	the lake basin	LOC
+WB84	33	2	about 60%	PERCENT
+WB84	33	3	about 30%	PERCENT
+WB84	33	4	3	CARDINAL
+WB84	33	5	11	CARDINAL
+WB84	33	6	Pu bl ic D	PERSON
+WB84	33	7	Pu bl	PERSON
+WB84	33	8	D	PERSON
+WB84	36	1	only 79%	PERCENT
+WB84	36	2	Jiangxi province	GPE
+WB84	36	3	85%	PERCENT
+WB84	37	1	69%	PERCENT
+WB84	37	2	80%	PERCENT
+WB84	38	1	Poyang Lake	LOC
+WB84	39	1	China	GPE
+WB84	39	2	Jiangxi	GPE
+WB84	40	1	the Poyang Lake	LOC
+WB84	40	2	associa ted functions	PERSON
+WB84	41	1	PLEDP	ORG
+WB84	41	2	2009	DATE
+WB84	41	3	Poyang Lake	LOC
+WB84	42	1	PLEDP	ORG
+WB84	42	2	18	CARDINAL
+WB84	42	3	five	CARDINAL
+WB84	43	1	2014	DATE
+WB84	43	2	Jiangxi	GPE
+WB84	44	1	2020	DATE
+WB84	44	2	5%	PERCENT
+WB84	44	3	2015	DATE
+WB84	44	4	90%	PERCENT
+WB84	44	5	85%	PERCENT
+WB84	45	1	PLEDP	ORG
+WB84	45	2	2020	DATE
+WB84	46	1	the lake basin	LOC
+WB84	47	1	Jiangxi	GPE
+WB84	47	2	six	CARDINAL
+WB84	47	3	Poyang Lake	LOC
+WB84	47	4	Poyang Lake-rim	PERSON
+WB84	48	1	2013	DATE
+WB84	48	2	the World Bank	ORG
+WB84	48	3	Jiangxi	GPE
+WB84	48	4	Lake Basin	LOC
+WB84	48	5	Jiangxi Province	GPE
+WB84	49	1	O&M	ORG
+WB84	50	1	seven	CARDINAL
+WB84	50	2	4	CARDINAL
+WB84	50	3	11	CARDINAL
+WB84	50	4	Pu bl	PERSON
+WB84	50	5	ic D	PERSON
+WB84	50	6	the Small Town Development Project	FAC
+WB84	51	1	Chinese	NORP
+WB84	51	2	BOD5<4	PERSON
+WB84	51	3	DO>3mg/l	ORG
+WB84	51	4	COD<30	GPE
+WB84	51	5	BOD5<6	GPE
+WB84	51	6	NH3-N<1.5	PERSON
+WB84	51	7	NH3-N<2	CARDINAL
+WB84	51	8	P<0.4	ORG
+WB84	52	1	the Country Partnership Strategy	ORG
+WB84	52	2	CPS	ORG
+WB84	52	3	2013-2016	DATE
+WB84	52	4	Enhancing Urban Environmental Services	ORG
+WB84	52	5	Promoting Sustainable Agriculture Practices	ORG
+WB84	52	6	Demonstrating Sustainable Natural Resource Management	ORG
+WB84	53	1	China	GPE
+WB84	53	2	the Poyang Lake Ecological Economic Zone Development Plan	LOC
+WB84	53	3	2009	DATE
+WB84	53	4	Jiangxi Province	GPE
+WB84	53	5	2014	DATE
+WB84	54	1	12th	ORDINAL
+WB84	54	2	Five-year	DATE
+WB84	54	3	13th	ORDINAL
+WB84	54	4	Five-year	DATE
+WB84	54	5	Jiangxi	GPE
+WB84	55	1	China	GPE
+WB84	56	1	the World Bank Group	ORG
+WB84	59	1	Poyang Lake Basin	LOC
+WB84	59	2	Chinese	NORP
+WB84	65	1	the Poyang Lake basin	LOC
+WB84	66	1	the Yangtze River	LOC
+WB84	67	1	5	CARDINAL
+WB84	67	2	11	CARDINAL
+WB84	67	3	Pu bl ic D	PERSON
+WB84	67	4	Pu bl	PERSON
+WB84	67	5	D	PERSON
+WB84	69	1	PCN	ORG
+WB84	69	2	the Poyang Lake basin	LOC
+WB84	70	1	PCN	ORG
+WB84	70	2	Phosphorus	PERSON
+WB84	70	3	tons/year	DATE
+WB84	70	4	tons/year	DATE
+WB84	70	5	tons/year	DATE
+WB84	70	6	Provincial Water and Environmental Protection Guidelines	ORG
+WB84	72	1	III	ORG
+WB84	74	1	The Jiangxi Provincial Government	ORG
+WB84	74	2	World Bank	ORG
+WB84	74	3	Poyang Lake Basin	LOC
+WB84	75	1	Seven	CARDINAL
+WB84	75	2	Duchang	GPE
+WB84	75	3	Poyang	GPE
+WB84	75	4	Yugan	GPE
+WB84	75	5	Jishui	GPE
+WB84	75	6	Fengxin	GPE
+WB84	75	7	Jingan	GPE
+WB84	75	8	Shangli	NORP
+WB84	75	9	seven	CARDINAL
+WB84	75	10	about 5 million	CARDINAL
+WB84	76	1	seven	CARDINAL
+WB84	76	2	three	CARDINAL
+WB84	76	3	one	CARDINAL
+WB84	76	4	the Lake	LOC
+WB84	76	5	two	CARDINAL
+WB84	76	6	one	CARDINAL
+WB84	76	7	the Lake	LOC
+WB84	77	1	Poyang Lake	LOC
+WB84	78	1	Poyang Lake basin	LOC
+WB84	79	1	O&M	ORG
+WB84	79	2	Jiangxi Province	GPE
+WB84	82	1	6	CARDINAL
+WB84	82	2	11	CARDINAL
+WB84	82	3	Pu bl ic D	PERSON
+WB84	82	4	Pu bl	PERSON
+WB84	82	5	D	PERSON
+WB84	82	6	four	CARDINAL
+WB84	82	7	1	CARDINAL
+WB84	82	8	Poyang Lake Basin	LOC
+WB84	82	9	US$15 million	MONEY
+WB84	83	1	two	CARDINAL
+WB84	83	2	Poyang Lake basin	LOC
+WB84	84	1	1.1	CARDINAL
+WB84	84	2	Poyang	NORP
+WB84	84	3	Lake Basin	LOC
+WB84	84	4	Poyang Lake	LOC
+WB84	84	5	Basin	LOC
+WB84	84	6	Poyang Lake	LOC
+WB84	84	7	five	CARDINAL
+WB84	84	8	the Poyang Lake	LOC
+WB84	84	9	China	GPE
+WB84	85	1	1.2	CARDINAL
+WB84	85	2	Lake Basin Management	LOC
+WB84	85	3	lake basin	LOC
+WB84	85	4	Poyang	NORP
+WB84	85	5	Poyang Lake	LOC
+WB84	87	1	Poyang Lake	LOC
+WB84	87	2	O&M	ORG
+WB84	87	3	the Poyang Lake	LOC
+WB84	87	4	Component 2: Improvement of Lake and River Environmental Restoration and Enhancement of Domestic Wastewater Management System	EVENT
+WB84	87	5	US$ 140 million	MONEY
+WB84	88	1	Poyang Lake basin	LOC
+WB84	88	2	Low Impact Development	ORG
+WB84	88	3	LID	ORG
+WB84	89	1	11	CARDINAL
+WB84	89	2	Pu bl ic D	PERSON
+WB84	89	3	Pu bl	PERSON
+WB84	89	4	D	PERSON
+WB84	90	1	2.1	CARDINAL
+WB84	90	2	million	CARDINAL
+WB84	90	3	Low Impact Development	ORG
+WB84	90	4	LID	ORG
+WB84	90	5	Poyang Lake basin	LOC
+WB84	91	1	Zhuhu Lake	GPE
+WB84	91	2	Poyang county	GPE
+WB84	91	3	Pipa Lake	LOC
+WB84	91	4	Yugan county	GPE
+WB84	91	5	Zoujiazui River	LOC
+WB84	91	6	Duchang county	GPE
+WB84	93	1	2.2	CARDINAL
+WB84	93	2	USD74 million	CARDINAL
+WB84	94	1	Duchang	GPE
+WB84	94	2	Jiang'an	GPE
+WB84	94	3	Jishui	GPE
+WB84	95	1	3	CARDINAL
+WB84	95	2	million	CARDINAL
+WB84	95	3	Poyang Lak Basin	LOC
+WB84	96	1	Shangli	GPE
+WB84	96	2	Duchang	GPE
+WB84	96	3	Poyang	GPE
+WB84	96	4	Yugan	GPE
+WB84	96	5	Jing'an Counties	ORG
+WB84	97	1	million	CARDINAL
+WB84	101	1	d. Gender	PERSON
+WB84	105	1	over many hours	TIME
+WB84	107	1	8	CARDINAL
+WB84	107	2	11	CARDINAL
+WB84	107	3	Pu bl ic D	PERSON
+WB84	107	4	Pu bl	PERSON
+WB84	107	5	D	PERSON
+WB84	113	1	the Results Framework	FAC
+WB84	114	1	e. Lessons	PERSON
+WB84	114	2	Jiangxi	GPE
+WB84	114	3	Lake Basin	LOC
+WB84	114	4	Jiangxi	GPE
+WB84	114	5	Lake Basin	LOC
+WB84	115	1	China	GPE
+WB84	118	1	Environmental Protection Department	ORG
+WB84	118	2	EPD	ORG
+WB84	118	3	the provincial Agriculture Department	ORG
+WB84	120	1	Expert Groups	PERSON
+WB84	123	1	Lake	LOC
+WB84	123	2	Poyang Lake	LOC
+WB84	123	3	a Poyang Lake Management Commission	ORG
+WB84	126	1	f. Global Lessons Learned	PERSON
+WB84	126	2	World Bank's	ORG
+WB84	126	3	Value Added World Bank	ORG
+WB84	126	4	9	CARDINAL
+WB84	126	5	11	CARDINAL
+WB84	126	6	Pu bl ic D	PERSON
+WB84	126	7	Pu bl	PERSON
+WB84	126	8	D	PERSON
+WB84	127	1	Lessons	ORG
+WB84	127	2	World Bank	ORG
+WB84	127	3	Danube Water Program	ORG
+WB84	127	4	Iran Northern Cities Water Supply and Sanitation Project	ORG
+WB84	127	5	the Caspian Sea	LOC
+WB84	127	6	Lake Victoria Environmental Protection Project	ORG
+WB84	127	7	Aral Sea Restoration Project	ORG
+WB84	127	8	Integrated Water Management	ORG
+WB84	127	9	the Great Lakes	FAC
+WB84	127	10	Chesapeake Bay	LOC
+WB84	127	11	US	GPE
+WB84	128	1	the Great Lakes National Program Office	ORG
+WB84	128	2	USA	GPE
+WB84	128	3	the Office of the Prime Minister Program	ORG
+WB84	128	4	the Lake Balaton	GPE
+WB84	128	5	Hungary	GPE
+WB84	128	6	the Lake Balaton	LOC
+WB84	128	7	Biwa Lake	LOC
+WB84	128	8	Japan	GPE
+WB84	128	9	Lake Toba	LOC
+WB84	128	10	Indonesia	GPE
+WB84	128	11	Lake Constance	LOC
+WB84	128	12	Germany	GPE
+WB84	128	13	Switzerland	GPE
+WB84	128	14	Austria	GPE
+WB84	128	15	the Seine Normandy River Basin Agency	ORG
+WB84	128	16	France	GPE
+WB84	128	17	Women Association for the Lake Balaton	ORG
+WB84	128	18	earlier 1990	DATE
+WB84	128	19	the Lake Naivasha	LOC
+WB84	128	20	Kenya	GPE
+WB84	129	1	Riparian Association	ORG
+WB84	129	2	Lake Naivasha Growers Group	ORG
+WB84	129	3	O&M	ORG
+WB84	129	4	Chesapeake Bay	LOC
+WB84	129	5	USA	GPE
+WB84	129	6	Lake Champlain	LOC
+WB84	129	7	USA/Canada	ORG
+WB84	129	8	Lake Balaton	LOC
+WB84	129	9	Danube Water Program	ORG
+WB84	129	10	Great Lakes	ORG
+WB84	129	11	Louisiana	GPE
+WB84	129	12	Lake Balaton	LOC
+WB84	130	1	10	CARDINAL
+WB84	130	2	11	CARDINAL
+WB84	130	3	Pu bl ic D	PERSON
+WB84	130	4	Pu bl	PERSON
+WB84	130	5	D	PERSON
+WB84	132	1	4.01	CARDINAL
+WB84	132	2	Habitats OP	PRODUCT
+WB84	132	3	4.04	CARDINAL
+WB84	132	4	4.36	CARDINAL
+WB84	132	5	4.09	CARDINAL
+WB84	132	6	Physical Cultural Resources OP/BP	LAW
+WB84	132	7	4.10	CARDINAL
+WB84	132	8	OP	PERSON
+WB84	132	9	International Waterways OP/BP	ORG
+WB84	132	10	Disputed Areas OP/BP	FAC
+WB84	132	11	USD Million	CARDINAL
+WB84	132	12	263.80	CARDINAL
+WB84	132	13	150.00	CARDINAL
+WB84	132	14	0.00	CARDINAL
+WB84	132	15	International Bank for Reconstruction and Development	ORG
+WB84	132	16	150.00	CARDINAL
+WB84	132	17	263.80	CARDINAL
+WB84	133	1	Ximing Zhang Title	PERSON
+WB84	133	2	Sr Water Resources Spec	ORG
+WB84	134	1	Solvita Klapare	PERSON
+WB84	134	2	Licheng Yao Title	PERSON
+WB84	134	3	International Department	ORG
+WB84	134	4	Ministry of Finance	ORG
+WB84	134	5	86 10 68552064	CARDINAL
+WB84	134	6	11	CARDINAL
+WB84	134	7	11	CARDINAL
+WB84	134	8	Pu bl ic D	PERSON
+WB84	134	9	Pu bl	PERSON
+WB84	134	10	D	PERSON
+WB84	134	11	Jiangxi Provincial Development and Reform Commission	ORG
+WB84	134	12	Jinhua Li	PERSON
+WB84	134	13	jaffo@163.com VII	ORG
+WB84	135	1	The InfoShop The World Bank 1818 H Street	ORG
+WB84	135	2	NW	GPE
+WB84	135	3	Washington	GPE
+WB84	135	4	202	CARDINAL
+WB84	135	5	458	CARDINAL
+WB84	135	6	202	CARDINAL
+WB84	135	7	522-1500	CARDINAL

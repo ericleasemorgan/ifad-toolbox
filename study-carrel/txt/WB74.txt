@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+PROJECT INFORMATION DOCUMENT (PID) 
+CONCEPT STAGE
+
+Report No.: PIDC35817
+
+Project Name Regional Disease Surveillance Systems Enhancement (REDISSE) 
+(P154807)
+
+Region AFRICA
+Country Western Africa
+Sector(s) Health (50%), Other social services (35%), Animal production (15%)
+Theme(s) Other communicable diseases (40%), Health system performance (40%), 
+
+Rural services and infrastructure (15%), Rural policies and inst itutions 
+(5%)
+
+Lending Instrument Investment Project Financing
+Project ID P154807
+Borrower(s) Ministere de la Sante et de la Prevention
+Implementing Agency WAHO
+Environmental 
+Category
+
+B-Partial Assessment
+
+Date PID Prepared/
+Updated
+
+12-Nov-2015
+
+Date PID Approved/
+Disclosed
+
+13-Nov-2015
+
+Estimated Date of 
+Appraisal Completion
+
+25-Jan-2016
+
+Estimated Date of 
+Board Approval
+
+13-May-2016
+
+Concept Review 
+Decision
+
+Track II - The review did authorize the preparation to continue
+
+I. Introduction and Context
+Country Context
+The countries of West Africa belong to the Economic Community of West Africa States 
+(ECOWAS), which comprises 15 countries and is home to more than 310 million people. ECOWAS 
+is a regional organization that serves to promote economic integration across the West Africa 
+region. The region is very heterogeneous in terms of cultural, economic and human development. 
+Overall, member states rank low on the United Nations Development Programme’s (UNDP) human 
+development index; as of 2014, life expectancy at birth and gross national income per capita of 
+countries in the region ranged from 45.6 to 75.1 and 873 to 6,365 respectively.
+
+Sectoral and Institutional Context
+Over the last four decades, the world has witnessed one to three newly emerging infectious diseases 
+
+
+
+Page 2 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+annually. The West Africa region is both a hotspot for emerging infectious diseases and a region 
+where the burden of zoonotic diseases is particularly high. In this region, emerging and re-emerging 
+diseases at the human-animal-ecosystems interface are occurring with increased frequency. As 
+evidenced by the recent Ebola epidemics in Guinea, Sierra Leone, and Liberia, highly contagious 
+diseases in this region cross borders easily and have the potential to turn into pandemics. These add 
+to the ongoing burden of neglected and endemic human and animal diseases, including zoonosis.  
+ 
+Pandemics and epidemics have potential catastrophic effects on human and animal life, ecosystems, 
+and on national economies. From 1997-2009, major outbreaks of fatal infectious diseases such as 
+the human pandemic influenza (H1N1), highly pathogenic avian influenza A (H5N1), Creutzfeld-
+Jakob disease, Severe Acute Respiratory Syndrome (SARS), and EVD caused an estimated US$80 
+billion in economic losses. Additionally, a recent analysis by the World Bank (WB) shows that a 
+severe pandemic such as the 1918 Spanish Flu could cost approximately US$3 trillion globally, an 
+estimate comparable to the impact of the 2008 global financial crisis.  
+ 
+The pandemic of H1N1; epidemics of SARS, H5N1 and Middle East Respiratory Syndrome 
+Coronavirus (MERS-CoV); and recent outbreaks of EVD are reminders of persistent risk of 
+infectious, zoonotic diseases, and the economic losses they cause. Animal losses from zoonotic 
+diseases are also high. On average, about half of all annual losses of Livestock Units (LSU) reported 
+on average by veterinary services to the OIE-WAHID database from 2006 to 2009 were the result of 
+zoonotic diseases. 
+ 
+Antimicrobial resistance (AMR) represents an increasing global health threat as resistant pathogens 
+can be transmitted across healthcare facilities, in communities, and across international borders. A 
+review of some disease control and prevention measures adopted in the human health sector shows 
+that resistance to inexpensive and effective antimicrobial drugs has emerged at an alarming rate, 
+increasing the likelihood that many common diseases and pathogens (such as tuberculosis, malaria, 
+HIV, gonorrhea, MRSA, CRE and Salmonella Typhi infections) could become difficult and 
+expensive to treat. Similarly, challenges with insecticide resistance continues to be on the rise in the 
+region and could undermine the significant gains in the control of vector born disease such as 
+malaria, dengue, and yellow fever. Detection, monitoring, and responding to AMR relies on having 
+strengthened and coordinated laboratory and surveillance capacities in the region. 
+ 
+Control of the accelerating spread of communicable diseases in West Africa is also hampered by the 
+limited capacities of individual country health systems for efficient surveillance, early detection and 
+rapid response to infectious disease outbreaks that result in significant reversals in human 
+development progress in the region including increased cases of morbidity and mortality, threats to 
+food security, and substantial economic losses. For many countries in West Africa, years of civil 
+conflict and underinvestment have resulted in weak health infrastructure, periodic disruption in 
+service delivery, and critical shortages or gaps in the workforce (eg. epidemiologists, laboratorians, 
+information technology experts, etc.). Mitigation of the risks posed by diseases with pandemic 
+potential, including emerging zoonosis, will have to address these weaknesses in country health 
+systems in the region. 
+ 
+The effectiveness of disease surveillance and response systems is currently hampered by:  
+lack of appropriate plans and resources to respond to health threats in a timely manner; 
+scarcity and non-retention of trained and motivated human and animal health workforce resources, 
+at both central and local levels; 
+
+
+
+Page 3 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+overall weakness of  human and animal disease information systems, including insufficient data 
+collection and use of data for informing policy decisions and action, as well as for the prevention 
+and mitigation of the cross-border spread of diseases; 
+insufficient integration of parallel disease- specific surveillance systems;  
+insufficient cross-sectorial coordination and collaboration among Ministries, in particular among 
+those in charge of public health, animal health and the environment leading to inadequate 
+operationalization of the “One Health” concept; 
+inadequate human and animal health laboratory capacity, including inadequate specimen 
+transportation networks, and low involvement of laboratories in the surveillance and response 
+systems; 
+disparity in detection and disease management capabilities among countries and insufficient 
+regional cooperation. 
+ 
+In June 2007, the WHO set forth a mandate via the International Health Regulation (IHR 2005) that 
+requires country governments to develop, strengthen and maintain the core capacities of national 
+public health systems to detect, assess, notify, and respond promptly and effectively to health risks 
+and public health emergencies of international concern (PHEICs).  In the WHO Africa Region 
+(WHO/AFRO), the Integrated Disease Surveillance and Response (IDSR) strategy serves as a 
+framework to fulfill the mandates of IHR (2005). However, till today, IDSR has not been fully 
+implemented in most countries in the region, thus contributing to the limited capacity of the 
+countries’ health system for systematic collection, analysis, confirmation, and interpretation of 
+disease surveillance data, in addition to insufficient capabilities for preparedness and rapid response. 
+Thus, the need to reinforce these capacities in this region as a mitigating risk for potential future 
+pandemic outbreaks. 
+ 
+Animal Health Sector 
+The animal health sector in the ECOWAS region is characterized by a high incidence and 
+prevalence of many contagious diseases, both zoonotic and non-zoonotic, impacting productivity, 
+public health, rural development and livelihoods. Since December 2014, West Africa has witnessed 
+a reemergence of an H5N1 outbreak.  Important weaknesses in veterinary public health systems 
+caused long delays in detecting, reporting and putting other necessary mitigation measures in place 
+to reduce the risk of spread and to eventually eradicate the virus. Lack of preparedness, insufficient 
+human, physical and financial resources, and the lack of cross-sector collaboration were highlighted 
+as key factors by the Food and Agriculture Organization (FAO) and the World Organization for 
+Animal Health (OIE) in all affected countries. A recent summary of evaluations of the performance 
+of Veterinary Services (PVS) done by the OIE within ECOWAS also highlighted the insufficient 
+budgetary resources, and a mismatch between human resources and actual requirements.  In terms 
+of strategic actions for animal health, all countries identified the need to improve the surveillance 
+cover, in line with the OIE Terrestrial Animal Health code, and to control priority animal diseases 
+(including through vaccination). 
+ 
+Collaboration between Veterinary and Human Public Health Systems.  
+West African countries do not have yet the requisite systems in place and are generally ill-equipped 
+to prevent human infections and to mitigate the losses from exposure to diseases of animal origin. In 
+addition to strengthening national veterinary and human public health systems and their regional 
+cooperation, there is an urgent need to establish or reinforce and maintain strong collaboration 
+between systems at national and regional levels in order to better manage risks that arise at the 
+animal-human-ecosystem interface (the so called ‘One Heath’(OH) approach.). For that to happen, 
+
+
+
+Page 4 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+particular attention will be given to priority core public functions (veterinary public health and 
+human public health) that would reduce these risks. Assessing these core functions, bridging divides 
+among systems and ministries and reducing capacity gaps would constitute a critical element of the 
+program. Country assessment tools now exist for both systems (Performance of Veterinary Services 
+pathway; IHR monitoring framework costing tool) as well as well identified bridges for OH 
+competencies. Attention to building systems for core functions and policy dialogue, based on 
+credible assessments, rigorous analysis and adequate financing, will ensure sustainability and reduce 
+disease risks. These efforts would support specific ongoing national and regional disease-control 
+initiatives, already part of system-strengthening country program, and demonstrate the performance 
+of collaborative systems in disease surveillance, prevention and control.   
+ 
+Regional Disease Surveillance and Response Network 
+The recent EVD epidemic in West Africa has been attributed, not only to environmental factors and 
+human behavior, but also to weaknesses in the health systems of Guinea, Liberia, and Sierra Leone 
+and their inability to detect and respond swiftly to public health threats, and moreover, to the lack of 
+a regional surveillance and response network in West Africa. Containment of West Africa’s EVD 
+epidemic that initially began in Guinea and spread to neighboring countries was hampered by the 
+absence of the systematic collection and reporting and exchange of surveillance and laboratory data 
+across country-borders in real time. The EVD epidemic dramatically illustrates the need for a more 
+harmonized approach to disease surveillance and response, both within countries and within the 
+West Africa region overall. The EVD epidemic highly underscores the importance of regional 
+cooperation among West African countries for the prevention and control of potential cross-border 
+disease outbreaks, as a key component of the post-Ebola health systems recovery strategy, and 
+overall health systems strengthening efforts in the region.
+
+Relationship to CAS
+The project is in line with the WB’s mission to end extreme poverty and promote shared prosperity. 
+Communicable and non-communicable diseases are a major constraint on the health, education and 
+potential earnings of people living in the ECOWAS region and have the greatest impact on the most 
+vulnerable population.  Hence, the economic rationale for investing in these interventions is key to 
+mitigating the economic burden not only on individuals but also on the country as a whole. The CPS 
+for the nine countries targeted by this project emphasize the need to strengthen the capacity of 
+health systems of which disease surveillance is a key pillar, in order to improve health outcomes and 
+reduce vulnerability (To be updated with CPS for each country). 
+ 
+The project complements both WBG and development partner investments in health systems 
+strengthening, disease control and surveillance.  Establishing this complementarity is particularly 
+important in the three countries most affected by the EVD epidemic.  For Example, in the context of 
+the recent Ebola epidemic, the Government of Sierra Leone is eager to dramatically improve 
+national disease surveillance and response capacity. Having experienced first-hand the devastating 
+consequences of cross-border spread of Ebola, the government also acknowledges the paramount 
+importance of regional disease surveillance and institutions for cross-border and inter-country 
+collaboration. On 7-8 September, 2015, the Sierra Leone Ministry of Health and Sanitation (MOHS) 
+and multiple partners met in Freetown to discuss the creation of a Sierra Leone's National Public 
+Health Institute (NPHI). Core functions of this Institute will include surveillance and response, 
+research aimed at answering important questions for policy and program design, and response to 
+public health emergencies. The Government of Sierra Leone is acutely aware of its limited financial 
+and technical resources and has already begun actively engaging partners to assist in the creation of 
+
+
+
+Page 5 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+the NPHI. US CDC, China CDC and Public Health England have already demonstrated significant 
+interest. The proposed project can play a vital role in providing financial and technical assistance to 
+the Government of Sierra Leone to create the NPHI, can convene the multiple partners around a 
+harmonized agenda, and can ensure that what is created in Sierra Leone is integrated into regional 
+systems.
+
+II. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+The project’s development objective (PDO) is to strengthen cross-sectoral and regional capacity for 
+collaborative disease surveillance and response in West Africa.
+
+Key Results (From PCN)
+i. Percentage of participating countries that improve compliance with IHR (2005) and OIE 
+international standards based on independent external evaluations;  
+ii. Percentage of outbreaks for which cross-border investigations are undertaken; 
+iii. Percentage of surveillance workforce who have been trained; 
+iv. Percentage of satellite laboratories awarded 2-star or more status under the regional 
+accreditation program based on WHO/AFRO 5-step accreditation process; 
+v. Percentage of reported priority communicable diseases outbreaks with laboratory 
+confirmation of etiologic agents as defined by IDSR and OIE/FAO; and 
+vi. Number of regional rapid response teams set up and equipped, activated and demonstrate 
+competency on a quarterly basis
+
+III. Preliminary Description
+Concept Description
+The project's development objective (PDO) is to strengthen cross-sectoral and regional capacity for 
+collaborative disease surveillance and response in West Africa. 
+ 
+The PDO seeks to address systemic weaknesses within the animal and human health sectors that 
+hinder effective disease surveillance and response by: (i) strengthening the capacity of selected 
+ECOWAS member countries to fulfill their obligations under the WHO IHR (2005) and the OIE 
+Terrestrial Animal Health Code; (ii) reinforcing sustainable and effective regional collaboration and 
+collective action to detect and respond promptly to priority infectious diseases threats in West 
+Africa including zoonotic diseases; and (iii) establishing an efficient linkage of country health 
+systems to regional laboratory, surveillance, and response networks. 
+ 
+Ultimately, the project will contribute towards significantly reducing the burden of diseases 
+particularly among the poor and vulnerable populations, mitigating the public health and economic 
+risks posed by infectious diseases in humans and animals, and decreasing the threats of future 
+disease outbreaks thereby promoting global health security.
+
+IV. Safeguard Policies that might apply
+Safeguard Policies Triggered by the Project Yes No TBD
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+
+
+
+Page 6 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+Projects in Disputed Areas OP/BP 7.60 ✖
+
+V. Financing (in USD Million)
+Total Project Cost: 310.00 Total Bank Financing: 310.00
+Financing Gap: 0.00
+Financing Source Amount
+ BORROWER/RECIPIENT 0.00
+ International Development Association (IDA) 310.00
+ Total 310.00
+
+VI. Contact point
+World Bank
+Contact: John Paul Clark
+Title: Sr Technical Spec.
+Tel: 473-5805
+Email: jclark4@worldbank.org
+
+Contact: Bleoue Nicaise Ehoue
+Title: Senior Agriculture Economist
+Tel: 473-4858
+Email: nehoue@worldbank.org
+
+Contact: Hadia Nazem Samaha
+Title: Senior Operations Officer
+Tel: 473-6441
+Email: hsamaha@worldbank.org
+
+Borrower/Client/Recipient
+Name: Ministere de la Sante et de la Prevention
+Contact:
+Title:
+Tel: (221-33) 869-4244
+Email: msambaye@minsante.sn
+
+Implementing Agencies
+Name: WAHO
+Contact: Dr Xavier Crespin
+Title: Director General
+
+
+
+Page 7 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Tel: (226) 20 97 57 72
+Email: wahooas@wahooas.org
+
+VII. For more information contact:
+The InfoShop 
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 458-4500 
+Fax: (202) 522-1500 
+Web: http://www.worldbank.org/infoshop
+
+
+

@@ -1,0 +1,2603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+ 
+
+  
+Mar 22, 2017 Page 1 of 25  
+
+     
+
+ 
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 15-May-2017 | Report No: PIDISDSA21309 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+
+ 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 2 of 25  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Congo, Republic of P159979 Congo Commercial 
+Agriculture Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 21-Mar-2017 06-Jul-2017 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Congo Ministry of Agriculture, 
+Fisheries and Livestock 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The project development objective (PDO) is to improve productivity of farmers and market access for producer groups 
+and micro, small and medium agribusiness enterprises, in selected zones, and provide immediate and effective 
+response in the event of an eligible crisis or emergency.  
+ 
+ 
+Components 
+
+Component 1: Direct support to producer groups and agribusiness MSMES 
+Component 2: Improving public infrastructure and the business climate for commercial agriculture 
+Component 3: Strengthening institutional capacities to support the development of commercial agriculture 
+Component 4: Contingency emergency response 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+International Development Association (IDA)  100.00  
+
+Total Project Cost  100.00  
+    
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+ 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 3 of 25  
+
+ 
+
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+
+1. The Republic of Congo (ROC) is sparsely inhabited, with a population of 4.4 million people 
+and ranks among the least densely populated in the world (12.8/km
+
+2
+). The country has an   
+
+urbanization rate of about 62 percent, with more than half of the population living in 
+
+Brazzaville and Pointe-Noire, its two largest cities. Oil’s share of total GDP increased from 
+
+56 percent in 2000-2004 to 66 percent in 2010-2014 and – despite the recent oil price decline 
+
+– still accounts for more than half of GDP and more than 80 percent of total exports. 
+
+Agricultural exports (palm oil, sugar, and cocoa) are stagnant and the country suffers from a 
+
+rapidly deteriorating trade balance for food. ROC’s cereal import dependency ratio is 94 
+
+percent
+1
+.  
+
+ 
+
+2. ROC is highly endowed in natural resources, but with poor social indicators. The 
+country is largely covered by the Congo Forest Basin, with 31 percent of its total surface area 
+
+comprising cultivable land. The country is also endowed with significant hydrocarbon 
+
+reserves with an estimated 1.6 billion barrels of oil reserves and with a proven 90 billion m
+3
+ 
+
+of natural gas, respectively the 4
+th
+
+ largest oil reserves and the 5
+th
+
+ largest natural gas reserves 
+
+in Sub-Saharan Africa. In addition, the country is significantly endowed in mining ore such 
+
+as iron, potash and magnesium. However, ROC’s key social indicators, notably health and 
+
+education outcomes, as well as service delivery in these sectors, are much lower than 
+
+countries with similar resource endowments, evidence of the Country’s inability to harness 
+
+its potential into dividends for its citizens. 
+
+ 
+
+3. High vulnerability of the economy and inequality. Despite steady GDP growth of 5 
+percent over the past 10 years, ROC continues to suffer from high rates of poverty and 
+
+inequality due to jobless growth. 63 percent of the population are self-employed in either 
+
+agriculture or the informal services, with youth severely affected by unemployment. The 
+
+unemployment rate for those aged 15-29 is 32.7 percent.
+2
+ The country has a Gini coefficient 
+
+of 0.45 with a poverty incidence of 74.8 percent in rural areas against 32.3 percent in urban 
+
+areas. Gender and disability have an indirect impact on poverty as women and disabled 
+
+persons exhibit lower levels of education and employment opportunities. The ROC’s Gender 
+
+Inequality country index is 137 out of 157 countries. Cultural division of labor and a 
+
+preference for boys regarding expenditure on education often work against women. The 
+
+malnutrition rate remains high (32 percent), with a total of 1.4 million people estimated as 
+
+                                                           
+1
+ FAO food security indicators. Figure is from 2010. 
+
+2
+ Poverty Report Republic of Congo 2016 
+
+Note to Task Teams: End of system generated content, document is editable from here. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 4 of 25  
+
+ 
+
+malnourished
+3
+ and 31 percent of children stunted. Food and nutrition insecurity is driven by: 
+
+(a) inadequate access to quality food; (b) poor hygiene practices and lack of awareness of 
+
+food and nutrition requirements; and (c) unsafe food.    
+
+ 
+
+4. Business climate and access to financial services. ROC was listed the 177
+th
+
+ country out of 
+
+190 in the ranking of the World Bank Doing Business report 2017, which noted it takes an 
+
+average of 50 days to register a business well beyond the regional average of 27.3. Access to 
+
+finance is cited as the second highest constraint by businesses
+4
+. Bank credit to agriculture 
+
+accounts for 6 percent of short-term credit and 17 percent of medium-term credit, and is 
+
+focused primarily on the forestry industry
+5
+. Microfinance institutions are mostly focused on 
+
+urban markets, and agriculture accounts for only 2 percent of Mutuelles Congolaises 
+
+d’Epargne et de Crédit (MUCODEC)’s portfolio (the largest microfinance institution). Low 
+
+penetration of financial services in rural areas, knowledge of the agriculture sector and 
+
+collateral requirements limit access to credit for producer groups and micro, small and 
+
+medium agribusiness enterprises (MSME).  
+
+ 
+
+5. Private sector development. The private sector in ROC is largely fragmented with little or 
+no structured public-private dialogue taking place to improve the enabling environment for 
+
+business. The contribution of the private sector to growth is limited, as reflected by the level 
+
+of private investments (excluding oil), which represents only 5 percent of GDP (against 14 
+
+percent on average in Sub-Saharan Africa and 25 percent of GDP in Asia). Sectors with 
+
+strong growth potential identified by the Government include transport services, 
+
+agribusiness, forestry and mining. 
+
+ 
+
+6. Environment. As part of its Reducing Emissions from Deforestation and Forest Degradation 
+(REDD+) agenda, ROC is developing an Emissions Reductions Program in the Sangha and 
+
+Likouala departments. The government program seeks to access a variety of REDD+ funding 
+
+sources like the Forest Carbon Partnership Facility (FCPF), the Forest Investment Program 
+
+(FIP), and the Central Africa Forest Initiative (CAFI). ROC’s forests are at risk of 
+
+deforestation due to mineral extraction, road development, illegal logging, agricultural 
+
+expansion and charcoal collection. In addition, trends
+6
+ indicate that exposure to periods of 
+
+intense rainfall has been increasing. ROC, in its recently submitted Intended Nationally 
+
+Determined Contribution (INDC), has highlighted agriculture among its priority areas. 
+
+Climate actions with regards to agriculture will embrace adaptation and mitigation through 
+
+the promotion of agro-forestry plantations, an increase in the number of producer 
+
+associations, and production of bioenergy. 
+
+                                                           
+3
+ Undernourishment means that a person is not able to acquire enough food to meet the daily minimum dietary 
+
+energy requirements, over a period of one year. FAO defines hunger as being synonymous with chronic 
+undernourishment. Food Hunger Map 2015. 
+4
+ Enterprises Survey Report surveyed in 2009  
+
+5
+ The Republic of Congo ranks 118 out of 190 countries in access to credit according to the World Bank Doing 
+
+Business report 2017. In rural areas, 58 percent of rural adults save, but only 8 percent do so in a financial 
+institution. 
+6
+ Country Adaptation and Risk Profiles (Republic of Congo). 
+
+http://sdwebx.worldbank.org/climateportal/countryprofile/home.cfm?page=country_profile&CCode=COG 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 5 of 25  
+
+ 
+
+ 
+Sectoral and Institutional Context 
+
+7. Agriculture, including forestry, employs about 40 percent of the labor force and contributes 
+5 percent of GDP. Approximately 498,000 people are actively engaged in agricultural 
+
+production, of which 70 percent are female. With an average rainfall of 1,200 mm per year 
+
+and only 2 percent of the 10 million hectares of arable land exploited, the agricultural sector 
+
+holds potential for growth. ROC has three types of agricultural production systems: (i) 
+
+subsistence agriculture, mainly composed of small-scale producers farming 1 to 2 hectares 
+
+per household, and accounts for 90 percent of agricultural output. Subsistence producers 
+
+cultivate primarily staple crops such as plantain, cassava, ground nuts, maize, potatoes, 
+
+beans, banana, and yam. Yields of these crops are lower on average than in other Sub-
+
+Saharan countries mainly due to the poor quality of planting materials, the low use of 
+
+fertilizer and the limited access to improved technologies and mechanization; (ii) urban and 
+
+peri-urban agriculture is mainly composed of producers with small-scale gardens and semi-
+
+modern commercial farms producing for urban consumers; and (iii) agro-industrial 
+
+production systems, mainly monocultures geared towards export markets or niche urban 
+
+markets. Apart from that of sugar cane, the production of traditional export and cash crops 
+
+(e.g. coffee, cocoa, palm oil and rice) collapsed over the past couple of decades. A few large 
+
+private agribusiness investors have recently started to invest again in these crops (including 
+
+large-scale maize cultivation and the revival of palm oil and cocoa plantations). 
+
+ 
+
+8. The cumulative effects of the different production systems have left an undeniable 
+impact on the environment. Studies revealed that the sector contributes a total of 79 percent 
+
+of greenhouse gas (GHG) emissions
+7
+. Subsistence farming has promoted deforestation 
+
+through slash and burn shifting cultivation techniques. As a result, particularly in the 
+
+Province of Plateau, producers are experiencing: (i) earlier planting times and longer crop 
+
+cycles; (ii) soil degradation, which makes some crops no longer suitable; and (iii) greater 
+
+occurrences of flooding. Lastly, peri-urban vegetable and fish farming are competing with 
+
+growing demand for water from urban dwellers. 
+
+ 
+
+9. Gender in agriculture. Women are underrepresented in politics and higher levels of 
+government, even though the Family Code protects them against racial, ethnic and sexual 
+
+discrimination. Women earn less than men and are more likely to be self-employed as they 
+
+do not have equal opportunities for accessing secondary education and paid employment. 
+
+Labor market analyses show that gender employment gaps result from unequal access to 
+
+education and skills training. Lack of education gives women limited power in business and 
+
+social dealings with men, who typically are better educated. Women are customarily 
+
+encouraged to focus on subsistence farming, family and child-rearing activities (fertility rate 
+
+is high at 3.8 percent) and, as a result, 70 percent of the country’s agricultural workforce are 
+
+women. Congolese women face additional barriers compared to men in accessing credit, 
+
+agriculture inputs, land ownership and labor.   
+
+ 
+
+10. Agricultural skills, competencies and jobs. Access to formal paid wage job is very limited 
+
+                                                           
+7
+ CCKP’s Country Adaptation and Risk Profiles (Republic of Congo). 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 6 of 25  
+
+ 
+
+for the youth who are more likely to be unemployed. If they manage to find a job, those aged 
+
+15-29 are more likely to be employed by a household (15 percent) or by an SME (12 
+
+percent)
+8
+. There is only one institute for higher education in agriculture, Ecole Nationale 
+
+Supérieure d’Agronomie et de Foresterie (ENSAF), with approximately additional 7 
+
+agriculture vocational skills training centers. They are under resourced and do not offer all of 
+
+the relevant skills and entrepreneurship training. Internship arrangements with the private 
+
+sector are difficult to organize and the capacity to train masters and doctoral students is 
+
+limited. 
+
+  
+
+11. Demand for food is high and growing in domestic and regional markets. ROC is highly 
+dependent on food imports, with a negative trade balance. Food imports increased from US 
+
+$197 million to US$240 million between 2007 and 2013, and spiked to US$353 million in 
+
+2011. Volumes of imported food in 2013 included 104,567 tons of wheat, 50,581 tons of 
+
+palm oil, 45,878 tons of chicken meat, 41,541 tons of rice and 38,455 tons of wheat flour
+9
+.
+ 
+
+The domestic cassava market is valued at US$ 174 million with some value addition already 
+
+taking place. Cassava is consumed by 90 percent of the population. There is a high 
+
+consumption of chicken at household level and consumption of other livestock products is 
+
+expected to grow significantly, e.g. 80 million eggs and 15,000 tons of pork per annum by 
+
+2020
+10
+
+. Demand for milk (and milk-based products) is high and growing. Fish consumption 
+
+is at 24.4 kg per head per year, one of the highest in Africa. Other regional markets present 
+
+sizable opportunities as well, for instance the Kinshasa market (over 12 million inhabitants) 
+
+in the Democratic Republic of Congo, or other neighboring countries such as Angola, Gabon 
+
+and Cameroon.  
+
+ 
+
+12. Food safety concerns are huge and compounded by the absence of a food policy and 
+regulatory framework. No analysis has been done to understand the national cost of food 
+
+borne diseases (e.g. loss of human lives, cost of treatment and loss of income especially on 
+
+poor households). Food safety issues from imports include: (i) food spoilage; (ii) absence of 
+
+harmonized food and product standards; (iii) poor product quality (e.g. expired food, 
+
+deceitful labelling and high levels of preservatives in food); (iv) limited coordinated national 
+
+surveillance and inspection capacity; and (vi) no laboratories for food testing. In addition to 
+
+the risks created by limited awareness amongst consumers and low levels of hygiene 
+
+standards (e.g. unregistered food street vendors & unsanitary urban markets), additional food 
+
+safety risks from domestic agriculture include: (i) the use of animal waste and sewage on 
+
+crops as agriculture fertilizer; (ii) poor harvesting and post-harvest handling (raises risks of 
+
+mycotoxins and aflatoxins); and (iii) unhygienic agricultural transport systems.          
+
+ 
+
+13. Every segment across the agriculture value chain is characterized by under 
+development and fragmentation. Most inputs are imported, at high cost with no quality 
+
+assurance. Agricultural production is performed in a rudimentary, inefficient, low input-
+
+output model making unit costs of production much higher than imported commodities. The 
+
+                                                           
+8
+ Republic of Congo Poverty Assessment 2016. 
+
+9
+ FAOSTAT. 
+
+10
+ Plan de développement du secteur Agricole –PDSA département BRAZZAVILLE, Rapport SOFRECO CEAREPE. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 7 of 25  
+
+ 
+
+transport sector is managed by cartels that fix the transport prices, making it difficult for 
+
+producers to transport commodities and processors to source primary material. There is only 
+
+a few domestic agro-processing companies and the distribution and retail of food is done 
+
+mostly through formal open markets, informal markets and small corner stores. There are 
+
+only seven registered retail outlets (supermarkets) in urban areas selling mostly imported 
+
+food.  
+
+ 
+
+14. Commercial agricultural production is constrained by a multiplicity of factors. The 
+competitiveness of domestic production – in value chains such as poultry, piggery, and fish 
+
+for livestock, cassava and groundnuts for staple crops, and cocoa and palm oil for cash crops 
+
+– is hampered by: (i) sector specific legislative and governance constraints (seed policies, 
+
+land access, food safety policies and guidelines, taxes and registration procedures for the 
+
+legal status of cooperatives); (ii) weak producer organizations (iii) non-existent agricultural 
+
+extension and veterinary services and obsolete Research and Development (R&D) capacity;  
+(iv) high costs of agricultural inputs (seeds, fertilizers, land, animal feed, credit); (v) an 
+
+ageing and under skilled workforce; and  (vi) poor road and communication networks and 
+
+costly logistics and energy services.  
+
+ 
+
+15. A substantial number of smallholders have the potential to engage successfully in 
+commercially demanding value chains.
+
+11
+ These producers are found amongst farms located 
+
+outside cities and towns (urban and peri-urban) as well as within specific value chains (e.g. 
+
+cocoa, palm oil).
+12
+
+ These producers work in groups but are often marginalized from higher-
+
+value markets due to high unit costs of production, poor infrastructure and limited access to 
+
+credit and technical assistance. Three main profiles have been identified in the ROC of SMEs 
+
+that are currently operating in the agribusiness sector and could establish business 
+
+relationships with producer groups for commercial agriculture: (i) suppliers of critical inputs 
+
+(e.g. day-old chicks, veterinary medicine and technical assistance provided by 
+
+Transcontinental Business Néerlandais (TBN) in Pointe-Noire); (ii) off-takers for agricultural 
+
+products (e.g. tropical fruits to produce concentrate bought by Bayo in Brazzaville); and (iii) 
+
+firms that are both input suppliers and off-takers (e.g. supplying cassava cuttings then 
+
+purchasing of cassava for saka-saka processing by Agridec in Dolisie).    
+ 
+ 
+ 
+
+                                                           
+11
+
+ M.H. Collion, Rural Productive Partnerships: An Inclusive Agribusiness Model for Overcoming Small-holder 
+Market Barriers, World Bank, 2012. This finding is echoed by studies in Africa and Asia which indicate that 50-70% 
+of farmers are unable to move out of subsistence (S. Ferris et alt., Linking Smallholder Farmers to Markets and the 
+Implications for Extension and Advisory Services, MEAS Discussion Paper 4, 2014). 
+12
+
+ The Ministry of Agriculture holds a Registry of Farmer Cooperatives that totals 1,055 cooperatives nation-wide, 
+out of which 25% (approximately 250) are estimated to be active according to a survey conducted by the Ministry 
+in 2015.  According to records from ongoing projects (PDARP, PADE), there are approximately more than 500 
+additional active producer groups that are not registered with the Ministry since they registered at the 
+Department level or they decided to register as an Association with the Ministry of Interior instead. There are 
+therefore approximately 800 active producer groups (associations/cooperatives) in Congo, totaling approximately 
+16,000 smallholders. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 8 of 25  
+
+ 
+
+C. Proposed Development Objective(s)  
+ 
+
+ 
+ 
+Development Objective(s) (From PAD)  
+The project development objective (PDO) is to improve productivity and market access for producer groups and micro, 
+small and medium agribusiness enterprises, in selected zones, and provide immediate and effective response in the 
+event of an eligible crisis or emergency.  
+ 
+ 
+ 
+Key Results 
+
+1. Direct beneficiaries, of which Female beneficiaries (Percentage) (Core); 
+
+2. Average seasonal yield per standard area of specific crops among targeted farmers; and  
+
+3. Increase in marketed production volume of raw and processed products by producer groups 
+
+and MSMEs supported by the project. 
+
+ 
+ 
+
+ 
+D. Project Description  
+
+16. Key issues to be addressed. Through the support of the emergence and the revival of a 
+competitive commercial agriculture sector, the project will address: (a) access to market 
+
+with: (i) consistent supply of high volumes of quality produce meeting market requirements 
+for commercial and industrial production; (ii) high quality value added agricultural products; 
+
+(b) an enabling business environment with: (i) favorable legislation; (ii) a partnership 
+
+framework for public-private dialogue between agricultural stakeholders; and (iii) an 
+
+enabling institutional framework for private investors in the agricultural sector; and (c) an 
+
+ecosystem of services that provide actors with: (i) appropriate inputs (feed for livestock, 
+
+seeds, organic fertilizers, finance, processing technology, micro-irrigation equipment, etc.); 
+
+(ii) a qualified workforce,; (iii) marketing infrastructure (logistics, agricultural feeder roads, 
+
+storage); and (iv) access to water and electricity. 
+
+ 
+
+Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your 
+
+convenience. Please keep it up to date whenever it is changed in the datasheet. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 9 of 25  
+
+ 
+
+17. Additional development challenges to be considered. The project will also help address 
+nutrition and food insecurity by promoting producer groups’ access to nutrition and climate 
+
+sensitive technology, agriculture extension services, and by supporting MSMEs to produce 
+
+fortified and enriched foods in the market. Skills development and job creation for youth 
+
+challenges (auto-employment, semi-permanent, temporary jobs, etc.) will be addressed 
+
+through support to internship arrangements between institutes of higher learning and the 
+
+private sector. 
+
+The gender gap 
+
+with respect to 
+
+access to 
+
+services, inputs 
+
+and finance and 
+
+ownership of 
+
+economic 
+
+resources will be 
+
+reduced by 
+
+promoting female 
+
+producer groups’ 
+
+access to 
+
+matching grants. 
+
+Female owned 
+
+MSMEs will also 
+
+be promoted 
+
+through access to 
+
+a tailored 
+
+technical 
+
+assistance 
+
+package for 
+
+women MSMEs 
+
+(business 
+
+leadership, 
+
+entrepreneurship 
+
+training, 
+
+mentorship and networking support).  Targeting principles and the approaches by component 
+
+are described in Box 1. 
+ 
+ 
+
+A. Project Components 
+
+Component 1: Direct support to producer groups and agribusiness MSMEs (IDA: US$25 million)  
+
+18. Component 1 seeks to increase productivity and value addition along value chains, and 
+improve food and nutrition security. Support provided under this component will be through 
+
+a matching grant program financing technical assistance and productive investments to 
+
+support production, marketing and processing activities. This component has two sub-
+
+components. 
+
+Box 1: Targeting Principles 
+
+Two basic principles will guide project design: (i) an open menu approach with 
+
+respect to the selection of value chains, subsectors and business opportunities; 
+
+and (ii) a geographical concentration and targeting of project interventions where 
+
+commercial opportunities and the need for support have been identified and 
+
+expressed by market actors (producers, processors and others). The rationale for 
+
+an open menu is to avoid excluding any potentially viable value chain and 
+
+business opportunity. The project’s geographical focus will start where 
+
+commercial agriculture has the strongest potential: the three main cities of 
+
+Brazzaville, Pointe Noire and Dolisie and in the North of the country. In its first 
+
+component, the project will directly support private sector initiative in agriculture 
+
+by facilitating market access for producer groups and agribusiness MSMEs. 
+
+Support to producer groups will follow a Productive Alliance approach through 
+
+which these producer groups target new markets and seek to establish commercial 
+
+relationships with buyers and off-takers. Support to MSMEs will focus on 
+
+helping agribusiness firms to connect with specific off-takers and markets (both 
+
+domestic and export), through  sound business plan development, supply chain 
+
+development for sourcing quality raw materials, and access to know-how to 
+
+improve processing techniques, relevant market information and/or equipment, 
+
+etc.  
+
+ 
+
+The second component will support public investments in agricultural service 
+
+roads and other improved public infrastructure (e.g. access to electricity and 
+
+water supply for agro-processing) selected based on the location (clustering) of 
+
+the demand for sub-projects from producer groups and agribusiness MSMEs in 
+
+Component 1. Producer groups and agribusiness MSMEs will need to identify 
+
+(along with their expression of interest) if their value chain development activities 
+
+are constrained by the lack of viable infrastructure. Activities in Component 2 
+
+will also contribute to improving the business climate for commercial agriculture. 
+
+Lastly, the project will support the strengthening of institutional capacities for 
+
+commercial agriculture development in its third component. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 10 of 25  
+
+ 
+
+ 
+
+Subcomponent 1.1: Sustainable intensification and commercialization of crop and animal 
+
+production (IDA: US$ 20 million)  
+
+19. Objective and instruments used. This subcomponent will support producer groups in 
+Productive Alliance arrangements with buyers and markets for increased production, value 
+
+addition and improved marketing of their products. It will support the intensification of 
+
+production and commercialization of products within supported value chains through 
+
+technical assistance and financing of business plans using a matching grant scheme 
+
+administered through a Productive Alliance approach.  
+
+ 
+
+20. Productive Alliance approach.
+13
+
+ Productive Alliances will aim to develop the managerial 
+
+and technical capacity of producer groups and help them implement business plans that 
+
+include support for productive investment (access to inputs, production facilities, nutrition 
+
+and climate-sensitive technology) and technical assistance (agriculture advisory, extension 
+
+services and business development skills and practices). The project will also seek to 
+
+strengthen existing business arrangements between producer groups and buyers and/or 
+
+support new ones.  
+
+ 
+
+21. Business plans. Producer groups will be supported to translate their vision and strategy into 
+a business plan that clearly identifies specific markets, marketing plans and technical and 
+
+financial needs. Business plans are expected to finance a series of investments (depending on 
+
+market requirements, the supply chain and associated constraints), such as: (i) improved 
+
+access to quality inputs (e.g. seeds, cuttings, chicks, fertilizer, feed, water through small 
+
+pumped and piped irrigation systems, etc.); (ii) infrastructure and/or equipment for 
+
+processing; and (iii) infrastructure and/or equipment to improve the storage and transport to 
+
+reach target markets. Investments will systematically be accompanied with technical 
+
+assistance to install and maintain the investment and to improve the producer group’s 
+
+marketing skills and management of its business and finances. The matching grants, 
+
+however, will be awarded based on a competitive process. Applicants will have to meet a set 
+
+of eligibility criteria to present their business plan, which will then be assessed on the basis 
+
+of additional relevant prioritization criteria
+14
+
+. In forest areas, application of REDD+ 
+
+principles will for instance be a precondition for relevant value chains. Female producer 
+
+groups will receive tailored technical assistance that will include business leadership 
+
+networking support to enable them to access markets and manage business operations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                           
+13
+
+ See Annex 1 for more detail on the Productive Alliance approach. 
+14
+
+ See Annex 1 for more detail on the Matching Grant’s selection process.  
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 11 of 25  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1: Productive Alliance Cycle 
+
+ 
+ 
+
+ 
+
+Subcomponent 1.2: Development of agro-industrial activities (IDA: US$ 5 million) 
+
+22. Objective and instruments used. This subcomponent will support the competitiveness of 
+MSMEs involved in agribusiness, from input supply to the production, processing and 
+
+distribution of agricultural products, as well as the delivery of agri-based services. These 
+
+actors face efficiency challenges linked to the cost of processing, packaging and marketing 
+
+their products. Efficiency gains in operations will result in higher quality agricultural 
+
+products (nutritional and safety standards compliant), jobs (full, part-time and seasonal), and 
+
+a secure market that rewards farmers with quality produce with higher prices. Female owned 
+
+MSMEs will access a technical assistance plus package (business leadership, 
+
+entrepreneurship training, with additional mentorship and networking support) to support 
+
+them to bridge specific gender related challenges. This subcomponent will aim to allow 
+
+MSMEs to have better access to training, equipment and skills they need to develop their 
+
+business. 
+
+ 
+
+23. Business plans. Agribusiness MSMEs will be able to apply for grants on a competitive basis 
+through the same matching-grant scheme as the one described for Subcomponent 1.1. They 
+
+will have to submit a business plan that identifies market demand for the firm’s products and 
+
+services and shows returns on investment and financial sustainability of the firm’s 
+
+operations, while clearly demonstrating that the investment contributes to addressing at least 
+
+one of the following challenges: product upgrade, process improvement, new product 
+
+development, volume increase, or reduction of the environmental footprint. The matching 
+
+grants will cover technical assistance and equipment. Technical assistance will systematically 
+
+accompany equipment requests to ensure the proper use and maintenance of the investment. 
+
+Eligibility and prioritization criteria will be applied to maximize the transparency of the 
+
+Promotion plans and 
+
+activities targeting 
+
+potential members of 
+
+productive alliances. 
+
+This process 
+
+continues during the 
+
+call for proposals 
+
+phase.
+
+Public calls for 
+
+potential productive 
+
+alliance partners (i.e. 
+
+producer groups, 
+
+input suppliers, 
+
+buyers, etc.) to 
+
+present business 
+
+plans. 
+
+The calls will be 
+
+accompanied by a 
+
+communications 
+
+campaign, as well as 
+
+field information and 
+
+training workshops.
+
+Evaluation of 
+
+expressions of 
+
+interest (EOI) from 
+
+producer groups with 
+
+the following criteria: 
+
+(i) compliance with 
+
+basic eligibility criteria 
+
+and safeguards; (ii) 
+
+location based on 
+
+pre-identified areas; 
+
+and (iii) commitment 
+
+by producer groups 
+
+to co-financing.
+
+Producer groups, 
+
+whose profiles are 
+
+approved, receive 
+
+technical assistance 
+
+for the formulation of 
+
+their business plan.
+
+Groups that do not 
+
+meet basic criteria 
+
+receive capacity 
+
+building support.
+
+EOI and business 
+
+plans identify public 
+
+infrastructure gaps to 
+
+help prioritize 
+
+infrastructure support 
+
+under Component 2.
+
+5. Evaluation of 
+
+proposals
+
+Evaluation of the 
+
+commercial, technical 
+
+and financial 
+
+soundness of 
+
+business plans 
+
+conducted by an 
+
+independent entity. 
+
+Safeguards 
+
+evaluation and 
+
+inclusion of mitigating 
+
+measures, if required, 
+
+are carried out by the 
+
+project unit.
+
+4. Formulation of 
+
+business plans
+
+3. Evaluation of 
+
+expressions of 
+
+interest
+
+2. Call for 
+
+proposals
+
+1. Marketing 
+
+strategy and 
+
+promotion
+
+6. Implementation
+
+of business plans
+
+Implementation of 
+
+subprojects by 
+
+producer groups, with 
+
+systematic technical 
+
+assistance to improve 
+
+organizational, 
+
+managerial, business 
+
+and risk-management 
+
+skills. 
+
+Other agents (e.g. 
+
+input suppliers, 
+
+buyers, technical 
+
+assistance providers) 
+
+implement agreed 
+
+measures separately. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 12 of 25  
+
+ 
+
+selection process and the sustainability of the investments made and assistance received
+15
+
+.  
+
+  
+
+Component 2: Improving public infrastructure and the business climate for commercial 
+
+agriculture (IDA: US$ 45 million) 
+24. This component aims to foster the development of commercial agriculture by lifting 
+
+constraints in terms of infrastructure and business climate. This component consists of two 
+
+sub-components:  
+
+ 
+
+Subcomponent 2.1: Public infrastructure for the development of commercial agriculture (IDA: US$ 
+
+37 million)  
+
+25. Objective and instruments used. This subcomponent will contribute to the development of 
+basic infrastructure essential for the promotion of commercial agriculture and the emergence 
+
+of an agro-industry. It will include public investments in the rehabilitation and maintenance 
+
+of the feeder road network and improved access to other public infrastructure (e.g. access to 
+
+electricity and water supply for agro-processing, and other public infrastructure) in a targeted 
+
+way.  
+
+ 
+
+26. Prioritization criteria. High logistical costs and limited access to markets are major 
+obstacles faced by the private sector. To address these important issues, the project will make 
+
+a provision to ensure public investments in infrastructure: (i) are identified by the 
+
+Government as infrastructure of a public nature; and (ii) are located in targeted geographic 
+
+zones where producer groups and MSMEs promoting commercial agriculture development 
+
+express interest in receiving Productive Alliance and / or MSME support (see Component 1). 
+
+ 
+
+27. Sustainability of investments. Technical assistance will also be provided through this 
+subcomponent to selected departmental councils to implement the new road maintenance 
+
+strategy developed with the assistance of the Agricultural Development and Rural Roads 
+
+Rehabilitation Project (PDARP) in order to make such maintenance more sustainable.  
+
+ 
+
+Subcomponent 2.2: Governance and regulatory framework for commercial agriculture (IDA: US$ 8 
+
+million) 
+
+28. Objective and instruments used. This subcomponent aims to improve the legal and 
+regulatory framework for commercial agriculture. It will do so by: (i) establishing and 
+
+financing platforms for public-private dialogue on commercial agriculture at the 
+
+departmental and national levels to identify needed reforms; (ii) providing technical 
+
+assistance to draft the identified legislation and regulations; (iii) policy advocacy with 
+
+parliamentarians (e.g. policy notes, sensitization, training); and (iv) conducting sensitization, 
+
+dissemination and training activities toward relevant stakeholders (i.e. ministries and public 
+
+institutions, producer groups, agribusiness MSMEs and other private sector actors, etc.) on 
+
+drafted legislations and regulations pertaining to commercial agriculture. 
+
+ 
+
+29. Public-Private Dialogue (PPD) on commercial agriculture. The project will build on the 
+mechanism for public-private dialogue put in place with the support of PADE to start a 
+
+                                                           
+15
+
+ See Annex 1 for more detail on the Matching Grant’s selection process. 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 13 of 25  
+
+ 
+
+public-private dialogue specifically on commercial agriculture by providing technical 
+
+assistance and budget support to set up and operate PPD platforms
+16
+
+ on commercial 
+
+agriculture at the departmental and national levels. The platforms are expected to identify and 
+
+contribute to building consensus around changes to legislation and practices that constrain 
+
+commercial agriculture.    
+
+ 
+
+30. Identified reforms. Some of the needed improvements to constraining legislation specific to 
+commercial agriculture have already been identified with stakeholders and their drafting will 
+
+be supported by the project. The legislation pertains to: (i) compliance with the Organisation 
+
+pour l’Harmonisation du Droit des affaires en Afrique (OHADA) Uniform Act on 
+
+Cooperatives; (ii) National Seed Policy in compliance with the norms of the Economic 
+
+Community of Central African States (CEEAC); (iii) Rural Code to clarify and secure land 
+
+access; and (iv) food safety policy and regulatory framework, standards and the certification 
+
+of products
+17
+
+. 
+
+ 
+
+Component 3: Strengthening institutional capacities to support the development of commercial 
+
+agriculture (IDA: US$ 30 million) 
+
+31. The objective of this component is to strengthen the capacity of public and non-public 
+service providers involved in the implementation of project activities and / or supporting the 
+
+development of commercial agriculture in the Republic of Congo. At the same time, it will 
+
+ensure and oversee the successful management and implementation of the project, while 
+
+making a provision to enable an immediate response in case of declared crisis or emergency. 
+
+This component has three sub-components: 
+
+ 
+
+Subcomponent 3.1: Capacity-building of institutions providing support to commercial agriculture 
+
+(IDA: US$20 million) 
+
+32. Objective and instruments used. The subcomponent will provide equipment, training and 
+operating cost support to government and non-government actors that are necessary for 
+
+commercial agriculture to succeed, including a number of technical departments of the 
+
+Ministry of Agriculture, Livestock and Fisheries (MAEP).  
+
+ 
+
+33. Targeted institutions. These capacity-building efforts will target institutions involved in key 
+areas related to: (i) agricultural statistics services; (ii) the access to improved genetic 
+
+materials; (iii) the implementation of the reform of the national public system for agricultural 
+
+extension and advisory services; (iv) the agricultural vocational and higher education training 
+
+systems; and (v) the policy framework for food safety, quality standards and product 
+
+certification supported in Subcomponent 2.2
+18
+
+. 
+
+                                                           
+16
+
+ When business practices and legislation identified by these sector-specific PPD platforms are economy-wide in nature (e.g. easing business 
+entry and business exit, facilitating trade across borders, etc.), the project will share these inputs with PADE, which is better placed to address 
+them. When identified reforms are specific to commercial agriculture, and if a strong consensus can be built with stakeholders from the public 
+and private sectors around them, the project will provide support for their drafting through this subcomponent. 
+17
+
+ See Annex 1 for more detail on the reforms that have been identified. 
+18
+
+ A list of the institutions identified for capacity-building support includes: (i) the Studies and Planning Department 
+of MAEP; (ii) the Ministry of Scientific Research and Technical Innovation through the Institut National de 
+Recherche Agronomique (IRA) and the Centre National de Semences Améliorées (CNSA), among others; (iii) the 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 14 of 25  
+
+ 
+
+ 
+
+Subcomponent 3.2: Project management, coordination and monitoring at national and provincial 
+
+levels (IDA: US$ 10 million)  
+34. This subcomponent will support project management, coordination, communication, 
+
+monitoring and evaluation, adequate monitoring of the environmental and social safeguard 
+
+policies, at the national level as well as at the departmental levels. Under this subcomponent, 
+
+a strong fiduciary management system will be introduced and an effective monitoring and 
+
+evaluation framework will be designed, which will not only monitor impact indicators, but 
+
+will also ensure real time data collection that will facilitate the adoption of corrective 
+
+measures in a timely manner and even attempt to integrate the data into the national 
+
+agricultural statistics database.  
+
+ 
+
+35. Through this subcomponent, the project will finance a baseline study, mid-term review study, 
+final impact assessment, the recruitment of staff, consultancy services, the acquisition of 
+
+property and equipment, and will support relevant seminars and training, as well as diverse 
+
+operating costs to supervise the project activities. 
+
+ 
+Component 4: Contingency emergency response (IDA: US$ 0.0M) 
+
+36. This component will provide support for immediate response to an eligible crisis or 
+emergency, as needed. A crisis or emergency eligible for financing is: an event that has 
+
+caused, or is likely to imminently cause, a major adverse economic and/or social impact to 
+
+the Borrower, associated with a natural or man-made crisis or disaster. Rapid disbursement 
+
+of funds will allow the Government to request a reallocation of project funds to partially 
+
+cover emergency response and recovery costs. This component will be triggered if: (i) the 
+
+Government has determined that an eligible crisis or emergency has occurred and has 
+
+furnished to the Bank a request to include said activities in the Contingency Emergency 
+
+Response Component (CERC) for emergency response; (ii) the Government has prepared 
+
+and disclosed all safeguards instruments required for said activities; (iii) the Borrower has 
+
+adopted the CERC Operations Manual (OM) in form, substance and manner acceptable to the 
+
+Bank. A specific OM for this component will be prepared detailing financial management, 
+
+procurement, safeguards, and any other necessary implementation arrangements. While 
+
+Components 1, 2 and 3 focus on pre-crisis disaster risk mitigation and climate resilience 
+
+enhancement measures, Component 4 will help to strengthen the Government’s capacity to 
+
+respond effectively to an eligible crisis or emergency. 
+ 
+ 
+E. Implementation 
+ 
+Institutional and Implementation Arrangements 
+
+37. The institutional arrangements proposed for this project, under the supervision of the 
+
+                                                                                                                                                                                           
+Cooperative Action Department of MAEP and Agricongo among others; (iv) the Ministry of Higher Education 
+through the Ecole Nationale Supérieure d'Agronomie et de Foresterie (ENSAF), among others; and (v) institutions 
+identified through the food safety reform supported in Subcomponent 2.2. See Annex 1 for more detail on the 
+institutional capacity-building work of Subcomponent 3.1.    
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 15 of 25  
+
+ 
+
+Ministry of Agriculture, Livestock and Fisheries (MAEP), includes the following supervisory 
+
+and implementation bodies: (i) a Steering Committee; (ii) a National Coordination Unit of 
+
+the project (including a Matching Grant scheme); (iii) Project Implementation Units at 
+
+departmental level; (iv) technical service providers (public, private, NGOs); and (v) financial 
+
+institutions, which will render financial services to the private sector (producer groups, 
+
+agribusiness MSMEs) (See Figure 2). 
+
+ 
+
+38. Public service providers will participate in the project through the structures of the MAEP, 
+The ongoing reform of MAEP and the introduction of specialized agencies is an opportunity 
+
+for re-thinking and repositioning the role of public technical services, including agriculture 
+
+advisory and extension services.  
+
+Steering Committee (CP)  
+39. A high level Steering Committee will be officially established before effectiveness. It will be 
+
+chaired by the Minister in charge of Agriculture and composed of representatives of key 
+
+project stakeholders (relevant ministries, private sector, and civil society including producer 
+
+groups) in the project. The Steering Committee will be responsible for the strategic direction, 
+
+operational oversight, communication and overall good governance of the project. 
+
+ 
+
+National Project Coordination Unit (NPCU)  
+
+40. It is proposed that the current PDARP national project coordination unit, with a proven track 
+record in administrative and fiduciary management, be retained and strengthened to 
+
+coordinate and manage the Commercial Agricultural Project. The NPCU will be responsible 
+
+for project implementation, management, coordination, monitoring and evaluation, and 
+
+supervision. The NPCU will rely on specific expertise, including the hiring of an independent 
+
+firm contracted for the management of the matching grant program of Component 1.  
+
+ 
+
+Project Implementation Units (PIUs) 
+
+41. Four Project Implementation Units will be established at departmental level to support 
+specific zones targeted by the project. They will ensure project activity monitoring and 
+
+evaluation as well as receive and process complaints related to the implementation of the 
+
+project in collaboration with the authorities and civil society.  
+ 
+ 
+
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project envisages to target 3 main high potential agricultural zones as defined in the Schema National 
+d’Amenagement du Territoire (National Spatial Master Plan). These are (i) agri-zone 1 South Corridor 
+Brazzaville - Pointe Noire, (ii) agri-zone 2 Central Corridor Konda- Oyo-Lekye- Gambona, including special 
+economic zone Oyo-Owando where fisheries and palm oil are being promoted; and (iii) agri-zone 3 North 
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 16 of 25  
+
+ 
+
+special economic zone Ouesso where cocoa, coffee and palm oil are being promoted. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Lucienne M. M'Baipor,Grace Muhimpundu,Claude Lina Lobo 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+Activities from Subcomponent 1.1: Intensification of 
+Agricultural and Livestock value chains; 
+Subcomponent 1.2: Development of logistic, trade 
+and business services; and Subcomponent 2.1: 
+Public Infrastructure for Agribusiness and Agro 
+industrial Development are expected to impact 
+environment and these impacts are evaluated to be 
+moderate, localized and manageable; so the project 
+is classified to the EA category “B”. And the 
+Environmental Safeguards Policies triggered are 
+PO/PB 4.01 "Environmental Assessment"; PO/PB 
+4.04 "Natural Habitats"; OP/PB 4.09 "Pest 
+management and pesticides"; PO/PB 4.10 
+"Indigenous Peoples"; PO/PB 4.11 "Physical Cultural 
+Resources"; OP/PB 4.12 "Involuntary Relocation"; 
+PO/PB 4.36 "Forests"; OP/PB 7.50 Projects relating 
+to International Waterways; PO/PB 17.50: Right of 
+access to information. 
+To ensure that any environmental issues by the 
+project activities are appropriately addressed, the 
+safeguard instrument elaborated according OP/BP 
+4.01 is the Environmental and Social Management 
+Framework (ESMF). This one is also designed to 
+serve as a guide for developing ESIAs and ESMPs as 
+needed, when the exact sites of sub-projects will be 
+known. In particular, the ESIA will include a 
+diagnostic of the project areas, potential 
+environmental adverse impacts, potential issues 
+related to labor influx, and mitigation measures to 
+manage properly expected adverse impacts. The 
+ESIA will highlight specific provisions that need to be 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 17 of 25  
+
+ 
+
+included in construction/installation contracts to 
+ensure that contractors’ ESMPs address relevant 
+mitigation measures. 
+The ESMF include specific sections to address all 
+issues related to OP/BP 4.04 on Natural Habitats; 
+OP/BP 4.36 on Forests and OP/BP 4.11 on Physical 
+Cultural Resources. 
+ 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+OP/BP 4.04 is triggered to enable the project to 
+perform the screening of the identified sites and 
+their vicinities relative to natural habitats, the aim is 
+to avoid project activities to create significant 
+degradation of natural habitats. Project will also 
+seek to identify appropriate conservation measures, 
+follow-up, assessment and management of natural 
+habitats within the project area. The Government 
+will be encouraged to provide necessary information 
+to the people and to provide them with the right 
+incentives to protect and to support the 
+conservation of natural habitats and to facilitate, if 
+necessary, the rehabilitation of degraded habitats. 
+
+Forests OP/BP 4.36 Yes 
+
+This project could possibly impact the health and 
+quality of forests or the rights and welfare of people 
+and their level of dependence upon the interaction 
+with forests, and it may lead to changes in the 
+management, protection or utilization of natural 
+forests or plantations. 
+
+Pest Management OP 4.09 Yes 
+
+OP/BP 4.09 is triggered because the project supports 
+activities that requires the use of pesticides, 
+fertilizers, vaccines and other chemicals like in the 
+production of eggs, of cattle feed and veterinary 
+products in the poultry, goats, pigs, cattle, fish 
+farming and aquaculture, and some projects 
+activities will lead to a surge in the use of pesticides 
+and fertilizers which can create negative effects on 
+the environment. This policy supports the integrated 
+pest control approaches. It identifies pesticides that 
+can be financed under the project and develop an 
+appropriate plan of pests to deal with risks. To 
+comply with this policy a Plan of Management of 
+Pests and Pesticides (PMPP) was prepared in 
+separated document from the ESMF. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+This policy, OP/BP 4.11, is triggered by the project 
+because during implementation of project activities, 
+it is possible to discover or to affect some cultural 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 18 of 25  
+
+ 
+
+relics. The Physical Cultural Resources Policy aims to 
+protect cultural resources, to avoid any significant 
+conversion (loss) or degradation of these resources. 
+To be in compliance with this policy, project has 
+developed, into a separate document, the Physical 
+Cultural Resources Framework (PCRF). 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+Indigenous Peoples are found on a large part of the 
+Republic of Congo’s rural territory, and a number of 
+the areas visited under project preparation and 
+evaluation phase are known to inhabit Indigenous 
+Peoples (IPs). This includes the Cuvette (Oyo-
+Owando), in the Sangha (Ouesso), and Plateau (Oyo, 
+Gamboma). Since the project will be implemented at 
+the national level, with specific zones of 
+interventions yet to be identified (based on targeted 
+crops, agribusiness, and in accordance to the 
+national agricultural plan), the project has prepared 
+an Indigenous Peoples Policy Framework (IPPF), 
+which will establish the framework for consultation 
+and inclusion of IPs in the project areas. The project 
+will identify various IPs associations and IP 
+communities in the selected zones as collaborators, 
+as well as potential CSOs and local NGOs. Once the 
+specific sites are known, an Indigenous Peoples Plan 
+(IPP) will be development, and it would identify the 
+targeted IPs, and ensure their inclusion as 
+beneficiaries of project activities, in a culturally 
+appropriate and inclusive manner. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Activities suggested in Component 2, Subcomponent 
+2.2 “Public Infrastructure for Agribusiness and Agro 
+industrial Development”, may require acquisition of 
+land. Due to low population density in rural areas, 
+however, the risk of physical resettlement is 
+minimal, although there may be potential economic 
+displacement or loss of assets.  
+The project has prepared the Resettlement Policy 
+Framework (RPF) since the exact site locations are 
+yet unknown, and eventually Resettlement Action 
+Plans (RAP) or Abreviated Resettelement Action 
+Plans (ARAP) will be prepared to mitigate potential 
+negative impacts.  
+This new project is to some regards an extension of 
+the Agricultural Development and Rural Roads 
+Rehabilitation Project (P095251, and Additional 
+Finance P145627). The project established an escrow 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 19 of 25  
+
+ 
+
+account of US $500,000 for resettlement 
+compensation. Since the project did not require any 
+land acquisition and therefore did not induce any 
+resettlement (physical or economic displacement), 
+no RAPs were prepared for the project. The funds in 
+the escrow account remain unused, and the account 
+will be transferred to the new project in order to 
+fund potential compensation cases for the new 
+Commercial Agriculture project.  
+ 
+
+Safety of Dams OP/BP 4.37 No 
+This Safeguard Policy is not trigged because no 
+project activities involved in dams or located in their 
+vicinities. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+OP 7.50 is applicable to the Project because 
+activities may have an impact on the Congo, 
+Oubangui and Sangha river basins, all of which are 
+international waterways. ROC is one of the riparians 
+of the Congo-Oubangui-Sangha basin together with 
+DRC, Central African Republic, Cameroon, Gabon, 
+and Angola. The proposed Project covers primarily 
+high potential agricultural zones around the main 
+cities of Brazzaville, Pointe Noire and Dolisie, the 
+south corridor along the national road from 
+Brazzaville to Bouenza and Kouilou and the northern 
+part of country, Sangha and Likouala. The planned 
+rehabilitations of irrigation systems are very small in 
+size. Most of these schemes will be located around 
+the three big cities and markets of Brazzaville, Pointe 
+Noire and Dolisie (using the rivers of Djoué, Niari, 
+Kouilou … ), the country’s bread basket and where 
+70% of the population live. The task team has 
+carefully considered any potential impacts of the 
+proposed investments, and because that: (i) the 
+project will not cause appreciable harm to the 
+riparian countries; and (ii) no activities are expected 
+to have any adverse effects on the water quality or 
+quantity, no notification is required under OP 7.50 
+since the project deals only with micro/minor 
+irrigation rehabilitation, and thus falls under the 
+exception to the notification requirement under 
+paragraph 7 (a) of the Policy. An exception memo 
+has been prepared and was approved by the AFRVP 
+on May 15, 2017. 
+
+Projects in Disputed Areas OP/BP 7.60 No This Safeguard Policy is not triggered. 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 20 of 25  
+
+ 
+
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+In agricultural development and infrastructure implementation, the expected negative impacts are inherent in 
+deforestation and the loss of biodiversity; soil erosion, silting of rivers, degradation of water courses; pollutions and 
+nuisances, the generation of construction waste, rubble and other demolition residues, disruption of activities on land 
+rights, etc.  
+In the operational phase, the risks relate to pollution and degradation of watercourses linked to the use of pesticides 
+and fertilizers; pollution and nuisance due to solid and liquid waste from agricultural activities, pollution of the 
+environment by sewage and solid waste disease, risk of accidents, risks (HIV / AIDS) and development of water-related 
+diseases (malaria, bilharziasis), social conflicts related to local customs and practices; losses of land and socio-
+economic income sources; influx of the population as a result of the installation of structuring facilities, strong 
+pressure on land and water with increasing development.  
+Terrestrial and aquatic habitats (wetlands) can be altered mainly during the start-up and implementation phase of 
+agricultural. But globally, all these impacts are evaluated to be moderate, localized and manageable. 
+ 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+This project would increase agricultural productivity, enhance food security and nutrition. No adverse long term or 
+indirect environmental or social impacts are expected. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+There are no significant negative impacts of the project, designed on the contrary to have positive social and 
+environmental impacts. No alternatives were therefore considered to avoid impacts. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+Based on experience gained through the implementation of the Agricultural Development and Rural Roads 
+Rehabilitation Project, a Category B project, the capacity of the Implementing Agency housed in the Ministry of 
+Agriculture to implement the Bank’s environmental and social safeguards policies is considered high. An 
+environmental specialist has been included as part of the PIU core team, and the project will recruit a social specialist. 
+The two specialists will monitor and supervise the environmental and social measures as recommended in the various 
+safeguards instruments for the project. The current environmental specialist, as well as the Project Coordinator have 
+both benefitted from the World Bank organized capacity-building initiative in November 2016.   
+Finally, to manage and monitor safeguards implementation in a timely manner, the PIU will prepare quarterly reports 
+of the implementation of the safeguards instruments. The Project will equally ensure that all the instruments (in 
+accordance with OP 4.01, OP 4.10, OP 4.11 and OP 4.12) put in place and the Grievance Redress Mechanisms (GRMs). 
+The project will monitor indicators set forth in the safeguards instruments. To this extent, the two safeguards 
+specialists in the PIU, will closely collaborate with the M&E specialist in the PIU, and reflect the findings in the 
+quarterly reports. 
+An important lesson learned under the previous Agriculture project was the poor management of grievances. The 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 21 of 25  
+
+ 
+
+mechanism as established in the safeguards documents were not appropriate or applicable to existing local structures. 
+The PIU has drafted a new GRM to manage complaints ensuing from the new project.  
+ 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The key stakeholders outside of government structures are agricultural producers, civil society, private sector (MSMEs 
+and SMEs), Indigenous Peoples communities and representatives. Overall, the design of the project has been 
+participatory at various levels, through consultation with the different stakeholders throughout preparation. This is 
+complemented with additional consultations as part of the review of safeguards instruments.  Representatives of the 
+national government formulated the design of the project, while regional governments, local authorities, and 
+conservation actors provided inputs. The project will be implemented with the participation of local stakeholders. 
+ 
+ 
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission to InfoShop 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+20-Mar-2017 31-Mar-2017 
+ 
+
+   
+
+"In country" Disclosure   
+
+ 
+
+  
+OPS_RA_D ISCL OSURE_T ABLE  
+
+ 
+
+Resettlement Action Plan/Framework/Policy Process 
+
+   
+
+Date of receipt by the Bank Date of submission to InfoShop  
+
+20-Mar-2017 31-Mar-2017  
+
+   
+
+"In country" Disclosure   
+ 
+
+  
+OPS_I P_DIS CL OSURE_TA BLE  
+
+ 
+
+Indigenous Peoples Development Plan/Framework 
+
+Date of receipt by the Bank Date of submission to InfoShop  
+
+20-Mar-2017 31-Mar-2017  
+
+   
+"In country" Disclosure   
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 22 of 25  
+
+ 
+
+ 
+
+  
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission to InfoShop 
+
+NA 20-Mar-2017 31-Mar-2017 
+
+   
+"In country" Disclosure   
+ 
+
+ 
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+All safeguards instruments were disclosed in country and on the Bank’s Infoshop prior to Negotiations (May 5, 2017). 
+Any ensuing safeguard instruments (IPP, ESIA, RAP, and/or PSR) will also be publicly disclosed prior to implementation. 
+The project team will ensure that all compensation and resettlement is completed prior to any civil works. 
+ 
+ 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting)  
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+NA   
+
+OPS_ NH_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.04 - Natural Habitats 
+  
+Would the project result in any significant conversion or degradation of critical natural habitats? 
+No   
+If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the 
+project include mitigation measures acceptable to the Bank? 
+Yes   
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 23 of 25  
+
+ 
+
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+Yes   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+Yes   
+
+OPS_ PCR_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.11 - Physical Cultural Resources  
+Does the EA include adequate measures related to cultural property? 
+Yes   
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property? 
+Yes   
+
+OPS_I P_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.10 - Indigenous Peoples 
+  
+Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate) been prepared in consultation with 
+affected Indigenous Peoples? 
+Yes   
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+Yes   
+If the whole project is designed to benefit IP, has the design been reviewed and approved by the Regional Social 
+Development Unit or Practice Manager? 
+NA   
+
+OPS_IR_ CO MP_TA BLE  
+
+ 
+
+OP/BP 4.12 - Involuntary Resettlement 
+
+ 
+ 
+
+Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared? 
+NA 
+ 
+
+ 
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+ 
+ 
+
+ 
+ 
+
+ 
+
+  
+OPS_F O_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.36 - Forests 
+  
+Has the sector-wide analysis of policy and institutional issues and constraints been carried out? 
+NA   
+Does the project design include satisfactory measures to overcome these constraints? 
+NA   
+Does the project finance commercial harvesting, and if so, does it include provisions for certification system? 
+Yes    
+
+OPS_ PIW _C OMP_ TABLE  
+
+ 
+
+OP 7.50 - Projects on International Waterways 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 24 of 25  
+
+ 
+
+  
+Have the other riparians been notified of the project? 
+Yes   
+If the project falls under one of the exceptions to the notification requirement, has this been cleared with the Legal 
+Department, and the memo to the RVP prepared and sent? 
+Yes   
+Has the RVP approved such an exception? 
+Yes    
+
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's Infoshop? 
+No   
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+No  
+
+ 
+ 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes 
+
+  
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes 
+
+  
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes 
+
+  
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes 
+
+ 
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Amadou Oumar Ba 
+Sr Agricultural Spec.  
+
+ 
+
+Jean Edouard Albert Saint-Geours 
+Economist 
+
+  
+
+ 
+
+
+
+ 
+
+The World Bank  
+Congo Commercial Agriculture Project (P159979) 
+
+ 
+
+ 
+
+  
+Mar 22, 2017 Page 25 of 25  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Republic of Congo 
+
+ 
+
+ 
+
+ 
+ 
+
+  Implementing Agencies 
+
+ 
+
+Ministry of Agriculture, Fisheries and Livestock 
+
+Henry Djombo 
+
+State Minister 
+
+pdarp_maep@yahoo.fr 
+ 
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Amadou Oumar Ba 
+Jean Edouard Albert Saint-Geours 
+
+ 
+
+  Approved By 
+
+Safeguards Advisor: Maman-Sani Issa 15-May-2017 
+
+Practice Manager/Manager: Dina Umali-Deininger 15-May-2017 
+
+Country Director: Ahmadou Moustapha Ndiaye 16-May-2017 
+ 
+
+    
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Note to Task Teams: End of system generated content, document is editable from here. 
+
+http://www.worldbank.org/projects
+
+

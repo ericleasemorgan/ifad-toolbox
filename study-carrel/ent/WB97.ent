@@ -1,0 +1,175 @@
+id	sid	eid	entity	type
+WB97	1	1	1	CARDINAL
+WB97	1	2	Pu bl	PERSON
+WB97	1	3	ic D	PERSON
+WB97	1	4	PID	ORG
+WB97	1	5	CONCEPT STAGE Report	ORG
+WB97	2	1	PIDC11855 Project Name Bangladesh	ORG
+WB97	2	2	National Agricultural Technology Program - Phase II	ORG
+WB97	2	3	50%	PERCENT
+WB97	2	4	20%	PERCENT
+WB97	2	5	20%	PERCENT
+WB97	2	6	10%	PERCENT
+WB97	2	7	50%	PERCENT
+WB97	2	8	25%	PERCENT
+WB97	2	9	25%	PERCENT
+WB97	2	10	Ministry of Finance Implementing Agency Ministry of Agriculture	ORG
+WB97	2	11	26-Feb-2015 Concept Review Decision I.	WORK_OF_ART
+WB97	3	1	the last 20 years	DATE
+WB97	3	2	Bangladesh	ORG
+WB97	3	3	2021	DATE
+WB97	3	4	GoB	ORG
+WB97	4	1	5.8 percent	PERCENT
+WB97	4	2	between 2000 and 2010	DATE
+WB97	4	3	48.9 percent	PERCENT
+WB97	4	4	31.5 percent	PERCENT
+WB97	4	5	the same period	DATE
+WB97	4	6	some 16 million	CARDINAL
+WB97	5	1	over 160 million	CARDINAL
+WB97	7	1	2	CARDINAL
+WB97	7	2	Pu bl	PERSON
+WB97	7	3	ic D	PERSON
+WB97	8	1	the 2000 to 2010 period	DATE
+WB97	8	2	35.2 percent	PERCENT
+WB97	8	3	three	CARDINAL
+WB97	9	1	the past decade	DATE
+WB97	9	2	almost one-fifth	CARDINAL
+WB97	10	1	some 70 percent	PERCENT
+WB97	10	2	over 43 percent	PERCENT
+WB97	11	1	the year 2030	DATE
+WB97	11	2	40 percent	PERCENT
+WB97	16	1	GoB	ORG
+WB97	16	2	Bank	ORG
+WB97	17	1	Bangladesh	GPE
+WB97	17	2	NARS	ORG
+WB97	19	1	NARS	ORG
+WB97	20	1	NARS	ORG
+WB97	22	1	The National Agricultural Extension Policy	ORG
+WB97	22	2	NAEP	NORP
+WB97	22	3	2012	DATE
+WB97	22	4	the Bangladesh Agricultural Research Council	ORG
+WB97	22	5	BARC	ORG
+WB97	22	6	2011	DATE
+WB97	23	1	NAEP	ORG
+WB97	24	1	the Department of Agricultural Extension	ORG
+WB97	24	2	NAEP	NORP
+WB97	24	3	3	CARDINAL
+WB97	24	4	Pu bl ic D	PERSON
+WB97	24	5	Pu bl	PERSON
+WB97	24	6	D	PERSON
+WB97	24	7	the Department of Livestock Services	ORG
+WB97	24	8	the Department of Fisheries	ORG
+WB97	25	1	BARC Act	LAW
+WB97	25	2	twelve	CARDINAL
+WB97	25	3	NARS	ORG
+WB97	25	4	BARC	ORG
+WB97	25	5	NARS	ORG
+WB97	26	1	the BARC Act	LAW
+WB97	27	1	NARS	ORG
+WB97	28	1	CAS Agriculture	ORG
+WB97	28	2	WBG	ORG
+WB97	29	1	CPS	ORG
+WB97	29	2	FY15	CARDINAL
+WB97	29	3	Pillar 3	WORK_OF_ART
+WB97	29	4	Vulnerability	ORG
+WB97	29	5	Adaptation	ORG
+WB97	29	6	Inclusion	ORG
+WB97	29	7	Pillar 2	ORG
+WB97	29	8	4th	ORDINAL
+WB97	31	1	73983-BD	CARDINAL
+WB97	31	2	November 20, 2013	DATE
+WB97	31	3	Pillar 3 Outcome 3.1	PRODUCT
+WB97	33	1	IFC	ORG
+WB97	33	2	the Pilot Program for Climate Resilience	ORG
+WB97	34	1	IFC	ORG
+WB97	35	1	Seed Act	LAW
+WB97	35	2	National Seed Policy	PRODUCT
+WB97	36	1	1	CARDINAL
+WB97	36	2	FY15	CARDINAL
+WB97	38	1	PCN	GPE
+WB97	38	2	6	CARDINAL
+WB97	42	1	Supporting Livestock Development	ORG
+WB97	42	2	Supporting Fisheries Development	ORG
+WB97	42	3	Project Management and Coordination	ORG
+WB97	43	1	7	CARDINAL
+WB97	44	1	NARS	ORG
+WB97	44	2	Page 4	PRODUCT
+WB97	44	3	Pu bl	PERSON
+WB97	44	4	ic D	PERSON
+WB97	48	1	PCN	GPE
+WB97	48	2	III	ORG
+WB97	57	1	three	CARDINAL
+WB97	58	1	5	CARDINAL
+WB97	58	2	Pu bl	PERSON
+WB97	58	3	ic D	PERSON
+WB97	61	1	the Project Management and Coordination Unit	ORG
+WB97	62	1	Common Interest Groups	ORG
+WB97	62	2	Producer Organizations	ORG
+WB97	62	3	National Agricultural Research Institutes	ORG
+WB97	62	4	one	CARDINAL
+WB97	63	1	the Agricultural Innovation Fund	ORG
+WB97	64	1	2	CARDINAL
+WB97	64	2	the Department of Agricultural Extension	ORG
+WB97	66	1	smallholder farm mechanization	ORG
+WB97	66	2	IFC	ORG
+WB97	66	3	IFC	ORG
+WB97	69	1	3	CARDINAL
+WB97	69	2	the Department of Fisheries	ORG
+WB97	74	1	the Department of Livestock Services	ORG
+WB97	74	2	goat meat	PERSON
+WB97	76	1	6	CARDINAL
+WB97	76	2	Pu bl	PERSON
+WB97	76	3	ic D	PERSON
+WB97	79	1	Project Management and Coordination	ORG
+WB97	79	2	Project Management and Coordination Unit	ORG
+WB97	79	3	day	DATE
+WB97	79	4	the Ministry of Agriculture and Ministry of Food	ORG
+WB97	80	1	PCMU	ORG
+WB97	81	1	PCMU	ORG
+WB97	82	1	third	ORDINAL
+WB97	82	2	vii	ORG
+WB97	82	3	NATP	ORG
+WB97	84	1	4.01	CARDINAL
+WB97	84	2	Habitats OP	PRODUCT
+WB97	84	3	4.04	CARDINAL
+WB97	84	4	4.36	CARDINAL
+WB97	84	5	4.09	CARDINAL
+WB97	84	6	Physical Cultural Resources OP/BP	LAW
+WB97	84	7	4.10	CARDINAL
+WB97	84	8	OP	PERSON
+WB97	84	9	International Waterways OP/BP	ORG
+WB97	84	10	Disputed Areas OP/BP	FAC
+WB97	84	11	USD Million	CARDINAL
+WB97	84	12	200.00	CARDINAL
+WB97	84	13	150.00	CARDINAL
+WB97	84	14	0.00	CARDINAL
+WB97	84	15	3.00	CARDINAL
+WB97	84	16	International Development Association	ORG
+WB97	84	17	IDA	ORG
+WB97	84	18	150.00 US Agency for International Development	MONEY
+WB97	84	19	25.00	CARDINAL
+WB97	84	20	22.00	CARDINAL
+WB97	84	21	200.00	CARDINAL
+WB97	84	22	7	CARDINAL
+WB97	84	23	Pu bl ic D	PERSON
+WB97	84	24	Pu bl	PERSON
+WB97	84	25	D	PERSON
+WB97	85	1	World Bank Contact	ORG
+WB97	85	2	Patrick Verissimo Title	PERSON
+WB97	85	3	Lead Rural Development	PERSON
+WB97	85	4	Borrower/Client/Recipient Name: Economic Relations Division	ORG
+WB97	85	5	Ministry of Finance	ORG
+WB97	85	6	Ministry of Finance	ORG
+WB97	85	7	9180675	DATE
+WB97	85	8	Ministry of Agriculture	ORG
+WB97	85	9	MOA	ORG
+WB97	86	1	Tel	PERSON
+WB97	86	2	716-0470 Email	PERCENT
+WB97	86	3	VII	ORG
+WB97	87	1	The InfoShop The World Bank 1818 H Street	ORG
+WB97	87	2	NW	GPE
+WB97	87	3	Washington	GPE
+WB97	87	4	202	CARDINAL
+WB97	87	5	458	CARDINAL
+WB97	87	6	202	CARDINAL
+WB97	87	7	522-1500	CARDINAL

@@ -1,0 +1,1549 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+ 
+
+  
+Mar 13, 2018 Page 1 of 20  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 03-Sep-2018 | Report No: PIDISDSA23484 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 2 of 20  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Sri Lanka P163742 Climate Smart Irrigated 
+Agriculture Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA 28-Aug-2018 08-Nov-2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Ministry of Agriculture  
+
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to improve the productivity and climate resilience of smallholder agriculture in 
+selected hotspot areas. 
+
+ 
+Components 
+
+Agriculture Production and Marketing 
+Water for Agriculture 
+Project Management 
+Contingent Emergency Response 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 140.00 
+
+Total Financing 140.00 
+
+of which IBRD/IDA 125.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 125.00 
+
+Non-World Bank Group Financing 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 3 of 20  
+
+ 
+
+     Counterpart Funding 15.00 
+
+          Borrowing Agency 10.00 
+
+          LOCAL: BENEFICIARIES 5.00 
+
+    
+
+Environmental Assessment Category 
+
+B-Partial Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+A. Introduction and Context 
+ 
+1. Sri Lanka is a Lower Middle-Income country with a GDP per capita of USD 4,073 (2017) and a total population 
+of 21.4 million people. Following 30 years of civil war that ended in 2009, Sri Lanka’s economy grew at an average 5.8 
+percent during the period of 2010-2017, reflecting a peace dividend and a determined policy thrust towards 
+reconstruction and growth; although there were some signs of a slowdown in the last few years. The economy is 
+transitioning from a predominantly rural-based economy towards a more urbanized economy oriented around 
+manufacturing and services.  Economic growth has contributed to the decline in the national poverty headcount ratio 
+from 15.3 percent in 2006/07 to 4.1 percent in 2016. Extreme poverty is rare and concentrated in some geographical 
+pockets. 
+ 
+2. The Government that came to power in 2015 envisions promoting a globally competitive, export-led 
+economy with an emphasis on inclusion. It has indicated keenness to undertake reforms in the areas of public finance, 
+competitiveness, governance, and education sectors. In 2017, the Government presented Vision 2025, a policy 
+document that both identified economic limitations due to the constrained fiscal space and presented structural 
+reforms (including the promotion of private sector participation) to address key economic challenges and strengthen 
+economic growth. Despite Sri Lanka’s remarkable economic achievements, many people continue to be at risk of falling 
+back into poverty. 
+ 
+3. Sri Lanka is vulnerable to climate-related natural disasters that have major economic impacts. Long-term, 
+annual losses for housing, infrastructure, agriculture, and relief from natural disasters are estimated at LKR 50 billion 
+(USD 327 million), with the highest annual expected losses from floods, cyclones or high winds, droughts and landslides. 
+This is equivalent to 0.4 percent of GDP or 2.1 percent of GoSL expenditures. Due to the increased sophistication of the 
+economy the damage caused by the 2016 and 2017 floods and landslides was more than twice as high in US$ terms 
+than the worst flood disasters between 1992 and 2011. 
+ 
+
+B. Sectoral and Institutional Context 
+ 
+
+4. The agriculture sector remains the backbone of Sri Lanka’s culture and economy.  The agriculture sector 
+contributes 7.7 percent to GDP and still employs approximately 27 percent of the population.  Of the country’s 
+approximately 2.3 million hectares of agricultural land, around 80 percent is under smallholder production, with 
+around 1.65 million smallholder farmers operating on average less than 2 hectares.  Sri Lanka has successfully attained 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 4 of 20  
+
+ 
+
+self-sufficiency in rice through policy interventions including fertilizer subsidies. However, expenditures on vital public 
+services, such as Research and Development (R&D) and extension services account for only three percent of total 
+agriculture expenditure and much of this limited budget is spent on rice research. The focus on self-sufficiency in rice 
+has limited farmer’s opportunities to diversify into higher value products and kept the sector concentrated in the low 
+value food crops.  As a result, agriculture productivity, as measured by Total Factor Productivity (TFP), has only grown 
+by an average of 0.6 percent per year since 1980 and Sri Lanka lags significantly behind other South and East Asian 
+countries. Women contribute to over 38 percent of the farming operations in Sri Lanka. However, the unemployment 
+rates of women are more than double that of men at all age levels, with more than 60 percent of women engaged in 
+agriculture working as unpaid family labor. Furthermore, only 10 percent of female farmers receive extension services 
+in comparison to 90 percent of male farmers.  
+ 
+5. Irrigation is a key feature of the smallholder agriculture sector.  Sri Lanka has a long history of water 
+management for agriculture production.  The expansion of crop cultivation into the dry zones of the north, east and 
+south-east of the country was enabled through the construction of elaborate water management systems, dating back 
+to the period between 500 BC and 300 AD. The systems are based on water capture in small reservoirs commonly 
+known as “tanks” connected via canals into “cascades” which enabled crop cultivation throughout the country 
+including those areas with long and variable dry seasons. Tank cascades remain the primary source of water for dry 
+season cultivation of approximately 74,150 hectares, supporting the livelihoods of approximately 154,744 farmers.  
+Recently, water scarcity has increased because of high inter-annual and inter-seasonal variability in rainfall, catchment 
+area land-use changes which have reduced the proportion of rainfall available for capture in downstream tanks, and 
+the growing demand for water to meet the needs of a growing population.  For example, drought in 2016 and 2017 
+affected 1,927,069 people across 17 districts, according to the Disaster Management Centre. During the Maha season 
+in 2016, 612,224 hectares of paddy were cultivated of which 50,615 hectares were damaged due to the drought, with 
+total production of MT 2.383 million, 30 percent of the average in last ten years. 
+ 
+6. Hotspot areas are the most vulnerable to climatic events .  Although much of the country has been subject 
+to the increased frequency and severity of climate e vents, some areas have emerged as being particularly 
+susceptible to either flood or drought events, or both.  These are areas which are predominantly agriculture based 
+and therefore the livelihoods of smallholder farmers are at risk.  Hotspots have been identified through a rigorous, 
+analysis of empirical evidence by the Department of Agrarian Development (DAD) of the Ministry of Agriculture (MoA), 
+the World Food Program (WFP) and the International Water Management Institute (IWMI). 
+ 
+7. The management of irrigation water suffers from institutional fragmentation and lack of local accountability. 
+The management of irrigation tanks has undergone a transformation in the post-independence period. Community 
+institutions which originally managed these tanks were initially replaced with a new GoSL-led institutional system that 
+ultimately became ineffective. To overcome the top-down management of tank systems, since 1978 there have been 
+experiments in Participatory Irrigation Management (PIM), involving local communities in the management of irrigation 
+schemes. PIM was approved as official policy in 1992 and Farmer Organizations (FOs) were created by the Agrarian 
+Services Act of 1991 to manage minor tanks. Despite this policy direction, less capacity of FOs to manage limited 
+remaining water and lack of strong oversight from GoSL have compounded the situation. Within GoSL, the responsibility 
+for the management of these tanks currently lies with three different institutions: Ministry of Irrigation, Water Resource 
+and Disaster Management (MIWRDM); Ministry of Agriculture (MoA) and, Provincial Councils (PCs). The responsibility 
+for system maintenance budgeting and implementation is shared across these institutions and FOs often with unclear 
+mandates. Water user fees were removed after the independence, and GoSL started to allocate maintenance budgets 
+which are insufficient to meet maintenance needs. But, FOs collect contribution from farmers and they are 
+maintaining their own Operation and Maintenance (O&M) funds. 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 5 of 20  
+
+ 
+
+ 
+8. While many of these tanks are still functioning, some are in a completely dilapidated condition and the 
+overall performance is low.  Past tank rehabilitation efforts have largely failed to produce the desired results for many 
+reasons. Firstly, insufficient attention has been paid to water and land use management in the upstream catchment 
+areas. The supply of water from upstream catchment areas is in most cases decreasing because of land use changes, 
+including deforestation and infrastructure development, which has also increased the flow of silt into the supply canals 
+and tanks resulting in declined water inflows into the tanks and reduced water storage capacity in the tanks. Secondly, 
+previous rehabilitation efforts have not adequately accounted for the hydraulic inter-connectedness of tanks within 
+cascades resulting in sub-optimal development of water resources and negative downstream impacts. Finally, past 
+rehabilitation efforts have not sufficiently factored in either growing water demand in the tank command areas or the 
+likely future impacts of climate change, such that rehabilitated tanks have failed to provide enough water supply to 
+meet even current demand. 
+ 
+
+9. Improved access to irrigation and better water management needs to be addressed in conjunction with 
+improving productivity in the sector.  Agriculture productivity is low due to an inhibiting policy framework, weak public 
+services and low levels of private investment.  With rice self-sufficiency secured, a consensus has recently emerged 
+within the GoSL that the country should take a more strategic approach to addressing low productivity by (i) 
+modernizing water resource infrastructure, minimizing flood damages and managing water allocation more efficiently 
+and (ii) diversifying the agricultural sector away from relatively low value food crops towards high value and export-
+oriented commodities. In the water sector, an integrated basin approach to water investment and management needs 
+to be built on integrated basin plans developed through effective stakeholder participation. As a middle-income country 
+in an economically strong region, farmers can capitalize on growing domestic consumer demand for diversified, 
+nutritious, and higher-valued foods and take advantage of the country’s proximity to fast growing neighboring markets. 
+The GoSL has recently implemented measures to improve the competitiveness of the agriculture sector, such as 
+promoting commercial and export-oriented agriculture through attracting and leveraging investments from farmer 
+producer organizations and agribusinesses for high value agriculture production and value addition under the Bank-
+supported Agriculture Sector Modernization Project.  
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD) 
+  
+10. The Project Development Objective is to improve the productivity and climate resilience of smallholder 
+agriculture in selected hotspot areas. 
+
+ 
+Key Results 
+
+11. The key results indicators to assess project outcomes are: 
+
+• KPI 1: Increase in water productivity at farm level (Custom); 
+
+• KPI 2: Increase in agriculture productivity of crops (Custom); 
+
+• KPI 3: Crop diversification index (Custom); and 
+
+• KPI 4: Direct project beneficiaries, segregated by gender (CRI). 
+ 
+
+D. Project Description 
+  
+12. Theory of Change: The project will address the key problem of the vulnerability of agriculture systems in 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 6 of 20  
+
+ 
+
+climatic hotspot areas of the country.  The drivers of this vulnerability are (i) lack of farmer access to reliable 
+sources of irrigation water, (ii) insufficient protection of agriculture land from floods; (iii) low levels of 
+diversification in agriculture production; and (iv) limited adoption of climate-smart technologies. Addressing 
+these issues will involve an approach that (i) addresses expected long-term trends in climate change including 
+the frequency and severity of climatic events (flood and drought); (ii) adopts a catchment scale approach to water 
+management; and (iii) integrates agriculture and water by working with farmers and Farmer Organizations (FOs) 
+to improve the sustainable management of water and soil resources, and promote the adoption of suitable on-
+farm water management and crop production technologies. 
+ 
+13. The proposed project interventions will introduce catchment level hydrological assessments that 
+incorporate future climate change projections to assess water availability and identify appropriate investments 
+for upper catchment area treatments, water harvesting, rehabilitation of irrigation systems and reduced flood 
+damage. Once water availability is assessed in a river basin, watersheds, sub-watersheds, cascades and individual 
+tanks, then technical designs will be carried out for the tank irrigation systems, which consist of watershed 
+catchment area, tank headworks, canal system and agriculture production area. The water stored in rehabilitated 
+tanks will be used to commence CSA activities. Management of irrigation schemes will be enhanced through 
+improved capacity of FOs. The project would support the identification, demonstration and adoption of 
+technologies to both improve water use efficiency and enable farmers to diversify their production and move 
+into higher value crops. Finally, support would be provided to enable farmers to have improved market access. 
+Through these interventions, as stated below, the core project objectives of improving climate resilience and 
+increased productivity would be achieved. 
+ 
+
+ 
+ 
+ 
+14. Project Beneficiaries: The primary project beneficiaries will be over 470,000 smallholder farmers in 
+hotspot areas (375,000 ha) in eleven administrative districts (Kilinochchi, Mullaitivu, Anuradhapura, 
+Polonnaruwa, Puttalam, Kurunegala, Trincomalee, Batticaloa, Ampara, Hambantota and Moneragala) spread 
+across six provinces (Northern, North Central, North Western, Eastern, Southern and Uva) in the dry zone of Sri 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 7 of 20  
+
+ 
+
+Lanka (see Project Area in Annex 9). Smallholder farmers consist of small farmers (1.0 to 2.0 ha of farm land) and 
+marginal farmers (less than 1.0 ha).  They will gain knowledge and technology transfer and access to 
+infrastructure assets to enhance climate resilience in farming resulting in increased revenue from crop 
+diversification and participation in emerging value chains.  Many technical and managerial staff of the 
+participating agencies will benefit through training and capacity building activities. The project will also promote 
+participation of youth and women in all key project interventions to ensure that they would benefit from the 
+project activities. 
+
+ 
+15. Hot-Spot Area Development Model: Given the centrality of tanks in the agrarian livelihoods of the dry 
+zone of Sri Lanka, their current levels of neglect and the increasing vulnerability of these areas to both droughts 
+and floods in quick succession with consequent impacts on agricultural production and incomes, the 
+rehabilitation of tank-based irrigated agricultural systems is key to improving the resilience of these areas and 
+the agrarian communities that depend on them. Resilience being ‘the ability of a system to bounce back or return 
+to normal functioning after adversity’,1 the Hot-Spot Area Development model aims to enhance the resilience of 
+these areas and those who depend on them for their livelihoods. Climate shocks add to relatively low paddy 
+productivity. Resilience will be built through stable and rising incomes of agrarian families living in these hotspot 
+areas despite increasing climatic variability. The expected results of this novel model will be achieved by (1) 
+flexible and adaptive management of existing and improved irrigation water storage and delivery structures to 
+make irrigation more reliable in the face of rising climatic variability (including more frequent episodes of high 
+intensity rainfall and flooding and/or drought); (2) better agricultural inputs, techniques and practices that will 
+help farmers maximize water use efficiency given rising climatic variability – and reduce crop harvest losses; and 
+(3) better access to new markets and higher prices, through marketing higher up the value chain, more 
+competitive agri-enterprises and upgraded infrastructure for agricultural trade to stabilize and increase incomes 
+from agricultural livelihoods. The project will prioritize nutrient-rich foods to improve year-round nutrition. 
+ 
+
+16. Phasing: In view of the complexity and innovativeness of the project and to learn lessons, the project will 
+be implemented in three overlapping stages. The first stage (2018–2021) will cover three Hot-Spot Areas 
+(Anuradhapura, Kurunegala and Kilinochchi districts), whereas the second (2020–2023) and third (2021–2024) 
+stages will cover the balance eight districts. Progress will be reviewed annually and prior to completion of every 
+stage, to sanction the next stage of implementation. All project financed activities in a stage will be completed in 
+3 years but the O&M activities will continue till end of the project.  
+
+ 
+
+Project Components 
+
+ 
+17. Component 1: Agriculture Production and Marketing (US$ 42 million). The objective of this component 
+is to improve agriculture productivity and diversification through the adoption of CSA practices and improved 
+on-farm water management. 
+ 
+18. Component 2: Water for Agriculture (US$ 92 million). The objective of this component is to facilitate (a) 
+planning for water and other infrastructure necessary to support climate-resilient irrigated agriculture, (b) 
+
+                                                           
+1 Headington Institute. n.d. Resilience, http://www.headington-institute.org/topic-areas/123/resilience. Bahadur et al. (2015) define 
+
+resilience as the ability of a system to anticipate, absorb and adapt to shocks and stresses’ while Holling (1973) coined the term, 
+
+writing: ‘Resilience determines the persistence of relationships within a system and is a measure of the ability of these systems to 
+
+absorb changes of state variables, driving variables, and parameters, and still persist’.  
+
+http://www.headington-institute.org/topic-areas/123/resilience
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 8 of 20  
+
+ 
+
+construction of the planned infrastructure; and (c) co-management of this infrastructure by central/provincial 
+governments and the local community. 
+ 
+19. Component 3: Project Management (US$ 6 million). The objective of this component is to ensure the 
+quality of overall project management, while ensuring smooth coordination of activity implementation by various 
+agencies and strategic partners at national and subnational levels. This component will finance (i) the consultancy 
+and operating costs of the PMU and DPD Offices and of different project executing agencies, including for 
+fiduciary and safeguard aspects; (ii) the monitoring and evaluation of project activities at baseline, midterm and 
+end of project, including geotagging of the assets created; and (iii) information, education and communication 
+campaigns to make all stakeholders aware of the project. 
+
+ 
+20. Component 4: Contingent Emergency Response (US$ 0.0 million). This emergency response component 
+will allow for rapid reallocation of project proceeds in the event of a natural or man-made disaster or crisis that 
+has caused or is likely to imminently cause a major adverse economic and/or social impact. 
+
+ 
+
+21. Climate Co-Benefits: The project seeks to derive Climate Co-Benefits (about 95 percent) through: (i) 
+enhanced water security at farm level through the rehabilitation and modernization of irrigation systems and 
+improvement in water efficiency; (ii) improved soil health through the adoption of good agricultural practices to 
+improve soil fertility, soil nutrient management, and promote soil carbon sequestration; and (iii) improved 
+adaptation to climate risks through increased farm productivity and crop diversification. 
+
+ 
+
+22. Project Cost and Financing: The project will be financed through a six-year Investment Project 
+Financing (IPF) loan. The total project cost is US$140 million and will be funded by an IBRD loan of US$125 million, 
+with the GoSL contribution of US$ 10 million to cover salary costs on parallel basis and the Beneficiaries 
+contributing US$ 5 million in kind.  Retroactive financing up to an aggregate amount of US$ 5 million will be 
+available for eligible expenditures incurred under all project components and all categories prior to the date of 
+signed Loan Agreement, but on or after July 01, 2018. 
+ 
+E. Implementation 
+ 
+23. The key design features incorporated in the institutional and implementation model include: multi-
+stakeholder approach - different stakeholders involved in the field of climate resilient irrigation and agriculture 
+are expected to contribute to project implementation from national to sub-national levels; coordinated 
+approach - stakeholders are expected to share knowledge and resources in a collaborative manner at each level; 
+citizen engagement - local smallholder farmers, medium sized agribusiness owners, common interest groups, 
+producer organizations, individual entrepreneurs and their customers will be involved in the planning & 
+implementation of project activities, along with government counterparts, NGOs, academia and the private 
+sector; consistency with the National Poverty Alleviation Programme – since the project will also work with the 
+People’s Company of the Grama Shakthi Programme implemented at Grama Niladhari Division (GND) level; Use 
+of existing government staff – except a few of the full-time key professionals to be recruited from the open 
+market, the rest of the staff will be from existing government cadres and work on a part-time basis at both 
+national and provincial levels; and gender equality - the project design and approach will take into account the 
+gender dimension and ensure that the project provides equal opportunities for women to participate in the 
+project cycle. 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 9 of 20  
+
+ 
+
+24. Institutional arrangements:  The project is fully integrated in the GOSL administration, and the 
+implementation is designed to capitalize on existing government agencies at national, provincial, district, 
+divisional, and   Grama Niladhari Division levels. A Project Management Unit (PMU) will be established under 
+the Ministry of Agriculture, whereas Deputy Project Director’s Offices (DPD Offices) will be established under 
+the Ministries of Irrigation & Water Resources Management and of Provincial Councils and Local Government. 
+At provincial level, there will be Provincial DPD Offices set up in each of the participating Provinces to implement 
+the project. The Provincial DPD Offices will be set up under the Chief Secretaries in Kilinochchi, Kurunegala, 
+Anuradhapura, Trincomalee, Hambantota and Moneragala Districts, and they will cover the district level 
+activities of the respective districts. In addition, a District Unit of the DPD Office will be established under the 
+District Secretary at the Office of the Assistant Commissioner of Agrarian Development in Puttalam, Batticaloa, 
+Mullaitivu, Polonnaruwa and Ampara Districts to coordinate all agencies operating at district level.  
+ 
+
+25. There will be a Project Appraisal Team (PAT) set up at district level, and it will be coordinated by the 
+District Planning Director. The PAT is an independent body and will report to the DPD. In addition, at the district 
+level, there will be an advisory committee headed by the District Secretary. The Divisional secretaries of the 
+participating divisions and district and divisional level heads of the government agencies, representatives of 
+chamber of commerce, Associations of Farmer/Producer Organizations and NGOs will participate in the Advisory 
+Committee. The Advisory Committee will guide the project implementers at the district level to implement CSIAP 
+effectively. 
+
+ 
+26. At Divisional level, there will be a Divisional Unit of the Provincial DPD Office set up at the Agrarian 
+Service Center (ASC), and it will be headed by the Divisional Officer of the ASC. The Divisional Unit will function 
+as a supporting unit to the Provincial DPD office and work closely with the District Unit to implement the Project 
+effectively. The community based organizations, such as Farmer Organizations (FOs), Producer Groups (PGs), and 
+Grama Shakthi People’s Company (GSPCs) operating at the Grama Niladhari Division (GND) level are the 
+institutions that will be actively involved in the project together with the beneficiary farmers at the community 
+level. Given the transformative nature of the project, institutional coordination across the relevant sectors is 
+emerging as a critical task for the PMU in developing an effective project implementation mechanism to achieve 
+convergence with other programs. The institutional arrangement is further described in Annex 2 of the PAD. 
+ 
+27. Implementation arrangements:  Overall project implementation is the responsibility of the Ministry of 
+Agriculture (MOA). Since the institutional capacity of MOA is limited and special skills are required to implement 
+the complex project activities, the project will draw expertise from the Ministry of Irrigation, Water Resource 
+and Disaster Management (MIWRDM), Department of Agriculture (DOA), Department of Agrarian Development 
+(DAD) and Irrigation Department (ID), as well, and acquire outside expertise, including consulting services. The 
+day-to-day management and operation of the project is the responsibility of the Project Management Unit 
+(PMU), headed by a Project Director (PD) appointed by MOA and assisted by national level Deputy Project 
+Director’s offices in MIWRDM and MSPCLG as well as provincial level Deputy Project Director’s offices. The 
+project will give attention to institutional coordination across departments, agencies, and strategic partners 
+involved in the implementation of project activities. Specifically, as the MoA has an existing PMU under the 
+ASMP, core functions such procurement, FM and safeguards would maximize the use of existing capacity.  Overall 
+project oversight is the responsibility of the National Project Steering Committee (NPSC), established in the 
+Ministry of National Policies and Economic Affairs (MNPEA) and chaired by its Secretary. The main responsibility 
+of the NPSC is to provide strategic guidance for the implementation of the project and to act as the interface 
+between the central and provincial institutions. The NPSC also approves the annual work program and budget 
+for the project, endorses the working arrangements with strategic partners, and is briefed by the Bank (and the 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 10 of 20  
+
+ 
+
+PD) on the outcomes of implementation support and review missions carried out with the Bank team at least 
+biannually. 
+
+ 
+28. The PMU is responsible for ensuring that: (i) all project activities are planned, financed and 
+
+implemented as per the project annual work program and budget, (ii) project implementation is in line with 
+operational guidelines of the Project Implementation Plan (PIP), (iii) project procurement and financial 
+management activities are carried out in timely manner as per the World Bank’s Procurement for IPF Borrowers 
+(2016), the project fiduciary manuals and the procurement plan, and (iv) social and environmental safeguards 
+applicable to the project are fully complied with. The PMU is also responsible for monitoring project activities, 
+preparing the quarterly and annual project progress reports, and ensuring that all reports (including financial 
+reports) are submitted to the World Bank in timely manner.  
+
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The proposed project will be implemented in 11 districts in the dry zone climate vulnerability hot spots, 
+covering at least 5 major watersheds. The mean annual rainfall is under 900mm (much of it being received 
+during the northeast monsoon season from November to January) and mean annual temperature ranges 
+between 28°C to 32°C. Droughts that persist for more than three months are common. It has a climax 
+vegetation of dry evergreen forest and moist deciduous forest, with forests giving way to a stunted, 
+shrubby, drought-tolerant vegetation in its driest parts. The forests found in most parts are secondary 
+vegetation, which developed after hundreds of years of repeated clearing and cultivation. The natural 
+vegetation has adapted to the annual change from flood to drought. The forests have been largely cleared 
+for agriculture, timber or grazing, and many of the dry evergreen forests have been significantly degraded. 
+Several protected areas have been established to protect some of remaining natural forests. Agriculture, 
+settlements and other development activities have fragmented most of the forests giving rise to human-
+wildlife conflicts, particularly with elephants. Overall, about 30% of Sri Lanka’s labor force is engaged in 
+agriculture, and in the dry zone that has been the frontier for irrigation based development, directly or 
+indirectly connecting entire population to agriculture. However, most farm households have multiple 
+livelihood strategies as income from one source is insufficient for living. The predominant form of 
+settlement in the project area is ‘village’ organized around a tank that is part of a cascade system. Although 
+many of these small tank based villages have been incorporated into large and medium scale irrigated 
+agricultural development schemes managed by the government, a substantial number of tank-villages that 
+are rain-fed, persists. Most settlers in the project area have been granted land ownership and smallholdings 
+predominate, and sub-division and fragmentation is common in tandem with the occurrence of large 
+operational holdings – all devoted to food crop cultivation. Irrigation communities in the dry zone are 
+connected with the government system of administration and management, including for irrigation 
+management. Additionally, highland agriculture and illegal slash and burn agriculture also can be observed 
+alongside small-scale inland fishery activities which take place in man-made tanks. 
+
+ 
+ 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 11 of 20  
+
+ 
+
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Darshani De Silva, Environmental Safeguards Specialist 
+Bandita Sijapati, Social Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+In order to mitigate potential environmental and 
+social impacts that may be caused due to physical 
+interventions and to ensure all negative impacts 
+associated with project investments are avoided 
+and/or mitigated, appropriate environmental and 
+social management measures will be guided by the 
+EAMF. The EAMF provides detailed analysis of the 
+scale of due diligence required (such as 
+environmental assessments, environmental 
+management plans, etc.) for potential activities 
+under the project. Additionally, a RPF has been 
+prepared to identify and mitigate land-related social 
+impacts under the Project. A ToR for the proposed 
+Strategic Environmental Social Assessment (SESA) 
+has also been included in the EAMF. SESA will inform 
+the mini-watershed planning process to ensure 
+broader watershed-level impacts are integrated into 
+the planning process. 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No 
+There will not be any financing of private sector 
+entities under this project and therefore this policy is 
+not applicable for this project. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+OP4.04 applies to all types of natural habitats 
+including natural forests. There is the possibility of 
+impacting catchment forests due to dam 
+rehabilitation activities. 
+
+Forests OP/BP 4.36 Yes 
+
+Project-supported agricultural activities will take 
+place on existing agricultural areas and there will be 
+no expansion into forest areas. No activities on 
+commercial forestry is supported by the project. 
+However, dam improvement work may impact some 
+of the catchment forests.  There will be watershed 
+protection activities, which would have positive 
+impact on forests. These impacts will be managed 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 12 of 20  
+
+ 
+
+through the safeguard instruments that will be 
+developed under OP 4.01 and OP 4.37. 
+
+Pest Management OP 4.09 Yes 
+
+Because of the standardization, intensification and 
+diversification of agricultural activities under the 
+project, changes in the application of pesticides for 
+pest and disease control are foreseen. It is not clear 
+at this point, if the project would finance the 
+procurement of pesticides. A Pest Management Plan 
+(PMP) that has been prepared under the Agriculture 
+Modernization Project building on Integrated Pest 
+Management (IPM) principles has been adopted by 
+this project. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+
+As of now, no project activities are expected in the 
+vicinity of or affect physical cultural resources (PCR), 
+as defined by OP 4.11.  There are also no new 
+construction of irrigation infrastructure planned. 
+Mitigation measures if any activity takes place closer 
+to PCRs and measures on PCR chance finds will be 
+included as part of the mitigation measures defined 
+in EAMF under the OP 4.01. 
+
+Indigenous Peoples OP/BP 4.10 No 
+There is no conclusive evidence/information 
+available that establishes the presence of indigenous 
+people in the project area. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project will support civil works and other 
+activities associated with construction, rehabilitation 
+and reconstruction of small-scale market 
+infrastructure, tank systems, water harvesting 
+structures, irrigation schemes, etc. At present, these 
+activities are envisaged to take place on existing 
+canals and schemes or land belonging to individual 
+farmers, and the need for taking private land under 
+the project is not expected. However, there may be 
+need for additional land, albeit minimal, for 
+catchment area treatment, reestablishment of canal 
+reservations, and rehabilitation/reconstruction of 
+irrigation schemes. Further, there may be 
+encroachers or others using the land necessary for 
+the civil works thus requiring adequate mitigation 
+measures to be put in place during project 
+implementation.  Accordingly, a Resettlement Policy 
+Framework (RPF) has been prepared in accordance 
+with OP/BP 4.12. Further, to support the mini-
+watershed planning process, a ToR for the proposed 
+Strategic Environmental Social Assessment (SESA) 
+has also been included in the EAMF. 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 13 of 20  
+
+ 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+The project plans to improve and rehabilitate small 
+dams and the EAMF will include the process to be 
+adopted on safety of dams including required 
+expertise under the OP/BP 4.01. irrigation schemes 
+to be reconstructed/rehabilitated would entail 
+minor works to improve existing capacity of the 
+tanks to ensure the cascade system functions 
+efficiently. The Dam Safety and Water Resources 
+Management Project financed by the World Bank  
+has already rehabilitated most of the larger tanks 
+and their respective dams and has also set up dam 
+safety panel to monitor the interventions and 
+operations. They will continue to provide guidance 
+to the decisions that will be taken on this project.  All 
+the requirements applicable to the project will be 
+identified early during the implementation stage so 
+that all the necessary plans and organization set-up 
+are completed on time. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The proposed project activities do not have any 
+impacts to the international waterways and 
+therefore this policy is not triggered. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+There are no disputed areas where project 
+interventions are undertaken and therefore this 
+policy is not triggered. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project area covers hot spot areas spanning Ampara, Batticaloa, Trincomalee, Kilinochchi, Mullaitivu, 
+Anuradhapura, Polonnaruwa, Puttalam, Kurunegala, Hambantota and Moneragala Districts in Eastern, Northern, 
+North Central, North Western, and Uva Provinces. The first stage of the Project (2018-2021) will cover three Hot Spot 
+Areas, whereas the second stage of the project (2020-2022) and third (2022-2024) will cover the balance eight 
+districts. However, the exact locations for the specific interventions under the Project have not been identified, and 
+the selection of activities will be determined only during implementation.  
+ 
+The project is classified as an Environmental Category B.  It is expected to bring positive environmental and social 
+benefits to the project areas through the scale-up of climate-resilient agricultural technologies and farming practices 
+that help improve soil health, water-use efficiency and crop products, catchment area treatment to promote more 
+efficient use of surface water and more sustainable use of groundwater for agriculture and development of waterbody 
+capacity of climate hotspots, and overall improvement in the productivity of small-holder farmers. Components 1 and 
+2 may involve physical activities that could have adverse environmental and social impacts if these aspects are not 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 14 of 20  
+
+ 
+
+fully integrated into hot-spot area development plans and negative environmental and social risks are not identified 
+and mitigated properly. Likewise, some activities supported under the project, such as small scale market 
+infrastructure, construction and rehabilitation of irrigation canals, water storage facilities, etc.,  are likely to cause 
+social risks and impacts, including land acquisition, impacts on livelihoods, loss of assets, etc. Although the project 
+activities will be confined to rehabilitation of existing infrastructure and support to existing farmlands, some of the 
+project districts consists of known physical cultural resources that can be impacted during works carried out under the 
+Project. 
+ 
+The promotion of climate smart agriculture systems and related value chains under the project could also lead to 
+changes in the application of pesticides for pest and disease control. At present, project-supported climate-smart 
+agricultural activities are envisaged to take place on existing farmland, and no expansion or creation of new 
+agriculture systems into fragile habitats is foreseen. Likewise, the project will bring improvements to watershed 
+protection and promote agricultural practices that are expected to reduce pressure on natural habitats and the 
+likelihood of encroachment into sensitive ecosystems. However, some activities may negatively impact natural 
+habitats because of the proximity of project activities, such as the construction or upgrading of rural infrastructure. 
+The project plans to undertake catchment treatment as part of village-level watershed plans to make them more 
+climate resilient and, which may bring positive impacts on natural forests in the upper catchment areas due to 
+additional protection measures. Such areas that require additional protection related activities are expected to be 
+identified through SESAs.  
+ 
+Some negative impacts to forests are expected during tank rehabilitation work and while the project will primarily 
+support the increase in the storage capacity of tanks through removal of excess sedimentation and establishment of 
+mechanisms to reduce future sedimentation, some inundation of forests may still be possible, particularly in those 
+areas where small tanks have been abandoned and natural forest regeneration has taken place on the tank bed.  
+ 
+ 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Based on the available information, no potential indirect negative environmental or social impacts are expected under 
+the project.The project interventions will spread across 11 hotspot areas where the nature/scope of future activities is 
+presently not known. Regardless, the SESA proposed to be carried out during implementation for each hotspot will 
+help in identifying any indirect and/or long-term impacts of future activities and mitigating such impacts as part of 
+project interventions. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+Alternatives to help avoid or minimize adverse impacts can be considered only during implementation once the 
+project area and the specific activities are known. In principle however, the EAMF and the RPF include measures that 
+need to be adopted in order to avoid or minimize adverse impacts. For instance, a 'negative list' has been prepared 
+under the EAMF which among others indicates types of sub-projects that will not be financed under the project (e.g., 
+activities that involve significant conversion or degradation of critical natural habitats, activities that would increase 
+human-wildlife conflict, construction of large new infrastructure within or directly adjacent (in buffer zones) to 
+protected areas, etc). Likewise, to avoid impacts of land acquisition, the RPF indicates that to the extent possible, sub-
+project activities will be carried out in the existing footprint of the infrastructure facility, utilize public land or land that 
+is voluntarily donated, and only in exceptional basis will there be acquisition of private land under the Project. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 15 of 20  
+
+ 
+
+capacity to plan and implement the measures described. 
+An Environmental Assessment and Management Framework (EAMF) has been prepared to guide the screening of 
+activities for physical investments, technical assistance, project supported-advisory, and policy support interventions 
+and resulting implementation from an environmental perspective and mitigation actions to manage their 
+environmental impacts. The EAMF defines the screening and decision-making process based on the screening, the 
+content, procedures and responsibilities for the preparation and implementation of individual sub-project 
+Environmental Assessments (EAs) and Environmental Management Plans (EMPs) to address site-specific risks and 
+impacts and subsequent monitoring and reporting requirements. The EAMF also includes sectoral environmental 
+management guidelines for the subsectors of agricultural processing, which will be applicable under the matching 
+grant program. To ensure impacts to natural habitats are mitigated, the EAMF prescribes proper due diligence 
+mechanisms, including relevant preventive and mitigation measures to protect local ecosystems and habitats to be 
+included in the respective sub-project EMPs with special attention given to ensure risks and impacts due to human-
+elephant conflict are mitigated where such conflicts exist and using successful co-existence models that already have 
+been demonstrated within the country. In order to ensure negative impacts to forests are minimized, the EAMF 
+includes screening criteria and relevant mitigation measures. In addition, a separate Pest Management Plan (PMP) 
+prepared under the Agriculture Modernization Project developed based on Integrated Pest Management (IPM) 
+principles has been adopted by this project.  
+ 
+Likewise, the RPF sets out principles and guidelines to identify and assess the potential social impacts and risks, 
+prepare mitigation plans as part of sub-project preparation, institutional arrangements and processes to be followed 
+for the Project. This includes: (i) principles and procedures for screening and assessing impacts; (ii) the criterion and 
+due diligence processes based on risks, including the provisions for entitlements and eligibility criteria; (iii) guidelines 
+for preparing time-bound action plans to ensure compliance with WB's OP 4.12 on Involuntary Resettlement and 
+national regulations relating to land acquisition; (iv) institutional arrangements for implementing resettlement action 
+plans; (v) guidance for public consultation process and disclosure of safeguard documents; (vi) mechanisms for 
+grievance redress, monitoring and evaluation of process and outcomes; and (vii) responsibilities of the GoSL and WB in 
+relation to the preparation, implementation and progress review of social safeguards documents for the various CSIAP 
+sub-projects.  
+ 
+In addition to the EAMF and the RPF, as part of hot-spot area development, Strategic Environmental and Social 
+Assessments (SESAs) will be undertaken to be integrated into the village-level plans. All irrigation infrastructure 
+related interventions require a screening to be included in the SESA to verify whether upstream medium to large scale 
+dams are present and connected hydrologically and to assess their dam safety status and, if needed, outline follow-up 
+actions. If the presence of upstream and hydrologically connected dams is confirmed and these have not been 
+rehabilitated or strengthened and have dam safety implications, the project will undertake an inspection and 
+evaluation of the safety of the dam, its appurtenances, and its performance history, and a review and evaluation of 
+the mandated dam owner’s operation and maintenance procedures. A report will be provided on the review’s 
+findings, including recommendations for any remedial work or safety-related measures necessary to upgrade the 
+existing dam to an acceptable standard of safety.  Necessary dam safety measures or remedial work will be financed 
+under the project. When substantial remedial work is needed, these will be undertaken, including recruitment of a 
+competent professional to design and supervise the work, and the Dam Safety Panels established under the 
+Department of Irrigation and Mahaweli Authority of Sri Lanka will provide the guidance and continuous due diligence 
+as necessary. As part of SESAs, physical cultural resources will be documented, and the EAMF includes screening 
+criteria to ensure sub-projects will not produce any negative impacts to such resources. The EAMF also includes 
+procedures to be adopted during a chance find.  
+ 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 16 of 20  
+
+ 
+
+In terms of capacity, the Ministry of Agriculture has recently been exposed to world Bank-financed Project while the 
+Irrigation Department has two ongoing operations supported by the Bank. In addition, some of the provincial councils 
+(e.g., Northern and Eastern) have been involved in World Bank financed operations. However, a comprehensive 
+capacity building program for implementation of safeguards instruments prepared under the Project as well as the 
+social and environmental management within the sector, will be prepared during implementation. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The primary key stakeholders are smallholder farmers, producer organizations, productive alliances, agribusiness 
+entrepreneurs, implementing organizations, government departments/units, including technical and managerial staff 
+of participating agencies. The project will actively promote youth and women in all key project interventions to ensure 
+that they are fully engaged in and also benefit from all project activities.  
+ 
+During the preparation of the safeguards instruments, consultations were held on 18 June 2018 in Anuradhapura and 
+on 21 June 2018 in Colombo, and feedback received during these consultations have been included as part of project 
+design and minutes of the consultations with details of the participants, have been included as part the RPF. 
+Additionally, the EAMF and the RPF also include consultation strategy which among others emphasizes that all 
+stakeholders will be consulted in a culturally appropriate manner while preparing site-specific safeguards instruments 
+as well as during implementation. The process of consultation will be documented and account taken of the results of 
+consultatoins, including any agreed actions resulting from the consultation. The RPF and the EAMF also requires that 
+all the social and environmental assessment documentation and site specific safeguards action plans (e.g., EMP, SIMP, 
+RAP) will be made available to the public by the PMU through the project website and notices through media (as 
+relevant), prior to start of civil works, and or tending of works contract. The EAMF and the RPF have also been 
+disclosed in-country as well as through World Bank's external website. 
+ 
+ 
+ 
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission for disclosure 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+31-May-2018 15-Jun-2018  
+
+   
+
+"In country" Disclosure   
+ 
+
+  
+OPS_RA_D ISCL OSURE_T ABLE  
+
+ 
+
+Resettlement Action Plan/Framework/Policy Process 
+
+   
+
+Date of receipt by the Bank Date of submission for disclosure  
+
+31-May-2018 15-Jun-2018  
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 17 of 20  
+
+ 
+
+   
+
+"In country" Disclosure    
+
+    
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission for disclosure 
+
+Yes 31-May-2018 15-Jun-2018 
+
+   
+"In country" Disclosure   
+ 
+
+ 
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+ 
+ 
+ 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting)  
+
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+Yes   
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report? 
+Yes   
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan? 
+Yes   
+
+OPS_ NH_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.04 - Natural Habitats 
+  
+Would the project result in any significant conversion or degradation of critical natural habitats? 
+No   
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 18 of 20  
+
+ 
+
+If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the 
+project include mitigation measures acceptable to the Bank? 
+NA   
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+Yes   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+     
+
+OPS_IR_ CO MP_TA BLE  
+
+ 
+
+OP/BP 4.12 - Involuntary Resettlement 
+
+ 
+ 
+
+Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared? 
+Yes  
+ 
+
+ 
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+Yes  
+ 
+
+ 
+
+ 
+ 
+
+  
+OPS_F O_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.36 - Forests 
+  
+Has the sector-wide analysis of policy and institutional issues and constraints been carried out? 
+NA   
+Does the project design include satisfactory measures to overcome these constraints? 
+NA   
+Does the project finance commercial harvesting, and if so, does it include provisions for certification system? 
+No   
+
+OPS_SD _C OMP_ TABLE  
+
+ 
+
+OP/BP 4.37 - Safety of Dams 
+  
+Have dam safety plans been prepared? 
+No   
+Have the TORs as well as composition for the independent Panel of Experts (POE) been reviewed and approved by the 
+Bank? 
+Yes   
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements been made for public awareness and 
+training? 
+No     
+
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 19 of 20  
+
+ 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank for disclosure? 
+Yes   
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+Yes  
+
+ 
+ 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes 
+
+  
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes 
+
+  
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes 
+
+  
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes 
+
+ 
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Seenithamby Manoharan 
+Senior Rural Development Specialist  
+
+ 
+
+Andrew D. Goodland 
+Program Leader  
+
+ 
+
+Shyam KC 
+Senior Water Supply and Sanitation Specialist 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Ministry of Finance 
+
+Dr. R. H. S.  Samaratunge 
+
+Secretary, Treasury 
+
+sf@mo.treasury.gov.lk 
+ 
+
+  Implementing Agencies 
+
+
+
+ 
+
+The World Bank  
+Climate-smart Irrigated Agriculture Project (P163742) 
+
+ 
+
+ 
+
+  
+Mar 13, 2018 Page 20 of 20  
+
+ 
+
+ 
+
+Ministry of Agriculture 
+
+B Wijayaratne 
+
+Secretary 
+
+sec.agri@yahoo.com 
+ 
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Seenithamby Manoharan 
+Andrew D. Goodland 
+Shyam KC 
+
+ 
+
+  Approved By 
+
+Safeguards Advisor:   
+
+Practice Manager/Manager: Chakib Jenane 21-Aug-2018 
+
+Country Director: Valerie Marie Helene Layrol 03-Sep-2018 
+ 
+
+    
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+http://www.worldbank.org/projects
+
+

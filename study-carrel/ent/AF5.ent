@@ -1,0 +1,1670 @@
+id	sid	eid	entity	type
+AF5	1	1	AFRICAN DEVELOPMENT FUND BURKINA FASO	ORG
+AF5	1	2	ESTABLISHING AN AGRIBUSINESS BANK	ORG
+AF5	1	3	November 2018	DATE
+AF5	1	4	ri z e d P	FAC
+AF5	1	5	ri z e d TABLE OF CONTENTS Project Information Sheet	FAC
+AF5	1	6	RESULTS	ORG
+AF5	1	7	Rationale	ORG
+AF5	1	8	1	CARDINAL
+AF5	1	9	1.1	CARDINAL
+AF5	2	1	1 1.2	CARDINAL
+AF5	3	1	2 1.3	CARDINAL
+AF5	4	1	2	CARDINAL
+AF5	4	2	1.4	CARDINAL
+AF5	4	3	4 Project Description	PERCENT
+AF5	4	4	5	CARDINAL
+AF5	4	5	14 2.4	TIME
+AF5	4	6	16 2.6	CARDINAL
+AF5	4	7	16	CARDINAL
+AF5	4	8	Bank Group	ORG
+AF5	4	9	Lessons Reflected	ORG
+AF5	4	10	16 2.8	CARDINAL
+AF5	4	11	16	CARDINAL
+AF5	4	12	17	CARDINAL
+AF5	4	13	3.1	CARDINAL
+AF5	4	14	17	CARDINAL
+AF5	4	15	3.2	CARDINAL
+AF5	4	16	17	CARDINAL
+AF5	4	17	19	CARDINAL
+AF5	4	18	19	CARDINAL
+AF5	4	19	21	CARDINAL
+AF5	4	20	21	CARDINAL
+AF5	4	21	4.4	CARDINAL
+AF5	4	22	4.5 Risk	PERCENT
+AF5	4	23	22	CARDINAL
+AF5	4	24	4.6 Knowledge Building	FAC
+AF5	4	25	22	CARDINAL
+AF5	4	26	Legal Framework	ORG
+AF5	4	27	23	CARDINAL
+AF5	4	28	5.1	CARDINAL
+AF5	4	29	Legal Instrument	ORG
+AF5	4	30	23 5.2	CARDINAL
+AF5	4	31	the African Development Fund	ORG
+AF5	4	32	LIST OF ANNEXES	ORG
+AF5	4	33	Comparative Socio-economic Indicators	ORG
+AF5	5	1	30 September 2018	DATE
+AF5	5	2	II Annex 3	ORG
+AF5	5	3	Summary Table of Donor Interventions	WORK_OF_ART
+AF5	5	4	III Annex	ORG
+AF5	5	5	4	CARDINAL
+AF5	5	6	IV LIST OF TABLES	ORG
+AF5	5	7	13	CARDINAL
+AF5	5	8	2.4	CARDINAL
+AF5	5	9	14	CARDINAL
+AF5	5	10	2.4	CARDINAL
+AF5	5	11	UA Thousand	ORG
+AF5	5	12	2.4-3	CARDINAL
+AF5	5	13	UA Thousand	ORG
+AF5	5	14	15	CARDINAL
+AF5	5	15	2.4	CARDINAL
+AF5	5	16	UA Thousand	ORG
+AF5	5	17	15	QUANTITY
+AF5	5	18	the Financial Sector	LOC
+AF5	5	19	Burkina Faso Technical Annex A3	ORG
+AF5	5	20	the Agricultural Sector	LOC
+AF5	5	21	Burkina Faso Technical Annex A4	ORG
+AF5	5	22	Fragility Technical Annex	ORG
+AF5	5	23	Gender Technical Annex A6	ORG
+AF5	5	24	Main Lessons Technical Annex	ORG
+AF5	5	25	Implementation Arrangements Technical Annex	ORG
+AF5	5	26	Financial Management and Disbursement Arrangements	ORG
+AF5	5	27	Social Analysis Technical Annex	ORG
+AF5	5	28	Project Preparation and Supervision Technical Annex C1	ORG
+AF5	5	29	Project Description Technical Annex	ORG
+AF5	5	30	Banque Agricole	ORG
+AF5	5	31	Commerciale du Burkina	ORG
+AF5	5	32	Banque Agricole du Faso	ORG
+AF5	5	33	Cotton Sector: Organisation, Financing and Protection Mechanism Technical Annex C5: Organisation and Structures	ORG
+AF5	5	34	Burkina Faso Technical Annex C6	ORG
+AF5	5	35	the Burkina Faso Economic and Social Development Fund Technical Annex C7	ORG
+AF5	5	36	BNDA of Mali	ORG
+AF5	5	37	Senegal i Currency Equivalents	ORG
+AF5	5	38	August 2018	DATE
+AF5	5	39	1	CARDINAL
+AF5	5	40	785.220	CARDINAL
+AF5	5	41	1.19706	PRODUCT
+AF5	5	42	1	CARDINAL
+AF5	5	43	1.40487	MONEY
+AF5	5	44	EU	ORG
+AF5	5	45	Fiscal Year 1 January	DATE
+AF5	5	46	31 December	DATE
+AF5	5	47	Acronyms	PERSON
+AF5	5	48	Abbreviations EA Executing Agency	ORG
+AF5	5	49	Africa	LOC
+AF5	5	50	UA Million	PRODUCT
+AF5	5	51	Africa	LOC
+AF5	5	52	National Meteorology Agency PACBA Support Project for Establishing an Agribusiness Bank	ORG
+AF5	5	53	Commercial Bank	ORG
+AF5	5	54	PADA Cashew Nut Development Support	ORG
+AF5	5	55	AfDB	ORDINAL
+AF5	5	56	Faso Agricultural Bank	ORG
+AF5	5	57	PGFC Classified Forests Participatory Management Project BCEAO Central Bank of West African States	ORG
+AF5	5	58	Banque Nationale de Développement Agricole du Mali	ORG
+AF5	5	59	National Agricultural Development Bank of Mali)	ORG
+AF5	5	60	Civil Servants Autonomous Fund	ORG
+AF5	5	61	Senegal RCPB Credit Union Network of Burkina Faso COBF Bank’s Country Office	ORG
+AF5	5	62	Burkina	GPE
+AF5	5	63	ESMS Environmental and	ORG
+AF5	5	64	Social Management System SNBD Standard National Bidding Documents	ORG
+AF5	5	65	National Insurance and Reinsurance Company	ORG
+AF5	5	66	German Development Bank	ORG
+AF5	5	67	WAMU West African Monetary Union MAAH Ministry of Agriculture and Water Management	ORG
+AF5	5	68	West African	NORP
+AF5	5	69	Mutuelle Agricole	PERSON
+AF5	5	70	Marocaine d'Assurance	ORG
+AF5	5	71	Moroccan Agricultural Insurance Company	ORG
+AF5	5	72	UNPCB National Union of Cotton Producers of Burkina Faso MINEFID Ministry of Economy, Finance and Development UNPSB National Union of Seed Producers of Burkina Faso	ORG
+AF5	5	73	Burkina Faso	PERSON
+AF5	5	74	Ministry of Economy, Finance and Development	ORG
+AF5	5	75	Ministry of Agriculture and Water Management	ORG
+AF5	5	76	UA million	CARDINAL
+AF5	5	77	0.75%	PERCENT
+AF5	5	78	Commitment Fee	PERSON
+AF5	5	79	0.50%	PERCENT
+AF5	5	80	40 years	DATE
+AF5	5	81	2058	DATE
+AF5	5	82	NA ERR	ORG
+AF5	5	83	Concept Note	PERSON
+AF5	5	84	March 2018	DATE
+AF5	5	85	July 2018	DATE
+AF5	5	86	October 2018	DATE
+AF5	5	87	November 2018	DATE
+AF5	5	88	February 2019	DATE
+AF5	5	89	March 2019	DATE
+AF5	5	90	March 2019 - March	DATE
+AF5	5	91	7.625 million	MONEY
+AF5	5	92	Burkina Faso's	PERSON
+AF5	6	1	Banque Agricole du Faso	ORG
+AF5	7	1	Burkina Faso's	PERSON
+AF5	7	2	only 3.5%	PERCENT
+AF5	7	3	2017	DATE
+AF5	8	1	Nigeria	GPE
+AF5	8	2	Togo	GPE
+AF5	8	3	Ghana	GPE
+AF5	9	1	Needs Assessment Agriculture	ORG
+AF5	9	2	Burkina Faso	PERSON
+AF5	11	1	more than 80%	PERCENT
+AF5	11	2	more than 30%	PERCENT
+AF5	13	1	barely 3.5%	PERCENT
+AF5	13	2	thirteen	TIME
+AF5	13	3	13	CARDINAL
+AF5	13	4	four	CARDINAL
+AF5	13	5	4	CARDINAL
+AF5	17	1	Burkina Faso's	PERSON
+AF5	20	1	the Bank	ORG
+AF5	20	2	Bank	ORG
+AF5	25	1	RESULTS	ORG
+AF5	25	2	Annual	DATE
+AF5	25	3	5.%	ORG
+AF5	25	4	2016	DATE
+AF5	25	5	2016	DATE
+AF5	25	6	6.5%	PERCENT
+AF5	25	7	2020	DATE
+AF5	25	8	2020	DATE
+AF5	26	1	3.5%	PERCENT
+AF5	26	2	2017	DATE
+AF5	26	3	4.5%	PERCENT
+AF5	26	4	2019	DATE
+AF5	26	5	5%	PERCENT
+AF5	26	6	2020	DATE
+AF5	26	7	Risks and Mitigation Measures	LAW
+AF5	27	1	Sahel	PERSON
+AF5	28	1	BADF	ORG
+AF5	29	1	CNCA	ORG
+AF5	29	2	Senegal	PERSON
+AF5	30	1	the Central Bank's	ORG
+AF5	31	1	1.2	CARDINAL
+AF5	31	2	16%	PERCENT
+AF5	31	3	2016	DATE
+AF5	31	4	25%	PERCENT
+AF5	31	5	2020	DATE
+AF5	31	6	Outcome 2	CARDINAL
+AF5	32	1	42.68%	PERCENT
+AF5	32	2	2017	DATE
+AF5	32	3	35%	PERCENT
+AF5	32	4	2019	DATE
+AF5	32	5	25%	PERCENT
+AF5	32	6	2020	DATE
+AF5	32	7	BADF	PERSON
+AF5	32	8	100%	PERCENT
+AF5	32	9	100%	PERCENT
+AF5	32	10	2019	DATE
+AF5	32	11	1.2	CARDINAL
+AF5	32	12	BADF	ORG
+AF5	32	13	Nil WAEMU Banking Commission	ORG
+AF5	32	14	1.3	CARDINAL
+AF5	32	15	BADF	NORP
+AF5	32	16	Nil XOF	PERSON
+AF5	32	17	34 billion	CARDINAL
+AF5	32	18	2020	DATE
+AF5	32	19	88	CARDINAL
+AF5	32	20	30%	PERCENT
+AF5	32	21	The Burkina Faso Fund for Economic and Social Development	ORG
+AF5	32	22	the Central Bank	ORG
+AF5	32	23	the Central Bank	ORG
+AF5	35	1	the Board of Directors	ORG
+AF5	36	1	cooperatives	ORG
+AF5	36	2	BADF	ORG
+AF5	39	1	BADF	ORG
+AF5	40	1	vi	PERSON
+AF5	40	2	BADF	ORG
+AF5	42	1	1.4	CARDINAL
+AF5	42	2	Nil	GPE
+AF5	42	3	20%	PERCENT
+AF5	42	4	2.1	CARDINAL
+AF5	42	5	Automatic	PERSON
+AF5	42	6	MAAE MAAE	ORG
+AF5	42	7	2.2	CARDINAL
+AF5	42	8	1	CARDINAL
+AF5	42	9	2	CARDINAL
+AF5	42	10	7.5 million	CARDINAL
+AF5	42	11	THE AFRICAN DEVELOPMENT FUND	ORG
+AF5	42	12	ESTABLISHING AN AGRIBUSINESS BANK	ORG
+AF5	42	13	BURKINA FASO Management	ORG
+AF5	42	14	an African Development Fund	ORG
+AF5	42	15	ADF	ORG
+AF5	42	16	UA	GPE
+AF5	42	17	7.5 million	CARDINAL
+AF5	42	18	Burkina Faso	PERSON
+AF5	42	19	the Support Project for Establishing an Agribusiness Bank (PACBA	LAW
+AF5	43	1	2018-2020	DATE
+AF5	43	2	Burkina Faso	PERSON
+AF5	45	1	THRUST	PERSON
+AF5	46	1	The National Economic and Social Development Plan	ORG
+AF5	46	2	Government	ORG
+AF5	46	3	2016-2020	DATE
+AF5	46	4	Burkina Faso	ORG
+AF5	46	5	A1	CARDINAL
+AF5	47	1	three	CARDINAL
+AF5	47	2	1	CARDINAL
+AF5	47	3	2	CARDINAL
+AF5	47	4	3	CARDINAL
+AF5	48	1	PACBA	ORG
+AF5	48	2	Pillar 3	PRODUCT
+AF5	50	1	Bank	ORG
+AF5	50	2	Burkina Faso	PERSON
+AF5	50	3	2017-2021	DATE
+AF5	52	1	CSP	ORG
+AF5	53	1	second	ORDINAL
+AF5	53	2	Bank	ORG
+AF5	53	3	Bagré Hub	ORG
+AF5	54	1	PACBA	ORG
+AF5	54	2	Bank	ORG
+AF5	55	1	1.1.3	ORG
+AF5	56	1	PACBA	ORG
+AF5	56	2	Bank	ORG
+AF5	56	3	Ten-Year	DATE
+AF5	56	4	2013-2022	DATE
+AF5	57	1	1.1.4	CARDINAL
+AF5	58	1	PACBA	ORG
+AF5	58	2	the Strategy for Agricultural Transformation	ORG
+AF5	58	3	Africa	LOC
+AF5	58	4	African	NORP
+AF5	59	1	1.1.5	CARDINAL
+AF5	60	1	Bank	ORG
+AF5	60	2	Second Climate Change Action Plan	ORG
+AF5	61	1	1.1.6 Finally	ORG
+AF5	61	2	PACBA	PERSON
+AF5	61	3	Bank	ORG
+AF5	61	4	African	NORP
+AF5	61	5	2	CARDINAL
+AF5	61	6	Gender Strategy	PERSON
+AF5	61	7	2014-2018	DATE
+AF5	62	1	1.2	CARDINAL
+AF5	63	1	Bank	ORG
+AF5	63	2	2014	DATE
+AF5	63	3	2015	DATE
+AF5	64	1	Burkina Faso's	PERSON
+AF5	64	2	TA A4-Note on Fragility	ORG
+AF5	65	1	7%	PERCENT
+AF5	65	2	2018	DATE
+AF5	65	3	6.7%	PERCENT
+AF5	65	4	2017	DATE
+AF5	65	5	5.9%	PERCENT
+AF5	65	6	2016	DATE
+AF5	66	1	the National Economic and Social Development Plan	ORG
+AF5	68	1	1.2.2	CARDINAL
+AF5	69	1	2018	DATE
+AF5	69	2	Government	ORG
+AF5	69	3	three-year	DATE
+AF5	69	4	5%	PERCENT
+AF5	69	5	2018	DATE
+AF5	69	6	3%	PERCENT
+AF5	69	7	2019	DATE
+AF5	69	8	WAEMU	ORG
+AF5	70	1	1.2.3	ORG
+AF5	71	1	State	ORG
+AF5	71	2	Government	ORG
+AF5	72	1	2018	DATE
+AF5	74	1	1.2.4	CARDINAL
+AF5	75	1	Burkina Faso	PERSON
+AF5	76	1	Burkina Faso	PERSON
+AF5	76	2	the Permanent Multisector Survey - EMC	ORG
+AF5	76	3	40.1%	PERCENT
+AF5	76	4	2014	DATE
+AF5	76	5	46.7%	PERCENT
+AF5	76	6	2009	DATE
+AF5	76	7	6.6%	PERCENT
+AF5	77	1	41%	PERCENT
+AF5	77	2	14%	PERCENT
+AF5	78	1	1.3	CARDINAL
+AF5	80	1	Burkina Faso's	PERSON
+AF5	80	2	TA A3	GPE
+AF5	81	1	more than 80%	PERCENT
+AF5	81	2	more than 30%	PERCENT
+AF5	84	1	C4	CARDINAL
+AF5	85	1	BACB	ORG
+AF5	86	1	barely 3.5%	PERCENT
+AF5	86	2	thirteen	TIME
+AF5	86	3	13	CARDINAL
+AF5	86	4	four	CARDINAL
+AF5	86	5	4	CARDINAL
+AF5	88	1	One	CARDINAL
+AF5	89	1	1.3.2	CARDINAL
+AF5	93	1	3	CARDINAL
+AF5	96	1	the Ministry of Agriculture	ORG
+AF5	96	2	September 2017	DATE
+AF5	96	3	Alliance	ORG
+AF5	96	4	Africa	LOC
+AF5	98	1	Burkina Faso	GPE
+AF5	99	1	BADF	ORG
+AF5	99	2	Caisse Nationale de Crédit Agricole	ORG
+AF5	99	3	National Agricultural Credit Fund	ORG
+AF5	99	4	CNCA	ORG
+AF5	99	5	Senegal	PERSON
+AF5	99	6	more than thirty years'	DATE
+AF5	99	7	Senegalese	NORP
+AF5	101	1	AfDB	NORP
+AF5	101	2	Coris Bank	ORG
+AF5	101	3	December 2016	DATE
+AF5	101	4	Fidelis Finance	PERSON
+AF5	101	5	June 2014	DATE
+AF5	103	1	BADF	ORG
+AF5	103	2	XOF 4.1 billion	MONEY
+AF5	103	3	2019	DATE
+AF5	103	4	14.54 billion	CARDINAL
+AF5	103	5	2024	DATE
+AF5	103	6	28%	PERCENT
+AF5	104	1	three	CARDINAL
+AF5	104	2	Feed Africa	WORK_OF_ART
+AF5	104	3	Africa	LOC
+AF5	105	1	1.3.4	CARDINAL
+AF5	106	1	Bank	ORG
+AF5	106	2	Burkina Faso	PERSON
+AF5	106	3	PACBA	ORG
+AF5	106	4	Participatory Forest Management Project	ORG
+AF5	106	5	Cashew Nut Development Support Project	ORG
+AF5	106	6	Comoé Basin	LOC
+AF5	106	7	Resilience Building Programme	ORG
+AF5	106	8	PPF	ORG
+AF5	106	9	Sylvo-Pastoral Sectors	ORG
+AF5	107	1	the Lending Programme of CSP	ORG
+AF5	107	2	2017-2021	DATE
+AF5	107	3	Pillar II	PRODUCT
+AF5	109	1	West Africa	GPE
+AF5	109	2	1.3.5.1	CARDINAL
+AF5	109	3	Banque Nationale de Développement Agricole du Mali	ORG
+AF5	109	4	National Agricultural Development Bank of Mali	ORG
+AF5	109	5	TA C7	GPE
+AF5	110	1	the end of 2017	DATE
+AF5	110	2	54%	PERCENT
+AF5	110	3	46%	PERCENT
+AF5	111	1	its 38th year	DATE
+AF5	111	2	twelve	CARDINAL
+AF5	111	3	12) years	DATE
+AF5	112	1	BNDA	ORG
+AF5	112	2	State-	PRODUCT
+AF5	113	1	the French Development Agency	ORG
+AF5	113	2	20%	PERCENT
+AF5	113	3	the German Development Finance Agency	ORG
+AF5	113	4	DEG	ORG
+AF5	113	5	21%	PERCENT
+AF5	114	1	40%	PERCENT
+AF5	117	1	1.3.5.2	CARDINAL
+AF5	118	1	Caisse Nationale du Crédit	ORG
+AF5	118	2	National Agricultural Credit Fund	ORG
+AF5	118	3	Senegal	GPE
+AF5	118	4	TA C7	GPE
+AF5	118	5	the years	DATE
+AF5	119	1	Senegal	GPE
+AF5	119	2	1	CARDINAL
+AF5	119	3	five	CARDINAL
+AF5	119	4	Africa	LOC
+AF5	119	5	Feed Africa	WORK_OF_ART
+AF5	119	6	Integrate Africa	WORK_OF_ART
+AF5	119	7	Africa	LOC
+AF5	120	1	4	CARDINAL
+AF5	120	2	50%	PERCENT
+AF5	120	3	prudential	ORG
+AF5	121	1	PACBA	ORG
+AF5	121	2	Bank	ORG
+AF5	121	3	CNCAS	GPE
+AF5	121	4	Senegal	GPE
+AF5	121	5	BADF	PERSON
+AF5	122	1	CNCAS	GPE
+AF5	124	1	1.3.6	CARDINAL
+AF5	125	1	Bank Support for Agricultural Financing	ORG
+AF5	125	2	December 2016	DATE
+AF5	125	3	Board	ORG
+AF5	125	4	67 million	CARDINAL
+AF5	125	5	ADF	ORG
+AF5	125	6	40-year	DATE
+AF5	125	7	10-year	DATE
+AF5	125	8	the Agricultural Bank of Tanzania	ORG
+AF5	126	1	Tanzania Agricultural Development Bank	ORG
+AF5	126	2	2015	DATE
+AF5	127	1	Tanzania	GPE
+AF5	128	1	the Tanzania Agricultural Development Bank	ORG
+AF5	130	1	December 2014	DATE
+AF5	130	2	Board	ORG
+AF5	130	3	USD 500 million	MONEY
+AF5	130	4	the Federal Republic of Nigeria	GPE
+AF5	130	5	the Development Bank of Nigeria	ORG
+AF5	131	1	ADF	ORG
+AF5	131	2	USD 50 million	MONEY
+AF5	131	3	30 years	DATE
+AF5	131	4	five-year	DATE
+AF5	131	5	USD	ORG
+AF5	131	6	400 million	CARDINAL
+AF5	131	7	20 years	DATE
+AF5	131	8	five-year	DATE
+AF5	131	9	Bank	ORG
+AF5	131	10	Bank	ORG
+AF5	131	11	up to USD 50 million	MONEY
+AF5	131	12	the Development Bank of Nigeria Plc	ORG
+AF5	131	13	DBN	ORG
+AF5	131	14	DBN	ORG
+AF5	131	15	10 years	DATE
+AF5	132	1	Bank	ORG
+AF5	132	2	DBN	ORG
+AF5	132	3	the Federal Republic of Nigeria	GPE
+AF5	133	1	The Nigerian Development Bank	ORG
+AF5	133	2	first	ORDINAL
+AF5	134	1	1.4	CARDINAL
+AF5	134	2	Bank	ORG
+AF5	135	1	2013 to 2014	DATE
+AF5	135	2	the Sector Dialogue Framework for Infrastructure	ORG
+AF5	135	3	2014	DATE
+AF5	135	4	2015	DATE
+AF5	135	5	June 2015 to October 2016	DATE
+AF5	135	6	Bank	ORG
+AF5	135	7	2014	DATE
+AF5	135	8	2016	DATE
+AF5	136	1	1.4.2	CARDINAL
+AF5	136	2	Bank	ORG
+AF5	136	3	third	ORDINAL
+AF5	136	4	the European Union	ORG
+AF5	136	5	the World Bank	ORG
+AF5	137	1	Bank	ORG
+AF5	137	2	Burkina Faso's	PERSON
+AF5	137	3	Annex 3	ORG
+AF5	139	1	Bank	ORG
+AF5	139	2	Burkina Faso's	PERSON
+AF5	140	1	Bank	ORG
+AF5	140	2	between 10% and 50%	PERCENT
+AF5	141	1	PACBA	ORG
+AF5	142	1	5	CARDINAL
+AF5	142	2	KFW	ORG
+AF5	142	3	PACBA	ORG
+AF5	143	1	TA A5	GPE
+AF5	144	1	USAID	ORG
+AF5	144	2	Coris Bank International	ORG
+AF5	144	3	Financing Agricultural Value Chains	WORK_OF_ART
+AF5	144	4	3-4	DATE
+AF5	144	5	December 2016	DATE
+AF5	145	1	the Trade Hub	LOC
+AF5	145	2	USAID	ORG
+AF5	145	3	West Africa	GPE
+AF5	145	4	2015	DATE
+AF5	146	1	the Trade Hub Project	ORG
+AF5	146	2	the United States	GPE
+AF5	147	1	1.4.5.2	CARDINAL
+AF5	147	2	Canada	GPE
+AF5	147	3	the Project for Professionalisation of Agricultural Credit Methodologies	ORG
+AF5	147	4	PMCA	ORG
+AF5	150	1	1.4.5.3	CARDINAL
+AF5	150	2	Proparco	PRODUCT
+AF5	150	3	IsDB	ORG
+AF5	150	4	Société Générale Burkina Faso	ORG
+AF5	150	5	Coris Bank International	ORG
+AF5	150	6	Islamic	NORP
+AF5	151	1	Burkina Faso	PERSON
+AF5	154	1	two	CARDINAL
+AF5	154	2	Banque Agricole du Faso	ORG
+AF5	155	1	2.1.3	CARDINAL
+AF5	156	1	BADF	ORG
+AF5	157	1	Bank	ORG
+AF5	157	2	2017-2021	DATE
+AF5	157	3	Burkina Faso	PERSON
+AF5	158	1	Bank	ORG
+AF5	158	2	5 billion	CARDINAL
+AF5	158	3	BADF	GPE
+AF5	159	1	6	CARDINAL
+AF5	159	2	16 April 2018	DATE
+AF5	159	3	the WAMU Banking Commission	ORG
+AF5	159	4	14 March 2018	DATE
+AF5	160	1	Bank	ORG
+AF5	160	2	section 4.1.4.1	LAW
+AF5	161	1	2.1.3.2	CARDINAL
+AF5	161	2	TA A2	GPE
+AF5	161	3	Burkina Faso	GPE
+AF5	161	4	20%	PERCENT
+AF5	161	5	2017	DATE
+AF5	161	6	more than 6%	PERCENT
+AF5	161	7	2012-2017	DATE
+AF5	162	1	the Banque Agricole	ORG
+AF5	162	2	Faso Project2	PERSON
+AF5	163	1	Banque Agricole et Commerciale du Burkina	ORG
+AF5	163	2	BACB)3	ORG
+AF5	163	3	2008	DATE
+AF5	163	4	Burkina Faso	GPE
+AF5	165	1	only 1%	PERCENT
+AF5	165	2	3%	PERCENT
+AF5	165	3	the fifth year	DATE
+AF5	166	1	BADF	ORG
+AF5	166	2	60%	PERCENT
+AF5	166	3	the remaining 40%	PERCENT
+AF5	167	1	BADF	ORG
+AF5	167	2	3.5%	PERCENT
+AF5	167	3	2017	DATE
+AF5	167	4	5%	PERCENT
+AF5	167	5	2020	DATE
+AF5	167	6	7%	PERCENT
+AF5	167	7	2022	DATE
+AF5	167	8	EUR 685 million	MONEY
+AF5	168	1	BADF	ORG
+AF5	168	2	114	CARDINAL
+AF5	168	3	2023	DATE
+AF5	168	4	more than 3,000	CARDINAL
+AF5	168	5	jobs5	NORP
+AF5	169	1	at least 20%	PERCENT
+AF5	169	2	15%	PERCENT
+AF5	170	1	26%	PERCENT
+AF5	170	2	2016	DATE
+AF5	170	3	40%	PERCENT
+AF5	170	4	2020.6 2.1.3.3	CARDINAL
+AF5	170	5	BADF	ORG
+AF5	171	1	first	ORDINAL
+AF5	171	2	two	CARDINAL
+AF5	171	3	Ouagadougou	PERSON
+AF5	171	4	Dédougou	PERSON
+AF5	171	5	Bobo-Dioulasso	PERSON
+AF5	171	6	SOPRA Amplitude	ORG
+AF5	171	7	BADF	ORG
+AF5	171	8	GIM UEMOA	ORG
+AF5	171	9	SWIFT	ORG
+AF5	171	10	Dédougou	PERSON
+AF5	171	11	Bobo-Dioulasso	NORP
+AF5	172	1	2.1.3.4	CARDINAL
+AF5	172	2	Banque Agricole du Faso	ORG
+AF5	172	3	Objectives	GPE
+AF5	176	1	2	CARDINAL
+AF5	176	2	ACS	ORG
+AF5	177	1	3	CARDINAL
+AF5	177	2	National Agricultural Credit Fund	ORG
+AF5	177	3	CNCA	ORG
+AF5	177	4	Government	ORG
+AF5	177	5	1979	DATE
+AF5	177	6	2002	DATE
+AF5	177	7	BACB	ORG
+AF5	180	1	5	CARDINAL
+AF5	180	2	2023	DATE
+AF5	180	3	120 billion	CARDINAL
+AF5	180	4	40 million	CARDINAL
+AF5	181	1	6	CARDINAL
+AF5	181	2	BCEAO	ORG
+AF5	182	1	7	CARDINAL
+AF5	182	2	Burkina Faso	PERSON
+AF5	182	3	Burkina Faso	PERSON
+AF5	182	4	Burkina Faso	LOC
+AF5	182	5	WAEMU	ORG
+AF5	184	1	the Central Bank's	ORG
+AF5	184	2	the Central Bank	ORG
+AF5	185	1	BADF	ORG
+AF5	186	1	BADF	ORG
+AF5	186	2	the Board of Directors	ORG
+AF5	189	1	ACS	ORG
+AF5	190	1	Chair of the BADF Board of Directors	ORG
+AF5	190	2	BCEAO	ORG
+AF5	190	3	BACB	ORG
+AF5	191	1	more than 6 years	DATE
+AF5	193	1	more than thirty years	DATE
+AF5	194	1	BACB	ORG
+AF5	194	2	General Management	ORG
+AF5	194	3	Credit and Commitments Department	ORG
+AF5	194	4	the Administrative and Financial Department	ORG
+AF5	196	1	BADF	PERSON
+AF5	196	2	a Board of Directors	ORG
+AF5	197	1	10	CARDINAL
+AF5	197	2	Banque Agricole	ORG
+AF5	197	3	Commerciale du Burkina Actionnaires	ORG
+AF5	197	4	Capital Participations	ORG
+AF5	197	5	87,56%	PERCENT
+AF5	197	6	63,04%	PERCENT
+AF5	197	7	24,52%	PERCENT
+AF5	197	8	CARFO	ORG
+AF5	197	9	14,01%	PERCENT
+AF5	197	10	10,51%	PERCENT
+AF5	197	11	0,66%	PERCENT
+AF5	197	12	Sociétés	ORDINAL
+AF5	197	13	6,71%	PERCENT
+AF5	197	14	4,90%	PERCENT
+AF5	197	15	CORIS Bank International	ORG
+AF5	197	16	CBI	ORG
+AF5	197	17	5,07% Total 100%	PERCENT
+AF5	197	18	5	CARDINAL
+AF5	197	19	CARFO	ORG
+AF5	198	1	5	CARDINAL
+AF5	198	2	2	CARDINAL
+AF5	198	3	UNPCB	ORG
+AF5	198	4	UNPSB	ORG
+AF5	198	5	WATAM	ORG
+AF5	199	1	three	CARDINAL
+AF5	199	2	four	CARDINAL
+AF5	199	3	the Chair of the Board of Directors	ORG
+AF5	200	1	Government	ORG
+AF5	202	1	The Board of Directors	ORG
+AF5	204	1	The Board of Directors	ORG
+AF5	204	2	three	CARDINAL
+AF5	204	3	the Audit Committee	ORG
+AF5	204	4	at least 3	CARDINAL
+AF5	204	5	the Credit Committee	ORG
+AF5	204	6	at least 5	CARDINAL
+AF5	204	7	50 million	CARDINAL
+AF5	204	8	the Selection and Remuneration Committee	ORG
+AF5	204	9	3	CARDINAL
+AF5	204	10	BADF	ORG
+AF5	206	1	BADF	PERSON
+AF5	206	2	Burkina Faso	GPE
+AF5	207	1	Burkina Faso	PERSON
+AF5	208	1	BADF	ORG
+AF5	209	1	BADF	PERSON
+AF5	210	1	14.277 billion	MONEY
+AF5	211	1	48%	PERCENT
+AF5	211	2	the first year	DATE
+AF5	211	3	31%	PERCENT
+AF5	211	4	the second year	DATE
+AF5	211	5	20%	PERCENT
+AF5	211	6	the subsequent three years	DATE
+AF5	212	1	BADF	ORG
+AF5	212	2	the Central Bank	ORG
+AF5	212	3	8%	PERCENT
+AF5	213	1	9.3%	PERCENT
+AF5	213	2	2016	DATE
+AF5	213	3	WAEMU	ORG
+AF5	213	4	11.3%	PERCENT
+AF5	213	5	2016	DATE
+AF5	214	1	CNCAS	GPE
+AF5	214	2	the past three years	DATE
+AF5	214	3	16%	PERCENT
+AF5	215	1	26 billion	CARDINAL
+AF5	215	2	the end of the first year	DATE
+AF5	216	1	1%	PERCENT
+AF5	217	1	four years	DATE
+AF5	217	2	40%	PERCENT
+AF5	217	3	0.5%	PERCENT
+AF5	217	4	3%	PERCENT
+AF5	217	5	the end of the fifth year	DATE
+AF5	218	1	40%	PERCENT
+AF5	218	2	Burkina Faso	PERSON
+AF5	220	1	BADF	ORG
+AF5	220	2	only 1%	PERCENT
+AF5	220	3	the end of the first year	DATE
+AF5	220	4	1%	PERCENT
+AF5	220	5	4%	PERCENT
+AF5	220	6	the fourth and fifth years	DATE
+AF5	220	7	8.8%	PERCENT
+AF5	220	8	2016	DATE
+AF5	221	1	BADF	ORG
+AF5	222	1	NBI	ORG
+AF5	222	2	XOF 1.4 billion	MONEY
+AF5	222	3	the first year	DATE
+AF5	222	4	60%	PERCENT
+AF5	222	5	8.3 billion	CARDINAL
+AF5	222	6	2022	DATE
+AF5	223	1	112%	PERCENT
+AF5	223	2	the first year	DATE
+AF5	223	3	39%	PERCENT
+AF5	223	4	2022	DATE
+AF5	223	5	16%	PERCENT
+AF5	223	6	NBI	ORG
+AF5	224	1	first-year	DATE
+AF5	224	2	419 million	CARDINAL
+AF5	224	3	BADF	ORG
+AF5	224	4	9	CARDINAL
+AF5	224	5	the second year	DATE
+AF5	224	6	564 million	CARDINAL
+AF5	225	1	3.1 billion	CARDINAL
+AF5	225	2	2022	DATE
+AF5	227	1	ratio8	PRODUCT
+AF5	227	2	150%	PERCENT
+AF5	227	3	100%	PERCENT
+AF5	227	4	the Central Bank	ORG
+AF5	228	1	54%	PERCENT
+AF5	228	2	46%	PERCENT
+AF5	229	1	ratio9	PRODUCT
+AF5	229	2	the first two years	DATE
+AF5	229	3	180%	PERCENT
+AF5	229	4	132%	PERCENT
+AF5	229	5	100%	PERCENT
+AF5	230	1	106%	PERCENT
+AF5	230	2	2022	DATE
+AF5	230	3	less than one year	DATE
+AF5	231	1	2.1.3.4.6	ORG
+AF5	233	1	WAEMU	ORG
+AF5	233	2	BADF	ORG
+AF5	233	3	the Banking Commission	ORG
+AF5	234	1	prudential	ORG
+AF5	234	2	WAEMU	ORG
+AF5	235	1	Basel	GPE
+AF5	235	2	Basel 2	ORG
+AF5	236	1	2.1.3.5	CARDINAL
+AF5	236	2	3.5%	PERCENT
+AF5	236	3	2017	DATE
+AF5	236	4	5%	PERCENT
+AF5	236	5	2020	DATE
+AF5	236	6	16%	PERCENT
+AF5	236	7	2016	DATE
+AF5	236	8	25%	PERCENT
+AF5	236	9	2020	DATE
+AF5	237	1	2.1.4.1	CARDINAL
+AF5	238	1	BADF	ORG
+AF5	238	2	Burkina Faso	ORG
+AF5	240	1	2016-2020	DATE
+AF5	240	2	the Government of Burkina Faso	ORG
+AF5	242	1	ADF	ORG
+AF5	242	2	888 750 000	TIME
+AF5	242	3	PACBA	ORG
+AF5	242	4	Société Nationale d'Assurance et de Réassurance du Faso	ORG
+AF5	242	5	Faso National Insurance and Reinsurance Company	ORG
+AF5	242	6	Mutuelle Agricole Marocaine d'Assurance	PERSON
+AF5	242	7	Moroccan Agricultural Insurance Company	ORG
+AF5	242	8	third	ORDINAL
+AF5	243	1	2.1.4.4.1.3	CARDINAL
+AF5	244	1	the Agricultural Credit Security Fund	ORG
+AF5	245	1	2.1.4.2	CARDINAL
+AF5	245	2	an Agricultural Insurance Mechanism	ORG
+AF5	247	1	the new season	DATE
+AF5	248	1	8	CARDINAL
+AF5	248	2	the next 30 days	DATE
+AF5	249	1	Basel	GPE
+AF5	249	2	WAEMU	LOC
+AF5	250	1	9	CARDINAL
+AF5	251	1	10	CARDINAL
+AF5	252	1	Burkina Faso	PERSON
+AF5	254	1	only 1%	PERCENT
+AF5	254	2	the end of the first year	DATE
+AF5	254	3	1%	PERCENT
+AF5	254	4	4%	PERCENT
+AF5	254	5	the fourth and fifth years	DATE
+AF5	255	1	8.8%	PERCENT
+AF5	255	2	the past three years	DATE
+AF5	255	3	WAEMU	LOC
+AF5	255	4	14.4%	PERCENT
+AF5	258	1	Caisse Nationale de Crédit Agricole	ORG
+AF5	258	2	Burkina Faso National Agricultural Credit Fund	ORG
+AF5	258	3	CNCA	ORG
+AF5	258	4	2002	DATE
+AF5	260	1	CNCA	ORG
+AF5	262	1	CNCA	ORG
+AF5	262	2	Banque Agricole	ORG
+AF5	262	3	Commerciale du Burkina	ORG
+AF5	262	4	BACB	ORG
+AF5	264	1	CNCA-B	ORG
+AF5	264	2	BACB	ORG
+AF5	265	1	BACB	ORG
+AF5	266	1	2007	DATE
+AF5	267	1	BACB	ORG
+AF5	267	2	ECOBANK Group	ORG
+AF5	267	3	2008	DATE
+AF5	271	1	BNDA	ORG
+AF5	271	2	Mali	PERSON
+AF5	271	3	CNCAS	GPE
+AF5	271	4	Senegal	GPE
+AF5	271	5	C7	CARDINAL
+AF5	272	1	2.1.4.2.5	CARDINAL
+AF5	279	1	2.1.4.4.3 Agricultural Insurance	ORG
+AF5	279	2	three-year	DATE
+AF5	279	3	three	CARDINAL
+AF5	279	4	35%	PERCENT
+AF5	279	5	Burkina Faso's	PERSON
+AF5	279	6	Boucle du Mouhoun	PERSON
+AF5	279	7	Centre-West	ORG
+AF5	279	8	East	LOC
+AF5	280	1	three	CARDINAL
+AF5	280	2	about 86%	PERCENT
+AF5	280	3	Burkina Faso's	ORG
+AF5	280	4	annual	DATE
+AF5	281	1	1,639,800 tonnes	QUANTITY
+AF5	281	2	36%	PERCENT
+AF5	281	3	annual	DATE
+AF5	282	1	two	CARDINAL
+AF5	285	1	11	CARDINAL
+AF5	285	2	Burkina Faso	GPE
+AF5	286	1	Alliance	ORG
+AF5	286	2	two	CARDINAL
+AF5	286	3	2011	DATE
+AF5	287	1	the National Meteorology Agency	ORG
+AF5	290	1	Implementation Arrangements and Actors	ORG
+AF5	290	2	the Ministry of Agriculture	ORG
+AF5	291	1	the Ministry of Agriculture and Water Management	ORG
+AF5	291	2	Mutuelle Marocaine	PERSON
+AF5	291	3	Moroccan Agricultural Insurance Company	ORG
+AF5	291	4	Société Nationale d’Assurance et de Réassurance	PERSON
+AF5	291	5	National Insurance and Reinsurance Company	ORG
+AF5	291	6	the National Meteorological Agency	ORG
+AF5	292	1	the World Meteorological Organization	ORG
+AF5	293	1	(end of 2017	DATE
+AF5	294	1	MAMDA	ORG
+AF5	294	2	the National Agency for Meteorology and Société Nationale	ORG
+AF5	294	3	National Insurance and Reinsurance Company	ORG
+AF5	295	1	AfDB	NORP
+AF5	296	1	Committee	ORG
+AF5	296	2	2017	DATE
+AF5	297	1	Agricultural Insurance Scheme Government Insurance	ORG
+AF5	297	2	50%	PERCENT
+AF5	297	3	Premium	ORG
+AF5	297	4	50	CARDINAL
+AF5	297	5	Farmers	ORG
+AF5	297	6	Premium	ORG
+AF5	297	7	50	CARDINAL
+AF5	297	8	Government Insurance	ORG
+AF5	297	9	50%	PERCENT
+AF5	297	10	Moroccan Agricultural Insurance Company Definition	ORG
+AF5	297	11	Billing Insurance	ORG
+AF5	297	12	1	CARDINAL
+AF5	297	13	2	CARDINAL
+AF5	297	14	National Insurance and Reinsurance Company Sale	ORG
+AF5	297	15	National Meteorological Agency	ORG
+AF5	297	16	12	CARDINAL
+AF5	300	1	Three	CARDINAL
+AF5	300	2	1	CARDINAL
+AF5	300	3	third	ORDINAL
+AF5	300	4	2	CARDINAL
+AF5	300	5	third	ORDINAL
+AF5	300	6	3	CARDINAL
+AF5	300	7	third	ORDINAL
+AF5	302	1	third	ORDINAL
+AF5	305	1	Implementation Arrangements and Actors	ORG
+AF5	305	2	the Ministry of Agriculture	ORG
+AF5	306	1	the German Cooperation Agency	ORG
+AF5	306	2	KFW	ORG
+AF5	306	3	the Government of Burkina Faso	ORG
+AF5	307	1	cooperatives	ORG
+AF5	308	1	2.1.5	CARDINAL
+AF5	310	1	only one	CARDINAL
+AF5	310	2	Government	ORG
+AF5	310	3	BADF	ORG
+AF5	310	4	XOF	ORG
+AF5	310	5	5 billion	MONEY
+AF5	311	1	two	CARDINAL
+AF5	311	2	50%-80%	PERCENT
+AF5	311	3	Farmers	ORG
+AF5	311	4	BADF CREDIT REIMBURSEMENT	ORG
+AF5	311	5	13	CARDINAL
+AF5	312	1	2.1-1 Project Components and	PERCENT
+AF5	312	2	Thousand	CARDINAL
+AF5	312	3	1	CARDINAL
+AF5	312	4	6,368 thousand	CARDINAL
+AF5	312	5	2	CARDINAL
+AF5	312	6	UA	ORG
+AF5	312	7	846 thousand	CARDINAL
+AF5	312	8	third	ORDINAL
+AF5	312	9	UA	GPE
+AF5	312	10	380 thousand	CARDINAL
+AF5	312	11	 Establish	PRODUCT
+AF5	312	12	cooperatives	ORG
+AF5	313	1	32 thousand	CARDINAL
+AF5	313	2	7,626 thousand	CARDINAL
+AF5	313	3	Technical Solutions Adopted and Alternatives	ORG
+AF5	313	4	BADF	ORG
+AF5	315	1	Burkina Faso	PERSON
+AF5	316	1	Bank	ORG
+AF5	317	1	10	CARDINAL
+AF5	318	1	14	CARDINAL
+AF5	318	2	Establish a	ORG
+AF5	318	3	Burkina Faso	ORG
+AF5	318	4	the Ministry of Economy, Finance and Development	ORG
+AF5	318	5	the Ministry of Agriculture and Water Management	ORG
+AF5	319	1	MAAH	ORG
+AF5	321	1	Government	ORG
+AF5	322	1	PACBA	ORG
+AF5	323	1	2.3	CARDINAL
+AF5	323	2	ADF	ORG
+AF5	323	3	BADF	PRODUCT
+AF5	323	4	5 billion	CARDINAL
+AF5	323	5	888 750 000	TIME
+AF5	323	6	Burkina Faso	PERSON
+AF5	324	1	2.4	CARDINAL
+AF5	324	2	7.626 million	CARDINAL
+AF5	324	3	5.988 billion	MONEY
+AF5	325	1	the Government of Burkina Faso	ORG
+AF5	326	1	ADF	ORG
+AF5	326	2	UA	GPE
+AF5	326	3	7.5 million	CARDINAL
+AF5	326	4	6.368 million	CARDINAL
+AF5	326	5	1.131 million	CARDINAL
+AF5	328	1	the Technical Annex	ORG
+AF5	329	1	2.4	CARDINAL
+AF5	329	2	Million %	PERCENT
+AF5	331	1	L.C.	GPE
+AF5	333	1	L.C.	GPE
+AF5	334	1	1	CARDINAL
+AF5	335	1	5.000 5.000	MONEY
+AF5	335	2	83.5%	PERCENT
+AF5	335	3	2	CARDINAL
+AF5	336	1	0.963 0.963	MONEY
+AF5	336	2	16.1%	PERCENT
+AF5	336	3	3	CARDINAL
+AF5	337	1	0.025 0.025	CARDINAL
+AF5	337	2	0.4%	PERCENT
+AF5	337	3	5.988	CARDINAL
+AF5	337	4	7.626 100%	PERCENT
+AF5	337	5	2%	PERCENT
+AF5	337	6	3%	PERCENT
+AF5	337	7	TOTAL	ORG
+AF5	337	8	5.988	CARDINAL
+AF5	337	9	7.626 100%	PERCENT
+AF5	337	10	2.4-2 Cost Estimate by Source of Financing	PERCENT
+AF5	337	11	UA Thousand	ORG
+AF5	337	12	125.76	CARDINAL
+AF5	337	13	2.4-3 Project Cost by Expenditure Category	PERCENT
+AF5	337	14	UA Thousand	ORG
+AF5	338	1	720.00 720.00	MONEY
+AF5	339	1	32.00 32.00 0.4%	PERCENT
+AF5	339	2	209.00 209.00	MONEY
+AF5	339	3	2.5%	PERCENT
+AF5	339	4	297.00 297.00	CARDINAL
+AF5	339	5	3.6%	PERCENT
+AF5	339	6	BADF	ORG
+AF5	339	7	6,368.00	CARDINAL
+AF5	339	8	6,368.00 84.9%	PERCENT
+AF5	339	9	7,626.00 7,626.00	TIME
+AF5	339	10	2.4	CARDINAL
+AF5	339	11	UA Thousand	ORG
+AF5	339	12	Components/Sub-Components 2018	ORG
+AF5	339	13	1	CARDINAL
+AF5	340	1	6,368	CARDINAL
+AF5	340	2	6,368 2	CARDINAL
+AF5	341	1	1,226	CARDINAL
+AF5	341	2	1,226	CARDINAL
+AF5	341	3	846 846	CARDINAL
+AF5	341	4	126 126	CARDINAL
+AF5	341	5	the World Meteorology Organisation	ORG
+AF5	341	6	720	CARDINAL
+AF5	341	7	410,710	CARDINAL
+AF5	341	8	380	TIME
+AF5	341	9	380	CARDINAL
+AF5	341	10	19 19	CARDINAL
+AF5	341	11	2.2.2	CARDINAL
+AF5	341	12	13 13	CARDINAL
+AF5	341	13	83	CARDINAL
+AF5	341	14	66	TIME
+AF5	341	15	59 59	DATE
+AF5	341	16	67 67	CARDINAL
+AF5	341	17	Support	PRODUCT
+AF5	341	18	cooperatives	ORG
+AF5	341	19	73 73 3	CARDINAL
+AF5	342	1	10.6	CARDINAL
+AF5	342	2	6,368	CARDINAL
+AF5	342	3	10.6	CARDINAL
+AF5	342	4	10.6	TIME
+AF5	342	5	16 2.5	CARDINAL
+AF5	342	6	Burkina Faso	PERSON
+AF5	343	1	BADF	ORG
+AF5	344	1	three	CARDINAL
+AF5	345	1	PACBA	ORG
+AF5	345	2	Burkina Faso	PERSON
+AF5	345	3	TA C5	ORG
+AF5	346	1	PACBA	ORG
+AF5	347	1	WAEMU	ORG
+AF5	348	1	2.6	CARDINAL
+AF5	348	2	BCEAO	ORG
+AF5	349	1	the BADF Design and Establishment Committee	ORG
+AF5	349	2	July 2016	DATE
+AF5	349	3	BADF Management	ORG
+AF5	349	4	Crédit Agricole du Sénégal	ORG
+AF5	349	5	the Burkina Fund for Economic and Social Development	ORG
+AF5	350	1	the Ministry of Economy, Finance and Development	ORG
+AF5	350	2	the Ministry of Agriculture and Water Management	ORG
+AF5	352	1	2.7	CARDINAL
+AF5	352	2	Bank Group	ORG
+AF5	352	3	Lessons Reflected	ORG
+AF5	352	4	28 February 2018	DATE
+AF5	352	5	Burkina Faso	GPE
+AF5	352	6	440.09 million	CARDINAL
+AF5	352	7	17	CARDINAL
+AF5	353	1	50%	PERCENT
+AF5	354	1	52%	PERCENT
+AF5	354	2	16.1%	PERCENT
+AF5	354	3	14%	PERCENT
+AF5	354	4	7.7%	PERCENT
+AF5	354	5	7.9%	PERCENT
+AF5	354	6	2.3%	PERCENT
+AF5	355	1	Bank	ORG
+AF5	355	2	Burkina Faso	PERSON
+AF5	355	3	3.04	CARDINAL
+AF5	355	4	1	CARDINAL
+AF5	355	5	4	CARDINAL
+AF5	356	1	Two	CARDINAL
+AF5	356	2	UA	GPE
+AF5	356	3	2 million	CARDINAL
+AF5	356	4	2014	DATE
+AF5	356	5	Fidelis Finance	ORG
+AF5	356	6	UA	GPE
+AF5	356	7	32 million	CARDINAL
+AF5	356	8	2016	DATE
+AF5	356	9	Coris Bank International	ORG
+AF5	358	1	Bank	ORG
+AF5	358	2	the Tanzania Agricultural Bank	ORG
+AF5	358	3	the Nigerian Multisector Development Bank	ORG
+AF5	360	1	Bank	ORG
+AF5	360	2	Burkina Faso	PERSON
+AF5	360	3	4	CARDINAL
+AF5	360	4	1	CARDINAL
+AF5	360	5	PPF	ORG
+AF5	360	6	UA	GPE
+AF5	360	7	58.88 million	CARDINAL
+AF5	361	1	about 15%	PERCENT
+AF5	361	2	Annex 2	ORG
+AF5	362	1	the Bagré Growth Pole Support Project	ORG
+AF5	362	2	the Classified Forests Participatory Management Project	ORG
+AF5	362	3	PGFC	ORG
+AF5	363	1	2.8	CARDINAL
+AF5	364	1	17	CARDINAL
+AF5	364	2	5.9%	PERCENT
+AF5	364	3	2016	DATE
+AF5	364	4	6.5%	PERCENT
+AF5	364	5	2016	DATE
+AF5	365	1	3.5%	PERCENT
+AF5	365	2	2017	DATE
+AF5	365	3	5%	PERCENT
+AF5	365	4	2020	DATE
+AF5	365	5	16%	PERCENT
+AF5	365	6	2016	DATE
+AF5	365	7	25%	PERCENT
+AF5	365	8	2020	DATE
+AF5	365	9	49%	PERCENT
+AF5	365	10	2010	DATE
+AF5	365	11	25%	PERCENT
+AF5	365	12	2020	DATE
+AF5	366	1	BADF	ORG
+AF5	366	2	WAEMU Banking Commission	ORG
+AF5	366	3	34 billion	CARDINAL
+AF5	366	4	2020	DATE
+AF5	366	5	BADF	ORG
+AF5	366	6	20%	PERCENT
+AF5	366	7	2020	DATE
+AF5	367	1	2020	DATE
+AF5	367	2	2020	DATE
+AF5	368	1	quarterly	DATE
+AF5	369	1	quarterly	DATE
+AF5	369	2	COBF	ORG
+AF5	369	3	Bank	ORG
+AF5	369	4	Burkina Faso	GPE
+AF5	370	1	PACBA	ORG
+AF5	371	1	PACBA	ORG
+AF5	372	1	the Central Bank	ORG
+AF5	372	2	the second fiscal year	DATE
+AF5	372	3	NBI	ORG
+AF5	372	4	+60%	ORG
+AF5	372	5	XOF	ORG
+AF5	372	6	8 billion	CARDINAL
+AF5	372	7	the end of the fifth year	DATE
+AF5	372	8	NBI	ORG
+AF5	372	9	annual	DATE
+AF5	372	10	40%	PERCENT
+AF5	372	11	3%	PERCENT
+AF5	372	12	the end of the fifth year	DATE
+AF5	372	13	39%	PERCENT
+AF5	372	14	the fourth year	DATE
+AF5	372	15	4%	PERCENT
+AF5	372	16	the fourth year	DATE
+AF5	373	1	3.2	CARDINAL
+AF5	373	2	Social Impact 3.2.1 Environmental Impact	ORG
+AF5	373	3	3.2.1.1	CARDINAL
+AF5	373	4	PACBA	ORG
+AF5	374	1	BADF	ORG
+AF5	375	1	4	CARDINAL
+AF5	375	2	2	CARDINAL
+AF5	375	3	Bank	ORG
+AF5	377	1	SNSC	ORG
+AF5	377	2	Environmental and	ORG
+AF5	377	3	18	CARDINAL
+AF5	378	1	BADF	ORG
+AF5	378	2	Bank	ORG
+AF5	379	1	the Bank's Climate Protection System	ORG
+AF5	383	1	the rainy season	DATE
+AF5	384	1	3.2.3	CARDINAL
+AF5	384	2	Social Impact	ORG
+AF5	384	3	3.2.3.1	CARDINAL
+AF5	384	4	PACBA	ORG
+AF5	385	1	First	ORDINAL
+AF5	390	1	3.2.4 Gender (	ORG
+AF5	390	2	TA A5	GPE
+AF5	390	3	3.2.4.1	CARDINAL
+AF5	390	4	Burkina Faso	PERSON
+AF5	390	5	146th	CARDINAL
+AF5	390	6	2016	DATE
+AF5	390	7	Human Development Report	EVENT
+AF5	390	8	188	CARDINAL
+AF5	392	1	55%	PERCENT
+AF5	392	2	only 40%	PERCENT
+AF5	394	1	8%	PERCENT
+AF5	394	2	15%	PERCENT
+AF5	395	1	3.2.4.2	CARDINAL
+AF5	396	1	Category 3	CARDINAL
+AF5	396	2	Bank	ORG
+AF5	398	1	20%	PERCENT
+AF5	403	1	PACBA	ORG
+AF5	404	1	ESMS	ORG
+AF5	404	2	AfDB	NORP
+AF5	404	3	AfDB	LOC
+AF5	405	1	19	CARDINAL
+AF5	405	2	4.1.1	CARDINAL
+AF5	405	3	Institutional Arrangements	ORG
+AF5	405	4	TA B3	ORG
+AF5	405	5	4.1.1.1	CARDINAL
+AF5	406	1	15 February 2018	DATE
+AF5	406	2	Burkina Faso	PERSON
+AF5	407	1	4.1.1.2	CARDINAL
+AF5	407	2	the Ministry of Economy, Finance and Development	ORG
+AF5	407	3	the General Directorate	ORG
+AF5	407	4	Treasury	ORG
+AF5	409	1	the Ministry of Agriculture and Water Management	ORG
+AF5	409	2	the General Directorate for Promotion of the Rural Economy (DGPER	ORG
+AF5	411	1	the "Agricultural Economy"	LAW
+AF5	411	2	one	CARDINAL
+AF5	412	1	The Budget Programme Officer	ORG
+AF5	412	2	the Project Coordinator	ORG
+AF5	414	1	4.1.1.4 The Review Committee	ORG
+AF5	418	1	TA B4	GPE
+AF5	418	2	4.1.2.1	CARDINAL
+AF5	418	3	Bank	ORG
+AF5	418	4	the Procurement Framework	ORG
+AF5	418	5	the Bank Group	ORG
+AF5	418	6	October 2015	DATE
+AF5	419	1	Bank	ORG
+AF5	419	2	the Standard Bidding Documents (SBD	ORG
+AF5	419	3	Bank	ORG
+AF5	419	4	PMP	ORG
+AF5	419	5	the Procurement Plan	WORK_OF_ART
+AF5	420	1	PMP	ORG
+AF5	420	2	Article 8.5 of the Bank Group Procurement Policy document	LAW
+AF5	420	3	Article 8.6 of the Bank Group Procurement Policy document	LAW
+AF5	421	1	4.1.2.2	CARDINAL
+AF5	421	2	Risks and Capacity Assessment	ORG
+AF5	421	3	Bank	ORG
+AF5	422	1	para	GPE
+AF5	423	1	Annex B5	ORG
+AF5	425	1	Financial Management Arrangements	ORG
+AF5	425	2	4.1.3.1	CARDINAL
+AF5	425	3	the General Directorate for Promotion of the Rural Economy (DGPER	ORG
+AF5	425	4	the Ministry of Agriculture, Water and Fisheries Resources	ORG
+AF5	425	5	20	CARDINAL
+AF5	425	6	the Project Executing Agency	ORG
+AF5	426	1	a DGPER Project Implementation Unit	ORG
+AF5	426	2	Bank	ORG
+AF5	427	1	the DGPER Administrative and Financial Director	ORG
+AF5	429	1	4.1.3.2	CARDINAL
+AF5	430	1	quarterly	DATE
+AF5	430	2	Bank	ORG
+AF5	430	3	45 days	DATE
+AF5	430	4	the end of each quarter	DATE
+AF5	431	1	The Internal Accounts Inspectorate	ORG
+AF5	431	2	annual	DATE
+AF5	432	1	4.1.4 Disbursement Arrangements 4.1.4.1	PERSON
+AF5	432	2	1	CARDINAL
+AF5	432	3	Bank	ORG
+AF5	433	1	the Bank through the PACBA	ORG
+AF5	433	2	Bank	ORG
+AF5	433	3	five	CARDINAL
+AF5	433	4	the State of Burkina Faso	ORG
+AF5	434	1	the WAMU Banking Commission	ORG
+AF5	434	2	March 14, 2018	DATE
+AF5	434	3	Finance	ORG
+AF5	434	4	April 16, 2018	DATE
+AF5	434	5	Order N ° 183	ORG
+AF5	434	6	BADF	ORG
+AF5	435	1	Bank	ORG
+AF5	435	2	the State of Burkina Faso's	ORG
+AF5	435	3	Banque Agricole du Faso	ORG
+AF5	436	1	the Agricultural Bank of Burkina Faso	ORG
+AF5	436	2	April 16, 2018	DATE
+AF5	436	3	the Burkinabe State's	ORG
+AF5	437	1	the Agricultural Bank of Faso	ORG
+AF5	438	1	October 4, 2017	DATE
+AF5	438	2	September 21, 2017	DATE
+AF5	438	3	two	CARDINAL
+AF5	438	4	Banque Agricole du Faso	ORG
+AF5	439	1	October 13, 2017	DATE
+AF5	439	2	Banque Agricole du Faso	ORG
+AF5	440	1	BADF	ORG
+AF5	440	2	the UEMOA Banking Commission	ORG
+AF5	441	1	BADF	ORG
+AF5	441	2	WAEMU	ORG
+AF5	443	1	April 16, 2018	DATE
+AF5	443	2	Banque Agricole	ORG
+AF5	444	1	4.1.4.2	CARDINAL
+AF5	445	1	ADF	ORG
+AF5	445	2	Bank	ORG
+AF5	446	1	Three	CARDINAL
+AF5	446	2	3	CARDINAL
+AF5	446	3	1	CARDINAL
+AF5	446	4	the State of Burkina Faso	ORG
+AF5	446	5	the Bank of the exepenses	ORG
+AF5	446	6	April 16, 2018	DATE
+AF5	446	7	6,368 million	CARDINAL
+AF5	446	8	4.1.4.1	CARDINAL
+AF5	447	1	Bank	ORG
+AF5	447	2	State	ORG
+AF5	448	1	the State of Burkina Faso	ORG
+AF5	449	1	21 2	CARDINAL
+AF5	451	1	the National Treasury	ORG
+AF5	451	2	the Central Bank of West African States	ORG
+AF5	451	3	BCEAO	ORG
+AF5	451	4	Bank	ORG
+AF5	454	1	3	CARDINAL
+AF5	454	2	2	CARDINAL
+AF5	454	3	Support for Securing the Agricultural Financing Ecosystem	WORK_OF_ART
+AF5	455	1	4.1.4.3	CARDINAL
+AF5	456	1	treasury	ORG
+AF5	458	1	4.1.5	CARDINAL
+AF5	458	2	yearly	DATE
+AF5	458	3	Bank	ORG
+AF5	459	1	Bank	ORG
+AF5	459	2	six months	DATE
+AF5	459	3	the end of the fiscal year	DATE
+AF5	459	4	Bank	ORG
+AF5	461	1	4.2	CARDINAL
+AF5	461	2	25 months	DATE
+AF5	461	3	December 2018 to December 2020	DATE
+AF5	462	1	4.2.2	CARDINAL
+AF5	462	2	Bank	ORG
+AF5	463	1	at least twice	CARDINAL
+AF5	464	1	Quarterly	DATE
+AF5	464	2	annual	DATE
+AF5	464	3	Bank	ORG
+AF5	465	1	4.3	CARDINAL
+AF5	465	2	Burkina Faso	PERSON
+AF5	465	3	the past three years	DATE
+AF5	466	1	republican	NORP
+AF5	467	1	Transparency International's	ORG
+AF5	467	2	2016	DATE
+AF5	467	3	72nd	ORDINAL
+AF5	467	4	172	CARDINAL
+AF5	467	5	10	CARDINAL
+AF5	467	6	African	NORP
+AF5	468	1	Burkina Faso	PERSON
+AF5	469	1	BCEAO	ORG
+AF5	469	2	the WAEMU Banking Commission	ORG
+AF5	469	3	WAEMU	ORG
+AF5	470	1	4.4	CARDINAL
+AF5	471	1	PACBA	ORG
+AF5	471	2	an Agricultural Credit Security Fund	ORG
+AF5	471	3	the Natural Disasters Fund	ORG
+AF5	471	4	the Interest Rate Subsidy Fund	ORG
+AF5	471	5	PACBA	ORG
+AF5	472	1	4.5	CARDINAL
+AF5	472	2	4.5	CARDINAL
+AF5	472	3	Moderate Government	PRODUCT
+AF5	473	1	Sahel	PERSON
+AF5	474	1	Moderate BADF's	PERSON
+AF5	475	1	CNCA	ORG
+AF5	475	2	Senegal	PERSON
+AF5	476	1	BADF	ORG
+AF5	477	1	the Central Bank's	ORG
+AF5	478	1	Moderate The Burkinabe Fund for Economic and Social Development	ORG
+AF5	478	2	the Central Bank	ORG
+AF5	478	3	the Central Bank	ORG
+AF5	481	1	the Board of Directors	ORG
+AF5	482	1	BADF	ORG
+AF5	482	2	Moderate Strong	WORK_OF_ART
+AF5	484	1	BADF	ORG
+AF5	485	1	Moderate BADF	PERSON
+AF5	486	1	BADF	ORG
+AF5	488	1	4.6	CARDINAL
+AF5	488	2	Burkina Faso	GPE
+AF5	490	1	the Bank's Office in Burkina Faso	ORG
+AF5	491	1	Department	ORG
+AF5	491	2	Bank	ORG
+AF5	491	3	AfDB	NORP
+AF5	491	4	IDEV	ORG
+AF5	492	1	23	CARDINAL
+AF5	492	2	5.1	CARDINAL
+AF5	492	3	ADF	ORG
+AF5	492	4	UA	GPE
+AF5	492	5	7.5 million	CARDINAL
+AF5	492	6	the African Development Fund	ORG
+AF5	492	7	Burkina Faso	PERSON
+AF5	492	8	Borrower	ORG
+AF5	493	1	5.2	CARDINAL
+AF5	493	2	the African Development Fund  Conditions Precedent to	ORG
+AF5	493	3	Borrower	ORG
+AF5	493	4	Section 12.01 of the General Conditions Applicable to Loan Agreements and Guarantee Agreements of the Fund (Sovereign Entities	LAW
+AF5	494	1	Conditions Precedent	ORG
+AF5	494	2	first	ORDINAL
+AF5	494	3	Borrower	ORG
+AF5	494	4	the Project Coordinator	ORG
+AF5	494	5	écnomie agricole	PERSON
+AF5	495	1	Environmental and	ORG
+AF5	495	2	Banque Agricole du Faso	ORG
+AF5	495	3	BADF	ORG
+AF5	495	4	BADF	ORG
+AF5	496	1	31 March 2019	DATE
+AF5	496	2	the Fund an Administrative, Accounting and Financial Procedures Manual	ORG
+AF5	496	3	31 March 2019	DATE
+AF5	496	4	iii) Prepare	ORG
+AF5	496	5	30 September 2019	DATE
+AF5	496	6	December 31st of each year	DATE
+AF5	496	7	annual	DATE
+AF5	496	8	the following year	DATE
+AF5	496	9	fiscal year 2020	DATE
+AF5	497	1	24 5.3	CARDINAL
+AF5	497	2	Bank Policies	ORG
+AF5	498	1	the Board of Directors	ORG
+AF5	498	2	Burkina Faso	PERSON
+AF5	498	3	ADF	ORG
+AF5	498	4	UA	GPE
+AF5	498	5	7.5 million	CARDINAL
+AF5	498	6	the Support Project for Establishing an Agribusiness Bank	LAW
+AF5	499	1	Comparative Socio-economic Indicators Year Burkina	ORG
+AF5	499	2	Africa	LOC
+AF5	499	3	Countries Develo-	PRODUCT
+AF5	499	4	Countries Basic Indicators Area	ORG
+AF5	499	5	000 Km²)	CARDINAL
+AF5	499	6	millions	CARDINAL
+AF5	499	7	2017	CARDINAL
+AF5	499	8	1 184,5	CARDINAL
+AF5	499	9	5	CARDINAL
+AF5	499	10	1 401,5 Urban Population	WORK_OF_ART
+AF5	499	11	(%	PERCENT
+AF5	499	12	2017	DATE
+AF5	499	13	Population Density	ORG
+AF5	499	14	2017	DATE
+AF5	499	15	317	CARDINAL
+AF5	499	16	Labor Force Participation *- Total	ORG
+AF5	499	17	(%	PERCENT
+AF5	499	18	2017	DATE
+AF5	499	19	Labor Force Participation	LAW
+AF5	499	20	(%	PERCENT
+AF5	499	21	2017	CARDINAL
+AF5	499	22	Ratio	PERSON
+AF5	499	23	100	CARDINAL
+AF5	499	24	2017	CARDINAL
+AF5	499	25	0,801 0,506	CARDINAL
+AF5	500	1	187	CARDINAL
+AF5	500	2	2015 185	DATE
+AF5	500	3	Popul	PERSON
+AF5	501	1	Liv ing	PERSON
+AF5	501	2	1.90	MONEY
+AF5	501	3	2014	CARDINAL
+AF5	501	4	Dem	NORP
+AF5	501	5	(%	PERCENT
+AF5	501	6	2017	DATE
+AF5	501	7	2,9	TIME
+AF5	501	8	2017	CARDINAL
+AF5	501	9	5,6	TIME
+AF5	501	10	3,6 2,6	TIME
+AF5	501	11	15	CARDINAL
+AF5	501	12	(%	PERCENT
+AF5	501	13	2017	DATE
+AF5	501	14	(%	PERCENT
+AF5	501	15	2017	DATE
+AF5	501	16	6,2	PRODUCT
+AF5	501	17	65	CARDINAL
+AF5	501	18	(%	PERCENT
+AF5	501	19	2017	CARDINAL
+AF5	501	20	Dependency Ratio	PERSON
+AF5	501	21	2017	DATE
+AF5	501	22	100,1	CARDINAL
+AF5	501	23	15-49	DATE
+AF5	501	24	(%	PERCENT
+AF5	501	25	2017	DATE
+AF5	501	26	Life Ex	ORG
+AF5	501	27	Birth - Total	ORG
+AF5	501	28	2017	DATE
+AF5	501	29	Life Ex	ORG
+AF5	501	30	Birth - Female	ORG
+AF5	501	31	2017	DATE
+AF5	501	32	Crude Birth Rate	WORK_OF_ART
+AF5	501	33	1,000	CARDINAL
+AF5	501	34	2017	DATE
+AF5	501	35	Crude Death Rate	WORK_OF_ART
+AF5	501	36	1,000	CARDINAL
+AF5	501	37	8,9	TIME
+AF5	501	38	1,000	CARDINAL
+AF5	501	39	2016	DATE
+AF5	501	40	1,000	CARDINAL
+AF5	501	41	2016	DATE
+AF5	501	42	6,8	CARDINAL
+AF5	501	43	2017	DATE
+AF5	501	44	5,3 4,6 2,6	MONEY
+AF5	501	45	1,7 Maternal Mortality Rate	ORG
+AF5	501	46	100,000	CARDINAL
+AF5	501	47	2015 371,0	DATE
+AF5	501	48	411,3	CARDINAL
+AF5	501	49	230,0	CARDINAL
+AF5	501	50	2017	CARDINAL
+AF5	501	51	Health & Nutrition Indicators	ORG
+AF5	501	52	100,000	CARDINAL
+AF5	501	53	2012	CARDINAL
+AF5	501	54	100,000	CARDINAL
+AF5	501	55	2012	DATE
+AF5	501	56	202,9	CARDINAL
+AF5	501	57	857,4 Births	ORG
+AF5	501	58	Trained Health Personnel	ORG
+AF5	501	59	Safe Water (% of Population	WORK_OF_ART
+AF5	501	60	2015	DATE
+AF5	501	61	2015	DATE
+AF5	501	62	57 69 Percent	PERCENT
+AF5	502	1	15-49	DATE
+AF5	502	2	Liv ing w	PERSON
+AF5	502	3	100,000	CARDINAL
+AF5	502	4	2016	DATE
+AF5	502	5	3,8	CARDINAL
+AF5	502	6	2016	DATE
+AF5	502	7	149,0	CARDINAL
+AF5	502	8	Child Immunization Against Measles	ORG
+AF5	502	9	(%	PERCENT
+AF5	502	10	2016	DATE
+AF5	502	11	eight	CARDINAL
+AF5	502	12	Children (%	ORG
+AF5	502	13	under 5 y	DATE
+AF5	502	14	2010	DATE
+AF5	502	15	2010	DATE
+AF5	503	1	2015	DATE
+AF5	503	2	2 621	CARDINAL
+AF5	503	3	2 335	CARDINAL
+AF5	503	4	3	CARDINAL
+AF5	503	5	416	CARDINAL
+AF5	503	6	Health	ORG
+AF5	503	7	101,3	CARDINAL
+AF5	503	8	Primary School - Female 2016	ORG
+AF5	503	9	102,6	CARDINAL
+AF5	503	10	Secondary	ORDINAL
+AF5	503	11	Secondary	ORDINAL
+AF5	503	12	2016	DATE
+AF5	503	13	Primary School Female Teaching Staff	ORG
+AF5	503	14	2016	DATE
+AF5	503	15	(%	PERCENT
+AF5	503	16	2014	CARDINAL
+AF5	503	17	2014	CARDINAL
+AF5	503	18	2014	CARDINAL
+AF5	503	19	2015	DATE
+AF5	503	20	5,3	CARDINAL
+AF5	503	21	Environm	PRODUCT
+AF5	503	22	Total Land Area	LOC
+AF5	503	23	2015	DATE
+AF5	503	24	9,4 Agricultural Land	ORG
+AF5	503	25	2015	DATE
+AF5	503	26	2015	DATE
+AF5	503	27	Per Capita CO2 Emissions	PERSON
+AF5	503	28	3,0	ORG
+AF5	503	29	AfDB Statistics Department Databases	ORG
+AF5	503	30	World Bank: World Development Indicators	ORG
+AF5	503	31	UNSD	ORG
+AF5	503	32	WHO	ORG
+AF5	503	33	UNICEF	ORG
+AF5	503	34	UNDP	ORG
+AF5	506	1	May 2018	DATE
+AF5	506	2	0 2	CARDINAL
+AF5	506	3	0 5 2	CARDINAL
+AF5	506	4	0 1 0 2	CARDINAL
+AF5	506	5	2	CARDINAL
+AF5	506	6	0 1 3 2	CARDINAL
+AF5	506	7	2	CARDINAL
+AF5	506	8	2	CARDINAL
+AF5	506	9	1000	CARDINAL
+AF5	506	10	0 5 2	CARDINAL
+AF5	506	11	0 1 0 2	CARDINAL
+AF5	506	12	2	CARDINAL
+AF5	506	13	0 1 3 2	CARDINAL
+AF5	506	14	2	CARDINAL
+AF5	506	15	2	CARDINAL
+AF5	506	16	0 1 6	CARDINAL
+AF5	506	17	GNI	ORG
+AF5	506	18	Per Capita	PERSON
+AF5	506	19	US	GPE
+AF5	506	20	3,0	PRODUCT
+AF5	506	21	0 2	CARDINAL
+AF5	506	22	0 5 2	CARDINAL
+AF5	506	23	0 1 0 2	CARDINAL
+AF5	506	24	2	CARDINAL
+AF5	506	25	0 1 3 2	CARDINAL
+AF5	506	26	2	CARDINAL
+AF5	506	27	2	CARDINAL
+AF5	506	28	0 1 6 2	CARDINAL
+AF5	506	29	7	CARDINAL
+AF5	506	30	(%	PERCENT
+AF5	506	31	0 10	CARDINAL
+AF5	506	32	0 1 6 2	CARDINAL
+AF5	506	33	7 Life Expectancy	WORK_OF_ART
+AF5	506	34	Birth	LOC
+AF5	506	35	30 September 2018	DATE
+AF5	506	36	F ulf il	PRODUCT
+AF5	509	1	1s	CARDINAL
+AF5	511	1	UA Lo	PERSON
+AF5	513	1	ECONOM IC	PRODUCT
+AF5	513	2	TRA NSFORM	LAW
+AF5	513	3	8/18/2015 4/30/2020	DATE
+AF5	513	4	P -B F-KZ0-001	FAC
+AF5	513	5	7/18/2018	DATE
+AF5	513	6	8/28/2018	TIME
+AF5	513	7	6/30/2020	TIME
+AF5	513	8	9/17/2014	TIME
+AF5	513	9	9/17/2014	DATE
+AF5	513	10	7/24/2015	TIME
+AF5	513	11	12/31/2019 31	DATE
+AF5	513	12	218 000	MONEY
+AF5	513	13	35,02	CARDINAL
+AF5	513	14	CCESS	ORG
+AF5	513	15	2/4/2016	DATE
+AF5	513	16	220	CARDINAL
+AF5	513	17	F-EB 0-001 2100155025919	PRODUCT
+AF5	513	18	11/29/2013 11/29/2013 12/15/2014	DATE
+AF5	513	19	3/23/2015	TIME
+AF5	513	20	5/31/2019	TIME
+AF5	513	21	NA RE	WORK_OF_ART
+AF5	513	22	F-EA	PRODUCT
+AF5	513	23	12/20/2016 12/29/2019	DATE
+AF5	513	24	721	CARDINAL
+AF5	513	25	LA Raymo	PERSON
+AF5	513	26	F-FA	PRODUCT
+AF5	513	27	9/21/2016	DATE
+AF5	513	28	4/24/2017	TIME
+AF5	513	29	200	CARDINAL
+AF5	513	30	LA Raymo	PERSON
+AF5	513	31	F-FA	PRODUCT
+AF5	513	32	11/27/2017 12/31/2020	DATE
+AF5	513	33	21,53	CARDINAL
+AF5	513	34	439	CARDINAL
+AF5	513	35	GRE	ORG
+AF5	514	1	4/29/2015 5/28/2015	DATE
+AF5	514	2	12/1/2015 12/1/2015	TIME
+AF5	514	3	GRE	ORG
+AF5	515	1	2/15/2016	TIME
+AF5	515	2	4/30/2021	TIME
+AF5	515	3	6	CARDINAL
+AF5	515	4	CLA SSIFIED FORESTS M A NA	ORG
+AF5	515	5	11/28/2013 1/9/2014	DATE
+AF5	515	6	12/31/2019 8 202	DATE
+AF5	515	7	275	TIME
+AF5	515	8	40,16 3 294	CARDINAL
+AF5	515	9	034	CARDINAL
+AF5	515	10	SIN - LOA N	ORG
+AF5	515	11	2/16/2017	DATE
+AF5	515	12	3/24/2017	TIME
+AF5	515	13	8/23/2017	TIME
+AF5	515	14	9/18/2017	TIME
+AF5	515	15	2/16/2018	TIME
+AF5	515	16	12/31/2022 2 852	ORDINAL
+AF5	515	17	79	CARDINAL
+AF5	515	18	598	CARDINAL
+AF5	515	19	2/16/2017	DATE
+AF5	515	20	3/24/2017	TIME
+AF5	515	21	3/24/2017	TIME
+AF5	515	22	9/18/2017	TIME
+AF5	515	23	700	CARDINAL
+AF5	515	24	16 5 4 4 2 9	CARDINAL
+AF5	515	25	1,9	WORK_OF_ART
+AF5	515	26	6 6 9 4 19	CARDINAL
+AF5	515	27	7 5 9	CARDINAL
+AF5	515	28	SHEA VA LUE CHA INS SUP	ORG
+AF5	515	29	P -B	PRODUCT
+AF5	515	30	2/27/2017	DATE
+AF5	515	31	2/27/2017	TIME
+AF5	515	32	2/16/2018	TIME
+AF5	515	33	6/30/2019	TIME
+AF5	515	34	F-HB	PRODUCT
+AF5	515	35	7/30/2015 8/21/2015	DATE
+AF5	515	36	9/3/2015 7/30/2017 2	DATE
+AF5	515	37	473	PRODUCT
+AF5	515	38	100,00 2	TIME
+AF5	515	39	F-HB	PRODUCT
+AF5	515	40	262 0,00	PRODUCT
+AF5	515	41	0	CARDINAL
+AF5	515	42	Sidi Gallo	PERSON
+AF5	515	43	7/14/2017	DATE
+AF5	515	44	7/14/2017	TIME
+AF5	515	45	8/10/2017	TIME
+AF5	515	46	8/23/2017	TIME
+AF5	515	47	7/14/2019	TIME
+AF5	515	48	729 597	MONEY
+AF5	515	49	100,00	TIME
+AF5	515	50	729 597	QUANTITY
+AF5	515	51	Sidi Gallo	PERSON
+AF5	515	52	5/16/2018	DATE
+AF5	515	53	0 5 1	CARDINAL
+AF5	515	54	0 16	CARDINAL
+AF5	515	55	6 2 8 6 6	CARDINAL
+AF5	515	56	6 8 3	TIME
+AF5	515	57	4	CARDINAL
+AF5	515	58	17 2 9 2	CARDINAL
+AF5	516	1	3/16/2016	DATE
+AF5	516	2	6/30/2020	TIME
+AF5	516	3	12	CARDINAL
+AF5	516	4	725	CARDINAL
+AF5	516	5	37,45	CARDINAL
+AF5	516	6	513	PRODUCT
+AF5	517	1	1/9/2015 1/13/2015	DATE
+AF5	517	2	6/30/2020	TIME
+AF5	517	3	NIGERIA	ORG
+AF5	517	4	NKITA	GPE
+AF5	517	5	NIGERIA	ORG
+AF5	517	6	0-146 2100155036219	PRODUCT
+AF5	517	7	12/15/2017	DATE
+AF5	517	8	3/14/2018	TIME
+AF5	517	9	3/14/2018	TIME
+AF5	517	10	FA CILITA TION CORRIDOR LOM E - LOA NDIOP	EVENT
+AF5	517	11	6/27/2012	TIME
+AF5	517	12	7/19/2012	DATE
+AF5	517	13	6/21/2013	TIME
+AF5	517	14	8/30/2013	TIME
+AF5	517	15	21 530	TIME
+AF5	517	16	69,23	CARDINAL
+AF5	517	17	905	CARDINAL
+AF5	517	18	219	CARDINAL
+AF5	517	19	FA CILITA TION CORRIDOR LOM E - GRA NTDIOP	EVENT
+AF5	517	20	8/30/2013 6/24/2014 12/31/2018	DATE
+AF5	517	21	84 600	CARDINAL
+AF5	517	22	920	CARDINAL
+AF5	517	23	FA CILITA TION CORRIDOR LOM E - GRA NTDIOP M aimo	EVENT
+AF5	517	24	P -Z1-DB 0-097	LAW
+AF5	517	25	2/23/2015	DATE
+AF5	517	26	5/29/2015 5/29/2015 5/29/2015 12/2/2015	DATE
+AF5	517	27	976	CARDINAL
+AF5	517	28	37,59	CARDINAL
+AF5	517	29	231	CARDINAL
+AF5	517	30	RN	ORG
+AF5	517	31	2000200001856 11/24/2017	DATE
+AF5	517	32	9	CARDINAL
+AF5	517	33	0 3 19 1 3	CARDINAL
+AF5	517	34	1,9	WORK_OF_ART
+AF5	517	35	4 8 2 7 2	DATE
+AF5	517	36	0 8 0 5 4 7 5 4 6 2 7 8 0 3 9	CARDINAL
+AF5	517	37	15 18	CARDINAL
+AF5	517	38	6 15	CARDINAL
+AF5	517	39	8 5 5	CARDINAL
+AF5	517	40	n Regio nal	FAC
+AF5	517	41	Secto r N A T IO N A	WORK_OF_ART
+AF5	517	42	3	CARDINAL
+AF5	517	43	M u lt	PERSON
+AF5	517	44	Belgium	GPE
+AF5	517	45	European Union	ORG
+AF5	517	46	Japan	GPE
+AF5	517	47	China	GPE
+AF5	517	48	Taiwan	GPE
+AF5	517	49	more than 50%	PERCENT
+AF5	517	50	10-50%	PERCENT
+AF5	517	51	10%	PERCENT
+AF5	518	1	2015	DATE
+AF5	518	2	Report on Development Cooperation	EVENT
+AF5	519	1	Ministry of Economy and Finance	ORG
+AF5	519	2	Burkina Faso	PERSON
+AF5	519	3	the CSP Team	ORG
+AF5	520	1	IV Annex	ORG
+AF5	520	2	4	CARDINAL
+AF5	520	3	the African Development Bank	ORG
+AF5	521	1	the Bank Group	ORG

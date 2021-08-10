@@ -1,0 +1,248 @@
+id	sid	eid	entity	type
+WB16	1	1	PID	ORG
+WB16	2	1	P153466)	ORG
+WB16	2	2	Lake Victoria Environmental Management Project Phase II	ORG
+WB16	2	3	P100406)	ORG
+WB16	2	4	70%	PERCENT
+WB16	2	5	30%	PERCENT
+WB16	2	6	30%	PERCENT
+WB16	2	7	30%	PERCENT
+WB16	2	8	20%	PERCENT
+WB16	2	9	Biodiversi ty	PERSON
+WB16	2	10	10%	PERCENT
+WB16	2	11	Micro, Small and Medium Enterprise	LAW
+WB16	2	12	10%	PERCENT
+WB16	2	13	P100406 Borrower(s	ORG
+WB16	2	14	East Africa Community	GPE
+WB16	2	15	MINISTRY OF FINANCE	ORG
+WB16	2	16	The National Treasury Implementing Agency Lake Victoria Basin Commission	ORG
+WB16	2	17	LVBC	ORG
+WB16	2	18	Ministry of Water, Ministry of Environment	ORG
+WB16	2	19	26-May-2015	DATE
+WB16	3	1	about 68,800	CARDINAL
+WB16	3	2	second	ORDINAL
+WB16	4	1	Kenya	GPE
+WB16	4	2	Tanzania	GPE
+WB16	4	3	Uganda	GPE
+WB16	5	1	Rwanda	GPE
+WB16	5	2	Burundi	GPE
+WB16	5	3	Lake Victoria	LOC
+WB16	5	4	Kagera	LOC
+WB16	6	1	194,000	CARDINAL
+WB16	6	2	five	CARDINAL
+WB16	6	3	Burundi	GPE
+WB16	6	4	7 percent	PERCENT
+WB16	6	5	Kenya	GPE
+WB16	6	6	22 percent	PERCENT
+WB16	6	7	Rwanda	GPE
+WB16	6	8	11 percent	PERCENT
+WB16	6	9	Tanzania	GPE
+WB16	6	10	44 percent	PERCENT
+WB16	6	11	Uganda	GPE
+WB16	6	12	16 percent	PERCENT
+WB16	7	1	Nile River	LOC
+WB16	7	2	ten	CARDINAL
+WB16	7	3	Burundi	GPE
+WB16	7	4	the Democratic Republic of Congo	GPE
+WB16	7	5	Egypt	GPE
+WB16	7	6	Ethiopia	GPE
+WB16	7	7	Eritrea	GPE
+WB16	7	8	Kenya	GPE
+WB16	7	9	Rwanda	GPE
+WB16	7	10	Sudan	GPE
+WB16	7	11	Tanzania	GPE
+WB16	7	12	Uganda	GPE
+WB16	8	1	2	CARDINAL
+WB16	8	2	LVB	ORG
+WB16	8	3	about 35 million	CARDINAL
+WB16	8	4	approximately 30 percent	PERCENT
+WB16	8	5	the East African Community	ORG
+WB16	8	6	Burundi	GPE
+WB16	8	7	Kenya	GPE
+WB16	8	8	Rwanda	GPE
+WB16	8	9	Tanzania	GPE
+WB16	8	10	Kenya	GPE
+WB16	9	1	Lake Victoria	PERSON
+WB16	9	2	AFR	ORG
+WB16	10	1	around a third	CARDINAL
+WB16	10	2	the East African Community	LOC
+WB16	10	3	around a ninth	DATE
+WB16	11	1	annual	DATE
+WB16	11	2	US	GPE
+WB16	11	3	$0.5 billion	MONEY
+WB16	11	4	3 million	CARDINAL
+WB16	11	5	roughly 0.5 million tons	QUANTITY
+WB16	11	6	US$0.25 billion	MONEY
+WB16	12	1	Nile Perch	ORG
+WB16	12	2	1980s	DATE
+WB16	12	3	1990s	DATE
+WB16	13	1	the upper basin	LOC
+WB16	13	2	Burundi	GPE
+WB16	13	3	Rwanda	GPE
+WB16	13	4	Kenya	GPE
+WB16	14	1	90%	PERCENT
+WB16	14	2	Uganda	GPE
+WB16	14	3	Rwanda	GPE
+WB16	14	4	Burundi	GPE
+WB16	14	5	Kampala	GPE
+WB16	14	6	Entebbe	PERSON
+WB16	15	1	25%	PERCENT
+WB16	15	2	Basin	LOC
+WB16	15	3	Africa	LOC
+WB16	16	1	The Lake Victoria Basin	LOC
+WB16	17	1	the Nile Perch	ORG
+WB16	17	2	Perch	NORP
+WB16	17	3	less than half	CARDINAL
+WB16	18	1	Basin	LOC
+WB16	20	1	Basin	LOC
+WB16	20	2	the Lake reduces	LOC
+WB16	21	1	One	CARDINAL
+WB16	22	1	kilometers	QUANTITY
+WB16	22	2	Lake	LOC
+WB16	23	1	the Lake Victoria Basin	LOC
+WB16	24	1	Series	EVENT
+WB16	24	2	APL	ORG
+WB16	24	3	three	CARDINAL
+WB16	24	4	Lake Victoria Environmental Management Project	ORG
+WB16	24	5	GEF	ORG
+WB16	24	6	1996 to 2005	DATE
+WB16	25	1	three	CARDINAL
+WB16	25	2	Kenya	GPE
+WB16	25	3	Tanzania	GPE
+WB16	25	4	Uganda	GPE
+WB16	25	5	Lake Victoria Basin Commission	ORG
+WB16	25	6	LVBC	GPE
+WB16	25	7	the end of FY15	DATE
+WB16	25	8	2-year	DATE
+WB16	26	1	Rwanda	GPE
+WB16	26	2	Burundi	GPE
+WB16	27	1	APL-3	PERSON
+WB16	27	2	SOP-3	PRODUCT
+WB16	27	3	first	ORDINAL
+WB16	29	1	3	CARDINAL
+WB16	29	2	6	CARDINAL
+WB16	30	1	roughly 20%	PERCENT
+WB16	30	2	around 30-40%	PERCENT
+WB16	31	1	the Additional Financing Kenya	LAW
+WB16	31	2	Tanzania	GPE
+WB16	31	3	US$10 million	MONEY
+WB16	31	4	IDA	ORG
+WB16	31	5	US$2 million	MONEY
+WB16	31	6	IDA	ORG
+WB16	31	7	LVBC	ORG
+WB16	31	8	Credit Nos 4530-TZ	ORG
+WB16	31	9	4531-UG	CARDINAL
+WB16	31	10	4532-KE	GPE
+WB16	31	11	GEF	ORG
+WB16	31	12	SIDA	ORG
+WB16	32	1	US$ 0.5 million	MONEY
+WB16	32	2	International Waters	ORG
+WB16	32	3	Africa	LOC
+WB16	32	4	US$ 22.5 million	MONEY
+WB16	33	1	the Lake Victoria Basin	LOC
+WB16	33	2	the Lake	LOC
+WB16	33	3	about 197,000	CARDINAL
+WB16	33	4	approximately 600,000	CARDINAL
+WB16	33	5	LVB	ORG
+WB16	33	6	Energy - the Lake	ORG
+WB16	33	7	Uganda	GPE
+WB16	33	8	US$350 million	MONEY
+WB16	33	9	five million	CARDINAL
+WB16	33	10	Lake	LOC
+WB16	33	11	Lake Victoria	LOC
+WB16	34	1	Lake	LOC
+WB16	34	2	Lake Victoria Basin Commission	ORG
+WB16	34	3	LVBC	ORG
+WB16	34	4	LVB	ORG
+WB16	35	1	two	CARDINAL
+WB16	35	2	Protocol	FAC
+WB16	36	1	EAC	ORG
+WB16	37	1	The Regional Policy Steering Committee	ORG
+WB16	37	2	LVEMP II	ORG
+WB16	37	3	Basin	LOC
+WB16	37	4	LVBC	ORG
+WB16	39	1	National Focal Point Ministries	ORG
+WB16	39	2	LVB	ORG
+WB16	40	1	National Project Coordination Teams	ORG
+WB16	43	1	LVB	ORG
+WB16	43	2	the Partner States	GPE
+WB16	43	3	LVB	ORG
+WB16	44	1	III	ORG
+WB16	45	1	4	CARDINAL
+WB16	45	2	6	CARDINAL
+WB16	45	3	Comments	ORG
+WB16	45	4	LVB	ORG
+WB16	48	1	Component Name Point source	ORG
+WB16	48	2	Comments	ORG
+WB16	48	3	Lake	LOC
+WB16	50	1	Bank	ORG
+WB16	52	1	Comments	ORG
+WB16	52	2	the Lake basin	LOC
+WB16	55	1	Comments	ORG
+WB16	56	1	LVBC	ORG
+WB16	56	2	the National Project Coordination Teams	ORG
+WB16	59	1	USD Million	CARDINAL
+WB16	59	2	22.50	CARDINAL
+WB16	59	3	22.00	CARDINAL
+WB16	59	4	0.00	CARDINAL
+WB16	59	5	5	CARDINAL
+WB16	59	6	6	CARDINAL
+WB16	59	7	IDA	ORG
+WB16	59	8	20.00	CARDINAL
+WB16	59	9	2.00	CARDINAL
+WB16	59	10	International Waters	ORG
+WB16	59	11	Africa	LOC
+WB16	59	12	0.50	CARDINAL
+WB16	59	13	22.50	CARDINAL
+WB16	59	14	National Project Coordinator	ORG
+WB16	59	15	a Regional Project Coordination Team	ORG
+WB16	59	16	LVBC	ORG
+WB16	59	17	the Regional Policy Steering Committee	ORG
+WB16	61	1	Social and Environment Analysis	ORG
+WB16	63	1	Safeguard Policies	PERSON
+WB16	63	2	4.01	CARDINAL
+WB16	63	3	Habitats OP	PRODUCT
+WB16	63	4	4.04	CARDINAL
+WB16	63	5	4.36	CARDINAL
+WB16	63	6	4.09	CARDINAL
+WB16	63	7	Physical Cultural Resources OP/BP	LAW
+WB16	63	8	4.10	CARDINAL
+WB16	63	9	OP	PERSON
+WB16	63	10	International Waterways OP/BP	ORG
+WB16	63	11	Disputed Areas OP/BP	FAC
+WB16	63	12	7.60	CARDINAL
+WB16	63	13	VII	ORG
+WB16	64	1	World Bank Contact:	ORG
+WB16	64	2	Stephen Ling	PERSON
+WB16	64	3	Sr Natural Resources Mgmt	ORG
+WB16	65	1	Spe Tel	PERSON
+WB16	65	2	Borrower/Client/Recipient Name	ORG
+WB16	65	3	East Africa Community Contact	ORG
+WB16	65	4	Richard Sezibera	PERSON
+WB16	65	5	Page 6	PERSON
+WB16	65	6	6	CARDINAL
+WB16	65	7	27	CARDINAL
+WB16	65	8	Servacius B. Likwelile	PERSON
+WB16	65	9	Tel	PERSON
+WB16	65	10	255	CARDINAL
+WB16	65	11	The National Treasury	ORG
+WB16	65	12	Kamau Thugge	PERSON
+WB16	65	13	Tel	PERSON
+WB16	65	14	254	CARDINAL
+WB16	65	15	Lake Victoria Basin Commission	ORG
+WB16	65	16	LVBC	ORG
+WB16	65	17	Canisius Kanangire	PERSON
+WB16	65	18	254	CARDINAL
+WB16	65	19	202-6344	CARDINAL
+WB16	65	20	Christopher Sayi	PERSON
+WB16	65	21	255222450001	CARDINAL
+WB16	65	22	Ministry of Environment, Water and Natural Resources Contact	ORG
+WB16	65	23	Robinson Gaita Title	PERSON
+WB16	65	24	254	CARDINAL
+WB16	66	1	The InfoShop The World Bank 1818 H Street	ORG
+WB16	66	2	NW	GPE
+WB16	66	3	Washington	GPE
+WB16	66	4	202	CARDINAL
+WB16	66	5	458	CARDINAL
+WB16	66	6	202	CARDINAL
+WB16	66	7	522-1500	CARDINAL

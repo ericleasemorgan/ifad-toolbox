@@ -1,0 +1,78 @@
+id	sid	eid	entity	type
+WB73	1	1	World Bank Document	ORG
+WB73	1	2	1	CARDINAL
+WB73	1	3	5	CARDINAL
+WB73	1	4	PID	ORG
+WB73	1	5	The World Bank Burkina Faso	ORG
+WB73	1	6	2	CARDINAL
+WB73	1	7	5	CARDINAL
+WB73	2	1	Basic Project Data OPS TABLE Country Project ID Project Name Parent Project	ORG
+WB73	2	2	Burkina Faso P174315	ORG
+WB73	2	3	Burkina Faso	PERSON
+WB73	2	4	P174315) Region Estimated Board Date Practice Area	ORG
+WB73	2	5	Trade and Investment Development Policy Financing Borrower(s	ORG
+WB73	3	1	US$, Millions	MONEY
+WB73	3	2	100.00	CARDINAL
+WB73	3	3	Total World Bank Group	ORG
+WB73	3	4	100.00	CARDINAL
+WB73	3	5	World Bank Lending	ORG
+WB73	5	1	Burkina Faso	PERSON
+WB73	5	2	first	ORDINAL
+WB73	5	3	Sub-Saharan Africa	FAC
+WB73	6	1	2018	DATE
+WB73	7	1	19	CARDINAL
+WB73	9	1	The World Bank Burkina Faso	ORG
+WB73	9	2	3	CARDINAL
+WB73	9	3	5	CARDINAL
+WB73	12	1	three	CARDINAL
+WB73	12	2	CPF	ORG
+WB73	12	3	CPF	ORG
+WB73	13	1	First	ORDINAL
+WB73	13	2	the the Emergency Recurrent Cost Financing Project	ORG
+WB73	13	3	P169486	WORK_OF_ART
+WB73	13	4	the Financial Inclusion Support Project	ORG
+WB73	14	1	Health Services Reinforcement Project	ORG
+WB73	14	2	the Social Safety Net Project	ORG
+WB73	15	1	the Burkina Faso eGovernment Project	ORG
+WB73	15	2	COVID	ORG
+WB73	16	1	C. Proposed Development	PERSON
+WB73	21	1	DPO	ORG
+WB73	23	1	DPO	ORG
+WB73	24	1	D. Concept Description	PERSON
+WB73	24	2	Government	ORG
+WB73	24	3	State	ORG
+WB73	25	1	the National Pandemic Management Committee	ORG
+WB73	25	2	dozen	CARDINAL
+WB73	26	1	Bank	ORG
+WB73	28	1	First	ORDINAL
+WB73	28	2	DPO	ORG
+WB73	29	1	Second	ORDINAL
+WB73	30	1	Third	ORDINAL
+WB73	31	1	Fourth	ORDINAL
+WB73	31	2	DPO	ORG
+WB73	32	1	Burkina The World Bank Burkina Faso	ORG
+WB73	32	2	4	CARDINAL
+WB73	32	3	5	CARDINAL
+WB73	32	4	Faso	ORG
+WB73	32	5	two	CARDINAL
+WB73	33	1	E. Poverty	PERSON
+WB73	33	2	Social Impacts	ORG
+WB73	33	3	Environmental, Forests	ORG
+WB73	33	4	Other Natural Resource Aspects Poverty	ORG
+WB73	33	5	Social Impacts	ORG
+WB73	34	1	first	ORDINAL
+WB73	34	2	One	CARDINAL
+WB73	36	1	second	ORDINAL
+WB73	38	1	third	ORDINAL
+WB73	38	2	CPF	ORG
+WB73	40	1	Other Natural Resource Aspects Policy	ORG
+WB73	41	1	Public Investment Program	ORG
+WB73	46	1	CONTACT POINT World Bank Daniel	ORG
+WB73	46	2	5	CARDINAL
+WB73	46	3	5	CARDINAL
+WB73	46	4	NW	GPE
+WB73	46	5	Washington	GPE
+WB73	46	6	202	CARDINAL
+WB73	46	7	473-1000	CARDINAL
+WB73	46	8	Daniel Pajank	PERSON
+WB73	46	9	Soukeyna Kane 17-Jul-2020	PERSON

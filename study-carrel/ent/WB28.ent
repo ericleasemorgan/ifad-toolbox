@@ -1,0 +1,477 @@
+id	sid	eid	entity	type
+WB28	1	1	World Bank Document	ORG
+WB28	1	2	Jan 04, 2018	DATE
+WB28	1	3	1	CARDINAL
+WB28	1	4	18	CARDINAL
+WB28	1	5	PID/ISDS	ORG
+WB28	1	6	| Report	WORK_OF_ART
+WB28	1	7	Jan 04, 2018	DATE
+WB28	1	8	2	CARDINAL
+WB28	1	9	18	CARDINAL
+WB28	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
+WB28	2	2	Chad P162956 Chad	ORG
+WB28	2	3	Climate Resilient Agriculture and Productivity Enhancement Project Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
+WB28	2	4	26-Apr-2018	TIME
+WB28	3	1	Contingency Emergency Response Coordination	ORG
+WB28	4	1	Monitoring and Evaluation Financing	LAW
+WB28	4	2	USD Million	CARDINAL
+WB28	4	3	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	4	4	Jan 04, 2018	DATE
+WB28	4	5	3	CARDINAL
+WB28	4	6	18	CARDINAL
+WB28	6	1	Chad	GPE
+WB28	6	2	Central Africa	GPE
+WB28	7	1	1,284,000	CARDINAL
+WB28	7	2	three	CARDINAL
+WB28	7	3	Saharan	GPE
+WB28	7	4	Sahelian	NORP
+WB28	7	5	Sudanian	NORP
+WB28	8	1	14 million	CARDINAL
+WB28	8	2	47 percent	PERCENT
+WB28	9	1	Chad	GPE
+WB28	9	2	186	CARDINAL
+WB28	9	3	188	CARDINAL
+WB28	9	4	2016	DATE
+WB28	9	5	2016	DATE
+WB28	10	1	Chad	GPE
+WB28	10	2	three-quarters	CARDINAL
+WB28	12	1	2	CARDINAL
+WB28	13	1	two	CARDINAL
+WB28	14	1	Chad	GPE
+WB28	14	2	2014	DATE
+WB28	15	1	Chad	PERSON
+WB28	15	2	6.3%	PERCENT
+WB28	15	3	2014	DATE
+WB28	15	4	0.2%	PERCENT
+WB28	15	5	2017)1	DATE
+WB28	16	1	Sudan	GPE
+WB28	16	2	Nigeria	GPE
+WB28	16	3	CAR	ORG
+WB28	16	4	Libya	GPE
+WB28	16	5	Chad	GPE
+WB28	17	1	Sahel	GPE
+WB28	18	1	3	CARDINAL
+WB28	19	1	2019	DATE
+WB28	19	2	3.15 percent	PERCENT
+WB28	21	1	80%	PERCENT
+WB28	21	2	Chadian	NORP
+WB28	21	3	52%	PERCENT
+WB28	22	1	second	ORDINAL
+WB28	23	1	2016	DATE
+WB28	23	2	2020	DATE
+WB28	24	1	4	CARDINAL
+WB28	25	1	6.3%	PERCENT
+WB28	25	2	annually	DATE
+WB28	25	3	2010 to 20152	DATE
+WB28	25	4	more than 65%	PERCENT
+WB28	25	5	the age of 25	DATE
+WB28	26	1	2015	DATE
+WB28	27	1	Chad	PERSON
+WB28	27	2	140	CARDINAL
+WB28	27	3	144	CARDINAL
+WB28	28	1	13.9%	PERCENT
+WB28	28	2	UNESCO	ORG
+WB28	28	3	about half	CARDINAL
+WB28	28	4	1	CARDINAL
+WB28	28	5	The World Bank Group	ORG
+WB28	28	6	2017	DATE
+WB28	28	7	2	CARDINAL
+WB28	28	8	UN	ORG
+WB28	28	9	2016	DATE
+WB28	28	10	Jan 04, 2018	DATE
+WB28	28	11	4	CARDINAL
+WB28	28	12	18	CARDINAL
+WB28	30	1	5	CARDINAL
+WB28	32	1	one	CARDINAL
+WB28	32	2	10	CARDINAL
+WB28	32	3	Chadians	NORP
+WB28	32	4	1.4 million	CARDINAL
+WB28	33	1	years	DATE
+WB28	33	2	millions	CARDINAL
+WB28	38	1	The National Action Program of Adaptation	ORG
+WB28	38	2	2010	DATE
+WB28	40	1	Chad	GPE
+WB28	41	1	more than 49 million	CARDINAL
+WB28	41	2	only 6 percent	PERCENT
+WB28	42	1	only 9 percent	PERCENT
+WB28	43	1	Less than 1 percent	PERCENT
+WB28	43	2	Chad	GPE
+WB28	44	1	Chad	GPE
+WB28	44	2	North to South	GPE
+WB28	44	3	Saharian	NORP
+WB28	44	4	200 mm	QUANTITY
+WB28	44	5	200-700 mm	QUANTITY
+WB28	44	6	Sudanian	NORP
+WB28	44	7	750 mm	QUANTITY
+WB28	46	1	Sahelian	NORP
+WB28	46	2	Sudanian	NORP
+WB28	47	1	Sahelian	NORP
+WB28	48	1	7	CARDINAL
+WB28	51	1	between 720 and 785	CARDINAL
+WB28	51	2	Sahelian	NORP
+WB28	51	3	Sudanian	NORP
+WB28	51	4	Chad	GPE
+WB28	51	5	980 kg	QUANTITY
+WB28	52	1	8	CARDINAL
+WB28	53	1	between 800 to 1250 mm in the Sudanian Agro-Ecological Zone (	CARDINAL
+WB28	54	1	3	CARDINAL
+WB28	54	2	Chad	GPE
+WB28	54	3	ASRR	ORG
+WB28	54	4	May 2017 4	DATE
+WB28	54	5	2015	ORDINAL
+WB28	54	6	Millet	PERSON
+WB28	54	7	H. Mac Cauley	PERSON
+WB28	54	8	Tabo Ramadjita	PERSON
+WB28	54	9	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	54	10	Jan 04, 2018	DATE
+WB28	54	11	5	CARDINAL
+WB28	54	12	18	CARDINAL
+WB28	55	1	Farmers	ORG
+WB28	57	1	Sudanian	NORP
+WB28	59	1	9	CARDINAL
+WB28	60	1	ASRR	ORG
+WB28	60	2	Chadian	NORP
+WB28	63	1	10	CARDINAL
+WB28	64	1	Chadian	NORP
+WB28	65	1	AR&D	ORG
+WB28	67	1	Chadian	NORP
+WB28	69	1	less than 5%	PERCENT
+WB28	69	2	Agriculture Sector Review	ORG
+WB28	69	3	May 2017	DATE
+WB28	73	1	▪ Climate	ORG
+WB28	73	2	Chadian	NORP
+WB28	74	1	The Intergovernmental Panel on Climate Change	ORG
+WB28	74	2	Chad	PERSON
+WB28	75	1	Chad	GPE
+WB28	76	1	the Intended Nationally Determined Contribution	ORG
+WB28	76	2	INDC	PERSON
+WB28	76	3	the Republic of Chad	GPE
+WB28	76	4	September 2015	DATE
+WB28	76	5	the past decades	DATE
+WB28	76	6	Saharan	GPE
+WB28	76	7	Sahelian	NORP
+WB28	76	8	Chad	GPE
+WB28	76	9	150 km	QUANTITY
+WB28	77	1	Chad	GPE
+WB28	78	1	The Agriculture Sector Review Report	ORG
+WB28	78	2	ASRR	ORG
+WB28	80	1	ASRR	ORG
+WB28	80	2	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	80	3	Jan 04,	DATE
+WB28	80	4	6	CARDINAL
+WB28	80	5	18	CARDINAL
+WB28	82	1	11	CARDINAL
+WB28	84	1	12	CARDINAL
+WB28	85	1	IDA	ORG
+WB28	86	1	the Chad Hydrological and Meteorological Services Modernization Project	ORG
+WB28	86	2	the National Meteorology Agency	ORG
+WB28	86	3	ANAM	ORG
+WB28	87	1	GIS	ORG
+WB28	88	1	the Regional Sahel Pastoralism Support Project	LAW
+WB28	89	1	PRAPS	ORG
+WB28	90	1	the Rural Mobility and Connectivity Project	ORG
+WB28	90	2	P164747	ORG
+WB28	90	3	two	CARDINAL
+WB28	90	4	three	CARDINAL
+WB28	92	1	the Chad’s	ORG
+WB28	92	2	P154482	ORG
+WB28	94	1	C. Proposed Development Objective(s	PERSON
+WB28	94	2	13	DATE
+WB28	95	1	14	CARDINAL
+WB28	97	1	40%	PERCENT
+WB28	97	2	50%	PERCENT
+WB28	100	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	100	2	Jan 04, 2018	DATE
+WB28	100	3	7	CARDINAL
+WB28	100	4	18	CARDINAL
+WB28	100	5	USD 44.6 million	MONEY
+WB28	100	6	IDA	ORG
+WB28	100	7	USD 41 million	MONEY
+WB28	100	8	USD 3.6 million	MONEY
+WB28	100	9	5 years	DATE
+WB28	101	1	four	CARDINAL
+WB28	101	2	MEL	ORG
+WB28	102	1	SUSTAINABLE AGRICULTURE DEVELOPMENT	ORG
+WB28	102	2	Agricultural Research & Development	ORG
+WB28	102	3	AR&D	ORG
+WB28	103	1	AR&D	ORG
+WB28	103	2	A.3	ORG
+WB28	104	1	three	CARDINAL
+WB28	104	2	B.1	PERSON
+WB28	104	3	B.3	PERSON
+WB28	105	1	zero-dollar	MONEY
+WB28	105	2	Contingency Emergency Response Component	ORG
+WB28	105	3	CERC	ORG
+WB28	107	1	GoC	ORG
+WB28	107	2	Bank	ORG
+WB28	107	3	IRM	ORG
+WB28	108	1	IRM	ORG
+WB28	108	2	IDA	ORG
+WB28	109	1	the “Immediate Response Mechanism Operational Manual	LAW
+WB28	110	1	IBM	ORG
+WB28	111	1	E. Implementation Institutional and Implementation Arrangements 15	ORG
+WB28	112	1	the Ministry of Agriculture, Irrigation and Agricultural Equipment	ORG
+WB28	112	2	MAIEA	ORG
+WB28	113	1	a National Steering Committee	ORG
+WB28	113	2	Jan 04, 2018	DATE
+WB28	113	3	8	CARDINAL
+WB28	113	4	18	CARDINAL
+WB28	113	5	Ministry	ORG
+WB28	113	6	MAIEA	ORG
+WB28	113	7	decree5	PRODUCT
+WB28	114	1	16	CARDINAL
+WB28	115	1	05	CARDINAL
+WB28	115	2	October 2017	DATE
+WB28	115	3	MoA	ORDINAL
+WB28	115	4	Project Coordination Department	ORG
+WB28	115	5	CCP	ORG
+WB28	116	1	CCP	ORG
+WB28	116	2	the Financing Agreement	ORG
+WB28	117	1	17	CARDINAL
+WB28	118	1	The day to day	DATE
+WB28	118	2	Technical	ORG
+WB28	118	3	UCTF	ORG
+WB28	119	1	MAIEA	ORG
+WB28	119	2	UCTF	ORG
+WB28	119	3	World Bank	ORG
+WB28	120	1	CCP	ORG
+WB28	120	2	UTCF	ORG
+WB28	120	3	Bank	ORG
+WB28	120	4	the Ministry	ORG
+WB28	120	5	the Credit Agreement	LAW
+WB28	120	6	IDA	ORG
+WB28	120	7	Bank / IDA	ORG
+WB28	120	8	annual	DATE
+WB28	120	9	PSC	ORG
+WB28	120	10	CCP	ORG
+WB28	120	11	vii	ORG
+WB28	120	12	daily	DATE
+WB28	120	13	the World Bank	ORG
+WB28	120	14	WB	ORG
+WB28	121	1	18	CARDINAL
+WB28	122	1	UCTF	ORG
+WB28	122	2	a National Programme Coordinator	ORG
+WB28	123	1	an Internal Auditor	ORG
+WB28	123	2	Administrative and Financial Officer	ORG
+WB28	123	3	Accountant	GPE
+WB28	123	4	one	CARDINAL
+WB28	123	5	Gender and Social Development Specialist	ORG
+WB28	123	6	Officer	NORP
+WB28	124	1	19	CARDINAL
+WB28	125	1	Sarh	PERSON
+WB28	126	1	TSU	ORG
+WB28	126	2	UTCF	ORG
+WB28	127	1	TSU	ORG
+WB28	128	1	TSU	ORG
+WB28	130	1	5	CARDINAL
+WB28	130	2	Decree n	PERSON
+WB28	130	3	5	CARDINAL
+WB28	130	4	October 2017	DATE
+WB28	131	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	131	2	Jan 04, 2018	DATE
+WB28	131	3	9	CARDINAL
+WB28	131	4	18	CARDINAL
+WB28	131	5	F. Project	ORG
+WB28	131	6	the Sudanian Agro-Ecological Zone	ORG
+WB28	131	7	Chad	GPE
+WB28	132	1	three	CARDINAL
+WB28	132	2	03	CARDINAL
+WB28	132	3	Salamat	ORG
+WB28	132	4	Middle Chari	GPE
+WB28	132	5	Mandoul	PERSON
+WB28	132	6	Chad	GPE
+WB28	133	1	about 1.55 million	CARDINAL
+WB28	133	2	over 11%	PERCENT
+WB28	134	1	70.9%	PERCENT
+WB28	134	2	Mandoul	GPE
+WB28	134	3	61.4%	PERCENT
+WB28	134	4	Middle Chari	GPE
+WB28	134	5	48.4%	PERCENT
+WB28	134	6	Salamat	ORG
+WB28	135	1	about 6.5	CARDINAL
+WB28	136	1	Sudanese	NORP
+WB28	136	2	between 800 to 1250 mm	QUANTITY
+WB28	137	1	annual	DATE
+WB28	138	1	Wooded Sudanian	NORP
+WB28	139	1	G. Environmental	PERSON
+WB28	139	2	Cheikh A. T. Sagna	PERSON
+WB28	139	3	Serge M. Menang Evouna	PERSON
+WB28	139	4	Bougadare Kone	PERSON
+WB28	143	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	143	2	Jan 04,	DATE
+WB28	143	3	10	CARDINAL
+WB28	143	4	18	CARDINAL
+WB28	146	1	ESMF	ORG
+WB28	146	2	InfoShop	NORP
+WB28	147	1	ESIA	NORP
+WB28	148	1	Forests OP/BP	WORK_OF_ART
+WB28	149	1	4.09	CARDINAL
+WB28	149	2	4.09	CARDINAL
+WB28	150	1	the Integrated Pest Management	ORG
+WB28	150	2	IPM	ORG
+WB28	151	1	IPMP	ORG
+WB28	151	2	InfoShop	LOC
+WB28	152	1	Physical Cultural Resources	ORG
+WB28	152	2	ESMF	ORG
+WB28	152	3	Chance Finds	WORK_OF_ART
+WB28	153	1	Peoples OP/BP	ORG
+WB28	154	1	OP	PERSON
+WB28	155	1	RPF	GPE
+WB28	155	2	InfoShop	ORG
+WB28	156	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	156	2	Jan 04,	DATE
+WB28	156	3	11	CARDINAL
+WB28	156	4	18	CARDINAL
+WB28	158	1	International Waterways OP/BP	ORG
+WB28	158	2	International Waterways	ORG
+WB28	159	1	Disputed Areas OP/BP	ORG
+WB28	163	1	2	CARDINAL
+WB28	165	1	PAP	ORG
+WB28	166	1	OP/BP 4.01	ORG
+WB28	166	2	4.09	CARDINAL
+WB28	166	3	Pest Management	ORG
+WB28	166	4	OP/BP 4.11	ORG
+WB28	166	5	Physical Cultural Resources	ORG
+WB28	166	6	OP/BP 4.12	ORG
+WB28	167	1	the World Bank'	ORG
+WB28	167	2	RPF	GPE
+WB28	168	1	the Ministry of Environment	ORG
+WB28	168	2	Bank	ORG
+WB28	168	3	World Bank	ORG
+WB28	169	1	IPMP	ORG
+WB28	169	2	RPF	GPE
+WB28	170	1	2	CARDINAL
+WB28	172	1	to hundred thousands	CARDINAL
+WB28	172	2	Chadians	NORP
+WB28	174	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	174	2	Jan 04,	DATE
+WB28	174	3	12	CARDINAL
+WB28	174	4	18	CARDINAL
+WB28	175	1	PMP	ORG
+WB28	176	1	3	CARDINAL
+WB28	178	1	N/A 4	ORG
+WB28	181	1	PIU	ORG
+WB28	181	2	the Ministry of Agriculture, Irrigation and Agriculture Equipment	ORG
+WB28	182	1	Bank	ORG
+WB28	182	2	the Agriculture Support Production Project (P126576	ORG
+WB28	183	1	RPF	GPE
+WB28	184	1	GoC	ORG
+WB28	184	2	World Bank	ORG
+WB28	185	1	ESMF	ORG
+WB28	185	2	502 million	CARDINAL
+WB28	186	1	IPMP	ORG
+WB28	187	1	PMP action plan aim	LAW
+WB28	188	1	328.5 million	CARDINAL
+WB28	189	1	RPF	GPE
+WB28	191	1	RPF	ORG
+WB28	192	1	192.5 million	CARDINAL
+WB28	193	1	Social and Environmental Safeguards Specialists	ORG
+WB28	193	2	SESS	ORG
+WB28	193	3	PIU	ORG
+WB28	194	1	SESS	ORG
+WB28	194	2	WBG	ORG
+WB28	195	1	ESC	GPE
+WB28	196	1	Bureau de contrôle	ORG
+WB28	196	2	PIU	ORG
+WB28	197	1	PIU	ORG
+WB28	197	2	the The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	197	3	Jan 04,	DATE
+WB28	197	4	13	CARDINAL
+WB28	197	5	18	CARDINAL
+WB28	197	6	Génie Rural	PERSON
+WB28	197	7	Regional Directorate for Environmental	ORG
+WB28	197	8	Specialist	NORP
+WB28	198	1	ESC	GPE
+WB28	199	1	Regular Environmental Assessment and Pollution and Nuisance Control Directorate	ORG
+WB28	199	2	DEELCPN	GPE
+WB28	200	1	Borrower	ORG
+WB28	200	2	the World Bank Safeguards	ORG
+WB28	200	3	Bank	ORG
+WB28	201	1	3	CARDINAL
+WB28	201	2	IPMP & RPF	ORG
+WB28	202	1	5	CARDINAL
+WB28	204	1	The Steering Committee (SC	ORG
+WB28	204	2	The Steering Committee	ORG
+WB28	204	3	the Work Plan and Annual Budget (WPAB	LAW
+WB28	204	4	The Project Management Unit	ORG
+WB28	205	1	The Environmental Assessment and Pollution and Nuisance Control Directorate	ORG
+WB28	205	2	the Environmental and Social Impact Notices	ORG
+WB28	208	1	The National Agency for Rural Development Support	ORG
+WB28	208	2	The Department of Fisheries	ORG
+WB28	208	3	Aquaculture Development	ORG
+WB28	208	4	Decentralized Technical Services	ORG
+WB28	208	5	French	LANGUAGE
+WB28	208	6	the Regional an Departmental Directorates of Ministries	ORG
+WB28	208	7	Health	GPE
+WB28	209	1	CRA	ORG
+WB28	209	2	CLA	ORG
+WB28	209	3	the Departmental Committees of Actions	ORG
+WB28	209	4	CDA	ORG
+WB28	209	5	the National Council of Concertation of Rural Producers of Chad (CNCPRT	ORG
+WB28	209	6	Asssociations of Farmers, Breeders and Fishermen	ORG
+WB28	211	1	day	DATE
+WB28	211	2	the Project Management Unit	ORG
+WB28	213	1	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	213	2	Jan 04,	DATE
+WB28	213	3	14	CARDINAL
+WB28	213	4	18	CARDINAL
+WB28	214	1	Farmers Field School	ORG
+WB28	216	1	ESMF	ORG
+WB28	216	2	IPMP	ORG
+WB28	216	3	RPF	GPE
+WB28	217	1	3	CARDINAL
+WB28	217	2	DEELCPN	ORG
+WB28	217	3	Bank	ORG
+WB28	218	1	Feb 23, 2017	DATE
+WB28	218	2	Feb. 22, 2018	DATE
+WB28	219	1	ESMF	ORG
+WB28	221	1	the Bank Date	ORG
+WB28	221	2	19-Jan-2018 22-Feb-2018	TIME
+WB28	221	3	Disclosure Chad 23-Feb-2018	WORK_OF_ART
+WB28	221	4	the Bank Date	ORG
+WB28	221	5	Disclosure Chad 23-Feb-2018 Comments The World Bank Climate Resilient Agriculture and Productivity Enhancement Project (P162956)	WORK_OF_ART
+WB28	221	6	Jan 04,	DATE
+WB28	221	7	15	CARDINAL
+WB28	221	8	18	CARDINAL
+WB28	221	9	OPS	ORG
+WB28	222	1	the Bank Date	ORG
+WB28	222	2	Disclosure Chad 23-Feb-2018	WORK_OF_ART
+WB28	222	3	the Environmental Assessment/Audit	ORG
+WB28	222	4	EMP	ORG
+WB28	223	1	C. Compliance Monitoring Indicators	PERSON
+WB28	223	2	the Corporate Level	ORG
+WB28	223	3	ISDS	ORG
+WB28	223	4	EMP	ORG
+WB28	224	1	the Regional Environment Unit	ORG
+WB28	224	2	EA	PERSON
+WB28	225	1	EMP	ORG
+WB28	226	1	PM_C	PERSON
+WB28	226	2	4.09 - Pest Management	PERCENT
+WB28	228	1	PM	TIME
+WB28	231	1	PCR_C OM	PERSON
+WB28	231	2	BLE The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	231	3	Jan 04, 2018	DATE
+WB28	231	4	16	CARDINAL
+WB28	231	5	18	CARDINAL
+WB28	231	6	OP	ORG
+WB28	233	1	BP	ORG
+WB28	234	1	Regional	ORG
+WB28	235	1	the World Bank	ORG
+WB28	241	1	Jan 04, 2018	DATE
+WB28	241	2	17	CARDINAL
+WB28	241	3	18	CARDINAL
+WB28	241	4	Amadou Ba	PERSON
+WB28	241	5	Ziva Razafintsalama	PERSON
+WB28	241	6	Agriculture Economist Borrower/Client/Recipient Republic of Chad Implementing Agencies Ministry of Agriculture, Irrgation and Equipment	WORK_OF_ART
+WB28	241	7	MAIEA	ORG
+WB28	241	8	NW	GPE
+WB28	241	9	Washington	GPE
+WB28	241	10	202	CARDINAL
+WB28	241	11	473-1000	CARDINAL
+WB28	241	12	Amadou Ba Ziva	PERSON
+WB28	241	13	Marianne Grosclaude	PERSON
+WB28	241	14	Francois Nankobogo	ORG
+WB28	241	15	The World Bank Climate Resilient Agriculture and Productivity Enhancement Project	ORG
+WB28	241	16	Jan 04,	DATE
+WB28	241	17	18	CARDINAL
+WB28	241	18	18	CARDINAL

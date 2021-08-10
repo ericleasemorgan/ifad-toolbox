@@ -1,0 +1,962 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 1 of 12  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 05-Dec-2018 | Report No: PIDISDSC25413 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 2 of 12  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Malawi P167860  Malawi Resilient 
+Productive Landscapes 
+Project (P167860) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Jun 17, 2019 Sep 25, 2019 Water 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Malawi Minstry of Agriculture, 
+Irrigation and Water 
+Development 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+Increase adoption of resilience-enhancing landscape management practices in targeted watersheds and strengthen 
+capacity for improved water resources management 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 125.00 
+
+Total Financing 125.00 
+
+of which IBRD/IDA 120.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 120.00 
+
+          IDA Credit 120.00 
+
+Non-World Bank Group Financing 
+
+     Trust Funds 5.00 
+
+          Global Environment Facility (GEF) 5.00 
+
+  
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 3 of 12  
+
+     
+
+ 
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+Substantial  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Malawi is a small, peaceful and democratic country, with a population of about 17 million people. Most of the 
+population (85 percent) lives in rural areas. Population growth rate is estimated at 2.8 percent per annum. At this growth 
+rate, Malawi’s population is expected to reach 23 million by 2025. The country is land-locked and is highly vulnerable to 
+climatic shocks. Despite a recent difficult economic period, Malawi has a stable democratic political system and has 
+initiated economic and political reforms. The country remains one of the world’s poorest, with over half of its population 
+living in poverty.  
+
+2. Malawi has a narrow export base consisting mostly of tobacco, with high dependence on imports and external 
+aid flows. Investment climate constraints hinder private investment. The 2018 Doing Business report ranks Malawi 111 
+out of 190 on the ease of doing business.  The main obstacles to doing business include poor infrastructure and services 
+such as electricity, water, transport, an uncertain economic environment, poor legal and regulatory framework, lack of 
+access to long-term finance and a limited skills base. Business confidence remains subdued following two years of 
+drought conditions and weak economic growth. 
+
+3. Poverty levels in Malawi are high. In 2017, poverty headcount at US$1.9/day (2011 PPP) remained stubbornly 
+high at 70 percent of the population1. Gross National Income (GNI) per capita2 was estimated at US$320 in 2017. Malawi 
+is ranked 170 out of 188 countries on the United Nations Human Development Index, and 125 out of 157 on the World 
+Bank’s Human Capital Index. Almost half (47 percent) of the children under age five in Malawi are short for their age 
+due to long-term effects of malnutrition and 20 percent are severely stunted.   Malawi’s economic growth rates have 
+fallen below the average of 2.8 percent in non-resource rich African economies during the last twenty years.  Real per 
+capita Gross Domestic Product (GDP) has grown at an average of just above 1.5 percent per year between 1995 and 
+2014.  With these persistent low growth rates, successive governments in Malawi have struggled to lift people out of 
+poverty.   Wealth accounting data3 shows that more than half of Malawi’s wealth (estimated at US$10,442 per capita in 
+2014) is renewable natural capital, mainly cropland with smaller shares contributed by pastureland, forests and 
+protected areas. The natural capital base however is under extreme pressure due population growth, agricultural 
+expansion and climate change. There is also a strong correlation between areas with highly degraded land and those 
+with a high incidence of poverty, although there is currently insufficient evidence to point to a causal link4.   
+
+                                            
+1 World Bank (2017). Malawi Economic Monitor – Unleashing the Urban Economy, Macroeconomics and Fiscal Management Global 
+Practice, Washington, DC: The World Bank. 
+2 GNI per capita - atlas method (current US$) 
+3 Lange et al. (2018).  The Changing Wealth of Nations 2018: Building a Sustainable Future. Washington, DC: World Bank 
+4 World Bank (2018). Malawi Country Environmental Analysis. October 2018 (under preparation) 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 4 of 12  
+
+     
+
+4. Natural resources underpin Malawi’s productive sectors and are the main source of livelihood for over 80 
+percent of the population.  For instance, the agriculture sector contributes 28 percent of Malawi’s GDP and 78 percent 
+of export earnings, and employs 64 percent of the workforce, which consists mainly of subsistence farmers. Smallholders 
+account for 80 percent of agricultural production and 70 percent of agricultural GDP.  The forestry sector contributes 
+6.2 percent to the GDP (and this does not account for the value of non-wood forest products, processed timber or the 
+enormous informal trade in wood fuel and charcoal). Some 33,000 jobs are heavily dependent on the existence of 
+Malawi's forests.  Forests provide a range of environmental services, such as GHG mitigation, watershed regulation, 
+climate regulation, soil and water conservation, biodiversity support and nutrient cycling. The nine protected areas in 
+the Shire river basin store an estimated 80 million tons of CO2e5.  Malawi is also heavily dependent on hydropower for 
+its energy needs, with about 98 percent of current electricity generation coming from run-of-river6 hydropower plants 
+on the Shire River. 
+
+5. Agriculture remains the lifeblood of Malawi’s economy, and growth in GDP has historically followed growth in 
+agriculture.  However, most of the population is engaged in smallholder, low-productivity rain-fed agriculture which 
+regularly suffers exogenous climate-induced shocks with significant negative impacts on overall growth and poverty 
+reduction. In recent years, weak fiscal policy, low investor confidence, significant weather shocks and land degradation 
+have had detrimental effects on agricultural output and food security.  Malawi regularly suffers from droughts and 
+floods, and its economic growth is closely correlated with hydrological variability. In recent years, the country has 
+suffered from weather shocks with increasing frequency, including both floods and droughts in early 2015, followed by 
+another major drought in 2016. Irrigation potential has not been fully developed. Only about four percent of crop land 
+is currently irrigated, severely constraining agricultural intensification and commercialization. 
+
+6. Medium-term economic prospects however appear positive as the country recovers from the recent weather-
+induced shocks in 2016. Real GDP growth after two consecutive years of drought, fell below three percent in 2016 but 
+is projected to pick up in the range of four to five percent over the next two years. Increased output is expected to be 
+driven by a rebound in the agriculture sector, although this outlook is susceptible to downward risks such as a potential 
+El Niño-induced weather shocks.  The continued vulnerability of Malawi’s agricultural sector and spillovers to other 
+sectors point to the critical need to promote measures that improve resilience.  The Government of Malawi (GoM) has 
+recently developed a medium-term strategy7, looking beyond the recent crisis, to establish strong foundations for a 
+productive, competitive and resilient nation. 
+
+ 
+Sectoral and Institutional Context 
+ 
+7. Malawi’s water resources are under threat from severe land degradation and loss of forest cover.  Critical 
+watersheds are becoming degraded leading to reduced water availability, deteriorating water quality, increased 
+vulnerability to droughts and floods, reduced energy security and reduced agricultural productivity. Malawi has a large 
+network of surface waterbodies covering about 21 percent of the country’s total area; about 20 percent of this area is 
+Lake Malawi itself.  Malawi’s drainage system is divided into 17 Water Resources Areas (WRAs)8. Major river systems 
+include Shire (WRA 1), Ruo (WRA 14), Linthipe (WRA 4), Bua (WRA 5), Dwangwa (WRA 6), South Rukuru (WRA 7), North 
+Rukuru (WRA 8) and Songwe (WRA 9).  Most of the rivers are subject to natural seasonal flows but maintain at least 
+some base flow (at least in their lower reaches) throughout the dry season. The total renewable water resource available 
+in Malawi is estimated at 17.3 km3/year, or 1,027 m3/capita/year.  While availability of water resources in the aggregate 
+
+                                            
+5 Bayliss (2015). Carbon Storage Analysis of select Protected Areas under the SRBMP.   Report to Government of Malawi 
+6 ‘Run-of-river’ means that there is little or no storage capacity upstream of the power plant except small pondage for peaking. The amount of 
+electricity that can be produced depends on the daily flow of the river.  
+7 Malawi Growth and Development Strategy (2017-2022) 
+8 A Water Resources Area is essentially a single large, or in some cases a collection of smaller, hydrological catchments. 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 5 of 12  
+
+     
+
+is considered satisfactory, per capita water availability has been declining at a rapid rate.  Malawi is now dangerously 
+close to becoming water scarce9. Further, water resources in Malawi are highly variable between wet and dry seasons 
+and from year to year, and the country’s stock of water storage infrastructure is one of the lowest in the region. GoM’s 
+Water Resources Investment Strategy (WRIS, 2011) identifies poor catchment conditions and deteriorating water quality 
+as significant risks to water resources and associated infrastructure (dams, hydropower plants, irrigation systems), and 
+recommends investments in catchment management in strategically important WRAs.     
+
+8. Land degradation10 in Malawi’s most important watersheds has reached alarming levels, with major impacts on 
+water security, agricultural productivity, and hydropower generation.  Recent studies suggest that land degradation 
+hotspots cover about half (41 percent) of the land area in the country11. Soil erosion and nutrient depletion are major 
+forms of land degradation that are reported to affect more than 60 percent of the entire land area. The average annual 
+national soil loss rates in 2014 was 29 tons per hectare12. Chemical land degradation, including soil pollution and 
+salinization/alkalization, has led to 15 percent loss in the arable land in Malawi in the last decade alone. Projections for 
+future land degradation and soil loss under different climate and population growth rate scenarios suggest that land 
+degradation will become increasingly severe, with one study suggesting that overall rates of soil loss will increase by 
+between three and four times 2010 baseline levels13. The Shire River Basin (WRA 1) remains the most prominent hotspot 
+of land degradation. High loads of sediment are deposited in river beds, reservoirs and floodplain wetlands, affecting 
+irrigation canals, fisheries and hydropower generation.  Existing hydropower plants on the Shire River are often unable 
+to meet peak demand, partly due to low flows and sediments in the river caused by degradation of catchments upstream 
+of the plants14.  
+
+9. Forest degradation is a major contributor to land and water resources degradation.  Over the last 40 years, more 
+than half of Malawi’s forests and woodlands have vanished and those that remain are being ‘thinned’ through over-
+extraction and more frequent forest fires. Yet, forests make a substantial contribution to livelihoods and the economy 
+and are needed to protect vital ecosystem services. They also provide the bulk of Malawi’s energy supply in the form of 
+charcoal and firewood.  Wood fuels dominate Malawi’s energy sector and are used by 98 percent of the population. The 
+industry provides large numbers of jobs and is worth nearly US$295 million per annum – equivalent to four percent of 
+GDP15.  Forests and woodlands also play a key role in protecting watersheds from erosion, sustain the biodiversity that 
+underpins a large proportion of Malawi’s tourism sector and make an important contribution to mitigating carbon 
+emissions.   
+
+10. The underlying drivers of land degradation in Malawi are well known. These include a growing demand for 
+agricultural land due to increased population pressure and reduced agricultural productivity; insecure land tenure which 
+reduces incentives to invest in soil and water conservation measures; and limited access to markets and rural finance. 
+The proximate causes of land degradation include a wide range of biophysical factors and poor land management 
+
+                                            
+9 Under the Falkenmark definitions of water scarcity, a country with a total renewable water resource of less than 1000 m3/capita/year is 
+considered water scarce 
+10 Defined here as: “the reduction or loss of the biological or economic productivity and complexity of rainfed cropland, irrigated cropland, or range, 
+pasture, forest or woodlands resulting from natural processes, land uses or other human activities and habitation patterns such as land 
+contamination, soil erosion and the destruction of the vegetation cover” 
+11 MoNREM (2017). Forest Landscape Restoration Opportunities Assessment of Malawi. Lilongwe, Ministry of Natural Resources, Energy and 
+Mining, Government of Malawi.  
+12 Vargus R. and Omuto, C. (2016). Soil Loss Assessment in Malawi. FAO, UNEP and UNDP and MoAIWD.  Available at 
+http://unpei.org/sites/default/files/Soil_Loss_Assessment_in%20Malawi.pdf [accessed on November 20, 2018] 
+13 LTS (2013). Integrated Assessment of Land Use Options in Malawi.  Report to the World Bank and Government of Malawi 
+14 In 2017, Malawi’s power generation utility (EGENCO) spent around US$150,000 per ton on sediment management to enable operation of the 
+hydropower facilities. 
+15 World Bank (2018). Malawi Country Environmental Analysis. World Bank, October 2018 
+
+http://unpei.org/sites/default/files/Soil_Loss_Assessment_in%20Malawi.pdf
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 6 of 12  
+
+     
+
+practices. Important biophysical factors that affect land degradation include topography, land cover, climate and soil 
+erodibility.  
+
+11. Efforts to address land degradation are hampered by a multitude of factors.  The major challenge is the weak 
+institutional capacity for natural resource management at both national and local levels and the severe lack of funding 
+for these activities in local government budgets. With insufficient resources, weak capacity and incentives, local 
+governments are generally unable to play an effective role in addressing land degradation at the local level. In addition, 
+changes to climate and weather patterns exacerbate the impacts of natural resources degradation, making it harder to 
+address the problem.  Future climate change scenarios suggest that Malawi will see increasing climatic variability, higher 
+temperatures, longer dry periods, and more erratic and intense rainfall events16. More intense flood events will cause 
+greater soil erosion and land degradation. Hotter and drier periods will contribute to forest fire risks. Droughts will 
+continue to negatively impact food production, causing food insecurity and increased poverty. Increased poverty results 
+in greater demand for agricultural land, thus exerting more pressure on the natural resources base.  Yet, Malawi remains 
+unprepared to anticipate, respond to and recover from the effects of climate change.  The country lacks reliable hydro-
+meteorological information that is needed for building climate resilience.  For example, out of the 140 hydrological 
+monitoring stations in Malawi that are considered a priority, 70 percent are not operational.  Systems for data storage 
+and quick relay to modelling and forecasting systems are either non-existent or not integrated across agencies. Building 
+a national and more integrated hydrometeorological service is key to building climate resilience across productive 
+sectors and reducing pressure on the natural resources base.  
+
+12. Reversing the rate of land degradation remains a government priority. The Ministry of Agriculture, Irrigation and 
+Water Development (MoAIWD) and the Ministry of Natural Resources, Energy and Mining (MoNREM) recognize the 
+interdependence between natural resource management, agricultural production, water and energy security. Sound 
+policies and institutional frameworks for natural resources management exist. A new Environmental Management Act 
+2017 has been enacted to strengthen environmental management and protection, while the Water Resources Act of 
+2013 provides for the management, conservation, use and control of water resources, including management of 
+watersheds.  
+
+13. The recent establishment of the National Water Resources Authority (NWRA)17 is expected to help strengthen 
+multi-sectoral planning and management of water resources in the country, and pave way for establishment of 
+sustainable watershed management institutions at the community level. Land reforms introduced in 2016 are 
+expected to improve land tenure security and strengthen incentives for small-holder farmers and businesses to invest 
+in sustainable land and water management practices. Further, a new National Charcoal Strategy has been approved, 
+which for the first time, provides an opportunity to legalize the charcoal value chain and move towards more sustainable 
+charcoal production, and thus reducing pressure on forests and community woodlands. However, the ability to 
+implement policy and legislation, both nationally and locally, remains weak.  Monitoring is often limited and ineffective, 
+compliance is low and the structures necessary for providing guidance and procedures are not in place. Weak 
+institutional capacity is particularly acute at district and local levels, partly because of the slow pace of decentralization 
+and severe under-funding18 which constrains the effective functioning of institutions at district and local level, limiting 
+their ability to implement policy. 
+
+14. To reverse landscape degradation and protect watersheds, Malawi needs to invest at scale in the protection of 
+renewable natural resources and their restoration where appropriate and cost-effective, using a broad suite of 
+
+                                            
+16 Government of Malawi (2017). Strategic Program for Climate Resilience: Pilot Program on Climate Resilience (PPCR).   
+17 GoM recently appointed the governing board for NWRA – a move that is seen as an important milestone in operationalizing the institutional 
+framework for water resources management as laid out in the Water Resources Act of 2013.  
+18 For instance, the share of agricultural spending on extension support – a critical service for promoting the uptake of SLM practices –reduced 
+from 25 percent in 2005 to just 5 percent in 2012.  
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 7 of 12  
+
+     
+
+interventions. These will include sustainable forest management and restoration interventions, development of water 
+management infrastructure, scaling-up of climate smart agriculture and resilient livelihoods. At the same time, GoM 
+needs to invest in strengthening institutions and improving the monitoring, management and use of hydro-
+meteorological information.  GoM’s National Forest and Landscape Restoration Strategy (NFLRS), published in July 2017, 
+proposed that land restoration should be elevated to a higher national priority level, backed by financial investment to 
+implement a large scale national program for land restoration. In this regard, GoM has committed to restore 4.5 million 
+hectares19 of landscape by 2030, through a combination of interventions, including soil and water conservation, river 
+and stream bank restoration, conservation agriculture, farmer-managed natural regeneration and agroforestry; natural 
+forest management; community forests and private woodlots. The total cost of achieving this target is estimated at 
+US$385 million (or US$86 per hectare). GoM is currently in the process of mobilizing finance from development partners 
+to support implementation of the strategy, either through a new large scale national program or a series of separate 
+programs targeting major river basins 20.    
+
+15. One such program which GoM has been implementing since 2012 with World Bank support is the Shire River 
+Basin Management Program (SRBMP) 21. Part of the investment under SRBMP targets degraded hotspots in the basin 
+covering a total area of 129,500 ha (about 5 percent of the basin land area). These catchments have been undergoing 
+rehabilitation over the past two years with promising results.  Available data shows that a total of 35,385 ha (i.e. 27 
+percent of the targeted catchment area and 1.3 percent of the entire basin) has been rehabilitated, including 10,173ha 
+of previously degraded community forests which have been regenerated. Vegetative protection measures have been 
+implemented on 4,000km of water courses (rivers and streams) in the targeted catchments. Various infrastructure 
+packages–rural feeder roads (80km), bridges (11) and markets (13)–designed to support alternative livelihoods and 
+improve market access have been completed and commissioned. A total of 366 Common Interest Groups (CIGs) have 
+been established, trained and provided with start-up capital for various non-farm business enterprises.  Finally, a total 
+of 80 Farmer Field Schools (FFS) are now promoting conservation agriculture and improved farming practices using a 
+farmer-to-farmer extension approach. To date, about 77 percent of households within the targeted catchments are 
+reported to be engaged in sustainable land and water management.  These results, although achieved at a small scale, 
+have demonstrated that it is possible to restore degraded landscapes through an integrated package of interventions 
+involving land and water management, forestry management and livelihood support.  GoM would like to scale up these 
+interventions in other degraded hotspots in the Shire River Basin and elsewhere in line with the national landscape 
+restoration strategy. The proposed Resilient Productive Landscapes Project (RPLP) has been conceived in response to 
+GoM’s letter of request for World Bank support dated June 28, 2017. 
+
+ 
+Relationship to CPF 
+
+ 
+16. The project is aligned with the new growth-oriented Country Partnership Framework (CPF) for Malawi which is 
+currently under preparation. The CPF focus on four themes which emerged from the Systematic Country Diagnostic 
+(SCD).  These are: (i) human capital; (ii) governance and macroeconomy; (iii) energy and infrastructure; and (iv) 
+environment and rural resilience.  The project contributes to the environment and rural resilience theme by addressing 
+land degradation, improving natural resources management and boosting agricultural productivity.  Addressing these 
+issues will contribute to protecting critical watersheds and securing water resources for existing and proposed 
+hydropower plants on the Shire river as well as the large-scale irrigation scheme currently under implementation as part 
+of the Shire Valley Transformation Program.   
+
+                                            
+19 This represents about half of the entire land area in Malawi 
+20 So far, GoM has developed and is implementing two river basin management programs – Shire River Basin Management Program supported by 
+the World Bank and the Songwe River Basin Management Program – supported by African Development Bank 
+21 Current World Bank support to SRBMP ends on January 31, 2019 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 8 of 12  
+
+     
+
+17. The project is also expected to contribute to the human capital agenda in Malawi. A recent study22 found that 
+upstream watershed conditions were a strong predictor children’s health across 35 developing countries, including 
+Malawi.  Specifically, the study found that in areas with no access to improved water sources, higher upstream tree 
+cover is associated with lower probability of diarrheal diseases downstream, even after controlling for socio-economic 
+and climate factors23. This suggests that improving watershed management is not only an investment in environmental 
+resilience, it is also an investment in public health. 
+
+18. The project responds directly to GoM’s priorities as laid out in the Malawi Growth and Development Strategy 
+(MGDS III) 2017-2022.  The objective of the strategy is to move Malawi to a productive, competitive and resilient nation 
+through sustainable agriculture and economic growth, energy, industrial and infrastructure development while 
+addressing water, climate change, environmental management and population challenges.  The project contributes 
+directly to the MGDS III priority areas of agriculture, water development and climate change management by supporting 
+investments that address land degradation and its impacts on water resources, agricultural productivity and rural 
+resilience.  Given the critical role water plays in Malawi’s economy, and given that the country’s wealth is still largely 
+dominated by natural resources (largely cropland), future growth will depend on reversing land degradation to improve 
+productivity, and sustainable management of natural capital (especially forests) to protect water security.     
+
+19. The project also contributes to the WBG’s twin goals of ending extreme poverty and promoting shared 
+prosperity. The project area targets the poorest region of Malawi, where rural poverty rates are above 80 percent.  A 
+recent study24 shows a strong correlation between areas with highly degraded land and those with a high incidence of 
+poverty, implying that increasing levels of land degradation may be contributing to the poverty of millions of Malawians. 
+The project will contribute to reversing this trend. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+20. The proposed Project Development Objectove (PDO) is to increase adoption of resilience-enhancing landscape 
+management practices in targeted watersheds and strengthen capacity for improved water resources management. 
+
+ 
+Key Results (From PCN) 
+ 
+21. The following PDO results indicators will be used to measure achievement of the PDO: 
+
+1. Land area under resilience-enhancing landscape management practices (ha) 
+
+a. Agricultural land area with productivity enhancing practices applied (ha) 
+
+b. Forest land area restored, reforested or under improved management (ha) 
+
+2. Proportion (%) of targeted watershed area showing: 
+
+a. an increase in Normalized Difference Vegetation Index (NDVI)25 correcting for climate effects; 
+
+b. an increase in Land Surface Water Index (LSWI)26 correcting for climate effects (percent); 
+
+3. Number of farmers (disaggregated by gender) adopting improved agricultural technologies; and  
+
+                                            
+22 Herrera, D. et al (2016). Upstream watershed condition predicts rural children’s health across 35 developing countries. Nature communications, 
+Vol 8, 811 (2017).  
+23 This finding is consistent with other literature on the role of forests in regulating water quality.   
+24 World Bank (2018). Malawi Country Environmental Analysis. October 2018 (under preparation) 
+25 NDVI uses the visible and near-infrared bands of the electromagnetic spectrum to analyze remote sensing measurements (based on satellite 
+imagery data) to determine the extent to which a target contains live green vegetation. 
+26 LSWI uses the shortwave infrared and near-infrared bands of the electromagnetic spectrum to analyze remote sensing measurements (based on 
+satellite imagery data) to determine the amount of water in vegetation and soil. 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 9 of 12  
+
+     
+
+4. Number of people (disaggregated by gender) adopting alternative livelihood activities supported by the 
+project. 
+
+5. Operationalization of the National Water Resources Authority 
+
+ 
+D. Concept Description 
+
+ 
+22. The proposed project responds to Malawi’s most pressing environmental challenge – severe degradation of the 
+renewable natural resources base (land, forests and water resources) that underpins the productive sectors of the 
+economy.  The project’s central thesis is that degradation of the renewable natural resources base and high exposure 
+and vulnerability to climate change have adversely affected energy and water security, agricultural productivity and 
+livelihoods.  The project will contribute to breaking the cycle of degradation in selected watersheds and reducing climate 
+vulnerability by (i) strengthening the institutional enabling environment for landscape management at the national, 
+local and community level; (ii) investing in productive landscape management and livelihoods in targeted watersheds; 
+and (iii) improving hydrometeorological information and services for resilience.  Intervention in these three areas is 
+expected to result in increased adoption of resilience-enhancing landscape management practices, which would 
+ultimately contribute to improving water and energy security, agricultural productivity and livelihoods.   
+
+23. The proposed project will support GoM’s National Forest and Landscape Restoration Strategy (NFLRS). The 
+overall objective of the NFLRS is to restore degraded landscapes for improved water and energy security, agricultural 
+productivity and livelihoods. The project will contribute to achieving this objective by investing in restoration activities 
+in selected priority watersheds, while at the same strengthening institutions and information for resilience and 
+sustainability. Proposed project activities will be organized under five components as outlined in the following 
+paragraphs.  
+
+24. Component 1 – Institutional capacity strengthening.  This national level component will finance a package of 
+activities designed to strengthen the institutional and policy framework for integrated landscape and water resources 
+management at national, district and local levels and will also support the development and piloting of a Payments for 
+Ecosystem Services (PES) mechanism for the Shire river basin that could deliver longer-term financing for efforts to 
+address land degradation and protect natural resources that generate ecosystem services.    
+
+25. Component 2 – Landscape management and livelihoods support. This component will finance an integrated 
+package of interventions designed to protect environmental services and restore degraded landscapes in selected 
+watersheds in ways that will also build resilient livelihoods. The component will support: 
+
+• Sustainable land and water management (SLWM) interventions that will focus on catchment planning, river 
+and streambank management; and soil and water conservation.  The approach will be based on the successful 
+participatory approach tested under SRBMP and codified in the new national guidelines on integrated 
+catchment management; 
+
+• Agriculture and resilient livelihoods interventions that will support climate smart agriculture practices to 
+increase the resilience of both farmers and landscapes. Support for livelihood diversification through stronger 
+engagement with the private sector will also be encouraged; 
+
+• Forestry and protected areas interventions that will be delivered in the context of the NFLRS and will focus on 
+strengthening the management and productive contribution of existing natural forests in both state-managed 
+forest reserves and on customary land, and protected areas. Forest reserves and protected areas comprise a 
+large proportion of the upper part of the landscape, play a key role in protecting ecosystem services and offer 
+cost-effective opportunities for avoid the need for costly restoration of natural resources; and  
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 10 of 12  
+
+     
+
+• Development of water management infrastructure will focus on small-scale investments for harvesting, 
+storing, and delivering water for people, livestock and agriculture. The menu of water infrastructure 
+investments will include small-to-medium dams, small sand and sub-surface dams in dry river beds, area 
+infiltration interventions such as semi-circular bunds or soil bunds, and rock catchments. The component 
+could also support rehabilitation and/or construction of boreholes for groundwater extraction. Diversification 
+of water sources in each target watershed will increase the supply of water for multiple use and therefore 
+mitigate against the risk of droughts. 
+
+ 
+26. Component 3- Hydro-meteorological monitoring and climate services improvement.  This component will invest 
+in the expansion and modernization of Malawi’s hydrometeorological monitoring network and associated data 
+management and decision-support systems. It will also support the integration, efficiency and scaling up of climate 
+information services.  It will support Malawi’s efforts to establish a National Framework for Climate Services (NFCS) 
+through investments in the entire value-chain of climate products and services. This component will complement an 
+ongoing Green Climate Fund-supported initiative by extending geographical focus to cover southern Malawi and by 
+strengthening development of digital solutions.  
+
+27. Component 4–Project management support. This component will finance a package of project management 
+support activities to ensure cost-efficient, timely and quality delivery of project activities and results, and will include: 
+(i) establishment of a project management support unit with specialized project management professionals to provide 
+support to the lead implementing ministry/department and the multi-sectoral technical team; (ii) incremental 
+operating costs for day-to-day management of project activities at the national and district levels; and (iii) support to 
+multi-sectoral coordination and implementation at the district and local levels.   
+
+28. Component 5 –Contingency Emergency Response. A Contingency Emergency Response Component (CERC) with 
+zero allocation will be created and made implementation-ready to allow the GoM to respond quickly in case of an 
+eligible emergency. The CERC will complement those in place already under agriculture and nutrition projects and the 
+forthcoming Malawi CAT DDO.   The mechanism will be defined in a specific CERC Operational Manual that will clearly 
+outline the triggers, eligible expenditures, procurement thresholds, and procedures for using part of IDA resources of 
+the project to respond quickly in the event of an eligible emergency. 
+
+29. The project will use, where appropriate, community‐led landscape approaches—that is, an integrated approach 
+to sustainably manage natural resources for multiple purposes and functions. Managing natural resources in an 
+integrated way across different land uses and connecting them at the landscape level provides the basis for addressing 
+trade‐offs and enhancing people’s livelihoods and resilience to climate variability and change.  In the context of the 
+project, the operational boundaries of the landscapes are those of the watersheds or micro-watersheds targeted by 
+the project.  The project area will include a total of 500 micro-watersheds located in the degradation hotspot areas of 
+the Shire River Basin (upper and middle Shire), averaging approximately 500 hectares each.  This includes a total of 305 
+micro-watersheds supported under SRBMP and a total of 195 new micro-watersheds to be selected in the upper and 
+middle reaches of the Shire river basin, upstream of existing and proposed hydropower plants.  The watersheds 
+supported under SRBMP will continue to receive support to allow for full implementation of the watershed 
+management plans (or Village-Level Action Plans).  These watersheds will also receive technical assistance to graduate 
+from project-based support, including establishment of catchment management committees, in accordance with the 
+Water Resources Act 2013.   
+
+30. The estimated cost of the proposed project is US$125 million.  It is proposed to finance this cost through an IDA 
+credit of US$120 million and a GEF grant of US$5 million. The final project financing structure will be decided in 
+consultation with MoFEPD. 
+
+ 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 11 of 12  
+
+     
+
+    
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 Yes 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+
+Project subprojects have not been identified, however screening of potential environmental and social 
+impacts has been undertaken on similar subprojects. Possible risks and impacts that are likely to arise from 
+some of the proposed subprojects include construction related health and safety risks to both labour and 
+local communities; possible influx of populations and the social risks associated with that such as disease 
+transmission and spread of HIV, potential for Gender Based Violence; and land acquisition leading to 
+temporary or permanent physical displacement and loss of assets, land and livelihoods. Environmental risks 
+include those related to civil works construction (controlling on-site erosion and pollution), localized changes 
+in water use and distribution. unregulated wood cutting in areas with improved road access (absent adequate 
+control measures), potential damage to patches of natural habitat (such as miombo woodland or dambos), 
+and possibly increased agro-chemical use. 
+
+ 
+
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+Josses Mugabi, Meeta Sehgal, Nigel Ross Hughes 
+
+Senior Water Supply and Sanitation Specialist 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Republic of Malawi 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Implementing Agencies 
+
+Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document. 
+
+
+
+ 
+The World Bank  
+Malawi Resilient Productive Landscapes Project (P167860) 
+
+ 
+ 
+
+  
+Nov 27, 2018 Page 12 of 12  
+
+     
+
+ 
+
+Minstry of Agriculture, Irrigation and Water Development 
+
+Gray Nyandule Phiri 
+
+Principal Secretary 
+
+graykatopola@gmail.com 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): Josses Mugabi, Meeta Sehgal, Nigel Ross Hughes 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Practice Manager/Manager:   
+
+Country Director:   
+    
+ 
+ 
+ 
+ 
+ 
+
+http://www.worldbank.org/projects
+
+

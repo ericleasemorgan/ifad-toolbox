@@ -1,0 +1,388 @@
+id	sid	eid	entity	type
+WB26	1	1	World Bank Document	ORG
+WB26	1	2	P166222	GPE
+WB26	1	3	May 28, 2018	DATE
+WB26	1	4	14 Project Information	QUANTITY
+WB26	1	5	PID/ISDS	ORG
+WB26	1	6	Concept Stage	ORG
+WB26	1	7	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	1	8	P166222	GPE
+WB26	1	9	May 28, 2018	DATE
+WB26	1	10	2	CARDINAL
+WB26	1	11	14	CARDINAL
+WB26	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB26	2	2	New Guinea	GPE
+WB26	2	3	P166222	GPE
+WB26	2	4	PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	2	5	Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
+WB26	2	6	EAST ASIA	LOC
+WB26	2	7	03, 2018	DATE
+WB26	2	8	Agriculture Financing Instrument Borrower(s)	ORG
+WB26	2	9	Papua New Guinea Department of Agriculture and Livestock Proposed Development Objective(s	ORG
+WB26	3	1	PROJECT FINANCING DATA	ORG
+WB26	3	2	Millions	CARDINAL
+WB26	3	3	SUMMARY-N ewFin1	ORG
+WB26	3	4	40.00	CARDINAL
+WB26	3	5	40.00	CARDINAL
+WB26	3	6	IBRD/IDA 40.00 Financing	ORG
+WB26	3	7	h1 World Bank Group Financing International Development Association	ORG
+WB26	3	8	IDA	ORG
+WB26	3	9	40.00	CARDINAL
+WB26	3	10	40.00	CARDINAL
+WB26	3	11	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	3	12	P166222	GPE
+WB26	3	13	May 28, 2018	DATE
+WB26	3	14	3	CARDINAL
+WB26	3	15	14	CARDINAL
+WB26	3	16	INTRODUCTION	ORG
+WB26	4	1	Papua New Guinea	GPE
+WB26	4	2	PNG	ORG
+WB26	4	3	one	CARDINAL
+WB26	4	4	over 800	CARDINAL
+WB26	4	5	1,000	CARDINAL
+WB26	4	6	groups1	PRODUCT
+WB26	5	1	600	CARDINAL
+WB26	6	1	four	CARDINAL
+WB26	6	2	Islands	LOC
+WB26	6	3	Southern	NORP
+WB26	6	4	21	CARDINAL
+WB26	7	1	2017	DATE
+WB26	8	1	over 80 percent	PERCENT
+WB26	8	2	under 30,000	DATE
+WB26	9	1	PNG	ORG
+WB26	9	2	6.85 percent	PERCENT
+WB26	9	3	between 2005 and 2010	DATE
+WB26	9	4	2.4 percent	PERCENT
+WB26	9	5	2016	DATE
+WB26	9	6	2.1 percent	PERCENT
+WB26	9	7	20173	DATE
+WB26	9	8	2016	DATE
+WB26	9	9	0.3 percent	PERCENT
+WB26	9	10	10.1 percent	PERCENT
+WB26	9	11	2014	DATE
+WB26	10	1	two	CARDINAL
+WB26	10	2	an estimated 80 percent	PERCENT
+WB26	10	3	approximately 27 percent	PERCENT
+WB26	11	1	the past decade	DATE
+WB26	11	2	PNG	ORG
+WB26	13	1	Less than 20 percent	PERCENT
+WB26	13	2	60 percent	PERCENT
+WB26	13	3	an estimated 80 percent	PERCENT
+WB26	14	1	2010	DATE
+WB26	14	2	Household Income and Expenditure Survey	LAW
+WB26	14	3	2009	DATE
+WB26	14	4	approximately 38 percent	PERCENT
+WB26	14	5	US	GPE
+WB26	14	6	1.90	MONEY
+WB26	14	7	1996	DATE
+WB26	15	1	PNG	ORG
+WB26	15	2	155	CARDINAL
+WB26	15	3	2010	DATE
+WB26	15	4	one	CARDINAL
+WB26	15	5	154	CARDINAL
+WB26	15	6	2015	DATE
+WB26	15	7	second	ORDINAL
+WB26	15	8	Pacific2	GPE
+WB26	16	1	fourth	ORDINAL
+WB26	17	1	An estimated 28 percent	PERCENT
+WB26	17	2	5-15 percent	PERCENT
+WB26	18	1	61.5 percent	PERCENT
+WB26	18	2	1	CARDINAL
+WB26	18	3	SCD	ORG
+WB26	18	4	October 2017	DATE
+WB26	18	5	3	CARDINAL
+WB26	18	6	December 2017	DATE
+WB26	18	7	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	18	8	P166222	GPE
+WB26	18	9	May 28, 2018	DATE
+WB26	18	10	4	CARDINAL
+WB26	18	11	14	CARDINAL
+WB26	18	12	19 percent	PERCENT
+WB26	18	13	29.2 percent	PERCENT
+WB26	19	1	2015-2016	DATE
+WB26	19	2	2.81 percent	PERCENT
+WB26	19	3	annual	DATE
+WB26	19	4	US$ 508 million)4	MONEY
+WB26	20	1	GBV	ORG
+WB26	20	2	PNG	ORG
+WB26	20	3	158	CARDINAL
+WB26	20	4	188	CARDINAL
+WB26	20	5	2014	DATE
+WB26	21	1	GBV	ORG
+WB26	23	1	PNG	ORG
+WB26	23	2	only about 35 percent	PERCENT
+WB26	23	3	sealed2	PRODUCT
+WB26	24	1	PNG	ORG
+WB26	24	2	an estimated 75 percent	PERCENT
+WB26	24	3	year2	PRODUCT
+WB26	25	1	El Niño	ORG
+WB26	25	2	La Niña	ORG
+WB26	26	1	The World Risk Report 2016	ORG
+WB26	26	2	PNG 10th	DATE
+WB26	26	3	16.43%	PERCENT
+WB26	26	4	events6	PRODUCT
+WB26	27	1	February 2018	DATE
+WB26	27	2	7.5	CARDINAL
+WB26	27	3	544,368	CARDINAL
+WB26	27	4	five	CARDINAL
+WB26	27	5	Hela	GPE
+WB26	27	6	Southern	NORP
+WB26	27	7	Enga	GPE
+WB26	27	8	Western	NORP
+WB26	27	9	Gulf	LOC
+WB26	28	1	Southern Highlands	LOC
+WB26	28	2	over 100	CARDINAL
+WB26	28	3	18,200	CARDINAL
+WB26	28	4	270,442	CARDINAL
+WB26	29	1	32%	PERCENT
+WB26	29	2	only a third	CARDINAL
+WB26	29	3	undamaged7	DATE
+WB26	31	1	PNG	ORG
+WB26	32	1	PNG	ORG
+WB26	32	2	around 23.1%	PERCENT
+WB26	34	1	less than 5	CARDINAL
+WB26	35	1	over 80 percent	PERCENT
+WB26	38	1	many years	DATE
+WB26	41	1	some 50-150	CARDINAL
+WB26	43	1	Papua New Guinea	GPE
+WB26	44	1	Nearly 30	CARDINAL
+WB26	44	2	4	CARDINAL
+WB26	44	3	PNG Nutrition Study (	ORG
+WB26	44	4	5	CARDINAL
+WB26	44	5	2016	DATE
+WB26	45	1	2016 7	DATE
+WB26	45	2	NDC	ORG
+WB26	45	3	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	45	4	P166222	GPE
+WB26	45	5	May 28, 2018	DATE
+WB26	45	6	5	CARDINAL
+WB26	45	7	14	CARDINAL
+WB26	51	1	the 1970s	DATE
+WB26	52	1	the last two decades	DATE
+WB26	52	2	5%	PERCENT
+WB26	58	1	the World Bank funded Productive Partnerships in Agriculture project	ORG
+WB26	58	2	the Government of PNG	ORG
+WB26	58	3	GoPNG	ORG
+WB26	59	1	Lead Partner (LP	WORK_OF_ART
+WB26	59	2	70 percent	PERCENT
+WB26	61	1	over two-fold	CARDINAL
+WB26	62	1	December 2014	DATE
+WB26	62	2	the World Bank	ORG
+WB26	66	1	early 2018	DATE
+WB26	68	1	8	CARDINAL
+WB26	68	2	Gender-Equitable	PERSON
+WB26	68	3	Papua New Guinea	GPE
+WB26	69	1	WB	ORG
+WB26	69	2	Dec. 2014	DATE
+WB26	69	3	PNG	ORG
+WB26	70	1	WB	ORG
+WB26	70	2	Feb. 2018	DATE
+WB26	70	3	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	70	4	P166222	GPE
+WB26	70	5	May 28, 2018	DATE
+WB26	70	6	6	CARDINAL
+WB26	70	7	14	CARDINAL
+WB26	70	8	PNG	ORG
+WB26	71	1	2009	DATE
+WB26	71	2	2050	DATE
+WB26	71	3	50	CARDINAL
+WB26	72	1	seven	CARDINAL
+WB26	74	1	NADP	ORG
+WB26	74	2	2007-2016	DATE
+WB26	75	1	the Department of Agriculture and Livestock	ORG
+WB26	76	1	Alotau Accord II	PRODUCT
+WB26	76	2	the National Strategy for Responsible and Sustainable Development through the Medium-Term Development Plan	ORG
+WB26	76	3	MTDP	ORG
+WB26	76	4	the PNG Vision 2050	WORK_OF_ART
+WB26	76	5	the PNG Development Strategic Plan	ORG
+WB26	76	6	2010 - 2030	DATE
+WB26	77	1	about 3 percent	PERCENT
+WB26	77	2	annually	DATE
+WB26	78	1	2018	DATE
+WB26	79	1	first	ORDINAL
+WB26	79	2	National Agriculture Summit	ORG
+WB26	79	3	November 2017	DATE
+WB26	81	1	C. Relationship	PERSON
+WB26	81	2	2017	DATE
+WB26	81	3	PNG Systematic Country Diagnostic	ORG
+WB26	81	4	SCD	ORG
+WB26	81	5	Board	ORG
+WB26	81	6	early May 2018	DATE
+WB26	82	1	SCD	ORG
+WB26	82	2	the World Bank Group	ORG
+WB26	82	3	PNG	GPE
+WB26	82	4	the Productive Partnerships in Agriculture Project	ORG
+WB26	83	1	2011	DATE
+WB26	83	2	PPAP	ORG
+WB26	84	1	SCD	ORG
+WB26	84	2	PNG	ORG
+WB26	84	3	the World Bank Group	ORG
+WB26	85	1	third	ORDINAL
+WB26	86	1	SCD	ORG
+WB26	86	2	PACD	ORG
+WB26	88	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	88	2	P166222	GPE
+WB26	88	3	May 28, 2018	DATE
+WB26	88	4	14	CARDINAL
+WB26	94	1	1	CARDINAL
+WB26	95	1	PPAP AF P146003	ORG
+WB26	95	2	June 30, 2019	DATE
+WB26	95	3	PNG	ORG
+WB26	96	1	PPAP	PERSON
+WB26	96	2	the PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	97	1	2	CARDINAL
+WB26	97	2	3	CARDINAL
+WB26	100	1	The FAO Investment Center	ORG
+WB26	100	2	the WB Task Team	ORG
+WB26	102	1	cooperatives	ORG
+WB26	103	1	PPAP	ORG
+WB26	103	2	11	CARDINAL
+WB26	103	3	vii	ORG
+WB26	104	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	104	2	P166222	GPE
+WB26	104	3	May 28, 2018	DATE
+WB26	104	4	8	CARDINAL
+WB26	104	5	14	CARDINAL
+WB26	106	1	Commodities Board	ORG
+WB26	107	1	MTDP	ORG
+WB26	107	2	ten	TIME
+WB26	108	1	PACD	ORG
+WB26	109	1	The PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	109	2	five	CARDINAL
+WB26	109	3	1	CARDINAL
+WB26	109	4	Cocoa Board	ORG
+WB26	109	5	Coffee Industry Corporation	ORG
+WB26	109	6	Spices Industry Board	ORG
+WB26	109	7	the Livestock Development Corporation	ORG
+WB26	109	8	the Rubber Board	ORG
+WB26	111	1	first	ORDINAL
+WB26	116	1	Productive Partnership	ORG
+WB26	117	1	the Productive Partnerships	ORG
+WB26	117	2	PPAP	PERSON
+WB26	118	1	cooperatives	ORG
+WB26	119	1	Productive Partnerships	ORG
+WB26	120	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	120	2	P166222	GPE
+WB26	120	3	May 28, 2018	DATE
+WB26	120	4	9	CARDINAL
+WB26	120	5	14	CARDINAL
+WB26	121	1	two	CARDINAL
+WB26	121	2	one	CARDINAL
+WB26	122	1	PPAP	PERSON
+WB26	123	1	cooperatives	ORG
+WB26	124	1	Project Management and Monitoring and Evaluation	ORG
+WB26	124	2	IDA	ORG
+WB26	124	3	IDA	ORG
+WB26	124	4	Iterative Beneficiary Monitoring	FAC
+WB26	127	1	Contingency Emergency Response Component	ORG
+WB26	127	2	US$0	MONEY
+WB26	127	3	PNG	ORG
+WB26	127	4	Bank	ORG
+WB26	131	1	SAFEGUARDS A.	PERSON
+WB26	133	1	East New Britain	GPE
+WB26	133	2	the autonomous Region	GPE
+WB26	133	3	Bougainville	GPE
+WB26	133	4	East Sepik	NORP
+WB26	133	5	Momase Region	GPE
+WB26	133	6	Eastern Highlands	LOC
+WB26	133	7	Western Highlands	ORG
+WB26	133	8	Simbu	PRODUCT
+WB26	135	1	PNG	ORG
+WB26	137	1	B. Borrower’s	PERSON
+WB26	137	2	the Department of Agriculture and Livestock	ORG
+WB26	137	3	12	CARDINAL
+WB26	138	1	IBM	ORG
+WB26	141	1	IBM	ORG
+WB26	142	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	142	2	P166222	GPE
+WB26	142	3	May 28, 2018	DATE
+WB26	142	4	10	CARDINAL
+WB26	142	5	Project Management Units	ORG
+WB26	143	1	The Department of Works	ORG
+WB26	146	1	World Bank	ORG
+WB26	146	2	PPAP	ORG
+WB26	147	1	DOW	ORG
+WB26	147	2	Environmental Management Unit	ORG
+WB26	147	3	EMU	ORG
+WB26	148	1	PACD	ORG
+WB26	149	1	PACD	ORG
+WB26	149	2	DOW	ORG
+WB26	150	1	C. Environmental	PERSON
+WB26	150	2	Thomas John Callander	PERSON
+WB26	150	3	Nicholas John Valentine	PERSON
+WB26	150	4	Nathalie Suzanna	PERSON
+WB26	150	5	Noella Staelens,	PERSON
+WB26	150	6	Safeguard Policies Triggered	ORG
+WB26	154	1	Component 3	DATE
+WB26	156	1	2	CARDINAL
+WB26	157	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	157	2	P166222	GPE
+WB26	157	3	May 28, 2018	DATE
+WB26	157	4	11	CARDINAL
+WB26	157	5	14	DATE
+WB26	161	1	ESMF	ORG
+WB26	161	2	the World Group’s Environmental, Health and Safety Guidelines	ORG
+WB26	162	1	Contingency Emergency Response Component	ORG
+WB26	163	1	ESMF	ORG
+WB26	163	2	E&S	ORG
+WB26	163	3	CERC	ORG
+WB26	163	4	the World Bank’s Rapid Response	ORG
+WB26	164	1	ESMF	ORG
+WB26	165	1	OP	PERSON
+WB26	165	2	PNG	ORG
+WB26	167	1	ESMF	ORG
+WB26	168	1	4.09	CARDINAL
+WB26	169	1	PPAP Integrated Pest Management	ORG
+WB26	169	2	IPM	ORG
+WB26	169	3	the World Group’s Environmental, Health and Safety	ORG
+WB26	169	4	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	169	5	P166222	GPE
+WB26	169	6	May 28, 2018	DATE
+WB26	169	7	12	CARDINAL
+WB26	169	8	14	CARDINAL
+WB26	170	1	IPM	ORG
+WB26	173	1	ESMF	ORG
+WB26	174	1	Peoples OP/BP	ORG
+WB26	174	2	4.10	CARDINAL
+WB26	175	1	Indigenous Peoples Planning Framework	ORG
+WB26	175	2	IPPF	ORG
+WB26	176	1	OP	ORG
+WB26	176	2	4.10	CARDINAL
+WB26	176	3	IPPF	ORG
+WB26	177	1	ESMF	ORG
+WB26	177	2	Components 2	ORG
+WB26	177	3	3	CARDINAL
+WB26	178	1	a Beneficiaries Partnership Framework and Consultation Guidelines	ORG
+WB26	179	1	Social Assessment	ORG
+WB26	181	1	OP	PERSON
+WB26	184	1	RPF	GPE
+WB26	185	1	RFP	PERSON
+WB26	186	1	4.37	CARDINAL
+WB26	187	1	The World Bank PNG Agriculture Commercialization and Diversification Project	ORG
+WB26	187	2	P166222	GPE
+WB26	187	3	May 28, 2018	DATE
+WB26	187	4	13	CARDINAL
+WB26	187	5	14	CARDINAL
+WB26	188	1	Disputed Areas OP/BP	ORG
+WB26	189	1	E. Safeguard Preparation Plan Tentative	ORG
+WB26	189	2	Appraisal Stage PID/ISDS Aug 31, 2018 Time	ORG
+WB26	190	1	Appraisal Stage PID/ISDS	ORG
+WB26	190	2	PACD	ORG
+WB26	192	1	Advance	PERSON
+WB26	193	1	August 2018	DATE
+WB26	194	1	CONTACT POINT World Bank Stephane Forman Sr Agricultural Spec	ORG
+WB26	195	1	Borrower/Client/Recipient Department of National Planning	ORG
+WB26	195	2	Hakaua	PERSON
+WB26	195	3	Dairi Vele	PERSON
+WB26	195	4	P166222	GPE
+WB26	195	5	May 28, 2018	DATE
+WB26	195	6	14	CARDINAL
+WB26	195	7	14	CARDINAL
+WB26	195	8	Department of Agriculture and	ORG
+WB26	195	9	Vele Pat	PERSON
+WB26	195	10	Washington	GPE
+WB26	195	11	202	CARDINAL
+WB26	195	12	473-1000	CARDINAL
+WB26	195	13	Stephane Forman	PERSON
+WB26	195	14	Nathan M. Belete 04-Jun-2018	ORG
+WB26	195	15	Mona Sur	PERSON

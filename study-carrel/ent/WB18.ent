@@ -1,0 +1,311 @@
+id	sid	eid	entity	type
+WB18	1	1	World Bank Document	ORG
+WB18	1	2	P161473	NORP
+WB18	1	3	2017	DATE
+WB18	1	4	1	CARDINAL
+WB18	1	5	12	CARDINAL
+WB18	1	6	PID/ISDS	ORG
+WB18	1	7	Concept Stage	ORG
+WB18	1	8	10-Mar-2017	TIME
+WB18	1	9	P161473	NORP
+WB18	1	10	2017	DATE
+WB18	1	11	2	CARDINAL
+WB18	1	12	12	CARDINAL
+WB18	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB18	2	2	EAST ASIA	LOC
+WB18	2	3	2017	DATE
+WB18	2	4	2018	DATE
+WB18	2	5	The Project Development Objective	ORG
+WB18	3	1	USD Million	CARDINAL
+WB18	3	2	2.00	CARDINAL
+WB18	3	3	International Development Association	ORG
+WB18	3	4	IDA	ORG
+WB18	3	5	35.00	CARDINAL
+WB18	3	6	37.00	CARDINAL
+WB18	3	7	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	3	8	P161473	NORP
+WB18	3	9	2017	DATE
+WB18	3	10	3	CARDINAL
+WB18	3	11	12	CARDINAL
+WB18	5	1	the past decade	DATE
+WB18	6	1	the past decade	DATE
+WB18	6	2	around 8 percent	PERCENT
+WB18	7	1	41.4 percent	PERCENT
+WB18	7	2	2002/03	PERCENT
+WB18	7	3	28.8 percent	PERCENT
+WB18	7	4	2012/13	CARDINAL
+WB18	8	1	around US$1,600	MONEY
+WB18	8	2	2014	DATE
+WB18	8	3	Lao PDR	ORG
+WB18	9	1	2	CARDINAL
+WB18	11	1	Over 80 percent	PERCENT
+WB18	12	1	About 40 percent	PERCENT
+WB18	12	2	Mon Khmer	ORG
+WB18	12	3	Hmong	GPE
+WB18	12	4	15 percent	PERCENT
+WB18	12	5	about two thirds	CARDINAL
+WB18	14	1	3	CARDINAL
+WB18	16	1	Rice	PERSON
+WB18	16	2	about 3-4 months per year	DATE
+WB18	18	1	the normal year	DATE
+WB18	18	2	annual	DATE
+WB18	21	1	Lao PDR	FAC
+WB18	22	1	two-thirds	CARDINAL
+WB18	22	2	only 22 percent	PERCENT
+WB18	23	1	the last decade	DATE
+WB18	23	2	3.7 percent	PERCENT
+WB18	23	3	less than half	CARDINAL
+WB18	24	1	a year	DATE
+WB18	25	1	less than 15 percent	PERCENT
+WB18	25	2	the remaining 85 percent	PERCENT
+WB18	27	1	Xayabury province	GPE
+WB18	27	2	Vientiane province	GPE
+WB18	29	1	5	CARDINAL
+WB18	34	1	Engaging the Private Sector to Develop the Lao Rice Industry	WORK_OF_ART
+WB18	34	2	EMRIP	ORG
+WB18	35	1	6	CARDINAL
+WB18	37	1	Rice	PERSON
+WB18	37	2	Lao PDR	FAC
+WB18	38	1	nearly 56 percent	PERCENT
+WB18	38	2	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	38	3	P161473	NORP
+WB18	38	4	2017	DATE
+WB18	38	5	4	CARDINAL
+WB18	38	6	12	CARDINAL
+WB18	39	1	More than 80 percent	PERCENT
+WB18	40	1	about 12 percent	PERCENT
+WB18	41	1	more than around 5 percent	PERCENT
+WB18	42	1	81 percent	PERCENT
+WB18	43	1	Lao PDR	FAC
+WB18	44	1	7	CARDINAL
+WB18	46	1	the Project Identification Mission	ORG
+WB18	46	2	Ministry of Agriculture and Forestry	ORG
+WB18	46	3	MAF	ORG
+WB18	46	4	the World Bank	ORG
+WB18	46	5	November 2016	DATE
+WB18	46	6	three	CARDINAL
+WB18	46	7	Xayabury province	GPE
+WB18	46	8	Vientiane province	GPE
+WB18	46	9	Vientiane Capital	ORG
+WB18	47	1	1	CARDINAL
+WB18	48	1	2	CARDINAL
+WB18	49	1	lack/degraded irrigation canals	ORG
+WB18	49	2	3	CARDINAL
+WB18	50	1	4	CARDINAL
+WB18	51	1	5	CARDINAL
+WB18	52	1	6	CARDINAL
+WB18	55	1	8	CARDINAL
+WB18	57	1	November 18, 2016	DATE
+WB18	57	2	Ministry of Planning and Investment	ORG
+WB18	57	3	MPI	ORG
+WB18	57	4	the World Bank	ORG
+WB18	58	1	Government	ORG
+WB18	59	1	CPF 9	LAW
+WB18	60	1	the National Agriculture Sector Plan	ORG
+WB18	60	2	2020	DATE
+WB18	60	3	2025	CARDINAL
+WB18	61	1	Eighth	ORDINAL
+WB18	61	2	National Socio-Economic Development Plan	EVENT
+WB18	61	3	NSEDP	ORG
+WB18	61	4	Outcome	ORG
+WB18	61	5	2.2	CARDINAL
+WB18	61	6	Outcome 3.3	CARDINAL
+WB18	61	7	10	CARDINAL
+WB18	62	1	the Systematic Country Diagnostic	ORG
+WB18	62	2	2016	DATE
+WB18	62	3	Lao PDR	FAC
+WB18	62	4	the Country Partnership Framework	ORG
+WB18	62	5	CPF	ORG
+WB18	62	6	2017-2021	DATE
+WB18	63	1	the Focus Area	LOC
+WB18	63	2	Supporting Inclusive Growth	WORK_OF_ART
+WB18	63	3	2.1	CARDINAL
+WB18	63	4	the Focus Area 2	LOC
+WB18	63	5	Investing in People	WORK_OF_ART
+WB18	63	6	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	63	7	P161473	NORP
+WB18	63	8	2017	DATE
+WB18	63	9	5	CARDINAL
+WB18	63	10	12 11	DATE
+WB18	64	1	Sustainable Development Goals	ORG
+WB18	64	2	Zero	CARDINAL
+WB18	64	3	2	CARDINAL
+WB18	64	4	Climate Action	ORG
+WB18	64	5	13	CARDINAL
+WB18	65	1	four	CARDINAL
+WB18	65	2	Xayabury	GPE
+WB18	65	3	Vientiane Province	GPE
+WB18	65	4	Bolykhamxay	PERSON
+WB18	65	5	Khammouane Provinces	PERSON
+WB18	65	6	Vientiane Capital	ORG
+WB18	67	1	Lao PDR	PRODUCT
+WB18	68	1	C. Proposed Development Objective(s	PERSON
+WB18	68	2	12	DATE
+WB18	69	1	The Project Development Objective	ORG
+WB18	70	1	PCN	GPE
+WB18	70	2	13	CARDINAL
+WB18	72	1	D. Concept Description 14	PERSON
+WB18	73	1	Agriculture Commercialization Project	ORG
+WB18	73	2	ACP	ORG
+WB18	73	3	Lao PDR’s	PRODUCT
+WB18	75	1	paddy	ORG
+WB18	76	1	15	CARDINAL
+WB18	77	1	Provinces	ORG
+WB18	80	1	Vientiane	GPE
+WB18	80	2	Vientiane province	GPE
+WB18	80	3	Bolikhamxay	GPE
+WB18	80	4	Khammouane	GPE
+WB18	80	5	Xayabury	GPE
+WB18	81	1	Provinces	ORG
+WB18	82	1	Three	CARDINAL
+WB18	83	1	16	CARDINAL
+WB18	84	1	three	CARDINAL
+WB18	85	1	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	85	2	P161473	NORP
+WB18	85	3	2017	DATE
+WB18	85	4	6	CARDINAL
+WB18	85	5	12 17	DATE
+WB18	87	1	18	CARDINAL
+WB18	89	1	Ministry of Industry and Commerce	ORG
+WB18	92	1	19	CARDINAL
+WB18	95	1	20	CARDINAL
+WB18	96	1	ADB	ORG
+WB18	96	2	IFC	ORG
+WB18	97	1	the Netherlands Development Organization	ORG
+WB18	97	2	’s Enhancing Milled Rice Production in Lao PDR	WORK_OF_ART
+WB18	97	3	EMRIP	ORG
+WB18	98	1	IFC	ORG
+WB18	100	1	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	100	2	P161473	NORP
+WB18	100	3	2017	DATE
+WB18	100	4	7	CARDINAL
+WB18	100	5	12	CARDINAL
+WB18	101	1	Vientiane	FAC
+WB18	101	2	Vientiane province	GPE
+WB18	101	3	Bolikhamxay	GPE
+WB18	101	4	Khammouane	GPE
+WB18	101	5	Xayabury	GPE
+WB18	102	1	Provinces	ORG
+WB18	105	1	Component (Project Management	ORG
+WB18	108	1	World Bank	GPE
+WB18	108	2	Environmental Assessment	ORG
+WB18	108	3	4.01	CARDINAL
+WB18	108	4	Pest Management	ORG
+WB18	108	5	4.09	CARDINAL
+WB18	108	6	4.10	CARDINAL
+WB18	108	7	OP	PERSON
+WB18	108	8	OP	PERSON
+WB18	108	9	International Water Ways	ORG
+WB18	109	1	Natural Habitats	ORG
+WB18	109	2	OP/BP 4.04	ORG
+WB18	109	3	Physical Culture Resources	ORG
+WB18	109	4	OP/BP 4.11	ORG
+WB18	109	5	TBD	ORG
+WB18	112	1	three	CARDINAL
+WB18	112	2	the World Bank Standards	ORG
+WB18	115	1	B. Borrower’s	PERSON
+WB18	115	2	the Ministry of Agriculture and Forestry	ORG
+WB18	115	3	PAFOS	ORG
+WB18	115	4	Provincial Industry and Commerce Offices	ORG
+WB18	116	1	MAF	ORG
+WB18	116	2	WBG	ORG
+WB18	116	3	Agriculture Development Project	ORG
+WB18	116	4	ADP	ORG
+WB18	116	5	2004-2008	DATE
+WB18	116	6	Rice Productivity Improvement Project	ORG
+WB18	116	7	2009-2012	DATE
+WB18	116	8	Lao Upland Food Security Improvement Project	ORG
+WB18	116	9	LUFSIP	ORG
+WB18	116	10	2010-2014	DATE
+WB18	117	1	DAFO	ORG
+WB18	117	2	the World Bank	ORG
+WB18	119	1	MAF	ORG
+WB18	121	1	Bank	ORG
+WB18	121	2	the National	ORG
+WB18	121	3	P161473	NORP
+WB18	121	4	2017	DATE
+WB18	121	5	8	CARDINAL
+WB18	121	6	12	CARDINAL
+WB18	121	7	University of Laos	ORG
+WB18	121	8	Lao Environmental	ORG
+WB18	121	9	Social Project II	ORG
+WB18	121	10	LENSII	ORG
+WB18	122	1	C. Environmental	PERSON
+WB18	122	2	Safeguard Policies Triggered	ORG
+WB18	126	1	Component 1	DATE
+WB18	127	1	Environmental and	ORG
+WB18	128	1	ESMF	ORG
+WB18	130	1	4.04	CARDINAL
+WB18	131	1	NH	ORG
+WB18	132	1	ESMF	ORG
+WB18	132	2	NH	ORG
+WB18	133	1	OP	PERSON
+WB18	135	1	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	135	2	P161473	NORP
+WB18	135	3	2017	DATE
+WB18	135	4	9	CARDINAL
+WB18	135	5	12	CARDINAL
+WB18	135	6	4.09	CARDINAL
+WB18	135	7	a Pest Management Plan	LAW
+WB18	135	8	Lao	LAW
+WB18	135	9	World Bank Policies	ORG
+WB18	137	1	The Pest Management Plan	ORG
+WB18	137	2	ESMF	ORG
+WB18	138	1	4.11	CARDINAL
+WB18	139	1	ESMF	ORG
+WB18	139	2	PCR	ORG
+WB18	140	1	Peoples OP/BP	ORG
+WB18	140	2	4.10	CARDINAL
+WB18	141	1	Mon-Khmer	ORG
+WB18	141	2	Hmong- Hmong	PERSON
+WB18	141	3	lu Mien	PERSON
+WB18	141	4	four	CARDINAL
+WB18	141	5	the World Bank Policy on Indigenous Peoples	ORG
+WB18	142	1	Social Assessment	ORG
+WB18	142	2	the Ethnic Group Policy Framework	ORG
+WB18	143	1	4.10	CARDINAL
+WB18	147	1	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	147	2	P161473	NORP
+WB18	147	3	2017	DATE
+WB18	147	4	10	CARDINAL
+WB18	147	5	12	CARDINAL
+WB18	149	1	OP	PERSON
+WB18	152	1	a Compensation and Resettlement Policy Framework	LAW
+WB18	152	2	CRPF	ORG
+WB18	152	3	OP	PERSON
+WB18	152	4	4.12	CARDINAL
+WB18	153	1	CRPF	ORG
+WB18	154	1	RPF	GPE
+WB18	157	1	OP	ORG
+WB18	157	2	4.37	CARDINAL
+WB18	158	1	International Waterways OP/BP	ORG
+WB18	158	2	the Mekong River Basin	LOC
+WB18	159	1	the Mekong River	LOC
+WB18	161	1	Disputed Areas OP/BP	ORG
+WB18	162	1	E. Safeguard Preparation Plan Tentative	ORG
+WB18	162	2	Appraisal Stage PID/ISDS	ORG
+WB18	162	3	Oct 31, 2017	DATE
+WB18	162	4	The World Bank Lao Agriculture Commercialization Project	ORG
+WB18	162	5	P161473	NORP
+WB18	162	6	2017	DATE
+WB18	162	7	11	CARDINAL
+WB18	162	8	12	CARDINAL
+WB18	163	1	Appraisal Stage PID/ISDS	ORG
+WB18	163	2	April 2017	DATE
+WB18	164	1	June 2017	DATE
+WB18	165	1	August 2017	DATE
+WB18	166	1	CONTACT POINT World Bank Binh Thang Cao Sr Agricultural Spec	ORG
+WB18	167	1	Borrower/Client/Recipient Lao People's Democratic Republic Phouang Parisak Pravongviengkham	ORG
+WB18	167	2	Minister - Ministry of Agriculture and Forestry pppravongviengkham@yahoo.com	ORG
+WB18	167	3	NW	GPE
+WB18	167	4	Washington	GPE
+WB18	167	5	202	CARDINAL
+WB18	167	6	473-1000	CARDINAL
+WB18	167	7	P161473	NORP
+WB18	167	8	2017	DATE
+WB18	167	9	12	CARDINAL
+WB18	167	10	12	CARDINAL
+WB18	167	11	Peter Leonard 20-Apr-2017	PERSON
+WB18	167	12	William R. Sutton	PERSON
+WB18	167	13	21-Apr-2017	DATE
+WB18	167	14	24-Apr-2017	CARDINAL

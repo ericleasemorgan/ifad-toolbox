@@ -1,0 +1,4716 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+AFRICAN DEVELOPMENT FUND  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+BURKINA FASO 
+ 
+
+ 
+
+ 
+
+ 
+
+SUPPORT PROJECT FOR ESTABLISHING  
+
+AN AGRIBUSINESS BANK (PACBA) 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+PROJECT APPRAISAL REPORT  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RDGW/PIFD/PGCL 
+
+ 
+
+ 
+
+November 2018 
+
+ 
+
+ 
+
+ 
+
+Translated Version 
+  
+
+  
+  
+
+ P
+u
+
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+
+th
+o
+ri
+
+z
+e
+d
+
+  
+ 
+
+ 
+ 
+
+ 
+P
+
+u
+b
+
+li
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+
+th
+o
+
+ri
+z
+e
+d
+
+ 
+
+ 
+
+
+
+ 
+
+TABLE OF CONTENTS 
+
+Project Information Sheet ....................................................................................................................... ii 
+
+Project Summary ................................................................................................................................... iii 
+
+PROVISIONAL PROJECT IMPLEMENTATION SCHEDULE .........................................................iv 
+
+RESULTS-BASED LOGICAL FRAMEWORK ...................................................................................iv 
+
+ Strategic Thrust and Rationale........................................................................................................ 1 
+
+1.1. Project Linkages with Country Strategy and Objectives ............................................................. 1 
+
+1.2. Context of the Bank’s Intervention ............................................................................................. 2 
+
+1.3. Rationale for Bank Intervention .................................................................................................. 2 
+
+1.4 Aid Coordination ......................................................................................................................... 4 
+
+ Project Description ......................................................................................................................... 5 
+
+2.1 Project Objectives and Components ............................................................................................ 5 
+
+2.2 Technical Solutions Adopted and Alternatives Explored .......................................................... 13 
+
+2.3 Project Type .............................................................................................................................. 14 
+2.4 Project Costs and Financing Arrangements…………………………………………………..14 
+
+2.5 Project Area and Beneficiaries .................................................................................................. 16 
+
+2.6 Participatory Approach to Project Identification, Design and Implementation ........................ 16 
+
+2.7 Bank Group Experience and Lessons Reflected in Project Design ........................................... 16 
+
+2.8 Key Performance Indicators ...................................................................................................... 16 
+
+ Project Feasibility ...................................................................................................................... 17 
+
+3.1 Economic and Financial Performance……………………………………………………...…17 
+
+3.2 Environmental and Social Impact……………………………………………………………..17 
+
+ Implementation .......................................................................................................................... 19 
+
+4.1 Implementation Arrangements………………………………………………………………..19 
+
+4.2 Monitoring and Evaluation……………………………………………………………………21 
+
+4.3 Governance……………………………………………………………………………………21 
+
+4.4 Sustainability………………………………………………………………………………….21 
+
+4.5 Risk Management……………………………………………………………………………..22 
+
+4.6 Knowledge Building…………………………………………………………………………..22 
+
+ Legal Framework .......................................................................................................................... 23 
+
+5.1 Legal Instrument………………………………………………………………………………23 
+
+5.2 Conditions for Intervention by the African Development Fund………………………………23 
+
+5.3 Compliance with Bank Policies……………………………………………………………….24 
+
+ Recommendation ...................................................................................................................... .24 
+
+  
+
+
+
+ 
+
+LIST OF ANNEXES 
+
+Annex 1: Comparative Socio-economic Indicators ................................................................................. I 
+
+Annex 2: Table of AfDB Active Portfolio as at 30 September 2018 ..................................................... II 
+
+Annex 3: Summary Table of Donor Interventions ................................................................................ III 
+
+Annex 4: Map of the Project Area ........................................................................................................ IV 
+
+ 
+
+LIST OF TABLES 
+
+Table 2.1-1: Project Components and Cost Estimates in UA Thousand ............................................... 13 
+
+Table 2.4-1: Project Cost Estimate by Component ............................................................................... 14 
+
+Table 2.4-2: Project Cost Estimate by Source of Financing (in UA Thousand) ................................... 15 
+
+Table 2.4-3: Project Cost by Expenditure Category (in UA Thousand)................................................ 15 
+
+Table 2.4-4: Expenditure Schedule by Component (in UA Thousand) ................................................ 15 
+
+ 
+TECHNICAL ANNEXES  
+
+Technical Annex A1: Country Development Programme 
+
+Technical Annex A2: Note on the Financial Sector in Burkina Faso 
+
+Technical Annex A3: Note on the Agricultural Sector in Burkina Faso 
+
+Technical Annex A4: Note on Fragility 
+
+Technical Annex A5: Note on Gender 
+
+Technical Annex A6: Donor Support 
+
+Technical Annex B1: Main Lessons 
+
+Technical Annex B2: Detailed Project Costs 
+
+Technical Annex B3: Implementation Arrangements 
+
+Technical Annex B4: Financial Management and Disbursement Arrangements 
+
+Technical Annex B5: Procurement Arrangements 
+
+Technical Annex B6: Environmental and Social Analysis 
+
+Technical Annex B7: Project Preparation and Supervision 
+
+Technical Annex C1: Detailed Project Description 
+
+Technical Annex C2: Note on Banque Agricole et Commerciale du Burkina (BACB) 
+
+Technical Annex C3: Detailed Analysis of Banque Agricole du Faso (BADF) 
+
+Technical Annex C4: Cotton Sector: Organisation, Financing and Protection Mechanism 
+
+Technical Annex C5: Organisation and Structures in Rural Areas in Burkina Faso 
+
+Technical Annex C6: Note on the Burkina Faso Economic and Social Development Fund 
+
+Technical Annex C7: Note on BNDA of Mali and CNAS of Senegal 
+
+ 
+
+
+
+i 
+
+ 
+
+Currency Equivalents 
+
+August 2018 
+
+ 
+
+Currency Unit   =  CFA Franc (XOF) 
+
+UA 1     =  XOF 785.220 
+
+UA 1    = EUR 1.19706 
+
+UA 1    = USD 1.40487 EU 
+
+ 
+
+Fiscal Year 
+
+1 January – 31 December 
+
+ 
+ 
+
+Acronyms and Abbreviations 
+
+ 
+EA Executing Agency  PMP Procurement Methods and Procedures 
+
+AFAWA Affirmative Finance Action for Women in Africa  UAM UA Million 
+
+AFD French Development Agency  WMO World Meteorology Organisation  
+
+AGRA Alliance for Green Revolution in Africa  P2RS Resilience Strengthening Programme 
+
+ANM National Meteorology Agency  PACBA Support Project for Establishing an Agribusiness 
+Bank 
+
+BACB Banque Agricole et Commerciale du Burkina 
+(Burkina Agricultural and Commercial Bank) 
+
+ PADA Cashew Nut Development Support Project 
+
+AfDB African Development Bank  PATECE Economic Transformation Support Project 
+
+BADF Banque Agricole du Faso (Faso Agricultural Bank)  PGFC Classified Forests Participatory Management 
+Project 
+
+BCEAO Central Bank of West African States  GDP Gross Domestic Product 
+
+BNDA Banque Nationale de Développement Agricole du 
+Mali (National Agricultural Development Bank of 
+Mali) 
+
+ SME Small- and Medium-sized Enterprise 
+
+BPM Bank Procurement Methods and Procedures  SMI Small- and Medium-sized Industry 
+
+BRVM West African Regional Stock Exchange  RMC Regional Member Country 
+
+CARFO Retired Civil Servants Autonomous Fund  NBI Net Banking Income 
+
+CBI Coris Bank International  PNDES National Economic and Social Development Plan 
+
+PIU Project Implementation Unit  PPF Project Preparation Facility 
+
+CNCA National Agricultural Credit Fund  TFP Technical and Financial Partner 
+
+CNCAS National Agricultural Credit Fund of Senegal  RCPB Credit Union Network of Burkina Faso  
+
+COBF Bank’s Country Office in Burkina Faso  REDD Reducing Emissions from Deforestation and Forest 
+Degradation 
+
+DBN Development Bank of Nigeria  PAR Project Appraisal Report 
+
+DEG German Development Finance Agency  ESMS Environmental and Social Management System  
+
+SNBD Standard National Bidding Documents  SONAR-
+IARD 
+
+National Insurance and Reinsurance Company  
+
+SBD Standard Bidding Documents   BPS Borrower’s Procurement System 
+
+CSP Country Strategy Paper  UA Unit of Account 
+
+KFW Kreditanstalt für Wiederaufbau – German 
+Development Bank 
+
+ WAMU West African Monetary Union 
+
+MAAH Ministry of Agriculture and Water Management   WAEMU West African Economic and Monetary Union 
+
+MAMDA Mutuelle Agricole Marocaine d'Assurance 
+(Moroccan Agricultural Insurance Company) 
+
+ UNPCB National Union of Cotton Producers of Burkina 
+Faso 
+
+MINEFID Ministry of Economy, Finance and Development   UNPSB National Union of Seed Producers of Burkina Faso 
+
+ 
+
+ 
+
+ 
+
+
+
+ii 
+
+ 
+
+ 
+
+Project Information Sheet 
+
+Customer Information 
+
+BORROWER                    :   Burkina Faso 
+
+ 
+
+EXECUTING AGENCIES: Ministry of Economy, Finance and Development (MINEFID) and 
+
+Ministry of Agriculture and Water Management (MAAH) 
+
+Financing Plan 
+
+Source Amount (UA million) Instrument 
+
+ADF 7.500 Loan 
+
+   
+
+   
+
+Government of Burkina Faso 0.126 Counterpart 
+
+Contribution 
+
+TOTAL COST 7.626  
+
+ 
+
+Key Financial Information on the Loan 
+
+ 
+
+ADF 
+
+Loan 
+
+Interest Type* NA 
+
+Interest Rate Margin* NA 
+
+Service Commission* 0.75% 
+
+Other costs (Commitment Fee) 0.50% 
+
+Tenor 40 years 
+
+Timeframe   2058 
+
+Grace Period 5 years 
+
+FRR, NPV (Baseline scenario) NA 
+
+ERR (Baseline scenario) NA 
+
+ 
+
+*Where applicable 
+
+Duration – Key Milestones (expected) 
+
+  
+
+Concept Note Approval March 2018 
+
+Appraisal July 2018 
+
+Country Team October 2018 
+
+Project Approval November 2018 
+
+ADF Loan Effectiveness February 2019 
+
+First Disbursement March 2019 
+
+Last Disbursement March 2021 
+
+Completion September 2021 
+
+
+
+iii 
+
+ 
+
+Project Summary 
+
+Project 
+
+Overview 
+
+Project Name: Support Project for Establishing an Agribusiness Bank (PACBA) 
+Geographical Context: Nationwide 
+
+Implementation Timeframe: March 2019 - March 2021 
+
+Project Cost: UA 7.625 million  
+
+Project 
+
+Objectives 
+
+The project goal is to help increase the growth rate of the agricultural sector and improve its productivity in 
+
+order to reduce poverty and strengthen the resilience of Burkina Faso's rural environment. The specific 
+
+objectives of the project are to: (i) improve access to agricultural financing by establishing an agribusiness 
+
+bank known as Banque Agricole du Faso (Agricultural Bank of Burkina Faso) (BADF); (ii) support the 
+
+country's economic transformation by creating an agro-industrial value chain that provides local 
+
+employment; and (iii) help improve the attractiveness of the agricultural sector for bank financing by 
+
+promoting the establishment of an ecosystem that mitigates risks in the agricultural sector, in particular 
+
+agricultural insurance and warrantage. 
+
+Given the importance of the agricultural sector, the structural transformation of Burkina Faso's economy 
+
+will be based on the development of this sector with respect to production and processing, hence the need 
+
+to address the high marginalisation of this sector as regards financing (only 3.5% of bank loans in 2017). 
+
+Accordingly, in addition to establishing this bank, which receives support from the project, the authorities 
+
+intend, in the medium term, to strengthen the agricultural financing mechanism through the Shared Risk 
+
+Facility, following the example of countries such as Nigeria, Togo, Ghana, etc. 
+
+Needs 
+
+Assessment 
+
+Agriculture is the mainstay of Burkina Faso’s economy. However, its contribution to the creation of national 
+
+wealth remains below its potential. While it employs more than 80% of the working population, it 
+
+contributes only slightly more than 30% to the gross domestic product. The sector continues to face 
+
+constraints on its full contribution to the national economy, particularly production, difficulties in accessing 
+
+financing, and transportation of agricultural products to markets. The proportion of financing devoted to the 
+
+sector accounts for barely 3.5% of bank financing, despite the existence of thirteen (13) banks and four (4) 
+
+financial institutions. 
+
+ 
+
+In addition, the unavailability of agricultural insurance, which would even out farmers' income and thereby 
+
+encourage them to repay their loans to financial institutions, is a handicap to agricultural financing. 
+
+Project 
+
+Beneficiaries 
+
+The main beneficiaries are farmers and economic operators engaged in processing activities in the 
+
+agricultural sector. The banking sector, in particular BADF, will witness an improvement in its loans to the 
+
+sector following establishment of the agricultural insurance mechanism. 
+
+Outcomes and 
+
+Impact 
+
+The project will help to create enabling conditions for more sustained and inclusive growth through better 
+
+financing of the agricultural sector, which is a pillar of Burkina Faso's economy. It will improve farmers' 
+
+access to credit and promote the financial inclusion of the farming population. Similarly, the project will 
+
+help to reduce the proportion of non-resilient households.  
+
+Value Added 
+
+for the Bank 
+
+The Bank’s value added resides in the fact that by improving access to agricultural financing and ecosystem 
+
+security through agricultural insurance and warrantage, it will increase and consolidate the impact of projects 
+
+by the Bank and other donors in the sector. Similarly, everyone will benefit from agricultural insurance and 
+
+use of the warrantage mechanism. Agrihub projects supported by some donors will also be open to another 
+
+financing window with BADF.  
+
+Knowledge 
+
+Building 
+
+PACBA implementation will help to build several types of knowledge, particularly: (i) best practice in 
+
+agribusiness investment financing; (iii) the creation of agribusiness project databases to promote the 
+
+emergence of agricultural processing units; and (iv) studies to be conducted on agricultural insurance and 
+
+warrantage. The practices will be disseminated within the administration and to non-State actors through 
+
+the documents produced, procedures manuals, and training sessions that will be organised under the project. 
+
+
+
+iv 
+
+ 
+
+PROVISIONAL PROJECT IMPLEMENTATION SCHEDULE  
+
+ 
+
+CALENDRIER D’EXECUTION PREVISIONNEL DU PROJET  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+v 
+
+ 
+
+RESULTS-BASED LOGICAL FRAMEWORK 
+ 
+
+Project Goal: Help increase the growth rate of the agricultural sector and improve its productivity in order to reduce poverty and fragility 
+
+  RESULTS CHAIN PERFORMANCE INDICATORS 
+MEANS OF 
+
+VERIFICATION 
+RISKS/MITIGATION MEASURES 
+
+    
+Indicator (Including 
+
+CSI) 
+
+Baseline 
+
+Situation 
+Target 
+
+IM
+P
+
+A
+C
+
+T
+ 
+
+Increase in the growth 
+
+rate of the agricultural 
+
+sector and improvement 
+
+in its productivity 
+
+Annual growth rate of 
+
+the agricultural sector  
+
+ 
+
+Primary sector 
+
+productivity 
+
+5.% in 2016                                                                                                                                                                                                                         
+
+ 
+
+EUR 544 
+
+/share in 
+
+2016 
+
+6.5% in 2020                                                                                                                                                                              
+
+ 
+
+ 
+
+EUR 816/share 
+
+in 2020 
+
+PNDES 
+
+monitoring reports 
+
+BADF activity 
+
+reports 
+
+  
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S
+
+ 
+
+ 
+
+Outcome 1.1: Improved 
+
+access to financing for 
+
+the agricultural sector. 
+
+Share of bank credit 
+
+to the agricultural 
+
+sector 
+
+3.5% in 
+
+2017 
+
+4.5% in 2019 and 
+
+5% in 2020  
+  
+
+Risks and Mitigation Measures 
+
+(i) Rising socio-political tensions 
+
+Government commitment to continue negotiations to ensure 
+
+that socio-economic and political demands are coherently 
+
+and reasonably taken into account.  
+
+(ii) Increased security risk 
+
+The Government has redoubled its efforts to provide strong 
+
+and sustainable responses, and has resolutely embraced a 
+
+regional counterterrorism framework (G5 Sahel) to address 
+
+the various threats. 
+
+(iii) BADF’s weak human and institutional capacity to 
+
+properly manage the bank 
+
+BADF's management has extensive experience in banking 
+
+and, particularly, in agricultural financing. In addition, the 
+
+technical assistance contract with CNCA of Senegal will 
+
+provide support to BADF in various areas, particularly in 
+
+information systems management and risk management 
+
+systems and procedures. 
+
+(iv) Governance: Strong Government participation in the 
+
+bank’s capital following the Central Bank's request to pull out 
+
+shareholders deemed financially weak. 
+
+Outcome 1.2: Increased 
+
+agricultural processing 
+
+rate  
+
+Increase in the 
+
+agricultural product 
+
+processing rate 16% in 2016 25% in 2020 
+
+PNDES 
+
+monitoring reports  
+
+ 
+
+BADF activity 
+
+reports 
+
+Outcome 2: Enhanced 
+
+resilience of agro-sylvo-
+
+pastoral households, 
+
+wildlife and fisheries to 
+
+risks. 
+
+Proportion of non-
+
+resilient agricultural 
+
+households 
+
+42.68% in 
+
+2017 
+
+35% in 2019 and 
+
+25% in 2020  
+  
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+ 
+
+Component 1: Support for improving access to agricultural financing 
+
+Output 1.1: BADF's 
+
+capital is 100% 
+
+subscribed 
+
+Government pays its 
+
+share in BADF capital  
+Not done 
+
+100% subscribed 
+
+capital in 2019 
+
+MINEFID and 
+
+BADF Annual 
+
+Reports 
+
+Output 1.2: BADF is 
+
+established 
+BADF is established Nil 
+
+WAEMU 
+
+Banking 
+
+Commission 
+
+grants 
+
+accreditation to 
+
+BADF 
+
+BCEAO 
+
+Output 1.3: BADF is 
+
+operational 
+BADF grants loans Nil 
+
+XOF 34 billion 
+
+of loans to the 
+
+agricultural 
+
+sector in 2020 
+
+and 88 jobs 
+
+MINEFID and 
+
+BADF Annual 
+
+Reports 
+
+
+
+vi 
+
+ 
+
+created, 30% of 
+
+which were 
+
+created by 
+
+women 
+
+The Burkina Faso Fund for Economic and Social 
+
+Development (FBDES) holds the Government’s participation 
+
+and additional shares owned by organisations considered 
+
+weak by the Central Bank; the Central Bank has requested the 
+
+organisations to pull out of BADF capital. FBDES is 
+
+requested to gradually transfer the shares, as well as the 
+
+Government’s participation, to stakeholders in line with its 
+
+area of activity as soon as possible. In addition, the entry of a 
+
+technical and financial partner is also being considered. 
+
+Independent directors will also be co-opted to the Board of 
+
+Directors to improve the quality of the management structure. 
+
+(v) Risk of strong pressure on management from farmers' 
+
+cooperatives who consider BADF as a bank established on 
+
+their initiative and dedicated to them. 
+
+Strong ownership of the project establishing BADF from the 
+
+outset by farmer organisations, and therefore their 
+
+willingness to ensure the bank's viability. In addition, the 
+
+continued and strong sensitisation of farmer organisations on 
+
+the need for the bank's sustainability. BADF will give priority 
+
+to organised farmers' networks that will help collect customer 
+
+information and, if necessary, collect unpaid debts. 
+
+(vi) Strong competition from existing banks 
+
+Given the strong ownership by farmer organisations, BADF 
+
+will rely on farmer sectors to attract farmer customers. The 
+
+bank's activities will be diversified by financing non-
+
+agricultural sectors. 
+
+ 
+
+  
+
+Output 1.4: Gender 
+
+equity in BADF 
+
+operations 
+
+BADF loans to 
+
+women farmers 
+Nil 
+
+20% of total 
+
+loans 
+Same as above 
+
+Component 2: Support for security of the agricultural financing ecosystem 
+
+Output 2.1: The 
+
+agricultural insurance 
+
+mechanism is 
+
+established and 
+
+operational 
+
+Definition of 
+
+insurance indices and 
+
+products, and 
+
+preparation of 
+
+insurance policies 
+
+ 
+
+ 
+
+ 
+
+Procurement and 
+
+operation of 
+
+automatic weather 
+
+stations that meet 
+
+WMO standards 
+
+Insurance 
+
+indices and 
+
+products not 
+
+defined and 
+
+insurance 
+
+policies not 
+
+prepared 
+
+ 
+
+ 
+
+No 
+
+automatic 
+
+weather 
+
+stations 
+
+Insurance indices 
+
+and products 
+
+defined and 
+
+insurance 
+
+policies prepared  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Automatic 
+
+weather stations 
+
+that meet WMO 
+
+standards 
+
+procured and 
+
+installed 
+
+ MAAE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAAE 
+
+Output 2.2: The 
+
+warrantage system is in 
+
+place and operational 
+
+Elaboration and 
+
+adoption of regulatory 
+
+texts 
+
+ 
+
+Creation of a 
+
+warrantage database 
+
+ 
+
+ 
+
+Sensitisation of  
+
+stakeholders 
+
+No texts  
+
+ 
+
+Lack of a 
+
+warrantage 
+
+database 
+
+ 
+
+Warrantage 
+
+not known 
+
+Regulatory texts 
+
+elaboratd and 
+
+adopted  
+
+ 
+
+Warrantage 
+
+database created  
+
+ 
+
+Actors sensitised 
+
+on warrantage 
+
+ MAAE 
+
+A
+C
+
+T
+IV
+
+IT
+IE
+
+S
+  
+
+    
+
+Components  
+
+Component 1: Support for improving access to agricultural financing 
+
+Component 2: Support for security of the agricultural financing ecosystem 
+
+Resources 
+
+ADF                : UA 7.5 million 
+
+Government    : UA 0.125 million 
+
+
+
+1 
+
+ 
+
+REPORT AND RECOMMENDATION BY MANAGEMENT OF THE AFRICAN 
+
+DEVELOPMENT FUND TO THE BOARD OF DIRECTORS CONCERNING THE 
+
+SUPPORT PROJECT FOR ESTABLISHING AN AGRIBUSINESS BANK (PACBA) IN 
+
+BURKINA FASO 
+
+Management hereby submits this report and its recommendation concerning a proposal to grant an 
+
+African Development Fund (ADF) loan of UA 7.5 million to Burkina Faso to finance the Support 
+
+Project for Establishing an Agribusiness Bank (PACBA). This is an institutional support project that 
+
+will be implemented over the 2018-2020 period to cover Government’s participation in the capital of 
+
+the new bank and establish an agricultural insurance system and a warrantage mechanism in Burkina 
+
+Faso. Therefore, this project will not only strengthen access to agricultural financing but also improve 
+
+the business environment of the agricultural sector and diversify agricultural financing mechanisms. 
+
+ STRATEGIC THRUST AND RATIONALE 
+
+1.1. Project Linkages with Country Strategy and Objectives 
+
+1.1.1 The National Economic and Social Development Plan (PNDES) is the national 
+
+reference framework for interventions by the Government and its partners over the 2016-2020 
+
+period for the structural economic and social transformation of Burkina Faso to achieve strong, 
+
+sustainable, resilient, and inclusive growth that will create decent jobs for all and improve social 
+
+well-being (TA A1). PNDES comprises three strategic pillars: (i) Pillar 1: reform institutions and 
+
+modernize the administration, (ii) Pillar 2: develop human capital, and (iii) Pillar 3: boost growth-
+
+oriented sectors for the economy and jobs. PACBA is aligned on Pillar 3, which aims to boost growth-
+
+oriented sectors for the economy, particularly by developing an agricultural, silvicultural, pastoral, 
+
+wildlife and fisheries sector that is productive and resilient. 
+
+1.1.2.  The Bank's intervention strategy in Burkina Faso over the 2017-2021 period is based 
+
+on the country's development framework (i.e. the PNDES), with particular emphasis on the 
+
+structural transformation of the economy. Consequently, the CSP is structured around two 
+
+pillars: (i) promote access to electricity, and (ii) develop the agricultural sector for inclusive 
+
+growth. Under the second pillar, the Bank will focus on the following actions: (a) support reforms in 
+
+the agricultural sector; (b) develop value chains and water management, relying mainly on support 
+
+for the emergence of growth hubs such as Bagré Hub and cotton processing; (c) promote youth 
+
+employment with particular emphasis on the development of agro-business and professional skills; 
+
+(d) access to financing for the sector with institutional and financial support from an agricultural bank 
+
+being established; and (e) construction of access infrastructure to improve the marketing of 
+
+agricultural products and intra-regional trade. In this regard, PACBA is fully aligned on the Bank's 
+
+strategy, particularly with points (i) to (iv) indicated above. 
+
+1.1.3. In addition, by broadening access to economic opportunities for the people, 
+
+particularly farmers, PACBA is aligned on the Bank's Ten-Year Strategy (2013-2022) with 
+
+respect to the objective of inclusive growth. 
+
+1.1.4. PACBA is also consistent with the Strategy for Agricultural Transformation in Africa 
+
+("Feed Africa"), which aims to "transform African agriculture into a competitive and inclusive agro-
+
+industrial sector that can create wealth". 
+
+1.1.5. The project also falls within the Bank's Second Climate Change Action Plan, 
+
+particularly under its pillar relating to intensified financing for adaptation. 
+
+1.1.6  Finally, PACBA falls within the Bank's Financial Sector Development Strategy, which 
+
+aims to "help increase access to financing, deepen African financial institutions and markets in RMCs 
+
+
+
+2 
+
+ 
+
+and at regional level, and support financial stability", as well as its Gender Strategy (2014-2018) in 
+
+its focus on women’s economic empowerment.  
+
+1.2. Context of the Bank’s Intervention 
+
+1.2.1 With regard to the economic and social context, activity is picking up vigorously after 
+
+a period of economic sluggishness in 2014 and 2015. Burkina Faso's economic growth remains 
+
+strong despite a fragile security context (TA A4-Note on Fragility). Economic growth is estimated 
+
+at 7% in 2018 after 6.7% in 2017 and 5.9% in 2016. The impact of transformative investments under 
+
+the National Economic and Social Development Plan (PNDES 2016-2020), particularly in increasing 
+
+energy supply, has contributed to this economic dynamism. In addition, the performance of the 
+
+extractive industries through increased gold production has provided additional support for economic 
+
+activity. 
+
+1.2.2. In 2018, the Government concluded a three-year programme supported by the IMF’s 
+
+Extended Credit Facility, which seeks to ensure stability of the macroeconomic framework and 
+
+reduce the fiscal deficit to 5% in 2018 and to a maximum of 3% of GDP in 2019, in line with the 
+
+WAEMU convergence criterion.  
+
+1.2.3. As regards execution of the State budget, the Government intends to continue its efforts 
+
+towards controlling current expenditure, consolidating revenue mobilisation reforms, and 
+
+implementing the PNDES. The measures to be taken in 2018 to increase revenue consist in further 
+
+computerisation of tax services (online procedure, digitalisation, etc.), as well as further consolidation 
+
+of business segmentation and reforms to modernise customs administration. 
+
+1.2.4. At the social level, Burkina Faso falls within the category of countries with low human 
+
+development. The latest poverty survey in Burkina Faso (the Permanent Multisector Survey - EMC) 
+
+estimated the poverty rate at 40.1% in 2014 compared to 46.7% in 2009, which corresponds to a 6.6% 
+
+decline. Despite this progress, the prevalence of poverty in rural areas (41%) is higher than that at 
+
+national level and in urban areas (14%).  
+
+1.3. Rationale for Bank Intervention 
+
+1.3.1. Unlocking access to financing for Burkina Faso's key economic sector (TA A3): The 
+
+agricultural sector’s contribution to national wealth creation remains below its potential. While it 
+
+employs more than 80% of the working population, agriculture contributes only slightly more than 
+
+30% to the gross domestic product. The sector continues to face constraints that hamper it from 
+
+contributing fully to the national economy. These constraints include difficulties regarding 
+
+production, accessing financing and transporting agricultural products to markets. Admittedly, the 
+
+financing of the cotton sector is a success story, thanks mainly to the quality of supervision of the 
+
+sector and the smoothing mechanism put in place (TA C4). However, access to agricultural financing 
+
+remains a real handicap, aggravated by the privatisation of BACB, which has created an institutional 
+
+vacuum in agricultural financing. The proportion of financing devoted to the sector accounts for 
+
+barely 3.5% of bank financing, despite the existence of thirteen (13) banks and four (4) financial 
+
+institutions. There are many reasons for the banks' little interest in agricultural financing. One of the 
+
+main reasons is the high risk inherent in such financing but, above all, the lack of control over the 
+
+value chain: the vast majority of operators in the sector can neither offer adequate guarantees nor 
+
+control the storage and marketing schedule for their products.  
+
+1.3.2. Securing the risk environment to ensure BADF viability and promote the attractiveness 
+
+of agricultural financing for commercial banks. The farms face considerable risks (climate, 
+
+markets, health risks, locust invasions, etc.), which can even lead to total production loss. It should 
+
+be noted that the unavailability of agricultural insurance neither allows farmers to even out their 
+
+
+
+3 
+
+ 
+
+income nor encourages them to repay their debts to financial institutions. Consequently, it is 
+
+necessary to set up an insurance system. Furthermore, the limited diversification of mechanisms to 
+
+promote agricultural financing remains a handicap, hence the need to develop warrantage. In this 
+
+regard, the Ministry of Agriculture in September 2017 prepared a national strategy to guide 
+
+warrantage interventions with the support of the Alliance for a Green Revolution in Africa (AGRA). 
+
+It is now necessary to move from strategy to action. Finally, it should also be noted that banks 
+
+operating in Burkina Faso lack expertise in providing support and advisory services on agricultural 
+
+sector financing. To help it get started and avoid all these pitfalls, BADF has decided to use the 
+
+technical assistance of Caisse Nationale de Crédit Agricole (National Agricultural Credit Fund) 
+
+(CNCA) of Senegal, an institution with more than thirty years' experience in financing Senegalese 
+
+agricultural development.  
+
+1.3.3. Continue and intensify financing actions for agricultural and agrifood SMEs and SMIs 
+
+initiated in sub-projects supported through lines of credit granted by AfDB to Coris Bank (December 
+
+2016) and Fidelis Finance (June 2014). These financial institutions provide significant support for 
+
+agricultural financing, which is neglected by commercial banks. The support will continue and be 
+
+reinforced with BADF, whose medium- and long-term credit forecasts for the agricultural sector is 
+
+estimated at XOF 4.1 billion in 2019 to XOF 14.54 billion in 2024, with an annual growth rate of 
+
+28%. Furthermore, this operation will help to achieve three of the High 5s1 identified by Senior 
+
+Management, namely: "Feed Africa", "Industrialise Africa" and "Improve the quality of life for 
+
+people in Africa", through the financing of agro-industrial projects that will contribute to promoting 
+
+food security and improving living conditions in rural areas.  
+
+1.3.4. Reinforce and consolidate the Bank's involvement in Burkina Faso’s agricultural 
+
+sector: PACBA will reinforce and consolidate the impact of many other existing projects: Support 
+
+Project for Bagré Growth Pole, Participatory Forest Management Project, Cashew Nut Development 
+
+Support Project in Comoé Basin for REDD (PADA-REDD+), Preparation of PPG PGFC/REDD++ 
+
+FIP, Resilience Building Programme (P2RS) and PPF for Youth and Women’s Integration in Agro-
+
+Sylvo-Pastoral Sectors. PACBA falls within the Lending Programme of CSP 2017-2021 and is a 
+
+Pillar II flagship operation.  
+
+1.3.5. Replicating Existing Success Models in West Africa 
+
+1.3.5.1 Banque Nationale de Développement Agricole du Mali (National Agricultural Development 
+
+Bank of Mali) (BNDA) (TA C7), initially based on a fully agricultural banking model, has gradually 
+
+diversified its portfolio to strengthen its viability. At the end of 2017, it had 54% of its portfolio in 
+
+agricultural value chains, and 46% outside the agricultural sector. It is in its 38th year of existence and 
+
+has remained profitable over the past twelve (12) years.  Originally, BNDA was completely State-
+
+owned. After demonstrating its ability to be viable, it attracted several shareholders, including the 
+
+French Development Agency (20% of the capital) and the German Development Finance Agency 
+
+(DEG) (21% of the capital). BADF will be built on this semi-agricultural banking model, with 40% 
+
+of its exposure outside the agricultural sector. This will allow it to mobilise deposits from other sectors 
+
+and mitigate the effects of any crisis in the agricultural sector. In addition, gradual government 
+
+withdrawal from its capital is being considered to make way for financial partners with expertise in 
+
+agricultural financing. 
+
+1.3.5.2. Caisse Nationale du Crédit Agricole du Sénégal (National Agricultural Credit Fund of 
+
+Senegal) (CNCAS) (TA C7), drawing on the lessons learned over the years, has finally found a model 
+
+that guarantees its viability. CNCAS intervention is accompanied by a series of measures to secure 
+
+the agricultural financing ecosystem in Senegal, in particular: (i) agricultural insurance, of which the 
+
+                                                 
+1  The five strategic priorities ("High 5s") identified by Senior Management are: "Light up and power Africa", "Feed Africa", "Integrate Africa", 
+
+"Industrialise Africa" and "Improve the quality of life for people in Africa". 
+
+
+
+4 
+
+ 
+
+Senegalese Government finances 50% of the premiums, enables it to increase the resilience of its 
+
+borrowers, thereby curbing their default rate; (ii) Government’s subsidising of agricultural credit rates 
+
+to allow a greater number of farmers to have access to credit, thereby promoting diversification of 
+
+CNCAS portfolio; and (iii) guarantees to be granted by the Government in financing major 
+
+agricultural projects will allow CNCAS to have sufficient margins under its prudential ratios to 
+
+increase its financing volumes. With PACBA, the Bank intends to support the establishment of a 
+
+secure ecosystem similar to that of CNCAS in Senegal to strengthen BADF’s viability. To that end, 
+
+a technical assistance contract has been concluded between CNCAS and BADF. CNCAS will assist 
+
+BADF in starting up its activity, particularly the information systems, risk systems, and commercial 
+
+strategy. 
+
+1.3.6. Recent Cases of Bank Support for Agricultural Financing 
+
+1.3.6.1 In December 2016, the Board approved a UA 67 million ADF loan for a 40-year period, 
+
+including a 10-year grace period, to the Government of Tanzania to be on-lent to the Agricultural 
+
+Bank of Tanzania. Tanzania Agricultural Development Bank was officially launched and began its 
+
+operations in 2015. It is structured to provide medium- and long-term financing, in the form of loans, 
+
+guarantees and risk-sharing instruments, to fill the financing gaps in agricultural value chains in 
+
+Tanzania. The support for the Tanzania Agricultural Development Bank has not yet been disbursed. 
+
+1.3.6.2. In December 2014, the Board approved a total financial plan of USD 500 million for the 
+
+Federal Republic of Nigeria for the establishment of the Development Bank of Nigeria. The financial 
+
+plan included: (i) an ADF loan of USD 50 million for 30 years, including a five-year grace period; 
+
+(ii) a USD 400 million loan for 20 years, including a five-year grace period, from the Bank's regular 
+
+resources; and (iii) a direct Bank equity participation of up to USD 50 million in the capital of the 
+
+Development Bank of Nigeria Plc (DBN), with a redemption obligation for DBN after 10 years. The 
+
+purchase of the Bank's stake by DBN is guaranteed by the Federal Republic of Nigeria. The Nigerian 
+
+Development Bank has not yet published its first financial performance for preliminary lessons to be 
+
+learned with respect to financial sustainability. 
+
+ 
+
+1.4 Aid Coordination 
+
+1.4.1 The Bank plays a key role in coordinating TFP assistance. After chairing the TFP troika from 
+
+2013 to 2014, it was lead partner of the Sector Dialogue Framework for Infrastructure from 2014 to 
+
+2015, and for Water and Sanitation from June 2015 to October 2016, and finally, the Bank was the 
+
+coordinator of TFPs operating in the youth and vocational training sector from 2014 to 2016. 
+
+1.4.2 With respect to overall intervention volume, the Bank is the third-largest development aid 
+
+TFP, after the European Union and the World Bank. The Bank is also Burkina Faso's main partner in 
+
+the infrastructure sector (Annex 3 and TA A6). 
+
+1.4.3. As regards the financial sector, the Bank is Burkina Faso's leading TFP, especially with the 
+
+different lines of credit granted to the country's banks. As for the agricultural sector, the Bank is 
+
+within the TFP average (those between 10% and 50% of the sector's financing). PACBA’s leverage 
+
+effect on the entire agricultural sector will contribute to better complementarity with the actions of 
+
+other TFPs in the sector.  
+
+
+
+5 
+
+ 
+
+1.4.4 Concerning warrantage, KFW intends to work with the Government for proper 
+
+implementation of the mechanism, thereby creating good complementarity with support provided by 
+
+PACBA in this area. 
+
+1.4.5 Other TFPs are involved, at different levels, in the project’s activity areas (TA A5). 
+
+1.4.5.1 USAID, in partnership with Coris Bank International, held a training seminar on "Financing 
+
+Agricultural Value Chains" on 3-4 December 2016. To narrow the financing gap in the sector, the 
+
+Trade Hub, a USAID programme which, after analysing the financing rate in West Africa by most 
+
+banks to agrifood and agro-industrial sector stakeholders, took the initiative in 2015 to embark on 
+
+expanding its network of banking institutions to facilitate access to credit for small processors and 
+
+exporters. USAID underscored the importance of the Trade Hub Project and for the United States to 
+
+share its experience in credit guarantees for agricultural financing. 
+
+1.4.5.2 Through "Développement International Desjardins (DID)", Canada initiated the Project for 
+
+Professionalisation of Agricultural Credit Methodologies (PMCA). Several MFI networks, supported 
+
+by DID, operate in rural areas and are required to serve this relatively complex market. DID's Project 
+
+for Professionalisation of Agricultural Credit Methodologies (PMCA) essentially aims to support a 
+
+number of the MFIs as follows: (i) promote access to credit for small farmers; (ii) mitigate credit risks 
+
+associated with the sector; and (iii) increase the profitability of MFIs operating in rural areas. 
+
+1.4.5.3 Other TFPs, particularly Proparco and IsDB, have also intervened through lines of credit to 
+
+Société Générale Burkina Faso and Coris Bank International to support private sector development, 
+
+particularly SMEs and SMIs, as well as promote Islamic financing. 
+
+ PROJECT DESCRIPTION 
+
+2.1 Project Objectives and Components 
+
+2.1.1 The project goal is to help increase the growth rate of the agricultural sector and improve its 
+
+productivity in order to reduce poverty and strengthen the resilience of Burkina Faso’s rural 
+
+environment. The specific project objectives are to: (i) improve access to agricultural financing; (ii) 
+
+support the country's economic transformation through the emergence of an agro-industrial value 
+
+chain that provides local employment; and (iii) help improve the attractiveness of the agricultural 
+
+sector for bank financing by promoting the establishment of an ecosystem that mitigates risks in the 
+
+agricultural sector, particularly agricultural insurance and warrantage. 
+
+2.1.2. The project is structured around two components: (i) support for improving access to 
+
+agricultural financing through Government participation in the capital of the newly established 
+
+Banque Agricole du Faso (Agricultural Bank of Burkina Faso) (BADF); and (ii) support for security 
+
+of the agricultural financing ecosystem by establishing an agricultural insurance system and a 
+
+warrantage mechanism. 
+
+2.1.3 Component 1: Support for Improving Access to Agricultural Financing 
+
+2.1.3.1. Through this component, the project will, in view of the high expectations of the population, 
+
+particularly in the agricultural sector, as well as the significant financing needs of agriculture and its 
+
+transformation, enable the Government to play its role as a driving force by acquiring a stake in 
+
+BADF's capital. Considered as a priority in the Bank's 2017-2021 Strategy for Burkina Faso, the 
+
+establishment of this bank will contribute to efforts towards responding to the scarcity of bank 
+
+financing dedicated to the agricultural sector and lay the foundations for effective implementation of 
+
+agricultural value chains. Thus, the Bank will provide financial support to the Government, 
+
+amounting to XOF 5 billion, for the acquisition of a stake in BADF’s capital. It should be noted that 
+
+
+
+6 
+
+ 
+
+BADF was approved by the Minister in charge of Finance by decree N° 
+
+183/MINEFID/DGTCP/DAMOF on 16 April 2018 after favourable opinion of the WAMU Banking 
+
+Commission on 14 March 2018 and is currently working towards its operationalisation. The Bank’s 
+
+support will be through the reinboursment method (please refer to section 4.1.4.1). 
+
+2.1.3.2  An analysis of the financial sector (TA A2) shows strong expansion of the banking system 
+
+in Burkina Faso, with bank loans increasing by 20% in 2017 and by more than 6% per year on average 
+
+over the 2012-2017 period. The feasibility study on the Banque Agricole du Faso Project2 shows that 
+
+although it is a competitive sector, the prospects for developing the credit market confirm the 
+
+existence of a niche for the establishment of a new bank dedicated to agricultural financing. Since 
+
+ECOBANK's takeover of Banque Agricole et Commerciale du Burkina (Agricultural and 
+
+Commercial Bank of Burkina Faso) (BACB)3 in 2008, there is no longer any credit institution 
+
+specialised in agricultural financing in Burkina Faso. This accounts for the small proportion of bank 
+
+financing to the primary sector, the importance of which can no longer be underestimated. 
+
+Nevertheless, as a precautionary measure, BADF intends to capture only 1% of deposits and loans at 
+
+start-up, and gradually increase its market share to 3% in the fifth year. BADF will provide 60% of 
+
+its assistance to the agricultural sector (particularly agro-industries), with the remaining 40% going 
+
+to the trade and industry sectors. Accordingly, the establishment of BADF will help to increase the 
+
+share of agricultural financing from 3.5% of bank loans in 2017 to 5% in 2020 and 7% in 2022 (or 
+
+EUR 685 million). The establishment of BADF will create 114 new direct jobs4 in 2023 and more 
+
+than 3,000 indirect jobs5 through recruitment in the agricultural companies that will be financed. To 
+
+contribute to gender mainstreaming in agricultural financing, BADF intends to earmark at least 20% 
+
+of its agricultural financing for women farmers, and subsequently increase it by 15% per year. The 
+
+project will help to increase the country's number of bank account holders, which is expected to rise 
+
+from 26% in 2016 to 40% in 2020.6  
+
+2.1.3.3  Once the banking licence has been obtained, BADF will launch its operationaliSation: (i) a 
+
+headquarters has been identified and rehabilitation works are in progress. The towns selected for 
+
+the first two branches outside Ouagadougou are Dédougou and Bobo-Dioulasso; (ii) SOPRA 
+
+Amplitude banking solution has been selected for BADF's IT systems following a competitive 
+
+bidding process; (iii) connections to GIM UEMOA, STAR-UEMOA and SWIFT payment 
+
+platforms are in progress; (iv) staff recruitment, which began with IT staff, will continue with the 
+
+hiring of commercial and credit officers for the headquarters and Dédougou and Bobo-Dioulasso 
+
+branches; and (v) communication is being organised with the creation of a website, the search for a 
+
+logo, and the recruitment of a communication agency to define the bank’s communication strategy.  
+
+2.1.3.4  Detailed Analysis of Banque Agricole du Faso (BADF) (TA C3) 
+
+2.1.3.4.1   Objectives 
+
+2.1.3.4.1.1 The BADF's corporate goal will be to provide its target customers in rural and urban areas 
+
+with a wide range of financial services (credit, savings, insurance, money transfers, etc.) tailored to 
+
+their needs. The target customers will include rural stakeholders (farmers, stock-breeders, fishermen, 
+
+craftsmen, suppliers of agricultural inputs and equipment, agricultural product traders, processors, 
+
+transporters, etc.) and those in other sectors of the national economy. 
+
+                                                 
+2  Sponsored by BADF promoters and implemented by ACS consulting firm. 
+3  National Agricultural Credit Fund (CNCA), established by the Government in 1979, was transformed in 2002 into BACB, which oper ated as a 
+
+commercial bank and did not grant medium-term loans. It was sold to ECOBANK under the programme with IMF. 
+4  Source: BADF feasibility study. 
+5  Based on long- and medium-term loans in 2023 resulting in an investment of XOF 120 billion, estimating the average cost of creating a job at XOF 
+
+40 million. 
+6  Source: BCEAO. 
+
+
+
+7 
+
+ 
+
+2.1.3.4.1.2  The specific objectives are to: (i) promote the development of the agricultural sector 
+
+and offer a range of community-based financial services to the rural and urban population 
+
+throughout Burkina Faso; (ii) contribute to the creation of added value in the agricultural sector 
+
+through the financing of value chains; (iii) promote local investment, development and wealth 
+
+creation among the population; (iv) increase the number of bank account holders in Burkina Faso, 
+
+through gradual geographic coverage of the national territory, with the opening of branches in the 
+
+headquarters of urban and rural municipalities that have enormous potential; and (v) become a 
+
+benchmark in rural financing on the banking market in Burkina Faso and WAEMU.  
+
+2.1.3.4.2  Promoters, Shareholders and Management 
+
+2.1.3.4.2.1.  Shareholders: The high government stake in the BADF’s capital is due to: (i) the 
+
+strong government commitment to the establishment of BADF; and (ii) the Central Bank's initial 
+
+remarks on the financial soundness of the benchmark shareholders, particularly farmers’ 
+
+organisations and associations whose financial structure was considered weak by the Central Bank. 
+
+In order not to delay the establishment of BADF, the shares of these shareholders were taken over by 
+
+FBDES pending their reorganisation in accordance with banking regulations. However, given the 
+
+importance of farmer organisations in BADF's business model, they will continue to sit on the Board 
+
+of Directors. 
+
+Structure of BADF’s Share Capital 
+
+ 
+
+2.1.3.4.2.2.  Management Team: The majority of the management team will be members of the 
+
+technical committee responsible for managing BADF implementation. The committee has already 
+
+directed the market survey conducted by ACS, and is preparing the application for a banking licence. 
+
+The committee, headed by the Chief of Staff of the Prime Minister and current Chair of the BADF 
+
+Board of Directors, previously a senior executive at BCEAO, is composed mainly of former BACB 
+
+senior executives and representatives of the agricultural community through farmer organisations. 
+
+The General Manager was the last General Manager of BACB7, which he managed for more than 6 
+
+years. In particular, he led the merger and integration of BACB into ECOBANK. He has more than 
+
+thirty years of banking experience. Before joining BACB's General Management, he had held several 
+
+key management positions in the Credit and Commitments Department and the Administrative and 
+
+Financial Department, and was the Deputy General Manager. His long experience in the banking 
+
+sector, particularly in agricultural financing, will be essential to assisting BADF to cope with 
+
+difficulties inherent in a new bank. 
+
+2.1.3.4.3  Governance: BADF is governed by a Board of Directors, whose role is to define 
+
+strategic guidelines for the bank and ensure their implementation. The Board comprises 10 members, 
+
+                                                 
+7  Banque Agricole et Commerciale du Burkina  
+
+Actionnaires Part dans le Capital 
+
+Participations publiques 87,56% 
+
+Etat burkinabè (à travers le FBDES) 63,04% 
+
+Sociétés d'Etat 24,52% 
+
+Caisse Autonome de Retraite des Fonctionnaires (CARFO)  14,01% 
+
+Loterie Nationale du BURKINA (LONAB) 10,51% 
+
+Organisations paysannes 0,66% 
+
+Sociétés privées 6,71% 
+
+WATAM SA 4,90% 
+
+CORIS Bank International (CBI) 0,70% 
+
+Autres 1,11% 
+
+Personnes physiques 5,07% 
+
+Total 100% 
+
+ 
+
+
+
+8 
+
+ 
+
+with 4 Government representatives or 5 if the CARFO representative is included. The other 5 
+
+members are as follows: 2 representatives of the farmers' unions (UNPCB and UNPSB), the 
+
+representative of smallholders, the representative of WATAM, and the representative of the rural 
+
+population. It should be noted that three of the four Government representatives, including the Chair 
+
+of the Board of Directors, have no voting rights. However, the Government and its departments retain 
+
+decision-making power with an absolute majority of voting rights. The farmers and the rural 
+
+population are represented by an observer with no voting rights. The Board of Directors does not 
+
+currently have any independent experts in the banking sector, although independent directors will be 
+
+co-opted as time goes on. Similarly, the diversification of shareholders, with the envisaged entry of a 
+
+leading technical and financial partner, could help to remedy the situation. The Board of Directors 
+
+has three standing committees: (i) the Audit Committee comprises at least 3 directors and is in charge 
+
+of the monitoring and control strategy; (ii) the Credit Committee is composed of at least 5 directors 
+
+and has decision-making powers over any commitment exceeding XOF 50 million; and (iii) the 
+
+Selection and Remuneration Committee comprises 3 directors who direct BADF's remuneration and 
+
+selection policy.  
+
+2.1.3.4.4. Strategy: BADF's model consists in mobilising financial resources and then directing 
+
+them mainly towards financing agricultural value chains in Burkina Faso. The end objective is to 
+
+promote the development of the agricultural sector, as well as achieve more inclusive growth by 
+
+unlocking access to financial services and financing for rural people who form the majority of Burkina 
+
+Faso’s population. To fully implement this strategy, BADF intends to mobilise various sources of 
+
+financing, namely: (i) development finance institutions (DFIs) on which BADF intends to rely to raise 
+
+long-term resources at concessional rates for its activity. Since these resources are not included in the 
+
+basic business plan, this leaves BADF some room for manoeuvre as regards its resources; and (ii) 
+
+customer savings, developed and captured for transformation purposes, constitute BADF's total 
+
+resources, excluding equity, over the entire projection period.  
+
+2.1.3.4.5  Financial Analysis 
+
+Capital: The XOF 14.277 billion capitalisation level at start-up is adequate. This provides a risk 
+
+coverage ratio of 48% in the first year, 31% in the second year, and an average of 20% in the 
+
+subsequent three years. BADF's capitalisation level is significantly higher than that required by the 
+
+Central Bank (8%). It is also higher than the national average (9.3% in 2016) and the WAEMU zone 
+
+average (11.3% in 2016). Finally, it is higher than that of CNCAS, whose average over the past three 
+
+years was 16%.  
+
+Assets: BADF expects to attain a credit portfolio of XOF 26 billion at the end of the first year, i.e. 
+
+1% of the total volume of credit at national level. Over the subsequent four years, it expects to post 
+
+an average annual growth of 40%, resulting in a 0.5% increase in the market share to reach 3% of the 
+
+credit market at the end of the fifth year. This volume of credit represents on average 40% of the 
+
+estimated agricultural financing needs in Burkina Faso. The estimate of gain in market share seems 
+
+conservative, given the limited proportion of agricultural sector financing in the existing bank and 
+
+the strong involvement of the farming community in setting up BADF. BADF expects to maintain a 
+
+high quality portfolio with only 1% of loans in default at the end of the first year, and then a 1% 
+
+increase per year subsequently before stabilising at 4% in the fourth and fifth years (compared to a 
+
+national average of 8.8% in 2016). In the long term, it will be essential to secure BADF's environment 
+
+to enable it to maintain such a rate.  
+
+Profitability: BADF expects to post a Net Banking Income (NBI) of XOF 1.4 billion in the first year 
+
+and an average annual growth rate of 60% subsequently, to reach XOF 8.3 billion by 2022. The 
+
+cost/income ratio is expected to improve steadily from 112% in the first year to 39% in 2022, 
+
+reflecting a low delinquency rate, with provisioning charges remaining under control at 16% of NBI 
+
+over the period. As a result, after a first-year deficit of XOF 419 million, BADF is expected to become 
+
+
+
+9 
+
+ 
+
+profitable in the second year with a net income of XOF 564 million. The net income should then 
+
+increase steadily to XOF 3.1 billion in 2022.  
+
+Liquidity: BADF’s liquidity seems to be comfortable over the entire projection period. The short-
+
+term liquidity ratio8 averaged 150% compared to 100% required by the Central Bank, reflecting the 
+
+preponderance of savings over demand deposits. Over the projection period, term deposits and other 
+
+savings will account for 54% of deposits (46% for demand resources). The long-term structural 
+
+liquidity ratio9 is comfortable over the first two years, at 180% and 132% respectively, compared to 
+
+100% required. It will gradually decline to 106% in 2022, reflecting deposits and savings mostly at 
+
+less than one year. 
+
+2.1.3.4.6. Supervision. Like all WAEMU banks, BADF will be subject to the supervision and control 
+
+of the Banking Commission. In this regard, it is required to comply with prudential and governance 
+
+regulations, as well as all other aspects of WAEMU banking regulations. For all intents and purposes, 
+
+it should be stressed that the regulations are consistent with Basel international norms and standards, 
+
+with a transition phase from Basel 2 to Basel 3 currently underway. 
+
+2.1.3.5  Expected Outcomes of this Component: The expected outcomes include: (i) an increase in 
+
+the share of bank credit to the agricultural sector from 3.5% in 2017 to 5% in 2020; and (ii) an increase 
+
+in the processing rate of agricultural products from 16% in 2016 to 25% in 2020. 
+
+2.1.4 Component 2: Support for Security of the Agricultural Financing Ecosystem (TA C1) 
+
+2.1.4.1 Context  
+
+2.1.4.1.1.  As regards the establishment of BADF, the authorities of Burkina Faso have undertaken to 
+
+establish and operationalise a system to secure the agricultural financing environment. The objective 
+
+is to enable the new bank to operate in a secure environment that allows it to absorb any shocks related 
+
+to climatic hazards and changes in the prices of agricultural products and/or inputs. In addition, given 
+
+the high level of financing needs for agricultural value chains as expressed in PNDES 2016-2020, the 
+
+Government of Burkina Faso hopes to reinforce the attractiveness of the agricultural sector for private 
+
+commercial banks through these mechanisms. 
+
+2.1.4.1.2.  In this connection and through an ADF loan of XOF 888 750 000, PACBA will support 
+
+the operationaliSation of: (i) the agricultural insurance mechanism being designed between Société 
+
+Nationale d'Assurance et de Réassurance du Faso (Faso National Insurance and Reinsurance 
+
+Company (SONAR) and its technical partner, Mutuelle Agricole Marocaine d'Assurance (Moroccan 
+
+Agricultural Insurance Company) (MAMDA); and (ii) warrantage and third-party holding 
+
+arrangements to ensure decent price levels for farmers, even during periods of falling prices. 
+
+2.1.4.4.1.3 A complementary mechanism for securing the agricultural environment is being 
+
+considered, and will be financed by the Government or other donors. The mechanism is the 
+
+Agricultural Credit Security Fund, with funds for natural disasters and interest rate subsidies. 
+
+2.1.4.2 Need for an Agricultural Insurance Mechanism 
+
+2.1.4.2.1. A secure ecosystem is essential to ensure the viability of agricultural banks. An insurance 
+
+mechanism guaranteeing farmers' income in the event of a drop in prices and/or a poor harvest is 
+
+crucial to ensure a minimum income for farmers, enable them to honour their debt repayments and 
+
+thus be able to borrow again to prepare for the new season. In addition, a secure environment will 
+
+                                                 
+8  Ratio of outstanding amounts of high-quality liquid assets (cash and quasi-cash) to expected net cash outflows over the next 30 days. This emanates 
+
+from Basel III and is applied in WAEMU zone as from 1 January 2018. 
+9  The ratio of stable financing available (equity, long-term debt) to stable financing due. 
+
+
+
+10 
+
+ 
+
+allow BADF to diversify into several crops, thus avoiding the effects of concentration. In Burkina 
+
+Faso, the examples of the former banks CNCA-B and BACB illustrate this very well. Such a system 
+
+is essential to help BADF maintain a high quality portfolio. In the basic business plan, BADF intends 
+
+to maintain a portfolio with only 1% of loans in arrears at the end of the first year and then 1% increase 
+
+per year subsequently before stabilising at 4% in the fourth and fifth years. The BADF portfolio 
+
+objective in terms of quality is significant when compared to the national average delinquency rate 
+
+of 8.8% over the past three years and the average rate in WAEMU zone at 14.4%. Therefore, an 
+
+agricultural insurance system that can strengthen borrowers' resilience is essential to enable BADF 
+
+to achieve its portfolio quality objectives. 
+
+2.1.4.2.2. Caisse Nationale de Crédit Agricole du Burkina Faso (Burkina Faso National 
+
+Agricultural Credit Fund) (CNCA-B) went through some difficulties in 2002. Those difficulties were 
+
+due to the fall in world commodity prices to below producer prices. Since farmers' income did not 
+
+allow them to meet their loan charges, CNCA was directly affected by the shock due to the lack of a 
+
+safety net. The crisis was exacerbated by the poor organisation of the sectors. Thus, to diversify 
+
+activities and limite risks, the CNCA-B changed its name for Banque Agricole et Commerciale du 
+
+Burkina (Burkina Faso National Agricultural and Commercial Bank) (BACB). 
+
+2.1.4.2.3. Having drawn lessons from CNCA-B, BACB, has focused its exposure on organised 
+
+sectors to facilitate credit collection and limit delinquencies. The cotton sector, which is better 
+
+structured, has benefited the most from BACB financing. In 2007, higher input prices combined with 
+
+poor rainfall affected cotton harvest volumes. Consequently BACB, which had focused on the cotton 
+
+sector, experienced difficulties that led to its acquisition by ECOBANK Group in 2008, although it 
+
+was profitable. 
+
+2.1.4.2.4. In addition, it is necessary to have a secure environment to prevent the agricultural 
+
+bank from being "forced" to move away from its primary role and core business. Better still, by 
+
+securing the agricultural financing environment, the sector will be able to attract commercial banks 
+
+seeking better diversification. The need for such an environment is demonstrated by the success of 
+
+BNDA in Mali and CNCAS in Senegal (TA C7). 
+
+2.1.4.2.5. Finally, it is imperative to reduce the charge of capital of the new agricultural bank to 
+
+enable it to deploy its resources efficiently. The licence granted to the new bank is a generalist bank 
+
+licence that does not take the special nature of the agricultural sector into account. Borrowers in the 
+
+sector have income that are difficult to predict, volatile and very often seasonal. This carries a higher 
+
+risk level, resulting in a much higher charge of capital for agricultural banks. The establishment of an 
+
+insurance fund is crucial to reduce the charge of capital of the new agricultural bank and enable it to 
+
+deploy its resources as effectively as possible and remain competitive with commercial banks. 
+
+Without such a mechanism, the agricultural bank will be constrained in its ability to lend and will 
+
+most often be limited to short-term loans with a requirement for collateral that is difficult for 
+
+agricultural customers to obtain.  
+
+2.1.4.4.3  Agricultural Insurance (TA C1 / C1.1) 
+
+2.1.4.4.3.1 Description: The agricultural insurance mechanism will start with a three-year pilot 
+
+phase in three regions covering 35% of Burkina Faso's agricultural population (Boucle du Mouhoun, 
+
+Centre-West, and East). The pilot phase will involve three crops whose production account for about 
+
+86% of Burkina Faso's annual food consumption (white and red sorghum, rice and maize). As regards 
+
+the production volume, the pilot phase will cover 1,639,800 tonnes, or 36% of annual national 
+
+production volumes. The mechanism will have two specific parameters to trigger compensation - 
+
+performance coupled with climate data (local weather records). This will increase the mechanism’s 
+
+reliability. Triggering compensation that closely reflects the reality of claims is vital to ensure 
+
+credibility of the system.  No mechanism that combines meteorological data and yields has so far 
+
+
+
+11 
+
+ 
+
+been established in Burkina Faso. Planet Guarantee, in collaboration with Alliance, has launched two 
+
+insurance products since 2011: (i) one for maize based solely on rainfall; and (ii) the other for cotton 
+
+based solely on yield. Unlike the Planet Guarantee system, the mechanism under this project will be 
+
+based on meteorological data collected locally (through mini weather stations) by the National 
+
+Meteorology Agency (ANM). The installation of an adequate number of mini weather stations in the 
+
+pilot phase areas will help to enhance the reliability of the data collected. The mechanism will 
+
+compensate for any errors made by the current weather stations and take into account all types of 
+
+disasters affecting agricultural production, particularly insects.      
+
+2.1.4.3.2  Implementation Arrangements and Actors: This component of the project will be 
+
+implemented by the Ministry of Agriculture. The main actors and their respective roles in the project 
+
+implementation include the Ministry of Agriculture and Water Management (MAAH), Mutuelle 
+
+Marocaine d’Assurances Agricoles (Moroccan Agricultural Insurance Company) (MAMDA), 
+
+Société Nationale d’Assurance et de Réassurance (National Insurance and Reinsurance Company) 
+
+(SONAR-IARD), and the National Meteorological Agency (ANM). The activities supported under 
+
+the project are as follows: (i) definition of insurance indices and products, and preparation of 
+
+insurance policies; and (ii) procurement and operation of automatic weather stations that meet the 
+
+standards of the World Meteorological Organization (WMO). 
+
+2.1.4.3.2  Status: To date, an inter-ministerial technical committee has been set up (end of 2017) 
+
+for the definition of indices and insurance products, and the development of insurance policies. This 
+
+technical committee has since worked with the technical partner MAMDA, the National Agency for 
+
+Meteorology and Société Nationale d’Assurance et de Réassurance (National Insurance and 
+
+Reinsurance Company) (SONAR). The AfDB support expected at this level relates to the financing 
+
+of the work of the committee set up for this purpose. This includes the financing of the continuity of 
+
+the different wokshops already started by the Committee since its set up end of 2017. 
+
+Agricultural Insurance Scheme 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Government
+Insurance premium 
+
+subsidy, 50%
+
+Farmers,
+Premium, 50 
+compensation
+
+Farmers,
+Premium, 50 
+
+compensation
+
+Government
+Insurance premium 
+
+subsidy, 50%
+
+Moroccan Agricultural 
+Insurance Company
+
+Definition of insurance policies
+Billing
+Insurance products
+
+Install and run meteorological stations
+Make data available
+
+Carry and pool the risk with (1)
+the other local companies (2) 
+the rest at international level via 
+reinsurance
+
+National Insurance and 
+Reinsurance Company
+
+Sale of insurance product
+
+National Meteorological 
+Agency
+
+
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1.4.4.   Warrantage and Third-Party Holding Mechanism (AT C1 / C1.2) 
+
+2.1.4.4.1  Description: 
+
+Warrantage (or storage credit) is a loan 
+
+granted to a producer/farmer and 
+
+guaranteed by his/her product harvest. 
+
+The main purpose is to allow the 
+
+farmer/producer to sell his crop when 
+
+price conditions are most favourable. 
+
+Three actors are involved in this 
+
+mechanism: (1) the third party holder 
+
+who offers storage services; it receives, 
+
+stores and manages conservation of the 
+
+agricultural produce under the 
+
+warrantage throughout the transaction; 
+
+(2) in exchange for his produce, the 
+
+farmer receives from the third party 
+
+holder a certificate which shows storage of his/her produce; (3) the bank, in exchange for the 
+
+certificate held by the farmer, makes available to the latter a loan for an amount equivalent to the 
+
+value of the produce stored by the third party holder.  The operation is closed when the farmer sells 
+
+his produce and repays to the bank the amount borrowed.  
+
+2.1.4.4.2  Objective: Create favourable conditions for the successful development of community 
+
+warrantage and third party holder activities. This mechanism allows farmers to access bank loans 
+
+based on the value of their harvest.  
+
+2.1.4.4.3.  Implementation Arrangements and Actors: The project will be implemented 
+
+through the Ministry of Agriculture; the implementation team is still to be set up. The implementation 
+
+will be conducted with the assistance of the German Cooperation Agency through KFW, which has 
+
+shown interest in providing technical support to the Government of Burkina Faso, particularly in the 
+
+area of professional storage credit. The proposed project activities under warrantage are as follows: 
+
+- Identify, prepare and ensure validation of the draft regulatory texts; 
+
+- Submit the draft texts for adoption; 
+
+- Disseminate the adopted regulatory texts; 
+
+- Create a network of all existing warrantage storage facilities; 
+
+- Disseminate storage and agricultural product standards; 
+
+- Build the capacity of warehouse inspection and control mechanisms; and 
+
+- Establish warrantage cooperatives. 
+
+2.1.5.  Project Cost 
+
+The table below provides cost estimates of the various project components. Component 1 has only 
+
+one operation, namely financing of Government's participation in BADF's share capital, for a total 
+
+XOF 5 billion (or UA 6,367,642.19). Component 2 consists of two sub-components: Sub-component 
+
+Warrantage Scheme 
+
+PREPARATION
+- Current status
+- Information-sensitization
+- Planning
+
+NEGOTIATION
+PREPARATION OF STORES 
+AND STORAGE
+
+50%-80% monetary value of 
+the warrantage stock at 
+
+harvest
+
+CREDIT
+
+AGR Development Consumer credit
+
+Farmers’ organizations
+BADF
+
+CREDIT REIMBURSEMENT
+
+HARVEST
+
+NO
+
+YES
+
+On-farm
+consumption
+
+Stock 
+marketing
+
+STOCK RECUPERATION
+
+INDIVIDUAL OR GROUP 
+SALE FOR REIMBURSEMENT
+
+
+
+13 
+
+ 
+
+2.1 "Establishment of an agricultural insurance mechanism"; and Sub-component 2.2 "Assistance to 
+
+the development of the warrantage activities". 
+
+Table 2.1-1 
+
+Project Components and Cost Estimates in UA Thousand 
+
+Sub-Components Description of Components 
+
+Component 1: Support for improving access to agricultural financing 
+
+UA 6,368 thousand  Financing of the share capital 
+
+Component 2: Support for security of the agricultural financing ecosystem  
+
+Establishment of an agricultural 
+
+insurance mechanism  
+
+UA 846 thousand 
+
+ Procurement and installation of automatic weather stations10  
+
+ Definition of insurance indices and products, and preparation of 
+
+insurance policies 
+
+Development of community 
+
+warrantage and third-party 
+
+holder activities  
+
+UA 380 thousand 
+
+ Identify, prepare and ensure validation of the draft regulatory texts; 
+
+ Submit the draft texts for adoption;  
+
+ Disseminate the adopted regulatory texts; 
+
+ Create a network of all existing warrantage storage facilities; 
+
+ Disseminate storage and agricultural product standards; 
+
+ Build the capacity of warehouse inspection and control mechanisms; 
+
+ Establish warrantage cooperatives. 
+
+Project Audit UA 32 thousand 
+
+TOTAL COST UA 7,626 thousand 
+
+ 
+
+2.2 Technical Solutions Adopted and Alternatives Explored  
+
+2.2.1 During dialogue with various stakeholders (Government, BADF, farmers’ organisations, 
+
+etc.), several options were presented regarding activities to be supported to improve the agricultural 
+
+financing environment in light of the multiple constraints and challenges. With regard to the project 
+
+implementation arrangements, although the institutional setup was not a problem since it was 
+
+determined by decree for all Burkina Faso projects, there were several possibilities for the 
+
+establishment and management of an implementation unit. The decisions taken were based on the 
+
+need to focus the project on its ambitions in line with the financial package and synergies with other 
+
+Bank projects in the sector, as well as the interventions of other TFPs. 
+
+ 
+
+ 
+
+                                                 
+10
+
+  Measurement of temperatures, air humidity, rainfall and wind speed. 
+
+
+
+14 
+
+ 
+
+Table 2.2.1 
+
+Alternatives Considered and Reasons for their Rejection 
+
+Establishment of a 
+
+project 
+
+implementation unit  
+
+Establish a project 
+
+implementation unit 
+
+comprising experts recruited 
+
+for the project implementation 
+
+and fully dedicated to the task 
+
+The decree establishing the institutional set-up for projects in 
+
+Burkina Faso determines the de facto financial and technical 
+
+supervisory authority and, in the case of PACBA, it is the 
+
+Ministry of Economy, Finance and Development (MEFD) 
+
+and the Ministry of Agriculture and Water Management 
+
+(MAAH), respectively. MAAH has qualified technical and 
+
+human resources to carry out agricultural insurance and 
+
+warrantage activities. Furthermore, any additional support in 
+
+this regard would be provided as part of the counterpart 
+
+contribution. 
+
+Consider all 
+
+components 
+
+required to improve 
+
+the agricultural 
+
+financing 
+
+environment 
+
+In this respect, the Government 
+
+provides for several actions, in 
+
+particular agricultural 
+
+insurance, warrantage, the 
+
+establishment of a subsidy 
+
+fund and an agricultural 
+
+security fund 
+
+Despite their relevance, the establishment of a subsidy fund 
+
+and an agricultural security fund were not retained, mainly 
+
+because of limited reflection on the tools and their 
+
+complexity, as well as their high financial costs. In addition, 
+
+as regards relevance, urgency, maturity and cost, agricultural 
+
+insurance and warrantage tools are more appropriate for 
+
+support through PACBA. 
+
+2.3 Project Type 
+
+PACBA is an institutional support project financed from ADF resources by a loan intended to: (i) pay 
+
+the Government's participation in the capital of the new BADF amounting to XOF 5 billion; and (ii) 
+
+finance, for an amount not exceeding XOF 888 750 000, the establishment of agricultural insurance 
+
+and warrantage to improve the agricultural financing environment by reducing credit risks inherent 
+
+in this sector in a country like Burkina Faso. 
+
+2.4 Project Costs and Financing Arrangements  
+
+The total project cost, excluding taxes and customs duties, is estimated at UA 7.626 million (about 
+
+XOF 5.988 billion), all in local currency. The cost does not take into account any physical 
+
+contingencies and/or price escalation, which will be borne by the Government of Burkina Faso. The 
+
+ADF contribution to the project financing is UA 7.5 million and covers the financing of Government's 
+
+participation in the capital of BADF (UA 6.368 million) and the cost of establishing an agricultural 
+
+insurance and warrantage mechanism (UA 1.131 million). The tables below provide more details on 
+
+the overall project cost by component, expenditure category and source of financing. The detailed 
+
+cost table is presented in the Technical Annex. 
+
+Table 2.4-1 
+
+Project Cost Estimate by Component 
+
+Components/Sub-Components 
+Cost in XOF Billion Cost in UA Million 
+
+% F.E. 
+F.E. L.C. Total F.E. L.C. Total 
+
+1. Support for improving access to agricultural 
+
+financing 
+ 5.000 5.000  6.368 6.368 83.5% 
+
+2. Support for security of the agricultural 
+
+financing ecosystem 
+ 0.963 0.963  1.226 1.226 16.1% 
+
+3. Project Audit  0.025 0.025  0.032 0.032 0.4% 
+
+TOTAL BASE COST  5.988 5.988  7.626 7.626 100% 
+
+Provision for price escalation (2%)        
+
+Provision for physical contingencies (3%)        
+
+TOTAL PROJECT COST  5.988 5.988  7.626 7.626 100% 
+
+ 
+
+
+
+15 
+
+ 
+
+Table 2.4-2 
+
+Cost Estimate by Source of Financing (in UA Thousand) 
+
+Source of Financing 
+Foreign 
+
+Exchange 
+
+Local 
+
+Currency 
+
+in XOF 
+
+Base Cost 
+
+in UA 
+
+Total 
+
+Cost 
+
+ADF   7,500.00 7,500.00 
+
+Government  125.76  125.76 
+
+Other Sources of Financing     
+
+Total  125.76 7,500.00 7,625.76 
+
+Table 2.4-3 
+
+Project Cost by Expenditure Category (in UA Thousand) 
+
+Expenditure Categories 
+Foreign 
+
+Exchange 
+
+Local 
+
+Currency 
+
+Total 
+
+Cost 
+% Total 
+
+A. Goods 720.00  720.00 8.6% 
+
+B. Services 32.00  32.00 0.4% 
+
+C. Training 209.00  209.00 2.5% 
+
+D. Operating Costs 297.00  297.00 3.6% 
+
+E. Other: Financing of the Government’s 
+
+participation in BADF's share capital 
+6,368.00  6,368.00 84.9% 
+
+Total Base Cost 7,626.00  7,626.00 100% 
+
+Provision for implementation contingencies     
+
+Provision for price escalation     
+
+Total Project Cost 7,626.00  7,626.00 100% 
+
+ 
+Table 2.4-4 
+
+Expenditure Schedule by Component (in UA Thousand) 
+
+Components/Sub-Components 2018 2019 2020 2021 Total 
+
+1. Support for improving access to agricultural financing 6,368     
+
+Financing of Government’s participation in the share capital 6,368     
+
+2. Support for security of the agricultural financing ecosystem  1,226   1,226 
+
+2.1 Establishment of an agricultural insurance mechanism   846   846 
+
+2.1.1 Definition of insurance indices and products, and preparation of 
+
+insurance policies  126   126 
+
+2.1.2 Procurement and operation of automatic weather stations that meet 
+
+the standards of the World Meteorology Organisation (WMO)  720   720 
+
+2.2 Assistance to the development of the warrantage activities  UA 
+
+410,710  380   380 
+
+2.2.1 Preparation of regulatory texts  19   19 
+
+2.2.2 Validation of the proposed texts  13   13 
+
+2.2.3 Workshop for ownership/dissemination of adopted texts  83   83 
+
+2.2.4 Creation of a warrantage database for networking  66   66 
+
+2.2.5 Standards dissemination workshop  59   59 
+2.2.6 Sensitisation on the establishment of warrantage 
+
+cooperatives  67   67 
+
+2.2.7 Support for constituent general meetings of warrantage 
+
+cooperatives  73   73 
+
+3. Project Audit  10.6 10.6 10.6 32 
+
+TOTAL COST 6,368 1,236.6 10.6 10.6 7,626 
+
+ 
+
+
+
+16 
+
+ 
+
+2.5 Project Area and Beneficiaries  
+
+PACBA covers the entire territory of Burkina Faso. Consequently, under BADF, not only will its 
+
+products, particularly loans, be open to all agricultural activities in the country, but it will gradually 
+
+open branches nationwide. Agricultural insurance product will start with a pilot phase for three 
+
+regions, while warrantage will cover the entire national territory. By improving agricultural 
+
+production through productivity and processing, as well as the creation of agricultural value chains 
+
+through increased access to agricultural financing, PACBA will benefit all people in Burkina Faso, 
+
+particularly those living in rural and agricultural areas, young people and women, economic 
+
+operators, and particularly agricultural organisations and leaders (TA C5). In addition, by improving 
+
+the business environment for agricultural financing through agricultural insurance and warrantage, 
+
+PACBA will benefit BADF and the entire banking system. Finally, Government’s participation in 
+
+BADF capital will help to complete its financing and bring the capital up to the minimum level 
+
+required by WAEMU banking regulations. 
+
+2.6 Participatory Approach to Project Identification, Design and Implementation  
+
+At project preparation and appraisal, the main stakeholders were consulted, including farmers’ 
+
+organisations, the association of banks and financial institutions, as well as microfinance and 
+
+insurance institutions, and BCEAO. The same applies to the BADF Design and Establishment 
+
+Committee, set up since July 2016 and chaired by the Prime Minister, BADF Management, the 
+
+consulting firm that prepared the BADF accreditation documents, BADF’s technical partner (Crédit 
+
+Agricole du Sénégal) and the Burkina Fund for Economic and Social Development. At Government 
+
+level, meetings were held with the Ministry of Economy, Finance and Development (MINEFID) and 
+
+the Ministry of Agriculture and Water Management (MAAH). Based on these consultations, the 
+
+project challenges and content were determined and PACBA designed.  
+
+2.7 Bank Group Experience and Lessons Reflected in Project Design 
+
+2.7.1 As at 28 February 2018, the total portfolio volume in Burkina Faso was UA 440.09 million, 
+
+for 17 active projects. The overall disbursement rate was estimated at 50% at that date, for an average 
+
+age of 2.8 years. The sector breakdown of the active portfolio comprises transport (52%), agriculture 
+
+(16.1%), energy (14%), water and sanitation (7.7%), private sector (7.9%), and multi-sector projects 
+
+(2.3%). As regards performance, the Bank's portfolio in Burkina Faso is deemed highly satisfactory 
+
+with an overall score of 3.04 on a scale of 1 to 4, and does not contain any problematic projects. Two 
+
+operations are ongoing in the financial sector: (i) a line of credit for UA 2 million granted in 2014 to 
+
+Fidelis Finance, which was used to finance SMEs operating in various sectors, including agrifood; 
+
+and (ii) a line of credit for UA 32 million approved in 2016 and granted to Coris Bank International 
+
+to finance SMEs operating mainly in the agricultural processing sector. Since these operations are 
+
+still active, there are no completion reports for the sector yet. The project design team also drew 
+
+lessons from the Bank's recent experience in establishing the Tanzania Agricultural Bank and the 
+
+Nigerian Multisector Development Bank. 
+
+2.7.2. Overall, the Bank's portfolio in the agricultural sector in Burkina Faso is significant with 4 
+
+operations and 1 PPF amounting to UA 58.88 million. This represents about 15% of the total project 
+
+portfolio (Annex 2). Ongoing operations include: (i) the Bagré Growth Pole Support Project; (ii) the 
+
+Project to Build Resilience to Food and Nutritional Insecurity; (iii) the Classified Forests Participatory 
+
+Management Project (PGFC) and the Comoé Basin Cashew Nut Development Support Project. 
+
+2.8 Key Performance Indicators 
+
+2.8.1 The key performance indicators identified for measuring expected outcomes upon project 
+
+completion are included in the results-based logical framework. The indicators are essentially:    
+
+
+
+17 
+
+ 
+
+ Project Impact: The annual growth rate of the agricultural sector is expected to 
+increase from 5.9% in 2016 to 6.5% in 2016.  
+
+ Project Outcomes: (i) The proportion of bank credit to the agricultural sector is 
+expected to increase from 3.5% in 2017 to 5% in 2020; (ii) the processing rate of 
+
+agricultural products is expected to increase from 16% in 2016 to 25% in 2020; and 
+
+(iii) the proportion of non-resilient households active in the agro-sylvo-pastoral, 
+
+wildlife and fisheries sub-sectors is expected to fall from 49% in 2010 to 25% in 2020. 
+
+ Component 1 Outputs: (i) The Government pays its share in BADF's capital, allowing 
+for the capital to be closed and for compliance with the prudential standards of 
+
+WAEMU Banking Commission; (ii) BADF is established and operational, and targets 
+
+XOF 34 billion loans to the agricultural sector in 2020; (iii) gender equity in BADF's 
+
+operations with 20% of total loans granted to women in 2020; this figure is expected 
+
+to increase substantially when BADF launches its special product for women. 
+
+ Component 2 Output: (i) the agricultural insurance mechanism is established in 2020; 
+and (ii) warrantage is operational in 2020. 
+
+2.8.2 Progress towards achievement of outcomes will be measured at regular intervals, through a 
+
+variety of activities, including regular Bank supervision missions, and quarterly progress reports and 
+
+audits. Objectively verifiable evidence of progress to the highest targets will be obtained from the 
+
+reports of the quarterly portfolio monitoring meetings organised by COBF with the Bank's project 
+
+implementation units in Burkina Faso. 
+
+ PROJECT FEASIBILITY  
+
+3.1 Economic and Financial Performance   
+
+3.1.1  As an institutional support project, PACBA does not generate direct income to be used in 
+
+determining the financial return. However, through the direct and indirect effects of improving access 
+
+to agricultural financing and the degree of processing agricultural products, PACBA would achieve 
+
+economic and social performance. 
+
+3.1.2  Furthermore, with regard to BADF (TA C3) itself, the analysis, based on the documents sent 
+
+to the Central Bank for the 5-year business plan, shows a profitable banking model from the second 
+
+fiscal year, driven by: (i) sustained growth in Net Banking Income (NBI), +60% on average per year 
+
+to XOF 8 billion at the end of the fifth year; the NBI is driven by the portfolio volume whose average 
+
+annual growth of 40% helps to give the bank 3% of the credit market share at the end of the fifth year, 
+
+(ii) optimised operating expenses with a steadily decreasing operating ratio before stabilisation at 
+
+39% from the fourth year onwards; and (iii) a portfolio maintained at a very high quality, with an 
+
+average default rate of 4% as from the fourth year of operation.  
+
+3.2 Environmental and Social Impact 
+
+3.2.1 Environmental Impact (TA B7) 
+
+3.2.1.1 By nature, PACBA is a financial sector project. The sub-projects to be financed by BADF 
+will be projects with medium, minimal and/or no negative social or environmental impacts (agrifood, 
+
+services, and soft services). Consequently, it has been classified under Category 4 (2) by the teams in 
+
+charge of verifying the environmental and social compliance of Bank projects (SNSC). BADF is in 
+
+the start-up phase and has not yet started its operations. However, as recommended by SNSC, the 
+
+project will establish an Environmental and Social Management System (ESMS) in close 
+
+
+
+18 
+
+ 
+
+collaboration with SNSC teams. BADF will submit the final ESMS to the Bank for opinion and 
+
+approval. 
+
+3.2.2 Impact on Climate Change 
+
+3.2.2.1 Since the project is in the financial sector, it is not in itself vulnerable to climate change, 
+neither is it eligible for categorisation by the Bank's Climate Protection System. The sub-projects are 
+
+in the agricultural sector, which is highly exposed to climatic hazards – droughts and floods caused 
+
+by heavy rains and successive rainy days. Local measurements of these climatic hazards will 
+
+contribute to measuring them more appropriately and providing proportional insurance. There are 
+
+risks that other hazards that affect agricultural production may not be taken into account. Such is the 
+
+case with capricious and staggered rainy seasons, their abrupt end not allowing for full maturation of 
+
+crops (shorter duration of the rainy season). 
+
+3.2.3 Social Impact 
+
+3.2.3.1 The social impact of PACBA has many dimensions. First, by increasing agricultural 
+productivity and production, it will increase the income of farmers, many of whom are young people 
+
+and women, as well as enhance food security. Better still, not only will income increase but it will 
+
+also be stabilised through agricultural insurance. Similarly, the number of jobs created is expected to 
+
+increase and, thanks to the securing of agricultural income, the jobs will steadily become less 
+
+precarious. These are key factors for settling the rural population, and thereby avoiding massive rural 
+
+exodus due mainly to poverty, droughts or sudden floods. Finally, PACBA opens new windows of 
+
+investment opportunities for the private sector.  
+
+3.2.4 Gender (TA A5) 
+
+3.2.4.1 Burkina Faso ranked 146th under the Gender Equality Index in the 2016 Human 
+
+Development Report, out of 188 countries surveyed. This is due to inequalities based on social 
+
+perceptions and practices that restrict women's rights and reduce their access to economic and social 
+
+opportunities in comparison to men (financial inclusion or political involvement). Women make up 
+
+55% of the agricultural labour force, but only 40% of them own land. Consequently, access to 
+
+property likely to be mortgaged as collateral with the banking system is a discriminatory factor against 
+
+women's access to credit, as well as lack of knowledge of the procedures for obtaining credit. As a 
+
+result, women have less access to credit than men (8% compared to 15% for men). 
+
+3.2.4.2. The PACBA project is classified in Category 3 of the Bank's gender categorisation system. 
+
+Specifically the project will: (i) improve women's access to financing, as well as financial and non-
+
+financial services; (ii) increase women farmers' productivity and income; and (iii) facilitate women's 
+
+financial inclusion by supporting access to credit and financial education programmes for women. 
+
+During the start-up period of the bank's activities, it is expected that 20% of the loans will be allocated 
+
+to women. This figure is expected to double rapidly as BADF intends to introduce a specific product 
+
+for women. In this regard, BADF plans to apply for a line of credit from potential donors. Under the 
+
+project, efforts would be made to collaborate with AFAWA to provide strategic advice and services 
+
+to BADF for better access for women.  
+
+3.2.5 Involuntary Settlement 
+
+3.2.5.1. The PACBA project will not lead to involuntary population displacements. However, the 
+
+ESMS will allow for environmental and social screening of sub-projects that will subsequently be 
+
+financed by AfDB to determine whether they will eventually lead to involuntary population 
+
+displacements requiring the preparation of a resettlement action plan in line with AfDB's integrated 
+
+safeguards system. 
+
+
+
+19 
+
+ 
+
+ IMPLEMENTATION 
+
+4.1 Implementation Arrangements  
+
+4.1.1 Institutional Arrangements (TA B3)   
+
+4.1.1.1  The institutional framework is based on Decree No. 2018-0092/PRES/PM/MINEFID of 15 
+
+February 2018 defining general regulations governing development projects and programmes 
+
+implemented in Burkina Faso. 
+
+4.1.1.2  Financial supervision of the project will be provided by the Ministry of Economy, Finance 
+
+and Development (MINEFID) through the General Directorate of the Treasury and Public 
+
+Accounting (DGTCP). Its role is to mobilise financial resources required for project implementation. 
+
+Technical supervision will be provided by the Ministry of Agriculture and Water Management 
+
+(MAAH) through the General Directorate for Promotion of the Rural Economy (DGPER), which will 
+
+be in charge of the project management. Therefore, it will ensure its effective implementation. The 
+
+project is linked to the "Agricultural Economy" budget programme, one of the operational 
+
+objectives of which is to improve access to financing. 
+
+4.1.1.3  The Budget Programme Officer will be the Project Coordinator. He/she will ensure 
+
+permanent monitoring of project implementation, particularly the expected outcomes. 
+
+4.1.1.4  The Review Committee will steer the project. It will contribute to project implementation by 
+
+adopting and approving key documents. In this capacity, it will be the project’s decision-making 
+
+body. 
+
+4.1.2. Applicable Procurement Policy and Framework (TA B4) 
+
+4.1.2.1  All goods and consultancy services financed by the Bank's resources will be procured in 
+
+accordance with the Procurement Framework for operations financed by the Bank Group approved 
+
+in October 2015. In accordance with the framework and following various evaluations conducted, it 
+
+was agreed that all goods and consultancy services will be procured in accordance with the Bank's 
+
+procurement system using the Standard Bidding Documents (SBD) provided for that purpose and 
+
+based on the Bank's Procurement Methods and Procedures (PMP) specified in the Procurement Plan. 
+
+More specifically, procurements will be made as follows: 
+
+(i) All goods required for the project and to be procured using the PMP will be in 
+
+accordance with the provisions of Article 8.5 of the Bank Group Procurement Policy 
+
+document; and 
+
+(ii)  All consultancy services required for the project and to be procured using the PMP 
+
+will be in accordance with the provisions of Article 8.6 of the Bank Group 
+
+Procurement Policy document. 
+
+4.1.2.2  Procurement Risks and Capacity Assessment (PRCA): To take into account the specific 
+
+aspects of the project, the Bank has assessed: (i) the risks at national, sector and project level; and (ii) 
+
+the capacity of the executing agency. The results of the assessments showed that the procurement risk 
+
+was "moderate" and helped to determine the appropriate risk mitigation measures included in the 
+
+PRCA action plan indicated in para. B.5.9 of Annex B5.    
+
+4.1.3. Financial Management Arrangements 
+
+4.1.3.1  PACBA financial management will be provided by the General Directorate for Promotion 
+
+of the Rural Economy (DGPER) of the Ministry of Agriculture, Water and Fisheries Resources, 
+
+
+
+20 
+
+ 
+
+which has been appointed the Project Executing Agency. The project will be managed by a DGPER 
+
+Project Implementation Unit that will be established and its capacity strengthened in terms of project 
+
+management and compliance with Bank rules and procedures. The DGPER Director General will be 
+
+responsible for the overall project financial management, and will be assisted in this regard by the 
+
+DGPER Administrative and Financial Director. The fiduciary risk following the assessment is 
+
+deemed substantial (See the Technical Annex for more details).   
+
+4.1.3.2. The project will prepare and submit quarterly reports (financial and technical) to the Bank 
+
+within 45 days following the end of each quarter. The Internal Accounts Inspectorate of the 
+
+supervisory Ministry should include the financial operations of the project in its annual audit 
+
+programme as part of its role as the project internal auditor.   
+
+4.1.4  Disbursement Arrangements   
+
+4.1.4.1   Throughout the component 1, the Bank’s support will be through the reinboursment method. 
+
+Sice obtaintion the approval of the new bank is a prerequisite for the support provided by the Bank 
+
+through the PACBA, the reinboursement method will be used to enable the Bank repay, up to five (5) 
+
+billion FCFA, the State of Burkina Faso for the expenses it incurred as part of its participation in the 
+
+capital of BADF. These expenses concern those incurred in order to obtain the favourable opinion of 
+
+the WAMU Banking Commission obtained on March 14, 2018 and the approval of the Minister in 
+
+charge of Finance obtained on April 16, 2018 by Order N ° 183/MINEFID/DGTCP/DAMOF which 
+
+dedicates the effective creation of the BADF. It should be recalled the the Bank's support was 
+
+requested to reimburse the State of Burkina Faso's stake in the capital of a bank, called Banque 
+
+Agricole du Faso. Since the Agricultural Bank of Burkina Faso started to exist as a bank only after 
+
+the authorization obtained on April 16, 2018, this date is used as the date on which the Burkinabe 
+
+State's expenditure on the operation acquisition of a stake in the capital of BADF was incurred. For 
+
+all intents and purposes, the timeline for the creation of the Agricultural Bank of Faso was as follows: 
+
+i. On October 4, 2017 and September 21, 2017, the Burkinabe State, like the other shareholders, 
+disbursed the amount corresponding to its planned share in the capital of BADF in two 
+
+blocked bank accounts registered in the name of the "Société en formation (company in 
+
+constitution) Banque Agricole du Faso"; 
+
+ii. On October 13, 2017, Banque Agricole du Faso was created as a public limited company. 
+This step is a prerequisite for the review of the BADF application by the UEMOA Banking 
+
+Commission. Thus, at this stage, the BADF does not yet have the status of a bank and is not 
+
+yet registered on the list of WAEMU banks. 
+
+iii. On April 16, 2018, the limited company Banque Agricole du Faso is approved as a bank and 
+registered under the number C 0207 J on the list of banks of the UEMOA. 
+
+ 
+
+4.1.4.2. Disbursements and Cash Flows: Disbursements from ADF resources will be made in 
+
+accordance with the Bank’s disbursement prodecedures. Three (3) disbursement methods will be 
+
+used:  
+
+1) The reimbursement method: it will be used to enable the State of Burkina Faso to request 
+repayment to the Bank of the exepenses, ocuring starting April 16, 2018, related to its 
+
+participation in the capital of the BADF for a total amount not exceeding UA 6,368 million as 
+
+stipulated in the paragraph 4.1.4.1 of the evaluation report referring to the retroactive financing. 
+
+Repayment by the Bank may be made upon receipt of a request for reimboursement 
+
+accompanied by evidence of pre-financing by the State of its participation in the capital of 
+
+BADF. The amount reimboursed will be up to the amount of shares owned by the State of 
+
+Burkina Faso and held in the capital of the BADF. 
+
+
+
+21 
+
+ 
+
+2) The special account method: it will be used to finance the operation and the training and 
+workshop activities organized by the project implementation unit. The provisions of the 
+
+disbursement manual will be fully applicable for the management and justification of resources 
+
+disbursed to the special account. A special account will be opened at the National Treasury with 
+
+the Central Bank of West African States (BCEAO) for the Bank financing. The special account 
+
+will operate under the principle of double signature. This account will receive the funds to pay 
+
+the eligible expenses on the counterparty. 
+
+3) The direct payment method: it will be used for the payment of contracts and for expenses related 
+to the implementation of component 2 "Support for Securing the Agricultural Financing 
+
+Ecosystem", notably for payments in respect of the procurement of the weather stations and 
+
+their maintenance contract. 
+
+4.1.4.3. In addition, disbursements from counterpart funds will be made at national level through a 
+
+special counterpart funds account opened at the treasury and operating under the double signature 
+
+principle. The account will receive the funds intended to pay for eligible expenses from the 
+
+counterpart funds.  
+
+4.1.5 Audit Arrangements  
+
+The project's financial statements will be audited yearly by an independent audit firm acceptable to 
+
+the Bank. The audit report, together with a management letter, will be submitted to the Bank within 
+
+six months following the end of the fiscal year in accordance with the Bank's terms of reference. The 
+
+cost of the audit will be borne by the project.  
+
+4.2 Monitoring and Evaluation 
+
+4.2.1 The physical implementation of the project will cover 25 months, from December 2018 to 
+
+December 2020.  
+
+4.2.2  Upon effectiveness of the loan agreement, a launching mission will be organised to train 
+
+BADF officials in the Bank's procedures. Supervision missions will be organised at least twice a year. 
+
+Quarterly and annual activity reports will also be prepared and submitted to the Bank.  
+
+4.3 Governance 
+
+Burkina Faso has made significant progress in governance over the past three years. At the political 
+
+level, the progress made is in terms of the creation and strengthening of republican institutions, the 
+
+consolidation of the rule of law, and the reinforcement of human rights. As regards corruption, 
+
+according to Transparency International's Corruption Perception Index in 2016, the country is ranked 
+
+72nd out of 172 countries in the world, and among the top 10 least corrupt African countries. With 
+
+respect to public financial governance, Burkina Faso has, with IMF support, implemented major 
+
+reforms to improve transparency and efficiency in public resource management. With regard to 
+
+BADF, it should be noted that as a bank approved by BCEAO, it will be subject to the supervision of 
+
+the WAEMU Banking Commission and will have to comply with the banking regulations in force in 
+
+WAEMU.   
+
+4.4 Sustainability 
+
+4.4.1 PACBA will naturally be sustainable because, given its agricultural insurance mechanism, 
+
+it comprises major actions to reinforce the sustainability of BADF in particular, and agricultural 
+
+financing in general. In addition, the authorities' clear intention to consolidate the PACBA mechanism 
+
+
+
+22 
+
+ 
+
+by establishing an Agricultural Credit Security Fund, namely the Natural Disasters Fund and the 
+
+Interest Rate Subsidy Fund, will strengthen, complement and replicate the impact of PACBA. 
+
+4.5 Risk Management 
+
+Table 4.5 
+
+Potential Risks and Mitigation Measures 
+
+Risks Level Mitigation Measures 
+
+Rising socio-political unrest Moderate Government commitment to continue negotiations with a view to taking socio-
+
+economic and political demands into account. 
+
+Increased security risks 
+Moderate 
+
+The Government has redoubled its efforts to provide strong and sustainable 
+
+responses, and has resolutely embraced a regional antiterrorism framework (G5 
+
+Sahel) to address the various threats. 
+
+BADF’s weak human and 
+
+institutional capacity to properly 
+
+manage the bank 
+
+Moderate 
+BADF's managers have extensive experience in banking and, particularly, in 
+
+agricultural financing. In addition, the technical assistance contract with CNCA 
+
+of Senegal will provide support to BADF in various areas, including IT systems 
+
+management and risk management systems and procedures. Similarly, the entry 
+
+of a technical and financial partner into BADF's capital is still under 
+
+consideration.  
+
+Governance: Strong Government 
+
+participation in the bank’s capital 
+
+following the Central Bank's 
+
+request to pull out shareholders 
+
+deemed financially unsound.  
+
+Moderate  
+The Burkinabe Fund for Economic and Social Development (FBDES) holds the 
+
+Government’s participation and additional shares owned by organisations 
+
+considered weak by the Central Bank; the Central Bank has requested the 
+
+organisations to pull out of BADF capital. FBDES is also requested to gradually 
+
+transfer the shares, as well as the Government’s participation, to stakeholders in 
+
+line with its area of activity as soon as possible. In addition, the entry of a 
+
+technical and financial partner is still being considered. Independent directors 
+
+will also be co-opted to the Board of Directors to improve the quality of the 
+
+management structure. 
+
+Risk of strong pressure on 
+
+management from farmers’ 
+
+cooperatives who consider BADF 
+
+as a bank established on their 
+
+initiative and dedicated to them 
+
+Moderate  
+Strong ownership of the project establishing BADF from the outset by farmers’ 
+
+organisations, and therefore their willingness to ensure the bank's viability. In 
+
+addition, the continued and strong sensitisation of farmers’ organisations on the 
+
+need to ensure the bank's sustainability. BADF will give priority to organised 
+
+farmers' networks that will help to gather customer information and, if necessary, 
+
+collect unpaid debts.  
+
+Strong competition from existing 
+
+banks 
+
+Moderate  BADF will address segments not covered by existing banks. Given the strong 
+
+ownership by farmer organisations, BADF will rely on farmers’ networks to attract 
+
+agricultural customers. The bank will also diversify its activities by financing non-
+
+agricultural sectors.  
+
+4.6 Knowledge Building 
+
+PACBA implementation will help to build several types of knowledge, particularly: (i) best practice 
+
+in agribusiness investment financing within an innovative context; (ii) the adoption of appropriate 
+
+instruments and an attractive deposit remuneration system to substantially improve the mobilisation 
+
+of national savings; (iii) the creation of agribusiness project databases to promote the emergence of 
+
+agricultural processing units and improve agricultural value chains in Burkina Faso; and (iv) studies 
+
+to be conducted on agricultural insurance and warrantage. The practices will be disseminated within 
+
+the administration and to non-State actors through the documents and procedures manuals produced, 
+
+procedures manuals, as well as training sessions that will be organised under the project. The 
+
+knowledge will be acquired through producing the following reports: technical assistance reports, 
+
+activity reports prepared by the executing agency, supervision reports, project completion report, and 
+
+"discussion and working documents" of the Bank's Office in Burkina Faso. Finally, the knowledge 
+
+and lessons learned will be disseminated within the Department, the Bank and in the host country by 
+
+the AfDB through seminars and IDEV reports. 
+
+
+
+23 
+
+ 
+
+ LEGAL FRAMEWORK 
+
+5.1 Legal Instrument 
+
+PACBA will be financed from ADF resources by a loan of UA 7.5 million, for which a loan agreement 
+
+will be concluded between the African Development Fund and Burkina Faso (the Borrower). 
+
+5.2 Conditions for Intervention by the African Development Fund 
+
+ Conditions Precedent to Effectiveness 
+
+Effectiveness of the loan agreement shall be subject to the Borrower's fulfilment of Section 12.01 of 
+
+the General Conditions Applicable to Loan Agreements and Guarantee Agreements of the Fund 
+
+(Sovereign Entities). 
+
+ Conditions Precedent to First Disbursement of the Loan  
+
+In addition to effectiveness of the loan agreement, the first disbursement of loan resources shall be 
+
+subject to the Borrower's fulfilment of the following conditions: 
+
+(i) Provide evidence of the appointment of the Project Coordinator whose experience and 
+terms of reference would have been deemed satisfactory by the Fund; and 
+
+(ii) Provide evidence of the attachment of the project to the review committee of the 
+program “Agricultural economy” (écnomie agricole) which will ensure continuous 
+
+monitoring of project implementation, particularly the adoption and approval of key 
+
+documents and the expected outcomes. 
+
+ Environmental and Social Safeguard Clauses 
+
+The Borrower undertakes to implement an Environmental and Social Management System (ESMS) 
+
+to ensure that the new Banque Agricole du Faso (Agricultural Bank of Burkina Faso) identifies and 
+
+implements environmental and social management measures for its sub-projects before the loans or 
+
+investments are approved by BADF, and that BADF also applies the required level of sub-project 
+
+control during the loan period.  
+
+ Other Undertakings 
+
+(i) Provide evidence of BADF’s establishment of a computerised management system 
+(accounting and financial management software) and training staff in its use latest by 
+
+31 March 2019; 
+
+(ii) Prepare and submit to the Fund an Administrative, Accounting and Financial 
+Procedures Manual for the project unit, and train staff in its use latest by 31 March 
+
+2019; 
+
+(iii) Prepare and submit to the Fund a BADF Operational Business Plan latest 30 
+September 2019; and 
+
+(iv) Provide to the Fund, by December 31st of each year, evidence of the budgeting of the 
+annual tranche for the following year of the borrower's contribution to the starting 
+
+fiscal year 2020.  
+
+
+
+24 
+
+ 
+
+5.3 Compliance with Bank Policies 
+
+This project complies with applicable Bank policies. 
+
+ RECOMMENDATION 
+
+Management recommends that the Board of Directors approve the proposal to grant Burkina Faso an 
+
+ADF loan of UA 7.5 million to finance the Support Project for Establishing an Agribusiness Bank 
+
+(PACBA) under the conditions set out in this report. 
+
+ 
+
+
+
+I 
+
+ 
+
+Annex 1: Comparative Socio-economic Indicators 
+
+Year
+Burkina 
+
+Faso
+Africa
+
+Develo-    
+
+ping         
+
+Countries
+
+Develo-       
+
+ped  
+
+Countries
+
+Basic Indicators
+
+Area ( '000 Km²) 2017 274 30 067 80 386 53 939
+Total Population (millions) 2017 19,2 1 184,5 5 945,0 1 401,5
+Urban Population (% of Total) 2017 31,1 39,7 47,0 80,7
+Population Density  (per Km²) 2017 70,1 40,3 78,5 25,4
+GNI per Capita (US $) 2016  620 2 045 4 226 38 317
+Labor Force Participation *- Total (%) 2017 83,4 66,3 67,7 72,0
+Labor Force Participation **- Female (%) 2017 76,5 56,5 53,0 64,5
+Sex  Ratio (per 100 female) 2017 98,7 0,801 0,506 0,792
+Human Dev elop. Index  (Rank among 187 countries) 2015 185 ... ... ...
+Popul. Liv ing Below  $ 1.90 a  Day  (% of Population) 2014 43,7 39,6 17,0 ...
+
+Dem ographic Indicators
+
+Population Grow th Rate   - Total (%) 2017 2,9 2,6 1,3 0,6
+Population Grow th Rate   - Urban (%) 2017 5,6 3,6 2,6 0,8
+Population < 15 y ears  (%) 2017 45,1 41,0 28,3 17,3
+Population 15-24 y ears (%) 2017 20,0 3,5 6,2 16,0
+Population >= 65 y ears  (%) 2017 2,4 80,1 54,6 50,5
+Dependency  Ratio (%) 2017 90,6 100,1 102,8 97,4
+Female Population 15-49 y ears (% of total population) 2017 23,2 24,0 25,8 23,0
+Life Ex pectancy  at Birth - Total (y ears) 2017 59,7 61,2 68,9 79,1
+Life Ex pectancy  at Birth - Female (y ears) 2017 61,0 62,6 70,8 82,1
+Crude Birth Rate (per 1,000) 2017 38,6 34,8 21,0 11,6
+Crude Death Rate (per 1,000) 2017 8,9 9,3 7,7 8,8
+Infant Mortality  Rate (per 1,000) 2016 52,7 52,2 35,2 5,8
+Child Mortality  Rate (per 1,000) 2016 84,6 75,5 47,3 6,8
+Total Fertility  Rate (per w oman) 2017 5,3 4,6 2,6 1,7
+Maternal Mortality  Rate (per 100,000) 2015 371,0 411,3 230,0 22,0
+Women Using Contraception (%) 2017 24,3 35,3 62,1 ...
+
+Health & Nutrition Indicators
+
+Phy sicians (per 100,000 people) 2012 4,7 46,9 118,1 308,0
+Nurses and midw iv es (per 100,000 people) 2012 63,0 133,4 202,9 857,4
+Births attended by  Trained Health Personnel (%) 2010 65,9 50,6 67,7 ...
+Access to Safe Water (% of Population) 2015 82,3 71,6 89,1 99,0
+Access to Sanitation (% of Population) 2015 19,7 51,3 57 69
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2016 0,8 39,4 60,8 96,3
+Incidence of Tuberculosis (per 100,000) 2016 51,0 3,8 1,2 ...
+Child Immunization Against Tuberculosis (%) 2016 98,0 245,9 149,0 22,0
+Child Immunization Against Measles (%) 2016 88,0 84,1 90,0 ...
+Underw eight Children (% of children under 5 y ears) 2010 26,2 76,0 82,7 93,9
+Prev alence of stunding 2010 35,1 20,8 17,0 0,9
+Prev alence of undernourishment (% of pop.) 2015 20,2 2 621 2 335 3 416
+Public Ex penditure on Health (as % of GDP) 2014 2,6 2,7 3,1 7,3
+
+Education Indicators
+
+ Gross Enrolment Ratio (%)
+
+      Primary  School       -   Total 2016 91,1 106,4 109,4 101,3
+      Primary  School       -   Female 2016 90,1 102,6 107,6 101,1
+      Secondary  School  -   Total 2016 35,8 54,6 69,0 100,2
+      Secondary  School  -   Female 2016 34,9 51,4 67,7 99,9
+Primary  School Female Teaching Staff (% of Total) 2016 45,8 45,1 58,1 81,6
+Adult literacy  Rate - Total (%) 2014 34,6 61,8 80,4 99,2
+Adult literacy  Rate - Male (%) 2014 44,4 70,7 85,9 99,3
+Adult literacy  Rate - Female (%) 2014 26,2 53,4 75,2 99,0
+Percentage of GDP Spent on Education 2015 4,2 5,3 4,3 5,5
+
+Environm ental  Indicators
+
+Land Use (Arable Land as % of Total Land Area) 2015 21,9 8,6 11,9 9,4
+Agricultural Land (as % of land area) 2015 44,2 43,2 43,4 30,0
+Forest (As % of Land Area) 2015 19,6 23,3 28,0 34,5
+Per Capita CO2 Emissions (metric tons) 2014 0,2 1,1 3,0 11,6
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available. * Labor force participation rate, total (%  of total population ages 15+)
+
+** Labor force participation rate, female (%  of female population ages 15+) 
+
+Burkina Faso
+COMPARATIVE SOCIO-ECONOMIC INDICATORS
+
+May 2018
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+Infant Mortality Rate
+( Per 1000 )
+
+B urk ina Faso A fric a
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+GNI Per Capita US $
+
+B urk ina Faso A fric a
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+2,5
+
+3,0
+
+3,5
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+Population Growth Rate (%)
+
+B urk ina Faso A fric a
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+Life Expectancy at Birth 
+(years)
+
+B urk ina Faso A fric a
+
+
+
+II 
+
+ 
+
+Annex 2: Table of AfDB Active Portfolio as at 30 September 2018 
+
+ 
+
+ 
+
+S E C T O R P R O J E C T  N A M E T A S K M A N A G E R C O D E  S A P
+N um be r 
+
+Lo a n / G ra nt
+
+A ppro v a l 
+
+D a t e
+
+D a t e  
+
+S igna t ure
+
+E f f e c t iv e
+
+ne s s  
+
+D a t e
+
+F ulf il. 
+
+C o nd. 
+
+D is burs .
+
+D a t e  1s t  
+
+D is burs .
+
+D is burs . 
+
+D e a dlin
+
+e
+
+A m o unt  in UA  
+
+Lo a n / G ra nt
+
+D is burs . 
+
+R a t e  %
+
+T o t a l 
+
+D is burs .
+
+ECONOM IC TRA NSFORM A TION SUP P ORT - P A TECE - GRA NTEKP O A lain P -B F-KF0-009 2100155028217 9/17/2014 10/9/2014 10/9/2014 6/9/2015 8/18/2015 4/30/2020 10 000 000 45,54 4 554 000
+
+ENERGY SECTOR REFORM  SUP P ORT - P A RSE - LOA NEKP O A lain P -B F-KZ0-001 2100150039794 7/18/2018 8/28/2018 6/30/2020 15 000 000 0,00 0
+
+INTERNA L A CCESS ROA DS - LOA N YOUGB A RE B arnabeP -B F-DB 0-017 2100150030394 11/13/2013 1/9/2014 9/17/2014 9/17/2014 7/24/2015 12/31/2019 31 218 000 35,02 10 932 544
+
+INTERNA L A CCESS ROA DS - GRA NT YOUGB A RE B arnabeP -B F-DB 0-017 2100155026370 11/13/2013 1/9/2014 1/9/2014 1/9/2014 2/4/2016 12/31/2019 15 220 000 33,51 5 100 222
+
+OUA GA  SUB URB  SA NITA TION - SP A QP O - GRA NT N'ZOM B IE Zo uno ubateP -B F-EB 0-001 2100155025919 10/9/2013 11/29/2013 11/29/2013 12/15/2014 3/23/2015 5/31/2019 33 020 000 73,93 24 411 686
+
+NA RE DA M  REHA B ILITA TION STUDY-GRA NT N'ZOM B IE Zo uno ubateP -B F-EA Z-0025600155004501 4/11/2016 9/9/2016 9/9/2016 11/21/2016 12/20/2016 12/29/2019 699 721 4,55 31 837
+
+SEM I-URB A N ELECTRIFICA TION OUA GA -B OB O - LOA NKITA NDA LA  Raymo ndP -B F-FA 0-007 2100150035993 9/21/2016 10/18/2016 4/24/2017 9/4/2017 12/1/2017 12/31/2020 20 600 000 33,70 6 942 200
+
+SEM I-URB A N ELECTRIFICA TION OUA GA -B OB O - GRA NTKITA NDA LA  Raymo ndP -B F-FA 0-007 2100155033166 9/21/2016 10/18/2016 10/18/2016 9/4/2017 11/27/2017 12/31/2020 6 630 000 21,53 1 427 439
+
+B A GRE GROWTH P OLE SUP P ORT - LOA N B A B A H M . A ly P -B F-A A 0-0252100150033093 4/29/2015 5/28/2015 12/1/2015 12/1/2015 9/9/2016 4/30/2021 15 000 000 69,75 10 462 500
+
+B A GRE GROWTH P OLE SUP P ORT - GRA NT B A B A H M . A ly P -B F-A A 0-0252100155029766 4/29/2015 5/28/2015 12/1/2015 12/1/2015 2/15/2016 4/30/2021 6 000 000 32,00 1 920 000
+
+CLA SSIFIED FORESTS M A NA GEM ENT P GFC / REDD+ - GRA NTGA RB A  Lao uali P -B F-A A D-0035565155000651 11/28/2013 1/9/2014 1/9/2014 7/11/2014 10/22/2014 12/31/2019 8 202 275 40,16 3 294 034
+
+CA SHEW NUT SUP P ORT COM OE B A SIN - LOA N GA RB A  Lao uali P -B F-A A D-0065565130000451 2/16/2017 3/24/2017 8/23/2017 9/18/2017 2/16/2018 12/31/2022 2 852 965 2,79 79 598
+
+CA SHEW NUT SUP P ORT COM OE B A SIN - GRA NT GA RB A  Lao uali P -B F-A A D-0062100155034216 2/16/2017 3/24/2017 3/24/2017 9/18/2017 12/4/2017 12/31/2021 1 000 000 26,37 263 700
+
+16 5  4 4 2  9 6 1 4 1,9 6 6 9  4 19  7 5 9
+
+SHEA  VA LUE CHA INS SUP P ORT - GRA NT OUEDRA OGO A lfred P -B F-A A G-0015700155002552 7/12/2016 9/9/2016 2/27/2017 2/27/2017 2/16/2018 6/30/2019 708 498 28,26 200 222
+
+A FRICA  SM E P ROGRA M M E FIDELIS DIGUIM B A YE Ro selineP -B F-HB 0-0012000130013930 6/19/2014 7/30/2015 7/30/2015 8/21/2015 9/3/2015 7/30/2017 2 087 473 100,00 2 087 473
+
+A FRICA  SM E P ROGRA M M E FIDELIS DIGUIM B A YE Ro selineP -B F-HB 0-0015060140000253 10/11/2017 6/29/2018 626 262 0,00 0
+
+LINE OF CREDIT TO CORIS B A NK INTERNA TIONA L DIOP  Sidi Gallo P -B F-HA 0-0012000130016582 11/23/2016 7/14/2017 7/14/2017 8/10/2017 8/23/2017 7/14/2019 31 729 597 100,00 31 729 597
+
+LINE OF CREDIT TO CORIS B A NK INTERNA TIONA L DIOP  Sidi Gallo P -B F-HA 0-0015060140000201 10/11/2017 5/16/2018 15 864 798 0,00 0
+
+5 1 0 16  6 2 8 6 6 ,6 8 3 4  0 17  2 9 2
+
+RESILIENCE STRENGTHENING P 2RS - LOA N B A B A H M . A ly P -Z1-A A Z-019 2100150032046 10/15/2014 1/9/2015 9/1/2015 10/16/2015 3/16/2016 6/30/2020 12 725 000 37,45 4 765 513
+
+RESILIENCE STRENGTHENING P 2RS - GRA NT B A B A H M . A ly P -Z1-A A Z-019 2100155028526 10/15/2014 1/9/2015 1/13/2015 6/8/2015 11/3/2015 6/30/2020 12 725 000 46,61 5 931 123
+
+NIGERIA -NIGER-B ENIN-B URKINA  INTERCONNECTION - LOA NKITA NDA LA  Raymo ndP -Z1-FA 0-146 2100150038699 12/15/2017 3/14/2018 7/23/2018 12/31/2022 34 680 000 0,00 0
+
+NIGERIA -NIGER-B ENIN-B URKINA  INTERCONNECTION - GRA NTKITA NDA LA  Raymo ndP -Z1-FA 0-146 2100155036219 12/15/2017 3/14/2018 3/14/2018 12/31/2022 15 320 000 0,00 0
+
+REHA B ILITA TION A ND FA CILITA TION CORRIDOR LOM E - LOA NDIOP  M ai'mo unato u P -Z1-DB 0-097 2100150027044 6/27/2012 7/19/2012 6/21/2013 8/30/2013 12/2/2014 12/31/2018 21 530 000 69,23 14 905 219
+
+REHA B ILITA TION A ND FA CILITA TION CORRIDOR LOM E - GRA NTDIOP  M ai'mo unato u P -Z1-DB 0-097 2100155023018 6/27/2012 7/19/2012 7/19/2012 8/30/2013 6/24/2014 12/31/2018 84 600 000 67,02 56 698 920
+
+REHA B ILITA TION A ND FA CILITA TION CORRIDOR LOM E - GRA NTDIOP  M aimo unato u P -Z1-DB 0-097 5580155000051 2/23/2015 5/29/2015 5/29/2015 5/29/2015 12/2/2015 12/31/2018 976 937 37,59 367 231
+
+RN 4 GOUNGHIN-FA DA  REINFORCEM ENT - LOA N YOUGB A RE B arnabeP -Z1-DB 0-182 2000200001856 11/24/2017 12/18/2017 1/23/2018 6/22/2018 12/31/2022 35 086 254 0,00 0
+
+RN 4 GOUNGHIN-FA DA  REINFORCEM ENT - GRA NT YOUGB A RE B arnabeP -Z1-DB 0-182 2100155036022 11/24/2017 12/18/2017 12/18/2017 6/22/2018 12/31/2022 25 360 000 0,00 0
+
+RN 4 GOUNGHIN-FA DA  REINFORCEM ENT - LOA N YOUGB A RE B arnabeP -Z1-DB 0-182 2100150038495 11/24/2017 12/18/2017 1/23/2018 6/22/2018 12/31/2022 16 000 000 0,33 52 800
+
+2 5 9  0 0 3  19 1 3 1,9 4 8 2  7 2 0  8 0 5
+
+4 7 5  4 6 2  7 8 0 3 9 ,15 18 6  15 7  8 5 5
+
+Go vernance
+
+Transpo rt
+
+Water - Sanitatio n
+
+Energy
+
+A gric / Enviro n
+
+Regio nal Transpo rt
+
+R E G IO N A L P UB LIC  P O R T F O LIO
+
+O V E R A LL P O R T F O LIO
+
+N A T IO N A L P UB LIC  P O R T F O LIO
+
+P rivate Secto r 
+
+N A T IO N A L P R IV A T E  P O R T F O LIO
+
+Regio nal A gric / Enviro n.
+
+Regio nal Energy
+
+
+
+III 
+
+ 
+
+Annex 3: Summary Table of Donor Interventions 
+
+ 
+
+Intervention Areas 
+
+E
+d
+u
+
+c
+a
+ti
+
+o
+n
+ 
+
+A
+g
+
+ri
+c
+u
+
+lt
+u
+
+re
+ (
+
+In
+c
+lu
+
+d
+in
+
+g
+ a
+
+c
+c
+e
+ss
+
+ r
+o
+
+a
+d
+
+s 
+to
+
+  
+
+p
+ro
+
+d
+u
+c
+ti
+
+o
+n
+
+ a
+re
+
+a
+s)
+
+ 
+
+H
+e
+a
+lt
+
+h
+ a
+
+n
+d
+ n
+
+u
+tr
+
+it
+io
+
+n
+, 
+
+fo
+o
+
+d
+ a
+
+id
+ 
+
+T
+ra
+
+n
+sp
+
+o
+rt
+
+ 
+
+D
+ri
+
+n
+k
+in
+
+g
+ w
+
+a
+te
+
+r 
+a
+n
+d
+
+ s
+a
+n
+it
+
+a
+ti
+
+o
+n
+
+ 
+
+E
+n
+
+e
+rg
+
+y
+, 
+
+m
+in
+
+e
+s 
+
+a
+n
+d
+
+ q
+u
+
+a
+rr
+
+ie
+s 
+
+P
+ri
+
+v
+a
+te
+
+ s
+e
+c
+to
+
+r 
+d
+
+e
+v
+
+e
+lo
+
+p
+m
+
+e
+n
+t,
+
+ y
+o
+u
+
+th
+ a
+
+n
+d
+ 
+
+e
+m
+
+p
+lo
+
+y
+m
+
+e
+n
+t,
+
+ t
+ra
+
+d
+e
+ 
+
+S
+o
+
+c
+ia
+
+l 
+P
+
+ro
+te
+
+c
+ti
+
+o
+n
+ 
+
+T
+C
+
+I 
+
+Ju
+st
+
+ic
+e
+ a
+
+n
+d
+
+ h
+u
+
+m
+a
+n
+ r
+
+ig
+h
+ts
+
+ 
+
+E
+n
+v
+
+ir
+o
+
+n
+m
+
+e
+n
+t 
+
+T
+o
+
+w
+n
+ P
+
+la
+n
+n
+
+in
+g
+
+ a
+n
+d
+
+ H
+o
+
+u
+si
+
+n
+g
+
+ 
+
+A
+d
+
+m
+in
+
+is
+tr
+
+a
+ti
+
+v
+e
+ 
+
+a
+n
+
+d
+ 
+
+P
+o
+
+li
+ti
+
+c
+a
+l 
+
+G
+o
+
+v
+e
+rn
+
+a
+n
+c
+e
+ a
+
+n
+d
+
+ D
+e
+c
+e
+n
+tr
+
+a
+li
+
+sa
+ti
+
+o
+n
+ 
+
+E
+c
+o
+n
+o
+
+m
+ic
+
+ 
+G
+
+o
+v
+
+e
+rn
+
+a
+n
+
+c
+e
+, 
+
+M
+u
+
+lt
+i-
+
+se
+c
+to
+
+r 
+
+A
+id
+
+ 
+
+F
+in
+
+a
+n
+c
+ia
+
+l 
+S
+
+e
+c
+to
+
+r 
+
+Belgium * * *               *   * ***   
+
+Germany * ** ** * **   *           ** *   
+
+Sweden   **     **   **           **     
+
+USA   * ****   *   *           * *   
+
+AfDB   * ** ** ** ** *               ** 
+
+European Union     * ** **   * **   **** *   * ***   
+
+World Bank * ** * * ** ** * *   *     ** **   
+
+Switzerland ** **         ****           * *   
+
+France **       **     *           ***   
+
+Luxemburg * ** *     ** **   *   *         
+
+Japan *** *     *   *   *   *   * *   
+
+China Taiwan     **     ** **   *   *   * **   
+
+UNS * * ***   *   *     **** **   ** *   
+
+Canada ** * **     * *     *     ** * * 
+
+Denmark *       **   *     **     * ***   
+
+Austria ** * **       **             *   
+
+BADEA   **   *     *             **   
+
+BOAD   **     ***                 **   
+
+ 
+
+ 
+
+***-' Sector with more than 50% TFP financing; **-' Sector with 10-50% of TFP financing; **-' Sector with less than 10% TFP financing. 
+
+Source: Data from 2015 Report on Development Cooperation. Ministry of Economy and Finance, Burkina Faso, updated by the CSP Team. 
+
+
+
+IV 
+
+Annex 4: Map of the Project Area 
+
+ 
+
+This map has been drawn by the staff of the African Development Bank exclusively for use by readers of the report to which it is attached. The 
+
+names used and the borders shown do not imply on the part of the Bank Group and its members any judgement concerning the legal status of a 
+
+territory or any approval or acceptance of its borders. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+

@@ -1,0 +1,2316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+ 
+
+  
+Mar 15, 2018 Page 1 of 20  
+
+     
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+ 
+      
+
+ 
+
+ 
+
+Program Information Documents (PID) 
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 09-Apr-2018 | Report No: PIDA146849 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 2 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Program Data 
+
+Country Project ID Program Name Parent Project ID (if any) 
+
+Rwanda P161876 Transformation of 
+Agriculture Sector 
+Program 4 PforR 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 29-Mar-2018 15-May-2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency 
+
+Program-for-Results Financing Republic of Rwanda Ministry of Agriculture and Animal Resources 
+(MINAGRI) 
+
+ 
+Proposed Program Development Objective(s) 
+ 
+To improve the capacity of selected public agricultural institutions and to enable an increase in commercialization of 
+agriculture value chains in Rwanda 
+
+  
+COST & FINANCING 
+
+ 
+
+SUMMARY (USD Millions) 
+ 
+
+Government program Cost 3,700.00 
+
+Total Operation Cost 289.92 
+
+Total Program Cost 289.92 
+
+Total Financing 289.92 
+
+Financing Gap 0.00 
+
+ 
+   
+FINANCING (USD Millions) 
+
+Total World Bank Group Financing 100.00 
+
+     World Bank Lending 100.00 
+ 
+
+Total Government Contribution 189.92 
+     
+ 
+ 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 3 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+ 
+
+1. Rwanda is increasingly recognized as a global exemplar in the pursuit of the Sustainable 
+Development Goals (SDG) and in meeting the global challenges of climate change. Rwanda’s economy has 
+been amongst the fastest growing among the sub-Saharan African (SSA) region. Despite remaining one of 
+the poorest on the continent with per capita incomes of US$1,720 (2015, in purchasing power parity 
+terms) the economy is nevertheless undergoing rapid structural transformation. Overall Gross Domestic 
+Product (GDP) growth has averaged 7.6 percent per annum (p.a.) over 2000 – 15, with urbanization rates 
+of 7 percent p.a. over the same period. 
+ 
+
+2. After slowing to 5.1 percent in 2017, real GDP growth is expected to pick up in 2018-19, 
+averaging 5.9 percent, and inflation has increased above the National Bank of Rwanda’s (BNR) target 
+ceiling of 5 percent.1 BNR has raised interest rates to prevent capital outflow and this will likely force a 
+tightening of monetary policy in 2017 – 18. BNR has reduced the repo rate by 50 basis points to 5.5 percent 
+to encourage commercial banks to lower lending rates to drive growth in private-sector credit and 
+stimulate economic growth.2 Rwanda’s large current account deficit (16 percent of GDP in 2016) has been 
+exerting downward pressure on the Rwandan franc (FRw). Higher oil and commodity prices (as well as 
+large purchases including new planes for the national carrier) have seen the import bill increase although 
+this is expected to be mitigated by recovering commodity prices in tea, coffee and minerals – Rwanda’s 
+three main exports. On the fiscal side, the fiscal deficit is expected to narrow from an estimated 4.7 
+percent of GDP in 2016/17 to 4.4 percent of GDP in 2018/19, financed by external project-based debt and 
+some budgetary loans from development partners and multilateral institutions.3 Notwithstanding these 
+emerging domestic and international trends, the overall policy stance of the Government of Rwanda (GoR) 
+is likely to remain in line with the existing Economic Development and Poverty Reduction Strategy (EDPRS) 
+(approved in 2013) and its successor to be finalized and approved in 2018. 
+
+ 
+
+3. Rwanda’s Vision 2050 sets an ambitious agenda for further improvements in the standard of 
+living, targeting middle-income country (MIC) status by 2020. Parallel targets to reduce food insecurity 
+and malnutrition and to further reduce poverty from 45 percent today (according to the national poverty 
+line; the headcount rate is 63 percent according to the US$1.25 per day measure) are evidence of a deep 
+political commitment to the twin goals of poverty reduction and shared prosperity. Except for a period 
+between 2000/01 and 2005/06 when the Gini coefficient rose slightly, rapid growth has not been 
+associated with an increase in equality. At the same time, the country has embarked on several flagship 
+projects to promote a highly skilled service economy, notably around conferences and hospitality and 
+information and communication technology (ICT). 
+
+ 
+
+4. However, Government spending programs are currently under pressure. The increase in total 
+public spending in 2013-2015 has been exclusively for capital expenditures and net lending as recurrent 
+expenditures have held steady. The adjustment program of recent years to address growing external 
+imbalances restrained the overall fiscal envelope. Health expenditures, for example, have declined both 
+
+ 
+1 EUI Country Report, January 2018. 
+2 ibid 
+3 EUI Country Report, November 2017 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 4 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+as a percent of GDP and in terms of their share in the budget in recent years. Going forward, resource 
+availability will be further constrained because of a continuing decline in external grant financing. 
+Although the headline fiscal deficit will be more expansionary in FY18/19, the decline in grant financing 
+will continue to depress the overall fiscal envelope. Going forward, Rwanda’s fiscal spending will remain 
+constrained due to the elevated debt and subdued tax revenues.  
+
+ 
+
+5. The Government is also concerned by the emerging demographic trends and the rapidly 
+expanding ambitions and expectations of new entrants to the labor market. Demographic projections 
+suggest that by 2032 rural areas will be home to an additional 2.5 – 3.5 million Rwandans; land is already 
+so scarce (50 percent of rural farm households farm less than 0.35ha) that few can be meaningfully 
+accommodated in farming. With a working age population projected to increase from 5.2 million (in 2014) 
+to 6.6 million – of which 4 million will be youth (14 – 35 years old), realizing labor productivity potential 
+and meeting individual aspirations will require off-farm employment opportunities. This need not imply 
+urban-based employment. Agriculture and the food system broadly (i.e. non-agriculture sector jobs 
+nevertheless part of the food system such as retail, agro-processing, food logistics etc.) can provide 
+substantial rural-based non-farm employment (RNFE). Current economic modeling indicates around two-
+fifths of the 200,000 new labor market entrants annually could be gainfully employed in this sector.  
+ 
+
+6. Continued urbanization will present many challenges as well as opportunities including for the 
+agricultural sector. By 2050 Rwanda’s population is projected to reach 22 million of which 70 percent 
+would reside in urban areas. Assuming similar patterns are observed elsewhere in the region, food 
+preferences will change with increasing incomes, with increasing demand for more standardized and 
+packaged or processed food and food safety will become increasingly important. This will threaten existing 
+supply chains from domestic producers, with likely upward pressure on the food import bill and foreign 
+currency reserves. At the same time, tapping into this emerging market can be an important opportunity 
+for expanding domestic value chains, diversifying out of food staples and further value addition across the 
+agriculture and food system. Meeting these challenges for the domestic market can also serve as a 
+launching pad for successfully penetrating regional and international markets. 
+
+ 
+Sectoral and Institutional Context 
+
+7. Notwithstanding, Rwanda’s impressive progress and likely future growth, the country remains 
+largely agrarian with agriculture the mainstay of jobs, income and livelihoods for much of the 
+population. The sector continues to account for around one-third of GDP. Because of its forward and 
+backward linkages, it remains a key driver of overall economic performance and poverty reduction 
+(accounting directly for over one-third of the overall reduction in poverty from 59 percent in 2001 to 45 
+percent in 2011). 
+ 
+
+8. Historically, aggregate agricultural performance has been driven by productivity improvements 
+and land expansion. Aggregate production of key food staples such as maize, beans, Irish potato, sweet 
+potato etc. has increased steadily since the end of the Genocide. According to recent analysis by the 
+International Food Policy Research Institute (IFPRI), agriculture’s aggregate growth rate of 5 percent p.a. 
+in recent years has been made up of land expansion (2 percentage points) and productivity growth (1.7 
+percentage points) with the remainder from increased labor productivity. Rwanda is already among the 
+most densely populated countries in SSA and land expansion has been achieved through developing inland 
+swamps and valleys with rapidly declining potential for further gains.  
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 5 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+ 
+
+9. Despite productivity gains, yields remain below their potential. Crop yields have greatly 
+increased since 2000 but yield growth started to plateau as of 2011. (For instance, cereal and cassava 
+yields have trebled, sweet potato yields have doubled yet they have made marginal progress in the last 
+five years and remain at around 40 – 50 percent of their potential.) Similarly, livestock productivity has 
+remained consistently low over time due to lack of good quality animal feed and poor husbandry 
+management practices. Diversification into higher value crops has been limited to date, partly because of 
+limited farmer knowledge and traditional risk aversion, and also because the public-sector support 
+services has been excessively focused on a narrow range of food staples under the Government’s flagship 
+Crop Intensification Program (CIP).  
+
+ 
+
+10. Farm size is a major challenge.  The average is only 0.6 ha, with perhaps 0.12 ha per worker.  
+Production on numerous small plots of land can impose technical inefficiencies related to water control 
+and distribution, crop choice and interactions, and planting materials used, while limiting the potential 
+for mechanized plowing. The government has made significant progress on land consolidation.  Land 
+under consolidated use rose from 28,788 ha in 2007 to 502,916 ha in 2012, primarily through 
+consolidation of production rather than of ownership (World Bank, 2014).  The consolidation process has 
+not involved mandatory consolidation of ownership, and planting, cultivation and harvesting are still 
+carried out by the individual land owners, albeit on a communal schedule (Pritchard, 2013).  
+
+ 
+
+11. The agriculture value chains face key constraints at every stage. Research and extension is 
+dominated by public institutions which are understaffed. There are insufficient extension services to 
+support both quantity and quality, and there are weak linkages between research and extension. Input 
+supply systems are driven by the public sector, there is low awareness of the advantages of quality inputs, 
+domestic seed production is low and there is limited access to finance. Production potential is restricted 
+by land size, subsistence and rain-fed farming, mono-cropping, limited access to irrigation and 
+mechanization. Post production is impacted by poor storage techniques and insufficient storage and 
+drying infrastructure and safety and quality of produce affected by poor storage and drying. Processing is 
+characterized by low capacity utilization. - Less than 10 percent of total production is processed. The 
+supply of raw material is irregular and limited. The agricultural workforce has a low level of technical skills. 
+Finally, markets are informal and unorganized, Rwanda country branding is weak, and the price-sensitive 
+domestic market poses a challenge for start ups to enter the market. 
+ 
+
+12. The government has focused on extending the rural roads network with a main objective of 
+connecting to regional markets and opportunities exists for scaling up regional connectivity. A 
+significant proportion of Rwanda’s rural population, whose livelihoods depend on agriculture, lacks access 
+to rural transport facilities, including feeder roads. In 2015, only 13,350 km of roads were in good or 
+passable condition, but Rwanda targets to have 30,000 km of passable roads by 2028. Poor connectivity 
+hampers agricultural development and prevents farmers from increasing access to markets, enhancing 
+their competitiveness and improving their incomes and livelihoods. A national feeder roads strategy has 
+been developed which establishes the Feeder Roads implementation framework with clear-cutting 
+institutional responsibilities for different stakeholders in the Feeder roads sub-sector, promoting labour-
+based technology in feeder roads development and outlining mechanisms for funding feeder roads 
+development and maintenance. 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 6 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+13.  Rwanda’s proximity to many of the continent’s key food markets and increased global/regional 
+consumption for key export crops including bio-fortified staples, presents significant opportunities 
+(especially through EAC and COMESA) for enlarged export markets, transport corridors and cross-border 
+trade cooperation. Global and regional markets for higher-value agricultural items are also becoming 
+more demanding in terms of quality, food safety, and branding, but also more remunerative. Rwanda is 
+well-placed to benefit from expanding regional food markets, providing the facilitating investments in 
+infrastructure and institutions are in place and the private sector responds. 
+
+ 
+
+14. Moreover, existing farming practices are ill-suited to the challenges of climate change, with the 
+agriculture sector accounting for 45.6 percent of national greenhouse gas (GHG) emissions and poorly 
+equipped to adapt to changing weather patterns. Climate change projections are highly uncertain, and 
+so precise changes to agro-climatic conditions in what is an agro-ecologically diverse country are hard to 
+predict. What is certain, however, is that the system is not yet equipped to model, forecast and adapt as 
+changes occur and greater evidence becomes available to hone down climate change forecasts. According 
+to a recent assessment by the International Center for Tropical Agriculture (CIAT), few climate smart 
+agricultural practices are currently deployed. Current on-farm practices are leading to rapid declines in 
+soil fertility and land degradation. 
+ 
+
+15. In addition, Rwanda remains challenged by malnutrition especially among rural households 
+with extremely small land holdings, and pervasive food insecurity. The national rate of stunting remains 
+high at 38 percent while the latest Comprehensive Food Security and Nutrition Survey (2016) reports that 
+around one-fifth of households remain food insecure. The pattern of stunting and food insecurity is 
+complex and not only related to food availability – food insecurity is greatest in the western and northern 
+areas and stunting is observed even in relatively non-poor areas due to inadequate child care and poor 
+sanitation practices, in particular. A narrow focus on a few traditional food staples under the CIP resulted 
+in limited dietary diversity, yet there are emerging opportunities with bio-fortification. The Government’s 
+existing kitchen garden program is reportedly contributing to broader nutritional intake, although further 
+improvements are required. 
+
+ 
+
+16. In Rwanda the labor force is growing at a rapid pace annually with census projections showing 
+that the working-age population will grow by about 240,000 per year between 2016 and 2025. This 
+growth is substantially larger than the increase in jobs during the last 15 years. Acknowledging the 
+demographic trends, the ongoing Second Five-Year Economic Development and Poverty Reduction 
+Strategy (EDPRS-2) of the Government of Rwanda (GoR) has an ambitious target of creating 200,000 off-
+farm jobs annually. For off-farm jobs, both the formal and informal sector will be important. The 
+informal non-farm sector absorbed 70 percent of the new workers between 2006 and 2011 and will 
+continue to absorb workers who seek a better living outside agriculture. Employment in the formal 
+sector, while growing quickly, will remain low for the foreseeable future given it is starting from a low 
+base. Even so, the sector remains important since most of the perceived ‘good’ jobs are created by the 
+formal private sector. Increases in agriculture productivity and job creation in industries related to 
+agriculture (agro-processing, agribusiness) will also support employment outcomes for the most 
+vulnerable, unskilled workers. 
+
+ 
+
+17. Women perform the bulk of the labor in the agriculture sector, putting in approximately 51 hours 
+per week on farm and domestic duties compared to men who work 40 hours. Most women farmers lack 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 7 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+the means to purchase high-quality seeds and proper storage facilities to protect their crops. Many also 
+never received education on effective farming methods to increase yields and to ensure that the soil on 
+their land remains healthy. This creates a cycle of subsistence farming leaving very little or no profit from 
+outputs for farmers to use as a source of income or capital.  
+
+ 
+
+18. Despite the observed growth, the non-farm enterprise sector maintains a limited presence. 
+Rwanda’s non-farm enterprise sector has been growing from a small base. The number of business 
+establishments has increased to 149,404 in 2014 – an increase of 18 percent since 2011 – providing 
+employment to 361,901 workers in 2014. However, employment in business establishments represents 
+only a small portion of overall employment in Rwanda, with agriculture still being the dominant activity. 
+The enterprise sector provided employment to 6.2 percent of working-age Rwandans in 2014 (361,901 
+jobs of a labor force of 5,785,000). In addition, there is a limited presence of medium- and large-sized 
+private firms and vibrancy in the sector has yet to fully emerge.   
+
+ 
+
+19. Considering these trends and projections, Rwanda is committed to identifying and addressing 
+the policies, regulations, and investment areas that will stimulate inclusive productivity growth for 
+broadening nutritious food production and increasing private sector investment. Furthermore, there is 
+commitment across the GoR to pursue new opportunities for farm income diversification to secure further 
+reductions in rural poverty, strengthen resilience against the impacts of climate change and to transform 
+the dominant subsistence farming sector into a competitive and market-led agriculture sector. Their 
+objectives for the food and agriculture system mirror the scale of their broader national goals in terms of 
+ambition and conviction to achieve them. 
+
+ 
+
+20. To codify these ambitions and articulate a road map to achieve them, the Ministry of Agriculture 
+and Animal Resources (MINAGRI) revised and updated their National Agricultural Policy (NAP) in 2017. 
+The National Agricultural Policy 2017-2030 responds to the changes facing agriculture and the food system 
+nationally, regionally and globally. Under this policy, the role of government in agriculture is envisaged to 
+fundamentally shift from making direct interventions in the sector – especially with a focus on production 
+only – to a market enabler, thereby promoting enhanced farmer cooperation and private-sector-led 
+development of the agri-food economy. The policy seeks to build upon Rwanda’s growing reputation as 
+supplier of high-quality, sustainably produced agri-food products, especially for the increasingly 
+demanding consumers in Africa’s growing urban centers. It places added emphasis on principles of 
+resilience to changes in climate and markets and seeks to seize opportunities offered by advances in 
+digitalization and information and communication technology (ICT), and to leverage these also for 
+vocational-skill development and for more effective sector administration. The policy also aims to 
+promote inclusion through mainstreaming preferential treatment for better participation of women and 
+youth in agriculture programs and development. 
+ 
+
+21. MINAGRI has prepared its fourth Strategic Plan for Agriculture Transformation (PSTA 4) which 
+is an articulation of how the Government proposes to implement the updated NAP. PSTA 4 is 
+structured around four Priority Areas which are well aligned to the NAP. Priority Area 1: Innovation and 
+Extension focuses on improving agronomic knowledge and technology in terms of basic research and 
+innovation, development of efficient proximity extension services, as well as promoting knowledge and 
+skills of value chain actors; Priority Area 2: Productivity and Resilience focuses on promoting sustainable 
+and resilient production systems for crops and animal resources; Priority Area 3: Inclusive markets and 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 8 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+value addition seeks to improve markets and linkages between production and processing; and Priority 
+Area 4: Enabling Environment and Responsive Institutions that provides the regulatory framework and 
+defines and coordinates public sector involvement. In addition, although women and youth are 
+mainstreamed across all priority areas, Priority Area 4 features specific measures and incentives to 
+increase gender equity and to introduce skilled youth to commercial farming and jobs along the 
+agricultural value chains. PSTA 4 builds on the experience of implementing the previous strategic plan 
+(PSTA 3) and provides a basis for ‘future-proofing agriculture to prepare for risks such as those inherent 
+in climate change, considering the constraints and opportunities of Rwanda’s demographic, 
+geographical and strategic conditions. 
+ 
+
+22. In addition to MINAGRI, key actors in the sector include the National Agricultural Export 
+Development Board (NAEB) and the Rwanda Agriculture Board (RAB). NAEB is responsible for the 
+implementation of policies and strategies for promoting and developing agricultural and livestock 
+products for export. RAB is an autonomous body largely responsible for research and extension, 
+strengthening the linkage with policy, and establish efficiency in service delivery through institutional 
+integration in the agricultural sector.  
+
+ 
+
+23. PSTA 4 will also be aligned to National Policies and Strategies including Vision 2050, the Third 
+Economic Development and Poverty Reduction Strategy (EDPRS III), and relevant sub-sector strategies. 
+The EDPRS III was designed to address the Rwanda’s commitment to the SDGs, Intended Nationally 
+Determined Contributions (INDC’s) on agriculture, and the Paris Climate Agreement.  The African Union 
+has confirmed that PSTA 4 is aligned with goals of Comprehensive Africa Agriculture Development 
+Program (CAADP) and key regional programs. 
+
+ 
+
+24. The proposed Program for Results (PforR) operation will be nested within PSTA 4. PSTA 4 is in 
+the final stages of approval – led by a core team within MINAGRI and benefiting from a broad group of 
+development partners, including the World Bank and CAADP institutions. PSTA 4 has been endorsed by 
+the GoR and will be formally approved at the CAADP Business Meeting on May 15, 2018. Reflecting 
+emerging best-practice with PforR operations, the specifics of the PforR Program are drawn from the 
+broader PSTA 4 and nested within the Government’s strategy. 
+
+ 
+PforR Program Scope 
+
+ 
+
+25. The responsibility of agriculture public sector institutions, and of MINAGRI in particular, to lead 
+the national transformation process outlined in PSTA 4 is clear. The achievement of this transformative 
+agenda will require intense policy work with a particular focus on how to promote and support 
+agribusiness at all stages of key value chains while balancing commercialization with the consideration of 
+poverty reduction and environmental sustainability in a complex, dynamic and risk prone national and 
+regional context. The nature of this leadership will be less through the direct delivery of service but will 
+be through “thought leadership”, problem solving, policy definition, capacity building, joint enterprise or 
+strategic partnership, resource mobilization, regulation, coordination, information management and 
+communication. 
+
+ 
+
+26. There have been several organizational reviews of agriculture sector institutions as well as review 
+and reform exercises intended to inform the transformation of the public sector as a whole.  In addition, 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 9 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+various reports and evaluations, including the 2016 Agriculture Public Expenditure Review and the 2017 
+Mid Term Review of the PSTA 3 Strategy have raised significant issues of an institutional nature.  
+Furthermore, recent sub sectoral reports or strategies including the Agriculture Finance Diagnostic and 
+the National Agribusiness Investment Promotion Strategy (NAIPS) make clear the need for institutional 
+reform.  
+
+ 
+
+27. The PforR Program has incorporated the recommendations from these reviews and studies into 
+its design.  In addition, the design draws on the lessons learned from previous attempts to build capacity 
+within MINAGRI, including the first PforR Program. Specifically, the attempts to undertake reforms 
+without significant attention to a well design reform process, sustainably addressing Human Resource 
+constraints, ensuring communication/coordination are prioritized and ensuring new ways of working are 
+well designed and appropriately incentivized.  As a result, the PforR Program makes a sequenced, focused 
+and results based approach to the institutional change process central to its design.  
+
+ 
+
+28. The scale and complexity of PSTA 4’s institutional reform agenda is significant. However, it will 
+take time for MINAGRI to fully establish and strategically apply its “thought leadership” capacity.  Many 
+of the expected outcomes will only be fully delivered, at the required scale, during the latter years of PSTA 
+4 implementation. In that context, the PforR Program, which supports the first three years of PSTA 4, is 
+focused on a series of mutually reinforcing interventions -  some of which are activities, that will deliver 
+intermediate outcomes but, more importantly, incentivize organizational reform, create new policy 
+instruments, build increased capacity, and establish new systems that will build a sound institutional 
+platform to enable MINAGRI to deliver PSTA 4. 
+ 
+
+29. The proposed PforR operation will support the first three years (2018 – 2021) of the six-year 
+strategy of the PSTA 4 (2018-2024). This period of PSTA 4 is focused on establishing a platform for change 
+and new ways of working, including the way MINAGRI is structured and reflecting the way it is more 
+private sector facing.  
+
+ 
+
+30. There is a possibility of supporting the final three years through additional financing, subject and 
+without prejudice to normal Bank approval procedures. The activities to be supported under the PforR 
+Program correspond to the MINAGRI PSTA 4 agenda. In this context, the focus of the proposed PforR 
+operation will be on strengthening the capacity of MINAGRI to increase private sector investment and to 
+enable the commercialization of key agriculture value chains in Rwanda’s agriculture sector. Based on 
+value chain diagnostics (further elaborated in the technical assessment ANNEX 4) and taking into 
+consideration the Bank’s comparative advantage regarding the PSTA 4 Priority areas, the PforR Program 
+is constructed around an organizing framework of the following four results areas: 
+ 
+
+31. Results Area 1: Policy and Organizational Reform – aligned with PSTA 4 Priority Area 4: The PforR 
+Program will seek to improve the structure and capability of MINAGRI in order to strengthen sector 
+analysis, associated policy reforms and design/introduce relevant financing mechanisms/business models 
+for attracting private sector investment. MINAGRI will demonstrate this new capacity by producing a 
+Private Sector Leveraging Strategy to guide processes that will leverage private sector financing, while 
+ensuring environmental and social standards are maintained. In addition, the foundations for digital data 
+systems will be launched to improve management information and enable greater innovation. 
+Furthermore, a new mechanism will be established to enable greater interagency coordination (including 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 10 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+key stakeholders such as Ministry of Trade, Financial sector actors, etc.) and communication.   
+ 
+
+32. Results Area 2: Enabling Agric Commercialization - aligned with PSTA 4 Priority Area 4:  The 
+second PforR Results Area focuses on specific interventions to improve the quality of public investments 
+in essential value chain services to leverage commercial agriculture. This includes key areas such as 
+infrastructure and research, by introducing new business models that will link public investments to 
+commercial markets and leverage increased levels private sector investments. PSTA 4 advocates for 
+maximizing the effectiveness and efficiency of public investment by leveraging increased private sector 
+investment in service provision and delivery/management of agricultural infrastructure. 
+ 
+
+33. Results Area 3: Delivery of Improved Agric Value Chain Services - aligned with PSTA 4 Priority 
+Areas 3 & 4.  The PforR Program will support fostering competitive agricultural value chains, which 
+requires the public sector to provide critical services to support production, processing, logistics, 
+marketing and the like. This approach is consistent with MFD principles.  The public function supported 
+by the PforR Program is to introduce and accelerate the expansion of services that de-risk agricultural 
+investments by improving dialogue between private and public actions, increasing the use of private 
+sector service delivery (e.g. out-grower schemes and productive partnerships), and expanding access to 
+information and financial services. These measures will help achieve a key anticipated outcome from PSTA 
+4 and will improve productivity and inclusiveness of agricultural market systems and increase value 
+addition and competitiveness of diversified agricultural commodities, for domestic, regional, and 
+international markets. 
+
+ 
+
+34. Results Area 4: Efficiency in Public Expenditures - aligned with PSTA 4 Priority Area 4. The PforR 
+Program seeks to incentivize the dual approach of supporting: (i) a very specific action that demonstrates 
+improved efficiency in public expenditure of the core delivery agency RAB; and (ii) a more general effort 
+to improve the overall expenditure among the three main agencies that account for the largest share of 
+sector expenditure. Since RAB is the agency responsible for key services, improvements in the budget 
+execution system will be undertaken with the goal of improving their delivery function. Standards for 
+budget execution help to maximize the impact of government spending and the ability to meet such 
+standards signals weaknesses that undermines value for money. It also undermines the argument for 
+additional public resources since there are associated concerns over malfeasance in execution that render 
+MINECOFIN reluctant to allocate additional resources. Previous audits of RAB have not been approved 
+because of non-compliance in several important areas. Prior qualified audits have highlighted in detail 
+where weaknesses lie and both agencies are aware of where improvements are needed. 
+
+ 
+
+35. The implementation of the program will be sequenced.  Specifically, under Result Area 1 MINAGRI 
+will develop and seek approval for a Private Sector Leveraging Strategy (with sections on selection criteria 
+for private investments, contract governance, and environmental/social management).   Approval of the 
+Private Sector Leveraging Strategy will enable MINAGRI to focus on the delivery of Result Areas 2 and 3.  
+ 
+
+36. The Boundaries of the PforR Program are summarized below in Table 2 
+ 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 11 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+Table 1: Government program and PforR Program Boundary Comparison 
+
+Item Government program PforR Program 
+
+Title PSTA 4 PforR Program 
+
+Objective Transformation of Rwandan 
+agriculture from a subsistence sector 
+to a knowledge-based value creating 
+sector, that contributes to the national 
+economy and ensures food and 
+nutrition security in a sustainable and 
+resilient manner 
+
+To improve the capacity of selected national 
+public agricultural institutions, to increase the 
+enabling of commercialization of agriculture 
+value chains in Rwanda 
+
+Timeframe 2018-2024 2018-2021 
+
+Program 
+Cost 
+
+US$ 1.5 billion US$ 292.2 million 
+
+Activities Priority Area 1: Innovation and 
+Extension 
+
+• Research and innovation 
+
+• Improved soil health and 
+fertility  
+
+• Conservation of biodiversity 
+
+• Extension and advisory 
+services 
+
+• Skills Development  
+ 
+Priority Area 2: Productivity and 
+Resilience 
+
+• Land husbandry and crop 
+production diversification  
+
+• Irrigation 
+
+• Animal resources and 
+production systems 
+
+• Nutrition sensitive agriculture 
+
+• Mechanisms for resilience  
+ 
+Priority Area 3: Inclusive markets and 
+value addition 
+
+• Market linkages 
+
+• Market risk and financial 
+services 
+
+• Quality assurance and 
+regulations 
+
+ 
+Priority Area 4: Enabling Environment 
+& Responsive Institutions 
+
+• Agriculture institutional 
+
+ 
+PforR Program Results Area 3 
+
+• Innovation (partnership agreements 
+with universities and private sector) 
+
+ 
+PforR Program Result Area 2 
+
+• Private sector extension and advisory 
+services 
+
+ 
+ 
+
+PforR Program Results Area 2 
+
+• Land husbandry (focused on links to 
+commercialization) 
+
+• Irrigation (focused on links to 
+commercialization) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+PforR Program Result Area 2 
+
+• Market Links (infrastructure for value 
+chain development storage, cold 
+trucks, etc.) 
+ 
+
+ 
+ 
+PforR Program Result Area 4 
+ 
+
+• Agriculture Institutional Development  
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 12 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+development 
+
+• Evidence policy and 
+development and regulatory 
+framework 
+
+• Commercialization of value 
+chains 
+
+• Planning, coordination and 
+budgeting 
+
+• Knowledge management  
+
+• Evidence policy development   
+
+• Commercialization of value chains 
+
+• Planning, coordination and budgeting 
+ 
+
+Geographic 
+Scope 
+
+National National 
+
+ 
+
+37. The Program boundary for PforR financing provides a clear strategic focus to the PforR Program.  
+There are areas of PSTA 4 that will not be covered by the PforR Program.  These areas include the 
+following: 
+ 
+
+a. improved soil health and fertility  
+b. conservation of biodiversity  
+c. skills development 
+d. animal resources and production systems  
+e. nutrition sensitive agriculture 
+f. mechanisms for resilience 
+g. quality assurance  
+h. knowledge management 
+
+ 
+
+38. The rationale for not incorporating these areas in the PforR Program includes the following:  a) 
+MINAGRI is in the process of securing both public and external resources for these areas (including 
+regional IPF and GASFP), b) these areas are unlikely to provide an equivalent transformation impact and 
+c) a number of these areas (e.g. mechanisms for resilience and quality assurance) could not be effectively 
+supported by a PforR Program.  
+
+ 
+
+39. The PforR Program and its sub-components aim to tackle identified climate risks and 
+vulnerabilities as follows: 
+
+• Policy and Organizational Reform. Currently MINAGRI has limited capacity to fulfil its mandate 
+in policy development, inter-sector and intra- sector coordination, resource mobilization and 
+M&E. The PforR Program will support improving the capability of MINAGRI to properly 
+address policy challenges and direct public investments across all GoR. This new capacity will 
+result in strengthen regulatory institutions and policies (including rules and regulations) which 
+reduce the emissions of GHGs in the agriculture, fishing, livestock, and/or forestry sectors (a 
+PAP action), improvements in data management of weather monitoring systems. 
+
+ 
+
+• Improved coordination with relevant agencies and actors. The primary focus for the PforR 
+Program is to support MINAGRI in becoming a stronger market enabler.  Improving 
+interagency working and coordination is a requirement in this process. This improved capacity 
+for sectoral collaboration will also be applied toward tackling climate risks and vulnerabilities. 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 13 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+ 
+
+• Commercialization of the delivery of key public goods and services. Most agriculture in 
+Rwanda is practiced on steep slopes prone to erosion during the rainy season. While 
+considerable progress has been made in constructing robust “bench” (wide) terraces, much 
+more needs to be done to secure the land asset.  The PforR Program will support, via the 
+efficient use of public funds and leveraged private investments, the restoration and 
+conservation of productive landscapes. 
+
+ 
+Table 2: Disbursement Linked Indicators and Climate Change Intent 
+
+Disbursement-
+
+Linked 
+
+Indicator 
+
+Definition Climate Change intent 
+
+DLI 1: 
+
+Organizational 
+
+Development 
+
+Roadmap 
+
+successfully 
+
+prepared and 
+
+implementation on 
+
+track 
+
+• Organizational review, including capacity 
+needs assessment of MINAGRI completed and 
+new functional structures in place (year 1) 
+
+• OD Plan for MINAGRI prepared and approved 
+(year 2) 
+
+• Upgrade of HR management function 
+completed (year 3) 
+
+The process of organizational 
+
+change will enable MINAGRI to 
+
+build increased capacity 
+
+tointroduce institutional reforms 
+
+and strengthening to include 
+
+climate aspects in policies and 
+
+regulations in flexible manner 
+
+ 
+
+DLI 2: Improved 
+
+analytical and 
+
+policy reform 
+
+competencies 
+
+demonstrated 
+
+• Strategy for leveraging Private Investment 
+with Implementation Plan published (year 1) 
+
+• Annual Report by MINAGRI on Public-Private 
+Investment in Agriculture published (year 2) 
+
+• Agricultural input subsidy schemes reviewed, 
+alternative models for increasing efficiency 
+assessed, reforms agreed and implemented 
+(year 3) 
+ 
+
+ 
+
+The development of new policies 
+
+and strategies will demonstrate 
+
+MINAGRI capacity to respond to 
+
+new/emerging challenges 
+
+including the identification of 
+
+sites at greatest risk and 
+
+enhancement of resilience of 
+
+those sites and/or services 
+
+DLI 3: Digital 
+
+information 
+
+platforms designed 
+
+and operational 
+
+• A common data warehouse platform is 
+
+designed and ready for use, whereby existing 
+
+data in Weather, MIS and ALIS I will be fully 
+
+interfaced (at least down to the level of all 
+
+districts) – (year 1) 
+
+• The Farmer registration application and ALIS II 
+
+will be fully interfaced with MIS and ALIS I in 
+
+the common data warehouse platform. Both, 
+
+Improved local climate 
+
+information services and 
+
+medium/short-term forecasting 
+
+to support adaptation planning 
+
+and strengthening ability to cope 
+
+with climate change and climate 
+
+variability impacts 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 14 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+Farmer registration and ALIS II, will hold data 
+
+covering all districts - (year 2) 
+
+• (i) The Livestock registration application 
+(holding cow data with national coverage) will 
+be interfaced with MIS, ALIS I and II, Farmer 
+registration application in the common data 
+warehouse platform; (ii) Sector Performance 
+Dash Board is in place and publicly accessible 
+online, whereby it provides reports on 
+national agricultural macro indicators, 
+national Indicator of Food Security and PSTA 4 
+results indicators  
+(year 3) 
+
+Improvements to the collection 
+
+and management of data related 
+
+to land use and livestock will 
+
+improve MINAGRI’s capacity for 
+
+monitoring and early response to 
+
+potential impacts of climate-
+
+related risks and hazards such as 
+
+crop and livestock pests and 
+
+diseases  
+
+ 
+
+DLI 4: Mechanism 
+
+to strengthen 
+
+public private 
+
+dialogue (PPD) and 
+
+specific commodity 
+
+value chain 
+
+platforms designed 
+
+and implemented 
+
+• Two mechanisms designed and budgeted: (1) 
+National Public-Private Dialogues (PPD) on 
+themes with strategic relevance (2) 
+Commodity value chain platforms (year 1) 
+
+• Two national PPDs held and at least 3 VC 
+platforms established with operating plans 
+(year 2) 
+
+• Additional 2 PPDs held (year 3) 
+
+• VC platforms are fully functional and yielded 
+evidence of satisfactory results (as per M&E of 
+operating plan) (year 3) 
+ 
+
+A stronger dialogue between the 
+
+Public and Private Sector 
+
+(including farmer associations 
+
+and other stakeholders) will 
+
+allow for knowledge exchange 
+
+and greater awareness of climate 
+
+risks, and will encourage greater 
+
+consensus and innovation on 
+
+how (exposure to) risks and 
+
+shocks can be reduced and 
+
+managed.  
+
+DLI 5: New 
+
+irrigation and 
+
+terracing area 
+
+identified, 
+
+developed and/or 
+
+managed where 
+
+commercial 
+
+viability has been a 
+
+determining 
+
+appraisal criterion   
+
+Area (Ha) identified, developed and put under 
+
+recognized PPP (target 23,296 Ha)- disaggregated 
+
+by 
+
+• Irrigation area (target 1260) 
+
+• Area using radical/progressive terraces 
+
+(target 745) (year 2) 
+
+Area (Ha) identified, developed and put under 
+
+recognized PPP (target 31,504 Ha) - disaggregated 
+
+by 
+
+• Irrigation area (target 1680) 
+
+•  Area using radical/progressive terraces 
+
+(target 2310) (year 3) 
+
+ 
+
+Most agriculture in Rwanda is 
+
+practiced on steep slopes prone 
+
+to erosion during the rainy 
+
+season. This intervention will, 
+
+with support from private sector, 
+
+promote innovative management 
+
+practices to restore or increase 
+
+resilience of degraded areas for 
+
+crop production. 
+
+ 
+
+Promote sustainable water 
+
+management practices that 
+
+promote water use efficiency 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 15 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+DLI 6: Volume of 
+
+private sector 
+
+investment (in US$) 
+
+matching public 
+
+financing in PPP 
+
+infrastructure 
+
+projects  
+
+The DLI will help to promote new financing 
+
+mechanisms.  Only investments fully committed 
+
+are included in the measure. 
+
+• 4,000,0000 US$ or more (year 2) 
+
+• 7,150,000 US$ or more (year 3) 
+
+Investments will be targeted 
+
+towards infrastructure (e.g. 
+
+greenhouses, drying areas, etc.) 
+
+that is designed to reduced the 
+
+vulnerability of crop storage 
+
+facilities to climate change and 
+
+climate variability. 
+
+ 
+
+This investment will also support 
+
+the creation of infrastructure 
+
+that will support improved 
+
+business continuity during and 
+
+after extreme weather events. 
+
+DLI 7: Private 
+
+sector service 
+
+models designed, 
+
+launched and 
+
+achieving positive 
+
+response    
+
+• 6,000 farm households reached by private 
+advisory services (non-outgrower scheme) 
+(year 2) 
+
+• 8,0000 additional farm households reached by 
+private advisory services (non-outgrower-
+schemes (year 3) 
+
+• 10,0000 new farm household participating in 
+outgrower schemes (Year 3)  
+
+Reduction in the reliance on 
+
+public sector as the key service 
+
+provide will enable MINAGRI to 
+
+refocus resources towards 
+
+supporting farmers who have 
+
+fewer resources to manage 
+
+climate-related risks 
+
+DLI 8: Reform of 
+
+RAB 
+
+• Implementation Plan for RAB Restructuring 
+
+Order prepared and approved by its Board 
+
+(year 1) 
+
+• Deviation between budget and outturn 
+
+expenditure 2018/19  
+
+(year 2) 
+
+• Unqualified audit of RAB (year 3)  
+
+Enables the mainstreaming of 
+
+climate change and relevant 
+
+adaptation and mitigation 
+
+measures across agriculture-
+
+related stakeholders 
+
+ 
+
+40. Role of the Development Partners.  MINECOFIN and MINAGRI will be mobilizing resources to 
+finance PSTA 4.  There are indications that DFID, EU, IFAD, and USAID will be providing finance via project 
+based financing or programmatic financing. 
+ 
+41. DFID is considering providing support for the PforR Program. Once this is confirmed, the most 
+appropriate mechanism for their co-financing will be established (i.e., parallel financing, co-financing, 
+establishment of a multi-donor trust fund, etc.). To the extent that other development partners (DPs) 
+participate in co-financing the PforR Program, it is understood that their funding would need to fit in the 
+overall program envelope under PforR financing and would be allocated to the same DLIs, according to a 
+similar pattern of distribution (in agreement with the Common Framework of Engagement (CFE)) of the 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 16 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+MDTF, following all existing procedures of the PforR instrument (i.e., DLIs, verification protocols, PAP, 
+Program Implementation). 
+ 
+42. DFID, EU, IFAD, USAID, FAO and the Netherlands will continue to provide Technical Assistance 
+(TA) to address the recognized capacity gaps within MINAGRI. These DPs are planning to continue TA 
+support over the implementation of PSTA 4.  These same DPs are also part of the Agriculture Sector 
+Working Group (ASWG), which provides an important forum to coordinate the complementarity of TA 
+interventions, also as part of the annual planning and budgetary processes. Discussions are underway to 
+explore the most appropriate modalities to be followed by these DPs, including co-financing the PforR 
+operation. Having multiple DPs finance the PforR operation would streamline and reduce transaction 
+costs for the Ministry by having one mechanism with agreed upon results and a common set of DLIs. It 
+would also simplify the financing to support strategic results, whether policies, impacts, outcomes, and/or 
+outputs. DPs who wish to provide co-financing under the proposed PforR operation will follow the same 
+procedures as the PforR Program. 
+
+ 
+
+C. Proposed Program Development Objective(s)  
+ 
+
+Program Development Objective(s) 
+  
+To improve the capacity of selected public agricultural institutions and to enable an increase in commercialization of 
+agriculture value chains in Rwanda  
+ 
+ 
+D. Environmental and Social Effects 
+
+ 
+43. The physical activities planned under this PforR Program follow the scope and nature of 
+activities implemented under the previous PforR operation, and moderate adverse environmental and 
+social impacts are anticipated to be site-specific and reversible. Identified impacts can be effectively 
+mitigated, based on existing environmental and social systems and the solid recent track record of the 
+implementing agencies compliance with both national legislation and World Bank safeguards. No 
+anticipated Program activities are judged likely to have significant adverse impacts on the environment 
+and/ or affected people that are sensitive, diverse, or unprecedented. However, it is recognized that the 
+key sector intuitions, such as, MINAGRI and RAB will require significant capacity building to enhance E&S 
+systems and staffing to ensure effective implementation and monitoring of not only public sector, but 
+also PPP initiatives.  The capacity enhancement efforts for MINAGRI are included in the PforR operation, 
+supported by other Donors. Based on the introduction of the new instruments and new types of 
+collaboration with the private sector, the overall environmental and social risks of the PforR Program are 
+proposed to be rated as Substantial. 
+ 
+
+44. The previous PforR operation had several notable achievements, such as the development of a 
+consolidated Environmental and Social Implementation Manual based on existing government 
+guidelines; and national and district level capacity building on the application of the Manual and the 
+establishment of a grievance redress call center. 
+ 
+
+45. The update of the ESSA is still ongoing to incorporate a sample of the private sector entities and 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 17 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+assess the environmental and social systems as they are applied for potential PPP projects, especially 
+focusing on Results Area 2: Enabling Agricultural Commercialization and Results Area 3: Delivery of 
+Improved Agric Value Chain Services. 
+ 
+
+46. Environmental Effects. The PforR Program may include small scale irrigation schemes, similar in 
+scale to sub-projects under the IDA-financed Rural Sector Support Project (RSSP; phases 1 – 3), located 
+in existing sites of agricultural land use, do not involve large-scale resettlement, and consist of land 
+husbandry works (e.g., terracing); drainage canals and/ or dams that are not higher than 10m; post-
+harvest infrastructure, markets, and community storage facilities. Based on the experience with 
+implementation of support to PSTA III, the potential environmental impacts of Program activities are 
+generally well known and understood by implementing authorities at the national and local levels. 
+Under the previous PforR operation, MINAGRI has adopted an Environmental and Social Management 
+System based on the internationally accepted best practices and more specifically, based on 
+implementation of other donor-funded projects, including Bank-financed RSSP and the Land Husbandry, 
+Water Harvesting and Hillside Irrigation (LWH) project. This system includes national small dam safety 
+guidelines, integrated pest management plans, environmental assessments and grievance redress 
+mechanisms database. It is expected that the identified environmental impacts can be: (i) avoided 
+through a careful site selection process, which entails conducting feasibility studies, an environmental 
+impact assessment (EIA), and social screening; and (ii) reduced with diligent monitoring of 
+implementation of known and demonstrated mitigation measures. At the same time, the Program will 
+have a number of environmental benefits, including (i) a soil conservation and land husbandry program 
+that will contribute to more sustainable land and water management and decreased erosion; and (ii) soil 
+fertility management, and advance research and seed production, which will improve agricultural 
+practices and increase food security in the country. 
+ 
+
+47. Social Effects. No significant changes in land use or large-scale land acquisition are expected 
+from the proposed PforR. The Program continues to pay specific attention to its potential social impacts, 
+based on the practices established under previous PforR operation. These include: a chance of moderate 
+physical resettlement and/ or land acquisition related to Program interventions and temporary 
+displacement due to land husbandry works; challenges of identifying relocation sites due to the limited 
+land availability; loss of income from land due to demarcation of buffer zones; potential for limitations 
+on access to natural resource use in or around protected areas; consolidation of land use; acquisition of 
+land for agro-processing and off-farm activities; benefit sharing of commercial farming if land is rented; 
+male capture of community institutions; obstacles for women and youth participation; difficulty of 
+purchasing agriculture inputs for the very poor due to their limited access to micro finance; conflict over 
+land ownership and use; and weak participatory decision making and lack of transparency. The Program 
+is also expected to have significant social benefits for the rural communities in the target areas, such as 
+increased productivity and commercialization of agriculture and improved quality and accessibility of 
+agricultural services, thus improving citizens’ incomes and overall welfare and quality of life, especially 
+for the rural poor and vulnerable. Based on the approach established during implementation of other 
+Bank-supported operations, the Program targets farmer groups with specific attention to gender issues, 
+including in group and cooperative leadership, inclusion of vulnerable groups, and training in conflict 
+resolution and family welfare.  
+ 
+
+48. Sustainability. Ensuring environmental and social sustainability of Program investments requires 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 18 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+mainstreaming sustainability planning at all levels of the government, including the continuous 
+participation of target communities. Currently, the challenge for the sector institutions under the 
+Program is to ensure that decentralized decision making, transparency, and accountability are 
+institutionalized to enhance sustainability of investments. This need has been recognized by MINAGRI, 
+RAB and participating private sector entities and will receive support from the DPs.  
+ 
+
+49. Capacity. Institutional arrangements for environmental management, including ESIAs, are 
+mandated and established at all levels of government. The legal/regulatory procedures and policies for 
+expropriation of land in the country adequately respond to the relocation and compensation for loss of 
+assets, services, homes, and land. However, a common challenge is the ineffective implementation of 
+these requirements and responsibilities due to lack of institutional capacity and financial resources at 
+the local level. The assessment of specific capacity of the private sector is ongoing, however, more 
+coordination efforts will need to be made by MINAGRI to ensure effective compliance monitoring of the 
+PPP interventions. The capacity-building program will continue from the previous phase and focus on 
+improving the environmental and social management practices among the government agencies and 
+private sector organizations, including in the areas of: (i) implementation and oversight of the 
+environmental and social assessment system within the Program; (ii) sustainability aspects of site 
+selection and technical designs of the land husbandry and irrigation activities; (iii) documentation of 
+involuntary resettlement and project-affected people and vulnerability assessments, including, where 
+necessary, preparation of resettlement action plans (RAPs); (iv) screening of potential environmental 
+and social impacts and public consultation; (v) enhancing gender-sensitive capacity building of local and 
+national staff and service providers and gender responsiveness in agricultural service delivery; and (vi) 
+good monitoring practices, including proactive use of grievance redress mechanisms; sampling of soil 
+and water quality, and others.  
+ 
+
+50. OP 7.50 on International Waterways is triggered as the Program activities will involve water 
+extraction for irrigation activities from the streams flowing into international basins of the Nile and Lake 
+Tanganyika. Following the practice of the RSSP (phases 1-3), the Bank has notified riparian states as part 
+of Program preparation. The Bank has assessed, however, that the proposed activities under the 
+Program will not result in any adverse impacts to the riparian countries. Irrigation development and land 
+husbandry are not expected to have adverse impacts on water quality levels. Even though agricultural 
+intensification and increased use of agricultural inputs are objectives of the Program, pre-Program input 
+use levels are very low, and modest increases and sustainability measures built into the Program design 
+are not expected to have an adverse impact on water quality. In addition, environmental and pest 
+management plans are routinely implemented in the Program to mitigate such impacts to minimal 
+levels. The PforR Program will not have any adverse effects on the quantity or quality of water flows to 
+any other riparian states. 
+ 
+
+51. Communities and individuals who believe that they are adversely affected as a result of a Bank 
+supported PforR operation, as defined by the applicable policy and procedures, may submit complaints 
+to the existing program grievance redress mechanism or the WB’s Grievance Redress Service (GRS). The 
+GRS ensures that complaints received are promptly reviewed in order to address pertinent concerns. 
+Affected communities and individuals may submit their complaint to the WB’s independent Inspection 
+Panel which determines whether harm occurred, or could occur, as a result of WB non-compliance with 
+its policies and procedures. Complaints may be submitted at any time after concerns have been brought 
+
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 19 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+directly to the World Bank's attention, and Bank Management has been given an opportunity to 
+respond.  For information on how to submit complaints to the World Bank’s corporate Grievance 
+Redress Service (GRS), please visit http://www.worldbank.org/GRS. For information on how to submit 
+complaints to the World Bank Inspection Panel, please visit www.inspectionpanel.org 
+
+ 
+ 
+E. Financing 
+
+Program Financing (Template) 
+ 
+
+Sources Amount 
+(USD Million) 
+
+% of Total 
+
+  Counterpart Funding 189.92 65.50 
+
+       Borrower      192.20      65.7850 
+
+  International Development Association (IDA) 100.00 34.50 
+
+       IDA Credit      100.00      34.22 
+
+Total Program Financing 282.92  
+
+ 
+
+ 
+ .   
+ 
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+ 
+
+Name : Timothy D Robertson   
+
+Designation : Sr Agricultural Spec. Role : Team Leader(ADM Responsible) 
+
+Telephone No : 458-4396 Email : trobertson@worldbank.org 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+
+ 
+
+Borrower : Republic of Rwanda    
+
+Contact : Ronald Nkusi Title : 
+Director of External Finance Unit, 
+MINECOFIN 
+
+ 
+
+Telephone No : 250252596130 Email : ronald.nkusi@minecofin.gov.rw  
+ 
+
+ 
+
+Implementing Agencies 
+
+http://www.worldbank.org/GRM
+http://www.inspectionpanel.org/
+
+
+ 
+
+The World Bank  
+Transformation of Agriculture Sector Program 4 PforR (P161876) 
+
+ 
+
+ 
+
+  
+Mar 15, 2018 Page 20 of 20  
+
+ 
+
+F
+o
+
+r 
+O
+
+ff
+ic
+
+ia
+l 
+
+U
+se
+
+ O
+n
+
+ly
+ 
+
+ 
+
+ 
+
+Implementing 
+Agency : 
+
+Ministry of Agriculture and Animal 
+Resources (MINAGRI) 
+
+   
+
+Contact : Mr. Jean-Claude Kayisinga Title : Permanent Secretary  
+
+Telephone No : 250252575756 Email : jckayisinga@minagri.gov.rw  
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 473-1000 
+Web: http://www.worldbank.org/projects  
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+
+http://www.worldbank.org/projects
+
+

@@ -1,0 +1,823 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+Page 1 of 11
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+ADDITIONAL FINANCING
+Report No.: PIDISDSA21270
+
+Date Prepared/Updated: 08-Feb-2017
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Benin Project ID: P160029
+Parent 
+Project ID 
+(if any):
+
+P115886
+
+Project Name: Agricultural Productivity and Diversification Additional Financing (P160029)
+Parent Project 
+Name:
+
+Agricultural Productivity and Diversification (P115886)
+
+Region: AFRICA
+Estimated 
+Appraisal Date:
+
+07-Feb-2017 Estimated 
+Board Date:
+
+08-Mar-2017
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): MInstry of Economy and Finance
+Implementing 
+Agency:
+
+Minist#re de L Agriculture de L Elevage de la P#che (MAEP)
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 0.00
+International Development Association (IDA) 45.00
+Total Project Cost 45.00
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Appraisal 
+Review 
+Decision (from 
+Decision Note):
+
+The review did authorize the team to appraise and negotiate
+
+Other Decision:
+Is this a 
+Repeater 
+project?
+
+No
+
+B.   Introduction and Context
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+Page 2 of 11
+
+Country Context
+Benin is a low-income country of about ten million people (2013 population census) with a per 
+capita income of US$820 in 2014.  The economy is driven by agriculture and services, 
+particularly import/export activities through the Port of Cotonou. Agriculture accounts for 25 
+percent of Gross Domestic Product (GDP) and 47 percent of the country's employment. Cotton is 
+the primary export commodity. The informal sector, including subsistence agriculture, contributes 
+up to 56 percent of GDP and engages over 90 percent of the labor force. Informal re-export to 
+Nigeria contribute Â¼ of the government revenue (a part of that activity goes through formal 
+channels for it to be able to generate so much of the government revenue). The country was able 
+to maintain macroeconomic stability, which laid the foundation for accelerating growth. Real 
+GDP grew by 4.6 percent in 2012; 6.9 percent in 2013; 6.5 percent in 2014; is estimated at 5.0 
+percent in 2015; and is projected at 4.5 percent in 2016; which is higher than the previous 5-year 
+average of 3.7 percent. Steady gross domestic product (GDP) growth of about 5 percent during 
+the period (2012-2015) was partially offset by rapid population growth averaging 3.5 percent per 
+year, which led to a modest and unequal increase in household consumption.  As a result, poverty 
+levels grew from 36.2 percent in 2011 to 40.1 percent in 2015 . Growth was particularly modest 
+in agriculture, which employs almost half the labor force. The economy remains poorly 
+diversified and vulnerable to external shocks. This vulnerability underscores the need to promote 
+economic diversification (including exports) as recommended in the 2013 Country Partnership 
+Strategy (CPS) for Benin. Poverty reduction has been enshrined in successive poverty reduction 
+strategies, but results have proven erratic and difficult to sustain. There are significant regional 
+disparities in poverty rates, and while female-headed households have typically experienced 
+lower poverty levels, women continue to suffer from a lack of economic opportunity, are 
+underrepresented in politics and in other decision making positions, and are more susceptible to 
+falling into poverty (Table 1). 
+ 
+The disconnect between economic growth and poverty reduction during the last five years has 
+been reinforced by the fact that higher growth stemmed mainly from more capital-intensive 
+sectors like banking, telecommunications and the port. In contrast, agriculture, which employs 
+half of the labor force, only grew at 4 percent per annum, with its growth derived from more land 
+and more labor, but with modest increase in productivity. In addition, population growth has 
+limited per capita growth and its impact on poverty reduction. Furthermore, Nigeria➢❨ s 
+economic slowdown and policy changes have led to decreased opportunities for informal trade, 
+both in the gas sector, where gas flows informally from Nigeria to Benin, and in the broader 
+consumer goods sector, where rice, chicken, edible oil, used cars, used clothing etc., flow from 
+Benin to Nigeria. For instance, the suppression of subsidies in Nigeria➢❨ s oil sector affected 
+negatively the informal Beninese gas trade in areas adjacent to Benin➢❨ s border with Nigeria 
+(Adjarra), where poverty increased from 34.8 percent in 2011 to 50.4 percent in 2015.
+Sectoral and institutional Context
+The agricultural sector in Benin is subject to the vagaries of climate and price fluctuations. 
+Increase in productivity for major crops, including cotton has remained modest over time. Overall 
+agricultural growth is around 4 percent, which is often offset by the relatively high population 
+growth (3.5 percent). Yet, agriculture will remain one of the main source of growth and 
+employment for the near future in the country. This will require higher and faster growth.  The 
+past performance of 4% was insufficient to drive meaningful poverty reduction, due to the very 
+high population growth. The agricultural production systems rely on an extension of cropped area 
+and family labor, with no or limited use of improved inputs, production methods, and farm 
+
+
+
+Page 3 of 11
+
+equipment. Access to financing is limited outside the cotton system. The country➢❨ s agricultural 
+trade performance is generally weak, with a persistently negative agricultural trade balance. 
+Agricultural exports are concentrated on three groups of products: cotton, fruits (pineapple), and 
+nuts and oilseed (cashew, soy and cottonseed). To meet the needs for a growing urban population, 
+Benin continues to import a large share of horticultural products from neighboring countries (such 
+as Burkina Faso and Nigeria), rice from Asia, wheat, frozen meat and milk from Europe, and 
+frozen poultry products from Brazil. The sector faces the triple challenges of diversifying exports 
+(consolidating cotton exports and increasing export volume for pineapple and cashew nut), 
+increasing food production, and sustainably increasing farm and post-harvest productivity. These 
+challenges must be addressed by taking into account the structural vulnerability of the 
+country➢❨ s agricultural production system to floods and occasional droughts.  
+ 
+Improving productivity and strengthening diversification are on the top of the agenda of the 
+agricultural and overall development strategy in Benin. The agriculture sector strategy in Benin is 
+defined within the broader framework of the Comprehensive Africa Agricultural Development 
+Program (CAADP) by which the country commits to achieve a 6 percent growth in agriculture 
+and to allocate at least 10 percent of the national budget to agriculture as recommended in the 
+Maputo declaration . The country➢❨ s long-term development strategy (Benin 2025 - Alafia) 
+establishes the long-term vision of the country and gives clear directions in relation to the 
+promotion of agricultural value chains. The vision is that the country must move towards a greater 
+diversification of agricultural production in order to become a major exporter of agricultural 
+products by 2025. The achievement of this vision would require a sound public and private 
+financing of agriculture and financial sector reforms that would support the promotion and 
+implementation of specialized financing instruments for accelerated productivity growth and 
+sustainable diversification in the agriculture sector.
+
+C.  Proposed Development Objective(s)
+
+Original Project Development Objective(s) - Parent
+The Project Development Objective of the Agricultural Productivity and Diversification Project 
+(PADA) is to restore and improve productivity and value addition for selected value chains in the 
+Recipient's territory.
+
+Key Results 
+The key performance indicators will remain unchanged, although targets will need to be adjusted 
+where necessary and new indicators will be introduced to account for the new activities and 
+changes in corporate indicators. These new indicators include: (i) Number of farmers reached 
+with assets or services  of whom 40 percent are women; (ii) Farmers adopting improved 
+agricultural technology; (iii) Number of micro projects transformed into SMEs. The end date for 
+all targets will also be extended to February 28,2021, in line with the proposed revised Closing 
+Date of the original project. .
+
+D.  Project Description
+
+The proposed Additional Financing (AF) will be used to support the government of Benin in 
+consolidating and scaling-up the achievements of the initial project, and to strengthen the project 
+focus on income generating activities for poor households as well as improving their nutritional 
+status.
+
+
+
+Page 4 of 11
+
+Component Name
+Component 1. Adoption of Improved Technologies
+Comments (optional)
+Like for the initial project, the objective of this component is to improve productivity and quality 
+standards along the promoted value chains.  The component will continue supporting adoption of 
+improved technologies for the development of the food security (aquaculture, rice, poultry, sheep 
+and goat,) and export-oriented value chains (cashew and pineapple) to boost productivity and 
+improve producers➢❨  incomes.
+
+Component Name
+Component 2 Development/rehabilitation of Production and Market Infrastructures
+Comments (optional)
+This component focuses: on (i) promoting small-scale irrigation systems for pineapple and 
+cashew plantations to improve productivity; (ii) further supporting small-scale irrigation of rice 
+production to maintain and expand productivity gains; and (iii) supporting the construction of 
+market infrastructure (warehouses, drying areas, cold chambers, etc.) to reduce post-harvest losses 
+and facilitate access to markets
+
+Component Name
+Component 3. Value Chain Coordination and Access to Finance for Private Initiatives
+Comments (optional)
+This component has two sub-components: (i) value chain coordination and (ii) facilitation of 
+access to finance in support of private initiatives.
+
+Component Name
+Component 4. Sector Program Coordination and Project Management
+Comments (optional)
+This component has two sub-components: (i) capacity building of value chain coordination 
+institutions, including strengthening the capacities of civil society and producers➢❨  
+organizations as well as of MAEP in coordinating the implementation of the new agriculture 
+sector program, and (ii) supporting Project management and monitoring and evaluation.
+
+E.  Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+
+The project is nationwide and will be implemented in the 12 Departements (Atacora, Donga, 
+Atlantique, Littoral,  Borgou, Alibori, Mono, Couffo, Oueme, Plateaux, Zou, Collines).
+
+F.  Environmental and Social Safeguards Specialists
+
+Abdoul Wahabi Seini (GSU01)
+
+Abdoulaye Gadiere (GEN07)
+
+II. Implementation
+Institutional and Implementation Arrangements
+There will be no major change to the implementation arrangements. The Project Coordination Unit 
+
+
+
+Page 5 of 11
+
+(PCU) is currently composed of staff who have been recruited based on the skills needed for the 
+various positions. Given the nature of the scaling up and new activities, the PCU will include an 
+additional animal production specialist. In addition, given the strategic orientation of the Programme 
+Cadre-ProCAD  that hosts the PCU, some additional staff will be recruited with cost sharing between 
+PADA and WAAPP: (i) an operations officer; (ii) a finance controller; (iii) a computer and 
+information management specialist; (v) a logistics management specialist; (iv) an accountant; and (v) 
+two administrative assistants.  
+ 
+Financial Management (FM). The proposed AF will build on the existing institutional and fiduciary 
+arrangements of the Project Coordination Unit of PADA under oversight of the Ministry of 
+Agriculture. The overall performance of the PADA in financial management is Satisfactory. Staffing 
+is adequate but needs to be strengthened with a Financial Controller and proper books of accounts 
+and supporting documents have been kept in respect of all expenditures. The PCU is familiar with 
+the Bank FM requirements and has demonstrated solid technical and fiduciary capacities to manage 
+Bank-financed Projects. The audit for the year ended December 31, 2015 for the PADA was 
+submitted on time, and was unqualified. The interim un-audited financial reports (IFR) are prepared 
+every quarter and regularly submitted to the Bank on time.  
+ 
+The overall FM risk of the Agricultural Productivity and Diversification Project including the 
+proposed additional financing is rated Moderate. It is considered that the financial management 
+satisfies the Bank➢❨ s minimum requirements under OP/BP 10.00, and therefore is adequate to 
+provide, with reasonable assurance, accurate and timely financial management information on the 
+status of the project required by the Bank.  
+ 
+Procurement. The New Procurement Framework (including Procurement Regulations for Borrowers) 
+that apply to projects with PCN held after July 1st, 2016 will normally apply. Given the fact that 
+waiver has been obtained from CPO to apply the old procurement Guidelines, procurement 
+arrangements of the original project will remain largely the same under the proposed Additional 
+Financing in accordance with: (a) the World Bank➢❨ s ➢❨ Guidelines: Procurement of Goods, 
+Works, and Non-Consulting Services under IBRD Loans and IDA Credits and Grants➢❨  dated 
+January 2011; revised July 2014, and (b) ➢❨ Guidelines: Selection and Employment of Consultants 
+under IBRD Loans and IDA Credits and Grants by World Bank Borrowers➢❨  dated January 2011, 
+revised July 2014.  Although procurement on PADA has been quite challenging, the PCU has 
+conducted procurement activities for the original project in a satisfactory manner.  
+ 
+Environmental and Social Safeguards. The AF triggers: OP/BP 4.01 on Environmental Assessment; 
+OP4.09 on Pest Management; OP/PB4.11 On Physical Cultural Resources and OP/BP 4.12 on 
+Involuntary Resettlement. The original project was rated as environmental assessment Category 
+➢❨ B➢❨  so as the proposed AF. The environmental and social impacts of the Project are expected to 
+be moderate, site specific, and manageable. The Project is expected to have a positive environmental 
+impact through its support for agricultural technologies that promote the better use of land and water 
+resources. Potential environmental risks could include point and nonpoint pollution of water sources, 
+and other issues associated with the use of agricultural chemicals, and negative environmental 
+impacts associated with the rehabilitation of irrigation or small-scale civil works. The parent 
+project➢❨ s safeguards documents (Environmental and Social Management Framework-ESMF, Pest 
+Management Plan-PMP and Resettlement Policy Framework-RPF) have been adapted and updated to 
+include activities planned under the AF. Thereafter, all the three safeguard instruments have been 
+consulted upon and disclosed in-country on February 03, 2017 and at the Infoshop on February 03, 
+
+
+
+Page 6 of 11
+
+2017. The latest implementation support mission (December, 2016) rated the safeguard compliance 
+Satisfactory, based on review of progress reports and project site visits. The Project Management 
+Unit has an extensive experience in Bank➢❨ s safeguards policies and a dedicated team has been 
+appointed to follow up on environmental and social issues; especially the implementation of the 
+safeguards instruments. In addition, the national body in charge of environmental and social 
+management plans (ESMPs) implementation monitoring (ABE Agence Beninoise pour 
+l➢❨ Environnement) will ensure the compliance with national legislation while Bank➢❨ s safeguards 
+specialists guide and provide guidance to the PIU through regular supervision missions.
+
+III. Safeguard Policies that might apply
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental 
+Assessment OP/BP 
+4.01
+
+Yes The ongoing Additional Financing intends to finance small 
+equipment to ensure proper use of irrigation facilities (sub-
+component 2-1). More specifically, the project under sub-
+component 2-2, will also fund the construction and 
+rehabilitation of critical market and storage infrastructures: (i) 
+cold chamber for pineapple packaging and storage before 
+export; (ii) construction of centers of bulking up in pineapple 
+production areas and distribution centers of pineapple to 
+expand domestic marketing of pineapple; (iii) construction of 
+25 warehouses to support the bulk marketing of cashew nuts; 
+(iv) construction and equipment of 10 cashew apple juice 
+processing units to support income-generating activities for 
+women based on good results of the initial phase; (v) 
+construction of 100 threshing and drying areas for rice to 
+improve quality and marketability of the final product; and (vi) 
+construction and equipment of fresh fish distribution centers. 
+These several civil works will potentially impact 
+environmental and social components. However, the exact 
+locations of these investments were not determined with 
+certainty an Environment and Social Management Framework
+(ESMF) has been developed, reviewed, consulted upon and 
+disclosed within the Benin on February 03,2017 and at the 
+World Bank➢❨ s Website on February 03, 2017
+
+Natural Habitats OP/
+BP 4.04
+
+No This policy is not triggered as there will be no potential impact 
+on natural habitats.
+
+Forests OP/BP 4.36 No The project is not expected to have any impact on forests.
+Pest Management OP 
+4.09
+
+Yes The Additional Financing of PADA aims also at increasing the 
+agricultural productivity. By this way, it is expected that 
+farmers use fertilizers to improve soil fertility and pesticides to 
+fight against pests and predators. To handle in a proper manner 
+the potential use of these chemical products, the borrower has 
+prepared a Pest Management Plan (PMP). After its preparation, 
+PMP has been reviewed by the Bank, consulted upon and 
+disclosed within Benin on February 03, 2017 and on the 
+Bank➢❨ s website on February 03, 2017.
+
+
+
+Page 7 of 11
+
+Physical Cultural 
+Resources OP/BP 
+4.11
+
+Yes The civil works associated with activities will unquestionably 
+involve excavations within the framework of the construction 
+of new infrastructures with the probability to discover cultural 
+resources. However, no specific safeguard instrument is 
+required. The ESMFthat has been prepared includes a chapter 
+in order to provide guidance in case of such discoveries.
+
+Indigenous Peoples 
+OP/BP 4.10
+
+No There are no indigenous people as defined by the Bank within 
+the Benin
+
+Involuntary 
+Resettlement OP/BP 
+4.12
+
+Yes The project could involve land take. To be in full compliance 
+with the policy, the borrower has prepared a Resettlement 
+Policy Framework (RPF) that has  also been reviewed, 
+consulted upon, disclosed in-country on February XXX, 2017 
+and at the World Bank➢❨ s Website February XXX, 2017.
+
+Safety of Dams OP/
+BP 4.37
+
+No The project will not finance any dam construction.
+
+Projects on 
+International 
+Waterways OP/BP 
+7.50
+
+No The project will not finance any activities with impacts on 
+international waterways.
+
+Projects in Disputed 
+Areas OP/BP 7.60
+
+No The project will not finance any activities in disputed areas.
+
+IV. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify 
+
+and describe any potential large scale,  significant and/or irreversible impacts:
+There are no significant or irreversible adverse impacts that are expected from the implementation 
+of activities that will be financed under this AF. Most of the adverse environmental and social 
+impacts associated with these investments will be small-scale and site-specific.  Hence, they will 
+be manageable at an acceptable level. 
+ 
+The project remains EA category B and triggers four safeguards policies namely OP/PB 4.01; 
+OP4.09;OP/PB4.11 and OP/PB 4.12.  Safeguard instruments (ESMF, IPMP and RPF) have all 
+been updated and will be implemented as guidance/guidelines for the activities during the 
+Additional Financing phase.  
+ 
+During the parent project➢❨ s implementation, Overall safeguard compliance (OP/BP 4.01 on 
+Environmental Assessment; OP4.09 on Pest Management and OP/BP 4.12 on Involuntary 
+Resettlement) is rated Moderately Satisfactory.  All safeguard documents have been prepared and 
+disclosed in accordance with national legislation and Bank policies.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities 
+in the project area:
+The assessment of potential environmental and social adverse impacts does not foresee long-term 
+impacts associated to this project.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse 
+
+
+
+Page 8 of 11
+
+impacts.
+N/A
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described.
+Given that the exact location of future investments are not yet known and activities are diversified, 
+the borrower has prepared an Environmental and Social Management Framework (ESMF). That 
+safeguard instrument contains standards, methods, and procedures specifying how future activities 
+whose location, number, and scale are unknown will systematically address environmental and 
+social issues.  It includes procedures for screening and mitigating impacts from construction and 
+operation of the irrigation schemes, and includes the following: (a) checklists of potential 
+environmental and social impacts and their sources; (b) procedures for participatory screening of 
+proposed sites and activities and the environmental and social considerations; (c) procedures for 
+assessing potential environmental and social impacts of the planned project activities; (d) 
+institutional arrangements for mitigating, preventing, and managing the identified impacts; (e) 
+typical environmental management planning process for addressing negative externalities in the 
+course of project implementation; (f) a system for monitoring the implementation of mitigation 
+measures; and (g) recommended capacity building measures for environmental planning and 
+monitoring of project activities. 
+ 
+To manage land acquisition, involuntary resettlement or loss of livelihoods induced by the 
+implementation of activities and other sub-projects, the client has developed a Resettlement Policy 
+Framework (RPF).  That safeguard instrument clarifies the principles, organizational 
+arrangements, and design criteria to be applied to investments/sub-projects to be prepared during 
+project implementation. Investment-specific Resettlement Action Plans (RAP) will be prepared, as 
+necessary, in line with the RPF and submitted to the Bank for approval.  
+ 
+The PMP encourages the use of organic fertilizers and biological technics to fight against 
+agriculture predators. In addition to that, It sets up guidance and guidelines with the aim to protect 
+population health and environment integrity in promoting best practices in the case of use of 
+chemical products. 
+ 
+All the above safeguard documents provide detailed mitigation measures to ensure sustainability 
+and compliance with Benin➢❨ s regulations and legislations, as well as with the World Bank 
+environmental and social safeguard policies. 
+ 
+Activities financed under the project will be screened using a standardized approach based on the 
+tools developed under the original project.  ESIA including ESMPs will be prepared as needed for 
+the small civil works expected to be undertaken under this AF.  For works with negligible impacts 
+environmental measures based on national laws and regulations will apply. 
+ 
+The PIU includes currently an environmental specialist who is responsible for safeguards 
+implementation. Moving forward, under this AF, the same staff will continue to oversee the 
+implementation of the project safeguards instruments and coordinate efforts at the national level. 
+Moreover, the PIU staff will continue to regularly monitor and follow-up with any safeguard 
+issues with the assistance of the ABE(Agence Beninoise de l➢❨ Environnement) involved since 
+the beginning of the parent project in ESMPs implementation monitoring. Lastly, the Bank➢❨ s 
+implementing support missions will also continue to include environmental and social safeguard 
+specialists.
+
+
+
+Page 9 of 11
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure 
+on safeguard policies, with an emphasis on potentially affected people.
+Stakeholders concerned by the AF are constituted by farmers, breeders, fishermen, NGOs, and 
+ministries in charge of Agriculture, Livestock, Water, Forestry, Environment and land 
+management. During the safeguard instruments preparation, these various stakeholder groups have 
+been consulted. During the updating of the safeguards documentation, new series of consultations 
+were held where all of these stakeholders have been consulted and their recommendations, 
+comments and suggestions taken into account in the safeguards documents finalization. The latest 
+consultation in the process of safeguard instruments preparation was the workshop held in 
+Bohicon from December 13 to 16, 2016 at Hotel Fifatin.
+
+B. Disclosure Requirements
+
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank 09-Jan-2017
+
+Date of submission to InfoShop 03-Feb-2017
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors
+
+"In country" Disclosure
+Benin 03-Feb-2017
+Comments:
+
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank 23-Dec-2016
+
+Date of submission to InfoShop 03-Feb-2017
+"In country" Disclosure
+
+Benin 03-Feb-2017
+Comments:
+
+Pest Management Plan
+Was the document disclosed prior to appraisal? Yes
+Date of receipt by the Bank 09-Jan-2017
+
+Date of submission to InfoShop 03-Feb-2017
+"In country" Disclosure
+
+Benin 03-Feb-2017
+Comments:
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the 
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+Page 10 of 11
+
+C. Compliance Monitoring Indicators at the Corporate Level
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) 
+report?
+
+Yes [ ] No [ ] NA [ ]
+
+If yes, then did the Regional Environment Unit or Practice 
+Manager (PM) review and approve the EA report?
+
+Yes [ ] No [ ] NA [ ]
+
+Are the cost and the accountabilities for the EMP incorporated 
+in the credit/loan?
+
+Yes [ ] No [ ] NA [ ]
+
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management issues? Yes [ ] No [ ] NA [ ]
+Is a separate PMP required? Yes [ ] No [ ] NA [ ]
+If yes, has the PMP been reviewed and approved by a 
+safeguards specialist or PM?  Are PMP requirements included 
+in project design?If yes, does the project team include a Pest 
+Management Specialist?
+
+Yes [ ] No [ ] NA [ ]
+
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural 
+property?
+
+Yes [ ] No [ ] NA [ ]
+
+Does the credit/loan incorporate mechanisms to mitigate the 
+potential adverse impacts on cultural property?
+
+Yes [ ] No [ ] NA [ ]
+
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/
+process framework (as appropriate) been prepared?
+
+Yes [ ] No [ ] NA [ ]
+
+If yes, then did the Regional unit responsible for safeguards or 
+Practice Manager review the plan?
+
+Yes [ ] No [ ] NA [ ]
+
+Is physical displacement/relocation expected? 
+ 
+ Provided estimated number of people to be affected
+
+Yes [ ] No [ ] TBD [ ]
+
+Is economic displacement expected? (loss of assets or access to 
+assets that leads to loss of income sources or other means of 
+livelihoods) 
+ 
+ Provided estimated number of people to be affected
+
+Yes [ ] No [ ] TBD [ ]
+
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the 
+World Bank's Infoshop?
+
+Yes [ ] No [ ] NA [ ]
+
+Have relevant documents been disclosed in-country in a public 
+place in a form and language that are understandable and 
+accessible to project-affected groups and local NGOs?
+
+Yes [ ] No [ ] NA [ ]
+
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of 
+measures related to safeguard policies?
+
+Yes [ ] No [ ] NA [ ]
+
+
+
+Page 11 of 11
+
+Have costs related to safeguard policy measures been included 
+in the project cost?
+
+Yes [ ] No [ ] NA [ ]
+
+Does the Monitoring and Evaluation system of the project 
+include the monitoring of safeguard impacts and measures 
+related to safeguard policies?
+
+Yes [ ] No [ ] NA [ ]
+
+Have satisfactory implementation arrangements been agreed 
+with the borrower and the same been adequately reflected in 
+the project legal documents?
+
+Yes [ ] No [ ] NA [ ]
+
+V. Contact point
+World Bank
+Contact: Erick Herman Abiassi
+Title: Senior Agriculture Economist
+
+Borrower/Client/Recipient
+Name: MInstry of Economy and Finance
+Contact: Servais ADJOVI
+Title: Directeur de Cabiinet
+Email: sadjovi@yahoo.fr
+
+Implementing Agencies
+Name: Minist#re de L Agriculture de L Elevage de la P#che (MAEP)
+Contact: Aguemon Dossa
+Title: Directeur de la Programmation et de la Prospective
+Email: adossa@yahoo.fr
+
+VI. For more information contact:
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 473-1000 
+Web: http://www.worldbank.org/projects
+
+VII. Approval
+Task Team Leader(s): Name: Erick Herman Abiassi
+Approved By
+Safeguards Advisor: Name: Maman-Sani Issa (SA) Date: 08-Feb-2017
+Practice Manager/
+Manager:
+
+Name: Simeon Kacou Ehui (PMGR) Date: 08-Feb-2017
+
+Country Director: Name: Pierre Frank Laporte (CD) Date: 08-Feb-2017
+
+
+

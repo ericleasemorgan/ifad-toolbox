@@ -1,0 +1,5025 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONEPT NOTE
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AFRICAN DEVELOPMENT BANK 
+
+ 
+
+ 
+ 
+
+ 
+
+ANGOLA 
+ 
+
+ 
+
+CABINDA PROVINCE AGRICULTURE VALUE CHAINS  
+
+DEVELOPMENT PROJECT 
+ 
+
+ 
+
+ 
+
+ 
+
+APPRAISAL REPORT 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AHAI DEPARTMENT 
+
+ 
+
+November 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P
+u
+
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ a
+u
+
+th
+o
+
+ri
+z
+e
+d
+
+ 
+ 
+
+ 
+P
+
+u
+b
+
+li
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ a
+u
+
+th
+o
+
+ri
+z
+e
+d
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+ 
+
+Currency Equivalents, Fiscal Year, Weights and Measures, Acronyms, Project Information Sheet, 
+
+Main Milestones, Project Summary, Results-Based Logical Framework, Time frame  .……..  i-viii 
+
+ 
+
+I.  STRATEGIC THRUST AND RATIONALE ........................................................................ 1 
+
+1.1 Project Linkages with the Country Strategy and Objectives ............................................... 1 
+
+1.2 Rationale for Bank Involvement .......................................................................................... 1 
+
+1.3 Aid Coordination ................................................................................................................. 2 
+
+II. PROJECT DESCRIPTION ..................................................................................................... 3 
+
+2.1 Project Objectives ................................................................................................................ 3 
+
+2.2 Technical Solutions Adopted and Alternatives Considered ................................................ 4 
+
+2.3 Project Type ......................................................................................................................... 5 
+
+2.4 Project Cost and Financing Arrangements .......................................................................... 5 
+
+2.5 Project Area and Beneficiaries ............................................................................................ 7 
+
+2.6 Participatory Approach to Project Formulation, Design and  Implementation ................... 8 
+
+2.7 Bank Group Experience and Lessons Learnt Reflected in the Project Design .................... 8 
+
+2.8 Key Performance Indicators ................................................................................................ 9 
+
+III. PROJECT FEASIBILITY ..................................................................................................... 10 
+
+3.1 Economic and financial performance ................................................................................ 10 
+
+3.2 Environment and Social Impact......................................................................................... 11 
+
+IV PROJECT Implementation .................................................................................................... 13 
+
+4.1 Implementation Arrangements .......................................................................................... 13 
+
+4.2 Monitoring ......................................................................................................................... 17 
+
+4.3 Governance ........................................................................................................................ 18 
+
+4.4 Sustainability ..................................................................................................................... 18 
+
+4.5 Risk Management .............................................................................................................. 18 
+
+4.6 Knowledge Building .......................................................................................................... 19 
+
+V. LEGAL INSTRUMENTS AND AUTHORITY ................................................................... 19 
+
+5.1 Legal Instruments .............................................................................................................. 19 
+
+5.2 Conditions for the Bank’s Intervention ............................................................................. 19 
+
+5.3 Compliance with Bank Policies ......................................................................................... 20 
+
+VI. RECOMMENDATIONS ...................................................................................................... 20 
+
+ANNEXES 
+
+ Annex I : Country Comparative Socio-Economic Indicators 
+
+Annex II : Organizational Structure for Project Implementation 
+
+Annex III : Map of Project Areas 
+
+Annex IV : Bank Portfolio in the Country 
+
+Annex V : Macroeconomic Indicators 
+
+Annex VI : Procurement Arrangement 
+
+Annex VII : Waiver Request for Financing 82.1% of the Project Cost by an AfDB loan
+
+
+
+ 
+
+i 
+
+ 
+
+ 
+
+CURRENCY EQUIVALENTS 
+June 2017 
+
+ 
+
+Currency Unit =  Kwanza (AOA) 
+
+1 UA  = AOA229.68 
+
+1 UA  = USD1.38 
+
+1 UA  = EUR1.23 
+
+1 USD = AOA165.92 
+
+ 
+
+FISCAL YEAR 
+
+ 
+1 January - 31 December 
+
+ 
+
+WEIGHTS AND MEASURES 
+
+ 
+
+        1 metric ton  =  2,204 pounds  
+
+        1 kilogram (kg)  =  2.200 pounds  
+
+        1 meter (m) =  3.28 feet  
+
+        1 kilometer (km) =  0.62 mile  
+
+       1 hectare (ha) =  2.471 acres 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ii 
+
+ 
+
+LIST OF ACRONYMS 
+
+ 
+
+AfDB  African Development Bank 
+
+ATA  Agricultural Transformation Agenda  
+
+CAADP  Comprehensive African Agricultural Development Program 
+
+COAO  Angola Country Office  
+
+CPAVCDP Cabinda Province Agriculture Value Chains Development Project 
+
+CPIP  Country Portfolio Improvement Plan 
+
+CPIA  Country Performance and Institutional Assessment 
+
+CPPR  Country Portfolio Performance Review 
+
+ESIA  Environmental and Social Impact Assessment 
+
+ESMF  Environmental and Social Management Framework 
+
+ESMPS Environmental and Social Management Plans 
+
+FDI  Foreign Direct Investment 
+
+FOs  Farmers’ Organizations 
+
+GoA  Government of Angola 
+
+GDP  Gross Domestic Product   
+
+IAD  Institute for Agrarian Development 
+
+ICBPR  Institutional Capacity Building for Poverty Reduction  
+
+IFAD  International Fund for Agriculture Development 
+
+IITA  International Institute of Tropical Agriculture 
+
+IPM  Integrated Pest Management 
+
+IVS  Vet Services Institute 
+
+ISFM  Integrated Soil Fertility Management 
+
+MDGs  Millennium Development Goals 
+
+MINAGRI  Ministry of Agriculture   
+
+MOSSAP  Market Oriented Smallholder Agriculture Projects  
+
+mt  metric ton 
+
+M&E  Monitoring and Evaluation 
+
+NAPA  National Adaptation Program for Action 
+
+NARES  National Agricultural Research and Extension System 
+
+NDP  National Development Plan 
+
+PDMPSA National Medium Term Development Plan for Agricultural Sector 
+
+PIU  Project Implementation Unit 
+
+PPP  Public-Private Partnership 
+
+PSC  Project Steering Committee 
+
+RBLF  Results-Based Logical Framework 
+
+RDGS Southern Africa Regional Development and Business Delivery Office 
+
+SDGs          Sustainable Development Goals 
+
+SMEs  Small and Medium Enterprises 
+
+TYS  Ten Year Strategy 
+
+UN  United Nations  
+
+UNDP  United Nations Development Program  
+
+WB  World Bank 
+
+
+
+iii 
+
+ 
+
+PROJECT INFORMATION SHEET 
+
+Client information 
+
+______________________________________________________________________ 
+
+BORROWER : Government of Angola 
+
+EXECUTING AGENCY :  Ministry of Agriculture (MINAGRI)  
+
+ 
+
+Source 
+
+Amount (million)  
+
+Instrument UA USD 
+
+African Development Bank  73.77 101.07 Loan 
+
+Government 14.54 19.91 Counterpart contribution 
+
+Beneficiaries 1.58 2.17 In-kind contribution 
+
+Total Project Cost 89.89 123.15  
+
+ 
+
+ 
+
+AfDB’s key financing information 
+
+ 
+
+ 
+Loan Currency  USD 
+
+Loan Type   Fully Flexible Loan  
+
+Tenor  25 years 
+
+Grace period  8 years 
+
+Average Loan Maturity  16.75 years 
+
+Repayments  (34 consecutive semi-annual payments after grace period) 
+
+Interest Rate  Base Rate +Funding Cost Margin+ Lending Margin + 
+
+Maturity Premium if applicable 
+
+Base Rate  Floating Base Rate (6-month USD LIBOR reset each 1st 
+
+February and 1st August). A free option to fix the Base Rate 
+
+is available. 
+
+Funding Cost Margin  The Bank funding cost margin  as determined each 1st 
+
+January and 1st July and applied to the Base Rate each 1st 
+
+February and 1st August 
+
+Lending Margin  80 basis points (0.8%) per annum 
+
+Maturity Premium  20 basis points (0.2%) per annum 
+
+Front-end fees  0.25% of the loan amount payable at latest at signature of the 
+
+loan agreement 
+
+Commitment fees  0.25% of the undisbursed amount. Commitment fees start 
+
+accruing 60 days after signature of the loan agreement and 
+
+are payable on Payment dates 
+
+Option to convert the 
+
+Base Rate* 
+
+ In addition to the free option to fix the floating Base Rate, 
+
+the borrower may reconvert the fix rate to floating or refix it 
+
+on part or full disbursed amount. Transaction fees are 
+
+payable. 
+
+Option to cap or collar 
+
+the Base Rate* 
+
+ The borrower may cap or set both cap and floor on the Base 
+
+Rate to be applied on part or full disbursed amount. 
+
+Transaction fees are payable. 
+
+Option to convert loan 
+
+currency 
+
+ The borrower may convert the loan currency for both 
+
+undisbursed or disbursed amounts in full or part to another 
+
+approved lending currency of the Bank. Transaction fees are 
+
+payable. 
+* Conversion options and transaction fees are subject to the Bank Conversion Guidelines available: 
+
+http://www.afdb.org/fr/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http://www.afdb.org/fr/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/
+
+
+iv 
+
+ 
+
+ 
+
+Main milestones 
+
+ 
+
+Submission of Cabinda Province Study Report November 2016 
+
+Government Request for Bank Support December 2016 
+
+Concept Note Approval May 2017 
+
+Appraisal Mission June 2017 
+
+Board Approval December, 2017 
+
+Effectiveness January 2018 
+
+Completion December 2021 
+
+Last Disbursement March, 2022 
+
+ 
+
+
+
+v 
+
+ 
+
+PROJECT SUMMARY 
+
+ 
+
+Project Overview: The Cabinda Province Agriculture Value Chains Development Project 
+
+(CPAVCDP) will provide improved production, produce conservation, storage, processing and 
+
+marketing infrastructure necessary for selected commodity value chains: food crops (cassava, 
+
+banana, sweet potato, peanut, and beans); cash crops (coffee, cocoa and oil palm); marine and inland 
+
+fisheries; small ruminants; and horticulture (vegetables and fruits). The Project will rehabilitate 
+
+water conveyance structures necessary for irrigation; train value chain actors in technical and 
+
+managerial skills; introduce mechanization for land preparation; support adaptive research; and 
+
+improve agricultural extension services. The Project will also rehabilitate or construct rural 
+
+infrastructure, namely feeder roads to link production clusters to markets, agro-processing centers, 
+
+market centers, community health centers, primary schools, potable water facilities in the 
+
+communities and improve rural energy access. The Project will enhance access to improved 
+
+productive resources (improved seed varieties, fish fingerlings, fertilizers, crop protection 
+
+chemicals) through the establishment of a credit facility to be externally administered by World 
+
+Vision International (WVI). The project will be implemented over a four-year period at a total cost 
+
+of USD123.15 million. 
+
+ 
+
+Needs Assessment: Angola has made remarkable progress in socio-economic and infrastructure 
+
+development since the end of the 27-year-long civil war in 2002, but more still needs to be done to 
+
+lift majority of its population out of poverty. The sharp and long-lasting decline in oil prices has 
+
+derailed Angola’s economic performance. GDP growth slowed to 0.1% in 2016 down from 4.8% in 
+
+2014. This led to a significant reduction of the nominal GDP to about USD96.2 billion in 2016 from 
+
+USD126.8 billion in 2014. The Government of Angola (GoA) seems increasingly aware of these 
+
+realities and has taken steps to mitigate the impact of the oil price shock on the economy. The 
+
+Government therefore requested assistance from the Bank to strengthen investments in agricultural 
+
+transformation through commodity value chains in order to diversify exports, reduce imports 
+
+through value chains development, increase national revenue sources and reduce dependence on oil.  
+ 
+
+Value Added for the African Development Bank: The proposed CPAVCD Project fits in with the 
+
+two complementary pillars of Bank’s intervention in Angola in the Country Strategy Paper (CSP, 
+
+2017-2021) as follows: (i) inclusive growth through agricultural transformation; and (ii) support to 
+
+sustainable infrastructure development, in particular, in energy and transport. The Bank Group is 
+ideally suited to support Angola through this Project because: (i) the Bank Group has gained useful 
+
+experiences in the development of the agriculture sector in its RMCs and in particular, Angola through 
+
+implementation of similar projects; and (ii) the project is in concordance with the Bank’s High-5 
+
+Priorities with its numerous flagship initiatives that will be brought to bear in this project. The Bank’s 
+partnership with other technical and development agencies such as the Consultative Group of 
+
+International Agricultural Research (CGIAR) system, International Fund for Agricultural Development 
+
+(IFAD), World Bank (WB) and others is an asset that the Bank can draw upon. 
+ 
+
+Knowledge Management: The Project shall develop a Monitoring and Evaluation (M&E) System based 
+
+on Geographic Information System and computer assisted technology for data collection, compilation 
+
+and presentation. The M&E Specialist will coordinate all results and measurement activities, ensure the 
+
+quality control and provide the necessary capacity building. In using the performance indicators and 
+
+targets specified in the results-based framework, special note would be taken of changes that reflect 
+
+advancement towards the translation of outputs into development outcomes. In developing monitoring 
+
+and planning indicators, they will be sex and age disaggregated. They will be captured using analysis of 
+
+M&E database, supervision missions, mid-term report, and periodic impact assessment and field 
+
+exchange visits of the stakeholders. Knowledge could additionally be spread within the institution by 
+
+showcasing the Project results using the Bank ICT infrastructure (Intranet, short documentaries on Bank 
+
+website, etc.). 
+
+
+
+ 
+
+vi 
+
+ 
+
+ 
+
+ANGOLA 
+
+CABINDA PROVINCE AGRICULTURE VALUE CHAINS DEVELOPMENT PROJECT (CPAVCDP)  
+
+LOGICAL FRAMEWORK 
+
+Country and project name: ANGOLA : Cabinda Province Agriculture Value Chains Development Project 
+
+Purpose of the project:  Contribute to food and nutritional security, employment generation, and shared wealth creation along the commodity value chains 
+
+RESULTS CHAIN PERFORMANCE INDICATORS BASELINE 
+TARGET 
+
+(2018-2021) 
+
+MEANS OF 
+
+VERIFICATION 
+
+RISKS/MITIGATION 
+
+MEASURES 
+
+IM
+P
+
+A
+C
+
+T
+ 1. Jobs and wealth are generated 
+
+along the value chains 
+
+2. Food and nutrition security is 
+
+enhanced  
+
+1.  No. of jobs created (disaggregated by sex and age) 
+
+2.  Increased domestic food  supply for key commodities 
+
+(cassava, sweet potato, beans, coffee, cocoa, oil palm meat 
+
+and fish) 
+
+3. Prevalence and numbers for child stunting 
+
+1. na  
+
+2. 670,000 mt  
+
+ 
+
+ 
+
+3. 37% 
+
+1. 27,000 
+
+2. 1.3 million mt. 
+
+ 
+
+ 
+
+3. 80% reduction 
+
+Min of Finance reports 
+
+National Bureau of 
+
+Statistics (NBS) reports 
+
+Household surveys 
+
+ 
+
+ OUTCOMES 
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S
+
+ 
+
+1. Increased household income 
+
+ 
+
+2. Increased Crop, fisheries  and 
+
+livestock Production 
+
+1. Number and percentage of women and men with increased 
+
+incomes, (young men and women) 
+
+2.1 Crops production (tons)  
+
+2.2 Livestock production (tons) 
+
+2.3  Fisheries production (tons) 
+
+ 
+
+1. USD500 
+
+2.1 cassava 
+
+(491,359 mt  p.a); 
+
+banana (121,000 
+
+mt p.a); potato 
+
+(163,614 mt  p.a); 
+
+beans (6,121 mt  
+
+p.a); coffee (405 
+
+mt  p.a); cocoa 
+
+(na); oil palm 
+
+(na);  
+
+2.2 Meat (na) 
+
+2.3 Fish (na) 
+
+1. USD3,500/hh pa 
+
+2.1 Cassava (900,000 mt p.a); 
+
+banana (210,000 mt p.a);  potato 
+
+(300,000 mt ton p.a); beans (12,000 
+
+mt  p.a); coffee (2,200 mt p.a); 
+
+cocoa (1,900 mt  p.a); palm oil 
+
+(8,400 mt  p.a);  
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Meat (25,000 ton)  
+
+2.3 Fish (15,000 ton) 
+
+Min of Finance reports 
+
+NBS reports 
+
+Household surveys 
+
+Risk 1: Counterpart funding not 
+
+readily made in time 
+
+ 
+
+Mitigation 1: Government 
+
+contribution will be limited to local 
+
+costs related to maintenance of 
+
+office buildings and remuneration 
+
+of counterpart staff  
+
+ 
+
+OUTPUTS 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+ 
+
+1.  Commodity Value Chain 
+
+Development 
+
+1.1 Capacity of producers on 
+
+improved technical and 
+
+managerial skills built 
+
+1.2  Improved access to  financial 
+
+services (credit) 
+
+ 
+
+1.3  Farm extension services provided 
+
+ 
+
+ 
+
+1.4  Increased production of crops 
+
+ 
+
+ 
+
+1.5  Increased production of 
+
+livestock/fish 
+
+1.6  Increased employment in crop 
+
+value chains 
+
+ 
+
+ 
+
+1.1  No. farmer associations trained in technical and 
+
+managerial skills, of which men and women, young men and 
+
+women 
+
+1.2.1  % Farmer Organizations and SMEs obtaining loans  
+
+1.2.2 Number of women, men, young men and women getting 
+
+access to credit 
+
+1.3.1 No.  private sector agencies providing extension services  
+
+1.3.2 % farmers provided with farm extension services, of 
+
+which are women and youth 
+
+1.4.1   Area under crop production 
+
+1.4.2  Crop Yields 
+
+1.4.3  No. of Seedlings multiplied/selected 
+
+1.5.1   Quantity of meat/fish production 
+
+1.5.2 Number of  fish fingerlings 
+
+ 
+
+1.6  Number of farmers and processors 
+
+ 
+
+ 
+
+ 
+
+1.1  4 
+
+ 
+
+ 
+
+1.2.1  5 
+
+1.2.2 23 
+
+ 
+
+1.3.1  2 
+
+1.3.2  10 
+
+ 
+
+1.4.1 18,800 
+
+1.4.2 2t//ha 
+
+1.4.3  0 
+
+1.5.1  n.a 
+
+1.5.2 NA 
+
+ 
+
+1.6   51,000 
+
+ 
+
+ 
+
+ 
+
+1.1  60 
+
+ 
+
+ 
+
+1.2.1 120 
+
+1.2.2 8,000 
+
+ 
+
+1.3.1  25 
+
+1.3.2   80 
+
+ 
+
+1.4.1 39,177 
+
+1.4.2  4 mt/ ha 
+
+1.4.3 1.2 million 
+
+1.5.1 25,000mt/15,000 mt 
+
+1.5.2   15 million 
+
+ 
+
+1.6  95,000 
+
+ 
+
+Enterprise surveys 
+
+Monitoring reports 
+
+Household surveys 
+
+Program reports 
+
+Supervision records 
+
+Work report, 
+
+procurement and 
+
+supervision reports 
+
+ 
+
+
+
+vii 
+
+ 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+ 
+
+2.  Infrastructure Development 
+2.1  Roads linking farms to markets 
+
+rehabilitated 
+
+2.2  Extension of electricity 
+
+ 
+
+2.3  Processing facilities functional, 
+
+well-equipped demonstration and 
+
+technology centers  
+
+2.4  Storage facilities rehabilitated 
+
+2.6  Rehabilitated irrigation canals 
+
+2.7  Construction of landing sites 
+
+2.8  Construction of abattoir 
+
+2.9  Construction of quarantine parks 
+
+2.10 Community development 
+
+facilities improved  
+
+ 
+
+2.1  Kilometers of all-weather feeder roads rehabilitated 
+
+ 
+
+2.2.1 Km of power extension 
+
+2.2.2 % of households with an electricity connection 
+
+2.3  No. of demonstration & technology centers  
+
+ 
+
+ 
+
+2.4  No. of warehouses constructed  
+
+2.6  Area of land under irrigation (Ha)  
+
+2.7  No. of landing sites constructed 
+
+2.8  No. of abattoir constructed 
+
+2.9  No. of parks constructed 
+
+2.10.1 No. of boreholes constructed 
+
+2.10.2  No. of clinics rehabilitated & equipped 
+
+2.10.3  No. of schools/crèches rehabilitated & equipped  
+
+2.10.4 % increase in numbers of boys’ and girls’ school 
+
+enrolment rates,  
+
+ 
+
+2.1   0 
+
+ 
+
+2.2.1  0 
+
+2.2.2 na 
+
+2.3   2 
+
+ 
+
+ 
+
+2.4  4 
+
+2.6   108.1 
+
+2.7   0 
+
+2.8   0 
+
+2.9   0 
+
+2.10.1  0 
+
+2.10.2  0 
+
+2.10.3  25 
+
+2.10.4  46 
+
+ 
+
+2.1   191 
+
+ 
+
+2.2.1   54 
+
+2.2.2   80 
+
+2.3     10 
+
+ 
+
+ 
+
+2.4   14 
+
+2.6  750 
+
+2.7  2 
+
+2.8. 1 
+
+2.9  2 
+
+2.10.1 16 
+
+2.10.2  4 
+
+2.10.3  29 
+
+2.10.4  65 
+
+Enterprise surveys 
+
+Monitoring reports 
+
+Household surveys 
+
+Program reports 
+
+Supervision records 
+
+Work report, 
+
+procurement and 
+
+supervision reports  
+
+Risk 2: Facilities are not well 
+
+maintained, under utilized  
+
+ 
+
+Mitigation 2: Proper  asset usage 
+
+mechanism developed 
+
+3.  Program Management/ 
+
+Monitoring & Evaluation 
+
+3.1  Program work plan and 
+
+operations are implemented 
+
+3.2  Program activities monitored and 
+
+information produced regularly 
+
+3.3 Public sector support 
+
+ 
+
+ 
+
+3.1  Rate of implementation of the annual work plan 
+
+ 
+
+3.2 .1 No. of technical and progress reports prepared annually 
+
+3.2.2  No. of audit reports produced annually 
+
+3.3     No. of staff trained 
+
+ 
+
+ 
+
+3.1    0 
+
+ 
+
+3.2.1 0 
+
+3.2.2 0 
+
+3.3 0 
+
+ 
+
+ 
+
+3.1   95% 
+
+ 
+
+3.2.1 4 
+
+3.2.2 1 
+
+3.3 55 
+
+Program agreements, 
+
+funding documents 
+
+Supervision mission 
+
+Financial management 
+
+reports M&E reports 
+
+ 
+
+                                                                                                COMPONENTS                                                                                                                              SOURCES OF FINANCE  
+
+K
+E
+
+Y
+ A
+
+C
+T
+
+IV
+IT
+
+IE
+S
+
+ 
+
+Component 1: Commodity Value Chain Development 
+
+improved production inputs in crops, fisheries and livestock (seeds, fertilizers, fingerlings, small ruminants); training in good agricultural practices; mechanization along the value chains; 
+
+support to training in post-harvest technologies for farmers and value chain actors; training of value chain actors in modern food processing; entrepreneurship and business management 
+
+training; development of market information system; installation of processing equipment for commodity value addition and marketing; environmental protection management for 
+
+productivity enhancement, processing, marketing and community infrastructure. 
+
+ 
+
+Component 2: Infrastructure Development 
+
+Extension of electrical power grid; rehabilitation of feeder roads; rehabilitation of community markets and storage facilities; installation of water boreholes for potable and sanitation 
+
+systems; construction of irrigation water distribution schemes; development of irrigated land; construction of residences to support extension advisory services; construction of structure to 
+
+mitigate coastal erosion; construction of health centers and primary schools; construction of a fisheries training facility; construction of piers and produce preservation warehouses; 
+
+construction of an abattoir; construction of a tissue culture laboratory at Ste Vicente Research Centre; and livestock quarantine facilities.. 
+
+ 
+
+Component 3: Program Management, Monitoring and Evaluation  
+
+Project management activities; day-to-day management, management of studies on key policy issues; credit management; development of a results based framework for M&E; and 
+
+procurement, disbursement and audit functions. 
+
+ 
+
+ 
+Project Cost (USD million):   123.15 
+
+  AfDB Loan                     :     101.07 
+     
+
+  Other sources 
+
+   Government of Angola  :  19.91 
+   Beneficiaries                  :    2.17 
+
+ 
+
+Component 1                     :  21.46 
+Component 2                     :  90.57 
+
+Component 3                     :  11.12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.7  Establishment of database for 
+
+value chain actors 
+
+1.7. % of value chain actors registered 
+
+ 
+
+1.7  0 
+
+ 
+
+1.7   95 
+
+ 
+
+
+
+viii 
+
+ 
+
+ 
+
+PROJECT TIMEFRAME 
+ 
+
+ 
+
+Task Name 
+
+2017 2018 2019 2020 2021 
+
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 
+
+Negotiations                   
+
+Board approval                   
+
+Signing of Loan Agreement                   
+
+Satisfaction of conditions for effectiveness and first disbursement for loan                   
+
+Project launch                   
+
+Technical coordination meetings                   
+
+Project work plans and budgets                     
+
+Technical Design Review/Baseline data update                   
+
+Prepare bid documents and contract awards for works, goods and services                   
+
+Contracts execution for works, goods and services                   
+
+Quarterly reports submission                   
+
+Annual reports submission                   
+
+Bank’s supervision missions                   
+
+Financial audit                   
+
+Mid-term review                   
+
+Impact assessment and technical audit                    
+
+Project completion reporting                    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+1 
+
+ 
+
+REPORT AND RECOMMENDATIONS OF MANAGEMENT FOR A 
+
+PROPOSED AfDB LOAN OF USD101.07 MILLION TO THE REPUBLIC 
+
+OF ANGOLA FOR THE FINANCING OF THE CABINDA PROVINCE 
+
+AGRICULTURE VALUE CHAINS DEVELOPMENT PROJECT 
+
+(CPAVCDP) 
+ 
+
+Management hereby submits this report and recommendation for an AfDB loan of USD101.07 
+
+million to finance the Cabinda Province Agriculture Value Chains Development Project 
+
+(CPAVCDP). 
+
+ 
+
+I. STRATEGIC THRUST AND RATIONALE 
+ 
+
+1.1 Project Linkages with the Country Strategy and Objectives 
+
+ 
+
+1.1.1 Angola’s Long Term Plan, dubbed “Vision 2025” articulates the country’s conceptual 
+
+view to achieve sustainable development and seeks to “extricate the country from poverty by 
+
+promoting economic growth, macroeconomic stability and employment”. Vision 2025 was 
+
+designed to be implemented in a period of 25 years, in three stages, with concrete objectives and 
+
+targets and which may be adapted: 2000-2005 (peace, national reconstruction and economic 
+
+growth startup); 2005-2015 (consolidation of national reconstruction, modernization and 
+
+development); and 2015-2025 (sustainability and growth). The National Development Plan 
+
+(NDP) 2013-2017 underscored aspects of the “Vision 2025” by stressing the need to: (i) diversify 
+
+the economy; (ii) invest in infrastructure (in particular, transport, energy and water and 
+
+sanitation); (iii) enhance better management of natural resources; and (iv) expand employment 
+
+opportunities to reduce poverty. The new NDP 2018-2022 that is under preparation is only due 
+
+for approval after the general elections in August 2017. 
+
+ 
+
+1.1.2 The recent approved CSP 2017-2021 adopts a broader context of policy continuity by 
+
+anchoring on the longer Vision 2025 of the country. It focuses on two complementary pillars: (i) 
+
+inclusive growth through agricultural transformation; and (ii) support to sustainable 
+
+infrastructure development, in particular energy and transport. The project is aligned to the 
+
+Bank’s Feed Africa – Strategy for Agricultural Transformation in Africa 2016-2025; the Bank 
+
+Group Industrialization Strategy for Africa 2016-2025; the Bank’s Private Sector Development 
+
+Strategy 2013-2017; the Bank Group Strategy for the New Deal on Energy for Africa 2016-
+
+2025; the Bank Group Strategy for Jobs for Youth in Africa 2016-2025; and the Bank Group 
+
+Gender Strategy 2014-2018. Lastly, the CSP is fully aligned to the achievement of Angola’s 
+
+SDGs, in particular, the  SDG 1 (“No poverty”), SDG 2 (“No Hunger”), SDG 5 (“Gender 
+
+equality”), SDG 6 (“Clean water and sanitation”), SDG 7 (“Clean energy”), SDG 8 (“Good jobs 
+
+and economic growth”), SDG 9 (“Innovation and infrastructure”), SDG 10 (“Reduced 
+
+inequalities”), and SDG 13 (“Protect the planet”).  
+
+ 
+
+1.2 Rationale for Bank Involvement 
+
+ 
+
+1.2.1 In March 2015, a Middle Income Country (MIC) Technical Assistance grant of 
+
+UA420,045 was approved for the Government of Angola to undertake a Study as part of a project 
+
+cycle pre-investment activity. It is noteworthy that the Bank Group had not carried out an 
+
+agriculture sector review in Angola since the Bank Group commenced operations there in 1980. 
+
+The Cabinda Province Agriculture Value Chains Development Project (CPAVCDP) is based 
+
+upon the technical documents produced by the Study.  
+
+ 
+
+
+
+2 
+
+ 
+
+1.2.2 The project fits in with the two complementary pillars of Bank’s intervention in Angola 
+
+in the just approved CSP 2017-2021. The Bank’s strategy focuses on: (i) inclusive growth 
+
+through agricultural transformation; and (ii) support to sustainable infrastructure development, 
+
+in particular, in energy and transport. The agricultural transformation interventions under the 
+
+pillar I are aligned with the Bank’s High 5s priorities of Feed Africa and Industrialize Africa, 
+
+while the infrastructure development interventions under pillar II will help achieve the following 
+
+High 5s: Light-up and power Africa, Integrate Africa and Improve quality of life of Africans. It 
+
+also fulfils the requirement of the Ten-Year Strategy (TYS, 2013-2022) as it pertains to inclusive 
+
+growth objective through the involvement of youth, women and skills development. It is also in 
+
+alignment with Pillar 2 (improving rural infrastructure and trade-related capacities for market 
+
+access) and Pillar 3 (increasing food supply and reducing hunger and malnutrition) of the 
+
+Comprehensive African Agriculture Development Program (CAADP). 
+
+ 
+
+1.3 Aid Coordination 
+
+ 
+
+Apart from the Bank Group, development partners in the agriculture sector include the World 
+
+Bank and the International Fund for Agriculture Development (IFAD). The World Bank is 
+
+supporting the Angola Market Oriented Smallholder Agriculture Project (MOSSAP) with the 
+
+amount of USD30 million and jointly financed by IFAD with USD8.2 million and a grant of 
+
+USD4 million from the Government of Japan. The Ministry of Agriculture (MINAGRI) has a 
+
+number of agricultural development initiatives with the aim of promoting the sector by providing 
+
+an enabling environment for farmers and processors. One of the strategies is Private-Public-
+
+Partnerships (PPP) in agricultural production. In pursuit of this, US-owned Chiquita Brands 
+
+International recently announced plans to begin growing banana in the southern province of 
+
+Benguela; while Brazilian-owned Odebrecht Africa Fund is investing in sugar and ethanol 
+
+production in Malanje Province. The American company "Ellada Investiments Pty Ltd" is trying 
+
+to invest in the production of coffee in northern Uige province; and China Development Bank is 
+
+financing rice production in Kuando-Kubango province. Other foreign owned companies are 
+
+expected to invest in coffee, sugar, cassava and palm oil production. Tables 1.1a and 1.1b provide 
+
+the details of development partners’ activities in the various sectors.  
+
+ 
+
+Table 1.1a: Official Development Assistance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0,66
+
+1,28
+
+3,70
+
+5,15
+
+12,28
+
+40,35
+
+251,61
+
+268,61
+
+876,05
+1 252,89
+
+0 200 400 600 800 1 000 1 200
+
+France
+
+United Kingdom
+
+Norway
+
+Netherlands
+
+UNDP
+
+USAID
+
+European Union
+
+Japan
+
+World Bank
+
+AfDB
+
+Total ODA volume (2015) - approved and ongoing projects  (Million USD)
+
+
+
+3 
+
+ 
+
+Table 1.1b: Sectors of Donor Intervention 
+
+ 
+
+II. PROJECT DESCRIPTION 
+ 
+
+2.1 Project Objectives 
+
+ 
+Development objective  
+
+ 
+
+2.1.1 To contribute to increased food and nutrition security, job and wealth creation.  
+
+ 
+
+ Specific project objectives 
+
+ 
+
+2.1.2 To increase farmers’ food and nutrition security and incomes through increased 
+
+agricultural output and value addition. The Project will also contribute to enhance income of 
+
+small and medium enterprises engaged in input supply, production, processing, storage and 
+
+marketing of selected commodities on a sustainable basis.  
+
+ 
+
+Project Components 
+
+ 
+
+2.1.3 The proposed CPAVCD Project is composed of three components: (i) Commodity Value 
+
+Chains Development; (ii) Infrastructure Development; and (iii) Project Management and 
+
+Monitoring and Evaluation. The project focuses on the provision of the enabling environment 
+
+for agricultural development and value addition of staple crops (cassava, banana, sweet potato, 
+
+peanut, and beans); cash crops (coffee, cocoa and oil palm); marine and inland fisheries; poultry 
+
+and small ruminants; and horticulture (vegetables and fruits). It will rehabilitate or construct rural 
+
+and resilient infrastructure, namely feeder roads to link production clusters to markets, agro-
+
+processing centers, market centers, community health centers, primary schools, potable water 
+
+facilities in the communities and improve rural energy access. A summary of the activities is in 
+
+Table 2.1.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Capacity Building & 
+Institutional 
+
+Development; 8; 10,38
+
+Agriculture , 7, 
+
+Higher Education and 
+Vocational Training, 5, 
+
+83,36
+
+Power; 5; 1 244,93
+
+Environment ; 11; 
+28,50
+
+Fisheries; 3; 
+29,97
+
+Multi-sector and 
+Governance, 5, 554,35
+
+Health ; 8; 148,79Other Infrastructure; 
+6; 29,15
+
+Justice; 4; 
+Multinational projects; 3; 
+
+9,71
+
+Social, 2, 
+68,53
+
+Trade & Regional 
+Integration; 2; 13,77
+
+Water & Sanitation ; 
+5; 326,11
+
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+
+1 000
+1 100
+1 200
+1 300
+1 400
+1 500
+
+0 2 4 6 8 10 12 14
+
+O
+D
+
+A
+ v
+
+o
+lu
+
+m
+e
+
+s 
+(M
+
+ill
+io
+
+n
+ U
+
+S
+D
+
+)
+
+X- axis: Number of projects 
+Note: Bubble size - represents ODA volumes (Million USD)
+
+ODA Sectoral Distribution, Approved and Ongoing projects (2015)
+
+
+
+4 
+
+ 
+
+ 
+
+Table 2.1: Summary of Activities in the Components 
+
+ 
+
+Components 
+
+Total Cost 
+
+(USD 
+
+million) 
+
+Description 
+
+Component 1  
+
+Commodity Value 
+
+Chains Development 
+
+ 
+
+21.46 
+
+ (17.4 %) 
+
+Provision of improved production inputs in crops, fisheries and 
+
+livestock (seeds, fertilizers, fingerlings, small ruminants); 
+
+training in good agricultural practices; promotion of 
+
+mechanization along the value chains by equipment and 
+
+machinery leasing with two tractors/associated implements each 
+
+in the four Municipalities; support to training in post-harvest 
+
+technologies for farmers and value chain actors; training of value 
+
+chain actors in modern food processing; entrepreneurship and 
+
+business management training; development of market 
+
+information system; installation of 14 processing equipment for 
+
+commodity value addition and marketing; environmental 
+
+protection management for productivity enhancement, 
+
+processing, marketing and community infrastructure; provision 
+
+of two refrigerating units for vegetables in Cabinda 
+
+Municipality; and establishment of the credit fund.   
+
+Component 2 
+
+Infrastructure 
+
+Development 
+
+90.57 
+
+(73.5 %) 
+
+Extension of electrical power grid (54 kms); rehabilitation of 
+
+feeder roads (191 kms); rehabilitation of four community 
+
+markets and storage facilities; installation of 16 water boreholes 
+
+for potable and sanitation systems; rehabilitation of 1,500 km of 
+
+irrigation water distribution schemes; development of 750 ha of 
+
+irrigated land; construction of nine residences to support 
+
+extension advisory services; construction of structure to mitigate 
+
+coastal erosion at Landana; construction of one health center and 
+
+one primary school in each of the four Municipalities; 
+
+construction of a fisheries training facility at Tanda-Zinze 
+
+(Cabinda Municipality); construction of two piers and produce 
+
+preservation warehouses at Tungu and Chicaca in Cacongo 
+
+Municipality; reconstruction of the landing pier at Landana in 
+
+Cabinda  Municipality;  construction of an abattoir in Cabinda 
+
+Municipality; construction of two animal quarantine parks in 
+
+Cabinda Municipality; construction of a tissue culture laboratory 
+
+at Ste Vicente Agriculture Research Centre 
+
+Component 3:  
+
+Project Management 
+
+/Monitoring and 
+
+Evaluation  
+
+11.12 
+
+(9%) 
+
+Project management activities; day-to-day management, 
+
+management of studies on key policy issues; credit management; 
+
+development of a results based framework for M&E; and 
+
+procurement, disbursement and audit functions.  
+
+ 
+
+2.2 Technical Solutions Adopted and Alternatives Considered 
+
+ 
+
+The technical solutions retained are based on criteria that help ensure Project success and 
+
+sustainability. Three technical alternatives were considered and rejected for their weaknesses in 
+
+generating the expected impact on a sustainable basis (Table 2.2). 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+5 
+
+ 
+
+ 
+
+Table 2.2: Technical Alternatives Considered and Reasons for Rejection 
+
+ 
+
+Alternative Solution Brief Description Reasons for Rejection 
+
+1. Instrument: Project vs. sector 
+
+budget support  
+
+Under sector budget support, 
+
+resources are disbursed in tranches 
+
+based on triggers agreed upon 
+
+Assessment of sector fiduciary 
+
+environment was not conclusive and 
+
+had high level of uncertainty 
+
+2. Build in credit administration 
+
+into the project  
+
+Create a unit within the Provincial 
+
+Department of Agriculture to 
+
+administer credit to beneficiaries 
+
+No experience exists within the 
+
+Government institutions to administer 
+
+credit on a sustainable basis 
+
+3. Matching grant for acquisition 
+
+of production inputs and 
+
+machinery 
+
+Beneficiaries are supported with 
+
+matching grants to partially defray 
+
+the cost of acquiring the requisite 
+
+inputs and machinery for 
+
+production / processing activities. 
+
+The mechanism has often not worked 
+
+effectively if beneficiaries are 
+
+expected to provide surety to access 
+
+the credit from participating financial 
+
+institutions. Stringent collateral 
+
+requirements make it challenging to 
+
+take off. 
+
+ 
+2.3 Project Type 
+ 
+
+The Cabinda Province Agriculture Value Chains Development Project (CPAVCDP) is an 
+
+investment project financed by an AfDB loan.  
+
+ 
+
+2.4 Project Cost and Financing Arrangements 
+
+ 
+
+Project costs 
+ 
+
+2.4.1 The total cost of the project is estimated at USD123.15 million, net of taxes, and based 
+
+on 2017 prices, comprising of USD66.08 million (54%) of the total cost in foreign cost, and 
+
+USD57.07 million (46%) in local cost. The total cost is inclusive of physical and price 
+
+contingencies estimated at average rates of 15% and 2.5%, respectively. The summary of 
+
+estimated costs by component, expenditure category, sources of financing as well as an 
+
+expenditure schedule are presented in the tables below. Detailed project cost tables are presented 
+
+in Section B2 of the Technical Annexes to this report. 
+
+ 
+
+Table 2.3: Summary of Project Cost by Component (USD ‘000) 
+
+ 
+
+Components 
+Local 
+
+Cost 
+
+Foreign 
+
+Cost 
+
+Total  
+
+Cost 
+
+% 
+
+Foreign 
+
+Cost 
+
+1. Commodity Value Chain Development 9,265.58 10,605.13 19,870.71 53 
+
+2. Infrastructure Development 35,365.08 45,533.41 80,898.49 56 
+
+3. Project Management, Monitoring & Evaluation 7,230.91 3,501.44 10,732.35 33 
+
+Total Baseline Costs 51,861.57 59,639.98 111,501.55 53 
+
+Physical Contingencies 3,736.32 4,865.43 8,601.75 57 
+
+Price Contingencies 1,470.80 1,576.48 3,047.28 52 
+
+Total Project Costs 57,068.69 66,081.89 123,150.58 54 
+
+ 
+
+2.4.2 The project cost of USD123.15 million will be financed by: (i) an AfDB loan of 
+
+USD101.07 million (82.1% of project costs) covering all major activities including review of 
+
+infrastructure designs and a credit facility; (ii) the Government of Angola: USD19.91 million 
+
+(16.2% of project costs) mainly through the extension of electricity lines to project areas, 
+
+provision of office space, salaries for government staff, road maintenance and services such as 
+
+electricity, water and telecommunication for the Project office. Government will also, in addition 
+
+
+
+6 
+
+ 
+
+to the contributions, bear the loss in fiscal receipts due to tax and duty exemptions of all 
+
+procurements; and (iii) beneficiaries: USD2.17 (1.7% of project costs) in-kind contribution 
+
+during land preparation activities and payments for services in maintenance of agro-processing 
+
+facilities. The summary of project costs are presented in the tables below. 
+
+ 
+
+Table 2.4: Summary Project Cost by Category of Expenditure (USD ‘000) 
+ 
+
+Categories of Expenditure 
+
+ 
+
+ 
+
+Local 
+
+Cost 
+
+ 
+
+Foreign 
+
+Cost 
+Total Cost 
+
+% 
+
+Foreign 
+
+Cost 
+
+%  
+
+Total  
+
+Costs 
+
+ I. Investment Costs       
+   A. Works 34,426.07 44,078.16 78,504.23 56 70 
+
+   B. Goods 1,320.34 3,932.21 5,252.55 75 5 
+
+   C. Services 7,270.44 8,812.12 16,082.56 55 14 
+
+   D. Miscellaneous 2,750.00 2,250.00 5,000.00 45 4 
+
+Total Investment Costs 45,766.85 59,072.49 104,839.34 56 94 
+
+II. Recurrent Costs      
+   A. Daily Subsistence Allowance 624.00 336.00 960.00 35 1 
+
+   B. Operation & Maintenance 4,045.40 75.60 4,121.00 2 4 
+
+   C. General Operating Costs 1,425.32 155.88 1,581.20 10 1 
+
+Total Recurrent Costs 6,094.72 567.48 6,662.20 9 6 
+
+Total Baseline Costs 51,861.57 59,639.97 111,501.54 53 100 
+
+Physical Contingencies 3,736.32 4,865.43 8,601.76 57 8 
+
+Price Contingencies 1,470.80 1,576.48 3,047.28 52 3 
+
+Total Project Costs 57,068.69 66,081.89 123,150.58 54 110 
+
+ 
+
+Table 2.5: Summary Project Cost Schedule by Components (USD ’000) 
+ 
+
+ 
+
+Components 2018 2019 2020 2021 Total 
+
+1. Commodity Value Chain Development 3,650.36 11,321.45 4,086.91 2,398.89 21,457.61 
+
+2. Infrastructure Development 2,352.79 39,757.04 34,991.95 13,472.07 90,573.85 
+
+3. Project Management, Monitoring & Evaluation 2,904.47 3,212.38 3,060.48 1,941.79 11,119.11 
+
+Total Project Costs 8,907.62 54,290.87 42,139.34 17,812.75 123,150.58 
+
+ 
+
+Table 2.6: Source of Finance by Category of Expenditure (USD ’000) 
+ 
+
+ 
+
+Category of Expenditure AfDB Loan 
+Government 
+
+of Angola 
+Beneficiaries 
+
+Total 
+
+Amount 
+
+% 
+
+Total 
+
+Cost 
+
+I. Investment Costs      
+
+ A. Works      
+
+  Construction & Rehabilitation 20,040.68 - 2,092.58 22,133.25 18.0 
+
+  Roads 54,232.33 8,265.03 - 62,497.36 50.7 
+
+  Electricity extension - 4,947.63 - 4,947.63 4.0 
+
+ Subtotal Works 74,273.01 13,212.66 2,092.58 89,578.24 72.7 
+
+ B. Goods      
+
+  1. Vehicles      
+
+   Vehicles 479.61 - - 479.61 0.4 
+
+  2. Equipment & Materials      
+
+   Equipment 4,595.76 - - 4,595.76 3.7 
+
+   Furniture 271.14 - - 271.14 0.2 
+
+ Subtotal Goods 5,346.51 - - 5,346.51 4.3 
+
+ C. Services      
+
+
+
+7 
+
+ 
+
+Category of Expenditure AfDB Loan 
+Government 
+
+of Angola 
+Beneficiaries 
+
+Total 
+
+Amount 
+
+% 
+
+Total 
+
+Cost 
+
+  
+
+Training, Sensitization, Workshops, 
+
+Seminars,  2,003.50 - - 2,003.50 1.6 
+
+  Technical Assistance & Consultancies 7,498.98 - - 7,498.98 6.1 
+
+  Contractual Services 5,207.65 1,328.40 - 6,536.05 5.3 
+
+  Audit 300.00 - - 300.00 0.2 
+
+ Subtotal Services 15,010.14 1,328.40 - 16,338.54 13.3 
+
+ D. Miscellaneous      
+
+  Credit facility 5,000.00 - - 5,000.00 4.1 
+
+Total Investment Costs 99,629.65 14,541.06 2,092.58 116,263.29 94.4 
+
+      
+
+II. Recurrent Costs      
+
+ A. Daily Subsistence Allowance 979.20 - - 979.20 0.8 
+
+ B. Operation & Maintenance      
+
+  Vehicles 108.00 - - 108.00 0.1 
+
+  Infrastructure - 4,144.57 48.00 4,192.57 3.4 
+
+ Subtotal 108.00 4,144.57 48.00 4,300.57 3.5 
+
+ C. General Operating Costs 348.81 1,228.71 30.00 1,607.52 1.3 
+
+Total Recurrent Costs 1,436.01 5,373.28 78.00 6,887.29 5.6 
+
+Total Project Costs 101,065.66 19,914.34 2,170.58 123,150.58 100.0 
+
+ 
+
+Table 2.7: Project Costs by Financing Sources (USD ‘000) 
+
+ 
+
+Sources 
+Foreign 
+
+Cost 
+Local Cost Total Costs 
+
+% 
+
+Total 
+
+Cost 
+
+ AfDB Loan 66,081.89 34,983.77 101,065.66 82.1 
+
+ Government of Angola - 19,914.34 19,914.34 16.2 
+
+ Beneficiaries - 2,170.58 2,170.58 1.7 
+
+Total Project Costs 66,081.89 57,068.69 123,150.58 100.0 
+
+ 
+
+2.4.3 Justification for Local Costs Financing: The AfDB loan of USD101.07 million will 
+
+finance 100% of Goods; 82.91% of Works; 91.35% of Services; 100% of the credit fund; and 
+
+29.01% of recurrent costs. The loan will finance 100% of foreign costs and 60.85% of local 
+
+costs. Despite contributing 16.2% of total costs, the Government of Angola does not have the 
+
+capacity to finance the requisite 50% of total project costs as a result of the current economic 
+
+hardship and fiscal deficit arising from the prolonged decline in oil prices. Consequently, local 
+
+costs have been factored into AfDB financing in order not to delay implementation of activities.  
+
+A waiver request for financing 82.1% of the project cost through an AfDB loan is presented in 
+
+Annex VII. 
+
+ 
+2.5 Project Area and Beneficiaries 
+
+ 
+
+The CPAVCD Project will be implemented in the four municipalities of Cabinda Province 
+
+namely: Belize, Buco Zau, Cacongo and Cabinda with a combined human population of 688,285. 
+
+The direct beneficiaries are the 51,000 economically active smallholders living in the rural areas 
+
+in the four municipalities of Cabinda Province who are already or being encouraged to participate 
+
+in agriculture. The indirect beneficiaries include existing 15 small, medium and large-scale 
+
+entrepreneurs and business associations who provide services to the producers and processors. 
+
+This number is expected to increase significantly when other economically active value chain 
+
+entrepreneurs get involved in the Project. Commodity processors, marketers, agro-dealers in the 
+
+
+
+8 
+
+ 
+
+province will be engaged. Among the target group, women and youth play a major role in crop 
+
+and animal production, processing, small enterprises operation and marketing. At least 50% of 
+
+beneficiaries (women) will be specifically targeted in project activities and to reap benefits.  
+
+ 
+
+2.6 Participatory Approach to Project Formulation, Design and Implementation 
+ 
+
+During the study stages, cross-sectional consultations were held by the consultants in the four 
+
+municipalities. A general workshop was held on 25 August 2016 in Cabinda city where all 
+
+stakeholders were present. The general outline of the proposed project was presented and 
+
+deliberated upon. The general workshop incorporated both plenary and working group sessions 
+
+that were designed along thematic areas critical for the successful and logical implementation of 
+
+the project. Comments and suggestions were later incorporated in the final documents by the 
+
+consultants. The workshops established the desirability for interventions using the value chain 
+
+approach. The key outcome of the consultation process was a consensus on the Project objective 
+
+and strategy as well as the implementation arrangement. These were further validated during the 
+
+appraisal mission of June 2017 with representatives from key Government agencies such as: IDA 
+
+(Institute of Agrarian Development); ISV (Veterinary Services Institute); IIV (Veterinary 
+
+Research Institute); IDF (Forestry Development Institute); the Provincial Governor of Cabinda 
+
+and farmer cooperative heads in each of the four Municipalities. The consultation process was 
+
+complemented at final briefing sessions with the Director-Generals of the departments, Secretary 
+
+of State for Agriculture and the Minister of Agriculture, as well as with development partners 
+
+such as the World Bank and FAO. The participatory approach adopted during the formulation 
+
+will be continued during its implementation. The implementation arrangement will therefore 
+
+include representatives of key stakeholders such as the existing farmer groups and value chain 
+
+actors in the Project Steering Committee to ensure that their interests are taken into consideration 
+
+at all times.  
+
+ 
+
+2.7 Bank Group Experience and Lessons Learnt Reflected in the Project Design 
+
+ 
+
+2.7.1 The Bank Group currently has two on-going projects in the agriculture sector as follows: 
+
+(i) Angola Fisheries Sector Support Project (UA20.00 million); and (ii) Environment Sector 
+
+Support Program (UA0.42 million). Though these initiatives offer great potential for agricultural 
+
+and rural development by improving productivity and ensuring sustainable use of natural 
+
+resources, actual implementation has been bogged by institutional and project staffing 
+
+challenges. The Bank’s overall portfolio performance in Angola is deemed unsatisfactory with 
+
+an average score of 2.3 out of 4. The average age of the portfolio is 3.8 years with two projects 
+
+of more than five years foreseen to be completed by the end of 2017. Details are in Annex B1 of 
+
+the Technical Annexes. 
+
+ 
+
+2.7.2 The sole agriculture project financed by Bank Group to date was the Bom Jesus-Calenga 
+
+Smallholder Agricultural Development Project (UA17.2 million ADF grant), which ended in 
+
+November 2016. The Project Completion Report indicated that the project met most of its targets 
+
+for rural infrastructural development and economic diversification, but it took nearly twice as 
+
+much time to complete the construction and rehabilitation works. The Bank Group has gained 
+
+useful experiences in the development of the agriculture sector in the country. Key lessons that 
+
+have been learned include: (i) institutional environment under which the project operates needs 
+
+to be optimum so as to avoid unnecessary delays to project implementation; (ii) retention of 
+
+qualified staff is key to core management functions, to ensure timely delivery of outputs, and 
+
+effectively achieve the development goals. It is thus envisaged that the Cabinda Province 
+
+Agriculture Value Chains Development (CPAVCD) Project will have a specific activities on 
+
+institutional development to bring a major transformation of the agriculture sector in Cabinda 
+
+Province. There is no Project Completion backlog in the country. 
+
+
+
+9 
+
+ 
+
+ 
+
+2.7.3 The Table below summarizes key lessons learnt from closed and on-going agriculture 
+
+sector interventions in the country, and indicates how they have informed the design of 
+
+CPAVCD Project. 
+
+ 
+
+Table 2.8: Consideration of Lessons Learnt in Project Design 
+ 
+
+Lessons learnt  Actions incorporated into the design of CPAVCD 
+
+Project 
+
+The need to ensure a 
+
+geographical focus and that 
+
+resources are not thinly spread 
+
+ 
+
+The Bank has adopted a cluster model where production 
+
+and processing are in a closely-knit geographical area as 
+
+opposed to sites in various communes. This would allow 
+
+for optimal use of installed infrastructure and ease of 
+
+technical assistance and supervision activities 
+
+The need for participatory and 
+
+socially inclusive formulation 
+
+and implementation of 
+
+development interventions  
+
+The organization of three workshops that attracted all 
+
+stakeholders and their potential involvement in 
+
+implementing the Project would ensure ownership and 
+
+sustainability after project investment period 
+
+The need for decentralization 
+
+of implementation to the 
+
+Province where the project is 
+
+located using existing organs  
+
+The implementation arrangement of CPAVCD Project is 
+
+located in Cabinda where the actual day-to-day actions are 
+
+taking place. The recruitment of a dedicated PIU will 
+
+ensure efficiency in delivery 
+
+The need to ensure high state 
+
+of readiness for project start up 
+
+and implementation.  
+
+ 
+
+The various technical assessments carried out during the 
+
+Study provided the technical, engineering, environmental 
+
+as well as procurement documents that will ensure that 
+
+project will be implemented in a shorter period (four years 
+
+instead the default five).   
+
+ 
+2.8 Key Performance Indicators 
+
+ 
+
+2.8.1  The key performance indicators for monitoring progress in achieving the Project 
+
+objectives are in the results based logical framework (RBLF). These indicators include impacts, 
+
+outcomes and outputs that will be further refined at Project start-up when more information/data 
+
+would be available through revised assessments. Key impact indicators include level of wealth 
+
+created along the value chains (farmers, processors, women, market operators, etc); level of food 
+
+and nutrition security achieved; and number of jobs created. The key outcome indicator is the 
+
+additional income earned by value chain actors.  
+
+ 
+
+2.8.2  Outputs indicators on infrastructure development include number of climate resilient 
+
+water control structures rehabilitated; number of wash bore/tube wells constructed, hectares of 
+
+land with supplementary irrigation facilities; increased crop yield and hectares of land put to 
+
+production of the commodities; number of small holders and percentage of them using good 
+
+agronomic practices; percentage of producers trained in technical and managerial skills; and 
+
+percentage of farmers provided with farm advisory services. Other output key indicators for 
+
+processing, market and community development include kilometers of feeder roads 
+
+rehabilitated; number of community markets, storage facilities constructed or rehabilitated; and 
+
+number of social facilities rehabilitated and equipped (schools, clinics, potable water for drinking 
+
+and processing).   
+
+ 
+
+2.8.3 Key output indicators for the commodity value chain development include number of 
+
+operational storage facilities and collection centers; percentage of actors trained in post-harvest 
+
+
+
+10 
+
+ 
+
+technologies, modern food processing, group dynamics and leadership; percentage of farmers’ 
+
+organizations and SMEs undertaking collective marketing and purchasing. Other output 
+
+indicators include market share of local food products vis à vis imported ones; and percentage 
+
+of beneficiaries obtaining credit and paying back on time. Key output indicators for Project 
+
+management include the rate of implementation of the annual work plan, number of supervision 
+
+missions per year and number of technical and financial reports per year, rate of disbursement, 
+
+and timeliness of reports. 
+
+ 
+
+III. PROJECT FEASIBILITY 
+ 
+
+3.1 Economic and financial performance  
+
+ 
+
+3.1.1 A financial assessment of the project was undertaken using activity models, and on the 
+
+basis of 2016 market prices. The objective of the financial analysis of the project activities is to: 
+
+(i) assess the commercial viability of the proposed agricultural, livestock and value addition 
+
+enterprises to be funded under the project; and (ii) to provide a basis for the economic analysis 
+
+of the project. The analysis focuses on crops, livestock and aquaculture production modules and 
+
+various agro-processing enterprises. These analyses were carried-out with financial and 
+
+economic costs generated using Costab 32. Summary of financial and economic analysis is in 
+
+Annex B7 and further elaborated in Annex B7 in Volume II of the appraisal report. 
+
+ 
+
+3.1.2 The CPAVCD Project will contribute to the improvement of socio economic indicators 
+
+especially on reduction of poverty and malnutrition, maternal and child health, reduced child 
+
+literacy, improved schooling rate of children especially girls due to improved communication 
+
+through rehabilitated roads, provision of schools and community health centers. 
+
+ 
+
+       Table 3.1: Key economic and financial figures* 
+
+ 
+
+FIRR : 19%  NPV (base case) is USD 204,698,612  
+
+ 
+
+EIRR : 23%  NPV (base case)  is USD 317,656,845 
+    
+
+*NB: detailed calculations are available in Annex B7 
+
+  
+
+ Financial analysis  
+ 
+
+3.1.3 Based on the above assumptions, the aggregate financial benefits from agricultural 
+
+production and processing activities when computed against the investment costs for the project 
+
+activities generated Financial Internal Rate of Return (FIRR) of 19% and Net Present Value 
+
+(NPV) of USD 204.70 million. Based on the above analysis, the project is deemed financially 
+
+feasible. The FIRR of 19% is higher than the opportunity cost of capital (12%). 
+
+ 
+
+ Economic analysis 
+ 
+
+3.1.4 The Economic Analysis is carried out to determine the impact of the proposed project to 
+
+the economy as a whole, to justify Government intervention with public funds. The economic 
+
+analysis includes most quantifiable incremental costs and benefits that are associated with the 
+
+project's investments.  
+
+ 
+
+3.1.5 The economic analysis was conducted using the similar approach as the financial 
+
+analysis, on the basis of shadow prices (prices in conditions of the efficient market operation) of 
+
+
+
+11 
+
+ 
+
+tradable goods and total cost of project. In addition, other indirect benefits were also expected, 
+
+such as, easy access to markets through market linkages; easy transportation of goods and 
+
+services, better health delivery systems, improvement in literacy and employment generation. 
+
+However, these additional benefits were difficult to value in monetary terms due to the limited 
+
+scope of this report and data limitations, hence they could not be adequately captured in the 
+
+analysis. In these conditions, the economic analysis yielded an NPV of USD317.66 million and 
+
+Economic Internal Rate of Return (EIRR) of 23% as captured in the technical annexes. 
+
+ 
+
+3.2 Environment and Social Impact 
+
+ 
+
+3.2.1 Environment  
+
+ 
+
+3.2.1.1 The proposed Cabinda Province Agricultural Value Chains Development project was 
+
+classified Category 2 (validated 9th June 2017) because the project activities are expected to have 
+
+minimal and site-specific environmental and social impacts. The project will finance 
+
+construction and rehabilitation of small irrigation scheme, processing and storage facilities, and 
+
+community infrastructure (heath care centers, schools and water supply and sanitation) as well 
+
+as support activities for increased production and commercialization. These impacts can be 
+
+managed with the application of mitigation measures elaborated in site-specific environmental 
+
+and social management plans (ESMPs). The ESMP that was prepared in September 2016 by the 
+
+Cabinda Province Agriculture Development Study consultants for the general project 
+
+intervention areas will be fine-tuned for specific sites during project implementation; hence, an 
+
+environmental and social management framework (ESMF, which was posted on the Bank’s 
+
+website on 11th August 2017) will provide the framework for managing the environment and 
+
+social issues and guide the preparation of environmental and social impact assessment (ESIA) 
+
+and/or ESMP as required during project implementation.  
+
+ 
+
+3.2.1.2 The anticipated negative impacts are those associated with the construction and/or 
+
+rehabilitation works and the agricultural production and value-chain development activities 
+
+including  (i) loss of vegetation cover due to site clearing, soil erosion, landscape degradation 
+
+and possible habitat fragmentation, (ii) noise, vibration and emissions from operation of 
+
+machinery that may impair air quality and induce health implications, (iii) increased use of 
+
+agrochemicals including pesticides and fertilizers, and (iii) wastes generated from processing 
+
+and marketing facilities. These impacts are site specific and readily managed with the application 
+
+of well-defined measures elaborated in site-specific ESIAs/ESMPs such as (i) refilling the 
+
+exposed or excavated soil soon after completion of works and avoiding or minimizing 
+
+compaction of soils, (ii) ensuring environmental flow for rivers/lakes, (iii) establishing 
+
+sustainable water management systems, and (iv) capacity building of value chain actors to 
+
+promote good agriculture practices, improved agriculture technologies such as integrated soil 
+
+fertility management (ISFM), integrated pest management (IPM) and Waste-to Energy.  
+
+ 
+
+3.2.1.3 Overall, the CPAVCDP will have significant positive impacts such as improved 
+
+production, and competitiveness of selected agricultural commodities that will contribute to 
+
+increased income opportunities for value chain actors, and support the local economy of the 
+
+Cabinda province. 
+
+  
+
+3.2.2 Climate change 
+
+ 
+
+The Cabinda province experiences seasonal variability of rainfall. Studies indicate that the 
+
+province is susceptible to sea level rise, with a projection of 0.13 – 0.56m by the 2090s. Sea level 
+
+rise can aggravate flooding events causing riverbank erosion, saltwater intrusion, infrastructure 
+
+damages, crop failure, fisheries destruction, and loss of biodiversity. This has significant 
+
+
+
+12 
+
+ 
+
+implications on livelihoods of agricultural, pastoral and fisheries communities. The Project has 
+
+been assessed Category 2 per the Climate Safeguard Screening Systems requiring the 
+
+implementation of adaptation measures to increase the resilience of communities and the 
+
+infrastructure to be rehabilitated to withstand the impacts of climate change. The project will 
+
+address the potential climate risk through the implementation of practical risk mitigation and 
+
+adaptation measures. Specifically, water harvesting technologies, and rehabilitation and 
+
+improvement of water infrastructure to reduce the dependency on rainfall for agricultural 
+
+activities. Furthermore appropriate measures including physical structures will be implemented 
+
+to reduce coastal degradation as well as protect ecosystems at risk from other hazards that 
+
+accompany floods, and land use changes. This includes construction of gabions and rip rap 
+
+concrete pillars at Landana beach to mitigate coastal erosion; reconstruction of the existing pier 
+
+at Landana; construction of a small floating pier for fishing boats; as well improvement of the 
+
+irrigation and drainage schemes. The Project will prioritize the implementation of adaptations 
+
+measures as identified in Angola’s National Adaptation Program for Action (NAPA for 
+
+agriculture, pastoral and fisheries systems). Implementation will be monitored through the 
+
+inclusion of appropriate indicators in the project monitoring and evaluation framework. 
+
+Furthermore engineering designs will integrate the need to raise drainage datum and camber 
+
+access roads to the required levels to mitigate effect of floods in order to enhance resilience of 
+
+the infrastructure. Overall, the project promote climate smart agriculture through the use of 
+
+improved agricultural technologies and conservation agricultural practices as a means to enhance 
+
+the resilience of the farming systems. It is estimated that USD7.40 million (or 7.2%) of the loan 
+
+would be used on the above mentioned activities and is considered as climate finance portion of 
+
+the loan.  
+
+ 
+
+3.2.3 Green Growth 
+ 
+
+CPAVCD Project has been designed in congruence with the Green Growth principle of “quality 
+
+and inclusiveness of growth”. The Project design is flexible enough to address existing and 
+
+emerging development challenges (rapid population growth, urbanization, shifting consumption 
+
+patterns, uneven economic growth, lack of energy access, and limited access to value addition 
+
+by processing. The Project has been designed to be more holistic in that it has integrated 
+
+economic, social and environmental concerns for overall improvement of human well-being in 
+
+the Province. The Project has further considered solutions to the impact of environmental 
+
+changes, such as land degradation, disaster risk and climate change. 
+
+ 
+
+3.2.4 Gender  
+
+ 
+
+Structural transformation of Africa’s agriculture is a prerequisite for enhancing agricultural 
+
+productivity, food security and poverty reduction on the continent. However, a critical ingredient 
+
+of such a transformation is gender equality, given its potential impact on social inclusion and 
+
+employment generation. Unfortunately, available evidence reveals that Angola’s agricultural 
+
+landscape is characterized by gender inequalities disproportionately against women. These 
+
+gender-based differences ranged from access to productive resources, low rates of technology 
+
+adoption to economic capacities and incentives. This project will address some of the gender 
+
+inequalities in agricultural productivity, by reducing or closing women’s deficits in agriculture 
+
+performance and will unlock women and youth’s productivity potential. The indirect effects 
+
+include increases in female managers’ bargaining power and improvements in their social status 
+
+as their earnings increase, better child nutrition, health, and education attainment in households 
+
+with female-managed plots.  There is a large gap between men and women in terms of income, 
+
+access to basic services (energy, water and sanitation), access to housing, land, credit and 
+
+continuing education in the Cabinda Province. The project will also contribute to the 
+
+improvement of socio economic indicators especially the Sustainable Development Goals on 
+
+
+
+13 
+
+ 
+
+reduction of poverty, maternal and child health, reduced adult illiteracy, improved schooling rate 
+
+of children especially girls due to improved access roads. With gender integrated value chains, 
+
+the project will achieve competitive domestic food supply and increase the income levels of 
+
+farmers, processors and marketers. Through improved agricultural production, productivity and 
+
+market linkages, expected impact include food and nutrition security, creation of jobs, of which 
+
+women and youths account for about 50%, along the commodity value chains. For inclusivity, 
+
+the project shall ensure professional training, access to credit and other resources to women and 
+
+youth; facilitate acquisition of machinery and equipment among women and youth; and provide 
+
+capacity building (agribusiness and entrepreneurial, etc.) for women and youth amongst other 
+
+activities.   
+
+ 
+
+3.2.5 Social Impact 
+
+ 
+
+3.2.5.1 As the project intends paying particular attention to women as well as mechanizing and 
+
+enhancing the agricultural processes and products, drudgery will be removed, more women will 
+
+be empowered, more jobs created and nutrition status significantly improved in the intervention 
+
+areas. Access to safe water and adequate sanitation in Angola is quite poor particularly in rural 
+
+areas. This negatively affects the health status of the population, school enrolment and retention 
+
+especially for the girl-child, agricultural productivity and poverty status of the people in general. 
+
+The Project will drill boreholes and construct sanitary facilities in public places such as markets, 
+
+schools and health facilities in an effort to contribute to improvement of the hygiene situation. 
+
+ 
+
+3.2.5.2 The expected increased commercial activities particularly around the warehousing, and 
+
+processing facilities and markets with increased influx of people of diverse cultures, beliefs and 
+
+behaviors is likely to expose people to sexually transmitted infections such as HIV/AIDS. The 
+
+Project shall therefore design sensitization and capacity building activities to address these health 
+
+issues. The actions envisaged include: (i) community sensitization on good nutrition and hygiene 
+
+practices as well as prevention and management of malaria and HIV/AIDS; (ii) improving access 
+
+to health facilities by way of extending the feeder roads to them; (iii) rehabilitation and equipping 
+
+community health facilities; and (iv) skills training for health care providers. 
+
+ 
+
+3.2.5.3 In order to accommodate all these activities a total of USD34.09 million has been 
+
+earmarked for the provision of social infrastructure such as schools, clinics, potable water and 
+
+sanitation systems for the beneficiaries. Community mobilization and training on nutrition, 
+
+conflict resolution and health issues have been estimated at USD5.63 million. It is also estimated 
+
+that USD17.65 million (or 45%) of these sums will target women. 
+
+ 
+
+3.2.6 Involuntary Resettlement 
+
+ 
+
+There is no involuntary resettlement or land acquisition or any loss, by the population, of 
+
+property, sources of income and livelihoods envisioned within the implementation of the Project 
+
+activities. The project interventions will be implemented on existing agriculture and pastoral 
+
+systems.  
+
+ 
+
+IV- PROJECT IMPLEMENTATION 
+
+ 
+
+4.1 Implementation Arrangements 
+
+ 
+
+4.1.1 The Ministry of Agriculture will be the executing agency of the project. Based on the 
+
+weaknesses identified in the agriculture project that just ended and lessons distilled by the Bank 
+
+from its experience in implementing programs in the country, the management of the CPAVCD 
+
+
+
+14 
+
+ 
+
+Project emphasizes a highly decentralized but inclusive structure. At the National Level, a lightly 
+
+staffed National Project Coordination Unit (NPCU) will be established at MINAGRI in Luanda 
+
+to coordinate project activities in Cabinda Province and also to carry out key policy and 
+
+institution back stopping at the Ministry of Agriculture as well as disbursement and reporting 
+
+liaison with the Bank. The NPCU will be headed by a national Project coordinator (NPC) and 
+
+staffed by a liaison officer, a secretary and a driver. The staff of the NPCU will be paid from the 
+
+proceeds of the loan. Furthermore, a Project Implementation Unity (PIU) will be competitively 
+
+recruited as a consulting firm to manage the project and be based in Cabinda town itself. The 
+
+PIU will comprise eight key officers as follows: (i) Project Manager; (ii) Financial Manager; (iii) 
+
+Civil Engineer; (iv) Agro-processing Specialist; (v) Financial Accountant; (vi) Procurement 
+
+Expert; (vii) M&E Officer; and (viii) Credit Management Specialist. The setting up of the PIU 
+
+will be retained as a condition precedent to disbursement.  
+
+ 
+
+4.1.2 The Government will provide full time counterpart staff to understudy the consultants 
+
+and IDA (Institute of Agrarian Development) will take over the management of the project after 
+
+two and a half years. The Gender Expert at the Office of the Provincial Governor of Cabinda 
+
+will assume the leadership and responsibility for all gender related aspects of the Project and will 
+
+engage with national NGOs for support. This arrangement will provide in-house training and 
+
+sustainability upon the exit of the consultants. The Government counterpart specialists will 
+
+receive a predetermined monthly allowance as incentive. The existing Provincial Director of 
+
+Agriculture shall provide oversight function on the implementation of the Project in Cabinda 
+
+Province represented by Agricultural Development Stations in each Municipality. 
+
+ 
+
+4.1.3 A Project Steering Committee (PSC) will be established to provide policy guidance to 
+
+the project. The PSC will be responsible to the Minister of Agriculture. The PSC will be chaired 
+
+by the Minister of Agriculture and will comprise a representative (of not lower than the grade of 
+
+Director) each from IDA (Institute of Agrarian Development); ISV (Veterinary Services 
+
+Institute); Ministry of Women and Youth; Ministry of Environment; Ministry of Finance; 
+
+Ministry of Fisheries; Office of the Provincial Governor of Cabinda; and Departments of 
+
+Agriculture; Forestry; and Water from Cabinda Province. A representative of the farmer apex 
+
+cooperative association will also be in the PSC. The PSC will approve work plans and budget 
+
+estimates for activities and monitor reports of project implementation. The organogram for 
+
+Project implementation is presented in Annex II.  
+
+ 
+ Procurement Arrangement  
+
+ 
+
+4.1.4 Procurement of goods and works and the acquisition of consulting services, financed by 
+
+the Bank for the project, will be carried out in accordance with the “Procurement Policy for 
+
+Bank Group Funded Operations”, dated October 2015 and following the provisions stated in the 
+
+Financing Agreement. Specifically, Procurement will be carried out following: 
+
+ 
+
+ BPS – Borrower Procurement System: Specific Procurement Methods and Procedures 
+(PMPs) under BPS comprising its Laws and Regulations as set forth in the Public Contracts 
+
+Law No. 9/16 of 16 June 2016 and related implementing regulations, using the national 
+
+Standard Solicitation Documents (SSDs) or other SDs agreed during project negotiations. 
+
+Procurement of (i) construction of abattoirs for an estimated total amount of UA 343,360, 
+
+(ii) construction of processing centers for an estimated amount of UA 455,500, (iii) vehicles 
+
+for an estimated total amount of UA 350,080 and (iv) furniture for an estimated total amount 
+
+of UA 197,910 (iii) will be procured using BPS. 
+
+ 
+
+
+
+15 
+
+ 
+
+Bank PMPs: Bank standard PMPs, using the relevant Bank Standard or Model Solicitation 
+
+Documents, will be used for the procurement of works and goods and for the selection of 
+
+consultants under the project. Works procured using Open Competitive Bidding (OCB) through 
+
+International Competitive Bidding include : (i) construction of four clinics for an estimated total 
+
+amount of UA780,000; (ii) construction of four schools for an estimated total amount of 
+
+UA1,200,000; (iii) construction of one irrigation scheme for an estimated total amount of 
+
+UA2,627,440, (iv) drainage works for an estimated total amount of UA1,833,000; (v) 
+
+construction of a greenhouse for an estimated total amount of UA821,000; (vi) construction of 
+
+pier (landing sites) for an estimated total amount of UA4,077,390; (vii) construction of 
+
+warehouses for an estimated total amount of UA518,900; (viii) construction of residences for an 
+
+estimated total amount of UA1,097,890; (ix) other infrastructures for an estimated total amount 
+
+of UA873,750; (x) construction of Belize roads for an estimated total amount of UA10,126,900 
+
+(with prequalification); (xi) construction of Buco Zau roads for an estimated total amount of 
+
+UA5,183,140; (xii) construction of Cacongo roads for an estimated total amount of 
+
+UA6,267,890; and (xiii) construction of Cabinda municipality roads for an estimated total 
+
+amount of UA18,007,710 (with prequalification) . Goods procured using Open Competitive 
+
+Bidding (OCB) through International Competitive Bidding include equipment related to the 
+
+constructions for an estimated total amount of UA3,110,530. The selection of: (i) a Project 
+
+Implementation Unity (PIU) in charge of the implementation of the project, for an estimated 
+
+total amount of UA2,020,070; (ii) service for support to product marketing by NGOs, for an 
+
+estimated total amount of UA291,970; (iii) two consulting firms for review of designs, for an 
+
+estimated total amount of UA1,391,350; and (iv) three contracts for supervision of the works, 
+
+for an estimated total amount of UA3,708,690 will be carried out using the Quality and Cost 
+
+Based Selection (QCBS) method. The selection of audit services, for an estimated total amount 
+
+of UA218,980, will be carried out using the Least Cost Selection (LCS) method. A policy 
+
+advisor, for an estimated total amount of UA289,050, will be recruited using the Individual 
+
+Consultant (IC) selection method. The personnel for the National Coordination Unit will be 
+
+selected through selection of individual consultant method, for an estimated amount of 
+
+UA466,860. The Bank Group has approved that a Memorandum of Understanding should be 
+
+signed with World Vision International for the administration of the credit facility, and with a 
+
+consideration of administration fee estimated at UA182,000. WVI has a well-established 
+
+expertise in a wide range of technical sectors including agriculture, health and nutrition, water 
+
+and sanitation, education, etc. in Angola since 1989 also has experience utilising credit funds 
+
+from the Bank and other development partners.  
+
+ 
+
+4.1.5 Advance procurement: Advance procurement mechanism will be used to select the 
+
+project management team (project implementation unit – PIU), in order to be in place at project’s 
+
+start. The establishment of the PIU will be a loan condition. 
+
+ 
+
+4.1.6 Procurement Risks and Capacity Development: Country, Sector, Executing Agency 
+
+(EA), and Project procurement risk assessments were undertaken for the project and the output 
+
+have informed the decisions on the procurement regimes (BPS, Bank or Third party) and the 
+
+PMPs being used for specific transactions or groups of similar transactions under the project. 
+
+The appropriate mitigation measures and costs have been included in the procurement capacity 
+
+development action plan (CDAP) under the project. The resources, capacity, expertise and 
+
+experience of the Executing Agency, the Institute of Agrarian Development (IDA), are 
+
+inadequate to carry out the procurement, as it has little experience in implementing Bank-funds 
+
+operations and do not have procurement professionals conversant with Banks and national 
+
+procedures. Most of the issues/risks associated with the procurement components for 
+
+implementation of the project have been identified and include: (i) lack of capacity at the EA 
+
+side, and (ii) weaknesses at sector level (agriculture sector, cooperatives), although some 
+
+capacity exist for execution of smaller works and supply of vehicles and basic equipment and 
+
+
+
+16 
+
+ 
+
+furniture. The corrective measures which have been agreed are: (i) recruit a private project 
+
+implementation unity (PIU), which will include procurement responsibilities; (ii) this project 
+
+management team will prepare a project procedures manual and train appointed IDA 
+
+staff/counterpart; and (iii) all the executing agency staff will receive adequate procurement 
+
+orientation to enhance their procurement and project management capacity, as part of the project 
+
+launching and during its implementation. It is expected that appointed IDA staff will take over 
+
+the private service provider at mid-term project implementation. Detailed assessment and 
+
+mitigations measures can be found in the Technical Annexes B.5. 
+
+ 
+
+ Financial Management 
+ 
+
+4.1.7 An assessment of the IDA (Institute of Agrarian Development) in the Ministry of 
+
+Agriculture at the Cabinda Provincial level as Project Executing Agency (that included a review 
+
+of the budgeting, accounting, treasury systems, internal controls, and reporting and external audit 
+
+arrangements) was done to ascertain effective financial management of the project.  The current 
+
+financial management of resources managed by IDA at provincial level is primarily for small 
+
+value operating expenditures from periodic transfers made from the National office in Luanda. 
+
+Basic manual records are maintained by an administration staff with no formal reporting and 
+
+specific bank account maintained. At national level, the department of finance (within the 
+
+Finance and Administrative Department at the Ministry of Agriculture) is responsible for the 
+
+function of planning and budgeting including recording expenditures and maintaining assets 
+
+through the use of the Government wide IFMIS (Sistema Integrado de Gestiiodas Finanqas do 
+
+Estado) (SIGFE). The staff receive training in finance and accounting from the Ministry of 
+
+Finance and can manage the accounting for the smaller and recurring nature of some operating 
+
+expenses given their experience with other donor financed projects. However, given the 
+
+complexity and size of the project to be implemented at provincial level, the existing FM capacity 
+
+do not fully meet the Bank’s minimum requirements to ensure financial resources to be made 
+
+available under the project would be used for the intended purposes. In this regard there is need 
+
+for technical assistance in ensuring not only the effective financial management of the project 
+
+but also in capacity building of the finance department at IDA. A Project Implementation Unit 
+
+(PIU) will be competitively recruited as a consulting firm to implement the project, including 
+
+financial management responsibilities and also training government staff with the Ministry of 
+
+Agriculture, through IDA having the overall responsibility of overseeing its implementation.   
+
+ 
+
+4.1.8 The project financial management activities will therefore be done by the PIU under the 
+
+oversight of the NPCU that will include a competent accountant whose specific duties shall be 
+
+to ensure a sustained existence of a satisfactory system of accounting, reporting and proper 
+
+record keeping of all documentation to permit a timely production of complete and accurate 
+
+financial reports. The finance staff in the firm will work together with the government 
+
+counterpart finance staff that will be designated to the project at the province to enable transfer 
+
+of skills and offering substantial operational benefits to Angola in terms of contribution to 
+
+capacity development in order to enable them eventually take over project FM. Training in Bank 
+
+requirements regarding financial management will be given as part of project launching and 
+
+during its implementation. Given, the proposed arrangements, the overall FM risk for the project 
+
+is assessed as Substantial with the risk mitigated through the putting in place of the PIU that will 
+
+be responsible for project implementation. The detailed FM assessment including the financial 
+
+management responsibilities of the PIU are attached in Annex B4. 
+
+ 
+
+4.1.9 The NPCU will have overall responsibility for ensuring compliance with the Bank’s 
+
+reporting requirements, regarding the submission of periodic progress reports with financial 
+
+information for the Bank loan and Government contributions to the Bank within 45 days after 
+
+the end of the respective quarter. The NPCU in liaison with the PIU will submit quarterly interim 
+
+
+
+17 
+
+ 
+
+unaudited financial reports covering their activities, as well as the related annual financial 
+
+statements. The PIU will produce a project implementation manual, which will include 
+
+comprehensive financial management procedures, describing the detailed financial procedures 
+
+in processing, budgeting, recording, reporting and auditing of the financial transactions of the 
+
+Project. Furthermore, external audits for the project will be done annually in accordance with a 
+
+Bank approved audit Terms of Reference. The project external audits will be done by private 
+
+auditors and the audit reports (including management letter) submitted to the Bank within six 
+
+months after the end of the respective period covered by the audit with the costs of the audit 
+
+borne by the Loan.  
+
+ 
+
+Disbursements 
+
+ 
+
+4.1.10 Disbursement of funds under the project shall be primarily by the Direct Payment method 
+
+for the activities under the project. The PIU will be responsible for certification of invoices 
+
+submitted by other service providers or contractors and preparation of disbursement application 
+
+which will be reviewed at the NPCU and signed off by the Government designated staff and 
+
+submitted to the Bank for payment. The Special Account method to be managed by the NPCU 
+
+will however be used for financing the smaller and recurring nature of some operating expenses. 
+
+The opening of a Special Account denominated in United States Dollars together with the 
+
+associated local currency account in Angola Kwanzas at National level will be required before 
+
+disbursement of loan proceeds. The Reimbursement method of disbursement will also be 
+
+available.  All disbursements under the Loan will be made in accordance with the Bank’s rules 
+
+and procedures as laid out in the Disbursement handbook as applicable. In addition, a 
+
+Disbursement letter will be agreed upon as part of the Loan negotiations. 
+
+ 
+
+4.2 Monitoring  
+
+ 
+
+4.2.1 The foundation for the overall project monitoring and evaluation systems will be the 
+
+logical framework, a series of key performance indicators and project operational manual (POM) 
+
+which will be prepared by the PIU shortly after project loan approval. IDA will monitor overall 
+
+operations for planning and facilitation purposes for the production aspects of the project, 
+
+implementation of the drainage and roads infrastructure for attainment of national standards. The 
+
+PIU will monitor and evaluate overall impact of the project and compile the project’s quarterly 
+
+and annual reports for dissemination to the Bank Group, IDA, other line ministries, and the 
+
+Cabinda Provincial Directorate of Agriculture. A mid-term review (MTR) will be undertaken 
+
+two years after project start to review the project’s achievements and constraints. Similarly, upon 
+
+completion of project investments at the end of project year four, the PIU will prepare a 
+
+Borrower’s project completion report.  
+
+ 
+
+4.2.2 The initial assessment of national capacity indicates a satisfactory rating. The Office of 
+
+Planning and Statistics (GEPE) of the Ministry of Agriculture will be used to assess the 
+
+contribution of the project towards the country and province’s development goals and objectives 
+
+as defined in the relevant development plans. The baseline values were drawn from the NDP 
+
+2013-2017, and the results framework of Bank’s new projects. In using the performance 
+
+indicators and targets specified in the results-based framework, project implementers tracking 
+
+progress towards project results are expected to take special note of changes that reflect 
+
+advancement towards the translation of outputs into development outcomes. In developing 
+
+monitoring and planning indicators, they will be disaggregated by sex and age. The key functions 
+
+of the M&E Officer in the PIU will be to ensure quality and accountability of monitoring; 
+
+information management; facilitation of knowledge building; and knowledge sharing on 
+
+monitoring and evaluation. 
+
+ 
+
+
+
+18 
+
+ 
+
+4.2.3 The RBLF will form the basis for measuring outputs, outcomes and impact. Supported 
+
+by the M&E Specialist, the PIU will prepare: (i) Annual Work Program and Budgets; (ii) 
+
+Quarterly Progress Reports; (iii) Mid-year Progress Reports; (iv) Annual Progress Reports; (v) 
+
+Status Reports for Supervision Missions; (vi) Mid-term Review Report; and (vii) Project 
+
+Completion Report.  
+
+ 
+4.3 Governance 
+
+ 
+
+Based on Bank’s experience in implementing projects in Angola, the existing governance 
+
+practices and controls have been deemed satisfactory. The implementation of CPAVCD Project 
+
+requires good governance at all levels from the national to provincial to commune levels. This 
+
+is in relation to better responsiveness, transparency, accountability and efficiency in the use of 
+
+resources. Hence, the institutional arrangement has been designed to ensure good governance, 
+
+and will serve as an instrument for achieving Project objectives.  
+
+ 
+
+4.4 Sustainability  
+
+ 
+
+The ownership of CPAVCD Project is made manifest by the roles that various stakeholders 
+
+played during formulation and preparation of the Project. As the coordinator of the Study that 
+
+gave rise to this project the Ministry of Agriculture put up a technical team of experts both in 
+
+Luanda and Cabinda to review the various reports produced by the consultants. The intense 
+
+interest of the Governor of Cabinda Province in this project was made manifest during the 
+
+workshop during which she appointed her economic advisor as the focal point for the Province. 
+
+The maintenance of the access roads and municipal infrastructure will be included in the annual 
+
+recurrent budget of the Province as is done nationwide. The present Project will build capacities 
+
+of the Provincial agricultural officers in agri-business management to ensure profitability for the 
+
+value chain actors.  
+
+ 
+
+4.5 Risk Management 
+
+ 
+
+The current agricultural policy and sectoral strategies of Angola have been developed in a 
+
+consultative manner with the full participation of all relevant stake holders. The Bank Group will 
+
+engage in constant policy dialogue to ensure that the policy, institutional and funding 
+
+(particularly public expenditure) environment remain conducive to agricultural growth and 
+
+development. It is expected that the proposed project will contribute to reducing unemployment 
+
+and poverty, particularly among the youth, and thereby directly mitigate some of the main 
+
+underlying factors of social conflict. Furthermore, social risks will be reduced through gender-
+
+sensitive approaches and ensuring that the poor are not excluded from project benefits. 
+
+CPAVCDP is a category II intervention and will require an environmental, social and health 
+
+impact assessment. The ESIA and ESMPs have been prepared as part of the Study and will be 
+
+fine-tuned for specific project sites during implementation and to be examined as well by the 
+
+Bank. The following is the main risk identified and with its mitigation measures.  
+
+ 
+
+Risk Rating1 Mitigation Measures 
+
+Macroeconomic risks: slow 
+
+economic growth and deterioration 
+
+of the country’s creditworthiness 
+
+due to persistent oil crisis     
+
+ 
+
+H 
+The Bank will intensify the dialogue with the 
+
+Government to adopt supportive macroeconomic 
+
+policies to rationalize fiscal expenditure, introduce 
+
+exchange rate flexibility, strengthen the banking system 
+
+to prevent systemic crisis, and implement structural 
+
+reforms for economic diversification. 
+H= High 
+ 
+
+ 
+
+
+
+19 
+
+ 
+
+4.6 Knowledge Building 
+
+ 
+
+Knowledge building will be vital to the success of the Project. Considering the new approach in 
+
+agricultural commodity value chains development, the results of the Project will be monitored 
+
+closely. Knowledge will be built on the evolving concept of decentralized implementation unit 
+
+located in the Province; the role of value chain actors including farmers and farmers’ 
+
+organization, women, youth, private sector, commercial and public sector. Knowledge will be 
+
+captured using analysis of M&E database, supervision missions, mid-term reports, and periodic 
+
+impact assessments and field exchange visits of the stakeholders within and outside the 
+
+production clusters. In addition, knowledge would be disseminated by showcasing the Project 
+
+results using Bank’s communication systems (Intranet, short documentaries on Bank website, 
+
+etc.). The Farmer Field Schools will serve as sources of innovative knowledge and information 
+
+sharing learning tools empowering farmers and other actors of the value chain to train their peers, 
+
+share knowledge and experiences, thus reducing their overdependence on the public extension 
+
+agents. This will also expand significantly the number of value chain actors having access to the 
+
+disseminated knowledge and information. The technical assistance supports will introduce and 
+
+consolidate knowledge and skills, and facilitate technology and skills transfer both at the 
+
+community and national levels. 
+
+ 
+
+V. LEGAL INSTRUMENTS AND AUTHORITY 
+
+ 
+
+5.1 Legal Instruments 
+
+ 
+
+The legal instruments to finance this operation is an AfDB loan agreement for USD101.07 
+
+million between the Republic of Angola and the Bank.  
+
+ 
+
+5.2 Conditions for the Bank’s Intervention  
+
+ 
+
+Entry into Force of the Loan Agreement 
+
+ 
+
+The entry into force of the Loan Agreement shall be subject to the fulfillment by the Borrower of 
+
+the provisions of Section 12.01 of the General Conditions of the Bank applicable to Loan 
+
+Agreements and Guarantee Agreements.  
+
+ 
+
+ Conditions Precedent to First Disbursement of the Loan 
+
+ 
+
+The obligations of the Bank to make the first disbursement of the loan shall be conditional upon 
+
+the entry into force of the Agreement and the fulfillment by the Borrower, in form and substance 
+
+satisfactory to the Bank, of the following condition:  
+
+ 
+
+(i) Provide evidence of the competitive recruitment of the members of the Project 
+
+Implementation Unit (PIU), which will comprise the following key officers: (a) Project 
+
+Manager; (b) Financial Manager; (c) Civil Engineer; (d) Agro-processing Specialist; (e) 
+
+Financial Accountant; (f) Procurement Expert; (g) Monitoring and Evaluation Officer; 
+
+and (e) Credit Management Specialist, whose experience and qualifications shall be 
+
+acceptable to the Bank (refer to paragraphs 4.1.1 and 4.1.5).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+20 
+
+ 
+
+ 
+
+ Other Conditions  
+
+ 
+
+The Borrower shall, in form and substance satisfactory to the Bank, fulfil the following 
+
+conditions: 
+
+ 
+
+(i) Not later than three months from the date of loan effectiveness, appoint 
+Government counterpart staff to the PIU, with qualification and experience 
+
+acceptable to the Bank; 
+
+ 
+
+(ii) Not later than six months from the date of loan effectiveness, submit a project 
+operational manual (POM) acceptable to the Bank; 
+
+ 
+
+(iii) Prior to the use of Special Account disbursement method, submit to the Bank a 
+disbursement application with a Special Account in the name of the Project, 
+
+denominated in USD together with the associated local currency account in 
+
+Angola Kwanzas, in a bank acceptable to the Bank, for deposit of the proceeds of 
+
+the Loan. 
+
+ 
+
+Undertakings 
+
+ 
+
+The Borrower shall, in form and substance satisfactory to the Bank: 
+
+ 
+
+(iv) Carry out, and cause its contractors to carry out, the Project in accordance with: 
+(a) Bank’s rules and procedures; (b) national legislation; and (c) the 
+
+recommendations, requirements and procedures set forth in the Environmental 
+
+and Social Management Plan (ESMP) prepared for the Project; and 
+
+ 
+
+(v) Deliver to the Bank Project quarterly reports in form and substance acceptable to 
+the Bank, describing the Borrower’s implementation of the ESMP (including any 
+
+implementation failures and related remedies, if any). 
+
+  
+
+5.3 Compliance with Bank Policies 
+
+ 
+
+ This Project complies with all applicable Bank policies. 
+ 
+
+ Non-standard conditions (if applicable): N/A 
+ 
+
+VI. RECOMMENDATIONS 
+
+ 
+
+Management recommends that the Board of Directors approve an AfDB loan of USD101.07 
+
+million to the Republic of Angola for the purposes of the activities in the proposed project and 
+
+subject to the conditions stipulated in the present report.  
+
+ 
+
+ 
+
+
+
+I 
+
+ 
+
+Annex I 
+ 
+
+Angola 
+
+Country Comparative Socio-economic Indicators 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Year Angola Africa
+
+Develo-    
+
+ping         
+
+Countries
+
+Develo-       
+
+   ped  
+
+Countries
+
+Basic Indicators
+
+Area ( '000 Km²) 2016 1,247 30,067 94,638 36,907
+Total Population (millions) 2016 25.8 1,214.4 3,010.9 1,407.8
+Urban Population (% of Total) 2016 40.8 40.1 41.6 80.6
+Population Density  (per Km²) 2016 20.7 41.3 67.7 25.6
+GNI per Capita (US $) 2014 4 850 2 045 4 226 38 317
+Labor Force Participation *- Total (%) 2016 68.3 65.6 63.9 60.3
+Labor Force Participation **- Female (%) 2016 59.8 55.6 49.9 52.1
+Gender -Related Dev elopment Index  Value 2007-2013 ... 0.801 0.506 0.792
+Human Dev elop. Index  (Rank among 187 countries) 2014 149 ... ... ...
+Popul. Liv ing Below  $ 1.90 a  Day  (% of Population) 2008-2013 30.1 42.7 14.9 ...
+
+Dem ographic Indicators
+
+Population Grow th Rate   - Total (%) 2016 3.2 2.5 1.9 0.4
+Population Grow th Rate   - Urban (%) 2016 4.9 3.6 2.9 0.8
+Population < 15 y ears  (%) 2016 47.5 40.9 28.0 17.2
+Population >= 65 y ears  (%) 2016 2.3 3.5 6.6 16.6
+Dependency  Ratio (%) 2016 99.5 79.9 52.9 51.2
+Sex  Ratio (per 100 female) 2016 98.5 100.2 103.0 97.6
+Female Population 15-49 y ears (% of total population) 2016 22.3 24.0 25.7 22.8
+Life Ex pectancy  at Birth - Total (y ears) 2016 53.1 61.5 66.2 79.4
+Life Ex pectancy  at Birth - Female (y ears) 2016 54.6 63.0 68.0 82.4
+Crude Birth Rate (per 1,000) 2016 44.5 34.4 27.0 11.6
+Crude Death Rate (per 1,000) 2016 13.1 9.1 7.9 9.1
+Infant Mortality  Rate (per 1,000) 2015 96.0 52.2 35.2 5.8
+Child Mortality  Rate (per 1,000) 2015 156.9 75.5 47.3 6.8
+Total Fertility  Rate (per w oman) 2016 5.9 4.5 3.5 1.8
+Maternal Mortality  Rate (per 100,000) 2015 477.0 495.0 238.0 10.0
+Women Using Contraception (%) 2016 19.4 31.0 ... ...
+
+Health & Nutrition Indicators
+
+Phy sicians (per 100,000 people) 2004-2013 16.6 47.9 123.8 292.3
+Nurses and midw iv es (per 100,000 people) 2004-2013 166.0 135.4 220.0 859.8
+Births attended by  Trained Health Personnel (%) 2010-2015 49.9 53.2 68.5 ...
+Access to Safe Water (% of Population) 2015 49.0 71.6 89.3 99.5
+Healthy  life ex pectancy  at birth (y ears) 2013 45.9 54.0 57 68.0
+Access to Sanitation (% of Population) 2015 51.6 39.4 61.2 99.4
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2014 2.4 3.8 ... ...
+Incidence of Tuberculosis (per 100,000) 2014 370.0 245.9 160.0 21.0
+Child Immunization Against Tuberculosis (%) 2014 81.0 84.1 90.0 ...
+Child Immunization Against Measles (%) 2014 85.0 76.0 83.5 93.7
+Underw eight Children (% of children under 5 y ears) 2010-2014 15.6 18.1 16.2 1.1
+Daily  Calorie Supply  per Capita 2011 2 473 2 621 2 335 3 503
+Public Ex penditure on Health (as % of GDP) 2013 2.1 2.6 3.0 7.7
+
+Education Indicators
+
+ Gross Enrolment Ratio (%)
+
+      Primary  School       -   Total 2010-2015 128.7 100.5 104.7 102.4
+      Primary  School       -   Female 2010-2015 100.4 97.1 102.9 102.2
+      Secondary  School  -   Total 2010-2015 28.9 50.9 57.8 105.3
+      Secondary  School  -   Female 2010-2015 22.7 48.5 55.7 105.3
+Primary  School Female Teaching Staff (% of Total) 2010-2015 36.8 47.6 50.6 82.2
+Adult literacy  Rate - Total (%) 2010-2015 71.2 66.8 70.5 98.6
+Adult literacy  Rate - Male (%) 2010-2015 82.0 74.3 77.3 98.9
+Adult literacy  Rate - Female (%) 2010-2015 60.7 59.4 64.0 98.4
+Percentage of GDP Spent on Education 2010-2014 3.4 5.0 4.2 4.8
+
+Environm ental  Indicators
+
+Land Use (Arable Land as % of Total Land Area) 2013 3.9 8.6 11.9 9.4
+Agricultural Land (as % of land area) 2013 47.5 43.2 43.4 30.0
+Forest (As % of Land Area) 2013 46.6 23.3 28.0 34.5
+Per Capita CO2 Emissions (metric tons) 2012 1.4 1.1 3.0 11.6
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available. * Labor force participation rate, total (%  of total population ages 15+)
+
+** Labor force participation rate, female (%  of female population ages 15+) 
+
+August 2016
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Infant Mortality Rate
+( Per 1000 )
+
+Ang ol a Afri ca
+
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+GNI Per Capita US $
+
+Ang ol a Afri ca
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Population Growth Rate (%)
+
+Ang ola Afri ca
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Life Expectancy at Birth 
+(years)
+
+Ang ol a Afri ca
+
+
+
+II 
+
+ 
+
+Annex II 
+ 
+
+Angola 
+
+Cabinda Province Agriculture Value Chains Development Project 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+III 
+
+ 
+
+ 
+
+Annex III 
+Map of Project Area (Province wide) 
+
+ 
+
+ 
+
+
+
+ 
+
+IV 
+
+ 
+
+ 
+
+Annex IV 
+Bank Portfolio in Angola (June 2017) 
+
+ 
+
+S
+o
+
+u
+r
+c
+e
+ o
+
+f 
+
+F
+u
+
+n
+d
+
+in
+g
+
+ 
+
+PROJECT Sector Amount (UA) 
+
+Since 
+
+approval 
+
+by ADF 
+
+& AfDB 
+
+(years) 
+
+B
+o
+
+a
+r
+d
+
+ 
+
+A
+p
+
+p
+r
+o
+
+v
+a
+
+l 
+
+d
+a
+
+te
+ 
+
+S
+ig
+
+n
+a
+
+tu
+r
+e
+ 
+
+D
+a
+
+te
+ 
+
+E
+ff
+
+e
+c
+ti
+
+v
+e
+ 
+
+D
+a
+
+te
+ 
+
+C
+o
+
+m
+p
+
+le
+ti
+
+o
+n
+
+ 
+
+D
+a
+
+te
+ 
+
+D
+is
+
+b
+u
+
+r
+se
+
+m
+
+e
+n
+
+t 
+R
+
+a
+te
+
+ 
+
+IP(3) DO(3) 
+
+ADF Fisheries Sector Support Project Fisheries 20,000,000.00 3.9 5/15/2013 12/2/2013 10/29/2014 6/30/2019 9.33% 1.5  2  
+
+MIC Cabinda Province Agriculture Development Study Agriculture 420,045.00 2.3 12/22/2014 3/25/2015 3/25/2015 6/29/2017 61.83% (1)  n.a n.a  
+
+ADF Environmental Sector Support Project  Environment 12,000,000.00 8.1 3/11/2009 7/16/2009 12/17/2009 12/31/2017 68.65% 3.3 3 
+
+AfDB Science and Technology Development Support Project Social 66,335,969.57 1.4 10/21/2015 3/15/2016 6/16/2016 3/31/2021 0.23%  3 3  
+
+MIC 
+Studies: Cost and financing of HE and implication of 
+
+private sector 
+Social 398,478.00 3.1 2/14/2014 3/25/2015 3/25/2015 6/30/2017 37%  3 2  
+
+AfDB 
+Institutional Capacity Building for Private Sector 
+
+Development 
+Multi-Sector 18,317,572.40 2.5 9/17/2014 12/18/2014 4/14/2015 12/31/2019 2.29%  2.3 3  
+
+ADF Financial Management Support Project Multi-Sector 5,900,000.00 9.4 11/14/2007 1/7/2008 9/4/2008 12/30/2017 43.90% 2.21 2  
+
+ADF National Transport Sector Master Plan Transport 2,900,000.00 3.5 9/17/2013 1/22/2014 5/20/2015 12/30/2018 0.00%  2 2 
+
+AfDB 
+Institutional and Sustainability Support to urban water 
+
+supply 
+
+Water & 
+
+Sanitation 
+91,226,699.49 2 4/1/2015 6/24/2015 8/31/2015 12/31/2020 0.66%  3 3  
+
+  SUB-TOTAL   217,498,764.46 4        7%  2.4 2.3  
+
+AfDB Line of Credit to BPC Finance 239,546,556.79 1.4 10/21/2015 12/13/2016   6/30/2024 0.00%     
+
+  TOTAL   457,045,321.25 3.8        3% --  ---  
+
+ 
+(1) The final disbursement rate of the MIC grant that funded the project’ preparatory work, was approximately 62% because the amount of the contract with the consultant for the elaboration of the “Cabinda Integrated 
+
+Agricultural Rural Development Study” was lower than initially expected. There are no pending activities. The project technical execution is 100%. 
+
+(2) As at July 2017, the latest Flashlight Report available is from April 2017 
+(3) Calculation of the average of the ratings of project supervision missions based on the Implementation Progress and Results Reporting (IPR) approach (March 2011). For the projects for which the IPR of the last 
+
+supervision mission undertaken in 2017 was not available, it was considered the average of the 2016 ratings. That is the case of: Fisheries Sector Support Project; Institutional Capacity Building for Private 
+
+Sector Development; Financial Management Support Project. For the project National Transport Sector Master Plan, it were considered the rates of the last supervision mission, which was undertaken in 
+
+November 2016. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+V 
+
+ 
+
+Annex V 
+ 
+
+Angola 
+
+Key Macroeconomic Indicators 
+
+Indicators Unit 
+Actual Estimate Projections 
+
+2013 2014 2015 2016 2017          2018 2019 2020  
+
+  
+
+Real GDP Growth Rate Percent 6.8 4.8 3.0 0.1 3.0 3.5 2.8 2.5 
+
+Oil Percent -1.1 -2.6 6.3 0.8 6.4 6.8 4.8 3.7 
+
+Non-oil Percent 10.9 8.2 1.5 -0.4 1.1 2.1 2.3 1.6 
+
+Inflation (Consumer Price Index) (annual 
+
+average) 
+Percent 7.7 7.5 14.3 42.0 20.0 19.7 9.5 8.3 
+
+Exchange Rate (end of period) AKz/USD 97.6 102.9 135.6 166.1 208.5 228.4 240.5 257.4 
+
+Total revenue and grants percent of gross domestic product (GDP) 40.2 35.3 23.7 19.5 18.9 22.1 27.3 26.1 
+
+Total expenditure percent of GDP 40.5 41.9 30.6 23.6 25.6 24.5 30.9 30.5 
+
+Overall deficit (-)/surplus (+) percent of GDP -0.3 -6.6 -3.3 -4.1 -6.7 -2.3 -3.6 -4.4 
+
+Current account balance percent of GDP 6.7 -3.0 -10.0 -4.3 -6.1 -5.1 -6.6 -7.1 
+
+Gross reserves months of imports 7.2 8.8 11.0 8.1 6.8 6.9 6.7 6.4 
+
+Total public debt percent of GDP 32.9 40.7 65.4 71.6 62.8 60.2 59.7 57.2 
+
+External debt percent of GDP 23.8 28.6 40.5 43.1 37.6 38.9 43.3 42.0 
+
+Domestic debt Percent of GDP 9.0 12.0 25.0 28.5 25.3 21.3 16.4 15.2 
+
+Social Indicator  
+
+Indicators Unit 19901 20002 20163  
+
+Population Million 10.3 13.9 25.8  
+
+Employment to population ratio 15+, percent of total 66.6 65.4 68.3  
+
+Poverty headcount ratio at $1.90 a day,  
+
+2008-2013 (purchasing power parity) 
+percent of population … 54.3 30.1 
+
+ 
+
+Maternal mortality ratio 
+
+Child Stunting 
+
+Infant Mortality 
+
+modelled estimate, per 100,000 live births 1,200 890 
+
+477  
+
+Total enrolment, primary percent net … … 85.7  
+
+Proportion of seats held by women in 
+
+parliaments 
+percent 14.5 15.0 36.8 
+
+ 
+
+Prevalence of HIV, total percent pop (15–49) … 1.7 2.4  
+
+Environment and Climate Change Indicators  
+
+Indicators Unit 19901 20002 20153  
+
+CO2 emissions kg per purchasing power parity USD of GDP 2.3 1.5 1.4  
+
+Improved sanitation facilities percent of population with access 22.0 48.3 52.0  
+
+Improved water source percent of population with access 46.0 48.1 49.0  
+
+Source: Ministry of Finance, Angola, BNA, IMF, AfDB Statistics Department, AfDB Statistics Department Databases; World Bank: World Development Indicators; UNAIDS; 
+
+UNSD; WHO, UNICEF, WRI, United Nations Development Programme; Country Reports, and Economist Intelligence Units projections country forecasts (2017-2020). 
+
+Notes: … Data Not Available 
+1 Latest year available in the period 1990–1995; 2 Latest year available in the period 2000–2004; 3 Latest year available in the period 2013–2016. Last update –May 2017. Joint 
+
+WHO/UNICEF Joint Monitoring Report 2015 - Progress on Sanitation and Drinking Water.  
+
+    
+
+ 
+
+
+
+ 
+
+VI 
+
+ 
+
+Annex VI 
+
+Procurement Arrangement  
+ 
+
+ 
+ 
+
+ 
+Note: Figures in parenthesis are the respective amounts financed by African Development Bank loan and grant 
+
+ REPUBLIC OF ANGOLA
+
+Cabinda Province Agriculture Value Chains Development Project
+
+Procurement Arrangements
+
+Procurement Method (USD '000) Procurement Method (UA '000)
+
+International National International National
+
+Competitive Competitive Consulting Competitive Competitive Consulting
+
+Bidding Bidding Services: QCBS Other N.B.F. Total Bidding Bidding Services: QCBS Other N.B.F. Total
+
+A. WORKS  
+
+Constructions & Rehabilitations  19,397.91 642.76 - - 2,092.58 22,133.25 14,159.06 469.17 - - 1,527.43 16,155.66
+
+  (19,397.91) (642.76) (20,040.68) (14,159.06) (469.17) (14,628.23)
+
+Roads  54,232.33 - - - 8,265.03 62,497.36 39,585.64 - - - 6,032.87 45,618.51
+
+  (54,232.33) (54,232.33) (39,585.64) (39,585.64)
+
+Electricity  - - - - 4,947.63 4,947.63 - - - - 3,611.41 3,611.41
+
+  
+
+B. GOODS  
+
+1. VEHICLES  
+
+Vehicles (FW)  - 479.61 - - - 479.61 - 350.08 - - - 350.08
+
+  (479.61) (479.61) (350.08) (350.08)
+
+2. EQUIPMENT & MATERIALS  
+
+Equipment  2,302.69 2,293.07 - - - 4,595.76 1,680.80 1,673.78 - - - 3,354.57
+
+  (2,302.69) (2,293.07) (4,595.76) (1,680.80) (1,673.78) (3,354.57)
+
+Furniture  - 271.14 - - - 271.14 - 197.91 - - - 197.91
+
+  (271.14) (271.14) (197.91) (197.91)
+
+Materials  - - - - - - - - - -
+
+  
+
+C. SERVICES  
+
+1. TRAINING  - - 655.50 - - 655.50 - - 478.47 - - 478.47
+
+  (655.50) (655.50) (478.47) (478.47)
+
+2. TECHNICAL ASSISTANCE  - - 108.00 - - 108.00 - - 78.83 - - 78.83
+
+  (108.00) (108.00) (78.83) (78.83)
+
+3. CONTRACTUAL SERVICES  - - 12,963.84 - 1,328.40 14,292.24 - - 9,462.65 - 969.64 10,432.29
+
+  (12,963.84) (12,963.84) (9,462.65) (9,462.65)
+
+4. AUDIT  - - 300.00 - - 300.00 - - 218.98 - - 218.98
+
+  (300.00) (300.00) (218.98) (218.98)
+
+D. MISCELLANEOUS  - - - 5,000.00 - 5,000.00 - - - 3,649.64 - 3,649.64
+
+  (5,000.00) (5,000.00) (3,649.64) (3,649.64)
+
+E. OPERATING COSTS  - - - 2,228.01 5,451.28 7,679.29 - - - 1,626.28 3,979.04 5,605.32
+
+  (2,228.01) (2,228.01) (1,626.28) (1,626.28)
+
+Total  75,932.94 3,686.58 14,027.34 7,228.01 22,084.92 122,959.78 55,425.50 2,690.93 10,238.93 5,275.92 16,120.38 89,751.66
+
+  (75,932.94) (3,686.58) (14,027.34) (7,228.01) - (100,874.86) (55,425.50) (2,690.93) (10,238.93) (5,275.92) - (73,631.28)
+
+
+
+VII 
+
+ 
+
+Annex VII 
+
+ 
+
+Waiver Request for Financing 82.1% of the Project Cost through an AfDB Loan 
+
+ 
+
+Introduction 
+
+ 
+
+Angola has made remarkable progress in socio-economic and infrastructure development since the 
+
+end of the 27-year-long civil war in 2002, but more still needs to be done to lift majority of its 
+
+population out of poverty. The sharp and long-lasting decline in oil prices has derailed Angola’s 
+
+economic performance. GDP growth slowed to 0.1% in 2016 down from 4.8% in 2014. This led 
+
+to a significant reduction of the nominal GDP to about USD96.2 billion in 2016 from USD126.8 
+
+billion in 2014. The Government of Angola (GoA) is increasingly aware of these realities and has 
+
+taken steps to mitigate the impact of the oil price shock on the economy. The Government therefore 
+
+requested assistance from the Bank to strengthen investments in agricultural transformation 
+
+through commodity value chains in order to diversify exports, reduce imports through value chains 
+
+development, increase national revenue sources and reduce the dependence on oil. The 
+
+Government is adjusting its policies to facilitate the needed economic transition as international 
+
+oil prices are not expected to recover in a near term. Two key policies were adopted, namely: (i) 
+
+the Accelerated Program for Economic Diversification in February 2015, and (ii) the Strategy for 
+
+Mitigation of the Oil Crisis adopted in January 2016.  
+
+ 
+
+Agriculture Policy Framework 
+
+ 
+
+The Angola Long Term Plan, dubbed Vision 2025 is based on the national model involving five 
+
+dimensions: human development; economic development; socio-cultural scientific-technological 
+
+development; political development; and institutional development. Vision 2025 was designed to 
+
+be developed in a period of 25 years, in three stages, with concrete objectives and targets and 
+
+which may be adapted in the light of the changes and adjustments that may prove necessary and 
+
+timely, in particular: 2000-2005 (Peace, national reconstruction and Economic Growth startup); 
+
+2005-2015 (consolidation of National Reconstruction, Modernization and development); 2015-
+
+2025 (sustainability and growth). 
+
+ 
+
+The National Medium-term Development Plan for the Agricultural Sector 2013-2017 (PDMPSA) 
+
+establishes the following strategic objectives: 
+
+ 
+
+ Strategic objective 1: To promote a wider campaign of professional training and transfer 
+of technology to optimize agricultural production and productivity; 
+
+ Strategic objective 2: To implement a process of agrarian transformation and rural 
+development based on family farming, cooperatives and public-private partnerships; 
+
+ Strategic objective 3: To establish a mechanism for tight coordination and synergies 
+between different sectors and other stakeholders in rural areas, emphasizing society 
+
+participation in the national development process; and 
+
+ Strategic objective 4: to contribute to the process of industrialization of the country. 
+ 
+
+The Government has in the aforementioned strategies and polices pronounced its priorities for 
+
+agriculture as follows: (1) increase the production and commercialization of cereals, horticultural,  
+
+ 
+
+ 
+
+
+
+VIII 
+
+ 
+
+roots and tubers crops, coffee, artisanal/continental fisheries’ products; (2) livestock breeding; (3) 
+
+promotion of sustainable natural resources management; (4) promotion of research activities 
+
+needed to support and promote productive activities such as micro-finance, rural extension, small 
+
+irrigation schemes, milk production, apiculture and poultry. 
+
+ 
+
+Country’s fiscal outlook and debt sustainability 
+
+ 
+
+The overall fiscal balance, in surplus in the last four years, is expected to deteriorate substantially, 
+
+reaching a yearly deficit of around 4% of GDP on average between 2014 and 2019. After reaching 
+
+a historic maximum level of USD36.1 billion in September 2013, gross international reserves 
+
+declined to USD31.4 billion at end-June 2014. The falling oil commodity prices further drove 
+
+decline on the country’s current account from 5.5% in 2013 to less than 2% in 2015. This has 
+
+constraint the government’s ability to mobilize resources to fund large infrastructure projects. 
+
+Given the budgetary constraints facing the country, most of its public expenditures have been 
+
+redirected to infrastructure projects.  
+
+ 
+
+In the medium-term, Angola’s oil revenues (as a share of GDP) are expected to decline while there 
+
+is high demand for increased spending on infrastructure and poverty alleviation. This leaves the 
+
+country in a challenging fiscal position characterized by large fiscal deficits over the medium term, 
+
+leading to increasing gross financing needs and rising public debt-to-GDP ratios. Despite the 
+
+challenging fiscal and external sector outlook, Angola’s external debt position appears sustainable, 
+
+although it is expected to increase from 22% of GDP in 2013 to 37% of GDP in 2019. Moreover, 
+
+total public debt is also expected to rise from 34.6% in 2014 to 45.6% by 2019.  
+
+ 
+
+Conclusion 
+
+ 
+
+The GoA has demonstrated its commitment through its development program and spending. 
+
+However investment in physical infrastructure is not a sufficient condition for improved and 
+
+sustainable service delivery. There is need for greater need for support in institutional 
+
+strengthening and professionalizing service delivery which this project seeks to achieve. The 
+
+commitment of the Government is evidenced as depicted in the overall National Development 
+
+Program. Owing to the importance of the project, current commitment levels and constraints in the 
+
+national budget and future outlook, the project seeks a waiver from the Policy on Expenditure for 
+
+Bank Group Financing that requires at least 50% counterpart contribution by the Government. This 
+
+is in line with the provisions of paragraphs 2.4.2 and 2.4.3 of the project appraisal report and 
+
+justification that the project be allowed with an AfDB financing of 82.1% of the project cost while 
+
+the remaining 17.9% is covered by the GoA and beneficiaries. 
+
+ 
+
+ 
+ 
+
+
+
+
+

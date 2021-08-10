@@ -1,0 +1,277 @@
+id	sid	eid	entity	type
+WB6	1	1	World Bank Document COMBINED PROJECT INFORMATION	ORG
+WB6	1	2	PID/ISDS	ORG
+WB6	5	1	Basic Project Data Country:	ORG
+WB6	5	2	P162397 Parent Project	ORG
+WB6	5	3	P119432 Project Name	ORG
+WB6	5	4	15-Sep-2017	CARDINAL
+WB6	5	5	IDA	ORG
+WB6	5	6	10.00	CARDINAL
+WB6	5	7	10.00	CARDINAL
+WB6	5	8	Decision Note	WORK_OF_ART
+WB6	9	1	The Kingdom of Lesotho	GPE
+WB6	10	1	2.1 million	CARDINAL
+WB6	10	2	around 57%	PERCENT
+WB6	10	3	34 percent	PERCENT
+WB6	10	4	CPF	ORG
+WB6	10	5	2016	DATE
+WB6	12	1	only 800 kg	QUANTITY
+WB6	13	1	Kingdom	GPE
+WB6	13	2	Orange	NORP
+WB6	14	1	Annual	DATE
+WB6	14	2	500 mm	QUANTITY
+WB6	14	3	760 mm	QUANTITY
+WB6	15	1	10	CARDINAL
+WB6	15	2	30	CARDINAL
+WB6	16	1	less than 10 percent	PERCENT
+WB6	16	2	as many as 63 percent	PERCENT
+WB6	17	1	17.2%	PERCENT
+WB6	17	2	2015	DATE
+WB6	17	3	more than 85 percent	PERCENT
+WB6	18	1	30 percent	PERCENT
+WB6	20	1	four	CARDINAL
+WB6	23	1	Lesotho	PERSON
+WB6	23	2	more than 1.5	CARDINAL
+WB6	23	3	1977	DATE
+WB6	23	4	only 170 kg	QUANTITY
+WB6	23	5	2011	DATE
+WB6	30	1	Less than 1 percent	PERCENT
+WB6	30	2	Lesotho	GPE
+WB6	35	1	Lesotho	GPE
+WB6	37	1	South Africa	GPE
+WB6	38	1	Lesotho	GPE
+WB6	39	1	South African	NORP
+WB6	40	1	the coming years	DATE
+WB6	44	1	Two	CARDINAL
+WB6	44	2	SADP	ORG
+WB6	44	3	IDA 17	LAW
+WB6	45	1	the Government of Lesotho	LAW
+WB6	45	2	SADP	ORG
+WB6	46	1	IDA 17	LAW
+WB6	46	2	SADP	ORG
+WB6	47	1	AF	ORG
+WB6	47	2	SADP	ORG
+WB6	47	3	Lesotho	PERSON
+WB6	48	1	February 28, 2020	DATE
+WB6	48	2	less than ten years	DATE
+WB6	49	1	March 31, 2018	DATE
+WB6	50	1	AF	ORG
+WB6	50	2	the Smallholder Agricultural Development Project	ORG
+WB6	50	3	Lesotho	PERSON
+WB6	50	4	Botha-Bothe	PERSON
+WB6	50	5	Leribe	PERSON
+WB6	50	6	Mafeteng	PERSON
+WB6	50	7	Maseru	PERSON
+WB6	50	8	Mohale	PERSON
+WB6	50	9	Hoek	FAC
+WB6	52	1	three	CARDINAL
+WB6	52	2	almost 500,000	CARDINAL
+WB6	52	3	about 100,000	CARDINAL
+WB6	52	4	about 80,000	CARDINAL
+WB6	52	5	South African	NORP
+WB6	53	1	three	CARDINAL
+WB6	54	1	18,000	CARDINAL
+WB6	54	2	AF	ORG
+WB6	54	3	55,000	CARDINAL
+WB6	54	4	SADP	ORG
+WB6	55	1	the Smallholder Agriculture Development Project	ORG
+WB6	55	2	SADP	ORG
+WB6	55	3	SADP	ORG
+WB6	56	1	SADP	ORG
+WB6	56	2	Lesotho	ORG
+WB6	57	1	SADP	ORG
+WB6	58	1	Lesotho	GPE
+WB6	59	1	AF	ORG
+WB6	60	1	Lesotho	GPE
+WB6	60	2	GoL	ORG
+WB6	62	1	Lesotho	GPE
+WB6	63	1	About 70-80 percent	PERCENT
+WB6	63	2	Lesotho	ORG
+WB6	63	3	more than three-quarters	CARDINAL
+WB6	64	1	the past decade	DATE
+WB6	64	2	Basotho	NORP
+WB6	64	3	South African	NORP
+WB6	64	4	more than 100,000	CARDINAL
+WB6	64	5	20 years ago	DATE
+WB6	64	6	less than 30,000	CARDINAL
+WB6	65	1	recent years	DATE
+WB6	66	1	Lesotho	PERSON
+WB6	71	1	Lesotho	PERSON
+WB6	72	1	three	CARDINAL
+WB6	73	1	SADP II	ORG
+WB6	74	1	The Ministry of Forestry, Range and Soil Conservation	ORG
+WB6	74	2	the Ministry of Water Affairs	ORG
+WB6	79	1	C. Proposed Development	PERSON
+WB6	79	2	Lesotho	ORG
+WB6	80	1	Lesotho	ORG
+WB6	80	2	Eligible Crisis	ORG
+WB6	81	1	Lesotho	ORG
+WB6	83	1	AF	ORG
+WB6	83	2	Lesotho	PERSON
+WB6	83	3	CPF	ORG
+WB6	83	4	Lesotho	PERSON
+WB6	84	1	AF	ORG
+WB6	85	1	AF	ORG
+WB6	85	2	three	CARDINAL
+WB6	85	3	Maseru	PERSON
+WB6	85	4	Mohale	ORG
+WB6	85	5	Hoek	FAC
+WB6	86	1	three	CARDINAL
+WB6	87	1	18,000	CARDINAL
+WB6	87	2	AF	ORG
+WB6	87	3	55,000	CARDINAL
+WB6	87	4	SADP	ORG
+WB6	89	1	2	CARDINAL
+WB6	89	2	Smallholder Production- Climate Smart Packages for Smallholders	ORG
+WB6	90	1	3	CARDINAL
+WB6	91	1	4	CARDINAL
+WB6	91	2	the Additional Financing	LAW
+WB6	95	1	three	CARDINAL
+WB6	95	2	3	CARDINAL
+WB6	95	3	Maseru	PERSON
+WB6	96	1	Lesotho	PERSON
+WB6	96	2	approximately 65%	PERCENT
+WB6	98	1	Only 9%	PERCENT
+WB6	98	2	Lesotho	ORG
+WB6	98	3	over 80%	PERCENT
+WB6	100	1	about 2,700	CARDINAL
+WB6	100	2	9%	PERCENT
+WB6	107	1	F. Environmental and	ORG
+WB6	107	2	Kisa Mfalila	PERSON
+WB6	107	3	Majbritt Fiil-Flynn	PERSON
+WB6	108	1	AF	ORG
+WB6	108	2	Parent Project	ORG
+WB6	108	3	Project Management Unit	ORG
+WB6	108	4	Project Management Unit	ORG
+WB6	108	5	the Parent Project	ORG
+WB6	109	1	the World Bank	ORG
+WB6	110	1	World Bank	ORG
+WB6	112	1	III	ORG
+WB6	114	1	the Lesotho Smallholder Agriculture Development Program	ORG
+WB6	114	2	the Environmental Category B	ORG
+WB6	114	3	the Parent Project	ORG
+WB6	116	1	the Additional Financing	LAW
+WB6	117	1	ESMF	ORG
+WB6	117	2	PIU	ORG
+WB6	118	1	4.04	CARDINAL
+WB6	120	1	OP	PERSON
+WB6	120	2	OP	PERSON
+WB6	120	3	4.36	CARDINAL
+WB6	122	1	4.09	CARDINAL
+WB6	122	2	the Integrated Pest Management Plan	ORG
+WB6	122	3	IPMP	ORG
+WB6	123	1	AF	ORG
+WB6	123	2	the Parent Project	ORG
+WB6	124	1	ESMF	ORG
+WB6	124	2	the Parent Project	ORG
+WB6	124	3	Integrated Pest Management Plan	ORG
+WB6	124	4	IPMP	ORG
+WB6	125	1	ESMF	ORG
+WB6	126	1	AF	ORG
+WB6	127	1	Physical Cultural Resources Chance Find	ORG
+WB6	128	1	Peoples OP/BP	ORG
+WB6	128	2	4.10	CARDINAL
+WB6	128	3	4.10	CARDINAL
+WB6	129	1	OP	PERSON
+WB6	132	1	RPF	ORG
+WB6	133	1	4.37	CARDINAL
+WB6	134	1	International Waterways OP/BP	ORG
+WB6	134	2	OP	PERSON
+WB6	134	3	7.50	CARDINAL
+WB6	135	1	Disputed Areas OP/BP	ORG
+WB6	135	2	OP	GPE
+WB6	135	3	7.60	CARDINAL
+WB6	143	1	the Parent Project	LAW
+WB6	143	2	AF	ORG
+WB6	143	3	the Environmental Category B	ORG
+WB6	143	4	the Parent Project	ORG
+WB6	148	1	the Additional Financing	LAW
+WB6	149	1	ESMF	ORG
+WB6	149	2	PIU	ORG
+WB6	150	1	the Parent Project	ORG
+WB6	152	1	Borrower	ORG
+WB6	153	1	One	CARDINAL
+WB6	154	1	one	CARDINAL
+WB6	156	1	2	CARDINAL
+WB6	157	1	AF	ORG
+WB6	159	1	3	CARDINAL
+WB6	161	1	RPF	ORG
+WB6	164	1	4	CARDINAL
+WB6	167	1	The Environmental and Social Management Framework	ORG
+WB6	167	2	the Parent Project	ORG
+WB6	167	3	the Ministry of Agriculture and Food Security	ORG
+WB6	168	1	the Additional Financing	LAW
+WB6	169	1	ESMF	ORG
+WB6	169	2	PIU	ORG
+WB6	169	3	the World Bank	ORG
+WB6	170	1	World Bank	ORG
+WB6	171	1	first	ORDINAL
+WB6	171	2	the World Bank Safeguard Polices	ORG
+WB6	172	1	AF	ORG
+WB6	172	2	World Bank	ORG
+WB6	172	3	World Bank	ORG
+WB6	173	1	World Bank	ORG
+WB6	173	2	Bank	ORG
+WB6	174	1	5	CARDINAL
+WB6	176	1	ESMF	ORG
+WB6	176	2	RPF	GPE
+WB6	176	3	2011	DATE
+WB6	180	1	Bank	ORG
+WB6	180	2	11-Jun-2011	DATE
+WB6	180	3	Disclosure Resettlement Action Plan/Framework/Policy ProcessPHResDelete Date	WORK_OF_ART
+WB6	180	4	30-May-2011	CARDINAL
+WB6	180	5	11-Jun-2011	DATE
+WB6	180	6	Disclosure Pest Management PlanPHPestDelete	ORG
+WB6	181	1	11-Jun-2011	DATE
+WB6	181	2	Disclosure If the project triggers the Pest Management and/or Physical Cultural Resources	WORK_OF_ART
+WB6	181	3	the Environmental Assessment/Audit	ORG
+WB6	181	4	EMP	ORG
+WB6	183	1	C. Compliance Monitoring Indicators	PERSON
+WB6	183	2	BP	GPE
+WB6	183	3	EMP	WORK_OF_ART
+WB6	184	1	NA	ORG
+WB6	184	2	the Regional Environment Unit	ORG
+WB6	184	3	EA	PERSON
+WB6	185	1	NA	ORG
+WB6	185	2	EMP	ORG
+WB6	186	1	NA	ORG
+WB6	186	2	PHCompliance	ORG
+WB6	186	3	4.09 - Pest Management	PERCENT
+WB6	187	1	NA	ORG
+WB6	188	1	NA	ORG
+WB6	190	1	NA	ORG
+WB6	190	2	PHCompliance OP/BP	ORG
+WB6	191	1	NA	ORG
+WB6	191	2	Regional	ORG
+WB6	192	1	NA	ORG
+WB6	193	1	TBD	ORG
+WB6	194	1	TBD	ORG
+WB6	194	2	PHCompliance	ORG
+WB6	194	3	the World Bank's	ORG
+WB6	195	1	NA	ORG
+WB6	196	1	NA	ORG
+WB6	196	2	PHCompliance	ORG
+WB6	197	1	NA	ORG
+WB6	198	1	NA	ORG
+WB6	199	1	NA	ORG
+WB6	200	1	NA	ORG
+WB6	200	2	V. Contact	PERSON
+WB6	200	3	World Bank	ORG
+WB6	200	4	Sr Agricultural Spec	ORG
+WB6	203	1	Borrower/Client/Recipient	ORG
+WB6	203	2	Ministry of Agriculture and Food Security Contact	ORG
+WB6	204	1	Semano Sekatle	PERSON
+WB6	204	2	Minister Development Planning Email:ntebohelengraliapeng@yahoo.com	ORG
+WB6	207	1	Ministry of Agriculture and	ORG
+WB6	207	2	Jules Cesaire YAGANZA	PERSON
+WB6	207	3	Directeur du Departement Techniques Industrielles et Exploit Email:motselebanem@agric.gov.ls	WORK_OF_ART
+WB6	212	1	The World Bank 1818 H Street	ORG
+WB6	212	2	Washington	GPE
+WB6	212	3	202	CARDINAL
+WB6	212	4	473-1000	CARDINAL
+WB6	213	1	Nathalie S. Munzberg	PERSON
+WB6	213	2	SA	ORG
+WB6	213	3	27-Jul-2017	DATE
+WB6	213	4	Mark E. Cackler	PERSON
+WB6	213	5	30-Jul-2017	CARDINAL
+WB6	213	6	Janet K. Entwistle	PERSON

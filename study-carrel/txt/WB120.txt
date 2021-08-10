@@ -1,0 +1,1194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+ 
+
+  
+Oct 09, 2017 Page 1 of 15  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 06-Dec-2017 | Report No: PIDISDSA23288 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 2 of 15  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Uzbekistan P164226 Additional Financing - 
+Horticulture Development 
+Project 
+
+P133703 
+
+Parent Project Name Region Estimated Appraisal Date Estimated Board Date 
+
+Horticulture Development Project EUROPE AND CENTRAL 
+ASIA 
+
+28-Nov-2017 25-Jan-2018 
+
+Practice Area (Lead) Financing Instrument Borrower(s) Implementing Agency 
+
+Agriculture Investment Project 
+Financing 
+
+Republic of Uzbekistan Rural Restructuring 
+Agency 
+
+ 
+Proposed Development Objective(s) Parent 
+ 
+The project development objective is to enhance the productivity and profitability of horticulture sector in the project 
+area. 
+ 
+ 
+Components 
+
+Agricultural Support Services 
+Access to Credit 
+Project Management 
+
+ 
+
+Financing (in US$, millions) 
+
+ 
+
+FIN_SRC_TBL 
+
+Financing Source Amount  
+
+Borrower 17.98  
+
+Free-standing Cofinancing Trust Fund 25.00  
+
+International Bank for Reconstruction and Development 500.00  
+
+LOCAL: BENEFICIARIES 98.14  
+
+Total Project Cost  641.12  
+  
+ 
+
+Environmental Assessment Category 
+
+Partial Assessment (B) 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 3 of 15  
+
+ 
+
+ 
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+Uzbekistan is gradually moving away from a state driven development model towards a more diversified and 
+private sector led economy. This structural change – which has accelerated significantly in the past year – is 
+also taking place within the context of significant macroeconomic policy shifts, the most prominent of which 
+has been the recent move towards greater currency convertibility and a significant devaluation in September 
+2017. These developments play a strong role in shaping the country’s development agenda going forward. 
+ 
+Agriculture continues to play an important part in Uzbekistan’s economy and in 2016 accounted for 17 percent 
+of GDP, 15 percent of export revenues, and over one-third of employment. As noted in the May 2016 
+Systematic Country Diagnostic, the agriculture sector can produce significant results in terms of economic 
+growth and employment in the medium-term and diversification of outputs and exports have considerable 
+space to expand.  
+ 
+Horticulture plays an important role promoting a gradual shift away from the traditional crops (cotton and 
+wheat) and public intervention towards a more liberal and diversified agricultural sector. Agriculture value 
+added has grown at an average annual rate of 6.5 percent since 2003 and the strongest growth has come from 
+crops other than wheat and cotton. With a growing domestic and export market, the area devoted to 
+horticulture has increased steadily, primarily by displacing land used to grow cotton. The economic impact of 
+the fruit and vegetables subsector is also large, accounting for 50 percent of the value of crop output and over 
+35 percent of agriculture export value. Despite delayed returns and higher investment costs, horticultural 
+crops generate revenues to farmers significantly higher than wheat and cotton.  The horticulture sector 
+provides an important source of all-season jobs in rural areas and is a significant employer of women.   
+ 
+The proposed Additional Financing will also contribute to Uzbekistan’s accelerating reform agenda, which is 
+creating rapid structural change. Structural reforms will create both opportunities and risks – exchange rate 
+depreciation has created a clear opportunity to expand exports. Price liberalization is also expected to 
+contribute to the development of more competitive industries and a diversified economy. At the same time, 
+the negative impacts of reform could include job losses in inefficient industries and lower overall growth while 
+the economy adjusts. Significant fiscal resources may also be required to maintain currency reserves and 
+address financial risks in state-owned enterprises and the banking sector. In this context, additional 
+investment to increase private sector participation in the economy and finance sectors with the potential for 
+growth and job creation can be an important element to mitigate the costs of structural transition. 
+
+ 
+Sectoral and Institutional Context 
+ 
+
+The Horticulture Development Project (HDP) is part of a portfolio of agricultural investments aimed at 
+diversifying agriculture into higher value crops, intensifying agricultural yields and productivity, and fostering 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 4 of 15  
+
+ 
+
+greater and better rural jobs. Approved in June 2014, HDP focused on addressing several constraints facing the 
+horticulture sector: (i) improving access to technologies, knowledge and markets; (ii) strengthening technical 
+and managerial capacity in the farming and agri-business sectors; and (iii) introducing new financial products. 
+The design of HDP drew on the implementation experience of the Rural Enterprise Support Program (RESP), 
+which established a successful model for long term agricultural finance through private and state owned 
+banks.  
+HDP’s primary project beneficiaries are farmers, farmer groups, private enterprises, agro-firms, and agro-
+processing enterprises, involved in the country’s horticultural sub-sector. Secondary beneficiaries are the 
+Participating Financial Institutions (PFIs) through improved skills and acquisition of a more diverse menu of 
+suitably adapted financial products; and the national network of private growers through training and 
+technical assistance. At the same time, the project was designed to support the growth and development of 
+small and medium enterprises in the rural areas, creating more and better paying jobs in the agro-processing, 
+trading and export sectors, and increasing the value added of the agricultural sector. 
+ 
+The Project Development Objective (PDO) is to enhance the productivity and profitability of the horticulture 
+sector in the project area. The project has three components: Component 1 (Agricultural Support Services); 
+Component 2 (Access to Credit); and Component 3 (Project Management). The original Project IBRD Loan in 
+the amount of US$150 million was approved by the Board of Directors on June 12, 2014 and became effective 
+on October 5, 2015.  The project was restructured in 2016 to accommodate new co-financing for HDP through 
+a technical assistance program by the European Union (EU). This grant will total Euro $21.0 million and replace 
+IBRD financing for Component 1.   
+ 
+To date, 92 percent of the loan (US$137.9 million) has been disbursed primarily under Component 2. Thus, 
+during the first two years of implementation 97 percent of funding for the second component was disbursed 
+to finance 223 sub-loans.  
+ 
+The rapid rate of disbursement of the project’s Access to Credit Component demonstrates the significant 
+demand for credit in the horticulture sector. This was anticipated, given the RESP experience, the sector 
+analysis, and expressions of interest by potential PFIs. The PFIs have a pipeline of sub-project beneficiaries 
+that meet the criteria in the HDP Credit Guidelines. In view of rapid credit line disbursement and significant 
+unmet demand for investment in the agribusiness sector, the Government of the Republic of Uzbekistan has 
+submitted a request to the World Bank for an additional loan to scale-up the investment and working capital 
+sub-loans and lease financing activities. 
+
+ 
+C. Proposed Development Objective(s)  
+ 
+ 
+Original PDO  
+The project development objective is to enhance the productivity and profitability of horticulture sector in the project 
+area. 
+ 
+Current PDO  
+
+ 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 5 of 15  
+
+ 
+
+No change is proposed to the PDO, which will remain “to enhance the productivity and profitability of 
+
+horticulture sector in the project area”.  The project area, however, will be expanded to all thirteen regions 
+
+(full coverage of the country) and the closing date is proposed to be extended a further two years to 2023.  
+
+ 
+Key Results 
+ 
+
+PDO level results will continue to measure changes in productivity and agribusiness performance levels and 
+
+have been adjusted to accommodate the scale up within the project. Some intermediate results indicators 
+
+have been adjusted to reflect the increase in the volume of credit and scale out to additional beneficiaries. 
+
+Adjustments have also been made to Component 1 indicators and technical assistance related activities.  
+
+ 
+Project performance has demonstrated solid achievements and the additional financing will build on positive 
+results. A preliminary beneficiary survey was carried out in July and August 2017 among fifty-five randomly 
+sampled HDP beneficiaries. The survey found:  
+
+ 
+
+ Strong job creation, with the number of permanent jobs within HDP financed enterprises increasing 
+on average 78 percent after the enterprise received sub-project financing. Of these new jobs, more 
+women were hired than men, with sub-loan beneficiaries reporting a doubling in permanent jobs 
+held by women.  
+
+ Enterprise sales increased on average 281 percent and enterprise profits 250 percent.  
+
+ Increased exports with a 10 percentage point (from five to 15 percent) increase in exports after 
+receiving HDP support. Several beneficiaries reported entry into entirely new export markets 
+(Turkey, Ukraine, India, Great Britain, Malaysia, Turkmenistan) 
+
+ Adoption of new crops, varieties or agronomic practices, with 15 percent of HDP loan recipients 
+introducing new crops or new crop production systems.  
+
+ 
+ 
+D. Project Description  
+ 
+
+ 
+The project design will maintain the same three components with the additional financing supporting the 
+scaling-up of the original project’s credit line for loans and leases under Component 2 - Access to Credit. This 
+component will continue to focus on improving access to financial services for farmers and agribusinesses and 
+will support additional financing for the purchase of new cultivars, seeds/seedlings, water-saving irrigation 
+facilities (such as drip irrigation), cold storage and other cold chain facilities, and value added 
+handling/processing equipment and facilities.  
+ 
+The institutional arrangements will remain the same. The environmental safeguards category will remain “B.” 
+The results monitoring framework has been revised to reflect the additional credit, introduce new sector 
+indicators, and revise some target values given changes in circumstances both within and outside of the 
+project. 
+
+ 
+E. Implementation 
+ 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 6 of 15  
+
+ 
+
+Institutional and Implementation Arrangements 
+ 
+
+Overall responsibility for implementation continues to rest with the Rural Restructuring Agency (RRA). The 
+RRA is a specialized organization that was created for implementing investment projects in the agriculture and 
+rural sector. The additional financing will use the same on-lending modality to channel resources through PFIs 
+on the same lending terms and conditions used under the parent HDP. Under the original HDP, nine banks 
+have been qualified as PFIs and it expected that additional banks will apply under the proposed additional 
+financing. The same due diligence process will be followed new PFIs as were used in the parent HDP. Terms 
+and conditions of the credit line and the associated credit line guidelines will remain largely the same with 
+minor adjustments. 
+
+ 
+
+ 
+  
+
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+Project activities under the first component will take place as planned under the original project within the 
+fields and laboratories of participating research institutes and on farm demonstrations among participating 
+producers. Under the second component, the sub-projects to be supported by the Credit Line will be based 
+on demand for proposed activities. Project activities will now be implemented in all 13 provinces of the 
+country, expanding the project area from the original eight provinces. The main physical characteristics of 
+the new provinces are as follows: (1) Bukhara province is primarily desert plain. Water resources are limited 
+and agricultural production is reliant on the Zarafshan and the Amudarya rivers. The Amu-Bukhara and 
+Amu-Karakul machine canals draw water from the Amudarya for the irrigated oasis located in the south 
+(Gijduvan, Bukhara and Karakul). Horticulture activities are primarily located in these irrigated oasis. (2) 
+Karakalpakstan includes the southern half of the Aral Sea, where significant ecological change is occurring. A 
+new salt marsh desert Aralkum is being formed due to the drying out of the Aral Sea and the lower reaches 
+of the Amudarya River are drying up. The desert occupies more than 13.67 million hectares (more than 80 
+percent of the territory). Horticulture production is limited but does occur in irrigated areas. (3) Navoi 
+province is occupied by the Kyzylkum plateau in the northwestern part of the region, the Nurata mountain 
+ranges in the east, and the Zerafshan River in the south. The climate is continental, deserted, and arid. 
+Horticulture production is widespread within the region with a number of processors and exporters located 
+in the region. (4) Syrdarya province is located in the center on the west side of the Syr Darya river and 
+immediately west of Tashkent province. The steppe occupies part of the region and the south-eastern part 
+of the region is vulnerable to crop damaging dry winds and dust storms in the summer. Horticulture 
+production is widespread within the province, although concentrated in higher rainfall areas. (5) 
+Surkhandarya province is located in the extreme south east with flat areas in the central and southern parts 
+of the region and mountains in the north, west and north-west. The climate ranges from the dry desert in 
+the south, to the sub-tropical in the north (Uzun). Horticulture production is widespread in the river valley 
+and the central zones of the region. 
+
+ 
+ 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 7 of 15  
+
+ 
+
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Arcadii Capcelea, Environmental Safeguards Specialist 
+Nina Kolybashkina, Social Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+SAFEGUARD_TBL 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The OP is triggered as the proposed project activities 
+and subproject that would be supported under 
+credit line, could generate a series of adverse 
+impacts. Category A-type subprojects are excluded 
+by the project. To address other activities the client 
+has updated the parent Environment and Social 
+Management Framework(ESMF) which will guide the 
+EA process during the project implementation. The 
+updated ESMF takes into consideration the new 
+geographic locations and, in particular, the scaling-
+up credit line resources and the needs for further EA 
+institutional capacity building. In this regard under 
+the Project AF, the RRA will hire additional 
+Environmental Specialists in all participating oblasts, 
+where regional RRA PIUs will be established. 
+
+Natural Habitats OP/BP 4.04 No 
+The ESMF provides screening criteria to be applied 
+to exclude any projects that could have an impact on 
+natural habitats. 
+
+Forests OP/BP 4.36 No 
+
+The ESMF provides screening criteria for exclusion of 
+any projects that could have an impact on forests, 
+rights of forest communities or traditional uses of 
+forests. 
+
+Pest Management OP 4.09 Yes 
+
+As in the case of agricultural production or agro-
+processing sub-projects, there might be needed pest 
+management activities if this OP is triggered. The 
+ESMF has a special section specifying provisions for 
+preparation of simple pest/pesticide management 
+plans as part of the application process and 
+supporting IPM. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+The ESMF provides screening criteria for exclusion of 
+any projects that could have an impact on physical 
+cultural resources. 
+
+Indigenous Peoples OP/BP 4.10 No This OP is not applied in the country 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 8 of 15  
+
+ 
+
+Involuntary Resettlement OP/BP 4.12 No 
+
+The project will support construction of new 
+buildings and processing, and cold storage facilities 
+only in the case when land acquisition is not 
+necessary and when people have not been displaced 
+prior to the application for purposes of the proposed 
+subproject and there are no resettlement issues. For 
+such cases the investor should have the 
+landownership title as well as proof that the land at 
+the moment of subprojects application is not 
+occupied or used illegally. 
+
+Safety of Dams OP/BP 4.37 No 
+The project will not support activities which are 
+dependent on an existing dam (e.g. irrigation works). 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+
+Any credit investments would be limited to 
+rehabilitation or modification of existing minor 
+schemes in ways which would not increase the 
+amount of water abstracted or have any other 
+impact on the water source or local hydrological 
+regime (e.g. replacing conventional irrigation with 
+drip irrigation in an existing irrigation scheme would 
+be still eligible). Creating a new scheme which will 
+lead to increasing water abstraction from the rivers 
+will not be financed under the project. This 
+determination would be made in the screening 
+process. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The project will not support any activities in disputed 
+areas. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ OPS_SAFEGUARD_SUMMARY_TBL 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project will maintain its category B classification and will not trigger any new safeguards policies. The scope and 
+scale of the project’s activities will continue to be limited as they will occur through the project’s existing sub-project 
+mechanism. As a result, the project’s safeguards issues can be addressed by application of the rules and procedures 
+established under the HDP Environment and Social Management Framework (ESMF) as well as by any implementing 
+mitigation and monitoring measures stipulated in any site specific Environmental and Social Management Plans 
+(ESMPs).  
+ 
+Potential environmental impacts. The project will continue supporting various types of horticulture related production 
+and processing sub-projects. Subprojects will remain limited in terms of spatial scale and take place through sub-
+projects of limited duration and size. HDP’s credit line guidelines prohibit financing to category A sub-projects and as a 
+result, no significant environmental impacts that fall under the Category A classification and for which a full 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 9 of 15  
+
+ 
+
+Environmental Impact Assessment (EIA) would be required are expected. Credit guidelines also prohibit selection of 
+sub-projects located in protected areas, critical habitats or culturally or socially sensitive areas.  
+ 
+A portion of sub-projects are expected, however, to show the potential for limited adverse environmental impacts 
+that would fall under the Category B under Bank OP/BP 4.01. This is primarily due to activities related to small-scale 
+agro-industries; small-scale rehabilitation, maintenance, and upgrading of various premises or storage facilities; and 
+plantation of new orchards and/or vineyards.  The potential adverse environmental impacts of proposed types of sub-
+projects can be summarized as follows: (a) agricultural production: soil erosion, loss of soil productive capacity, soil 
+compaction, soil pollution, surface and underground water pollution, loss of biodiversity; (b) agro-processing: 
+contribution to surface-water pollution, wastes generation, odor; (c) small-scale construction and/or rehabilitation of 
+the existing premises: soil and air pollution; acoustic, construction wastes, and potential asbestos issues, etc. All these 
+impacts are expected to be easily mitigated through good project designs and best implementation practices. 
+ 
+The sub-projects to be implemented under the Credit Line are also expected to generate a number of both direct and 
+indirect positive impacts. Direct positive impacts will be generated by increased production, products and goods which 
+would result in creation of new jobs and respectively, more employment and increased income. Indirect positive 
+impacts will relate to overall improving of business environment, introduction of advanced agricultural technologies 
+and techniques, contribution to poverty reduction and food safety.  
+ 
+Potential social impacts. Issues related to the risks of child and forced labor in the cotton harvest have been a 
+challenge in the agricultural sector in Uzbekistan and efforts to eliminate these practices have received high level 
+support within Government. Production in the horticultural sector is significantly more labor intense than in cotton 
+and wheat, the peaks of seasonal labor demands are more dispersed across various crops, and the profits are higher. 
+To mitigate any residual risks of child and forced labor, and to ensure that the project contributes to improved labor 
+relations and practices in the agricultural sector of the country, the project envisions continued close collaboration 
+with the International Labor Organization (ILO). Starting from 2018, research activities to monitor labor relations in 
+the horticultural sector and to provide recommendation for creating decent working conditions would be 
+implemented jointly with the ILO.  The project will also participate in the Third Party Monitoring (TPM) and Grievance 
+Redress Mechanism (GRM) set up by the World Bank for the agricultural portfolio in the country to focus on issues of 
+child and forced  adult labor. The TPM/GRM will be funded by a separate TF.  
+  
+Acquisition of land. As all proposed activities are likely to be implemented within the existing agricultural land and 
+settlement boundaries, the proposed project will likely not have an impact on wildlife and natural habitats and thus, 
+OP/BP 4.04 (Natural habitats) is not triggered. It is also expected there will be no impact on physical cultural 
+resources, which are generally not placed in the vicinity of agricultural land. Therefore OP/BP 4.11 "Physical Cultural 
+Resources" is not triggered.  
+    
+ Private businesses will be eligible to become project beneficiaries under the condition that they have not acquired 
+and/or would not acquire land for the needs of activities to be supported with the project proceeds, through a process 
+which involved and/or would involve officially supported expropriation. Additionally, project funds will not support 
+any sub-loans used to invest in a business which would require the involuntary displacement of existing occupants or 
+economic users of any plot of land, regardless of its current ownership, or loss of, or damage to, assets including 
+standing crops, kiosks, fences and other. The project operational manual will define a screening procedure to be filled 
+by PFIs, and the implementing agency will closely monitor the screening procedure, with the support of the Bank task 
+team. With these restrictions in place, the project does not trigger OP/BP 4.12 "Involuntary Resettlement". 
+ 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 10 of 15  
+
+ 
+
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+ 
+The cumulative negative impact of expanded horticultural production and processing is expected to be limited, 
+particularly as expansion of the horticulture sector and successful implementation of sub-project activities are 
+expected to lead to more efficient use of land and water resources compared to Uzbekistan’s current dominant 
+commercial crop sector (cotton and wheat). The expected cumulative impacts are expected to be mostly positive and 
+includes improved knowledge on best agricultural and manufacture practices, with consequent improvements in the 
+status of the environment in the country. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+Project design includes a prohibition on category A sub-projects which is expected to prevent larger scale negative 
+impacts.  A "no project" scenario was considered but would result in continuation to the the current structure of 
+agricultural prodution, which is dominated by cotton and wheat, which also have specific negative evnrionmental and 
+social impacts. 
+ 
+To boost employment of women, and encourage access of female entrepreneurs to loans, the project will closely 
+collaborate with the Women’s Committee of Uzbekistan and the Association of Business Women of Uzbekistan for 
+policy level activities for mainstreaming gender in the sector, publicizing information about female role models, as 
+well as providing targeted capacity building to female entrepreneurs to enable them to access funding through the 
+project. 
+ 
+The project will have explicit focus on targeting more vulnerable farmers, both directly and indirectly. To achieve 
+indirect effects, eligibility criteria for sub-loans would also consider the social impact of the project, including direct 
+job creation, the multiplier effects of supporting suppliers down the value chain, as well as contributions towards 
+improving community infrastructure. Trainings for the PFIs on social responsibility of business and labor rights would 
+be conducted, to ensure better screening. Through Additional Financing, a share of the project resources would also 
+be ring-fenced to target smaller farmers and entrepreneurs directly. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+Safeguards instruments. The primary instrument for managing safeguards policy issues is the ESMF prepared for the 
+initial HDP project and which remains valid for the additional financing to the project. The document has been 
+updated for the AF to address the new geographic locations and any other relevant changes from the parent project, 
+including in terms of Environmental Assessment  (EA) capacity building activities (see below). The ESMF document 
+outlines environmental assessment procedures and mitigation requirements for first component’s activities and the 
+sub-projects which is supported by the second component’s Credit Line and, it provides details on procedures, criteria 
+and responsibilities for subprojects preparing, screening, appraisal, implementing and monitoring. The document also 
+includes Environmental Guidelines and Best Practices for different types of proposed sub-projects providing analysis of 
+potential impacts and generic mitigation measures to be undertaken for subprojects in agricultural production, agro-
+processing and storage and cooling manufacturing sectors at all stages - from identification and selection, through the 
+design and implementation phase, to the monitoring and evaluation of results.  Furthermore, the ESMF provides a 
+monitoring plan format which considers monitoring indicators, timing, methods, institutional responsibilities, etc. in all 
+phases of the project's implementation.  
+ 
+The project's original social assessment, prepared in 2014, was updated to cover the new regions, as well as provide a 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 11 of 15  
+
+ 
+
+summary of more up to date analysis of the key issues. Issues related to labor rights and working conditions in 
+horticulture sector, as well as access of women entrepreneurs to credit were flagged up. To address these, additional 
+capacity building measures to be implemented in collaboration with the ILO, the Farmers Council and the Association 
+of Business Women were designed for implementation under the additional financing. The project also participates in 
+the Third Party Monitoring (TPM) and Grievance Redress Mechanism (GRM) set up by the World Bank for the 
+agricultural portfolio in the country to focus on issues of child and forced  adult labor. To date RRA has been found in 
+compliance and the GRM is actively receiving and responding to inquiries, however no complaints issued thus far.  
+ 
+Institutional capacity. The project will continue be managed and implemented by the Rural Restructuring Agency 
+(RRA), an institution that is currently implementing the Second Rural Enterprise Support Project, GEF Climate Change 
+and Land Degradation Project, and other donors' projects. The RRA's capacity for implementation of the ESMF and of 
+the participating Financial Intermediaries (PFIs) are adequate, based on the Bank supervision missions in 2016-2017. 
+All sub-projects have been subject to screening and assessment and for those classified as Category B separate 
+Environmental and Social Management Plans (ESMPs) have been prepared. Supervision has confirmed these are being 
+implemented in a satisfactory manner and no outstanding issues have been identified.   
+ 
+Further capacity building is anticipated with respect to several technical asepcts of horticulture production, as 
+identified during the initial project implementation which are related to Integrated Pest Management (IPM), soil and 
+water conservation, including field demonstrations. New training on EA is also required for Participating Financial 
+Intermediaries (PFIs) which should strengthen the ability of their representatives to identify potential environmental 
+and social impacts as well as their knowledge on the EA rules and procedures. The revised ESMF proposes necessary 
+activities in this regard.  
+ 
+To accommodate the scaling up of activities for the project, it was agreed the RRA will hire additional Environmental 
+Specialists in all participating oblasts, where regional PIUs will be established for all WB and other IFIs RRA projects will 
+be implementing (including for Livestock Development Project which was recently approved by the Board). While the 
+RRA ES will have the major coordinating role on EA, the PIU ESs will be responsible for assisting the PFIs in 
+implementation of the Credit Component of the project, including reviewing environmental EIA studies and/or 
+environmental management plans, monitoring their implementation, advising and guiding PFIs on specific 
+environmental issues and management options and ensuring that potential cumulative impacts are addressed. One of 
+the major area of their responsibility will be inspection of environmental compliance at worksites, ensuring the ESMP 
+provisions are fully implemented. The PIUs ESs will advise PFIs in terms of integrating environmental requirements 
+into bidding documents, and analyzing contracts and their implementation in terms of environmental management 
+and mitigation issues. ESs will be responsible also for analyzing the environmental conditions of the subprojects’ area 
+and identify main environmental parameters. On a quarterly basis PIUs ESs will prepare short reports on implementing 
+ESMF and site specific ESMPs for supported sub-projects. They will also identify the status of environmental 
+compliance of sub-projects implementation, and, when needed will undertake relevant measures and agree with the 
+sub-project beneficiaries on corrective measures and/or proposing to the PFIs and RRA canceling sub-project 
+financing. 
+ 
+The project will also support a series of activities on human capacity building. This would include: (a) capacity building 
+in collaboration with the ILO to increase compliance with national legislation and ILO conventions on child and forced 
+labor, and broader labor issues, ratified by Uzbekistan; (b) training on strengthening project environmental 
+management capacity for sub-projects environmental assessment; (c) training and information dissemination for sub-
+project beneficiaries and farmers on several important horticulture sector development issues, identified during the 
+initial project implementation which are related to Integrated Pest Management, soil and water conservation, 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 12 of 15  
+
+ 
+
+including field demonstrations; and (d) training EA practitioners in the country that are working on preparing EA 
+documents as well as familiarizing representatives from State Ecological Expertise on WB EA rules and procedures and 
+proposing relevant recommendations on harmonizing the National EA requirements with the WB ones. 
+ 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+As part of the initial project preparation RRA disclosed and consulted the ESMF with all interested stakeholders. This 
+process involved submission of the draft summary of the ESMF to the Ministry of Agriculture and Water Resources 
+and other relevant ministries for their review and comments. The Executive Summary of the original document in 
+Russian was posted on websites of MAWR for its access to the public on January 17th, 2014. On February 13, 2014, 
+the RRA organized a consultation on the draft document. After the consultation, the draft ESMF was revised to 
+consider inputs from consulted parties. The final version for the parent project was posted on the website of the 
+Ministry of Agriculture on February 14, 2014 and submitted to the World Bank's external website on March 10, 2014. 
+For the HDP AF the updated ESMF was posted by RRA on its website for further virtual public consultation in the 
+provinces which have been already included in the parent project. Face to face public consultations with the 
+participation of main stakeholders and farmers were organized in the new project provinces by RRA in October 2017. 
+For that purpose RRA has provided to key stakeholders (oblast agriculture, environmental and sanitary authorities and 
+environmental NGOs) hard copies of the draft ESMF.  During the consultations overall the draft ESMF was supported 
+by the participants, the few received comments were related to clarifying the EA roles and responsibilities and  
+simplifying the EA rules and procedures and providing awareness activities for the potential subprojects beneficiaries 
+in this regard. The minutes of consultations have been shared with the Bank. 
+ 
+  OPS_SAFEGUARD_DISCLOSURE_TBL 
+
+B. Disclosure Requirements (N.B. The sections below appear only if corresponding safeguard policy is triggered) 
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission for disclosure 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+02-Nov-2017 01-Dec-2017 
+ 
+
+   
+
+"In country" Disclosure   
+
+   Uzbekistan 
+  03-Oct-2017 
+
+Comments 
+
+Initial updated version disclosed in October, final updated version disclosed in country in December following 
+updates based on Bank comments. 
+
+       
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission for disclosure 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 13 of 15  
+
+ 
+
+NA   
+
+   
+"In country" Disclosure   
+ 
+
+ 
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+ 
+  
+ OPS_COMPLIANCE_INDICATOR_TBL 
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting) (N.B. The sections below appear only if corresponding safeguard policy is triggered) 
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+Yes   
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report? 
+Yes   
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan? 
+Yes    
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+No   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+NA          
+
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank for disclosure? 
+Yes   
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 14 of 15  
+
+ 
+
+and accessible to project-affected groups and local NGOs? 
+Yes  
+
+ 
+ OPS_ALL_COMP_TABLE 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes   
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes   
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes   
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes  
+
+ 
+
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Dilshod Khidirov 
+Sr Agricultural Spec.  
+
+ 
+
+Melissa Brown 
+Senior Economist 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Republic of Uzbekistan 
+
+Mr. Jamshid Kuchkarov 
+
+Deputy Minister 
+
+ 
+ 
+
+  Implementing Agencies 
+
+ 
+
+Rural Restructuring Agency 
+
+Nasriddin Najimov 
+
+General Director 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Additional Financing - Horticulture Development Project (P164226) 
+
+ 
+
+ 
+
+  
+Oct 09, 2017 Page 15 of 15  
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Dilshod Khidirov 
+Melissa Brown 
+
+ 
+
+ 
+
+Approved By 
+
+Safeguards Advisor: Nina Chee 05-Dec-2017 
+
+Practice Manager/Manager: Julian A. Lampietti 05-Dec-2017 
+
+Country Director: Serdar Jepbarov 06-Dec-2017 
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+http://www.worldbank.org/projects
+
+

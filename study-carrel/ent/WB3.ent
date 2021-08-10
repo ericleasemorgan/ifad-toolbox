@@ -1,0 +1,214 @@
+id	sid	eid	entity	type
+WB3	1	1	Pu bl	PERSON
+WB3	1	2	ic D	PERSON
+WB3	1	3	PID	ORG
+WB3	2	1	PIDA61676 Project Name Integrated Dairy Productivity Improvement Project	ORG
+WB3	2	2	EUROPE	LOC
+WB3	2	3	70%	PERCENT
+WB3	2	4	20%	PERCENT
+WB3	2	5	10%	PERCENT
+WB3	2	6	25%	PERCENT
+WB3	2	7	25%	PERCENT
+WB3	2	8	25%	PERCENT
+WB3	2	9	Micro	LOC
+WB3	2	10	15%	PERCENT
+WB3	2	11	10%	PERCENT
+WB3	2	12	Kyrgyz Republic Implementing Agency Ministry of Finance	ORG
+WB3	2	13	Ministry of Agriculture and Melioration Environmental Category B-Partial Assessment Date	ORG
+WB3	2	14	Appraisal Review Decision	ORG
+WB3	2	15	Decision Note	ORG
+WB3	3	1	US$1,269 (	MONEY
+WB3	3	2	2014	DATE
+WB3	3	3	the Kyrgyz Republic	GPE
+WB3	3	4	Europe	LOC
+WB3	3	5	Central Asia Region	LOC
+WB3	4	1	2014	DATE
+WB3	4	2	approximately 30.6%	PERCENT
+WB3	4	3	32.6%	PERCENT
+WB3	4	4	26.9%	PERCENT
+WB3	6	1	6%	PERCENT
+WB3	6	2	2011	DATE
+WB3	6	3	0.9%	PERCENT
+WB3	6	4	2012	DATE
+WB3	7	1	2013	DATE
+WB3	7	2	10.9%	PERCENT
+WB3	7	3	3.6%	PERCENT
+WB3	7	4	2014	DATE
+WB3	7	5	3.5%	PERCENT
+WB3	7	6	the end of 2015	DATE
+WB3	8	1	16%	PERCENT
+WB3	8	2	2009 to	DATE
+WB3	8	3	2013	DATE
+WB3	9	1	Russia	GPE
+WB3	9	2	Kazakhstan	GPE
+WB3	10	1	Kazakhstan	GPE
+WB3	11	1	below 10%	PERCENT
+WB3	11	2	the past decade	DATE
+WB3	11	3	Pu bl	PERSON
+WB3	11	4	ic D	PERSON
+WB3	11	5	Russia	GPE
+WB3	11	6	Kazakhstan	GPE
+WB3	12	1	Russia	GPE
+WB3	12	2	Kyrgyzstan	GPE
+WB3	13	1	the Kyrgyz Republic	GPE
+WB3	14	1	about 15%	PERCENT
+WB3	14	2	more than a third	CARDINAL
+WB3	15	1	2015	DATE
+WB3	15	2	6.2%	PERCENT
+WB3	17	1	about 50%	PERCENT
+WB3	19	1	87%	PERCENT
+WB3	20	1	the Kyrgyz Republic	GPE
+WB3	20	2	the Eurasian Economic Union	ORG
+WB3	20	3	EAEU	ORG
+WB3	21	1	EAEU	ORG
+WB3	21	2	May 2015	DATE
+WB3	22	1	EAEU	ORG
+WB3	22	2	Russia	GPE
+WB3	22	3	Kazakhstan	GPE
+WB3	22	4	the Kyrgyz Republic	GPE
+WB3	23	1	2012	DATE
+WB3	23	2	seven	CARDINAL
+WB3	23	3	7	CARDINAL
+WB3	24	1	Kyrgyz	ORG
+WB3	24	2	EAEU	PRODUCT
+WB3	25	1	Kyrgyz	ORG
+WB3	26	1	Kyrgyz	ORG
+WB3	27	1	Kyrgyz	ORG
+WB3	28	1	Kazakhstan	GPE
+WB3	29	1	only seven	CARDINAL
+WB3	29	2	Kazakhstan	GPE
+WB3	30	1	2012	DATE
+WB3	30	2	US$30 million	MONEY
+WB3	30	3	4%	PERCENT
+WB3	30	4	annual	DATE
+WB3	30	5	US$ 100 million	MONEY
+WB3	30	6	14%	PERCENT
+WB3	31	1	Russia	GPE
+WB3	32	1	China	GPE
+WB3	32	2	Afghanistan	GPE
+WB3	32	3	Pakistan	GPE
+WB3	33	1	Kyrgyz	ORG
+WB3	33	2	3	CARDINAL
+WB3	34	1	Around 60%	PERCENT
+WB3	35	1	around 90%	PERCENT
+WB3	36	1	five	CARDINAL
+WB3	37	1	193 kg	QUANTITY
+WB3	37	2	25%	PERCENT
+WB3	38	1	3	CARDINAL
+WB3	38	2	Pu bl	PERSON
+WB3	38	3	ic D	PERSON
+WB3	40	1	2,041 kg	QUANTITY
+WB3	40	2	2009	DATE
+WB3	40	3	2023	QUANTITY
+WB3	40	4	2012	DATE
+WB3	40	5	2	DATE
+WB3	40	6	013 kg	QUANTITY
+WB3	40	7	2013	DATE
+WB3	43	1	Kazakhstan	GPE
+WB3	45	1	The Kyrgyz Dairy Sector Development Program	ORG
+WB3	45	2	KDSDP	ORG
+WB3	45	3	IFC	ORG
+WB3	45	4	2015	DATE
+WB3	45	5	EAEU	ORG
+WB3	46	1	Program	ORG
+WB3	46	2	Kazakhstan	GPE
+WB3	47	1	Issyk-kul Region	GPE
+WB3	50	1	KDSDP	ORG
+WB3	54	1	III	ORG
+WB3	55	1	Strengthening Public and Private Services	ORG
+WB3	56	1	Issyk-kul Region	GPE
+WB3	56	2	Establishment of a World Organization for Animal Health-certified Zone Page	WORK_OF_ART
+WB3	56	3	the Islamic Development Bank	ORG
+WB3	56	4	Artificial Insemination (AI) Service Providers	ORG
+WB3	57	1	the Model Dairy Village	ORG
+WB3	58	1	AI	GPE
+WB3	61	1	Investments Comments	ORG
+WB3	61	2	US$ 1.2 million	MONEY
+WB3	61	3	Revolving Fund	ORG
+WB3	64	1	USD Million	CARDINAL
+WB3	64	2	5.00	CARDINAL
+WB3	64	3	5.00	CARDINAL
+WB3	64	4	0.00	CARDINAL
+WB3	64	5	IDA	ORG
+WB3	64	6	2.75	CARDINAL
+WB3	64	7	IDA	ORG
+WB3	64	8	the Ministry of Finance	ORG
+WB3	64	9	MOF	ORG
+WB3	64	10	the Implementing Agencies	ORG
+WB3	66	1	The Agribusiness Competitiveness Center	ORG
+WB3	66	2	the Credit Line Management Unit	ORG
+WB3	66	3	CLMU	ORG
+WB3	66	4	MOF	ORG
+WB3	67	1	5	CARDINAL
+WB3	67	2	Pu bl	PERSON
+WB3	67	3	ic D	PERSON
+WB3	67	4	Bank	ORG
+WB3	68	1	three	CARDINAL
+WB3	68	2	Bank	ORG
+WB3	68	3	Agribusiness and Marketing Project	ORG
+WB3	68	4	Agricultural Productivity Assistance Project	ORG
+WB3	68	5	Support	PRODUCT
+WB3	69	1	The Revolving Fund	ORG
+WB3	69	2	CLMU	ORG
+WB3	69	3	three	CARDINAL
+WB3	69	4	Bank	ORG
+WB3	69	5	Rural Finance II Project	ORG
+WB3	69	6	Agribusiness and Marketing Project	ORG
+WB3	69	7	Agricultural Productivity Assistance Project	ORG
+WB3	70	1	Financial Management	ORG
+WB3	70	2	CLMU	ORG
+WB3	72	1	Issyk- kul	ORG
+WB3	72	2	Environmental Specialist	ORG
+WB3	73	1	KDSDP	ORG
+WB3	74	1	Steering Committee	ORG
+WB3	75	1	The Steering Committee	ORG
+WB3	75	2	MOAM	ORG
+WB3	75	3	Ministry of Economic Regulation	ORG
+WB3	75	4	MOF	ORG
+WB3	77	1	the Dairy Model Villages	ORG
+WB3	77	2	2	CARDINAL
+WB3	77	3	2	CARDINAL
+WB3	77	4	2	CARDINAL
+WB3	77	5	IsDB	ORG
+WB3	79	1	the Revolving Fund	ORG
+WB3	79	2	the Revolving Fund (Component 3	ORG
+WB3	81	1	Safeguard Policies	PERSON
+WB3	81	2	4.01	CARDINAL
+WB3	81	3	Habitats OP	PRODUCT
+WB3	81	4	4.04	CARDINAL
+WB3	81	5	4.36	CARDINAL
+WB3	81	6	4.09	CARDINAL
+WB3	81	7	Physical Cultural Resources OP/BP 4.11	LAW
+WB3	81	8	6	CARDINAL
+WB3	81	9	Pu bl	PERSON
+WB3	81	10	ic D	PERSON
+WB3	81	11	International Waterways OP/BP	WORK_OF_ART
+WB3	81	12	Disputed Areas OP/BP	FAC
+WB3	81	13	7.60	CARDINAL
+WB3	81	14	VII	ORG
+WB3	82	1	World Bank Contact:	LAW
+WB3	82	2	Sandra Broka Title	PERSON
+WB3	82	3	Agriculture Economist Tel	WORK_OF_ART
+WB3	82	4	458	CARDINAL
+WB3	82	5	Mai Nguyen Title	PERSON
+WB3	82	6	5763	CARDINAL
+WB3	82	7	155	CARDINAL
+WB3	82	8	Mirlan Baigonchokov	PERSON
+WB3	82	9	996312664036	CARDINAL
+WB3	82	10	Mirlan Baigonchokov	PERSON
+WB3	82	11	996312664036	CARDINAL
+WB3	82	12	Ministry of Agriculture and Melioration Contact	ORG
+WB3	82	13	Talaibek	NORP
+WB3	82	14	Tel	PERSON
+WB3	82	15	996	CARDINAL
+WB3	82	16	agroprod@agroprod.kg	CARDINAL
+WB3	82	17	Pu bl ic D	PERSON
+WB3	82	18	Pu bl	PERSON
+WB3	82	19	D	PERSON
+WB3	83	1	The InfoShop The World Bank 1818 H Street	ORG
+WB3	83	2	NW	GPE
+WB3	83	3	Washington	GPE
+WB3	83	4	202	CARDINAL
+WB3	83	5	458	CARDINAL
+WB3	83	6	202	CARDINAL
+WB3	83	7	522-1500	CARDINAL

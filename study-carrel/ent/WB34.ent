@@ -1,0 +1,300 @@
+id	sid	eid	entity	type
+WB34	1	1	World Bank Document	ORG
+WB34	1	2	Oct 01, 2017	DATE
+WB34	1	3	13 Project	MONEY
+WB34	1	4	PID/ISDS	ORG
+WB34	1	5	Concept Stage	ORG
+WB34	1	6	| Report	WORK_OF_ART
+WB34	1	7	Oct 01, 2017	DATE
+WB34	1	8	2	CARDINAL
+WB34	1	9	13	CARDINAL
+WB34	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB34	2	2	Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
+WB34	2	3	Agriculture Financing Instrument Borrower(s)	ORG
+WB34	2	4	Angola Ministry of Finance Angola Ministry of Agriculture, Lesotho Ministry of Agriculture and Food Security	ORG
+WB34	2	5	the Southern Africa Development Community	ORG
+WB34	3	1	PROJECT FINANCING DATA	ORG
+WB34	3	2	Millions	CARDINAL
+WB34	3	3	SUMMARY-N ewFin1	ORG
+WB34	3	4	45.00	CARDINAL
+WB34	3	5	45.00	CARDINAL
+WB34	3	6	45.00	CARDINAL
+WB34	3	7	0.00	CARDINAL
+WB34	3	8	h1 World Bank Group Financing International Bank for Reconstruction and Development	ORG
+WB34	3	9	25.00	CARDINAL
+WB34	3	10	International Development Association	ORG
+WB34	3	11	IDA	ORG
+WB34	3	12	20.00	CARDINAL
+WB34	3	13	20.00	CARDINAL
+WB34	3	14	Oct 01, 2017	DATE
+WB34	3	15	3	CARDINAL
+WB34	3	16	13	CARDINAL
+WB34	4	1	Africa	LOC
+WB34	5	1	Southern Africa	GPE
+WB34	5	2	over 330 million	CARDINAL
+WB34	6	1	two	CARDINAL
+WB34	6	2	pan-African	NORP
+WB34	6	3	the Southern African Development Community	ORG
+WB34	6	4	SADC	ORG
+WB34	9	1	Angola	GPE
+WB34	9	2	5.5 percent	PERCENT
+WB34	9	3	44 percent	PERCENT
+WB34	10	1	More than half	CARDINAL
+WB34	10	2	Angola	GPE
+WB34	11	1	Lesotho	PERSON
+WB34	11	2	around 6 per cent	MONEY
+WB34	11	3	almost 60 per cent	MONEY
+WB34	11	4	90 per cent	MONEY
+WB34	12	1	Lesotho	GPE
+WB34	12	2	more than half	CARDINAL
+WB34	12	3	57 percent	PERCENT
+WB34	13	1	Angola	GPE
+WB34	13	2	Lesotho	ORG
+WB34	13	3	Southern Africa	LOC
+WB34	14	1	Southern Africa	LOC
+WB34	15	1	Angola	GPE
+WB34	15	2	2015/2016	DATE
+WB34	19	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	19	2	Oct 01, 2017	DATE
+WB34	19	3	4	CARDINAL
+WB34	19	4	13	CARDINAL
+WB34	19	5	South Africa	GPE
+WB34	19	6	Lesotho	PERSON
+WB34	19	7	South Africa	GPE
+WB34	20	1	Lesotho’s National Strategic Development Plan	ORG
+WB34	23	1	Southern Africa	LOC
+WB34	23	2	Guinea Savannah	GPE
+WB34	23	3	Brazil	GPE
+WB34	23	4	Thailand	GPE
+WB34	24	1	Angola	GPE
+WB34	24	2	third	ORDINAL
+WB34	24	3	Saharan Africa	PERSON
+WB34	24	4	Guinea	GPE
+WB34	24	5	Savanah	GPE
+WB34	25	1	Angola	GPE
+WB34	26	1	the past 50 years	DATE
+WB34	26	2	Lesotho	PERSON
+WB34	29	1	Africa	LOC
+WB34	30	1	Angola	GPE
+WB34	30	2	Lesotho	PERSON
+WB34	30	3	Africa	LOC
+WB34	31	1	Africa	LOC
+WB34	32	1	Asia	LOC
+WB34	32	2	Latin America	LOC
+WB34	32	3	Africa	LOC
+WB34	32	4	recent decades	DATE
+WB34	33	1	Southern Africa	GPE
+WB34	33	2	Africa	LOC
+WB34	38	1	First	ORDINAL
+WB34	39	1	Second	ORDINAL
+WB34	40	1	Third	ORDINAL
+WB34	41	1	Fourth	ORDINAL
+WB34	42	1	Southern Africa	ORG
+WB34	43	1	Africa	LOC
+WB34	44	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	44	2	Oct 01, 2017	DATE
+WB34	44	3	5	CARDINAL
+WB34	44	4	13	CARDINAL
+WB34	46	1	Southern Africa	GPE
+WB34	51	1	Angola	GPE
+WB34	51	2	Lesotho	PERSON
+WB34	51	3	PhD	WORK_OF_ART
+WB34	51	4	Lesotho	PERSON
+WB34	53	1	The Agricultural Productivity Program for Southern Africa	ORG
+WB34	53	2	March 2013	DATE
+WB34	53	3	IDA	ORG
+WB34	53	4	Malawi, Mozambique	ORG
+WB34	53	5	Zambia	GPE
+WB34	54	1	Bank	ORG
+WB34	54	2	third	ORDINAL
+WB34	54	3	the West Africa Agricultural Productivity Program	FAC
+WB34	54	4	WAAPP	ORG
+WB34	54	5	the East Africa Agricultural Productivity Program	ORG
+WB34	55	1	first	ORDINAL
+WB34	55	2	two	CARDINAL
+WB34	56	1	74	CARDINAL
+WB34	56	2	156	CARDINAL
+WB34	57	1	47	CARDINAL
+WB34	57	2	Malawi	ORG
+WB34	57	3	37	CARDINAL
+WB34	57	4	10	CARDINAL
+WB34	57	5	63	CARDINAL
+WB34	57	6	Mozambique	GPE
+WB34	57	7	11	CARDINAL
+WB34	57	8	28	CARDINAL
+WB34	57	9	16	CARDINAL
+WB34	57	10	3	CARDINAL
+WB34	57	11	5	CARDINAL
+WB34	57	12	46	CARDINAL
+WB34	57	13	Zambia	GPE
+WB34	57	14	31	CARDINAL
+WB34	57	15	15	CARDINAL
+WB34	59	1	Regional Integration Strategy	ORG
+WB34	59	2	Africa	LOC
+WB34	60	1	Africa Region	GPE
+WB34	60	2	IDA	ORG
+WB34	61	1	three	CARDINAL
+WB34	62	1	The Angola CPF	ORG
+WB34	62	2	CPF	ORG
+WB34	64	1	Lesotho	PERSON
+WB34	64	2	20	CARDINAL
+WB34	65	1	CPF	ORG
+WB34	65	2	South Africa	GPE
+WB34	66	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	66	2	Oct 01, 2017	DATE
+WB34	66	3	6	CARDINAL
+WB34	66	4	13 C. Proposed Development Objective(s	PERCENT
+WB34	66	5	the Southern Africa Development Community	ORG
+WB34	67	1	PCN	GPE
+WB34	67	2	APPSA	ORG
+WB34	67	3	• Percentage of Lead Farmers	PERCENT
+WB34	67	4	the Project	ORG
+WB34	67	5	one	CARDINAL
+WB34	67	6	D. Concept Description APPSA’s	PERSON
+WB34	69	1	SADC	ORG
+WB34	71	1	Zambia	GPE
+WB34	71	2	Malawi	PERSON
+WB34	71	3	Mozambique	GPE
+WB34	72	1	Angola	GPE
+WB34	72	2	Lesotho	PERSON
+WB34	75	1	first	ORDINAL
+WB34	76	1	Angola	GPE
+WB34	76	2	Lesotho	PERSON
+WB34	76	3	RCoL	CARDINAL
+WB34	78	1	under Component 1	DATE
+WB34	78	2	at least two	CARDINAL
+WB34	79	1	74	CARDINAL
+WB34	79	2	CCARDESA	ORG
+WB34	79	3	CCARDESA	ORG
+WB34	79	4	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	79	5	Oct 01, 2017	DATE
+WB34	79	6	7	CARDINAL
+WB34	79	7	13	CARDINAL
+WB34	80	1	RCoL	CARDINAL
+WB34	81	1	RCoL	CARDINAL
+WB34	81	2	Component 1	PRODUCT
+WB34	84	1	the Institutional and Enabling Environment for Technology Adoption	ORG
+WB34	87	1	APPSA	ORG
+WB34	87	2	SPS	ORG
+WB34	87	3	SPS	ORG
+WB34	88	1	Coordination and Facilitation	ORG
+WB34	89	1	three	CARDINAL
+WB34	91	1	IDA	ORG
+WB34	93	1	CCARDESA	ORG
+WB34	94	1	CCARDESA	ORG
+WB34	94	2	APPSA	ORG
+WB34	96	1	SADC	ORG
+WB34	97	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	97	2	Oct 01, 2017	DATE
+WB34	97	3	8	CARDINAL
+WB34	97	4	13	CARDINAL
+WB34	98	1	CCARDESA	ORG
+WB34	99	1	SAFEGUARDS A.	PERSON
+WB34	102	1	OP4.12	ORG
+WB34	103	1	Angola	GPE
+WB34	103	2	Angola	GPE
+WB34	104	1	OP4.10	ORG
+WB34	104	2	IP	ORG
+WB34	105	1	B. Borrower’s	PERSON
+WB34	105	2	Angola	GPE
+WB34	105	3	Lesotho	PERSON
+WB34	105	4	Bank	ORG
+WB34	106	1	Angola	GPE
+WB34	106	2	the Ministry of Agriculture	ORG
+WB34	106	3	Institute of Agriculture (Institute de Investigacão Agricola	ORG
+WB34	107	1	the Ministry of Agriculture	ORG
+WB34	107	2	Department for Agricultural Research	ORG
+WB34	109	1	the World Bank	ORG
+WB34	110	1	Angola	GPE
+WB34	110	2	Lesotho	PERSON
+WB34	110	3	World Bank	ORG
+WB34	111	1	C. Environmental	PERSON
+WB34	111	2	Edward Felix Dwumfour	PERSON
+WB34	111	3	Kisa Mfalila	PERSON
+WB34	111	4	Kristyna Bishop	PERSON
+WB34	111	5	M. Yaa	PERSON
+WB34	111	6	Majbritt Fiil-Flynn	PERSON
+WB34	111	7	Paulo Jorge Temba Sithoe	PERSON
+WB34	111	8	Moipone Amelia Ndlovu	ORG
+WB34	111	9	Safeguard Policies Triggered	ORG
+WB34	112	1	Oct 01, 2017	DATE
+WB34	112	2	9	CARDINAL
+WB34	112	3	13	CARDINAL
+WB34	112	4	4.01	CARDINAL
+WB34	112	5	1	CARDINAL
+WB34	112	6	Regional Centers of Leadership under component	ORG
+WB34	112	7	2	CARDINAL
+WB34	113	1	Angola	GPE
+WB34	113	2	Lesotho	ORG
+WB34	113	3	an Environment and Social Management Framework	ORG
+WB34	116	1	1	CARDINAL
+WB34	120	1	OP	PERSON
+WB34	121	1	4.09	CARDINAL
+WB34	122	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	122	2	Oct 01, 2017	DATE
+WB34	122	3	10	CARDINAL
+WB34	122	4	13	CARDINAL
+WB34	124	1	a Pest Management Plan	LAW
+WB34	124	2	PMP	ORG
+WB34	124	3	Integrated Pest Management	ORG
+WB34	124	4	IPM	ORG
+WB34	126	1	Lesotho	ORG
+WB34	126	2	Leribe	ORG
+WB34	127	1	the Chance Find Procedures	ORG
+WB34	128	1	Peoples OP/BP	ORG
+WB34	128	2	4.10	CARDINAL
+WB34	128	3	TBD	ORG
+WB34	128	4	Angola	GPE
+WB34	129	1	IPPF	ORG
+WB34	131	1	OP4.10	ORG
+WB34	131	2	Lesotho	PERSON
+WB34	132	1	OP	PERSON
+WB34	132	2	Angola	GPE
+WB34	132	3	Lesotho	GPE
+WB34	135	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	135	2	Oct 01, 2017	DATE
+WB34	135	3	11	CARDINAL
+WB34	135	4	13	CARDINAL
+WB34	136	1	RPF	ORG
+WB34	136	2	Angola	GPE
+WB34	136	3	Lesotho	PERSON
+WB34	140	1	FAO	ORG
+WB34	142	1	International Waterways OP/BP	ORG
+WB34	143	1	more than 50	CARDINAL
+WB34	144	1	Disputed Areas OP/BP	ORG
+WB34	144	2	E. Safeguard Preparation Plan Tentative	ORG
+WB34	144	3	Appraisal Stage PID/ISDS	ORG
+WB34	145	1	Appraisal Stage PID/ISDS	ORG
+WB34	145	2	PMP	ORG
+WB34	146	1	RPF	ORG
+WB34	146	2	Angola	GPE
+WB34	146	3	Lesotho	GPE
+WB34	147	1	4.10	CARDINAL
+WB34	147	2	IPPF	ORG
+WB34	147	3	Angola	GPE
+WB34	148	1	Angola	GPE
+WB34	148	2	Lesotho	ORG
+WB34	148	3	1	CARDINAL
+WB34	149	1	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	149	2	Oct 01, 2017	DATE
+WB34	149	3	12	CARDINAL
+WB34	149	4	13	CARDINAL
+WB34	149	5	CONTACT POINT World Bank	ORG
+WB34	149	6	Aniceto Timoteo Bila	ORG
+WB34	149	7	Ministro de Agricultura	PERSON
+WB34	149	8	Desenvolvimento Rural info@minadrp.gov.ao	ORG
+WB34	149	9	Lesotho Ministry of Agriculture and Food Security	ORG
+WB34	149	10	the Ministry of Agriculture and Food	ORG
+WB34	149	11	NW	GPE
+WB34	149	12	Washington	GPE
+WB34	149	13	202	CARDINAL
+WB34	149	14	473-1000	CARDINAL
+WB34	149	15	Tahira Syed	PERSON
+WB34	149	16	Aniceto Timoteo Bila	PERSON
+WB34	149	17	The World Bank Agricultural Productivity Program for Southern Africa - Angola & Lesotho	ORG
+WB34	149	18	Oct 01, 2017	DATE
+WB34	149	19	13	CARDINAL
+WB34	149	20	13	CARDINAL
+WB34	149	21	Nathalie S. Munzberg 07-Mar-2018	PERSON
+WB34	149	22	Mark E. Cackler	PERSON
+WB34	149	23	Paul Noumba	PERSON

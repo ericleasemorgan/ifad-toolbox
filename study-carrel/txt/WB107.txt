@@ -1,0 +1,1790 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+Page 1 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+CONCEPT STAGE
+Report No.: PIDISDSC17290
+
+Date Prepared/Updated: 18-Nov-2016
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Kenya Project ID: P154784
+Parent 
+Project ID 
+(if any):
+
+Project Name: Kenya Climate Smart Agriculture Project (P154784)
+Region: AFRICA
+Estimated 
+Appraisal Date:
+
+17-Oct-2016 Estimated 
+Board Date:
+
+31-Jan-2017
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): The National  Treasury
+Implementing 
+Agency:
+
+Ministry of Agriculture, Livestock and Fisheries
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 29.70
+International Development Association (IDA) 250.00
+Total Project Cost 279.70
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Concept 
+Review 
+Decision:
+
+Track II - The review did authorize the preparation to continue
+
+Is this a 
+Repeater 
+project?
+
+No
+
+Other Decision 
+(as needed):
+
+B. Introduction and Context
+
+Country Context
+1. Kenya's economy is larger and growing faster than previously estimated. Rebasing of its 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+Page 2 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Gross Domestic Product (GDP) reveals that Kenya?s economy is the ninth largest in Africa and 
+fifth largest in Sub-Saharan Africa (after Nigeria, South Africa, Angola, and Sudan)  . Kenya?s 
+growth compares favorably with other countries. It no longer lags behind its regional peers or 
+other lower-middle-income countries. Average growth between 2010 and 2013 was 6.2 percent?
+significantly higher than the 5.3 percent average for Sub-Saharan Africa. Kenya?s 2013 growth 
+rate of 5.7 percent was above the 5.0 percent average growth rate for lower-middle income 
+countries.  In December 2014, Kenya?s GDP was estimated at US$55.2 billion (up from US$44.1 
+billion before rebasing), with GDP per capita standing at US$1,246 (up from US$994). Kenya is 
+now a lower-middle-income country, according to the World Bank classification, with Gross 
+National Income (GNI) per capita of US$1,160 in 2013.   The economy was estimated to have 
+grown 5.4 percent in 2014 and expected to grow by 6 percent in 2015 on the backdrop of 
+significant improvement in external and internal balances, such as falling oil prices; and public 
+investment, mainly in infrastructure (energy and the standard gauge railway). The World Bank 
+projects that Kenya?s GDP will grow 6.6 percent in 2016, and 7.0 percent in 2017. 
+ 
+2. Although poverty rates in Kenya seem to have fallen, formidable challenges at reducing 
+poverty and increasing shared prosperity, in particular in rural areas, remain. Poverty reduction 
+has been driven by solid growth across most sectors of the economy. But improvements in 
+income are not evenly shared amongst people and inequality appears to be rising among regions.  
+According to the World Bank Group Kenya Country Partnership Strategy (CPS 2014-2018), 
+Kenya?s poverty rate has been falling?from 47 percent in 2005/06 to about 39 percent based on 
+best estimates in 2012/13. But in the remote, arid, sparsely populated north-eastern parts of the 
+country (Turkana, Mandera, and Wajir), poverty rates are above 80 percent.  The scale of 
+consumption poverty in Kenya is staggering, and is concentrated in rural areas. Based on the last 
+national household budget survey, close to half of the population (nearly 17 million Kenyans) was 
+poor in 2005. The vast majority of the poor lived in rural areas and were more likely to depend on 
+income and consumption from crops and livestock, as their main source of livelihood. Revised 
+poverty estimates indicate that in 2013 nearly 4 in 10 Kenyans continue to live in extreme 
+poverty.  
+ 
+3. As the roles of national and county governments are restructured, and new county 
+institutions are created, a fundamental challenge is to maintain the delivery of agricultural 
+services. Under the new constitution adopted in 2010, the central government is devolving 
+responsibility for multiple functions to 47 elected county governments and providing a minimum 
+of 15 percent of national revenues to counties to carry out those functions. The main functions for 
+agriculture (crop and animal husbandry services, extension, agricultural marketing and other 
+related services) were transferred in August 2013 (the national government remains in charge of 
+policy and research). With some exceptions, County agricultural services are in an embryonic 
+state, with limited and in some cases no technical and/or operational capacity.
+Sectoral and Institutional Context
+4. In Kenya, agriculture remains one of the most important sectors of the economy. But 
+about 83 percent of Kenya?s land area is in the Arid and Semi-Arid Lands (ASALs), which are 
+mainly pastoral areas and the remaining 17 percent (where 80 percent of population lives) is 
+classified as medium to high agricultural potential zone. In 2013, the sector contributed almost 27 
+percent to the national GDP . The crops, livestock and fisheries sub-sectors contributed 
+approximately 78, 20 and 2 percent to agricultural GDP respectively. The sector employs more 
+than 75 percent of the workforce (also accounts for more than one-fifth of formal employment), 
+generates most of the country?s food requirements, and plays a key role in poverty reduction. It 
+
+
+
+Page 3 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+also generates nearly two-thirds (65 percent) of merchandise exports and roughly 60 percent of 
+foreign exchange earnings.  
+ 
+5. Overall, Kenya?s agricultural sector performance has been highly volatile with growth 
+rates dipping into negative territory in nine years between 1980 and 2012 (Figure 1 below). 
+Kenya?s agricultural growth rate has averaged between 3.4 percent during 1995-2003 and 
+decreased to an average of 2.1 percent in 2003-2011 period. Recent years have witnessed 
+increased volatility in agricultural growth rates with debilitating impacts on rural households 
+incomes and employment; urban and rural food security, poverty reduction and the country?s 
+overall economic growth. The sector?s growth in real gross value-added decelerated in 2013 to 
+2.9 percent from a revised growth of 4.2 percent in 2012. The lowest agricultural GDP growth 
+rate and value-added was noted in 2008, during a period which Kenya experienced the post-
+election violence following the country?s 2007 general elections. 
+   
+6. Extreme weather events, largely droughts and to a lesser extent floods, have been the 
+principal driver behind the volatility in the agricultural sector?s performance in Kenya.  The 
+frequency and intensity of severe weather events have increased and this trend will be further 
+amplified in the future as temperatures rise due to climate change . The World Bank?s agricultural 
+sector risk assessment (2014) highlighted that recurring drought has profound effects on the 
+agricultural sector, particularly in maize (main staple food) and livestock (in pastoral systems) 
+production. Frequent drought events resulted in precipitous crop losses, livestock deaths, spikes in 
+food prices, increased food insecurity and malnutrition for the poor and led to rural population 
+displacement (temporary migrations).  
+ 
+7. Kenya?s strong reliance on rain fed maize production system in meeting its food needs 
+and growing consolidation of production toward maize (and dry beans) has rendered the country 
+increasingly vulnerable to supply disruptions and food shortages. Amid declining yields, 
+productivity gains have come largely through land expansion into marginal areas that receive 
+lower and more variable rainfall. This trend, coupled with Kenya? increasingly erratic rainfall, 
+has made the country?s maize production more susceptible to moisture stress and year-on-year 
+yield variability, with significant implications for national food security.  This has contributed to a 
+growing structural deficit in maize/food production, a gap currently filled by rising imports, 
+aggravating the country?s exposure to globally-driven commodity price shocks. Emergency food 
+aid and other ex-post responses has helped fuel growing dependency and declining resilience, 
+particularly among the poorest and especially those in the ASALs. 
+ 
+8. Livestock production plays an important socio-economic role in many areas across 
+Kenya, particularly in the ASALs where it accounts for as much as nine-tenths of employment 
+and family income. Extensive livestock systems and pastoralists in Kenya?s northern rangelands 
+are particularly vulnerable to the effects of drought. Estimated losses to livestock populations 
+from droughts that have occurred within the most recent decade amount to more than US$1.08 
+billion. Ancillary losses related to production assets and future income and the costs of ex-post 
+response measures are likely several times that figure. The increased incidence of droughts across 
+the ASALs in recent years means that affected communities have less time to recover and rebuild 
+their assets. This has weakened traditional coping mechanisms and handicapped household 
+resilience against future shocks. 
+ 
+9. Climate variability is already having an impact on agriculture and food security in Kenya, 
+
+
+
+Page 4 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+as a result of increased prevalence of extreme events (especially droughts) and increased 
+unpredictability of weather patterns.  For example, severe droughts that occurred in 1991/92, 
+1995/96, 1998/2000, 2004/2005, and 2008-11, resulted in precipitous crop losses, livestock 
+deaths, spikes in food prices, increased food insecurity and malnutrition for the poor, and led to 
+rural population displacement (temporary migrations). Two noteworthy extreme climate events 
+are the 1998 El Nino and the 2009 drought, which resulted in a combined total cost of US$2.8 
+billion (about 7 percent of the 2010 GDP equivalent).   Frequent droughts also make Kenya 
+significantly food insecure.  In 2015, it ranked 83rd of 109 countries, on the Global Food Security 
+Index (GFSI).   Kenya is also highly vulnerable to climate change risks. The Center for Global 
+Development ranks Kenya 13th out of 233 countries globally for ?direct risks? due to ?extreme 
+weather? and 71st out of 233 for ?overall vulnerability? to climate change, even when adjusted 
+for coping ability.  
+ 
+10. Kenya?s average annual temperatures increased by 1Â°C between 1960 and 2003 , and 
+by 1.5Â°C in the country?s drier regions.   Climate change is projected to reduce agricultural 
+yields and livestock productivity, worsening the effect of climate shocks on the food system. 
+Agriculture in Kenya is largely (98 percent) rain fed and thus extremely vulnerable to increasing 
+temperatures and droughts.  Estimates of crop yield and livestock losses will vary greatly, but 
+most global climate models project severe and adverse consequences, especially for the most 
+food-insecure regions.  In Kenya, studies also show that by 2030, under a business as usual 
+scenario, climate change will most likely reduce yields of staple crops (by 12 percent in maize, 23 
+percent in rice, and 13 percent in wheat).  Crop land suitability is also expected to change, 
+especially in wheat and maize. Depending on the region and types of production systems, water 
+scarcity will result in less productive pastures, lower dairy yields, and higher risk of the spread of 
+diseases.   
+ 
+11. Climate change will exacerbate the vulnerability of Kenya?s agricultural sector as 
+projections show increases in mean annual temperature of 1Â°C to 1.5Â°C by 2030. 
+Consequently, changes in rainfall distribution and more frequent extreme events, such as 
+prolonged drought and floods are predicted to result in more water shortages, especially in ASAL 
+regions. While precipitation is projected to increase between 0.2 and 0.4 percent per year in 
+Kenya, the direction and magnitude of change will vary considerably across regions, and 
+warming-induced increases in evaporation rates are likely to offset the benefits of precipitation 
+increases in some regions. Meeting this challenge will require both investments in building 
+resilience to near-term shocks and in adapting to long-term climate change. In this context, 
+climate smart agriculture (CSA) offers an appropriate strategic framework for responding to and 
+reducing the adverse effects of climate change.  
+ 
+12. Agriculture is the largest source of Greenhouse Gas (GHG) emissions in Kenya, 
+contributing about 58.6 percent to total GHG emissions. Contributions of other sectors to national 
+GHG emissions are: energy (25.3 percent), industry (3.2 percent) and waste management (1.2 
+percent).   The agricultural sector is also a key driver of deforestation and land degradation, which 
+account for an additional 32 percent of national GHG emissions.  Agricultural emissions are 
+likely to increase from 20 MtCO2e in 2010 to 27 MtCO2e in 2030, largely driven by livestock 
+methane emissions, which account for 96.2 percent of agricultural emissions. Agriculture, 
+therefore, needs to reduce its GHG emissions and become part of the solution to tackle climate 
+change. The sector plays an important role in sequestering carbon in soil and trees on farms.  It 
+has the biophysical potential to offset and sequester about 20 percent of total annual emissions 
+
+
+
+Page 5 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+through improved soil management techniques.   Currently, the world?s soils hold three times 
+more carbon than the atmosphere. Soils also have significant potential to absorb a larger amount 
+of carbon from the atmosphere than they currently do.  Restoring this carbon to the soil will not 
+only sequester carbon from the atmosphere, but also boost productivity, increase water retention 
+(leading to greater resilience when droughts occur), bring land back into production (thereby 
+reducing pressure on biodiversity and forests), and boost incomes (thereby benefiting the rural 
+poor). Similarly, Kenya?s livestock GHG emission intensities (i.e. amount of GHGs emitted per 
+unit of product) amongst the highest in the world; this is mainly due to low livestock productivity. 
+With the continuing rising demand for livestock products this threatens to become a growing 
+problem.  Increasing livestock productivity (e.g., through improved forages and providing 
+adequate year-round feed resources) would increase incomes, protect people?s asset base, as well 
+as reduce GHG e/unit of product.  
+ 
+13. The proposed CSA project can help Kenya meet the rising demand for food; and attain 
+the Sustainable Development Goals (SDGs) of ending poverty (SDG1) and hunger (SDG2), and 
+combating climate change and its impacts (SDG13). But this would require investing in 
+agricultural technologies, innovations and management practices (TIMPs) that would lead into 
+CSA?s triple-win: increased agricultural productivity, enhanced resilience to climate change, and 
+reduced GHG emissions. 
+ 
+14. Kenya has a wide spectrum of CSA policies, strategies and plans that would help secure 
+the triple-win. The Vision 2030 recognizes the significance of agriculture to its goal of achieving 
+an average GDP growth rate of 10 percent per year up to the year 2030. This level of growth will 
+be crucial for attaining the SDGs 1 and 2 of ending poverty and hunger, respectively.  Kenya?s 
+Agricultural Sector Development Strategy (ASDS, 2010?2020) operationalizes the Vision 2030 
+by focusing on transforming smallholder agriculture from low-productivity subsistence activities 
+to more innovative, agri-business oriented agriculture. Regarding adaptation to climate change, 
+ASDS prioritizes investments in weather information systems, research on drought tolerant crop 
+varieties, soil and water conservation, water harvesting, and strengthening integrated pest 
+management systems. For livestock, it prioritizes improved management of grazing systems, 
+biogas, livestock diversification, and improved breeding of animals.  
+ 
+15. Kenya also has a National Climate Change Response Strategy (NCCRS, 2010) that 
+provides a framework for integrating climate change into development priorities. The National 
+Climate Change Action Plan (NCCAP, 2012)  operationalizes the NCCRS, and emphasizes low-
+carbon, climate-resilient development pathway for the economy that is critical for achieving SDG 
+13 of combating climate change and its impacts.  In the NCCAP, Kenya planned for a low-carbon 
+Nationally Appropriate Mitigation Actions (NAMAs) pathway for six sectors, namely energy, 
+transport, industry, agriculture, forestry and waste management.  The first activity undertaken 
+under the NAMAs process was the analysis of emissions from the forestry and agriculture sectors. 
+Selected practices for mitigation in the NCCAP included restoration of forest on degraded lands; 
+REDD+; agroforestry; increase tree cover to 10 percent of total land area; conservation tillage; 
+limiting use of fire in cropland; rangeland management; improved cook stoves; biogas; and 
+management of agricultural wastes. The proposed Project will support these interventions, which 
+are aimed at achieving the CSA triple-win of increasing productivity, building resilience to 
+climate change, and reducing GHG emissions. 
+ 
+16. The Kenya Climate Change Bill (2014) is about to be approved by the President, after 
+
+
+
+Page 6 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+undergoing a public hearing and passing through the Senate. More recently, Kenya has developed 
+a Climate-Smart Agriculture Program (CSAP, 2015?2030), that will be jointly implemented by 
+MoALF, the Ministry of Environment and Natural Resources (MENR), and the Ministry of Water 
+and Irrigation (MoWI). The Vision for the CSAP is a ?climate resilient and low carbon growth 
+sustainable agriculture that ensures food security and contributes to national development goals in 
+line with Kenya Vision 2030.?  In addition, Kenya has a National Policy on Climate Finance 
+(2015) that seeks to position Kenya to better access climate finance through a variety of 
+mechanisms. With support from the World Bank, the International Center for Tropical 
+Agricultural (CIAT) recently developed a Kenya CSA Country Profile. The Profile systematically 
+assesses the state of CSA nationally, including agricultural practices that deliver higher 
+productivity, improved resilience, and lower emissions. It also assesses the institutional, policy, 
+and finance entry points for taking CSA options to scale. The Profile will be an important 
+mechanism for building awareness of country options, facilitating dialogue, and helping identify 
+high-interest CSA options and opportunities for investments to deliver on the triple win. The 
+Profiles coupled with prioritization tools  can provide in depth analyses of agricultural practices, 
+detailed assessments of their ?climate-smartness?, and costs and benefits of various investments. 
+The ongoing development of County-level CSA risk profiles and prioritization of interventions 
+would bring this information to the relevant level of devolved governance in Kenya. 
+ 
+17. At the international level, Kenya has been actively engaged in dialogue on mainstreaming 
+climate change into agricultural policies, plans, and actions. The country is a signatory to the 
+United Nations Conventions on Combating Desertification (UNCCD), Framework Convention on 
+Climate Change (UNFCCC) and Conservation of Biological Diversity (UNCBD). Regionally, 
+Kenya is implementing the Comprehensive Africa Agriculture Development Programme 
+(CAADP) Framework (2010) and the East African Community Climate Change Policy 
+(EACCCP). Both of these frameworks emphasize sustainable land and water management for 
+improved agricultural productivity through research, technology adoption and dissemination; and 
+agricultural GHG emissions reduction. In July 2015, Kenya declared its Intended Nationally 
+Determined Contributions (INDC) to UNFCCC that by 2030, the country seeks to abate its total 
+GHG emissions by 30 percent relative to the ?business as usual? scenario of 143 MtCO2-e. It is 
+suggested that US$40 billion would be required to finance the mitigation and adaptation efforts 
+across six key sectors until 2030.
+Relationship to CAS/CPS/CPF
+18. The Kenya CPS (2014-2018) highlights achieving rapid and uninterrupted growth over a 
+decade or more as the foundational challenge for Kenya. The CPS indicate that for Kenya to make 
+a huge dent on poverty, support for the growth and realization of people?s potential must focus on 
+sectors and locations where the majority of the poor can benefit. In rural areas, the single most 
+sustainable impact would be to improve agricultural performance, both in terms of increased 
+productivity and resilience to shocks, including climate change risks. The proposed KCSAP aims 
+at fulfilling two priority domains of the CPS: (i) Domain 2 ? ?Protection and potential for shared 
+prosperity?, KCSAP will contribute to Outcome 4 (Greater agricultural productivity), and 
+Outcome 6 (Improved capacity to manage risks from Climate Change); and (ii) Domain 3 ? ?
+Consistency and equity in delivering a devolution dividend?, KCSAP will contribute to Outcome 
+8 (Better provision of agricultural extension services by counties) and Outcome 9 (Adequate 
+systems to monitor performance of services delivery by counties). The proposed project is also 
+well aligned with current GoK policies and priorities as articulated above.  
+ 
+19. The proposed Project is also in line with the Africa Climate Business Plan: Accelerating 
+
+
+
+Page 7 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Climate Resilience and Low-Carbon Development. The Plan aims at boosting the region?s ability 
+to adapt to the changing climate while reducing GHG emissions through a number of concrete 
+actions in various sectors. For agricultural sector, the Plan is focusing on promoting climate-smart 
+agriculture, creating climate-resilient landscapes, and promoting integrated watershed 
+management. It underscores that there is a range of agricultural management solutions, which can 
+improve crop productivity, enhance resilience to climate shocks and reduce carbon emissions.
+
+C.  Proposed Development Objective(s)
+
+Proposed Development Objective(s) (From PCN)
+20. The proposed development objective is to increase agricultural productivity and build 
+resilience to climate change risks in the targeted smallholder farming and pastoral communities in 
+Kenya. 
+ 
+21. The PDO is informed by the CSA concept; one that ambitiously aims to integrate climate 
+change risks responsiveness into agricultural development activities. The CSA outcomes are 
+increased productivity, enhanced resilience, and reduced GHG emissions. While the concept is 
+new and still evolving, many of the practices that make up CSA already exist worldwide and are 
+used by farmers to cope with various production risks – particularly droughts and floods. The 
+utility of CSA then comes in as a way of explicitly integrating productivity, adaptation, and 
+mitigation planning, often done in isolation; and understanding of expected outcomes of CSA 
+investments on different users and locations over time.
+
+Key Results (From PCN)
+22. Achievement of the proposed PDO will be measured using the following outcome 
+indicators: (i) Increased yields of selected crop and livestock value chains (percent); (ii) Direct 
+project beneficiaries adopting TIMPs leading to CSA triple-win (percent);  (iii) Increased land 
+covered due to adoption of agro-forestry and sustainable land management (SLM)  practices 
+(percent); (iv) Improved access to agro-weather, technical and market information by direct 
+beneficiaries(percent);  and (v) Direct project beneficiaries (number), of which female (percent).  
+A detailed results monitoring framework and indicators will be developed during the project 
+preparation, and enhanced by quantitative modeling of uncertainties along the impact pathway .
+
+D.  Concept Description
+
+A. Concept  
+ 
+23. Climate resilient agriculture that increases productivity requires a major shift in the way 
+land, water, soil nutrients and genetic resources are managed to ensure that they are used more 
+efficiently, effectively and equitably. Making such a shift requires considerable investments in 
+ongoing and new technologies, rural/production infrastructure, financing/credit mechanisms, as 
+well as improving farmers? access to climatic information and markets. Actions to build climate 
+resilience can, in many cases, also mitigate climate change by reducing GHG emissions or 
+increasing carbon sinks.  
+ 
+24. Kenya has three main agricultural production systems. The smallholder mixed crop-
+livestock system found in areas that receive more than 1,000 mm of rainfall annually (high 
+potential zones), spreading from central Kenya, through the central Rift Valley to western Kenya 
+and the coastal strip. This system takes the form of a maize-based, dairy production system with 
+or without cash crops, such as coffee, tea and horticulture. The crop-livestock-tree production 
+
+
+
+Page 8 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+(Agro-silvo-pastoral) system found in areas that receive between 750 and 1,000 mm of rainfall 
+annually (medium potential zones). This system focuses on integration of livestock and crops, soil 
+and water conservation, and growing drought tolerant and early maturing crops. In some areas, 
+irrigation schemes have also been set up to enhance crop production. The pastoral/extensive 
+livestock production system  found in areas receiving 200?750 mm of rainfall annually (low 
+potential zones), stretching from north and north-eastern Kenya to the southern parts bordering 
+Tanzania. Livestock production, mainly beef animals and small ruminants, are the major 
+enterprises under small-scale, but also some large scale ranches 
+ 
+25. KCSAP will primarily focus on supporting interventions aimed at increasing productivity 
+and building resilience to climate change, with reduction of GHG emissions as a potential co-
+benefit , where possible and appropriate, through: (a) Promoting sustainable, community?driven 
+rangeland management and improved access to quality livestock services in ASALs (i.e. in 
+pastoral/extensive livestock production systems); (b) Improving water/soil management, 
+especially within smallholder maize systems in the marginal rainfall zones (i.e. in smallholder 
+mixed crop-livestock, crop-livestock-tree production (Agro-silvo-pastoral systems), and crop-
+forest production (agro-forestry)); (c) Supporting the generation and dissemination of improved 
+agricultural technologies,  innovations, and management practices, and building a sustainable 
+seed system; and (d) Enhancing access to quality climate/agro-weather, advisory services, and 
+market information among farmers/herders for improved decision making. 
+ 
+26. KCSAP interventions will be concentrated in selected counties within the crop-livestock-
+tree production system and pastoral/extensive livestock production system (mainly in ASALs), 
+with high potential for increasing production, but ones that are also prone to droughts. To 
+maximize the impact of project interventions, about 15 - 20 counties will be selected using these 
+criteria: (a) vulnerability to climate change, extreme weather events, and variable rainfall; (b) 
+potential for increasing agricultural and livestock production; (c) current share in national 
+agricultural production; (d) climate change projections; and (e) poverty distribution and rates. The 
+project design would be informed by the following seven main principles:   
+ 
+(i) Prioritization of promising TIMPs: CSA is very context specific?what is CSA in one 
+place is not necessarily CSA in another place?so there is a need to prioritize technologies that are 
+most promising for specific places and provide the best value for money. The CCAFS-CIAT CSA 
+Prioritization Framework is one such approach that entails a series of activities to filter a long list 
+of possible CSA options into a set of best-bet practices and services for an area ;   
+ 
+(ii) Scaling-up promising TIMPs: The Bank and other donor-funded projects in Kenya, such 
+as the Kenya Adaptation to Climate Change in Arid and Semi-Arid Lands (KACCAL) and Kenya 
+Agricultural Productivity and Sustainable Land Management Project (KAPSLMP) have used 
+participatory and community-driven development (CDD) approaches to pilot a number of 
+adaptation and mitigation TIMPs including financing options, such as the Payment for Ecosystem 
+Services (PES). While existing TIMPs are a good starting point and their broader application 
+needs to be scaled up, new technologies must be developed to achieve the CSA triple-win;  
+ 
+(iii) Value chain (VC) approach:  An approach that focuses on developing priority, promising 
+agricultural and livestock commodities in the respective counties, through interventions covering 
+production, value addition and links to markets will be taken. This approach will look at supply 
+chains, delivery channels, and enabling environment issues, to identify and address bottlenecks 
+
+
+
+Page 9 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+and leverage points in the chains. Innovation platforms and methodologies, such as LINK  
+developed by CIAT provides approaches for developing innovative business models that take a 
+value chain approach and link smallholder farmers to markets; and IFC can finance private sector 
+investments, such as in animal health services, commercial-scale bio digesters, solar-pumps, 
+micro-and-drip irrigation, seed production and distribution, on-farm storage, weather info/
+advisory/climate services, rural credit, and processing facilities; 
+ 
+(iv) Gender sensitivity: Looking at various interventions through a gender lens to ensure that 
+the project benefits women as much as possible. Alternative livelihood interventions would be 
+primarily geared for women participants. Special care would be paid to ensure that intervention 
+do not contribute to increased drudgery and burden for women; 
+ 
+(v) Nutrition informed: Favoring those interventions and leveraging activities that have a 
+direct and indirect links with improving the nutritional outcome (dietary/nutrients diversification 
+using fruit tree and vegetables ) of the project beneficiaries, particularly women and children 
+under the age of five;  
+ 
+(vi) Collaboration with other World Bank Group Agencies: The VC development approach 
+will require a close collaboration with the International Finance Corporation (IFC) and the 
+Multilateral International Guarantee Agency (MIGA), which have greater roles to play in 
+agricultural value addition, linking smallholder farmers to markets (i.e. inputs, outputs and 
+financial markets); and abating political risk for local and international private investors, 
+respectively; and 
+ 
+(vii) Complementarity with other interventions: Ensuring that synergies and alignment with 
+other Bank-funded projects, such as the National Agricultural and Rural Inclusive Growth Project 
+(NARIGP), and the Rural Roads Project (RRP), given that could be operating in the same 
+counties, will allow for greater complementarity and impact. 
+ 
+27. Although reduced GHG emissions might be co-benefits, these will nonetheless be 
+measured. At appraisal stage, the project will undertake GHG accounting to estimate the impact 
+of project interventions against a baseline. It is expected that by improving per unit efficiency, the 
+project will have a positive impact on GHG net emissions.  
+ 
+Project Components  
+ 
+28. The proposed project will comprise four components briefly presented below: 
+ 
+Component 1: Upscaling Climate-Smart Agricultural Practices (US$100 million) 
+ 
+29. This component aims at supporting and incentivizing smallholder farmers to implement 
+TIMPs that provide triple-wins: increased productivity, stronger resilience and reductions in GHG 
+emissions, as co-benefits. It will comprise two subcomponents. 
+ 
+Subcomponent 1.1: Supporting Pastoral/Extensive Livestock Production Systems (US$40 
+million) 
+ 
+30. Livestock production is a key contributor to CSA?s three strategic outcomes: (i) 
+
+
+
+Page 10 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+agricultural productivity and food security - animals contribute directly (through meat and milk 
+output) and indirectly (through fertilization, draft power) to food production and also to income 
+diversification; (ii) adaptation to climate change - livestock represents a diversification asset, a 
+coping mechanism for households (risk management tool, that contributes to household 
+resilience), and a contributor to the management of organic matter in soils (through manure), 
+which improves water retention and drought resistance; and (iii) mitigation - there is typically a 
+great potential for reducing GHG emission intensity among low productivity ruminant systems, 
+and carbon sequestration in pastures.  
+ 
+31. This subcomponent will therefore support interventions aimed at: (a) increasing 
+productivity of livestock (e.g. feeding practices, animal health, herd management and off-take 
+rates); (b) promoting integrated soil fertility and SLM practices based on crop-livestock 
+integration (e.g., manure management, biogas production, use of crop residues and food products) 
+and modern inputs; and (c) supporting market access (e.g., stock routes/migratory corridors, 
+watering points, quarantine or holding grounds and animal markets). 
+ 
+32.  In the arid lands, ensuring that pastoralists can access feed and water resources at critical 
+times is essential to resilience. Demography and increased pressure on land and water are greatly 
+challenging the traditional arrangements through which sedentary and mobile populations have 
+managed resources. The project will thus support the development of new management practices 
+and institutional arrangements that can secure pastoralists? access to resources, especially during 
+drought and the dry season. In the semi-arid lands, interventions may aim at increasing the 
+efficiency of animal production (e.g., feeding practices, animal health, herd management and off-
+take rates), increasing crop-livestock integration (e.g., manure management, use of crop residues 
+and food by-products), and increasing institutional mechanisms and markets for resilience.  
+ 
+33. Interventions inter alia could promote: (i) innovative rangeland co-management (state and 
+local community) approaches that leverage customary forms of collective action and economic 
+instruments to reward sound pasture management; (ii) development of fodder production, storage 
+and marketing; (iii) small-scale fattening operations managed by pastoral communities, to which 
+young animals from mobile herds could be sent for fattening before commercialization; and (iv) 
+sustainable resource use practices, including  contour ridges and barriers, cisterns for storing 
+rainfall and runoff water, controlled/rotational grazing, grazing banks, homestead enclosures, 
+residue/forage conservation and other practices ensuring access to feed and water resources 
+during drought. ILRI has relevant research outputs to contribute to these interventions.  
+ 
+Subcomponent 1.2: Supporting Smallholder Mixed Crop-Livestock-Tree Systems (US$60 
+million) 
+ 
+34. The smallholder mixed crop-livestock-tree systems account for more than 70 percent of 
+total maize output in Kenya. Characterized by low productivity, these systems are increasingly 
+vulnerable to extreme and variable weather. Thus, achieving national food security will require 
+concerted efforts and targeted investments to improve yields and strengthen their resilience. 
+ 
+35. This subcomponent will therefore focus on: (a) improving water and soil management; 
+(b) promo ting livelihoods and crop diversification, including drought-tolerant crops (e.g., 
+legumes - beans, cowpeas, pigeon pea etc.,), intensive dairy production and agro-forestry systems; 
+(c) investing in small-scale irrigation development; and climate risk mitigation initiatives, 
+
+
+
+Page 11 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+including exploring the smallholder adapted crop insurance options.  
+ 
+36. KCSAP support under this component will aim at promoting sustainable intensification 
+and increasing climate resilience of Kenya?s small-scale, rain fed production systems. This will 
+be achieved through myriad, yet mutually-supportive interventions designed to improve crop 
+yields and reduce losses (pre-and post-harvest) in the near-term, and to mitigate climate change 
+impacts via adaptation over the long-term. Project interventions will focus on, inter alia, curbing 
+rainfall run-off, improving soil nutrition and moisture holding capacity, and strengthening 
+fertilizer- and water-use efficiency. This will be achieved via incentivizing broad farmer adoption 
+of improved water, soil and land resource TIMPs. To promote income diversification, the project 
+will promote take-up of animal husbandry, micro-gardening, agro-forestry and other income 
+generating activities less dependent on rainfall. 
+ 
+37. KCSAP investments will be guided by County Integrated Development Plans (CIDPs)  
+and community priorities. Integrating project activities within the CIDPs will ensure alignment, 
+sustainability and optimization of outcomes. In the case of high agricultural (medium-to high 
+rainfall) potential areas in the central and western highlands, interventions will broadly focus on 
+improving maize yields and farm-gate prices via quality, drying and storage upgrades. In more 
+marginal, more variable rainfall zones, greater emphasis will be placed on stimulating farmers? 
+uptake of more robust, drought-tolerant crops (e.g., cowpeas, cassava, millet and sorghum). 
+Project interventions will also aim to enhance risk-sharing and strengthen smallholder access to 
+markets across target food commodity chains via catalyzing upgrades (i.e. product, process) and 
+downstream linkages (horizontal and vertical).   
+ 
+38. Matching grants will be provided to common interest groups (CIGs) organized along the 
+VCs to finance community micro-projects. The grants will enable smallholder farmers adopt 
+TIMPs developed under Component 2. Making direct payments to farmers conditional on 
+adoption of climate adaptation and mitigation practices will lead to better CSA triple-win 
+outcomes.  
+ 
+Component 2: Strengthening Climate-Smart Agricultural Research and Seed Systems (US$60 
+million) 
+ 
+39. Building strong research capacity and seed systems at the national level is critical for 
+achieving the CSA triple-win: increasing productivity, building resilience and reducing GHG 
+emissions. Strong and sustained support to agricultural research and development (R&D) can 
+have large payoffs as evidenced by R&D?s significant contribution to the impressive agricultural 
+growth achieved in Brazil, China and India. More broadly, returns to investment in agricultural 
+research have been high and the benefits will only rise as the losses from climate-induced crop 
+and livestock systems failure increase. Investments in seed and animal breeds research and their 
+market-driven distribution systems will better equip farmers and livestock keepers with timely 
+access to quality, affordable seeds (also for forage crops - grasses, legumes, herbage, fodder trees 
+and regeneration practices) and planting materials; and animal breeds that respond to their 
+specific needs (e.g., higher-yielding, fast maturing, drought resistant, and heat tolerant breeds) 
+and that would help them better manage growing climate change risks. This component will have 
+two subcomponents ? supporting CSA research and innovations, and building competitive and 
+sustainable seed system. 
+ 
+
+
+
+Page 12 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Subcomponent 2.1: Supporting Climate-Smart Agricultural Research and Innovations (US$40 
+million) 
+ 
+40. A renewed urgency, and international and national commitment, is needed to sustain CSA 
+research to deliver needed science-based solutions. Kenya should act now given that developing 
+improved TIMPs can take many years. Developing improved seeds, planting materials and 
+livestock breeds that are more adapted to changing climates to meet rising food demand, while at 
+the same time reducing GHG emissions will need significantly more investment in agricultural 
+research and development.  It also requires commitment to strengthen the Kenya Agricultural and 
+Livestock Research Organization (KALRO); build partnerships with international research 
+institutes (e.g., CGIAR institutes, such as the World Agroforestry Centre (ICRAF) and the 
+International Livestock Research Institute (ILRI), International Center for Tropical Agriculture 
+(CIAT), ICRISAT, which operate in Kenya) and local universities (e.g., University of Nairobi, 
+Jomo Kenyatta University of Agriculture and Technology (JKUAT), Moi and Egerton); and 
+engage the private sector (contracted extension services delivery model) to facilitate the uptake of 
+TIMPs at local levels.  But agricultural research and innovation processes require long-term 
+political commitment, financial stability, human resources, and institutional strength. Thus this 
+subcomponent would finance activities aimed at strengthening national agricultural research 
+system (NARS) and competitive collaborative research grants focusing on CSA research and 
+innovations. 
+ 
+Subcomponent 2.2: Building a Competitive and Sustainable Seed Systems (US$20 million) 
+ 
+41. Kenya has one of the more developed cereal (maize and wheat) seed systems in Africa 
+with over 70 registered seed merchants. But legume seed systems are poorly developed. Highly 
+regulated, the formal cereal seed system produces over 30,000 tons of seed per annum. But only 
+supplies about one-quarter of the country?s total seed needs. The remaining supply mostly comes 
+from recycled seeds. While robust seed research by KALRO and CIMMYT, among others, have 
+resulted in the release of dozens of improved maize and other varietals (e.g., drought-tolerant, 
+high-yielding, disease-resistant, and short-season) that can help farmers better respond to climate 
+and market signals and manage uncertainty, adoption among smallholders remains low. Even in 
+ASAL regions that receive less than 500 mm of rainfall per annum, farmers continue to grow 
+maize rather than drought-tolerant crops, such as sorghum and millet.  Such areas could benefit 
+more from short duration legumes, such as beans, cowpea and pigeon pea. As a result, the 
+productivity of many staple crops (e.g., wheat and maize) remains below regional averages.  
+ 
+42. The project will promote pluralistic seed systems model depending on level of crop 
+development. Working with KEPHIS , Kenya Seed Company (KSC), KALRO, CIMMYT , 
+ICRAF  and other stakeholders, KCSAP will finance activities geared towards strengthening seed 
+research (e.g., seed production and processing equipment, TA and training, grants for community-
+level seed multiplication, etc.,), as well as promoting commercially viable multiplication and 
+distribution systems to ensure that farmers and pastoralists have access to the right seeds at the 
+right time. Specifically, KCSAP will finance interventions related t o: (i) strengthening the 
+capacity of KALRO?s research centers/institutes in the production of foundation seed; (ii) 
+supporting private sector companies involved in the commercial seed production and community-
+based seed multiplication systems; (iii) promoting the use of selected drought-resistant seeds; (iv) 
+strengthening seed associations and inter-professional organizations; (v) supporting innovative 
+mechanisms of seed marketing; and (vi) strengthening seed policy, production and distribution 
+
+
+
+Page 13 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+strategies and institution al support to the national seed control and certification agency.  
+ 
+Component 3: Supporting Agro-weather, Market, Climate and Advisory Services (US$30 million)
+ 
+43. Improving productivity and resilience of smallholder farmers requires access to timely, 
+cost-effective, and personally relevant information on improved agricultural practices, markets, 
+prices, inputs, weather?and news of impending disasters. Integrating information on weather and 
+markets into planning for CSA interventions and sustainable agriculture development entails: (a) 
+use of modern tools for climate data sourcing and analysis, including automatic meteorological 
+measurements and satellite data products on a near real-time basis; (b) analysis of weather risks 
+and assessment of impacts using advanced crop?weather interactions modeling; (c) formulation of 
+highly practical advice that farmers can apply directly to their operations; and (d) dissemination 
+of weather and market advisories to farmers using modern information and communication 
+technologies (ICT). 
+ 
+44. The quality of these climate and market information services are critically low or non-
+existent in many parts of Kenya. Under this component, KCSAP will address this obstacle by 
+developing modern agro-weather forecasting and dissemination tools, as well as marketing 
+information system to help farmers address the challenges of climate variability and change and 
+enhance their resilience. 
+ 
+45. Building on infrastructure already provided to KALRO under the Kenya Agricultural 
+Productivity and Agribusiness Project (KAPAP), as well as experiences of BNPP-funded Agro-
+weather Tools for Climate Smart Agriculture pilots in Embu, Kenya,  this component will finance 
+interventions related to the following: (i) improving agro-meteorological forecasting and 
+monitoring; (ii) developing climate-smart, location-specific agro-weather and market information 
+system and advisories using ?big data?; and (iii) building institutional and technical capacity for 
+agro-meteorological observation, forecasting and market advisory dissemination.  
+ 
+Subcomponent 3.1: Improving Agro-meteorological Forecasting and Monitoring (US$15 million) 
+ 
+46. One of the main obstacles to effective meteorological forecasting is Kenya?s limited 
+agro-meteorological observation network. To improve data collection and geographic coverage, 
+existing agro-meteorological and hydro logical stations will be upgraded, whilst modern, near real 
+time automated weather stations (AWS) will be installed in areas lacking the facilities. KCSAP 
+will work with other initiatives that are already in-place to expand the country?s agro-
+meteorological and hydrological network to meet international standards. This subcomponent will 
+therefore finance the following investments: (a) installation of new AWS, hydrometric stations 
+and rain gauges to complement existing weather infrastructure; (b) upgrade and modernization of 
+the existing agro-meteorological network and priority hydrological stations country-wide; (c) 
+establishment of agro-meteorological centers in targeted counties to improve drought and flood 
+forecasts; and (d) development of the Kenya Meteorological Services (KMS) early warning 
+system (EWS), and building institutional capacity for disaster preparedness and mitigation.  
+ 
+Subcomponent 3.2: Developing Integrated Weather and Market Information System (US$5 
+million) 
+ 
+47. Systems that integrate agro-weather and market information are either non-existent or 
+
+
+
+Page 14 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+rudimentary in Kenya. KCSAP will address this problem under this subcomponent by financing 
+activities related to: (a) developing ?big data? for CSA; (b) developing Market Information 
+Systems (MIS) and services; and (c) delivering integrated weather and market advisory services 
+using ICT.  Big data  crop-weather analytics help farmers in making decisions on what, when, and 
+where to plant. Using advanced statistical and data mining/machine learning algorithms,  time 
+series data of crop yields will be combined with weather observations at daily resolution  from 
+agro-meteorological stations and satellite data,  soil and management factors to reveal climate and 
+weather patterns, and detect the limiting factors for crop production. This would subsequently be 
+used to generate timely and site-specific recommendations on crop cultivars, soil preparation, 
+sowing rate and time, fertilization, irrigation, pest and diseases control, harvest time, and storage 
+options. Access to reliable market information from the MIS using ICT empowers farmers to 
+obtain and negotiate fair market prices for their crops subsequently improving their income and 
+livelihoods. It also reduces their overall risk and results in greater price stability in supply and 
+demand, in addition to improving overall market transparency. Using multiple ICT channel to 
+reach target users will allow bi-directional information exchange - allowing the collection of data 
+from farmers, as well as information delivery to farmers. Rapid and geographically targeted agro-
+weather information will be disseminated using SMS and smart phone applications, and through 
+more conventional radio, television, bulletins and print messages. Interactive Voice Response 
+(IVR) systems that render weather conditions into human speech will also be incorporated. 
+ 
+Subcomponent 3.3: Building Institutional and Technical Capacity (US$10 million) 
+ 
+48. The capacity for agro-meteorological observation, forecasting and advisory dissemination 
+needs to be strengthened at the MoALF, KMS, KALRO, and at county governments. KCSAP will 
+finance activities related to human and institutional capacity building at these agencies. This will 
+include: (a) defining proper configuration of the main elements of the system; including 
+automated monitoring, new forecast techniques, big data analytics and modernization of 
+management; (b) analyzing and utilizing big data for various purposes; and (c) providing the 
+hardware and software needed for interaction of data from a variety of sources in a way that is 
+efficient and scalable. Capacity of scientists at national and county levels will be strengthened in 
+the area of crop modeling, using both deterministic and statistical models of different complexity 
+levels. KCSAP will partner with national and international research and academic institutions to 
+provide state-of-art training in agro-meteorology, climate science, including downscaling and 
+weather predictions, artificial neural network and machine learning applications, seasonal 
+forecasting, ICT, GIS and remote sensing. KALRO?s capacity to implement a national soil 
+information service based on soil spectroscopy and remote sensing technology to help target 
+interventions and monitor impacts on soil health will be further enhanced . 
+ 
+Component 4: Project Coordination and Management (US$20 million) 
+ 
+49. The Project will be implemented by MoALF with close collaboration with MENR and 
+MoWI at the national level and county governments at subnational level. Activities financed 
+under this component will comprise coordination, fiduciary aspects, M&E, safeguards monitoring 
+and compliance, and day-to-day implementation of the project; and consists of three 
+subcomponents. 
+ 
+Subcomponent 4.1: Project Coordination (US$15 million) 
+ 
+
+
+
+Page 15 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+50. The purpose of this subcomponent is to ensure that the project is implemented in 
+accordance with the Financing Agreement. A Project Coordination Unit (PCU) and a small team 
+of experts located at the national and participating county levels will be established. Costs related 
+to national and county level project coordination (i.e., salaries of the contract staff, operations and 
+maintenance (O&M), office space rental, fuel and spare parts of vehicles, office equipment, 
+furniture and tools, among others) will be financed. Safeguards monitoring and compliance will 
+be carried out under this subcomponent.  
+ 
+Subcomponent 4.2: Monitoring & Evaluation and Impact Evaluation (US$5 million) 
+ 
+51. An M&E system will be established to collect and process appropriate information, to 
+verify the output, effects and eventually the impacts of project activities over time. Baseline 
+information for M&E will be collected as part of the preparation process. In addition to the 
+routine M&E functions (e.g., data collection, analysis and reporting), it will also finance the 
+baseline, mid-point and end of project impact evaluation of the project; and the development and 
+operation of the ICT-based Climate Smart Agriculture Information System. Where possible, 
+M&E approaches will be harmonized with continental and global efforts (e.g., Global Alliance for 
+CSA and the Alliance for CSA in Africa) to build robust and harmonized evidence of the impacts 
+of TIMPs supported by the project to achieve CSA triple-win.  
+ 
+Subcomponent 4.3: Contingency Emergency Response (US$0 million) 
+ 
+52. This subcomponent will finance natural disasters risk management (DRM) activities in 
+the agriculture sector. The contingency emergence response financing will be triggered through 
+formal declaration of a national emergency and upon a formal request from the GoK.  In such 
+cases, funds from unallocated category and other project components could be reallocated to 
+finance emergency response expenditures and meet crises and emergency needs.  
+ 
+53. The subcomponent will finance the training and capacity building for disaster risk 
+management (DRM); community-managed disaster risk reduction (CMDRR) interventions; 
+development of an EWS; and response, mitigation, recovery and reconstruction following 
+climate-induced natural disasters. Implementation of this subcomponent will follow the 
+provisions of the DRM Manual. 
+ 
+54. Annex 3 outlines in more detail some key interventions envisioned under each project 
+component.
+
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+29. The project will be implemented at selected locations on a national scale. The activities will 
+be implemented in the rural areas and will include projects in rural infrastructure, such as watering 
+points, quarantine or holding grounds and animal markets of fodder production, storage and 
+marketing sustainable resource use practices, including  contour erosion and barriers, cisterns for 
+storing rainfall and runoff water, controlled/rotational grazing, grazing banks, homestead enclosures, 
+residue/forage conservation and other practices ensuring access to feed and water resources during 
+drought, agro-forestry projects and hydromet systems/stations.
+
+
+
+Page 16 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+B. Borrower’s Institutional Capacity for Safeguard Policies
+30. The MoALF will the implementing agency of KCSAP. MoALF will work closely with 
+MoENR and MoWI. These ministries have adequate capacity and experience of implementing Bank-
+funded projects, including knowledge for implementing World Bank safeguards in the devolved 
+context. However, the implementation of previous projects identified a number of significant 
+capacity issues in monitoring and enforcement of environmental and social safeguards compliance. 
+KCSAP will allocate resources to build the counties’ capacity in for safeguards implementation, 
+based on institutional capacity assessment that would be carried out at the project preparation stage.
+
+C. Environmental and Social Safeguards Specialists on the Team
+Gibwa A. Kajubi (GSU07)
+Svetlana Khvostova (GEN01)
+
+D. POLICIES THAT MIGHT APPLY
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental Assessment 
+OP/BP 4.01
+
+Yes The initial scoping of the proposed project 
+interventions suggests that due to the nature of 
+proposed activities, the potential environmental and 
+social impacts will be moderate, largely reversible 
+and site-specific. The identification mission noted 
+that the potential project investments in rural 
+infrastructure and agriculture VCs will trigger the 
+Environmental Assessment (OP 4.01). 
+ 
+Given that specific micro-project designs and 
+locations would not be known at the time of project 
+preparation, the project will take framework 
+approach to managing safeguards. There are three 
+framework reports that will need to be developed by 
+GoK: (a) Environmental and Social Management 
+Framework (ESMF); (b) Resettlement Policy 
+Framework (RPF); and (c) Vulnerable and 
+Marginalized Group Framework (VMGF). These 
+frameworks will need to cover the types of activities 
+envisioned; identify potential impacts of these 
+activities; propose screening mechanisms and 
+processes of assessing their impacts; and designing 
+mitigation measures. The scope of these frameworks, 
+the exact implementation arrangements and costs 
+will be identified during project preparation. The 
+preparation of ESMF, RPF and the VMGF will 
+include wide public consultations and will be 
+disclosed prior to project appraisal. During project 
+implementation, based on the screening, an 
+Environmental Assessment (EA)/ Environmental 
+Management Plans (EMPs), Resettlement Action 
+
+
+
+Page 17 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Plans (RAPs) and Vulnerable and Marginalized 
+Group Plans (VMGPs) will be developed for 
+individual subprojects.
+
+Natural Habitats OP/BP 4.04 TBD Applicability of this policy will be confirmed during 
+project preparation, based on the target areas of 
+project interventions.
+
+Forests OP/BP 4.36 TBD Applicability of this policy will be confirmed during 
+project preparation, based on the target areas of 
+project interventions.
+
+Pest Management OP 4.09 Yes The project is envisioned use of agrochemicals to 
+implement activities such as fodder production and 
+agro-forestry projects. A Pest Management Plan 
+(PMP) will be prepared to promote the adoption of 
+an Integrated Pest Management (IPM) approach, 
+which stresses non-chemical pest management 
+methods as much as possible, with use of 
+agrochemicals only as a “last resort” when  
+other methods are not sufficiently effective. The 
+PMP would describe specific actions needed to be 
+implemented, timeframes, estimated costs, 
+monitoring indicators, institutional and beneficiary 
+roles and responsibilities etc.).
+
+Physical Cultural Resources 
+OP/BP 4.11
+
+TBD Applicability of this policy will be confirmed during 
+project preparation, based on the target areas of 
+project interventions.
+
+Indigenous Peoples OP/BP 
+4.10
+
+TBD Applicability of this policy will be confirmed during 
+project preparation, based on the target areas of 
+project interventions. Should it be confirmed during 
+the project preparation that the implementation will 
+cover the areas where vulnerable and marginalized 
+groups are present, the project will prepare the 
+VMGF, which will then guide the preparation of 
+VMGPs, where required.
+
+Involuntary Resettlement OP/
+BP 4.12
+
+Yes The project activities may require land acquisition 
+and may result in the loss of community resources. 
+To guide the process of compensation, the project 
+will prepare the RPF and publicly disclose it in 
+Kenya and in the World Bank InfoShop prior to 
+project appraisal.
+
+Safety of Dams OP/BP 4.37 TBD
+
+Projects on International 
+Waterways OP/BP 7.50
+
+TBD
+
+Projects in Disputed Areas OP/
+BP 7.60
+
+TBD
+
+
+
+Page 18 of 18
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+26-Sep-2016
+2. Time frame for launching and completing the safeguard-related studies that may be 
+needed. The specific studies and their timing should be specified in the PAD-stage 
+ISDS.
+The ESMF, RPF and VMGF will be prepared, consulted upon and publicly disclosed before project 
+appraisal in November 14, 2016.
+
+III. Contact point
+World Bank
+Contact: Ladisy Komba Chengula
+Title: Lead Agriculture Economist
+
+Borrower/Client/Recipient
+Name: The National  Treasury
+Contact: Dr. Thugge Kamau
+Title: Principal Secretary
+Email: ps@treasury.go.ke
+
+Implementing Agencies
+Name: Ministry of Agriculture, Livestock and Fisheries
+Contact: Dr. Richard Lesiyampe
+Title: Principal Secretary
+Email: ps@agriculture.go.ke
+
+IV. For more information contact:
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 473-1000 
+Web: http://www.worldbank.org/projects
+
+V. Approval
+Task Team Leader(s): Name: Ladisy Komba Chengula
+Approved By
+Safeguards Advisor: Name: Nathalie S. Munzberg (SA) Date: 13-Dec-2016
+Practice Manager/
+Manager:
+
+Name: Dina Umali-Deininger (PMGR) Date: 13-Dec-2016
+
+Country Director: Name: Thomas O'Brien (CD) Date: 21-Dec-2016
+
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at 
+the InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to 
+potentially affected persons. 
+
+
+

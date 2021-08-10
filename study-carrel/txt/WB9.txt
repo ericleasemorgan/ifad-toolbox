@@ -1,0 +1,2669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+ 
+
+  
+Oct 25, 2017 Page 1 of 33  
+
+     
+
+ 
+     
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 08-Dec-2017 | Report No: PIDISDSC21361 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 2 of 33  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Haiti P162908 Resilient Productive 
+Landscapes in Haiti 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+LATIN AMERICA AND CARIBBEAN 04-Dec-2017 28-Feb-2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Economy and 
+Finance 
+
+Ministry of Agriculture, 
+Natural Resources and 
+Rural Development 
+(MARNDR), Ministry of 
+Environment 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objectives are: (i) to improve the adoption of resilience-enhancing agricultural and 
+landscape management practices in selected sub-watersheds; and (ii) to enable the Government to respond promptly 
+and effectively to an eligible emergency 
+ 
+ 
+Components 
+
+Strengthening of institutional and organizational capacities for landscape level interventions 
+Investments to strengthen the establishment of resilient agricultural production and practices 
+Project Coordination and Monitoring and Evaluation 
+Emergency Response Mechanism 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+ 
+FIN_SUMM_PUB_TBL 
+SUMMARY 
+ 
+
+Total Project Cost 26.21 
+
+Total Financing 26.21 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFin3 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 3 of 33  
+
+ 
+
+Total World Bank Group Financing 15.00 
+
+     World Bank Lending 15.00 
+ 
+
+Total Non-World Bank Group and Non-Client Government Financing 5.00 
+
+Multilateral and Bilateral Financing (Concessional) 5.00 
+
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+Baseline and business as usual 
+ 
+
+1. Haiti is a densely populated island state, the third largest nation by area and population (10.4 
+million) in the Caribbean and benefits from a rich economic endowment. Assets include proximity 
+and access to major markets, a young labor force, a dynamic diaspora, and substantial geographic, 
+historical, and cultural assets. The country possesses untapped markets and unmet demand for the 
+private sector to explore, including agribusiness, light manufacturing, and tourism. Yet Haiti remains 
+the poorest country in the Western Hemisphere and one of the poorest countries in the world, with 
+a GDP per capita of US$820. Almost 60 percent of the population lives below the national poverty 
+line with marked differences between urban and rural areas
+
+1
+, inequality is high, with wealth and 
+
+economic opportunity concentrated around Port-au-Prince. Access to basic services is limited, 
+particularly in rural areas, which has translated into low human development indicators (Haiti ranks 
+168th out of 187 countries in the Human Development Index). 
+
+ 
+2. Agriculture continues to play a dominant role in the Haitian economy, contributing over 20 
+
+percent of GDP and most rural Haitians rely on agricultural production as their primary livelihood 
+strategy. The agriculture sector also accounts for around 50 percent of overall employment, 66 
+percent of employment in rural areas, and 75 percent of employment in low income households. 
+Agriculture is the sole economic activity for 55 percent of the rural households, and involves more 
+
+                                                           
+1
+ 75% fall below poverty line in rural areas compared to 40% in urban areas 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 4 of 33  
+
+ 
+
+than 70 percent of them. This production is critical for food security
+2
+, in a context where more than 
+
+half of the population is affected by undernutrition (2016, FAO); around a third of the production is 
+being used for subsistence
+
+3
+, while the rest of productions is sold generating much needed income. 
+
+ 
+3. Climate change is significantly impacting agriculture and will increasingly do so in the future. 
+
+Climate change is projected to manifest itself in Haiti the following ways:  a) increases in 
+
+temperatures: it is likely that temperatures will increase by 0.8-1°C by the year 2030 and by 1.5-
+
+1.7°C by the year 2060, with the highest increases expected in the months of June or July; b) 
+decreases in precipitation: precipitation is expected to decrease by 5.9-20 percent by 2030 and by 
+10.6-35.8 percent by 2060, with the greatest decreases also expected in the months of June or July
+
+4
+. 
+
+This will affect agriculture in general, and subsistence agriculture in particular, which is primarily 
+rain-fed and therefore highly vulnerable to rainfall patterns. A combination of increasing 
+temperatures and decreasing precipitation, especially in June and July, is likely to impose 
+particularly severe stresses on agricultural systems, especially given the highly-degraded nature of 
+soils and vegetation in the target sub-watersheds.  
+
+ 
+4. Haiti’s population and territory are extremely vulnerable to natural disasters and exposure is 
+
+expected to increase as climate change impact intensifies. Haiti has the highest index of 
+vulnerability to hurricanes (12,9 on a scale of 13) among small Low Income Countries (LIC) Island 
+States and is the third country hardest hit by climatic events in the world
+
+5
+. Ninety-six (96) percent of 
+
+the population is considered at risk. Climate change predictions for 2050 and beyond suggest that 
+more than 50 percent of the total area of Haiti will be in danger of desertification largely due to 
+climate variability and change. Extreme weather events, according to the Intergovernmental Panel 
+on Climate Change (IPCC)
+
+6
+, indicate that the Caribbean region is likely to be exposed in the future to 
+
+more intense and frequent extreme weather events. On average, each disaster costs two percent of 
+GDP per year, and occasionally much more (in 2008, tropical storms’ economic impact reached 15 
+percent of GDP), and significantly affects the agriculture sector
+
+7
+. The country is highly mountainous 
+
+with more than half of Haiti’s territory having slopes over 20 degrees, that centuries of 
+deforestation have rendered particularly vulnerable to climatic events. Exposed agricultural fields 
+which are now commonly exploited on slopes
+
+8
+ further exacerbates the issues. Deforestation, and 
+
+inappropriate agricultural practices have produced predictable interlinked environmental and social 
+consequences: the loss of topsoil, decreasing soil fertility, rain water run-off and depletion of 
+aquifers, droughts, agricultural productive capacity decline, farmers’ losses of incomes and rural 
+out-migration. In a context of climate change, extreme weather events and their average intensity 
+and frequency are expected to increase, and will further accelerate land and population 
+
+                                                           
+2
+ Undernutrition concerns more than half of the population (FAO)  
+
+3
+ Traditionally, rural Haitians take advantage of seasonal, nutrient rich productions, to complement their diet (fruits, vegetables, 
+
+legumes, small livestock), yet this diversity is at risk due to the deterioration of natural resources that decreases the availability 
+of many of these sources of supplementation. 
+4
+ http://unfccc.int/resource/docs/natc/presentations/haitipres.pdf   
+
+5
+ Global index on Climate Change, 2016 : from 1993 to 2012 the country faced 2 droughts, 1 earthquake, 31 floodings and 26 
+
+tropical storms/hurricanes. 
+6
+ https://www.ipcc.ch/report/ar5/wg2/   
+
+7
+ In the case of tropical storms, almost 50 % of damages and losses in productive sectors have been concentrated in the 
+
+agriculture sector (PDNA, Feb 2017)  
+8
+ 63% of agricultural land is on more than 20 degrees’ slopes, and 40% of cultivated land in mountains is on slope of more than 
+
+50 degrees. 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 5 of 33  
+
+ 
+
+vulnerability trend
+9
+ : identified climate related hazards in Haiti include flash flooding, salt water 
+
+intrusion, drought, intense rainfall, landslides, severe soil erosion, and hurricanes
+10
+
+.  
+ 
+
+5. Addressing intertwined human and ecological vulnerabilities requires a holistic landscape-level 
+“productive” approach. The above-mentioned context provides a rationale for integrating a 
+landscape approach within watersheds (or sub-watershed) in Haiti to address major soil erosion and 
+water retention capacity, prioritizing interventions helping to reduce downstream impacts. 
+Improving the natural resource base through the promotion of climate-smart productions and 
+practices best adapted to the agro-ecological context
+
+11
+, and, as importantly, the capacity to 
+
+generate sustainable incomes out of these, is expected to have a significant positive impact on 
+agriculture and the many people who derive their livelihoods and income from, together with the 
+provision of nutritious food, and jobs. It will also contribute to protect in a sustainable way 
+communities at large against the risks of flash flooding and landslides linked to soil erosion and 
+water runoff.  
+
+ 
+Sectoral and Institutional Context 
+
+ 
+6. Agriculture in Haiti is beset with problems, despite its importance in local food security and 
+
+contribution to GDP. Production is highly dependent on rainfall, with around five percent of farmers 
+using irrigation. Most farmers have poor access to tools, machinery, and purchased inputs including 
+improved seeds and fertilizer. Access to credit in rural areas is not a viable option either for poor 
+farmers. In addition, there is little organization among producers and underdeveloped value chains, 
+further compounded by a lack of rural infrastructure to access markets e.g. rural roads for 
+connectivity with buyers, water storage and irrigation for production in dryer seasons and mitigation 
+of drought impacts, food dryers and storage for reduction of vulnerability to prices volatility, 
+reduction of post-harvest losses, , improved quality for better marketability as well as accessibility of 
+nutritious food all year long. The lack of value addition along value chains, reliability and 
+sustainability of sources of incomes for farmers generated from tree-crops and other types of 
+resilient agricultural productions constitutes a major impediment to the maintenance and 
+sustainable expansion of such systems. This also drives their choices towards higher demanded/less 
+perishable productions, often at the expense of the environment (e.g. peanuts production on 
+slopes, trees cutting for land expansion and/or cash generation with fire wood or charcoal 
+production and sales), contributing to the vicious circle of land degradation and increasing 
+population vulnerability. In addition, women play a major role in the post-harvest marketing of 
+products in Haiti, and the improvement of these value chains is a critical factor for women’s 
+economic empowerment, livelihoods and resilience, which offers opportunities for vulnerable 
+population- such as women and youth- to increase rural income and jobs diversification.   
+ 
+
+7. In a country that is already densely populated, steady population growth and land inheritance 
+
+                                                           
+9
+ Based on available projections, major climatic changes expected to occur in Haiti include a reduction in rainfall of 6 to 20 
+
+percent by 2030 and 11 to 36 percent by 2060. While annual precipitation is projected to decrease, the more limited rainfall 
+events are expected to become more intense. Temperatures are also expected to increase by 0.8°C to 1.0°C by 2030, and by 
+1.5°C to 1.7°C by 2060.  
+10
+
+ Source: Review of Current and Planned Adaptation Action: The Caribbean (Nov, 2011) 
+11
+
+ These would seek to improve the stability and quality of the soil substrate through measures such as agroforestry, live fences, 
+hedgerows intercropping, vegetative wind breaks, soil vegetative cover, conservation tillage, among others. 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 6 of 33  
+
+ 
+
+rules
+12
+
+ continues to put pressure on land, and drives land use changes. Haiti has 961 inhabitants 
+per square kilometer of arable land, the highest pressure density on arable land in the Western 
+Hemisphere. Farm sizes have shrunk dramatically over time: 85 percent of farms now have less than 
+1 hectare. The main food crops produced are rice (in lowlands), maize, bananas, yams, cassava, 
+beans, and millet, and main export crops include coffee and mangoes. Diversification has commonly 
+been practiced by farmers as a risk-mitigation strategy (70 percent of farmers produce more than 4 
+crops and 75 percent raise some livestock) but is becoming harder to implement in increasingly 
+smaller plots. In addition, the traditional practice of creole garden (or “jardin creole”
+
+13
+) 
+
+corresponding to small but highly diversified agro-forestry systems, providing fresh and nutritious 
+food throughout most of the year among other benefits (high biodiversity, higher productivity linked 
+to species associations, soil protection and quality), have tended to decrease to give way to annual 
+crops. Yet these resilient systems are particularly adapted to face harsh topographic and climatic 
+conditions and are now recognized as a typical climate-smart/agro-ecological best practices. 
+Restoring these agro-forestry systems is however not affordable for the vast majority of farmers.   
+     
+
+8. The natural resource base and agriculture are linked by a negative feedback loop. Unsustainable 
+farming practices such as agriculture on slopes and marginal areas, lack of agriculture conservation 
+technologies, are driven by land pressure, low farmers’ education level, and poor farmers’ economic 
+conditions. These have contributed to the severe degradation of around 85 percent of watersheds
+
+14
+ 
+
+with wide ranging impacts, namely on (i) yields -the depletion of the natural resource base and high 
+exposure and vulnerability to extreme weather events have driven an average rate of decline in 
+yields of between .5 to 1.2 percent per annum (World Bank, 2005). Stagnating or shrinking yields in 
+turn further exacerbate land pressure, causing more degradation and deforestation; and (ii) on 
+critical habitats such as mangroves
+
+15
+ -run off from denuded slopes and gullies leading to soil washed 
+
+away and settling into valleys, rivers and eventually into the sea. Soil erosion caused by water, either 
+as direct rainfall on the soil surface, or indirectly through gullies and channels, causes an annual loss 
+of land for the whole country estimated at about 37 million metric tons (MT). This corresponds to an 
+average loss of about 15 MT/ha/yr across the country. Without trees’ complex root systems to hold 
+Haiti’s mountainous terrain in place, protect gullies from serious erosion and prevent water 
+resources depletion, vulnerability of landscapes and people living on them is doomed to increase. 
+Reducing poverty and building system resilience will require an integrated management approach 
+that considers the complex interactions between the environment and agriculture and turns the 
+negative- into a positive feedback loop.  Climate change is expected to increase these negative 
+feedback loops. 
+ 
+
+9. The unique challenge to building resilience in the Haitian Agriculture sector arises from the 
+combination of climate change adding further stress to a system already engaged in a negative 
+feedback loop between the agriculture production and the natural resource base.  As described 
+above, the depleting natural resource base and lack of landscape level management increase the 
+sensitivity of agricultural production and ecosystems to weather and climate events. Climate change 
+
+                                                           
+12
+
+ All land is inherited bilaterally and equally between siblings, with arable land being usually divided immediately. 
+13
+
+ A Creole garden is a multi-storied agro-forestry system including a mix of perennial and annual crops, i.e. woody perennials, 
+tree crops (i.e. bread fruit, mango, avocado, bananas, citrus, coffee), vegetable and staple crops, playing multiple roles, 
+including household’s food security and providing ecosystems benefits 
+14
+
+ According to Ministry of Agriculture, Natural Resources, and Rural Development (MARNDR), 2016  
+15
+
+ Mangroves are essential for maintaining fish nursing sites, protecting coasts against storms, and lowland crops from soil 
+salinization (e.g. rice production) which are ultimately important for livelihoods 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 7 of 33  
+
+ 
+
+is expected to further amplify the exposure to such events. With both sensitivity and exposure set to 
+increase, vulnerability will follow suit. The weather and climate events that today’s depleted natural 
+resource base offers much reduced protection against are congruent with priority issues for 
+resilience building in the climate change context: extreme events, drought, extreme rainfall events, 
+etc. In each of these cases, the health of the natural resource base is a key determinant of farmer 
+resilience. For example, the risk of drought is much reduced if the moisture retention capacity of 
+soils is rehabilitated, micro-catchment areas include water storage facilities and water is being 
+retained for longer periods in upstream forests. As a result, any effort to build resilience to climate 
+change in Agriculture will need to take an integrated approach taking into account both sensitivity 
+due to a diminished natural resource base and exposure due to climate change. 
+
+ 
+Institutional context 
+ 
+10. Ministry of Environment (MdE) and Ministry of Agriculture Natural Resources and Rural 
+
+Development (MARNDR) recognize the interdependency between Natural Resources 
+Management and Agriculture Production as well as the added stress imposed by climate change. 
+In its policy framework 2010-2025, MARNDR identifies watersheds degradation as a major issue, and 
+establishes the reduction of environmental vulnerability as a long-term objective requiring the 
+protection of environment and natural resources. It also establishes the prevention and 
+management of natural disasters as a priority
+
+16
+. In 2006, the Government submitted their National 
+
+Adaptation Program of Action (NAPA, 2006) (Plan d’ Action National d’ Adaptation - PANA).  In this 
+document, the Government lays out their most urgent risks from climate change and propose a way 
+forward.  One of the key risks outlined is that of soil erosion
+
+17
+ and its relationship with the 
+
+agriculture sector vulnerability. In a recent update of the National Action Plan against Desertification 
+(2015), MdE establishes as one objective the collaborative development of management plans for 
+the most vulnerable watersheds in the country. However, the operationalization of the Plans has yet 
+to unfold. The need for stronger cross-sectoral collaboration is mutually recognized, but little 
+concrete actions have taken place in a context of institutional weaknesses, absence of joint planning 
+and insufficient budget to operationalize actions plans.  
+
+ 
+11. In response to the country’s vulnerability to current climate variability and to climate change, there 
+
+is a baseline of investments in this area: 
+
+ World Bank (WB) financed Strengthening Hydro-Meteorological Services project (2015-2020, 
+US$ 5 million), which aims to strengthen Haiti’s institutional capacity to provide hydro-
+meteorological and climate information services customized to the needs of the civil protection 
+and agriculture sectors, contributing to increasing disaster and climate resilience. The main 
+counterpart agency is the Ministry of Agriculture, Natural Resources and Rural Development 
+
+                                                           
+16
+
+ The MARNDR Triennial Plan for Relaunching Agriculture 2013-2016 also identifies as a strategic pillar the watershed 
+integrated approach (ridge to reef). 
+17
+
+ “Haiti is a mountainous country whose peaks reach up to 2684 meters over altitude. Poor farming practices weaken the soil 
+capital and weaken the productive capacity as they lead the arable land towards the sea Land erosion, under the effects of 
+some natural factors. Drought, wind, rain and some anthropogenic factors: excessive deforestation and uncontrolled 
+construction in urban areas leads to a country's land desertification processes. The vulnerability of the agricultural sector is 
+closely linked to that of water and soil.  Climate change by acting on water resources also influence agricultural production. On 
+the other hand, winds, floods, droughts have direct impacts on agriculture given the level of soil erosion leading to their 
+aridity. In addition, a study conducted by the MOE (2000) argues that early in the second half of the 21st century, more than 
+half of the area of land of Haiti will be at desertification risk due to climatic conditions.” 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 8 of 33  
+
+ 
+
+(MARNDR). 
+
+ WB financed Relaunching Agriculture: Strengthening Agriculture Public Services Project Phase II - 
+RESEPAG II  (2012-2019, US$ 85 million) which aims to  (a) reinforce the capacity of the Ministry 
+of Agriculture, Natural Resources and Rural Development to provide or facilitate access to 
+services in the agricultural sector; (b) increase market access to small producers and food 
+security in Selected Areas; (c) improve livelihood in areas affected by Hurricane Matthew; and 
+(d) enable the Government to respond promptly and effectively to an eligible emergency. The 
+project finances interventions in the North/North East, Centre, and South departments. It 
+supports in particular a Farmer Subsidy scheme using various technical packages and 
+implemented through individual vouchers to improve the adoption of improved agriculture 
+inputs/technologies (with a particular emphasis on climate resilient production and practices) ; 
+finances Farmer Field Schools as a vehicle to promote best practices (extension services 
+mechanism) ; and a Market Support Facility, using matching grants to allow group of producers 
+to add value to their productions (value chain development).  
+
+ Inter-American Development Bank (IDB) financed Natural Disaster Mitigation Program II (2016-
+2020, US$ 42 million), which aims to reduce rural economic losses through the improvement of 
+climate risk management in selected watersheds. Some specific objectives include to: (i) 
+increase capacities for adaptation to climate change and disaster risk management (DRM) in the 
+agriculture sector; (ii) improve water and sediment conservation in selected gullies of priority 
+watersheds; and (iii) reduce the risk of rural economic losses due to floods in targeted 
+watersheds. 
+
+ United States Agency for International Development (USAID) Reforestation Project (2017-2021, 
+US$ 40 million), which aim is to reduce the threat of deforestation, improve resilience to 
+economic and natural shocks, increase tree cover in targeted areas, and improve environmental 
+governance and coordination. It will be implemented in northern departments. 
+
+ International Fund for Agricultural Development (IFAD) financed Projet Small Irrigation and 
+Market Access Development Project in the Nippes and Goavienne Region (PPI-3) (2012-2017, 
+US$ 13.2 million), which aims to achieve a sustainable improvement in the livelihoods 
+and incomes of rural poor households, especially those belonging to the most vulnerable 
+groups. Its specific objectives include: (i) increasing agricultural production sustainably through 
+efficient water management and the consolidation of both collective and individual irrigated 
+agriculture; (ii) improving the value of irrigated agriculture production and increasing farmers' 
+access to markets and financial services in order to raise the incomes of the poorest families; 
+and (iii) strengthening the planning, organizational and management capacities of grass-roots 
+organizations in order to facilitate their access to markets and financial services. 
+
+ Food and Agriculture Organization (FAO) implemented with LDCF co-financing of the 
+Strengthening Climate Resilience and Reducing Disaster Risk in Agriculture to Improve Food 
+Security in Haiti Post Earthquake project (2012-2017, US$ 12 million), which aims to increase the 
+resilience of vulnerable farmers including their livelihoods and agro-ecosystems against the 
+impacts of climate variability and in the post-earthquake crises through integration of disaster 
+risk management and adaptation practices in the agricultural sector and replication of more 
+hazard resilient crop varieties and cultivation technologies. 
+
+ UNEP implemented with GEF co-financing Program Ecosystem approach on the South Coast of 
+Haiti (2015-2020, US$ 6.2 million), aims to strengthen the resilience of ecosystems in 
+communities vulnerable to the impacts of climate change. This program advocates an integrated 
+strategy encompassing all ecosystems and agricultural production areas from the mountains to 
+
+https://www2.fundsforngos.org/category/democracy-and-good-governance/
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 9 of 33  
+
+ 
+
+the sea. The various components of the project will also try to address the whole issue of the 
+destruction of the ecosystems of the Great South in a perspective of recovery and the fight 
+against poverty. 
+
+ French Development Agency (AFD) and European Union co-financed Project for Food Security 
+(SECAL) (2013-2017, 15 million euros), which objective is to support agricultural sectors with 
+high potential in southern Haiti, contribute to improving the food security of people in the South 
+Department and generate additional revenue in the rural areas.  
+
+ 
+12. Collaborative efforts are underway to boost the implementation of watershed approaches to 
+
+strengthen the management of natural resources (wood, water, soil). In the context of the COP21 
+process and resulting Paris Agreement, and in order to relieve the agriculture and population 
+pressure on forests and landscapes, as well as adapt to the effects of climate change, a Haiti-based 
+NGO, the J/P Haitian Relief Organization (J/P HRO), together with MdE and MARNDR, developed in 
+2015 a proposal for a broad initiative – Haiti Takes Roots (HTR) – focused on watershed 
+management and reforestation in key areas of Haiti
+
+18
+. Its objective is to facilitate engagement, 
+
+coordination, learning, monitoring and synergies in a programmatic approach. This platform would 
+be a conduit to operationalize Ministries’ plans, helping to bring key actors together around the 
+issue, and establish long term strategies and mechanisms to sustain and implement its objectives. 
+Supported by seed funding from J/P HRO and the French government, HTR has shaped its 
+governance mechanisms
+
+19
+. The IDB and the WB participate in this initiative and more partners are 
+
+expected to join. Two studies have been financed under the HTR umbrella by the WB together with 
+J/P HRO to develop a participatory watershed management planning methodology and a post-
+hurricane Charcoal and Arboreal Assessments
+
+20
+, contributing to the development of a body of 
+
+knowledge and resources. The proposed Resilient Productive Landscapes Project (RPLP) is envisaged 
+as a proof of concept under HTR aimed at being scaled-up in other (sub)watersheds of the country. 
+For this reason, and in order to also benefit from the WB project management experience, J/P HRO 
+has committed to provide a parallel financing of US$5 million to RPLP, which will be fully blended 
+with IDA and the Global Environment Facility/Least Developed Countries Fund (GEF/LDCF) co-
+financing. In this context, LDCF will leverage IDA and parallel financing resources to more 
+systematically integrate the climate adaptation lens into productive-oriented interventions.  
+ 
+
+13. RPLP builds on solid analytical work, as well as the lessons learned from other Global Environment 
+Facility (GEF) funded and donor-funded project, including the World Bank’s own projects. Key 
+lessons learned emphasize in particular the need for collaborative efforts including strong 
+communities’ participatory engagement throughout a project process and continuous institutional 
+commitment and support, as well as the necessary generation of revenues for farmers out of the 
+supported investments. Since the 2010 Earthquake, the WB’s portfolio in Agriculture expanded with 
+RESEPAG I and RESEPAG II,
+
+21
+ supporting MARNDR’s capacity to deliver public goods and piloting 
+
+                                                           
+18
+
+ The mission of HTR is to contribute to a more rational management of Haiti’s natural, renewable through the management of 
+watersheds, the restoration of soils, increasing forest cover, and the promotion of agroforestry – most notably in vulnerable 
+watersheds – therefore breaking the vicious cycle of poverty and deforestation. 
+19
+
+ HTR shall be governed by a Steering committee chaired by the Prime Minister and supported by a Secretariat, a technical 
+platform, a Monitoring and Evaluation Committee, a Geographical Platform, and a virtual Resource Centre; it will include 
+members from concerned ministries, institutional partners, international organizations, civil society and private sector. 
+20
+
+  PROFOR-funded works to develop (i) a Resilient Productive Landscape Planning Methodology (P162352), and (ii) Haiti 
+Arboreal Assessments - post- hurricane tree counting and charcoal assessment (P164024). 
+21
+
+ Relaunching Agriculture: Strengthening Agriculture Public Services Project – Phase II (P126744) is ongoing and will close on 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 10 of 33  
+
+ 
+
+incentives schemes to support farmers’ improved productions through vouchers mechanisms and 
+the strengthening of agricultural value chains through matching grants. RPLP would take advantage 
+of the experience gained and use the same approaches, adjusted to the specificities of RPLP. On the 
+environment side, the GEF co-funded several projects in Haiti and in the Caribbean, that focused on 
+increasing the resilience of agriculture and ecosystems, and boosting food security through climate 
+change adaptation. Several of these projects have also focused specifically on the Grand Sud 
+(greater south area), given its increased vulnerability to climate shocks. While many of these 
+projects were financially supported for the duration of the project, there was little effort to ensure 
+that this financing was sustainable.     
+ 
+
+14. In the context of Climate Change, sustainable financing over time is an important tool to address 
+environmental and social vulnerability, and to support Climate adaptation and mitigate Climate 
+Change impact. Ministries and other institutions in Haiti face significant financial resources 
+constraints. Sustainability of short term programs have consistently been challenging. To address a 
+similar problem faced by five other Caribbean islands, a GEF financed project, Sustainable financing 
+and management of Eastern Caribbean Marine Ecosystem Project (P103470) (closed June 2016), set 
+up and endowed a Caribbean Biodiversity Fund (CBF) mechanism to ensure sustainable financing 
+over time to combat threats to biodiversity that arise through human, climate or other sources. 
+Under the proposed Project, Haiti, which is an observer and has taken steps to become a full 
+member of the CBF, would use LDCF financing (and co-financing from other donors) to join the CBF 
+by contributing to the endowment, and establish a National Trust, which will enable Haiti to access 
+long term sustainable financing for climate adaptation and biodiversity conservation into perpetuity. 
+While the CBF has for various reasons retained this name, it will create a climate change adaptation 
+window under RPLP to address climate change adaptation priority needs. This National Trust shall 
+use the interests raised by the CBF from the LDCF funding to continue to fund sub-projects that 
+would support primarily the sustainability of interventions financed under RPLP, and other future 
+climate change adaptation related investments. The interest raised, however, will be off the total 
+amount in the CBF (over US$34 million currently) to allow all the CBF countries to benefit from 
+economies of scale. This longer-term source of predictable financing will mean that when a disaster 
+strikes Haiti, the current practice of diverting government funding to address that crisis will not 
+impact this fund. As such it presents a key long term stabilizing mechanism for addressing 
+adaptation. 
+ 
+
+15. The Project is consistent with the climate change action plan submitted to the UN Framework 
+Convention on Climate Change (UNFCCC), in the context of the Paris meetings in 2015 (Intended 
+Nationally Determined Contribution – INDC)
+
+22
+. The Action Plan specifically names natural resource 
+
+management within watersheds, use of agricultural technologies adapted to climate change, use of 
+drought-resistant crops, soil conservation, reducing disaster risk in areas most vulnerable to 
+drought, reforestation of upstream areas, as priorities for adaptation within the plan.  
+ 
+
+16. It responds directly to strategic objectives laid out in the GEF Programming Strategy on 
+Adaptation to Climate Change: Least Developed Countries Fund Special Climate Change Fund 
+(June 11, 2014) and Haiti’s National Adaptation Program of Action (NAPA, 2006) by helping the 
+country reduce its vulnerability to soil erosion, which are exacerbated through increasing volatile 
+
+                                                                                                                                                                                           
+December 31, 2019. 
+22
+
+ http://www4.unfccc.int/submissions/INDC/Published%20Documents/Haiti/1/CPDN_Republique%20d'Haiti.pdf 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 11 of 33  
+
+ 
+
+climatic events (floods, cyclones, hurricanes) and human (agriculture) activity. The project will 
+contribute to the LDCF strategy Objective 1 (Reduce the vulnerability of people, livelihoods, physical 
+assets and natural systems to the adverse effects of climate change); Objective 2 (Strengthen 
+institutional and technical capacities for effective climate change adaptation) ; and  Objective 3 
+(Integrate climate change adaptation into relevant policies, plans and associated processes)
+
+23
+. The 
+
+Project, using LDCF funds jointly with IDA financing and J/P HRO parallel financing, will (i) contribute 
+towards building an increased awareness of climate change impacts, vulnerability and adaption, and 
+directly reducing the vulnerability of farmers to climate change through investment in more resilient 
+agricultural practices. These will occur in (sub)watersheds areas by financing climate-smart 
+agricultural production practices (agroforestry, conservation agriculture, slope management, etc.) ; 
+the project will also finance improvement of the product value chains to generate higher and more 
+sustainable income, and reinforcement of climate resilient infrastructure assets ; (ii) support the 
+enabling environment by strengthening institutional capacities to develop and implement sound 
+cross-sectoral policies and action plans integrating climate change adaptation considerations in 
+national and local level strategies ; access to and analyze geo-spatial and other climate related data 
+to better address climate risks and inform decision processes ; and support a mechanism aimed at 
+sustaining long term financing of adaptation technologies and practices; and (iii) it will provide 
+extensive trainings programs to increase skills and knowledge tailored to the key stakeholders and 
+audiences. RPLP will support the achievement of objectives set forth under the NAPA, which served 
+as the basis for the plan submitted to the UNFCCC in 2015. The document weighted adaptation 
+options based on their impact on vulnerable natural resources and groups, and ranked “watershed 
+management and soil conservation” at the top (5 on a 1 to 5 scale).    
+ 
+
+17. RPLP is consistent with the World Bank Group’s Haiti Country Partnerships Framework (CPF) 2016-
+2019. Objective 1 of the CPF aims to enhance economic activities and income-generation 
+opportunities, including in the agricultural sector through improving agricultural productivity by 
+reinforcing the ability of farmer’s groups to bring quality products to market. RPLP will support value 
+chains to access to new and better markets and reduce production risks while decreasing 
+vulnerability to the effects of prices and climate shocks. The CPF’s Objective 2 targets improving 
+disaster prevention and strengthening climate resilience through a number of avenues, including the 
+analysis of land management practices and definition of entry points for investment in the 
+promotion of resilient productive landscapes. RPLP will directly tackle the issue of improving disaster 
+prevention, reducing the vulnerability to the adverse impacts of climate change, increase adaptive 
+capacity to respond to the impacts of climate change, and strengthening climate resilience. It will 
+target four sub-watersheds within hydrological zones hard-hit by Hurricane Matthew in the 
+Department of Nippes, and help mitigate the impact of future extreme weather events.   
+
+ 
+18. RPLP will work closely and coordinate actions with other development partners, especially 
+
+through the HTR platform.  Given the challenges with fragmented donor contributions to all sectors 
+in Haiti as identified by the CPF, the HTR platform will be important for the sector to bring all 
+partners around critical development themes, and coordinate efforts for broader impact. In addition 
+to ongoing projects mentioned above (see point 11) new projects with similar objectives are under 
+development that RPLP will coordinate with. These include projects to be financed through IDB, 
+AFD, and IFAD.  
+
+                                                           
+23
+
+ Updated Results-Based Management Framework For Adaptation To Climate Change Under The Least Developed Countries 
+Fund And The Special Climate Change Fund”, GEF/LDCF.SCCF.17/05/Rev.01 October 15, 2014 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 12 of 33  
+
+ 
+
+ 
+ 
+C. Proposed Development Objective(s)  
+ 
+Development Objective(s) (From PAD)  
+ 
+
+19. The Project Development Objectives are: (i) to improve the adoption of resilience-enhancing 
+agricultural and landscape management practices in selected sub-watersheds; and (ii) to enable the 
+Government to respond promptly and effectively to an eligible emergency. 
+
+ 
+20. The crisis or emergency referred to in the PDO reflects a legal requirement that relates to the 
+
+Contingency Emergency Response Component (component 4 of the Project).  
+ 
+
+21. Selected areas for intervention. While Component 1 addressing institutional and organizational 
+capacity would have a nationwide coverage, Component 2 would be implemented in selected sub-
+watershed. In the process of selection of these sub-watersheds, specific aspects were considered: (i) 
+Agro-ecological criteria; (ii) Socio-economic criteria; (iii) Environmental vulnerability criteria; and (iv) 
+Institutional criteria. Using a ranking scale of 1 to 5 for each of these criteria to prioritize areas, and 
+based on available funding from the Project, four sub-watersheds were selected. These are:  (i) Rivière 
+Froide watershed; (ii) Petite Rivière de Nippes watershed; (iii) Piémont area and Baconnois Plain; and 
+(iv) Bondeau sub-wastershed and its mangrove. They offer a diversity of agro-ecological conditions, 
+yet geographically close, within the department of Nippes, under two municipalities.  
+
+ 
+22. In the context of RPLP, resilience is defined as the ability of people, assets, and systems to resist, 
+
+absorb, accommodate, and recover in a timely and efficient manner from climatic hazards without 
+undermining its welfare, value, structure, and functioning, while also maintaining the capacity for 
+adaptation, learning, and transformation in the long term. Resilient-enhancing agriculture and 
+landscape management practices correspond to the group of technologies, practices and systemic 
+approaches under the climate smart agriculture and landscapes framework of the Global Alliance for 
+Climate Smart Agriculture. In the context of the RPLP, these include interlinked actions at diverse 
+levels: at farm level; along food value chains; and, at landscape level.  
+
+ 
+23. Landscape is defined as “an area large enough to produce vital ecosystem services, but small enough 
+
+to be managed by the people using the land which produces those services” (FAO 2013). A landscape 
+can contain various ecosystems, and human activities and institutions are viewed as an integral part of 
+landscapes. Ecosystems services include soil health, essential for sustainable and productive 
+agriculture; water retention; biodiversity conservation; carbon sequestration; renewable energy 
+sources; among others. 
+
+ 
+
+Project Beneficiaries 
+ 
+24. Primary beneficiaries of RPLP will be smallholder farmers and communities living in the selected sub-
+
+watersheds targeted by the Project that depend on agricultural production for their livelihoods. In a 
+context of high poverty prevalence, extensive land use for agricultural production including on steep 
+slopes including gullies, very small size plots, degraded or at risk for degradation, all farmers and 
+communities can be considered vulnerable. They will benefit individually from improved agricultural 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 13 of 33  
+
+ 
+
+production practices adapted to the agro-ecological context, improving soil conditions and becoming 
+more resilient to extreme weather events, as well as from improved marketing conditions; and 
+collectively from reduced soil erosion, improved water retention capacity, enhanced field level 
+productivity linked to ecosystems services generated collectively and synergies created between 
+differed production systems at the watershed level. 
+
+ 
+25. Interventions will also benefit key actors along the agriculture value chains, including service and input 
+
+providers, buyers, processors, and retailers. Lastly, it will benefit the national, regional and local 
+institutions in providing with essential tools, knowledge, and management capacity of landscape level 
+interventions. Direct beneficiaries would include: (i) producers who have benefited from the voucher 
+mechanism (3,000 of which minimum 30% are female); (ii) Service Providers (100 of which minimum 
+10% are female); (iii) members of producers’ groups that benefit from co-financing in selected value 
+chains (800 of which minimum 50% are female); and, (iv) persons trained in Ministries and local / 
+regional authorities (100). The total percentage of women is estimated on the basis of a weighted 
+average.  In order to strengthen the role of women, they will receive preferential support to benefit 
+from the Project’s interventions.  
+
+ 
+26. Private sector. Investments of RPLP look at poor to extremely poor segments of the population. 
+
+Access to rural credit is not an option for an already vulnerable population. In addition, changing 
+practices, even if expected to provide longer term gains and reduction of vulnerability, involves an 
+important level of risk in a context of frequent natural disasters, occurrence of pests, and markets 
+uncertainties. No insurance mechanism exists either to cover for such types of high frequency, high 
+impact types of risks. RPLP would therefore provide technical packages to producers (including 
+knowledge/services and inputs on a one-off basis) required for them to move towards a less 
+vulnerable category, and doing so in a concentrated manner in a determined area to produce the 
+expected broader ecosystems benefits. The Project would strengthen the private sector actors related 
+to agricultural production valorization, critical to develop economically viable and sustainable 
+businesses as well as job opportunities; the voucher mechanism involves systematically private sector 
+beneficiaries, which supply such inputs and services at market price. Matching grants for groups of 
+producers or other actors along the value chains will also aim at filling access to finance gaps to 
+increase agricultural production valorization. The Project will also work with the Ministries to 
+strengthen their capacity to deliver on their public good mandates, and establish the enabling 
+environment for supporting resilient landscapes management. 
+ 
+
+27. Gender and Nutrition. RPLP acknowledges that women and men are not given the same opportunities 
+towards climate adaption and raising of incomes. Women face supplementary constraints -such as less 
+access to information, to assets, to credit, to inputs- that have to be taken into account. 
+Mainstreaming gender and nutrition into the different investments and monitoring and evaluation 
+(M&E) mechanisms will ensure that the Project will contribute to reduce gender gaps when building 
+resilience and contribute toward improving food security. The Project will build on experience and 
+knowledge developed through RESEPAG II Project, which will be facilitated by the fact that RPLP core 
+actions to support climate smart practices adoption and value chains improvement will use similar 
+instruments as RESEPAG II. Namely the design of selection mechanisms of beneficiaries and co-
+financing rules for matching grants, the tailoring of participatory and training activities, including 
+related to nutrition, and gender-disaggregated data collection in M&E and grievances, will be 
+embedded into RPLP. In order to  address any possible outstanding  gender gaps in the areas of 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 14 of 33  
+
+ 
+
+interventions,  further  analysis and gender planning will be conducted prior to Project 
+implementation by the RESEPAG II gender specialist.   
+ 
+
+28. Food Security co-benefits. Food insecurity is an important problem in Haiti particularly in rural areas 
+that the Project will tackle at different levels. First, the promotion of activities contributing to the 
+restoration of degraded areas and improvement of current practices in the different watersheds will 
+have a positive impact on overall agricultural productivity as well as on the production of food of high 
+nutritional value (mostly fruits and vegetables). Second, the Project will contribute to improve food 
+security through the promotion of crop quality and diversity induced with agroforestry investments, 
+named traditionally “jardins creoles” in Haiti.  The project expects to promote several types of fruit 
+trees, such as breadfruit, coconut, mango, guava, banana, citrus, as well as vegetables and yam. In 
+addition, the combination of such investments combined with small infrastructure and support to 
+commercialization (through groups of producers, intermediaries, or small enterprises) within the 
+entire value chain will therefore contribute to their greater accessibility, availability and thus 
+affordability of food, creating more resilience of households toward food insecurity. Investments 
+could be related not only to private but also institutional markets. The government has already been 
+discussing with school feeding program in the area of intervention. Such intervention would seek to 
+help increase the accessibility of nutritious local food to Haitian students and guarantee a stable 
+market access to institutional markets for producers and groups. 
+ 
+
+29. Climate change adaptation co-benefits. RPLP activities are expected to yield significant adaptation co-
+benefits (as well as mitigation co-benefits described below). An initial assessment at concept note 
+stage indicated that >80 percent of RPLP financing would achieve climate co-benefits. The below table 
+summarizes expected adaptation co-benefits: 
+ 
+Table1 Climate change adaptation co-benefits  
+ 
+
+Current situation Project interventions (selection) Adaptation co-benefits 
+
+Increasing vulnerability to climate 
+change driven by: 
+- Increased exposure to climate 
+
+change impacts such as: droughts, 
+extreme heat, flash floods etc. 
+
+- Increasing sensitivity of production 
+to climatic phenomena due to 
+reduced resilience driven by a 
+degrading natural resource base 
+
+- Increased sensitivity due to a lack of 
+adaptive planning capacity at the 
+micro-catchment level 
+
+- Increased sensitivity due to lack of 
+cross-sectoral adaptive institutional 
+capacity to take informed decisions, 
+guide, report, and monitor 
+interventions on the ground in 
+function of a changing climate 
+
+Capacity building: 
+- Development of Master Plan for 
+
+Resilient Landscapes Development 
+- Intensive technical trainings within key 
+
+line Ministries, at national and local 
+level and other relevant stakeholders 
+
+- Capacity building in cartography, 
+satellite imaging data collection and 
+analysis for climate modeling, , 
+development and application of spatial 
+decision support tools, forecasting and 
+early-warning systems 
+ 
+
+Investments: 
+- Development of “technical packages” 
+
+(including inputs, such as tree 
+seedlings, seeds, stakes, fences; and 
+services, such as grafting, and technical 
+assistance)” adapted to specific agro-
+ecological zones 
+
+- Development of participatory 
+investments plans identifying priority 
+investments and their geographical 
+
+Strengthening of resilience through 
+fortification of natural resource 
+base at landscape level: 
+
+- Soil quality improvement in 
+areas with high risks of erosion 
+
+- Increased water retention 
+capacity 
+
+ 
+Reduced sensitivity of agricultural 
+production & livelihoods to climate 
+impacts: 
+
+- Increased coverage of resilient 
+agricultural practices, adapted 
+to the topography and agro-
+ecological context 
+
+- Improved adaptation capacity 
+of agricultural production 
+through increased 
+diversification of productions 
+practices to increase resilience 
+
+- Improved livelihoods with 
+additional and more diversified 
+incomes 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 15 of 33  
+
+ 
+
+locations;  
+- Development of participatory business 
+
+plans based on specific vulnerability 
+criteria (including ecosystems and 
+livelihoods) to allow the 
+implementation of climate smart 
+productions and practices ; and  
+
+- Set-up of Farmer-Field-Schools (FFS) for 
+producers focusing on transferring 
+knowledge and know-how on Climate 
+resilient production systems and 
+practices. 
+
+ 
+Improved adaptive capacity: 
+
+- Improved capacity for planning, 
+implementing, monitoring, 
+watershed-level interventions 
+towards improved natural 
+resources management and 
+livelihoods. 
+
+ 
+30. In terms of mitigation co-benefits, it is estimated that RPLP activities will lead to significant benefits 
+
+compared to the baseline. A quantification of the Green House Gas (GHG) mitigation potential using 
+the EX-ACT tool estimated that over a duration of 40 years (4 years for actual project implementation 
+and 16 years for capitalization of its effects), the Project’s carbon emission reduction  is estimated at 
+572,397 tons of CO2 equivalent (tCO2-eq), or 28,620 tCO2-eq per year. These benefits will principally be 
+achieved through improved landscape management, in particular through the promotion of 
+afforestation, agroforestry systems and perennial agriculture cultivars.  
+
+ 
+Key Results 
+ 
+
+31. The following PDO level results indicators have been identified: 
+ 
+
+- Land area under sustainable landscape management practices (Ha) – Corporate Indicator - (target 
+of 2,000 Ha) 
+
+- Farmers adopting improved agricultural technology (number), of which female (in percentage) – 
+Corporate Indicator - (target of 3,000 farmers) 
+
+- Share of targeted farmers with improved market access (%) – (target of 40%) 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 16 of 33  
+
+ 
+
+ D. Project Description  
+ 
+
+32. RPLP is designed to restore ecosystem services at sub-watershed level to safeguard and enhance agricultural 
+production, reduce vulnerability of economic and ecological systems to external shocks, and to strengthen 
+capacities for the long-term sustainable management of those landscapes. The investment will result in the 
+provision of environmental services, private and public goods, including enhanced watershed services 
+encompassing soil conservation, hydrological services, and biomass supply.  
+
+ 
+Maps 1 and 2 : Project area 
+
+ 
+
+ 
+ 
+ 
+Project Alternative 
+ 
+
+33. The approach used by RPLP builds on a rich set of lessons learned from past projects and evidence from analytical 
+work. The Project will take a landscape approach and operate at sub-watershed level, combining a socio-
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 17 of 33  
+
+ 
+
+economic and an ecological approach to landscape management.
+24
+
+ The Project’s interventions in the selected 
+sub-watersheds will build on the results of two watershed management participatory planning exercises piloted 
+within one of the selected sub-watersheds during Project preparation (Rivière Froide) that will be implemented in 
+the entire area of the Project by effectiveness with the support of J/P HRO. The operationalization of these plans 
+will consist in the development of sub-watersheds’ investments plans, that will be providing more detailed 
+information related to each category of intervention offered by the Project with the volume of activities, types of 
+instruments pre-identified during project preparation based on lessons learned and pilot participatory planning 
+exercises (see Component 2), location and corresponding estimated budget.  
+
+ 
+34. Resilience-enhancement from RPLP in the selected sub-watersheds will result from actions  to decrease the 
+
+vulnerability of: (i) farmers linked to increasing soil degradation and subsequent continuous reduction of 
+production capacity, and insufficient capacity to sell productions in a profitable and sustainable manner, including 
+due to poor infrastructure condition; and (ii) landscapes, linked to the lack of holistic, participatory planning 
+capacity, required to establish a common understanding of problems, propose solutions, prioritize actions 
+expected to have the larger positive impact on ecosystems and populations in a defined sub-watershed, including 
+interventions aimed at reducing soil erosion and enhancing water retention capacities in gullies as well as around 
+natural springs, mostly through intensification of vegetative and tree cover, as well as small water harvesting 
+infrastructure reducing water run-off.  
+ 
+
+35. RPLP is designed to contribute to break the natural resources degradation/increasing populations’ vulnerability 
+cycle in the selected sub-watersheds by taking an integrated approach. Based on geographic concentration, the 
+Project will work at both farm- and community level to simultaneously raise production and productivity using 
+more resilient, adapted agriculture practices to the hydro-geological context, which will directly contribute to 
+rebuild the natural resource base; by protecting and restoring top soil cover in particular, the Project will improve 
+water retention capacity, reduce erosion, enhance soil quality, which are required to counter the soil quality 
+loss/productivity loss/increasing vulnerability cycle.  The Project will also work along the entire value chain from 
+inputs via production to processing and marketing to ensure that the changes introduced result in income gains 
+for farmers that are essential for Project sustainability. It will also support the construction or rehabilitation of 
+small infrastructures considered critical to enhance landscape’s resilience (e.g. related to water management or 
+improved access to markets), taking care of their quality to ensure the best possible resistance to adverse climatic 
+conditions. 
+ 
+
+36. It will also strengthen the institutional enabling environment and build capacity for landscape level governance 
+and management at both national and local levels as well as delivering a proof of concept of the approach by 
+investing into selected watersheds, to create the enabling conditions for subsequent scale-up. 
+ 
+
+37. RPLP will include four components: (i) Strengthening of institutional and organizational capacity for landscape 
+level resilience; (ii) Investments to strengthen the establishment of resilient agricultural production and practices; 
+(iii) Project coordination, monitoring and evaluation; and (iv) Emergency Response Mechanism. The core of the 
+investments and expected impact from RPLP shall be seen under Component 2 that will finance agricultural, value 
+chains and infrastructure related activities to reduce land and farmers’ vulnerability in the four selected sub-
+watersheds; while Component 1 shall establish the enabling environment for Component 2 to achieve its 
+objectives and contribute to longer term implementation of sustainable productive landscapes approach by key 
+institutions, in particular through the CBF mechanism to provide financing for climate adaptation into perpetuity.  
+
+                                                           
+24
+
+ Landscape-level Land Management Efforts in Haiti. Lessons Learned from Case Studies Spanning Eight Decades. World Bank, 
+2016 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 18 of 33  
+
+ 
+
+ 
+Fig. 1: Theory of Change/Strategic Overview, Thematic Linkages and expected Achievements of  RPLP 
+
+ 
+Component 1: Strengthening of institutional and organizational capacities for landscape level 
+interventions (US$ 5.6 M total -US$ 1.4 M IDA and US$ 4.2 M LDCF- ; parallel financing of US$ 1.4 M 
+from J/P HRO).  
+
+38. This component will support national efforts to : create Agriculture/Environment joint landscapes policy and 
+action plan towards resilient agriculture and ecosystems; fill skills and knowledge gaps required to implement 
+respective mandates; foster partnerships and communication; strengthen institutional capacity to analyze climate 
+related data for improved planning and climate related disaster risk prevention; fund the set-up of a National 
+Trust Fund that will provide financing for climate adaptation into perpetuity through the CBF; and will also pave 
+the way for Component 2 interventions that will rely on communities’ participatory planning exercises in all 
+selected sub-watersheds. Specifically, the component will support:  
+ 
+
+39. Sub-component 1.1. Institutional capacity building (US$ 2.6 M total -US$ 1.4 M IDA and US$ 0.8 M LDCF- ; parallel 
+financing of US$ 0.4 M from J/P HRO). This sub-component would finance: (i) the development of a joint 
+MdE/MARNDR Master Plan for Resilient Landscapes Development, building on respective policies and action 
+plans
+
+25
+ and recent international commitments under Climate Change/Climate Adaptation global agendas 
+
+(including NAPA and INDC implementation), establishing areas of synergies, joint action plan and related M&E, 
+that will be field-tested under Component 2, and serve as a reference under HTR ; ii) intensive technical trainings 
+
+                                                           
+25
+
+ Relation to policies and mandates from other relevant institutions shall be included as well, e.g. CIAT (Comité Interministériel 
+d'Aménagement du Territoire).  
+
+http://ciat.gouv.ht/
+http://ciat.gouv.ht/
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 19 of 33  
+
+ 
+
+within key line Ministries, including MARNDR and MdE, at national and at local level with the branches of line 
+ministries, as well as local governments and other relevant stakeholders (in the selected sub-watersheds), to carry 
+out their mandate towards sustainable landscapes management; exchange visits in-country and abroad to share 
+landscapes restoration and management experiences ; and students sponsorships for Masters degrees related to 
+landscape /ecosystems /environmental fields ; iii) capacity building in cartography, satellite imaging data 
+collection and analysis for climate modeling, , development and application of spatial decision support tools, 
+forecasting and early-warning systems ; and establishing linkages with global networks of expertise in this field 
+offering options to get high resolution Agro-Meteorological data. Informed by a background study supported by 
+the WB, a set of dynamic decision support tools driven by geospatial and hydro-meteorological data were 
+selected that would be supported by RPLP: soil health & erosion risk monitor; drought risk monitor. The creation 
+of these tools would (a) help establish a baseline in project areas on critical variables and 2) inform project 
+implementation at farm and landscape level. 
+
+ 
+40. Sub-component 1.2. Support to national level sustainable landscape management approach to agriculture and 
+
+watershed management (US$ 0.0 M total -US$ 0.0 M IDA and US$ 0.0 M LDCF- ; parallel financing of US$ 1.0 M 
+from J/P HRO). Activities under this sub-component would be financed entirely through parallel financing from J/P 
+HRO. They will aim at supporting (i) HTR, to develop/update its strategic and action plans, and operate its 
+secretariat; (ii) the establishment, and operation of the National Committee for Climate Change in charge of 
+steering, monitoring and reporting on activities to be implemented under the INDC; and (iii) the development of 
+detailed participatory sub-watersheds management plans in the four selected sub-watersheds and their update. 
+The development of these plans will follow the methodology piloted by J/P HRO, in close collaboration with 
+MARNDR and MdE through the PROFOR study referred to in section I.B. They will serve as a basis for the 
+development of detailed participatory business plans focused on RPLP interventions out of which the selection of 
+investments financed under Component 2 will be made. The participatory sub-watersheds management plans will 
+be completed by effectiveness of IDA and LDCF financing.     
+
+ 
+41. Sub-component 1.3. Sustainable Financing of Resilient Productive Landscapes and Environmental Investments 
+
+(US$ 3.4 M total - US$ 0.0 M IDA and US$ 3.4 M LDCF-). As indicated in section I.B, it would support the 
+participation of Haiti in the CBF to benefit from financial resources towards climate adaptation and biodiversity 
+conservation objectives into perpetuity. In the context of RPLP, it would specifically contribute to ensuring the 
+long-term sustainability of interventions financed under Component 2. This sub-component would finance (i) 
+remaining activities required to set up the National level Trust Fund to receive funds from the CBF on a yearly 
+basis, complementing other donor’s contributions and (ii) an initial endowment of US$3 million to the CBF, 
+earmarked for climate adaptation related interventions, complemented by a US$7 million endowment for 
+biodiversity to be provided through the German Development Bank (KfW). It is estimated that the fund will take 
+up to 3 years to establish and disburse funds. In the interim the other sources of project financing (IDA and J/P 
+HRO parallel financing) will be used to support adaptation activities. Therefore, the establishment of the Trust 
+Fund does not present delays to overall project implementation. 
+
+ 
+Component 2: Investments to strengthen the establishment of resilient agricultural production and 
+practices (US$ 12.1 M total -US$ 10.1 M IDA, US$ 2.0 M LDCF- and parallel financing of US$ 3.6 M from 
+J/P HRO).  
+ 
+
+42. This component will support individual farmers and communities within selected sub-watersheds to establish 
+more resilient agricultural productions and practices, adapted to the agro-ecological contexts, and prioritized 
+according to participatory planning exercises (under sub-component 1.2 and business plans under 2.2), supported 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 20 of 33  
+
+ 
+
+by scientific expertise, in order to provide individual, and, to the maximum extent possible, landscape-level 
+collective co-benefits from increased soil quality, water retention capacity and biodiversity. It will also support 
+actions aimed at improving the revenues and livelihoods from better market access and improved food availability 
+and nutritional quality, required to reduce people and, consequently, ecosystems’ vulnerability; and support the 
+establishment or rehabilitation of small infrastructures supporting (i) and (ii) for increased farmers and landscape 
+level resilience.   
+
+ 
+43. Sub-component 2.1. Investments in resilient, sustainable agriculture and ecosystems (US$ 8.55 M total -US$ 6.55 
+
+M IDA and US$ 2.0 M LDCF). This sub-component will support investments at individual and community levels 
+that focus on increasing climate resilience of agricultural production systems in the selected sub-watershed. 
+Specifically, the sub-component will finance (i) the development of a limited menu of “technical packages” 
+(including inputs, such as tree seedlings, seeds, stakes, fences; and services, such as grafting, and technical 
+assistance)” adapted to specific agro-ecological zones, and priority issues to be addressed, building on 
+participatory planning documents, and experts inputs; (ii) the development of participatory investments plans 
+identifying priority investments and their geographical locations, and costs to be financed out of RPLP under 
+Component 2; (iii) the selection of beneficiaries according to participatory business plans based on specific 
+vulnerability criteria (including ecosystems and livelihoods) and their access to one of these technical package 
+over the course of the Project to allow the implementation of climate smart productions and practices ; and (iv) 
+the set-up of Farmer-Field-Schools (FFS) for producers focusing on transferring knowledge and know-how on 
+Climate resilient productions and practices (such as planting following contour lines, improved tillage, 
+boundary/live fences planting for wind and water erosion protection, soil coverage, inter-cropping, agroforestry 
+systems management, soil and water conservation and so on)
+
+26
+, as well as organizational and marketing 
+
+approaches to add value to these productions (related to sub-component 2.2). This sub-component will use 
+RESEPAG II experience with its farmer’s incentive scheme using a voucher mechanism, and be implemented with 
+the support of an operator (consulting firm). It will also benefit from the registry of farmers being developed with 
+the support of RESEPAG II. 
+
+ 
+44. Sub-component 2.2. Intensification, diversification and commercial agriculture (US$ 2.85 M total -US$ 2.85 M IDA 
+
+and US$ 0.0 M LDCF- ; parallel financing of US$ 1.1 M from J/P HRO). This sub-component will improve access to 
+inputs and services from farmers, as well as marketing capacities and options, considered essential to ensure the 
+profitability of investments, improve livelihoods and thereby contribute to sustain resilient landscapes. Under this 
+sub-component, the Project will also seek to facilitate the mobilization of commercial credit both during and after 
+project implementation. Before RPLP effectiveness, a market/value chains analysis for productions likely to be 
+supported under sub-component 2.1, as well as an analysis of relevant inputs and services suppliers, would be 
+carried out through J/P HRO financing. J/P HRO would also contribute to support these latter in order to meet 
+expected quality and quantity of such inputs and services. This sub-component will both support (i) groups of 
+producers within the selected watersheds to develop basic business plans identifying key inputs 
+(equipment/services) to be financed under RPLP aimed at improving the quality and quantity of products sold to 
+intermediaries or directly placed on markets ; and (ii) more advanced constituted groups of producers or small 
+enterprises to increase their capacity to generate additional value to climate smart productions produced in the 
+selected sub-watersheds (e.g. addressing logistics, agro-processing, reduction of food losses aspects), through 
+improved business/marketing skills, as well as improved infrastructures and equipment to be financed through a 
+matching grant mechanism. For this activity, the experience of the “Market Support Facility (MSF)” implemented 
+
+                                                           
+26
+
+ The Farmer-Field-Schools will also be a vehicle to promote food diet-nutrition education which will be built from (i) the 
+material being compiled in the context of J/P HRO arboretum, where a women repertoire of traditional plants used for 
+medicine and diets is being created, and (ii) also re-use the food practice diet training developed under RESEPAG II. 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 21 of 33  
+
+ 
+
+under RESEPAG II.  
+ 
+
+45. The sub-component will also finance trainings that will provide more capacity in technical, financial as well as 
+management and strategy, to improve market access -for inputs suppliers’ and services providers’ organizations, 
+as well as producers and other actors along the value chains. The same operator as sub-component 2.1 would 
+support the implementation of this sub-component to facilitate coordination between these complementary 
+activities.  
+ 
+
+46. Sub-component 2.3. Protection of infrastructure and watersheds (US$ 0.7 M total - US$ 0.7 M IDA and US$ 0.0 M 
+LDCF- ; parallel financing of US$ 2.5 M from J/P HRO). This sub-component will finance works to: (i) protect 
+/rehabilitate small public infrastructures (e.g. rural and access roads or tracks, river crossing structures) (ii) 
+enhance water management in the selected areas (building small water harvesting infrastructures in gullies or 
+slopes, rehabilitating small water catchments or small irrigation systems in plains). The activities to be carried out 
+under this sub-component will be based on the investments plans developed in each of the selected areas. This 
+stage would be followed by technical studies to inform the detailed scope and nature of works to be supported 
+under the Project.  
+ 
+
+47. Most of the works are expected to be simple, hence a community-based approach would be promoted using a 
+labor-intensive workforce. This approach has been used various times by MARNDR successfully (including through 
+RESEPAG II in response to Hurricane Matthew’s to restore some damaged infrastructures. A specific manual exists 
+that would serve as a basis for RPLP. 
+
+ 
+Component 3: Project Coordination and Monitoring and Evaluation (M&E) (US$ 3.5 M total – 100% 
+IDA).  
+ 
+
+48. The objective of this component is to support Project coordination and M&E as well as all aspects of management 
+(including fiduciary matters, knowledge management, communication, gender and citizen engagement as well as 
+monitoring mitigation measures related to safeguards). It will finance staff costs, goods, equipment and vehicles, 
+incremental operating costs, assessments and studies (including technical and financial audits), construction 
+and/or rehabilitation of Project Implementation Unit offices and in general eligible expenses associated with the 
+overall management of the Project implementation. It will also provide resources to monitor progress and 
+evaluate results and impact. For this purpose, an impact evaluation baseline will be established by no later than 
+year one of Project implementation. 
+
+ 
+Component 4: Emergency Response Component (US$0 - only IDA if activated).  
+
+49. A Contingency Emergency Response Component (CERC) with zero allocation will be created to allow the 
+Government to respond quickly in case of an eligible emergency. If an eligible emergency occurs, the inclusion of 
+this component would provide a conduit for the use of uncommitted funds from the unallocated expenditure 
+category and/or allow the government to request the Bank to re-categorize and reallocate financing from other 
+project components to partially cover emergency response via implementation of key activities by the appropriate 
+agencies to respond to the emergency. The CERC could also be used to channel additional funds should they 
+become available as a result of an eligible emergency. An Emergency Response Operational Manual, acceptable to 
+the WB, will be prepared and adopted during the first year of project implementation and clearly outline the 
+triggers, eligible expenditures and procedures for tapping into the CERC.   
+
+ 
+ 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 22 of 33  
+
+ 
+
+E. Implementation 
+             Institutional and Implementation Arrangements 
+
+50. Joint Implementation, Project Duration and Geographic Coverage. The Project will be implemented 
+jointly by the MARNDR and the MdE, with an expected duration of five years. This proposed 
+duration (expected over calendar years 2018-2023) is set to allow a realistic timeframe for 
+implementation. In terms of geographic coverage, four (4) specific zones have been selected based 
+on detailed criteria (environmental, socio-economic, vulnerability, institutional, budget availability 
+as well as relevance in view of proposed interventions).  
+ 
+
+51. MARNDR and MdE Experiences. The MARNDR began implementing the US$5M RESEPAG I project in 
+2009.  Within MARNDR, the Project will leverage the existing capacity – specifically on safeguards 
+and fiduciary aspects – of the coordination unit currently supporting RESEPAG II and other donor 
+projects. Conversely, MdE has no experience in the implementation of Bank-funded projects, and 
+would develop its capacity building on MARNDR experience. The Project will collaborate closely with 
+other development partners and receive parallel financing from the NGO J/P HRO.  
+ 
+
+52. Implementation arrangements. It was agreed that the Project will be jointly implemented by 
+MARNDR/MdE through one Project Implementation Unit; this latter would report to both Ministries 
+through focal points nominated by the respective Ministers. The PIU will be split in two locations: at 
+the Central Level (PIU-C or Unité de Gestion de Projet Centrale) based at Port-Au-Prince and at the 
+local level (PIU-L or Unité de Gestion de Projet Locale) based at the Agricultural Communal Office 
+(Bureau Agricole Communal – BAC) Anse-à-Veau, close to the areas of intervention. The two units 
+will be staffed as needed (i.e. staff hired and paid for by Project resources and appointed civil 
+servants by MARNDR/MdE paid for by the Government) with appropriate skills, taking into account 
+existing human resources and arrangements as well as existing staff from active World Bank 
+operations when relevant (i.e. RESEPAG II). All staff paid using Project resources will be hired on a 
+competitive basis under terms of reference and qualifications acceptable by the World Bank. 
+ 
+
+53. The PIU-C and PIU-L will ensure timely and effective coordination of activities in order to monitor 
+progress towards PDO. The implementation arrangements will allow a joint technical coordination 
+by MARNDR/MdE as well as capitalizing on the MARNDR’s existing capacity and experience with 
+World Bank projects’ management, especially on the fiduciary aspects. In addition, the PIU-L will 
+allow to coordinate with the local offices of MARNDR and MdE at Departmental and Communal 
+levels, as well with the other local stakeholders. The PIU-C will be responsible for: (i) managing the 
+project at national level, including financial management, procurement in accordance with World 
+Bank guidelines and procedures, and M&E; (ii) finalizing the Project Implementation Manuel (PIM) 
+before effectiveness; (iii) producing project progress reports; and (iv) project communication.  
+ 
+
+54. Staffing. The PIU-C will be located at Port-Au-Prince and headed by one (1) General Coordinator. 
+He/She will also coordinate aspects related to Component 1. Other members of the PIU-C will 
+include the fiduciary staff: one (1) principal accountant and one (1) procurement specialist, receiving 
+support from existing fiduciary staff from RESEPAG II. All PIU-C staff, including the General 
+Coordinator, will be hired on a competitive basis and paid for by Project resources. Support Staff will 
+also be hired. All other staff will be based in the field at the PIU-L in the BAC Anse-à-Veau and hired 
+on a competitive basis and paid for by Project resources. Staff will include one (1) Coordinator in 
+charge of Component 2 as well as one (1) communication & grievance redress mechanism specialist, 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 23 of 33  
+
+ 
+
+one (1) environmental safeguards specialist, one (1) social safeguard/gender/citizen engagement 
+specialist, one (1) M&E specialist. Support Staff will also be hired. In order not to delay the start of 
+the Project, the recruitment processes of these specialists will be launched during the preparation 
+phase with the preparation of Terms of References (TORs), and selection, using the existing 
+RESEPAG II fiduciary team to manage the recruitment process according to WB rules. Under the 
+LDCF Project Preparation Grant, a core team of two persons (technical and admin) should also be in 
+place not later than February 2018 to support the MARNDR and MdE RPLP focal points carry out 
+these tasks among others contributing to swift implementation post declaration of effectiveness.   
+ 
+
+55. In terms of governance mechanisms, a Project Steering Committee – PSC will be created at national 
+level and serve as a guidance and exchange body (Meeting Frequency: once a year) and endorse 
+Annual Work Plan & Budget. The PSC will be co-chaired by MARDNR and MdE, and comprised of 
+high level representatives of MARNDR, MdE, Ministry of Economy and Finance, Ministry of Interior, 
+as well as co-financiers, Audubon Society, HTR, other key stakeholders including donors (with 
+observer status). The detailed composition and mandate of the PSC will be provided in the PIM. PIU-
+C General Coordinator will assure the role of PSC Secretariat. In addition, a Technical Committee – 
+TC will be established and ensure regular follow-up on the implementation of RPL activities 
+(Meeting Frequency: quarterly, in Nippes Department). The TC will be chaired by the General 
+Coordinator of the PIU-C and comprised of local stakeholders and authorities (DDA, DDE, other 
+relevant Directorates, Civil Protection Committees, Municipalities, CASEC, ASEC), selected sub-
+watersheds communities’ representatives, private sector representatives, etc.).  
+ 
+
+56. A detailed PIM will be adopted before Project effectiveness, which will incorporate all operational 
+details at the national and local levels, including the implementation of technical activities, M&E, 
+safeguard implementation and administrative and fiduciary procedures. It will include detailed TORs 
+for key RPLP/PIU-C/PIU-L staff. A harmonized IRM Operational Manual for the management of the 
+CERC will be prepared and validated no later than three months after the Project effectiveness. 
+Detailed Project implementation arrangements are found in the PAD. 
+
+ 
+Figure 2:  Project risk mitigation matrix  
+
+ 
+
+Risk  Level Mitigation measure 
+
+Environmental and Social risks:  
+The project has substantial positive 
+environmental benefits.  
+Negative impacts are likely to be 
+small and highly localized, and are 
+largely related to the commune 
+level infrastructure activities that 
+will be financed under the project  
+
+Moderate The ESMF contains a screening 
+tool to screen out works that will 
+have a significant impact on the 
+environment as well as a table of 
+potential environmental impacts 
+and associated mitigation 
+measures. Robust technical and 
+monitoring team will be in place. 
+
+ 
+
+Climate and Disaster Risk: 
+Haiti is highly vulnerable to the 
+negative impact of climate change.   
+
+Highly vulnerable 
+country 
+
+Project is designed to address 
+these risks including through an 
+unallocated component to 
+reallocate IDA in event of a 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 24 of 33  
+
+ 
+
+specific disaster/emergency. 
+
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+RPLP will be implemented in four sub-watersheds offering a diversity of agro-ecological conditions, yet 
+geographically close, within the department of Nippes, under two municipalities : (i) Rivière Froide 
+watershed; (ii) Petite Rivière de Nippes watershed; (iii) Piémont area and Baconnois Plain; and (iv) Bondeau 
+sub-wastershed and its mangrove. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Nicolas Kotschoubey, Environmental Safeguards Specialist 
+Asli Gurkan, Social Safeguards Specialist 
+Felipe Jacome, Social Safeguards Specialist 
+Robert H. Montgomery, Environmental Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project will have an overall positive impact on 
+the environment. It will promote conservation 
+agriculture, agroforestry, soil and water 
+conservation, water harvesting, water stewardship, 
+re-afforestation and sustainable livestock grazing. 
+The negative environmental impacts will be small 
+and highly localized.  Such impacts may be 
+associated with the construction works that 
+communes will be able to finance under the project 
+(rural roads, small bridges, etc) and impacts may 
+include noise, waste management, worker health 
+and safety issues and so on.  Other negative impacts 
+may be related to improper technology transfer (e.g. 
+inadvertent propagation of exotic species, expansion 
+of plantations in natural forests, water harvesting 
+that impacts the water table) and so on. For these 
+reasons, the project is a category B and all activities, 
+including those that seem environmentally harmless 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 25 of 33  
+
+ 
+
+would need to be screened.  The completed ESMF 
+provides a screening tool as well as a table of 
+possible impacts and mitigation measures.  Proper 
+and timely supervision from the Bank will also 
+ensure that these activities are adequately 
+monitored by the Environmental specialist in the 
+PIU. 
+ 
+For the sub component on planning and policy 
+development, the intention is for the project to 
+promote sustainability; however, the risk that a well-
+intentioned plan or policy has negative impacts is 
+possible, and therefore the ESMF that will be 
+prepared, and the Operations Manual, will include 
+measures to ensure that all plans and strategies 
+prepared under the project are sustainable; support 
+the preservation, maintenance and rehabilitation of 
+the environment; are publicly consulted during their 
+drafting process; take into account cumulative 
+effects; and include measures to strengthen 
+environmental management.  
+ 
+For the CBF, for which activities are not yet clearly 
+defined, and to ensure that the project does not 
+indirectly finance activities with negative 
+environmental impacts, the project ESMF will also 
+apply. The Operation Manual will include a measure 
+to ensure that the CBF adopts the ESMF as part of its 
+screening mechanism.  
+ 
+ 
+On the social side, no major safeguards risks are 
+expected. A potential risk may include delays in 
+compensation related to land acquisition. The 
+project will avoid or minimize land acquisition based 
+on the lessons learned. RPF will include measures to 
+deal with such potential delays in payments should 
+land acquisition be necessary. Another potential 
+social risk may be perceived inequities in the 
+selection of beneficiaries. The Project will mitigate 
+this risk by focusing on citizen engagement 
+measures and robust grievance redress measures.  
+ 
+Risks linked to labor influx are expected to be 
+limited. They will be mitigated by prioritizing local 
+labor and ensuring clarity on where laborers coming 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 26 of 33  
+
+ 
+
+from outside will be hosted through their stay in the 
+host community and ensuring that contracts are 
+consistent with ESMF and RPF provisions. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+This project will improve and support natural or 
+critical habitat by increasing tree and ground cover 
+with appropriate natural vegetation. It will operate 
+in mangroves, forests, wetlands and other natural 
+habitats and therefore the policy is triggered. Where 
+infrastructure is being built, the project will ensure 
+that it does not denude natural areas or remove 
+cover that can expose the soil to erosional forces. 
+The project will have an overall positive impact on 
+natural habitats, but will ensure through applying 
+the ESMF that negative impacts such as improper 
+technology transfer, introduction of alien invasive 
+species, etc., is not financed. 
+
+Forests OP/BP 4.36 Yes 
+
+The project will finance activities related to forestry 
+and improve, rather than cause destruction to forest 
+cover.  Activities that involve conversion of natural 
+forests or degradation of critical areas will not be 
+financed. 
+
+Pest Management OP 4.09 Yes 
+
+Given that the project involves significant 
+interventions in agriculture, and that the 
+improvement of crop production is an ultimate 
+objective, it is likely that pesticides will be used.  The 
+types of activities that may require pesticides 
+include dissemination of technologies for 
+sustainable agricultural intensification; forestry; 
+agricultural storage programs; and livestock health 
+programs. All pesticides that are disseminated or 
+used under the project will comply with WHO's 
+list/standards for acceptable pesticide use. An 
+integrated pesticide management plan has been 
+prepared by the project and the document will be 
+disclosed prior to appraisal. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The project will not operate within or near known 
+cultural or historical heritage sites. However, as a 
+precaution, this OP is triggered in the event of 
+chance finds of historical or cultural relics, which are 
+numerous in Haiti, during works, soil sub-surface 
+drilling or excavation. Chance finds language has 
+been reflected in the ESMF. 
+
+Indigenous Peoples OP/BP 4.10 No 
+The policy is not triggered because there are 
+no groups in Haiti who meet the definition of 
+IPs of OP 4.10. 
+
+Involuntary Resettlement OP/BP 4.12 Yes The policy is triggered given that the project will be 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 27 of 33  
+
+ 
+
+funding the rehabilitation of existing rural 
+roads/tracks, possibly new small infrastructures for 
+water harvesting/storage which are usually placed 
+along the roads or in gullies, as well as potential 
+expansion of local offices of the Ministry of 
+Agriculture. These construction works may require 
+land acquisition leading to involuntary resettlement, 
+including the loss of income sources and means of 
+livelihood, such as the loss of fruit trees and crops. 
+Resettlement Policy Framework (RPF) will be 
+prepared by the GOH with guidance from the Bank 
+to address the triggering of OP 4.12. RPF will be 
+consulted and disclosed by appraisal. Upon the 
+identification of cases of involuntary resettlement, 
+Resettlement Action Plans (RAPs) or Abbreviated 
+Resettlement Action Plans (Abbrev. RAPs) will be 
+prepared, consulted and disclosed in accordance 
+with the policy. 
+ 
+Any activity that may potentially lead to changes in 
+land-tenure agreements, result in the establishment 
+of protected areas, or may cause restriction of 
+access to natural resources will be excluded from 
+the project. The environmental screening form, 
+which will be part of the ESMF will also include 
+questions on social risks and impacts. The PIU 
+responsible staff received a training by the Bank on 
+October 18 on how to screen OP 4.12 impacts. 
+
+Safety of Dams OP/BP 4.37 No 
+The project will not finance any activities related to 
+dams or the operation of dams.  The ESMF will 
+screen out any dam-related activity. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project will not be on international waters as 
+defined under this policy. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The project does not take place in any Disputed 
+Area. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+On the environmental side, there are no large scale, significant or irreversible impacts.  The interventions are largely 
+soil conservation, tillage, tree planting and other soil enhancing activities.  Where there may be investments in 
+infrastructure, these will be restricted to low impact public infrastructures such as rural and access roads, small 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 28 of 33  
+
+ 
+
+bridges for crossing rivers and water harvesting infrastructure.  Impacts will therefore be small and highly localized. 
+Other negative impacts may be related to improper technology transfer (e.g. inadvertent propagation of exotic 
+species, expansion of plantations in natural forests, water harvesting that impacts the water table) and so on.  These 
+can be effectively screened out and monitored, reducing the risk associated with these activities. On the social side, 
+there are no large scale, significant and irreversible impacts expected. 
+ 
+The promotion of policy and plans under the project will promote sustainable development; however, the ESMF 
+prepared for the project includes measures to ensure that policies and plans developed under the project do not have 
+long term negative impacts.  
+ 
+Also, activities undertaken by the Caribbean Biodiversity Fund, which will be capitalized by the project, will be subject 
+to a screening mechanism derived from the Project ESMF in order to screen out any activities with considerable 
+negative environmental impacts, or mitigate impacts to an acceptable level.  
+ 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+No potential indirect or long term environmental or social impacts are expected.  The environmental impacts will be 
+small scale and limited in scope. The potential social impacts are described under OP 4.01 and OP 4.12. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+In terms of the environment, the project focuses on improving the stability of slopes and enhancing the fertility of soils 
+in Haiti by introducing trees, stabilizing vegetation and so on.  The types of vegetation to be considered will be 
+carefully matched with the particular environment/climate related problem that is evident in a region. For example, 
+one would plant deep rooted vegetation in some cases where slopes need to be stabilized.  These are the types of 
+alternatives that have been discussed and will continue to be discussed throughout preparation.  In terms of financing 
+infrastructure, the project focused on key infrastructure that would support climate resilience- for example, bridges to 
+allow river crossings when the river level is high and so on. The chosen infrastructure (by the commune) will be 
+screened to ensure that the type of infrastructure chosen does not have significant adverse impacts on the 
+environment. 
+ 
+On the social side, any activity that may potentially lead to changes in land-tenure agreements, result in the 
+establishment of protected areas, or may cause restriction access to natural resources will be excluded from the 
+project.  
+ 
+Civil works to be financed under the project are expected to be mostly of small size, and efforts will be placed on 
+minimizing any possible negative effect through solid preliminary studies  and screenings allowing to clearly identify 
+areas of interventions, and ensuring the adequate design, use of appropriate construction materials, and construction 
+techniques etc. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The project team has prepared an ESMF, an IPMP and an RPF, which will be consulted and disclosed by appraisal.  The 
+Ministry of Agriculture, MARNDR, the primary agency responsible for the implementation of the project, has managed 
+other Bank-funded projects in the past and they have experience with Bank safeguards policies and instruments, 
+especially on the environment side. MARNDR will be hiring a second safeguards specialist to monitor social risks and 
+impacts under this project. The second ministry that will be involved in this project’s implementation, the Ministry of 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 29 of 33  
+
+ 
+
+Environment, does not have familiarity or capacity to implement social safeguards policies.   However, they have been 
+closely involved in the preparation of the ESMF, IPMP and RPF. The safeguards implementation will be the 
+responsibility of MARNDR, which will house the safeguards specialists.  
+ 
+In the event that involuntary resettlement cannot be avoided by the necessary works, the Bank team will support the 
+PIU to develop and implement Resettlement Action Plans. The project will develop a citizen engagement plan and a 
+Grievance Redress Mechanism. The GRM ensures that complaints received are promptly reviewed in order to address 
+project-related concerns. Additionally, communities and individuals who believe that they are adversely affected by a 
+World Bank (WB) supported project may submit complaints to project-level grievance redress mechanism or the WB’s 
+Grievance Redress Service (GRS). 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The primary stakeholders of this project are smallholder farmers and families living in the selected watersheds 
+targeted by the project, that depend on agricultural production for their livelihoods. Other key stakeholders along the 
+agriculture value chains are service and input providers, buyers, and retailers.  The national, regional and local 
+institutions that play a role in the landscape management and agriculture services are also important stakeholders for 
+this project.  
+ 
+The Project team will conduct consultations with a group of these stakeholders at the regions, that are tentatively 
+identified at this stage. The ESMF and RPF will be consulted by appraisal. with key local actors (such as local 
+government staff, farmers’ organizations, regional representatives of Ministry of Agriculture and Environment) in the 
+tentatively identified municipalities.  Once the sites are identified, further detailed consultations that will take place 
+with direct beneficiaries during project implementation.  People affected by involuntary resettlement will be 
+consulted on compensation and resettlement policies in accordance with OP4.12. 
+ 
+ 
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission for disclosure 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+06-Nov-2017 09-Nov-2017 
+ 
+
+   
+
+"In country" Disclosure   
+
+   Haiti 
+  13-Nov-2017 
+
+Comments 
+
+ 
+   
+
+OPS_RA_D ISCL OSURE_T ABLE  
+
+ 
+
+Resettlement Action Plan/Framework/Policy Process 
+
+   
+
+Date of receipt by the Bank Date of submission for disclosure  
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 30 of 33  
+
+ 
+
+06-Nov-2017 09-Nov-2017  
+
+   
+
+"In country" Disclosure   
+   Haiti 
+  13-Nov-2017 
+
+Comments 
+
+ 
+     
+
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission for disclosure 
+
+Yes 06-Nov-2017 09-Nov-2017 
+
+   
+"In country" Disclosure   
+   Haiti 
+ 13-Nov-2017 
+ 
+
+Comments 
+
+ 
+  
+
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+ 
+ 
+ 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting)  
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+Yes   
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report? 
+Yes   
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan? 
+Yes   
+
+OPS_ NH_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.04 - Natural Habitats 
+  
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 31 of 33  
+
+ 
+
+Would the project result in any significant conversion or degradation of critical natural habitats? 
+No   
+If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the 
+project include mitigation measures acceptable to the Bank? 
+NA   
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+Yes   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+Yes   
+
+OPS_ PCR_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.11 - Physical Cultural Resources  
+Does the EA include adequate measures related to cultural property? 
+Yes   
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property? 
+NA    
+
+OPS_IR_ CO MP_TA BLE  
+
+ 
+
+OP/BP 4.12 - Involuntary Resettlement 
+
+ 
+ 
+
+Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared? 
+Yes  
+ 
+
+ 
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+Yes  
+ 
+
+ 
+ 
+
+ 
+
+  
+OPS_F O_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.36 - Forests 
+  
+Has the sector-wide analysis of policy and institutional issues and constraints been carried out? 
+NA   
+Does the project design include satisfactory measures to overcome these constraints? 
+NA   
+Does the project finance commercial harvesting, and if so, does it include provisions for certification system? 
+No      
+
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank for disclosure? 
+Yes   
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 32 of 33  
+
+ 
+
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+Yes  
+
+ 
+ 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes 
+
+  
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes 
+
+  
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes 
+
+  
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes 
+
+ 
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Caroline Aurelie Plante 
+Senior Livestock Specialist  
+
+ 
+
+Nyaneba E. Nkrumah 
+Sr Natural Resources Mgmt. Spec. 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Ministry of Economy and Finance 
+
+Jude Alix Patrick  Salomon 
+
+Ministre de L’Économie et de Finances 
+
+deshommesronald@yahoo.fr 
+ 
+
+  Implementing Agencies 
+ 
+
+Ministry of Agriculture, Natural Resources and Rural Development (MARNDR) 
+
+Carl Monde 
+
+Focal point - MARNDR 
+
+carlmonde@gmail.com 
+ 
+ 
+
+Ministry of Environment 
+
+Emmanuel  Philippe 
+
+
+
+ 
+
+The World Bank  
+Resilient Productive Landscapes in Haiti (P162908) 
+
+ 
+
+ 
+
+  
+Oct 25, 2017 Page 33 of 33  
+
+ 
+
+Focal Point - Ministry of Environment 
+
+mangofil@gmail.com 
+ 
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Caroline Aurelie Plante 
+Nyaneba E. Nkrumah 
+
+ 
+
+  Approved By 
+
+Safeguards Advisor:   
+
+Practice Manager/Manager: Preeti S. Ahuja 08-Dec-2017 
+
+Country Director: Michelle C. Keane 08-Dec-2017 
+ 
+
+    
+ 
+
+http://www.worldbank.org/projects
+
+

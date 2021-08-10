@@ -1,0 +1,186 @@
+id	sid	eid	entity	type
+WB5	1	1	World Bank Document	ORG
+WB5	1	2	Mar 21, 2017 Page 1	DATE
+WB5	1	3	l U s	GPE
+WB5	1	4	Portal	ORG
+WB5	2	1	PID/ISDS	ORG
+WB5	2	2	Concept Stage	ORG
+WB5	2	3	12-Jul-2017	TIME
+WB5	2	4	Mar 21, 2017	DATE
+WB5	2	5	2	CARDINAL
+WB5	2	6	8	CARDINAL
+WB5	2	7	l U s	GPE
+WB5	2	8	e O n	ORG
+WB5	3	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB5	3	2	Sierra Leone P160295 Sierra Leone	ORG
+WB5	3	3	Oct 18, 2017 Feb 08, 2018	DATE
+WB5	3	4	Sierra Leone Ministry of Trade and Industry Proposed Development	ORG
+WB5	3	5	Sierra Leone	ORG
+WB5	4	1	USD Million	CARDINAL
+WB5	4	2	Finance OLD Financing Source Amount International Development Association	ORG
+WB5	4	3	IDA	ORG
+WB5	4	4	10.00	CARDINAL
+WB5	4	5	10.00	CARDINAL
+WB5	4	6	Safeguards	PRODUCT
+WB5	6	1	The World Bank Sierra Leone Agro-Processing Competitiveness Project (P160295	ORG
+WB5	6	2	Mar 21, 2017	DATE
+WB5	6	3	3	CARDINAL
+WB5	6	4	8	CARDINAL
+WB5	6	5	l U s	GPE
+WB5	6	6	e O n	PRODUCT
+WB5	7	1	Sierra Leone	PERSON
+WB5	7	2	7.1 million	CARDINAL
+WB5	8	1	three	CARDINAL
+WB5	8	2	the end of the 10 year	DATE
+WB5	8	3	2002	DATE
+WB5	8	4	7.8 percent	PERCENT
+WB5	8	5	2003-2014	DATE
+WB5	9	1	FDI	ORG
+WB5	10	1	15.2 percent	PERCENT
+WB5	10	2	2012	DATE
+WB5	10	3	13 percent	PERCENT
+WB5	10	4	2013	DATE
+WB5	11	1	2015	DATE
+WB5	11	2	653.1	MONEY
+WB5	11	3	the Sub-Saharan Africa	LOC
+WB5	11	4	1588.5	MONEY
+WB5	12	1	66.4 percent	PERCENT
+WB5	12	2	2003	DATE
+WB5	12	3	52.9 percent	PERCENT
+WB5	12	4	2011	DATE
+WB5	13	1	1	CARDINAL
+WB5	13	2	78.7 percent	PERCENT
+WB5	13	3	2003	DATE
+WB5	13	4	66.1 percent	PERCENT
+WB5	13	5	2011	DATE
+WB5	15	1	about 62 percent	PERCENT
+WB5	16	1	2	CARDINAL
+WB5	16	2	Sierra Leone	PERSON
+WB5	17	1	2012	DATE
+WB5	17	2	2013	DATE
+WB5	18	1	8.5 percent	PERCENT
+WB5	18	2	2011	DATE
+WB5	18	3	16.8 percent	PERCENT
+WB5	18	4	2012	DATE
+WB5	18	5	27.2 percent	PERCENT
+WB5	18	6	2013	DATE
+WB5	19	1	28.8 percent	PERCENT
+WB5	19	2	2013	DATE
+WB5	19	3	35.5 percent	PERCENT
+WB5	19	4	2011	DATE
+WB5	19	5	only 2percent	CARDINAL
+WB5	20	1	3	CARDINAL
+WB5	21	1	The National Sustainable Agriculture Development Plan	ORG
+WB5	21	2	Sector Coordination and Management	ORG
+WB5	22	1	NSDAP	ORG
+WB5	22	2	The Smallholder Commercialization Program	ORG
+WB5	22	3	Farmer Based Organizations	ORG
+WB5	22	4	Agribusiness Centers	ORG
+WB5	22	5	about 122,500	CARDINAL
+WB5	22	6	30 percent	PERCENT
+WB5	24	1	the Inclusive Comprehensive Agricultural Development Program	ORG
+WB5	24	2	2016-2020	DATE
+WB5	25	1	World Bank and Statistics Sierra Leone	ORG
+WB5	25	2	A Poverty Profile	ORG
+WB5	25	3	Sierra Leone	ORG
+WB5	25	4	June 2013	DATE
+WB5	25	5	Sierra Leone	PERSON
+WB5	25	6	World Bank	ORG
+WB5	25	7	ILO	ORG
+WB5	25	8	Sierra Leone 2014 Labor Force Survey	ORG
+WB5	25	9	Statistics Sierra Leone	ORG
+WB5	25	10	2013	DATE
+WB5	25	11	October	DATE
+WB5	25	12	2014	DATE
+WB5	25	13	The World Bank Sierra	ORG
+WB5	25	14	Mar 21, 2017 Page 4	DATE
+WB5	25	15	l U s	GPE
+WB5	26	1	Sierra Leone	ORG
+WB5	29	1	The Sierra Leone Investment and Export Promotion Agency	ORG
+WB5	29	2	SLIEPA	ORG
+WB5	29	3	2016	DATE
+WB5	29	4	2018	DATE
+WB5	31	1	SLIEPA	ORG
+WB5	32	1	Promotion and Export Development and Promotion Departments	ORG
+WB5	33	1	Pillar 1 of the Bank’s Strategy for Africa	ORG
+WB5	33	2	Agenda for Prosperity	FAC
+WB5	33	3	Third	ORDINAL
+WB5	33	4	Generation Poverty Reduction Strategy	EVENT
+WB5	33	5	2013-2018	DATE
+WB5	34	1	AfP	NORP
+WB5	35	1	2	CARDINAL
+WB5	35	2	3	CARDINAL
+WB5	35	3	the Inclusive Comprehensive Agricultural Development Project	ORG
+WB5	36	1	the Private Sector Recovery Priorities	ORG
+WB5	37	1	the Joint Country Assistance Strategy	ORG
+WB5	37	2	JCAS	ORG
+WB5	37	3	2010-2013	DATE
+WB5	38	1	1	CARDINAL
+WB5	39	1	2012	DATE
+WB5	40	1	C. Proposed Development	PERSON
+WB5	40	2	Sierra Leone	ORG
+WB5	41	1	PCN	ORG
+WB5	41	2	Lower	ORG
+WB5	41	3	first	ORDINAL
+WB5	43	1	The World Bank Sierra Leone Agro-Processing Competitiveness Project (P160295	ORG
+WB5	43	2	Mar 21, 2017	DATE
+WB5	43	3	5	CARDINAL
+WB5	43	4	8	CARDINAL
+WB5	43	5	l U s	GPE
+WB5	43	6	e O n	PRODUCT
+WB5	43	7	Sierra Leone	ORG
+WB5	43	8	FDI	GPE
+WB5	44	1	less than 30 percent	PERCENT
+WB5	48	1	1	CARDINAL
+WB5	52	1	B. Borrower’s	PERSON
+WB5	52	2	the Ministry of Agriculture Forestry	ORG
+WB5	52	3	Food Security	ORG
+WB5	52	4	the Worldbank Funded Smallholder Commercialization and Agribusiness Development Project	ORG
+WB5	53	1	SCADeP	FAC
+WB5	54	1	SCADeP	FAC
+WB5	55	1	C. Environmental	PERSON
+WB5	55	2	Gloria Malia Mahama	PERSON
+WB5	55	3	Anita Bimunka	PERSON
+WB5	55	4	Portal	LOC
+WB5	56	1	The World Bank Sierra Leone Agro-Processing Competitiveness Project (P160295	ORG
+WB5	56	2	Mar 21, 2017	DATE
+WB5	56	3	6	CARDINAL
+WB5	56	4	8	CARDINAL
+WB5	56	5	l U s	GPE
+WB5	56	6	e O n	PRODUCT
+WB5	59	1	Social Management Framework	ORG
+WB5	59	2	ESMF	ORG
+WB5	60	1	ESMF	ORG
+WB5	61	1	ESMF	ORG
+WB5	61	2	EMP	ORG
+WB5	64	1	OP	PERSON
+WB5	64	2	4.09	MONEY
+WB5	66	1	Peoples OP/BP	ORG
+WB5	66	2	4.10	CARDINAL
+WB5	67	1	OP	PERSON
+WB5	67	2	TBD Triggering OP4.12	ORG
+WB5	71	1	International Waterways OP/BP	ORG
+WB5	71	2	International Waterways	ORG
+WB5	72	1	Disputed Areas OP/BP	ORG
+WB5	72	2	Disputed Areas	ORG
+WB5	73	1	The World Bank Sierra Leone Agro-Processing Competitiveness Project (P160295	ORG
+WB5	73	2	Mar 21, 2017 Page	DATE
+WB5	73	3	7	CARDINAL
+WB5	73	4	8	CARDINAL
+WB5	73	5	l U s	GPE
+WB5	73	6	e O n	PRODUCT
+WB5	73	7	May 22, 2017	DATE
+WB5	74	1	Appraisal Stage PID/ISDS	ORG
+WB5	75	1	An Environmental Assessment	ORG
+WB5	76	1	CONTACT POINT World Bank Adesimi Freeman	ORG
+WB5	76	2	Momodu Kargbo	PERSON
+WB5	76	3	Implementing Agencies Ministry of Trade and Industry	ORG
+WB5	76	4	Momodou Pat-Sowe	PERSON
+WB5	76	5	Washington	GPE
+WB5	76	6	202	CARDINAL
+WB5	76	7	473-1000	CARDINAL
+WB5	76	8	The World Bank Sierra	ORG
+WB5	76	9	Mar 21, 2017 Page 8 of 8	DATE
+WB5	76	10	l U s	GPE
+WB5	76	11	e O n	PRODUCT
+WB5	76	12	Maman-Sani	PERSON

@@ -1,0 +1,945 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+
+PROJECT INFORMATION DOCUMENT (PID) 
+
+APPRAISAL STAGE 
+
+Report No.: 110552  
+
+Project Name Land Bank Financial Intermediation Loan (P150008) 
+
+Region AFRICA 
+
+Country South Africa 
+
+Sector(s) General finance sector (30%), General agriculture, fishing and forestry 
+
+sector (20%), SME Finance (50%) 
+
+Theme(s) Rural markets (50%), Other Financial Sector Development (50%) 
+
+Lending Instrument Investment Project Financing 
+
+Project ID P150008 
+
+Borrower(s) Land and Agricultural Development Bank of South Africa 
+
+Implementing Agency Land Bank 
+
+Environmental Category F-Financial Intermediary Assessment 
+
+Date PID Prepared/Updated 12-October-2016 
+
+Estimated Date of Board 
+
+Approval 
+
+23-January-2017 
+
+Appraisal Review Decision 
+
+(from Decision Note) 
+ 
+
+Other Decision  
+
+I. Project Context 
+
+ Country Context 
+
+ 
+
+More than twenty years after the end of apartheid, unemployment, poverty and inequality remain 
+
+important development challenges in South Africa, despite substantial progress in overcoming the 
+
+legacy of the past. While total employment increased from 9 million in 1996 to 16 million in 2015, the 
+
+unemployment rate has stayed stubbornly high in the range of 20-26 percent. In 2015 approximately 5.4 
+
+million South Africans were unemployed, of which about 40 percent were new entrants.  A 30 percent 
+
+increase in per capita GDP since the late 1990s and a sharp expansion of the social grant coverage 
+
+enabled a significant decline in the poverty rate—from 43.5 percent of the population living below 
+
+ZAR219 (inflation-adjusted) a month in 2000 to 36.7 percent (or 18.3 million people) living below R501 
+
+in 2015. Nevertheless, pockets of poverty remain deeply entrenched, mostly among the historically 
+
+disadvantaged population. With a relatively stagnant income Gini coefficient of around 0.69 in 2011 
+
+(versus 0.72 in 2006) and expenditure Gini of 0.634 in 2015 (versus 0.67 in 2006), South Africa has one 
+
+of the highest inequality rates in the world. Land distribution, in particular, is one of the most unequal in 
+
+the world. Threatening progress in poverty alleviation is the impact of the drought on agriculture and the 
+
+widening gap between those with and without jobs. 
+
+Recent developments in economic activity are not indicative of major improvements in growth or 
+
+employment. South Africa’s annual GDP is estimated to have increased by 1.3 percent in 2015, 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+compared to 1.5 percent in 2014 and 2.2 percent in 2013, a result of depressed global conditions, as well 
+
+as labor unrest and electricity shortages which compounded structural constraints. This weak growth is 
+
+well-below the projected 5 percent growth needed to drive down unemployment. Inflation was relatively 
+
+subdued in 2015 amid lower food and fuel prices (5.2 percent as of December 2015, up from 4.8 percent 
+
+in November). However the Reserve Bank increased the repurchase rate by a total of 125 basis points 
+
+from start 2015 to end March 2016 due to a deterioration of the inflation outlook as a result of the effects 
+
+from rising food prices due to the drought, the risk of a higher pass-through from the sharp depreciation 
+
+of the rand (depreciated by more than 30 percent against the dollar in 2015 and continued to weaken in 
+
+January 2016, before showing a subsequent moderate recovery) and subdued global growth. 
+
+A weaker growth environment will pose a challenge in the management of the fiscal deficit, which in 
+
+turn increases the sovereign credit risk.  In an effort to mitigate sovereign credit risk, the National 
+
+Budget Speech of February 2016 announced a strong fiscal adjustment effort, bringing the fiscal deficit 
+
+from 3.9 percent of GDP for 2015/16 to 2.8 percent by 2017/18. The original target of the 2015 budget 
+
+had been 2.5 percent, however deterioration in the growth outlook rendered the target unrealistic. In 
+
+December 2015, Fitch and Standard and Poor’s (S&P) downgraded South Africa’s creditworthiness 
+
+rating to BBB-, one notch above speculative grade, and S&P placed its rating on negative watch. The 
+
+turmoil in markets experienced in December 2015 when a weakening in the government’s commitment 
+
+to fiscal discipline was perceived, hints at the potential fallout from a further ratings downgrade.  
+
+A substantial reduction in poverty and inequality will be hard to achieve without a major success in rural 
+
+development. As stated by South Africa’s National Development Plan (NDP), the main challenge for 
+
+rural development in South Africa is to “combat the marginalization of the poor”. While the rural share 
+
+of poverty fell from 70 percent in 1993 to 58.3 percent in 2011, partly due to migration of the poor to 
+
+townships and informal settlements around urban centers, rural areas remain characterized by greater 
+
+poverty and inequality than urban areas.  The contraction in agricultural production at double-digit 
+
+rates in the first three quarters of 2015, as extreme weather conditions related to El Nino led to the most 
+
+severe drought in almost 20 years, pushed an estimated 50,000 South Africans into poverty. 
+
+Agriculture development and successful land reform are key pillars of the strategy laid out by the NDP 
+
+for integrated and inclusive rural development. South Africa’s agriculture sector is characterized by 
+
+dualism: a modern, market-oriented capital intensive farming sector consisting of a small number of 
+
+large commercial farms (around 40,000 farming units) and a large number of subsistence and 
+
+small-scale or emerging farms, many in the former homeland areas. In addition, there is growing 
+
+consolidation in the industry with a number of mergers taking place and the acquisition of smaller 
+
+players. While improving economies of scale, this consolidation may also lead to lower competition in 
+
+the market. Around 2006, over 80 percent of South African farmers worked on a piece of land of one 
+
+hectare or smaller, and another 11 percent on one to five hectares. Only 3 percent had access to land of 
+
+larger than 20 hectares. It is estimated that there are 2.5 – 3.5 million households engaged in subsistence 
+
+farming, about 350,000 – 700,000 who can be classified as emerging farmers, producing part of their 
+
+output for the market, and between 11,000 – 15,000 small to medium scale farmers who are 
+
+commercially oriented. 
+
+The progress of land reform has been slow and a large number of land reform beneficiaries are not using 
+
+the land productively. The government committed itself to transfer 30 percent of the 82 million hectares 
+
+of agricultural land owned by whites in 1994 to historically disadvantaged farmers by 2014, a total of 
+
+24.5 million hectares, through both land restitution and land redistribution. According to the Twenty 
+
+Year Review published by the Presidency, only 9.4 million hectares have been redistributed since 1994 
+
+through both land restitution and redistribution. Achieving the objective of “productive use” of 
+
+redistributed and restituted land requires even greater efforts and innovation. Land reform in South 
+
+Africa to date has involved the transfer of relatively large commercial farms in their entirety to groups of 
+
+
+
+beneficiaries. Land reform beneficiaries are typically resource-poor, risk-averse, and inexperienced 
+
+historically disadvantaged farmers. Support provided to them after their takeover of the land, that is 
+
+post-settlement support, has been inadequate. Land reform beneficiaries have experienced numerous 
+
+problems accessing services, such as credit, training, technology extension, transport, plowing services, 
+
+veterinary services, and marketing services. The well-developed agribusiness sector that services 
+
+large-scale commercial agriculture has not been seen extending its operations to emerging farmers who, 
+
+in most cases, would be cash-strapped and incapable of paying for such services anyway. As a 
+
+consequence, there is limited integration of small farmers into the value chain.  
+
+Support for small-scale farmers is equally crucial to job creation. Employment in the formal agriculture 
+
+sector declined from 1.1 million in 1992 to 739,000 in 2014 despite output growth. Nevertheless, the 
+
+NDP believes that with successful rural development and land reform the agriculture sector has the 
+
+potential to create 1 million new jobs by 2030. The NDP counts on small-scale/ emerging farmers for 
+
+over 35 percent of the job creation target, in addition to a 10 percent share from subsistence farmers, a 10 
+
+percent share expected from better use of the land that has already been redistributed or restituted to land 
+
+reform beneficiaries, and a 30 percent share from expansion of labor intensive commercial farming.   
+
+ 
+ 
+
+Sectoral and institutional Context 
+
+ 
+
+South Africa’s financial sector is the most developed in Sub-Saharan Africa and is significantly larger 
+
+and more diversified compared to regional and income-group peers. It is supported by an elaborate legal 
+
+and financial infrastructure and a generally effective regulatory framework. South Africa’s financial 
+
+system totaled approximately ZAR 10 trillion in assets as of year-end 2014 (US$ equivalent of 1,026 
+
+billion). As of end 2014, the banking sector constitutes almost 40 percent of the financial system assets, 
+
+with pension funds and long-term insurers each contributing roughly 35 and 18 percent, respectively. 
+
+The banking sector is highly concentrated, but at the same time commercially driven and professional. 
+
+The ‘big four’ banks in South Africa, two of which are foreign owned, account for over 83 percent of 
+
+total banking assets. This concentrated ownership structure has led to limited competition and distorted 
+
+incentives for these banks to serve the lower end of the market, especially micro, small, and 
+
+medium-sized enterprises and the low-income population. Nevertheless, the banking system generally is 
+
+highly professional and commercially driven, and does not suffer from distortionary policies.   
+
+Provision of agricultural finance and support  
+
+One of the main challenges for rural and agriculture development is affordable access to working capital 
+
+for emerging farmers and medium to long-term finance for small and medium-sized agricultural 
+
+enterprises. While the financial services needs of the large commercial farms are generally well catered 
+
+for by the private sector, farmers in rural areas experience many of the challenges faced by their peers in 
+
+other African countries, ranging from difficulties in accessing markets, poor infrastructure, and little or 
+
+no physical assets that could be used as collateral for accessing financing. With few exceptions, 
+
+emerging and small-scale farmers are unable to use the land that they farm on as collateral given that the 
+
+state owns most of the land in the former homelands. FinScope’s 2010 Small Business Survey estimates 
+
+that of the roughly 700,000 emerging and small commercial farmers, only 5.6 percent used formal credit 
+
+services and only 2.5 percent from a bank. In contrast, nearly half of those farmers used formal savings 
+
+and/ or payments services and about 30 percent formal insurance. 
+
+Without adequate collateral, rural farmers face challenges in accessing credit from traditional 
+
+commercial banks. While the ‘big four’ commercial banks have made efforts to become more inclusive, 
+
+their business models and cost structure do not lend themselves to serving the agricultural sector. Some 
+
+
+
+banks are funding value chain off-take agreements with large processors and retailers for on-lending to 
+
+smaller farmers, but such lending is small compared to the overall loan book of commercial banks. 
+
+According to the Department of Agriculture, Forestry and Fisheries (DAFF), total farming debt 
+
+amounted to ZAR 116,576 million (US$10,137 million) in 2014, out of which ZAR 66,345 million 
+
+(US$5,769 million) was from commercial banks and ZAR 30,580 million (US$2,659 million) from the 
+
+Land Bank. Compared to total commercial bank loans and advances of ZAR 2,967 billion (US$258 
+
+billion), agricultural lending amounts to about 1 percent of their total loan book. 
+
+A wide range of programs have been implemented by the government to provide financial support to 
+
+land reform beneficiaries and small-scale farmers. In 1994 the government introduced the 
+
+Settlement/Land Acquisition Grant (SLAG) to enable individuals and groups to finance the purchase of 
+
+land from a willing seller. Until 2000, redistribution policy centered on the provision of a grant of ZAR 
+
+16,000 (~US$1,034) to qualifying households with an income of less than ZAR 1,500 (~US$97) a 
+
+month. In 2001 the Land Redistribution for Agricultural Development (LRAD) Grant was introduced to 
+
+establish and promote emerging farmers. LRAD offered higher grants, paid to individuals rather than to 
+
+households, and made greater use of loan financing through institutions such as Land Bank to 
+
+supplement the grant. A few years later, the slow pace of land reform led to the introduction of the 
+
+Proactive Land Acquisition Strategy (PLAS) in 2005-06. The use of grants for land acquisition was 
+
+discontinued and the focus was shifted to the acquisition of strategically located land through PLAS by 
+
+the state. Since its inception, PLAS has become the biggest single program area within redistribution, in 
+
+terms of both budget and land area. 
+
+There are also initiatives designed to provide post-settlement support to land reform beneficiaries. The 
+
+LRAD policy for example sets out to close the post-settlement support gap that prevailed under SLAG. 
+
+In addition, the Comprehensive Farmer Support Program (CFSP) provides two grants, one for capacity 
+
+building and one for on-farm infrastructure. In order to access on-farm infrastructure grants ranging 
+
+from a minimum of ZAR 5,000 to a maximum of ZAR 100,000 (~ US$323 to 6,462), beneficiaries must 
+
+make an ‘own contribution’ along a sliding scale similar to that of the LRAD grant program. It is a 
+
+once-off support package designed for LRAD beneficiaries. The Comprehensive Agricultural Support 
+
+Program (CASP) supported by DAFF offers grants to support short-term operating expenses and small 
+
+operating needs such as machinery. These grants are managed at the provincial level and come from 
+
+funds that are transferred from the national to the provincial level. Combined land acquisition grants, 
+
+both for redistribution and restitution, totaled ZAR 13.6 billion (US$1.61 billion) between 2008 and 
+
+2012 while grants for movable equipment and fixed improvements amounted to ZAR 3.4 billion 
+
+(US$1.58 billion) between 2004 and 2012 (DAFF). Borrowing for working capital needs to operate and 
+
+expand farms has been one of the most acute challenges for emerging and small farmers as well as land 
+
+reform beneficiaries due to the reasons mentioned above.  
+
+Value chain integration is an opportunity to address significant skills and financing gaps of emerging 
+
+farmers. In South Africa, there is a growing recognition in government and the private sector that value 
+
+chain integration may be an effective way of building up a new class of commercial emerging farmers. 
+
+Drawing on the successful experiences in the sugar, poultry, cotton, tobacco and forestry sectors, the 
+
+government and private sector are joining forces to scale up efforts in these and other sectors. A new 
+
+area opening for value chain integration is in the supply of fresh fruits and vegetables to retail 
+
+supermarkets. With new BBBEE procurement policies government is encouraging the private sector to 
+
+get involved. For example, Walmart-Massmart has established a supplier fund to support emerging 
+
+farmer integration into their supply chain. The South African Poultry Association through the creation 
+
+of the Developing Poultry Farmers Organization (DPFO) facilitates technical and financial assistance to 
+
+access contracts with egg and poultry businesses. 
+
+
+
+Land Bank 
+
+In addition to government grants, financing from Land Bank has been expected to play a critical role in 
+
+land reform and agriculture development. Land Bank was established in 1912 and is governed by the 
+
+Land and Agricultural Development Bank Act of 2002. Land Bank was given a mandate of 11 aspects, 
+
+which fall into five broader areas: (i) access of the historically disadvantaged population to land; (ii) 
+
+agriculture productivity, growth and job creation; (iii) gender equity; (iv) environmental sustainability; 
+
+and (v) food security. The NDP published in 2011 continues to call for a key role of Land Bank in 
+
+providing financial support to land reform beneficiaries and to help them overcome difficulties in entry 
+
+into commercial farming. 
+
+As the leading development financial institution in the rural and agriculture sector in South Africa, Land 
+
+Bank had an approximately 29 percent market share in agricultural financing as of July 2015. The bank 
+
+has achieved a significant turnaround during the past five years. It is now on a sustainable trajectory with 
+
+profits of ZAR 420 million in 2014/15 (up 61 percent from 2013/14), and a Return on Average Assets of 
+
+1.12 percent and a Return on Average Equity of 6.78 percent. Total assets stood at ZAR 39.4 billion in 
+
+2014/15 with a performing loan book of ZAR 36 billion. Non-performing loans (NPLs) under Land 
+
+Bank methodology were at 3.72 percent in 2014/15 and the cost-to-income ratio was 54.9 percent. Fitch 
+
+Ratings upgraded Land Bank from AA to AA+ in January 2014. The rating was maintained at AA+ in 
+
+December 2015. The bank does not take general deposits and funds itself mainly through the debt and 
+
+capital markets, issuing instruments such as promissory notes.  
+
+Land Bank is fully owned by the South African government and supervised by the National Treasury. It 
+
+follows prudential guidelines as issued by its Board of Directors. It is consequently not prudentially 
+
+supervised by the South African Reserve Bank (SARB). The bank is audited by the Auditor General. 
+
+Land Bank is engaged in both wholesale lending through intermediaries as well as direct lending. 
+
+Intermediaries are mainly credit providers, cooperatives, or agri-businesses.  
+
+In 2015, Land Bank adopted a new strategy following the completion of its organizational review. The 
+
+review was undertaken following conditions set by NT pursuant to the issue of a Government guarantee, 
+
+aimed at enabling the Land Bank to raise longer term funding. The review was completed in August 
+
+2015 and subsequently an implementation plan was approved by the Land Bank Board. Land Bank has 
+
+started implementing the new strategy and key changes are planned to be put in place over a two-year 
+
+period in line with the priorities of Land Bank. The changes focus on: (i) a strategy to optimize the retail 
+
+commercial banking segment of Land Bank, the long term viability of which was a concern owing to 
+
+loan losses and significant operational costs; (ii) new initiatives to potentially expand the development 
+
+portfolio of Land Bank for emerging farmers in a sustainable and commercially viable manner by 
+
+adopting a project finance approach in partnership with large corporates and intermediaries to integrate 
+
+the emerging farmers into established value chains; and (iii) steps to align Land Bank financial 
+
+soundness indicators, credit appraisal processes and risk management practices with international 
+
+banking standards.  
+
+Following the adoption of this new strategy, Land Bank has two main business lines: Corporate Banking 
+
+(CB) and Commercial Development Banking (CDB). The new CDB business line is a combination of 
+
+previous Retail Emerging Markets (REM) and Retail Commercial Banking (RCB) business lines. In 
+
+2014/15, CB accounted for 83.6 percent of the bank’s loan book and CDB accounted for 16.4 percent, of 
+
+which 1.3 percent was composed of loans provided under REM. 
+
+Under CDB, the REM sub-business line continues to focus exclusively on lending to emerging farmers 
+
+for development purposes. Farmers supported under REM typically have no or limited access to 
+
+commercial funding and little or no collateral, but can be commercially sustainable and viable with 
+
+
+
+financing and technical support. Subsistence farmers are not supported under REM. Lending is based on 
+
+cash-flows and non-financial support (end to end on-farm support) is provided by Land Bank 
+
+intermediaries and agricultural specialists based in Land Bank branches. REM uses wholesale as well as 
+
+direct lending and offers production financing, installment sale finance, and medium-term loans. The 
+
+total REM portfolio amounted to ZAR 489 million in 2014/15 (increase of ZAR 97 million in that year).  
+
+Intensive and high-quality extensions services under the REM program are effectively provided by Land 
+
+Bank’s intermediaries. These intermediaries have a comparative advantage in providing these services 
+
+due to their close interaction with the beneficiaries. The non-financial complementary services, 
+
+especially extension services, are critical for emerging farmers to develop. The costs for the extension 
+
+services are embedded in the overall cost structure under REM and are borne by the intermediaries. 
+
+While the provision of extension services is costly, especially for new emerging farmers, intermediaries 
+
+can generate profits from these clients over time due to the long-run and comprehensive nature of 
+
+engagement between intermediaries and their clients. The current model of providing extension services 
+
+is considered to be of high quality according to the assessment carried out during project preparation. 
+
+Under CDB, the RCB business line which was exclusively focused on direct retail lending to medium 
+
+scale farmers, through 27 Agriculture Finance Centers (AFCs), has been significantly restructured to 
+
+improve its long term sustainability. RCB was loss-making due to high operating costs of the large 
+
+branch network and had NPLs of 11 percent in 2014/15. RCB was losing clients to commercial banks 
+
+and agricultural enterprises who started to lend in that space and could offer a wider range of products. 
+
+The competitiveness and long-term viability of RCB was therefore questionable. The new strategy aims 
+
+at consolidating the branch network into 9 provincial offices in strategically important geographical 
+
+locations which will also result in significant staff reduction. Importantly, the consolidated branch 
+
+network’s role will specifically focus on facilitating effective partnerships in their respective regions 
+
+with corporate retailers, emerging farmers, government programs, as well as technical and financial 
+
+intermediaries to leverage on high impact and high value chain finance deals. 
+
+Importantly, as part of the new strategy, Land Bank aims to scale up financing support to emerging 
+
+farmers in a sustainable and commercially viable manner through their integration in established value 
+
+chains. The approach is anchored in identifying high-potential value chain projects in a given 
+
+geographic region and securing buy-in from large agriculture corporates or technical partners to assist in 
+
+supporting emerging farmers’ integration into the chain. The agriculture corporates will provide 
+
+technical support (directly or indirectly) to the emerging farmers, building up their capacity to be 
+
+sustainable suppliers to the chain. Land Bank has identified selected potential value chain projects and 
+
+agriculture corporates to partner with in the grains, winery, horticulture and livestock sectors for this 
+
+type of financing. 
+
+The CB business line is the corporate part of the bank and the most viable business line. The CB 
+
+business line involves both direct and wholesale lending. Lending takes place primarily through 
+
+intermediaries (cooperatives and agri-businesses). CB operates through two offices in Pretoria and Cape 
+
+Town. The total portfolio of CB amounted to ZAR 31 billion in 2014/15. While CB targets commercial 
+
+farmers, the workers employed on these farm tend to be part of the low-income population.  
+
+Land Bank aims at increasing its developmental focus in both CB and CDB business lines by 
+
+strengthening its wholesale business as well as its direct lending to emerging farmers. Both business 
+
+lines contain a development portfolio with “development” referring to a focus on supporting the 
+
+historically disadvantaged population in line with Broad-Based Black Economic Empowerment 
+
+(BBBEE). International experience with development banks suggests that wholesale lending is more 
+
+likely to be successful than retail lending. The key reason is that wholesale lending does not require a 
+
+large branch network which is costly to build and maintain but rather leverages the networks already 
+
+
+
+built by other financial service providers. Wholesale lending is also more market enabling and does not 
+
+aim at competing with the private sector.  Direct lending via value chain financing leverages the 
+
+corporate partner’s ability to provide technical support to the borrower, building up their capacity to be 
+
+sustainable suppliers to the chain. As such, emerging farmers in this scheme have the potential to 
+
+increase their revenues and thus a greater likelihood of fulfilling debt obligations to the bank. The 
+
+project will therefore focus on supporting Land Bank in scaling up its wholesale portfolio as well as 
+
+expanding direct lending through LB’s new approach of integrating emerging farmers into established 
+
+value chains. Using long-term financing to fill existing funding gaps will additionally help Land Bank 
+
+meet its investment needs as well as improve its asset liability management.  
+
+Land Bank is making an important contribution to job creation. Land Bank estimates that the impact of 
+
+its loan disbursements on employment opportunities in South Africa was close to 400,000 in 2013-2014. 
+
+This estimate is comprised of over 23,000 new employment opportunities generated and over 370,000 
+
+jobs maintained during the year. One employment opportunity constitutes 240 days worked per year. 
+
+The estimated new jobs created are arising out of the medium and long-term loans Land Bank is 
+
+providing.  
+
+II. Project Development Objective(s) 
+
+ 
+The project’s development objective is to sustainably scale up Land Bank’s financing, specifically to 
+
+benefit emerging farmers. 
+
+III. Project Description 
+
+ Component Name 
+
+ Line of Credit for Agricultural Financing 
+
+ Comments (optional) 
+
+ 
+
+Land Bank will provide both wholesale finance to participating PFIs for on-lending to commercial 
+
+and emerging farmers and direct financing, in partnership with large agriculture corporates, to 
+
+emerging farmers to support their integration in established value chains. It will do so through two 
+
+main financing windows 
+
+Window 1: Wholesale finance to commercial and emerging farmers. This window will provide a 
+
+wholesale line of credit to Land Bank. Land Bank will on-lend the funds to participating financial 
+
+intermediaries (PFIs) which comply with eligibility criteria agreed with the World Bank. The PFIs 
+
+will on-lend funds to eligible agriculture enterprises, commercial and emerging farmers, communal 
+
+property associations and other eligible borrowers supported under the Land Bank’s CB and CDB 
+
+business lines. Currently, the wholesale line under CDB primarily includes the REM portfolio, 
+
+however, over the life of the project this may change to include other wholesale loans under CDB. 
+
+Window 2: Financing to integrate emerging farmers into established value chains. This window will 
+
+provide a line of credit to Land Bank to finance direct lending to emerging farmers for integrated value 
+
+chain finance. For direct lending to value chain finance/development projects, Land Bank will finance 
+
+eligible emerging farmers and agriculture enterprises in collaboration with large agriculture 
+
+corporates and/or technical partners in a targeted value chain. 
+
+. 
+
+IV. Financing (in USD Million) 
+
+
+
+ Total Project Cost: 95.00 Total Bank Financing: 95.00 
+
+ Financing Gap: 0.00  
+
+ Financing Source Amount 
+
+ Borrower 0.00 
+
+ International Bank for Reconstruction and Development 95.00 
+
+ Total 95.00 
+
+. 
+
+V. Implementation 
+
+ 
+
+The project is a financial intermediary loan (FIL) of US$95 million to Land Bank as the borrower and 
+
+implementing agency with a guarantee of the Republic of South Africa. The project has one component: 
+
+a Line of Credit for Agricultural Financing in the amount of US$95 million. 
+
+ 
+
+The loan will be extended to Land Bank as the borrower and implementing agency with a guarantee of 
+
+the Republic of South Africa. Land Bank will use the funds under the LOC component for on-lending to 
+
+PFIs. Land Bank will be responsible for project implementation and monitoring. Dedicated staff in Land 
+
+Bank has been identified for managing all aspects of the project, including reporting on implementation 
+
+progress and monitoring and evaluation, ensuring compliance with environmental and social safeguards 
+
+as well as with financial management and procurement arrangements. 
+
+ 
+
+Land Bank will report on the PDO and intermediate indicators on a semi-annual basis. The data will 
+
+come from Land Bank’s internal reports and from information provided by the PFIs. Land Bank will 
+
+prepare quarterly Interim Financial Reports for the project. The specific reporting templates will be 
+
+defined in the Project’s Operational Manual. Land Bank’s financial performance will be audited 
+
+annually by the Auditor General. 
+
+VI. Safeguard Policies  
+
+ WBG Performance Standards Applicable  Yes No 
+
+ 
+PS 1: Assessment and Management of Environmental and Social Risks 
+
+and Impacts 
+
+X  
+
+ PS 2: Labor and Working Conditions X  
+
+ PS 3: Resource Efficiency and Pollution Prevention X  
+
+ PS 4: Community Health, Safety, and Security X  
+
+ PS 5: Land Acquisition and Involuntary Resettlement X  
+
+ 
+PS 6: Biodiversity Conservation and Sustainable Management of Living 
+
+Natural Resources 
+
+ X 
+
+ PS 7: Indigenous Peoples  X 
+
+ PS 8: Cultural Heritage  X 
+
+ Comments (optional) 
+
+  
+
+
+
+VII. Contact point 
+
+ World Bank 
+
+ Contact: Gunhild Berg 
+
+ Title: Senior Financial Sector Specialist 
+
+ Tel: 473-1150 
+
+ Email: gberg@worldbank.org 
+
+ 
+
+ Contact: Uzma Khalil 
+
+ Title: Senior Financial Sector Specialist 
+
+ Tel: 458-5515 
+
+ Email: ukhalil@worldbank.org 
+
+ 
+
+ Borrower/Client/Recipient 
+
+ Name: Land and Agricultural Development Bank of South Africa 
+
+ Contact: Bennie van Rooy 
+
+ Title: Chief Financial Officer 
+
+ Tel: 27-83380-0672 
+
+ Email: bvanrooy@landbank.co.za 
+
+ Implementing Agencies 
+
+ Name: Land and Agricultural Development Bank of South Africa 
+
+ Contact: Bennie van Rooy 
+
+ Title: Chief Financial Officer 
+
+ Tel: 27-83380-0672 
+
+ Email: bvanrooy@landbank.co.za 
+
+VIII.  For more information contact: 
+
+ The InfoShop 
+
+ The World Bank 
+
+ 1818 H Street, NW 
+
+ Washington, D.C. 20433 
+
+ Telephone: (202) 458-4500 
+
+ Fax: (202) 522-1500 
+
+ Web: http://www.worldbank.org/infoshop 
+
+mailto:gberg@worldbank.org
+mailto:ukhalil@worldbank.org
+mailto:bvanrooy@landbank.co.za
+mailto:bvanrooy@landbank.co.za
+http://www.worldbank.org/infoshop
+
+
+ 
+
+
+

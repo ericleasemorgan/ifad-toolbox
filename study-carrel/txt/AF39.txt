@@ -1,0 +1,4765 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROJECT:  AGRICULTURAL MARKETS, VALUE ADDITION AND TRADE 
+
+DEVELOPMENT PROJECT (AMVAT) 
+
+ 
+
+ 
+
+COUNTRY: REPUBLIC OF SOUTH SUDAN  
+
+ 
+
+ 
+
+PROJECT APPRAISAL REPORT 
+
+Date: November 2020 
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Team  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Task Manager Edson MPYISI, Chief Financial Economist  AHAI1/RDGE2 
+
+Team members 
+
+John Bosco BUKENYA, Country Program Officer   COSS 
+
+Annah Rutebuka MUJA, Chief Social Safeguards 
+
+Officer 
+
+RDGE4 
+
+Mekonnen LOULSEGED, Senior Water Resources 
+
+Engineer 
+
+RDGE.2 
+
+Chantal UMUHIRE, Senior Agriculture Officer RDGE.2 
+
+Melaku TADESSE, Senior PFM Specialist COET/SNFI4 
+
+Sisay WOLDETENSAY, Procurement Officer COET/SNFI3 
+
+Emilio DAVA, Senior Fragility and Resilience 
+
+Officer 
+
+RDTS 
+
+Robert OCHIENG, Climate Change Consultant PECG2/RDGE1 
+
+Olakemi SALAU, Legal Consultant PGCL1 
+
+Aissatou DOSSO, Gender Consultant AHGC1 
+
+  
+
+Ag. Director 
+
+General  
+Nnenna NWABUFO RDGE 
+
+Regional Sector 
+
+Manager 
+Joseph COOMPSON RDGE2 
+
+Country Manager  Benedict KANU COSS 
+
+Sector Director Martin FREGENE AHAI 
+
+Sector Manager 
+
+(OIC) 
+Damian IHEDIOHA 
+
+AHAI1 
+
+Peer 
+
+Reviewers 
+
+Salum Ramadhani, Senior Agriculture Expert COTZ/AHAI 
+
+Vinda Kisyombe, Senior Agricultural Economist COMW/AHAI 
+
+Josephine Ndao, Chief Enterprise and SME Officer  AHHD.0 
+
+Duncan Mwesige, Chief Agricultural Economist RDGE.2/AHFR 
+
+
+
+ 
+
+ 
+
+AFRICAN DEVELOPMENT BANK GROUP 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SOUTH SUDAN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGRICULTURAL MARKETS, VALUE ADDITION AND TRADE 
+
+DEVELOPMENT PROJECT (AMVAT) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RDGE/AHAI/COSS 
+
+ 
+
+ 
+
+December 2020 
+
+ 
+
+ 
+
+ 
+
+P
+u
+
+b
+li
+
+c 
+D
+
+is
+cl
+
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+
+ze
+d
+
+  
+ 
+
+ 
+ 
+
+P
+u
+
+b
+li
+
+c 
+D
+
+is
+cl
+
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+
+ze
+d
+
+ 
+
+
+
+ 
+
+ 
+
+Table of Contents  
+
+Currency Equivalents, Fiscal Year, Weights and Measures, Acronyms and Abbreviations,  i-x 
+Project Profile, Executive Summary, Results-Based Logical Framework,  
+
+Implementation Schedule 
+
+ 
+
+I – STRATEGIC THRUST & RATIONALE ............................................................................ 1 
+
+1.1. Project linkages with country strategy and objectives .................................................... 1 
+
+1.2. Rationale for Bank’s involvement .................................................................................. 1 
+
+1.3. Donors coordination........................................................................................................ 4 
+
+II – PROJECT DESCRIPTION ................................................................................................. 4 
+
+2.1. Project Goal  ................................................................................................................... 5 
+
+2.3. Project type ..................................................................................................................... 7 
+
+2.4. Project cost and financing arrangements ........................................................................ 7 
+
+2.5. Project’s target area and population ................................................................................ 9 
+
+2.6. Participatory process for project identification, design and implementation ................. 9 
+
+2.7. Bank Group experience, lessons reflected in project design ....................................... .10 
+
+2.8. Key performance indicators ............................................................................... .….10 
+
+III – PROJECT FEASIBILITY ............................................................................................... 11 
+
+3.1. Economic and financial performance ........................................................................... 11 
+
+3.2. Environmental and Social impacts ................................................................................ 12 
+
+3.3 Fragility and Resilience  …………………………………...…………………...13 
+
+IV – IMPLEMENTATION ...................................................................................................... 14 
+
+4.1. Implementation arrangements ....................................................................................... 14 
+
+4.2. Monitoring .................................................................................................................... 17 
+
+4.3. Governance………………………………………………………………………….. 18 
+
+4.4. Sustainability................................................................................................................. 18 
+
+4.5. Risk analysis and management matrix .......................................................................... 19 
+
+4.6. Knowledge building ...................................................................................................... 19 
+
+V – LEGAL INSTRUMENTS AND AUTHORITY............................................................... 20 
+
+5.1. Legal instrument ........................................................................................................... 20 
+
+5.2. Conditions associated with Bank’s intervention ........................................................... 20 
+
+5.3. Compliance with Bank Policies .................................................................................... 21 
+
+VI – RECOMMENDATION ................................................................................................... 21 
+ 
+
+Appendix I. South Sudan’s comparative socio-economic indicators .........................................I 
+
+Appendix II. Table of ADB’s Ongoing Portfolio in South Sudan ............................................ II 
+
+Appendix III. Key related projects financed by other development partners in the country ... III 
+
+Appendix IV. Map of the Project Area .................................................................................... IV 
+
+Appendix V. Monitoring Matrix  ............................................................................................. IV 
+
+Appendix VI. Environmental and Social Compliance Note (ESCON)…………………… VIII 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+i 
+
+ 
+
+CURRENCY EQUIVALENTS  
+As of 30th September 2020 
+
+ 
+Currency  = South Sudan Pound (SSP) 
+
+ 
+
+Monetary unit 
+
+1 USD    = SSP 164.80 
+
+1 UA    = SSP 231.96 
+
+1 UA    = USD 1.41 
+
+ 
+
+ 
+
+FISCAL YEAR 
+
+ 
+
+1st July – 30th June  
+
+ 
+
+WEIGHTS AND MEASURES 
+
+ 
+
+1metric tonne  = 2204 pounds (lbs) 
+
+1 kilogramme (kg) = 2.200 lbs 
+
+1 metre (m)  = 3.28 feet (ft) 
+
+1 millimetre (mm) = 0.03937 inch (“) 
+
+1 kilometre (km) = 0.62 mile 
+
+1 hectare (ha)  = 2.471 acres 
+
+ 
+
+  
+
+
+
+ 
+
+ ii 
+
+   
+
+ 
+
+ACRONYMS AND ABBREVIATIONS 
+
+ABC Aggregation Business Centre 
+
+ADF African Development Fund 
+
+ALDWG Agriculture and Livelihoods Development Working Group 
+
+AMVAT Agricultural Markets, Value Addition and Trade Development Project  
+
+BPA Business Producer Association  
+
+CAMP Comprehensive Agricultural Development Master Plan  
+
+CES Central Equatoria State 
+
+CSA Climate Smart Agriculture 
+
+CSP Country Strategy Paper 
+
+DFID Department for International Development 
+
+DP Development Partners 
+
+EES Eastern Equatoria State 
+
+ESMF Environment and Social Management Framework 
+
+ESMP Environment and Social Management Plan 
+
+EU European Union  
+
+FAO Food and Agriculture Organization of the UN 
+
+FPA Fiduciary Principles Agreement 
+
+GAP Good Agricultural Practices 
+
+GoSS Government of South Sudan  
+
+IDP Internally Displaced Person 
+
+IFAD International Fund for Agricultural Development 
+
+IPC Integrated Food Security Phase Classification  
+
+JICA Japan International Cooperation Agency 
+
+MAFS Ministry of Agriculture and Food Security 
+
+MATIP  Markets and Agricultural Trade Improvement Project  
+
+MTI Ministry of Trade and Industry 
+
+MTR Mid-term Review 
+
+NAC National Advisory Committee 
+
+NDS National Development Strategy 
+
+NTB Non-Tariff Barriers 
+
+NTC National Technical Committee 
+
+PCR Project Completion Report 
+
+RBLF Results Based Log frame 
+
+RMC Regional Member Countries 
+
+SAPZ Special Agro-industrial Processing Zone 
+
+SEG Seed Enterprise Group 
+
+SPS Sanitary and Phytosanitary 
+
+SSAPU South Sudan Agricultural Producers Union  
+
+SSNBS South Sudan National Bureau of Standards 
+
+SSP South Sudan Pound 
+
+STASS Seed Trade Association of South Sudan 
+
+STRERP Short-Term Regional Emergency Response Project  
+
+TAAT Technologies for African Agricultural Transformation  
+
+TBT Technical Barriers to Trade 
+
+ToT Trainer of Trainers 
+
+TPIA Third Party Implementation Agency 
+
+TSF Transitional State Facility 
+
+UA Unit of Account 
+
+
+
+ 
+
+ iii 
+
+USAID United States Agency for International Development  
+
+USD  United States Dollars 
+
+WASH Water Sanitation and Hygiene 
+
+WFP World Food Program 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+
+ iv 
+
+Grant Information 
+
+Client information 
+
+ 
+
+RECIPIENT:    Republic of South Sudan  
+
+ 
+
+EXECUTING AGENCY:   Ministry of Agriculture and Food Security 
+
+ 
+
+IMPLEMENTING AGENCY:  Food and Agriculture Organization (FAO) of the UN 
+
+ 
+
+ 
+
+Financing plan 
+
+ 
+
+Source Amount 
+
+(UA million) 
+
+Amount 
+
+(USD Million) 
+
+Instrument 
+
+ADF-15 5.53 7.80 Grant 
+
+TSF Pillar I 4.47 6.30 Grant 
+
+FAO 0.20 0.28 Grant 
+
+GoSS 0.59 0.83 Counterpart Contribution 
+
+    
+
+TOTAL COST 10.79 15.21  
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Timeframe - Main Milestones (expected)  
+
+ 
+ 
+
+Concept Note approval  
+
+ 
+
+September 2020 
+
+Project Board Consideration December 2020 
+
+Effectiveness February 2021 
+
+Last Disbursement  September 2025 
+
+Completion  December 2025 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+
+ v 
+
+Project Summary 
+ 
+
+Project Overview:  
+The Agricultural Markets, Value Addition and Trade Development Project (AMVAT) uses an 
+
+agricultural value chain approach with emphasis on the development of producer associations. 
+
+The development goal of AMVAT is to contribute to reduced food insecurity, poverty 
+
+reduction and building of community and household resilience. Specific objectives include: (i) 
+
+increased agricultural productivity, (ii) increased agro-processing, aggregation and marketing 
+
+of agricultural produce, and (iii) trade and export of agricultural products and merchandise. 
+
+This will be achieved through four components: (i) increase agricultural productivity and 
+
+production; (ii) improve market-place economic and social infrastructure; (iii) enhance market 
+
+and trade enabling environment; and (iv) project management and coordination. The project 
+
+will be implemented over a five-year period (2020-2024). The total project cost is UA 10.79 
+
+million from an African Development Fund (ADF-15) grant of UA 5.53 million performance-
+
+based country allocation, Transition Support Facility Pillar I (TSF-I) grant of UA 4.47 million, 
+
+a Food and Agriculture Organization (FAO) grant of UA 0.20 million and UA 0.59 million as 
+
+counterpart contribution (in-kind land for the market in Juba) from the Government of South 
+
+Sudan. Due to capacity limitations in the Ministry of Agriculture and Food Security, the Food 
+
+and Agriculture Organization (FAO) of the United Nations will implement the project on behalf 
+
+of the Government.   
+
+ 
+
+Beneficiaries: The Project will support 20,000 farming households (about 120,000 individuals) 
+
+to increase agricultural productivity and incomes, in the three states of Central Equatoria, 
+
+Eastern Equatoria and Jonglei. The project will target households that have been receiving food 
+
+aid over the past several years (many of them IDP returnees) but are now ready to graduate into 
+
+agricultural market development activities to produce agricultural commodities for food and 
+
+marketing for increased incomes. About fifty percent of these households are women headed 
+
+households. The project will establish 20 Aggregation Business Centres (ABCs), 100 Business 
+
+Producer Associations (BPAs) and 10 Seed Enterprise Groups (SEGs) to provide improved 
+seeds to the BPAs and outside markets. Women and youth will be targeted to participate in the 
+
+management and activities of the ABCs, BPAs and SEGs and will also be beneficiaries in the agro-
+
+processing activities at the urban market. The project will also provide food safety training for 
+
+laboratory technicians and other stakeholders in the food chain market system which will provide safer 
+
+and more healthy food for over 500,000 people.  
+
+ 
+
+Needs Assessment: South Sudan has a largely unrealised agricultural potential. Over 95% of 
+
+the total area (658,842 km2) is considered suitable for agriculture, 50% of which is prime 
+
+agricultural land where soil and climatic conditions are conducive for production of a variety 
+
+of crops and livestock. However, the periodic armed conflicts in South Sudan have had serious 
+negative effects on food production and security and this has resulted in a huge food import bill (43% 
+
+of total imports in 2017), despite the country being well-endowed with natural resources that are good 
+
+for agriculture to thrive. According to the Integrated Food Security Phase Classification issued in June 
+
+2019, 6.35 million people (over 50% of the population) were facing crisis (IPC Phase 3 and above) 
+
+of food insecurity. Despite the extensive agricultural potential, agricultural and food products 
+
+rarely find their way into markets and thus are not traded on a significant scale as such, they 
+
+have not been able to generate the much-needed foreign exchange for the country. In addition, 
+South Sudan has high levels of malnutrition: 33 percent of boys and 29 percent of girls are stunted. The 
+
+Government’s agenda for economic diversification is anchored on the agriculture sector, which is vital 
+
+for economic activities. The agriculture sector contributes about ten percent (10%) of GDP but employs 
+
+seventy-eight percent (78%) of the population – there is therefore considerable room for improvement 
+
+of the sector. The AMVAT project will provide much needed skills and inputs for farmers to increase 
+
+productivity, aggregation capacity and post-harvest agro-processing equipment to improve value 
+
+addition. It will also provide capacity building to improve the marketing and trade environment for 
+
+agricultural products to increase incomes and create jobs. 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ vi 
+
+Bank’s Value Added: The Bank has considerable experience and expertise across the 
+
+continent working with partners to increase agricultural productivity, add value and develop 
+
+markets. This is demonstrated by the Bank’s Technologies for African Agricultural 
+
+Transformation (TAAT) flagship whose objectives are to expand access of smallholder 
+
+farmers, majority being women, to high yielding agricultural technologies to improve their 
+
+food production, assure food security, raise rural incomes and scaling up agricultural 
+
+technologies across similar agro-ecological zones. The Bank has also successfully 
+
+implemented the Markets and Agricultural Trade Improvement Project (MATIP) in Uganda 
+
+which established over 20 markets across the country and increase trade in agricultural products 
+
+significantly. A second phase of the MATIP is currently being implemented. In South Sudan, 
+
+the Bank has implemented the Short-Term Regional Emergency Response Project (STRERP - 
+
+UA 31.5 million) under the Bank’s Say No to Famine Framework, with highly favourable 
+
+outcomes. In addition, the Bank has supported the water and sanitation sector, power 
+
+transmission and distribution systems, good governance and non-oil revenue mobilization and 
+
+accountability projects in South Sudan. Implementation of projects in the country portfolio 
+
+continued even during the period of conflict and the COVID-19 pandemic and this effort has 
+
+been instrumental in helping to improve the lives of the people of South Sudan. 
+
+ 
+
+Knowledge Management: The ability for farmers to enhance productivity and trade depends 
+
+highly on access to suitable technologies, markets and other allied services whereby famers’ 
+
+linkage with other actors in the value chains remains essential and requires support. The Project 
+
+will therefore generate critical knowledge for supporting farmers to move from subsistence to 
+
+commercial agriculture in the selected states, which will build up lessons for the design and 
+
+management of similar interventions, to be scaled in other states, as well as in other Regional 
+
+Member Countries (RMCs). A series of training and coaching activities for different categories 
+
+of farmers and traders has been embedded in the project and a number of agricultural 
+
+commodity studies planned. In line with the Bank’s Knowledge Management Strategy (2015-
+
+2020), the knowledge obtained will be captured through regular supervision, progress reporting 
+
+and mid-term review, and as part of project completion report (PCR) preparation process, 
+
+documented and shared within the Bank and with other development partners (DPs) and RMCs. 
+
+Given that the project covers four selected crops in three different states, with varying 
+
+opportunities and challenges, there is potential to generate useful lessons. 
+
+
+
+ 
+
+ vii 
+
+ 
+
+ R E S U L T S - B A S E D  L O G I C A L  F R A M E W O R K    
+A  PROJECT INFORMATION 
+
+❚ PROJECT NAME AND SAP CODE: Agricultural Markets, Value Addition and Trade 
+Development Project (AMVAT), P-SS-AAZ-001 
+
+❚ COUNTRY/REGION: South Sudan/ Eastern Africa 
+
+❚ PROJECT DEVELOPMENT OBJECTIVE: Contribute to reduced food insecurity, poverty reduction and building of community and household resilience. 
+
+❚ PROJECT ALIGNMENT:  
+
+a) Country/region strategy: South Sudan’s National Development Strategy (NDS) (2018-2021) & Bank’s Interim Country Strategy Paper (2019-2021) 
+for South Sudan 
+
+b) Bank’s priority/sector strategy: Aligned to the Bank’s Ten-Year Strategy , Feed Africa Strategy, Improve the Life of the People of Africa and the 
+Bank’s Strategy for Addressing Fragility and Building Resilience in Africa. 
+
+c) Alignment indicators: Prevalence of food insecurity  in targeted areas 
+
+B  RESULTS MATRIX 
+RESULTS CHAIN AND INDICATOR 
+
+DESCRIPTION 
+
+RMF or ADOA 
+
+INDICATOR 
+
+UNIT OF 
+
+MEASUREMENT 
+BASELINE (2020) 
+
+TARGET AT 
+
+COMPLETION (2025) 
+
+MEANS OF 
+
+VERIFICATION 
+
+FREQUENCY OF 
+
+REPORTING 
+
+❚ OUTCOME 1: Increased agricultural productivity and income of households (disaggregated by female headed households) 
+
+INDICATOR 1:  Average yield 
+
+(T/Hectare) for target crops 
+
+ 
+□ Tons per hectare 
+
+Maize: 1.9 
+
+Sorghum: 1.7 
+
+Groundnuts: 0.95 
+
+Sesame: 0.48 
+
+Maize: 2.4 
+
+Sorghum: 2.0 
+
+Groundnuts: 1.2 
+
+Sesame: 0.72 
+
+National Crop 
+
+Census, 
+
+FAO/WFP- Annual 
+
+CFSAM report, 
+
+Project M&E 
+
+Reports 
+
+Annual 
+
+INDICATOR 2: Average household 
+
+income per 1.5 ha farm  USD $422  $673 Annual 
+
+❚ OUTCOME 2:  Increased agricultural products marketed through formal markets 
+
+INDICATOR 3: Annual volume of 
+
+agricultural farm produce marketed 
+
+through formal markets in the target 
+
+states 
+
+□ Tons TBD by baseline study 
+TBD (30% increase of 
+
+baseline) 
+
+Market Centre 
+
+monitoring reports, 
+
+ABC performance 
+
+reports 
+
+Annual   
+
+❚ OUTCOME 3:  Improved capacity of stakeholders in applying food safety & quality standards (SPS, CODEX, etc.) 
+
+INDICATOR 4: Annual volume of 
+
+food products tested and certified in 
+
+laboratories in the project area  
+ Tons 0.5 100 
+
+Reports from 
+
+SSNBS 
+
+Report from the 
+
+Mini-Labs 
+
+Annual 
+
+❚ OUTPUT 1: Enhanced farmers’ knowledge for better production, aggregation and marketing   
+
+INDICATOR 5: Farmer leaders 
+
+trained in selected themes as 
+
+Trainers of Trainers (ToTs) 
+
+(disaggregated by gender) 
+
+□ Number  0 500 ToTs (250 women) 
+Project monitoring 
+
+reports  
+
+State Performance 
+
+reports  
+
+Annual 
+
+
+
+ 
+
+ viii 
+
+INDICATOR 6: Farmers trained in 
+
+selected themes (GAP, Farming as a 
+
+business, IPM, etc.) (disaggregated 
+
+by gender) 
+
+ Number 0 
+7,500 farmers (3250 
+
+women) 
+
+MAFS reports 
+
+Annual 
+
+❚ OUTPUT 2: Established and strengthened Aggregation Business Centers (ABCs) mainstreaming youth and women 
+
+INDICATOR 7: Aggregation 
+
+Business centers (ABC) established □ Number 0 20 
+Project monitoring 
+
+reports, 
+
+ABC progress 
+
+reports 
+
+Annual 
+INDICATOR 8: Women and youth 
+
+in ABC leadership positions   Percentage 0 
+50% women and 50% 
+
+youth  
+
+OUTPUT 3: Strengthened capacities for the production and dissemination of improved seeds  
+
+INDICATOR 9: Seed Enterprise 
+
+Groups (SEGs) established 
+
+(mainstreaming  women and youth) 
+ Number  0 
+
+10 (with 2 women and 2 
+
+youth groups) 
+Project monitoring 
+
+reports ABC 
+
+progress reports 
+
+Annual 
+
+INDICATOR 10: No. of hectares 
+
+planted with improved seeds □ Number 0 20,000 
+Annual 
+
+OUTPUT 4: Adequate infrastructure set up for better for better aggregation and marketing 
+
+INDICATOR 11: Modern markets 
+
+constructed  Number 0 1 
+Market management 
+
+report Project 
+
+monitoring reports 
+
+Annual 
+
+INDICATOR 12: Traders using 
+
+post-harvest and value addition 
+
+equipment at markets (disaggregated 
+
+by gender) 
+
+□ Number 0 TBD 
+Annual 
+
+OUTPUT 5: Enhanced capacity development and trade environment in the application and management of CODEX Standards  
+INDICATOR 13: CODEX trading 
+
+standards developed for cereals and 
+
+oils seeds 
+ Number 0 2  
+
+SSNBS Reports for 
+
+SPS  
+
+Project monitoring 
+
+reports 
+
+Ministry of Industry 
+
+and Trade reports 
+
+Annual 
+
+INDICATOR 14: Custom officers, 
+
+traders and stakeholders  trained to 
+
+apply CODEX standards on oilseeds 
+
+and cereals (disaggregated by 
+
+gender)  
+
+ Number  0 130 (65 women) 
+
+Annual 
+
+INDICATOR 15: Food testing mini 
+
+laboratories  (General chemistry, 
+aflatoxin lab) and testing service 
+
+facilities equipped 
+
+ Number 0 2 
+Annual 
+
+OUTPUT 6: Strengthened value chain development and market linkages among actors 
+
+INDICATOR 16: Multi stakeholder 
+
+platforms (MSPs) for cereals and oil 
+
+seeds established 
+ 
+
+Number 
+
+0 2 
+
+Project monitoring 
+
+reports  
+
+Ministry of Industry 
+
+and Trade reports 
+
+Annual 
+
+
+
+ 
+
+ ix 
+
+OUTPUT 7: Enhanced project coordination and management 
+
+INDICATOR 17: Annual work plans 
+
+developed and approved  Number 0 5 
+Project monitoring 
+
+reports 
+Annual 
+
+INDICATOR 18: Supervision and 
+
+progress reports conducted 
+
+(technical and financial) 
+ Number 0 10 
+
+Project monitoring 
+
+reports Annual 
+
+INDICATOR 19: Capacity 
+
+development fiduciary clinics for 
+
+GoSS conducted  
+ Number 0 2 
+
+Project monitoring 
+
+reports Annual 
+
+       
+ 
+
+ 
+  
+
+
+
+ 
+
+ x 
+
+PROJECT IMPLEMENTATION SCHEDULE  
+
+Year 2021 2022 2023 2024 2025 
+
+Quarter 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 
+
+Initial Activities                      
+
+Signature of loan agreement and Disbursement effectivness                      
+
+Finalise the setting up of project implementation unit and project governance structures                     
+
+Project Launching                     
+
+Baseline study                      
+
+Component 1:                       
+
+Establish Aggregation Business Centers (ABCs), their training and provision of equipment                     
+
+Establishment of 100 Business Producer Associations (BPAs) and their training                     
+
+Train and coach ToTs in Good Agricultural Practices (GAPs)                     
+
+Establish Seed Enterprise Groups (SEGs), their training and provision of equipment                     
+
+Provide equipment for seed testing laboratory and training for the laboratory technicians                     
+
+Support MAFS to develop the seed sector framework                     
+
+Component 2:                        
+
+Preparation of feasibility study and detailed design for modern market infrastructure                     
+
+Developing Marketing Management Guidelines and Manual                      
+
+Constructoin of the market infrastructure                     
+
+Provide primary value addition equipment for the market                     
+
+Component 3:                        
+
+Develop CODEX standards and guidelines including capacity building and dissemination                     
+
+Equip 2 food testing mini laboratories for aflatoxin and general chemistry and training of technicians                     
+
+Setting up platforms for cereals and oil seed sectors                     
+
+Capacity development for stakeholders (customs officers, traders, chamber of commerce, etc.) on food 
+
+safety and quality systems and export market linkages 
+          
+
+ 
+   
+
+ 
+   
+
+ 
+ 
+
+Component 4:                        
+
+Project management, M&E and reporting (quarterly progress and supervision reports)                     
+
+Undertake thematic studies                     
+
+Implementation of ESMP                      
+
+Capacity development, training and equipment for MAFS and MTI                     
+
+Mid-term review (MTR)                     
+
+Project Completion Report (PCR)                     
+
+
+
+ 
+
+1 
+
+ 
+
+REPORT AND RECOMMENDATION OF THE MANAGEMENT OF THE AFDB GROUP TO THE BOARD OF 
+
+DIRECTORS ON THE PROPOSED ADF-15 AND TSF PILLAR-I GRANTS TO THE REPUBLIC OF SOUTH 
+
+SUDAN FOR THE IMPLEMENTATION OF THE AGRICULTURAL MARKETS, VALUE 
+
+ADDITION, AND TRADE DEVELOPMENT PROJECT (AMVAT). 
+
+ 
+
+Management hereby submits the following report and its recommendation concerning a proposed 
+
+African Development Fund (ADF-15) grant of UA 5.53 million (USD 7.80 million) performance-based 
+
+country allocation and  Transition Support Facility Pillar I (TSF-I)  grant of UA 4.47 million (USD 6.30 
+
+million)  to the Republic of South Sudan to finance activities to support the Agricultural Markets, Value 
+
+Addition and Trade Development Project (AMVAT) in South Sudan. 
+
+ 
+
+I – STRATEGIC THRUST & RATIONALE 
+
+1.1. Project linkages with country strategy and objectives  
+
+ 
+
+1.1.1 AMVAT is fully aligned with and supported by South Sudan’s National Development Strategy 
+
+(NDS) (2018-2021) whose overarching objective is to Consolidate Peace and Stabilize the Economy and 
+
+in particular, its strategic priority no. 3 Ensuring Secure Access to Adequate and Nutritious Food. The 
+
+NDS is divided into Clusters and the priority actions of the Economic Cluster includes to expedite 
+
+economic infrastructure development (including agricultural infrastructure) and to fast-track 
+
+development of legal, regulatory and institutional frameworks – activities that are integrated in the 
+
+AMVAT components. Furthermore, AMVAT will provide gender-sensitive capacity development to the 
+
+Ministry of Agriculture and Food Security, Ministry of Trade and Industry and other stakeholders, 
+
+including the development of multi-stakeholder platforms for cereals and oil seeds. AMVAT is also 
+
+aligned to the Government of South Sudan’s climate change adaptation plans for the agriculture sector 
+
+as outlined in the country’s Nationally Determined Contributions (NDC) and National Adaptation 
+
+Programme of Action (NAPA), which include promoting climate smart agricultural (CSA) technologies 
+
+and enhancing agricultural productivity through development of infrastructure and improved crop and 
+
+livestock varieties. 
+
+ 
+
+1.1.2 Moreover, AMVAT is aligned to the Bank’s South Sudan Interim Country Strategy Paper (I-
+
+CSP) 2012-2018) extended to December 2021 by supporting the single pillar of State Building through 
+
+Capacity Building and Infrastructure Development and specifically by developing market and 
+
+aggregation infrastructure. The project is included in the I-CSP pipeline. The Project is aligned with the 
+
+Bank’s Ten-Year Strategy on aspects of infrastructure development, skills and technology, agriculture 
+
+and food security and gender. It is also aligned to the Bank’s Feed Africa Strategy, in particular the 
+
+flagships of Technologies for African Agricultural Transformation (TAAT) whose objective is to 
+
+increase agricultural productivity and value addition as well as the Special Agro-industrial Processing 
+
+Zones (SAPZ) whose objective is to increase investment for enabling rural infrastructure for agro-
+
+processing and value addition. It is also aligned to the High 5 on Improving the Quality of Life for the 
+
+People of African by improving the health and nutrition of the communities through increased 
+
+productivity of nutritious food crops. Furthermore, the project is aligned to the Bank’s Jobs for Youth in 
+
+Africa Strategy (2016-2025) and in particular the Enable Youth flagship that emphasizes inclusive 
+
+employment for youth in agribusiness. Furthermore, the project is aligned to the Bank’s Strategy for 
+
+Addressing Fragility and Building Resilience in Africa (2014-2019).   
+
+ 
+
+ 
+
+
+
+ 
+
+2 
+
+ 
+
+1.2. Rationale for Bank’s involvement 
+  
+
+1.2.1. South Sudan’s vast agricultural potential is largely unrealised. Over 95% of the total area 
+(658,842 km2) is considered suitable for agriculture, 50% of which is prime agricultural land 
+
+where soil and climatic conditions are conducive for production of a variety of crops and 
+
+livestock. A large part of the country, particularly the southern part, has high rainfall for 8-9 
+
+months a year, ranging from 500-600 mm/year to more than 1,500 mm/year. However, the 
+
+periodic armed conflicts in South Sudan have had a serious negative effect on food production 
+
+and security and this has resulted in a huge food import bill (43% of total imports in 2017), 
+
+despite being well well-endowed with natural resources that are good for agriculture to prosper. 
+
+According to the Integrated Food Security Phase Classification issued in June 2019, 6.35 million 
+
+people (just over 50% of the population) were facing a food insecurity crisis (IPC Phase 3 and 
+
+above). Despite the huge agricultural potential, agricultural and food products rarely find their 
+
+way into markets and thus are not traded on a significant scale and have not been able to generate 
+
+much needed foreign exchange for the country. In addition, South Sudan has high levels of 
+
+malnutrition: 33 percent of boys and 29 percent of girls are stunted. Similarly, 30 percent of boys 
+
+and 24.5 percent of girls are underweight. The Government’s agenda for diversification of South 
+
+Sudan’s economy is anchored on the agriculture sector, which plays a vital role in economic 
+
+activities. The agriculture sector contributes about ten percent (10%) of GDP but employs 
+
+seventy-eight percent (78%) of the population. Most agricultural products that are exported are 
+
+in the form of primary products and are later imported as value-added products. This situation 
+
+leads to losses in foreign currency, employment opportunities and opportunities for customized 
+
+value-added products. 
+
+ 
+
+1.2.2. Both agricultural input and product markets in South Sudan are not well developed. No effective 
+investment can be made in scaling up production without first strengthening markets. The present 
+
+system of fresh supplies to retail markets in urban areas is dominated by imports – in the case of 
+
+Juba by supplies from Uganda. Three types of food markets currently exist in South Sudan: rural 
+
+primary markets located in villages and small towns and often held on a periodic basis; rural 
+
+assembly markets located in agricultural surplus areas; and urban retail markets serving 
+
+consumers in main towns and cities. Terminal wholesale markets within or near major cities have 
+
+yet to evolve. As a result of the underdeveloped marketing arrangements, post-harvest losses at 
+
+the farm level and within markets are very high, as are food prices.  
+
+ 
+
+1.2.3 The AMVAT activities are informed by several studies that support the development of 
+agricultural economic infrastructure and trade development. The 2020 report “Conflict, Mobility 
+
+and Markets - Changing food systems in South Sudan” notes that the post-independence conflict 
+
+has made South Sudan’s markets volatile. This has increased risks and liabilities for bigger 
+
+traders, but also offers opportunities for smaller ones.  
+
+ 
+
+1.2.4 The World Bank’s 2019 diagnostic study “South Sudan: Linking the Agriculture and Food Sector 
+to the Job Creation Agenda” is emphatic that with the implementation of the peace deal, South 
+
+Sudan could start a trajectory of recovery and growth, which ushers in an opportunity for 
+
+investments in the food sector by applying a value chain lens that does only address food security 
+
+needs, but also, generates income and lays the foundation for livelihoods and job creation. 
+
+Among other important enablers to begin to facilitate agribusiness transformation, the flagship 
+
+study refers to rural assembly markets located in agricultural surplus areas, as well as urban retail 
+
+markets serving consumers in main town and cities as being vital for beginning to strengthen the 
+
+distribution and marketing channels. 
+
+
+
+ 
+
+3 
+
+ 
+
+ 
+
+1.2.5 A 2019 study “Moving towards markets: cash, commodificaton and conflict in South Sudan” 
+notes that while food insecurity is linked to South Sudan’s conflicts, a less visible factor is the 
+
+move towards markets. Producing food for markets rather than for home consumption, turning 
+
+food into a commodity and turning farmers into wage workers – all these shifts appear to be 
+
+implicated in the country’s hunger crisis. On a positive note the report claims that South Sudanese 
+
+food producers and consumers are moving towards markets. 
+
+  
+
+1.2.6 UNDP’s 2012 study “Investing in Agriculture for Food Security and Economic Transformation” 
+cautioned that short, medium and long term actions focusing on rural sector activities including 
+
+ensuring adequate supplies from agriculture and efficient functioning markets, storage and 
+
+transportation are important to stabilize and improve the food security situation in South Sudan. 
+
+ 
+
+1.2.7 Other studies that form an anchor for this project vis a vis developing agricultural market 
+infrastructure include the Bank’s South Sudan: An Infrastructure Action Plan (2011); the 
+
+Government’s Comprehensive Agricultural Development Master Plan (CAMP, 2015-2020); and 
+
+the Bank’s South Sudan: A Study on Competitiveness and Cross Border Trade with 
+
+Neighbouring Countries (2013). 
+
+ 
+
+1.2.8 Why the Bank should Intervene:  Imported agricultural commodities play a dominant role in 
+many large marketplaces in South Sudan. However, there remains high potential for domestic 
+
+agricultural commodities to take a larger share of the overall market, and as domestic production 
+
+remains an important component given the rapid expansion of the urban population which has 
+
+created large consumer markets. Agricultural commodity markets are critical drivers to 
+
+agricultural development and the achievement of food security in the country, especially if 
+
+complemented by actions that reduce macroeconomic distortions, lower high market transaction 
+
+costs and increase value addition through an agricultural value chain approach. Markets open 
+
+opportunities for increased intra-urban and cross-border trade between rural and urban areas, 
+
+while serving as wholesale centres and hubs for commodities trade, especially for agricultural 
+
+commodities. This improves the supply and availability of basic goods, improved agricultural 
+
+inputs, as well as contributes to stabilizing commodity prices, thus positively impacting 
+
+households’ ability to access basic food and non-food items to support their livelihoods. 
+
+Operationalizing the markets and aggregation centres will thus benefit smallholder farmers by 
+
+making improved agricultural inputs available to vulnerable households, improving price 
+
+margins, and eventually increasing rural incomes. The Juba market will also improve the 
+
+hygienic environment, help reduce post-harvest losses and install facilities to meet demand, for 
+
+example cold storage units for fish storage. Furthermore, an improved information management 
+
+system for market intelligence and data collection and distribution will help farmers access the 
+
+most updated information on commodity prices and help decision makers widen the evidence 
+
+base and develop a deeper understanding of the complex market dynamics in South Sudan. 
+
+Markets also are key sites of public spaces for social interaction, connection, social inclusion, the 
+
+mingling of different cultures and the building of a sense of local community and social cohesion, 
+
+which are key for sustainable peacebuilding and post conflict reconstruction efforts. 
+
+ 
+
+1.2.9 The AMVAT project provides the opportunity to address some of the fundamental constraints to 
+agricultural growth in South Sudan, listed above. As such, it has the potential to be truly 
+
+transformational in its scope. The rationale for bank involvement in the proposed project is 
+
+underpinned by: (a) the Bank’s own strong experience and expertise in increased agricultural 
+
+
+
+ 
+
+4 
+
+ 
+
+productivity; (b) a strong commitment and ownership of the South Sudan authorities of the 
+
+project; and (c) the specific request for this project from the Government for Bank support. 
+
+ 
+
+ 
+
+ 
+
+1.3. Donor coordination 
+
+1.3.1 Development partners working in the agriculture sector are guided by the Comprehensive 
+
+Agricultural Development Master Plan (CAMP) 2015-20 and work within the Agriculture and 
+
+Livelihoods Development Working Group (ALDWG) of which the Bank is a member, as well as the 
+
+Partnership for Recovery and Resilience (PfRR) Framework. Apart from the Bank, the other key 
+
+development partners (DPs) active in the sector include DFID, FAO, WFP, EU, Netherlands, Canada, 
+
+JICA, BMZ, SDC, USAID and the World Bank. The DP’s agriculture sector interventions focus on the 
+
+following broad areas: (i) Improved management and equitable access to water sources for livelihood 
+
+activities; (ii) Food production and improved income generation for women and youth; (iii) Livelihood 
+
+diversification (e.g., animal production groups, cereal marketing groups); (iv) Construction of feeder 
+
+roads; and (v) Peace building and conflict resolution. In addition, the Bank is also a member of the donor 
+
+Public Finance Management (PFM) group.  the Heads of Development Cooperation (HoC) group and 
+
+the United Nations Country Team (UNCT).   
+
+1.3.2 During project design, the Bank held discussions with various development partners in the 
+
+agriculture sector on possible collaboration. The HoC was also informed of the AMVAT. The Bank 
+
+agreed to collaborate with JICA on joint support for capacity development to the Ministry of Agriculture 
+
+and Food Security. In addition, the Bank held discussions with IFAD, to collaborate with its project, the 
+
+South Sudan Livelihoods and Resilience Project (SSLRP), which is being prepared. The two institutions 
+
+agreed to implement activities in common states and counties and to design activities that are 
+
+complementary – effectively resulting in parallel co-financing in an amount of approximately USD 3 
+
+million. This demonstrates the strengthening of synergies, bolstering aid coordination and deepening 
+
+value added for the Bank and IFAD. Several development partners are also providing infrastructure such 
+
+as rural roads (the Netherlands) which will complement the proposed market infrastructure of AMVAT 
+
+by making needed farm gate linkages.   
+
+ 
+
+Table 1.1 Development Partner Support for Agriculture and Resilience in South Sudan 
+
+No. Development Partner  
+
+Development Partner 
+
+Support (USD) 
+
+% of Total DP 
+
+Support 
+
+1 United State of America                   63,079,419  31% 
+
+2 United Kingdom                   45,131,820  22% 
+
+3 European Union                   38,376,880  19% 
+
+4 Norway                   24,606,522  12% 
+
+5 Netherlands                   15,874,324  8% 
+
+ 
+ 
+
+II – PROJECT DESCRIPTION  
+
+2.1. Project Goal 
+
+ 
+2.1.1 The development goal of AMVAT is to contribute to reduced food insecurity, poverty reduction 
+
+and building of community and household resilience. Specific objectives include to: (i) increase 
+
+
+
+ 
+
+5 
+
+ 
+
+agricultural productivity, (ii) increase agro-processing, aggregation and marketing of agricultural 
+
+produce, and (iii) increase trade in agricultural products.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Description 
+ 
+
+2.1.2 AMVAT takes an Agricultural Value Chain Approach including supporting the development of 
+
+producer associations. The project will support and complement the entire value chain by supporting 
+
+farmer households engaged in the identified value chains of maize, sorghum, groundnuts and sesame. 
+
+The Aggregation Business Centres will serve as growth hubs in the local areas and will include post-
+
+harvest agro-processing facilities to support and provide value addition to agricultural produce and 
+
+provide extension services to the surrounding areas. These activities will widen the livelihood options 
+
+and income sources of farmers as well as increasing their resilience to climate change impacts through 
+
+improved varieties and reduced post-harvest losses. Vendors and farmers will be organized into producer 
+
+and trader associations to enhance protection and leverage collective bargaining positions and lower 
+
+purchasing and marketing costs through service sharing. Considering the COVID threat, safety measures 
+
+for social distancing will be incorporated within the project to ensure safety during project 
+
+implementation.   
+ 
+
+Table 2.1: Project components 
+No Component Name Cost (UA 
+
+Million) 
+
+Component Description 
+
+1 Increase agricultural 
+
+productivity and 
+
+production 
+
+3.07 
+
+ 
+
+Sub-component 1.1: Establish 20 Aggregation Business Centres (ABCs) 
+
+(8 in CES, 8 in EES and 4 in Jonglei)  
+
+ Train and coach ABC leaders (with a 50% target of women) on 
+aggregation, value addition/post-harvest technologies, business 
+
+management, access to credit, food safety and quality management, 
+
+marketing, financial literacy, etc. 
+
+ Facilitate the ABCs to provide extensions services to the Business 
+Producer Associations (BPAs)  
+
+ Equip the ABCs with post-harvest handling equipment (including 
+shellers, threshers, winnowers, tarpaulins, weighing machines, 
+
+aflatoxin testing kits, moisture meters, small mills, oil press for 
+
+groundnuts/sesame) and Market Information System (MIS). 
+
+Sub-component 1.2: Establish 100 Business Producer Associations 
+
+(BPAs) (5 BPAs associated with each ABC)  
+
+ Train 500 Trainer of Trainers and 7,500 farmers (including 50% 
+women) in Farmer Institution Development, Farming as a Business, 
+
+Good and Climate Smart Agricultural Practices, Integrated Pest 
+
+Management, Financial literacy, etc. 
+
+ Facilitate the BPAs to access improved and drought resistant seeds. 
+The seeds will be subsidized at the beginning, but this will be reduced 
+
+over the life of the project to zero subsidy.   
+
+Sub-component 1.3: Establish 10 Seed Enterprise Groups (SEGs) (1 SEG 
+
+to serve 2 ABCs) 
+
+ Train and coach the SEG management on seed multiplication process, 
+seed quality control, commercialization, enterprise development, etc.  
+
+ Provide seed production equipment for the SEGs. 
+
+
+
+ 
+
+6 
+
+ 
+
+ Facilitate the SEGs to provide improved seeds to the BPAs. This 
+support will gradually reduce over the life of the project to zero so that 
+
+they can become sustainable.   
+
+Subcomponent 1.4: Support the seed eco-system in the country. 
+
+ Support MAFS to develop the seed sector framework. 
+
+ Provide equipment for the seed testing laboratory to improve its 
+capacity – the facilities are already established at MAFS HQ. 
+
+ Provide training of technicians for the seed testing laboratories. 
+
+ Technical Assistance on seed varieties through the Technologies for 
+African Agricultural Transformation (TAAT)  
+
+ Undertake value chain studies on Sorghum, Groundnuts and Sesame.  
+
+2 Improve market-place 
+
+economic and social 
+
+infrastructure 
+
+4.95 Sub-component 2.1: The project will support the construction of a modern 
+
+market in Juba (about 8,000 m2). The exact size and type will be 
+
+determined based on the outcomes of the feasibility study. In addition, a 
+
+space of about 130 m2 will be provided for housing the proposed value 
+
+addition equipment and will also provide mini-storage facilities for the 
+
+market. 
+
+ Preparation of feasibility study and detailed designs of the market 
+which will include economic and social amenities (including lock-up 
+
+stalls, mini-storage facilities, use renewable/green energy sources 
+
+such as solar power, water including roof catchment harvesting 
+
+facilities, sanitation and hygiene (WASH), child care services, access 
+
+and grounds, sustainable waste management systems such as 
+
+processing bio-wastes to biogas, etc.). The consultancy will include 
+
+preparation of tender documents and construction and supervision of 
+
+the civil works implemented by the project. As an alternative, the 
+
+consulting firm as part of its assignment will review the Juba 
+
+Wholesale Market design and advise the executing agency on the 
+
+feasibility of partially implementing the proposed Juba Market by the 
+
+project. 
+
+ Developing Market Management Guidelines and Manual.  
+Subcomponent 2.2: Agro-processing and Trade Facilitation 
+
+ Provide equipment for first level value addition equipment e.g. 
+cleaning, grading/sorting and de-stoning for maize, sorghum, 
+
+groundnut and sesame; equipment for quality control, management, 
+
+grading and standardization systems; establish and promote use of 
+
+market information systems (MIS) to facilitate trade building on 
+
+existing systems such as REACH and JMMI.  
+
+3 Enhance Market and 
+
+Trade Enabling 
+
+Environment 
+
+0.98 Sub-component 3.1: Support the Ministry of Trade and Industry and other 
+
+stakeholders on food safety and standards, including Sanitary and 
+
+Phytosanitary (SPS) aspects. 
+
+ Support the national Bureau of Standards (NBS) to develop CODEX 
+standards and guidelines, including gender-sensitive SPS capacity 
+
+building and dissemination and gender-responsive customs 
+
+management 
+
+ Equip 2 mini food testing laboratories for aflatoxin and general 
+chemistry (Juba and Torit). 
+
+ Training of laboratory technicians on food safety. 
+
+ Establish Monitoring and Evaluation mechanism for Non-Tariff 
+Barriers (NTB) and Technical Barriers to Trade (TBT). 
+
+ Support development of SME policy.  
+
+
+
+ 
+
+7 
+
+ 
+
+ Feasibility study for Gum Arabic and study on Markets and 
+Marketing. 
+
+Subcomponent 3.2: Establish two viable multi- stakeholder platforms 
+
+ Setting up Platforms for cereals and oil seeds sectors 
+ Gender-sensitive capacity development for stakeholders (customs officer, 
+
+chamber of commerce, traders, etc.) on food safety and quality systems and 
+
+export market linkages. Capacity development on gender and trade 
+
+regulations related to agricultural products and Sanitary and Phytosanitary 
+
+measures as well as measures to improve food safety in informal markets. 
+
+4 Project Management 
+
+and Coordination 
+
+1.09  Plan, design, manage and implement project activities, including 
+ESMP implementation. 
+
+ Conduct monitoring and prepare quarterly progress and supervision 
+reports together with MAFS. 
+
+ Conduct Medium Term Review and Project Completion Report 
+missions. 
+
+ Undertake baseline study and value chain studies.  
+
+ Capacity development/training and equipment for MAFS and MTI: 
+capacity on procurement and financial management, equipment for 
+
+project focal point (computer/printer, furniture, consumables, etc.).  
+
+ Conduct annual audits. 
+
+  0.70 Third Party Implementation Agency Fee 
+
+ TOTAL 10.79  
+
+ 
+ 
+
+2.2. Technical solutions retained and other alternatives explored  
+ 
+
+Table 2.2: Project Alternatives Considered and Reasons for Rejection 
+
+Alternative  Brief description Reasons for rejection 
+
+Establishment of a 
+
+seed certification 
+
+body 
+
+ Setting up minimum 
+
+standards for genetic purity 
+
+and recommend minimum 
+
+standards for the classes of 
+
+certified seed, and standardize 
+
+seed certification regulations 
+
+and procedures 
+
+The Government of South Sudan is not currently ready to set 
+
+up the body. Instead of setting up a certification body, the 
+
+project is proposing: i) to develop a seed policy framework 
+
+which will guide the overall seed system in the country until 
+
+the seed policy is adopted, and ii) strengthening the existing 
+
+seed system by expanding the number of seed producers and 
+
+enhance capacities of both seed producers and inspectors.  
+
+ Support research 
+institutions to 
+
+release new 
+
+varieties including 
+
+hybrids and 
+
+biofortified seeds 
+
+To ensure that new resistant 
+
+and high yield varieties are 
+
+released to farmers to increase 
+
+their productivity 
+
+Due to project budget constraints and the cost of new variety 
+
+release requirements, it was not possible to pursue this idea 
+
+under the AMVAT. The project will therefore support the 
+
+Seed Enterprise Groups to produce Quality Declared Seed 
+
+(QDS), which is the quality of seed being produced and 
+
+marketed by the seed companies in South Sudan. These are 
+
+improved seeds but not up to the quality of foundation seed.   
+
+Establish large 
+
+rural market 
+
+infrastructure  
+
+Establishing large markets in 
+
+the rural areas where 
+
+production takes place.  
+
+Due to poor road infrastructure one cannot establish large 
+
+markets in the rural areas. The project will therefore support 
+
+the establishment of aggregation centres in the rural areas and 
+
+a modern market in Juba.  
+
+ 
+
+2.3. Project type  
+The Agricultural Markets, Value Addition and Trade Development Project (AMVAT) is supported under 
+
+the ADF-15 and TSF Pillar-I of the Bank as a standalone investment project.  
+ 
+
+
+
+ 
+
+8 
+
+ 
+
+2.4. Project cost and financing arrangements  
+2.4.1 The cost for the project activities, excluding taxes and duties, is estimated at UA 10.79 million 
+
+including physical and price contingencies. The costs are composed of UA 4.78 million (44%) in foreign 
+
+currency and UA 6.01 million (56%) in local currency costs. The combined physical and price 
+
+contingencies have been estimated at 14% of the total baseline costs. The tables below provide the 
+
+summary of the Project costs which are based on analysis of unit prices obtained from the ministries of 
+
+Agriculture and Food Security, other ministries  and other local institutions and traders. 
+
+ 
+
+ 
+
+ 
+
+Table 2.3: Project Cost Estimates by Component (UA million) 
+
+ 
+
+ 
+ 
+
+2.4.2  The project will be financed by an ADF-15 Grant of UA 5.53 million, TSF-I grant of UA 4.47 
+
+million, FAO grant of UA 0.20 million and the Government will contribute UA 0.59 million (5.6% of 
+
+project cost) as in-kind counterpart contribution for the land of the market in Juba. South Sudan’s 
+
+economy is still confronted with a high fiscal deficit (6.4% of GDP in 2019), lack of competitiveness, 
+
+limited foreign reserves and high public debt. These macroeconomic imbalances have been exacerbated 
+
+by the Government’s shift from spending on social services to military expenditure as well as the adverse 
+
+impact of COVID-19 pandemic. Due to high dependence on oil (accounts for 90% of total revenue and 
+
+95% of export earnings), falling oil prices and reduced global demand have negatively impacted budget 
+
+execution due to revenue loses. In this context, the Bank’s Country Financing Parametres recommends 
+
+100% financing by the Bank Group, however the Government will contribute in-kind.    
+
+ 
+
+Table 2.4: Sources of Financing (UA Million) 
+
+ 
+
+ Foreign Local Total Percent 
+
+ Government of South Sudan 0.00  590.07 590.07 5.5 
+
+ ADF-15 3,288.69 2,241.31 5,530.00 51.3 
+
+TSF-I 1,313.87 3,156.12 4,470.00 41.4 
+
+FAO 177.24 22.75 200.00 1.9 
+
+Total Project Cost 4,779.81 6,010.26 10,790.07 100.0 
+
+ 
+
+ 
+
+Table 2.5: Project Cost by Category of Expenditure (UA million) 
+
+ 
+
+(SSP '000) (UA '000) % Foreign % Base
+
+Component Local Foreign Total Local Foreign Total Exchange Costs
+
+1. Increase Agricultural Productivity and 
+
+Production 326,189.69     289,518.44     615,708.13     1,406.23   1,248.14   2,654.37    47             28         
+
+2. Improve Marketplace Economic and 
+
+Social Infrastructure 559,516.89     430,425.07     989,941.95     2,412.13   1,855.60   4,267.73    43             45         
+
+3. Enhance Market and Trade Enabling 
+
+Environment 103,457.78     103,092.86     206,550.64     446.02      444.44      890.46       50             9           
+
+4. Project Coordination and 
+
+Management 171,546.37     204,541.75     376,088.11     739.55      881.80      1,621.35    54             17         
+
+Total Baseline Costs 1,160,710.72  1,027,578.11  2,188,288.84  5,003.93   4,429.98   9,433.91    47             100       
+
+Physical Contingencies 46,323.41       46,323.41       92,646.82       199.70      199.70      399.41       50             4           
+
+Price Contingencies 187,105.16     34,823.36       221,928.53     806.63      150.13      956.75       16             10         
+
+Total Project Costs 1,394,139.29  1,108,724.89  2,502,864.18  6,010.26   4,779.81   10,790.07  44             114       
+
+
+
+ 
+
+9 
+
+ 
+
+ 
+ 
+
+Table 2.6: Expenditure Schedule by Component (UA million) 
+
+ 
+
+ 
+ 
+
+2.5. Project’s target area and population  
+2.5.1 The Project will support 20,000 farming households (about 120,000 individuals) in the three 
+
+states of Central Equatoria, Eastern Equatoria and Jonglei. The project will target households that have 
+
+been receiving food aid over the past several years (many of them IDP returnees) but are now ready to 
+
+graduate into agricultural development activities to produce crops for food and marketing for increased 
+
+incomes. About fifty percent of these households are women headed households. The baseline study will 
+
+identify the households that will be assisted to form the Business Producer Associations (BPAs) through 
+
+which they will receive support. The project will establish 20 Aggregation Business Centres (ABCs) in 
+
+the three states, 100 Business Producer Associations (BPAs) – each ABC will serve 5 BPAs, and 10 
+
+Seed Enterprise Groups (SEGs) to provide improved seeds to the BPAs and external markets. If one 
+
+considers the impact of the market in the Juba urban area, total population that will be impacted by this 
+
+project will be about 500,000 people. The project will also provide food safety training for laboratory 
+
+technicians and other stakeholders in the food chain market system which will provide safer and more 
+
+healthy food for over 500,000 people. The hub of development will be the ABCs which will serve as 
+
+growth hubs to serve the BPAs and SEGs. The project will identify existing aggregation centres and 
+
+build on those rather than develop completely new ones – there are many aggregation centres already 
+
+run by UN agencies such as FAO and WFP and some private ones. The project will enter into agreements 
+
+with these aggregation centres for the provision of required services.      
+
+ 
+
+2.5.2 The selection of the states was informed by the following criteria: (i) key states for food security 
+
+crops and potential for commercial crops; (ii) key states for high value crops with prospects for value 
+
+addition and external trade; (iii) states with policies and support for the proposed project interventions 
+
+including private sector participation; (iv) high percentage of the population likely to directly benefit 
+
+(SSP million) (UA million) % Foreign % Base
+
+Local Foreign Total Local Foreign Total Exchange Costs
+
+ I. Investment Costs
+
+A. Civil Works 627.74 496.14 1,123.88 2.71 2.14 4.85 44 51
+
+B. Goods 43.94 163.42 207.36 0.19 0.70 0.89 79 9
+
+C. Services 338.19 353.30 691.48 1.46 1.52 2.98 51 32
+
+Total Investment Costs 1,009.87 1,012.85 2,022.72 4.35 4.37 8.72 50 92
+
+II. Total Recurrent Costs 150.84 14.73 165.57 0.65 0.06 0.71 9 8
+
+Total Baseline Costs 1,160.71 1,027.58 2,188.29 5.00 4.43 9.43 47 100
+
+Physical Contingencies 46.32 46.32 92.65 0.20 0.20 0.40 50 4
+
+Price Contingencies 187.11 34.82 221.93 0.81 0.15 0.96 16 10
+
+Total Project Costs 1,394.14 1,108.72 2,502.86 6.01 4.78 10.79 44 114
+
+Totals Including Contingencies
+
+Components 2021 2022 2023 2024 2025 Total
+
+1. Increase Agricultural Productivity and 
+
+Production 0.60 0.85 0.63 0.53 0.46 3.07
+
+2. Improve Marketplace Economic and Social 
+
+Infrastructure 1.53 2.03 1.34 0.03 0.03 4.95
+
+3. Enhance Market and Trade Enabling 
+
+Environment 0.04 0.49 0.43 0.02 - 0.98
+
+4. Project Coordination and Management 1.00        0.19 0.19 0.20 0.22 1.79
+
+Total Project Costs 3.16 3.56 2.59 0.78 0.70 10.79
+
+
+
+ 
+
+10 
+
+ 
+
+from investment of the project; (v) states where potential development partners are currently located or 
+
+planning to work on upcoming projects to provide complementarity to AMVAT project, e.g IFAD’s 
+
+SSLRP project; (vi) development stage of the population in the state as well as peace and security.  The 
+
+Project will focus on five counties in total so as not to be spread too thinly. In Central Equatoria State, 
+
+the project will focus on Juba and Terekeka counties, in Eastern Equatoria State it will focus on Magwi 
+
+and Torit counties and in Jonglei it will focus on Bor county. These counties were selected because they 
+
+already have several existing aggregation centres and will also allow this project to synergize with the 
+
+upcoming IFAD SSLRP project that will operate in these counties.  
+
+ 
+
+2.6. Participatory process for project identification, design and implementation  
+2.6.1 The project appraisal was conducted virtually, however the Bank managed to get a lot of the 
+
+required information. The Bank undertook in-depth consultations with relevant government ministries, 
+
+as well as development partners, Civil Society Organisations and farmer groups (e.g. Seed Trade 
+
+Association of South Sudan, South Sudan Agricultural Producers’ Association, Chamber of Commerce, 
+
+etc.) during project identification, preparation and appraisal. The consultations were held with key 
+
+ministries, including Finance and Planning, Agriculture and Food Security, Trade and Industry, 
+
+Livestock, Physical Infrastructure in order to identify and review priorities and areas where Bank 
+
+resources would add value. In addition, consultative meetings were held with key stakeholders involved 
+
+in the agricultural and rural development. These included JICA, USAID, the World Bank, FAO, the 
+
+Netherlands, European Union, etc. The Bank made a presentation of the project to the Agriculture and 
+
+Livelihoods Development Working Group (ALDWG) in the country. The Bank also held meetings with 
+
+the South Sudan Agricultural Producers Union and the South Sudan Seed Trade Association among 
+
+others. 
+
+2.6.2 The consultations significantly informed the project design, especially the project components 
+
+and implementation arrangements. For instance, consultations during project preparation indicated that 
+
+it is still advisable to use a third-party implementation agency due to the low government capacity in the 
+
+ministries to implements such projects. During implementation, there will be further engagement with 
+
+key stakeholders in the agriculture sector through the multi-stakeholders’ project National Advisory 
+
+Committee (NAC) and National Technical Committee (NTC) and the ALDWG. 
+
+2.7. Bank Group experience, lessons reflected in project design 
+
+Portfolio Performance and Lessons Learnt: As at 30th September 2020, the Bank’s active portfolio for 
+
+South Sudan comprised eleven (11) sovereign operations, financed mainly using ADF grants and loans, 
+
+with commitments amounting to UA 84.7 million. In terms of sectoral distribution, the power sector has 
+
+the largest allocation (33%), followed by water supply and sanitation (27%), social sector (16%), multi-
+
+sector/governance (15%), finance (6%) and health (3%). The operations are consistent with the sole 
+
+Pillar of the National Development Plan, South Sudan’s CSP and the Bank’s strategic priorities, 
+
+underpinned by the High 5’s vision for Africa’s economic transformation. The country’s portfolio 
+
+performance is satisfactory, with an overall score of 3.8 on a scale of 1 to 4.  The total cumulative 
+
+disbursement rate was 46.8% by 30th September 2020, while the average portfolio age stood at 3.4 years. 
+
+However, critical issues of fragility, particularly insecurity and violence, still affect portfolio 
+
+performance, as well as government’s low absorption capacity stemming from institutional and human 
+
+capital weaknesses. The Bank has adopted the use of third-party implementation arrangements for all 
+
+projects with high fiduciary risks, low capacity and implemented outside Juba. This is to mitigate the 
+
+risks associated with weak institutional capacity (systems and human capital), insecurity outside Juba, 
+
+limited knowledge of Bank rules, procedures and procurement regulations by the Project Implementation 
+
+Unit officials, delays in the implementation of procurement plans and submission of audit reports. The 
+
+
+
+ 
+
+11 
+
+ 
+
+use of a third party such as the FAO mitigates all of these risks as the Bank has already assessed the 
+
+organization and signed a Fiduciary Principles Agreement (FPA) with it to implement Bank projects.   
+ 
+
+2.8. Key performance indicators 
+ 2.8.1 The results-based logical framework outlines key project performance indicators. The 
+
+development outcomes envisaged under the project are: (i) the increased average yield (t/ha) and 
+
+household income per ha for target crops,  (ii) 30% increase in farm produce marketed through formal 
+
+markets,  (iv) increase in volume of food products tested and certified in laboratories in the project areas 
+
+from 0.5 t/year to 100 t/year. All of these will lead to increased agricultural productivity and income of 
+
+households. The main indicators defined for monitoring the project outputs are: (i) number of ToTs and 
+
+farmers trained on selected topics; (ii) number of ABCs and SEGs established; (iii) number of youth and 
+
+women in both ABC and SEG management; (iv) number of hectares planted with improve seeds; (v) 
+
+number of modern markets constructed; (vi) annual value of commodities marketed through markets; 
+
+(vii) number of CODEX trading standards and guidelines established and disseminated for cereals and 
+
+oil seeds; (viii) number of new laboratories set up and operating, and (ix) number of technicians and staff 
+
+trained on selected themes. The FAO team in collaboration with the ministry of agriculture will carry 
+
+out internal project monitoring and evaluation in collaboration with the national technical committee to 
+
+monitor the performance of the project. Regular implementation progress will be measured through 
+
+Quarterly Progress Reports and annual technical and financial audits. Disaggregated data will be 
+
+captured at every level and where applicable.  The overall effectiveness of the project at implementation 
+
+will be monitored through the Bank’s bi-annual supervision missions (field and desk). The Mid-Term 
+
+Review will be undertaken in year three, while the Project Completion Report will be prepared during 
+
+the last six months of the project. 
+
+ 
+
+III – PROJECT FEASIBILITY 
+
+3.1. Economic and financial performance 
+
+ 
+
+FIRR (base case) 21% 
+
+EIRR (base case) 25% 
+
+ 
+
+NPV, USD 13.60 million at 12% 
+
+ 
+
+3.1.1 The project is financially and economically viable, as evidenced by the Project’s Financial 
+
+Internal Rate of Return (FIRR) of 21% and Economic Internal Rate of Return (EIRR) of 25%. At the 
+
+enterprise level, a typical 1.5 Ha farm model shows that as a result of the project, annual net margin is 
+
+expected to increase by 60%, from USD 422 per farm to USD 673 per farm at full development. This 
+
+demonstrates that at the enterprise level, the project is financially feasible.  
+
+ 
+
+3.1.2 The analysis has considered the following assumptions for the market: (i) project life period of 
+
+25 years; (ii) infrastructure operating cost of 2% per year of capex during the project life and 7% capex 
+
+infrastructure investment at year 10; and (iii) implementation schedule of investment built from the 
+
+expenditure schedule of activities. The assumptions for crop production were an increase in productivity 
+
+of the four selected crops ranging from 18% to 100%. The key costs that are considered for the analysis 
+
+include the capital investment costs for the market infrastructure, incremental operational and 
+
+maintenance costs and the increased input costs for the crops. 
+
+ 
+
+
+
+ 
+
+12 
+
+ 
+
+3.1.3 The initial focus crops include maize, sorghum, groundnuts and sesame due to the fact that: (i) 
+
+these are food security crops with high nutritive value; (ii) have great commercial potential through agro-
+
+processing and value addition into various products; (iii) they perform very well in these states; and (iv) 
+
+the population in these states is already familiar with the crops. However, other crops and commodities 
+
+will also be considered should they be requested by the communities.   
+ 
+
+3.1.4 The benefits considered in the analysis are those derived from increased productivity of crops 
+
+due to improved seeds, farmer training, use of modern technologies and the ability to aggregate, store 
+
+and market crops. This increase in productivity and marketing of crops translates directly into increased 
+
+incomes at the household level. The project includes other benefits which have not been factored in the 
+
+EIRR analysis above such as increase in off-farm activities due to better training and enhanced nutrition. 
+
+In addition, the project will include benefits such as innovation, safeguards, policy advice, knowledge 
+
+work, capacity building for government, etc. If all of these benefits are incorporated in the analysis, the 
+
+EIRR would be even higher.    
+
+ 
+
+3.1.5  Sensitivity analysis was conducted on the EIRR for various scenarios and as presented in the 
+
+table below, it demonstrates that the project is quite robust and would remain viable under a range of 
+
+alternatives.  
+
+ 
+
+Results of the Sensitivity Analysis on the EIRR 
+
+Scenario EIRR NPV (USD million, 12%) 
+
+20% decrease in income from crops 21% 8.44 million 
+
+20% increase in investment costs  22% 11.21 million 
+
+ 
+
+3.2. Environmental and Social Impacts 
+3.2.1 Environmental and Social: Based on the proposed project scope and structure, the 
+
+environmental and social (E&S) classification for this project is Category 2 in accordance with the 
+
+African Development Bank’s Integrated Safeguards System/Environmental and Social Assessment 
+
+Procedures (ESAP). Taking into account that the project will finance multiple sub-projects (construction 
+
+of several markets and development of agro-processing facilities) whose locations will be in a number 
+
+of counties in the three states of Central Equatoria, Eastern Equatoria and Jonglei that have not been 
+
+pinpointed, the implementation of the project will be guided by an Environmental and Social 
+
+Management Framework (ESMF). The ESMF was prepared by the Government of the Republic of South 
+
+Sudan, approved by the Ministry of Environment and the Bank. As required by the Bank, the ESMF 
+
+summary was disclosed on the Bank website on 12th October 2020. The EMSF clearly mandates the 
+
+Project Implementation Unit to prepare Environmental and Social Management Plans (ESMPs) once the 
+
+specific project locations have been identified. During the preparation of the ESMF, the capacity of the 
+
+implementing agency to implement the ESMF framework was assessed and found to be satisfactory. The 
+
+PIU will include an E&S Expert as a member of the core team of the project. A provisional sum of USD 
+
+100,000 has been included in the project budget to cater for E&S related activities.   
+ 
+
+3.2.2 Climate Change and Green Growth: The project has been screened for climate risks and 
+
+evaluated as category 2, meaning that it is vulnerable to the impacts of climate change. Foreseen climate 
+
+risks include droughts, increased temperatures and outbreak of crop and livestock pests and diseases that 
+
+may affect crop production and reduce supply of produce to the envisaged Aggregation Business Centres 
+
+and produce markets. However, the project components will contribute to addressing these climate 
+
+impacts in several ways. First, development and marketing of improved seeds will enhance farmers’ 
+
+
+
+ 
+
+13 
+
+ 
+
+access to and adoption of crop varieties that are resistant to droughts and pests. Training of farmers on 
+
+good and climate smart agricultural practices will also enable them to implement improved farm 
+
+management practices that will enhance their resilience to the impacts of climate change. Second, 
+
+provision of market centres in the three states will provide an avenue for farmers to market their produce. 
+
+This will ensure that they have markets during periods of bumper harvest and hence build resilience against 
+post-harvest loses that are normally experienced during such periods. Cold storage rooms will also enable the 
+
+prolonged preservation of produce as increased temperatures tend to cause accelerated food deterioration and 
+
+contamination. Third, development and marketing of new crops varieties will ensure availability of drought- and 
+
+pest-resistant varieties. Moreover, the project will implement green measures including providing renewable 
+
+energy (solar) to light the market, installing water harvesting systems, and facilities for managing waste. 
+
+ 
+
+3.2.3 Gender: Significant challenges to the attainment of gender equality exist in South Sudan. 
+
+Cultural norms discourage female education, support early marriage and early childbearing. High levels 
+
+of gender-based violence have been witnessed during the transition period particularly in areas affected 
+
+by conflict. Indicators related to these outputs are sex-disaggregated or gender-relevant. The project’s 
+
+preliminary environmental and social assessment has identified numerous socio-economic benefits to 
+
+women that will arise from the implementation of the project and being in leadership positions of the 
+
+ABCs and BPAs. Details of the benefits will be elaborated in the ESMF report. Project design has 
+
+proposed involvement of women and the youth from the launch of the project hence eliminating 
+
+possibilities of exclusion of the two groups in the implementation of the project and its accruing socio-
+
+economic benefits. The initial assessment also estimates that close to 500,000 people (50% women) are 
+
+likely to benefit from the project hence the project is likely to have significant socio-economic impact 
+
+overall. 
+
+3.2.4  The Project is categorized as GEN II according to the Bank’s Gender Marker System where the 
+
+gender assessment identified four key entry points to improve socio-economic benefits to women 
+
+brought about by the Project through: (i) providing adequate training in good agricultural practices; (ii) 
+
+ensuring equitable access to leadership positions of the ABCs and SMCs; (iii) improving market place 
+
+economic and social infrastructure with inclusion of gender sensitive social amenities such as child care 
+
+and adequate WASH; (iv) and strengthening the capacity of key stakeholders to address the gender 
+
+concerns of the Project. 
+
+3.2.5 These activities are designed to address the gender inequalities and accelerate opportunities for 
+
+women in the agricultural sector. Evidence shows that women in South Sudan lack opportunities for 
+
+economic growth and development, particularly in the agricultural sector. Most of them are involved in 
+
+the informal sector, which is underdeveloped and uncoordinated, and in subsistence farming. Women’s 
+
+involvement in the formal sector is limited due to high levels of illiteracy, lack of access to productive 
+
+and economic assets such as land, finance, credit facilities, agricultural inputs, extension services, and 
+
+low business skills and management capacity. Women represent close to 80% of farm labour, 50% of 
+
+the farmers in the irrigated sector and 57% in the rainfed traditional sector in South Sudan. Although 
+
+women play a crucial role in agriculture, contributing to both the GDP and to household food security, 
+
+their contribution to agriculture and the overall economic development process continues to be 
+
+undervalued. Women carry out a major portion of agricultural activities and bear almost the entire burden 
+
+of household work, including water and fuelwood collection and food processing and preparation. As 
+
+one of the key driving factors of the economy in South Sudan, agriculture and food security greatly 
+
+influence the gender factors especially those that affect women. Farmers, especially women, are faced 
+
+with several challenges including, limited access to fertile land and seeds, lack of modern tools, limited 
+
+access to markets and storage facilities. 
+ 
+
+
+
+ 
+
+14 
+
+ 
+
+3.3 Fragility and resilience  
+
+3.3.1 Context. According to the United Nations Office for Coordination of Humanitarian Affairs 
+
+(OCHA), in December 2019, there were 7.5 million South Sudanese in need of assistance. The challenge 
+
+compounds just as several states of South Sudan experienced one of the worst floods in recent years. In 
+
+addition, the agricultural sector that is so critical for food security and poverty reduction was also 
+
+negatively impacted by the floods. Preliminary forecasts showed that 75,000 hectares of cultivated land 
+
+have been damaged due to flooding in affected areas, with an estimated loss of 73,000 metric tons of 
+
+cereals. This represents approximately 15 percent loss in production in the affected areas. Consequently, 
+
+about 7,000 metric tons of food commodities were distributed to some 700,000 flood-affected people 
+
+across the country as of November 2019, with distributions continuing into other priority locations. 
+
+ 
+
+3.3.2 Fragility in the agriculture sector. The agricultural sector in South Sudan is affected by a 
+
+combination of various complex factors summarized in table 3.1 below. Agricultural output (i.e. crop 
+
+and vegetables) in South Sudan is low due, inter alia, to emigration and displacement; conflict and 
+
+insecurity; limited availability and access to quality seeds; heavy reliance on (erratic) rains and 
+
+vulnerability to drought, which all lead to food insecurity. Demand for agricultural commodities on the 
+
+other hand, has been constrained by frequent economic shocks and insecurity. Limited clarity of the land 
+
+laws, limits the participation of women, displaced and returnee people in certain community as well as 
+
+long term and large-scale investments. Weak institutional capacity coupled with competition for land 
+
+among powerful foreign powers (i.e. countries from the Middle East) and insecurity, exacerbate the 
+
+power-relations among the main stakeholders in the sector. Moreover, limited penetration of social and 
+
+economic infrastructure (i.e. roads, electricity)  and availability of working tools for farmers, as well as 
+
+low quality, quantity and adherence to strict phytosanitary measures limits the distribution and export 
+
+potential for farmers which could represent a potential source of revenue and income. Limited funding 
+
+of the agricultural sector also limits the outreach and capacity of extension services; organization of 
+
+farmers and the sector in general. 
+
+ 
+
+Table 3.1 Main challenges in the agricultural sector in South Sudan 
+Key issues 
+
+ Land ownership and access 
+ Food insecurity 
+ Low institutional capacity; 
+ Low productivity; 
+ Competitions among key stakeholders; 
+ Insecurity; 
+ Climate change 
+ Poor infrastructure 
+
+ 
+
+3.3.3 The AMVAT project and fragility in South Sudan. The Agricultural Markets, Value-Chains 
+
+and Trade Development (AMVAT) project seeks to address challenges related to (i) agricultural 
+
+productivity and production; (ii) infrastructure and (iii) farmer organization. As indicated in the table 
+
+below, this focus of the project is consistent with addressing some drivers of fragility in the country as 
+
+well as at the agriculture sector level.   
+ 
+
+Table 1.2 Fragility sensitiveness analysis of the AMVAT project 
+Project 
+
+activity/Component 
+
+Agriculture sector driver of fragility to 
+
+be addressed 
+
+Country level driver of fragility to be 
+
+addressed 
+
+Agricultural 
+
+productivity and 
+
+production 
+
+Low productivity and output Food insecurity 
+
+
+
+ 
+
+15 
+
+ 
+
+Social and economic 
+
+Infrastructure 
+
+development 
+
+High transaction costs Poverty; limited diversification of 
+
+the economy 
+
+Farmer’s organization Low sector and institutional capacity Limited institutional capacity 
+
+ 
+
+The focus and components of the AMVAT project greatly contribute to addressing key drivers of 
+
+fragility in the agriculture sector as well as at the country level as described above. However, the project 
+
+still leaves room to addressing key issues such as the land access and ownership by women, the land 
+
+regulatory framework and climate change. Therefore, it is recommended that the project seeks to mainstream 
+those issues in its design. Furthermore, the project needs to pay attention to political economy considerations 
+
+among the main stakeholders to avoid unwanted negative effects between them that could harm the successful 
+
+implementation of the project. 
+
+ 
+
+IV – IMPLEMENTATION 
+
+ 
+
+4.1. Implementation arrangements 
+ 
+
+4.1.1 The Ministry of Agriculture and Food Security and the Ministry of Trade and Industry shall be 
+
+the executing agencies for the Project. Due to the low capacity of the Ministries to implement such 
+
+projects, the Bank will engage a third-party implementing agency (TPIA) for the project. The 
+
+Government requested that the Food and Agriculture Organization of the UN (FAO) implement the 
+
+project on its behalf. The Bank has already signed a Fiduciary Principles Agreement (FPA) with the 
+
+FAO that describes the procurement and financial management arrangements and will receive an 
+
+administrative fee of seven percent (7%) of the project costs for implementation. The Government will 
+
+assign counterpart focal officers to coordinate implementation with the TPIA.  
+
+4.1.2 The governance of the project will comprise the National Advisory Committee (NAC) which 
+
+will be chaired by the Undersecretary of the Ministry of Agriculture and Food Security. The NAC will 
+
+also include the Undersecretary of the Ministry of Trade and Industry and of Finance and Planning, as 
+
+well as high-level leaders from the 3 states of CES, EES and Jonglei and the TPIA. The NAC meets 
+
+quarterly to review the project performance, provide oversight and guidance on policy issues and identify 
+
+potential linkages to enhance synergy and increase impact.  
+
+4.1.3 The governance of the project also includes the National Technical Committee (NTC) which 
+
+provides technical advice and recommendations to the NAC on all technical aspects related to project 
+
+implementation. The NTC is chaired by the Director General in the Ministry of Agriculture and Food 
+
+Security and includes relevant directors from the ministries Trade and Industry and Finance and 
+
+Planning, the TPIA, representatives of the SSAPU, STASS, NBSS and representatives from the 3 states 
+
+and other stakeholders that will be identified. The AMVAT project coordinator will serve as the NTC 
+
+Secretary and the NTC will meet quarterly.  
+
+4.1.4 FAO South Sudan will oversee overall coordination and implementation of project activities 
+
+under the respective components through its field staff and subcontracts with local implementation 
+
+partners (NGOs) through its Letter of Agreement (LoA) collaboration instrument. FAO South Sudan, 
+
+under the leadership of the FAO Representative in South Sudan, will provide oversight and quality 
+
+assurance to ensure successful implementation of the project, including all fiduciary aspects, safeguards, 
+
+monitoring, and reporting of the project’s progress. Under the TPIA arrangements, the FAO will use its 
+
+existing FM, procurement and administrative staff to implement the project. In addition, the FAO will 
+
+
+
+ 
+
+16 
+
+ 
+
+recruit a project coordinator, M&E officer, civil engineer, seed expert, value chain expert and 3 extension 
+
+agents (1 per project state) to be part of the Project Implementation Unit (PIU) within the FAO. 
+
+4.1.5 This project will be implemented in close collaboration with the MAFS at the national level and 
+
+the relevant government institutions at the State and County levels. MAFS has a strong technical team 
+
+at the national level that has contributed to design of the project and approved the technical aspects of 
+
+the project. The project is designed to engage with stakeholders, transfer knowledge, and build capacity 
+
+at State and County levels to ensure sustainability. 
+
+ 
+
+ 
+
+Procurement and financial management 
+ 
+
+Procurement 
+
+4.16 Procurement of goods (including non-consultancy services), works and acquisition of consulting 
+
+services, financed by the Bank will be carried out in accordance with the “Procurement Policy for Bank 
+
+Group Funded Operations”, dated October 2015 and following the provisions stated in the Financing 
+
+Agreement.  
+
+4.1.7 The assessment of procurement risks at the Country, Sector, and Project levels has informed the 
+
+decisions on the procurement regimes applicable for specific transactions or groups of similar 
+
+transactions under the project. Accordingly, considering the substantial procurement risks involved 
+
+coupled with the limited capacity of the Government, the project will be implemented through Third 
+
+Party Implementation arrangements with the Food and Agriculture Organization (FAO) of the United 
+
+Nations acting as Implementing Agency.  
+
+4.1.8 In March 2018, the Bank and FAO signed a Fiduciary Principles Agreement (FPA) that sets out 
+
+the framework of cooperation between these institutions. This agreement will form the basis for 
+
+implementation of the project in accordance with paragraph 5.3(e) of the Bank’s Procurement Policy. 
+
+Under this arrangement, as part of implementation of this operation, FAO will provide fiduciary 
+
+oversight of the implementation of the entire project, including those relating to the procurement policies 
+
+and procedures.  
+
+4.1.9 For the purpose of implementation of the Project, following the approval of the financing of the 
+
+project by the Bank’s Board of Directors, a Tripartite Funding and Implementation Agreement (TFIA) 
+
+will be signed between the Bank, the Government, and the FAO to put in place a framework that aims 
+
+to deliver the full scope of the project with FAO playing a central role in the execution of the related 
+
+components. The Procurement Technical Annex B5 provides details on the project’s proposed 
+
+procurement arrangements.  
+
+Financial Management 
+
+4.1.10 The Financial management capacity of the Executing Agency, the Ministry of Agriculture and 
+
+Food Security (MAFS) was not assessed during appraisal since the Government wrote an official letter 
+
+to the Bank expressing preference that the UN Food and Agriculture Organization (UN-FAO) to 
+
+implements the project as Third-Party Implementing Agency (TPIA). The FAO will work in close 
+
+cooperation with the MAFS for the smooth implement of the project. The financial management capacity 
+
+of Third-Party Implementing Agency (TPIA), FAO South Sudan was assessed virtually. The FAO 
+
+already has an FPA with the Bank that will govern the Tripartite Agreement to be signed by the Host 
+
+
+
+ 
+
+17 
+
+ 
+
+government, FAO and the Bank. The selected TPIA will maintain sound financial management systems 
+
+and arrangements to ensure that funds are used for the purposes intended.  The FAO will use its systems 
+
+and procedures to ensure sound control of the use of project resources with due considerations to the 
+
+economy, efficiency and value for money. The TPIA will also maintain a project account for the project 
+
+financed activities in accordance with sound international accounting practices. In addition, FAO will 
+
+ensure reliability of financial information by monitoring project implementation, resources and 
+
+expenditures by project component and activities. The Project will be subject to six- monthly Unaudited 
+
+Interim Financial reports and annual financial reporting on project performance and status in conformity 
+
+with FAO’s procedures. 
+
+4.1.11 Financial Reports: The Bank requires FAO to prepare and submit to the Bank a Six-monthly 
+
+and annual interim financial reports certified by an authorized signatory delegated by FAO.  
+
+4.1.12 Disbursement: Disbursements will be done in accordance with the Disbursement Rules and 
+
+Procedures of the Bank, as set out in the Bank’s Disbursement Handbook; and on the basis of the 
+
+Tripartite Project Implementation Agreement(TPIA) to be signed by government, the Fund and FAO.  
+
+The Special Account method will be used, as the disbursements in tranches will be made to FAO 
+
+depending on the nature of the activities and the annual approved work plans. For purpose of the project 
+
+and in line with the annual work plan, the TPIA will provide a Foreign Currency Account to receive 
+
+funds designated for financing project implementation activities. The size of the initial tranche and 
+
+subsequent tranches to FAO shall be based on annual work plans as per the Bank’s disbursement rules. 
+
+The disbursement will be in four (4) tranches (30% for the first three tranches and 10% for the last 
+
+tranche).  
+
+The Bank will issue a Disbursement Letter stipulating key disbursement procedures and practices for the 
+
+project. The Bank will have the right, as reflected in the General Conditions, to suspend disbursement 
+
+of the funds, if reporting requirements and other financing agreements are not complied with. 
+
+4.1.13 Audit: The project audit will not be undertaken separately. The Bank requires annual financial 
+
+audit reports of FAO at the end of each financial year (31st December) in the years the fund was utilized, 
+
+to be submitted to the Fund and to the government within 30 days after the audit report is submitted to 
+
+the General Assembly of the FAO by the Independent Auditors of the FAO. The audit procedures will 
+
+follow the agreement reached in the FPA and TPIA signed by the three parties: government, the Fund 
+
+and the FAO.  
+
+4.2. Monitoring 
+ 
+
+4.2.1 The AMVAT project will be monitored using KPIs at input, output and outcome levels reflected 
+
+in the RBLF and in the project monitoring matrix presented in annex V. Overall responsibility for M&E 
+
+will rest with the implementation agency, who will put in place an adequate M&E system and monitor 
+
+all the activities and prepare periodic reports, highlighting implementation progress, fiduciary and 
+
+procurement status, stakeholder participation with major focus to the Ministry of Agriculture and Food 
+
+Security, beneficiaries involvement, and risks and mitigation measures. The Project Implementation Unit 
+
+(PIU) within the FAO will prepare semi-annual progress reports which include Unaudited Interim 
+
+Financial Reports (IFRs) certified by an authorized officer of the FAO. The six-month period starts from 
+
+the date of receipt of the first disbursement by FAO. The monitoring will ensure data is disaggregated 
+
+by gender and age at every level where possible. The project will make use of national data sets (e.g. 
+
+National Statistics Office, Youth employment statistics, Household surveys) and Project reports 
+
+whenever possible.  The Bank through its East Africa Regional Development and Business Delivery 
+
+Office and the South Sudan country office will closely monitor day-to-day implementation of the project 
+
+
+
+ 
+
+18 
+
+ 
+
+and carry out at least two (2) supervision missions (in country or virtually) annually, including FM and 
+
+procurement assessments reviews. In addition, the Bank will carry out a mid-term review of the project 
+
+and a project completion report will be prepared at the end of the project.  
+
+ 
+
+Table 4.1: Project Monitoring Activities  
+
+ 
+
+Activity  Responsible Entity  Timeframe  
+
+Appraisal  Bank  October 2020 
+
+Negotiations  Government/Bank November 2020  
+
+Project Approval Bank December 2020 
+
+Signature of Grant Agreement 
+
+and effectiveness 
+
+Government/Bank/FAO January 2021 
+
+Fulfilment of 1st Disbursement 
+
+Conditions 
+
+Bank February 2021 
+
+Project Launch Bank/ Government/ FAO March 2021 
+
+Service Delivery  FAO/Ministry of 
+
+Agriculture  
+
+March 2021/ December 2025 
+
+Mid-term Review   Bank/Government/FAO June 2023 
+
+Project Completion Report  Bank/ Government/ FAO September 2025  
+
+Auditing  FAO Annual 
+
+4.3. Governance 
+
+4.3.1 South Sudan’s independence is 9 years old, but since 2013 the country has experienced civil war 
+leading to weakened administrative and financial management structures. Increasing conflict in 
+
+the country for 6 years before the peace deal signed in August 2018 meant that accountability in 
+
+government funds degenerated to such a level that substantial amount of government funding 
+
+could easily be allocated for military expenditures or other unprogrammed use without due regard 
+
+to approved budget commitments. The expenditure on security for example was 21% of the total 
+
+budget in 2017/2018, a decline from 26.9% in 2016/2017, compared to less than 10% for 
+
+agriculture. Development partners have therefore been concerned about weaknesses in 
+
+governance including: (i) risk and costs associated with conflict escalation; (ii) limited 
+
+implementing capacity of the public service; (iii) social and economic marginalization of mainly 
+
+rural populations that threaten the stability of the country; and (iv) weak institutional capacity.   
+
+ 
+
+4.3.2 The risk of poor governance on this project is mainly fiduciary in nature, in addition to the 
+capacity to effectively implement the project outside Juba, due to security challenges. This risk 
+
+will be mitigated by engaging FAO as the third-party project implementing agency. FAO South 
+
+Sudan continues to have strong operational, procurement and logistics capacities, enabling the 
+
+effective management and monitoring of large and complex programmes in an insecure context. 
+
+FAO is active in all states of South Sudan, with a main office in Juba and extensive field presence 
+
+through a network of field offices with over 320 staff and engages with over 90 Non-
+
+governmental Organizations (NGO’s), Co-operatives and Community Based Organizations 
+
+(CBO) to secure and deliver its mandate. FAO has a track record of implementing development 
+
+activities right through the insurgency periods which is also strengthened by their strong field 
+
+presence where they have staff in their monitoring offices. Although the project will use third 
+
+party implementation arrangements, the government will support and monitor the actions of the 
+
+implementing agency through joint supervision missions. This will ensure that clear governance 
+
+structures are maintained throughout the project. In addition, the Bank will monitor the project 
+
+through regular desk reviews of project reports provided by FAO and field supervision missions 
+
+
+
+ 
+
+19 
+
+ 
+
+to keep track of the utilization of project funds for approved activities in addition to day-to-day 
+
+contact with the FAO leadership in Juba by the Bank’s Country Manager. 
+
+4.4. Sustainability 
+
+4.4.1 Previous experiences and success stories revealed that strong community-based institutions at all 
+levels are the backbone of all activities to ensure sustainable and reliable production and 
+
+marketing. As the AMVAT Project will focus on farmer groups as an entry point and train them 
+
+with specific skills, the Project will actively be involved in organizing communities and 
+
+strengthening grassroots institutions to instil their ownership for effective production, 
+
+aggregation, marketing and trade.   
+ 
+
+ 
+4.4.2 The AMVAT project’s focus is on establishing an Aggregation Business Centre model. The ABC 
+
+is designed as a growth-hub for the local area and provides the required facilities and capacity 
+
+building to enhance both the quality and quantity of agricultural produce of targeted crops during 
+
+and long after the Project. Farmers groups as the project foundation will be equipped with 
+
+improved seeds, skills and knowledge, facilities and post-harvest handling equipment to expand 
+
+their production and marketing knowledge and thus, increase their incomes. On the other hand, 
+
+with the establishment of laboratories for food testing and CODEX standards for the cereals and 
+
+oil seeds, and capacity building of relevant staff, it is anticipated that food quality and standards 
+
+will be enhanced and maintained during and after the project. The training and coaching 
+
+instruments will continue to capacitate farmers in the long-term. In addition, the experience of 
+
+the FAO as in implementation agency in planning, delivery, and monitoring of agriculture 
+
+programs will provide the necessary knowledge, experience, and ownership to the MAFS and 
+
+beneficiaries to successfully manage key project activities beyond the Project lifespan. Another 
+
+key area of the Project is the focus on knowledge generation and policy development support. 
+
+The Project will also develop a seed policy framework to help the seed system to thrive further.  
+ 
+
+4.4.3 Stakeholder consultations undertaken during the identification, preparation and appraisal 
+confirmed the commitment of the GoSS and the farmer organizations. The ownership of the 
+
+project shall be maintained through the multi-sectoral Project Steering Committee (PSC) 
+
+consisting of key stakeholders who are committed to seeing agriculture development thrive in 
+
+the long run in South Sudan and to contribute to the country’s inclusive growth. 
+ 
+
+4.4.4 The Municipal Councils will ultimately own the market facilities and take overall responsibility 
+for the management of the market. However, they will recruit a private management company 
+
+competitively for the day today management of the market.  
+
+ 
+
+4.4.5 The vendors who occupy these facilities will be selected on a competitive basis. The project will 
+facilitate the establishment of vendors association and assist the association to be legally 
+
+established following the country’s registration system. The association will be represented in all 
+
+the decisions regarding the management of the market. The project will also provide the resources 
+
+for capacity building for the owner of the market and the vendors association related to the 
+
+management of the market. Accordingly, a training needs assessment will be carried out.  
+
+4.5 Risk analysis and management matrix 
+
+ 
+
+
+
+ 
+
+20 
+
+ 
+
+RISK CATEGORY RISK DESCRIPTION RATING MITIGATION MEASURE 
+RISK 
+
+OWNER 
+
+COUNTRY’S 
+
+POLITICAL 
+
+SITUATION AND 
+
+GOVERNANCE 
+
+CONTEXT 
+
+Breakdown of peace 
+
+agreement/ conflict 
+
+Moderate  Continuous dialogue among 
+
+different parties  
+
+GoSS 
+
+EXTERNAL AND 
+
+DOMESTIC 
+
+ECONOMIC RISKS 
+
+Currency devaluation   Substantial  Sound public financial 
+
+management  
+
+GoSS 
+
+SECTOR OF THE 
+
+OPERATION 
+
+Dependency syndrome of 
+
+aid/relief to IDPs/farmers 
+
+Moderate Training farmers on agriculture 
+
+as a business 
+
+GoSS, 
+
+Project 
+
+TECHNICAL ASPECTS 
+
+OF THE OPERATION’S 
+
+DESIGN 
+
+Low educational and literacy 
+
+level of farmers 
+
+Low Training modules use 
+
+approaches that can be 
+
+understood even with low 
+
+literacy   
+
+Project 
+
+FIDUCIARY AND 
+
+VALUE FOR MONEY 
+
+Agreement on fee for 3rd 
+
+party implement-ing agency 
+
+Low Develop and sign Tripartite 
+
+Funding and Implementation 
+
+Agreement 
+
+Goss, 
+
+Bank, 
+
+FAO 
+
+ENVIRONMENTAL 
+
+AND SOCIAL RISKS 
+
+Agro-climatic shocks such as 
+
+drought, floods, etc. 
+
+Moderate Practice climate smart 
+
+agriculture e.g. use drought 
+
+resilient seeds, diligent 
+
+implementation of ESMP 
+
+Project 
+
+CAPACITY OF 
+
+IMPLEMENTING 
+
+ENTITY 
+
+Capacity to reach remote 
+
+rural areas for 
+
+implementation  
+
+Low Project will hire a focal staff for 
+
+each state and FAO will use its 
+
+320 staff throughout the country 
+
+GoSS, 
+
+FAO, 
+
+Bank 
+ 
+
+4.6. Knowledge building 
+
+The ability for farmers to enhance productivity and trade depends on access and knowledge to 
+
+technologies, markets and services whereby their linkage with other actors in the value chains remains 
+
+essential and requires project support. The Project will therefore generate critical knowledge for 
+
+supporting farmers to move from subsistence to commercial agriculture in the selected states, which will 
+
+build up lessons for the design and management of similar interventions, to be scaled in other states, as 
+
+well as in other RMCs. Series of training and coaching to different categories has been embedded in this 
+
+project to ensure ownership and sustainability of planned activities. In line with Knowledge Management 
+
+Strategy (2015-2020), the knowledge obtained will be captured through regular supervision, progress 
+
+reporting and mid-term review, and as part of program completion report (PCR) preparation process, 
+
+documented and shared within the Bank and with other DPs and RMCs. Given that the program covers 
+
+four selected crops in three different states with varying opportunities and challenges, there is potential 
+
+to generate useful lessons. 
+ 
+
+ 
+
+V – LEGAL INSTRUMENTS AND AUTHORITY 
+
+  
+
+5.1. Legal instrument  
+5.1.1 The financing instruments to be used for this operation will be:  
+
+a. a Tripartite Funding and Implementation Agreement amongst the African Development Fund, 
+
+the Republic of South Sudan and the FAO for a grant of UA5.53 Million from the ADF-15 
+
+resources; and  
+
+b. a Tripartite Funding and Implementation Agreement amongst the African Development Bank 
+
+and the African Development Fund (as administrators of the Transition Support Facility), the 
+
+Republic of South Sudan and the FAO for a grant of UA 4.47 Million from the TSF Pillar I 
+
+resources; 
+
+
+
+ 
+
+21 
+
+ 
+
+ 
+
+the above agreements are hereinafter jointly referred to as the “Tripartite Funding and Implementation 
+
+Agreements”.  
+
+  
+
+5.2. Conditions associated with Bank’s intervention 
+ 
+
+5.2.1 Condition Precedent to Entry into Force.  The Tripartite Funding and Implementation 
+
+Agreements shall enter into force upon signature by the parties.    
+
+ 
+
+5.2.2 Condition Precedent to First Disbursement The obligation of the Bank/ Fund to make the first 
+
+disbursement of the grants under each Tripartite Funding and Implementation Agreement shall be 
+
+conditional upon entry into force of the Agreements. 
+
+ 
+
+5.2.3 Other Conditions 
+
+The Recipient shall within three (3) months of the first disbursement of the Grants establish:  
+
+a) a National Advisory Committee (NAC) which will be chaired by the Undersecretary of the Ministry 
+
+of Agriculture and Food Security and comprise of representatives of the Undersecretary of the 
+
+Ministry of Trade and Industry, Ministry of Finance and Planning and  high level leaders from the 3 
+
+states of CES, EES and Jonglei; and  
+
+b) a National Technical Committee (NTC) which is chaired by the Director General in the Ministry of 
+
+Agriculture and Food Security and includes relevant directors from the Ministry of Trade and 
+
+Industry and Ministry of Finance and Planning, the TPIA, representatives of the SSAPU, STASS, 
+
+NBSS and representatives from the 3 states and other stakeholders that will be identified. The 
+
+AMVAT project coordinator will serve as the NTC Secretary.  
+
+ 5.2.4 Environmental and Social Safeguards.  
+
+The FAO shall cause all its contractors, its sub-contractors and agents to: 
+
+a) carry out the Project in accordance with the Environmental and Social Management Plan 
+
+(“ESMP”), the Fund’s Safeguards Policies and the applicable national legislation in a manner 
+
+and in substance satisfactory to the Fund; 
+
+b) prepare and submit to the Fund, semi-annual reports on the implementation of the ESMP 
+
+including any implementation failures and related remedies thereof; and 
+
+c) refrain from taking any action which would prevent or interfere with the implementation of the 
+
+ESMP including any amendment, suspension, waiver, and/or voidance of any provision thereof, 
+
+whether in whole or in part, without the prior written concurrence of the Fund; and  
+
+d) cooperate fully with the Fund in the event that the implementation of the Project or change in 
+
+Project scope results in hitherto unforeseen displacement and /or resettlement of persons, and 
+
+shall not commence any works in the affected area under the Project, unless all PAPs in such 
+
+areas have been compensated and/or resettled in accordance with a Resettlement Action Plan 
+
+(RAP), to be prepared by the Recipient. 
+
+ 
+
+5.2.5 Recipient Counterpart Contribution for ADF-15 Grant.  The Recipient shall within three (3) 
+
+months of the first disbursement of the Grant or such later date as may be approved by the Fund,  make 
+
+available land for the construction of the markets in accordance with agreed specifications and 
+
+requirements acceptable to the Fund, as its in-kind contribution (the “Counterpart Contribution”) towards 
+
+
+
+ 
+
+22 
+
+ 
+
+the costs of the Project.  
+ 
+
+5.3 Compliance with Bank Policies 
+ This project complies with all applicable Bank policies. 
+ 
+
+VI – RECOMMENDATION  
+Management recommends that the Boards of Directors approve the proposed (a) ADF-15 Grant of UA 
+
+5.53 Million and (b) TSF Pillar I Grant of UA 4.47 Million to the Republic of South Sudan for the 
+
+purposes and subject to the conditions stipulated in this report.
+
+
+
+ 
+
+I 
+
+ 
+
+ 
+
+ 
+
+Appendix I. South Sudan’s comparative socio-economic indicators 
+
+ 
+
+  
+
+
+
+ 
+
+II 
+
+ 
+
+ 
+
+Appendix II. Table of ADB’s Ongoing Portfolio in South Sudan  
+
+  
+ 
+
+ 
+
+Project  Title Funding App. 
+
+Date 
+
+Final 
+
+Disb. Date 
+
+Amt. 
+
+Approved 
+
+(MUA) 
+
+Amt 
+
+Disb. 
+
+(MUA) 
+
+Disb. 
+
+Ratio 
+
+Age 
+
+(Yrs) 
+
+Status Total 
+
+Alert 
+
+1 Resilience Water Project for 
+
+Improved Livelihood in 
+
+Juba 
+
+TSF 14/07/2016 31/12/2021 5 1.9 38.9% 4.1 Ongo Satisfactory 
+
+2 Strategic Water Supply and 
+
+Sanitation Improvement 
+
+TSF 20/06/2019 31/03/2024 8 0.2 3.1% 1.2 Ongo Close 
+
+Watch ADF 20/06/2019 31/03/2024 8 0.1 1.6% 1.2 
+
+RWSSI 20/06/2019 31/03/2024 1.7 0 1.0% 1.2 
+
+3 South Sudan Distribution 
+
+System Rehabilitation and 
+
+Expansion 
+
+ADF 17/12/2013 31/12/2020 17 16.1 94.9% 6.7 Ongo Satisfactory 
+
+4 Juba Distribution System 
+
+Rehabilitation and 
+
+Expansion Project 
+
+TSF 12/04/2017 31/12/2020 11 6.5 60.9% 3.4 Ongo Close 
+
+Watch 
+
+5 South Sudan Covid-19 
+
+Pandemic Response Project 
+
+TSF 17/06/2020 30/05/2021 3 3 100.0% 0.2 Ongo Satisfactory 
+
+6 Improving Access and 
+
+Quality of Basic Education 
+
+TSF 05/09/2019 31/08/2023 5.9 2.3 40.0% 1 Ongo Satisfactory 
+
+ADF 05/09/2019 31/08/2023 7 2.8 40.0% 1   
+
+7 Skills for Youth 
+
+Employability and Social 
+
+Inclusion  
+
+TSF 03/04/2020 31/10/2022 1 0.5 50.0% 0.4 Ongo Satisfactory 
+
+9 Good Governance and 
+
+Capacity Building for 
+
+Natural Resources 
+
+TSF 27/10/2015 31/12/2020 1 1 99.6% 4.8 Ongo Satisfactory 
+
+10 Gender Equality and 
+
+Women’s Economic 
+
+Empowerment for Inclusion 
+
+TSF 27/10/2015 31/12/2020 1 0.5 48.4% 4.8 Ongo Flagged 
+
+11 Non-Oil Revenue 
+
+Mobilization and 
+
+Accountability  
+
+TSF 30/03/2017 30/06/2021 7.6 4.1 54.3% 3.4 Ongo Satisfactory 
+
+TSF 30/03/2017 30/06/2021 1.3 0.4 30.5% 3.4 Ongo Satisfactory 
+
+ADF 30/03/2017 30/06/2021 1.8 0.1 6.2% 3.4 Ongo Satisfactory 
+
+12 EAC - Payment and 
+
+Settlement Systems 
+
+Integration   
+
+ADF 17/07/2019 30/06/2023 2.9 0 1.3% 1.1 Ongo Close 
+
+Watch TSF 17/07/2019 30/06/2023 1.9 0 0.3% 1.1 Ongo 
+
+     85 39.5 46.6%    
+
+ 
+
+  
+
+
+
+ 
+
+III 
+
+ 
+
+Appendix III. Key related projects financed by other development partners in the country 
+
+ 
+
+  
+
+Donor Project Name Funding Start Date End Date
+
+UN Peace Building Fund (PBF) Enhancing Women`s Access to Land to Consolidate Peace in South Sudan  $        500,000.00 1-Dec-2018 30-Nov-2020
+
+RSRTF Mitigating cattle-related violence in the Tri-State Border Areas of Tonj, Gogrial, and Wau  $     3,500,000.00 16-Dec-2019 30-Dec-2021
+
+United Kingdom  Building Resilience through Asset Creation and Enhancement - Phase Two (BRACE II)  $     8,385,949.89 1-Jan-2016 31-Mar-2021
+
+United Kingdom Humanitarian Response and Resilience in South Sudan (HARRIS)  $   36,745,870.00 1-Jul-2016 31-Mar-2021
+
+European Union
+Strengthening the Livelihoods Resilience of Pastoral and Agro-Pastoral Communities in South Sudan’s cross-border 
+
+areas with Sudan, Ethiopia, Kenya and Uganda
+ $   29,340,426.00 1-Aug-2017 31-Mar-2021
+
+United State of America Sustainable Agriculture for Economic Resiliency (SAFER)  $   33,878,925.00 4-Aug-2017 3-Aug-2021
+
+European Union Aweil Stabilization and Recovery Programme  $     2,277,200.00 15-Apr-2019 14-Apr-2022
+
+Norway ELRP 2018-2020  $   24,606,522.00 1-May-2018 31-Dec-2020
+
+Netherlands 2020 Emergency Livelihood Response Programme, South Sudan  $     4,500,000.00 1-Jan-2020 31-Dec-2020
+
+Netherlands South Sudan Fisheries Sector Support Project  $     5,000,000.00 1-Jan-2020 31-Dec-2023
+
+Japan Revitalizing Marial Lou Livestock Training Institute and support to vulnerable pastoralists in Lakes, Unity and Warrap  $     1,000,000.00 1-Mar-2020 28-Feb-2021
+
+United State of America Emergency livestock support for agro-pastoralists in South Sudan  $     2,000,000.00 1-Jan-2020 31-Dec-2020
+
+United State of America Emergency Livelihood Response Programme - Food For Peace 2020  $   25,000,000.00 15-Mar-2020 14-Apr-2021
+
+European Union Emergency Livelihood Response in Desert Locust-affected Communities in South Sudan  $     1,091,703.06 1-May-2020 30-Apr-2021
+
+United State of America
+Grow your own vegetable kit: Promoting home gardening for improved nutritional status among vulnerable households in 
+
+Juba, Nimule, Wau and Aweil towns, South Sudan.
+ $     2,200,494.00 1-Jun-2020 31-Dec-2020
+
+FAO Development of Pesticide Management Legal Framework in South Sudan  $        500,000.00 28-Dec-2018 31-Dec-2020
+
+FAO Response to increased livestock disease outbreaks in South Sudan  $        250,000.00 2-Nov-2019 7-Nov-2020
+
+FAO Rapid livelihood assistance to flood affected populations in South Sudan  $        500,000.00 4-Dec-2019 3-Dec-2020
+
+FAO Emergency Preparedness and Response to Desert Locust Outbreak in South Sudan  $        500,000.00 14-Feb-2020 13-Feb-2021
+
+FAO Forest Ecosystem Enhancement to Reduce GHG Emissions and Improve Community Resilience in South Sudan  $        500,000.00 1-Jun-2020 31-Dec-2021
+
+Bill & Melinda Gate
+Desert locust response to mitigate impacts on food security and livelihoods in Djibouti, Eritrea, Ethiopia, Kenya, 
+
+Somalia, South Sudan and Uganda
+ $        788,004.00 12-Mar-2020 1-Mar-2021
+
+Germany 
+Emergency livelihoods assistance to vulnerable farmers, agropastoralists and pastoralists affected by desert locust in 
+
+Djibouti, Eritrea, Ethiopia, Kenya, Somalia, South Sudan and Uganda
+ $     2,725,347.00 1-Mar-2020 28-Feb-2021
+
+Germany Scaling-up Early Warning Early Action (EWEA) for agriculture and food security  $           16,200.00 1-Mar-2020 31-Dec-2020
+
+France
+Emergency livelihoods assistance to vulnerable households affected by desert locust in Ethiopia, Somalia and South 
+
+Sudan
+ $        492,323.00 1-Apr-2020 31-Mar-2021
+
+Russia Control of Desert Locust Invasion/Outbreak and Livelihood Protection in South Sudan  $        894,442.00 1-May-2020 30-Apr-2021
+
+European Union Global Network Against Food Crises Partnership Programme - Country Investment South Sudan  $     3,623,188.00 1-Oct-2018 30-Jun-2021
+
+European Union Global Network Against Food Crises Partnership Programme - Management and crosscutting support  $     1,969,704.00 1-Mar-2020 27-Dec-2022
+
+Switzerland 
+Strengthening the capacity of smallholder farmers in vulnerable regions for disaster risk management and climate 
+
+resilient agricultural practices
+1,062,699.00$      8/4/2020 7/31/2022
+
+UNICEF
+Funds transfer to support the implementation of Food Security and Nutrition Monitoring Survey Rounds 26- 29 (FSNMS 
+
+R26-29)
+400,000.00$         6/1/2020 12/31/2021
+
+Denmark Contribution to FAO for COVID-19 and desert locust-related actions in Horn of Africa, 2020 369,867.00$         7/1/2020 12/31/2021
+
+European Union Global Network Against Food Crises Partnership Programme - IPC 74,659.00$           7/28/2018 12/27/2022
+
+Canada Mitigating the Effects of Covid-19 to protect food security and livelihoods of vulnerable households in urban centres 2,260,739.00$      11/1/2020 4/30/2022
+
+UNOCHA (CERF) CERF Rapid Response grant for a response to the floods 300,000.00$         10/1/2020 31/03/2021
+
+Africa Development Bank AfBD Humanitarian Assistance 200,000.00$         11/1/2020 31/04/2021
+
+Green Climate Fund (GCF) Capacity development to fulfill the UNFCCC commitments in the Republic of South Sudan 450,000.00$         11/1/2020 4/30/2022
+
+Netherlands Food and Nutrition Security Resilience Programme (FNS-REPRO): Building food system resilience in protracted crises 6,374,324.00$      1-Oct-2019 30-Sep-2023
+
+Total Portfolio  $      204,278,586 
+
+
+
+ 
+
+IV 
+
+ 
+
+Appendix IV. Map of the Project Area 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+
+
+ 
+
+V 
+
+ 
+
+Appendix V: Monitoring Matrix  
+
+Mandatory annex on M&E arrangements to be included in the PAR 
+
+A. Alignment indicators 
+
+Indicator name  
+Definition/ 
+
+description  
+Source Baseline and targets (where possible) 
+
+Integrated Food 
+
+Security Phase 
+
+Classification 
+
+(IPC)  
+
+A measure of the severity and 
+
+magnitude of food insecurity and 
+
+emergencies  
+
+CFSAM1  At January 2020, 45% of the population 
+
+(about 5.3 million people) were in 
+
+Integrated 
+
+Phase Classification (IPC) > 3 
+
+B. Outcome and output indicators (performance indicators) 
+
+Indicator name 
+Definition/ 
+
+description 
+
+Methodology 
+
+for collection 
+
+Responsibility 
+
+for collection 
+
+Results planning 
+
+2021 2022 2023 2024 
+
+1. Average 
+
+yield 
+
+(T/Hectare) for 
+
+target crops 
+
+Yields per hectare of 
+
+selected crops in 
+
+project area  
+
+Survey during 
+
+annual field 
+
+assessment of 
+
+CFSAM 
+
+MAFS and 
+
+FAO/WFP 
+
+during CFSAM 
+
+Maize: 
+
+1.9 
+
+Sorghum: 
+
+1.7 
+
+Groundnu
+
+ts: 0.95 
+
+Sesame: 
+
+0.48 
+
+  Maize: 2.4 
+
+Sorghum: 
+
+2.0 
+
+Groundnuts: 
+
+1.2 
+
+Sesame: 
+
+0.72 
+
+2. Average 
+
+household 
+
+income per 1.5 
+
+ha (USD) 
+
+Annual income/ 
+
+profit of typical 1.5 
+
+Ha farm growing the 
+
+4 crops in the 
+
+project area 
+
+Survey during 
+
+annual field 
+
+assessment of 
+
+CFSAM 
+
+MAFS and 
+
+FAO/WFP 
+
+during CFSAM 
+
+422  550 673 
+
+3. Annual 
+
+volume of 
+
+agricultural 
+
+farm produce 
+
+marketed 
+
+through formal 
+
+markets in the 
+
+target states 
+
+(tonnes) 
+
+ Household, 
+
+ABC and 
+
+market surveys 
+
+Project M&E, 
+
+MAFS, MTI,   
+
+TBD   30% 
+
+increase 
+
+ 
+
+        
+
+4. Annual 
+
+volume of food 
+
+products tested 
+
+and certified in 
+
+laboratories in 
+
+the project area 
+
+(tonnes) 
+
+Crops tested in the 
+
+mini food testing 
+
+laboratories 
+
+SS National 
+
+Bureau of 
+
+Standards 
+
+statistics 
+
+SS National 
+
+Bureau of 
+
+Standards 
+
+0.5   100 
+
+5: Farmer 
+leaders trained in 
+
+selected themes 
+
+as Trainers of 
+Trainers (ToTs) 
+
+(disaggregated 
+
+by gender) 
+
+Farmer leaders in 
+
+the ABCs and BPAs 
+
+trained as Trainers 
+
+of Trainers 
+
+Attendance list 
+
+during Trainings 
+
+(Training 
+
+reports  
+
+Project 0 200 400 500 
+
+6: Farmers 
+trained in 
+
+selected themes 
+
+(GAP, Farming 
+as a business, 
+
+IPM, etc.) 
+
+(disaggregated 
+by gender) 
+
+Overall farmers 
+
+trained in Good 
+
+Agricultural 
+
+Practices 
+
+Attendance list 
+
+during Trainings 
+
+(Training 
+
+reports) 
+
+Project 0 2000 5000 7500 
+
+                                                           
+1 Crops and Food Security Assessment Report 
+
+
+
+ 
+
+VI 
+
+ 
+
+7. Aggregation 
+
+Business 
+
+centers (ABC) 
+
+established 
+
+ABCs established, 
+
+infrastructure and 
+
+governance 
+
+structures 
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 0 10 18 20 
+
+8: Women and 
+
+youth in ABC 
+
+leadership 
+
+positions 
+
+Women and youth 
+
+in ABC 
+
+management and 
+
+leadership 
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 0   50% women 
+
+and 50% 
+
+youth 
+
+9. No. of Seed 
+
+Enterprise 
+
+Groups (SEGs) 
+
+established 
+
+Seed fields 
+
+established and 
+
+governance 
+
+structures  
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 0 5 8 10 
+
+10. No. of 
+
+hectares 
+
+planted with 
+
+improved 
+
+seeds 
+
+Hectares planted 
+
+with improved seeds 
+
+in the project area 
+
+Survey during 
+
+annual field 
+
+assessment of 
+
+CFSAM 
+
+MAFS and 
+
+FAO/WFP 
+
+during CFSAM 
+
+0 5,000 10,000 20,000 
+
+11. Modern 
+
+markets 
+
+constructed 
+
+Modern market 
+
+constructed in urban 
+
+area 
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 0  1 1 
+
+12. Traders 
+
+using post-
+
+harvest and 
+
+value addition 
+
+equipment at 
+
+markets 
+
+(disaggregated 
+
+by gender) 
+
+Traders accessing 
+
+the post-harvest 
+
+value addition 
+
+equipment at the 
+
+markets 
+
+Project 
+
+Monitoring 
+
+Reports, ABC 
+
+statistics, 
+
+Market Statistics 
+
+Project, ABC, 
+
+Market 
+
+0   TBD 
+
+13. CODEX 
+
+standards 
+
+developed for 
+
+cereals and oil 
+
+seeds 
+
+CODEX standards 
+
+established for 
+
+select crops – 
+
+cereals and oil seeds 
+
+MTI Statistics 
+
+ 
+
+MTI, Project 
+
+ 
+
+0 1 2 2 
+
+14. Custom 
+
+officers, 
+
+traders and 
+
+other 
+
+stakeholders 
+
+trained to 
+
+apply CODEX 
+
+standards for 
+
+oilseeds and 
+
+cereals gender 
+
+(disaggregated 
+
+by gender) 
+
+Beneficiaries trained 
+
+for CODEX 
+
+standards 
+
+SSNBS 
+
+Statistics 
+
+ 
+
+SSNBS, Project 
+
+ 
+
+0 50 100 130 
+
+15. Food 
+
+testing mini 
+
+laboratories  
+
+(General 
+
+chemistry, 
+
+aflatoxin lab) 
+
+and testing 
+
+service 
+
+facilities 
+
+equipped 
+
+Mini food 
+
+laboratories 
+
+equipped and 
+
+operating 
+
+SSNBS statistics SSNBS, Project 0 1 2 2 
+
+16. Multi 
+
+stakeholder 
+
+platforms 
+
+(MSPs) for 
+
+cereals and oil 
+
+seeds 
+
+established 
+
+Multi-stakeholder 
+
+platforms organized 
+
+and functioning – 
+
+governance 
+
+structures, meetings, 
+
+etc.   
+
+MTI Statistics 
+
+ 
+
+MTI, Project 
+
+ 
+
+0 1 2 2 
+
+17. Annual 
+
+work plans 
+
+Project annual work 
+
+plans 
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 2 3 4 5 
+
+
+
+ 
+
+VII 
+
+ 
+
+developed and 
+
+approved 
+
+18. 
+
+Supervision 
+
+and progress 
+
+reports 
+
+conducted 
+
+(technical and 
+
+financial) 
+
+Supervision reports Project 
+
+Monitoring 
+
+Reports 
+
+Project 2 4 8 10 
+
+19. Capacity 
+
+development 
+
+fiduciary 
+
+clinics for 
+
+GoSS 
+
+conducted 
+
+Training sessions 
+
+for ministries on 
+
+procurement and 
+
+financial 
+
+management 
+
+Project 
+
+Monitoring 
+
+Reports 
+
+Project 0 2 2 2 
+
+User note for table 1:  
+
+1. Indicator name: This refers to the exact same indicator name referred to in the results framework. 
+2. Definition / Description: This provides an easy-to-understand and detailed enough definition of each indicator. 
+3. Methodology for data collection: This refers to the specific computation used to provide updated data. 
+4. Responsibility for data collection: This indicates the unit or office responsible for collecting the data at regular intervals. 
+5. Results planning. This indicates the planned/expected targets for each indicator at different stages of the project (at minimum 
+
+the target data at mid-term and at completion should be specified).  
+
+6. Note that baseline and targets for alignment indicators are not mandatory. If not available, task teams should insert “not 
+available” in the corresponding cell.  
+
+  
+
+
+
+ 
+
+VIII 
+
+ 
+
+Appendix VI: ENVIRONMENTAL AND SOCIAL COMPLIANCE NOTE (ESCON)2 
+A. Basic Information 
+
+Project Title: Agricultural Markets, Value Addition and Trade Development 
+
+Project (AMVAT) 
+
+Project ‘’SAP code’’:  P-SS-AAZ-001 
+
+Country: South Sudan Lending Instrument3: DI   FI   CL   BS   GU   RPA   EF   RBF  
+
+Project Sector: AHAI Task Team Leader: Edson Mpyisi 
+
+Appraisal date: 28/10/2020 - 02/11/2020 Estimated Approval Date: 17/12/2020 
+
+Environmental safeguards Officer: Muligirwa Emmanuel Social safeguards Officer: Muja Annah Rutebuka 
+
+Environmental and Social Category: 2 Operation type: SO   NSO   PBO  
+
+Is this project processed under rapid responses to crises and emergencies? Yes     No  
+
+Is this project processed under a waiver to the Integrated Safeguards System? Yes     No  
+
+ 
+
+B. Disclosure and Compliance Monitoring 
+B.1. Mandatory disclosure 
+
+Environmental Assessment/Audit/System/Others (specify: ………………………………………………………………) 
+
+Was/Were the document (s) disclosed prior to appraisal? Yes       No        NA         
+
+Date of "in-country" disclosure by the borrower/client 18-Sep-2020 
+
+Date of receipt, by the Bank, of the authorization to disclose 01-Oct-2020 
+
+Date of disclosure by the Bank 12-Oct-2020 
+
+Resettlement Action Plan/Framework/Others (specify: ………………………………………………………………….) 
+
+Was/Were the document (s) disclosed prior to appraisal? Yes       No        NA  
+
+Date of "in-country" disclosure by the borrower/client [Date] 
+
+Date of receipt, by the Bank, of the authorization to disclose [Date] 
+
+Date of disclosure by the Bank [Date] 
+
+Vulnerable Peoples Plan/Framework/Others (specify: …………………………………………………………………...) 
+
+Was the document disclosed prior to appraisal? Yes        No      NA    
+
+Date of "in-country" disclosure by the borrower/client [Date] 
+
+Date of receipt, by the Bank, of the authorization to disclose [Date] 
+
+Date of disclosure by the Bank [Date] 
+
+If in-country disclosure of any of the above documents is not expected, please explain why: NA  
+
+ 
+
+B.2. Compliance monitoring indicators 
+
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for 
+
+the implementation of measures related to safeguard policies? 
+
+Yes     No  NA    
+
+Have costs related to environmental and social measures, including for the running of the 
+
+grievance redress mechanism, been included in the project cost? 
+
+Yes     No  NA    
+
+Is the total amount for the full implementation for the Resettlement of affected people, as 
+
+integrated in the project costs, effectively mobilized and secured? 
+
+Yes     No  NA    
+
+Does the Monitoring and Evaluation system of the project include the monitoring of 
+
+safeguard impacts and measures related to safeguard policies? 
+
+Yes     No  NA    
+
+Have satisfactory implementation arrangements been agreed with the borrower/client and the 
+
+same been adequately reflected in the project legal documents? 
+
+Yes     No  NA    
+
+ 
+
+C. Clearance 
+Is the project compliant to the Bank’s environmental and social safeguards requirements, and to be submitted to the 
+
+Board? Yes        No         
+
+                                                           
+2 Note: This ESCON shall be appended to project appraisal reports/documents before Senior Management and/or Board approvals. 
+
+3 DI=Direct Investment; FI=Financial Intermediary; CL=Corporate Loan; BS=Budget Support; GU=Guarantee; RPA=Risk Purchase Agreement; 
+EF=Equity Financing; RBF=Results Based Financing. 
+
+
+
+ 
+
+IX 
+
+ 
+
+Prepared by: Name Signature Date 
+
+Environmental Safeguards Officer: Emmanuel Muligirwa  01/12/2020 
+
+Social Safeguards Officer: Muja Annah Rutebuka 01/12/2020 
+
+Task Team Leader: Edson Mpyisi 01/12/2020 
+
+Submitted by:  
+
+Sector Director: Fregene, Martin  
+
+ 
+
+ 
+
+ 
+
+01/12/2020 
+
+Cleared by:  
+
+Director SNSC: Issa, Maman-Sani 
+
+ 
+
+02/12/2020 
+
+ 
+
+ 
+
+ 
+
+
+
+
+

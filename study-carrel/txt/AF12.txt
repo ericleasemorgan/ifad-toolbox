@@ -1,0 +1,5065 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Langue : ANGLAIS
+
+
+ 
+
+Translated Document  
+
+AFRICAN DEVELOPMENT BANK GROUP 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+COTE D’IVOIRE 
+ 
+
+ 
+
+BELIER REGION AGRO-INDUSTRIAL POLE PROJECT  
+
+(2PAI-BELIER). 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPRAISAL REPORT 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AHAI DEPARTMENT 
+January 2017 
+
+P
+u
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+th
+
+o
+ri
+
+z
+e
+d
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+P
+
+u
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+th
+
+o
+ri
+
+z
+e
+d
+ 
+
+A
+u
+th
+
+o
+ri
+
+z
+e
+d
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+Page 
+
+Currency Equivalents, Fiscal Year, Weights and Measures, Acronyms and Abbreviations, Project Brief, 
+
+Project Summary, Results-Based Logical Framework, Implementation Schedule..........................................  i-viii 
+ 
+I –  STRATEGIC THRUSTS AND RATIONALE ................................................................... 1 
+
+1.1 Project Linkages with Country Strategy and Objectives ......................................... 1 
+
+1.2 Rationale for the Bank's Intervention ...................................................................... 1 
+
+1.3 Aid Coordination ..................................................................................................... 2 
+ 
+II  - PROJECT DESCRIPTION  ................................................................................................ 1 
+
+2.1 Project Objectives and Components ........................................................................ 4 
+
+2.2 Technical Solutions Adopted and Alternatives Explored ....................................... 4 
+
+2.3 Project Type ............................................................................................................ 5 
+
+2.4 Project Cost and Financing Arrangement ............................................................... 6 
+
+2.5 Project Target Area and Beneficiaries ..................................................................... 8 
+
+2.6 Participatory Approach …...……………………………………………………...10 
+
+2.7 Bank Group Experience and Lessons Learned .. ………...…...…………...……….9 
+
+2.8 Key Performance Indicators .................................................................................... 9 
+ 
+III – PROJECT FEASIBILITY ................................................................................................. 10 
+
+3.1 Economic and Financial Performance ................................................................... 10 
+
+3.2 Environmental and Social Impact ......................................................................... 11 
+ 
+IV – IMPLEMENTATION ....................................................................................................... 14 
+
+4.1 Implementation Arrangements .............................................................................. 14 
+
+4.2 Monitoring ............................................................................................................. 16 
+
+4.3 Governance ............................................................................................................ 17 
+
+4.4 Sustainability ......................................................................................................... 17 
+
+4.5 Risk Management .................................................................................................. 18 
+
+4.6 Knowledge Building.......................................................................................... …20  
+ 
+V –  LEGAL FRAMEWORK ................................................................................................... 19 
+
+5.1 Legal Instrument.................................................................................................... 19 
+
+5.2 Conditions Associated with Bank Involvement .................................................... 19 
+
+5.3 Compliance with Bank Policies ............................................................................ 19 
+ 
+VI – RECOMMENDATION ..................................................................................................... 20 
+ 
+Annex I   Côte d'Ivoire's Comparative Socio-Economic Indicators 
+
+Annex II  Bank Group Portfolio in Côte d'Ivoire 
+
+Annex III  Note on Consideration of the Country's Fragility   
+
+Annex IV    Rationale for the Level of Counterpart Contribution to the ADB Window 
+Annex V  Map of the Project Area  
+ 
+ 
+
+
+
+ 
+
+i 
+
+Currency Equivalents 
+(December 2016) 
+
+ 
+
+UA 1 = CFAF 834.987  = USD 1.35376  = EUR 1.27293 
+
+USD 1  =  CFAF 616.791 
+
+EUR 1 =  CFAF 655.957 
+
+ 
+
+Fiscal Year 
+1 January - 31 December 
+
+ 
+
+Weights and Measures 
+
+1 metric tonne  = 2204 pounds  
+
+1 kilogramme (kg) = 2.20 pound 
+
+1 metre (m)  = 3.28 feet 
+
+1 millimetre (mm) = 0.03937 inch 
+
+1 kilometre (Km) = 0.62 mile 
+
+1 hectare (ha)  = 2.471 acres 
+ 
+
+ 
+
+Acronyms and Abbreviation 
+
+AFD    : French Development Agency 
+
+AGEROUTE   : Road Management Agency 
+
+ANADER  : National Rural Development Support Agency 
+
+ANSUT    : National Universal Telecommunication Service Agency  
+
+BD    : Bidding Documents 
+
+BOAD    : West African Development Bank  
+
+CEPICI    :  Investment Promotion Centre in Côte d’Ivoire 
+
+DGPSP    : General Directorate of Planning, Statistics and Projects 
+
+DPSP    : Directorate of Planning, Statistics and Programmes 
+
+ECOWAP  :  ECOWAS Agricultural Policy  
+
+ECP    : Project Coordination Team 
+
+ESMP    : Environmental and Social Management Plan 
+
+EU    : European Union 
+
+FAO    : United Nations Food and Agriculture Organization  
+
+GIZ    : German Technical Cooperation 
+
+HVA    : Improved Village Water Supply System  
+
+IFAD    : International Fund for Agricultural Development 
+
+IsDB    : Islamic Development Bank 
+
+INP-ESA  : National Polytechnic Institute – Advanced School of Agriculture 
+
+JICA    : Japanese International Cooperation Agency 
+
+MINADER  : Ministry of Agriculture and Rural Development 
+
+MIRAH    : Ministry of Animal and Fishery Resources 
+
+MPMEF                     :          Ministry under the Prime Minister in charge of the Economy and Finance 
+
+MSHP                        :          Ministry of Public Health and Hygiene 
+
+OCPV    : Foodstuffs Marketing Support Authority 
+
+ONDR    :  National Rice Sector Development Authority 
+
+PAIA-ID  : Agricultural Infrastructure Support Project in Indénié-Djuablic Region 
+
+PARFACI  : Agricultural Sector Recovery Support Project 
+
+SIPRA    : Ivorian Livestock Production Company 
+
+SME    : Small- and Medium-Sized Enterprises   
+
+TFPG    : Technical and Financial Partners Group  
+
+UA    : Unit of Account 
+
+WAAPP  : West African Agricultural Production Programme 
+
+
+
+ 
+
+ii 
+
+Project Brief 
+
+Client Information 
+
+DONEE/BORROWER    : Côte d’Ivoire 
+ 
+EXECUTING AGENCY  : Ministry of Agriculture and Rural 
+
+Development (MINADER) 
+ 
+Financing Plan 
+
+Source Amount (UAM) Instrument 
+
+ADF 26.04 Loan  
+
+ADF 03.40 Grant 
+
+ADB 50.56 
+
+ 
+
+Loan 
+
+Government and Beneficiaries 17 Own Resources 
+
+TOTAL COST 97 
+ 
+
+ 
+Key ADF Financing Information 
+ 
+Loan Amount UA 26.04 million 
+
+Commitment Fee (Loan) 0.50% per year of the 
+
+undisbursed amount 
+
+Service Commission (Loan) 0.75% per year of the 
+
+outstanding amount 
+
+Interest Rate 1% 
+
+Maturity (Loan)  30 years  
+
+Grace Period (Loan) 5 years    
+ 
+Key ADB Financing Information 
+ 
+
+Loan Amount                          EUR 64,360,000 (UA 50,560,000) 
+
+Type of Loan  Loan with fully floating rate 
+
+Maturity To be determined (up to 25 years, including the grace period) 
+
+Grace Period To be determined (up to 8 years) 
+
+Average Loan Maturity To be determined (according to the amortization structure) 
+
+Reimbursement To be determined (Half-yearly payments after the grace period) 
+
+Interest Rates Base rate +funding cost margin+ loan margin+ premium at maturity, if 
+
+applicable 
+
+Base Rate Floating base rate (LIBOR USD 6-months, reviewed on 1 February and 1 
+
+August). A free-fixing option for determining the base rate is available 
+
+Funding Cost margin The Bank’s funding cost margin determined on 1 January and 1 July and 
+
+applied at the base rate on 1 February and 1 August 
+
+Loan Margin 80 basis points (0.8 %) 
+
+Premium at Maturity To be determined as follows: 
+
+- 0% if average loan maturity is 12.75 years or less 
+- 0.10% if average loan maturity is over 12.75 years, but lower or equal 
+
+to 15 years 
+
+- 0.20% if average loan maturity is over 15 years 
+
+Initial Commissions 0.25% of loan amount payable latest on signature of the loan agreement 
+
+Commitment Fees 0.25% of the undisbursed amount. Commitment fees are callable 60 days 
+
+following the signature of the loan agreement and payable on the payment dates 
+
+fixed. 
+
+Option for Base Rate Change* In addition to the free-fixing option for the floating base rate, the Borrower may 
+
+change the fixed rate to a floating rate or incorporate in whole or in part the 
+
+
+
+ 
+
+iii 
+
+disbursed amount. Fees are levied on such transactions. 
+
+Option to set the Base Rate 
+
+Ceiling or Tunnel* 
+
+The Borrower may set the ceiling or floor to be applied on part or all of the 
+
+amount disbursed. Fees are required for such transactions. 
+
+Option for Loan Currency 
+
+Conversion 
+
+Borrower can convert the loan currency into another Bank loan currency, both 
+
+for undisbursed amounts and those already disbursed either in whole or in part. 
+
+Fees are levied on such transactions. 
+* Currency conversion options and the related fees must comply with the Bank guidelines for the exchange, available at the following link: 
+
+http://www.afdb.org/fr/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/ 
+
+ 
+
+  
+
+Project Performance  
+
+NPV (12% rate) CFAF 123 billion 
+
+ERR (baseline scenario) 30% 
+
+  
+
+Time Frame – Key Milestones (expected) 
+ 
+ 
+
+ 
+ 
+
+Concept Note approval 17 October 2016 
+
+Project approval  25 January 2017 
+
+Effectiveness date 30 April 2017 
+
+Completion date 31 December 2021 
+
+Closure of the grant and the loans 31 December 2022 
+
+http://www.afdb.org/fr/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/
+
+
+ 
+
+iv 
+
+Project Summary  
+
+ 
+
+Overview. 2PAI BÉLIER was identified during the dialogue with the Government of Côte 
+
+d’Ivoire to transform the agricultural sector, using an innovative approach. It aims to lay down 
+
+the prerequisite conditions for the emergence of an agro-industrial pole in the country’s 
+
+heartland and as the first agropolis for the transformation and modernization of Ivorian 
+
+agriculture. It concerns the Bélier administrative region and the Autonomous District of 
+
+Yamoussoukro - a once prosperous zone that has experienced economic decline for three 
+
+decades despite its significant potential. The project prioritizes the integrated approach to 
+
+revive promising value chains and tackle a number of impediments to the development of the 
+
+agricultural and agro-industrial sector. This innovative approach is a clean break from the 
+
+sector-based approach, and is reflected in a critical mass of diversified actions capable of 
+
+sustainably transforming economic activity at the grassroots. The project’s sector objective is 
+
+to contribute to food and nutritional security. The specific objective is to contribute to the 
+
+emergence of an agro-industrial pole in Bélier Region by revitalizing promising agricultural 
+
+sub-sectors (rice, maize, cassava, vegetables, pork and fish) and further involving the private 
+
+sector, youth and women.  
+
+ 
+
+The UA 97 million project cost will be financed by an EUR 64.36 million ADB loan, a UA 
+
+26.04 million ADF loan, a UA 3.4 million ADF grant (a total of UA 80 million to be borne by 
+
+the Bank) and by the Government and beneficiaries to the tune of UA 17 million. The project 
+
+has three components: (i) Restoration of productive capital; (ii) Development of value chains; 
+
+and (iii) Project management. The first component aims to endow the region with key 
+
+infrastructure for the development of agricultural and agro-industrial activities (irrigation 
+
+schemes, roads, storage and marketing facilities, livestock infrastructure, electric lines, ICT), 
+
+while also ensuring the best living conditions for the population concerned (DWS 
+
+infrastructure, classrooms, school canteens, health structures). The second component aims to 
+
+support all actors for them to operate dynamically around value chains in a more integrative 
+
+and inclusive environment. The concern will be to: strengthen land security; better structure 
+
+farmers’ organizations and build their technical and managerial capacity; support 
+
+mechanization; develop employment and the recruitment of young graduates, by supporting in 
+
+particular INP-ESA; promote agri-business especially by strengthening the Yamoussoukro 
+
+industrial zone and ICT development; ensure better access to agricultural financing and enable 
+
+better contribution to nutrition. The last component will ensure that the project is managed 
+
+according to schedule and through sound implementation and monitoring arrangements. 
+
+  
+
+The project will benefit 461,600 people (64% of project area residents), 112,000 of them 
+
+directly, 800 young graduates and 200 SMEs (including 50 in produce processing). It will 
+
+benefit about 230,000 women, including 4,300 farmers, 400 young girls and 25 processing-
+
+operators and traders. With estimated additional production of 465,000 tonnes per year, 
+
+additional income per beneficiary is estimated at about CFAF 1.2 million for Model 1 
+
+(representing rice farmers), CFAF 7.2 million for Model 2 (representing market garden 
+
+operators), CFAF 2.5 million for Model 3 (representing rain-fed activities), CFAF 4.8 million 
+
+for Model 4 (representing young farmers), and CFAF 20 million for Model 5 (representing 
+
+SMEs), CFAF 2.5 million for Model 6 (representing pig farmers) and CFAF 4.5 million for 
+
+Model 7 (representing fish farmers). The project will benefit about 112,000 persons directly, 
+
+107,000 of whom would be lifted out of poverty. Thanks to the setting up and organization of 
+
+processing units (50% run by women), 120,000 tonnes of cassava tubers will be processed into 
+
+several by-products. The project will help to raise the agricultural produce processing rate from 
+
+119,000 tonnes currently (51% of total production) to about 581,000 tonnes (85%). It will 
+
+create the equivalent of approximately 19,000 permanent jobs.   
+
+ 
+
+
+
+ 
+
+v 
+
+Needs Assessment: The project area has a population of about 702,000 and covers a land area 
+
+of 11,695 km2. Average population density is 60/km2. It is about 200 km to the North of 
+
+Abidjan. Two out of three people in Bélier Region live with less than one dollar a day (the 
+
+poverty rate in the region is 61.8%, compared to 46.3% nationally). The rationale for the 
+
+intervention is the high level of poverty and the need to revive the region around the once 
+
+prosperous administrative capital that is now in the throes of economic decline, due mostly to 
+
+insufficient investments linked to the socio-economic crisis of the 2000 decade (PADER-Lakes 
+
+approved by ADF in 2000 was not implemented). Therefore, this intervention is urgent since 
+
+it will contribute to establishing a development pole to tap the area’s high potential and meet 
+
+the great expectations and pressing needs expressed by the youth and women.  
+
+ 
+
+Bank’s Value Added: The establishment of a technical and financial framework to support 
+
+agri-business is consistent with the Bank’s Medium-Term Intervention Strategy in Regional 
+
+Member Countries, Pillars 1, 2, 3 and 5 of the High 5s (Light up Africa, Feed Africa, 
+
+Industrialize Africa and Improve the quality of life for the people of Africa) and the Bank’s 
+
+new “Feed Africa: Strategy for Agricultural Transformation in Africa, 2016-2025”. The Bank 
+
+provided the Government technical assistance to identify and prepare the project, and expertise 
+
+to develop financial inclusion and technical support in line with CSP 2013-2017. Besides, 
+
+through this operation, the Bank will support Côte d’Ivoire’s efforts to rebuild the country and 
+
+transform its economy - a priority objective of Government’s National Development Plan 
+
+(PND 2016-2020). Unlike previous standard agricultural interventions, this Bank intervention 
+
+will in particular fulfil all necessary conditions for setting up an agro-industrial pole to ensure 
+
+the dynamism of promising agricultural sub-sectors in a given territory. Tangible and intangible 
+
+infrastructure will be integrated to create local value added, improve the productivity of 
+
+agricultural sub-sectors, and spur the produce processing dynamic to ultimately establish a true 
+
+agro-industry as a prerequisite for agricultural sector development.  
+
+ 
+
+Knowledge Management: The project will widely disseminate experience and good practice 
+
+garnered during the management of units for agricultural produce production/processing. Thus, 
+
+farmers of both sexes, artisans, processing operators, traders, youths and girls, as well as local 
+
+authorities will acquire new techniques and skills enabling them to better manage their affairs 
+
+and improve their living conditions. Thanks to the project, actors will gain experience on 
+
+managing sub-sectors around inter-professions at the local level. INP-ESA’s involvement in 
+
+helping young graduates to settle will help to endow it with new expertise and offer 
+
+beneficiaries new opportunities in operational and managerial fields. The dissemination of 
+
+knowledge via the monitoring/evaluation system will be done with the involvement of value 
+
+chain actors. State officials involved will have the opportunity to be trained and broaden their 
+
+experience in promising and innovative intervention sectors currently inexistent in the region 
+
+(financial inclusion and framework of technical support to private initiatives).  
+
+
+
+ 
+
+vi 
+
+RESULTS-BASED LOGICAL FRAMEWORK 
+
+(*): Indicator data on the baseline situation will be updated at the end of the baseline study 
+
+PROJECT COUNTRY AND NAME: Côte d’Ivoire: Bélier Agro-Industrial Pole Project 
+
+PROJECT GOAL:  The general objective of 2PAI Bélier is to contribute to increasing food and nutritional security of the population 
+
+RESULTS CHAIN 
+
+PERFORMANCE INDICATORS 
+MEANS OF  
+
+VERIFICATION 
+
+RISKS/MITIGATION 
+
+MEASURES Indicators (including CSIs) 
+Baseline 
+
+Situation 
+Target 
+
+IM
+P
+
+A
+C
+
+T
+ 
+
+  2016 
+
+ 
+
+2021 and Beyond  
+
+ 
+
+ 
+
+1. Food and nutritional security is improved. 
+1.1 Percentage of households living in food insecurity 1.1     12,6% 1.1      3%  Assessment of PND 
+
+ 
+
+ 
+
+1.2 Prevalence rate of chronic malnutrition 1.2     32% 1.2      20%     
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S
+
+ 
+
+      
+
+The conditions for the emergence of an agro-
+industrial pole in Bélier Region are fulfilled 
+
+through the revitalization of promising 
+
+agricultural sub-sectors and greater involvement 
+of the private sector, youths and women. 
+
+ 
+
+2.1 Increased agricultural sector volumes. 
+ 
+
+2.2 Increased volumes of processed agricultural 
+
+products. 
+ 
+
+ 
+
+ 
+2.3 Increased crop yields. 
+
+ 
+
+ 
+ 
+
+ 
+
+2.4 Increased income for sector actors. 
+ 
+
+ 
+
+ 
+
+ 
+
+2.5 Revitalized SMEs.  
+
+ 
+2.6 Accelerated industrialization. 
+
+ 
+
+2.7 Improved employment level. 
+ 
+
+2.1   Volume of agricultural production (tonnes)    Cereals assessment and 
+MINADER statistics.  
+
+ Mid-term assessment of 
+PNIA 
+
+Periodic project 
+
+monitoring/evaluation 
+
+report 
+
+ Mid-term review report and 
+project completion report 
+
+Risks :   
+(i) Climate change related risk 
+(ii) Risk of land-related conflicts  
+(iii) Risk of conflicts linked to 
+transhumance 
+Mitigation Measures:  
+
+(i) A project conducted alongside 
+
+2PAI BÉLIER fully addresses the 
+
+underlying issue of climate change.  
+
+(ii) Land security of target sites to be 
+
+developed envisaged in Component 
+
+B. 
+
+(iii) Support to communes to 
+
+accompany endogenous conflict 
+
+management mechanisms  
+
+2.1.1 Volume of paddy rice (tonnes) 2.1.1    60,000 2.1.1   91,500 
+
+2.1.2  Volume of vegetables (tonnes) 2.1.2     2000  2.1.2   11,500  
+
+2.1.3  Volume of cassava (tonnes) 2.1.3 120,000 2.1.3 460,000 
+
+2.1.4   Volume of maize (tonnes) 2.1.4   50,000  2.1.4  123,000  
+
+2.2    Volume of processed agricultural production (tonnes)   
+
+2.2.1 Volume of polished rice (tonnes) 2.2.1  36,000 2.2.1   55,000 
+
+2.2.2 Volume of vegetables (tonnes) 2.2.2     1,000  2.2.2     9,200  
+
+2.2.3  Volume of cassava (tonnes) 2.2.3  48,000 2.2.3 384,000 
+
+2.2.4  Volume of maize (tonnes) 2.2.4  10,000  2.2.4   97,600  
+
+2.2.5   Production of pigs for slaughter and pork (carcass equivalent tonnes) 2.2.5       517 2.2.5      1,400 
+
+2.2.6   Fish production (tonnes) 2.2.6         27 2.2.6        900 
+
+2.3   Crop yields (tonnes/ha)   
+
+2.3.1  Paddy rice 2.3.1        5 2.3.1         8 
+
+2.3.2  Vegetables (tomato) 2.3.2       10  2.3.2       18  
+
+2.3.3  Cassava  2.3.3       13 2.3.3       20 
+
+2.3.4  Maize (off-season) 2.3.4         2 2.3.4         5  
+
+2.4     Farmers’ income (CFAF/ha)   
+2.4.1  Polished rice  2.4.1  370,000 2.4.1    2.5 million 
+
+2.4.2  Vegetables (tomato) 2.4.2   1.1 
+
+million 
+2.4.2    4 million  
+
+2.4.3  Rain-fed crops (maize, cassava) 2.4.3   90,000 2.4.3    250,000 
+
+2.4.4   Income of pig producers (CFAF) 2.4.4  700,000 2.4.4    3 million 
+
+2.4.5    Income  of fish producers (CFAF) 2.4.5  500,000 2.4.5   5 million  
+
+2.4.6   Income of established youths, at least 50% of them women 
+
+Filles (FCFA/an) 
+
+2.4.6   1,200 2.4.6    6 million 
+
+2.5      Number of SMEs/agro-industrial units (many in processing) 2.5          0  2.5       100 (20) 
+
+2.6      Operational industrial zone  2.6          0 2.6           1 
+
+2.7      Number of equivalent job positions created            2.7         0 2.7           19,000 
+
+      
+
+ 
+ 
+
+                       P
+R
+
+O
+D
+
+U
+IT
+
+S
+ 
+
+I.  RESTORATION OF PRODUCTIVE CAPITAL 
+
+1.1 Irrigation schemes 
+
+ 
+
+1.2 Socio-economic infrastructure 
+
+ 
+
+1.3. Storage and marketing infrastructure 
+
+1.1.1  Number of dams rehabilitated 1.1.1        0 1.1.1             3  PNIA monitoring report 
+
+ Progress reports of 
+technical services tasked 
+with implementation 
+
+monitoring 
+
+ Contracts signed with 
+
+ 
+
+1.1.2  Rehabilitated land areas for irrigation  (ha) 1.1.2        0 1.1.2         2,170  
+
+1.1.3  Number of beneficiaries (including women) 1.1.3        0 1.1.3      4,400 
+(2200) 1.2.1  Linear distance of rehabilitated roads (km) 1.2.1        0 1.2.1        700  
+
+1.2.2 HVA with built borehole equipped with a committee, of which 50% women 1.2.2        0 1.2.2        10 
+
+1.2.3 Extension/rehabilitation of schools 1.2.3         1.2.3       +20 
+
+
+
+ 
+
+vii 
+
+ 
+1.4 Other infrastructure 
+
+ 
+
+ 
+
+II. DEVELOPMENT OF  VALUE CHAINS 
+
+2.1     Land security  
+
+2.2    Organization and structuring of actors 
+
+ 
+2.3 Support for employment of young graduates  
+
+2.4 Technical and managerial support of actors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.5 Value chain development fund 
+2.6 Promotion of agricultural mechanization 
+
+2.7 Promotion of the agro-food industry 
+
+ 
+2.8 Promotion of ICTs  
+
+2.9   Support for nutrition  
+
+ 
+2.10 Support for marketing 
+
+ 
+
+ 
+2.11  Institutional support  
+
+1.3.1 Number of storage facilities constructed (50% allocated to women) 1.3.1        0 1.3.1       10 (5) contractors 
+
+ Control firm’s reports 
+
+ Project progress reports 
+
+ Delegated contacting 
+authority’s report 
+ 
+
+ 
+
+ 
+
+ PNIA monitoring report 
+
+ Progress reports of 
+technical services tasked 
+
+with implementation 
+
+monitoring 
+
+ Contracts signed with 
+enterprises 
+
+ Control firm’s reports 
+
+ Project progress reports 
+
+ Delegated contracting 
+authority’s report 
+
+1.3.2  Number of rural markets rehabilitated/modernized (gender-sensitive design) 1.3.2        0 1.3.2        17 
+
+1.3.3  Number of consolidation centres built (gender-sensitive) 1.3.3        0 1.3.3          4 
+
+1.4.1  Development of pastoral areas 1.4.1        0 1.4.1          2 
+
+1.4.2  Rehabilitation of slaughter houses and areas 1.4.2        0 1.4.2          8 
+
+1.4.3  Construction of butcher’s shops 1.4.3        0 1.4.3          6 
+
+1.4.5  Linear distance of electric lines (linear km) 1.4.5           1.4.5        +52 
+
+2.1.1  Number of land certificates issued (including for women)    2.1.1      ND 2.1.1    100 (50) 
+
+2.2.3  Number of village territories demarcated  2.2.3      ND 2.2.3        10 
+
+2.2.1  Number of cooperatives organized (50% women) 2.2.1      ND 2.2.           42 
+
+2.2.2  Number of groupings (50% women)  2.2.2      ND 2.2.2         40 
+
+2.3.1  Number of incubators supported in Yamoussoukro     2.3.1       0 2.3.1          5 
+
+2.3.3  Number of young graduates trained and established (50% girls)  2.3.3       0 2.3.3    800 (400) 
+
+2.4.1  Quality seeds programme prepared and implemented 2.4.1       0 2.4.1         1 
+
+2.4.2  Support counselling programme prepared and implemented 2.4.1       0 2.4.1         1 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+  2.4.3  Research-development programme prepared and implemented 2.4.1       0 2.4.1         1 
+
+2.4.5  Support programme for mainstreaming gender in ESA/INP curricular 2.4.1       0 2.4.1         1 
+
+2.4.6  Gender monitoring report in the project area drafted 2.4.1       0 2.4.1         1 
+
+2.4.7  Technical assistance for investment promotion 2.4.1       0 2.4.1         1 
+
+2.5.2  Guarantee fund 2.5.2       0 2.5.2         1 
+
+2.6     Mechanization programme prepared and implemented 2.6         1 2.6            1 
+
+2.7.1  Industrial zone revitalization programme implemented 2.7.1      0 2.7.1         1 
+
+2.7.2  SME support programme (at least 30% managed by women) 2.7.2      0 2.7.2         1 
+
+2.8. 1 Telephony, internet and mobility structure in place  2.8.1      0 2.8.1         1   
+
+2.9.2  Training of health workers, doctors and nurses 2.9.2      0 2.9.2         1 
+
+2.9.3  Health control system and bio-fortification 2.93       0 2.93          1 
+
+2.10.1 Agricultural market information system (SIMA) completed 2.10.1    0 2.10.1       1 
+
+2.11   Institutional support programme is implemented 2.11       0 2.11          1 
+
+III. PROJECT MANAGEMENT 3.1    Number of technicians trained 3.1         0 3.1          100 
+PCU report 
+
+PCU report 
+
+PP 
+SAP system 
+
+Audit reports 
+
+Progress reports 
+Mission aide-mémoire 
+
+Risk: 
+
+ MINADER’s weak institutional 
+capacity 
+
+Mitigation Measures: 
+The project envisages a programme 
+
+of institutional support to 
+
+MINADER and various structures 
+involved in the project’s 
+
+implementation, especially in 
+
+monitoring/evaluation. 
+
+3.2    Number of work plans and budgets (PTBA) produced and implemented 3.2         0 3.2            5 
+
+3.3    Number of quarterly reports/annual audit reports approved 3.3         0 3.3           20/5 
+
+3.4    Number of PPs produced and updated 3.4         0 3.4            5  
+
+3.5    Number of steering committee meetings held 3.5         0 3.5           10 
+
+3.6    Number of Supervisory Authority/Bank supervision missions undertaken 3.6         0 3.6           20 / 10 
+
+3.7    Number of mid-term review/completion reports produced 3.7        0/0  3.7          1/1 
+
+ 3.8   Installation of project website 3.8         0 3.8             1  
+
+COMPONENTS INPUTS  
+
+A
+C
+
+T
+IV
+
+IT
+IE
+
+S
+  Component 1: Restoration of productive capital:  UA 57.07 million (59%) 
+
+ Component 2: Development of Value Chains:                  UA 32.88 million (34%) 
+
+ Component 3: Project Management:                                  UA 7.05 million (7%)  
+
+ TOTAL:                    UA 97.00 million 
+
+ADF (Loan/Grant):                  UA 29.44 million   
+
+ADB (Loan):                         EUR 64.36 million          
+
+Government/Beneficiaries:       UA 17.00 million  
+
+Total:                                    UA 97.00 million 
+
+ 
+ 
+
+
+
+ 
+
+viii 
+
+Implementation Schedule 
+  
+
+2017 2018 2019 2020 2021 2022 
+
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 
+
+1 Board Approval 
+                        
+
+2 
+Publication of General Procurement 
+
+Notice 
+
+                        
+
+3 
+Signature of Financing Agreement 
+
+(ADB and ADF) 
+
+                        
+
+4 Loan Effectiveness 
+                        
+
+5 1st Disbursement Authorization 
+                        
+
+6 Commencement of Project 
+                        
+
+7 Bid Invitation 
+                        
+
+8 Contract Award 
+                        
+
+9 Works Implementation 
+                        
+
+10 Procurement of Goods 
+                        
+
+11 
+Implementation of Capacity-
+
+building Activities 
+
+                        
+
+12 Mid-Term Review 
+                        
+
+13 Audits 
+                        
+
+14 Government’s Completion Report 
+                        
+
+15 Completion of Activities 
+                        
+
+16 Closure 
+                        
+
+ 
+
+
+
+ 
+
+1 
+
+BÉLIER REGION AGRO-INDUSTRIAL POLE PROJECT (2PAI-BÉLIER) 
+
+ 
+
+Management hereby submits this report and recommendations concerning a proposal to extend 
+
+an ADF loan of UA 26.04 million, an ADF grant of UA 3.4 million and an ADB loan of EUR 
+
+64.360 million to the Republic of Côte d’Ivoire to finance the Bélier Region Agro-Industrial 
+
+Pole Project. 
+
+I STRATEGIC THRUST AND RATIONALE  
+
+1.1 Project Linkages with Country Strategy and Objectives  
+
+1.1.1 After a period of economic recession caused by the armed conflict of 1999-2011, the 
+
+Ivorian economy gradually picked up thanks to political stability and the support of International 
+
+Technical and Financial Partners. After a negative growth of -4.7% in 2011, GDP growth rose 
+
+to 9.8% in 2012 and 8.3% in 2013, 2014 and 2015. Concurrently, the poverty rate at the national 
+
+level dropped slightly from 48.9% in 2008 to 46.3% in 2015. The National Development Plan 
+
+(PND 2016-2020) that followed the previous PND 2012-2015, is a unique frame of reference 
+
+for public action. It hinges on five strategic thrusts: (1) Strengthen the quality of institutions and 
+
+good governance; (2) Speed up human capital development and promote well-being; (3) Speed 
+
+up structural transformations and industrialization; (4) Develop infrastructure spread 
+
+harmoniously across the country and preserve the environment; and (5) Strengthen regional 
+
+integration and international cooperation. In the area of gender, it intends to promote enrolment 
+
+and literacy among young girls/women and women’s empowerment. Strategic Thrust 3 involves 
+
+developing the agricultural sector as a means for the structural transformation of the country, 
+
+especially by: (i) improving the quality of agricultural produce; (ii) speeding up the 
+
+modernization and enhanced productivity of the agricultural sector; and (iii) speeding up 
+
+product processing. The project is in line with Pillar 2 (Development of support infrastructure 
+
+for economic recovery) of the CSP (2013-2017), confirmed during the March 2016 mid-term 
+
+review.  
+
+1.1.2 The National Agriculture Investment Programme (PNIA-2010-2016) covers priority 
+
+activities in the crop, livestock and fisheries development sectors. It fits into a common global 
+
+ECOWAS Agricultural Policy Framework and Comprehensive African Agriculture 
+
+Development Programme (ECOWAP/PDDAA). On 13 October 2016, Government launched 
+
+the process to prepare the second-generation PNIA (2017-2025) with NEPAD and ECOWAS 
+
+support, to be implemented by PND 2016-2020. The authorities aim to guide and support 
+
+regional and national efforts in the agricultural sector to guarantee that the 6% growth target is 
+
+met and at least 10% of the budget is allocated to the sector (Maputo Commitment). The 
+
+Government plans to increase this allocation rate from 5.4% in 2016 to 7-8% from 2017, and at 
+
+least 10% from 2018. The Government adopted the agropoles development approach in 
+
+designing this new programme and intends to organise a Donors’ Roundtable to ensure its 
+
+financing.  
+
+1.2 Rationale for the Bank’s Intervention 
+
+1.2.1 During the implementation of PNIA, the Government identified a programme jointly 
+
+with the Bank for the transformation of the agricultural sector based on the agropoles approach. 
+
+Given the availability of resources, the country’s absorptive capacity and the security situation, 
+
+dialogue with the authorities led to the planning of this programme, which is divided into three 
+
+agropoles projects whose order of priority was adopted by common agreement during the 
+
+preparation of CSP 2013-2017, and confirmed during the mid-term review. The first project 
+
+titled “Bélier Region Agro-Industrial Pole Project” benefited from a Project Preparation Facility 
+
+(PPF) advance. The second, the Agro-Industrial Support Project in the North of Côte d’Ivoire, 
+
+will be the subject of a PPF advance being studied. The third project concerning the Tonkpi 
+
+
+
+ 
+
+2 
+
+Region will be studied subsequently. This report is for the first selected project covering the 
+
+Autonomous District of Yamoussoukro (Yamoussoukro and Attiégouakro Départements) and 
+
+the Bélier administrative region (Didiévi, Djékanou, Tiébissou and Toumodi Départements). 
+
+This zone is about 200 km to the North of Abidjan, covers 11,695 km2 and has 702,000 
+
+inhabitants. It has significant agricultural potentials that is yet to be fully tapped, highly 
+
+degraded infrastructure and several private agro-industrial initiatives being developed. This 
+
+zone has been marked by economic recession for three decades, after the decline of the cocoa-
+
+coffee sub-sector (1980s and 90s) and the military-political crisis of 2000 to 2010, then the post-
+
+electoral crisis of 2010-2011 (see Annexes A, B and C).  
+
+1.2.2 Various Bank missions to the project area and the concerted approach highlighted a 
+
+number of major constraints: (i) serious degradation and insufficiency of irrigation and pastoral 
+
+infrastructure (dams, schemes) as well as socio-economic infrastructure (roads, markets, storage 
+
+facilities, schools, drinking water, etc.); (ii) insufficient social cohesion and organization of 
+
+actors, making it impossible for farmers/processing operators/traders to optimize their joint 
+
+activities; (iii) weak land security; (iv) poor mastery of production techniques; (v) inadequate 
+
+access to the factors of production (e.g. quality seeds); (vi) poor mechanization of agricultural 
+
+activities; and (vii) inexistence of a framework of technical and financial support to private 
+
+initiatives, industrialization and value chains integration, particularly those that are promising 
+
+for youths. A few development projects exist in the region and private initiatives are emerging 
+
+(SIPRA, INTERVALLE, Aurore, etc.). These offer opportunities for ultimately developing 
+
+PPP-type operations. Although local development is constrained by farmer/grazier conflicts and 
+
+climate change, the region (whose headquarter is Yamoussoukro, the country’s administrative 
+
+capital) has first-class infrastructure suitable for economic revitalization, particularly with the 
+
+commissioning of the Abidjan-Yamoussoukro motorway in 2014, the existence of an 
+
+international airport and the presence of a world-class university complex. By virtue of its 
+
+integrated approach, the project is consistent with four (4) of the Bank’s High 5s: (1) Feed 
+
+Africa; (2) Light up Africa; (3) Industrialize Africa; and (5) Improve the quality of life for the 
+
+people of Africa. In particular, it is in line with the Bank’s new Feed Africa: Strategy for 
+
+Agricultural Transformation in Africa, 2016-2025, which implements Pillar 1 focused inter alia 
+
+on higher investments in tangible and intangible infrastructure, mobilization of agricultural 
+
+financial flows, agricultural produce processing, youth employment, the development of 
+
+agropoles and agro-food industry. It is also consistent with the Bank’s Gender Strategy (2014-
+
+2018), especially its second pillar aimed at strengthening women’s economic empowerment, 
+
+and the Bank’s Strategy for Addressing Fragility and Building Resilience, 2014-2019. 
+
+1.3 Aid Coordination  
+
+1.3.1 The Agricultural Infrastructure Development Support Project in Indénié-Djuablin 
+
+Region (PAIA-ID) is the Bank’s only active project in the agricultural sector. It was approved 
+
+in March 2012 (UA 21.6 million grant) and, since October 2016, benefited from a 
+
+supplementary NTF loan of UA 4 million to strengthen agri-business activities. The project 
+
+status is satisfactory since the disbursement rate in November 2016 was 57%. Apart from the 
+
+Bank, many development partners have interventions in the agricultural sector in Côte d’Ivoire 
+
+including the FAO, the World Bank, WADB, the EU, AFD, WFP, IsDB, IFAD, BADEA, JICA, 
+
+GIZ, Spanish Cooperation, Chinese Economic Cooperation and the Indian Government. These 
+
+partners belong to the “Agriculture, Rural Development and Environment” Sector Group, which 
+
+seeks to facilitate consultation and dialogue with the Ivorian Government. Another partner 
+
+group, the Nutrition Sector Group, also works closely with the Agriculture Sector Group.  
+
+1.3.2 FAO supported the Government in several post-crisis operations as well as in the 
+
+design of development thrusts and operationalization of PNIA, especially in the area of rural 
+
+land. In particular, the World Bank finances a multi-national Research Programme in West 
+
+Africa (PPAAO/WAAPP, 2013-2016) that promotes agricultural sector productivity. Its 
+
+
+
+ 
+
+3 
+
+innovative outcomes can be capitalized in 2PAI-Bélier, especially in terms of new food 
+
+processing technologies for vegetables and cassava. Since 2013, AFD has been financing the 
+
+Project for the Acceleration of Agricultural Sub-Sectors in Côte d’Ivoire (PARFACI) and co-
+
+finances with the World Bank the Agricultural Sector Promotion Project in Côte d’Ivoire 
+
+(PSAC). PARFACI supports the market gardening, pork and fish sub-sectors as well as the land 
+
+sector in Bélier, Gontougo, Poro and Tchologo regions. On completion in mid-2017, it will be 
+
+relayed in its foodstuff component in Bélier region by 2PAI-Bélier especially by supporting the 
+
+market gardening, pork and fish sub-sectors. The EU interventions are in the cash crop/food 
+
+crop sub-sectors, rural land security, agricultural training, the fight against infectious animal 
+
+diseases (epizooty), as well as the health safety of export products. JICA intervention in Bélier 
+
+Region via the Local Rice Promotion Project (PRORIL) is in the form of a technical assistance 
+
+operation to strengthen the capacity of actors in the local rice sub-sector. JICA also supported 
+
+Government to prepare an agricultural mechanization strategy and is preparing a project for its 
+
+operationalization. 2PAI-BÉLIER will forge synergies with all ongoing projects, including 
+
+PARFACI, PRORIL and PPAAO/WAAPP. 
+
+1.3.3 FAO and AFD play a leading role in the “Agriculture, Rural Development and 
+
+Environment” Technical and Financial Partners Group (TFPG). This group has an internal land 
+
+security sub-group with the EU as lead agency and the AfDB, AFD, WB and FAO as members. 
+
+As part of the TFPG, regular consultations are organized in Abidjan, with Bank participation. 
+
+ 
+Table 1.3: Aid Coordination 
+
+ 
+
+Sector or Sub-Sector* 
+Scale  (in 2015) 
+
+GDP Exports Labour  
+
+Agriculture and Rural Development 26.5% 36.9% 66% 
+Stakeholders – Annual Public Expenditure (CFAF)** 
+
+Government (Average 2013-2015) Donors (Averages 2013-2015) 
+
+CFAF 7.6 billion 
+
+(4.83% of total expenditure)* 
+
+IsDB 10,469,647,585 
+
+IDA 2,005,098,519 
+
+IFAD 9,974,171,755 
+
+AfDB 7,779,132,814 
+
+BOAD (WADB) 5,617,649,943 
+
+GIZ 9,467,612,936 
+
+EU 44,618,527,507 
+
+AFD 22,126,947,537 
+
+AMB Spain 2,572,000,000 
+
+EXIMBANK GROUP 3,160,233,060 
+
+WAEMU 1,606,560,235 
+
+OTHERS 30,163,941,069 
+
+Total 149,561,522,960 
+
+Level of Aid Coordination 
+
+ Existence of thematic working groups [Yes, established under PNIA] 
+
+ Existence of a global sector programme [No, PNIA prepared along with detailed investment plan   
+
+ Role of AfDB in aid coordination Member (not lead agency) 
+
+(*) Sources: Detailed Investment Plan for the implementation of PNIA, MINADER, 6 April 2016 
+
+(**) Source : DPPF, MINADER, 2016 
+
+ 
+
+  
+
+
+
+ 
+
+4 
+
+II PROJECT DESCRIPTION  
+
+ 
+
+2.1 Project Objectives and Components 
+
+ 
+
+2.1.1 The project’s sector objective is to contribute to enhancing food and nutritional 
+
+security. The specific objective is to contribute to the emergence of an agro-industrial pole in 
+
+Bélier Region through the revitalization of promising agricultural sub-sectors and greater 
+
+involvement of the private sector, youths and women.  
+
+ 
+
+2.1.2 Project Design Elements. The project aims to put in place the prerequisite conditions 
+
+for the emergence of an agro-industrial pole to transform and modernize agriculture in the 
+
+erstwhile prosperous Bélier Region, which has experienced economic decline for three decades, 
+
+despite its significant potential. To revive agriculture around promising value chains, the project 
+
+prioritizes an integrated approach to resolve the many impediments to the development of the 
+
+agricultural and agro-industrial sector (infrastructure, factors of production, organization of 
+
+actors and sub-sectors, market integration, access to financing, etc.). The paradigm underlying 
+
+the project’s design is to consider the agricultural and rural sector as a system with mutually 
+
+inter-acting constituent elements. The novelty of this approach, which represents a clean break 
+
+from the sector-based approach, lies in the critical mass of diversified actions capable of 
+
+reviving and sustainably transforming economic activity at the local level. The project is 
+
+founded on the value-chains and sector-integration approach to create a conducive environment 
+
+for private sector involvement, development of community initiatives and employment of 
+
+youths and women. It will bring about the region’s industrialization through the creation of a 
+
+technical assistance framework, a financial arrangement, the promotion of private investments 
+
+and the implementation of several ambitious mechanization, technical innovation, youth 
+
+employment and human capital development programmes. The financial arrangement to 
+
+accompany the approach will comprise: (i) financial support to strengthen the financial capacity 
+
+of banks and decentralized financing systems through a refinancing line; (ii) a Guarantee Fund 
+
+to contribute to mitigating the risk; (iii) an interest rate improvement fund; and (iv) technical 
+
+assistance to financing institutions and targeted beneficiaries (the details of this component are 
+
+given in paragraphs C3.47 to C3.52 of Annex C3 of Volume 2). 
+
+ 
+
+2.1.3 Summary of Components: Project implementation will span five years. It will have 
+
+three components whose main outputs are described in Annex C3 and summarized in the table 
+
+below:   
+ 
+Component Cost Description 
+
+Component A 
+
+Restoration of 
+
+productive capital 
+
+UA 
+
+57.07 
+
+million 
+
+(59%) 
+
+Irrigation schemes: Rehabilitation of 3 dams, about 1,835 ha of irrigated areas/marshy rice-growing 
+
+land and 335 ha of market gardening areas. Socio-economic infrastructure: Rehabilitation of 700 km 
+
+of tracks; Rehabilitation/extension of classrooms and canteens in 20 schools; Equipment of 30 health 
+
+structures with malnutrition screening equipment; Establishment of 5 therapeutic nutrition units, 20 
+
+mobile therapeutic nutrition units, and 28 nutrition and supplementation units; Repair of 100 manual 
+
+pumps; Installation of 50 new boreholes equipped with hand pumps; Rehabilitation of 10 HVA systems; 
+
+Establishment of 15 new HVA systems; Extension of 2 DWS systems; Construction of 30 latrines. 
+
+Storage and marketing infrastructure: Construction of 4 agricultural produce consolidation 
+
+centres; Rehabilitation of 17 rural markets; Construction of 10 foodstuff storage facilities, 20 rice 
+
+drying areas and 15 premises for warehousing market gardening products. Stock-breeding 
+
+infrastructure: Development of two pilot pastoral zones; Construction of one slaughter-house; 
+
+Rehabilitation of 3 slaughterhouses and laying out of related cattle markets; Construction of 4 
+
+modern butcher’s shops, 4 pig slaughter areas and 2 pork sales points; Distribution of backyard 
+
+rearing kits to 250 women; Development of 2 fingerlings multiplication farms; Operationalization 
+
+of fish markets; Installation of 50 fish-farmers and about two rice-cultivation/fish-farming parcels; 
+
+Provision of feed manufacture equipment. Energy component: Laying of a 33kV underground 
+
+electric line from the current Yamoussoukro-Industrial Zone sub-station to raise capacity in the 
+
+industrial zone and laying of a second 33 kV line (32 km) from the current Yamoussoukro sub-
+
+station to the Didiévi sub-station to secure the power supply of the Département.   
+
+  
+
+
+
+ 
+
+5 
+
+Component B 
+
+Development of 
+
+value chains 
+
+UA 
+
+32.88 
+
+million 
+
+(34%) 
+
+Land security: (i) Support to mechanisms in place for land clarification and issuance of land 
+
+certificates; (ii) Training of actors of both sexes; Demarcation of some ten village territories. 
+
+Organization and structuring of actors: Strengthening of the capacity of about 42 SCOOPs and 
+
+40 farmers’ groupings including unions at regional level as well as inter-professions (rice, maize, 
+
+cassava) being created. Support for the employment of young graduates: Implementation of a 
+
+programme to employ 800 young boys and girls in line with Enable Youth Côte d’Ivoire: (i) increase 
+
+the teaching facilities and technological infrastructure of 5 vocational training institutions in the 
+
+region (including INP-ESA); and (ii) set up an incubator for young entrepreneurs and project 
+
+developers in the agricultural value chains to foster the emergence of very small enterprises. 
+
+Technical and managerial support of actors: Supply of quality seeds (design and implementation 
+
+of a seed production programme, technical assistance to MINADER’s seed service); Advisory-
+
+support (design and implementation of a programme to disseminate production good practice based 
+
+on an innovative approach). Research-development (in partnership with CNRA and ANADER); 
+
+Technical support for investment promotion (technical assistance to support developers refine their 
+
+feasibility studies and business plans). Value-chain development fund: Put a financing mechanism 
+
+in place comprising: (i) financial support to strengthen the financial capacity of partner decentralized 
+
+financial systems through a medium-term refinancing line called Refinancing Facility as well as a 
+
+Guarantee Fund to contribute to mitigating bank risks in financing agricultural SMEs; and (ii) 
+
+technical assistance aimed at supporting the project’s partner financing institutions for the 
+
+development and marketing of new financial products. Agricultural mechanization: Design and 
+
+implementation of a mechanization support programme, including promoting tried and tested 
+
+technologies; Support for innovation and for procurement of agricultural machines (including 
+
+manufacturers, public utility companies and financial services); and Strengthening of users’ 
+
+technical and organizational capacity. Promotion of the agro-food industry: Support for the 
+
+revitalization of the Yamoussoukro industrial zone and private initiatives (reinforcement in power, 
+
+water and ICTs); Support to community agro-industrial units, including those run by women (rice 
+
+steaming, cassava processing, etc.); Support for contacts/contracting between industrialists and 
+
+producers; Study on the creation of a technopolis around the University of Yamoussoukro and the 
+
+industrial zone. Promotion of information and communication technologies: Establishment of 
+
+core infrastructure in terms of telephony, internet and mobility; Creation of a GIS; Putting in place 
+
+of IT/media resources; Support for the agricultural market information system; Establishment of 
+
+SMS-based communication services; and Building on the major achievements and contributions at 
+
+national level of the e-agriculture programme implemented since 2012 and steered by ANSUT. 
+
+Nutrition support: Training of 60 health workers, medical doctors, nurses and mid-wives; 
+
+Establishment of structures for management and tools for malnutrition screening; Organization of 
+
+malnutrition screening campaigns; Promotion of maternal breast-feeding; Broadcast of local-
+
+language radio programmes on good nutritional practices; Technical support (training, technical 
+
+assistance, logistics) for establishing a food health control system and a bio-fortification programme. 
+
+Marketing support: Modernization of markets (component A); Organization of markets and 
+
+support for their functionality; Support for the procurement of suitable means of transport, 
+
+conservation and warehousing; Support to the agricultural markets information system (ICT sub-
+
+component); Study of the wholesale market in the city of Yamoussoukro. Complementary support 
+
+for gender promotion: Strengthening of actors’ technical capacity to mainstream gender; 
+
+Strengthening of literacy among women; Support for the empowerment of women and young girls; 
+
+and Development of women’s entrepreneurship. Institutional support: Support for the project’s 
+
+partner structures to make them more efficient and enable them ensure in a sustainable manner the 
+
+implementation of activities assigned.  
+
+Component C : 
+
+Project 
+
+management 
+
+UA 7.05 
+
+million 
+
+(7%) 
+
+Coordination of project activities with stakeholders; Equipment and operation of the project; 
+
+Rehabilitation of ECP premises; Procurement of goods, services and works; Administrative, 
+
+accounting and financial management; Project’s internal and external monitoring/evaluation; Audit; 
+
+Information and communication activities. 
+
+ 
+
+2.2 Technical Solutions Adopted and Alternatives Explored  
+
+ 
+
+2.2.1 The technical solutions adopted for infrastructure are based on standards ensuring the 
+
+sustainability of investments at acceptable costs and targeting good beneficiary ownership. 
+
+Rural roads will be rehabilitated in accordance with the technical standards defined by the Road 
+
+Management Agency (AGEROUTE). Special attention will be given to the treatment of critical 
+
+points as this will allow for an uninterrupted flow of traffic in all seasons to and from most 
+
+localities. For irrigated areas, the project prioritized the rehabilitation of existing gravity-based 
+
+structures upstream the dam, extending somewhere available water so allows. Some degraded 
+
+dams will also be consolidated to avoid the risk of submersion or rupture. As regards the 
+
+development of marshy areas and market gardens, the traditional techniques used will be 
+
+improved and modernized to lighten the work and introduce greater efficiency. For marshy 
+
+areas, the concern will be to better regulate high-water levels and gravity-based distribution of 
+
+
+
+ 
+
+6 
+
+water through suitable works. For gardens, this will involve ensuring water drainage while 
+
+promoting localized irrigation techniques (drip method, spray irrigation, etc.). New areas will 
+
+be irrigated to encourage private community initiatives and meet different market needs. 
+
+Marketing buildings will be constructed according to standards usually applied in the country 
+
+through various projects. 
+
+ 
+Table 2.2: Alternative Solutions Explored and Reasons for Rejection 
+
+Alternative Solution Brief Description 
+
+ 
+
+Reason for Rejection 
+
+ 
+
+Construction of new dams 
+
+with schemes downstream 
+
+Creation of new retention dams by 
+
+developing irrigated areas. 
+
+ Numerous existing dams with under-developed schemes 
+downstream whose rehabilitation is priority, considering 
+
+the available financial resources. 
+
+ Costly investments not justified given the potential already 
+in place but not fully tapped. 
+
+Laying out of large 
+
+schemes fed via pumping 
+
+Develop new irrigated areas of 
+
+several hectares while ensuring 
+
+water supply through pumping 
+
+ High cost of maintaining schemes than for gravity-based 
+networks. 
+
+ Priority given to medium-sized and insufficiently 
+developed gravity-based schemes. 
+
+Light re-profiling of roads Light treatment of wearing course 
+
+in place 
+
+ Life cycle generally below one year. 
+ Unsuitable solution for roads not having been the subject 
+
+of initial rehabilitation. 
+
+ Accessibility not assured because of many critical points 
+and crossings. 
+
+ 
+
+2.3 Project Type 
+
+ 
+
+2PAI-BÉLIER is an autonomous operation in the form of a Loan/Grant for an investment 
+
+project. The country is far advanced in the PDDAA process with the existence of PNIA and 
+
+preparation of a Medium-Term Expenditure Framework (MTEF). Pending completion of the 
+
+process, most donor interventions in the sector are undertaken through targeted investment 
+
+projects.  
+
+ 
+
+2.4 Project Cost and Financing Arrangements  
+
+ 
+
+2.4.1 The project’s total cost, net of taxes and customs duty, is estimated at UA 97 million 
+
+(approximately CFAF 80.99 billion), including UA 32.50 million (CFAF 27.14 billion) in 
+
+foreign exchange and UA 64.49 million (CFAF 53.85 billion) in local currency. A rate of 5 to 
+
+10% for physical contingencies on works and equipment, making a total of UA 4.4 million for 
+
+this heading or 4.5% of the total project cost, was also factored in. A provision of 3% for 
+
+composite price escalation was applied to all components. Summary cost estimates by 
+
+component and by expenditure category are presented in the tables below. Detailed tables of 
+
+project costs and the list of goods and services are attached as Annexes D5 and D6 of Volume 
+
+2. 
+Table 2.3: Cost Estimates by Component 
+
+Components 
+
+ 
+
+(CFAF '000) (UA '000) 
+
+% Local 
+
+Cur. 
+
+For. Exch. Total Local 
+
+Cur. 
+
+For. 
+
+Exch. 
+
+Total 
+
+Restoration of productive capital 22,709,325 18,787,485 41,496,810 27,197 22,500 49,698 51.2 
+
+Development of value chains 21,594,780 2,848,370 24,443,150 25,862 3,411 29,274 30.2 
+
+Project management 3,078,450 2,168,450 5,246,900 3,687 2,597 6,284 6.5 
+
+Total base costs 47,382,555 23,804,305 71,186,860 56,746 28,509 85,255 87.9 
+
+Physical contingencies 2,405,640 1,240,513 3,646,153 2,881 1,486 4,367 4.5 
+
+Price escalation 4,064,157 2,096,562 6,160,719 4,867 2,511 7,378 7.6 
+
+Total  53,852,353 27,141,379 80,993,732 64,494 32,506 97,000 100.0 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+7 
+
+Table 2.4: Project Cost by Expenditure Category 
+
+Expenditure Categories 
+(CFAF '000) (UA '000) 
+
+% Local Cur. For. Exch. Total Local 
+
+Cur. 
+
+For. 
+
+Exch. 
+
+Total 
+
+Works 20,495,560 18,704,500 39,200,060 24,546 22,401 46,947 48.4 
+
+Goods 1,698,400 1,081,000 2,779,400 2,034 1,295 3,329 3.4 
+
+Services 9,886,345 3,607,755 13,494,100 11,840 4,321 16,161 16.7 
+
+Miscellaneous* 11,220,900  11,220,900 13,438  13,438 13.9 
+
+Staff 321,425  321,425 385  385 0.4 
+
+Operating costs 3,073,425 255,950 3,329,375 3,681 306 3,987 4.1 
+
+PPF 686,500 155,100 841,600 822 186 1,008 1.0 
+
+Total base costs 47,382,555 23,804,305 71,186,860 56,746 28,509 85,255 87.9 
+
+Physical contingencies 2,405,640 1,240,513 3,646,153 2,881 1,486 4,367 4.5 
+
+Price escalation 4,064,157 2,096,562 6,160,719 4,867 2,511 7,378 7.6 
+
+Total  53,852,353 27,141,379 80,993,732 64,494 32,506 97,000 100.0 
+
+  (*) Value Chains Development Fund and settlement of customary rights. 
+
+  
+
+2.4.2 Project Financing. The project will be financed by: (i) an ADB loan of EUR 64.36 
+
+million (UA 50.56 million), an ADF Grant of UA 3.4 million and an ADF Loan of UA 26.04 
+
+million, making a total of UA 80 million (82.5% of total cost); and (ii) the counterpart 
+
+contribution by the Government and beneficiaries amounting to UA 17 million (CFAF 14.1 
+
+billion), or 17.5% of the total cost. The grant includes the Bank’s UA 998,000 PPF advance to 
+
+the Ivorian Government in February 2015 as well as the service fee. This advance will be 
+
+reimbursed in accordance with PPF’s operational guidelines. Government’s counterpart 
+
+contribution will finance the cost of irrigation schemes, the routine maintenance of roads 
+
+(RMF), the settlement of customary rights in the industrial zone, the rehabilitation/extension of 
+
+the erstwhile PADER-Lakes buildings to serve as project offices and part of operating costs. 
+
+Beneficiaries’ contribution of UA 267,000 (CFAF 223 million), or 3% of the total project cost, 
+
+will be used for irrigation scheme and human water works. The distribution of project financing 
+
+is indicated in Table 2.5 below while Tables 2.6 and 2.7 show the distribution of the grant and 
+
+loans by expenditure category. 
+
+ 
+Table 2.5: Sources of Financing 
+
+Sources 
+
+Amount (CFAF '000) Amount (UA '000) 
+
+% 
+For Exch. Local Cur. Total 
+
+For. 
+
+Exch. 
+
+Local 
+
+Cur. 
+Total 
+
+ADB loan 19,004,459 23,212,706 42,217,165 22,760 27,800 50,560 52.1 
+
+ADF loan 5,389,115 16,354,187 21,743,302 6,454 19,586 26,040 26.8 
+
+ADF grant 262,677 2,576,444 2,839,121 315 3,086 3,400 3.5 
+
+   Including PPF 155,100 686,500 841,600 186 822 1,008 1.0 
+
+Total AfDB Group 24,656,251 42,143,337 66,799,588 29,529 50,472 80,001 82.5 
+
+Government  2,485,128 11,485,663 13,970,791 2,977 13,755 16,732 17.2 
+
+Beneficiaries - 223,353 223,353 - 267 267 0.3 
+
+Total 27,141,379 53,852,353 80,993,732 32,506 64,494 97,000 100.0 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+
+8 
+
+Table 2.6: Distribution of ADF Financing by Expenditure Category  
+
+Categories 
+
+ADF Loan (UA Thousand) ADF Grant (UA Thousand) 
+
+Local Cur. For. Exch. Total L.C. 
+
+For. 
+
+Exch. Total 
+
+Works 2,405 1,300 3,705    
+
+Goods 1,148 801 1,949    
+
+Services 7,691 3,912 11,603 2,156 125 2,281 
+
+Operating costs 3,491 201 3,692    
+
+Miscellaneous 3,944  3,944    
+
+PPF   ,, 822 186 1,008 
+
+Not Allocated 906 241 1,147 107 4 111 
+
+Total 19,585 6,455 26,040 3,085 315 3,400 
+
+ 
+
+Table 2.7: Distribution of ADB Financing by Expenditure Category  
+
+Categories  
+ADB (UA Thousand) ADB Loan (EUR Thousand) 
+
+Local Cur. For. Exch. Total Local Cur. For. Exch. Total 
+
+Works 22,643 20,413 43,056 28,823 25,985 54,808 
+
+Goods 1,042 452 1,494 1,327 575 1,902 
+
+Services 2,554 692 3,246 3,251 880 4,131 
+
+Not allocated 1,561 1,203 2,764 1,987 1,532 3,519 
+
+Total 27,800 22,760 50,560 35,388 28,972 64,360 
+
+ 
+
+2.5 Project Target Area and Beneficiaries  
+
+2.5.1 The project area covers the Autonomous District of Yamoussoukro (Yamoussoukro 
+
+and Attiégouakro Départements) and Bélier Administrative Region (Diediévi, Djékanou, 
+
+Tiebessou and Toumodi Départements). It is about 200 km to the North of Abidjan and covers 
+
+11,695 km2. The climate is of the humid tropical or Sudano-Guinean type. Recent studies on 
+
+rainfall in this region over a period of 30 years (1980-2010) show an irregular distribution of 
+
+rain with annual values ranging between 1,000 and 1,200 mm. The effects of climate change 
+
+are increasingly felt, leading to disruptions in the planting/harvest calendar. Nevertheless, the 
+
+project area has high agricultural and water potential, characterized by a fairly flat relief crossed 
+
+by a dense hydrographic network (Bandama, N’Zi and Kan Rivers) This hydrography offers the 
+
+region good opportunities for rice cultivation, fishing and fish-farming, which remain untapped. 
+
+According to the 2014 General Population and Housing Census (RGPH 2014), the project area 
+
+has a population of 702,000 of which 51% male and 49% female. Poverty rose from 41.4% in 
+
+2002 to 61.8% in 2015 in Bélier Region and from 25% to 39.4% in Yamoussoukro District 
+
+(INS-ENV2015). Average annual income per capita is CFAF 373,504 in urban areas and CFAF 
+
+246,122 in rural areas. These values are lower than at the national level where they are CFAF 
+
+467,080 and CFAF 256,538. The prevalence of chronic malnutrition stands at 30.4% (SMART 
+
+2011) and underweight at 17.3% (EDS 2012). These ratios reflect a very preoccupying 
+
+nutritional situation, considering that the acceptable threshold of chronic malnutrition is 20%.  
+
+2.5.2 Due to the major constraints for the region’s development and economic recovery (see 
+
+1.2.2), Bélier Region was prioritized during the identification mission undertaken with Bank 
+
+support (see Annex B of Volume 2). This choice was also guided by the significant potential 
+
+that exists but which remains untapped, the existing anchor infrastructure (motorway, airport), 
+
+the existence of a world-class university complex (INPHB), the need to revitalize the region 
+
+around Yamoussoukro, the country’s administrative capital, which has experienced economic 
+
+decline for several decades. It was also guided by the urgency to help the region’s population 
+
+who expect a far-reaching development intervention (the Lacs Region Rural Development 
+
+Support Project assessed by ADF in 2000 was not implemented because disbursements were 
+
+
+
+ 
+
+9 
+
+suspended in 2002 at the start of the armed conflict in Côte d’Ivoire). The project’s beneficiaries 
+
+are value chain actors, organized as groups or cooperatives, as well as private operators with 
+
+SME status. The project will directly benefit about 112,000 people in all. Its impact on 
+
+employment is significant due to the creation of the equivalent of about 19,000 permanent jobs 
+
+(approximately 4.8 million workdays). 
+
+2.6 Participatory Approach in Project Identification, Design and Implementation  
+
+The project was the subject of wide consultations at all stages of its study. Contacts made during 
+
+the identification mission in March 2013 were continued during the preparatory (June 2015) 
+
+and appraisal (June 2016) phases in Bélier Region, Yamoussoukro District and Abidjan. 
+
+Meetings were held with the administrative authorities, local communities, technical structures, 
+
+farmers’ organizations, women’s groups, private partners, ongoing projects and TFPs involved. 
+
+Several workshops were organized during PPF implementation to select irrigation sites and road 
+
+sections to be rehabilitated. Moreover, the project’s implementation will require the putting in 
+
+place of mechanisms closely involving and empowering the various value chain actors. Since 
+
+the sustainability of interventions, especially those concerning irrigation infrastructure, would 
+
+require the full ownership of the parties concerned, the option was taken to target in priority the 
+
+most committed communities that also fulfil the selection criteria (explicitly made request, land 
+
+security, organization method, contributions and commitments, etc.). For the different sub-
+
+sectors affected, the project will support the establishment of platforms to facilitate synergy 
+
+among stakeholders and by systematically involving those of the private sector. Periodic 
+
+meetings and information campaigns will be financed by the project to ensure proper 
+
+communication and enable participatory decision-making by the actors. 
+
+2.7 Consideration of Bank Group Experience and Lessons Learned in Project Design 
+
+The Bank finances the Agricultural Infrastructure Development Support Project in the Indénié-
+
+Djuablin Region (see 1.3.1). Lessons drawn from the project’s mid-term review were considered 
+
+in the design of 2PAI-BÉLIER, including: (i) greater consideration of the value chains approach 
+
+and promotion of private investment; (ii) optimization of the performance of delegated 
+
+contracting authorities through a better definition of roles and tasks; (iii) expected improvement 
+
+of the procurement process by enhancing the quality of procurement dossiers with a view to 
+
+recruiting competent contractors and firms; and (iv) establishment of competent human 
+
+resources for an efficient management of activities, including cross-cutting aspects 
+
+(environment and gender). The table in Annex C1 details measures taken to reflect the lessons 
+
+learned. An additional NTF financing in the form of a UA 4 million loan was approved by the 
+
+Bank Board of Directors on 21 October 2016 to support agri-business activities. Value chains 
+
+and the role played by the private sector was reflected in the project design. Overall, the project 
+
+design benefited from the pilot initiatives of the Feed Africa Strategy in terms of the 
+
+development of agropoles, youth employment and agriculture financing with shared risks.  
+
+2.8 Key Performance Indicators  
+
+2.8.1 The key performance indicators presented in the logical framework will be refined 
+
+through the project’s baseline situation. The outcome indicators include: (i) outputs and 
+
+production; (ii) additional production processed and marketed; (iii) higher revenue and income 
+
+generation for farmers and settled youths; (iv) the number of women and youths having 
+
+benefited from project support; (v) the average time of electricity cuts in the industrial zone and 
+
+in the town of Didiévi. The main output indicators are: (i) the irrigated surface area laid out, 
+
+rehabilitated or developed; (ii) the number of infrastructure constructed or rehabilitated 
+
+(consolidation centres, rural markets, storage facilities, etc.); (iii) the number of bore holes and 
+
+pumps for rehabilitated DWS; (iv) the linear distance of roads and electric lines restored; (v) 
+
+the number of agricultural groupings and professional organizations (OPA), youths and women 
+
+
+
+ 
+
+10 
+
+trained or settled in various fields; (vi) the effectiveness of support systems in place 
+
+(mechanization programme, development fund, ICT, etc.); and (vii) the number of senior staff 
+
+and agents of technical services trained.  
+
+2.8.2 Other gender-specific indicators will be added during finalization of the 
+
+monitoring/evaluation system and establishment of the baseline situation, according to the 
+
+results-based management approach. These include: (i) the proportion of women in each 
+
+beneficiary group; (ii) the involvement of women and youths in farmers’ and infrastructure 
+
+management groupings; (iii) the number of land certificates issued to women and youths; (iv) 
+
+the number of women and young graduates settled; and (v) the number of people benefiting 
+
+from the bio-fortification programme. Special emphasis will be laid on the monitoring of socio-
+
+economic impacts (gender- and youth-disaggregated data, monitoring of FO performance, 
+
+turnover of very small enterprises, etc.).  
+
+III PROJECT FEASIBILITY 
+
+3.1 Economic and Financial Performance 
+
+3.1.1 The project’s financial and economic performance was assessed over a 25-year 
+
+period. The calculation of project benefits was based on an estimation of additional outputs 
+
+under the project combined with the effects of an increase in the sown land surface due to works 
+
+(Component A) and the technology package adopted (Component B). The analysis took into 
+
+account the characteristics of agricultural plantations in a without-project and with-project 
+
+scenarios, and the trend of the technical level illustrated by activity fact sheets. More precisely, 
+
+the project benefits come from: (i) the increase in productivity (rice, maize, cassava, vegetables, 
+
+pork and fish); (ii) the increase in the productivity and surface area of rain-fed cultivation; (iii) 
+
+and the increase in the income of youths and SMEs benefiting from the project’s technical and 
+
+financial support.  
+
+3.1.2 In terms of economic profitability, the project has an economic rate of return (ERR) of 
+
+30% and Net Present Value (NPV) of CFAF 123 billion at an opportunity cost of capital of 
+
+12%. These results are deemed satisfactory in light of project activities. The project is more 
+
+sensitive to a decrease in production than to an increase in investment costs. A 10% decrease in 
+
+expected production induces an ERR of 26.8% and a 10% increase in investment costs gives an 
+
+ERR of 28.7%. A 10% decrease in production at the same time as a 10% increase in investment 
+
+costs gives an ERR of 24.9%, which is still above the opportunity cost of capital (12%). The 
+
+assumptions and detailed calculation of financial and economic analyses are presented in Annex 
+
+E1 of Volume 2.  
+
+Table 3.1: Main Economic and Financial Data 
+
+Outcome Assessment Economic 
+
+NPV (baseline scenario: discount rate: 12%) CFAF 123 billion 
+
+Economic Rate of Return (ERR) 30% 
+
+3.1.3 The analysis of the project’s financial performance shows positive additional income 
+
+for all operating models studied. The project will benefit about 11,900 farmers including about 
+
+1,600 for irrigated areas, 8,500 for rain-fed crops and 800 young graduates, as well as 200 SMEs 
+
+(50 of them in produce processing), 150 pig breeders and 100 fish farmers. The project’s impact 
+
+is significant for all plantation types studied, returns being higher for models representing 
+
+irrigated agriculture. The additional income by model are as follows: CFAF 1.2 million for 
+
+Model M1 representing farmers in rice-growing areas (about CFAF 1.2 billion in all), CFAF 7.2 
+
+million for Model M2 representing market gardening farmers (CFAF 4.9 billion in all), CFAF 
+
+
+
+ 
+
+11 
+
+2.5 million for Model M3 representing rain-fed activities (CFAF 22 billion in all), CFAF 4.8 
+
+million for Model M4 representing young farmers (CFAF 3.8 billion in all), and CFAF 20 
+
+million for Model M5 representing SMEs (CFAF 2 billion in all), CFAF 2.5 million for Model 
+
+M6 representing pig breeders (CFAF 375 million in all) and CFAF 4.5 million for Model M7 
+
+representing fish farmers (CFAF 450 million in all). The project will directly benefit about 
+
+112,000 people with 107,000 of them are expected to be eased out of poverty. It will create the 
+
+equivalent of about 19,000 permanent jobs in the region (see Annex E1 of Volume 2).  
+
+3.2 Environmental and Social Impact 
+
+3.2.1 Environment. The project was classified in Environmental Category 2 since it has 
+negligible impact on the environment and will not require population displacement. The 
+
+Environmental and Social Management Plan was approved by ORQR and published on the Bank’s 
+
+website on 18 November 2016. The project will have both positive and negative environmental and 
+
+social impacts. The rehabilitation of irrigated areas (dykes and networks) will cause little 
+
+destruction to ecosystems. Possible scheme extensions will lead only to the felling of a few 
+
+shrubs and uprooting of secondary bushes made up largely by pennisetum purpureum. The same 
+
+is true for impacts of the construction zone of the Raviart mini-dam where: (i) the water storage 
+
+area has deteriorated greatly due to frequent bush fires and illegal logging of the gallery forest; 
+
+and (ii) the poor exploitation of marshy areas by farmers who are not accustomed to it; the few 
+
+cashew nut trees planted close to the marshy areas cover small areas that can easily be 
+
+compensated by the activities of the Climate Change Based Project undertaken concurrently in 
+
+the 2PAI-BÉLIER zone. Socially, the rehabilitation of structures can lead some land owners, 
+
+most of whom are settlers, to over-price agricultural plantations in marshy zones. The 
+
+rehabilitation of rural roads will not cause significant environmental impacts. The same is true 
+
+of the rehabilitation and extension of socio-economic infrastructure (markets, health centres, 
+
+schools and canteens, energy and ICT, fishing and livestock infrastructure, etc.). This 
+
+infrastructure can only improve and ensure the sustainability of the positive impacts expected 
+
+from the implementation of 2PAI-BÉLIER Project activities. The analysis of negative impacts 
+
+reveals two major observations: (i) project activities will neither cause population displacement 
+
+nor seriously undermine biological diversity; and (ii) negative impacts can be mitigated or 
+
+minimized through the measures defined in the 2PAI-BÉLIER ESMP that was prepared during 
+
+the appraisal mission (Annex E of Volume 2). 
+
+3.2.2 Climate Change: Spatial and temporal variations in rainfall patterns are a real cause 
+
+for concern for the conduct of activities in the project area as well as across the country. 
+
+Activities directly concerned are rain-fed agriculture and activities undertaken in lowlands 
+
+developed as water catchment in case of pronounced water shortages. For lowlands on dams to 
+
+be rehabilitated, technical measures will be taken during works to minimize the effects of high-
+
+water level in case of abundant rains (overflow for excess water and networks of drains). To 
+
+mitigate erosion of the banks of lowlands, the project will ensure that good agricultural practices 
+
+are applied, while encouraging farmers to build anti-erosion strips. Tools for implementing alert 
+
+procedures (i.e. collection and processing of climate data and mechanisms for their 
+
+communication to actors) are inadequate and/or obsolete. The project will contribute to 
+
+improving these procedures in the region by: (i) increasing the number of rain gauges in the 
+
+sub-prefectures and villages hosting project sites; and (ii) providing more equipment, 
+
+strengthening capacity to collect and process data and means of communication. The emphasis 
+
+on the rehabilitation of irrigation schemes is in itself a contribution to build the resilience of 
+
+agricultural production systems. The project will support all activities already undertaken in the 
+
+region by WAAPP/PPAAO and CNRA concerning the dissemination of reputedly drought-
+
+resistant plant varieties. The energy component will help to reduce greenhouse gas emissions 
+
+by resorting less to diesel generators (the alternative source when power supplied by the national 
+
+grid becomes unavailable). Besides, as part of the Global Climate Change Initiative (FIP, 
+
+REDD+) financed by the Climate Strategy Fund (SCF), the Bank will support agroforestry and 
+
+
+
+ 
+
+12 
+
+the creation of forest plantations in the Centre, including in Bélier Region. This intervention 
+
+will be in the form of a project whose appraisal will take place in the first quarter of 2017. This 
+
+project is to be implemented in synergy with 2PAI BÉLIER. It will help to reduce greenhouse 
+
+gas emissions, increase carbon sequestration and build the resilience of production systems. 
+
+3.2.3 Gender Impacts. Women make up 49.6% of the population in the project area. Most 
+
+of them engage in agriculture, in particular in the food value chains (cassava production and 
+
+processing, market gardening produce production and marketing, rice steaming, etc.). Women 
+
+are often confined to less fertile and less irrigated parcels due to the difficulty they encounter in 
+
+accessing landed property. In general, women farm extensively on small areas (about one ha), 
+
+practicing shifting cultivation with few factors of production. Often, agricultural outreach is 
+
+undertaken at their expense because it targets cash crops and organized sub-sectors that are 
+
+dominated by men. Women use old and precarious processing equipment. Most of them do not 
+
+know their rights, are poorly organized and are victims of all manners of violence (sexual, 
+
+physical, psychological, economic, harmful traditional practices, denial of opportunities). 
+
+3.2.4 Considering these constraints and the concentration of 2PAI Bélier on food sub-
+
+sectors, the project’s gender strategy will promote women’s empowerment and gender equality 
+
+in access to project services and resources, the implementation of each of its components, 
+
+community representation and decision-making. In this regard, the project will facilitate 
+
+women’s access to land by facilitating the access of close to 2,200 women to the restored 
+
+irrigated areas. Furthermore, 50% of land certificates, the issuance of which will be facilitated 
+
+by the project, will be set aside for women. The project will lay special emphasis on promoting 
+
+women’s equitable access to technologies, mechanized equipment, inputs (seeds, fertilizers and 
+
+pest-control products), supervision services and financing on a par with men. It will support 
+
+women to procure modern cassava processing and rice-steaming equipment. Rehabilitated 
+
+markets will take into account the specific needs of women, especially cold rooms, and include 
+
+gender-separate sanitation facilities, day care facilities and literacy centres. The project will 
+
+facilitate the evacuation and sale of agricultural produce by establishing platforms, setting up 
+
+farmer/trader contracting systems and rehabilitating rural roads. The project’s “Youth training 
+
+and settlement programme” component will reach about 400 young girls, or 50% of the 
+
+beneficiaries of the said programme. In addition, at least 40% of enterprises managed by women 
+
+will be integrated in the project’s “SME support” component.  
+
+3.2.5 At the strategic level, specific measures and actions will be taken to develop women’s 
+
+leadership and remedy the significant illiteracy rate. A package of integrated services aimed at 
+
+building suitable technical and social capacity, as well as life skills (family planning, HIV/AIDS 
+
+control and violence against women, etc.) necessary for their empowerment will be provided. 
+
+The project will also work to better structure women’s organizations around selected sites by 
+
+ensuring that woman represent 50% of members of various committees and bureaus of 
+
+cooperatives or professional organizations targeted. The project will also work to endow the 
+
+selected support, supervisory or training structures and agricultural professional organizations 
+
+and management units with real technical capacity in gender mainstreaming/inclusion based on 
+
+a gender organizational audit. The Ecole Supérieure d’Agronomie (Advanced School of 
+
+Agronomy, ESA) will be supported to incorporate gender-based modules in its training 
+
+curriculum to enable the country have agronomy and agricultural specialists who are sensitive 
+
+to gender issues. The project will produce the gender profile of the Bélier Region agricultural 
+
+sector, including Yamoussoukro District, which will serve to define indicators for measuring 
+
+gender equality. A gender specialist within the Project Management Unit will monitor gender 
+
+activities. 
+
+3.2.6 Achieving this project’s gender-mainstreaming objectives depends on the knowledge 
+
+and capacity of different sector actors. Therefore, it is necessary from project commencement, 
+
+to undertake training, sensitization and communication actions for a change of behaviour. 
+
+
+
+ 
+
+13 
+
+Furthermore, the project must sustain the achievements of women in their sectors of activity. In 
+
+this regard, a strict monitoring must be undertaken so that women are not excluded in their 
+
+production sectors (these sectors are bound to become more attractive for men due to the 
+
+modernization of factors of production and an increase in income accruing therefrom).  
+
+3.2.7 Women will benefit from all project activities for a cost amounting to approximately 
+
+UA 58 million. Moreover, a budget of CFAF 1.4 billion (or UA 1.7 million) will be allocated 
+
+specifically to implement targeted actions to empower women and promote gender in the project 
+
+area’s agricultural sector. 
+
+3.2.8 Youth Employment and Inclusion: The project area had 702,000 inhabitants in 2014 
+
+(RGPH data), a third of whom are youths. Despite their predominance in the labour force, 
+
+youths are less occupied and the most vulnerable on the labour market. The national 
+
+employment situation prepared by AGEPE based on 2014 employment data reveals that youths 
+
+are the least active in terms of occupation (59.2% against 66% for the entire labour force), the 
+
+most unemployed (8.3% against 7% for the whole) and the most inactive (32.7% against 2.7%). 
+
+Young men are relatively more occupied (53.5%) whereas young woman are relatively more 
+
+unemployed (58.6%). The level of education of youths is higher (average duration of studies of 
+
+8.8 years against 6.6 years for the entire population of working age). Furthermore, the level of 
+
+education is higher among unemployed youths than among active employed youths (average 
+
+duration of studies is 9.9 years against 7.9 years). Further, youths aged 14-24 years constitute a 
+
+significant percentage of labour in the informal sector compared to the entire population 
+
+(91.1%), more so for young men (94.1%).  
+
+3.2.9 The project will contribute to improving youth employment indicators. It will also 
+
+enhance production and marketing conditions (irrigation infrastructure, roads, markets, etc.), as 
+
+well as access to innovative technologies and factors of production (inputs, equipment, etc.). 
+
+This material capacity building, coupled with stronger technical and financial capacity, will 
+
+boost the productivity of activities undertaken, increase income and prompt the youths to return 
+
+to farming. Besides, during the establishment and/or rehabilitation of irrigation schemes, youths 
+
+will be called up to provide labour. The young artisans of the region will also see their capacity 
+
+strengthened and will thus ensure better services to the satisfaction of producers. This capacity 
+
+building will be undertaken jointly with the Regional Trades Chamber. The platforms envisaged 
+
+by the project for different sub-sectors will help to increase the number of clients and young 
+
+artisans, and resolve issues of unpaid services due to poor produce sales. The project will 
+
+facilitate the implementation of a specific study on the situation of artisans in Bélier Region, 
+
+including Yamoussoukro District. This will provide exhaustive and relevant data for the 
+
+professionalization of the sector, and a better participation of artisans in the establishment of 
+
+the envisaged agro-industrial pole.  
+
+3.2.10 Under its “Support to entrepreneurship” component, the project will foster youth self-
+
+employment. Ongoing initiatives in different local communities (Yamoussoukro Autonomous 
+
+District, Tiébissou mayor) to establish young entrepreneurs will be supported by the project. To 
+
+that end, grants for the establishment of youths will awarded for the conduct of short-duration 
+
+(at most three months) qualifying training programmes. For that, the project will build on the 
+
+expertise of École Supérieure d’Agronomie (ESA). A consultancy firm will be solicited to 
+
+support young entrepreneurs to prepare their feasibility studies. Young girls will make up at 
+
+least 30% of young entrepreneurs supported. The installation of agro-industrial units will also 
+
+contribute to increasing youth employment, as is the case with the Toumodi cassava industrial 
+
+processing unit. Therefore, the project should support access to financing to develop ongoing 
+
+initiatives and facilitate the establishment of new operators. 
+
+ 
+
+
+
+ 
+
+14 
+
+IV IMPLEMENTATION  
+
+4.1 Implementation Arrangement 
+
+4.1.1 Implementation Arrangements: The Ministry of Agriculture and Rural Development 
+
+(MINADER) will be the project executing agency. The day-to-day management of the project 
+
+will be ensured by the project coordination team, which will be under the supervision of the 
+
+General Directorate of Planning, Statistics and Projects (DGPSP) based in the vacant premises 
+
+of defunct PADER-Lakes that will be enlarged. The project is in line with Presidential Directive 
+
+No. 02/2015 particularly paragraphs 3, 4 and 4.1. Staff for the coordination team are being 
+
+recruited and studies and BDs of flagship components (rehabilitation of irrigation schemes and 
+
+roads) are available, thanks to activities undertaken under the PPF advance (see Annex C). 
+
+4.1.2 The main tasks of the team are the coordination, control and monitoring of all project 
+
+activities, as well as the information and contact of the different actors. The team will comprise 
+
+a Coordinator, a specialist in charge of technical operations, an Administrative and Finance 
+
+Specialist, a Monitoring/Evaluation Specialist, a specialist responsible for the farmers’ 
+
+organizations support service, a Procurement Specialist, a Rural Engineering Specialist, a 
+
+Specialist in Agri-business, a Specialist in the Livestock and Fisheries Sub-sector, a Specialist 
+
+in Agricultural Credit, an Environmentalist Specialist, a Gender Specialist and support staff. 
+
+The members of the coordination team being recruited as part of the PPF advance will sign 
+
+performance contracts with the implementation unit. Renewal of such contracts shall be subject 
+
+to annual review. Only senior staff whose performance is deemed satisfactory will be 
+
+maintained. The Borrower will submit to the Bank evidence of appointment of the project 
+
+coordinator (“Condition Precedent to First Disbursement”) within at most six months after 
+
+effectiveness and evidence of the designation of the rest of the team (“Other Condition”). A 
+
+technical committee will support DGPSP in activities to render the loan effective and implement 
+
+the project (monitor the recruitment of the coordination team, etc.). It will comprise members 
+
+from MINADER, technical directorates of Ministries in charge of youth employment and 
+
+livestock/fishery resources and technical advisers from Ministries in charge of the Budget, 
+
+Economy and Finance. The committee’s mandate shall not exceed six months following the 
+
+signature of Agreements. The travel expenses of members of this committee will be borne by 
+
+the State’s counterpart contribution to PPF.  
+
+4.1.3 Steering: The project will be steered by a national committee bringing together the 
+
+representatives of the following Ministries: (i) Ministry of Planning and Development; (ii); 
+
+Ministry of Agriculture and Rural Development; (iii) Ministry in charge of the Economy and 
+
+Finance; (iv) Ministry in charge of the Budget; (v) Ministry of Trade; (vi) Ministry of Economic 
+
+Infrastructure; (vii) Ministry of the Environment and Sustainable Development; (viii) Ministry 
+of the Family, the Woman and the Child; (ix) Ministry of Livestock and Fishery Resources; (x) 
+
+Ministry of Youth Promotion and Employment and Civil Service; (xi) Ministry of Industry and 
+
+Mines; (xii) General Confederation of Enterprises of Côte d’Ivoire; (xiii) the National 
+
+Association of Agricultural Professional Organizations; and (xiv) the Group of Women’s 
+
+Organizations for Gender Equality. The Steering Committee will be chaired by the 
+
+representative of the Minister of Agriculture and Rural Development, and its technical 
+
+secretariat will be managed by the Directorate in charge of Planning in the DGPSP. An inter-
+
+ministerial order will be signed in this regard. This committee will meet at least twice yearly to 
+
+consider the outputs and outcomes obtained, approve progress reports and annual work 
+
+programmes and budgets, clear possible blockages and constraints, and ensure that activities 
+
+implemented are consistent with national strategies and policies. The Borrower will submit to 
+
+the Bank evidence of creating a National Steering Committee latest six months following 
+
+effectiveness of the loans. This constitutes the “Other Condition”. 
+
+ 
+
+
+
+ 
+
+15 
+
+4.1.4 Regional Consultative Framework (CRC): This framework targets the harmonization 
+
+of development interventions, local arbitration and the quest for regional balance. It will be 
+
+chaired by the Préfet of the region. The Regional Director of Agriculture will handle the 
+
+technical secretariat. A ministerial order will be signed to that end (Annex D1.3 of Volume 2). 
+
+4.1.5 Associated Agencies: The project will forge partnership or delegated supervisory 
+
+(MOD) relations, through agreements, with specialized experienced agencies to execute or 
+
+monitor tasks falling within their spheres of competence. These include the National Rural 
+
+Development Support Agency (ANADER) for agricultural supervision and outreach; ONDR 
+
+for monitoring works in rice-growing areas; the Foodstuffs Marketing Assistance Authority 
+
+(OCPV) for marketing related arrangements; the Roads Management Agency (AGEROUTE) 
+
+for the delegated supervision of roads; the Territorial Directorate of Human Water Management 
+
+(DTHH), for the supervision of drinking water works; the Investment Promotion Centre of Côte 
+
+d’Ivoire (CEPICI) to monitor the projects of agricultural enterprises; the National Polytechnic 
+
+Institute – Ecole Supérieure d’Agronomie (INP-ESA) and the Youth Employment Agency for the 
+
+implementation of the youth training/incubation/settlement programme and some technical 
+
+directorates of MINADER, MIRAH, Ministries in charge of the environment, women’s 
+
+advancement and the child and the Ministry of Industry for activities falling within their 
+
+respective spheres of competence.  
+
+4.1.6 Procurement Procedures: The procurement of goods (including services other than 
+
+those of consultants), works and consultancy services financed by the Bank as part of this 
+
+project, will be done in accordance with the Procurement Policy for Bank Group Funded 
+
+Operations, October 2015 edition and pursuant to the terms of the Financing Agreement. 
+
+Specifically, procurements will be done in accordance with: (i) Côte d’Ivoire’s procurement 
+
+system (SPM): Procurement methods and procedures (MPA) as part of the procurement system 
+
+of Côte d’Ivoire comprising its laws and implementing decrees (Decree No. 2009-259 of 6 
+
+August 2009 instituting the Public Procurement Code as amended and supplemented by 
+
+Decrees No. 2014-306 of 27 May 2014 and No. 2015-525 of 15 July 2015 and various 
+
+implementing orders), using standard national bidding documents (DNSAO) or other bidding 
+
+documents approved during project negotiations for various types of activities envisaged; (ii) 
+
+Bank Procurement Methods and Procedures (BPM): standard Bank procurement methods, 
+
+based on relevant standard BDs for consulting service contracts deemed to be most suitable.  
+
+4.1.7 Risk Assessment and Procurement Capacity (RAPC): The risk at country, project 
+
+and sector level, and executing agency’s capacity in project-related procurements were assessed 
+
+and the results are reflected in Table D2.20 of Annex D2. Deemed moderate, the risk guided 
+
+the choice of the procurement system (Borrower, Bank or Third Party) used for given activities 
+
+or all similar activities under the project. The appropriate risk mitigation measures identified 
+
+were included in the PERCA action plan indicated in para. D.2.30. of Annex D2. 
+
+4.1.8 Waiver of Eligibility: Considering that part of this project’s financing is through the 
+
+ADB Window and that some procurements will be done pursuant to the Côte d’Ivoire 
+
+procurement system, a formal request is made to the Board of Directors of the Bank to waive 
+
+the rule of origin for procurements made pursuant to the national procurement system. Since 
+
+the public procurement eligibility rules in Ivorian law are not the same as those of the ADB 
+
+Window, it is necessary to prevent any practical incompatibility. For project procurements using 
+
+the national system, the eligibility rules are national ones in addition to the provisions of 
+
+paragraph 5.c of the Bank Policy on Procurement. Consequently, even using the national 
+
+system, Bank resources cannot serve to finance a contract awarded to a bidder under sanctions 
+
+by the African Development Bank Group. If or in spite of these provisions, a contract is 
+
+concluded with a bidder under sanction by the Bank Group, such contract shall not be financed 
+
+with Bank resources. However, procurements made pursuant to the Bank’s Procurement 
+
+Methods and Procedures will comply with the rule of origin as defined in Article 17 (1) (d) of 
+
+the Agreement Establishing the African Development Bank. 
+
+
+
+ 
+
+16 
+
+4.1.9 Financial Management and Disbursement: The overall fiduciary risk of the 
+
+project executing agency was assessed and deemed moderate. Côte d’Ivoire issued Decree 
+
+No. 2015-415 in July 2015 to organize the preparation, implementation and closing of projects 
+
+co-financed with Technical and Financial Partners (TFPs). It is in line with the Paris Declaration 
+
+on Development Aid Effectiveness, especially the use of the recipient’s national procedures. 
+
+The decree determines all administration and management structures that must be established 
+
+before the Bank Board of Directors rules on the project, especially the Project Coordination 
+
+Team (ECP) and the recruitment or appointment of its members as well as the National Steering 
+
+Committee (CNP). The project budget will be incorporated fully in the State budget and 
+
+implemented following the simplified expenditure procedure. Project accounts will be kept with 
+
+the SIGFIP (Integrated Public Finance Management System) software, which handles only the 
+
+budgetary module. To have complete accounts bringing together budgetary, cost and general 
+
+accounting modules, a private management software will be procured. Financial reports and 
+
+statements will be published for the public as well as private systems. A procedures manual 
+
+harmonizing public and private procedures will be prepared for the project’s management and 
+
+financed by PPF funds.  
+
+4.1.10 Disbursements. Project resources will be disbursed using the reimbursement, direct 
+
+payment and revolving fund methods, pursuant to the provisions of the Bank’s Disbursement 
+
+Manual. Four accounts will be opened in a bank acceptable to AfDB Group to receive ADF 
+
+resources: a special account to receive revolving funds serving for the operation of the project 
+
+coordination and three accounts to receive resources for the Value Chains Development Fund: 
+
+(i) a dedicated account for the operations and operating expenses of this Fund; (ii) a 
+
+“Refinancing Facility” account meant to refinance banks and project partner SFDs, and to 
+
+guarantee loans granted to beneficiary SMEs; and (iii) an account meant for interest rate 
+
+subsidies. These accounts have only one signatory, the public accountant who is personally 
+
+responsible for funds entrusted to him. He/she must be sworn-in and pay a deposit in the public 
+
+Treasury before assuming duty. Expenses linked to the services of consultants, contractors and 
+
+suppliers will be settled by direct payment. Counterpart funds will be used to pay for expenses 
+
+either by direct payment or by a project account opened for that purpose. 
+
+4.1.11 Audit: An independent auditor will be recruited through competitive bidding for the 
+
+annual audit of project accounts. He/she will be recruited based on terms of reference approved 
+
+by the Bank for a maximum period of three years. The auditor’s continued services will be 
+
+contingent on the approval of his/her first report. Audit reports must reach the Bank latest six 
+
+(6) months after the close of the fiscal year. In parallel, the project is subject to control by the 
+
+General Inspectorate of Finance (IGF) and verification by the Court of Auditors, as indicated in 
+
+Decree No. 2015-475. 
+
+4.2 Monitoring 
+
+4.2.1 Project implementation will span five years from the second quarter of 2017. Once the 
+
+project team is recruited, the Bank will organize the start-up mission to put in place all 
+
+requirement for a rapid and efficient commencement of project activities. 
+
+4.2.2 The project’s internal Monitoring/Evaluation Service (SSEI) will monitor the project 
+
+internally at the physical and financial level, and by expenditure category as well as assess the 
+
+project’s impact on beneficiaries and the environment based on relevant and jointly established 
+
+indicators. It will be aligned on a geographic information system (GIS) included in the project’s 
+
+ICT components. At start-up (PPF budget), SSEI will be supported by a consultant to set up the 
+
+baseline situation and establish a monitoring/evaluation system, including verifiable indicators. 
+
+The baseline situation study will include the gender profile in agriculture, to deepen knowledge 
+
+of beneficiary groups especially with regard to socio-economic aspects (income, capital, 
+
+agricultural activities). This system is expected to be functional latest six months following 
+
+
+
+ 
+
+17 
+
+project commencement. On that basis, the project will produce quarterly and annual progress 
+
+reports indicating especially the implementation rates and outcomes of the different 
+
+components, linked to the performance indicators of the logical framework. 
+
+4.2.3 External monitoring/evaluation will be undertaken by the Directorate of Projects 
+
+Evaluation (DEP), working closely with the directorates in charge of projects of technical 
+
+ministries involved as well as the Ministry of Economy and Finance (MEF). Half-yearly 
+
+external monitoring/evaluation reports will seek to measure progress made, identify possible 
+
+constraints and make recommendations to resolve problems encountered. DEP will involve 
+
+technical directorates of ministries in external monitoring missions to consider particular 
+
+technical problems and compliance with sector strategies. Considering the project’s linkages 
+
+with ECOWAP, external monitoring/evaluation will ensure harmonization with indictors 
+
+selected for PNIA. The project will place at the disposal of DEP, DPPF of MINADER, the 
+
+Directorate of Public Debt and the directorates of technical ministries involved, the necessary 
+
+means to enable them accomplish this mission. A mid-term review is planned to establish the 
+
+interim implementation situation, ensure the overall good progress of the project and, if 
+
+necessary, propose adjustments. A final joint evaluation is also programmed towards project 
+
+completion to draw lessons and build on project achievements. 
+
+4.2.4 The project implementation schedule is presented in Table 4.7 below. 
+
+Table 4.7: Implementation and Supervision Schedule 
+
+N° ACTIVITIES RESPONSIBILITY TIME FRAME 
+
+1 Approval of loans and the grant ADB/ADF January 2017 
+
+2 Signing of agreements (loans and grant)  ADB/ADF/Government 1st quarter 2017 
+
+3 Effectiveness of loan agreements ADB/ADF/Government 2nd quarter 2017 
+
+3 Fulfilment conditions 1st disbursement ADB/ADF/Government 2nd quarter 2017 
+
+4 Start-up mission ADB/ADF/Government 2nd quarter 2017 
+
+5 Publication BD/DCR  ADB/ADF/Government 2nd quarter 2017 
+
+6 Start-up of works and services Government 2nd half of 2017 
+
+7 Mid-term review ADB/ADF/Government 1st half of 2020 
+
+8 Completion report ADB/ADF/Government 2nd half of 2019 
+
+9 Completion of activities ADB/ADF/Government 31 December 2021 
+
+10 Closing of project ADB/ADF/Government 31 December 2022 
+
+4.3 Governance 
+
+Under Pillar I of the Bank’s CSP 2013-2017, the Bank supports the connection of the Integrated 
+
+Local Government Management System (SIGESCOD) to the Integrated Public Finance 
+
+Management System and the Integrated Public Procurement Management System within the 
+
+framework of the Economic and Financial Management Support Project (PAGEF 2017-2019). 
+
+The aim is to reduce the risk of financial loss during the management of public finances and 
+
+support the capacity building of actors of sector ministries and local governments. This project 
+
+will also support local governance by better securing land tenure systems, establishing concerted 
+
+systems to limit farmer/grazier conflicts, and strengthening the capacity of local communities 
+
+and organs to manage infrastructure whose competencies are sometimes weak. The other 
+
+measures adopted concern: (i) the conduct of annual financial audits; (ii) efficient coordination 
+
+by the Project Coordination Team (ECP); and (iii) the conduct of at least two supervision 
+
+missions per year. 
+
+4.4 Sustainability 
+
+4.4.1 The project aims to initiate truly sustainable development by placing local 
+
+stakeholders, including farmers, at the heart of decision-making while also strengthening their 
+
+capacity to assume new responsibilities. During PPF preparation and site identification studies, 
+
+an intervention process was adopted governed by a number of eligibility criteria to ensure the 
+
+
+
+ 
+
+18 
+
+effective commitment of the farmers concerned and the absence of potential conflicts. The 
+
+communities concerned will provide financial or in-kind contribution for all support 
+
+infrastructure, based on good governance mechanisms in force. The project will accompany 
+
+them to engage a process aimed at sustaining infrastructure put in place. They will be supported 
+
+to strengthen their capacity at the technical and organizational level, which will create expertise 
+
+and greater ownership at their level. In particular, committees will be created or revitalized at 
+
+each of the sites to ensure sound management and regular maintenance of community 
+
+infrastructure. Mayors will be involved and accompanied in the management of communal 
+
+infrastructure (markets, slaughter areas, etc.). Private sector involvement in processing and 
+
+marketing actions is also a guarantee of the sustainability of actions undertaken through value 
+
+chain dynamics and actor networking. 
+
+4.4.2 The issue of the sustainability of actions implemented, especially infrastructure 
+
+maintenance and management, is a central concern in the project’s design. For each type of 
+
+infrastructure, specific measures will be taken to ensure management and maintenance under 
+
+good conditions: (i) the maintenance of rehabilitated rural roads is ensured by budgeting related 
+
+works on counterpart funds (FER financing) and piloted programming by AGEROUTE (global 
+
+agreement with 2PAIA-Bélier); (ii) gravity-based operation of rice cultivation works, limiting 
+
+management and maintenance costs; (iii) involvement and training of local structures to manage 
+
+markets with higher receipts due to increased activities and sensitization; (iv) training and 
+
+revitalization of committees for the management of HVA systems and irrigation sites, including 
+
+water rates based on recognized practices and activities; (v) support of settled young farmers 
+
+with tracking of trading accounts etc. Regarding the conservation of the physical environment, 
+
+targeted actions will not have negative effects on the environment, which will foster the 
+
+sustainability of actions undertaken. 
+
+4.5 Risk Management 
+
+4.5.1 The main risks that might limit results and measures for mitigating them are as follows: 
+
+climate change related risk: Bélier Region faces serious climatic impacts, including: (i) 
+
+recurrent flooding; and (ii) drought and its repercussions on the farming calendar and choice of 
+
+varieties. The project will undertake mitigation measures including: (a) structures that can resist 
+
+high intensity swells; (b) promotion of varieties and practices suited to drought cycles; (c) the 
+
+dissemination of knowledge of climate-related risks and data; and (d) sensitization and 
+
+communication at the level of the population of zones concerned. 
+
+4.5.2 Risk of land-related conflicts: To ensure non-discriminatory access to works 
+
+undertaken (gravity-based irrigation works, lowlands, market gardens, stores, etc.), the project 
+
+will support the process of social evaluation on all sites to be developed before any intervention 
+
+is undertaken. On development sites with full water mastery and lowland sites, the project will 
+
+finance the land security of sites to be developed. Capacity-building support will also be 
+
+provided to communes for better dissemination of land transaction tools and issuance of 
+
+exploitation certificates.  
+
+4.5.3 Risk of transhumance-related conflicts: With regard to the prevention of 
+
+transhumance-related conflicts, the project will support devolved structures and communes to 
+
+accompany endogenous transhumance-related conflict management mechanisms by setting up 
+
+consultative frameworks and drafting local agreements for natural resources management. Two 
+
+pilot sites integrating structuring works will also be selected in the region. 
+
+4.6 Knowledge Building 
+
+Particularly through its development of the value chains component, 2PAI-Bélier will contribute 
+
+to train different actors and disseminate new knowledge primarily to farmers, thanks to the 
+
+
+
+ 
+
+19 
+
+support and training offered by operators and technical services in advisory support, structuring 
+
+and organization. It will come up with technical innovations based on research outcomes and 
+
+also enable youths and women inclusively to develop technical and entrepreneurial capacity and 
+
+settle on land equipped with infrastructure and modern means of operation. As part of training 
+
+and settling of youths, the project will support agricultural training centres and INP-ESA by 
+
+introducing new curricula and training modules to better respond to the requirements of 
+
+agricultural entrepreneurship and promote the emergence of technological innovations. Lastly, 
+
+the project will set up an integrated system for managing and sharing knowledge on project 
+
+activities through the regular dissemination of knowledge and experience acquired on its 
+
+website and that of MINADER. 
+
+V LEGAL FRAMEWORK 
+
+5.1 Legal Instrument  
+
+The legal framework will be a Loan and Grant Agreement between the Republic of Côte 
+
+d’Ivoire and the African Development Fund and a Loan Agreement between the Government 
+
+of Côte d’Ivoire and the African Development Bank. These documents will comprise the terms 
+
+and conditions of the loans and grant. 
+
+5.2 Conditions Associated with Bank Involvement  
+
+5.2.1 Condition Precedent to the Effectiveness of the ADF and ADB Loans and the ADF 
+
+Grant: Effectiveness of the ADF and ADB loans shall be contingent on the fulfilment by the 
+
+Borrower of the conditions stipulated in Section 12.01 of the General Conditions Applicable to 
+
+Bank Loan and Guarantee Agreements (sovereign entities). Effectiveness of the ADF grant shall 
+
+be subject to signature by the Donee and the Bank of the related Agreement. 
+
+5.2.2 Conditions Precedent to First Disbursement: The first disbursement of the ADF and 
+
+ADB loans and the ADF grant shall be subject to the effectiveness of the ADF and ADB Loan 
+
+Agreements and the ADF Grant Agreement in accordance with the above provisions and 
+
+evidence of fulfilment to the satisfaction of the Bank Group in both form and substance of the 
+
+following conditions: 
+
+i. Forward to the Bank evidence of the appointment of the 2PAI-BÉLIER Coordinator 
+whose qualification and experience will have been judged satisfactory by the Bank 
+
+Group (par. 4.1.1); 
+
+ii. Forward to the Bank evidence of opening a special account in a bank acceptable by the 
+latter to receive revolving funds from ADF resources. 
+
+5.2.3 Other Conditions 
+
+In addition, the Borrower shall: 
+
+i. Show to the Bank latest six months following signature of the Agreements, evidence 
+of the appointment of the rest of the Project Coordination Team, comprising a specialist 
+
+in charge of technical matters, a specialist responsible for administrative and financial 
+
+matters, a monitoring/evaluation specialist, a specialist responsible for support to the 
+
+service in charge of farmers’ organizations, a public procurement specialist, a rural 
+
+engineering specialist, a specialist in agribusiness, and specialist in the livestock and 
+
+fisheries sub-sectors, a specialist in agricultural credit, an environmentalist and a 
+
+gender specialist (par. 4.1.1);  
+
+ii. Provide, latest most six months following loan effectiveness, evidence of establishing 
+the project National Steering Committee (par. 4.1.2);  
+
+
+
+ 
+
+20 
+
+iii. Provide evidence of opening a special dedicated account for the operations and 
+operating expenses of the Value Chains Development Fund, not more than six months 
+
+following the first disbursement (par. 4.1.10);  
+
+iv. Provide evidence of opening a “Refinancing Facility” account meant to refinance 
+project partner banks and SFDs and to guarantee loans granted to beneficiary SEs, not 
+
+more than six months following the first disbursement (par. 4.1.10); and  
+
+v. Provide evidence of opening a dedicated account for interest rate subsidies, not more 
+than six months following the first disbursement (par. 4.1.10). 
+
+5.2.4 Commitments  
+
+The Borrower commits to:  
+
+i. Implement the Environmental and Social Management Plan (ESMP) and have it 
+implemented by co-contracting parties pursuant to: (a) Bank rules and procedures; (b) 
+
+national laws; and (c) the recommendations, prescriptions and procedures contained in 
+
+the ESMP; and 
+
+ii. Submit to the Bank annual reports on the ESMP implementation, including where 
+applicable, weaknesses and corrective actions taken or to be taken. 
+
+5.3 Compliance with Bank Policies 
+
+The project is aligned on Thrusts 1 (Light up Africa), 2 (Feed Africa), 3 (Industrialize 
+
+Africa) and 5 (Improve the quality of life for the people of Africa) of the High 5s, the Strategy 
+
+for Agricultural Transformation in Africa, 2016-2025, as well as the Bank’s Ten-Year Strategy 
+
+(LTS 2013-2022) and the Gender Strategy, 2014-2018. Furthermore, the project is in line with 
+
+Presidential Directive No. 02/2015 relating to the process of consideration of operations. Studies 
+
+of the project’s flagship components are available and staff of the project coordination team are 
+
+being recruited thanks to a PPF advance.  
+
+VI RECOMMENDATION 
+
+Management hereby recommends that the Boards of Directors: (i) exceptionally grant a waiver 
+
+on the application of the rule of origin mentioned in Article 17 (1) (d) of the Agreement 
+
+Establishing the African Development Bank and, to enable procurements to be made using the 
+
+national public procurement system of the Republic of Côte d’Ivoire, authorize the application 
+
+of the eligibility rules contained in this system in addition to the provisions of paragraph 5.3 (c) 
+
+of the Procurement Policy for operations funded by the Bank Group, October 2015 edition; and 
+
+(ii) approve the proposal to extend an ADF loan of UA 26.04 million, an ADF grant of UA 3.4 
+
+million and an ADB loan of EUR 64.36 million to the Republic of Côte d’Ivoire to finance the 
+
+Bélier Region Agro Industrial Pole Project. 
+
+
+
+ 
+
+I 
+
+Annex I    Côte d’Ivoire’s Comparative Socio-Economic Indicators 
+
+ 
+
+ 
+
+Year
+Côte 
+
+d'Ivoire
+Africa
+
+Develo-    
+
+ping         
+
+Countries
+
+Develo-       
+
+   ped  
+
+Countries
+
+Basic Indicators
+
+Area ( '000 Km²) 2016 322 30 067 94 638 36 907
+Total Population (millions) 2016 23,3 1 214,4 3 010,9 1 407,8
+Urban Population (% of Total) 2016 51,4 40,1 41,6 80,6
+Population Density  (per Km²) 2016 73,1 41,3 67,7 25,6
+GNI per Capita (US $) 2014 1 460 2 045 4 226 38 317
+Labor Force Participation *- Total (%) 2016 67,0 65,6 63,9 60,3
+Labor Force Participation **- Female (%) 2016 52,5 55,6 49,9 52,1
+Gender -Related Dev elopment Index  Value 2007-2013 0,468 0,801 0,506 0,792
+Human Dev elop. Index  (Rank among 187 countries) 2014 172 ... ... ...
+Popul. Liv ing Below  $ 1.90 a  Day  (% of Population) 2008-2013 29,0 42,7 14,9 ...
+
+Dem ographic Indicators
+
+Population Grow th Rate   - Total (%) 2016 2,4 2,5 1,9 0,4
+Population Grow th Rate   - Urban (%) 2016 3,6 3,6 2,9 0,8
+Population < 15 y ears  (%) 2016 42,3 40,9 28,0 17,2
+Population >= 65 y ears  (%) 2016 3,0 3,5 6,6 16,6
+Dependency  Ratio (%) 2016 83,0 79,9 52,9 51,2
+Sex  Ratio (per 100 female) 2016 103,4 100,2 103,0 97,6
+Female Population 15-49 y ears (% of total population) 2016 23,5 24,0 25,7 22,8
+Life Ex pectancy  at Birth - Total (y ears) 2016 52,3 61,5 66,2 79,4
+Life Ex pectancy  at Birth - Female (y ears) 2016 53,2 63,0 68,0 82,4
+Crude Birth Rate (per 1,000) 2016 36,6 34,4 27,0 11,6
+Crude Death Rate (per 1,000) 2016 13,1 9,1 7,9 9,1
+Infant Mortality  Rate (per 1,000) 2015 66,6 52,2 35,2 5,8
+Child Mortality  Rate (per 1,000) 2015 92,6 75,5 47,3 6,8
+Total Fertility  Rate (per w oman) 2016 4,9 4,5 3,5 1,8
+Maternal Mortality  Rate (per 100,000) 2015 645,0 495,0 238,0 10,0
+Women Using Contraception (%) 2016 21,1 31,0 ... ...
+
+Health & Nutrition Indicators
+
+Phy sicians (per 100,000 people) 2004-2013 14,4 47,9 123,8 292,3
+Nurses and midw iv es (per 100,000 people) 2004-2013 48,3 135,4 220,0 859,8
+Births attended by  Trained Health Personnel (%) 2010-2015 59,4 53,2 68,5 ...
+Access to Safe Water (% of Population) 2015 81,9 71,6 89,3 99,5
+Healthy  life ex pectancy  at birth (y ears) 2013 47,0 54,0 57 68,0
+Access to Sanitation (% of Population) 2015 22,5 39,4 61,2 99,4
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2014 3,5 3,8 ... ...
+Incidence of Tuberculosis (per 100,000) 2014 165,0 245,9 160,0 21,0
+Child Immunization Against Tuberculosis (%) 2014 84,0 84,1 90,0 ...
+Child Immunization Against Measles (%) 2014 63,0 76,0 83,5 93,7
+Underw eight Children (% of children under 5 y ears) 2010-2014 15,7 18,1 16,2 1,1
+Daily  Calorie Supply  per Capita 2011 2 799 2 621 2 335 3 503
+Public Ex penditure on Health (as % of GDP) 2013 1,7 2,6 3,0 7,7
+
+Education Indicators
+
+ Gross Enrolment Ratio (%)
+
+      Primary  School       -   Total 2010-2015 89,6 100,5 104,7 102,4
+      Primary  School       -   Female 2010-2015 83,6 97,1 102,9 102,2
+      Secondary  School  -   Total 2010-2015 40,1 50,9 57,8 105,3
+      Secondary  School  -   Female 2010-2015 33,2 48,5 55,7 105,3
+Primary  School Female Teaching Staff (% of Total) 2010-2015 25,7 47,6 50,6 82,2
+Adult literacy  Rate - Total (%) 2010-2015 43,3 66,8 70,5 98,6
+Adult literacy  Rate - Male (%) 2010-2015 53,3 74,3 77,3 98,9
+Adult literacy  Rate - Female (%) 2010-2015 32,7 59,4 64,0 98,4
+Percentage of GDP Spent on Education 2010-2014 4,7 5,0 4,2 4,8
+
+Environm ental  Indicators
+
+Land Use (Arable Land as % of Total Land Area) 2013 9,1 8,6 11,9 9,4
+Agricultural Land (as % of land area) 2013 64,8 43,2 43,4 30,0
+Forest (As % of Land Area) 2013 32,7 23,3 28,0 34,5
+Per Capita CO2 Emissions (metric tons) 2012 0,3 1,1 3,0 11,6
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available. * Labor force participation rate, total (%  of total population ages 15+)
+
+** Labor force participation rate, female (%  of female population ages 15+) 
+
+COMPARATIVE SOCIO-ECONOMIC INDICATORS
+
+Côte d'Ivoire
+
+August 2016
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Infant Mortality Rate
+( Per 1000 )
+
+C ôt e d' Ivo ir e A fr i ca
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+GNI Per Capita US $
+
+C ôt e d' Ivo ir e A fr i ca
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+2,5
+
+3,0
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Population Growth Rate (%)
+
+C ôt e d 'I voi re A fr ic a
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+Life Expectancy at Birth 
+(years)
+
+C ôt e d' Ivo ir e A fr i ca
+
+
+
+ 
+
+II 
+
+Annex II    Situation of Ongoing AfDB Portfolio in Côte-d’Ivoire (UAM)  
+
+(end-October 2016) 
+
+ 
+
+Project Name 
+
+Loan/Grant 
+
+Amount in 
+
+UA Million 
+
+Approval 
+
+Date 
+
+Signature 
+
+Date 
+
+Disbursed 
+
+Amount in 
+
+UA Million 
+
+Disbur. 
+
+Rate  
+
+Closing 
+
+Date 
+
+PUBLIC SECTOR PROJECTS       
+
+1. Gourou Basin Integrated 
+Management Project 
+
+23.00 24-Nov.-10 10-June-11 17.14 74.51% 30-June-17 
+
+2. Agricultural Infrastructure 
+Support Project in Indénié-
+
+Djuablin Region (PAIA-ID) 
+
+21.60 01-Mar-12 20-Mar-12 12.18 56.41% 28-Feb.-18 
+
+3. Liquid Waste Recycling Support 
+Project (African Water Facility) 
+
+1.00 4-Sep-13 13-June-14 0.03 2.91% 31-Dec-17 
+
+4. Industrial Sector Competitiveness 
+Strengthening Support Project 
+
+(PARCSI) 
+10.00 
+
+30-Sep-
+
+2015 
+
+11-Dec-
+
+2015 
+0.15 1.56% 
+
+30-Nov-19 
+
+5. Social Cohesion Support 
+Programme 
+
+30.00 13-June-14 25-June-14 30.00 100.00% 31-Dec-16 
+
+6. Bélier Region Agro Industrial 
+Pole Project (PPF) 
+
+1.00 17-Oct-14 9-Feb-15 0.29 29.11% 30-June-17 
+
+7. Entrepreneurship Development 
+Support Project in Côte d’Ivoire 
+
+0.7 16-Dec-14 4-Sep-15 0.03 3.89% 15-Dec-16 
+
+8. Emergency Humanitarian Aid 
+against Avian Flu 
+
+0.7 
+23-Dec-
+
+2015 
+6-Apr-2016 - - 31-Mar-17 
+
+9. Value Chains Development 
+Support Project in Indénié Region 
+
+4.0 21-Oct-2016 - - - 31-Dec-20 
+
+       Sub-total Public Sector 92.00   59.82 65.00%  
+
+       
+
+MULTINATIONAL PROJECTS       
+
+10. Project to Interconnect the 
+Electricity Networks of Côte 
+
+d’Ivoire, Liberia, Sierra Leone 
+
+and Guinea (CLSG).  
+
+33.00 6-Nov-13 22-Nov-13 2.18 6.60% 31-Dec-18 
+
+11. Road Development and Transport 
+Facilitation Programme within 
+
+the Mano River Union 
+
+96.63 17-Dec-14 4-June-15 - - 30-June-20 
+
+12. Ebola Response Programme 6.00 1-Oct-2014 1-Oct-2014 6.00 100% 
+31-Dec-
+
+2016 
+
+13. Bamako-Zantiebougou-
+Boundiali-San Pedro Road 
+
+Corridor Project (CI/Mali) 
+
+70.00 26-Nov-15 
+3- May- 
+
+2016 
+- - 
+
+30-June-
+
+2021 
+
+14. Africa Trade Insurance 
+Adherence Programme (ACA-
+
+ATIA) 
+
+10.00 23-Sep-15 
+3- May -
+
+2016 
+- - 
+
+31-Dec-
+
+2016 
+
+15. Abidjan-Lagos Motorway 
+Development Project Study 
+
+1.0 
+21-Sep-
+
+2016 
+- - - - 
+
+   Sub-total Multinational Projects 216.63   8.78 4.05 %  
+
+       
+
+PRIVATE SECTOR PROJECTS       
+
+16..MicroCred Côte d'Ivoire (FAPA: 
+
+Technical Assistance)            
+0.7 16-Apr-10 11-June 0.49 69.96% 31-Dec-16 
+
+17.Electricity Plant Extension Project 
+
+(CIPREL) 
+40.02 24-July-13 14-Aug-13 31.64  78.74%  31-Dec-16 
+
+       Sub-total Private Sector 40.7   32.13 78.94%  
+
+GRAND TOTAL 349.33   100.73 29.00%  
+
+ 
+
+
+
+ 
+
+III 
+
+Annex III    Matrix of Consideration of Fragility Factors 
+
+      
+
+Fragility 
+
+Factors 
+
+Identified by 
+
+the Fragility 
+
+Assessment 
+
+Situation, Challenges and Resilience Measures Supported 
+
+by General State Policies with the Support of Technical and 
+
+Financial Partners (TFP)  
+
+Measures supported by 2PAI-
+
+BÉLIER Bank Intervention for 
+
+(2017-2022) 
+
+Political, 
+
+institutional 
+
+and Security 
+
+Factors 
+
+ 
+
+ 
+
+1. Legitimate Policies and Political Governance (Legitimacy, Inclusion, State Building and 
+
+Trust in its Institutions 
+
+Legitimacy: Côte d’Ivoire made significant progress that 
+undoubtedly placed it on the path of sustainable resilience. These 
+
+achievements include the strengthening of security and stability, 
+
+economic recovery with impressive growth rates, the 
+
+implementation of major institutional reforms, an upsurge of 
+
+stability, the consolidation of social cohesion and strengthening 
+
+of regional cooperation, among others. The international 
+
+community continues to laud the Ivorian Government generally 
+
+for its efforts to restore the institutions and State authority, 
+
+rebuild infrastructure and revive the country’s economy since it 
+
+came into office in May 2011. Despite these improvements, the 
+
+post crisis reconstruction is far from over. Ethnic and religious 
+
+divisions between the mostly Muslim North and the mainly 
+
+Christian and animist South continues to undermine political 
+
+stability and underpin the political divide among actors of the 
+
+Ivorian political stage. Ivorians had less than one month to 
+examine the draft text for the revision of the Constitution, which 
+
+seriously hampered the public’s ability to understand the text 
+
+before it was passed on 30 October 2016. Ultimately, these 
+
+constitutional reforms are an opportunity to treat the profound 
+
+causes of the diverse crises experienced by Côte d’Ivoire. In this 
+
+regard, all sectors of civil society would have been able to 
+
+participate in a consensual approach based on an enlightened 
+
+and inclusive debate. This would have led to less criticism of the 
+
+text, which would in turn have eased political tensions and lent 
+
+fresh impetus to the reconciliation process. 
+
+The Bélier Region Agro-Industrial 
+
+Pole Project (2PAI-Bélier) will 
+
+contribute to restore anchor 
+
+infrastructure, which is the 
+
+bedrock of economic recovery, and 
+
+lift a number of exclusiveness-
+
+related obstacles and reduce inter-
+
+community tensions generated by 
+
+land conflicts. The nature of 
+
+actions that the project plans to 
+
+support will consolidate 
+
+Government action nationwide 
+
+through development activities.  
+
+Governance: Over these past years, Côte d’Ivoire undertook a 
+series of actions to improve governance. This process 
+
+coordinated by the National Secretariat for Governance and 
+
+Capacity-Building (SNGRC) made it possible to prepare several 
+
+instruments, including an ethics charter and code of professional 
+
+ethics for State employees, as well as draft laws on the prevention 
+
+and fight against corruption, the establishment of a High Anti-
+
+Corruption Authority and the establishment of anti-corruption 
+
+courts. In 2012, an Anti-corruption Squad was set up and a Code 
+
+of Ethics and Deontology of Treasury employees adopted. On 4 
+
+January 2013, Government adopted a National Good 
+
+Governance and Anti-Corruption Plan (2013-2017). However, 
+
+the Ivorian administration’s capacity remains weak at central 
+
+and local level in the area of procurement, design, 
+
+implementation and monitoring of development programmes or 
+
+projects, and assimilation of the principle of accountability. 
+
+Transparency: Furthermore, despite remarkable progress, the 
+perception of corruption remains high according to 
+
+Transparency International’s Corruption Perception Index 
+
+(107
+th
+ position in 2015 against 130
+
+th
+ out of 180 countries in 2012) 
+
+and the recent diagnostic on governance in Côte d’Ivoire carried 
+
+The Bélier Region Agro-Industrial 
+
+Pole Project (2PAI-Bélier) will 
+
+contribute to improving land 
+
+system governance in the project 
+
+target area through land security. 
+
+It will also strengthen the capacity 
+
+of the Bélier Region regional 
+
+directorate of procurement. 
+
+ 
+
+2PAI BÉLIER will strengthen the 
+
+Ivorian administration’s capacity 
+
+to award PPP-type contracts 
+
+through PPF-funded technical 
+
+assistance. 
+
+
+
+ 
+
+IV 
+
+Fragility 
+
+Factors 
+
+Identified by 
+
+the Fragility 
+
+Assessment 
+
+Situation, Challenges and Resilience Measures Supported 
+
+by General State Policies with the Support of Technical and 
+
+Financial Partners (TFP)  
+
+Measures supported by 2PAI-
+
+BÉLIER Bank Intervention for 
+
+(2017-2022) 
+
+out by the World Bank which revealed that over 90% of 
+
+respondents consider corruption as one of the most serious 
+
+problems of the Ivorian society today. Public-private 
+
+partnerships (PPP) suffer from the lack of a formal consultative 
+
+framework and are sometimes used unadvisedly for private 
+
+agreements. Other challenges include the lack of transparency in 
+
+the management and concession of natural resources, land rights 
+
+and, increasingly, the State’s inability to fight drug trafficking, 
+
+organized crime and corruption. In fact, the lack of transparency 
+
+and good governance in public procurements and the extensive 
+
+land allocated for agricultural, mining operations and forest 
+
+resource exploitation based on the misuse of private permits are 
+
+symptoms of major unsolved problems, weak governance of 
+
+natural resources and persistent weaknesses of the land tenure 
+
+framework. These issues continue to pose significant challenges 
+
+for peace and security in rural areas.   
+2.    Issues of Security and Violence, Capacity and Performance of the Security Sector 
+
+Security: Although the security situation in Côte d’Ivoire has 
+greatly improved since 2011, there are still occasional incidents 
+
+with a destabilization potential that justify continuous efforts to 
+
+reform the security sector (RSS). Government has shown great 
+
+political commitment in supporting the implementation of an RSS 
+
+process. Although progress with this process is staggered, the 
+
+creation of a National Security Council (CNS), endowed with a 
+
+secretariat and the publication of “strategies” giving set 
+
+objectives for the reform allowed for achieving sustained 
+
+progress. The (flawed) assessment system notably prompts all 
+
+sector institutions concerned by the reforms to step up their 
+
+efforts. The passing of the “security and defence” programming 
+
+laws is an indication that the pace of reforms will be accelerated 
+
+during President Alassane Ouatarra’s second term, for the time 
+
+being focused on less problematic segments. What now remains 
+
+is to improve relations among the different security forces and 
+
+especially reform the army to reduce the role of ‘comzones’ 
+
+(former zonal commanders) who still exist even though the most 
+
+influential ones have been partly marginalized. The army will 
+
+also be made more representative of the Ivorian nation and its 
+
+cohesion therein strengthened. Like elsewhere, the difficulty for 
+
+Côte d’Ivoire is overhauling security institutions without 
+
+politicizing the issue. This problem is real in a country where the 
+
+last three presidents came to power in a context of armed 
+
+violence. It is legitimate henceforth to ask oneself how candidates 
+
+desiring to succeed the current president can be persuaded to 
+abandon this option.  
+
+Although the Bélier Region Agro-
+
+Industrial Pole Project (2PAI-
+
+Bélier) does not contribute directly 
+
+to the security factor, it provides 
+
+solutions that mitigate risks that 
+
+would have worsened the security 
+
+situation in the project area. By 
+
+preventing transhumance-related 
+
+conflicts, the project will support 
+
+communes to accompany 
+
+endogenous mechanisms for 
+
+managing transhumance-related 
+
+conflicts by putting in place 
+
+consultative frameworks and 
+
+drafting local natural resource 
+
+management conventions.  
+
+3. Justice Sector (Inclusive Access to Justice, Rule of Law and Independence of Justice, 
+Checks and Balances Mechanisms) 
+
+A weakened judicial system: The crises that occurred in the 
+
+region had a significant negative impact on the judicial 
+
+machinery. Already de-structured by diverse causes of fragility, 
+
+it was manipulated for political ends by all political actors, and 
+
+seemed thwarted by a lack of independence, corruption, and 
+
+Although the Bélier Region Agro-
+
+Industrial Pole Project (2PAI-
+
+Bélier) does not contribute directly 
+
+to the justice system, it treats the 
+
+underlying issue of inclusion, 
+
+
+
+ 
+
+V 
+
+Fragility 
+
+Factors 
+
+Identified by 
+
+the Fragility 
+
+Assessment 
+
+Situation, Challenges and Resilience Measures Supported 
+
+by General State Policies with the Support of Technical and 
+
+Financial Partners (TFP)  
+
+Measures supported by 2PAI-
+
+BÉLIER Bank Intervention for 
+
+(2017-2022) 
+
+inadequate technical and material resources. Thus, after the 
+
+crises, there was a glaring lack of trust between the system and 
+
+the people. Aware of this state of affairs, the region’s leaders 
+
+initiated projects at the level of each member country for the 
+
+reform of the justice sector. To date, significant progress has 
+
+been achieved even if it remains humble compared to the 
+
+people’s expectations. 
+
+source of social injustice, by 
+
+bringing on board the vulnerable 
+
+segments of the population, 
+
+especially women and youths 
+
+Economic and 
+
+financial 
+
+factors 
+
+ 
+
+4.    Strengthening the Bases of the Economy and the Resilience of the Population (Equitable 
+
+Access to Infrastructure and the Benefits of Natural Resources) 
+
+Natural resource management: The management of Côte 
+
+d’Ivoire’s significant natural resources is still far from the 
+
+desired target for giving its population a better life. The people 
+
+remain poor although paradoxically the country is rich in 
+
+natural resources. Côte d'Ivoire is relatively rich with a Gross 
+
+Domestic Product (GDP) of about USD 31.75 billion in 2015. 
+
+The current growth trend is mainly attributable to a new 
+
+extraction of natural resources. As long as firm collaboration 
+
+measures are not taken to better manage natural resources, the 
+
+country risks falling victim of the “Dutch disease”. Also, the 
+
+nature of the growth engendered by natural resources is 
+
+characterized by high, isolationist and fragmented income 
+
+inequalities. 
+
+The Bélier Region Agro-Industrial 
+
+Pole Project (2PAI-Bélier) 
+
+strengthens technical and 
+
+managerial capacity to tap land 
+
+and water resources, which will 
+
+contribute to improving natural 
+
+resources management. The 
+
+project envisages measures to 
+
+support the capacity building of 
+
+institutions involved in water and 
+
+soil management as a means of 
+
+improving resource management 
+
+in the project area (irrigation 
+
+schemes and drinking water point 
+
+users groups). 
+Social 
+
+Factors: 
+
+Poverty and 
+
+Inequality 
+
+4. 5. Greater Mobilization of Resources to Develop Job- and Income-Generating Opportunities 
+and Inclusive Access to Basic Social Services, Based on the Crucial Role of the State, Better 
+
+Financial Governance and an Appropriate Refocusing of the State’s Functions 
+Inequalities: The widening social gap created by years of crisis 
+
+fanned the embers of identity/ethnic tensions and land conflicts. 
+
+Despite the return to calm and appeals for national 
+
+reconciliation made by the new authorities and the international 
+
+community, the social fabric remains fragile in some regions and 
+
+urban areas. Wide disparities are observed between areas and 
+
+regions. Regional disparities are flagrant and rural areas are the 
+
+hardest hit by poverty. Similarly, the regions of the North, West 
+
+and North-West experience similarly precarious conditions. 
+
+Youths and women are particularly affected by socio-economic 
+
+difficulties. 
+
+Hence, it is necessary to pursue efforts for a lasting 
+
+reconciliation, a return to social cohesion and inclusive growth, 
+
+the guarantee of stability and prosperity for all Ivorians. Apart 
+
+from that, the thorny issue of articulation between rural land and 
+
+ethnicity feeds feelings of insecurity in local populations 
+
+confronted by the illegal occupation and appropriation of their 
+
+land. Thus, in spite of the law, control over land is a source of 
+
+community and inter-generational tensions. This time bomb must 
+
+be treated urgently at the political, legal and cultural levels to 
+
+prevent it from becoming a source of another crisis in the 
+
+country. 
+
+ The Bélier Region Agro-
+Industrial Pole Project (2PAI-
+
+Bélier) provides answers to 
+
+correct the spatial inequalities 
+
+accumulated over the last twenty 
+
+years and create a new impulse for 
+
+balanced regional development. It 
+
+will contribute to implement the 
+
+1998 land tenure law to reduce 
+
+tension on land. Moreover, the 
+
+project will strengthen the 
+
+capacity of local authorities to 
+
+fully play the role conferred on 
+
+them by the law on 
+
+decentralization. 
+
+Sources of revenue: The economy’s dependence on the cocoa-
+coffee sector is a source of fragility. Cocoa is Côte d’Ivoire’s 
+
+main economic resource, accounting for 40% of global 
+
+The Bélier Region Agro-Industrial 
+
+Pole Project (2PAI-Bélier) focuses 
+
+essentially on food sub-sectors, 
+
+
+
+ 
+
+VI 
+
+Fragility 
+
+Factors 
+
+Identified by 
+
+the Fragility 
+
+Assessment 
+
+Situation, Challenges and Resilience Measures Supported 
+
+by General State Policies with the Support of Technical and 
+
+Financial Partners (TFP)  
+
+Measures supported by 2PAI-
+
+BÉLIER Bank Intervention for 
+
+(2017-2022) 
+
+production. Coffee and cocoa contribute 20% and 40% 
+
+respectively to GDP formation in export earnings. Both products 
+
+are a stake for the survival of about 4 million people, or 25% of 
+
+the Ivorian population. The sector occupies over half of the 
+
+country’s labour force, including a high proportion of women, 
+
+and remains one of the key drivers of economic growth. Although 
+
+the Ivorian State has re-instated the guaranteed price for 
+
+producers, the volatility of world market prices of cocoa-coffee 
+
+can always hurt the country’s economy, with serious social 
+
+consequences. Many studies have revealed that “countries 
+
+whose economies depend on the export of a limited number of 
+
+primary commodities are more likely to be politically fragile” 
+
+and marked by conflicts. That has been demonstrated in Côte 
+
+d’Ivoire where, in a context of scarcity of land, the race for the 
+
+forest for the production of coffee and cocoa stands as one of the 
+
+main causes of land conflicts and hence of the Ivorian social 
+
+malaise.  
+
+which will contribute to 
+
+diversifying the sources of revenue 
+
+for the Ivorian economy. The high-
+
+potential agro-industrial sub-
+
+sectors targeted by the project 
+
+(rice, maize, cassava, market 
+
+gardening) will be the engines of 
+
+growth with the processing of 
+
+primary products, which will 
+
+contribute to reducing the 
+
+economy’s dependence on the 
+
+coffee-cocoa sector. 
+
+Regulatory framework (Role of the State in the provision of 
+services): Côte d’Ivoire has the advantage of having a stock of 
+
+infrastructure that has historically been of good quality even if 
+
+its quality has deteriorated due to the conflict. Obstacles to the 
+
+development of infrastructure to improve the quality of services 
+
+provided by the State vary in importance depending on the sector 
+
+of activity. Although progress is noted in the ICT sector despite 
+
+still significant regional disparities, sectors referred to as public 
+
+utilities (water, wastes, electricity and transport) are struggling 
+
+to take off due to the absence of rapid and efficient actions and 
+
+late financing. The unbalanced distribution of public services 
+
+among the regions and segments of the population is another 
+
+factor of fragility that can, in the long run, jeopardize the 
+
+ongoing consolidation of social cohesion if corrective action is 
+
+not taken. 
+
+The Bélier Region Agro-Industrial 
+
+Pole Project (2PAI-Bélier) is in 
+
+line with a multisector-based 
+
+approach whose activities will 
+
+increase the number of socio-
+
+economic infrastructure in the 
+
+project area and the number of 
+
+persons or households having 
+
+access to public easements 
+
+regarding drinking water, 
+
+electricity, information and 
+
+communication technologies, 
+
+transport, education, health and 
+
+markets.  
+
+
+
+ 
+
+VII 
+
+Annex IV    Justification of the Level of Côte d’Ivoire’s Counterpart Contribution to the 
+
+Project Financing 
+
+ 
+
+The proposed project will be financed jointly by the Bank and the Ivorian Government. The Bank’s 
+
+contribution covers 82.5% of the total project cost, net of taxes and customs duty, through an ADB 
+
+loan of UA 50.56 million, an ADF grant of UA 3.4 million and an ADF loan of UA 26.04 million. 
+
+The counterpart contribution is estimated at UA 17 million, or about 17.5% of the project cost. The 
+
+level of the counterpart contribution was determined by mutual agreement with the Government 
+
+based on three criteria enumerated below, pursuant to the provisions of Section 4.2.2 of the Bank 
+
+Group Policy on Expenses Eligible for Bank Group Financing (revised version of 19 March 2008) 
+
+namely: 
+
+ 
+
+i) Country commitment to implement its development programme 
+ 
+
+After implementing the first National Development Plan (PND 2012-2015, extended to 2016) 
+
+whose objective was to lay the foundation for emergence after the 2011 post-electoral crisis, Côte 
+
+d’Ivoire recently adopted its second National Development Plan (PND 2016-2020) whose main 
+
+objective is to take the country to emergence by 2020, thanks to a workable strategy. PND 2016-
+
+2020 hinges on the following strategic thrusts: (i) Strengthen the quality of institutions and 
+
+governance; (ii) Accelerate human capital development and social welfare; (iii) Accelerate 
+
+structural economic transformation through industrialization; (iv) Develop infrastructure 
+
+harmoniously distributed across the country and preserve the environment; and (v) Strengthen 
+
+regional integration and international cooperation. The cost of PND 2016-2020 is estimated at 
+
+CFAF 30,000 billion.  
+
+Actions undertaken in the agricultural sector under PND 2012-2015 via the National Agricultural 
+
+Investment Programme (PNIA), made it possible to strengthen the institutional framework, ensure 
+
+the alignment of interventions and undertake infrastructure development works. Thus, 8 out of 12 
+
+dams and 130 of the 200 planned water catchment works were built, 1,050 ha of marshy areas 
+
+developed and 21,100 km of roads rehabilitated. Furthermore, reforms in the cocoa-coffee and 
+
+cotton-cashew nut sub-sectors allowed for their better structuring and higher income distributed to 
+
+farmers who henceforth receive 60% of the CIF price. As part of land management, 969 land 
+
+certificates representing a total surface area of 44,429 ha were issued. These reforms enabled the 
+
+agricultural sub-sectors to register robust growth in terms of production, farmers’ income and 
+
+creation of direct jobs (633,562 jobs in 2014). Food production increased from 10,946,604 tonnes 
+
+in 2011 to 15,256,030 tonnes in 2015, corresponding to an average annual growth rate of 13%. 
+
+Cocoa exports rose from 1,429,011 in 2012 to 1,570,000 in 2015, and cashew nuts from 400,000 
+
+tonnes in 2011 to 661,000 tonnes in 2015 (which makes the country the world’s leader). The 
+
+agricultural sector benefited from 5% of public investments during the 2012-2015 period. The 
+
+growth rate of the agricultural sector was about 5.7% between 2011 and 2015, and is getting close 
+
+to the objective of 7% set by 2017.  
+
+ 
+
+ii) Financing that the country allocates to sectors targeted by Bank assistance  
+ 
+
+The estimated cost of PND 2016-2020 is CFAF 30,000 billion, of which CFAF 11,284 billion for 
+
+the public sector (including non-profit-making institutions). Private investments absorb CFAF 
+
+18,716 billion or 62.4% of total investments. Strategic Thrust (iii) ‘Accelerate the structural 
+
+transformation of the economy through industrialization’ adopts agriculture as the growth-bearing 
+
+sector that generates the most jobs and contributes to the structural transformation of the economy, 
+
+especially through: (i) an improvement of the quality of products; (ii) agro-industrial activities with 
+
+a greater potential to create jobs and value added; and (iv) acceleration of agricultural sector 
+
+modernization and productivity improvement. For the 2016-2020 period, it envisages growth rates 
+
+of 2.4%, 1.2% and 7.3% respectively for foodstuff, cash crops (coffee, cocoa, rubber) and agro-
+
+
+
+ 
+
+VIII 
+
+food products with an objective of transforming 50% (against 30% currently) of agricultural 
+
+produce by 2020, with the agro-food sector growing by 7.3%. The National Agricultural 
+
+Investment Programme (PNIA-2010-2016) covers priority activities in development sectors for 
+
+crop, livestock and fishery products. It falls within the global framework of the common 
+
+ECOWAS/PDDAA agricultural policy, which aims to guide regional and national efforts in the 
+
+agricultural sector so as to guarantee a 6% growth and at least 10% budgetary allocation to the 
+
+sector (Maputo Commitment). PND resources to strategic thrust (iii) stand at CFAF 12,400 billion 
+
+including CFAF 1,659 billion to the agricultural sector and CFAF 3,780 billion to agro-industry 
+
+and mines.  
+
+ 
+
+iii) Country’s budgetary situation and debt level  
+ 
+
+The fiscal policy, inscribed in a medium-term expenditure framework, is based on an increase in 
+
+expenditure necessary for financing infrastructure and other development needs in a post-conflict 
+
+context. The primary balance has virtually been at equilibrium over the last couple of years, while 
+
+the global balance stands at around 3% of GDP, financed by recourse to regional and international 
+
+financial markets. The country’s post-conflict context will continue to overstretch public finances, 
+
+given the enormous social and economic (re)construction and (re)integration works but also the 
+
+accelerated development plans listed in the PND 2016-2020. 
+
+ 
+
+The tax pressure ratio estimated at 15.3% of GDP at end-2015 is expected to improve based on 
+
+2016 estimates. Revenue forecasts of the 2016 budget comprise 80.3% of domestic resources and 
+
+19.7% of external resources. Expected external resources are CFAF 988.5 billion – of which 69.8% 
+
+from project loans and 30.2% from budget support.  
+
+ 
+
+Debt restructuring undertaken as part of the HIPC Initiative made it possible to keep the debt-to-
+
+GDP ratio at 45.6% in 2015, with external public debt servicing representing 12% of State receipts. 
+
+The country’s debt remains sustainable judging from the debt sustainability analysis undertaken by 
+
+the IMF in 2015 and the country risk assessment conducted the same year by AfDB. The 2015-
+
+2019 Medium-Term Debt Management Strategy (SMDT), adopted in 2014, will help to preserve 
+
+debt sustainability even if future accumulations, in particular of non-concessional debts, must take 
+
+into account the need to avoid the concentration of maturities around the mid-2020, and explore 
+
+solutions for mitigating the refinancing risk. 
+
+ 
+
+Côte d’Ivoire’s financial resources will be insufficient to sustain its economic growth and make it 
+
+an instrument for improving the living conditions of the population as planned by Government in 
+
+PND 2016-2020, given the huge financing needs to fund necessary investments. More substantial 
+
+contributions coming from development partners, including the Bank, will allow for mitigating the 
+
+risk of not carrying projects through due to State budgetary difficulties. 
+
+ 
+
+
+
+ 
+
+IX 
+
+Annex V    Map of the Project Area  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+

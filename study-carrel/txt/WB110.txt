@@ -1,0 +1,1731 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+1 
+
+ 
+
+ 
+
+PROGRAM-FOR-RESULTS INFORMATION DOCUMENT (PID) 
+
+APPRAISAL STAGE 
+
+Report No.:PIDA0128822  
+
+ 
+
+Program Name Strengthening Markets For Agriculture And Rural 
+
+Transformation In Punjab (Smart Punjab) 
+
+Region SAR 
+
+Country Pakistan 
+
+Sector Agriculture 
+
+Financing Instrument Program for Results 
+
+Program ID P162446 
+
+Parent Program ID  
+
+Borrower(s) Economic Affairs Division, Government of Pakistan 
+
+Implementing Agency Planning & Development Department, Government of Punjab 
+
+Date PID Prepared October 1, 2017 
+
+Estimated Date of Appraisal 
+
+Completion 
+
+October 23, 2017 
+
+Estimated Date of Board 
+
+Approval 
+
+December 19, 2017 
+
+ 
+
+ Country Context 
+
+1. Pakistan has achieved continued GDP growth and substantially reduced poverty. 
+GDP growth was 5.3% in FY16/17, largely owing to gains in the agricultural and services 
+
+sectors. The national poverty headcount declined from 64.3% in FY02 to 29.5% in FY14.  
+
+ 
+
+2. Amid these gains, evidence is emerging that Punjab—a major driver of the national 
+economy and an agricultural stronghold—is experiencing rising inequality. Punjab accounts 
+
+for more than half of Pakistan’s GDP, and the majority (63%) of Punjab’s population of 110 
+
+million is rural. Although poverty declined even more within Punjab than nationwide over 2002–
+
+14 (from 61% to 25%), Punjab is the most unequal province in Pakistan, with a Gini coefficient 
+
+of 29.7 in FY14. Four out of five of Punjab’s poor live in rural areas, where 8.7 million 
+
+households earn an average of PKR 28,517 per month through farming alone (35%), a mix of 
+
+farm and non-farm employment (31%), and non-farm employment (34%). The average rural 
+
+household has 6.49 individuals but merely 1.66 income earners. Farm size continues to decline. 
+
+Two-thirds of farms were smaller than 2 hectares in 2010 (versus less than half in 1990). 
+
+ Sectoral and Institutional Context 
+
+3. Agriculture is a key contributor to the economy in Pakistan in general and Punjab 
+in particular, yet agricultural growth is languishing. Nationally, agriculture—crops, 
+
+livestock, fisheries, forestry—accounts for 21% of GDP, employs 44% of the labor force, and 
+
+directly and indirectly delivers nearly 80% of the total value of Pakistan’s exports (worth about 
+
+US$ 12 billion). Growth is evaporating in the sector; it was 3.3% over the last decade but nearly 
+
+zero in FY16 (0.3%). Crop and livestock productivity are lower than in other Asian countries. 
+
+Except for maize, crop yields have barely risen in decades. In Punjab, where agriculture 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+2 
+
+ 
+
+contributes 26% of GDP and provides 40% of employment, growth in agriculture has been 
+
+highly erratic as well as low, although the livestock subsector has exhibited encouraging signs. 
+
+Punjab encompasses 72.6% of national cropped area and 77.7% of national irrigated area. 
+
+Approximately 62% of Punjab’s area (20.63 million hectares) is cultivated, and about 60% of 
+
+cultivated area lies within the Indus Basin Water System. The province provides large shares of 
+
+the country’s primary crops: maize (78%), wheat (77%), cotton (73%), sugarcane (63%), and 
+
+rice (52%). The factors limiting agricultural growth include poor adoption of modern 
+
+technologies, poor service delivery, and poorly functioning agricultural markets.  
+
+ 
+
+4. Above all, however, flagging agricultural and economic growth in Punjab can be 
+traced to current agricultural and irrigation policies. Ample evidence confirms that 
+
+subsidies, agricultural support prices, caps on meat and milk prices, low investment, and 
+
+weakening institutions support investment in traditional crops at the expense of high-value 
+
+agriculture (HVA), discourage efficient water use, and ultimately suppress agricultural growth.  
+
+ 
+
+5. Subsidies dominate public spending on agriculture in Punjab. These subsidies—US$ 
+1.25 billion in FY17 (Table 1)—are largely regressive, generate significant negative 
+
+environmental externalities, and focus almost exclusively on major crops rather than HVA. The 
+
+provincial government (GoPunjab) pays more than 40% (US$ 515 million) of these subsidies, 
+
+which are about 2.5 times higher than the funding for agriculture in the provincial Annual 
+
+Development Plan (ADP). Not all of this largesse reaches the producer; for example, a 
+
+substantial share of fertilizer subsidies benefits fertilizer companies and the bulk of wheat 
+
+subsidies goes to banks. Few subsidies target small-scale producers.  
+
+Table 1: Subsidies to agriculture in Punjab (US$ m) 
+
+Item Subsidies paid by 
+
+the Federal 
+
+Government in 
+
+Punjab 
+
+Subsidies paid by 
+
+the Government of 
+
+Punjab 
+
+Total 
+
+subsidies 
+
+Fertilizer gas subsidy 300
+a
+ 0 300 
+
+Reducing General Sales Tax (GST) on diammonium phosphate 
+
+from PKR 400 to PKR 100/bag 
+
+92
+b
+ 0 92 
+
+Reducing GST on urea from PKR 400 to PKR 75/bag 78
+c
+ 0 78 
+
+Reduction in electricity tariff for tubewells from PKR 8.85 to 
+
+PKR 5.35/kWh  
+
+219
+d
+ 41 260 
+
+Subsidy on imported fertilizer 34
+e
+ 0 34 
+
+E-voucher–based subsidy for potash fertilizer  19 19 
+
+Wheat procurement scheme  333 333 
+
+Wheat export subsidies 10
+f
+ 0 10 
+
+Interest-free loans to farmers  57 57 
+
+Irrigation maintenance and repair (M&R)  60 60 
+
+Cotton and wheat seed  3 3 
+
+Crop insurance through Crop Loan Insurance Scheme (CLIS)  2 2 
+
+TOTAL 733 515 1,248 
+Source: Federal and Provincial Budget Speech 2017–18, and Agriculture Department.
+
+ 
+
+a Total gas subsidy to fertilizer manufacturers is US$ 425 million, while Punjab accounts for approximately 70% of total fertilizer use in 
+
+Pakistan. b Total subsidy is US$ 131.5 million, of which 70% is in Punjab. c Total subsidy is US$ 112 million, of which 70% is in Punjab. d 
+
+Total subsidy on electricity for tubewells is US$ 257 million, and 85% of tubewells are located in Punjab. e Total subsidy for imported fertilizer 
+is budgeted at US$ 48 million, of which 70% can be assigned to Punjab. f Total subsidy is US$ 14.3 million, of which 70% is Punjab. 
+
+ 
+
+6. The costs of current policies and subsidies extend beyond their fiscal cost. Because 
+most subsidies are embodied in inputs or input prices, they promote excessive or imbalanced use 
+
+
+
+3 
+
+ 
+
+of inputs such as water and fertilizer, resulting in negative externalities and sustainability issues 
+
+(for instance, salinity, sodicity, and waterlogging from water pumping or overuse have degraded 
+
+about 25% of formerly fertile land in Punjab). Wheat subsidies are embodied in the wheat price, 
+
+which is governed by a procurement price set far above import parity, to the detriment of net 
+
+wheat buyers (Box 1). Current policies and subsidies encourage farmers to produce more of the 
+
+same surplus commodities rather than to provide a more diverse range of other products 
+
+demanded by the market. Ninety percent of the cropped area in Punjab remains under major 
+
+crops (dominated by wheat), while only nine percent is planted to higher-value crops. Significant 
+
+benefits are sacrificed by this misallocation of resources: export earnings; the jobs that would 
+
+otherwise be created downstream through value chains; the value added by agro-processing 
+
+beyond milling alone; the higher incomes for producers; the production of nutrient-dense crops 
+
+that reduce malnutrition; and the efficiencies in water use that promote diversification, 
+
+sustainable use of scarce water (Box 2), and resilience to climate shocks and climate change. 
+
+ 
+
+Box 1: The high costs of wheat procurement in Punjab  
+
+Since the late 1950s, the government has purchased up to 25% of the wheat crop and up to 50% of the marketed 
+
+wheat surplus. The costs of this procurement system are passed on to urban consumers and to the rural poor who 
+
+are net buyers of wheat. Patronage and rent-seeking are endemic, particularly in the distribution of gunny bags, 
+
+delivery of wheat to purchase points, and releases to flour mills). The system has other enormous costs. The 
+
+direct costs of buying, storing, and releasing wheat at a fixed price over the year are estimated at US$ 333 million 
+
+per year, of which more than 90% consists of interest payments on current borrowing and accumulated debt. As 
+
+of July 2017, the wheat debt of GoPunjab to the State Bank of Pakistan stood at US$ 3.36 billion, against a 
+
+collateral wheat stock worth half of that amount at best. Efforts to dispose of excess wheat stocks in export 
+
+markets have been largely unsuccessful, despite generous export subsidies. Indirect costs include physical losses 
+
+owing to poor storage, high spoilage, and pilferage; over-production of wheat and the consequent under-
+
+production of higher-value commodities; diversion of credit from the banking system; and a lack of incentives for 
+
+private actors to build storage facilities that could also serve other crops. The high procurement price has caused 
+
+wheat production to surpass domestic needs, even as annual average per capita consumption of wheat continues 
+
+to decline. 
+
+ 
+
+Box 2: Irrigation price policy and inefficient water use in Punjab 
+
+Irrigation has delivered notable agricultural productivity gains to Punjab in the past, but the irrigation sector 
+
+suffers from major financial deficits. Water charges (abiana) fail to reflect actual water use or cover maintenance 
+
+and repair (M&R) costs. Abiana rates typically represent less than 0.2% of crop budgets. The flat water rate per 
+
+acre implemented in 2003/04 gives farmers little reason to conserve water and use it more efficiently. At best, 
+
+current M&R spending (about US$ 65 million per year) is one-third of the minimum amount required. 
+
+ 
+
+7. Now that Pakistan has achieved self-sufficiency in wheat, it seeks to spur further 
+agricultural growth and transformation, a process in which Punjab will have a major role. 
+
+The goal of becoming self-sufficient in food grain (especially wheat) production has long 
+
+underpinned policies, investment priorities, and public expenditures in agriculture, but now 
+
+Pakistan must evaluate options for future growth in light of: (1) the rapid shift in domestic 
+
+demand away from food grains to high-value agricultural products; (2) the significant yet largely 
+
+unexploited comparative advantage for several of those products, which can provide 
+
+opportunities to generate export revenue and jobs; (3) the exhaustion of options for new sources 
+
+of irrigation water (productivity improvements depend on obtaining “more crop per drop”); and 
+
+(4) the need for production systems to become more resilient as climate change progresses. 
+
+
+
+4 
+
+ 
+
+ 
+
+8. Agriculture requires a paradigm shift in Punjab to unlock opportunities for future 
+growth. Punjab should restore its agricultural competitiveness through innovations that renew 
+
+growth in on-farm productivity and improve efficiency and quality throughout the post-harvest 
+
+value chain. At 0.18% of agricultural GDP, Pakistan’s public expenditures on agricultural 
+
+research are the lowest in a region that is already lagging others. Most agricultural research 
+
+expenditures still go to food grains and other “major” crops (rice, maize, sugarcane, cotton) 
+
+rather than to high-value crops and livestock products. Few resources are dedicated to post-
+
+harvest management, including value addition, quality, food safety, and nutrition. A high 
+
+potential pay-off is associated with redirecting public expenditures and associated policies 
+
+toward the best potential investments for outcomes, with a focus on reforms in wheat, irrigation, 
+
+fertilizers, and marketing, and concomitant investments to improve service delivery, agricultural 
+
+R&D, and insurance. 
+
+ 
+
+9. The rural non-farm sector is a neglected source of overall economic growth for 
+Punjab. Half of Punjab’s 14.6 million households are classified as agricultural (5.3 million farm 
+
+households and 2 million livestock households). These farm households on average earn almost 
+
+half of their income from non-farm activities, including agriculture value adding and 
+
+agribusiness. But poor access to and high cost of finance, inefficient markets, limited skills, 
+
+insufficient power (electricity), and a weak enabling environment hinder growth in the rural non-
+
+farm sector, including agribusiness. Most rural non-farm employment (77%) remains informal. 
+
+ 
+
+10. Lack of funds limits the size of most rural enterprises and 30-40% of them make 
+very small fixed investments. Lack of credit at reasonable interest rates and appropriate 
+
+maturities, is also a key constraint for most rural enterprises including agribusinesses. Major 
+
+barriers to institutional credit include lack of collateral, poor financial records and an inability to 
+
+prepare business plans. 
+
+ 
+
+11. In assessing sources of economic and agricultural growth, the issues of gender and 
+climate change cannot be overlooked. Agriculture in Pakistan suffers from serious gender 
+
+inequality and discrimination. According to the Global Gender Gap Report 2016, Pakistan ranks 
+
+143
+rd
+
+ out of 144 countries for women’s economic participation (labor force participation is 22% 
+
+for women, compared to 68% for men). Agriculture is the main source of income for 75% of 
+
+economically active women in Pakistan, yet women are less likely than men to own income-
+
+generating assets (land, equipment), obtain credit, and exercise power in financial or economic 
+
+decisions. Poor access to new farming technologies and techniques, the lack of female extension 
+
+workers, and high illiteracy among rural women further discourage success in agriculture.  
+
+ 
+
+12. Punjab agriculture is increasingly feminizing. The share of female employment in 
+agriculture has grown steadily as male employment has shifted to more productive sectors. In 
+
+2014, women accounted for 47% of agricultural employment. Anecdotal evidence suggests that 
+
+women work mostly on small farms and engage predominantly in horticultural and livestock 
+
+production. It is vital to recognize how much of this agricultural work is unpaid (67% in 2014 
+
+based on Labor Force Survey data). The Punjab Livestock & Dairy Development Department 
+
+recognizes women’s primary role in livestock production and has invested in improving the 
+
+capacity of female producers (including training and hiring 45,000 young extension assistants 
+
+http://reports.weforum.org/global-gender-gap-report-2016/economies/#economy=PAK
+
+
+5 
+
+ 
+
+who will work on a part time basis, half of them women), but often women’s significant 
+
+contributions to agriculture are poorly reflected in plans and programs. 
+
+ 
+
+13. Pakistan’s climate change risk is magnified by growing water scarcity, uncontrolled 
+urbanization, and rapid population growth. The Global Climate Risk Index places Pakistan 
+
+among the top 10 most climate-vulnerable countries. Pakistan increasingly experiences droughts 
+
+and cyclones; since 2010 floods have caused damages approaching US$ 14 billion. Climate 
+
+change heightens the pressure to manage water resources with utmost care. The melting Hindu 
+
+Kush–Karakoram–Himalayan glaciers could affect water flows into the Indus River system, with 
+
+implications for energy and food security. Agriculture produces approximately 41% of all GHG 
+
+emissions in Pakistan, mostly through livestock production, and Pakistan has a growing 
+
+population with an increasingly animal-based diet. To continue to reduce poverty and increase 
+
+shared prosperity, Pakistan requires technologies and practices for climate-smart agriculture 
+
+(CSA), which will sustainably improve productivity in agricultural systems (particularly 
+
+livestock systems), enhance resilience, and reduce GHG emissions. 
+
+ 
+
+14. The proposed SMART Punjab Program aligns with the World Bank objectives of 
+private sector development and inclusion in the Country Partnership Strategy (CPS) 
+
+(FY2015–19) and the twin goals of ending extreme poverty and promoting shared 
+
+prosperity. The CPS recognizes that proper water resource management is the next key 
+
+development challenge in Pakistan, particularly Punjab. The SMART Punjab Program 
+
+specifically supports CPS Outcomes 2.2 (Increased Productivity in Farms), 3.1 (Increased 
+
+Financial Inclusion for Micro, Small and Medium Enterprises and Women), 3.2 (Reduced 
+
+Vulnerability for Groups at Risk), 4.1 (Improved Public Resources Management), and 4.4 
+
+(Adoption of Performance and Transparency Mechanisms in Selected Institutions). The Pakistan 
+
+Performance and Learning Review 2015–20 approved by the Board on June 15, 2017 also 
+
+recognizes the need for additional attention to agricultural productivity and creating markets for 
+
+high value commodities. 
+
+ 
+
+15. A Program for Results (PforR) is the most suitable instrument for the SMART 
+Punjab Program. A coherent package of policy change, institutional strengthening, and 
+
+reorientation of public investments in agriculture is required to attain fundamental improvements 
+
+in the policy regime, stronger institutions in the agricultural sector, and improved post-harvest 
+
+value addition through increased private investment in agribusiness. The PforR instrument 
+
+appears uniquely suited for delivering this kind of package through a clearly articulated results 
+
+chain, while further building the GoPunjab’s capacity and deepen and develop its own systems. 
+
+The US$300 m provided by the PforR will be co-financing a much larger government program 
+
+of US$1.6 billion This PforR mobilizes experience from World Bank Global Practices and 
+
+solution areas (Agriculture, Trade & Competitiveness, Water, Social Development, Environment 
+
+& Natural Resources, disaster risk management/climate change) and the International Finance 
+
+Corporation. Although the PforR is a comparatively new instrument, GoPunjab is familiar with it 
+
+under the Bank-supported Jobs & Competitiveness PforR (P155963). 
+
+ Program Scope 
+ 
+
+16. The GoPunjab program for agriculture and rural transformation (the “broader 
+Government program”) emphasizes enabling productivity, increasing competitiveness in 
+
+
+
+6 
+
+ 
+
+agricultural marketing and trade, and enhancing resilience as reflected in planning 
+
+documents
+1
+ and the Medium-Term Development Framework (MTDF). The broader Government 
+
+program is supported by a capital investment for agriculture, livestock, farm to market roads, and 
+
+irrigation of US$3.797 billion over five years (FY18–22), including US$1.145 billion to 
+
+agriculture and livestock. In addition, there is a recurrent budget allocation of US$0.330 billion 
+
+for irrigation M&R and US$0.115 billion for human resources, bringing the size of the 
+
+expenditure framework of the broader Government program to US$4.242 billion. Recall that the 
+
+GoPunjab also spends an estimated US$515 million each year on agricultural subsidies including 
+
+wheat (US$333 million) as part of its recurrent expenditures. 
+
+ 
+
+17. The SMART Punjab PforR will support selected parts of the broader Government 
+program over a five-year period (Table 2). These selected parts will be referred to as the 
+
+“PforR-supported Program” and consist of 14 out of the Government’s 25 focus areas with a 
+
+focus on increasing crop and livestock productivity, research and extension policy, transition 
+
+towards HVA and CSA, improving the functioning of crop as well as livestock markets 
+
+including food safety, livestock breed and preventive care, agribusiness, and enhancing resilience 
+
+and inclusiveness. 
+
+ 
+
+18. There are several GoPunjab investments that are part of the broader Government 
+program but not part of the PforR-supported Program. These include the Extension 2.0 
+
+program; agricultural finance, mechanization and education; livestock census, feed, marketing, 
+
+and women programs; government farms and experiment stations; the on-going rural roads 
+
+program; development and rehabilitation of irrigation infrastructure; and on-farm water 
+
+management (including high-efficiency irrigation systems) which is already funded by the Bank 
+
+through the Punjab Irrigated-agriculture Productivity Improvement Project (PIPIP – P125999). 
+
+ 
+
+19. The SMART Punjab PforR will help the government promote transformational 
+change in the crop and livestock subsectors by focusing on activities contributing to three 
+
+Results Areas: (1) increased on-farm productivity and value of agriculture and livestock; (2) 
+
+increased value addition and competitiveness of agriculture and livestock; and (3) enhanced 
+
+resilience of smallholder farmers to climate change and natural disasters. Each Results Area 
+
+involves a specific combination of policy reforms, institutional strengthening, and public 
+
+investments. 
+
+ 
+
+ 
+
+                                                 
+1
+ Punjab Growth Strategy 2015, Private Sector Development Strategy for the Punjab 2010, Livestock Sector Strategy of Punjab 2010, Livestock 
+
+Policy of Punjab 2016, Punjab Agriculture Action Plan 2015, Punjab Skills Sector Plan 2018, Punjab Industries Sector Plan 2018. 
+
+
+
+7 
+
+ 
+
+Table 2: Government of Punjab agriculture program and scope of proposed SMART Punjab Program for Results (PforR) 
+
+Government program Scope of PforR  Activities Responsible department(s) 
+
+Results Area 1: Increased on-farm productivity and value of agriculture and livestock 
+
+(1) Providing farmers with access to 
+quality inputs including seed and E-
+
+vouchers for fertilizer 
+
+(1) Targeted subsidy on fertilizer for small 
+farmers through E-vouchers 
+
+ 
+
+ Develop E-voucher–based subsidy scheme for fertilizer 
+and gradually extend the scheme from 21,000 farmers in 
+
+August 2017 to 200,000 smallholders with less than 5 ha 
+
+by 2021 
+
+Agriculture Department  
+
+(2) Improving agriculture and livestock 
+research and extension services 
+
+ 
+
+(2) – Re-orientation of crop and livestock 
+research and extension 
+
+– Increased financial support for crop 
+and livestock research 
+
+ Review existing agriculture and livestock research and 
+extension systems 
+
+ Approval of new research and extension policy and 
+strategy by the Provincial Cabinet 
+
+ Gradual increase of allocation for agriculture and livestock 
+research from 0.1% of AgGDP in FY17 to 0.4% in FY22 
+
+through Annual Development Plan (ADP) and recurrent 
+
+budget 
+
+– Agriculture Department  
+– Livestock & Dairy 
+
+Development Department 
+
+– Planning & Development 
+(P&D) Department 
+
+(3) ICT-based Extension system 2.0 in 
+Agriculture, and 9211 Virtual 
+
+Governance System in Livestock 
+
+   
+
+(4) Introduction and promotion of Hi-
+Tech Farm Mechanization 
+
+Technologies 
+
+   
+
+(5) Agriculture land improvement and on-
+farm water management through high-
+
+efficiency irrigation systems (HEIS) 
+
+   
+
+(6) Strengthening agriculture and 
+livestock education 
+
+   
+
+(7) Promoting micro-finance linkages and 
+interest-free loans for small farmers 
+
+   
+
+(8) Improving livestock health (8) Paradigm shift in public support to 
+animal health from curative to 
+
+preventive healthcare, disease 
+
+surveillance and regular vaccination 
+
+ Establishing separate head of account in the provincial 
+budget for curative and preventive health allocations 
+
+ Gradually increasing the ratio of expenditures on curative 
+and preventive animal health from 35:65 in FY17 to 10:90 
+
+in FY22 
+
+Livestock & Dairy Development 
+
+Department 
+
+(9) Enhancing productivity and improving 
+livestock breeding through targeted 
+
+progeny testing framework 
+
+(9) Improving livestock breeding of 
+
+specific species 
+ Increasing stocks of specific animal breeds, including 
+
+Sahiwal cow, Cholistani cow, and Neeli Ravi buffalo 
+
+ Registration and development of verification database 
+
+Livestock & Dairy Development 
+
+Department 
+
+(10) – Rationalizing wheat procurement 
+and reducing strategic wheat 
+
+reserves 
+
+– Moving storage of public wheat 
+
+reserves from bags to bulk through 
+
+(10) – Phasing out government wheat 
+
+procurement and reducing strategic 
+
+wheat reserves to 1.0 million metric 
+
+tons (MT) by 2021 
+
+– Construction of steel silos for 1.0 
+
+ GoPunjab to develop and approve plan for withdrawal 
+from wheat market and reduce strategic wheat reserves to 
+
+1.0 million MT in 2018 
+
+ Gradual reduction of public wheat stocks to 1.0 million 
+MT by 2021  
+
+Food Department 
+
+
+
+8 
+
+ 
+
+Government program Scope of PforR  Activities Responsible department(s) 
+
+construction of modern bulk storage 
+
+facilities 
+
+million MT  Development of modern silos for bulk storage of 1.0 
+million MT of wheat 
+
+(11) Promoting high-value agriculture 
+(HVA) 
+
+(11) Transitioning to HVA  Ensure gradual increase in allocation for HVA in the ADP 
+from 3.5% of total capital budget for Agriculture (ADP) in 
+
+FY17 to 15% in FY22 
+
+– Agriculture Department 
+– P&D Department 
+
+Results Area 2: Increased value addition and competitiveness of agriculture and livestock 
+
+(12) – Developing agricultural and 
+livestock value chains 
+
+– Promoting value addition through 
+
+Agribusiness and Innovation Fund 
+
+(12) Providing incentives to agribusiness 
+
+for investments in value addition 
+
+through matching grant scheme, 
+
+training, and capacity building 
+
+ Establishing the Agribusiness and Innovation Fund 
+
+ Notifying the governance structure of the Fund 
+
+ Notifying the Operational Manual for the Fund, including 
+the modus operandi of the matching grant component 
+
+ Approval of matching grants 
+
+ Training and capacity building 
+
+Agriculture Department 
+
+(13) Deregulating and improving market 
+conditions for livestock 
+
+(13) Improving market conditions for 
+
+livestock through removal of price 
+
+caps on meat and raw milk 
+
+ Excluding meat and milk from GoPunjab’s pricing list for 
+Essential Commodities from 2018 onward 
+
+Industries Department 
+
+(14) Improving regulatory framework and 
+institutions for agriculture produce 
+
+marketing to enable private sector 
+
+investment 
+
+(14) Modernizing agriculture produce 
+
+markets by regulatory transition from 
+
+the Punjab Agricultural Produce 
+
+Markets Ordinance, 1978 to the 
+
+Punjab Agricultural Marketing 
+
+Regulatory Authority (PAMRA) Act, 
+
+2017 
+
+ Stakeholder consultation on proposed PAMRA Act 
+
+ Approval of PAMRA Act by GoPunjab Cabinet 
+
+ Approval of PAMRA Act by GoPunjab Provincial 
+Assembly 
+
+ Enforcement of PAMRA Act 
+
+ Full transition to PAMRA Act by 2021 
+
+Agriculture Department 
+
+(15) Revamping government livestock 
+farms and experiment stations 
+
+   
+
+(16) Improving livestock feed systems    
+
+(17) Revamping livestock markets and 
+establishing eco marketing zones 
+
+   
+
+(18) Improving food safety (18) Establishment of food safety testing 
+infrastructure 
+
+ Establishing and staffing of one (1) provincial food, 
+agriculture, and drug testing reference laboratory 
+
+ Establishing and staffing of three (3) regional food testing 
+labs 
+
+ Establishing and staffing of nine (9) divisional mobile 
+food testing labs 
+
+Food Department 
+
+(19) Poverty alleviation through provision 
+of livestock and poultry to women 
+
+   
+
+Results Area 3: Enhanced resilience of smallholder farmers to climate change and natural disasters 
+
+(20) Adapting to climate change for 
+enhanced resilience of small farmers 
+
+(20) – Increasing public investment in 
+
+climate-smart agriculture (CSA) 
+
+– Rolling out of agricultural insurance 
+
+scheme 
+
+ Gradual increase of allocation for CSA from 3% of total 
+capital budget for agriculture in FY17 to 15% in FY22 
+
+ Preparation of Diagnostic Report for agricultural 
+insurance  
+
+– Agriculture Department  
+– P&D Department 
+
+
+
+9 
+
+ 
+
+Government program Scope of PforR  Activities Responsible department(s) 
+
+ Preparation of work plan based on the recommendations 
+of Diagnostic Report 
+
+ Piloting of agricultural insurance in two districts in 
+Punjab 
+
+ Rolling out of agricultural insurance to all districts 
+
+(21) Refurbishing small dams, barrages, 
+rehabilitation and improvement of 
+
+irrigation infrastructure, canal lining, 
+
+improving flood works and irrigation 
+
+drainage systems 
+
+    
+
+(22) Water conservation and institutional 
+and regulatory reform 
+
+(22) Improving financial sustainability of 
+
+irrigation maintenance and repair 
+
+(M&R) and governance 
+
+ Modernizing the methods of assessing the area subject to 
+water charges (abiana) and improving collection of the 
+
+same 
+
+ Approval and notification of Punjab Water Policy 
+
+ Approval and notification of Punjab Groundwater Act 
+
+ Improving water delivery performance ratio in seven (7) 
+specific canals: Muzaffargarh, Abasia Link, Abasia, 
+
+CRBC-III, Rangpur, Rangpur Lower and Upper Jhelum 
+
+Irrigation Department  
+
+(23) Widening and construction of 15,000 
+km of rural roads 
+
+   
+
+(24) Enhanced implementation support for 
+operationalizing sector plans 
+
+(24) Capacity building and institutional 
+
+strengthening 
+ Preparation of annual work plans for training and 
+
+capacity building including training for agribusiness and 
+
+government departments 
+
+ Approval of annual work plans by the government 
+
+ Implementation of annual work plans 
+
+Implementing departments 
+
+(25) Establishing ICT-based M&E systems 
+in government departments 
+
+(25) Establishing ICT-based M&E systems 
+
+in Agriculture and Food Departments 
+ Establishing of ICT-based M&E systems – Agriculture Department 
+
+– Food Department 
+ 
+
+PforR geographic scope: Entire Punjab Province 
+
+PforR implementation period: FY18–23 
+
+Total investment plan: US$ 3.8 billion, out of which agriculture and livestock is US$ 1.145 billion, plus US$ 300 million PforR 
+
+
+
+10 
+
+ 
+
+ Program Development Objective 
+ 
+
+20. The development objective for the SMART Punjab Program (referred to here as the 
+“Program Development Objective” or PDO) is to increase the productivity of crop and livestock 
+
+farmers, improve their climate resilience, and foster agribusiness development in Punjab. Box 3 
+
+lists the PDO-level indicators by Results Area. 
+
+Box 3: PDO-level indicators for the SMART Punjab Program, by Results Area 
+
+Results Area 1—Increased on-farm productivity and value of agriculture and livestock 
+
+PDO Indicator 1: Farmers reached with agricultural assets or services 
+
+PDO Indicator 2: Annual increase in Punjab AgGDP 
+
+Results Area 2—Increased value addition and competitiveness of agriculture and livestock 
+
+PDO Indicator 3: Beneficiaries reached with financial services 
+
+PDO Indicator 4: Number of private wholesale markets and collection centers established 
+
+Results Area 3—Enhanced resilience of smallholder farmers to climate change and natural disasters 
+
+PDO Indicator 5: Number of farmers covered by agricultural insurance 
+
+PDO Indicator 6: Number of farmers adopting CSA packages 
+
+PDO Indicator 7: Improvement in irrigation water service delivery 
+
+ 
+
+21. To achieve the PDO, the SMART Punjab PforR supports the implementation of a 
+coherent package of policy reforms, institutional change, and reorientation of public 
+
+resources toward productive public investments and smart subsidies. Specific key reforms 
+
+include a shift from universal to targeted subsidies through an E-voucher Scheme for 
+
+smallholders (< 5 hectares), modernization of wheat marketing by phasing out public wheat 
+
+procurement, reducing strategic wheat reserves from 4 million metric tons (MT) to 1 million MT, 
+
+removing distortions in output markets for crops and livestock products, and reforming 
+
+provincial crop and livestock research. SMART Punjab will also improve the financial 
+
+sustainability and efficient use of irrigation systems, promote agribusiness, and improve the 
+
+resilience of producers by designing and implementing an area yield index-based crop insurance 
+
+system, which could potentially leverage access to production credit. 
+
+ 
+
+22. Progress toward each of the three Results Areas that contribute to the PDO will be 
+measured through 12 Disbursement Linked Indicators (DLIs). Each DLI involves one or 
+
+more specific actions required for agricultural and rural transformation in Punjab. Each DLI was 
+
+selected based on: (1) the criticality of the activity, output, or outcome in the results chain; (2) 
+
+the need to introduce a financial incentive to deliver the activity, outcome, or output; (3) 
+
+measurability and ease of verification; and (4) the capacity of GoPunjab to achieve the DLIs over 
+
+the period that SMART Punjab is implemented. Table 4 represents the Results Area and brief 
+
+description of DLI.  
+
+ 
+
+23. The four DLIs under Results Area 1 (increased on-farm productivity and value of 
+agriculture and livestock) will be achieved by supporting SMART reforms in the policy regime 
+
+for agriculture (crops and livestock) and reorienting public expenditures from subsidies toward 
+
+targeted investments to improve crop and livestock productivity.  
+ DLI 1: Improving access to quality farm inputs. Better targeting of subsidies, particularly for fertilizers, to 
+
+small-scale farmers would increase overall production; it would also help smallholders to close the yield gap 
+
+
+
+11 
+
+ 
+
+with larger producers and reduce poverty. This DLI will be measured by tracking the number of small farmers 
+
+(<5 hectares) enrolled in the E-voucher Scheme for fertilizers. 
+
+ DLI 2: Revitalizing provincial crop and livestock research and extension systems. A comprehensive, 
+strategically relevant policy for agricultural and livestock research and extension will be designed. Over time, 
+
+funding for public research would increase (measured as the percentage of AgGDP spent on research), along 
+
+with the role of the private sector (measured by the composition of the Punjab Agriculture Research Board and 
+
+the percentage of research grants awarded on a competitive basis).  
+
+ DLI 3: Improving livestock health and breeding. Resources will shift from curative to preventive animal 
+healthcare (measured by the ratio of expenditures on preventive and curative medicine) to reduce losses to 
+
+disease. Good breeding stock is essential to improve productivity (measured by the number of breeding animals).  
+
+ DLI 4: Modernizing the wheat marketing system and transitioning to high-value agriculture. Deregulating 
+the wheat market would reduce wheat and flour prices and free land for HVA (substantially raising farm incomes 
+
+and employment)—measured by the official notification that GoPunjab is withdrawing from the wheat market, 
+
+subsequent phasing out of government wheat procurement, and the percentage of the Agriculture allocation in 
+
+the ADP to HVA schemes. An additional measure is approval of the Punjab Agriculture Policy, which is 
+
+expected to provide further strategic directions for agricultural policy.  
+
+24. The four DLIs under Results Area 2 (increased value addition and competitiveness 
+of agriculture and livestock) will be achieved through policy and institutional reforms, as well 
+
+as by marshalling public support for private investors, mainly through a matching grant scheme. 
+ DLI 5: Providing incentives to agribusiness for investment in value addition. SMART Punjab will contribute 
+
+US$ 10 million to an Agribusiness and Innovation Fund to be set up by GoPunjab. The fund will award matching 
+
+grants, with particular consideration for women and young people, on a competitive basis (measured by the 
+
+number of matching grants awarded for agribusiness). 
+
+ DLI 6: Deregulating the livestock sector. Removing meat and raw milk price caps (measured by the 
+discontinuation of notification of meat and milk prices) would stimulate production and marketing of better 
+
+quality and safer livestock products, raising producers’ incomes and increasing supplies for urban areas.  
+
+ DLI 7: Modernizing agricultural markets. Reforming wholesale market legislation to allow greater private 
+sector participation and enhance transparency (measured by approval and notification of the Punjab Agricultural 
+
+Marketing Regulatory Authority Act) would reduce margins taken by middlemen and commission agents and 
+
+reduce the government’s role in controlling these markets.  
+
+ DLI 8: Improving food safety. Better food and agricultural standards, backed by testing and enforcement 
+mechanisms, would improve the quality of food products and public health, and address concerns about 
+
+contaminated or adulterated products. This DLI will be measured by tracking progress in establishing and 
+
+operationalizing a provincial food testing reference laboratory as well as regional and mobile laboratories.  
+
+25. The four DLIs under Results Area 3 (enhanced resilience of smallholder farmers to 
+climate change and natural disasters) will be achieved by improving the management and 
+
+sustainability of water resources, designing and extending the coverage of improved agricultural 
+
+insurance products for different kinds of producers, and public investment in CSA. 
+ DLI 9: Improving sustainability of irrigation M&R. More equitable access to water and better assessment and 
+
+collection of abiana would encourage producers to use water more efficiently with no increases in overall water 
+
+use, and increase funds for M&R. Adoption of a provincial water policy and groundwater act are important first 
+
+steps in addressing the overexploitation of water, falling groundwater tables, and increasing salinization. This 
+
+DLI would be measured by approval of the Punjab Water Policy, notification of the 2017 Punjab Groundwater 
+
+Act, improvements in the area assessed for abiana, tracking abiana collection rates, and water delivery 
+
+performance ratios (defined as actual amount of water delivered divided by amount delivered as per canal 
+
+design, measured at different points along the canal and relative to the delivery performance at the head of the 
+
+canal). 
+
+ DLI 10: Rolling-out an agricultural insurance system. Crop insurance can help crop producers stabilize 
+incomes and sustain resilience when natural events deplete harvests. The World Bank submitted a feasibility 
+
+report detailing a suitable crop insurance scheme to GoPunjab in July 2017. This DLI will be measured by 
+
+official government approval of the report, development and notification of a workplan aligned with the report’s 
+
+recommendations, piloting a crop insurance scheme in two districts, and rolling out the scheme in all districts.  
+
+
+
+12 
+
+ 
+
+ DLI 11: Increasing public investment in CSA. Enhancing public investment in CSA would help farmers adopt 
+new technologies and approaches and reduce potential losses related to climate change, measured by tracking the 
+
+percentage allocation of Agriculture in the ADP for CSA schemes. 
+
+ DLI 12: Communications, capacity building, and monitoring and evaluation (M&E). A substantial 
+communications strategy and capacity-building program will mobilize support for agricultural and rural 
+
+transformation among stakeholders into the future. Strengthening M&E capacity in participating departments 
+
+will facilitate monitoring of progress. This DLI will be measured by development and implementation of annual 
+
+capacity development plans. 
+
+ 
+
+ Environmental and Social Effects 
+
+26. An Environmental and Social Systems Assessment (ESSA) was prepared for 
+SMART Punjab. The assessment incorporates feedback from all stakeholders (governmental, 
+
+non-governmental, producers) and presents recommendations and actions to address 
+
+environmental and social risks associated with the Program. The main actions are included in the 
+
+PAP and some of these constitute dated legal covenants. 
+
+ 
+
+27. Environmental risks are Moderate. In general, the expected environment impacts from 
+Program activities are assessed as medium to low. Environmental concerns include the 
+
+possibility of increases in use of chemicals due to the shift from conventional crops to HVA; 
+
+institutional capacity for effective environmental management; and environmental compliance 
+
+by micro and small enterprises and food safety testing laboratories. SMART Punjab promulgates 
+
+reforms and related actions that promote balanced fertilizer use, improved water resource 
+
+regulation and efficiency, increased land productivity, agricultural insurance, and CSA. The 
+
+Program is not expected to support large infrastructure except wheat storage facilities which are 
+
+subject to EIA preparation. The Program will involve no expansion of the irrigation network but 
+
+rather promote water resource efficiency. The Program will also not support expansion of 
+
+agricultural land but contribute to increased land productivity. Improvements in animal health 
+
+combined with deregulation of livestock prices would benefit public health. Improvements in 
+
+animal breeding will relieve pressure on rangelands. Crop residue burning and application of 
+
+untreated wastewater for irrigation are important environmental issues related to agriculture but 
+
+not targeted by the proposed Program. 
+
+ 
+
+28. Social risks are Substantial. The key social risks include (i) access to program benefits 
+for vulnerable and marginalized groups, and (ii) potential social conflict. Smallholders and 
+
+marginalized or vulnerable groups may find accessing some elements of SMART Punjab more 
+
+challenging than other stakeholders — e.g. HVA, the E-voucher scheme, and matching grants. 
+
+These groups may require special support, ranging from technical assistance, training, two-way 
+
+communication, and social mobilization strategies. Phasing out of the wheat procurement system 
+
+while lowering the wheat price thus benefiting the >90% of households who are net wheat 
+
+buyers, may face strong opposition from large wheat growers. The Bank has agreed to provide 
+
+significant technical assistance to assist the Food Department in mitigating social risk associated 
+
+with wheat market reform. Attempts to improve abiana assessment and increase abiana 
+
+collection are likely to meet resistance. Removal of price caps while having beneficial impacts 
+
+on public health and incomes of livestock owners (most of them women), may also negatively 
+
+impact consumption of fresh milk in low income households, unless preceded by an engagement 
+
+strategy in which stakeholders are informed of the benefits of deregulation well in advance and 
+
+milk producers can move towards increasing supply capacity in anticipation of better prices. An 
+
+
+
+13 
+
+ 
+
+effective conflict mitigation and awareness strategy must be in place to ensure that reforms do 
+
+not lead to marginalization and conflict. No significant land acquisition is envisioned under the 
+
+Program. 
+
+ 
+
+29. With regard to grievance redress mechanisms, communities and individuals who 
+believe that they are adversely affected as a result of a Bank-supported PforR operation, as 
+
+defined by the applicable policy and procedures, may submit complaints to program grievance 
+
+redress mechanisms or the World Bank Grievance Redress Service. The Grievance Redress 
+
+Service ensures that complaints are promptly reviewed to address pertinent concerns. Affected 
+
+communities and individuals may submit their complaint to the Bank’s independent Inspection 
+
+Panel, which determines whether harm occurred or could occur as a result of the Bank’s non-
+
+compliance with its policies and procedures. Complaints may be submitted at any time after 
+
+concerns have been brought directly to the World Bank's attention, and Bank Management has 
+
+been given an opportunity to respond. To submit complaints to the World Bank’s corporate 
+
+Grievance Redress Service, visit www.worldbank.org/grs. To submit complaints to the World 
+
+Bank Inspection Panel, visit www.inspectionpanel.org.  
+
+ 
+
+30. In sum, although the proposed operation will undertake or support no activities of high 
+risk from an environmental or social perspective, and although federal and provincial 
+
+environmental and social management systems are appropriate, social management procedures 
+
+require strengthening with respect to gender and the poor, conflict management, and two-way 
+
+public engagement. Certain departments need to strengthen their grievance redress systems. The 
+
+Environmental Section of P&D should be strengthened because P&D, having primary 
+
+responsibility for coordinating and monitoring the Program, is in charge of environmental 
+
+screening. For activities that require an Environmental Impact Assessment (EIA) or an Initial 
+
+Environmental Examination (IEE), the relevant implementing agencies should coordinate with 
+
+District Environment Officers. 
+
+ Financing 
+
+31. The financing framework for the activities under the three Results Areas includes 
+two sources of finance: (i) GoPunjab budget; and (ii) SMART Punjab PforR (Table 3). 
+
+32. In addition, a significant portion out of 
+GoPunjab’s spending on subsidies is expected to 
+
+be diverted towards investment in agriculture 
+
+and livestock when the program is fully 
+
+implemented by 2021. The GoPunjab has already 
+
+substantially increased the capital investment 
+
+allocation for agriculture and livestock in 
+
+anticipation of such savings becoming available. 
+
+33. Budgetary allocations for agriculture and livestock are considered sufficient and 
+together with acceptable historical budget execution rates provide enough confidence that 
+
+the intended results of the SMART program will be achieved. The government’s expenditure 
+
+framework is sufficiently aligned with the SMART program to achieve the intended results. 
+
+ 
+
+Table 3: Financing of SMART program (US$ m) 
+
+Source Amount % of total 
+
+Punjab Government
+ 
+
+1290 81 
+
+PforR 300 19 
+
+Total Program 
+
+financing 
+
+1,590 100 
+
+ 
+
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service
+http://www.worldbank.org/grs
+http://www.worldbank.org/grs
+http://www.inspectionpanel.org/
+
+
+14 
+
+ 
+
+  
+
+
+
+15 
+
+ 
+
+ Program Institutional and Implementation Arrangements 
+
+34. The Departments of Agriculture, Livestock & Dairy Development, Food, Irrigation, 
+Industries, Finance, and P&D are responsible for implementing the SMART Punjab 
+
+Program. Each department will have a dedicated Program Delivery Unit (PDU) or a Focal 
+
+Person, depending upon the workload. Each PDU will include current departmental staff, 
+
+supplemented by consultants as needed. Some departments have dedicated PDUs; others will 
+
+establish them.
+2
+ The Member Agriculture (P&D Department) will act as the Program 
+
+Coordinator for SMART Punjab in the Program Coordination and Monitoring Unit (PCMU), 
+
+assisted by the Chief Agriculture as Deputy Manager. The PCMU which has been established 
+
+under the Punjab Resource Management Program in the P&D Department and also coordinates 
+
+the Jobs & Competitiveness PforR, will coordinate with the seven implementing agencies, 
+
+monitor and evaluate implementation, and report to the Bank in accordance with the terms and 
+
+conditions of the Financing and Program Agreements. It will consolidate reports of all 
+
+implementing agencies and communicate them to the Bank; to do so, it will develop a standard 
+
+template for monitoring and reporting progress. The PCMU will also coordinate with the 
+
+Independent Verification Agency for verifying achievement of DLIs and reporting, and will 
+
+establish an Assignment Account to manage technical assistance funding supported by the 
+
+PforR. The Finance and P&D Departments will ensure that PforR resources are adequately 
+
+budgeted for in their annual budget and disbursed in line with the expenditure framework to 
+
+accomplish the DLIs.   
+
+ 
+
+35. A SMART Steering Committee (SC) was established in September 2016. The SC has 
+played a constructive role throughout preparation, especially in guiding and confirming policy 
+
+reforms and institutional changes. Headed by the Chief Minister, Punjab, it includes 
+
+administrative heads from all implementing agencies, other key stakeholders, and representatives 
+
+from the Bank (including the Senior Director and Country Director) as observers. The SC will 
+
+provide strategic guidance and direction, facilitate coordination between the seven implementing 
+
+agencies, and oversee progress in all three Results Areas and DLIs on a quarterly basis as 
+
+reported by the PCMU. To ensure effective implementation, the SC may refer any major 
+
+implementation challenge or matter requiring a policy decision for guidance to the three high-
+
+level committees (Secretaries’ Committee, Commissioners’ Conference, and DCO Committee) 
+
+chaired by the Chief Secretary. 
+
+ 
+
+36. SMART Punjab will coordinate and collaborate with other programs. It will create 
+synergies with Bank projects in Punjab—including the Punjab Irrigated-agriculture Productivity 
+
+Improvement Project (PIPIP) and the Jobs & Competitiveness PforR (P155963)—and operations 
+
+of development partners.
+3
+ National entities with supporting roles include: (1) the Auditor 
+
+                                                 
+2
+ The Agriculture Delivery Unit (ADU) will act as PDU in the Agriculture Department; the Statistical Planning and Reform Unit will act as PDU 
+
+in the Irrigation Department; and the Food and Livestock & Dairy Development Departments will establish PDUs or (in the case of the Industries 
+
+and Finance Departments) Focal Persons before appraisal. At a minimum, PDUs will be staffed by a Procurement Specialist, Financial Specialist, 
+
+Communications Specialist, M&E Specialist, and Internal Audit Specialist, aside from the appropriate technical specialists. PDUs are responsible 
+for procurement (tender documents, advertising, bid evaluation and award of contracts), FM, internal audit, communications, M&E, and 
+
+environmental and social management. PDUs will report as required to the PCMU, including: (1) an annual investment plan for their department; 
+
+(2) Terms of reference (ToRs) for consultancy services; (3) an annual procurement plan; (4) reports on implementation progress for each DLI 
+under the Program; (5) Program Financial Statements, including procurement, if any; (6) internal audit reports; and (7) implementation of the 
+
+communications strategy. 
+3
+ For example, the Food and Agriculture Organization (with the recently approved Technical Cooperation Project—Support for the formulation 
+
+of projects for Strengthening Markets and Rural Transformation (SMART) Initiatives in Punjab, Pakistan), USAID (particularly the Punjab 
+
+
+
+16 
+
+ 
+
+General of Pakistan for the annual external audit of the Program; (2) the Punjab Public 
+
+Procurement Regulatory Authority, which will provide technical guidance on public 
+
+procurement and monitor compliance with procurement standards and practices; and (3) the 
+
+National Accountability Bureau, which will investigate complaints on fraud and corruption (if 
+
+any) relating to the Program. 
+
+ 
+
+ Contact points 
+ 
+
+World Bank 
+Contact: Johannes (Hans) Jansen 
+
+Title:  Senior Agriculture Economist 
+
+Tel:  +92 (0) 301 871 5906  
+
+Email:  jjansen@worldbank.org 
+
+ 
+
+Borrower/Client/Recipient 
+
+Contact: Jehanzeb Khan 
+
+Title:  Chairman, Planning & Development Department, Government of Punjab 
+
+Tel:  +92 (0) 300 088 3399  
+
+Email:  chairmanpnd@gmail.com 
+
+ 
+
+Implementing Agencies 
+
+Contact: Mohd. Mahmood Rai 
+
+Title:  Secretary, Agriculture Department 
+
+Tel:  +92 (0) 304 092 00009 
+
+Email:  secyagri@punjab.gov.pk 
+
+Other 
+
+The InfoShop 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Tel:  +1 202 458 4500 
+
+Fax:  +1 202 522 1500 
+
+Web:  http://www.worldbank.org/infoshop 
+
+ 
+
+                                                                                                                                                             
+Enabling and Environment Project), IFPRI (in the policy arena), and the Australian High Commission (which facilitated financial support from 
+the Government of Australia for technical assistance during preparation and early implementation of SMART Punjab). 
+
+
+

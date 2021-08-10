@@ -1,0 +1,2301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 1 of 24 
+
+ 
+ 
+
+Feasibility Nanni Weir and Maratakka Spillway 
+
+Nickerie, Suriname 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+INTERMEDIATE REPORT 
+ 
+ 
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prepared by:  Ravindra Patandin 
+
+Date:  May 28th, 2018 
+Version: 2 
+
+ 
+
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 2 of 24 
+
+ 
+ 
+
+Table of Contents 
+1 Introduction .................................................................................................................................. 3 
+
+1.1 General .................................................................................................................................... 3 
+
+1.2 This study ................................................................................................................................ 3 
+
+1.3 Objective and approach of this Study ....................................................................................... 3 
+
+2 Background .................................................................................................................................. 4 
+
+3 Review studies and available information ...................................................................................... 5 
+
+3.1 General .................................................................................................................................... 5 
+
+3.2 Initial Site Visit and discussions .............................................................................................. 6 
+
+4 Assessment of Existing structures ................................................................................................. 8 
+
+4.1 Existing structures near Nanni Weir and IKUGH ..................................................................... 8 
+
+4.2 Corantijn Canal swamp retention dam ...................................................................................... 8 
+
+4.3 Area near Maratakka Spillway ................................................................................................. 9 
+
+5 Alternatives for water distribution from Corantijn Canal ..............................................................10 
+
+6 Rationale for Nanni Weir and Maratakka Spillway .......................................................................13 
+
+7 Preliminary designs and cost estimates .........................................................................................15 
+
+ 
+
+Appendices: 
+ 
+I Overview map (Source: EU Masterplan OWMCP, 2010) 
+II Proposed Infrastructure (Source: EU Masterplan OWMCP, 2010) 
+III Assessment of existing structures: Nanni weir, Van Wouw Inlet, HA Intake and IKUGH inlet and 
+
+survey results 
+IV Survey results Maratakka Spillway area 
+V Overview Option 1 and 2 for Corantijn Canal supply 
+VI Schematic Designs Nanni Weir and Maratakka Spillway 
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 3 of 24 
+
+1 Introduction 
+ 
+
+1.1 General 
+The Government of Suriname has requested the Bank’s technical support in the preparation of an 
+investment loan to finance a Sustainable Agricultural Productivity Program (SU-L1052). The goal of SU-
+L1052 is to increase agricultural productivity in Surinam through investments in infrastructure and 
+management of irrigation and drainage (I&D) systems; and by improving the quality of available 
+agriculture statistics. The expected results of the I&D component of the Program are: (i) increased 
+agricultural productivity in I&D areas; (ii) improved water management within I&D areas; (iii) operating 
+WB effectively contributing to the operation and management (O&M) of I&D infrastructure.  
+ 
+The objective of the Irrigation and Drainage component is to improve the functioning and management of 
+I&D systems in Suriname, particularly in Nickerie District, by addressing current failings in infrastructure 
+and transferring key management and maintenance responsibilities to Water Boards (WB). The program 
+will finance: (i) rehabilitation/modernization of primary and secondary I&D infrastructure selected to 
+benefit small- and medium-size farmers; (ii) support for developing and strengthening WB capacity to 
+take over the O&M of I&D systems; (iii) capacity building of government bodies in charge of water 
+resource administration for irrigation; and (iv) design and implementation of one-time incentives 
+mechanisms limited in time and scope and aimed at improving efficiency in farmers’ water use and 
+increasing their willingness to cover O&M costs. This component will include measures to improve the 
+water resource sustainable management for its different uses, particularly by taking into account climate 
+change impacts (i.e., in regard to water supply and demand) and considering adaptation measures. 
+ 
+During the first stage of the project preparation activities, the Irrigation and Drainage consultancy and the 
+Government indicated during the IDB mission that took place in November 2017 that, to improve the 
+efficiency of the Nickerie I&D system and to reduce the likelihood of flooding in irrigated areas two 
+structures needed to be built: Nanni Weir and the Maratakka Spillway. These structures need to be 
+analyzed as part of project preparation. 
+ 
+ 
+ 
+
+1.2 This study 
+ 
+The concerned study is to review existing information and prepare preliminary designs and cost estimates 
+of the two structures as well as the additional works required in the restructuring of the inlets to the main 
+irrigation canals (Van Wouw, Stondansi, HA and Lateral canal). 
+ 
+This study is part of a series of consultancies that will take place simultaneously as part of the SU-L1052 
+Program preparation plan agreed between the government and the IDB, which includes: economic 
+analysis, institutional capacity analysis, environmental and social analysis and a study on the hydrology 
+of the Nickerie water resource base. 
+ 
+This document presents the Intermediate Report, for the consultancy assignment to address the activities 
+and planning for the feasibility assessment of the Nanni Weir and Maratakka Spillway. 
+ 
+
+1.3 Objective and approach of this Study 
+ 
+The specific objective of this consultancy is to carry out a:(i) feasibility study of the Nanni Weir and 
+related structures, including preliminary or basic design and estimates of the investment costs required; 
+and (ii) feasibility study of the Maratakka spillway and link canal to the Maratakka River, including 
+preliminary or basic design and estimates of the investment costs required. 
+ 
+The following approach is used to achieve this objective: 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 4 of 24 
+
+- Conduct site visits and review existing data/reports on the structures 
+- Consult with relevant stakeholders, including the OWMCP, LVV, OWT&C and others 
+- Conduct field surveys and inspections  
+- Review and propose solutions and alternative options 
+- Discuss and agree on selected infrastructure works 
+- Prepare preliminary designs and cost estimates 
+- Assess technical and financial feasibility 
+- Propose implementation schemes and procurement procedures 
+
+ 
+It is noted that the Inter-Ministerial Irrigation and Drainage Coordination Working Group (IMIDCWG) 
+consists of members of amongst others LVV, OWT&C and OWMCP. They are regularly consulted 
+during the course of this assignment. 
+ 
+Furthermore, discussions are held with the IDB team and other consultants participating in this project. 
+This ensures that relevant available information and data is shared and cross-checked. 
+
+2 Background 
+ 
+Appendix I presents an overview map of existing infrastructure and (inlet and outlet) structures. Appendix 
+II presents proposed improvement and new infrastructure in the EU OWMCP Masterplan (2010). 
+ 
+The Nanni Weir 
+
+The Multipurpose Corantijn Project initiated in 1981 was never completed due to shortage of funds.  
+The construction of the Nanni Weir and related structures was the major and essential hydraulic structure 
+never completed, resulting in considerable losses of expensive pumped water. 
+ 
+The absence of a weir at the outflow of the Corantijn canal causes the water from the Corantijn canal to 
+spill directly into the Nanni swamp. As a result the water level in the whole Nanni swamp needs to be 
+raised before irrigation water can flow into the irrigation canals. Substantial losses in evaporation occur in 
+the large Nanni swamp estimated at 30% and the whole irrigation supply becomes very inefficient and 
+difficult to manage, in particular when irrigation supply is interrupted.  
+ 
+The construction of the Nanni weir at the outlet of the Corantijn canal requires a regulating structure in 
+the weir that will allow the inflow of irrigation water from the Nanni swamp into the irrigation system as 
+well the outflow of excess water of the Nanni swamp into the Nanni creek through the existing Nanni 
+spillway. 
+ 
+Additional structures need to be considered and include the reconstruction of the Nanni Inlet structure 
+into the Van Wouw and the Stondansi canals, the extension of the Stondansi canal, reconstruction of two 
+intakes from the Stondansi canal into the HA and Lateral canals and strengthening of the swamp retention 
+embankment and deepening of the Suriname canal. 
+ 
+The master plan of the EU-financed study on the Irrigation supply of the Nickerie system identified the 
+Nanni weir and related structures (estimated at 10 million USD in 2009) as the first priority for an 
+improved and efficient irrigation supply with a direct impact on the areas to be irrigated and a reduction 
+of pumping costs. 
+ 
+ 
+The Maratakka Spillway 
+
+The Maratakka Spillway and related link canal to the Maratakka River was one of two major and essential 
+water control structures that were never completed. Implementation of the Spillway will connect the 
+Suriname canal and allow the evacuation of floodwaters from the Nanni swamp and alleviate importantly 
+the present flood hazards and increase fresh water supply to the Nickerie River. 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 5 of 24 
+
+The main outflow of floodwaters from the Nanni swamp is presently through the Nanni spillway into the 
+Nanni Creek on the west side of the swamp close to the outflow of the Corantijn canal. The outflow on 
+the eastern side of the swamp retention dike was to be realized through the Maratakka spillway that was 
+however never constructed. Excessive rainfall in the Nanni catchment area causes frequently serious 
+flooding, as the capacity of the Nanni spillway is insufficient for the evacuation of floodwaters.  
+ 
+Construction of the Maratakka spillway and related connection canal from the Suriname canal into the 
+Maratakka River would importantly reduce flooding problems and loss of production due to inundations 
+in several polders, while the inflow of fresh water from the Maratakka into the Nickerie River would 
+make additional water available for irrigation and push back saltwater intrusion. Cost estimates of the 
+Maratakka spillway from the EU Masterplan did amount in 2009 to USD 750,000. 
+
+3 Review studies and available information 
+
+3.1 General 
+ 
+Key reports relevant to this study are: 
+
+• Irrigation Master Plan OWMCP (EU funded, 2010). 
+• Designs of the “DOL” structures (original and “reduced” version) (Sunecon/ILACO, 1989) 
+
+ 
+Abovementioned and other available literature were reviewed to understand the overall set up of the 
+proposed MCP works and the hydraulic/water management aspects of the concerned Nanni Weir and 
+Maratakka Spillway. 
+ 
+The following sources / stakeholders have been contacted to obtain available data: 
+
+• Ministry of Agriculture, Animal Husbandry and Fisheries (LVV) (head office and District 
+Nickerie office) 
+
+• Ministry of Public Works, Transportation and Communication (OWT&C) (Drainage 
+department as well as District Nickerie office) 
+
+• (Overlaying) Water board MCP (OWMCP) 
+• District agencies (District Commissioner, and others) 
+• Anton de Kom University (Adek) 
+• Contractors, consultants and others who have worked in the MCP area. 
+
+ 
+The discussions have provided valuable data to understand the recent changes and current status of the 
+structures in the Project area. 
+ 
+The table below presents an overview of key meetings and activities until date. 
+
+Date Meeting with/ activity Subject/ Topic 
+
+March 4th 2018 Mr. G. Van Der Kooye (Min. LVV 
+Nickerie) 
+
+Overall project, key issues and objectives 
+
+March 9th 2018 Mr. August Lila (Director OWMCP) Overall project, key issues and objectives, available 
+data, status of infrastructure 
+
+March 9th 2018 Mr. Sanjay Triloki (OWT&C 
+department Nickerie) 
+
+Site visit Van Wouw Intake area and IKUGH area, 
+status of infrastructure 
+
+March 14th 2018 Mr. Martin Smith (consultant) Discussion about the overall objectives and set up, 
+involvement on different parts of project 
+
+March 30th 2018 Field Survey Nanni Spillway, Van Wouw Intake area and IKUGH 
+area, status of structures, measurements 
+
+April 9th – 13th  IDB Analysis Mission IDB Mission team, Ministry LVV, IMIDCWG , Dr 
+Sieuw Naipal,   
+
+April 19-20th  Field Survey Maratakka Spillway area, measurements 
+
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 6 of 24 
+
+3.2 Initial Site Visit and discussions 
+ 
+A meeting was held with Mr. Van der Kooye (LVV Nickerie) on 4th March 2018. He explained the 
+reasons behind the several proposed Nanni Weir and Maratakka 
+Spillway including related structures and works. The key points 
+are listed as: 
+
+- Nanni Weir is needed to allow more intake of water 
+from the Nanni Swamp and divert this water towards the 
+north/east via the Suriname Canal. This is to feed the 
+northern agricultural areas, including the remote 
+Autonoom area, with sufficient fresh water. 
+
+- There is a need for other structures to be taken into 
+account for rehabilitation and construction. This 
+includes Van Wouw Intake, which is in poor condition (see picture) and experience substantial 
+water losses. Furthermore, some other structures need rehabilitation such as Nanni Spillway, 
+IKUGH Intake (see picture) and Swamp Retention dam 
+along the Suriname Canal. 
+
+- An alternative may be considered by abandoning the Van 
+Wouw Intake and making a new intake in the Suriname 
+Canal close to the new Nanni Weir. 
+
+- The Nanni Weir is needed to reduce losses from Corantijn 
+Canal through flowing back into the Nanni swamp. 
+
+- Maratakka Spillway is to have a controlled discharge of 
+water during high water levels in the swamp, as the existing 
+Nanni spillway does not have sufficient capacity. As such, flooding occurs regularly after heavy 
+rainfall periods. 
+
+- The Maratakka Spillway is also to discharge about 5 m3/s of fresh water during dry seasons into 
+the Maratakka River. This is to push back and control the salt intrusion in the Nickerie River. 
+
+  
+An initial site visit was conducted on 9th March 2018 to the Van Wouw Intake area and IKUGH area. The 
+site visit provided valuable information about the status of the several existing infrastructure and 
+structures. It further provided a good overview of the possible interventions proposed in the 1977 and 
+2010 studies. The visit to the proposed Maratakka Spillway location could not be undertaken during this 
+visit due to unavailability of airboats. The Suriname Canal, between IKUGH and Maratakka, is not 
+accessible by normal boat due to floating grass/weed. 
+
+ 
+Van Wouw intake and Nanni spillway   IKUGH and HA intake 
+ 
+ 
+A meeting was held with Mr. August Lila, Director of OWMCP on 9th March at his office. He confirmed 
+more or less the same as Mr. Van der Kooye. In addition, it was discussed that the need for alternatives to 
+supply more water is direly needed for the northern/Autonoom Area. The operation of the Wakay pumps 
+is affected due to insufficient available fuel. The use of larger storage volumes of fresh water from the 
+Nanni Swamp should be considered as much as possible. 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 7 of 24 
+
+Mr. Lila also indicated that there were alternatives designed for the Nanni Weir in the so called “DOL 
+Werken (klein)” from 1989. These were the simplified works for Distribution, intake and retention as 
+compared to the original DOL works.  
+Furthermore, discussions in the past were also to increase the pump capacity at Wakay from 30 to 50 
+m3/s. 
+ 
+It was discussed with Mr Lila to provide the following data (if possible within 2 weeks): Historical (long 
+range) water levels (swamp, rivers, canals), rain fall data, flow discharge measurements, levels of dams 
+and canals (measured in the recent past) and copies / scans of relevant reports.  
+OWMCP is in charge and maintains the Corantijn Canal, Wakay pumps and inlet/outlet structures along 
+the Corantijn Canal.  They furthermore conduct water level measurements and other management tasks as 
+provided in the state decree for OWMCP. All levels (divers) are regularly checked to see if the NSP 
+levels are correct. 
+ 
+Mr. Sanjay Triloki, from OWT&C drainage department in Nickerie, joined the site visit and provided 
+valuable information about the operation of the several structures. OWT&C is in charge of operating and 
+maintaining all main inlets and outlets, such as Van Wouw, Nanni and IKUGH. The swamp retention 
+dam was rehabilitated in 2016/2017 and is now in most sections at sufficient height. Only smaller parts, 
+e.g. along Corantijn Canal, may not be at sufficient height (info from Mr. Lila).  
+Mr. Tiloki emphasized to look at structures that would be able to work under different water level 
+conditions. The current inlet and outlet main structures are more than 40 years old and need some proper 
+rehabilitation.  
+His view is that it may be cheaper to construct an inlet 
+near halfway Suriname Canal (after the Lateral Canal) 
+than to reinforce the Swamp Retention Dam over a 
+length of over 30 km. He noted that the Suriname Canal 
+is linked with Nanni Swamp through several 
+channels/drains. This was confirmed during the site 
+visit (see picture). 
+Also the Nanni Swamp has always water, but due to 
+low water levels during dry seasons, intake for 
+irrigation can not be done under gravity. Farmers in the 
+north of the swamp often use their own pumps to take water from the Suriname Canal for irrigation. 
+ 
+Mr. Triloki mentioned that it takes lots of efforts to keep the lengthy canals clean. The Suriname Canal 
+between IKUGH and Maratakka is only partially clean.  
+He also indicated that regular maintenance in the far past was conducted by a pontoon with an excavator 
+or draglines on it. This pontoon was operated continuously for all canals, including Nanni Creek up to the 
+Nanni lake/reservoir further south. This way sufficient water was released through the Nanni Creek, even 
+in dry periods. At the moment, the Nanni Creek is not maintained due to lack of accessibility and high 
+costs for special swamp excavator equipment. The creek has a reduced discharge capacity. 
+ 
+A meeting was held on 14th March 2018 with Mr. Martin Smith, another consultant in this project. The 
+site visit data and initial findings until date were exchanged with him. Furthermore, the overall objectives 
+and base set up of this project were discussed. It was understood that Mr. Smith would focus on the Water 
+Board rehabilitation works and other related activities to improve the efficiency of water use and 
+management. 
+ 
+ 
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 8 of 24 
+
+4 Assessment of Existing structures 
+ 
+The following existing structures or areas have been visited for inspection and assessment of current 
+condition.  
+
+1) Nanni Spillway 
+2) Van Wouw Intake structure 
+3) HA Intake Structure 
+4) IKUGH Inlet structure 
+5) Swamp Retention dam (Stondansi canal, Lateral canal) 
+6) Surinam Canal 
+7) Corantijn Canal/dam (only section near Nanni Weir location) 
+8) Maratakka Spillway area (end of Surinam  Canal/link to Maratakka River) 
+
+ 
+Field topographic surveys and measurements have been conducted as and where possible. 
+ 
+
+4.1 Existing structures near Nanni Weir and IKUGH 
+ 
+The existing structures: Nanni Spillway, Van Wouw Intake, HA Inlet and IKUGH inlet have been 
+inspected and their conditions have been checked. This general assessment was to understand if the 
+existing structures would fit within the main infrastructure system for water supply and if rehabilitation 
+would suffice to be included in the main system or new structures would be needed. The results are 
+presented in a separate report in Appendix III.  
+ 
+Note: the further detailed investigation and related rehabilitation works and costs are conducted through a 
+separate consultancy activity of the IDB and are not part of the scope of this Report. 
+ 
+Also, the report includes some cross sections of the Swamp Retention dam (between Stondansi and 
+Surinam Canal) and Surinam Canal with levels. It appears that the Swamp Retention dam has an average 
+crest level of about NSP +4.0 m. This implies that the further increase to the required NSP +4.45 m would 
+only need a clay backfill of average 55-60 cm (considering some settlements) and hence would probably 
+not involve a major risk of instability (sliding of slopes) of the dam. Also the dam has already been 
+constructed for over 30 years, so the sub-soil is most probably stabilized over time. 
+ 
+The Swamp Retention dam along Lateral Canal could not be measured due to inaccessibility (canal was 
+overgrown).  However, from field check near IKUGH it was observed that the crest level of this dam is 
+more or less at similar elevation as the dam along Stondansi Canal. 
+ 
+The embankment dam between the Surinam Canal and Nanni Swamp is at approx. NSP +2.20 m in the 
+section along the Stondansi Canal. It is assumed that the level of the swamp embankment in the section 
+along the Lateral Canal is more or less the same. This embankment would be prone to instability if the 
+dam needs to be raised with 1 to 2 meters. 
+ 
+
+4.2 Corantijn Canal swamp retention dam 
+The Corantijn Canal, including side embankments, has been rehabilitated about 10 years ago. The crest 
+level of the swamp retention dam is reportedly at sufficient elevation. Some spots show settlements and 
+may require some maintenance. OWMCP carries out regular inspections and repairs when possible. 
+ 
+The Corantijn Canal flows uncontrolled into the swamp area and Surinam Canal near the Nanni Spillway. 
+This open section is about 350 m long. The swamp retention dam needs to be continued along this section 
+with a crest level at NSP +4.45 m, in order to have a controlled conveyance of water from the Corantijn 
+Canal to the agricultural areas. The existing open water area near Nanni Spillway and the future Nanni 
+Weir can be further excavated to create a pond area from where water can be distributed to different 
+directions.  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 9 of 24 
+
+The dam can be constructed on the existing embankment with the Nanni Swamp using clay from the 
+canal and pond. 
+ 
+
+4.3 Area near Maratakka Spillway 
+ 
+The proposed Maratakka Spillway location was difficult to access. It is located at the end of Surinam 
+Canal and the beginning of the linkage to the Maratakka River and the access from the Surinam Canal 
+was practically impossible due to the heavy overgrown canal. The linkage canal was partially (1.5 km) 
+accessible by boat. Further travel had to be by walking on the old northern dam along this canal. 
+There are no known benchmark levels nearby, so the water level at IKUGH (30 km distance) was used to 
+estimate the approximate levels in NSP (National chart datum) in the Surinam Canal at Maratakka. The 
+elevation levels at this location may therefore have a +/- 15 to 20% deviation.  
+ 
+The cross section measurements are shown in Appendix IV. 
+
+Surinam Canal end part near Maratakka  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Link canal to Maratakka River (overgrown)  View from end dam Surinam Canal 
+ 
+The crest level of the Swamp Retention dam (north) along Surinam Canal and at the end is about NSP 
++4.0 m. This means that the spillway structure will require some excavation of the end dam to lower the 
+level. 
+It is expected that a sand ridge (also referred to as Cupido ridge) goes further to the south and parallel to 
+the Surinam Canal. The top of this sand ridge is unknown, but from previous estimates (Environmental 
+studies 2007 and hydrological studies 1977) it is assumed that the top varies between NSP +3 and +4 m. 
+It is likely that the end dam at Surinam Canal is connected to the sand ridge, and thus blocking or 
+reducing free flows from the swamp to the link canal (towards Maratakka River). 
+  
+
+Maratakka Spillway location. End dam 
+Surinam Canal, connecting to sand ridge 
+
+Link canal (4 km) to 
+Maratakka River 
+
+Possible sand ridge in swamp 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 10 of 24 
+
+5 Alternatives for water distribution from Corantijn Canal 
+ 
+This section contains an assessment of two alternatives to distribute the water from Corantijn Canal to the 
+agricultural areas. During dry seasons water levels in the Nanni Swamp gets below the required level of 
+NSP + 2.50 m to distribute water under gravity into the agricultural areas. At this level, the pumps at 
+Wakay start operating and fill up the Corantijn Canal (source: OWMCP). 
+ 
+There are two options to distribute the Corantijn Canal water to the agricultural areas in Eastern and 
+Western polders (up to Lateral Canal 1). See Appendix V. 
+
+1) Option 1: the water is distributed through the Stondansi Canal (about 3.75 km) and via a new 
+connection (850 m) to the Lateral Canal 1 (about 7 km). 
+
+2) Option 2: the water is distributed through the Surinam Canal (total 11.5 km) 
+ 
+
+ 
+In both options it is assumed that the distribution of water will primarily focus on supply to the Eastern 
+and Western Polders. The Autonomous Area will only receive water from Corantijn Canal if there is 
+sufficient available. That means that a hydraulic structure (end control gate) is required in both options. 
+ 
+Both options also require that the new Swamp Retention dam (approx. 350 m) between the existing dam 
+of Corantijn Canal and the existing Swamp Retention dam at Stondansi / Surinam Canal.  
+ 
+The Swamp Retention dam between Stondansi and Surinam Canal is about 4.5 km long and the Swamp 
+Retention dam between Lateral and Surinam Canal has a length of about 7 km. 
+ 
+
+Cross section 1-1 (Stondansi and Surinam Canal) for Option 1 and Option 2. 
+ 
+ 
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 11 of 24 
+
+Cross section 2-2 (Lateral and Surinam Canal) for Option 1 and Option 2. 
+ 
+The table below contains an overview of the assessment of both options. 
+ 
+Overview of details and assessment of Option 1 and 2 
+
+Works/items Option 1 Option 2 
+Closing dam between Corantijn 
+Canal dam and Stondansi 
+Swamp Retention dam 
+
+Closing dam with crest level at NSP 
++4.45 m, approx. 350 m long. 
+
+Required, same as Option 1. 
+
+Increase of Swamp Retention 
+dam crest level. Total length 
+about 11.6 km (Stondansi 4.6 
+km and Lateral 7 km). 
+
+Increase from NSP +4.0 m to NSP 4.45 
+m. About 60 cm (incl settlement) 
+increase over about 8 m wide crest. 
+
+Required, same as Option 1 
+
+Widen/re-profiling Stondansi 
+Canal to allow more flow, less 
+hydraulic losses 
+
+Widen and re-profiling of Stondansi 
+canal (about 2-3 m wider, with stable 
+slopes both sides) 
+
+Not applicable for Option 2. 
+
+Increase swamp/Surinam canal 
+embankment crest level and re-
+profiling Surinam Canal.  
+ 
+Total length about 11.5 km. 
+
+Not applicable for Option 1. Raise crest level from NSP +2.20 m to 
+about NSP +3.50 m to avoid Corantijn 
+Canal water going into swamp. Close all 
+open connections between swamp and 
+Surinam Canal in this section. About 1.5 
+m (incl settlement) higher over 5-6 m 
+wide crest with shallow slopes (for 
+stable dam). 
+Re-profiling of Surinam Canal to convey 
+water with less hydraulic losses. 
+ 
+Note: raising the embankment further 
+could impose higher risks of instable 
+side slopes and slides. This would 
+increase costs and time to allow for 
+gradual settlement and water pressure 
+dissipation in the underground. 
+ 
+
+New Nanni Weir Needed at junction of Nanni Creek/ new 
+swamp retention dam 
+
+Required, same as Option1.  
+(Note: swamp water will be conveyed to 
+HA/IKUGH via new Nanni Weir and 
+Surinam Canal) 
+
+End control structure at end of 
+Eastern Polders (start of 
+Autonomous area) 
+
+New outlet/end control structure at end 
+of Lateral Canal 1. Discharge into 
+Surinam Canal 
+
+Same as Option 1. 
+New outlet/end control structure at end 
+of Surinam Canal. Discharge into 
+Surinam Canal 
+
+New Canal New Canal connection (850 m) between 
+Stondansi and Lateral Canal 1. Including 
+end check hydraulic structure at end of 
+Stondansi Canal to control water levels. 
+
+Not applicable for Option 2 
+
+Rehabilitate existing hydraulic 
+structures 
+
+Rehabilitate Nanni Spillway, Van Wouw 
+and IKUGH. 
+Construct new HA Intake together with 
+end check structure Stondansi 
+
+Rehabilitate Nanni Spillway, Van Wouw 
+and IKUGH, same as Option 1. 
+Rehabilitate HA Intake structure. 
+
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 12 of 24 
+
+ 
+The cost comparison for both options is shown in the table below. Some works are the same for both 
+options and have not been included for the comparison. Only the differences are shown. 
+ 
+Cost comparison Option 1 and 2 (excluding structures applicable for both) 
+
+Works/Item Cost Option 1 Cost Option 2 
+Increase swamp embankment 
+(along Surinam Canal) crest level.  
+
+Not Needed. Approx. 15 m3/m, total 11.5 km is 
+approx. 172,500 m3 excavation and 
+backfilling and profiling of Surinam 
+Canal. 
+USD 1.3 M. 
+
+Widening/re-profiling Stondansi 
+Canal 
+
+Approx. 18 m3/m excavation and 
+backfilling, 3.75 km long. Combine with 
+increase of dam (see next) 
+USD 500,000 
+
+Not needed. 
+
+Increase of Swamp Retention dam 
+crest level (along Stondansi 
+Canal) (raise dam along Lateral 
+canal is same for both options) 
+
+Approx. 7 m3/m, total 3.75 km 
+excavation, back filling and profiling.  
+USD 200,000 
+
+Approx. 7 m3/m, total 4.5 km 
+excavation, back filling and profiling. 
+USD 240,000 
+
+Excavate new canal to connect 
+Stondansi with Lateral Canal and 
+construct Swamp Retention dam 
+alongside 
+
+Approx. 60 m3/m, total 850 m long is 
+51,000 m3 excavation, backfilling and 
+profiling. This is also part of Swamp 
+Retention dam crest level increase.  
+USD 380,000 
+
+Not needed.  
+
+HA Intake structure New HA Intake, combined with new end 
+check control structure Stondansi Canal. 
+USD 800,000 
+
+Rehabilitate HA Intake structure. 
+USD 50,000 
+
+End control structure End control structure at end of Lateral 1 
+Canal to discharge to Surinam Canal 
+USD 300,000 
+
+End control structure at end of 
+Surinam Canal (parallel at Lateral 1 
+Canal) to discharge to Surinam Canal. 
+Capacity is bit larger then for Option 1 
+to allow discharges both from 
+Corantijn Canal as well as from 
+Swamp. 
+USD 500,000 
+
+Total extra costs per option USD 2.13 M USD 2.09 M 
+ 
+The costs for extra works in Option 1 are slightly higher than in Option 2. Given the level of costs 
+assessment, this difference is considered negligible. 
+ 
+However, Option 2 carries more risks than Option 1. In particular, the risks lie with the instable soil that 
+is expected in the swamp area. The embankment between Surinam Canal and the Nanni Swamp will 
+require a balanced work method to increase the crest level in small steps. Also, special swamp equipment 
+will need to be used, as access over land is very limited. With the longer expected execution of works and 
+input of special equipment, extra costs are likely to be faced.  
+ 
+Another advantage of Option 1 is that all water flows (pumped and gravity) will be conveyed and 
+controlled through one main supply canal. This may have benefits when measuring and control devices 
+will be linked together for improved and efficient operation. 
+ 
+ 
+It is recommended to continue with Option 1 for further implementation. This option is also the same as 
+recommended in previous studies. 
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 13 of 24 
+
+6 Rationale for Nanni Weir and Maratakka Spillway 
+ 
+ 
+Improved main infrastructure for Irrigation: the Nanni Weir 
+
+The Multipurpose Corantijn Project (MCP) initiated in 1981 was never completed due to shortage of 
+funds. The construction of the Nanni Weir and related structures was the major and essential hydraulic 
+structure never completed. 
+ 
+The proposed Nanni Weir structure consists of several works combined: 
+
+1) Construction of the Nanni Sluice/weir structure: this is a sluice concrete structure with 2 gates, 
+adjacent steel sheet piles as retaining structures, inlet weed control mechanism and mechanical 
+hinges to lift the doors. 
+
+2) Embankment Swamp retention dam between Corantijn Canal and Stondansi Canal. This is to 
+close the gap between Corantijn Canal and Nanni Swamp, and at the same time create a basin to 
+distribute the water from Nanni swamp properly. 
+
+3) Connect Stondansi Canal to Lateral Canal (Eastern area) and construction of an end/control 
+structure. 
+
+ 
+The Nanni Weir including closing dam and structure is primarily meant to ensure sufficient water supply 
+to the polders during dry seasons, when the water level in the Nanni Swamp gets lower than NSP +2.5 m 
+and gravity supply is not possible anymore. 
+ 
+In addition to these works, other related works are required: increase crest level (to NSP +4.45 m) of the 
+Swamp Retention dam along Stondansi and Lateral Canal, rehabilitation of the Nanni Spill Way, 
+rehabilitation of Nanni Creek, rehabilitation of the Van Wouw Intake, construction of a new Intake at HA 
+and rehabilitation of IKUGH inlet. 
+ 
+It is noted that more structures have been proposed in the original MCP, but these aimed at full water 
+supply for a larger projected irrigation area. These other structures will be needed when those areas are to 
+be developed for rice cultivation in the future. 
+ 
+The key advantages for the Nanni Weir structure are: 
+
+1) The pumped water from Wakay through Corantijn Canal will be conveyed directly to the Western 
+and Eastern Polders. Having such a closed circuit of transport of pumped irrigation water is much 
+better to control and to avoid waste of water resources. The flows and water levels can be 
+controlled for all agricultural areas linked to the main system, i.e. MCP, Western Polder, Easter 
+Polder and Autonomous Area. 
+
+2) Currently, the pumped water is dispersed into the Nanni Swamp through the open connection at 
+the proposed Nanni Weir. This means that the pumped water first fills up the swamp area along 
+the Surinam Canal, and only is usable when the level reaches to a sufficient level (NSP +2.50 m) 
+for gravity supply into the irrigation canals of the Western and Easter Polder areas and 
+Autonomous area. The small scale farmers do not have own pumping systems, and need to wait 
+some time before they are supplied with water. During this delayed availability of water, they are 
+faced with the risks of loss of crops and income: too long time waiting or weed on field, getting 
+less water due to forced abstraction by large farmers (e.g. Autonomous area) and less yield/ha. 
+
+3) The pumped water from Corantijn River (Wakay) is expensive as compared to the water in the 
+Nanni Swamp. It requires fuel and expensive annual maintenance of pumps. Furthermore, at the 
+current stage pumping has to be continued until sufficient water level is reached in Nanni to 
+ensure gravity flow. That means often more pumping then strictly is needed for the irrigation 
+capacity. Surplus of pumped water not used for irrigation is then discharged through the Nanni 
+Spillway to the Corantijn River. This means relative expensive water (per m3 or per ha) is 
+wasted.  
+
+4) It is expected that less pumped water will be needed to supply the area with the required amount 
+under the current demand. The areas with less than 2 crops per years may be able to increase their 
+crops and yields as well. 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 14 of 24 
+
+5) A controlled distribution of water will also enable the OWMCP to release water as needed in 
+each section/area. They intend to introduce a “water calendar” to distribute water as scheduled. 
+This will minimize the pumping requirements due to much lesser losses. 
+
+6) The controlled discharge or release of water per section will also make it easier to introduce 
+properly measured water fees for each area separately. At this moment, it is understood that 
+payment of fees for O&M of the main structure is not introduced due to lack of trust by the 
+farmers that they get what they pay for. 
+
+ 
+The Maratakka Spillway 
+ 
+The Maratakka Spillway and related link canal to the Maratakka River was one of two major and essential 
+water control structures that were never completed. Currently, the emergency spills are only located in the 
+western part of the Nanni Swamp, with Nanni Spillway (about 25 m3/s) as the main release structure. The 
+capacity of the Nanni Spillway is often reduced to about 11 m3/s due to small discharge capacity of the 
+Nanni Creek, encroachment on the creek banks with low dam level and high tide in Corantijn River. 
+Two small (inlet) structures are located in the southern parts of the Corantijn Canal and can function also 
+as spill. 
+ 
+The Maratakka Spillway is located in the north-eastern part of the Swamp at the end of the Suriname 
+canal and will allow the accelerated evacuation of floodwaters (during rainy seasons) from the northern 
+part of the Nanni swamp. 
+The proposed structure is a concrete broad crested weir at fixed top level (NSP +3.65 m), with an 
+estimated capacity of at least 15 m3/s. At this stage, it is recommended to only construct the emergency 
+spillway. In the future, the spillway structure may be extended with a sluice to release a minimum of 5 
+m3/s during dry weather conditions. 
+ 
+The key advantages for the Maratakka Spillway structure are: 
+
+1) The Maratakka Spillway alleviates greatly the present potential flood hazards during rainy 
+seasons. Any flooding of the agricultural areas will directly result in loss of crops and income. 
+
+2) The risks are reduced not due to extra spill capacity but also by locating the spillway at the 
+opposite site of the Nanni spillway. Both structures can work independently, just in case of non-
+functioning of either structure. 
+
+3) The costs for the Maratakka Spillway are much less then to improve the Nanni Creek to its full 
+capacity (if deemed feasible under the current conditions). The measures for Nanni Creek 
+upgrading may be costly or not be feasible to the full extend, e.g. due to land ownership issues 
+and regular siltation of the creek bottom and outflow area at the river. 
+
+4) The Maratakka Spillway will increase fresh water supply to the Nickerie River through the 
+Maratakka River, and contribute to pushing back the salt water intrusion. This will enable more 
+production due to increased irrigation at the right bank of the Nickerie River. It is noted that the 
+pumping station at Wageningen is currently under rehabilitation. This will allow pumping more 
+fresh water during high tide (when salt water intrusion is expected to reach furthest in the river). 
+However, further studies for the salt water intrusion assessment, including hydrologic modeling, 
+is required to justify large investments in just adding extra fresh water flows into the Nickerie 
+River. 
+
+5) The extra spill way, together with the new Nanni Weir and dam, will enable OWMCP to keep the 
+water levels in the northern part of the swamp more controlled and evenly distributed over the 
+east-west section. This is expected to be better for the flora and fauna. 
+
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 15 of 24 
+
+ 
+
+7 Preliminary designs and cost estimates 
+ 
+This section contains the schematic designs and cost estimates for the Nanni Weir and related structures, 
+as well as the Maratakka Spillway. It is noted that the designs are at schematic/ preliminary level, which 
+entails certain margins for unknown conditions such as geotechnical properties of the soil and 
+topographic levels. Further assessments are being conducted to fine tune the designs and costs where 
+possible. 
+It is noted that detailed designs and engineers cost estimate are to be carried out during the 
+implementation of the Program. 
+ 
+The following key data for designs have been abstracted from the previous studies and reports. No major 
+changes are foreseen at this stage, as most of the starting points used in the earlier designs are still 
+applicable. Some of the capacities are higher than actually required at this stage of development in the 
+polders. However, the structures are for a design life of at least 30-35 years and may need the capacity in 
+the near future. 
+It is noted that certain water use efficiency is envisaged at the individual farmers. This can be by grading 
+the terrains, using different crop techniques using less water and re-using water where possible.  
+ 
+Water supply: 
+Wakay pump:   30 m3/s. 
+Capacity Nanni Weir: 17 m3/s, between NSP +2.5 and NSP +3.30 m. Concrete wall and crest level at 
+
+sides at NSP +4.45 m. 
+Stondansi Canal: 31 m3/s (increase capacity, reduce hydraulic losses) 
+Van Wouw Intake: maintain capacity; Crest of concrete walls and side dams to be increased to NSP 
+
++4.45 m. 
+Optional: demolish existing intake and build new inlet (12.5 m3/s) further 
+upstream in Van Wouw Canal. This option is  
+
+IKUGH Intake: maintain capacity. Crest of concrete walls and side dams to be increased to NSP 
++4.45 m.  
+
+HA Inlet:  new inlet with 2.5 m3/s capacity. 
+ 
+ 
+Spillways and flood control: 
+Swamp Retention dam: raise to NSP +4.45 m (along Stondansi and Lateral 1 Canal) 
+Nanni Spillway:  maintain at 20-25 m3/s. Increase crest level at sides to NSP +4.45 m. 
+Maratakka Spillway: 15 m3/s. Crest level at NSP +3.65 m.  Crest level at side dams to NSP +4.45 m. 
+ 
+ 
+Schematic designs for the key structures have been presented in the EU OWMCP Masterplan. See 
+Appendix VI for overview of the schematic designs. 
+ 
+In principle these designs can be maintained. For these structures some recommend improvements have 
+been included in this report. Reference is made to the Appendix III.  
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 16 of 24 
+
+ 
+Cost estimates: 
+ 
+Cost estimates for the works have been prepared using Bills of Quantities and unit rates of existing 
+similar infrastructure works or prices from other sources (like contractors, suppliers, etc). An attempt has 
+been made to determine costs within a margin of 10-15%.  
+It is noted that the cost estimates depends on assumptions of soil/geotechnical conditions, availability of 
+source of material and accessibility for equipment. Furthermore, it is assumed that works will be 
+combined as much as practically possible in one contract, so that contractor’s overhead and other costs 
+can be minimized. 
+ 
+The total estimated costs for the new main infrastructure works are about USD 5.1 Million, excluding 
+turn over taxes. 
+
+ 
+ 
+In addition to the costs of the Works, 10-15% has to be added for Project/Contract Management, detailed 
+topographic surveys, soil investigations, detailed designs and Construction supervision. 
+ 
+It is noted that rehabilitation of important existing main structures, Nanni Spillway, Nanni Creek, Van 
+Wouw Intake and IKUGH Intake, are direly needed for an improved overall main water supply 
+infrastructure. The costs for rehabilitation of these structures are not part of this document, and are 
+assumed to be covered by other means. 
+ 
+  
+
+New Main Infrastructure Works OWMCP Option 1: Use Stondansi Canal to convey to IKUGH
+Cost USD
+
+No Component Description 25-May-18
+
+1 Nanni Weir New intake structure from Nanni Swamp, including closing dam (ca. 350 m) 2,000,000.00            
+2 Stondansi Canal/Swamp Retention dam Widening Stondansi Canal and raising retention dam level to +4.45 m,  3,75 km 703,125.00               
+3 HA Intake New intake (1 x 5 m wide), combine with regulator, demolish existing, close dam 250,000.00               
+4 Regulator/end check Structure Stondansi Regulator structure (2x 5 m) at end Stondansi to connect with canal to Lateral 1 550,000.00               
+5 Diversion canal Stondansi to Lateral Canal 1 New canal (850 m) with Swamp Embankment dam 382,500.00               
+6 Lateral Canal 1/ Swamp Retention dam Profiling canal and raising dam level (to +4.45 m) 7 km long 630,000.00               
+7 End check/regulator outlet Regulator structure at end Lateral Canal 1 (2x 2.5 m) to discharge in Sur Canal 350,000.00               
+8 Maratakka Spillway- only Part 1: Weir Spillway weir end Surinam Canal/Nanni swamp north to Maratakka 225,000.00               
+
+Note: Only new main infrastructure. Total Works Main Infra for Option 1 5,090,625.00            
+Cost of rehabilitation of exisiting main structures (Excluding 10-15% surveys, design, tender, supervision)
+are not included
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 17 of 24 
+
+ 
+ 
+ 
+Appendices: 
+ 
+ 
+ 
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 18 of 24 
+
+Appendix I: Overview map (Source: EU Masterplan 2010) 
+ 
+
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 19 of 24 
+
+Appendix II: Proposed Infrastructure (Source: EU Masterplan 2010) 
+ 
+
+ 
+ 
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 20 of 24 
+
+ 
+Appendix III: Assessment of existing structures: Nanni weir, Van Wouw Inlet, HA Intake and 
+IKUGH inlet and survey results 
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   1 
+
+MEMO 
+ 
+Project : Feasibility Nanni Weir and Maratakka Spillway 
+Subject : Assessment Existing Hydraulic Works Nickerie OWMCP  
+Date : April 2018 
+ 
+ 
+
+Contents 
+1.  General/ Project area ................................................................................................................. 2 
+
+2. Van Wouw Intake Structure ...................................................................................................... 3 
+
+2.1 Structure assessment ................................................................................................................ 3 
+
+Steel sheet piles ......................................................................................................................... 3 
+
+Concrete ................................................................................................................................... 3 
+
+Wooden sheet piles ................................................................................................................... 3 
+
+Trash racks................................................................................................................................ 4 
+
+Steel gates ................................................................................................................................. 4 
+
+Hoisting mechanism .................................................................................................................. 4 
+
+3. Nanni Spillway ......................................................................................................................... 5 
+
+3.1 Structure assessment ................................................................................................................ 5 
+
+Inflow/outflow side ................................................................................................................... 5 
+
+Sliding gates ............................................................................................................................. 5 
+
+Erosion ..................................................................................................................................... 5 
+
+Concrete structure ..................................................................................................................... 5 
+
+4.  IKUGH .................................................................................................................................... 7 
+
+4.1. Structure assessment ............................................................................................................... 7 
+
+Steel gates ................................................................................................................................. 7 
+
+Trashracks ................................................................................................................................ 7 
+
+Inflow/Outflow side .................................................................................................................. 8 
+
+Hoisting mechanism .................................................................................................................. 8 
+
+5. HA Inlet Structure ..................................................................................................................... 9 
+
+5.1. Assessment structure .............................................................................................................. 9 
+
+Gate inflow ............................................................................................................................... 9 
+
+Hoisting mechanism .................................................................................................................. 9 
+
+Concrete culvert ...................................................................................................................... 10 
+
+7.  Cross section profiles Surinam Canal ...................................................................................... 11 
+
+8.  Schematic drawings ................................................................................................................ 13 
+
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   2 
+
+1.  General/ Project area 
+
+The project area consists of four hydraulic structures, namely the Van Wouw Intake, Nani Spillway, 
+IKUGH (Integraal Kunstwerk Groot Henar) and HA Inlet Structure.  Field survey occurred in March 
+and April 2018.  The structures have been assessed if they could be rehabilitated and used again as 
+main structure. In addition some surveys and cross-sections have been carried out to assess the main 
+dam and canal levels. 
+ 
+
+ 
+ 
+  
+
+ 
+ 
+  
+
+Nani Spillway 
+   Van Wouw Intake 
+
+Corantijn Canal 
+
+Van Wouw Canal 
+
+Stondansie Canal 
+
+Surinam Canal 
+
+Surinam Canal 
+
+HA Inlet Structure. 
+
+IKUGH 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   3 
+
+ 
+
+2. Van Wouw Intake Structure 
+
+2.1 Structure assessment 
+ 
+The Van Wouw Intake Structure consists of two gates of steel with a lifting tower and two hinged 
+trash racks. The inflow side is at the Corantijn Canal whereas the outflow side of this structure is at 
+the Van Wouw Canal.  
+
+Steel sheet piles 
+ 
+Several steel sheet piles at both the inflow and outflow side 
+of the Van Wouw Intake Structure are heavily corroded.  
+ 
+Proposed works: 
+- Replace only steel sheet piles that are corroded, and give 
+the piles the necessary coating 
+- Replace all steel sheet piles, and give the piles the 
+necessary coating 
+ 
+
+Concrete 
+ 
+At several locations both on the inflow and outflow side of the structure, steel reinforcement is shown 
+due to concrete decay. 
+ 
+Proposed works: 
+- Replace pile cap at the inflow side 
+
+ 
+
+Wooden sheet piles 
+ 
+At the outflow side of the structure wooden sheet piles are anchored to land. Several of these piles are 
+rotten and broken. There is also heavy erosion seen. Geo-textile is placed between wooden piles and 
+land to prevent further erosion.   
+Proposed works: 
+- Replace wooden piles with new one 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   4 
+
+ 
+
+Trash racks 
+ 
+There are two trash racks. At some sections the racks are also 
+corroded. The racks are hinged, but there is no control system.   
+ 
+Proposed works: 
+- Replace current trash racks with new ones of aluminum  
+- New control system for trash racks 
+- Equipment to clean racks 
+ 
+
+Steel gates 
+ 
+There are two sliding gates that show corrosion at several locations. Both of the gates are being 
+operated manually with a hoisting system. Each gate has two pulley systems, yet only one gate has a 
+hoisting system that is connected.  
+ 
+Proposed works: 
+- Replace current steel gates with new ones made of lighter material (e.g. aluminum)   
+- Give the gates the necessary coating  
+- Replacing current rebates (grooves) with new ones including Teflon 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Hoisting mechanism 
+ 
+There are currently 4 systems with a maximum of 5 ton. Only 1 mechanism is connected to a gate, 
+two of the mechanisms are not connected and 1 hoisting system has no mechanism. 
+ 
+Proposed works: 
+- Replace the complete hoisting system with new system  
+- Give the gates the necessary coating 
+ 
+The structure should be adapted to the reservoir level of NSP 4.45 
+ 
+The structure should be passable for floating maintenance equipment and boats.  
+ 
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   5 
+
+3. Nanni Spillway 
+ 
+The main function of this structure is the need to regulate the water level in the Nani-reservoir.  
+
+3.1 Structure assessment 
+ 
+Inflow/outflow side 
+ 
+At both outflow and inflow side of the spillway steel sheet piles show heavily corrosion.  
+ 
+Proposed works: 
+- Replace current steel piles with new ones (Incl. necessary coating) 
+- Instead of replacing the steel sheet piles, fill the area with rip rap  
+ 
+
+ 
+ 
+
+Sliding gates 
+ 
+The Nani Spillway consists of three wooden gates. These gates are manually opened without any 
+hoisting mechanism. Steel profiles are used to keep the gates open. The gates are in rabbets made of 
+steel.  
+ 
+Proposed works: 
+- Replace current sliding gates with aluminum doors 
+- Control mechanism with complete new pulley system  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Erosion 
+ 
+At some locations there is also erosion seen.  
+ 
+Proposed works: 
+- Fill erosion areas with ripe clay 
+
+ Concrete structure 
+This structure has minimal concrete decay.  
+ 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Proposed works: 
+- Applying concrete spray techniques to rectify concrete elements 
+ 
+The spillway has to be adapted to embankment levels of NSP 4.45 and width of 4 m to allow 
+equipment to drive up to the structure by the Corantijn Canal embankments. 
+ 
+Currently there are no trash racks, these should be implemented. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   7 
+
+ 
+
+4.  IKUGH 
+ 
+IKUGH structure has three inflow and outflow sections, each with a gate of steel.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+4.1. Structure assessment 
+
+Steel gates 
+ 
+This hydraulic structure consists of three gates of steel. At several locations the gates show corrosion. 
+The gates are in chamfers, also made of steel. Some gates are not in chamfers anymore. The gates are 
+manually operated with wooden planks.  
+
+ 
+Proposed works:  
+- New aluminum gates 
+- New rabbets with Teflon  
+ 
+ 
+Trashracks 
+ 
+The structure used to have three trash racks at the inflow side. Currently these racks are unconfined.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   8 
+
+ 
+
+Inflow/Outflow side 
+ 
+The steel sheet piles and its anchoring show corrosion. At several locations at both inflow and outflow 
+side concrete decay is shown. There is also erosion seen at the inflow side near the steel sheet piles.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Hoisting mechanism 
+ 
+As mentioned above the gates are manually operated. There are no lifting mechanisms presents.  
+ 
+ 
+
+ 
+ 
+ 
+The structure has to be adapted to embankment levels of NSP 4.45 
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   9 
+
+ 
+
+5. HA Inlet Structure 
+ 
+This hydraulic structure consists of one gate of steel and one outflow section with a valve culvert. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+5.1. Assessment structure 
+
+Gate inflow 
+ 
+This hydraulic structure consists of one gate of steel at the inflow side. At several locations it is 
+corroded. The gate is placed into rabbets, that also show corrosion. The gate has a whirl control 
+system.  
+ 
+Proposed works: 
+- Replace current steel gate with a new one made of a lighter material (e.g. aluminum)  
+- Rabbets need to be renewed, with new profiles and rubber 
+- Trash racks need to be placed  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Hoisting mechanism 
+ 
+This structure has a whirl mechanism and is manually operated.  
+ 
+Proposed works: 
+- The whirl system needs to be inspected and renewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   10 
+
+ 
+
+Concrete culvert 
+ 
+The concrete culvert shows some concrete decay 
+ 
+Proposed works: 
+- By using concrete spray techniques, the concrete decay can be repaired 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   11 
+
+ 
+
+7.  Cross section profiles Surinam Canal 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+GPS Location 
+DP-01 Cross Section 1 Surinam Canal  
+DP-02 Cross Section 2 Surinam Canal  
+DP-03 Cross Section 3 Surinam Canal 
+DP-04 Cross Section 4 Surinam Canal 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   12 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+  
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   13 
+
+ 
+
+8.  Schematic drawings 
+ 
+Van Wouw Inlet Structure 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+Assessment Hydraulic Works OWMCP- April 2018   14 
+
+ 
+ 
+
+ 
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 21 of 24 
+
+ 
+Appendix IV: Survey results Maratakka Spillway area 
+ 
+  
+
+
+
+W
+L : +1.225 m
+
+date 20-04-2018   D
+rainage
+
+-2 41
+
+0.74
+E
+
+levation (N
+S
+
+P
+)
+
+1.06
+1.40
+
+2.06
+2.48
+
+2.76
+2.58
+
+2.66
+2.04
+
+1.51
+1.46
+
+-1.06
+-1.06
+
+0.04
+0.08
+
+1.46
+0
+
+D
+istance
+
+2.00
+4.00
+
+6.00
+8.00
+
+10.00
+13.00
+
+16.00
+19.00
+
+22.00
+25.00
+
+28.00
+31.00
+
+34.0035.00
+38.00
+
+(M
+)(M
+
+)
+
+N
+O
+
+R
+T
+
+H
+x: 529507.7025
+y: 629412.8371
+
+S
+O
+
+U
+T
+
+H
+x: 529535.4330
+y: 629386.8560
+
+D
+am
+
+ height: 2.76 m Cross section_01
+date: 20-04-2018
+
+-1 62.5
+
+1.11
+1.43
+
+1.29
+1.33
+
+-0.27
+-0.27
+
+-0.29
+-0.27
+
+-0.39
+-0.39
+
+-0.07
+-0.10
+
+0.49
+1.40
+
+1.61
+1.85
+
+2.23
+3.09
+
+4.01
+3.90
+
+3.43
+2.76
+
+2.21
+1.91
+
+1.29
+0
+
+3.00
+6.00
+
+8.00
+12.00
+
+16.00
+20.00
+
+22.00
+24.00
+
+26.00
+28.00
+
+30.00
+32.00
+
+34.00
+36.00
+
+38.00
+40.00
+
+42.00
+44.00
+
+46.00
+48.00
+
+50.00
+53.00
+
+55.00
+57.00
+
+W
+E
+
+S
+T
+
+x: 529463.1501
+y: 629375.0191
+
+E
+A
+
+S
+T
+
+x: 529505.6624
+y: 629412.9889
+
+1.6
+
+W
+L : +1.613 m
+
+date 20-04-2018   S
+urinam
+
+ canal
+
+C
+ross section_02
+
+date: 20-04-2018
+
+E
+levation (N
+
+S
+P
+
+)
+D
+
+istance (M
+)(M
+
+)
+
+D
+am
+
+ height: 4.01 m
+
+N
+ote:
+
+- W
+aterlevel in S
+
+urinam
+ canal
+
+estim
+ated from
+
+ w
+aterlevel
+
+m
+easured at IK
+
+U
+G
+
+H
+.
+
+- W
+L = W
+
+aterlevel
+
+* S
+ituation cross section M
+
+aratakka and S
+urinam
+
+ canal.
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 22 of 24 
+
+ 
+ 
+ 
+Appendix V: Overview Option 1 and 2 for Corantijn Canal supply 
+ 
+  
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+
+
+Opti
+on 1
+
+Cros
+s Se
+
+ction
+ 1-1
+
+Ston
+dans
+
+ie Ca
+nal
+
+Suri
+nam
+
+ Can
+al
+
+Exca
+vate
+
+Fill
+
+Excavate
+
+Raise Level Retention Dam
+
+Approx. +4.0 NSP
+
++4.45 NSP
+
+Earth
+
+Nan
+i Sw
+
+amp
+
+Leg
+end
+
+Existing Retention Dam
+
+
+
+Opti
+on 2
+
+Cros
+s Se
+
+ction
+ 1-1
+
+Ston
+dans
+
+ie Ca
+nal
+
+Suri
+nam
+
+ Can
+al
+
+Nan
+i Sw
+
+amp
+
+Excavate
+
+Raise Level Retention Dam
+
+(use excavation from Swamp)
+
+Approx. +4.0 NSP
+
++3.50 NSP
+
+Raise Level Retention Dam
+
++4.45 NSP
+
+Approx. +2.2 NSP
+
+Excavate
+
+Exca
+vate
+
+Fill
+
+Ear
+th
+
+Lege
+nd
+
+
+
+Option 1
+
+Cross Section 2-2
+
+Lateral Canal
+
+Surinam Canal
+
+Exist
+
+Excavate
+
+Raise Level Retention Dam
+
+Approx. +4.0 NSP
+
++4.45 NSP
+
+Nani Swamp
+
++2.20 NSP
+
+Exca
+vate
+
+Fill
+
+Ear
+th
+
+Lege
+nd
+
+
+
+Option 2
+
+Cross Section 2-2
+
+Surinam Canal
+
+Nani Swamp
+
+Excavate
+
+Raise Level Retention Dam
+
+(use excavation from Swamp)
+
+Approx. +4.0 NSP
+
++3.50 NSP
+
+Raise Level Retention Dam
+
++4.45 NSP
+
+Approx. +2.2 NSP
+
+Excavate
+
+Lateral Canal
+
+Exca
+vate
+
+Fill
+
+Earth
+
+Leg
+end
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 23 of 24 
+
+ 
+Appendix VI: Schematic Designs Nanni Weir and Maratakka Spillway 
+(Original source: OWMCP Masterplan, 2010) 
+ 
+ 
+ 
+Note: 
+The designs presented in this Appendix are taken from the OWMCP Masterplan. The designs are yet to 
+be checked on some details such as location, position and dimensions. 
+ 
+ 
+ 
+  
+
+
+
+   
+
+Intermediate Report- Feasibility Nanni Weir and Maratakka Spillway- v2- May 28th, 2018 Page 24 of 24 
+
+Maratakka Spillway (at end dam of Surinam Canal near link to Maratakka River) 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+
+	1 Introduction
+	1.1 General
+	1.2 This study
+	1.3 Objective and approach of this Study
+
+	2 Background
+	3 Review studies and available information
+	3.1 General
+	3.2 Initial Site Visit and discussions
+
+	4 Assessment of Existing structures
+	4.1 Existing structures near Nanni Weir and IKUGH
+	4.2 Corantijn Canal swamp retention dam
+	4.3 Area near Maratakka Spillway
+
+	5 Alternatives for water distribution from Corantijn Canal
+	6 Rationale for Nanni Weir and Maratakka Spillway
+	7 Preliminary designs and cost estimates
+	20180528 MEMO Hydraulic Structure NICKERIE_FINAL.pdf
+	1.  General/ Project area
+	2. Van Wouw Intake Structure
+	2.1 Structure assessment
+	Steel sheet piles
+	Concrete
+	Wooden sheet piles
+	/Trash racks
+	Steel gates
+	Hoisting mechanism
+
+
+	3. Nanni Spillway
+	3.1 Structure assessment
+	Sliding gates
+	/Erosion
+	Concrete structure
+
+
+	4.  IKUGH
+	4.1. Structure assessment
+	Steel gates
+	Inflow/Outflow side
+	Hoisting mechanism
+
+
+	5. HA Inlet Structure
+	5.1. Assessment structure
+	Gate inflow
+	Hoisting mechanism
+	Concrete culvert
+
+
+	7.  Cross section profiles Surinam Canal
+	8.  Schematic drawings
+
+
+
+
+

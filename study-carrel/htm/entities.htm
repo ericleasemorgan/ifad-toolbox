@@ -1,0 +1,2637 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">Named entities</li>
+		</ol>
+	</nav>
+
+
+<h1>Named entities</h1>
+<p>This is a table of named entities, their types, and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel. Please keep in mind that named-entity extraction is not as accurate as more generic parts-of-speech extraction. Unusual results will appear here.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>entity</th>
+                <th>type</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>bank</td><td>ORG</td><td>2647</td></tr>
+<tr><td>ifad</td><td>ORG</td><td>951</td></tr>
+<tr><td>africa</td><td>LOC</td><td>387</td></tr>
+<tr><td>esmf</td><td>ORG</td><td>364</td></tr>
+<tr><td>world bank</td><td>ORG</td><td>277</td></tr>
+<tr><td>adf</td><td>ORG</td><td>276</td></tr>
+<tr><td>appendix</td><td>PERSON</td><td>274</td></tr>
+<tr><td>ida</td><td>ORG</td><td>272</td></tr>
+<tr><td>op</td><td>PERSON</td><td>270</td></tr>
+<tr><td>na</td><td>ORG</td><td>266</td></tr>
+<tr><td>the world bank</td><td>ORG</td><td>257</td></tr>
+<tr><td>pu bl</td><td>PERSON</td><td>256</td></tr>
+<tr><td>ua</td><td>GPE</td><td>253</td></tr>
+<tr><td>fao</td><td>ORG</td><td>206</td></tr>
+<tr><td>piu</td><td>GPE</td><td>204</td></tr>
+<tr><td>af</td><td>ORG</td><td>203</td></tr>
+<tr><td>eu</td><td>ORG</td><td>191</td></tr>
+<tr><td>program</td><td>ORG</td><td>182</td></tr>
+<tr><td>rpf</td><td>ORG</td><td>181</td></tr>
+<tr><td>vii</td><td>ORG</td><td>180</td></tr>
+<tr><td>tadb</td><td>ORG</td><td>178</td></tr>
+<tr><td>government</td><td>ORG</td><td>178</td></tr>
+<tr><td>haiti</td><td>GPE</td><td>177</td></tr>
+<tr><td>niger</td><td>PERSON</td><td>169</td></tr>
+<tr><td>idb</td><td>ORG</td><td>166</td></tr>
+<tr><td>un</td><td>ORG</td><td>165</td></tr>
+<tr><td>state</td><td>ORG</td><td>164</td></tr>
+<tr><td>d</td><td>PERSON</td><td>163</td></tr>
+<tr><td>india</td><td>GPE</td><td>162</td></tr>
+<tr><td>borrower</td><td>ORG</td><td>162</td></tr>
+<tr><td>sudan</td><td>GPE</td><td>143</td></tr>
+<tr><td>guinea</td><td>GPE</td><td>141</td></tr>
+<tr><td>chad</td><td>GPE</td><td>139</td></tr>
+<tr><td>kenya</td><td>GPE</td><td>137</td></tr>
+<tr><td>iii</td><td>ORG</td><td>136</td></tr>
+<tr><td>washington</td><td>GPE</td><td>134</td></tr>
+<tr><td>the ministry of agriculture</td><td>ORG</td><td>134</td></tr>
+<tr><td>cooperatives</td><td>ORG</td><td>133</td></tr>
+<tr><td>pu bl ic d</td><td>PERSON</td><td>132</td></tr>
+<tr><td>burundi</td><td>GPE</td><td>128</td></tr>
+<tr><td>morocco</td><td>GPE</td><td>125</td></tr>
+<tr><td>loan</td><td>ORG</td><td>124</td></tr>
+<tr><td>liberia</td><td>GPE</td><td>120</td></tr>
+<tr><td>usd</td><td>ORG</td><td>116</td></tr>
+<tr><td>csp</td><td>ORG</td><td>114</td></tr>
+<tr><td>tanzania</td><td>GPE</td><td>113</td></tr>
+<tr><td>nigeria</td><td>GPE</td><td>111</td></tr>
+<tr><td>burkina faso</td><td>PERSON</td><td>111</td></tr>
+<tr><td>uganda</td><td>GPE</td><td>109</td></tr>
+<tr><td>pim</td><td>ORG</td><td>108</td></tr>
+<tr><td>angola</td><td>GPE</td><td>101</td></tr>
+<tr><td>ghana</td><td>GPE</td><td>101</td></tr>
+<tr><td>psc</td><td>ORG</td><td>100</td></tr>
+<tr><td>ethiopia</td><td>GPE</td><td>99</td></tr>
+<tr><td>the world bank</td><td>ORG</td><td>98</td></tr>
+<tr><td>us</td><td>GPE</td><td>97</td></tr>
+<tr><td>malawi</td><td>ORG</td><td>96</td></tr>
+<tr><td>girsal</td><td>ORG</td><td>96</td></tr>
+<tr><td>senegal</td><td>PERSON</td><td>95</td></tr>
+<tr><td>wb</td><td>ORG</td><td>93</td></tr>
+<tr><td>nw</td><td>GPE</td><td>93</td></tr>
+<tr><td>mali</td><td>GPE</td><td>90</td></tr>
+<tr><td>emp</td><td>ORG</td><td>90</td></tr>
+<tr><td>cpf</td><td>ORG</td><td>90</td></tr>
+<tr><td>china</td><td>GPE</td><td>88</td></tr>
+<tr><td>sierra leone</td><td>ORG</td><td>87</td></tr>
+<tr><td>argentina</td><td>GPE</td><td>86</td></tr>
+<tr><td>gef</td><td>ORG</td><td>84</td></tr>
+<tr><td>ghg</td><td>ORG</td><td>83</td></tr>
+<tr><td>bolivia</td><td>ORG</td><td>81</td></tr>
+<tr><td>eirr</td><td>ORG</td><td>80</td></tr>
+<tr><td>programa</td><td>GPE</td><td>78</td></tr>
+<tr><td>somalia</td><td>GPE</td><td>77</td></tr>
+<tr><td>lesotho</td><td>PERSON</td><td>77</td></tr>
+<tr><td>zambia</td><td>GPE</td><td>75</td></tr>
+<tr><td>myanmar</td><td>GPE</td><td>74</td></tr>
+<tr><td>world bank document</td><td>ORG</td><td>73</td></tr>
+<tr><td>turkey</td><td>GPE</td><td>73</td></tr>
+<tr><td>rap</td><td>ORG</td><td>73</td></tr>
+<tr><td>err</td><td>ORG</td><td>73</td></tr>
+<tr><td>namibia</td><td>GPE</td><td>72</td></tr>
+<tr><td>fund</td><td>ORG</td><td>72</td></tr>
+<tr><td>international waterways op/bp</td><td>ORG</td><td>71</td></tr>
+<tr><td>cps</td><td>ORG</td><td>71</td></tr>
+<tr><td>marndr</td><td>ORG</td><td>71</td></tr>
+<tr><td>benin</td><td>PERSON</td><td>70</td></tr>
+<tr><td>vii</td><td>ORG</td><td>69</td></tr>
+<tr><td>pcn</td><td>ORG</td><td>69</td></tr>
+<tr><td>ic d</td><td>PERSON</td><td>68</td></tr>
+<tr><td>undp</td><td>ORG</td><td>68</td></tr>
+<tr><td>ta</td><td>ORG</td><td>68</td></tr>
+<tr><td>senacsa</td><td>ORG</td><td>68</td></tr>
+<tr><td>rwanda</td><td>GPE</td><td>68</td></tr>
+<tr><td>afghanistan</td><td>GPE</td><td>68</td></tr>
+<tr><td>togo</td><td>ORG</td><td>67</td></tr>
+<tr><td>senasag</td><td>ORG</td><td>67</td></tr>
+<tr><td>association</td><td>ORG</td><td>67</td></tr>
+<tr><td>vi</td><td>GPE</td><td>66</td></tr>
+<tr><td>drc</td><td>ORG</td><td>66</td></tr>
+<tr><td>gabon</td><td>GPE</td><td>65</td></tr>
+<tr><td>irr</td><td>ORG</td><td>65</td></tr>
+<tr><td>pid/isds</td><td>ORG</td><td>65</td></tr>
+<tr><td>paraguay</td><td>PERSON</td><td>65</td></tr>
+<tr><td>wfp</td><td>ORG</td><td>64</td></tr>
+<tr><td>esmp</td><td>ORG</td><td>63</td></tr>
+<tr><td>adb</td><td>ORG</td><td>63</td></tr>
+<tr><td>cameroon</td><td>LOC</td><td>62</td></tr>
+<tr><td>l u s</td><td>GPE</td><td>61</td></tr>
+<tr><td>congo</td><td>GPE</td><td>61</td></tr>
+<tr><td>cgiar</td><td>ORG</td><td>61</td></tr>
+<tr><td>eur</td><td>GPE</td><td>60</td></tr>
+<tr><td>namsip</td><td>ORG</td><td>59</td></tr>
+<tr><td>board</td><td>ORG</td><td>59</td></tr>
+<tr><td>bank group</td><td>ORG</td><td>59</td></tr>
+<tr><td>peoples op/bp</td><td>ORG</td><td>57</td></tr>
+<tr><td>o&m</td><td>ORG</td><td>57</td></tr>
+<tr><td>gafsp</td><td>ORG</td><td>55</td></tr>
+<tr><td>farmers</td><td>ORG</td><td>55</td></tr>
+<tr><td>total</td><td>ORG</td><td>55</td></tr>
+<tr><td>wash</td><td>ORG</td><td>55</td></tr>
+<tr><td>ppf</td><td>ORG</td><td>54</td></tr>
+<tr><td>the bank date</td><td>ORG</td><td>53</td></tr>
+<tr><td>sahel</td><td>PERSON</td><td>53</td></tr>
+<tr><td>ifc</td><td>ORG</td><td>53</td></tr>
+<tr><td>guinea-bissau</td><td>PERSON</td><td>52</td></tr>
+<tr><td>ffs</td><td>ORG</td><td>52</td></tr>
+<tr><td>ea</td><td>PERSON</td><td>52</td></tr>
+<tr><td>the african development bank</td><td>ORG</td><td>51</td></tr>
+<tr><td>yemen</td><td>GPE</td><td>51</td></tr>
+<tr><td>ii</td><td>ORG</td><td>51</td></tr>
+<tr><td>c. proposed development</td><td>PERSON</td><td>51</td></tr>
+<tr><td>mozambique</td><td>GPE</td><td>50</td></tr>
+<tr><td>guyana</td><td>GPE</td><td>50</td></tr>
+<tr><td>maharashtra</td><td>ORG</td><td>50</td></tr>
+<tr><td>rcn</td><td>ORG</td><td>50</td></tr>
+<tr><td>promifa</td><td>ORG</td><td>50</td></tr>
+<tr><td>punjab</td><td>PERSON</td><td>50</td></tr>
+<tr><td>boké</td><td>PERSON</td><td>49</td></tr>
+<tr><td>tbd</td><td>ORG</td><td>48</td></tr>
+<tr><td>serbia</td><td>GPE</td><td>48</td></tr>
+<tr><td>scd</td><td>ORG</td><td>48</td></tr>
+<tr><td>minagri</td><td>ORG</td><td>48</td></tr>
+<tr><td>mcrp</td><td>ORG</td><td>48</td></tr>
+<tr><td>i.</td><td>ORG</td><td>48</td></tr>
+<tr><td>south sudan</td><td>GPE</td><td>47</td></tr>
+<tr><td>pakistan</td><td>GPE</td><td>47</td></tr>
+<tr><td>north</td><td>LOC</td><td>47</td></tr>
+<tr><td>inra</td><td>ORG</td><td>47</td></tr>
+<tr><td>badf</td><td>ORG</td><td>46</td></tr>
+<tr><td>disputed areas op/bp</td><td>ORG</td><td>46</td></tr>
+<tr><td>gambia</td><td>GPE</td><td>46</td></tr>
+<tr><td>taat</td><td>ORG</td><td>46</td></tr>
+<tr><td>west africa</td><td>GPE</td><td>46</td></tr>
+<tr><td>gom</td><td>ORG</td><td>46</td></tr>
+<tr><td>the executing agency</td><td>ORG</td><td>45</td></tr>
+<tr><td>sa</td><td>ORG</td><td>45</td></tr>
+<tr><td>moa</td><td>ORG</td><td>45</td></tr>
+<tr><td>pmp</td><td>ORG</td><td>44</td></tr>
+<tr><td>pid</td><td>ORG</td><td>44</td></tr>
+<tr><td>moldova</td><td>GPE</td><td>44</td></tr>
+<tr><td>mauritania</td><td>GPE</td><td>44</td></tr>
+<tr><td>latin america</td><td>LOC</td><td>44</td></tr>
+<tr><td>firr</td><td>ORG</td><td>44</td></tr>
+<tr><td>afdb</td><td>PERSON</td><td>44</td></tr>
+<tr><td>life ex</td><td>ORG</td><td>43</td></tr>
+<tr><td>land bank</td><td>ORG</td><td>43</td></tr>
+<tr><td>pdcv-riz</td><td>ORG</td><td>43</td></tr>
+<tr><td>pagpa</td><td>ORG</td><td>42</td></tr>
+<tr><td>nanni</td><td>ORG</td><td>42</td></tr>
+<tr><td>lessons</td><td>ORG</td><td>42</td></tr>
+<tr><td>gni</td><td>ORG</td><td>42</td></tr>
+<tr><td>the bank group</td><td>ORG</td><td>42</td></tr>
+<tr><td>samoa</td><td>GPE</td><td>41</td></tr>
+<tr><td>rural development</td><td>ORG</td><td>41</td></tr>
+<tr><td>nombre</td><td>ORG</td><td>41</td></tr>
+<tr><td>got</td><td>ORG</td><td>40</td></tr>
+<tr><td>cerc</td><td>ORG</td><td>40</td></tr>
+<tr><td>diffa</td><td>GPE</td><td>40</td></tr>
+<tr><td>usaid</td><td>ORG</td><td>40</td></tr>
+<tr><td>nanni weir</td><td>ORG</td><td>40</td></tr>
+<tr><td>padaam</td><td>ORG</td><td>40</td></tr>
+<tr><td>environmental and</td><td>ORG</td><td>39</td></tr>
+<tr><td>oie</td><td>ORG</td><td>39</td></tr>
+<tr><td>masa</td><td>ORG</td><td>39</td></tr>
+<tr><td>rice</td><td>PERSON</td><td>39</td></tr>
+<tr><td>pceu</td><td>ORG</td><td>39</td></tr>
+<tr><td>tsf</td><td>PERSON</td><td>39</td></tr>
+<tr><td>the ministry of finance</td><td>ORG</td><td>38</td></tr>
+<tr><td>waemu</td><td>ORG</td><td>38</td></tr>
+<tr><td>mtr</td><td>ORG</td><td>38</td></tr>
+<tr><td>montenegro</td><td>GPE</td><td>37</td></tr>
+<tr><td>honduras</td><td>GPE</td><td>37</td></tr>
+<tr><td>c. environmental</td><td>PERSON</td><td>37</td></tr>
+<tr><td>afd</td><td>ORG</td><td>36</td></tr>
+<tr><td>bank policies</td><td>ORG</td><td>36</td></tr>
+<tr><td>ipm</td><td>ORG</td><td>36</td></tr>
+<tr><td>kp</td><td>ORG</td><td>36</td></tr>
+<tr><td>mifa</td><td>ORG</td><td>36</td></tr>
+<tr><td>operating regulations</td><td>ORG</td><td>36</td></tr>
+<tr><td>par</td><td>ORG</td><td>36</td></tr>
+<tr><td>un</td><td>ORG</td><td>36</td></tr>
+<tr><td>unicef</td><td>ORG</td><td>36</td></tr>
+<tr><td>the european union</td><td>ORG</td><td>36</td></tr>
+<tr><td>peu</td><td>PERSON</td><td>36</td></tr>
+<tr><td>icb</td><td>ORG</td><td>35</td></tr>
+<tr><td>bp</td><td>ORG</td><td>35</td></tr>
+<tr><td>basic project data ops table country project id parent project id</td><td>ORG</td><td>35</td></tr>
+<tr><td>feed africa</td><td>GPE</td><td>35</td></tr>
+<tr><td>mag</td><td>ORG</td><td>35</td></tr>
+<tr><td>pmt</td><td>ORG</td><td>35</td></tr>
+<tr><td>who</td><td>ORG</td><td>35</td></tr>
+<tr><td>the african development fund</td><td>ORG</td><td>35</td></tr>
+<tr><td>ucar</td><td>ORG</td><td>34</td></tr>
+<tr><td>ipmp</td><td>ORG</td><td>34</td></tr>
+<tr><td>safeguard policies triggered</td><td>ORG</td><td>34</td></tr>
+<tr><td>south</td><td>LOC</td><td>34</td></tr>
+<tr><td>upmp</td><td>ORG</td><td>34</td></tr>
+<tr><td>uruguay</td><td>GPE</td><td>34</td></tr>
+<tr><td>uzbekistan</td><td>ORG</td><td>34</td></tr>
+<tr><td>the project management unit</td><td>ORG</td><td>34</td></tr>
+<tr><td>the lake chad region</td><td>LOC</td><td>33</td></tr>
+<tr><td>nut</td><td>ORG</td><td>33</td></tr>
+<tr><td>the infoshop the world bank 1818 h street</td><td>ORG</td><td>33</td></tr>
+<tr><td>pmv</td><td>ORG</td><td>33</td></tr>
+<tr><td>isdb</td><td>ORG</td><td>33</td></tr>
+<tr><td>executive board</td><td>ORG</td><td>33</td></tr>
+<tr><td>appraisal stage pid/isds</td><td>ORG</td><td>33</td></tr>
+<tr><td>d. financial</td><td>ORG</td><td>32</td></tr>
+<tr><td>caribbean</td><td>LOC</td><td>32</td></tr>
+<tr><td>asia</td><td>LOC</td><td>32</td></tr>
+<tr><td>mgap</td><td>ORG</td><td>31</td></tr>
+<tr><td>brazil</td><td>GPE</td><td>31</td></tr>
+<tr><td>the board of directors</td><td>ORG</td><td>31</td></tr>
+<tr><td>moa</td><td>PERSON</td><td>31</td></tr>
+<tr><td>prepas</td><td>ORG</td><td>30</td></tr>
+<tr><td>the executive board</td><td>ORG</td><td>30</td></tr>
+<tr><td>annex</td><td>ORG</td><td>30</td></tr>
+<tr><td>baseline</td><td>ORG</td><td>30</td></tr>
+<tr><td>cote d’ivoire</td><td>GPE</td><td>30</td></tr>
+<tr><td>emf</td><td>ORG</td><td>30</td></tr>
+<tr><td>mofa</td><td>ORG</td><td>30</td></tr>
+<tr><td>asdu</td><td>PERSON</td><td>30</td></tr>
+<tr><td>programme</td><td>PERSON</td><td>30</td></tr>
+<tr><td>rplp</td><td>ORG</td><td>30</td></tr>
+<tr><td>sps</td><td>ORG</td><td>30</td></tr>
+<tr><td>treasury</td><td>ORG</td><td>30</td></tr>
+<tr><td>united states</td><td>GPE</td><td>30</td></tr>
+<tr><td>project management unit</td><td>ORG</td><td>30</td></tr>
+<tr><td>fd</td><td>ORG</td><td>29</td></tr>
+<tr><td>acronyms</td><td>PERSON</td><td>29</td></tr>
+<tr><td>agriculture</td><td>ORG</td><td>29</td></tr>
+<tr><td>b. borrower’s</td><td>PERSON</td><td>29</td></tr>
+<tr><td>european union</td><td>ORG</td><td>29</td></tr>
+<tr><td>mis</td><td>ORG</td><td>29</td></tr>
+<tr><td>pcmu</td><td>ORG</td><td>29</td></tr>
+<tr><td>the world bank resilient productive landscapes</td><td>ORG</td><td>29</td></tr>
+<tr><td>vietnam</td><td>GPE</td><td>29</td></tr>
+<tr><td>the project implementation unit</td><td>ORG</td><td>29</td></tr>
+<tr><td>le</td><td>GPE</td><td>28</td></tr>
+<tr><td>annex iii</td><td>ORG</td><td>28</td></tr>
+<tr><td>concept stage</td><td>ORG</td><td>28</td></tr>
+<tr><td>dem rep</td><td>ORG</td><td>28</td></tr>
+<tr><td>iv</td><td>ORG</td><td>28</td></tr>
+<tr><td>odisha</td><td>GPE</td><td>28</td></tr>
+<tr><td>unsd</td><td>ORG</td><td>28</td></tr>
+<tr><td>urc</td><td>ORG</td><td>28</td></tr>
+<tr><td>urt</td><td>ORG</td><td>28</td></tr>
+<tr><td>the borrower/recipient</td><td>ORG</td><td>28</td></tr>
+<tr><td>prosap</td><td>ORG</td><td>27</td></tr>
+<tr><td>afdb statistics department databases</td><td>ORG</td><td>27</td></tr>
+<tr><td>bpm</td><td>ORG</td><td>27</td></tr>
+<tr><td>gou</td><td>ORG</td><td>27</td></tr>
+<tr><td>lake chad</td><td>LOC</td><td>27</td></tr>
+<tr><td>mt</td><td>ORG</td><td>27</td></tr>
+<tr><td>waapp</td><td>ORG</td><td>27</td></tr>
+<tr><td>wbg</td><td>ORG</td><td>27</td></tr>
+<tr><td>world bank: world development indicators</td><td>ORG</td><td>27</td></tr>
+<tr><td>mm</td><td>PERSON</td><td>27</td></tr>
+<tr><td>the regional environment unit</td><td>ORG</td><td>27</td></tr>
+<tr><td>pse</td><td>ORG</td><td>26</td></tr>
+<tr><td>car</td><td>ORG</td><td>26</td></tr>
+<tr><td>esmr</td><td>ORG</td><td>26</td></tr>
+<tr><td>kolda</td><td>PERSON</td><td>26</td></tr>
+<tr><td>mawf</td><td>ORG</td><td>26</td></tr>
+<tr><td>ministry of finance</td><td>ORG</td><td>26</td></tr>
+<tr><td>tunisia</td><td>GPE</td><td>26</td></tr>
+<tr><td>regional</td><td>ORG</td><td>26</td></tr>
+<tr><td>south africa</td><td>GPE</td><td>26</td></tr>
+<tr><td>sub-saharan africa</td><td>LOC</td><td>26</td></tr>
+<tr><td>the project development objective</td><td>ORG</td><td>26</td></tr>
+<tr><td>the ministry of rural development</td><td>ORG</td><td>26</td></tr>
+<tr><td>popul</td><td>PERSON</td><td>25</td></tr>
+<tr><td>bafata</td><td>PERSON</td><td>25</td></tr>
+<tr><td>casamance</td><td>ORG</td><td>25</td></tr>
+<tr><td>lessons reflected</td><td>ORG</td><td>25</td></tr>
+<tr><td>maf</td><td>ORG</td><td>25</td></tr>
+<tr><td>maratakka spillway-</td><td>ORG</td><td>25</td></tr>
+<tr><td>mid-term review</td><td>ORG</td><td>25</td></tr>
+<tr><td>p166072</td><td>PERSON</td><td>25</td></tr>
+<tr><td>safeguards a.</td><td>PERSON</td><td>25</td></tr>
+<tr><td>trip ii</td><td>ORG</td><td>25</td></tr>
+<tr><td>total land area</td><td>LOC</td><td>25</td></tr>
+<tr><td>trained health personnel</td><td>ORG</td><td>25</td></tr>
+<tr><td>west</td><td>LOC</td><td>25</td></tr>
+<tr><td>du programme</td><td>ORG</td><td>25</td></tr>
+<tr><td>rome</td><td>GPE</td><td>25</td></tr>
+<tr><td>drd</td><td>ORG</td><td>24</td></tr>
+<tr><td>lebanon</td><td>GPE</td><td>24</td></tr>
+<tr><td>basic project data country project id project name parent project</td><td>ORG</td><td>24</td></tr>
+<tr><td>birth - female</td><td>ORG</td><td>24</td></tr>
+<tr><td>birth - total</td><td>ORG</td><td>24</td></tr>
+<tr><td>contact point world bank</td><td>ORG</td><td>24</td></tr>
+<tr><td>imf</td><td>ORG</td><td>24</td></tr>
+<tr><td>ipard</td><td>ORG</td><td>24</td></tr>
+<tr><td>maldives</td><td>GPE</td><td>24</td></tr>
+<tr><td>prodivac</td><td>ORG</td><td>24</td></tr>
+<tr><td>portal</td><td>ORG</td><td>24</td></tr>
+<tr><td>samriddhi</td><td>GPE</td><td>24</td></tr>
+<tr><td>thrust</td><td>PERSON</td><td>24</td></tr>
+<tr><td>world bank contact</td><td>ORG</td><td>24</td></tr>
+<tr><td>the groundnut basin</td><td>LOC</td><td>24</td></tr>
+<tr><td>the world bank''s</td><td>ORG</td><td>24</td></tr>
+<tr><td>eic</td><td>ORG</td><td>23</td></tr>
+<tr><td>infoshop</td><td>LOC</td><td>23</td></tr>
+<tr><td>igad</td><td>ORG</td><td>23</td></tr>
+<tr><td>ict</td><td>ORG</td><td>23</td></tr>
+<tr><td>guatemala</td><td>GPE</td><td>23</td></tr>
+<tr><td>europe</td><td>LOC</td><td>23</td></tr>
+<tr><td>liv ing</td><td>PERSON</td><td>23</td></tr>
+<tr><td>côte d’ivoire</td><td>GPE</td><td>23</td></tr>
+<tr><td>countries basic indicators area</td><td>ORG</td><td>23</td></tr>
+<tr><td>children (%</td><td>ORG</td><td>23</td></tr>
+<tr><td>csd/rnd</td><td>ORG</td><td>23</td></tr>
+<tr><td>agricultural</td><td>ORG</td><td>23</td></tr>
+<tr><td>african agricultural transformation</td><td>ORG</td><td>23</td></tr>
+<tr><td>kosovo</td><td>GPE</td><td>23</td></tr>
+<tr><td>madr</td><td>ORG</td><td>23</td></tr>
+<tr><td>liv ing w</td><td>PERSON</td><td>23</td></tr>
+<tr><td>project financing data</td><td>ORG</td><td>23</td></tr>
+<tr><td>the inter-american development bank</td><td>ORG</td><td>23</td></tr>
+<tr><td>du projet</td><td>ORG</td><td>23</td></tr>
+<tr><td>social impacts</td><td>ORG</td><td>23</td></tr>
+<tr><td>sdf</td><td>ORG</td><td>23</td></tr>
+<tr><td>project management</td><td>ORG</td><td>23</td></tr>
+<tr><td>technical</td><td>ORG</td><td>23</td></tr>
+<tr><td>pnia</td><td>ORG</td><td>23</td></tr>
+<tr><td>padidfa</td><td>ORG</td><td>23</td></tr>
+<tr><td>padecas</td><td>ORG</td><td>23</td></tr>
+<tr><td>oecd</td><td>ORG</td><td>23</td></tr>
+<tr><td>mosap</td><td>ORG</td><td>23</td></tr>
+<tr><td>ministry</td><td>ORG</td><td>22</td></tr>
+<tr><td>african development bank</td><td>ORG</td><td>22</td></tr>
+<tr><td>development partners</td><td>ORG</td><td>22</td></tr>
+<tr><td>financing structure</td><td>ORG</td><td>22</td></tr>
+<tr><td>gender</td><td>PERSON</td><td>22</td></tr>
+<tr><td>grenada</td><td>GPE</td><td>22</td></tr>
+<tr><td>indc</td><td>ORG</td><td>22</td></tr>
+<tr><td>jamaica</td><td>GPE</td><td>22</td></tr>
+<tr><td>m&e</td><td>ORG</td><td>22</td></tr>
+<tr><td>oecs</td><td>ORG</td><td>22</td></tr>
+<tr><td>national</td><td>ORG</td><td>22</td></tr>
+<tr><td>pad</td><td>PERSON</td><td>22</td></tr>
+<tr><td>resepag ii</td><td>ORG</td><td>22</td></tr>
+<tr><td>sdg</td><td>ORG</td><td>22</td></tr>
+<tr><td>sri lanka</td><td>GPE</td><td>22</td></tr>
+<tr><td>the executive board</td><td>ORG</td><td>22</td></tr>
+<tr><td>the agreement establishing ifad</td><td>ORG</td><td>22</td></tr>
+<tr><td>the ministry of agriculture and forestry</td><td>ORG</td><td>22</td></tr>
+<tr><td>the steering committee</td><td>ORG</td><td>22</td></tr>
+<tr><td>c. proposed development objective(s</td><td>PERSON</td><td>21</td></tr>
+<tr><td>iwrm</td><td>ORG</td><td>21</td></tr>
+<tr><td>isds</td><td>ORG</td><td>21</td></tr>
+<tr><td>ilo</td><td>ORG</td><td>21</td></tr>
+<tr><td>côte</td><td>GPE</td><td>21</td></tr>
+<tr><td>avdp</td><td>ORG</td><td>21</td></tr>
+<tr><td>annex ii</td><td>ORG</td><td>21</td></tr>
+<tr><td>albania</td><td>GPE</td><td>21</td></tr>
+<tr><td>agropoles</td><td>ORG</td><td>21</td></tr>
+<tr><td>implementation arrangements</td><td>ORG</td><td>21</td></tr>
+<tr><td>impacts</td><td>ORG</td><td>21</td></tr>
+<tr><td>the general conditions</td><td>ORG</td><td>21</td></tr>
+<tr><td>mofa</td><td>ORG</td><td>21</td></tr>
+<tr><td>nares</td><td>PERSON</td><td>21</td></tr>
+<tr><td>natp-ii</td><td>ORG</td><td>21</td></tr>
+<tr><td>p160606</td><td>PERSON</td><td>21</td></tr>
+<tr><td>states</td><td>GPE</td><td>21</td></tr>
+<tr><td>the lead project agency</td><td>ORG</td><td>21</td></tr>
+<tr><td>h1 world bank group financing international development association</td><td>ORG</td><td>21</td></tr>
+<tr><td>the lake chad</td><td>ORG</td><td>21</td></tr>
+<tr><td>the project steering committee</td><td>ORG</td><td>21</td></tr>
+<tr><td>ministry of agriculture</td><td>ORG</td><td>21</td></tr>
+<tr><td>gol</td><td>ORG</td><td>20</td></tr>
+<tr><td>fonsis</td><td>ORG</td><td>20</td></tr>
+<tr><td>goa</td><td>ORG</td><td>20</td></tr>
+<tr><td>health & nutrition indicators</td><td>ORG</td><td>20</td></tr>
+<tr><td>health</td><td>ORG</td><td>20</td></tr>
+<tr><td>e. safeguard preparation plan tentative</td><td>ORG</td><td>20</td></tr>
+<tr><td>eia</td><td>ORG</td><td>20</td></tr>
+<tr><td>bl-bo</td><td>ORG</td><td>20</td></tr>
+<tr><td>donee</td><td>PERSON</td><td>20</td></tr>
+<tr><td>drslp</td><td>ORG</td><td>20</td></tr>
+<tr><td>cambodia</td><td>GPE</td><td>20</td></tr>
+<tr><td>c. compliance monitoring indicators</td><td>PERSON</td><td>20</td></tr>
+<tr><td>ap</td><td>ORG</td><td>20</td></tr>
+<tr><td>irrigated agriculture project</td><td>ORG</td><td>20</td></tr>
+<tr><td>irriga</td><td>ORG</td><td>20</td></tr>
+<tr><td>social risks</td><td>ORG</td><td>20</td></tr>
+<tr><td>ne</td><td>GPE</td><td>20</td></tr>
+<tr><td>social management plan</td><td>ORG</td><td>20</td></tr>
+<tr><td>acronyms ii map</td><td>PERSON</td><td>20</td></tr>
+<tr><td>un</td><td>ORG</td><td>20</td></tr>
+<tr><td>tnd</td><td>ORG</td><td>20</td></tr>
+<tr><td>tcep ii</td><td>ORG</td><td>20</td></tr>
+<tr><td>the democratic republic of congo</td><td>GPE</td><td>20</td></tr>
+<tr><td>ntf</td><td>ORG</td><td>20</td></tr>
+<tr><td>summary</td><td>ORG</td><td>20</td></tr>
+<tr><td>ptta/resepag</td><td>ORG</td><td>20</td></tr>
+<tr><td>peja</td><td>ORG</td><td>20</td></tr>
+<tr><td>pacba</td><td>ORG</td><td>20</td></tr>
+<tr><td>natural resources</td><td>ORG</td><td>20</td></tr>
+<tr><td>rural economic transformation project</td><td>ORG</td><td>20</td></tr>
+<tr><td>f. project</td><td>ORG</td><td>19</td></tr>
+<tr><td>luhansk</td><td>PERSON</td><td>19</td></tr>
+<tr><td>legal instrument</td><td>ORG</td><td>19</td></tr>
+<tr><td>lac</td><td>ORG</td><td>19</td></tr>
+<tr><td>italy</td><td>GPE</td><td>19</td></tr>
+<tr><td>international development association</td><td>ORG</td><td>19</td></tr>
+<tr><td>guangxi</td><td>GPE</td><td>19</td></tr>
+<tr><td>clearinghouse</td><td>ORG</td><td>19</td></tr>
+<tr><td>e. risk</td><td>PERSON</td><td>19</td></tr>
+<tr><td>dpo</td><td>ORG</td><td>19</td></tr>
+<tr><td>brazzaville</td><td>GPE</td><td>19</td></tr>
+<tr><td>aimu</td><td>ORG</td><td>19</td></tr>
+<tr><td>aecid</td><td>ORG</td><td>19</td></tr>
+<tr><td>narei</td><td>ORG</td><td>19</td></tr>
+<tr><td>maep</td><td>ORG</td><td>19</td></tr>
+<tr><td>nsc</td><td>ORG</td><td>19</td></tr>
+<tr><td>the project coordination unit</td><td>ORG</td><td>19</td></tr>
+<tr><td>social impact</td><td>ORG</td><td>19</td></tr>
+<tr><td>the project implementation manual</td><td>ORG</td><td>19</td></tr>
+<tr><td>pdzsta-kb</td><td>ORG</td><td>19</td></tr>
+<tr><td>the environmental assessment/audit</td><td>ORG</td><td>19</td></tr>
+<tr><td>the council of ministers</td><td>ORG</td><td>19</td></tr>
+<tr><td>ukraine</td><td>GPE</td><td>19</td></tr>
+<tr><td>southern africa</td><td>LOC</td><td>19</td></tr>
+<tr><td>tonga</td><td>GPE</td><td>19</td></tr>
+<tr><td>scpz</td><td>ORG</td><td>19</td></tr>
+<tr><td>sadp</td><td>ORG</td><td>19</td></tr>
+<tr><td>rvp</td><td>ORG</td><td>19</td></tr>
+<tr><td>rpdp</td><td>ORG</td><td>19</td></tr>
+<tr><td>project steering committee</td><td>ORG</td><td>19</td></tr>
+<tr><td>pnd</td><td>ORG</td><td>19</td></tr>
+<tr><td>financial management</td><td>ORG</td><td>18</td></tr>
+<tr><td>iita</td><td>ORG</td><td>18</td></tr>
+<tr><td>gilbert f. houngbo</td><td>PERSON</td><td>18</td></tr>
+<tr><td>glda</td><td>ORG</td><td>18</td></tr>
+<tr><td>gbv</td><td>ORG</td><td>18</td></tr>
+<tr><td>g. environmental</td><td>PERSON</td><td>18</td></tr>
+<tr><td>nd</td><td>GPE</td><td>18</td></tr>
+<tr><td>fnda</td><td>ORG</td><td>18</td></tr>
+<tr><td>euro</td><td>ORG</td><td>18</td></tr>
+<tr><td>convenio</td><td>GPE</td><td>18</td></tr>
+<tr><td>csi</td><td>ORG</td><td>18</td></tr>
+<tr><td>concept note np modernization of rani</td><td>ORG</td><td>18</td></tr>
+<tr><td>awp</td><td>ORG</td><td>18</td></tr>
+<tr><td>mail</td><td>ORG</td><td>18</td></tr>
+<tr><td>jamara kulariya</td><td>PERSON</td><td>18</td></tr>
+<tr><td>national agricultural research and extension systems</td><td>ORG</td><td>18</td></tr>
+<tr><td>trip</td><td>ORG</td><td>18</td></tr>
+<tr><td>national development plan</td><td>ORG</td><td>18</td></tr>
+<tr><td>the united nations</td><td>ORG</td><td>18</td></tr>
+<tr><td>the ministry of agriculture and livestock</td><td>ORG</td><td>18</td></tr>
+<tr><td>the world bank burkina faso agriculture resilience and competitiveness project (p167945)</td><td>ORG</td><td>18</td></tr>
+<tr><td>tt</td><td>ORG</td><td>18</td></tr>
+<tr><td>the bank group</td><td>ORG</td><td>18</td></tr>
+<tr><td>santa cruz</td><td>GPE</td><td>18</td></tr>
+<tr><td>smf</td><td>ORG</td><td>18</td></tr>
+<tr><td>sap</td><td>ORG</td><td>18</td></tr>
+<tr><td>rllp</td><td>ORG</td><td>18</td></tr>
+<tr><td>psge</td><td>ORG</td><td>18</td></tr>
+<tr><td>nepal</td><td>GPE</td><td>18</td></tr>
+<tr><td>ecowas</td><td>ORG</td><td>17</td></tr>
+<tr><td>integrated pest management</td><td>ORG</td><td>17</td></tr>
+<tr><td>ipf</td><td>ORG</td><td>17</td></tr>
+<tr><td>ifad cooperating</td><td>ORG</td><td>17</td></tr>
+<tr><td>icar</td><td>ORG</td><td>17</td></tr>
+<tr><td>email</td><td>ORG</td><td>17</td></tr>
+<tr><td>apz</td><td>ORG</td><td>17</td></tr>
+<tr><td>condiciones generales</td><td>PERSON</td><td>17</td></tr>
+<tr><td>completion of project status</td><td>ORG</td><td>17</td></tr>
+<tr><td>ble op/bp</td><td>ORG</td><td>17</td></tr>
+<tr><td>b. alignment</td><td>ORG</td><td>17</td></tr>
+<tr><td>african development fund</td><td>ORG</td><td>17</td></tr>
+<tr><td>avcp</td><td>ORG</td><td>17</td></tr>
+<tr><td>mad</td><td>ORG</td><td>17</td></tr>
+<tr><td>ldcf</td><td>ORG</td><td>17</td></tr>
+<tr><td>kanayo f. nwanze</td><td>PERSON</td><td>17</td></tr>
+<tr><td>ndc</td><td>ORG</td><td>17</td></tr>
+<tr><td>sme</td><td>ORG</td><td>17</td></tr>
+<tr><td>netherlands</td><td>GPE</td><td>17</td></tr>
+<tr><td>the united republic of tanzania</td><td>GPE</td><td>17</td></tr>
+<tr><td>the ministry of environment</td><td>ORG</td><td>17</td></tr>
+<tr><td>vat</td><td>ORG</td><td>17</td></tr>
+<tr><td>the ministry of agriculture</td><td>ORG</td><td>17</td></tr>
+<tr><td>summary-n ewfin1</td><td>ORG</td><td>17</td></tr>
+<tr><td>the world bank lake chad region recovery and development project (p161706</td><td>ORG</td><td>17</td></tr>
+<tr><td>sce</td><td>ORG</td><td>17</td></tr>
+<tr><td>resilient rain-fed</td><td>PERSON</td><td>17</td></tr>
+<tr><td>png</td><td>ORG</td><td>17</td></tr>
+<tr><td>pm_c</td><td>PERSON</td><td>17</td></tr>
+<tr><td>pcr</td><td>ORG</td><td>17</td></tr>
+<tr><td>northern</td><td>LOC</td><td>17</td></tr>
+<tr><td>canada</td><td>GPE</td><td>16</td></tr>
+<tr><td>lsi</td><td>ORG</td><td>16</td></tr>
+<tr><td>kabul</td><td>GPE</td><td>16</td></tr>
+<tr><td>juba</td><td>PERSON</td><td>16</td></tr>
+<tr><td>ivorian</td><td>GPE</td><td>16</td></tr>
+<tr><td>faw</td><td>ORG</td><td>16</td></tr>
+<tr><td>eastern</td><td>ORG</td><td>16</td></tr>
+<tr><td>epa</td><td>ORG</td><td>16</td></tr>
+<tr><td>abc</td><td>ORG</td><td>16</td></tr>
+<tr><td>concept stage report</td><td>ORG</td><td>16</td></tr>
+<tr><td>cca</td><td>ORG</td><td>16</td></tr>
+<tr><td>c. planning</td><td>PERSON</td><td>16</td></tr>
+<tr><td>bolivian</td><td>ORG</td><td>16</td></tr>
+<tr><td>boko haram</td><td>PERSON</td><td>16</td></tr>
+<tr><td>annex b5</td><td>ORG</td><td>16</td></tr>
+<tr><td>luhansk oblast</td><td>PERSON</td><td>16</td></tr>
+<tr><td>logical</td><td>PERSON</td><td>16</td></tr>
+<tr><td>cimmyt</td><td>ORG</td><td>16</td></tr>
+<tr><td>npco</td><td>ORG</td><td>16</td></tr>
+<tr><td>rationale for bank</td><td>ORG</td><td>16</td></tr>
+<tr><td>oio</td><td>PERSON</td><td>16</td></tr>
+<tr><td>the world bank maharashtra project on climate resilient agriculture</td><td>ORG</td><td>16</td></tr>
+<tr><td>the world bank khyber pakhthunkhwa irrigated agriculture improvement project</td><td>ORG</td><td>16</td></tr>
+<tr><td>tel</td><td>PERSON</td><td>16</td></tr>
+<tr><td>tralard</td><td>ORG</td><td>16</td></tr>
+<tr><td>sop</td><td>ORG</td><td>16</td></tr>
+<tr><td>the world bank group</td><td>ORG</td><td>16</td></tr>
+<tr><td>the world bank yemen food security response and resilience project (p176129</td><td>ORG</td><td>16</td></tr>
+<tr><td>population density</td><td>ORG</td><td>16</td></tr>
+<tr><td>pniasan</td><td>ORG</td><td>16</td></tr>
+<tr><td>pa</td><td>ORG</td><td>16</td></tr>
+<tr><td>p173104</td><td>ORG</td><td>16</td></tr>
+<tr><td>p165129</td><td>PERSON</td><td>16</td></tr>
+<tr><td>p164764</td><td>ORG</td><td>16</td></tr>
+<tr><td>para</td><td>PERSON</td><td>16</td></tr>
+<tr><td>hdp</td><td>ORG</td><td>15</td></tr>
+<tr><td>ove</td><td>ORG</td><td>15</td></tr>
+<tr><td>nretp</td><td>ORG</td><td>15</td></tr>
+<tr><td>nco</td><td>ORG</td><td>15</td></tr>
+<tr><td>lessons learned</td><td>ORG</td><td>15</td></tr>
+<tr><td>l.c.</td><td>GPE</td><td>15</td></tr>
+<tr><td>kirundo</td><td>GPE</td><td>15</td></tr>
+<tr><td>dli</td><td>ORG</td><td>15</td></tr>
+<tr><td>france</td><td>GPE</td><td>15</td></tr>
+<tr><td>fara</td><td>ORG</td><td>15</td></tr>
+<tr><td>el salvador</td><td>GPE</td><td>15</td></tr>
+<tr><td>d. concept description</td><td>PERSON</td><td>15</td></tr>
+<tr><td>chin</td><td>PERSON</td><td>15</td></tr>
+<tr><td>cb</td><td>ORG</td><td>15</td></tr>
+<tr><td>p172562</td><td>GPE</td><td>15</td></tr>
+<tr><td>p166279</td><td>PERSON</td><td>15</td></tr>
+<tr><td>p166222</td><td>GPE</td><td>15</td></tr>
+<tr><td>pap</td><td>ORG</td><td>15</td></tr>
+<tr><td>the world bank ap integrated irrigation& agriculture transformation project</td><td>ORG</td><td>15</td></tr>
+<tr><td>the republic of liberia</td><td>GPE</td><td>15</td></tr>
+<tr><td>the ministry of agriculture and food security</td><td>ORG</td><td>15</td></tr>
+<tr><td>the loan agreement</td><td>ORG</td><td>15</td></tr>
+<tr><td>the environmental and social management plan</td><td>ORG</td><td>15</td></tr>
+<tr><td>the world bank integrated management of agricultural risk</td><td>ORG</td><td>15</td></tr>
+<tr><td>the world bank afghanistan strategic grain reserve</td><td>ORG</td><td>15</td></tr>
+<tr><td>the world bank transforming</td><td>ORG</td><td>15</td></tr>
+<tr><td>steering committee</td><td>ORG</td><td>15</td></tr>
+<tr><td>svg</td><td>ORG</td><td>15</td></tr>
+<tr><td>sc</td><td>ORG</td><td>15</td></tr>
+<tr><td>roc</td><td>GPE</td><td>15</td></tr>
+<tr><td>per capita</td><td>PERSON</td><td>15</td></tr>
+<tr><td>party</td><td>ORG</td><td>15</td></tr>
+<tr><td>pdpfa-gz</td><td>ORG</td><td>15</td></tr>
+<tr><td>cta</td><td>ORG</td><td>14</td></tr>
+<tr><td>inrm</td><td>GPE</td><td>14</td></tr>
+<tr><td>ilri</td><td>ORG</td><td>14</td></tr>
+<tr><td>general conditions</td><td>ORG</td><td>14</td></tr>
+<tr><td>disb</td><td>GPE</td><td>14</td></tr>
+<tr><td>dem</td><td>ORG</td><td>14</td></tr>
+<tr><td>competitive agriculture project</td><td>ORG</td><td>14</td></tr>
+<tr><td>child immunization against measles</td><td>ORG</td><td>14</td></tr>
+<tr><td>capita</td><td>ORG</td><td>14</td></tr>
+<tr><td>african development bank</td><td>ORG</td><td>14</td></tr>
+<tr><td>ciat</td><td>ORG</td><td>14</td></tr>
+<tr><td>cbl</td><td>ORG</td><td>14</td></tr>
+<tr><td>c. components/</td><td>PERSON</td><td>14</td></tr>
+<tr><td>basic project data country</td><td>ORG</td><td>14</td></tr>
+<tr><td>appui</td><td>ORG</td><td>14</td></tr>
+<tr><td>adamawa</td><td>GPE</td><td>14</td></tr>
+<tr><td>avc</td><td>ORG</td><td>14</td></tr>
+<tr><td>maman-sani</td><td>PERSON</td><td>14</td></tr>
+<tr><td>2 c. components</td><td>PERSON</td><td>14</td></tr>
+<tr><td>lpa</td><td>ORG</td><td>14</td></tr>
+<tr><td>the world bank digital solutions for sustainable development (p160418</td><td>ORG</td><td>14</td></tr>
+<tr><td>matam</td><td>GPE</td><td>14</td></tr>
+<tr><td>the world bank transformation of agriculture sector program</td><td>ORG</td><td>14</td></tr>
+<tr><td>naip</td><td>ORG</td><td>14</td></tr>
+<tr><td>the ta program</td><td>ORG</td><td>14</td></tr>
+<tr><td>the environmental and social management framework</td><td>ORG</td><td>14</td></tr>
+<tr><td>the central bank</td><td>ORG</td><td>14</td></tr>
+<tr><td>al.</td><td>GPE</td><td>14</td></tr>
+<tr><td>ua thousand</td><td>ORG</td><td>14</td></tr>
+<tr><td>the world bank women''s economic empowerment rural development project</td><td>ORG</td><td>14</td></tr>
+<tr><td>the world bank uganda irrigation modernisation project</td><td>ORG</td><td>14</td></tr>
+<tr><td>united nations</td><td>ORG</td><td>14</td></tr>
+<tr><td>tahoua</td><td>PERSON</td><td>14</td></tr>
+<tr><td>socio-economic development project</td><td>ORG</td><td>14</td></tr>
+<tr><td>social</td><td>ORG</td><td>14</td></tr>
+<tr><td>ssa</td><td>ORG</td><td>14</td></tr>
+<tr><td>resepag</td><td>ORG</td><td>14</td></tr>
+<tr><td>poyang lake</td><td>PERSON</td><td>14</td></tr>
+<tr><td>observations value year</td><td>ORG</td><td>14</td></tr>
+<tr><td>tambacounda</td><td>GPE</td><td>14</td></tr>
+<tr><td>ncb</td><td>ORG</td><td>14</td></tr>
+<tr><td>national steering committee</td><td>ORG</td><td>13</td></tr>
+<tr><td>koulikoro</td><td>GPE</td><td>13</td></tr>
+<tr><td>govt</td><td>ORG</td><td>13</td></tr>
+<tr><td>halepp</td><td>ORG</td><td>13</td></tr>
+<tr><td>ippf</td><td>ORG</td><td>13</td></tr>
+<tr><td>kcsap</td><td>ORG</td><td>13</td></tr>
+<tr><td>ndp</td><td>ORG</td><td>13</td></tr>
+<tr><td>mof</td><td>ORG</td><td>13</td></tr>
+<tr><td>mru</td><td>ORG</td><td>13</td></tr>
+<tr><td>nars</td><td>ORG</td><td>13</td></tr>
+<tr><td>nsp</td><td>ORG</td><td>13</td></tr>
+<tr><td>gis</td><td>ORG</td><td>13</td></tr>
+<tr><td>goi</td><td>ORG</td><td>13</td></tr>
+<tr><td>barc</td><td>ORG</td><td>13</td></tr>
+<tr><td>gcf</td><td>ORG</td><td>13</td></tr>
+<tr><td>gap</td><td>ORG</td><td>13</td></tr>
+<tr><td>forest</td><td>ORG</td><td>13</td></tr>
+<tr><td>esia</td><td>ORG</td><td>13</td></tr>
+<tr><td>esc</td><td>ORG</td><td>13</td></tr>
+<tr><td>eop</td><td>ORG</td><td>13</td></tr>
+<tr><td>e&s</td><td>ORG</td><td>13</td></tr>
+<tr><td>climate change</td><td>ORG</td><td>13</td></tr>
+<tr><td>cpmu</td><td>ORG</td><td>13</td></tr>
+<tr><td>africarice</td><td>ORG</td><td>13</td></tr>
+<tr><td>aredp</td><td>ORG</td><td>13</td></tr>
+<tr><td>aacp</td><td>ORG</td><td>13</td></tr>
+<tr><td>otr</td><td>ORG</td><td>13</td></tr>
+<tr><td>norway</td><td>GPE</td><td>13</td></tr>
+<tr><td>mid-term</td><td>ORG</td><td>13</td></tr>
+<tr><td>p163980</td><td>PERSON</td><td>13</td></tr>
+<tr><td>the world bank integrated project for source sustainability</td><td>ORG</td><td>13</td></tr>
+<tr><td>p164226</td><td>GPE</td><td>13</td></tr>
+<tr><td>the technical annexes</td><td>ORG</td><td>13</td></tr>
+<tr><td>the republic of haiti</td><td>GPE</td><td>13</td></tr>
+<tr><td>the national development plan</td><td>ORG</td><td>13</td></tr>
+<tr><td>the ministry of agriculture and rural development</td><td>ORG</td><td>13</td></tr>
+<tr><td>the corporate level</td><td>ORG</td><td>13</td></tr>
+<tr><td>the bank’s board of executive directors</td><td>ORG</td><td>13</td></tr>
+<tr><td>kg</td><td>PERSON</td><td>13</td></tr>
+<tr><td>xdr</td><td>ORG</td><td>13</td></tr>
+<tr><td>world bank contact:</td><td>ORG</td><td>13</td></tr>
+<tr><td>v. contact</td><td>PERSON</td><td>13</td></tr>
+<tr><td>tomato</td><td>PERSON</td><td>13</td></tr>
+<tr><td>max</td><td>PERSON</td><td>13</td></tr>
+<tr><td>the world bank groundnut competitiveness and agriculture diversification project</td><td>ORG</td><td>13</td></tr>
+<tr><td>pest management</td><td>ORG</td><td>13</td></tr>
+<tr><td>p165873</td><td>ORG</td><td>13</td></tr>
+<tr><td>tor</td><td>ORG</td><td>13</td></tr>
+<tr><td>p175588</td><td>ORG</td><td>13</td></tr>
+<tr><td>pf</td><td>ORG</td><td>13</td></tr>
+<tr><td>ppd</td><td>ORG</td><td>13</td></tr>
+<tr><td>the world food programme</td><td>ORG</td><td>13</td></tr>
+<tr><td>rcfi</td><td>ORG</td><td>13</td></tr>
+<tr><td>results</td><td>ORG</td><td>13</td></tr>
+<tr><td>rm</td><td>ORG</td><td>13</td></tr>
+<tr><td>sep</td><td>ORG</td><td>13</td></tr>
+<tr><td>social assessment</td><td>ORG</td><td>13</td></tr>
+<tr><td>environmental</td><td>PERSON</td><td>12</td></tr>
+<tr><td>ikugh</td><td>ORG</td><td>12</td></tr>
+<tr><td>f. environmental and</td><td>ORG</td><td>12</td></tr>
+<tr><td>fdi</td><td>ORG</td><td>12</td></tr>
+<tr><td>fonds</td><td>GPE</td><td>12</td></tr>
+<tr><td>giz</td><td>ORG</td><td>12</td></tr>
+<tr><td>goods</td><td>ORG</td><td>12</td></tr>
+<tr><td>la</td><td>GPE</td><td>12</td></tr>
+<tr><td>ip</td><td>ORG</td><td>12</td></tr>
+<tr><td>integrated pest management plan</td><td>ORG</td><td>12</td></tr>
+<tr><td>international waterways op 7.50</td><td>ORG</td><td>12</td></tr>
+<tr><td>kenya marine fisheries</td><td>ORG</td><td>12</td></tr>
+<tr><td>las</td><td>GPE</td><td>12</td></tr>
+<tr><td>eastern ukraine</td><td>ORG</td><td>12</td></tr>
+<tr><td>ecuador</td><td>GPE</td><td>12</td></tr>
+<tr><td>avcdp</td><td>ORG</td><td>12</td></tr>
+<tr><td>ddrr</td><td>GPE</td><td>12</td></tr>
+<tr><td>conditions precedent</td><td>ORG</td><td>12</td></tr>
+<tr><td>component ii</td><td>GPE</td><td>12</td></tr>
+<tr><td>component 2</td><td>ORG</td><td>12</td></tr>
+<tr><td>climate smart agriculture program</td><td>ORG</td><td>12</td></tr>
+<tr><td>central</td><td>LOC</td><td>12</td></tr>
+<tr><td>coraf</td><td>ORG</td><td>12</td></tr>
+<tr><td>cgiar climate research for africa</td><td>ORG</td><td>12</td></tr>
+<tr><td>borno</td><td>ORG</td><td>12</td></tr>
+<tr><td>bamako</td><td>GPE</td><td>12</td></tr>
+<tr><td>bd</td><td>GPE</td><td>12</td></tr>
+<tr><td>b. programme</td><td>PERSON</td><td>12</td></tr>
+<tr><td>maradi</td><td>ORG</td><td>12</td></tr>
+<tr><td>avacyep</td><td>ORG</td><td>12</td></tr>
+<tr><td>1.1.3</td><td>ORG</td><td>12</td></tr>
+<tr><td>maaif</td><td>GPE</td><td>12</td></tr>
+<tr><td>jica</td><td>ORG</td><td>12</td></tr>
+<tr><td>moe</td><td>ORG</td><td>12</td></tr>
+<tr><td>social management framework</td><td>ORG</td><td>12</td></tr>
+<tr><td>mof</td><td>ORG</td><td>12</td></tr>
+<tr><td>the united states</td><td>GPE</td><td>12</td></tr>
+<tr><td>the plurinational state of bolivia</td><td>ORG</td><td>12</td></tr>
+<tr><td>the pforr program</td><td>ORG</td><td>12</td></tr>
+<tr><td>the international fund for agricultural development</td><td>ORG</td><td>12</td></tr>
+<tr><td>zinder</td><td>PERSON</td><td>12</td></tr>
+<tr><td>zaghouan</td><td>GPE</td><td>12</td></tr>
+<tr><td>u.s.</td><td>GPE</td><td>12</td></tr>
+<tr><td>the world bank png agriculture commercialization and diversification project</td><td>ORG</td><td>12</td></tr>
+<tr><td>the world bank integrating innovation for rural competitiveness</td><td>ORG</td><td>12</td></tr>
+<tr><td>the world bank guinea integrated agricultural development project</td><td>ORG</td><td>12</td></tr>
+<tr><td>the world bank congo commercial agriculture project (p159979</td><td>ORG</td><td>12</td></tr>
+<tr><td>the world bank 1818 h street</td><td>ORG</td><td>12</td></tr>
+<tr><td>the international fund for agricultural development</td><td>ORG</td><td>12</td></tr>
+<tr><td>world</td><td>ORG</td><td>12</td></tr>
+<tr><td>social inclusion</td><td>ORG</td><td>12</td></tr>
+<tr><td>powerpoint</td><td>ORG</td><td>12</td></tr>
+<tr><td>npsc</td><td>ORG</td><td>12</td></tr>
+<tr><td>sedhiou</td><td>PERSON</td><td>12</td></tr>
+<tr><td>operations</td><td>ORG</td><td>12</td></tr>
+<tr><td>pdar ii</td><td>ORG</td><td>12</td></tr>
+<tr><td>pip</td><td>ORG</td><td>12</td></tr>
+<tr><td>py6 ifad-piu</td><td>ORG</td><td>12</td></tr>
+<tr><td>pom</td><td>ORG</td><td>12</td></tr>
+<tr><td>rlrcp</td><td>ORG</td><td>12</td></tr>
+<tr><td>rpg</td><td>ORG</td><td>12</td></tr>
+<tr><td>rationale</td><td>PERSON</td><td>12</td></tr>
+<tr><td>risks</td><td>PERSON</td><td>12</td></tr>
+<tr><td>russia</td><td>GPE</td><td>12</td></tr>
+<tr><td>sau</td><td>ORG</td><td>12</td></tr>
+<tr><td>farms</td><td>ORG</td><td>11</td></tr>
+<tr><td>industrialize africa</td><td>GPE</td><td>11</td></tr>
+<tr><td>gpsnp</td><td>ORG</td><td>11</td></tr>
+<tr><td>gender equality</td><td>PERSON</td><td>11</td></tr>
+<tr><td>hp</td><td>ORG</td><td>11</td></tr>
+<tr><td>hoa</td><td>ORG</td><td>11</td></tr>
+<tr><td>ipc</td><td>ORG</td><td>11</td></tr>
+<tr><td>indigenous peoples</td><td>ORG</td><td>11</td></tr>
+<tr><td>morocco digital</td><td>PERSON</td><td>11</td></tr>
+<tr><td>kandahar</td><td>GPE</td><td>11</td></tr>
+<tr><td>kingdom</td><td>GPE</td><td>11</td></tr>
+<tr><td>le fonds</td><td>ORG</td><td>11</td></tr>
+<tr><td>mard</td><td>ORG</td><td>11</td></tr>
+<tr><td>mfppm</td><td>PERSON</td><td>11</td></tr>
+<tr><td>mde</td><td>ORG</td><td>11</td></tr>
+<tr><td>ntfp</td><td>ORG</td><td>11</td></tr>
+<tr><td>err/npv</td><td>ORG</td><td>11</td></tr>
+<tr><td>environmental & social</td><td>ORG</td><td>11</td></tr>
+<tr><td>anapej</td><td>ORG</td><td>11</td></tr>
+<tr><td>djibouti</td><td>GPE</td><td>11</td></tr>
+<tr><td>credit/loan effectiveness</td><td>ORG</td><td>11</td></tr>
+<tr><td>a. programme</td><td>PERSON</td><td>11</td></tr>
+<tr><td>adf loan</td><td>ORG</td><td>11</td></tr>
+<tr><td>ata</td><td>ORG</td><td>11</td></tr>
+<tr><td>action recovery and economic stimulus</td><td>ORG</td><td>11</td></tr>
+<tr><td>agricultural land (as %</td><td>ORG</td><td>11</td></tr>
+<tr><td>assessment & solution</td><td>ORG</td><td>11</td></tr>
+<tr><td>bmgf</td><td>ORG</td><td>11</td></tr>
+<tr><td>bouar</td><td>PERSON</td><td>11</td></tr>
+<tr><td>bélier region</td><td>GPE</td><td>11</td></tr>
+<tr><td>c. innovations</td><td>PERSON</td><td>11</td></tr>
+<tr><td>cclip</td><td>ORG</td><td>11</td></tr>
+<tr><td>op/bp 4.04</td><td>ORG</td><td>11</td></tr>
+<tr><td>cassava</td><td>ORG</td><td>11</td></tr>
+<tr><td>concept note</td><td>PERSON</td><td>11</td></tr>
+<tr><td>contingency emergency response component</td><td>ORG</td><td>11</td></tr>
+<tr><td>newcastle</td><td>GPE</td><td>11</td></tr>
+<tr><td>crda</td><td>ORG</td><td>11</td></tr>
+<tr><td>operational program</td><td>ORG</td><td>11</td></tr>
+<tr><td>word</td><td>GPE</td><td>11</td></tr>
+<tr><td>the world bank additional financing - horticulture development project</td><td>ORG</td><td>11</td></tr>
+<tr><td>the world bank myanmar national food and agriculture systems project (p164448</td><td>ORG</td><td>11</td></tr>
+<tr><td>the world bank odisha integrated irrigation project for climate resilient agriculture</td><td>ORG</td><td>11</td></tr>
+<tr><td>the world bank samoa agriculture & fisheries productivity and marketing project</td><td>ORG</td><td>11</td></tr>
+<tr><td>the world bank turkey resilient landscape integration project</td><td>ORG</td><td>11</td></tr>
+<tr><td>total world bank group</td><td>ORG</td><td>11</td></tr>
+<tr><td>vpc/fmp criteria</td><td>ORG</td><td>11</td></tr>
+<tr><td>h1 world bank group financing international bank for reconstruction and development</td><td>ORG</td><td>11</td></tr>
+<tr><td>technical solutions adopted and alternatives</td><td>ORG</td><td>11</td></tr>
+<tr><td>the argentine republic</td><td>GPE</td><td>11</td></tr>
+<tr><td>the central african republic</td><td>LOC</td><td>11</td></tr>
+<tr><td>the ministry of agriculture (moa</td><td>ORG</td><td>11</td></tr>
+<tr><td>the project coordinator</td><td>ORG</td><td>11</td></tr>
+<tr><td>the republic of burundi</td><td>GPE</td><td>11</td></tr>
+<tr><td>the republic of sierra leone</td><td>GPE</td><td>11</td></tr>
+<tr><td>p165228</td><td>ORG</td><td>11</td></tr>
+<tr><td>the loan service payment currency</td><td>ORG</td><td>11</td></tr>
+<tr><td>aux modalités</td><td>PERSON</td><td>11</td></tr>
+<tr><td>tamil nadu</td><td>PERSON</td><td>11</td></tr>
+<tr><td>price contingencies</td><td>ORG</td><td>11</td></tr>
+<tr><td>social specialist</td><td>ORG</td><td>11</td></tr>
+<tr><td>p173398</td><td>GPE</td><td>11</td></tr>
+<tr><td>pasta</td><td>ORG</td><td>11</td></tr>
+<tr><td>pcr_c om</td><td>PERSON</td><td>11</td></tr>
+<tr><td>pfm</td><td>ORG</td><td>11</td></tr>
+<tr><td>prolac</td><td>ORG</td><td>11</td></tr>
+<tr><td>parliament</td><td>ORG</td><td>11</td></tr>
+<tr><td>proirri</td><td>ORG</td><td>11</td></tr>
+<tr><td>project implementation unit</td><td>ORG</td><td>11</td></tr>
+<tr><td>rgf</td><td>ORG</td><td>11</td></tr>
+<tr><td>results matrix</td><td>PERSON</td><td>11</td></tr>
+<tr><td>slm</td><td>ORG</td><td>11</td></tr>
+<tr><td>small and medium enterprises</td><td>ORG</td><td>11</td></tr>
+<tr><td>primary school - female</td><td>ORG</td><td>11</td></tr>
+<tr><td>social management report</td><td>ORG</td><td>11</td></tr>
+<tr><td>environmental and social management</td><td>ORG</td><td>10</td></tr>
+<tr><td>greenfield</td><td>PERSON</td><td>10</td></tr>
+<tr><td>kanem</td><td>GPE</td><td>10</td></tr>
+<tr><td>isfm</td><td>ORG</td><td>10</td></tr>
+<tr><td>henan</td><td>GPE</td><td>10</td></tr>
+<tr><td>environmental and social management framework</td><td>ORG</td><td>10</td></tr>
+<tr><td>gom</td><td>ORG</td><td>10</td></tr>
+<tr><td>ethiopia resilient landscapes</td><td>ORG</td><td>10</td></tr>
+<tr><td>ll</td><td>ORG</td><td>10</td></tr>
+<tr><td>kazakhstan</td><td>GPE</td><td>10</td></tr>
+<tr><td>north africa</td><td>GPE</td><td>10</td></tr>
+<tr><td>limited</td><td>ORG</td><td>10</td></tr>
+<tr><td>lofa county</td><td>GPE</td><td>10</td></tr>
+<tr><td>mal</td><td>ORG</td><td>10</td></tr>
+<tr><td>mfnp</td><td>GPE</td><td>10</td></tr>
+<tr><td>nap</td><td>ORG</td><td>10</td></tr>
+<tr><td>nh_c</td><td>PERSON</td><td>10</td></tr>
+<tr><td>nrc</td><td>ORG</td><td>10</td></tr>
+<tr><td>nrlm</td><td>ORG</td><td>10</td></tr>
+<tr><td>outcome</td><td>ORG</td><td>10</td></tr>
+<tr><td>el prestatario/receptor</td><td>ORG</td><td>10</td></tr>
+<tr><td>environmental sustainability</td><td>ORG</td><td>10</td></tr>
+<tr><td>afdb/govt</td><td>ORG</td><td>10</td></tr>
+<tr><td>doi</td><td>ORG</td><td>10</td></tr>
+<tr><td>bill</td><td>PERSON</td><td>10</td></tr>
+<tr><td>4.3.1</td><td>ORG</td><td>10</td></tr>
+<tr><td>aaac</td><td>ORG</td><td>10</td></tr>
+<tr><td>admp</td><td>ORG</td><td>10</td></tr>
+<tr><td>p170419</td><td>ORG</td><td>10</td></tr>
+<tr><td>agriculture financing instrument borrower(s)</td><td>ORG</td><td>10</td></tr>
+<tr><td>annex 2</td><td>ORG</td><td>10</td></tr>
+<tr><td>bceao</td><td>ORG</td><td>10</td></tr>
+<tr><td>bcp-progeba</td><td>ORG</td><td>10</td></tr>
+<tr><td>blk</td><td>ORG</td><td>10</td></tr>
+<tr><td>bissau</td><td>GPE</td><td>10</td></tr>
+<tr><td>district</td><td>LOC</td><td>10</td></tr>
+<tr><td>borrower/recipient</td><td>ORG</td><td>10</td></tr>
+<tr><td>ccafs</td><td>ORG</td><td>10</td></tr>
+<tr><td>cfw</td><td>ORG</td><td>10</td></tr>
+<tr><td>cri</td><td>ORG</td><td>10</td></tr>
+<tr><td>central africa</td><td>LOC</td><td>10</td></tr>
+<tr><td>dfid</td><td>ORG</td><td>10</td></tr>
+<tr><td>dws</td><td>ORG</td><td>10</td></tr>
+<tr><td>dakar</td><td>PERSON</td><td>10</td></tr>
+<tr><td>dev</td><td>PERSON</td><td>10</td></tr>
+<tr><td>omusati</td><td>PERSON</td><td>10</td></tr>
+<tr><td>magway</td><td>LOC</td><td>10</td></tr>
+<tr><td>p171331</td><td>GPE</td><td>10</td></tr>
+<tr><td>the world bank additional financing to rural development program ii</td><td>ORG</td><td>10</td></tr>
+<tr><td>the world bank climate resilient agriculture and productivity enhancement project</td><td>ORG</td><td>10</td></tr>
+<tr><td>the world bank malawi resilient productive landscapes project</td><td>ORG</td><td>10</td></tr>
+<tr><td>the world bank policy on disclosure of information</td><td>ORG</td><td>10</td></tr>
+<tr><td>the world bank productive alliances project</td><td>ORG</td><td>10</td></tr>
+<tr><td>unallocated</td><td>ORG</td><td>10</td></tr>
+<tr><td>v. corporate</td><td>ORG</td><td>10</td></tr>
+<tr><td>value addition</td><td>ORG</td><td>10</td></tr>
+<tr><td>wema</td><td>ORG</td><td>10</td></tr>
+<tr><td>wua</td><td>ORG</td><td>10</td></tr>
+<tr><td>zanzibar</td><td>GPE</td><td>10</td></tr>
+<tr><td>aux</td><td>ORG</td><td>10</td></tr>
+<tr><td>the board of executive directors</td><td>ORG</td><td>10</td></tr>
+<tr><td>the financial terms and conditions</td><td>ORG</td><td>10</td></tr>
+<tr><td>the food and agriculture organization</td><td>ORG</td><td>10</td></tr>
+<tr><td>the food and agriculture organization of the united nations</td><td>ORG</td><td>10</td></tr>
+<tr><td>the international monetary fund</td><td>ORG</td><td>10</td></tr>
+<tr><td>the ministry of economy and finance</td><td>ORG</td><td>10</td></tr>
+<tr><td>the special contractual conditions of the project summary of the loan proposal</td><td>ORG</td><td>10</td></tr>
+<tr><td>the togolese republic</td><td>GPE</td><td>10</td></tr>
+<tr><td>p173480</td><td>GPE</td><td>10</td></tr>
+<tr><td>➢</td><td>GPE</td><td>10</td></tr>
+<tr><td>the world bank cashew value-chain competitiveness project (p158810)</td><td>ORG</td><td>10</td></tr>
+<tr><td>world bank group</td><td>ORG</td><td>10</td></tr>
+<tr><td>the steering committee</td><td>ORG</td><td>10</td></tr>
+<tr><td>reconnect, recover, revitalize</td><td>ORG</td><td>10</td></tr>
+<tr><td>padefa-ena</td><td>ORG</td><td>10</td></tr>
+<tr><td>pag</td><td>ORG</td><td>10</td></tr>
+<tr><td>the project management unit</td><td>ORG</td><td>10</td></tr>
+<tr><td>pep</td><td>ORG</td><td>10</td></tr>
+<tr><td>ph</td><td>ORG</td><td>10</td></tr>
+<tr><td>phcompliance</td><td>ORG</td><td>10</td></tr>
+<tr><td>pvs</td><td>ORG</td><td>10</td></tr>
+<tr><td>pillar</td><td>ORG</td><td>10</td></tr>
+<tr><td>pour</td><td>GPE</td><td>10</td></tr>
+<tr><td>pitag</td><td>ORG</td><td>10</td></tr>
+<tr><td>results</td><td>PERSON</td><td>10</td></tr>
+<tr><td>sazapip</td><td>PERSON</td><td>10</td></tr>
+<tr><td>sig</td><td>ORG</td><td>10</td></tr>
+<tr><td>smart</td><td>ORG</td><td>10</td></tr>
+<tr><td>smp</td><td>ORG</td><td>10</td></tr>
+<tr><td>safeguard policies</td><td>PERSON</td><td>10</td></tr>
+<tr><td>social assessment (sesa</td><td>ORG</td><td>10</td></tr>
+<tr><td>specialist</td><td>PERSON</td><td>10</td></tr>
+<tr><td>tcep</td><td>GPE</td><td>10</td></tr>
+<tr><td>el niño</td><td>GPE</td><td>9</td></tr>
+<tr><td>food and agriculture organization</td><td>ORG</td><td>9</td></tr>
+<tr><td>fatick</td><td>PERSON</td><td>9</td></tr>
+<tr><td>fida</td><td>ORG</td><td>9</td></tr>
+<tr><td>faostat</td><td>ORG</td><td>9</td></tr>
+<tr><td>east</td><td>LOC</td><td>9</td></tr>
+<tr><td>ei (economic integration</td><td>ORG</td><td>9</td></tr>
+<tr><td>esap</td><td>ORG</td><td>9</td></tr>
+<tr><td>eig</td><td>ORG</td><td>9</td></tr>
+<tr><td>gd</td><td>ORG</td><td>9</td></tr>
+<tr><td>french development agency</td><td>ORG</td><td>9</td></tr>
+<tr><td>kankan special agro- industrial processing zones development programme</td><td>PERSON</td><td>9</td></tr>
+<tr><td>gaza</td><td>GPE</td><td>9</td></tr>
+<tr><td>goc</td><td>ORG</td><td>9</td></tr>
+<tr><td>grant number</td><td>PERSON</td><td>9</td></tr>
+<tr><td>herat</td><td>PERSON</td><td>9</td></tr>
+<tr><td>ipr</td><td>ORG</td><td>9</td></tr>
+<tr><td>international competitive bidding</td><td>ORG</td><td>9</td></tr>
+<tr><td>jsif</td><td>ORG</td><td>9</td></tr>
+<tr><td>japan</td><td>GPE</td><td>9</td></tr>
+<tr><td>karaman</td><td>GPE</td><td>9</td></tr>
+<tr><td>labor force participation *- total</td><td>ORG</td><td>9</td></tr>
+<tr><td>land area</td><td>LOC</td><td>9</td></tr>
+<tr><td>directorate</td><td>ORG</td><td>9</td></tr>
+<tr><td>diversity</td><td>ORG</td><td>9</td></tr>
+<tr><td>assam</td><td>PERSON</td><td>9</td></tr>
+<tr><td>dz</td><td>ORG</td><td>9</td></tr>
+<tr><td>dts</td><td>PERSON</td><td>9</td></tr>
+<tr><td>mineagrie</td><td>ORG</td><td>9</td></tr>
+<tr><td>1,7 maternal mortality rate</td><td>ORG</td><td>9</td></tr>
+<tr><td>asap</td><td>ORG</td><td>9</td></tr>
+<tr><td>awp/bs</td><td>ORG</td><td>9</td></tr>
+<tr><td>b.1</td><td>PERSON</td><td>9</td></tr>
+<tr><td>bahr el ghazal</td><td>PERSON</td><td>9</td></tr>
+<tr><td>bancoumana</td><td>GPE</td><td>9</td></tr>
+<tr><td>birth</td><td>LOC</td><td>9</td></tr>
+<tr><td>borrower/client/recipient name</td><td>ORG</td><td>9</td></tr>
+<tr><td>burkina faso''s</td><td>PERSON</td><td>9</td></tr>
+<tr><td>cari</td><td>ORG</td><td>9</td></tr>
+<tr><td>cdc</td><td>ORG</td><td>9</td></tr>
+<tr><td>cpv</td><td>ORG</td><td>9</td></tr>
+<tr><td>criar</td><td>ORG</td><td>9</td></tr>
+<tr><td>cabinda</td><td>PERSON</td><td>9</td></tr>
+<tr><td>colombia</td><td>GPE</td><td>9</td></tr>
+<tr><td>comments</td><td>ORG</td><td>9</td></tr>
+<tr><td>consultancy</td><td>ORG</td><td>9</td></tr>
+<tr><td>corantijn canal</td><td>ORG</td><td>9</td></tr>
+<tr><td>cost-effectiveness analysis</td><td>ORG</td><td>9</td></tr>
+<tr><td>dae</td><td>ORG</td><td>9</td></tr>
+<tr><td>daf</td><td>ORG</td><td>9</td></tr>
+<tr><td>dfi</td><td>ORG</td><td>9</td></tr>
+<tr><td>loan agreement</td><td>ORG</td><td>9</td></tr>
+<tr><td>the pforr program</td><td>ORG</td><td>9</td></tr>
+<tr><td>moaiwd</td><td>ORG</td><td>9</td></tr>
+<tr><td>rab</td><td>ORG</td><td>9</td></tr>
+<tr><td>risks & mitigation monitoring matrix iv</td><td>ORG</td><td>9</td></tr>
+<tr><td>sepa</td><td>ORG</td><td>9</td></tr>
+<tr><td>section</td><td>ORG</td><td>9</td></tr>
+<tr><td>social management</td><td>ORG</td><td>9</td></tr>
+<tr><td>the project implementation unit</td><td>ORG</td><td>9</td></tr>
+<tr><td>the world bank additional financing</td><td>ORG</td><td>9</td></tr>
+<tr><td>the world bank agricultural productivity program for southern africa - angola & lesotho</td><td>ORG</td><td>9</td></tr>
+<tr><td>the world bank chad skills development for youth employment and competitiveness project (p164297</td><td>ORG</td><td>9</td></tr>
+<tr><td>the world bank ghana productive safety net project 2</td><td>ORG</td><td>9</td></tr>
+<tr><td>the world bank serbia:</td><td>ORG</td><td>9</td></tr>
+<tr><td>vps</td><td>ORG</td><td>9</td></tr>
+<tr><td>van wouw intake</td><td>GPE</td><td>9</td></tr>
+<tr><td>world bank niger - agricultural</td><td>ORG</td><td>9</td></tr>
+<tr><td>a general economic analysis</td><td>ORG</td><td>9</td></tr>
+<tr><td>e o n</td><td>ORG</td><td>9</td></tr>
+<tr><td>mille euros</td><td>PERSON</td><td>9</td></tr>
+<tr><td>the court of auditors</td><td>ORG</td><td>9</td></tr>
+<tr><td>the dominican republic</td><td>GPE</td><td>9</td></tr>
+<tr><td>the environmental assessment/ audit</td><td>ORG</td><td>9</td></tr>
+<tr><td>the legal department</td><td>ORG</td><td>9</td></tr>
+<tr><td>the republic of senegal</td><td>GPE</td><td>9</td></tr>
+<tr><td>the world bank’s</td><td>ORG</td><td>9</td></tr>
+<tr><td>moderate</td><td>ORG</td><td>9</td></tr>
+<tr><td>rb-cosop</td><td>ORG</td><td>9</td></tr>
+<tr><td>yobe</td><td>ORG</td><td>9</td></tr>
+<tr><td>productivity and innovation</td><td>ORG</td><td>9</td></tr>
+<tr><td>ordinary capital</td><td>ORG</td><td>9</td></tr>
+<tr><td>moldovan</td><td>PERSON</td><td>9</td></tr>
+<tr><td>peru</td><td>GPE</td><td>9</td></tr>
+<tr><td>nac</td><td>ORG</td><td>9</td></tr>
+<tr><td>nerica</td><td>ORG</td><td>9</td></tr>
+<tr><td>neu</td><td>ORG</td><td>9</td></tr>
+<tr><td>npc</td><td>ORG</td><td>9</td></tr>
+<tr><td>nso</td><td>ORG</td><td>9</td></tr>
+<tr><td>ngozi</td><td>PERSON</td><td>9</td></tr>
+<tr><td>oc</td><td>ORG</td><td>9</td></tr>
+<tr><td>op/bp 4.11</td><td>ORG</td><td>9</td></tr>
+<tr><td>npv</td><td>ORG</td><td>9</td></tr>
+<tr><td>p163138</td><td>GPE</td><td>9</td></tr>
+<tr><td>pniasa</td><td>ORG</td><td>9</td></tr>
+<tr><td>paris</td><td>GPE</td><td>9</td></tr>
+<tr><td>psp</td><td>ORG</td><td>9</td></tr>
+<tr><td>prosap iv</td><td>ORG</td><td>9</td></tr>
+<tr><td>per capita co2 emissions</td><td>PERSON</td><td>9</td></tr>
+<tr><td>preves</td><td>ORG</td><td>9</td></tr>
+<tr><td>pefa</td><td>GPE</td><td>9</td></tr>
+<tr><td>pdzta-bk</td><td>ORG</td><td>9</td></tr>
+<tr><td>pdes</td><td>ORG</td><td>9</td></tr>
+<tr><td>p169758</td><td>ORG</td><td>9</td></tr>
+<tr><td>i&d</td><td>ORG</td><td>8</td></tr>
+<tr><td>htr</td><td>PERSON</td><td>8</td></tr>
+<tr><td>ha-l1107/ha-g1038 page</td><td>ORG</td><td>8</td></tr>
+<tr><td>ha-l1107</td><td>ORG</td><td>8</td></tr>
+<tr><td>guinea bissau</td><td>PERSON</td><td>8</td></tr>
+<tr><td>gor</td><td>ORG</td><td>8</td></tr>
+<tr><td>gtp</td><td>ORG</td><td>8</td></tr>
+<tr><td>gohp</td><td>ORG</td><td>8</td></tr>
+<tr><td>gitega</td><td>PERSON</td><td>8</td></tr>
+<tr><td>germany</td><td>GPE</td><td>8</td></tr>
+<tr><td>energy</td><td>ORG</td><td>8</td></tr>
+<tr><td>gss</td><td>ORG</td><td>8</td></tr>
+<tr><td>etude de la situation de référence</td><td>ORG</td><td>8</td></tr>
+<tr><td>intercafe</td><td>ORG</td><td>8</td></tr>
+<tr><td>ifa</td><td>ORG</td><td>8</td></tr>
+<tr><td>lts</td><td>ORG</td><td>8</td></tr>
+<tr><td>implementing partners</td><td>ORG</td><td>8</td></tr>
+<tr><td>infoshop</td><td>LOC</td><td>8</td></tr>
+<tr><td>institutional capacity and rule of law</td><td>ORG</td><td>8</td></tr>
+<tr><td>kcdp</td><td>PERSON</td><td>8</td></tr>
+<tr><td>kankan</td><td>PERSON</td><td>8</td></tr>
+<tr><td>karusi</td><td>PERSON</td><td>8</td></tr>
+<tr><td>konya</td><td>GPE</td><td>8</td></tr>
+<tr><td>leap</td><td>ORG</td><td>8</td></tr>
+<tr><td>leg/sgo</td><td>ORG</td><td>8</td></tr>
+<tr><td>lipw</td><td>ORG</td><td>8</td></tr>
+<tr><td>lvbc</td><td>ORG</td><td>8</td></tr>
+<tr><td>labor force participation</td><td>ORG</td><td>8</td></tr>
+<tr><td>lagdo</td><td>GPE</td><td>8</td></tr>
+<tr><td>lake</td><td>LOC</td><td>8</td></tr>
+<tr><td>europe</td><td>LOC</td><td>8</td></tr>
+<tr><td>eastern province</td><td>GPE</td><td>8</td></tr>
+<tr><td>apip</td><td>ORG</td><td>8</td></tr>
+<tr><td>essa</td><td>ORG</td><td>8</td></tr>
+<tr><td>dincap</td><td>ORG</td><td>8</td></tr>
+<tr><td>libreville</td><td>GPE</td><td>8</td></tr>
+<tr><td>1.2.3</td><td>ORG</td><td>8</td></tr>
+<tr><td>1.7 maternal mortality rate</td><td>ORG</td><td>8</td></tr>
+<tr><td>9,4 agricultural land</td><td>ORG</td><td>8</td></tr>
+<tr><td>agn</td><td>ORG</td><td>8</td></tr>
+<tr><td>aiccra</td><td>ORG</td><td>8</td></tr>
+<tr><td>aip</td><td>ORG</td><td>8</td></tr>
+<tr><td>abel cuba</td><td>PERSON</td><td>8</td></tr>
+<tr><td>abidjan</td><td>ORG</td><td>8</td></tr>
+<tr><td>annex c1</td><td>ORG</td><td>8</td></tr>
+<tr><td>associations</td><td>ORG</td><td>8</td></tr>
+<tr><td>bacb</td><td>ORG</td><td>8</td></tr>
+<tr><td>bangladesh</td><td>GPE</td><td>8</td></tr>
+<tr><td>banque agricole du faso</td><td>ORG</td><td>8</td></tr>
+<tr><td>beqaa</td><td>ORG</td><td>8</td></tr>
+<tr><td>bugesera</td><td>LOC</td><td>8</td></tr>
+<tr><td>ccc</td><td>ORG</td><td>8</td></tr>
+<tr><td>cdd</td><td>ORG</td><td>8</td></tr>
+<tr><td>cdr</td><td>ORG</td><td>8</td></tr>
+<tr><td>cemac</td><td>ORG</td><td>8</td></tr>
+<tr><td>cenrat</td><td>ORG</td><td>8</td></tr>
+<tr><td>cic</td><td>ORG</td><td>8</td></tr>
+<tr><td>csa</td><td>ORG</td><td>8</td></tr>
+<tr><td>central africa division tel</td><td>ORG</td><td>8</td></tr>
+<tr><td>climate smart agriculture project</td><td>ORG</td><td>8</td></tr>
+<tr><td>company</td><td>ORG</td><td>8</td></tr>
+<tr><td>countries develo-</td><td>PERSON</td><td>8</td></tr>
+<tr><td>dda</td><td>ORG</td><td>8</td></tr>
+<tr><td>digeaf</td><td>ORG</td><td>8</td></tr>
+<tr><td>les conditions</td><td>ORG</td><td>8</td></tr>
+<tr><td>cooperatives</td><td>ORG</td><td>8</td></tr>
+<tr><td>livelihoods project (</td><td>ORG</td><td>8</td></tr>
+<tr><td>the boké region</td><td>LOC</td><td>8</td></tr>
+<tr><td>thailand</td><td>GPE</td><td>8</td></tr>
+<tr><td>the world bank accelerating impacts</td><td>ORG</td><td>8</td></tr>
+<tr><td>the world bank agriculture modernization and competitiveness project (p158372</td><td>ORG</td><td>8</td></tr>
+<tr><td>être adressées aux</td><td>PERSON</td><td>8</td></tr>
+<tr><td>the world bank benin:</td><td>ORG</td><td>8</td></tr>
+<tr><td>the world bank chad skills development for youth employment and competitiveness project</td><td>ORG</td><td>8</td></tr>
+<tr><td>the world bank lao agriculture commercialization project</td><td>ORG</td><td>8</td></tr>
+<tr><td>the world bank moldova climate adaptation project</td><td>ORG</td><td>8</td></tr>
+<tr><td>vi</td><td>ORG</td><td>8</td></tr>
+<tr><td>vpc/fmp</td><td>ORG</td><td>8</td></tr>
+<tr><td>world bank jamaica rural economic development</td><td>ORG</td><td>8</td></tr>
+<tr><td>arid</td><td>ORG</td><td>8</td></tr>
+<tr><td>bush</td><td>PERSON</td><td>8</td></tr>
+<tr><td>le titre</td><td>ORG</td><td>8</td></tr>
+<tr><td>the country partnership framework</td><td>ORG</td><td>8</td></tr>
+<tr><td>sub-regional organizations</td><td>PERSON</td><td>8</td></tr>
+<tr><td>the eastern province</td><td>LOC</td><td>8</td></tr>
+<tr><td>the feed africa strategy</td><td>ORG</td><td>8</td></tr>
+<tr><td>the french development agency</td><td>ORG</td><td>8</td></tr>
+<tr><td>the loan service payment currency</td><td>ORG</td><td>8</td></tr>
+<tr><td>the national assembly</td><td>ORG</td><td>8</td></tr>
+<tr><td>the parent project</td><td>ORG</td><td>8</td></tr>
+<tr><td>the republic of congo</td><td>GPE</td><td>8</td></tr>
+<tr><td>the republic of gabon</td><td>GPE</td><td>8</td></tr>
+<tr><td>the republic of togo</td><td>GPE</td><td>8</td></tr>
+<tr><td>the resettlement policy framework</td><td>ORG</td><td>8</td></tr>
+<tr><td>the sustainable development goals</td><td>ORG</td><td>8</td></tr>
+<tr><td>the systematic country diagnostic</td><td>ORG</td><td>8</td></tr>
+<tr><td>the technical annex</td><td>ORG</td><td>8</td></tr>
+<tr><td>loan number</td><td>ORG</td><td>8</td></tr>
+<tr><td>the board of directors</td><td>ORG</td><td>8</td></tr>
+<tr><td>the ministry of fisheries</td><td>ORG</td><td>8</td></tr>
+<tr><td>steering committee (sc</td><td>ORG</td><td>8</td></tr>
+<tr><td>pfi</td><td>ORG</td><td>8</td></tr>
+<tr><td>snaip</td><td>ORG</td><td>8</td></tr>
+<tr><td>mwe</td><td>ORG</td><td>8</td></tr>
+<tr><td>madagascar</td><td>GPE</td><td>8</td></tr>
+<tr><td>maputo</td><td>GPE</td><td>8</td></tr>
+<tr><td>monitoring</td><td>LOC</td><td>8</td></tr>
+<tr><td>multi</td><td>ORG</td><td>8</td></tr>
+<tr><td>nbs</td><td>ORG</td><td>8</td></tr>
+<tr><td>npcu</td><td>ORG</td><td>8</td></tr>
+<tr><td>nanni spillway</td><td>ORG</td><td>8</td></tr>
+<tr><td>national competitive bidding</td><td>ORG</td><td>8</td></tr>
+<tr><td>nicaragua</td><td>GPE</td><td>8</td></tr>
+<tr><td>non-world bank group</td><td>ORG</td><td>8</td></tr>
+<tr><td>outcome</td><td>ORG</td><td>8</td></tr>
+<tr><td>p164326</td><td>GPE</td><td>8</td></tr>
+<tr><td>muyinga</td><td>GPE</td><td>8</td></tr>
+<tr><td>pmu</td><td>ORG</td><td>8</td></tr>
+<tr><td>rnd/cha</td><td>ORG</td><td>8</td></tr>
+<tr><td>sigfip</td><td>ORG</td><td>8</td></tr>
+<tr><td>psia</td><td>ORG</td><td>8</td></tr>
+<tr><td>sia</td><td>ORG</td><td>8</td></tr>
+<tr><td>sfm</td><td>ORG</td><td>8</td></tr>
+<tr><td>scsp</td><td>ORG</td><td>8</td></tr>
+<tr><td>ratio</td><td>PERSON</td><td>8</td></tr>
+<tr><td>recruit</td><td>ORG</td><td>8</td></tr>
+<tr><td>projet</td><td>ORG</td><td>8</td></tr>
+<tr><td>prior</td><td>ORG</td><td>8</td></tr>
+<tr><td>prevalence</td><td>ORG</td><td>8</td></tr>
+<tr><td>poverty</td><td>ORG</td><td>8</td></tr>
+<tr><td>pointe noire</td><td>GPE</td><td>8</td></tr>
+<tr><td>pillar 2</td><td>ORG</td><td>8</td></tr>
+<tr><td>hpfd</td><td>ORG</td><td>7</td></tr>
+<tr><td>food security</td><td>ORG</td><td>7</td></tr>
+<tr><td>hurricane matthew</td><td>ORG</td><td>7</td></tr>
+<tr><td>hct</td><td>ORG</td><td>7</td></tr>
+<tr><td>gulu</td><td>PERSON</td><td>7</td></tr>
+<tr><td>grant amount allocated</td><td>PERSON</td><td>7</td></tr>
+<tr><td>gos</td><td>GPE</td><td>7</td></tr>
+<tr><td>goap</td><td>PERSON</td><td>7</td></tr>
+<tr><td>ghana statistical service</td><td>ORG</td><td>7</td></tr>
+<tr><td>gender strategy</td><td>PERSON</td><td>7</td></tr>
+<tr><td>efecto</td><td>ORG</td><td>7</td></tr>
+<tr><td>financial management arrangements</td><td>ORG</td><td>7</td></tr>
+<tr><td>farmer field schools</td><td>ORG</td><td>7</td></tr>
+<tr><td>fda</td><td>ORG</td><td>7</td></tr>
+<tr><td>expert</td><td>PERSON</td><td>7</td></tr>
+<tr><td>environmental assessment</td><td>ORG</td><td>7</td></tr>
+<tr><td>el programa</td><td>ORG</td><td>7</td></tr>
+<tr><td>enable</td><td>GPE</td><td>7</td></tr>
+<tr><td>ec</td><td>ORG</td><td>7</td></tr>
+<tr><td>icrisat</td><td>ORG</td><td>7</td></tr>
+<tr><td>east asia</td><td>LOC</td><td>7</td></tr>
+<tr><td>icra</td><td>ORG</td><td>7</td></tr>
+<tr><td>labour</td><td>ORG</td><td>7</td></tr>
+<tr><td>inia</td><td>ORG</td><td>7</td></tr>
+<tr><td>lasip ii</td><td>ORG</td><td>7</td></tr>
+<tr><td>e. project</td><td>ORG</td><td>7</td></tr>
+<tr><td>maeapg</td><td>ORG</td><td>7</td></tr>
+<tr><td>luanda</td><td>PERSON</td><td>7</td></tr>
+<tr><td>longido</td><td>GPE</td><td>7</td></tr>
+<tr><td>lomé</td><td>ORG</td><td>7</td></tr>
+<tr><td>le projet</td><td>ORG</td><td>7</td></tr>
+<tr><td>law</td><td>PERSON</td><td>7</td></tr>
+<tr><td>lvb</td><td>ORG</td><td>7</td></tr>
+<tr><td>latin america</td><td>LOC</td><td>7</td></tr>
+<tr><td>km</td><td>PERSON</td><td>7</td></tr>
+<tr><td>ipdm</td><td>ORG</td><td>7</td></tr>
+<tr><td>kinshasa</td><td>ORG</td><td>7</td></tr>
+<tr><td>kasaï</td><td>PERSON</td><td>7</td></tr>
+<tr><td>kamuli</td><td>GPE</td><td>7</td></tr>
+<tr><td>jonglei</td><td>PERSON</td><td>7</td></tr>
+<tr><td>jiangxi</td><td>GPE</td><td>7</td></tr>
+<tr><td>involuntary resettlement</td><td>PERSON</td><td>7</td></tr>
+<tr><td>implementing agency</td><td>ORG</td><td>7</td></tr>
+<tr><td>implementation institutional and implementation arrangements</td><td>ORG</td><td>7</td></tr>
+<tr><td>iscl</td><td>ORG</td><td>7</td></tr>
+<tr><td>eaj</td><td>ORG</td><td>7</td></tr>
+<tr><td>anuradhapura</td><td>PERSON</td><td>7</td></tr>
+<tr><td>e. implementation institutional and implementation arrangements</td><td>ORG</td><td>7</td></tr>
+<tr><td>amhara</td><td>GPE</td><td>7</td></tr>
+<tr><td>bantè</td><td>PERSON</td><td>7</td></tr>
+<tr><td>bank’s value added</td><td>ORG</td><td>7</td></tr>
+<tr><td>bank portfolio</td><td>ORG</td><td>7</td></tr>
+<tr><td>banco</td><td>ORG</td><td>7</td></tr>
+<tr><td>beeei</td><td>ORG</td><td>7</td></tr>
+<tr><td>audit</td><td>ORG</td><td>7</td></tr>
+<tr><td>mc</td><td>GPE</td><td>7</td></tr>
+<tr><td>annex b7</td><td>ORG</td><td>7</td></tr>
+<tr><td>andhra pradesh</td><td>PERSON</td><td>7</td></tr>
+<tr><td>agricultural transformation</td><td>ORG</td><td>7</td></tr>
+<tr><td>beneficiary</td><td>GPE</td><td>7</td></tr>
+<tr><td>aswg</td><td>ORG</td><td>7</td></tr>
+<tr><td>amvat</td><td>GPE</td><td>7</td></tr>
+<tr><td>aif-3</td><td>GPE</td><td>7</td></tr>
+<tr><td>adp</td><td>ORG</td><td>7</td></tr>
+<tr><td>additional financing report no</td><td>ORG</td><td>7</td></tr>
+<tr><td>acc</td><td>ORG</td><td>7</td></tr>
+<tr><td>4.6.2</td><td>ORG</td><td>7</td></tr>
+<tr><td>4.1.4</td><td>PERSON</td><td>7</td></tr>
+<tr><td>4.09 - pest management does the ea</td><td>ORG</td><td>7</td></tr>
+<tr><td>baseline baseline</td><td>ORG</td><td>7</td></tr>
+<tr><td>boffa</td><td>PERSON</td><td>7</td></tr>
+<tr><td>diourbel</td><td>GPE</td><td>7</td></tr>
+<tr><td>cibitoke</td><td>PERSON</td><td>7</td></tr>
+<tr><td>dina umali-deininger</td><td>PERSON</td><td>7</td></tr>
+<tr><td>dependency ratio</td><td>PERSON</td><td>7</td></tr>
+<tr><td>department</td><td>ORG</td><td>7</td></tr>
+<tr><td>dsa</td><td>ORG</td><td>7</td></tr>
+<tr><td>dpl</td><td>ORG</td><td>7</td></tr>
+<tr><td>dof</td><td>ORG</td><td>7</td></tr>
+<tr><td>dea</td><td>ORG</td><td>7</td></tr>
+<tr><td>communities</td><td>LOC</td><td>7</td></tr>
+<tr><td>coastal</td><td>ORG</td><td>7</td></tr>
+<tr><td>chato</td><td>GPE</td><td>7</td></tr>
+<tr><td>borrower/client/recipient</td><td>ORG</td><td>7</td></tr>
+<tr><td>chairperson</td><td>PERSON</td><td>7</td></tr>
+<tr><td>category</td><td>ORG</td><td>7</td></tr>
+<tr><td>cosop</td><td>ORG</td><td>7</td></tr>
+<tr><td>codex</td><td>ORG</td><td>7</td></tr>
+<tr><td>cnca</td><td>ORG</td><td>7</td></tr>
+<tr><td>cgiar centers</td><td>ORG</td><td>7</td></tr>
+<tr><td>cfp</td><td>ORG</td><td>7</td></tr>
+<tr><td>cdb</td><td>ORG</td><td>7</td></tr>
+<tr><td>capi</td><td>ORG</td><td>7</td></tr>
+<tr><td>maer</td><td>ORG</td><td>7</td></tr>
+<tr><td>grace</td><td>ORG</td><td>7</td></tr>
+<tr><td>mdipmi</td><td>ORG</td><td>7</td></tr>
+<tr><td>salazar</td><td>GPE</td><td>7</td></tr>
+<tr><td>water resources</td><td>ORG</td><td>7</td></tr>
+<tr><td>vojvodina</td><td>GPE</td><td>7</td></tr>
+<tr><td>unhcr</td><td>ORG</td><td>7</td></tr>
+<tr><td>uk</td><td>GPE</td><td>7</td></tr>
+<tr><td>time</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank state of maharashtra''s agribusiness and rural transformation project</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank responding</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank montenegro second institutional development and agriculture strengthening project (p164424)</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank montenegro second institutional development and agriculture strengthening project (p164424</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank livestock and fisheries sector development project (p159382</td><td>ORG</td><td>7</td></tr>
+<tr><td>the world bank livestock and fisheries sector development project</td><td>ORG</td><td>7</td></tr>
+<tr><td>technical assistance</td><td>ORG</td><td>7</td></tr>
+<tr><td>target</td><td>ORG</td><td>7</td></tr>
+<tr><td>tys</td><td>ORG</td><td>7</td></tr>
+<tr><td>switzerland</td><td>GPE</td><td>7</td></tr>
+<tr><td>sustainable development goals</td><td>ORG</td><td>7</td></tr>
+<tr><td>support</td><td>ORG</td><td>7</td></tr>
+<tr><td>sr agricultural spec</td><td>ORG</td><td>7</td></tr>
+<tr><td>south sudan’s</td><td>GPE</td><td>7</td></tr>
+<tr><td>south asia</td><td>LOC</td><td>7</td></tr>
+<tr><td>sex ratio</td><td>ORG</td><td>7</td></tr>
+<tr><td>western africa</td><td>GPE</td><td>7</td></tr>
+<tr><td>yaloké</td><td>ORG</td><td>7</td></tr>
+<tr><td>fed</td><td>ORG</td><td>7</td></tr>
+<tr><td>the ministry of health</td><td>ORG</td><td>7</td></tr>
+<tr><td>mrdf</td><td>ORG</td><td>7</td></tr>
+<tr><td>the sahel alliance</td><td>ORG</td><td>7</td></tr>
+<tr><td>the republic of paraguay</td><td>GPE</td><td>7</td></tr>
+<tr><td>the republic of italy</td><td>GPE</td><td>7</td></tr>
+<tr><td>the republic of guinea-bissau</td><td>GPE</td><td>7</td></tr>
+<tr><td>the republic of benin</td><td>GPE</td><td>7</td></tr>
+<tr><td>the project area</td><td>GPE</td><td>7</td></tr>
+<tr><td>the national system</td><td>ORG</td><td>7</td></tr>
+<tr><td>the ministry of planning</td><td>ORG</td><td>7</td></tr>
+<tr><td>the ministry of agroindustry</td><td>ORG</td><td>7</td></tr>
+<tr><td>pearl millet</td><td>PERSON</td><td>7</td></tr>
+<tr><td>the maratakka river</td><td>LOC</td><td>7</td></tr>
+<tr><td>the lake</td><td>LOC</td><td>7</td></tr>
+<tr><td>the institutional capacity assessment system</td><td>ORG</td><td>7</td></tr>
+<tr><td>the general government policy</td><td>ORG</td><td>7</td></tr>
+<tr><td>the european commission</td><td>ORG</td><td>7</td></tr>
+<tr><td>the department of agricultural extension</td><td>ORG</td><td>7</td></tr>
+<tr><td>the bank’s disbursement handbook</td><td>ORG</td><td>7</td></tr>
+<tr><td>the bank group’s</td><td>ORG</td><td>7</td></tr>
+<tr><td>roadmap</td><td>GPE</td><td>7</td></tr>
+<tr><td>savalou</td><td>GPE</td><td>7</td></tr>
+<tr><td>the central bank of liberia</td><td>ORG</td><td>7</td></tr>
+<tr><td>strategic thrust & rationale</td><td>ORG</td><td>7</td></tr>
+<tr><td>n °</td><td>ORG</td><td>7</td></tr>
+<tr><td>patareb</td><td>ORG</td><td>7</td></tr>
+<tr><td>pasta-peja</td><td>ORG</td><td>7</td></tr>
+<tr><td>ops_f</td><td>GPE</td><td>7</td></tr>
+<tr><td>op/bp 4.12</td><td>ORG</td><td>7</td></tr>
+<tr><td>nippes</td><td>GPE</td><td>7</td></tr>
+<tr><td>ninga</td><td>ORG</td><td>7</td></tr>
+<tr><td>nu</td><td>ORG</td><td>7</td></tr>
+<tr><td>ntc</td><td>ORG</td><td>7</td></tr>
+<tr><td>nnspa</td><td>ORG</td><td>7</td></tr>
+<tr><td>muramvya</td><td>PERSON</td><td>7</td></tr>
+<tr><td>pmc</td><td>ORG</td><td>7</td></tr>
+<tr><td>mouhoun</td><td>GPE</td><td>7</td></tr>
+<tr><td>monrovia</td><td>GPE</td><td>7</td></tr>
+<tr><td>mombasa</td><td>GPE</td><td>7</td></tr>
+<tr><td>midterm</td><td>ORG</td><td>7</td></tr>
+<tr><td>maseru</td><td>GPE</td><td>7</td></tr>
+<tr><td>market development and trade facilitation</td><td>ORG</td><td>7</td></tr>
+<tr><td>mz</td><td>ORG</td><td>7</td></tr>
+<tr><td>ssfsnp</td><td>ORG</td><td>7</td></tr>
+<tr><td>msme</td><td>ORG</td><td>7</td></tr>
+<tr><td>pi</td><td>ORG</td><td>7</td></tr>
+<tr><td>moyens de vérification</td><td>ORG</td><td>7</td></tr>
+<tr><td>pni</td><td>ORG</td><td>7</td></tr>
+<tr><td>rmc</td><td>ORG</td><td>7</td></tr>
+<tr><td>smeps</td><td>ORG</td><td>7</td></tr>
+<tr><td>poe</td><td>ORG</td><td>7</td></tr>
+<tr><td>sicoes</td><td>ORG</td><td>7</td></tr>
+<tr><td>shg</td><td>ORG</td><td>7</td></tr>
+<tr><td>sfd</td><td>ORG</td><td>7</td></tr>
+<tr><td>sacu</td><td>ORG</td><td>7</td></tr>
+<tr><td>risk</td><td>PERSON</td><td>7</td></tr>
+<tr><td>results framework</td><td>PERSON</td><td>7</td></tr>
+<tr><td>ru</td><td>ORG</td><td>7</td></tr>
+<tr><td>rural</td><td>ORG</td><td>7</td></tr>
+<tr><td>rlf</td><td>ORG</td><td>7</td></tr>
+<tr><td>phytosanitary</td><td>PERSON</td><td>7</td></tr>
+<tr><td>ppcr</td><td>ORG</td><td>7</td></tr>
+<tr><td>pri</td><td>ORG</td><td>7</td></tr>
+<tr><td>results chain performance indicators means of verification risks/</td><td>ORG</td><td>7</td></tr>
+<tr><td>physical cultural resources</td><td>ORG</td><td>7</td></tr>
+<tr><td>sscbi</td><td>ORG</td><td>7</td></tr>
+<tr><td>prodaf-diffa</td><td>PERSON</td><td>7</td></tr>
+<tr><td>provinces</td><td>ORG</td><td>7</td></tr>
+<tr><td>ivory coast</td><td>GPE</td><td>6</td></tr>
+<tr><td>jcf</td><td>ORG</td><td>6</td></tr>
+<tr><td>human development report</td><td>ORG</td><td>6</td></tr>
+<tr><td>international waterways</td><td>ORG</td><td>6</td></tr>
+<tr><td>institutional</td><td>ORG</td><td>6</td></tr>
+<tr><td>information system</td><td>ORG</td><td>6</td></tr>
+<tr><td>iwmi</td><td>ORG</td><td>6</td></tr>
+<tr><td>ipp</td><td>ORG</td><td>6</td></tr>
+<tr><td>igf</td><td>ORG</td><td>6</td></tr>
+<tr><td>italie</td><td>GPE</td><td>6</td></tr>
+<tr><td>iga</td><td>ORG</td><td>6</td></tr>
+<tr><td>ifmis</td><td>ORG</td><td>6</td></tr>
+<tr><td>icas</td><td>ORG</td><td>6</td></tr>
+<tr><td>international fund for agricultural development</td><td>ORG</td><td>6</td></tr>
+<tr><td>gambella</td><td>PERSON</td><td>6</td></tr>
+<tr><td>health (as %</td><td>ORG</td><td>6</td></tr>
+<tr><td>habitats op/</td><td>PERSON</td><td>6</td></tr>
+<tr><td>hacciadep</td><td>ORG</td><td>6</td></tr>
+<tr><td>gov</td><td>ORG</td><td>6</td></tr>
+<tr><td>gotn</td><td>ORG</td><td>6</td></tr>
+<tr><td>gini</td><td>ORG</td><td>6</td></tr>
+<tr><td>gender specialist</td><td>PERSON</td><td>6</td></tr>
+<tr><td>gender expert</td><td>PERSON</td><td>6</td></tr>
+<tr><td>grn</td><td>ORG</td><td>6</td></tr>
+<tr><td>grm</td><td>ORG</td><td>6</td></tr>
+<tr><td>gbs</td><td>ORG</td><td>6</td></tr>
+<tr><td>fisheries</td><td>ORG</td><td>6</td></tr>
+<tr><td>justice</td><td>ORG</td><td>6</td></tr>
+<tr><td>fiduciary agreements</td><td>ORG</td><td>6</td></tr>
+<tr><td>fps</td><td>ORG</td><td>6</td></tr>
+<tr><td>japan international cooperation agency</td><td>ORG</td><td>6</td></tr>
+<tr><td>mhg</td><td>ORG</td><td>6</td></tr>
+<tr><td>kcs</td><td>ORG</td><td>6</td></tr>
+<tr><td>mafs</td><td>ORG</td><td>6</td></tr>
+<tr><td>ministry of local government</td><td>ORG</td><td>6</td></tr>
+<tr><td>fcpsg</td><td>PERSON</td><td>6</td></tr>
+<tr><td>ministry of agriculture and rural development</td><td>ORG</td><td>6</td></tr>
+<tr><td>mexico</td><td>GPE</td><td>6</td></tr>
+<tr><td>mendoza</td><td>PERSON</td><td>6</td></tr>
+<tr><td>mbale</td><td>GPE</td><td>6</td></tr>
+<tr><td>mua</td><td>ORG</td><td>6</td></tr>
+<tr><td>mm 7.5</td><td>GPE</td><td>6</td></tr>
+<tr><td>mineco</td><td>ORG</td><td>6</td></tr>
+<tr><td>minagrie</td><td>ORG</td><td>6</td></tr>
+<tr><td>mgp</td><td>ORG</td><td>6</td></tr>
+<tr><td>memarts</td><td>ORG</td><td>6</td></tr>
+<tr><td>mef</td><td>ORG</td><td>6</td></tr>
+<tr><td>louga</td><td>GPE</td><td>6</td></tr>
+<tr><td>kk</td><td>ORG</td><td>6</td></tr>
+<tr><td>logical framework</td><td>ORG</td><td>6</td></tr>
+<tr><td>linga</td><td>GPE</td><td>6</td></tr>
+<tr><td>lead project agency</td><td>ORG</td><td>6</td></tr>
+<tr><td>le programme</td><td>ORG</td><td>6</td></tr>
+<tr><td>la unión</td><td>ORG</td><td>6</td></tr>
+<tr><td>leu</td><td>ORG</td><td>6</td></tr>
+<tr><td>lcc</td><td>ORG</td><td>6</td></tr>
+<tr><td>kwilu</td><td>GPE</td><td>6</td></tr>
+<tr><td>knowledge management</td><td>ORG</td><td>6</td></tr>
+<tr><td>kfw</td><td>ORG</td><td>6</td></tr>
+<tr><td>kavango west</td><td>GPE</td><td>6</td></tr>
+<tr><td>kavango east</td><td>GPE</td><td>6</td></tr>
+<tr><td>karatu</td><td>GPE</td><td>6</td></tr>
+<tr><td>fesmp</td><td>ORG</td><td>6</td></tr>
+<tr><td>ankara</td><td>GPE</td><td>6</td></tr>
+<tr><td>farmod</td><td>ORG</td><td>6</td></tr>
+<tr><td>agriculture department</td><td>ORG</td><td>6</td></tr>
+<tr><td>brakna</td><td>ORG</td><td>6</td></tr>
+<tr><td>bossemptélé</td><td>ORG</td><td>6</td></tr>
+<tr><td>borgou</td><td>PERSON</td><td>6</td></tr>
+<tr><td>basin</td><td>LOC</td><td>6</td></tr>
+<tr><td>basic project data ops table country project id project name parent project</td><td>ORG</td><td>6</td></tr>
+<tr><td>baoro</td><td>PERSON</td><td>6</td></tr>
+<tr><td>banque agricole</td><td>ORG</td><td>6</td></tr>
+<tr><td>banks</td><td>PERSON</td><td>6</td></tr>
+<tr><td>bank group policies</td><td>ORG</td><td>6</td></tr>
+<tr><td>bo-bl</td><td>ORG</td><td>6</td></tr>
+<tr><td>bl-gy</td><td>ORG</td><td>6</td></tr>
+<tr><td>austria</td><td>GPE</td><td>6</td></tr>
+<tr><td>alliance</td><td>ORG</td><td>6</td></tr>
+<tr><td>af</td><td>PERSON</td><td>6</td></tr>
+<tr><td>brussels</td><td>GPE</td><td>6</td></tr>
+<tr><td>adaptation</td><td>ORG</td><td>6</td></tr>
+<tr><td>access</td><td>ORG</td><td>6</td></tr>
+<tr><td>abdoulaye gadiere</td><td>PERSON</td><td>6</td></tr>
+<tr><td>arfic</td><td>ORG</td><td>6</td></tr>
+<tr><td>aprodel</td><td>ORG</td><td>6</td></tr>
+<tr><td>aif</td><td>PERSON</td><td>6</td></tr>
+<tr><td>ag</td><td>ORG</td><td>6</td></tr>
+<tr><td>af-2</td><td>ORG</td><td>6</td></tr>
+<tr><td>4.2.3</td><td>ORG</td><td>6</td></tr>
+<tr><td>4.2.1</td><td>ORG</td><td>6</td></tr>
+<tr><td>3.1.2 financial</td><td>ORG</td><td>6</td></tr>
+<tr><td>2016/17</td><td>GPE</td><td>6</td></tr>
+<tr><td>n/</td><td>ORG</td><td>6</td></tr>
+<tr><td>bravo-ureta</td><td>ORG</td><td>6</td></tr>
+<tr><td>bubanza</td><td>GPE</td><td>6</td></tr>
+<tr><td>fao food and agriculture organization</td><td>ORG</td><td>6</td></tr>
+<tr><td>dgdr</td><td>PERSON</td><td>6</td></tr>
+<tr><td>exp</td><td>ORG</td><td>6</td></tr>
+<tr><td>esmp environmental</td><td>ORG</td><td>6</td></tr>
+<tr><td>esm</td><td>ORG</td><td>6</td></tr>
+<tr><td>esia/esmp</td><td>ORG</td><td>6</td></tr>
+<tr><td>erp</td><td>ORG</td><td>6</td></tr>
+<tr><td>ecrp</td><td>ORG</td><td>6</td></tr>
+<tr><td>eamf</td><td>ORG</td><td>6</td></tr>
+<tr><td>djidja</td><td>ORG</td><td>6</td></tr>
+<tr><td>dam safety</td><td>PERSON</td><td>6</td></tr>
+<tr><td>drc➢</td><td>ORG</td><td>6</td></tr>
+<tr><td>dpf</td><td>ORG</td><td>6</td></tr>
+<tr><td>do</td><td>ORG</td><td>6</td></tr>
+<tr><td>dls</td><td>ORG</td><td>6</td></tr>
+<tr><td>d.c.</td><td>GPE</td><td>6</td></tr>
+<tr><td>c. key</td><td>PERSON</td><td>6</td></tr>
+<tr><td>customs</td><td>ORG</td><td>6</td></tr>
+<tr><td>cotonou</td><td>GPE</td><td>6</td></tr>
+<tr><td>condition precedent</td><td>ORG</td><td>6</td></tr>
+<tr><td>community</td><td>ORG</td><td>6</td></tr>
+<tr><td>chile</td><td>GPE</td><td>6</td></tr>
+<tr><td>cabinda province</td><td>GPE</td><td>6</td></tr>
+<tr><td>csf</td><td>ORG</td><td>6</td></tr>
+<tr><td>csd/ccs</td><td>ORG</td><td>6</td></tr>
+<tr><td>coajoq</td><td>ORG</td><td>6</td></tr>
+<tr><td>ccap</td><td>ORG</td><td>6</td></tr>
+<tr><td>cap</td><td>ORG</td><td>6</td></tr>
+<tr><td>cam</td><td>ORG</td><td>6</td></tr>
+<tr><td>caadp</td><td>ORG</td><td>6</td></tr>
+<tr><td>moruca</td><td>ORG</td><td>6</td></tr>
+<tr><td>resilience</td><td>PERSON</td><td>6</td></tr>
+<tr><td>nad</td><td>ORG</td><td>6</td></tr>
+<tr><td>technical and financial partners</td><td>ORG</td><td>6</td></tr>
+<tr><td>the bank’s country office</td><td>ORG</td><td>6</td></tr>
+<tr><td>the agricultural innovation fund operational guidelines and procedures</td><td>ORG</td><td>6</td></tr>
+<tr><td>the african union</td><td>ORG</td><td>6</td></tr>
+<tr><td>the adaptation fund</td><td>ORG</td><td>6</td></tr>
+<tr><td>riz</td><td>GPE</td><td>6</td></tr>
+<tr><td>que</td><td>PERSON</td><td>6</td></tr>
+<tr><td>les biens et services</td><td>ORG</td><td>6</td></tr>
+<tr><td>indique les catégories de dépenses</td><td>ORG</td><td>6</td></tr>
+<tr><td>du ministère</td><td>ORG</td><td>6</td></tr>
+<tr><td>al</td><td>PERSON</td><td>6</td></tr>
+<tr><td>zar</td><td>ORG</td><td>6</td></tr>
+<tr><td>za</td><td>ORG</td><td>6</td></tr>
+<tr><td>yamoussoukro</td><td>ORG</td><td>6</td></tr>
+<tr><td>world bank document program information document</td><td>ORG</td><td>6</td></tr>
+<tr><td>west kordofan states</td><td>GPE</td><td>6</td></tr>
+<tr><td>wee</td><td>ORG</td><td>6</td></tr>
+<tr><td>vipfe</td><td>ORG</td><td>6</td></tr>
+<tr><td>v. legal instruments</td><td>PERSON</td><td>6</td></tr>
+<tr><td>usulután</td><td>GPE</td><td>6</td></tr>
+<tr><td>upolu</td><td>ORG</td><td>6</td></tr>
+<tr><td>uzs</td><td>ORG</td><td>6</td></tr>
+<tr><td>unep</td><td>ORG</td><td>6</td></tr>
+<tr><td>un agencies</td><td>ORG</td><td>6</td></tr>
+<tr><td>uis</td><td>ORG</td><td>6</td></tr>
+<tr><td>tigray</td><td>ORG</td><td>6</td></tr>
+<tr><td>the world bank national rural livelihoods project - addl</td><td>ORG</td><td>6</td></tr>
+<tr><td>the world bank land allocation for social and economic development project iii</td><td>ORG</td><td>6</td></tr>
+<tr><td>the world bank guangxi poverty reduction project</td><td>ORG</td><td>6</td></tr>
+<tr><td>the national development plan</td><td>ORG</td><td>6</td></tr>
+<tr><td>the bolaman basin</td><td>LOC</td><td>6</td></tr>
+<tr><td>the borrower/donee</td><td>ORG</td><td>6</td></tr>
+<tr><td>the country partnership strategy</td><td>ORG</td><td>6</td></tr>
+<tr><td>the program steering committee</td><td>ORG</td><td>6</td></tr>
+<tr><td>énoncées dans le présent accord</td><td>PERSON</td><td>6</td></tr>
+<tr><td>napa</td><td>ORG</td><td>6</td></tr>
+<tr><td>yams</td><td>PERSON</td><td>6</td></tr>
+<tr><td>the transition support facility</td><td>ORG</td><td>6</td></tr>
+<tr><td>the technical and financial partners</td><td>ORG</td><td>6</td></tr>
+<tr><td>the strategy for agricultural transformation</td><td>ORG</td><td>6</td></tr>
+<tr><td>the republic of uzbekistan</td><td>GPE</td><td>6</td></tr>
+<tr><td>the republic of madagascar</td><td>GPE</td><td>6</td></tr>
+<tr><td>the republic of haiti agricultural</td><td>GPE</td><td>6</td></tr>
+<tr><td>the republic of guinea</td><td>GPE</td><td>6</td></tr>
+<tr><td>the republic of el salvador</td><td>GPE</td><td>6</td></tr>
+<tr><td>the qaraoun lake</td><td>LOC</td><td>6</td></tr>
+<tr><td>the project team leader</td><td>ORG</td><td>6</td></tr>
+<tr><td>the program operating manual (pom</td><td>ORG</td><td>6</td></tr>
+<tr><td>the government of mozambique</td><td>ORG</td><td>6</td></tr>
+<tr><td>the national steering committee</td><td>ORG</td><td>6</td></tr>
+<tr><td>the ministry of trade and industry</td><td>ORG</td><td>6</td></tr>
+<tr><td>the menabe and melaky regions</td><td>ORG</td><td>6</td></tr>
+<tr><td>the litani river</td><td>LOC</td><td>6</td></tr>
+<tr><td>the lake chad basin</td><td>LOC</td><td>6</td></tr>
+<tr><td>the irrigation department</td><td>ORG</td><td>6</td></tr>
+<tr><td>the integrated pest management plan</td><td>ORG</td><td>6</td></tr>
+<tr><td>the indian ocean</td><td>LOC</td><td>6</td></tr>
+<tr><td>the implementing agency</td><td>ORG</td><td>6</td></tr>
+<tr><td>the implementing agencies</td><td>ORG</td><td>6</td></tr>
+<tr><td>the horn of africa</td><td>LOC</td><td>6</td></tr>
+<tr><td>the government of tanzania</td><td>ORG</td><td>6</td></tr>
+<tr><td>the government of sierra leone</td><td>ORG</td><td>6</td></tr>
+<tr><td>terai</td><td>ORG</td><td>6</td></tr>
+<tr><td>the kingdom of tonga</td><td>GPE</td><td>6</td></tr>
+<tr><td>tsu</td><td>ORG</td><td>6</td></tr>
+<tr><td>p168606</td><td>PERSON</td><td>6</td></tr>
+<tr><td>peop</td><td>ORG</td><td>6</td></tr>
+<tr><td>prsp</td><td>ORG</td><td>6</td></tr>
+<tr><td>prosap iii</td><td>ORG</td><td>6</td></tr>
+<tr><td>prodefi-ii</td><td>ORG</td><td>6</td></tr>
+<tr><td>ppc</td><td>ORG</td><td>6</td></tr>
+<tr><td>ppap</td><td>ORG</td><td>6</td></tr>
+<tr><td>pne</td><td>ORG</td><td>6</td></tr>
+<tr><td>pemfar</td><td>ORG</td><td>6</td></tr>
+<tr><td>pe</td><td>ORG</td><td>6</td></tr>
+<tr><td>patag eaj</td><td>ORG</td><td>6</td></tr>
+<tr><td>padaer-ii</td><td>ORG</td><td>6</td></tr>
+<tr><td>pada</td><td>ORG</td><td>6</td></tr>
+<tr><td>pac</td><td>ORG</td><td>6</td></tr>
+<tr><td>oyam</td><td>GPE</td><td>6</td></tr>
+<tr><td>prepare</td><td>ORG</td><td>6</td></tr>
+<tr><td>oromia</td><td>GPE</td><td>6</td></tr>
+<tr><td>ong</td><td>ORG</td><td>6</td></tr>
+<tr><td>northeast</td><td>LOC</td><td>6</td></tr>
+<tr><td>nom</td><td>ORG</td><td>6</td></tr>
+<tr><td>nkhotakota</td><td>PERSON</td><td>6</td></tr>
+<tr><td>nkhata bay</td><td>PERSON</td><td>6</td></tr>
+<tr><td>net present value</td><td>ORG</td><td>6</td></tr>
+<tr><td>national agriculture investment plan</td><td>ORG</td><td>6</td></tr>
+<tr><td>nathalie s. munzberg</td><td>PERSON</td><td>6</td></tr>
+<tr><td>nrm</td><td>ORG</td><td>6</td></tr>
+<tr><td>tpm</td><td>ORG</td><td>6</td></tr>
+<tr><td>nea</td><td>ORG</td><td>6</td></tr>
+<tr><td>nrlp</td><td>ORG</td><td>6</td></tr>
+<tr><td>pillar ii</td><td>LOC</td><td>6</td></tr>
+<tr><td>om</td><td>ORG</td><td>6</td></tr>
+<tr><td>programme activities</td><td>ORG</td><td>6</td></tr>
+<tr><td>slc</td><td>ORG</td><td>6</td></tr>
+<tr><td>tcr</td><td>ORG</td><td>6</td></tr>
+<tr><td>tasi</td><td>ORG</td><td>6</td></tr>
+<tr><td>ta program</td><td>ORG</td><td>6</td></tr>
+<tr><td>préstamo</td><td>LOC</td><td>6</td></tr>
+<tr><td>sustainable development</td><td>ORG</td><td>6</td></tr>
+<tr><td>surinam canal</td><td>ORG</td><td>6</td></tr>
+<tr><td>subproject</td><td>ORG</td><td>6</td></tr>
+<tr><td>strategic thrust</td><td>ORG</td><td>6</td></tr>
+<tr><td>spain</td><td>GPE</td><td>6</td></tr>
+<tr><td>songhai</td><td>GPE</td><td>6</td></tr>
+<tr><td>somaliland</td><td>ORG</td><td>6</td></tr>
+<tr><td>social protection</td><td>ORG</td><td>6</td></tr>
+<tr><td>shopping post n post</td><td>ORG</td><td>6</td></tr>
+<tr><td>syscohada</td><td>ORG</td><td>6</td></tr>
+<tr><td>special agro-industrial processing zones</td><td>ORG</td><td>6</td></tr>
+<tr><td>sip</td><td>ORG</td><td>6</td></tr>
+<tr><td>rationale</td><td>ORG</td><td>6</td></tr>
+<tr><td>siaf</td><td>ORG</td><td>6</td></tr>
+<tr><td>rmse</td><td>ORG</td><td>6</td></tr>
+<tr><td>rdp ii</td><td>ORG</td><td>6</td></tr>
+<tr><td>rural enterprises and remittances project</td><td>ORG</td><td>6</td></tr>
+<tr><td>rural entrepreneurship support project</td><td>ORG</td><td>6</td></tr>
+<tr><td>review</td><td>ORG</td><td>6</td></tr>
+<tr><td>sada</td><td>ORG</td><td>6</td></tr>
+<tr><td>sadc</td><td>ORG</td><td>6</td></tr>
+<tr><td>scu</td><td>ORG</td><td>6</td></tr>
+<tr><td>rpmu</td><td>LOC</td><td>6</td></tr>
+<tr><td>human dev</td><td>PERSON</td><td>5</td></tr>
+<tr><td>ine/rnd</td><td>ORG</td><td>5</td></tr>
+<tr><td>i. travaux</td><td>PERSON</td><td>5</td></tr>
+<tr><td>heis</td><td>ORG</td><td>5</td></tr>
+<tr><td>ibm</td><td>ORG</td><td>5</td></tr>
+<tr><td>iccs</td><td>ORG</td><td>5</td></tr>
+<tr><td>idb development objectives development challenges & cross</td><td>ORG</td><td>5</td></tr>
+<tr><td>ifad borrower</td><td>ORG</td><td>5</td></tr>
+<tr><td>isabu</td><td>ORG</td><td>5</td></tr>
+<tr><td>iram</td><td>ORG</td><td>5</td></tr>
+<tr><td>irm</td><td>ORG</td><td>5</td></tr>
+<tr><td>iwm</td><td>ORG</td><td>5</td></tr>
+<tr><td>iwumd</td><td>ORG</td><td>5</td></tr>
+<tr><td>industrialise africa</td><td>GPE</td><td>5</td></tr>
+<tr><td>institutional strengthening and capacity building</td><td>ORG</td><td>5</td></tr>
+<tr><td>international bank for reconstruction and development</td><td>ORG</td><td>5</td></tr>
+<tr><td>green climate fund</td><td>ORG</td><td>5</td></tr>
+<tr><td>integrated water resources management</td><td>ORG</td><td>5</td></tr>
+<tr><td>integrate africa</td><td>GPE</td><td>5</td></tr>
+<tr><td>guarantee fund</td><td>ORG</td><td>5</td></tr>
+<tr><td>financial management specialist</td><td>ORG</td><td>5</td></tr>
+<tr><td>gonzalo muñoz</td><td>PERSON</td><td>5</td></tr>
+<tr><td>glazoué</td><td>GPE</td><td>5</td></tr>
+<tr><td>fmp/cbo</td><td>ORG</td><td>5</td></tr>
+<tr><td>fo</td><td>ORG</td><td>5</td></tr>
+<tr><td>kalro</td><td>ORG</td><td>5</td></tr>
+<tr><td>frgc</td><td>ORG</td><td>5</td></tr>
+<tr><td>fspp</td><td>ORG</td><td>5</td></tr>
+<tr><td>farmer organizations</td><td>ORG</td><td>5</td></tr>
+<tr><td>finance</td><td>ORG</td><td>5</td></tr>
+<tr><td>finance old financing source amount international development association</td><td>ORG</td><td>5</td></tr>
+<tr><td>financial institutions</td><td>ORG</td><td>5</td></tr>
+<tr><td>financial management (fm</td><td>ORG</td><td>5</td></tr>
+<tr><td>freetown</td><td>ORG</td><td>5</td></tr>
+<tr><td>gd cc</td><td>ORG</td><td>5</td></tr>
+<tr><td>geep</td><td>ORG</td><td>5</td></tr>
+<tr><td>grs</td><td>ORG</td><td>5</td></tr>
+<tr><td>garry charlier</td><td>PERSON</td><td>5</td></tr>
+<tr><td>gender equality yes labor environment</td><td>PERSON</td><td>5</td></tr>
+<tr><td>georgetown</td><td>GPE</td><td>5</td></tr>
+<tr><td>ghana incentive</td><td>ORG</td><td>5</td></tr>
+<tr><td>gilbert f. houngbo président</td><td>PERSON</td><td>5</td></tr>
+<tr><td>interventions or solutions</td><td>ORG</td><td>5</td></tr>
+<tr><td>martien van nieuwkoop</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kaffrine</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kalalé</td><td>PERSON</td><td>5</td></tr>
+<tr><td>mod</td><td>ORG</td><td>5</td></tr>
+<tr><td>mot</td><td>ORG</td><td>5</td></tr>
+<tr><td>management information system</td><td>ORG</td><td>5</td></tr>
+<tr><td>mark e. cackler</td><td>PERSON</td><td>5</td></tr>
+<tr><td>mindat</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministries</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministry of agriculture total</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministry of commerce</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministry of economy and finance</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministry of environment</td><td>ORG</td><td>5</td></tr>
+<tr><td>ministry of rural development</td><td>ORG</td><td>5</td></tr>
+<tr><td>mission antyodaya</td><td>ORG</td><td>5</td></tr>
+<tr><td>mitigative</td><td>GPE</td><td>5</td></tr>
+<tr><td>morjkip</td><td>ORG</td><td>5</td></tr>
+<tr><td>moldsilva</td><td>ORG</td><td>5</td></tr>
+<tr><td>muchinga</td><td>PERSON</td><td>5</td></tr>
+<tr><td>mullaitivu</td><td>GPE</td><td>5</td></tr>
+<tr><td>fad</td><td>ORG</td><td>5</td></tr>
+<tr><td>muyinga provinces</td><td>PERSON</td><td>5</td></tr>
+<tr><td>minecofin</td><td>PERSON</td><td>5</td></tr>
+<tr><td>mif</td><td>ORG</td><td>5</td></tr>
+<tr><td>mic</td><td>ORG</td><td>5</td></tr>
+<tr><td>lesotho➢</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kandi</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kara</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kayanza</td><td>PERSON</td><td>5</td></tr>
+<tr><td>kilinochchi</td><td>GPE</td><td>5</td></tr>
+<tr><td>kyrgyz</td><td>ORG</td><td>5</td></tr>
+<tr><td>lrcp</td><td>ORG</td><td>5</td></tr>
+<tr><td>la paz</td><td>GPE</td><td>5</td></tr>
+<tr><td>lack</td><td>ORG</td><td>5</td></tr>
+<tr><td>luapula</td><td>GPE</td><td>5</td></tr>
+<tr><td>mh</td><td>ORG</td><td>5</td></tr>
+<tr><td>luwero</td><td>GPE</td><td>5</td></tr>
+<tr><td>l’emprunteur/bénéficiaire</td><td>ORG</td><td>5</td></tr>
+<tr><td>m&e specialist</td><td>PERSON</td><td>5</td></tr>
+<tr><td>maffs</td><td>ORG</td><td>5</td></tr>
+<tr><td>mai</td><td>ORG</td><td>5</td></tr>
+<tr><td>mcp</td><td>ORG</td><td>5</td></tr>
+<tr><td>mdg</td><td>ORG</td><td>5</td></tr>
+<tr><td>mgds</td><td>ORG</td><td>5</td></tr>
+<tr><td>fmd</td><td>ORG</td><td>5</td></tr>
+<tr><td>agriculture lending instrument:</td><td>ORG</td><td>5</td></tr>
+<tr><td>estados unidos de américa</td><td>PERSON</td><td>5</td></tr>
+<tr><td>east africa</td><td>GPE</td><td>5</td></tr>
+<tr><td>afdb statistics department</td><td>ORG</td><td>5</td></tr>
+<tr><td>afri</td><td>LOC</td><td>5</td></tr>
+<tr><td>agribusiness</td><td>ORG</td><td>5</td></tr>
+<tr><td>agricultural development</td><td>ORG</td><td>5</td></tr>
+<tr><td>agropole sud</td><td>PERSON</td><td>5</td></tr>
+<tr><td>al finalizar el</td><td>PERSON</td><td>5</td></tr>
+<tr><td>annex b7 of volume</td><td>ORG</td><td>5</td></tr>
+<tr><td>annuelle urgp</td><td>PERSON</td><td>5</td></tr>
+<tr><td>bgeee</td><td>ORG</td><td>5</td></tr>
+<tr><td>borrower/recipient 0.00 international development association</td><td>ORG</td><td>5</td></tr>
+<tr><td>bos</td><td>PERSON</td><td>5</td></tr>
+<tr><td>bt</td><td>GPE</td><td>5</td></tr>
+<tr><td>bank procurement methods and procedures</td><td>ORG</td><td>5</td></tr>
+<tr><td>banzon</td><td>ORG</td><td>5</td></tr>
+<tr><td>batticaloa</td><td>PERSON</td><td>5</td></tr>
+<tr><td>belgium</td><td>GPE</td><td>5</td></tr>
+<tr><td>belize</td><td>GPE</td><td>5</td></tr>
+<tr><td>beneficiaries 2.5.1</td><td>ORG</td><td>5</td></tr>
+<tr><td>bissora</td><td>GPE</td><td>5</td></tr>
+<tr><td>af ri</td><td>PERSON</td><td>5</td></tr>
+<tr><td>administration</td><td>ORG</td><td>5</td></tr>
+<tr><td>adaptation fund</td><td>ORG</td><td>5</td></tr>
+<tr><td>adf & ntf</td><td>ORG</td><td>5</td></tr>
+<tr><td>n/a 4</td><td>ORG</td><td>5</td></tr>
+<tr><td>0,9 prev</td><td>ORG</td><td>5</td></tr>
+<tr><td>1.2.5</td><td>PERSON</td><td>5</td></tr>
+<tr><td>3,0</td><td>ORG</td><td>5</td></tr>
+<tr><td>4,1</td><td>ORG</td><td>5</td></tr>
+<tr><td>5,4 total fertility rate</td><td>ORG</td><td>5</td></tr>
+<tr><td>aamp</td><td>ORG</td><td>5</td></tr>
+<tr><td>acp</td><td>ORG</td><td>5</td></tr>
+<tr><td>afo</td><td>ORG</td><td>5</td></tr>
+<tr><td>accounting and reporting</td><td>ORG</td><td>5</td></tr>
+<tr><td>african development bank group</td><td>ORG</td><td>5</td></tr>
+<tr><td>afsvpa</td><td>ORG</td><td>5</td></tr>
+<tr><td>aif-2</td><td>ORG</td><td>5</td></tr>
+<tr><td>annex</td><td>ORG</td><td>5</td></tr>
+<tr><td>annex iii</td><td>ORG</td><td>5</td></tr>
+<tr><td>artci</td><td>ORG</td><td>5</td></tr>
+<tr><td>asrr</td><td>ORG</td><td>5</td></tr>
+<tr><td>awf</td><td>ORG</td><td>5</td></tr>
+<tr><td>board of directors</td><td>ORG</td><td>5</td></tr>
+<tr><td>bolaman</td><td>PERSON</td><td>5</td></tr>
+<tr><td>bouenza</td><td>ORG</td><td>5</td></tr>
+<tr><td>djt</td><td>ORG</td><td>5</td></tr>
+<tr><td>component</td><td>GPE</td><td>5</td></tr>
+<tr><td>components</td><td>ORG</td><td>5</td></tr>
+<tr><td>contribuer</td><td>GPE</td><td>5</td></tr>
+<tr><td>control</td><td>ORG</td><td>5</td></tr>
+<tr><td>council of ministers</td><td>ORG</td><td>5</td></tr>
+<tr><td>counterpart</td><td>ORG</td><td>5</td></tr>
+<tr><td>country partnership strategy</td><td>ORG</td><td>5</td></tr>
+<tr><td>dgper</td><td>ORG</td><td>5</td></tr>
+<tr><td>drslp ii</td><td>ORG</td><td>5</td></tr>
+<tr><td>compl</td><td>ORG</td><td>5</td></tr>
+<tr><td>dus</td><td>ORG</td><td>5</td></tr>
+<tr><td>de plus</td><td>ORG</td><td>5</td></tr>
+<tr><td>dekhan</td><td>GPE</td><td>5</td></tr>
+<tr><td>delta</td><td>LOC</td><td>5</td></tr>
+<tr><td>democratic republic of congo</td><td>GPE</td><td>5</td></tr>
+<tr><td>departments</td><td>ORG</td><td>5</td></tr>
+<tr><td>dolisie</td><td>PERSON</td><td>5</td></tr>
+<tr><td>dwambazi</td><td>PERSON</td><td>5</td></tr>
+<tr><td>completio</td><td>GPE</td><td>5</td></tr>
+<tr><td>cochabamba</td><td>PERSON</td><td>5</td></tr>
+<tr><td>bukedea</td><td>GPE</td><td>5</td></tr>
+<tr><td>cie</td><td>ORG</td><td>5</td></tr>
+<tr><td>bulambuli</td><td>GPE</td><td>5</td></tr>
+<tr><td>bureau of statistics</td><td>ORG</td><td>5</td></tr>
+<tr><td>burkina</td><td>GPE</td><td>5</td></tr>
+<tr><td>bélier</td><td>ORG</td><td>5</td></tr>
+<tr><td>c. components</td><td>PERSON</td><td>5</td></tr>
+<tr><td>ccardesa</td><td>ORG</td><td>5</td></tr>
+<tr><td>cep</td><td>ORG</td><td>5</td></tr>
+<tr><td>ces</td><td>ORG</td><td>5</td></tr>
+<tr><td>cip</td><td>ORG</td><td>5</td></tr>
+<tr><td>child immunization against tuberculosis</td><td>ORG</td><td>5</td></tr>
+<tr><td>ck</td><td>ORG</td><td>5</td></tr>
+<tr><td>co2e</td><td>PERSON</td><td>5</td></tr>
+<tr><td>covid</td><td>ORG</td><td>5</td></tr>
+<tr><td>crc</td><td>ORG</td><td>5</td></tr>
+<tr><td>ctf</td><td>ORG</td><td>5</td></tr>
+<tr><td>carrasco</td><td>GPE</td><td>5</td></tr>
+<tr><td>cashier</td><td>PERSON</td><td>5</td></tr>
+<tr><td>centre</td><td>PERSON</td><td>5</td></tr>
+<tr><td>n.b.</td><td>GPE</td><td>5</td></tr>
+<tr><td>vvv</td><td>ORG</td><td>5</td></tr>
+<tr><td>n/a idb</td><td>ORG</td><td>5</td></tr>
+<tr><td>stakeholder</td><td>PERSON</td><td>5</td></tr>
+<tr><td>ziguinchor</td><td>GPE</td><td>5</td></tr>
+<tr><td>an environmental and social management framework</td><td>ORG</td><td>5</td></tr>
+<tr><td>avian influenza</td><td>PERSON</td><td>5</td></tr>
+<tr><td>caprina</td><td>GPE</td><td>5</td></tr>
+<tr><td>cashew</td><td>ORG</td><td>5</td></tr>
+<tr><td>cassava</td><td>GPE</td><td>5</td></tr>
+<tr><td>catégorie</td><td>PERSON</td><td>5</td></tr>
+<tr><td>eu</td><td>GPE</td><td>5</td></tr>
+<tr><td>fertilizer applicator</td><td>PERSON</td><td>5</td></tr>
+<tr><td>ii</td><td>GPE</td><td>5</td></tr>
+<tr><td>iii</td><td>GPE</td><td>5</td></tr>
+<tr><td>inter alia</td><td>ORG</td><td>5</td></tr>
+<tr><td>le projet</td><td>ORG</td><td>5</td></tr>
+<tr><td>non-state</td><td>GPE</td><td>5</td></tr>
+<tr><td>the atlantic ocean</td><td>LOC</td><td>5</td></tr>
+<tr><td>the bank for the project</td><td>ORG</td><td>5</td></tr>
+<tr><td>the bank of ghana</td><td>ORG</td><td>5</td></tr>
+<tr><td>the bank’s board of directors</td><td>ORG</td><td>5</td></tr>
+<tr><td>the board of directors of the fund</td><td>ORG</td><td>5</td></tr>
+<tr><td>zagnanado</td><td>GPE</td><td>5</td></tr>
+<tr><td>y1 means</td><td>ORG</td><td>5</td></tr>
+<tr><td>world food program</td><td>ORG</td><td>5</td></tr>
+<tr><td>tilapia</td><td>ORG</td><td>5</td></tr>
+<tr><td>sustainable land management program</td><td>ORG</td><td>5</td></tr>
+<tr><td>tn</td><td>ORG</td><td>5</td></tr>
+<tr><td>tchaourou</td><td>GPE</td><td>5</td></tr>
+<tr><td>the environmental and social management framework</td><td>ORG</td><td>5</td></tr>
+<tr><td>the world bank cashew value-chain competitiveness project</td><td>ORG</td><td>5</td></tr>
+<tr><td>the world bank climate</td><td>ORG</td><td>5</td></tr>
+<tr><td>the world bank regional and local roads connectivity</td><td>ORG</td><td>5</td></tr>
+<tr><td>the world bank uy - covid-19 response & economic recovery (p172796</td><td>ORG</td><td>5</td></tr>
+<tr><td>total factor productivity</td><td>ORG</td><td>5</td></tr>
+<tr><td>world economic outlook</td><td>ORG</td><td>5</td></tr>
+<tr><td>uad</td><td>ORG</td><td>5</td></tr>
+<tr><td>uep</td><td>ORG</td><td>5</td></tr>
+<tr><td>unesco</td><td>ORG</td><td>5</td></tr>
+<tr><td>united nations development program</td><td>ORG</td><td>5</td></tr>
+<tr><td>v. legal framework</td><td>ORG</td><td>5</td></tr>
+<tr><td>van wouw</td><td>PERSON</td><td>5</td></tr>
+<tr><td>vision 2030</td><td>ORG</td><td>5</td></tr>
+<tr><td>william skinner</td><td>PERSON</td><td>5</td></tr>
+<tr><td>the bugesera natural region</td><td>LOC</td><td>5</td></tr>
+<tr><td>the central african government</td><td>ORG</td><td>5</td></tr>
+<tr><td>the congo basin</td><td>LOC</td><td>5</td></tr>
+<tr><td>the rural restructuring agency</td><td>ORG</td><td>5</td></tr>
+<tr><td>the nickerie river</td><td>LOC</td><td>5</td></tr>
+<tr><td>the people’s republic of bangladesh</td><td>GPE</td><td>5</td></tr>
+<tr><td>the permanent secretariat</td><td>ORG</td><td>5</td></tr>
+<tr><td>the project to support development</td><td>ORG</td><td>5</td></tr>
+<tr><td>the regional technology delivery infrastructure</td><td>ORG</td><td>5</td></tr>
+<tr><td>the republic of south sudan</td><td>GPE</td><td>5</td></tr>
+<tr><td>the republic of turkey</td><td>GPE</td><td>5</td></tr>
+<tr><td>the results matrix</td><td>PERSON</td><td>5</td></tr>
+<tr><td>the special contractual conditions</td><td>ORG</td><td>5</td></tr>
+<tr><td>the nanni weir</td><td>ORG</td><td>5</td></tr>
+<tr><td>the standard bidding documents</td><td>ORG</td><td>5</td></tr>
+<tr><td>the terms and financial conditions</td><td>ORG</td><td>5</td></tr>
+<tr><td>the united nations framework convention on climate change</td><td>ORG</td><td>5</td></tr>
+<tr><td>the world bank (wb</td><td>ORG</td><td>5</td></tr>
+<tr><td>totalité ou</td><td>PERSON</td><td>5</td></tr>
+<tr><td>à la catégorie ii</td><td>PERSON</td><td>5</td></tr>
+<tr><td>√ √</td><td>GPE</td><td>5</td></tr>
+<tr><td>nbi</td><td>ORG</td><td>5</td></tr>
+<tr><td>the national agricultural investment programme</td><td>ORG</td><td>5</td></tr>
+<tr><td>the nanni creek</td><td>LOC</td><td>5</td></tr>
+<tr><td>the cooperative republic of guyana</td><td>GPE</td><td>5</td></tr>
+<tr><td>the islamic development bank</td><td>ORG</td><td>5</td></tr>
+<tr><td>the country strategy</td><td>ORG</td><td>5</td></tr>
+<tr><td>the debt sustainability framework</td><td>ORG</td><td>5</td></tr>
+<tr><td>the department of agriculture</td><td>ORG</td><td>5</td></tr>
+<tr><td>the department of fisheries</td><td>ORG</td><td>5</td></tr>
+<tr><td>the implementing partners</td><td>ORG</td><td>5</td></tr>
+<tr><td>the internal audit unit</td><td>ORG</td><td>5</td></tr>
+<tr><td>the international center for tropical agriculture</td><td>ORG</td><td>5</td></tr>
+<tr><td>the international finance corporation</td><td>ORG</td><td>5</td></tr>
+<tr><td>the islamic republic of mauritania</td><td>GPE</td><td>5</td></tr>
+<tr><td>the ministry of industry</td><td>ORG</td><td>5</td></tr>
+<tr><td>the japan international cooperation agency</td><td>ORG</td><td>5</td></tr>
+<tr><td>the lending policies</td><td>ORG</td><td>5</td></tr>
+<tr><td>the matching grants program</td><td>ORG</td><td>5</td></tr>
+<tr><td>the ministry</td><td>ORG</td><td>5</td></tr>
+<tr><td>the ministry of agriculture and agricultural entrepreneurship</td><td>ORG</td><td>5</td></tr>
+<tr><td>the ministry of agriculture and water resources</td><td>ORG</td><td>5</td></tr>
+<tr><td>the ministry of agriculture, livestock and fisheries</td><td>ORG</td><td>5</td></tr>
+<tr><td>the ministry of environment and energy</td><td>ORG</td><td>5</td></tr>
+<tr><td>stondansi</td><td>GPE</td><td>5</td></tr>
+<tr><td>the project executing agency</td><td>ORG</td><td>5</td></tr>
+<tr><td>south america</td><td>LOC</td><td>5</td></tr>
+<tr><td>pwp</td><td>ORG</td><td>5</td></tr>
+<tr><td>p159382</td><td>PERSON</td><td>5</td></tr>
+<tr><td>pacd</td><td>ORG</td><td>5</td></tr>
+<tr><td>padir</td><td>ORG</td><td>5</td></tr>
+<tr><td>papi</td><td>ORG</td><td>5</td></tr>
+<tr><td>pasandad</td><td>ORG</td><td>5</td></tr>
+<tr><td>pbo</td><td>ORG</td><td>5</td></tr>
+<tr><td>pcu</td><td>ORG</td><td>5</td></tr>
+<tr><td>pda</td><td>ORG</td><td>5</td></tr>
+<tr><td>pdu</td><td>ORG</td><td>5</td></tr>
+<tr><td>pidd</td><td>ORG</td><td>5</td></tr>
+<tr><td>pio</td><td>ORG</td><td>5</td></tr>
+<tr><td>pmo</td><td>ORG</td><td>5</td></tr>
+<tr><td>pmu m&e</td><td>ORG</td><td>5</td></tr>
+<tr><td>pnisa</td><td>ORG</td><td>5</td></tr>
+<tr><td>po</td><td>ORG</td><td>5</td></tr>
+<tr><td>pod</td><td>ORG</td><td>5</td></tr>
+<tr><td>pp</td><td>ORG</td><td>5</td></tr>
+<tr><td>prac</td><td>ORG</td><td>5</td></tr>
+<tr><td>presar</td><td>ORG</td><td>5</td></tr>
+<tr><td>ouagadougou</td><td>GPE</td><td>5</td></tr>
+<tr><td>oshana</td><td>PERSON</td><td>5</td></tr>
+<tr><td>operational program report</td><td>ORG</td><td>5</td></tr>
+<tr><td>nin-pratt</td><td>PERSON</td><td>5</td></tr>
+<tr><td>nds</td><td>ORG</td><td>5</td></tr>
+<tr><td>sound</td><td>LOC</td><td>5</td></tr>
+<tr><td>nepad</td><td>ORG</td><td>5</td></tr>
+<tr><td>nampula</td><td>GPE</td><td>5</td></tr>
+<tr><td>national agricultural census</td><td>ORG</td><td>5</td></tr>
+<tr><td>national bureau of statistics</td><td>ORG</td><td>5</td></tr>
+<tr><td>national project steering committee</td><td>ORG</td><td>5</td></tr>
+<tr><td>nigerien</td><td>GPE</td><td>5</td></tr>
+<tr><td>nina chee</td><td>PERSON</td><td>5</td></tr>
+<tr><td>owmcp</td><td>ORG</td><td>5</td></tr>
+<tr><td>njala university</td><td>ORG</td><td>5</td></tr>
+<tr><td>non-governmental organisation</td><td>ORG</td><td>5</td></tr>
+<tr><td>north lebanon</td><td>GPE</td><td>5</td></tr>
+<tr><td>north-west</td><td>GPE</td><td>5</td></tr>
+<tr><td>ocb national post n prior</td><td>ORG</td><td>5</td></tr>
+<tr><td>ofid</td><td>ORG</td><td>5</td></tr>
+<tr><td>ohs</td><td>ORG</td><td>5</td></tr>
+<tr><td>op/bp</td><td>ORG</td><td>5</td></tr>
+<tr><td>ps</td><td>ORG</td><td>5</td></tr>
+<tr><td>nil</td><td>GPE</td><td>5</td></tr>
+<tr><td>pacific</td><td>LOC</td><td>5</td></tr>
+<tr><td>sndd</td><td>ORG</td><td>5</td></tr>
+<tr><td>rural adelante</td><td>ORG</td><td>5</td></tr>
+<tr><td>rural development program ii</td><td>ORG</td><td>5</td></tr>
+<tr><td>sacep</td><td>ORG</td><td>5</td></tr>
+<tr><td>sadcp</td><td>ORG</td><td>5</td></tr>
+<tr><td>sf</td><td>GPE</td><td>5</td></tr>
+<tr><td>sigeseva</td><td>ORG</td><td>5</td></tr>
+<tr><td>sisa</td><td>ORG</td><td>5</td></tr>
+<tr><td>slwm</td><td>ORG</td><td>5</td></tr>
+<tr><td>soe</td><td>ORG</td><td>5</td></tr>
+<tr><td>resilience grant</td><td>PERSON</td><td>5</td></tr>
+<tr><td>sps</td><td>ORG</td><td>5</td></tr>
+<tr><td>srbmp</td><td>ORG</td><td>5</td></tr>
+<tr><td>san juan</td><td>GPE</td><td>5</td></tr>
+<tr><td>scheduled tribes</td><td>PERSON</td><td>5</td></tr>
+<tr><td>section i.d of schedule 2</td><td>ORG</td><td>5</td></tr>
+<tr><td>sofala</td><td>PERSON</td><td>5</td></tr>
+<tr><td>parakou</td><td>GPE</td><td>5</td></tr>
+<tr><td>sierra leonean</td><td>PERSON</td><td>5</td></tr>
+<tr><td>romina kirkagacli</td><td>PERSON</td><td>5</td></tr>
+<tr><td>sstc</td><td>ORG</td><td>5</td></tr>
+<tr><td>region 9</td><td>LOC</td><td>5</td></tr>
+<tr><td>que</td><td>ORG</td><td>5</td></tr>
+<tr><td>policy dialogue</td><td>PERSON</td><td>5</td></tr>
+<tr><td>radoniqi</td><td>ORG</td><td>5</td></tr>
+<tr><td>percent</td><td>ORG</td><td>5</td></tr>
+<tr><td>portugal</td><td>GPE</td><td>5</td></tr>
+<tr><td>productive alliance</td><td>ORG</td><td>5</td></tr>
+<tr><td>project completion report</td><td>ORG</td><td>5</td></tr>
+<tr><td>project implementation manual</td><td>ORG</td><td>5</td></tr>
+<tr><td>project management team</td><td>ORG</td><td>5</td></tr>
+<tr><td>primary school female teaching staff</td><td>ORG</td><td>5</td></tr>
+<tr><td>rb</td><td>ORG</td><td>5</td></tr>
+<tr><td>rf</td><td>ORG</td><td>5</td></tr>
+<tr><td>rsf</td><td>GPE</td><td>5</td></tr>
+<tr><td>rpba</td><td>ORG</td><td>5</td></tr>
+<tr><td>rcb</td><td>ORG</td><td>5</td></tr>
+<tr><td>rfp</td><td>PERSON</td><td>5</td></tr>
+<tr><td>plateaux</td><td>PERSON</td><td>5</td></tr>
+<tr><td>rdb</td><td>ORG</td><td>5</td></tr>
+<tr><td>results chain performance indicators means</td><td>ORG</td><td>5</td></tr>
+<tr><td>international fund for agricultural development</td><td>ORG</td><td>4</td></tr>
+<tr><td>iso</td><td>ORG</td><td>4</td></tr>
+<tr><td>iscl osure_ta ble pest management plan</td><td>ORG</td><td>4</td></tr>
+<tr><td>ipsas</td><td>ORG</td><td>4</td></tr>
+<tr><td>ipnm</td><td>ORG</td><td>4</td></tr>
+<tr><td>ipd-sa</td><td>ORG</td><td>4</td></tr>
+<tr><td>horn of africa</td><td>LOC</td><td>4</td></tr>
+<tr><td>ita</td><td>ORG</td><td>4</td></tr>
+<tr><td>high-5</td><td>ORG</td><td>4</td></tr>
+<tr><td>inp-esa</td><td>ORG</td><td>4</td></tr>
+<tr><td>inera</td><td>GPE</td><td>4</td></tr>
+<tr><td>ine</td><td>ORG</td><td>4</td></tr>
+<tr><td>ida-h7410</td><td>ORG</td><td>4</td></tr>
+<tr><td>iclt</td><td>ORG</td><td>4</td></tr>
+<tr><td>hydro</td><td>PERSON</td><td>4</td></tr>
+<tr><td>ifad’s board</td><td>ORG</td><td>4</td></tr>
+<tr><td>institute of agrarian development</td><td>ORG</td><td>4</td></tr>
+<tr><td>iganga</td><td>GPE</td><td>4</td></tr>
+<tr><td>il sera</td><td>PERSON</td><td>4</td></tr>
+<tr><td>jules cesaire yaganza</td><td>PERSON</td><td>4</td></tr>
+<tr><td>jiangxi province</td><td>GPE</td><td>4</td></tr>
+<tr><td>haitian</td><td>GPE</td><td>4</td></tr>
+<tr><td>italie appendix</td><td>GPE</td><td>4</td></tr>
+<tr><td>iowa</td><td>GPE</td><td>4</td></tr>
+<tr><td>international monetary fund</td><td>ORG</td><td>4</td></tr>
+<tr><td>international food policy research institute</td><td>ORG</td><td>4</td></tr>
+<tr><td>international financial statistics</td><td>ORG</td><td>4</td></tr>
+<tr><td>international finance corporation</td><td>ORG</td><td>4</td></tr>
+<tr><td>international agricultural research</td><td>ORG</td><td>4</td></tr>
+<tr><td>infrastructure development</td><td>ORG</td><td>4</td></tr>
+<tr><td>inclusive growth</td><td>ORG</td><td>4</td></tr>
+<tr><td>inclusion</td><td>ORG</td><td>4</td></tr>
+<tr><td>implementing agencies</td><td>ORG</td><td>4</td></tr>
+<tr><td>implementation progress</td><td>ORG</td><td>4</td></tr>
+<tr><td>harari</td><td>ORG</td><td>4</td></tr>
+<tr><td>gibader</td><td>ORG</td><td>4</td></tr>
+<tr><td>hva</td><td>ORG</td><td>4</td></tr>
+<tr><td>gdi</td><td>ORG</td><td>4</td></tr>
+<tr><td>food security and nutrition project</td><td>ORG</td><td>4</td></tr>
+<tr><td>fitch</td><td>ORG</td><td>4</td></tr>
+<tr><td>financial services</td><td>ORG</td><td>4</td></tr>
+<tr><td>final goal means</td><td>ORG</td><td>4</td></tr>
+<tr><td>fernando glasman</td><td>PERSON</td><td>4</td></tr>
+<tr><td>farmers associations</td><td>ORG</td><td>4</td></tr>
+<tr><td>farm consolidation</td><td>ORG</td><td>4</td></tr>
+<tr><td>fy16</td><td>GPE</td><td>4</td></tr>
+<tr><td>fnpv</td><td>ORG</td><td>4</td></tr>
+<tr><td>fms</td><td>GPE</td><td>4</td></tr>
+<tr><td>fies</td><td>ORG</td><td>4</td></tr>
+<tr><td>ffs</td><td>ORG</td><td>4</td></tr>
+<tr><td>fapa</td><td>ORG</td><td>4</td></tr>
+<tr><td>ka</td><td>GPE</td><td>4</td></tr>
+<tr><td>famv</td><td>ORG</td><td>4</td></tr>
+<tr><td>gaap</td><td>ORG</td><td>4</td></tr>
+<tr><td>general state policies</td><td>ORG</td><td>4</td></tr>
+<tr><td>hhs</td><td>ORG</td><td>4</td></tr>
+<tr><td>gharb</td><td>GPE</td><td>4</td></tr>
+<tr><td>ha-l1107/</td><td>ORG</td><td>4</td></tr>
+<tr><td>ha intake</td><td>PERSON</td><td>4</td></tr>
+<tr><td>gum arabic</td><td>PERSON</td><td>4</td></tr>
+<tr><td>gulf</td><td>LOC</td><td>4</td></tr>
+<tr><td>guinea-bissau''s</td><td>GPE</td><td>4</td></tr>
+<tr><td>guarantee</td><td>ORG</td><td>4</td></tr>
+<tr><td>groundnut</td><td>PERSON</td><td>4</td></tr>
+<tr><td>government of odisha</td><td>ORG</td><td>4</td></tr>
+<tr><td>good agricultural practices</td><td>ORG</td><td>4</td></tr>
+<tr><td>gogounou</td><td>GPE</td><td>4</td></tr>
+<tr><td>goss</td><td>ORG</td><td>4</td></tr>
+<tr><td>goo</td><td>ORG</td><td>4</td></tr>
+<tr><td>gon</td><td>PERSON</td><td>4</td></tr>
+<tr><td>goh</td><td>ORG</td><td>4</td></tr>
+<tr><td>gob</td><td>ORG</td><td>4</td></tr>
+<tr><td>juvenal nzambimana</td><td>PERSON</td><td>4</td></tr>
+<tr><td>macias</td><td>ORG</td><td>4</td></tr>
+<tr><td>ku</td><td>ORG</td><td>4</td></tr>
+<tr><td>mpa</td><td>ORG</td><td>4</td></tr>
+<tr><td>maurit</td><td>PERSON</td><td>4</td></tr>
+<tr><td>maratakka spillway</td><td>ORG</td><td>4</td></tr>
+<tr><td>maratakka river</td><td>LOC</td><td>4</td></tr>
+<tr><td>maratakka</td><td>ORG</td><td>4</td></tr>
+<tr><td>map</td><td>PERSON</td><td>4</td></tr>
+<tr><td>manuel</td><td>PERSON</td><td>4</td></tr>
+<tr><td>manual</td><td>PERSON</td><td>4</td></tr>
+<tr><td>manivannan pathy</td><td>PERSON</td><td>4</td></tr>
+<tr><td>manica</td><td>GPE</td><td>4</td></tr>
+<tr><td>malawi, mali</td><td>ORG</td><td>4</td></tr>
+<tr><td>malawi growth and development strategy</td><td>ORG</td><td>4</td></tr>
+<tr><td>malawi africa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>majbritt fiil-flynn</td><td>PERSON</td><td>4</td></tr>
+<tr><td>mzn</td><td>ORG</td><td>4</td></tr>
+<tr><td>mpmd</td><td>ORG</td><td>4</td></tr>
+<tr><td>mayuge</td><td>GPE</td><td>4</td></tr>
+<tr><td>medium</td><td>GPE</td><td>4</td></tr>
+<tr><td>melinda gates foundation</td><td>ORG</td><td>4</td></tr>
+<tr><td>moneragala</td><td>GPE</td><td>4</td></tr>
+<tr><td>eritrea</td><td>GPE</td><td>4</td></tr>
+<tr><td>n/a vi</td><td>ORG</td><td>4</td></tr>
+<tr><td>municipio</td><td>ORG</td><td>4</td></tr>
+<tr><td>mukono</td><td>GPE</td><td>4</td></tr>
+<tr><td>mount lebanon</td><td>GPE</td><td>4</td></tr>
+<tr><td>monitoring & evaluation</td><td>ORG</td><td>4</td></tr>
+<tr><td>moaf</td><td>ORG</td><td>4</td></tr>
+<tr><td>millet</td><td>PERSON</td><td>4</td></tr>
+<tr><td>mitigation measures</td><td>ORG</td><td>4</td></tr>
+<tr><td>ministry of trade and industry</td><td>ORG</td><td>4</td></tr>
+<tr><td>ministry of agriculture, livestock and fisheries</td><td>ORG</td><td>4</td></tr>
+<tr><td>ministry of agriculture, forestry</td><td>ORG</td><td>4</td></tr>
+<tr><td>ministry of agriculture and forestry</td><td>ORG</td><td>4</td></tr>
+<tr><td>ministry of agriculture contact:</td><td>ORG</td><td>4</td></tr>
+<tr><td>mpi</td><td>ORG</td><td>4</td></tr>
+<tr><td>mics</td><td>ORG</td><td>4</td></tr>
+<tr><td>kapchorwa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>mdpac</td><td>ORG</td><td>4</td></tr>
+<tr><td>lrad</td><td>ORG</td><td>4</td></tr>
+<tr><td>lra</td><td>ORG</td><td>4</td></tr>
+<tr><td>lisgis</td><td>ORG</td><td>4</td></tr>
+<tr><td>l''emprunteur</td><td>GPE</td><td>4</td></tr>
+<tr><td>kétou</td><td>GPE</td><td>4</td></tr>
+<tr><td>kédougou</td><td>GPE</td><td>4</td></tr>
+<tr><td>kyegegwa</td><td>GPE</td><td>4</td></tr>
+<tr><td>kurunegala</td><td>GPE</td><td>4</td></tr>
+<tr><td>kosovo➢</td><td>PERSON</td><td>4</td></tr>
+<tr><td>kirundo province</td><td>GPE</td><td>4</td></tr>
+<tr><td>kikwit</td><td>GPE</td><td>4</td></tr>
+<tr><td>kigongo</td><td>PERSON</td><td>4</td></tr>
+<tr><td>khartoum state</td><td>GPE</td><td>4</td></tr>
+<tr><td>khartoum</td><td>PERSON</td><td>4</td></tr>
+<tr><td>kenema</td><td>PERSON</td><td>4</td></tr>
+<tr><td>lake basin</td><td>LOC</td><td>4</td></tr>
+<tr><td>lake victoria</td><td>LOC</td><td>4</td></tr>
+<tr><td>le ctp</td><td>ORG</td><td>4</td></tr>
+<tr><td>ma</td><td>ORG</td><td>4</td></tr>
+<tr><td>mca</td><td>ORG</td><td>4</td></tr>
+<tr><td>marn</td><td>ORG</td><td>4</td></tr>
+<tr><td>maiea</td><td>ORG</td><td>4</td></tr>
+<tr><td>mafrd</td><td>ORG</td><td>4</td></tr>
+<tr><td>maff</td><td>ORG</td><td>4</td></tr>
+<tr><td>maah</td><td>ORG</td><td>4</td></tr>
+<tr><td>m. fregene</td><td>PERSON</td><td>4</td></tr>
+<tr><td>le ministère</td><td>ORG</td><td>4</td></tr>
+<tr><td>lukusuzi national park</td><td>LOC</td><td>4</td></tr>
+<tr><td>lower guinea</td><td>GPE</td><td>4</td></tr>
+<tr><td>lofa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>livestock</td><td>ORG</td><td>4</td></tr>
+<tr><td>lina salazar</td><td>PERSON</td><td>4</td></tr>
+<tr><td>legal instruments</td><td>ORG</td><td>4</td></tr>
+<tr><td>euros</td><td>PERSON</td><td>4</td></tr>
+<tr><td>bank➢</td><td>ORG</td><td>4</td></tr>
+<tr><td>equipment & materials</td><td>ORG</td><td>4</td></tr>
+<tr><td>bk</td><td>ORG</td><td>4</td></tr>
+<tr><td>australia</td><td>GPE</td><td>4</td></tr>
+<tr><td>argentinean</td><td>PERSON</td><td>4</td></tr>
+<tr><td>arboleya</td><td>ORG</td><td>4</td></tr>
+<tr><td>apr 25, 2018 page</td><td>PERSON</td><td>4</td></tr>
+<tr><td>appendix ii</td><td>ORG</td><td>4</td></tr>
+<tr><td>annuelle procar</td><td>PERSON</td><td>4</td></tr>
+<tr><td>annex vii</td><td>ORG</td><td>4</td></tr>
+<tr><td>annex eb 2015/114</td><td>ORG</td><td>4</td></tr>
+<tr><td>annex a4</td><td>ORG</td><td>4</td></tr>
+<tr><td>annex 4</td><td>ORG</td><td>4</td></tr>
+<tr><td>annex 1</td><td>ORG</td><td>4</td></tr>
+<tr><td>angola➢</td><td>PERSON</td><td>4</td></tr>
+<tr><td>amolatar</td><td>GPE</td><td>4</td></tr>
+<tr><td>americas</td><td>LOC</td><td>4</td></tr>
+<tr><td>amadou oumar ba</td><td>PERSON</td><td>4</td></tr>
+<tr><td>ayeyarwady</td><td>GPE</td><td>4</td></tr>
+<tr><td>bl-ni</td><td>ORG</td><td>4</td></tr>
+<tr><td>environmental and social management plan</td><td>ORG</td><td>4</td></tr>
+<tr><td>bos/pse</td><td>ORG</td><td>4</td></tr>
+<tr><td>bujumbura</td><td>GPE</td><td>4</td></tr>
+<tr><td>buikwe</td><td>PERSON</td><td>4</td></tr>
+<tr><td>budget</td><td>ORG</td><td>4</td></tr>
+<tr><td>brief</td><td>ORG</td><td>4</td></tr>
+<tr><td>box</td><td>PERSON</td><td>4</td></tr>
+<tr><td>bomi</td><td>PERSON</td><td>4</td></tr>
+<tr><td>boffa prefectures</td><td>ORG</td><td>4</td></tr>
+<tr><td>blue nile</td><td>LOC</td><td>4</td></tr>
+<tr><td>bignona</td><td>GPE</td><td>4</td></tr>
+<tr><td>biannuelle antenne</td><td>PERSON</td><td>4</td></tr>
+<tr><td>bekaa</td><td>GPE</td><td>4</td></tr>
+<tr><td>bank standard solicitation documents</td><td>ORG</td><td>4</td></tr>
+<tr><td>bank intervention</td><td>ORG</td><td>4</td></tr>
+<tr><td>bangui</td><td>GPE</td><td>4</td></tr>
+<tr><td>banana</td><td>PERSON</td><td>4</td></tr>
+<tr><td>al finalizar</td><td>PERSON</td><td>4</td></tr>
+<tr><td>agro</td><td>GPE</td><td>4</td></tr>
+<tr><td>agricultural value chains</td><td>ORG</td><td>4</td></tr>
+<tr><td>agricultural land</td><td>ORG</td><td>4</td></tr>
+<tr><td>adf grant</td><td>ORG</td><td>4</td></tr>
+<tr><td>ac</td><td>ORG</td><td>4</td></tr>
+<tr><td>abbreviations</td><td>ORG</td><td>4</td></tr>
+<tr><td>6 final</td><td>ORG</td><td>4</td></tr>
+<tr><td>5.2.4</td><td>ORG</td><td>4</td></tr>
+<tr><td>4 world bank</td><td>ORG</td><td>4</td></tr>
+<tr><td>3.2.9</td><td>ORG</td><td>4</td></tr>
+<tr><td>3.2.5 climate change</td><td>ORG</td><td>4</td></tr>
+<tr><td>2pai-bélier</td><td>GPE</td><td>4</td></tr>
+<tr><td>2pai- bÉlier bank intervention</td><td>ORG</td><td>4</td></tr>
+<tr><td>2.7 bank group</td><td>ORG</td><td>4</td></tr>
+<tr><td>2.5.3</td><td>ORG</td><td>4</td></tr>
+<tr><td>2,7</td><td>ORG</td><td>4</td></tr>
+<tr><td>1.1 project linkages with country strategy</td><td>ORG</td><td>4</td></tr>
+<tr><td>nb</td><td>GPE</td><td>4</td></tr>
+<tr><td>ael</td><td>ORG</td><td>4</td></tr>
+<tr><td>ageroute</td><td>ORG</td><td>4</td></tr>
+<tr><td>agex</td><td>ORG</td><td>4</td></tr>
+<tr><td>abomey-calavi</td><td>ORG</td><td>4</td></tr>
+<tr><td>agricultural financing incentive mechanism support project</td><td>ORG</td><td>4</td></tr>
+<tr><td>agribusiness development</td><td>ORG</td><td>4</td></tr>
+<tr><td>aggregation business centres</td><td>ORG</td><td>4</td></tr>
+<tr><td>african agricultural technology foundation</td><td>ORG</td><td>4</td></tr>
+<tr><td>afdb portfolio</td><td>ORG</td><td>4</td></tr>
+<tr><td>administrative and financial officer</td><td>ORG</td><td>4</td></tr>
+<tr><td>asepex</td><td>ORG</td><td>4</td></tr>
+<tr><td>alcs</td><td>PERSON</td><td>4</td></tr>
+<tr><td>ar</td><td>ORG</td><td>4</td></tr>
+<tr><td>approval</td><td>ORG</td><td>4</td></tr>
+<tr><td>apmt</td><td>ORG</td><td>4</td></tr>
+<tr><td>aop</td><td>ORG</td><td>4</td></tr>
+<tr><td>ande</td><td>ORG</td><td>4</td></tr>
+<tr><td>ancap</td><td>ORG</td><td>4</td></tr>
+<tr><td>business producer associations</td><td>ORG</td><td>4</td></tr>
+<tr><td>c-house</td><td>ORG</td><td>4</td></tr>
+<tr><td>c. fiduciary</td><td>PERSON</td><td>4</td></tr>
+<tr><td>d. fiduciary risk</td><td>PERSON</td><td>4</td></tr>
+<tr><td>disbursement letter</td><td>ORG</td><td>4</td></tr>
+<tr><td>digital</td><td>ORG</td><td>4</td></tr>
+<tr><td>deux</td><td>ORG</td><td>4</td></tr>
+<tr><td>design</td><td>ORG</td><td>4</td></tr>
+<tr><td>descripción</td><td>GPE</td><td>4</td></tr>
+<tr><td>democratic republic</td><td>GPE</td><td>4</td></tr>
+<tr><td>david tuchschneider</td><td>PERSON</td><td>4</td></tr>
+<tr><td>dsi</td><td>ORG</td><td>4</td></tr>
+<tr><td>dsce</td><td>ORG</td><td>4</td></tr>
+<tr><td>dpae</td><td>ORG</td><td>4</td></tr>
+<tr><td>dh</td><td>GPE</td><td>4</td></tr>
+<tr><td>dgfomr</td><td>ORG</td><td>4</td></tr>
+<tr><td>de-__/17 haiti</td><td>GPE</td><td>4</td></tr>
+<tr><td>dcea</td><td>ORG</td><td>4</td></tr>
+<tr><td>dapsa</td><td>ORG</td><td>4</td></tr>
+<tr><td>district population %</td><td>ORG</td><td>4</td></tr>
+<tr><td>djougou</td><td>GPE</td><td>4</td></tr>
+<tr><td>donga</td><td>PERSON</td><td>4</td></tr>
+<tr><td>esim</td><td>ORG</td><td>4</td></tr>
+<tr><td>environmental assessment (ea</td><td>ORG</td><td>4</td></tr>
+<tr><td>environm</td><td>GPE</td><td>4</td></tr>
+<tr><td>enable youth</td><td>PERSON</td><td>4</td></tr>
+<tr><td>el inra</td><td>ORG</td><td>4</td></tr>
+<tr><td>education</td><td>ORG</td><td>4</td></tr>
+<tr><td>economic interest group</td><td>ORG</td><td>4</td></tr>
+<tr><td>epp</td><td>ORG</td><td>4</td></tr>
+<tr><td>dosso</td><td>PERSON</td><td>4</td></tr>
+<tr><td>elcsa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>eif</td><td>ORG</td><td>4</td></tr>
+<tr><td>eg</td><td>ORG</td><td>4</td></tr>
+<tr><td>ebs</td><td>ORG</td><td>4</td></tr>
+<tr><td>eaeu</td><td>ORG</td><td>4</td></tr>
+<tr><td>dourou</td><td>ORG</td><td>4</td></tr>
+<tr><td>dafo</td><td>ORG</td><td>4</td></tr>
+<tr><td>d. concept description 14</td><td>PERSON</td><td>4</td></tr>
+<tr><td>c. summary</td><td>PERSON</td><td>4</td></tr>
+<tr><td>criteria</td><td>ORG</td><td>4</td></tr>
+<tr><td>category iii</td><td>PERSON</td><td>4</td></tr>
+<tr><td>category 2</td><td>ORG</td><td>4</td></tr>
+<tr><td>calificación</td><td>ORG</td><td>4</td></tr>
+<tr><td>cabinda municipality</td><td>GPE</td><td>4</td></tr>
+<tr><td>cz</td><td>GPE</td><td>4</td></tr>
+<tr><td>ctb</td><td>ORG</td><td>4</td></tr>
+<tr><td>css</td><td>ORG</td><td>4</td></tr>
+<tr><td>csr</td><td>ORG</td><td>4</td></tr>
+<tr><td>crf’s country development results indicator</td><td>ORG</td><td>4</td></tr>
+<tr><td>cpo</td><td>ORG</td><td>4</td></tr>
+<tr><td>cnp</td><td>ORG</td><td>4</td></tr>
+<tr><td>cncas</td><td>GPE</td><td>4</td></tr>
+<tr><td>cilss</td><td>ORG</td><td>4</td></tr>
+<tr><td>cgp</td><td>ORG</td><td>4</td></tr>
+<tr><td>ccp</td><td>ORG</td><td>4</td></tr>
+<tr><td>central af</td><td>LOC</td><td>4</td></tr>
+<tr><td>central african republic</td><td>GPE</td><td>4</td></tr>
+<tr><td>central america</td><td>LOC</td><td>4</td></tr>
+<tr><td>contracts</td><td>ORG</td><td>4</td></tr>
+<tr><td>country partnership framework</td><td>ORG</td><td>4</td></tr>
+<tr><td>country office</td><td>ORG</td><td>4</td></tr>
+<tr><td>countries</td><td>GPE</td><td>4</td></tr>
+<tr><td>cotton</td><td>ORG</td><td>4</td></tr>
+<tr><td>corrientes</td><td>GPE</td><td>4</td></tr>
+<tr><td>coris bank international</td><td>ORG</td><td>4</td></tr>
+<tr><td>congo water sup/sanit ahws projet d''aepa</td><td>ORG</td><td>4</td></tr>
+<tr><td>central bank</td><td>ORG</td><td>4</td></tr>
+<tr><td>components 2</td><td>ORG</td><td>4</td></tr>
+<tr><td>complexe</td><td>PERSON</td><td>4</td></tr>
+<tr><td>commodity exchange</td><td>ORG</td><td>4</td></tr>
+<tr><td>cirad</td><td>GPE</td><td>4</td></tr>
+<tr><td>chin state</td><td>PERSON</td><td>4</td></tr>
+<tr><td>cette</td><td>ORG</td><td>4</td></tr>
+<tr><td>na original</td><td>ORG</td><td>4</td></tr>
+<tr><td>aquaculture</td><td>ORG</td><td>4</td></tr>
+<tr><td>nbm</td><td>ORG</td><td>4</td></tr>
+<tr><td>le programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>l''accord</td><td>ORG</td><td>4</td></tr>
+<tr><td>l''emprunteur/bénéficiaire</td><td>ORG</td><td>4</td></tr>
+<tr><td>l''emprunteur</td><td>GPE</td><td>4</td></tr>
+<tr><td>insumos para</td><td>ORG</td><td>4</td></tr>
+<tr><td>h1 world bank group</td><td>ORG</td><td>4</td></tr>
+<tr><td>goat basin</td><td>LOC</td><td>4</td></tr>
+<tr><td>d’intérêts mais</td><td>PERSON</td><td>4</td></tr>
+<tr><td>du fonds</td><td>ORG</td><td>4</td></tr>
+<tr><td>de trois</td><td>ORG</td><td>4</td></tr>
+<tr><td>de la</td><td>PERSON</td><td>4</td></tr>
+<tr><td>d''ivoire</td><td>PERSON</td><td>4</td></tr>
+<tr><td>c. selection of</td><td>PERSON</td><td>4</td></tr>
+<tr><td>amont</td><td>GPE</td><td>4</td></tr>
+<tr><td>a national steering committee</td><td>ORG</td><td>4</td></tr>
+<tr><td>a disputed area</td><td>LOC</td><td>4</td></tr>
+<tr><td>la sécurité</td><td>PERSON</td><td>4</td></tr>
+<tr><td>les candidatures de femmes</td><td>PERSON</td><td>4</td></tr>
+<tr><td>the bank’s ordinary capital</td><td>ORG</td><td>4</td></tr>
+<tr><td>los actores</td><td>ORG</td><td>4</td></tr>
+<tr><td>the bangladesh agricultural research council</td><td>ORG</td><td>4</td></tr>
+<tr><td>the audit court</td><td>ORG</td><td>4</td></tr>
+<tr><td>the appraisal report</td><td>ORG</td><td>4</td></tr>
+<tr><td>the agriculture department</td><td>ORG</td><td>4</td></tr>
+<tr><td>the agricultural and agroforestry technological innovation program - pitag</td><td>ORG</td><td>4</td></tr>
+<tr><td>the agricultural development</td><td>ORG</td><td>4</td></tr>
+<tr><td>the access to information policy</td><td>ORG</td><td>4</td></tr>
+<tr><td>sera</td><td>PERSON</td><td>4</td></tr>
+<tr><td>quinoa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>prudential</td><td>ORG</td><td>4</td></tr>
+<tr><td>para transferir</td><td>PERSON</td><td>4</td></tr>
+<tr><td>para el diálogo</td><td>PERSON</td><td>4</td></tr>
+<tr><td>nurseries</td><td>ORG</td><td>4</td></tr>
+<tr><td>no indigenous peoples</td><td>ORG</td><td>4</td></tr>
+<tr><td>manioc</td><td>GPE</td><td>4</td></tr>
+<tr><td>zou</td><td>PERSON</td><td>4</td></tr>
+<tr><td>zambézia</td><td>GPE</td><td>4</td></tr>
+<tr><td>zambezi</td><td>ORG</td><td>4</td></tr>
+<tr><td>ziflp</td><td>ORG</td><td>4</td></tr>
+<tr><td>united nations development programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>unguja</td><td>GPE</td><td>4</td></tr>
+<tr><td>ur-l1147</td><td>ORG</td><td>4</td></tr>
+<tr><td>unido</td><td>ORG</td><td>4</td></tr>
+<tr><td>ufcp</td><td>ORG</td><td>4</td></tr>
+<tr><td>ua 1 =</td><td>ORG</td><td>4</td></tr>
+<tr><td>ua 1</td><td>ORG</td><td>4</td></tr>
+<tr><td>transparency international''s</td><td>ORG</td><td>4</td></tr>
+<tr><td>transparency international</td><td>ORG</td><td>4</td></tr>
+<tr><td>toffo</td><td>GPE</td><td>4</td></tr>
+<tr><td>themes regional context indicators country development</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank zambia integrated forest landscape project</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank yemen food security response and resilience project (</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank smallholder irrigated agriculture and market access project</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank sierra leone agro-processing competitiveness project (p160295</td><td>ORG</td><td>4</td></tr>
+<tr><td>v. agreements</td><td>PERSON</td><td>4</td></tr>
+<tr><td>v. legal framework 5.1</td><td>ORG</td><td>4</td></tr>
+<tr><td>value addition</td><td>ORG</td><td>4</td></tr>
+<tr><td>water resources management</td><td>ORG</td><td>4</td></tr>
+<tr><td>yamoussoukro district</td><td>LOC</td><td>4</td></tr>
+<tr><td>world bank borrowers</td><td>ORG</td><td>4</td></tr>
+<tr><td>world bank (wb</td><td>ORG</td><td>4</td></tr>
+<tr><td>woreda</td><td>GPE</td><td>4</td></tr>
+<tr><td>water users associations</td><td>ORG</td><td>4</td></tr>
+<tr><td>water users</td><td>ORG</td><td>4</td></tr>
+<tr><td>wakiso</td><td>GPE</td><td>4</td></tr>
+<tr><td>vmgf</td><td>ORG</td><td>4</td></tr>
+<tr><td>wsc</td><td>ORG</td><td>4</td></tr>
+<tr><td>wee-rdp</td><td>PERSON</td><td>4</td></tr>
+<tr><td>wee-npp</td><td>ORG</td><td>4</td></tr>
+<tr><td>vientiane province</td><td>GPE</td><td>4</td></tr>
+<tr><td>vientiane</td><td>GPE</td><td>4</td></tr>
+<tr><td>value chain</td><td>ORG</td><td>4</td></tr>
+<tr><td>the bank''s country office</td><td>ORG</td><td>4</td></tr>
+<tr><td>the bugesera natural region project</td><td>LOC</td><td>4</td></tr>
+<tr><td>the world bank niger forcibly displaced support project (p164563</td><td>ORG</td><td>4</td></tr>
+<tr><td>the project coordination team</td><td>ORG</td><td>4</td></tr>
+<tr><td>the poyang lake</td><td>LOC</td><td>4</td></tr>
+<tr><td>the pad stage isds</td><td>ORG</td><td>4</td></tr>
+<tr><td>the office of the auditor general</td><td>ORG</td><td>4</td></tr>
+<tr><td>the north-west</td><td>LOC</td><td>4</td></tr>
+<tr><td>the north east</td><td>LOC</td><td>4</td></tr>
+<tr><td>the niger basin</td><td>LOC</td><td>4</td></tr>
+<tr><td>the natural disaster mitigation program</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national sustainable development strategy</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national seed service</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national project steering committee</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national project coordination unit</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national institute of statistics</td><td>ORG</td><td>4</td></tr>
+<tr><td>the national economic and social development plan</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of water and environment</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of livestock, agriculture</td><td>ORG</td><td>4</td></tr>
+<tr><td>the procurement framework for bank group</td><td>ORG</td><td>4</td></tr>
+<tr><td>the republic of ghana</td><td>GPE</td><td>4</td></tr>
+<tr><td>the commodity technology delivery compact</td><td>ORG</td><td>4</td></tr>
+<tr><td>the republic of the union of myanmar</td><td>GPE</td><td>4</td></tr>
+<tr><td>Égalité</td><td>ORG</td><td>4</td></tr>
+<tr><td>vi results</td><td>PERSON</td><td>4</td></tr>
+<tr><td>vi results</td><td>PERSON</td><td>4</td></tr>
+<tr><td>titre du don</td><td>PERSON</td><td>4</td></tr>
+<tr><td>the ‘ict environment</td><td>ORG</td><td>4</td></tr>
+<tr><td>the yangtze river</td><td>LOC</td><td>4</td></tr>
+<tr><td>the value chain development programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>the united nations development programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>the urc/prosap</td><td>ORG</td><td>4</td></tr>
+<tr><td>the tanzania agricultural development bank</td><td>ORG</td><td>4</td></tr>
+<tr><td>the support of technical and financial partners</td><td>ORG</td><td>4</td></tr>
+<tr><td>the study coordination unit</td><td>ORG</td><td>4</td></tr>
+<tr><td>the special agro-industrial processing zones</td><td>GPE</td><td>4</td></tr>
+<tr><td>the russian federation</td><td>GPE</td><td>4</td></tr>
+<tr><td>the rural development bureau</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of innovations</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of finance and development planning</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of development planning</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of agriculture, irrigation and water development</td><td>ORG</td><td>4</td></tr>
+<tr><td>the graine programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>the fund’s executive board</td><td>ORG</td><td>4</td></tr>
+<tr><td>the food and nutrition security information system</td><td>ORG</td><td>4</td></tr>
+<tr><td>the food security scale</td><td>ORG</td><td>4</td></tr>
+<tr><td>the financial management policy</td><td>ORG</td><td>4</td></tr>
+<tr><td>the federal government</td><td>ORG</td><td>4</td></tr>
+<tr><td>the farmer field school</td><td>ORG</td><td>4</td></tr>
+<tr><td>the facilitation fund</td><td>ORG</td><td>4</td></tr>
+<tr><td>the environmental and social framework</td><td>ORG</td><td>4</td></tr>
+<tr><td>the environmental protection agency</td><td>ORG</td><td>4</td></tr>
+<tr><td>the economic and social development plan</td><td>ORG</td><td>4</td></tr>
+<tr><td>the department of livestock services</td><td>ORG</td><td>4</td></tr>
+<tr><td>the country strategy paper</td><td>ORG</td><td>4</td></tr>
+<tr><td>the consultant guidelines</td><td>ORG</td><td>4</td></tr>
+<tr><td>the competitiveness of agricultural value chains</td><td>ORG</td><td>4</td></tr>
+<tr><td>the global agriculture and food security program</td><td>ORG</td><td>4</td></tr>
+<tr><td>the governing council</td><td>ORG</td><td>4</td></tr>
+<tr><td>the government council</td><td>ORG</td><td>4</td></tr>
+<tr><td>the india country partnership strategy</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of agriculture, animal industry and fisheries</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of agriculture and water management</td><td>ORG</td><td>4</td></tr>
+<tr><td>the lead project agency</td><td>ORG</td><td>4</td></tr>
+<tr><td>the kyrgyz republic</td><td>GPE</td><td>4</td></tr>
+<tr><td>the ivorian government</td><td>ORG</td><td>4</td></tr>
+<tr><td>the intergovernmental panel on climate change</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ipd-sa</td><td>ORG</td><td>4</td></tr>
+<tr><td>the government of burkina faso</td><td>ORG</td><td>4</td></tr>
+<tr><td>the idb country strategy</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ida credit</td><td>ORG</td><td>4</td></tr>
+<tr><td>nflrs</td><td>ORG</td><td>4</td></tr>
+<tr><td>the horn of africa ii</td><td>LOC</td><td>4</td></tr>
+<tr><td>the green climate fund</td><td>ORG</td><td>4</td></tr>
+<tr><td>the government of india</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank north cameroon agriculture and water smart landscapes project</td><td>ORG</td><td>4</td></tr>
+<tr><td>the office of agricultural censuses and statistics</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank niger - agricultural</td><td>ORG</td><td>4</td></tr>
+<tr><td>pampa</td><td>ORG</td><td>4</td></tr>
+<tr><td>pzta-sud</td><td>ORG</td><td>4</td></tr>
+<tr><td>ptta/</td><td>ORG</td><td>4</td></tr>
+<tr><td>ptta</td><td>ORG</td><td>4</td></tr>
+<tr><td>psg</td><td>GPE</td><td>4</td></tr>
+<tr><td>psd</td><td>ORG</td><td>4</td></tr>
+<tr><td>prm</td><td>ORG</td><td>4</td></tr>
+<tr><td>pnda</td><td>ORG</td><td>4</td></tr>
+<tr><td>plwg</td><td>ORG</td><td>4</td></tr>
+<tr><td>phcompliance op/bp</td><td>ORG</td><td>4</td></tr>
+<tr><td>pfj</td><td>ORG</td><td>4</td></tr>
+<tr><td>personnel</td><td>ORG</td><td>4</td></tr>
+<tr><td>pdzsta-bk</td><td>ORG</td><td>4</td></tr>
+<tr><td>pdna</td><td>ORG</td><td>4</td></tr>
+<tr><td>pct</td><td>ORG</td><td>4</td></tr>
+<tr><td>pcdp</td><td>ORG</td><td>4</td></tr>
+<tr><td>pakkoku</td><td>GPE</td><td>4</td></tr>
+<tr><td>para la coordinación y</td><td>PERSON</td><td>4</td></tr>
+<tr><td>rnd/cpr</td><td>ORG</td><td>4</td></tr>
+<tr><td>partenaires</td><td>ORG</td><td>4</td></tr>
+<tr><td>rlacc</td><td>ORG</td><td>4</td></tr>
+<tr><td>rf 7.5</td><td>ORG</td><td>4</td></tr>
+<tr><td>requirements for procurement execution</td><td>ORG</td><td>4</td></tr>
+<tr><td>rb-cosop 1 ii</td><td>ORG</td><td>4</td></tr>
+<tr><td>pul-e-khumri</td><td>GPE</td><td>4</td></tr>
+<tr><td>project coordination and management</td><td>ORG</td><td>4</td></tr>
+<tr><td>project coordination unit</td><td>ORG</td><td>4</td></tr>
+<tr><td>producer associations</td><td>ORG</td><td>4</td></tr>
+<tr><td>problem addressed</td><td>PERSON</td><td>4</td></tr>
+<tr><td>priority intervention areas</td><td>ORG</td><td>4</td></tr>
+<tr><td>poyang lake basin</td><td>LOC</td><td>4</td></tr>
+<tr><td>polonnaruwa</td><td>PERSON</td><td>4</td></tr>
+<tr><td>pillar 1</td><td>GPE</td><td>4</td></tr>
+<tr><td>pemba</td><td>GPE</td><td>4</td></tr>
+<tr><td>pearl millet</td><td>PERSON</td><td>4</td></tr>
+<tr><td>pahabo</td><td>ORG</td><td>4</td></tr>
+<tr><td>p167678</td><td>PERSON</td><td>4</td></tr>
+<tr><td>p162316</td><td>PERSON</td><td>4</td></tr>
+<tr><td>p161876</td><td>ORG</td><td>4</td></tr>
+<tr><td>natural habitats</td><td>ORG</td><td>4</td></tr>
+<tr><td>national statistics institute</td><td>ORG</td><td>4</td></tr>
+<tr><td>national project coordination unit</td><td>ORG</td><td>4</td></tr>
+<tr><td>national agricultural development policy</td><td>ORG</td><td>4</td></tr>
+<tr><td>nanni weir and maratakka spillway</td><td>ORG</td><td>4</td></tr>
+<tr><td>nanni creek</td><td>GPE</td><td>4</td></tr>
+<tr><td>namangan</td><td>GPE</td><td>4</td></tr>
+<tr><td>nw washington</td><td>GPE</td><td>4</td></tr>
+<tr><td>nsa</td><td>ORG</td><td>4</td></tr>
+<tr><td>nrgp</td><td>ORG</td><td>4</td></tr>
+<tr><td>nprs</td><td>ORG</td><td>4</td></tr>
+<tr><td>npr</td><td>ORG</td><td>4</td></tr>
+<tr><td>norad</td><td>ORG</td><td>4</td></tr>
+<tr><td>ng</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank congo commercial agriculture project</td><td>ORG</td><td>4</td></tr>
+<tr><td>nay pyi taw</td><td>ORG</td><td>4</td></tr>
+<tr><td>nickerie</td><td>PERSON</td><td>4</td></tr>
+<tr><td>nikki</td><td>ORG</td><td>4</td></tr>
+<tr><td>osan</td><td>PERSON</td><td>4</td></tr>
+<tr><td>p156963</td><td>ORG</td><td>4</td></tr>
+<tr><td>ombella mpoko</td><td>PERSON</td><td>4</td></tr>
+<tr><td>occupational health and safety</td><td>ORG</td><td>4</td></tr>
+<tr><td>objectives 1.1.1</td><td>ORG</td><td>4</td></tr>
+<tr><td>objectives</td><td>GPE</td><td>4</td></tr>
+<tr><td>oss</td><td>ORG</td><td>4</td></tr>
+<tr><td>op4.10</td><td>ORG</td><td>4</td></tr>
+<tr><td>nimba county</td><td>GPE</td><td>4</td></tr>
+<tr><td>op/bp 4.37</td><td>ORG</td><td>4</td></tr>
+<tr><td>op/bp 4.01</td><td>ORG</td><td>4</td></tr>
+<tr><td>obfc</td><td>ORG</td><td>4</td></tr>
+<tr><td>n°</td><td>ORG</td><td>4</td></tr>
+<tr><td>north rupununi</td><td>GPE</td><td>4</td></tr>
+<tr><td>non-consulting services</td><td>ORG</td><td>4</td></tr>
+<tr><td>rnd/car</td><td>ORG</td><td>4</td></tr>
+<tr><td>national agricultural research institute</td><td>ORG</td><td>4</td></tr>
+<tr><td>rwssi-tf</td><td>ORG</td><td>4</td></tr>
+<tr><td>seed improvement project</td><td>ORG</td><td>4</td></tr>
+<tr><td>strategic environmental</td><td>ORG</td><td>4</td></tr>
+<tr><td>state agricultural universities</td><td>ORG</td><td>4</td></tr>
+<tr><td>springer nature switzerland ag</td><td>ORG</td><td>4</td></tr>
+<tr><td>south-south</td><td>LOC</td><td>4</td></tr>
+<tr><td>south-east</td><td>LOC</td><td>4</td></tr>
+<tr><td>source amount</td><td>ORG</td><td>4</td></tr>
+<tr><td>social assessment procedures</td><td>ORG</td><td>4</td></tr>
+<tr><td>silos</td><td>GPE</td><td>4</td></tr>
+<tr><td>sierra leone’s</td><td>ORG</td><td>4</td></tr>
+<tr><td>sierra leone seed certification agency</td><td>ORG</td><td>4</td></tr>
+<tr><td>sierra</td><td>ORG</td><td>4</td></tr>
+<tr><td>shopping international</td><td>ORG</td><td>4</td></tr>
+<tr><td>servicing and maintenance fund</td><td>ORG</td><td>4</td></tr>
+<tr><td>serge m. menang evouna</td><td>PERSON</td><td>4</td></tr>
+<tr><td>seminars</td><td>GPE</td><td>4</td></tr>
+<tr><td>suriname</td><td>GPE</td><td>4</td></tr>
+<tr><td>tag</td><td>ORG</td><td>4</td></tr>
+<tr><td>tbc</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of agriculture and food security</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank colombia institutional strengthening for territorial development</td><td>ORG</td><td>4</td></tr>
+<tr><td>rapports d''activité</td><td>ORG</td><td>4</td></tr>
+<tr><td>the world bank burkina faso agriculture resilience and competitiveness project (p167945</td><td>ORG</td><td>4</td></tr>
+<tr><td>the republic of liberia</td><td>GPE</td><td>4</td></tr>
+<tr><td>the ministry of food and agriculture</td><td>ORG</td><td>4</td></tr>
+<tr><td>the ministry of economy and finance</td><td>ORG</td><td>4</td></tr>
+<tr><td>the development programme</td><td>ORG</td><td>4</td></tr>
+<tr><td>tbd applicability</td><td>ORG</td><td>4</td></tr>
+<tr><td>the board of directors</td><td>ORG</td><td>4</td></tr>
+<tr><td>technical annex b.5</td><td>ORG</td><td>4</td></tr>
+<tr><td>technical annex</td><td>ORG</td><td>4</td></tr>
+<tr><td>tadla</td><td>PERSON</td><td>4</td></tr>
+<tr><td>tri</td><td>ORG</td><td>4</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

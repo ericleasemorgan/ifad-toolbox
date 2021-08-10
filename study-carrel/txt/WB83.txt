@@ -1,0 +1,736 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+Page 1 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+PROJECT INFORMATION DOCUMENT (PID) 
+APPRAISAL STAGE
+
+Report No.:  PIDA22127
+
+Project Name MA-Large Scale Irrigation Modernization Project (P150930)
+Region MIDDLE EAST AND NORTH AFRICA
+Country Morocco
+Sector(s) Agricultural extension and research (3%), Irrigation and drainage 
+
+(80%), Public administration- Agriculture, fishing and forestry (1 
+7%)
+
+Theme(s) Rural services and infrastructure (67%), Water resource 
+management (33%)
+
+Lending Instrument Investment Project Financing
+Project ID P150930
+Borrower(s) Kingdom of Morocco
+Implementing Agency DIAEA
+Environmental Category B-Partial Assessment
+Date PID Prepared/Updated 25-Mar-2015
+Date PID Approved/Disclosed 26-Mar-2015
+Estimated Date of Appraisal 
+Completion
+
+03-Apr-2015
+
+Estimated Date of Board 
+Approval
+
+27-May-2015
+
+Appraisal Review Decision 
+(from Decision Note)
+
+Appraisal was carried out from March 17 to 25.
+
+I. Project Context
+Country Context
+Morocco has been on a steady path of growth in the past decades, which has proved relatively 
+resilient in the face of the recent global economic slowdown. Growth averaged 4.8 percent over 
+2001-12 compared to 2.8 percent in the 1990s, the Gross Domestic Product (GDP) per capita 
+doubled from 2001 to 2012 reaching US$2,951, unemployment declined from 13.6 percent in 2000 
+to 9 percent in 2012, and absolute poverty decreased from 15.3 percent in 2001 to 8.8 percent in 
+2008. 
+ 
+The Arab Spring that has swept the Middle East and North Africa (MENA) region in early 2011 
+spurred a peaceful political transformation in Morocco. Morocco had engaged on a wide-ranging 
+reform program, with the adoption of a new constitution through a popular referendum on July 1, 
+2011. The new constitution lays the foundation for extended regionalization as a democratic and 
+decentralized system of governance. It also contributes to improving the status of women through 
+the adoption of the principle of gender equality and through provisions on increasing the 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+Page 2 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+participation of women in decision-making bodies. In November 2011, parliamentary elections 
+followed the promulgation of the constitution, leading to the formation of a four-party coalition 
+government that has embraced the constitution's principles and called for more social solidarity and 
+inclusion.  
+ 
+Inequality, poverty, and vulnerability remain important challenges in Morocco. A quarter of the 
+population is still economically vulnerable (near-poverty). There are persistent disparities as 70 
+percent of poverty is still rural, and most development indicators in rural areas lag behind urban 
+areas, largely as a result of difficult geography, deteriorating infrastructure, poor access to basic 
+services, and limited capital investments to improve labor value added and hence returns to self-
+employment and contract labor. Ten percent of Morocco’s 13.4 million rural residents lived below 
+the poverty line in 2011. Rural poverty exacerbates gender disparity with relatively higher illiteracy 
+and primary school dropout rates for rural women, and higher infant and maternal mortality. 
+ 
+Morocco has engaged in a dynamic process towards strengthening economic opportunities and 
+social inclusion. Several high profile development programs (e.g. the second phase of the National 
+Human Development Initiative, INDH) and new sectoral strategies in the areas of education, 
+employment, and youth have been initiated. Nonetheless, additional efforts are needed to support 
+the country-led reforms. The movements associated with the political transition and constitutional 
+changes generate pressure on the Moroccan State for credible and faster reforms, notably in the 
+areas of job creation and improvement of the quality of public services delivered.
+
+  
+
+Sectoral and institutional Context
+Agriculture is central to Morocco’s economy, as evidenced by the strong correlation among GDP 
+and agriculture GDP. Over the last agricultural campaign, thanks to favorable weather, the sector 
+represented 15.6 percent of GDP, contributing the most to the country’s overall growth. The 20 
+percent increase in agricultural production allowed Morocco’s GDP to jump from 2.7 percent in 
+2012 to 4.4 percent in 2013. The agricultural sector represents a critical element in the country’s 
+demographic and socio-economic situation, generating 40 percent of the jobs nationwide, mostly in 
+rural areas where the majority of the poor live. The sector is largely composed of small farmers 
+mostly dedicated to low-value agriculture, but also counts a limited group of dynamic and well 
+performing large farmers with state-of-the-art technologies and well integrated into the national and 
+international markets. The sector exhibits great gender disparities. Women’s work is typically 
+unpaid (in 2003-04, 58 percent of cases; in 2008, 91 percent), or it is seasonal and unstable when 
+remunerated (59 percent of cases in 2003-04; 84 percent in 2008). 
+ 
+Irrigation increases both the level and stability of incomes in rural areas. Despite representing only 
+16 percent of the cultivated land, irrigated agriculture contributes to about half of the agriculture 
+GDP, 75 percent of agricultural exports, and 15 percent of overall merchandise exports. The 
+country has 1.46 million ha of permanently irrigated land, 682,600 ha of which are part of nine 
+Large Scale Irrigation (LSI) perimeters operated by nine public agricultural development agencies 
+(ORMVA). ORMVAs are autonomous agencies under the supervision of the Ministry of 
+Agriculture and Maritime Fisheries (MAPM), with the responsibility of constructing new irrigation 
+schemes, rehabilitating and modernizing existing ones, ensuring Operation and Maintenance 
+(O&M) of irrigation and drainage facilities, and providing extension services to farmers. The 
+remaining area is shared between small and medium scale traditional irrigation schemes managed 
+by Water Users Associations (WUA, 334,000 ha) and private irrigation (441,000 ha). Morocco is 
+
+
+
+Page 3 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+among the first countries with experience in irrigation Public-Private Partnership (PPP). In 2004, it 
+launched the first successful irrigation PPP in the world, in the citrus production perimeter of 
+Guerdane. Other PPP are at various stages of preparation (Azemmour Bir Jdid, Dar Khrofa, 
+Chtouka). 
+ 
+The ability of irrigated agriculture to continue to drive shared prosperity in Morocco is threatened 
+by increasing water scarcity. Reduced rainfall, increased rainfall variability, reduced run off, 
+groundwater depletion, and degradation of water resources have reached alarming levels. Annual 
+renewable water resources total 22 billion m3, corresponding to 730 m3/inhabitant, which is below 
+the United Nations’ threshold for indicating water stress (1,000 m3/inhabitant). The water deficit is 
+estimated at around 2 billion m3. Climate change is expected to worsen this situation. Impacts of 
+climate change are already visible in Morocco: the proportion of dry years increased by four times 
+and surface water availability decreased by 35 percent between the period 1947-1976 and 
+1977-2006. Water scarcity impacts irrigated agriculture in different ways: 
+• In private irrigation, which largely relies on groundwater, reduced and more variable 
+rainfall translates into groundwater overexploitation. The majority of the wells are neither 
+registered nor monitored, and improvement in water pumping technologies and butane subsidy 
+facilitate overextraction. Decreasing groundwater levels have a specific equity dimension, 
+impacting at first smallholders with less capacity for drilling and pumping deeper.  
+• In LSI perimeters, which rely on surface water, water scarcity translates into reduced 
+volumes allocated to farmers and limits summer crops production. While agriculture remains the 
+primary user of surface water, accounting for about 85 percent of the withdrawals, severe 
+restrictions in irrigation have been common in the last 15 years. LSI perimeters in the Oum er Rbia 
+river basin received, on average, only 60 percent of the water volumes they were designed for. 
+These volumes were consistently lower than the water allocation stated in the Regional Masterplans 
+for Integrated Water Resources Management (PDAIRE). Wherever possible, farmers in LSI 
+perimeters have been making up for this shortfall by complementing water allocated by the 
+ORMVAs with groundwater, bearing the extra pumping costs and further aggravating groundwater 
+depletion.  
+Farmers in LSI perimeters face structural constraints that limit the productive use of the scarce 
+water resource. These include among others: collective water management, rigid water distribution 
+rules, frequent shut-downs, unequal access to water, and land tenure issues. All of these constraints 
+lock farmers in LSI perimeters into a low-risk and low return equilibrium in which they carry out 
+low input, extensive farming focused on low value crops, and avoid more capital intensive 
+strategies which allow for high value products and higher returns but bear higher risks in case of 
+water deficiencies. 
+ 
+LSI perimeters suffer from aging irrigation networks and poor Operation and Maintenance (O&M). 
+The ORMVAs have limited budget to improve this situation. Recovery rates in Morocco are 
+amongst the best in MENA, varying between 68 and 100 percent, with an average of 76 percent 
+(2010). In some LSI perimeters, water tariffs are insufficient to cover the operation and 
+maintenance (O&M) costs, and even more so the amortization costs, translating into the need for 
+subsidies from the Government. Tariffs in LSI perimeters vary between 0.27 and 0.77DH/m3 
+depending on the perimeters and the associated energy bill, compared to 1.30 to 1.80DH/m3 in 
+perimeters managed through PPP. While there was an increase in O&M budget since 2009 (average 
+2001-08: Tadla DH14.6 M, Doukkala: DH18.6 M; average 2009-13: Tadla DH31.1 M, Doukkala 
+DH36.8 M), the allocation remains insufficient to meet the needs. Cost recovery rates in Morocco 
+are amongst the highest in MENA, varying between, 68 and 100 percent, with an average of 76 
+
+
+
+Page 4 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+percent (2010). While the recovery of water bills should be improved in the LSI perimeters were 
+the most important arrears are generated, this increase would not be sufficient to meet the financial 
+needs of the ORMVAs. Consequently, a plan to increase water tariffs in LSI perimeters was laid out 
+in 2011, but it sparked protests by farmers, which led the Government of Morocco (GoM) to 
+postpone the measure. A political economy analysis of the irrigation sector reform, revealed that 
+there is typically no capacity to pay problem, and that the main reason for farmers’ opposition was 
+the lack of direct improvements in service quality associated with tariff increase. 
+ 
+The GoM is putting in place incentives, investments, and institutional reforms to ensure greater 
+returns at the farm and overall economy levels in light of increasingly restricted water resource. 
+This is done through two synergic strategies: 
+• The Morocco Green Plan (PMV) aims to double the agriculture sector’s value-added and 
+create 1.5 million jobs by 2020, thus transforming the sector into a stable source of growth, 
+competitiveness, and broad-based economic development. In addition to its transversal institutional 
+and policy reforms, the PMV comprises two Pillars reflecting the dualistic nature of Moroccan 
+agriculture: Pillar I targets commercial farmers and their integration into the national and 
+international markets, while Pillar II targets small farmers mainly in marginal areas. Under both 
+pillars, technology and organizational support is provided to implement an agri-food chain 
+approach linking farmers to market. The Agricultural Development Fund (FDA), the GoM’s 
+principal agricultural subsidy instrument, has been reformed and support measures aligned with the 
+strategic directions of the PMV. Since PMV’s launch in 2008, production has increased by 45 
+percent, agricultural exports have risen by 18 percent, and 77,000 permanent jobs have been 
+created. 
+• The National Plan for Saving Water in Irrigation (PNEEI) promotes more productive water 
+use by introducing efficient irrigation technologies (mainly drip irrigation) on 555,000 ha of the 
+country’s irrigated land by 2020, of which 335,000 ha in private farms and 220,000 ha in LSI 
+perimeters. This process is supported though the FDA, with up to 100 percent subsidy for the 
+adoption of drip and microsprinkler irrigation, and up to 70 percent subsidy for sprinkler irrigation. 
+Since PNEEI’s launch in 2008, the adoption of drip irrigation has been proceeding at a fast pace in 
+privately developed irrigation areas, with over 200,000 ha completed (60 percent of the 2020 
+target). In LSI perimeters, conversion is ongoing on 57,000 ha only, due to the need for prior 
+investments in the irrigation networks. The figure is expected to increase steadily in the coming 
+future, considering that pre-feasibility studies in LSI perimeters have been completed for 100,000 
+ha. While impacts remain to be observed, field experiments in Tadla demonstrated that agricultural 
+water productivity (defined as value of produce per unit of water used) could be doubled by 
+switching from the traditional surface irrigation to improved water management under drip 
+irrigation. 
+ 
+The Large Scale Irrigation Modernization project is fully aligned with the comprehensive reform 
+process of Morocco. The project supports the ORMVAs of Tadla, Haouz, Doukkala and Gharb in 
+providing farmers located in the LSI perimeters with an improved water service. This means 
+individual access (rather than collective), on-demand (rather than on rotation), reliable (with faster 
+re-establishment of the service in case of shut-downs), and equitable (in terms of flow and pressure 
+across the irrigation network). Targeted farmers will be freed up of some structural constraints and 
+have the opportunity to improve their farming choices, adopting improved irrigation technologies 
+(mainly drip irrigation), which are more efficient in the use of the scarce water resource and better 
+suited for high-value crops.
+
+
+
+Page 5 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+II. Proposed Development Objectives
+The project development objectives are: (i) for targeted ORMVAs, to provide an improved water 
+service to farmers, and (ii) for targeted farmers, to have better access to improved irrigation 
+technologies.
+
+III. Project Description
+Component Name
+Component 1: Improving the irrigation network infrastructure
+Comments (optional)
+Component 1 will construct pressurized irrigation networks to replace existing gravity networks and 
+renovate existing pressurized irrigation networks. Under adequate management, the networks’ 
+design will allow providing farmers with an improved water service, in line with the technical 
+requirements of improved irrigation technologies. Activities include: (i) studies; (ii) technical 
+assistance to monitor construction works; (iii) upgrading irrigation canals and constructing 
+reservoirs; (iv) constructing feeder pipes and rehabilitating pumping stations; (v) constructing 
+filtration stations; (vi) constructing distribution piped networks, or rehabilitating and extending 
+existing distribution piped networks; and (vii) installing outlets and associated devices.
+
+Component Name
+Component 2: Supporting farmers’ access to improved irrigation technologies
+Comments (optional)
+Component 2 will strengthen farmers’ knowledge of and access to improved irrigation technologies, 
+to allow them taking advantage of the improved water service provided by the ORMVAs. Farmers 
+will become familiar with the advantages of the improved irrigation technologies, and will have 
+easier access to financing opportunities to adopt them. Once the improved irrigation technologies is 
+in place, farmers will receive irrigation advisory services, and their capacity to access, use, and 
+maintain the irrigation systems will be strengthened. i Farmers will also develop better knowledge 
+of their groundwater, where appropriate.
+
+Component Name
+Component 3: Supporting implementing agencies’ management of the irrigation network, and 
+implementation of the project
+Comments (optional)
+Component 3 will strengthen the institutional capacity of the ORMVAs in operating and 
+maintaining the irrigation networks, to ensure that new and improved networks are managed so to 
+provide farmers with an improved water service, in line with the technical requirements of improved 
+irrigation technologies. Component 3 will also support implementing the project. Component 3 
+activities will include: (i) technical assistance to improve O&M of the irrigation network; (ii) 
+training, technical assistance, computer equipment, and associated tools for project management; 
+and (iii) implementation of the EMP; (iv) provision of equipment and infrastructure rehabilitation 
+for DIAEA and ORMVAs.
+
+IV. Financing (in USD Million)
+Total Project Cost: 150.00 Total Bank Financing: 150.00
+Financing Gap: 0.00
+For Loans/Credits/Others Amount
+Borrower 0.00
+
+
+
+Page 6 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+International Bank for Reconstruction and Development 150.00
+Total 150.00
+
+V. Implementation
+The project will have five implementation entities. The ORMVAs of Tadla, Haouz, Doukkala, and 
+Gharb will implement most of the activities. The Department of Irrigation and Rural Infrastructure 
+(DIAEA) of the MAPM will implement one activity under Component 3 and will be responsible for 
+overall project coordination, management, and reporting. 
+ 
+The DIAEA and the ORMVAs are both experienced in managing World Bank-funded projects, the 
+Oum er Rbia basin irrigated agriculture modernization project (PROMER, 2010-2016) being the 
+most recent. Each ORMVA targeted by the project manages a LSI perimeter covering about 100,000 
+ha. They have good technical and managerial capacity to implement large irrigation development 
+and modernization projects. Training and technical assistance will be provided as needed.
+
+VI. Safeguard Policies (including public consultation)
+Safeguard Policies Triggered by the Project Yes No
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+Projects in Disputed Areas OP/BP 7.60 ✖
+
+Comments (optional)
+
+VII. Contact point
+World Bank
+Contact: Gabriella Izzi
+Title: Sr Agricultural Spec.
+Tel: 458-8295
+Email: gizzi@worldbank.org
+
+Borrower/Client/Recipient
+Name: Kingdom of Morocco
+Contact: Sabah Benchekroun
+Title: Chargée de Mission auprès du Chef du Gouvernement
+Tel: 212537297544
+Email: benchekroun@affaires-generales.gov.ma
+
+Implementing Agencies
+Name: DIAEA
+
+
+
+Page 7 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Contact: Ahmed Bouari
+Title: Directeu de l’Irrigation et de l’Aménagement de l’Esp Agr
+Tel: 212537774287
+Email: bouariahmed@gmail.com
+
+VIII. For more information contact:
+The InfoShop 
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 458-4500 
+Fax: (202) 522-1500 
+Web: http://www.worldbank.org/infoshop
+
+
+

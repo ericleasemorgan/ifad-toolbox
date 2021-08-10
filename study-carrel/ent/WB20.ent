@@ -1,0 +1,459 @@
+id	sid	eid	entity	type
+WB20	1	1	World Bank Document	ORG
+WB20	1	2	Feb 01, 2017	DATE
+WB20	1	3	1	CARDINAL
+WB20	1	4	16	CARDINAL
+WB20	1	5	PID/ISDS	ORG
+WB20	1	6	Concept Stage	ORG
+WB20	1	7	Feb 01, 2017	DATE
+WB20	1	8	2	CARDINAL
+WB20	1	9	16	CARDINAL
+WB20	2	1	Basic Project Data Country Project ID Parent Project ID	ORG
+WB20	2	2	Moldova Climate Adaptation Project	ORG
+WB20	2	3	EUROPE	LOC
+WB20	2	4	May 04	DATE
+WB20	2	5	Ministry of Finance Ministry of Environment Land degradation Financing	ORG
+WB20	2	6	USD Million	CARDINAL
+WB20	2	7	2.00	CARDINAL
+WB20	2	8	International Bank for Reconstruction and Development 18.60 International Development Association	ORG
+WB20	2	9	IDA	ORG
+WB20	2	10	1.40	CARDINAL
+WB20	2	11	22.00	CARDINAL
+WB20	3	1	Romania	GPE
+WB20	3	2	Ukraine	GPE
+WB20	3	3	33,840	CARDINAL
+WB20	3	4	3.6 million	CARDINAL
+WB20	4	1	Moldova	ORG
+WB20	4	2	Moldova	GPE
+WB20	5	1	about 13 percent	PERCENT
+WB20	5	2	Moldova	ORG
+WB20	5	3	2014	DATE
+WB20	5	4	about 14.5 billion MDL	MONEY
+WB20	5	5	about US$1.05 billion	MONEY
+WB20	6	1	nearly a third	CARDINAL
+WB20	6	2	28 percent	PERCENT
+WB20	6	3	roughly 50 percent	PERCENT
+WB20	7	1	3.6 percent	PERCENT
+WB20	7	2	the last 10 years	DATE
+WB20	8	1	The World Bank Moldova Climate Adaptation Project (	ORG
+WB20	8	2	Feb 01, 2017	DATE
+WB20	8	3	3	CARDINAL
+WB20	8	4	16	CARDINAL
+WB20	8	5	Moldova	ORG
+WB20	9	1	5 percent	PERCENT
+WB20	9	2	annually	DATE
+WB20	9	3	2000	DATE
+WB20	9	4	below $5	MONEY
+WB20	9	5	68	CARDINAL
+WB20	9	6	11.4 percent	PERCENT
+WB20	9	7	between 2000 and 2014	DATE
+WB20	11	1	Moldovan	PERSON
+WB20	11	2	2015	DATE
+WB20	12	1	Russia	GPE
+WB20	12	2	Ukraine	GPE
+WB20	12	3	Russia	GPE
+WB20	12	4	Moldova	GPE
+WB20	12	5	Moldova	GPE
+WB20	12	6	Russia	GPE
+WB20	13	1	three	CARDINAL
+WB20	14	1	three	CARDINAL
+WB20	14	2	12 percent	PERCENT
+WB20	15	1	between 2013 and 2015	DATE
+WB20	16	1	seven	CARDINAL
+WB20	16	2	three	CARDINAL
+WB20	16	3	between September 2014 and January 2016	DATE
+WB20	17	1	November 2015	DATE
+WB20	17	2	88 percent	PERCENT
+WB20	17	3	Moldovans	NORP
+WB20	19	1	Moldova	ORG
+WB20	19	2	the 30th to the 20th	DATE
+WB20	19	3	Control of Corruption	ORG
+WB20	19	4	between 2012 and 2014	DATE
+WB20	20	1	The Business Environment and Enterprise Performance Survey	ORG
+WB20	20	2	2005-13	DATE
+WB20	21	1	Moldova	ORG
+WB20	21	2	one	CARDINAL
+WB20	21	3	Europe	LOC
+WB20	22	1	19 percent	PERCENT
+WB20	22	2	5 percent	PERCENT
+WB20	23	1	57 percent	PERCENT
+WB20	23	2	84 percent	PERCENT
+WB20	25	1	2007	DATE
+WB20	25	2	$5	MONEY
+WB20	25	3	31 percent	PERCENT
+WB20	25	4	2007	DATE
+WB20	25	5	36 percent	PERCENT
+WB20	25	6	2009	DATE
+WB20	27	1	summer	DATE
+WB20	27	2	2015	DATE
+WB20	27	3	41.9 percent	PERCENT
+WB20	29	1	ND	GPE
+WB20	29	2	Moldova	GPE
+WB20	29	3	Europe	LOC
+WB20	30	1	Moldova	GPE
+WB20	30	2	the last century	DATE
+WB20	31	1	20	CARDINAL
+WB20	31	2	mid-century	DATE
+WB20	33	1	2014	DATE
+WB20	33	2	the Government of Moldova	ORG
+WB20	33	3	the Ministry of Environment	ORG
+WB20	33	4	UNDP	ORG
+WB20	33	5	the The World Bank Moldova Climate Adaptation Project	ORG
+WB20	33	6	Feb 01, 2017	DATE
+WB20	33	7	4	CARDINAL
+WB20	33	8	16	CARDINAL
+WB20	33	9	Austria	GPE
+WB20	33	10	National Climate Change Adaptation Strategy	ORG
+WB20	33	11	six	CARDINAL
+WB20	34	1	2020	DATE
+WB20	34	2	US$155 million	MONEY
+WB20	35	1	Bank	ORG
+WB20	36	1	CIAT	ORG
+WB20	37	1	3	CARDINAL
+WB20	38	1	Moldova	GPE
+WB20	38	2	a quarter to a third	CARDINAL
+WB20	38	3	Eastern European	LOC
+WB20	39	1	Only around 1%	PERCENT
+WB20	39	2	every few years	DATE
+WB20	39	3	around $20 million	MONEY
+WB20	40	1	2007	DATE
+WB20	42	1	10-30%	PERCENT
+WB20	43	1	Annual	DATE
+WB20	43	2	annual	DATE
+WB20	45	1	Around 43%	PERCENT
+WB20	45	2	80%	PERCENT
+WB20	46	1	20-50%	PERCENT
+WB20	47	1	annual	DATE
+WB20	47	2	around $240 - $480 million	MONEY
+WB20	47	3	coming decades	DATE
+WB20	49	1	Moldova	ORG
+WB20	49	2	Europe	LOC
+WB20	49	3	only 11.4 percent	PERCENT
+WB20	50	1	Moldova	GPE
+WB20	54	1	Annual	DATE
+WB20	54	2	around $40 million	MONEY
+WB20	54	3	coming decades	DATE
+WB20	56	1	Moldovan	GPE
+WB20	56	2	between two	CARDINAL
+WB20	56	3	Nistru	ORG
+WB20	56	4	Prut	ORG
+WB20	57	1	About 65 percent	PERCENT
+WB20	58	1	Soviet	NORP
+WB20	59	1	Only around 6%	PERCENT
+WB20	61	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	61	2	Feb 01, 2017	DATE
+WB20	61	3	5	CARDINAL
+WB20	61	4	16	CARDINAL
+WB20	61	5	a couple of decades	DATE
+WB20	61	6	Moldova	ORG
+WB20	61	7	2040	DATE
+WB20	64	1	the hundreds of millions or billions of US$	MONEY
+WB20	64	2	the 2040s	DATE
+WB20	66	1	Moldova	ORG
+WB20	67	1	around $60 million	MONEY
+WB20	67	2	coming decades	DATE
+WB20	68	1	The World Bank	ORG
+WB20	68	2	the Disaster and Climate Risk Management Project	ORG
+WB20	68	3	2010-16	DATE
+WB20	68	4	US$12 million	MONEY
+WB20	69	1	June 2016	DATE
+WB20	71	1	first	ORDINAL
+WB20	72	1	CPS	ORG
+WB20	72	2	August 9, 2013	DATE
+WB20	73	1	two	CARDINAL
+WB20	73	2	CPS	ORG
+WB20	73	3	third	ORDINAL
+WB20	73	4	Moldova	GPE
+WB20	73	5	Bank	ORG
+WB20	74	1	40 percent	PERCENT
+WB20	75	1	CPS	ORG
+WB20	76	1	Bank	ORG
+WB20	77	1	C. Proposed Development	PERSON
+WB20	78	1	PCN	ORG
+WB20	78	2	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	78	3	Feb 01, 2017	DATE
+WB20	78	4	6	CARDINAL
+WB20	78	5	16	CARDINAL
+WB20	79	1	D. Concept Description	PERSON
+WB20	80	1	the Moldova Climate Adaptation & Forestry Project	ORG
+WB20	84	1	1	CARDINAL
+WB20	84	2	$32 million	MONEY
+WB20	84	3	Moldova	GPE
+WB20	85	1	Only around 6%	PERCENT
+WB20	85	2	soviet-era	DATE
+WB20	85	3	less than 1%	PERCENT
+WB20	85	4	Moldova	ORG
+WB20	90	1	one	CARDINAL
+WB20	91	1	1.1	CARDINAL
+WB20	91	2	$10 million	MONEY
+WB20	95	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	95	2	Feb 01, 2017	DATE
+WB20	95	3	7	CARDINAL
+WB20	95	4	16	CARDINAL
+WB20	95	5	Moldovan	ORG
+WB20	97	1	the Millennium Challenge Corporation	ORG
+WB20	97	2	10	CARDINAL
+WB20	98	1	MCA	ORG
+WB20	101	1	around 15 percent	PERCENT
+WB20	101	2	30	CARDINAL
+WB20	101	3	15%	PERCENT
+WB20	101	4	4500	CARDINAL
+WB20	107	1	around 100	CARDINAL
+WB20	107	2	at least 200	CARDINAL
+WB20	107	3	3000	CARDINAL
+WB20	109	1	1000	CARDINAL
+WB20	111	1	30%	PERCENT
+WB20	111	2	50,000	MONEY
+WB20	113	1	National Rural Development Agency	ORG
+WB20	113	2	the Millennium Challenge Account Unit	ORG
+WB20	115	1	1.2	CARDINAL
+WB20	115	2	US$22 million	MONEY
+WB20	117	1	The World Bank Moldova Climate Adaptation Project (	ORG
+WB20	117	2	Feb 01, 2017	DATE
+WB20	117	3	8	CARDINAL
+WB20	117	4	16	CARDINAL
+WB20	117	5	$0.5 million	MONEY
+WB20	117	6	the Forest Institutional Reform Strategy	ORG
+WB20	117	7	Moldova	GPE
+WB20	117	8	FIRSM	ORG
+WB20	117	9	2012	DATE
+WB20	118	1	$12 million	MONEY
+WB20	119	1	Central	LOC
+WB20	119	2	South	LOC
+WB20	120	1	5,000 to 10,000	CARDINAL
+WB20	120	2	9.5	MONEY
+WB20	120	3	Moldsilva	ORG
+WB20	121	1	the State Ecological Inspectorate	ORG
+WB20	123	1	the National Centre for Forest Genetics	ORG
+WB20	123	2	NCFGS	ORG
+WB20	123	3	Moldsilva	ORG
+WB20	124	1	$2.5 million	MONEY
+WB20	125	1	Moldsilva	ORG
+WB20	125	2	$0.25 million	MONEY
+WB20	126	1	$6.5 million	MONEY
+WB20	127	1	1,000	CARDINAL
+WB20	127	2	$0.75 million	MONEY
+WB20	127	3	1,000	CARDINAL
+WB20	127	4	$1.5 million	MONEY
+WB20	127	5	1,000	CARDINAL
+WB20	127	6	$1.5 million	MONEY
+WB20	127	7	1,500	QUANTITY
+WB20	127	8	$3.0 million	MONEY
+WB20	128	1	Local Public Authorities	ORG
+WB20	129	1	LPA	ORG
+WB20	129	2	$4 million	MONEY
+WB20	131	1	40,000	CARDINAL
+WB20	133	1	Moldsilva	ORG
+WB20	133	2	FIRSM	ORG
+WB20	134	1	fall 2016	DATE
+WB20	139	1	about 1.2	CARDINAL
+WB20	142	1	$15 million	MONEY
+WB20	143	1	Internal Affairs	ORG
+WB20	143	2	three	CARDINAL
+WB20	143	3	Feb 01, 2017	DATE
+WB20	143	4	9	CARDINAL
+WB20	143	5	16	CARDINAL
+WB20	143	6	two	CARDINAL
+WB20	143	7	Emergency Command Centers	ORG
+WB20	144	1	Chisinau	GPE
+WB20	145	1	two	CARDINAL
+WB20	145	2	Balti	GPE
+WB20	145	3	Cahul	NORP
+WB20	146	1	two	CARDINAL
+WB20	147	1	ESCPS	PERSON
+WB20	148	1	US$4 million	MONEY
+WB20	148	2	over 5 years	DATE
+WB20	150	1	ESCPS	PERSON
+WB20	151	1	90%	PERCENT
+WB20	151	2	20 years old	DATE
+WB20	153	1	winter	DATE
+WB20	154	1	US$3 million	MONEY
+WB20	154	2	3 years	DATE
+WB20	156	1	Moldova	GPE
+WB20	157	1	II	ORG
+WB20	160	1	ESCPS	ORG
+WB20	160	2	first	ORDINAL
+WB20	162	1	US$5 million	MONEY
+WB20	162	2	over 5 years	DATE
+WB20	163	1	3	CARDINAL
+WB20	164	1	zero	CARDINAL
+WB20	164	2	CERC	ORG
+WB20	165	1	CERC	ORG
+WB20	165	2	World Bank OP/BP	ORG
+WB20	165	3	10.00	CARDINAL
+WB20	166	1	the World Bank	ORG
+WB20	166	2	the Immediate Response Mechanism	ORG
+WB20	166	3	IRM	ORG
+WB20	166	4	IDA	ORG
+WB20	166	5	CERC	ORG
+WB20	168	1	IRM	ORG
+WB20	169	1	The Republic of Moldova	GPE
+WB20	169	2	a CERC Operations Manuals (OM	ORG
+WB20	170	1	$3.5 million	MONEY
+WB20	171	1	the Intergovernmental Board on Climate Services	ORG
+WB20	171	2	Moldova	ORG
+WB20	171	3	the Global Framework for Climate Services	EVENT
+WB20	171	4	GFCS	ORG
+WB20	172	1	GFCS	ORG
+WB20	173	1	The GFCS Partner Advisory Committee	ORG
+WB20	173	2	Moldova	GPE
+WB20	173	3	one	CARDINAL
+WB20	173	4	six	CARDINAL
+WB20	174	1	Bank	ORG
+WB20	174	2	GFCS	ORG
+WB20	174	3	the The World Bank Moldova Climate Adaptation Project	ORG
+WB20	174	4	Feb 01, 2017	DATE
+WB20	174	5	10	CARDINAL
+WB20	174	6	16	CARDINAL
+WB20	175	1	The State Hydrometeorological Service	ORG
+WB20	176	1	Bank	ORG
+WB20	176	2	SHS	ORG
+WB20	178	1	Apele Moldovei	PERSON
+WB20	179	1	approximately US$1 million	MONEY
+WB20	180	1	World Bank	ORG
+WB20	181	1	b. Facility/challenge	PERSON
+WB20	181	2	US$1 million	MONEY
+WB20	183	1	approximately US$1.5 million	MONEY
+WB20	184	1	SAFEGUARDS A.	PERSON
+WB20	185	1	Southern	NORP
+WB20	185	2	one	CARDINAL
+WB20	187	1	the regional Emergency Command Centers	ORG
+WB20	187	2	the Emergency Training Center	ORG
+WB20	188	1	B. Borrower’s	PERSON
+WB20	188	2	State	ORG
+WB20	189	1	The Ministries of Environment	ORG
+WB20	189	2	MoE	ORG
+WB20	189	3	Moldsilva	GPE
+WB20	189	4	State Hydro-meteorological Service	ORG
+WB20	189	5	Department of Emergency Situations	ORG
+WB20	191	1	the Project Management Team	ORG
+WB20	191	2	PMT	ORG
+WB20	192	1	PMT	ORG
+WB20	192	2	the Persistent Organic Pollutants	ORG
+WB20	192	3	the Disaster and Climate Risk Management Project	ORG
+WB20	194	1	PMT	ORG
+WB20	194	2	PMT	ORG
+WB20	195	1	the The World Bank Moldova Climate Adaptation Project	ORG
+WB20	195	2	Feb 01, 2017	DATE
+WB20	195	3	11	CARDINAL
+WB20	195	4	16	CARDINAL
+WB20	195	5	the Disaster and Climate Risk Project	ORG
+WB20	196	1	EMP	ORG
+WB20	196	2	EMP Checklists	ORG
+WB20	196	3	Department for Emergency Situations Command Center	ORG
+WB20	197	1	PIU	ORG
+WB20	198	1	EMP	ORG
+WB20	200	1	PIU	ORG
+WB20	201	1	Interventions and Payments in Agriculture (AIPA	ORG
+WB20	203	1	PMT	ORG
+WB20	203	2	WB Environmental Specialist	ORG
+WB20	204	1	C. Environmental	PERSON
+WB20	204	2	Mohamed Ghani	PERSON
+WB20	204	3	Safeguard Policies Triggered	ORG
+WB20	205	1	two	CARDINAL
+WB20	205	2	Emergency Command Centers	ORG
+WB20	206	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	206	2	Feb 01, 2017	DATE
+WB20	206	3	12	CARDINAL
+WB20	206	4	16	CARDINAL
+WB20	210	1	ESMF	ORG
+WB20	211	1	EIA	ORG
+WB20	211	2	the EMP Checklist	ORG
+WB20	211	3	EIA	ORG
+WB20	212	1	ESMF	ORG
+WB20	212	2	US	GPE
+WB20	212	3	WB	ORG
+WB20	214	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	214	2	Feb 01, 2017	DATE
+WB20	214	3	13	CARDINAL
+WB20	214	4	16	CARDINAL
+WB20	215	1	SEP	ORG
+WB20	216	1	4.04	CARDINAL
+WB20	216	2	OP	PERSON
+WB20	217	1	first	ORDINAL
+WB20	218	1	ESMF	ORG
+WB20	219	1	OP	PERSON
+WB20	219	2	OP	PERSON
+WB20	220	1	ESMF	ORG
+WB20	221	1	4.09	CARDINAL
+WB20	221	2	OP	PERSON
+WB20	222	1	ESMF	ORG
+WB20	222	2	Integrated Pest Management	ORG
+WB20	224	1	Peoples OP/BP	ORG
+WB20	224	2	4.10	CARDINAL
+WB20	224	3	N/A for Moldova Involuntary Resettlement	ORG
+WB20	224	4	4.12	CARDINAL
+WB20	226	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	226	2	Feb 01, 2017	DATE
+WB20	226	3	14	CARDINAL
+WB20	226	4	16	CARDINAL
+WB20	226	5	Resettlement Policy Framework	ORG
+WB20	226	6	a Process Framework	PRODUCT
+WB20	227	1	Social Impact Assessment (	ORG
+WB20	227	2	SIA	ORG
+WB20	227	3	RPF	ORG
+WB20	228	1	MCA	ORG
+WB20	229	1	Prut	ORG
+WB20	229	2	Dniester Rivers	PERSON
+WB20	230	1	VP	ORG
+WB20	231	1	Disputed Areas OP/BP	ORG
+WB20	231	2	N/A E. Safeguard Preparation Plan Tentative	ORG
+WB20	232	1	Appraisal Stage PID/ISDS	ORG
+WB20	232	2	October, 2016	DATE
+WB20	232	3	ESMF	ORG
+WB20	233	1	mid -December, 2016	DATE
+WB20	233	2	MoE	ORG
+WB20	233	3	WB Environmental Specialist	ORG
+WB20	233	4	MoE	ORG
+WB20	234	1	RPF	GPE
+WB20	234	2	PF	ORG
+WB20	234	3	SIA	ORG
+WB20	234	4	Gender Assessment	PERSON
+WB20	234	5	SEP	ORG
+WB20	234	6	mid-October	DATE
+WB20	234	7	ESMF	ORG
+WB20	235	1	MoE	ORG
+WB20	235	2	WB Social Specialist	ORG
+WB20	235	3	MoE	ORG
+WB20	236	1	the end of December,	DATE
+WB20	236	2	2016	DATE
+WB20	236	3	EA	GPE
+WB20	236	4	RPF	GPE
+WB20	236	5	PF	ORG
+WB20	236	6	Gender Assessment	PERSON
+WB20	236	7	SIA	ORG
+WB20	236	8	MoE	ORG
+WB20	236	9	MoA	DATE
+WB20	236	10	Ministry of Interior	ORG
+WB20	236	11	State Agency Moldsilva	ORG
+WB20	236	12	MoE	ORG
+WB20	236	13	WB	ORG
+WB20	236	14	Infoshop	LOC
+WB20	237	1	SEP	ORG
+WB20	237	2	MoE	ORG
+WB20	238	1	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	238	2	Feb 01, 2017	DATE
+WB20	238	3	15	CARDINAL
+WB20	238	4	16	CARDINAL
+WB20	238	5	World Bank Emilia Battaglini	ORG
+WB20	238	6	Anatol Gobjila	ORG
+WB20	238	7	Public Debt Department elena.matveeva@mf.gov.md	ORG
+WB20	238	8	inga.podoroghin@mediu.gov.md Ministry of Environment	ORG
+WB20	238	9	Water Management Department	ORG
+WB20	238	10	NW	GPE
+WB20	238	11	Washington	GPE
+WB20	238	12	202	CARDINAL
+WB20	238	13	458	CARDINAL
+WB20	238	14	202	CARDINAL
+WB20	238	15	522-1500	CARDINAL
+WB20	238	16	http://www.worldbank.org/infoshop APPROVAL Task Team	ORG
+WB20	238	17	Emilia Battaglini	PERSON
+WB20	238	18	Anatol Gobjila	PERSON
+WB20	238	19	The World Bank Moldova Climate Adaptation Project	ORG
+WB20	238	20	Feb 01, 2017	DATE
+WB20	238	21	16	CARDINAL
+WB20	238	22	16	CARDINAL
+WB20	238	23	Nina Chee	PERSON
+WB20	238	24	Valerie Hickey	PERSON
+WB20	238	25	06-Dec-2016	DATE
+WB20	238	26	Satu Kristiina J. Kahkonen	PERSON

@@ -1,0 +1,1553 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 1 of 19  
+
+     
+
+ 
+
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+ 
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 11-May-2017 | Report No: PIDISDSC20468 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 2 of 19  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Argentina P162316  Integrated 
+Management of 
+Agricultural Risk 
+(P162316) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+LATIN AMERICA AND 
+CARIBBEAN 
+
+Aug 22, 2017 Oct 03, 2017 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Argentine Republic, Ministry 
+of Finance 
+
+Ministry of Agroindustry  
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The objective of the project is to contribute to strengthen resilience of the agroindustrial sector, particularly among the 
+most vulnerable producers. This objective will be achieved through reduction of producers' vulnerability and exposure 
+to climatic and market risk. 
+
+ 
+
+ Financing (in USD Million)      
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+Borrower   37.50  
+
+International Bank for Reconstruction and Development  150.00  
+
+LOCAL: BENEFICIARIES    0.00  
+
+Total Project Cost  187.50  
+
+    
+ 
+ 
+
+ 
+ 
+
+Note to Task Teams: End of system generated content, document is editable from here. 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 3 of 19  
+
+     
+
+Other Decision (as needed) 
+ 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+1. After taking office in December 2015, the new Argentine Government moved with significant speed to 
+implement reforms. The Government has rapidly implemented various macroeconomic reforms and initiated a program 
+of structural reforms. These include inter alia (a) the elimination of export taxes on major crops, beef, and most 
+industrial manufacturing products and the reduction by 5 percent of export taxes on soy; (b) unification of the exchange 
+rate, effectively ending most foreign exchange restrictions; (c) moving from a system of discretionary to automatically 
+provided import licenses in line with World Trade Organization procedures; (d) resolution of the dispute with holdout 
+creditors; and (e)  measures to enhance public transparency and accountability. In addition, the National Institute for 
+Statistics launched a new inflation index and improved the overall quality of statistics. Electricity tariffs and transport 
+fees were increased to reduce subsidies, while protecting low-income users with a social tariff. Broader efforts to reduce 
+energy subsidies (which account for a large portion of fiscal deficit) are under way.  
+
+2. Economic activity contracted in 2016, but growth is expected in 2017. Economic activity contracted 2.3 percent 
+during 2016, taking a toll on labor markets, where up to 0.9 percent of formal private sector jobs were lost in the first 
+semester
+
+1
+. However, GDP expanded in the second half of 2016 (0.6 percent), and employment in the formal private 
+
+sector recovered to its previous peak level (October 2015). The economy is expected to continue to grow in 2017 (+2.7 
+percent
+
+2
+) on the assumption that the positive impact of recent policy changes kicks in and the global economy recovers. 
+
+Inflation in the city of Buenos Aires was 40 percent in 2016, mostly due to currency depreciation and the reduction of 
+energy and transport subsidies. However, inflation is expected to decrease to 21 percent in 2017
+
+3
+, despite further 
+
+increases in energy and transport tariffs. The central government primary deficit in 2016 was 4.6 percent of GDP, below 
+the official target (4.8 percent). The target primary deficit for 2017 (4.2 percent), though higher than originally planned, 
+will require further fiscal consolidation efforts. 
+
+3. The Argentine Government has made important steps to address the key macroeconomic imbalances with the 
+objective of creating an environment conducive to economic growth and employment creation.  Argentina offers 
+many opportunities in a weak global environment, and there is a strong interest from foreign investors and firms. Going 
+forward, Argentina aims to continue building a growth enabling policy framework to enhance credibility and support 
+broad based growth and quality employment. In particular, the following policies will be important to permanently 
+reduce inflation and put Argentina on a sustainable growth path: (a) increase public spending efficiency as well as its 
+efficacy and reduce the fiscal deficit in line with government targets; (b) continue fostering the credibility of the Central 
+Bank so that monetary policy can further anchor inflation expectations; (c) strengthen competitiveness and productivity 
+through an improved business environment and investments in infrastructure and increasing competition in markets 
+and improving the regulatory framework in sectors; (d) continue strengthening the credibility of official statistics; and (e) 
+continue improving the provision of public goods (including transportation, health, and education) and reducing regional 
+disparities. 
+
+                                            
+1
+ Source: Ministerio de Trabajo, Empleo y Seguridad Social  
+
+2
+ Source: World Bank Group. 2017. Global Economic Prospects, January 2017 Weak Investment in Uncertain Times. Washington, DC: 
+
+World Bank. doi:10.1596/978-1-4648-1016-9. 
+3
+ Source: Relevamiento de Expectativas de Mercado (REM), Banco Central de la República Argentina, April 2017.  
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 4 of 19  
+
+     
+
+4. Because of its geographical characteristics, Argentina is exposed to a variety of natural hazards. According to 
+the Third National Communication (2015) by the Government of Argentina to the United Nations Framework 
+Convention on Climate Change (TNC, 2015)
+
+4
+, the projections of climate models during this century generally indicate 
+
+that the extremes of high temperatures and extreme precipitation will continue to increase in most of the country, 
+although the precise quantification of this change presents considerable levels of uncertainty.  For example, droughts 
+and floods during the last decades have increased due to the influence of stronger El Niño Southern Oscillation (ENSO) 
+events and due to climate change.
+
+5
+ The natural disaster loss per capita in Argentina is high and relates predominantly to 
+
+hydro-meteorological hazards, which represent 58 percent of the total economic losses over the last 50 years.
+6
+ 
+
+According to Swiss-Re, Argentina is among the 10 emerging economies with the highest flood hazard exposure, with 
+potential losses in excess of US$ 3 billion a year (0.5% of GDP).  Drought, hail, and frosts are other hazards that 
+significantly affect the economic performance of the country. 
+
+ 
+Sectoral and Institutional Context 
+ 
+5. Argentina is one of the world’s leading food exporters, enjoying vast farmlands and favorable natural 
+conditions. Despite these advantages, the country’s agricultural sector is at a point of inflection. Over much of the past 
+decade, the sector enjoyed high global prices but was buffeted by public policies that narrowed profit margins and 
+stifled investment. The new administration made a major shift in taxes and regulation towards supporting economic 
+incentives for development and investment, but global commodity prices have weakened over the past two years and 
+prospects over the medium term are uncertain (World Bank, 2016). Lower commodity prices and slower growth in 
+China, the major commodities consumer, seem to be here to stay.  Argentina and other major agricultural exporters face 
+a difficult transition to a new equilibrium, a “new normal.” 
+
+6. Despite a boom in global commodity prices, from 2002 to 2013 investment in agriculture/agribusiness fell and 
+the rate of total factor productivity growth slowed compared to its neighbors. The Agriculture Production Index of the 
+United Nations Food and Agriculture Organization (FAO) for Paraguay, Brazil and Uruguay was between 20 percent and 
+30 percent higher than that of Argentina in 2013. This trend was closely associated with domestic policies that imposed 
+export tariffs, quotas and exchange rate controls. In December 2015 the new administration eliminated most of the 
+tariffs and quotas, unleashing new potential. Simulations that only look at the potential benefits from the removal and 
+lowering of agricultural export tariffs and controls suggest a significant gain in both production and employment. By 
+2019 grain and oilseed production may increase to 137 million tons, cattle stocks to 56.8 million head, and employment 
+by 500,000 new jobs. 
+
+7. While the sector prognosis is positive, there remain a number of important challenges that will determine the 
+quality of sector growth and sustainability going forward. The main challenge the sector faces is the low and volatile 
+productivity growth with a yield gap reaching 20 percent in selected crops. Dilapidating infrastructure and inadequate 
+transportation and logistics networks further hurt the sector competitiveness, and can account as much as 35 percent of 
+the total cost of a ton in the case of soy. Environmental degradation contributes further to significant losses, estimated 
+to be in the range of 1 to 8 percent of GDP
+
+7
+. Because of these rising costs and accumulating underinvestment, export 
+
+                                            
+4
+ Its Executive summary is available at: http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-
+
+Comunicacion-Nacional.pdf  
+5
+ Caprioli (2010): Extreme Hydrologic Events in North Area of Buenos Aires Province (Argentina)  
+
+6
+  ‘Staying afloat: Flood Risk in Argentina’, Swiss-Re, 2016, 
+
+http://media.swissre.com/documents/Swiss_Re_Argentina_Flood_Risk_Publ_long.PDF.  
+7
+ Country Environmental Analysis: https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-
+
+ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y  
+
+http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-Comunicacion-Nacional.pdf
+http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-Comunicacion-Nacional.pdf
+http://media.swissre.com/documents/Swiss_Re_Argentina_Flood_Risk_Publ_long.PDF
+https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y
+https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 5 of 19  
+
+     
+
+product diversification equivalents fell from 2.1 to 1.7 from 1995 to 2009. Going forward, a key role for public policy will 
+be to enable a conducive business environment (both for investments and cost competitiveness) as the private sector 
+shifts gears from extensive to intensive production systems, and promote diversification towards higher price and value 
+markets. 
+
+8. Furthermore, given that agriculture is one of Argentina’s core economic activities, the country appears to be 
+quite vulnerable to risks, in particular to more intense heat and extreme precipitation events.  Given the geographic 
+extension of Argentina, the country faces a large set of natural hazards that have adverse economic impacts on a regular 
+basis.  The hazards that are most reported to cause systemic losses in the agriculture sector are floods, extreme 
+precipitation, droughts, hail, frosts and volcanic eruptions.  These macro and sector-level constraints and the sector risks 
+outlined above have led to the Agriculture Sector of Argentina to show a drop in Total Factor Productivity (TFP) in 
+relation to neighboring countries in recent years, as well as a drop in the adoption of agriculture technologies (see 
+graphs below). These risks will likely intensify with rising climate variability and change.  
+
+  
+ 
+9. Agriculture production losses in Argentina during the past 20 years due to extreme weather events are 
+estimated to amount to US$12 billion (current value)
+
+8
+.  Extreme losses
+
+9
+ in agriculture production between 1993/94 and 
+
+2014/2015 have been estimated at US$8.7 billion for soy, US$2 billion for maize, US$860 million for wheat and US$493 
+for sunflower.  The worse years in terms of agriculture production losses in the past two decades have been 2008/9 and 
+2011/12 due to an extreme drought in the central “key” agriculture region (zona núcleo) of the country, which reached 
+losses of more than US$9 billion.  Unfortunately, farmers in Argentina, especially family farmers, do not have access to 
+financial instruments that would allow them to cover themselves against such systemic events.  Agriculture insurance in 
+Argentina is concentrated on covering hail, with very few insurance policies being sold to cover for rainfall risks (excess 
+rainfall, drought, and floods). 
+
+10. Flood is the hazard that has caused the largest losses to the Argentinean economy historically.  It is 
+estimated
+
+10
+ that the accumulated losses between 1950 and 2015 from the 10 worst floods were US$8.77 billion 
+
+throughout the entire economy.  Many of these events have been linked to El Niño (ENSO) events, such as the floods of 
+1982/83, 1992, 1997/1998, and 2015.  In relation to the most vulnerable areas, the La Plata Basin is one of the most 
+affected given its level of exposure.  It is estimated that 80 percent of the Argentinean population lives in this basin, and 
+it concentrates the main industrial (including agroindustrial) investments of the country. 
+
+11. Within the Argentinean economy, the agriculture sector is the most susceptible to losses due to flooding.  In 
+2000, for example, approximately 1.85 million hectares (4.5% of total cultivated area) were flooded due to extreme 
+rainfall.  Losses to the sector amounted to US$187 million.  In 2001, a similar area was affected, producing losses of up 
+
+                                            
+8
+ Agriculture Risk Management Policy Note for Argentina, World Bank, 2016. 
+
+9
+ By extreme we refer to deviations in yields of more than one standard deviation. 
+
+10
+ EM-DAT, 2016. 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 6 of 19  
+
+     
+
+to 70 percent of pastureland, a 15 percent drop in milk production, and between 50 and 60 percent drop in maize and 
+wheat production, respectively
+
+11
+. 
+
+12. The second most important hazard in terms of agriculture losses has been extreme drought.  The events of 
+2005, and 2007-2009 have been very damaging for the livestock sector.  In 2009 the National Meteorological Service 
+(SMN) reported that 90 percent of the national territory was under some type of drought situation; with the most 
+severe droughts being recorded in the North of La Pampa and South of Buenos Aires and Cordoba Provinces
+
+12
+.  Because 
+
+of these events, the number of cattle dropped considerably from 58.7 million in 2007 to 49.9 million in 2012 (15 
+percent)
+
+13
+. 
+
+13. Price volatility has also increased for international agriculture commodities since 2006/2007.  This has had a 
+negative effect on Argentinean farmers.  From the beginning of the cropping seasons for grains (October), local prices in 
+Argentina have had a tendency to drop until harvest, which highlights the need for Argentinean farmers to hedge their 
+positions before planting.  Although Argentina has one of the oldest agriculture commodity exchanges globally, with 
+futures and options for several grains, family farmers do not have access to such financial instruments to allow them to 
+hedge against drastic price movements. 
+
+14. Public policies and programs in Argentina that look towards the management of agriculture risks are 
+concentrated in responding to agriculture emergencies.  This is quite different from other countries in the Region and 
+other developed economies, which have a wider set of instruments and tools to manage agriculture sector risks in a 
+more integrated fashion.  In Argentina, the main public policies and programs for agriculture risk management are in the 
+area of agriculture emergency response, agroclimatic information systems (including price), and animal and plant health.  
+From the private sector side, the main agriculture risk management instruments are the development and marketing of 
+climate smart technologies (improved seeds, fertilizers, software and machinery, etc.), animal and plant health products, 
+storage facilities, and agriculture insurance and commodity price derivatives.  
+
+ 
+Relationship to CPF 
+ 
+15. The project is fully aligned with the FY2015-18 World Bank Group’s Country Partnership Strategy (CPS) for 
+Argentina. The CPS identifies maintaining Argentina’s position as one of the world’s top food providers through adapting 
+to climate change and addressing the needs of small farmers as one of the country’s development challenges for 
+sustained poverty reduction and shared prosperity. Argentina’s high potential in agriculture is at risk due to the 
+increasing number of severe climate events such as droughts and floods.  
+
+16. The CPS focuses on reducing poverty and promoting shared prosperity.
+14
+
+ It is organized around nine results 
+areas within three broad strategic pillars. The proposed project is aligned with Strategic Pillars I--“Sustaining 
+Employment Creation in Farms and Firms”--and III--“Reducing Environmental Risks and Safeguarding Natural 
+Resources”. Additionally,  the proposed project is also aligned with the recently widened focus to unlock long-term 
+productivity growth and job creation under Pilar I, in response to the reorientation of policies by the new 
+Administration.
+
+15
+   The project would contribute strongly to “Raising agricultural productivity of small- and medium-size 
+
+farms in low income regions” (Result Area 3 of the CPS). It may also support outcomes included in two other CPS result 
+areas: “Reducing exposure to extreme flooding in the Province of Buenos Aires” (Result Area 7), and “Improving natural 
+
+                                            
+11
+
+ Occhiuzzi and Mercuri, 2011.   
+12
+
+ Sousa, 2009.   
+13
+
+ FAOSTAT. 
+14
+
+ Country Partnership Strategy (CPS) for the Argentine Republic for the period FY15-FY18 (Report No. 81361-AR). 
+15
+
+ Performance Learning Review (PLR) of the Country Partnership Strategy (CPS) for the Argentine Republic for the period FY15-FY18 
+(Report No. 11546-AR). 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 7 of 19  
+
+     
+
+forest cover in the Chaco Eco Region” through the development of an agriculture and climate change information 
+system that facilitates producers’ access to climate-related data.  
+
+17. This project builds on previous work in Argentina and in the region on the improvement of the management 
+of agriculture risks.  The Bank has provided support to Argentina in 2016 through the development of an Agriculture 
+Risk Management Policy Note (P156197) and a technical assistance program for building the institutional capacity for 
+managing agriculture risks and preparing for ENSO events (P159720).  This project also builds on the information 
+systems and farm-level climate resilience technology adoption experiences of the ongoing Project for Increasing Climate 
+Resilience & Enhancing Sustainable Land Management in the Southwest of the Buenos Aires Province (P125804) funded 
+by the Adaptation Fund and executed through the Ministry of Environment, and the study on “Agricultura y ganadería. 
+Impacto y vulnerabilidad al cambio climático” (2015)
+
+16
+ funded by the GEF Argentina Third National Communication 
+
+UNFCCC (P116974) project.  The project will also work alongside ongoing and future IFC advisory services and 
+investments financing green technologies for agribusinesses in Argentina through commercial Banks.  Furthermore, the 
+Bank has provided support to the Ministry of Agroindustry in the past years, helping in the design of agriculture risk 
+transfer instruments for the livestock sector in Buenos Aires Province and cotton producers in Chaco Province.  Finally, 
+this project is based on the Bank’s approach towards an integrated management of agriculture risks, promoting 
+resilience and sector competitiveness, focusing on the most vulnerable farmers
+
+17
+. 
+
+18. The project would contribute to poverty reduction by ensuring the inclusion of the most vulnerable farm 
+households in the risk management strategies and subsequent activities, as these households tend to be among the 
+poorest in the country. Reduction of agricultural output volatility and improvements in emergency response times 
+would also benefit firms and employees along the value chains benefitting from project interventions, mitigating income 
+shocks and variations, which disproportionately affect the poorest sectors of society, and thus contributing to shared 
+prosperity. 
+
+19. Climate change co-benefits. By increasing the resilience of the sector, the project would contribute to climate 
+change adaptation. While the focus of agriculture risk reduction strategies and plans to be supported by the project is on 
+retrospective risk, they will also consider climate change impacts.  Project investments in infrastructure and technology 
+adoption can be considered as “no regrets”, given that key future climate change hazards would likely manifest through 
+increased frequency and intensity of current trends.
+
+18
+ 
+
+20. Nutrition co-benefits. The Project is expected to contribute to improvements in food security by its focus on: (i) 
+improved information for planning and response to production and climate-related hazards in agriculture; (ii) mitigation 
+of risks of vulnerable small farmers, who depend on their output for daily sustenance; (iii) mitigation of risks in high-
+value sub-sectors, which provide permanent and temporary employment to significant numbers of people up and 
+downstream agriculture value chains; and (iv) improved recovery of agricultural systems and thus reduction of volatility 
+of food prices, which affect disproportionately the poor, nationally and globally. 
+
+ 
+ 
+
+                                            
+16
+
+ Full document can be found at: http://ambiente.gob.ar/tercera-comunicacion-nacional/   
+17
+
+ See Agriculture Sector Risk Assessment Methodology: 
+http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector-risk-assessment-methodological-guidance-
+for-practitioners  
+18
+
+ World Bank, Argentina, Cambio climático proyectado y su impacto en la agricultura 2050-2100, Policy Note, 2016. 
+
+http://ambiente.gob.ar/tercera-comunicacion-nacional/
+http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector-risk-assessment-methodological-guidance-for-practitioners
+http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector-risk-assessment-methodological-guidance-for-practitioners
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 8 of 19  
+
+     
+
+C. Proposed Development Objective(s)  
+ 
+
+ 
+ 
+The objective of the project is to contribute to strengthen resilience of the agroindustrial sector, particularly among 
+the most vulnerable producers. This objective will be achieved through reduction of producers' vulnerability and 
+exposure to climatic and market risk. 
+
+ 
+Key Results (From PCN) 
+
+ 
+i. Adoption of technologies and/or instruments for increased resilience (measured by number, type and gender 
+
+of farmers; and area that has adopted production/market resilient technologies/instruments). [CORE SD 
+INDICATOR: Farmers adopting improved agricultural technology] 
+
+ii. Number of farmers (and/or area cultivated) that are part of an improved agriculture emergency system, by 
+type of farmer and segregated by gender. [ CORE SD INDICATOR: Farmers reached with agricultural assets or 
+services] 
+
+iii. Number of Provinces that have adopted an integrated agriculture risk management plan. 
+iv. Number of farmers participating in international value chains, among beneficiaries, by type and gender.
+
+19
+ 
+
+ 
+ 
+D. Concept Description 
+
+ 
+21. Beneficiaries. The project will have as direct beneficiaries the most vulnerable small and medium-sized 
+agricultural producers and small and medium-sized agricultural enterprises, located in the provinces where activities are 
+carried out. It would reach about 70,000 small and medium producers and a number (TBD) of small and medium 
+agribusiness firms. Small and medium farms, in particular those outside the main cereal production zones, are among 
+the most vulnerable and have the lowest capacity to recover from negative impacts caused by external factors like 
+extreme weather or market shocks. Small and medium-sized farmers conform mostly family-based units. Agriculture 
+plays a varied role in these households, mostly depending on size and location, along a continuum of situations. 
+Agriculture in small farms in marginal areas may function as a safety-net, part of a set of multiple activities in their 
+livelihood strategies (close to 70 percent of the family members also work outside the farm, in other farms or sectors
+
+20
+). 
+
+Many medium farms are well-integrated into markets, deploying advanced agriculture techniques and using wage labor.  
+
+22. Gender. Women occupy a variety of roles in this continuum, from farm management to farm workers and are 
+slightly over-represented in the smallest farms’ workforce. There are important gaps related to gender equality in the 
+agroindustrial sector, though data is scant. Migration from poor rural areas may disproportionally affect both single and 
+married women. Nevertheless, some young women are changing this trend by deciding to stay in rural areas in order to 
+develop opportunities for themselves. Project preparation will explore gender aspects of vulnerability in order to 
+determine if there is a need for specific support to women’s livelihood strategies. 
+
+                                            
+19
+
+ This indicator would be included if project design incorporates financing for export diversification, to reduce market risks and in 
+line with Argentina’s policy to  become one of the world’s “supermarkets”. 
+20
+
+ Edith Scheikerman de Obschatko et al.,Los pequeños productores en la república Argentina, PROINDER-SAGPyA/IICA, 2007. Up to 
+date information on small and medium-sized producers is scant. The latest agricultural census was carried out in 2002. Argentina 
+does not include rural areas and small towns, about 30 percent of the total population, in its regular household survey e ither. 
+
+Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your convenience. 
+Please keep it up to date whenever it is changed in the datasheet. 
+
+ 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 9 of 19  
+
+     
+
+23. Indirect beneficiaries. Contractors (firms and employees) who provide services to farmers and whose income 
+often collapses when disaster strikes agriculture production; firms and their employees, up- and downstream the 
+agriculture value chains, who depend on reliable supplies of agricultural products; provincial governments, which 
+allocate scarce public funds to attending emergencies and whose revenues suffer when these occur in their jurisdictions. 
+In addition, the project will strengthen the institutions responsible for generating and disseminating critical information 
+for risk management and the offices responsible for managing responses to agricultural emergencies. 
+
+24. Integrated framework for managing agriculture risks. The implementation of the framework implies a balance 
+between existing public policies and programs, available public resources, and existing private sector technologies and 
+instruments.  It also requires the development of a robust institutional structure to ensure policy and program 
+integration and clear communications across various sector stakeholders.  Interinstitutional coordination to reduce 
+response times after an event, improving targeting of risk management programs to the most vulnerable population and 
+changing the risk management paradigm from an ex post to an ex ante system are key issues to be tackled by the 
+proposed operation.  Thus, this project seeks to provide the public sector with the capacity and strategies for managing 
+agriculture sector risks in an integrated fashion, increasing the resilience of the most vulnerable farmers while improving 
+the effectiveness and efficiency of public spending.  
+
+25. Components.  In order to contribute to implementing an integrated approach to risk management, the project is 
+divided into three components that have been identified as the key areas of improvement within the existing public 
+sector policies and programs in Argentina. Component 1 focuses on the provision of agroclimatic information (public 
+service) for the management of agriculture risks, while components 2 and 3 focus on bringing integrated management of 
+agriculture risks at the farm level, addressing different agriculture risk layers with different risk management strategies 
+(risk mitigation, transfer and coping – see risk layering figure below). 
+
+ 
+
+ 
+ 
+ 
+
+26. Component 1 - Strengthening agro-climatic information systems (approximate cost USD 15 million, of which 
+80% from the Bank). Despite the fact that the GoA has made important progress in facilitating access of agro-climatic 
+information and commodity prices for agriculture risk management purposes, there remain important limitations – 
+technical and financial – that hinder sustained cooperation among government institutions, and the use of data by the 
+private sector and the public. For instance and despite the existence of cooperation agreements among institutions that 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 10 of 19  
+
+     
+
+generate data, heterogeneity of IT infrastructure and information systems still impedes coordination and cooperation. 
+These constraints make it difficult to carry out risk monitoring and risk analyses in a timely manner. 
+
+27. Based on an approach that intends to leverage public funds with private assets and participation, the 
+component would finance improvements in capacity and interoperability of agroclimatic and price information systems 
+operated or disseminated by the Ministry of Agroindustry (MAI) and other selected public and private entities linked to 
+the agriculture sector. An example of this is the work being done to standardize and disseminate the agroclimatic data 
+collected by private networks of meteorological stations with the ones of the National Meteorological Service (SMN) and 
+of the National Agriculture Technology Institute (INTA).  Another example is the ongoing development of an information 
+system that collects and publishes real-time spot prices of basic grains (Operations Information Systems for Grains
+
+21
+), 
+
+which is a joint effort between MAI and the Agriculture Commodity Exchanges of Argentina. It would also improve the 
+institutional capacity of selected institutions to analyze georeferenced data. The component would finance goods, 
+training, consultant services and operational costs for the development or enhancement of agro-ecological data and 
+information management systems. The project would also allocate resources to promote private- and public-sector 
+development and implementation of IT systems and software solutions that improve access to agro-industrial 
+information and enhance the assessment of agricultural risks associated with climate variability, climate change, and 
+market price fluctuations. The key expected results from this component are: (i) a well-functioning early-warning system 
+for the main hazards that affect agricultural value chains
+
+22
+; and (ii) a reliable and easily accessible system for the 
+
+provision of production, price and meteorological information to the public. 
+
+28. Subcomponent 1.1. Development of Tools and Systems. The purpose of this subcomponent is to consolidate 
+and integrate production, price and meteorological information generated by a variety of public and private institutions. 
+It envisages financing for the following activities: 
+
+a. diagnostic of sector ICT capacities and systems;  
+b. diagnostic of existing capacity for generation, transmission, maintenance, quality assurance and security 
+
+of information;  
+c. design and implementation of the infrastructure for provision of agro-industrial agro-climatic data, 
+
+including systems for downloading, analyzing, visualizing and consulting data and information;  
+d. design of protocols, standards and operation and maintenance manuals for supported tools and 
+
+systems;  
+e. integration and strengthening of key price and meteorological networks and data;  
+f. development of historical synthetic data series for agroclimatic variables for probabilistic analysis; and 
+g. strengthening of provincial and regional spatial data infrastructure selected on the basis of information 
+
+gaps. 
+
+                                            
+21
+
+ The real time price information system can be accessed at: www.siogranos.com.ar.  This information system received technical 
+assistance from the World Bank in 2015 for its development and it is a unified system for the purchase and sale of grains that make 
+up the Physical Market ("disponible", "cash", "forwards" a fijar "," directas ", etc.) and that arises according to the estab lished in the 
+CNV - SAGyP Joint Resolution Nº 208 and 628. This system has been developed by the Cereal Stocks exchanges of Bahía Blanca, 
+Buenos Aires, Córdoba and Entre Ríos, and the Stock Exchanges of Chaco, Rosario and Santa Fe, the Mercado a Término de Buenos 
+Aires SA (MATba) and the Mercado a Término de Rosario S.A. (ROFEX). The products on which the aforementioned operations are to 
+be reported are: wheat, corn, sunflower, soybean, soybean oil, forage barley and sorghum. The aim of the joint action is to improve 
+transparency in the physical grain market and, in particular, to promote the link between the quality and the price of the products 
+traded. 
+22
+
+ An example is the linkage and coordination with the Information and Early Warning System (IEWS) established under our 
+Argentina Adaptation Fund: Increasing Climate Resilience & Enhancing Sustainable Land Management in the Southwest of the 
+Buenos Aires Province (P125804) and coordinated between National Agriculture Technology Institute (INTA) and the National 
+Meteorological Service (SMN). 
+
+http://www.siogranos.com.ar/
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 11 of 19  
+
+     
+
+ 
+ 
+29. Subcomponent 1.2. Institutional Capacity Development. This subcomponent aims at building the capacity of 
+selected national and provincial government institutions for the operation of the supported information systems.  It 
+would also promote the development of software solutions by the private sector, based on the data generated by the 
+improved systems. This subcomponent would finance the following activities: 
+
+a. hardware, software and training required for effective operation of selected national, provincial and 
+decentralized entities; 
+
+b. promotion and dissemination of visualization, consultation, analysis and data download tools developed 
+by MAI, under an open data approach for private sector developers and use by other institutions; 
+
+c. training of government staff and potential software developers in data management and information for 
+agricultural risk management; and 
+
+d. technical assistance for the design of market price references, agro-meteorological indexes and event 
+impact analysis. 
+
+ 
+30. Component 2 – Agriculture risk mitigation investments (approximate cost USD 125 million, of which 80% from 
+the Bank). The purpose of the component would be to improve the resilience of agricultural systems prioritized through 
+regional-level (inter-provincial) agriculture value-chain risk strategies and provincial-level integrated agriculture sector 
+risk-management plans. The component would finance: (i) Rural public Infrastructure works; (ii) Afforestation, 
+reforestation and watershed management to protect water sources, reduce flood risks, and as a basis to encourage the 
+adoption of good practices and climate smart technologies; and (iii) incentives for the adoption of climate-smart 
+agriculture technology and risk management instruments at the farm-level.  These would be financed through two 
+subcomponents: 
+
+ 
+31. Subcomponent 2.1. Infrastructure and natural resources management. This subcomponent aims to reduce the 
+impact of climate and production risks events at the sub-regional level, as prioritized by risk management instruments. It 
+would finance on-lending to provinces for the execution of risk mitigation subprojects (combinations of works, goods, 
+consulting and non-consulting services, and operational costs) for:  
+
+a. water for agriculture, including activities destined to capture, collect, store, distribute and use of water for 
+agricultural production, as well as improvement in the efficiency in use of water (construction, rehabilitation and 
+improvement of irrigation, micro-irrigation, surface and subterranean storage); 
+
+b. natural resources management, including watershed management, drainage, forestation, reforestation and 
+protection and recovery of forest, soil and water resources; 
+
+c. other activities (to be defined) that may be prioritized in the risk management plans and which have 
+demonstrated impacts on risk reduction. 
+
+ 
+32. Subcomponent 2.2. Technical assistance to vulnerable producers. The purpose of this subcomponent is to 
+promote the farm-level adoption of validated technologies to improve resilience of agricultural production systems. It 
+may be deployed in combination with activities financed through subcomponent 2.2., or as standalone programs, all 
+within approved risk management plans. The subcomponent would finance training and technical assistance services to 
+farmer and farmer groups to:  
+
+a. facilitate the adoption of good practices and climate smart production and storage technologies;  
+b. improve the efficiency and sustainable operation of existing or new infrastructure; and 
+c. facilitate access and use of agriculture insurance and price hedging instruments, and improve knowledge and 
+
+purchase of such financial risk transfer instruments. 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 12 of 19  
+
+     
+
+ 
+33. The subcomponent may also finance: (i) applied research, piloting and dissemination of promising but un-tested 
+climate-smart technologies; (ii) research, piloting and dissemination for technological diversification (e.g. marine and 
+aquaculture, agroforestry systems); and (iii) support for the implementation of certification and traceability systems (e.g. 
+country-level value chains of global importance). 
+
+34. The project would explore the provision of incentives through financial institutions (such as partial credit 
+guarantees, credit lines, etc.) and/or matching grants for poor and vulnerable farmers whenever a public goods element 
+is envisaged (effectiveness of regional works, food safety, human nutrition or food security, climate change adaptation 
+or mitigation, demonstration effects, etc.), or to mitigate a market failure.  
+
+35. The Project may also work on market risk with a long-term view, and at a high level, supporting a set of (inter-
+ministerial) policies and interventions, as well as to their coordination, which aim to reduce Argentina’s heavy 
+dependence on undiversified and basic commodity exports, and make Argentinian agriculture more competitive in the 
+world stage. This is in line with the Government’s vision to make Argentina the “supermarket of the world”. To this end, 
+the Project would support and scale up existing and new measures that aim to improve value-addition, and 
+diversify/differentiate exports and markets in agriculture/agribusiness. It would finance, among others, technical 
+assistance programs on marketing and standard development, and other private sector development initiatives, to 
+accelerate productivity growth and global integration in a strategic set of agricultural value-chains. 
+
+ 
+36. Component 3 – Agriculture Emergency Response Financing (approximate cost USD 37 million, of which 80% 
+from Bank). This component aims to improve the operation of the current agricultural emergency system enacted by 
+Law  26.509 (of 2009), in order to increase coverage for vulnerable producers.  This Agriculture Emergency Law (AEL) 
+provides the main response mechanism that assists the agricultural sector against extreme events. Nevertheless, the 
+National Emergency and Disaster Agricultural Fund, constituted through the AEL, lacks enough resources to implement 
+risk preparedness, mitigation and response activities. The AEL does not provide a clear distinction of roles and 
+responsibilities between federal and provincial governments in the aftermath of an extreme event, and all farmers are 
+entitled to receive the same benefits, irrespective of their characteristics. Allocation of benefits is not governed by clear 
+rules and the system lacks transparency.  Most AEL benefits are not able to be used by family farmers because they are 
+linked to cancelation or delays in the repayment of formal bank loans, and since most family farmers to do not have 
+access to formal credit, they are de facto excluded from this support, although they are the most affected by natural 
+disasters. 
+
+37. The component would work in two directions: (i) improving the efficiency, equity and transparency of the 
+agriculture emergency system; and (ii) introducing risk mitigation and risk transfer instruments to improve the financial 
+sustainability of the agriculture emergency systems, in particular in terms of climate-related events.   The project will 
+also improve provincial institutional capacities for the management of agriculture emergencies, promoting the use of a 
+more integrated risk financing structure. At the national level, it would support the design, implementation and 
+purchase of risk financing instruments (credits, guarantees, insurance, derivatives, etc.) in a pari passu modality with 
+selected provincial governments.  The component would finance the following activities: 
+
+a. Technical assistance for MAI’s Agricultural Emergency Subsecretariat in order to strengthen the systems for 
+decision making, benefit allocation, and registry and monitoring of beneficiaries; 
+
+b. Development of aggregate (provincial or regional-level) agriculture risk financing instruments (parametric 
+insurance, catastrophe bonds, contingent lines of credit, weather derivatives, etc.), as well as training and 
+technical assistance for their validation and adoption; and  
+
+c. Payment of premiums and related costs of agriculture risk financing instruments to be piloted under the 
+framework of the system of agricultural emergency, on the basis of national and/or provincial demands. 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 13 of 19  
+
+     
+
+38. The component may also include support for the design of instruments for price risk transfer for agricultural 
+commodities and risks that are covered by current private sector agents. It may also provide support to build capacities 
+in the public and private sectors for agricultural risk valuation and analysis. 
+
+ 
+39. Component 4-- Project coordination, monitoring and evaluation (approximate cost USD 10 million, of which 
+80% from the Bank). Provision of support to MAI, through its Rural Change Unit (UCAR), for carrying out: (a) project 
+coordination and management; (b) monitoring, results evaluation and impact assessment of project activities; (c) project 
+fiduciary administration, internal controls and audits; (d) project environmental and social risk/safeguards management; 
+(e) a citizen’s engagement mechanism; and (vii) project-related studies. 
+
+ 
+ 
+
+ 
+ 
+    
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+Specific subprojects to be financed under component 2 to strengthen resilience of the agricultural sector will not be 
+
+identified before the project appraisal, and therefore their specific locations and environmental and social conditions are 
+not known at the moment. While the project is national in scope, the natural environments of the Argentine provinces 
+are very varied, including high diversity of ecosystems ranging from forests to desert and the Andes Mountains. The 
+respective social and productive contexts are also diverse, the producer groups varying from large producers to 
+subsistence farmers. Due to the national scope of the project, the project addresses potential presence of Indigenous 
+Peoples. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The implementing agency will be the Ministry of Agroindustry (MAI), through the Rural Change Unit (Unidad para el 
+
+Cambio Rural-UCAR). The project’s environmental and social risk and safeguards management will be responsibility of 
+UCAR’s Environmental and Social Unit, and previous experience has allowed it to enhance its capacity to streamline 
+safeguards implementation and monitoring. However, beyond UCAR with previous experience with Bank-financed 
+agriculture development projects and its strong commitment and active involvement during implementation of said 
+operations, the project’s decentralized implementation approach will involve a number of provinces with uneven 
+institutional capacities and diverse regulations, including limited resources to implement the required safeguards 
+procedures. Further, despite of UCAR’s wide experience, it has recently faced some challenges regarding implementation 
+of OP 4.12 on Involuntary Resettlement, in particular when addressing existing gaps between national and provincial 
+regulatory and institutional frameworks and the OP 4.12 requirements. In conclusion, there is room for safeguards 
+related capacity building. UCAR’s and the responsible provincial agencies’ institutional capacity needs will be assessed in 
+detail as the project preparation proceeds and the identified actions included in the project design. 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Lilian Pedersen, Tuuli Johanna Bernardini, Claudio Luis Daniele, German Nicolas Freire 
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+ 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 14 of 19  
+
+     
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project will implement an integrated framework 
+for managing agriculture risks, including a diverse set 
+of investments. It aims to have an overall highly 
+positive socioeconomic and environmental impact, 
+including improvements in watershed management, 
+reforestation, and application of climatic information 
+systems to facilitate agricultural production planning 
+and decrease climate related income loss. OP/BP 4.01 
+is triggered as the physical interventions/subprojects 
+under component 2 could have negative 
+environmental impacts in case not properly managed. 
+However, the majority of project activities are 
+expected to have low to moderate impacts that can be 
+prevented or mitigated. In socioeconomic terms, 
+positive impacts are expected in terms of 
+improvement of existing public infrastructure e.g. on 
+irrigation.  
+ 
+Negative cumulative impacts are not expected as all 
+activities will be implemented in areas already under 
+agricultural production. Further, the project will 
+promote good environmental practices as a means to 
+improved management of agricultural risks and thus 
+reduction of producers' vulnerability through exposure 
+to climatic and market risks. The project will also 
+finance activities to avoid or restore land degradation 
+in adjacent watersheds. 
+ 
+As the subprojects will only be defined during project 
+implementation, the project requires an 
+Environmental and Social Management Framework 
+(ESMF) that UCAR will prepare, including a framework 
+level Environmental and Social Management Plan 
+(ESMP). The ESMF will guide identification and 
+adoption of measures to mitigate environmental and 
+social impacts and good practices to create 
+environmental and social value added. The ESMF will 
+be structured to prevent, minimize and mitigate 
+impacts on forests, water resources, worker and 
+community health and safety, as well as public 
+infrastructure and services. The ESMF will reference 
+the relevant sections of the World Bank Group General 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 15 of 19  
+
+     
+
+Environmental, Health and Safety (EHS) Guidelines e.g. 
+on annual crop production, perennial crops and 
+related water consumption and management. 
+ 
+As part of the ESMF preparation, UCAR will prepare a 
+Social Assessment (SA) that will focus on the analysis 
+of the situation of small and medium, indigenous and 
+female farmers; in general those that are primarily 
+linked to regional economies and thus the most 
+vulnerable against climate related risks and with the 
+lowest capacity to recover from negative impacts 
+caused by external factors like extreme weather or 
+market shocks. The scope of the SA will include 
+indigenous communities/farmers in order to assess 
+whether there are specific challenges they face to 
+recover from negative impacts. 
+ 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+The project will develop capacity of national and local 
+institutions for effective environmental planning and 
+management in relation to climatic risks and improved 
+land use practices. Even though all the productive 
+activities financed by the project will be implemented 
+in areas already under agricultural production, OP/BP 
+4.04 is triggered for precautionary purposes as 
+watershed management and flood control 
+investments financed by the project may require 
+restoration activities e.g. on buffer or adjacent zones 
+to protected areas. If such situation is identified at the 
+subproject screening stage, the ESMF will require 
+identification of support activities to strengthen the 
+associated management instruments/practices. 
+Triggering OP/BP 4.04 will secure the project is able to 
+implement potential restoration activities related to 
+any type of natural habitat. The ESMF will include a 
+negative list that will exclude any investment that 
+might impact negatively any type of natural habitat. 
+
+Forests OP/BP 4.36 Yes 
+
+OP/BP 4.36 is triggered as project is expected to 
+finance forestation, reforestation, and protection and 
+recovery of forests, particularly as part of watershed 
+management. Only investments with positive impacts 
+on forests and/or people dependent on forests will be 
+eligible. The project will not intervene in the forest 
+value chain. As component 2 will promote 
+diversification of agricultural production and finance 
+climate-smart technologies (e.g. agroforestry systems 
+and agro-silvo-pastoral models), the project is 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 16 of 19  
+
+     
+
+expected to contribute to reducing pressure on forests 
+and favor their management and conservation efforts. 
+
+Pest Management OP 4.09 Yes 
+
+The project will finance subprojects in agricultural 
+systems that may require use of agrochemicals. By 
+project appraisal, a list of agriculture innovations to be 
+promoted by the project will be prepared, and some 
+of them will most probably include use of agro-
+chemicals. Additional technologies might be 
+incorporated later on, and support is also envisioned 
+to agricultural technology research that may involve 
+agrochemicals. In every case, the policy will be applied 
+using a negative list on prohibited substances and 
+promoting integrated pest management. 
+ 
+The ESMF will guide related screening and preparation 
+of an Integrated Pest Management Plan (IPMP) for 
+each subproject that may require use of 
+agrochemicals, including proper management of any 
+chemical waste. 
+ 
+A positive list will be prepared to identify relevant 
+natural/organic and low toxic pesticides and 
+herbicides. Related training and capacity building 
+activities will be included in the ESMF. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+Project implementation is not expected to have any 
+negative impact on identified physical cultural 
+resources. However, the OP/BP 4.11 is triggered for 
+precautionary purposes. The ESMF will provide 
+guidance to address potential chance finds during 
+implementation of construction activities and soil 
+excavation. The Environmental and Social Unit of 
+UCAR has proven experience and appropriate 
+procedures in place to address chance finds, aligned 
+with Argentina’s well-developed legislative framework 
+on the subject. The ESMF will also include reference to 
+further guidance in case any subproject would relate 
+to landscapes with historical/cultural significance, yet 
+that is not envisioned at least at the PCN stage. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+The project will trigger OP 4.10 due to its national 
+scope. Indigenous peoples are present in Argentina 
+(about 2.5 percent of the population), and the income 
+of several indigenous communities is linked to 
+agriculture. As part of the preparation of the social 
+assessment, UCAR will prepare an Indigenous Peoples 
+Planning Framework (IPPF) to ensure that: (i) 
+indigenous peoples' groups are afforded opportunities 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 17 of 19  
+
+     
+
+to participate in planning of project activities that 
+affects them; (ii) opportunities to provide such groups 
+with culturally appropriate benefits are considered; 
+and (iii) any subproject that could have a negative 
+impact on indigenous peoples will not be eligible for 
+project funding, or otherwise minimized and 
+mitigated. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project will trigger OP 4.12 since it includes 
+infrastructure works that may imply either physical or 
+economic displacement of people and/or business in 
+the project area (e.g. activities like irrigation, and flood 
+risk reduction may imply involuntary resettlement). 
+UCAR will prepare a Resettlement Policy Framework 
+(RPF) that will guide the preparation of specific 
+Resettlement Action Plans (RAP), as required. 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+The Project will not finance building of any large dam. 
+However, OP/BP 4.37 is triggered as it is possible that 
+irrigation or water supply may rely on performance of 
+an existing dam. The ESMF will guide, when needed, 
+the applicable review and evaluation of the operation 
+and maintenance procedures of the relevant existing 
+dam and presentation of the related report. Said 
+report will include findings and recommendations for 
+any remedial work or safety measures that, if needed, 
+will have to be undertaken before the start of 
+operations on the relevant subproject.  
+ 
+Similar procedures have been in use and proven 
+satisfactory during the implementation of other Bank-
+funded projects with UCAR (e.g.  Second Provincial 
+Agricultural Development Project - P106684). UCAR 
+has signed an agreement with ORSEP, the Argentine 
+Dam Safety Regulatory Agency, which will ensure 
+proper dam safety supervision when needed. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+TBD 
+
+The project is not expected to finance activities that 
+could adversely affect other riparians, particularly as 
+most of them would be upstream. The project will not 
+finance large dams, and potential irrigation projects 
+are expected to relate with ongoing and/or minor 
+schemes that (i) will not adversely change the quality 
+or quantity of water flows to the other riparians; and 
+(ii) will not be adversely affected by the other 
+riparians' possible water use. Triggering and 
+addressing of OP/BP 7.50 will be analyzed in further 
+detail with UCAR and the World Bank legal specialists 
+as the project preparation proceeds. 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 18 of 19  
+
+     
+
+Projects in Disputed Areas OP/BP 7.60 No 
+OP 7.60 is not triggered as the Project will not finance 
+activities in disputed areas as defined in the policy. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Jul 31, 2017 
+ 
+
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+UCAR will prepare, consult and disclose the ESMF, SA, IPPF and RPF with support and respective approvals by the World 
+
+Bank by the project appraisal that is currently scheduled for August 22, 2017. The ESMF will be prepared based on the 
+ESMFs of UCAR's earlier projects with World Bank financing, including improvements and adjustments/additions in terms 
+of related lessons learnt and the particular features of this new operation, particularly in terms of climate-smart practices. 
+ 
+The criteria and methodology to be used to select project beneficiaries with focus on the most vulnerable producers, as 
+
+well as the mechanisms to be used for project related consultations and grievances will be discussed with UCAR as the 
+project preparation proceeds. 
+ 
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+David Tuchschneider, Diego Arias Carballo 
+
+Senior Rural Development Specialist 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Argentine Republic, Ministry of Finance 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+Ministry of Agroindustry 
+
+Alejandro Gennari 
+
+Director of UCAR 
+
+agennari@ucar.gob.ar 
+ 
+ 
+
+
+
+ 
+The World Bank  
+Integrated Management of Agricultural Risk (P162316) 
+
+ 
+ 
+
+  
+Apr 02, 2017 Page 19 of 19  
+
+     
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): David Tuchschneider, Diego Arias Carballo 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Practice Manager/Manager: Garry Charlier 30-Apr-2017 
+
+Country Director: Renato Nardello 12-May-2017 
+    
+
+ 
+ 
+
+ 
+ 
+ 
+
+Note to Task Teams: End of system generated content, document is editable from here. 
+
+http://www.worldbank.org/projects
+
+

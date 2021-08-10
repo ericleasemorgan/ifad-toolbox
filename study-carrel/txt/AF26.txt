@@ -1,0 +1,4918 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT PREPARATION REPORT.docx
+
+
+ 
+
+ 
+
+AFRICAN DEVELOPMENT FUND 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+MALAWI 
+ 
+ 
+ 
+ 
+
+AGRICULTURAL INFRASTRUCTURE AND YOUTH IN AGRIBUSINESS PROJECT 
+(AIYAP) 
+
+ 
+APPRAISAL REPORT 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OSAN/OSHD/GECL 
+
+Septembre 2016 
+
+P
+u
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+th
+
+o
+ri
+
+z
+e
+d
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ P
+
+u
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ 
+
+A
+u
+th
+
+o
+ri
+
+z
+e
+d
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+ 
+
+I – STRATEGIC THRUST & RATIONALE ............................................................................ 1 
+
+1.1 Project linkages with country strategy and objectives ......................................................... 1 
+
+1.2. Rationale for Bank’s involvement ...................................................................................... 2 
+
+1.3. Donor coordination ............................................................................................................. 2 
+
+II – PROJECT DESCRIPTION ................................................................................................. 3 
+
+2.1. Project components…………………………………………………………………….....3 
+
+2.2. Technical solution retained and other alternatives explored……………………………...5 
+
+2.3. Project type………………………………………………………………………………..5 
+
+2.4. Project cost and financing arrangements ............................................................................ 5 
+
+2.5. Project’s target area and population .................................................................................... 7 
+
+2.6. Participatory process for project identification, design and implementation……………..8 
+
+2.7. Bank Group experience, lessons reflected in project design .............................................. 9 
+
+2.8. Key performance indicators .............................................................................................. 10 
+
+III – PROJECT FEASIBILITY………………………………………………………………10 
+
+3.1. Economic and financial performance……………………………………………………10 
+
+3.2. Environmental and Social impacts .................................................................................... 11 
+
+IV – IMPLEMENTATION ...................................................................................................... 13 
+
+4.1. Implementation arrangements ........................................................................................... 13 
+
+4.2. Monitoring ........................................................................................................................ 17 
+
+4.3. Governance ....................................................................................................................... 17 
+
+4.4. Sustainability..................................................................................................................... 18 
+
+4.5. Risk management .............................................................................................................. 18 
+
+4.6. Knowledge building .......................................................................................................... 18 
+
+V - LEGAL INSTRUMENTS AND AUTHORITY…………………………………………20 
+
+5.1. Legal instrument ............................................................................................................... 19 
+
+5.2. Conditions associated with Bank’s intervention ............................................................... 19 
+
+5.3. Compliance with Bank Policies ........................................................................................ 19 
+
+VI – RECOMMENDATION ................................................................................................... 19 
+
+ 
+
+Appendix I. Map of the Project Area………………………………………………………….I 
+
+Appendix II. Malawi’s Socio-Economic Indicators………………………………………….II 
+
+Appendix III: AfDB Portfolio in Malawi (January 2016)……………………………………III 
+
+Appendix IV. Key related projects financed by the Bank and other development partners                                
+
+in the country…………………………… ………………………………........IV 
+
+Appendix V.   Fragility Report……………………………………………………………  …VI 
+
+
+
+ 
+
+i 
+
+Currency Equivalents 
+
+As of May 2016 
+
+ 
+
+1 UA    =  1.41733 USD  
+
+1 UA   =  970.428 MWK 
+
+1 USD   = 684.6874 MWK  
+
+ 
+
+Fiscal Year 
+
+1 July – 30 June  
+
+Weights and Measures 
+
+ 
+
+1metric tonne  = 2204 pounds (lbs) 
+
+1 kilogramme (kg) = 2.200 lbs 
+
+1 metre (m)  = 3.28 feet (ft) 
+
+1 millimetre (mm) = 0.03937 inch (“) 
+
+1 kilometre (km) = 0.62 mile 
+
+1 hectare (ha)  = 2.471 acres 
+
+
+
+ 
+
+ii 
+
+ 
+
+Acronyms and Abbreviations 
+ 
+
+AfDB ………… African Development Bank 
+
+ASWAp ………… Agriculture Sector Wide Approach 
+CAADP ………… Comprehensive African Agriculture Development Programme 
+EAD ………… Environmental Affairs Department  
+EDO ………… Environmental District Officer 
+EPA ………… Extension Planning Area 
+ESMP/F ………… Environmental and Social Management Plan/Framework 
+GoM ………… Government of Malawi 
+GAFSP ………… Global Agriculture and Food Security Programme 
+MGDS II ………… Malawi Growth and Development Strategy II 
+M&E ………… Monitoring & Evaluation 
+MoAIWD ………… Ministry of Agriculture, Irrigation and Water Development 
+   
+NAPA ………… National Adaptation Program of Action 
+
+NGO ………… Non-Governmental Organization 
+
+NPP ………… National Procurement Procedures 
+
+O&M ………… Operation and Maintenance 
+
+M&E ………… Monitoring and Evaluation 
+
+PCT ………… Project Coordination Team 
+
+PIPH ………… Presidential Initiative on Poverty and Hunger 
+
+PS ………… Principal Secretary 
+
+PY ………… Project Year 
+SCPMP ………… Smallholder Crop Production and Marketing Project 
+
+SIVAP ………… Smallholder Irrigation and Value Addition Project 
+UA ………… Unit of Account 
+USD/$ ………… United States Dollars 
+
+           
+
+
+
+ 
+
+iii 
+
+Loan Information 
+
+Client’s information 
+
+ 
+BORROWER:      Government of Malawi  
+
+ 
+
+EXECUTING AGENCY:                             Ministry of Agriculture, Irrigation and Water 
+
+Development  
+
+ 
+
+Financing plan 
+
+ 
+
+Source Amount (UA) Instrument 
+
+ 
+
+ADF 
+
+ 
+
+16.00 million  
+
+ 
+
+Loan  
+
+EU  1.60 million  Grant 
+
+Government  1.76 million  In- Kind 
+
+TOTAL COST 19.36million  
+
+ 
+
+ 
+
+Important Financial Information (ADF Loan and EU Grant) 
+
+   
+
+ ADF Loan EU Grant 
+
+Grant/Loan Currency UA EUROS 
+
+Type of Interest N/A N/A 
+
+Interest Rate Margin N/A N/A 
+
+Commitment Charge/Fee 0.5% N/A 
+
+Service Charge 
+
+0.75%on 
+
+disbursement/outstanding 
+
+loan 
+N/A 
+
+Tenor 40 years N/A 
+
+Grace Period 10 years N/A 
+
+FIRR, NPV (base case) 23%, NPV value at 18% (USD 3.8 million) 
+
+EIRR (base case) 26%, NPV value at 12% (USD 7.2 million) 
+
+   
+
+ 
+
+Timeframe - Main Milestones (expected) 
+
+ 
+Concept Note Approval  
+
+ 
+February , 2016 
+
+Project Approval September, 2016 
+
+Effectiveness February, 2017 
+
+Completion June, 2022 
+
+Last Disbursement September, 2022 
+
+Last Repayment  
+
+
+
+ 
+
+iv 
+
+Project Summary  
+
+1 Project Overview  
+
+1.1 The Malawi Agricultural Infrastructure and Youth in Agribusiness Project (AIYAP) is to 
+
+deploy irrigation infrastructure as an enabler and facilitator to address the twin problems of food 
+
+insecurity and high rate of youth unemployment within the context of 2011-2016 Malawi Growth and 
+
+Development Strategy (MGDS) which identifies agriculture and food security, irrigation and green belt 
+
+initiatives as drivers of economic growth. Malawi’s agriculture sector is highly vulnerable to the adverse 
+
+impacts of climate change and extreme weather events, such as dry spells, droughts and floods. The 
+
+sector is also characterized by low level of irrigation development, and low uptake of improved farm 
+
+inputs. In addition, low profitability of smallholder agriculture is influenced by weak links to profitable 
+
+markets which make value addition seemingly impossible because of lack of information between the 
+
+farmers and the processors, high transport costs, weak farmer organizations, poor quality control, lack 
+
+of market information, as well as limited participation of the youth in agricultural development and 
+
+businesses. The proposed project, will develop two large scale irrigation schemes at Linga (Nkhata-
+
+Bay) and Dwambazi (Nkhotakota) covering 1945 hectares, targeting 10,000 beneficiaries with special 
+
+focus on the youth (about 50%). The project is to use irrigation infrastructure as an enabler to scale up 
+
+the production of maize, rice, sugar and horticulture production and value chain in project areas in 
+
+particular and Malawi in general.  
+
+ 
+
+1.2 The project apart from mitigating the challenges arising from dependency on rain-fed production 
+
+will also promote youth ownership of agribusiness, access to funding/credit through seed funds, loan 
+
+facilities and risk sharing from Micro Finance Institutions, agro -processing, engaging in value addition, 
+
+modern methods of crop diversification and market linkages. Socially, the project by introducing youth 
+
+skill acquisition, entrepreneurship development and job creation will address social vices such abuse, 
+
+prostitution, violent crime etc. In addition, the project will also reduce rural and urban migration as well 
+
+as cross border migration of youth in the targeted areas. It is estimated that within four and half years 
+
+the project will produce 500 Agripreneurs, train about 100 artisans for the maintenance of irrigation 
+
+infrastructure, launching 175 new agribusinesses and employing about 4600 additional persons, 
+
+including out-growers. It is expected that at least 50% of the beneficiaries will be female.  
+
+ 
+
+1.3 The project has four components namely (i.) Irrigation Infrastructure & Watershed Management, 
+
+(ii.) Youth Entrepreneurship, market linkages, agro-processing and Value Addition (iii.) Agro-
+
+Cooperative Development and Enhancement and (iv) Project Management and Institutions 
+
+Strengthening.  
+
+2 Needs Assessment:  
+
+The need for the Project is justified by the priorities in the Malawi Growth and Development Strategies 
+
+II (MGDS II: 2011-2016) which emphasizes on agriculture, food security, irrigation and water 
+
+development.  As a consequence, there is an urgent need for transformation of the agriculture sector to 
+
+enhance sustainable growth and break the cycle of food insecurity as espoused in the National Export 
+
+Strategy, 2015 Irrigation Master Plan and Investment Framework and the draft National Irrigation 
+
+Policy, Green Belt Initiative and the National Agriculture Policy focusing on commercialization of 
+
+agriculture.    In addition, the 2013-2018 Malawi National Export Strategy, identifies agriculture value 
+
+chains driven by private operators including smallholder farmers, youth entrepreneurs, women’s 
+
+groups, MSMEs and large businesses to boost and diversify exports in order to improve Malawi’s 
+
+growth prospects as the bedrock of the economy. The Project is a direct response to GoM’s desire to 
+
+enhance agricultural productivity by promoting irrigated agriculture and dynamize the sector through 
+
+active youth participation in agribusiness for job creation in order to meet the objectives of these 
+
+policies. 
+
+ 
+
+ 
+
+
+
+ 
+
+v 
+
+3 Cost and Financing   
+
+The project total cost of AIYAP is estimated at $US27.50 million (UA19.36million), to be financed by 
+
+the Bank UA16 million ADF loan, EU €2 million grant (parallel financing) about  UA 1.6 million and 
+
+Government contribution in kind estimated at UA1.7 million.   
+
+4 Implementation  
+
+The project will have a PIU which staff will be externally recruited through a competitive process and 
+
+serve on full time basis. The project will recruit competitively a Technical Adviser (TA)   at the 
+
+commencement of implementation ENABLE YOUTH sub-component of the project. The TA will work 
+
+with the Lilongwe University of Agriculture and Natural Resources (LUANAR) for one year after which 
+
+LUANAR will take over the full implementation of the component. The PIU will be reporting to the 
+
+Principal Secretary for the Ministry of Agriculture, Irrigation and Water Development. There will be a 
+
+Technical Committee comprising Directors of relevant Departments to assist with the implementation. 
+
+The composition of the Committee will be determined by the Government. The Technical Committee 
+
+will report to the Project Steering Committee chaired by PS MoAIWD which will approve the work 
+
+plans and budgets and guide the project on policy matters.  
+
+5 Bank’s Added Value  
+
+The Bank’s intervention in this project will add significant value to the investments already made in 
+
+agriculture and irrigation projects by the Government of Malawi, the Bank and other development 
+
+partners. It will give impetus and acts as boost to the efforts/programmes of the GoM in youth 
+
+development through entrepreneurship in agriculture value chains and agribusiness. The project is in 
+
+line with the TYS 2013-2022 which focusses on inclusive growth and transitioning to green growth. 
+
+The project focus on youth unemployment through skills development and entrepreneurship in is line 
+
+with the TYS. Finally, the Bank’s intervention has the multiplier effect on economic development 
+
+through infrastructure development and private sector development in line with the Malawi Country 
+
+Strategy 2013-2017 and is aligned to three of the five pillars of Bank’s ‘High 5’ i.e. Feed Africa, 
+
+Industrialise Africa, and Improved livelihood. 
+
+6 Knowledge Management  
+
+The knowledge gained through the implementation of several projects and studies in the sector in 
+
+Malawi has been duly applied in designing this project. In the same pattern, the knowledge that will be 
+
+generated by this Project will contribute significantly to the design and implementation of agricultural 
+
+interventions within the Agriculture Sector Wide Approach (ASWAp) arrangement and build the 
+
+capacity of the Ministry of Agriculture, Irrigation and Water Development (MAIWD) and other 
+
+Ministries particularly the Ministries of Labour, Youth and Manpower Development, and Trade and 
+
+Industries. Consequently, useful information will be generated for similar future interventions. AIYAP 
+
+will, in addition to irrigation development, focus on agro-processing and value addition, agriculture 
+
+cooperative development and agribusiness along agriculture value chains as well as building of 
+
+entrepreneurship skills and generations of bankable projects in agriculture value chains which will 
+
+provide lessons in the post-harvest management, processing and marketing of various crops to inform 
+
+project designs of similar projects in the future. The Bank is a key member of the Donor Committee on 
+
+Agriculture and Food Security (DCAFS) and the lessons learnt from this project will be shared with 
+
+other Development Partners through DCAFS platform. ASWAp, through the Bank, will provide 
+
+information generated from AIYAP to key stakeholders for knowledge sharing and coalition building 
+
+through the agriculture sector working group. The results from the various studies and surveys, 
+
+including the socio-economic impact study will inform the stakeholders on how to put the acquired 
+
+knowledge attributes into practical use for better results-oriented achievements and sustained benefit 
+
+flows.  
+
+ 
+
+
+
+ 
+
+vi 
+
+Results Based Logical Framework 
+
+Country and Project Name: Malawi: Malawi Agricultural Infrastructure and Youth in Agribusiness Project 
+
+Purpose of the project: To increase agricultural productivity and incomes of households, develop youth entrepreneurs in agribusiness and poverty reduction in the project area. 
+
+RESULTS CHAIN 
+
+PERFORMANCE INDICATORS MEANS OF 
+
+VERIFICA-
+
+TION 
+
+RISKS/MITIGATION 
+
+MEASURES Indicator 
+ (including CSI) 
+
+Baseline (2015) Target (2019) 
+
+IM
+P
+
+A
+C
+
+T
+ 
+
+To Improved standard of living through 
+
+enhancement of income 
+
+. % Reduction in Poverty Level Nkhotakota(44.5), Nkhata Bay (32.1) 
+
+ 
+
+Nkhotakota – (40.5), Nkhata Bay (28.1) 
+
+National Statistical 
+
+Office (NSO), 
+
+Integrated Household & 
+
+demographic survey 
+
+Project monitoring 
+
+reports, supervision 
+
+missions, mid-term and 
+
+end evaluations  
+
+Assumption: Sustained economic 
+
+growth and good governance 
+
+ 
+
+Risk #1. Poor Farmers Organisation 
+
+Mitigation: Strengthen of farmers 
+
+unions and cooperatives 
+
+ 
+
+Risk 1: Unpredictability of 
+agricultural markets due to trade 
+
+restrictions and price controls on 
+some items.  
+
+Mitigation: The Government is 
+
+being urged by DPs, to deregulate 
+agriculture markets including 
+
+removal of bans and pegging the 
+
+price on some strategic crops such as 
+
+maize.   Enactment of the Goods 
+
+Control Act would help to improve 
+
+market predictability.      
+
+4.5.2  Volatility of the world 
+
+commodity prices 
+
+Mitigation: The country enjoys 
+accessibility to SADC market and 
+
+the project lays emphasis on internal 
+
+processing of raw materials and 
+value addition. 
+
+ 
+
+4.5.3 Project Cost Overruns: 
+
+Project cost overruns due to 
+
+exchange rate fluctuations, 
+
+uncertainties in economic situation 
+of Malawi and SADC and the rise in 
+
+the cost of materials. 
+
+ Mitigation: Project is costed in 
+USD and efficient procurement 
+
+timing to address the increases, as 
+
+well as adequate price contingencies 
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+ 
+
+ 
+
+2.1.Increased crop production and productivity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Increase in number youth engaging in farming 
+
+and Agribusiness 
+
+ 
+
+2.3.Increase in Household Income 
+
+ 
+
+1.1.1 Crop production (t’000) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1.2 Crop yield (t/ha) 
+
+ 
+
+ 
+
+ 
+
+1.1.3 %age value added for each crop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2.1. No of youth in farming and agribusiness 
+
+ 
+
+ 
+
+2.2 Average annual incremental income of 
+
+farmers (MK) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Area (Baseline: 2015) 
+
+1.1.1 Maize (0.51); Beans (0.075); Rice 
+
+(0.85); Tomato (0.135); Onion (0.2); /potato 
+
+(0.125); Sugarcane (0) cassava (2.66). G/nuts 
+
+(0.075), Banana (0). 
+
+ 
+
+1.1.2 Maize (2.7); Beans (0.75); Rice (3.0); 
+
+Tomato (9.0); potato (.10.0); Sugar cane (12) 
+
+Cassava (24.5) & G/nuts (0.75). Onion 
+
+(10.5), Banana (15) 
+
+ 
+
+1.1.3 Maize (6); Beans (1.5); Rice (6); Tomato 
+
+(0); Onion (0); S/potato (20) Sugar cane (0) 
+
+Cassava (20), G/nuts (2) 
+
+ 
+
+ 
+
+ 
+
+2.2.1 TBD(To be provided with baseline 
+
+survey) 
+
+ 
+
+ 
+
+2.3.1  MWK 791,349 
+
+ 
+
+Project Area (Targets by 2021) 
+
+1.1.1 Maize (4.192) Rice (9.981); Sugarcane 
+
+(3.78); Tomato (2.9) Onion (0.775) G/nuts 
+
+(0.32); Beans (0.18), Cassava (2660) & 
+
+potatoes (0.705). Banana (256) 
+
+ 
+
+1.1.2 Maize (6.0); Beans (1.8); Rice (6.0); 
+
+Tomato (20); Onion (15.5); potato (18); Sugar 
+
+Cane (3.78) Cassava (28), G/nuts (2.0), 
+
+Banana(30) 
+
+ 
+
+1.1.3 Maize (60); Rice (60) Beans (70); 
+
+Tomato (20); Onion (20) S/potato (80); 
+
+Groundnuts (90); Cassava (100); & Sugar 
+
+cane (100), Banana (256) 
+
+ 
+
+ 
+
+2.2.1 5000 (50% women) 
+
+ 
+
+ 
+
+ 
+
+2.3.1   MWK 1,575,120 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+vii 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+ 
+
+3. Component 1:   Irrigation Infrastructure  & 
+
+Watershed Management 
+
+3.1 New Irrigation schemes developed. 
+
+3.2 Catchment Management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Component 2:  Value Addition and Youth 
+
+Entrepreneurship,   
+
+4.1 Youth trained in agribusiness 
+
+4.2 Agribusiness incubations established 
+
+4.3.Youth Agribusiness Established 
+
+4.4 4.4 Market linkages promoted. 
+4.5 Agro-processing & value addition supported 
+
+ 
+
+5. Component 3. Agro-Cooperatives 
+
+Development for Employability   
+
+5.1 Youth networking formed 
+
+5.2 Cooperative societies developed and formed 
+
+5.3  Total land put into use   
+
+5.4 Total farmer trained 
+
+5.5 Total Artisans trained 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Component 4: Institutional Strengthening 
+
+and Capacity Building  
+
+6.1 Public Sector staff supported 
+
+6.2 M & E established 
+
+6.3 Project Coordination 
+
+ 
+
+ 
+
+3.1.1 Size of land developed (ha)  
+
+ 
+
+3.2.1 No of farmers adopting agro-forestry 
+
+initiative  
+
+3.2.2 No of farmers adopting alternative 
+
+livelihood technologies (% women and youth 
+
+farmers) 
+
+3.2.3 No. of rain water harvesting and soil and 
+
+water conservation  structures  
+
+3.2.4 Number of alternative livelihood 
+
+activities for women 
+
+ 
+
+ 
+
+4.1.1 No. of youth coordinators trained 
+
+4.2.1 Youth Agripreneur trained 
+
+4.3.1 Number of Agribusiness established 
+
+4.4.1No of private sectors/value addition 
+
+entities networked 
+
+4.5.1No of agro-processing centres developed. 
+
+ 
+
+ 
+
+5.1 Number of youth market networks  
+
+5.2.1 Number of youth associations & 
+
+cooperatives 
+
+5.2.2 Number of farmer associations and 
+
+cooperatives  
+
+5.3.1 Rain fed crops (ha) 
+
+5.3.2 Irrigated crops (ha) 
+
+5.4.1 Number of staff trained 
+
+5.4.2 Number of farmers trained 
+
+5.5.1 number of local artisans trained 
+
+ 
+
+ 
+
+6.1.1 No of staff and farmers trained 
+
+6.1.2 Consulting firm recruited 
+
+6.2 No. of M&E systems established and 
+
+operational 
+
+6.3 Tech. asst., vehicles $ equipment procured 
+
+ 
+
+Project Area (Baseline: 2015) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project Area (Target Yr 2021) 
+
+3.1.1 (1945ha) 
+
+ 
+
+3.2.1  200 (50% female) 
+
+ 
+
+3.2.2  1500 (50% female) 
+
+ 
+
+3.2.3 500 
+
+ 
+
+3.2.4 3(Bee keeping, mushroom&livestock) 
+
+ 
+
+ 
+
+4.1.1 Youth Coordinators (4 of which 50% 
+
+female)  
+
+4.2.1Youth Agripreneurs (500 of which 50% 
+
+female) 
+
+4.3.1 New Agribusiness established (175 of 
+
+which 50% female beneficiries) 
+
+4.4.1 Number of marketing networks (2) 
+
+ 
+
+4.5.1 Centre (2) 
+
+ 
+
+ 
+
+5.2 youth networks (2) 
+
+5.3.1 Youth WUAs (20); Youth cooperatives 
+
+(20) 
+
+Farmer WUAs (2); Farmser Cooperatives (2) 
+
+ 
+
+5.3.1 Area (1945) 
+
+5.3.2 Area (1945) 
+
+5.4.1 Farmers (4,000 with at least 50% being 
+
+women); Youth (5,000 with at least 50% 
+
+being women) 
+
+5.5 Local artisans (50 with at least 50% being 
+
+women) 
+
+ 
+
+ 
+
+6.1.1 GOM staff (70), Health 
+
+workers(10)Tech. Support(10) 
+
+6.1.2 Consulting firm (4) – including auditor 
+
+6.2 M&E system (1) 
+
+6.3 Project staff appointed (6), Vehicles and 
+
+Equipment (4), Office Equipment(TBD) 
+
+ 
+
+QPR 
+
+Project monitoring 
+
+reports, supervision 
+
+missions Project    
+
+         
+
+ 
+
+ 
+
+Completion Report, 
+
+Audited financial 
+
+reports 
+
+for the unavoidable increases will is 
+
+provided in the project costing. 
+
+4.5.4 Reduced precipitation, 
+
+increased temperature, change in 
+
+length of rainy season, increased 
+incidences of drought and floods, 
+
+due to climate risks:  
+
+Mitigation: Training regarding 
+vulnerabilities, assisting the 
+
+communities to select various 
+
+adaptation measures; e.g. rainwater 
+harvesting, rotational grazing, using 
+
+drought tolerant varieties e.g. 
+
+cassava, sorghum etc. 
+
+4.5.5 Delay in providing 
+
+counterpart funding:  
+
+Mitigation: The GoM contributions 
+will largely be in kind in form of 
+
+provisions of office spaces, 
+
+furniture, salaries and wages.   
+   
+
+ 
+
+ 
+
+K
+E
+
+Y
+ A
+
+C
+T
+
+IV
+IT
+
+IE
+S
+
+ 
+
+ACTIVITIES INPUTS 
+
+Component 1 : Irrigation  Infrastructure and Watershed Management: 
+
+ Sub-component: 
+
+1.1 Irrigation Infrastructure,  
+
+1.2 Watershed management   
+
+ 
+
+Component 2: Value Addition and Youth Entrepreneurship,   
+
+2.1 Youth entrepreneurship  
+
+4.2 Agro-processing  
+
+2.3 Market  linkages 
+
+ 
+
+Component 3 : Agro-Cooperatives Development for Employability  
+
+3.1  Formation and support to youth farmer cooperatives    
+
+3.2 On farm training and extension services  
+
+3.3 Provision of matching grants for value addition equipment  
+
+3.4 Market access and strengthening business network 
+
+3.5 Training of artisans for maintenance of irrigation schemes 
+
+3.6 crop production 
+
+ 
+
+Component 4 
+
+4.1Public Sector and smallholder farmers supported 
+
+4.2 M & E  
+
+4.3 Project management 
+
+ 
+
+Component 1 –  UA 13.48  million 
+
+Component 2 –  UA 2.34 million 
+
+Component 3 –  UA 2.14  million 
+
+Component 4 -  UA 1. 4   million 
+
+ TOTAL   UA 19.36          
+
+
+
+ 
+
+viii 
+
+Project Time Frame  
+
+Year 2016 2017 2018 2019 2020 
+2021 
+
+ 
+
+Quarter 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 
+
+Initial Activities                          
+
+Appraisal                          
+
+Loan and Grant negotiations and  approval                          
+
+Signature of loan agreement and fulfilment of first disbursement conditions                         
+
+Publication of  the General Procurement Notice                          
+
+ Recruitment of project staff                         
+
+Project Launching                         
+
+Procurement of property goods works and services for the PIUs / PCUs                         
+
+Signature of agreements with partner entities                          
+
+Irrigation Infraastructure Development and Watershed Management                         
+
+Award of contracts for the project supervision                          
+
+Studies RFPs and bidding documents (BDs) preparation                         
+
+Award of contracts for the construction of infrastructure                          
+
+Award of contracts for the procurement of goods                          
+
+Sensitisation and training of beneficiaries and communities on a number of issues, including on conflict management 
+
+approaches 
+            
+
+ 
+   
+
+ 
+   
+
+    
+
+Construction infrastructure/management committee                          
+
+Agro-Cooperatives Development for Employability Additions                          
+
+RFPs and bidding documents (BDs)preparation                         
+
+Award of contracts for the construction of infrastructure                          
+
+Award of contracts for the procurement of goods                          
+
+Sensitisation and training of beneficiaries and communities                         
+
+Construction of infrastructure /management committee                          
+
+Value Addition and Youth Entrepreneurship                         
+
+Selection of Consultants/Identification of Intern Service Centres                          
+
+Selection of Candidates for Training                         
+
+Commencement of training                          
+
+Award of contracts for the procurement of goods                          
+
+Sensitisation and training of beneficiaries and communities                         
+
+Departture of trainees                          
+
+Monitoring of Youth Progress                          
+
+Project Mangement And Capacity Building                         
+
+Establishment of accounting system and preparation of procedures manual                          
+
+Establishment of the baseline situation and the M&E system                         
+
+Management, monitoring and evaluation and communication activities                         
+
+Capcity building interventions  including on institutions and resilience-building systems                         
+
+Annual financial auditing                          
+
+Mid-term review                         
+
+Completion report                          
+
+
+
+ 
+
+1 
+
+REPORT AND RECOMMENDATION OF THE MANAGEMENT OF THE AFDB GROUP TO THE BOARD OF 
+
+DIRECTORS ON A PROPOSED LOAN TO THE REPUBLIC OF MALAWI FOR AGRICULTURAL 
+
+INFRASTRUCTURE AND YOUTH IN AGRIBUSINESS PROJECT (AIYAP) 
+ 
+
+Management submits the following Report and Recommendation on a proposed ADF loan of UA16 
+
+million to finance the Malawi Agricultural Infrastructure and Youth in Agribusiness Project.  
+
+ 
+
+I STRATEGIC THRUST & RATIONALE 
+
+ 
+
+1.1 Project linkages with country strategy and objectives 
+ 
+
+1.1.1 The Malawi Growth and Development Strategy II. 2011-2016 has identified agriculture, 
+
+irrigation and water development as some of the key priorities and drivers of economic growth and 
+
+poverty alleviation. The Government formulated Agriculture Sector-Wide Approach (ASWAp 2011-
+
+15) as the priority investment plan for the agriculture sector which focusses on (i) food security and risk 
+
+management (ii) commercial agriculture, agro-processing and market development and (iii) sustainable 
+
+land and water management and support services. The Government is implementing a Farm Inputs 
+
+Subsidy Program (FISP) to address the food security problem and developed a National Export Strategy 
+
+to promote crop diversification, value addition and export of agro-based commodities. The National 
+
+Irrigation Policy which is currently at the draft level is aimed at enhancing farmers’ ownership through 
+
+farmer managed irrigation and National Agriculture Policy, whose main objective is to commercialize 
+
+the agriculture sector. In ASWAp, the Government also introduced a Green Belt Initiative (GBI) in 
+
+order to promote irrigation and minimize reliance on rain-fed farming and achieve increased agricultural 
+
+productivity for domestic and international markets. The Government is currently finalising a five year 
+
+National Resilience Plan to break the cycle of food insecurity with irrigation as a key component. 
+
+Regarding youth initiatives, the Government adopted the National Youth Policy in 2013 which 
+
+recognises that the youth represent a vast human resource potential for promoting economic growth and 
+
+if neglected it would be a lost opportunity.   AIYAP will address the twin problems of food insecurity 
+
+and high rate of youth unemployment using irrigation infrastructure as an enabler, which will 
+
+substantially contribute to the achievement of the objectives of these policies and strategies.  
+
+ 
+
+1.1.2 The project is aligned with the Bank’s 2013-17 Country Strategy Papers (CSP) Pillars focusing 
+
+on (i) addressing infrastructure bottlenecks to competitiveness and growth and (ii) supporting actions to 
+
+expand private sector investments. While the former covers irrigation infrastructure development and 
+
+agricultural market infrastructures the latter Pillar covers private sector investment and entrepreneurship 
+
+in agro-processing, crop diversification and value chain development which are articulated in AIYAP. 
+
+The country socio-economic indicators are presented in Appendix 2 and it is envisaged that AIYAP will 
+
+contribute to improving these indicators and ultimately achievement of the Sustainable Development 
+
+Goals (SDGs).  
+
+ 
+
+1.1.3 Currently, only 26 percent (104,000 hectares) of the potential irrigable area (408,000 hectares) is 
+
+under irrigation. In order to exploit this potential, Government has developed the National Irrigation 
+
+Master Plan and Investment Framework (NIMPIF). The NIMPIF which was published in February 2015 
+
+confirmed that the plan will be implemented in three phases: Phase I (2015-2020), phase II (2021-2025) 
+
+and Phase III (2026-2035) comprising of approximately 20,000 hectares, 28,500 hectares and 67,500 
+
+hectares of new irrigation schemes in Phases I, II and III respectively. The project is part of the Bank’s 
+
+efforts to support the government of Malawi in the implementation of the Irrigation Master Plan given 
+
+that the targeted sites are among the priority sites identified in the Master Plan which objectives are to: 
+
+(1) accelerate economic growth, (2) reduce rural poverty, (3) improve food security, and (4) increase 
+
+exports.  
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+2 
+
+1.2 Rationale for Bank’s involvement  
+
+1.2.1 The Bank’s Ten Year Strategy (TYS) 2013-2022, identify agriculture related infrastructure 
+
+development as a key enabler for increased production, productivity and effective utilization of land 
+
+resources. It also identifies agriculture and food security as an area of special emphasis. The 2016 
+
+Bank’s Agriculture strategy: Feed Africa: Strategy For Agricultural Transformation in Africa 2016-
+
+2025 is targeted at executing the Comprehensive African Agriculture Development Programme 
+
+(CAADP) goals of contributing to elimination of extreme hunger, malnutrition, poverty, and increased 
+
+prosperity, in partnership with alliances including farmers, agribusiness, and civil society, and 
+
+exploiting regional comparative advantages and opportunities for trade and collaboration. The Bank’s 
+
+Gender Strategy 2014-2018 calls for economic empowerment, knowledge and capacity building for 
+
+women.  Furthermore, the Bank’s Fragility strategy “Addressing Fragility and Building Resilience in 
+
+Africa, 2014 – 2019” which aims at effectively assisting countries build resilience to move forward 
+
+towards more stable political and economic development with Youth employment as a special focus, as 
+
+jobs are alternatives to rents or participation in illicit activities associated with fragile situations and 
+
+thus help prevent the outbreak of violence related to critical unemployment.  
+
+ 
+
+1.2.2 This project addresses all of the above key Bank strategies and policies as part of broader 
+
+development efforts to achieve sustainable growth and poverty reduction thus, (1)  streamlining of the 
+
+crops along value chains (economic crops) and crops to address food security as well as linking the agri-
+
+prenuers to the value chains, ensuring that sustainable incomes will be achieved for the beneficiaries in 
+
+particular and the country at large, (2)  focusing on youth with special emphasis on targeting women (at 
+
+least 50% of beneficiaries) social and economic empowerment, while protecting the environment 
+
+through various catchment activities, and (3) addressing the objectives of inclusive growth and 
+
+transition to green growth by addressing infrastructure development, private sector development, and 
+
+skills and technology adoption through promotion of irrigation for agriculture intensification and 
+
+diversification.  
+
+ 
+
+1.2.3 The project also resonates with three of the five pillars of Bank’s ‘High 5’ by addressing Feed 
+
+Africa, Industrialize Africa, and Improved quality of life for the people of Africa.  At country level, the 
+
+project is aimed at contributing to increase in agricultural exports, import substitution, generation of the 
+
+much needed foreign exchange and job creation especially for the youth.    
+
+ 
+
+1.3 Donor coordination 
+
+ 
+1.3.1 Malawi’s recent progress towards the aid effectiveness agenda under Busan is mixed.  Whilst 
+
+donor alignment with national policies remains strong, the use of the national country system and aid 
+
+on the budget has significantly reduced following suspension of budget support in 2013. 1  Development 
+
+Partners (DPs) are instead channelling the resources earmarked for budget support or basket funding 
+
+through other aid modalities and off budget.2  The GOM is working with DPs to improve aid 
+
+effectiveness guided by the new Development Cooperation Strategy launched late 2014. Successful 
+
+outcome of   on-going PFM reforms will be indispensable in encouraging DPs to increase the use of 
+
+country systems.   The current platform is on the Donor Committee on Agriculture and Food Security 
+
+(DCAFS) as the key form for donor coordination, monitoring of sectoral plans and strategies and 
+
+harmonizing interventions. The Bank is currently chairing the Irrigation Technical Sub-Group.   With 
+
+the provision of Euro 2.00 million EU funding for catchment management in the project, the Bank is 
+
+leveraging on collaboration with other Development Partners in Malawi.   
+
+ 
+
+                                                 
+1 According to the 2014 Global Partnership Monitoring Surrey, Malawi’s score on the aid on budget aid indicator declined 
+
+from 62 in 2010 to 49 whilst that of use of national country system dropped from 65 to 50. 
+2  51 % of planned externally financed development expenditure for FY 2014/15 is off budget.     
+
+
+
+ 
+
+3 
+
+Table: 1.1 Donor Support to Agriculture 2015/2016 
+
+  
+Sector or subsector* 
+
+Size   
+
+  GDP Exports Labor Force   
+
+  Agriculture 30 90 80   
+
+  Players - Public Annual Expenditure (average)**   
+
+  
+Government 
+
+ 
+
+Donors 
+
+ 
+
+ 
+
+ADB 
+
+WB 
+ 
+
+6% 
+
+25%   
+
+UA m [UA 1000.3 m] [UA 31.1 m]   DFID 12%   
+
+% 71 29   EU 17%   
+
+      USAID  12%   
+
+     Irish Aid    3%  
+
+    WFP   1%  
+
+  
+
+                                                                                GIZ                                       2% 
+
+                                                                               WFP                                      1% 
+
+                                                                                IFAD                                     6% 
+
+                                                                                JICA                                      2% 
+
+                                                                               FICA                                     3% 
+
+Level of Donor Coordination   
+
+  Existence of Thematic Working Groups [Y]   
+
+  Existence of SWAPs or Integrated Sector Approaches [Y]   
+
+  ADB's Involvement in donors coordination*** [M]****   
+
+* as most appropriate ** Years [yy1 to yy2] *** for this sector or sub-sector   
+
+**** L: leader, M: member but not leader, none: no involvement    
+
+ 
+
+II PROJECT DESCRIPTION 
+
+Project Objectives: The specific objective of the project is to alleviate poverty in the project area in 
+
+particular and the country in general by contributing  to economic growth and food security through: 
+
+(1) Deploying irrigation infrastructure to scale up improved crop production and productivity leading 
+
+to improve net farm incomes of the project beneficiaries, (2) expansion of opportunities in agriculture 
+
+and agribusiness among the  rural youth in Malawi as a means to advance and improve rural livelihoods 
+
+and economic development, (3) enhancement of import substitution through improved value additions 
+
+and processing, (4) introduction of revolving loan for agriculture purposes will grow and build the 
+
+cluster youth entrepreneurs in agribusiness and value chains, and (5) Using cooperative societies as a 
+
+vehicle to transit the smallholders farmers to commercial farmers.  
+
+2.1 Project Components: AIYAP has four main components mainly; (1) Irrigation Infrastructure 
+
+(Dwambazi 945 hectares and Linga 1000 hectares irrigation schemes) and Watershed Management, (2) 
+Youth entrepreneurship and Value Addition, (3) Agro-Cooperatives Development and Enhancement, and 
+
+(4) Project Management and Institutions Strengthening.  Table 2.1 below provides a summary of the 
+
+project components and related estimated cost, including contingencies. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+4 
+
+Table 2.1: summary of the project components and related estimated cost 
+
+No Component Name Estimated 
+
+Cost  
+
+(UA) 
+
+million 
+
+Component/Sub-component and Activity Description 
+
+ 
+
+1 Irrigation Infrastructure 
+
+& Watershed 
+
+Management  
+
+13.48 Irrigation Development: (i) development of two (2) new 
+
+gravity fed irrigation schemes: the works under this 
+
+component will include construction of head works, main 
+
+canal, secondary and tertiary canals, drainage system, and 
+
+on farm roads as described in C.1.2 of the Technical 
+
+Annex; Dwambazi (945 ha) and Linga (1000 ha), covering 
+
+a total area of 1945ha;(ii) formation of two water Users’ 
+
+Associations (WUAs) with 50% women and youth 
+
+representation; (iii) provision of capacity development for 
+
+farmers (men and women), extension agents (tapping on 
+
+female extension to reach women famers), and relevant 
+
+government officials. 
+
+ Catchment Management: (Detail activities in Annex C1) 
+(i) improved catchment conservation and development 
+
+programme; (ii) alternative livelihood support; and (iii) 
+
+capacity building and indigenous knowledge management 
+
+systems. The hot spot areas in the catchment will be 
+
+demarcated in consultation with the communities during 
+
+implementation.     
+
+2 Youth entrepreneurship 
+
+and Value Addition and  
+2.34  Youth Entrepreneurship, Storage Agro-processing and 
+
+Value Addition  
+
+ Youth Entrepreneurship (50% of female youth) 
+
+ Market Linkages – trade facilitation, linking farmers with 
+agro-processors, building bulk commodity network, 
+
+eliminating middlemen, and exerting group effects on 
+
+processors for better prices.  
+
+ 
+
+3 Agro-Cooperatives 
+
+Development for 
+
+Employability 
+
+2.14  Formation and support to farmer cooperatives and to 
+strengthening the participation of female youth in these 
+
+cooperatives)   
+
+ On farm training and extension services  
+
+ Agriculture Production, 
+
+ Market access and strengthening business network 
+linkages between the cooperatives and youth processors, 
+
+and exchange programme with other similar organisations 
+
+in the region and the rest of Africa  
+
+4 Project Management and 
+
+Institutional 
+
+Strengthening  
+
+1.4  Establish project implementation unit 
+
+ Monitoring and Evaluation  
+
+ Capacity building  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+5 
+
+2.2 Technical Solution retained and alternatives explore  
+
+Table 2.2: project alternatives considered and reasons for rejection or acceptance 
+
+Alternative  Brief description Reasons for rejection/Acceptance 
+
+Alternative 1 
+
+ 
+
+Invest in gravity fed irrigation 
+
+system (technical solution 
+
+retained) 
+
+Gravity fed irrigation system have proved to be 
+
+more sustainable in terms of operation and 
+
+maintenance with locally available material, 
+
+requiring minimal training which translates to 
+
+sustainability and profitability of the enterprise. 
+
+Alternative 2 Invest in rain water 
+
+harvesting infrastructure such 
+
+as small water holding 
+
+structures scattered all over 
+
+the selected districts for 
+
+agriculture, livestock and 
+
+domestic use 
+
+Rain water harvesting structures cannot sustain 
+
+the impacts of climate change and their socio-
+
+economic impact will be spread out thinly. In 
+
+addition, it cannot provide food and cash crops 
+
+two to three times a year.  
+
+Alternative 3 Invest in pumped irrigation 
+
+development by lifting water 
+
+mechanically to higher 
+
+ground for crop production 
+
+Pumped irrigation schemes were dropped on 
+
+account of the complex nature of their operation 
+
+and maintenance, costs are high and the capacity 
+
+to maintain at small farm level does not exist. 
+
+Further it contributes to carbon emission.  
+
+Alternative 4 Introduce spate irrigation 
+
+system  
+
+Not sustainable due to variability of rainfall; 
+
+non-efficiency and drudgery. 
+
+ 
+
+2.3 Project type 
+
+ 
+AIYAP is designed in the form of a stand-alone Investment Project with the main aim of supporting 
+
+irrigation infrastructure development (civil works) as an enabler of scaling up of high value crop 
+
+production, value chain development, youth skill development in Agribusiness and capacity building 
+
+activities largely funded by ADF 13 Loan and EU Grant resources. 
+
+2.4 Project Cost and Financing Arrangements 
+
+ 
+2.4.1 The total project cost, including physical and price contingencies, is UA 19.36 million which 
+will be financed by: (i) ADF loan (UA 16.00 million covering cost of infrastructure, purchase of 
+
+vehicles, youth training and provision of seed capital, etc. ), EU Grant (UA 1.60 million to finance 
+
+catchment management) and (iii) the GoM and Beneficiaries (UA 1.76 million), through provision of 
+
+office space and salaries for the counterpart staff on the project on the part of Government and provision 
+
+of labour for maintenance of the irrigation infrastructures on the part of beneficiaries. The resources 
+
+from EU will be made available to the project through parallel financing, since the Department of 
+
+Irrigation will be responsible for the management of the resources using the EU procedures.  
+
+2.4.2  The ADF Loan will be used to finance both local costs and foreign costs. The project will 
+finance local costs such as training, personnel and operating costs while most of the activities under 
+
+infrastructure development will attract foreign costs as detailed in the summary tables below. The GoM 
+
+does not have the capacity to finance most of the project activities and has therefore committed to 
+
+contribute to the project in kind through staff and office space. The details are indicated in Tables 2.3, 
+
+2.4, 2.5 and 2.6 below. 
+
+  
+
+
+
+ 
+
+6 
+
+Table 2.3: Project Cost Estimates  
+
+Component Name 
+MWK ‘000 UA ‘000 
+
+Local Foreign Total Local Foreign Total 
+
+Infrastructure development 
+      
+
+3,535,269  
+
+          
+
+8,019,617  
+
+      
+
+11,554,886  
+
+      
+
+3,643  
+
+       
+
+8,264  
+
+      
+
+11,907  
+
+Market Linkages, Agro Processing and 
+
+Value Addition 
+      
+
+1,458,553  
+
+             
+
+655,039  
+
+        
+
+2,113,592  
+
+      
+
+1,503  
+
+          
+
+675  
+
+        
+
+2,178  
+
+Agro-Cooperatives Development for 
+
+Employability  
+      
+
+1,737,066  
+
+             
+
+225,139  
+
+        
+
+1,961,235  
+
+      
+
+1,790  
+
+          
+
+232  
+
+        
+
+2,021  
+
+Institutional Strengthening and Capacity 
+
+Building 
+      
+
+1,190,715  
+
+               
+
+98,013  
+
+        
+
+1,289,699  
+
+      
+
+1,227  
+
+          
+
+101  
+
+        
+
+1,329  
+
+Sub Total 
+        7,921,604  
+
+              
+
+8,997,808  
+
+        
+
+16,919,412  
+
+          
+
+8,163  
+
+          
+
+9,272  
+
+          
+
+17,435  
+
+Physical Contingency 
+
+         
+
+196,026  
+
+             
+
+844,272  
+
+        
+
+1,040,299  
+
+         
+
+202  
+
+          
+
+870  
+         
+
+1,072  
+
+Price Contingency 
+
+         
+
+390,112  
+
+             
+
+437,663  
+
+          
+
+827,775  
+
+         
+
+402  
+
+          
+
+451  
+            
+
+853  
+
+Sub Total 
+
+         
+
+586,139  
+
+          
+
+1,281,935  
+
+        
+
+1,868,074  
+
+          
+
+604  
+
+        
+
+1,321  
+
+         
+
+1,925  
+
+Grand Total     8,507,742  
+
+       
+
+10,279,744  
+
+    
+
+18,787,486  
+
+      
+
+8,767  
+
+     
+
+10,593  
+
+      
+
+19,360  
+
+ 
+
+Table 2.4: Sources of Finance 
+
+Source of Financing 
+
+Total Amount (UA ‘000) and Percentage Contribution (%) 
+
+Foreign Local Total 
+
+UA % UA % UA % 
+
+ADF 11,200 70 4800 30 16,000 83 
+
+EU 319.2 20 1277 80 1,597 8 
+
+GoM  0 0 1763 100 1,763 9 
+
+Total 11,519   7840   19,360 100 
+
+ 
+
+Table 2.5: Project Cost by Categories of Expenditure  
+
+ADF and EU Categories of Expenditures (UA ‘000) 
+
+  ADF EU 
+
+Categories of expenditures Foreign  Local Total Foreign Local Total 
+
+Works 9,168 2,292 11,460 22.07 5.52 27.59 
+
+Goods 688 0 688 98.72 26.23 124.95 
+
+Services 762 1,778 2,540 0 1,369 1,369 
+
+Operation 0 1,312 1,312 0 78 78 
+
+Total 10,617 5,382 16,000 120.79 1,479.33 1,600.00 
+
+ 
+
+  
+
+
+
+ 
+
+7 
+
+ Table 2.6: Expenditure Schedule By Component and Year 
+
+ Totals in UA '000 
+
+Component PY1 PY2 PY3 PY4 PY5 Total % 
+
+Irrigation and watershed 
+
+management 3001 5409 4719 174 174 13476 70 
+
+Crop production, Value addition & 
+
+Youth Entrepreneurship 251 1018 356 356 356 2336 12 
+
+Youth Skills Development in 
+
+Agriculture 1287 221 217 211 208 2144 11 
+
+Project management & Institutional 
+
+strengthening 366 259 261 259 261 1405 7 
+
+Total 4905 6907 5552 999 999 19360   
+
+ 
+2.5. Project’s target area and population: 
+
+2.5.1 Demographic Aspects: According to 2016 data from the Department of Statistics, Malawi has 
+
+an estimated population of nearly 17 million people with women constituting about 51% of the 
+
+population3. The population is characterised as follows: (i) 0 – 10 years (33%); (ii) 10 – 20 years (22%); 
+
+(iii) 20 – 40 years (29%); (iv) 40 – 60 years (10%) and (v) those above 60 years comprise (6%).  The 
+
+districts of Nkhotakota and Nkhata Bay have populations of 229,460 and 164,761 respectively with 
+
+combine total land mass of 8330km² representing 9% of country total land mass of 94,080km² 
+
+(excluding Lake Malawi which covers an area of 24,404km²). The targeted beneficiaries are 10,000 
+
+households estimated at 6 person per household. In the two districts only 1 in 30 women and 1 in 10 
+
+men complete secondary education. However, 1 out of 7 women and 1 out of 9 men are unemployed.  
+
+2.5.2 Location: The project is located mostly in the Green Belt Zone covering a total of 2 Districts of 
+
+Nkhota-kota (Dwambazi) and Nkhata-Bay (Linga) Districts in the Central Region. These Districts were 
+
+selected because they were ranked among the Phase 1 projects in the Malawi National Irrigation Master 
+
+Plan. 
+
+2.5.3 Climate: The climate in Malawi ranges from semi-arid in the Lower Shire Valley, semi-arid to 
+
+sub-humid on the plateaux and sub-humid in the highland areas in the northern parts of the country. 
+
+Average rainfall ranges from 763 mm to 1,143 mm per annum (p.a.) with only a few areas receiving 
+
+over 1500 mm of rain annually. Such areas include Mulanje, Nkhata Bay and the northern end of Lake 
+
+Malawi. Rainfall (almost 90%) occurs between the months of December and March, with no rain at all 
+
+between May to October over most of the country. Mean annual temperatures vary with altitude, ranging 
+
+from 25o C in the Lower Shire Valley to 13o C in the highland areas. 
+
+ 
+
+2.5.4 The project area like other parts of Malawi is largely a semi-arid country hence greatly 
+
+threatened by droughts and other negative impacts of climate change. The semi-arid nature of the 
+
+country makes it highly fragile and susceptible to environmental degradation hence sustainable 
+
+management of natural resources is not an option but a priority. The area is also prone to flooding which 
+
+has been accelerated by extensive deforestation and tree cutting in most parts of the country which was 
+
+highly experienced in the 1970s and the 1980s during which time annual deforestation rate was 
+
+estimated at 3.5% per annum. Deforestation was and is still caused by (i) expansion for agriculture; (ii) 
+
+demand for fuelwood for both domestic and other uses including industrial production. Soil erosion 
+
+constitutes one of the major types of land degradation in Nkhotakota and Nkhata-Bay area of Malawi. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                 
+3 Malawi is largely rural. Despite rapid urbanization, nearly 85 percent of the total population of Malawi lives in rural areas. 
+
+
+
+ 
+
+8 
+
+2.5.5 Water Resources: Water for the irrigation schemes is supplied from Dwambazi and Mazembe 
+
+rivers. Dwambazi is a perennial river with a minimum monthly flow of 3,305 l/s indicating that the 
+
+water available is more than sufficient for the development of Dwambazi irrigation scheme. Mazembe 
+
+River with a minimum monthly flow of 224 l /s demonstrates the need for a water harvesting structure 
+
+to harness the water required to irrigate the Linga scheme. 
+
+2.6 Participatory process for project identification, design and implementation  
+
+2.6.1 The ESIA:  
+
+2.6.1.1 During the project preparation, extensive public consultations were carried out to determine the 
+
+environmental and social impacts of the project. The consultations were also aimed at identifying the 
+
+key environmental challenges experienced in the project locations as well as project districts. Meetings 
+
+were held with various departmental heads at the Ministry of Agricultural, Irrigation and Water 
+
+Development, Ministry of Trade, Ministry of Gender and Ministry of Labour and Youth Development 
+
+at the ministries’ Headquarters in Lilongwe. Consultative meetings were also held with various heads 
+
+of department at Nkhotakota and Nkhata Bay District Headquarters including with the District 
+
+Commissioner of Nkhata Bay District. Further meetings were held with Dwangwa Cane Growers Trust, 
+
+Dwangwa Cane Growers Company Ltd and Senior Officers of Illovo Sugar Company Ltd. Other 
+
+consultative meetings were held with various community leaders led by Senior Chiefs and their deputies 
+
+together with community members, members and executives of Farmers Associations in Linga (Nkhata 
+
+Bay District) and in Dwambazi (in Nkhotakota District). 
+
+2.6.1.2 The reasons for consultative meetings were: (i) to generate a good understanding of the project 
+
+by all stakeholders within the project area; (ii) to enhance ownership of the project by local leadership, 
+
+the community and local farmers; (iii) to understand people’s and agency expectations about the project; 
+
+(iv) to understand and characterise potential environmental, social and economic impacts of the project; 
+
+(v) to acquire, but also advance local benefits that may accrue from the project; and (vi) to enable 
+
+stakeholders involved in the project to provide views, hence participating in or refining project designs. 
+
+In addition, site-specific investigations were also conducted to gain insight to the likely environmental, 
+
+social, and economic impacts of the project. 
+
+2.6.2 Community Participatory Processes: The community participatory processes were organised 
+
+by the officers from the Ministry of Agriculture, Irrigation and Water Development as well as the project 
+
+team during the preparation and appraisal mission. Two town hall meetings at each project location 
+
+were held where a range of issues including among others, project details, land issues, community 
+
+development, choice of cropping, farmers associations –development, formations and operations, etc. 
+
+were discussed and agreed upon. The team, also visited the projects sites and the existing farms on the 
+
+land with a view for getting the understanding of the farmers, listen to their concerns – especially land 
+
+distributions and beneficiaries of youth entrepreneurship, how to address them and incorporate them 
+
+into the project design. Over half of the target population is youth and women who are already active in 
+
+the agriculture sector. Most of the youth also own land that has been inherited or allocated by the 
+
+traditional leaders in line with the customary land acquisition. Consultations also involved all relevant 
+
+sector departments at the district and headquarter levels. The key players included the local 
+
+administration structures spearheaded by the local chiefs headed by two Traditional Authorities, one of 
+
+which is a woman and their assistants and included a significant proportion of the community members 
+
+of which youth and women constituted more than 50%. The Mission met and held discussions with 
+
+major private sector players among which are;  Crown Ministries, Illovo Sugar Company, Farmers 
+
+Engineering Services, Public Private Partnership Commission in Blantyre, the Malawi Chamber of 
+
+Commerce, Industry and Cooperative and Telekom Networks Malawi Limited (TNM) – a mobile 
+
+company quoted on Malawi Stock Exchange. The project team held sessions with Civil Society 
+
+Organisations, and Non-governmental Organisations as well as youth entrepreneurship training 
+
+institutions in Malawi  
+
+ 
+
+ 
+
+
+
+ 
+
+9 
+
+2.7 Bank Group experience, lessons reflected in project design  
+
+2.7.1 Experiences, challenges and lessons learnt in the implementation from the Bank’s past and 
+
+current agricultural projects in Malawi have been taken into account in the design of the current project. 
+
+These include the need for proper project orientation, emphasis on farmer group approach, strong M&E 
+
+and capacity building for staff which AIYAP has incorporated by including project launching, regular 
+
+training for implementing staff, emphasis on Cooperatives and Water Users Associations and support 
+
+to M&E. To avoid future land disputes as noted from some of the projects due to inadequate 
+
+consultations, adequate consultations were held with the beneficiaries and other relevant stakeholders 
+
+during preparation and the Bank has received a letter of comfort from the Government confirming the 
+
+support of the locals for the project. In addition, beneficiary farmers registered their names to confirm 
+
+that their pieces of land will be made available for the project activities. Non availability of full studies 
+
+and designs have always led to delays in disbursements and project implementation. To address this 
+
+problems, AIYAP locations were selected based on readiness of the designs, drawings and feasibility 
+
+studies already prepared under the National Irrigation Master Plan. In addition, the sites were also 
+
+selected on the least cost based among the sites which are ready for development. The need for a full 
+
+time Project Coordination Unit was noted from almost all the previous projects, therefore, provision has 
+
+been made for the recruitment of technical experts to support the Project Coordination Team under 
+
+ASWAp Secretariat to fully focus on the planned activities.   
+
+2.7.2 Through the project team interaction with the DP and government officials it was noted that 
+
+youth skill development program were bedevilled by; (1) Lack of transparency in the process of trainees 
+
+selection, (2) In adequate or non-availability of financial support to raise start-up capital, and 
+
+(3)Inadequate post training technical support, and (4) Uncoordinated monitoring processes. All these 
+
+are taken into consideration in the design of AIYAP as a result, the selection processes of the trainees, 
+
+the training as well as provision of seed capital will the carried out by an independent 
+
+consultants/Financial Institutions. In addition the project has already confirmed with organised private 
+
+sector – Ilovo, PressCane, etc. which have agreed to take the trainees as interns. 
+
+2.7.3 The issues of sustainability of the irrigation facilities after project completion in Malawi have 
+
+been highlighted in all the reports. Irrigation is capital intensive and demanding in terms of technical 
+
+capacity. Some of the old irrigation schemes in Malawi have had to be rehabilitated.  By introducing 
+
+value chains and agripreneur it is expected that the farmers will transit to commercial farmers who will 
+
+be able to pay for the maintenance of infrastructure.  The project has built in resilience of the facilities 
+
+to the effect of climate change by addressing the issues of catchment management which will be 
+
+specifically addressed with Euros 2million mobilised from EU.   Furthermore, to enhance sustainability 
+
+of other physical infrastructure, the facilities and resources to be provided for the youth after graduations 
+
+will be on revolving loan basis.  To address the issue of week technical capacity to maintain the 
+
+irrigation infrastructure, resources have been allocated to the training of technicians and artisans for 
+
+maintenance of the infrastructure. More importantly, the project is designed to  enhance ownership of 
+
+the infrastructures by the farmers through Farmers Associations, improving capacities for O&M, and 
+
+importantly, using climate-smart designs (flood regulation, sediment control etc.) which objective is to 
+
+prolong the lifespan of the infrastructures.  
+
+2.7.4 Lessons from the Revised 2015 Country Portfolio Improvement Plan (CPIP) also highlighted 
+
+the: (i) Weak Capacity in Financial Management , (ii)Weak Capacity of Project Implementation Units 
+
+which are precipitated by the staffing configuration and modalities of assigning staff to project 
+
+coordinating units,  (iii) Project Start-Up Delays, and (iv) Weak Procurement Capacity. In order to 
+
+address these challenges, the project has embedded (i) the need to ensure adequate stakeholders 
+
+consultations during project design to ensure ownership and compliance during implementations phase; 
+
+(ii) Project designs and detailed feasibility studies are already in place;(iii) training on the Bank’s rules 
+
+and procedures for consultants and contractors engaged in Bank’s funded projects will be carried out as 
+
+part of the project launch and on regular basis thereafter (iv) baseline and annual targets data are 
+
+established within the first year of a project where this is not available (v) reporting would be based on 
+
+results framework including gender disaggregated data , (vi) supervision missions’ checklist to include 
+
+
+
+ 
+
+10 
+
+environmental and social management activities and projects’ quarterly reports and (vii) frontloading 
+
+of procurement activities by adopting advance contracting which have been agreed with government.. 
+
+While addressing catchment vulnerability through the catchment management program is valid, this 
+
+doesn’t necessarily confront the challenge of weak technical capacities nor sustainability challenge of 
+
+the irrigation infrastructure alluded to in this  
+
+2.8. Key performance indicators  
+
+2.8.1 The Project Results-Based Logical Framework contains key impact and outcome indicators for 
+
+the monitoring of the performance of the Project. The main outcomes are expected are: (i) Increased 
+
+crop production and productivity; (ii) Increase in number of youth engaging in farming and 
+
+Agribusiness and (iii).Increase in Household Income. Progress towards achieving these outcomes will 
+
+be monitored through the sector monitoring and evaluation system.  
+
+2.8.2 The Project Implementation Unit will prepare quarterly and annual project progress reports 
+
+presenting the progress on output indicators disaggregated by gender where appropriate. Outcome 
+
+indicators will be monitored through PIU’s management system and national statistics. Indicators will 
+
+be updated in the Implementation Progress Report (IPR) and necessary adjustments will be made as 
+
+appropriate. A medium term report (MTR) and Project Completion Report (PCR) will be prepared. All 
+
+of these reports are circulated widely within the Government, the Bank and to other development 
+
+partners.   
+
+ 
+
+III PROJECT FEASIBILITY 
+
+3.1 Economic and financial performance. 
+
+3.1.1. Financial Analysis: At full operation, each farmer household will be making an income of MK 
+1,575,119.74 (US$2300) per year from the current average income of MK 791,349.11      (US$1150). 
+
+The analysis at the project level has been carried out by comparing with and without project costs, on 
+
+farm crop establishment and operational cost with the benefits. The analysis also covered the benefits 
+
+and costs of processing some proportions of selected crops such as maize, rice, cassava and selected 
+
+horticultural crops such as tomatoes, onions and bananas.  The discounted cash flow (DCF) analysis 
+
+carried out on the net cash-flow gave a Financial Internal Rate of Return (FIRR) of 23%, and a Financial 
+
+Net Present Value (NPV) of USD 3.8 million at an opportunity costs of 18%. The opportunity cost of 
+
+18% takes into account the prevailing high interest rates on commercial loans in the country ranging 
+
+between 42% and 47% with inflation rate of 23% and the bank interest rates on concessional loans. The 
+
+high financial rates of returns are attributed to the benefits accruing to the project from the value chain 
+
+development of three major crops namely rice, maize and sugarcane and other horticultural crops such 
+
+as tomatoes, onion, bananas and chillies. In addition, there are other benefits such as employment 
+
+generation along the value chains, spin off effects of the investments to boost local economy and other 
+
+environmental benefits further justifies the project.  
+
+3.1.2. Economic Analysis: The DCF analysis carried out on the net cash-flow gave an Economic 
+Internal Rate of Return (EIRR) of 26% and the economic Net Present Value is estimated at USD 7.2 
+
+million at an opportunity cost of 12%. The economic values for the goods and services were arrived at 
+
+using a standard conversion factor of 1.1for traded goods and services while the non-traded items were 
+
+estimated using the market prices which were good estimates of the economic values under the 
+
+liberalized market system in the country. The results show high economic internal rates of return due to 
+
+the focus of the project on modernisation and commercialisation of farming in the project areas for the 
+
+selected crops which include horticulture crops. The project will also attract the participation of more 
+
+small medium scale enterprises mostly owned by the youth in the project. The project intervention will 
+
+also enhance productivity through capacity building of the key stakeholders in the project. Sensitivity 
+
+analysis on the effect of increasing investments costs by 10% and reducing crop prices by the same 
+
+margin resulted into decrease of EIRR to 25 and 24 % respectively which means EIRR is more sensitive 
+
+to crop produce price variation. See table 3.2 for details. 
+
+ 
+
+
+
+ 
+
+11 
+
+Table 3.1: Key Economic and Financial Figures 
+
+ 
+FIRR (base case )  23 %,  NPV (base case) (16,5%, USD    USD 3.8 million 
+
+EIRR (base case) : 26  %, NPV (base case) USD 7.2 million 
+
+ 
+
+Table 3.2: Results of the Sensitivity Analysis on the EIRR 
+
+Scenario EIRR NPV (USD million, 12%) 
+
+10% increase in crop prices 29 9.7 
+
+10% decrease in crop prices 24 4.7 
+
+10% increase in investment costs 25 5.9 
+
+10% decrease in investment costs 29 8.4 
+
+ 
+
+3.2 Environmental and Social impacts  
+
+3.2.1 Environment: 
+
+3.2.1.1 In accordance with the Bank’s Integrated Safeguards Systems (ISS), the project has been 
+
+validated as category 2 by ORQR. This implies that the anticipated negative impacts are minimal and 
+
+can be readily managed in line with measures elaborated in the Environmental and Social Management 
+
+Plan. The project will have both positive and negative environmental and social impacts. Positive 
+
+impacts will include among others: (i) improved environmental and ecological conditions; (ii) increased 
+
+agricultural activities and enhanced agricultural production and outputs; (iii) improved food security 
+
+and nutrition; (iv) enhanced value of agricultural produce through value addition; (v) improved social 
+
+and economic well-being of the beneficiaries through improved economic activities; (vi) enhanced 
+
+agricultural production capacities and skills; (vii) enhanced entrepreneurial and agro-processing skills; 
+
+(viii) improved better quality water flow downstream; (ix) increased employment opportunities; (x) 
+
+improved infrastructure in designated project areas; (x) capacity building including institutional 
+
+strengthening, environment and natural resources management. Negative impacts will include: (i) 
+
+vegetation, habitat and biodiversity loss during the development and construction phase of the project; 
+
+(ii)  generation of solid wastes as a result of excavations during construction works; (iii) compaction of 
+
+soils and destabilization of the geological balance; (iv) chances of threats of increased incidences of 
+
+water-borne diseases and accidental deaths at the water conservation reservoirs; (v) dust, air quality and 
+
+noise pollution; (vi) threats of occupational health and safety; (vii) soil, rivers and wetlands pollution 
+
+from chemical fertilizers and other agricultural chemicals during the operational phase of the project; 
+
+(viii) threats of transmissions of HIV/AIDs and other communicable diseases. The project ESMP for 
+
+the two sites have been developed and posted on the Bank’s website on 9 August 2016.  
+
+ 
+
+3.2.1.2 Though the environmental and social assessments of the project based on the African 
+
+Development Bank’s Integrated Safeguards System (ISS) and the Environmental and Social Assessment 
+
+Procedures, validated the project as Category 2, however according to Schedule A of the Malawi’s 
+
+Environmental Impacts Assessment Guidelines of 1997, development of agricultural land of more than 
+
+10 hectares requires implementation of a full EIA, thus qualifying such projects under Category 1 
+
+Projects. However, this is annulled by Schedule B 2.1 and Schedule D (D.1, D2, D3, D4, D5, D6, D7, 
+
+D8.1, D8.2, D8.5, D8.6, D8.8 and D10, of the Guidelines because the proposed project has limited and 
+
+reversible negative environmental and social impacts. 
+
+3.2.2. Climate Change: The Project is classified Category 2 by the Bank’s Climate Change Screening 
+
+System. The design review includes climate change risks and proposal of adaptation measures. Risk 
+
+management and adaptation options are integrated through promotion of gravity irrigation water flows. 
+
+Catchment management programme has been incorporated as part of the climate change resilience 
+
+programme. The proposed project interventions are imbedded with adaptation measures in the irrigation 
+
+
+
+ 
+
+12 
+
+and land and water management sub-sectors to secure and improve agricultural productivity against 
+
+climate change impacts through enhancement of water supply and basin-wide management. Irrigation 
+
+schemes will help address the challenges due to low rainfall while irrigation systems have been designed 
+
+to control the flooding menace in the target areas. These measures are consistent with Malawi’s National 
+
+Adaptation Programme of Action (NAPAs) and these include: (i) improved early warning systems (ii) 
+
+use of improved crop varieties and livestock breeds, (iii) improved crop and livestock management 
+
+practices, and diversification of agricultural activities within single farm units, e.g. introduction of agro-
+
+forestry systems 
+
+3.2.3. Gender Analysis: Malawi has a high gender disparity between men and women. The 2014 
+female Human Development Index value for Malawi is 0.423 in contrast with 0.467 for males, resulting 
+
+in a GDI value of 0.9074. Only 32% of individual holders of agricultural land in Malawi are women 
+
+despite their significant contribution in the agriculture sector.5 Rural women in Malawi play an 
+
+important role as subsistence farmers,6 and there is increasingly involvement of young female (91% of 
+
+young males works and 96% of young female workers are employed in the agriculture activities).7 Yet 
+
+their productive capacity is hindered by gender inequalities. The gender inequalities in the agriculture 
+
+sector can be attributed to:  
+
+(i)  Limited access to land ownership and land tenure. This has led to gender implications mainly hinge 
+
+around women’s control over the land and agriculture inputs including improved technology, 
+
+extension services, credit and finances. This has affected women’s decisions over the agriculture 
+
+sectors. Sensitisation meetings have been done to promote women participation and ensuring that 
+
+farmer participation will be based on head of household rather than on gender. However, adequate 
+
+safeguard will be put in place to ensure that at least 30% of the women are reached.  
+
+(ii) Low education rate and skills among women’s famers.  Illiteracy is high among rural women and 
+
+gender inequalities persist in secondary education, 1 in 30 women compare to 1 in 10 men 
+
+completed secondary school (reference to point 2.5 in the report). Furthermore, for example adult 
+
+literacy rate in Nkhata Bay is 91% to 76.8 %, male to female respectively. The situation is a bit 
+
+different for youth but still there is differential of 18 % (age of 25 – 34). Addressing female 
+
+education and knowledge in the project would be very crucial for their effective participation. 
+
+Sensitization, extension support and business support services will be provided by the Government 
+
+district officers including the youth and gender officers in order to promote youth and women 
+
+participation and development. In addition, the project include program in capacity development 
+
+in areas of functional literacy, book keeping, business formation etc.   
+
+(iii) Inequalities in rural employment; rural women´s participation in paid employment is hampered by 
+
+a significant domestic work burden. Moreover, rural female workers face a greater burden 
+
+combining domestic and probative workloads compares to their male counterparts, which further 
+
+restrict their agriculture production capacity.  Women generally have limited control over money 
+
+generated from sales of agriculture produce. Moreover, men, more often than not, have the overall 
+
+say on the selection of crop types to be produced which eventually impacts household food security. 
+
+This creates constraints regarding agricultural investments, since in real terms, women tenure 
+
+insecurity is one decisive factor constraining agricultural production.   
+
+(iv) Gender mobility patterns; women are more likely to move shorter distances and within districts.  
+
+This resulted in limited access to markets. The project will promote women participation in agri-
+
+business by providing business development services and also through collaboration with NGOs 
+
+active in the area.  
+
+                                                 
+4
+Female – male respective: Life expectancy at birth (63.7 - 61.7). Expected years of schooling (10.8 - 10.7), Mean years of schooling (3.4 - 5.20) GNI per 
+
+capita (0.679 - 0,815) HDI values (0.423 0.467).  GDI value Malawi, 0.907. Major gap is realized in yeas if schooling, gross national income, and 
+
+combine with low gender inequality index, which includes participation of women in decision-making. In 2014, the parentage of women in decision 
+
+making position stands at i.e. women held 22.3% of seats in the national parliament. 
+5 Gender Inequalities in Rural Employment in Malawi: An Overview, FAO, 2011.  
+6 Ibid. 
+7 Ibid.  
+
+
+
+ 
+
+13 
+
+3.2.4 Finally, the project will take into account these factors and support women famers in the decision 
+
+making process. It is apparent that gender inequality is affecting the agricultural productivity in the 
+
+targeted areas. Women farmers on average outnumber men farmers. However, women are not well 
+
+represented in decision making positions in irrigation schemes in Malawi where women occupy as little 
+
+as 25% of the decision making positions and are often deputies of men. For that reason the project will 
+
+make a deliberate effort to ensure adequate participation of women (at least 40% of beneficiaries) in 
+
+project implementation and will encourage committees and farmer-based groups to include a larger 
+
+quota for women in management, training, community representation and decision-making, and other 
+
+income generating activities. Women, will thus have the opportunity to participate in farm related 
+
+income generating activities and contribute meaningfully to the socio-economic development of their 
+
+communities. The gender perspectives have been integrated into project formulation in line with the 
+
+Malawian Gender Equality Act, 2012 and the National Youth Policy, 2013, and also takes due 
+
+cognizance of the Bank’s Gender Policy. 
+
+3.2.5 Social  The outputs of this project as contained in the logframe will translate into multiple 
+
+positive economic and social outcomes whose indicators include: (i) increased agricultural activities 
+
+and agricultural outputs whose net impacts will include improved living standards, food security and 
+
+improved nutrition; (ii) increased employment opportunities both directly and indirectly by people 
+
+employed during the development works as well as those who will be employed in agro-processing, 
+
+marketing, sale of farm inputs, etc.; (iii) improved agricultural production skills through training; (iv) 
+
+enhanced environmental management skills; (v) improved rural as well as on-farm infrastructure to ease 
+
+transportation; (vi) minimized post-harvest losses through the development of farm and off-farm storage 
+
+facilities as well as processing facilities that will help improve socio-economic well-being of the 
+
+beneficiaries. 
+
+3.2.6 The youth profile in Malawi indicates that out of a population of 17 million people8, more 
+
+than 40% are between 10 to 35 years old. Literacy rates within this age bracket is estimated at 81.8% 
+
+with slightly more males (86.6%) than females (77%) being literate. Although youth constitute a 
+
+significant proportion of the population, they lack basic opportunities that would enable them develop 
+
+to their full potential. This has been compounded by the presence of a range of adverse conditions that 
+
+impinge on the youth; the most perverse, being poverty. Discussions with youth groups indicated that 
+
+lack of appropriate skills and training, limited access to land, lack of value addition equipment and lack 
+
+of financial support are some of the major challenges facing the youth in Malawi. Therefore this project 
+
+has built in activities that will help to address challenges being faced by the youth. The project will 
+
+promote formation of youth farmer cooperatives to engage in agriculture as a business. The project will 
+
+also provide training in entrepreneurship, promote entrepreneurship culture, enhance agro-processing 
+
+and value addition and also improve access to finance through seed funds and credit schemes. 
+
+3.2.7. Involuntary resettlement: There is no involuntary resettlement foreseen under this project. The 
+
+project identified sites do not require land acquisition. The areas are already designated for agricultural 
+
+production. Settlements are outside the scheme areas except in Linga where there are a few homes found 
+
+within the scheme area. These do not pose major problems for the scheme development since the designs 
+
+have already isolated those few homes to be affected which will benefit from the project through 
+
+livelihood activities embedded in the Catchment Management.  
+
+IV IMPLEMENTATION 
+
+4.1 Implementation arrangements 
+
+ 
+4.1.1 The project will be under ASWAp within MoAIWD, and will be implemented through the 
+
+existing GoM structures. The MoAIWD is currently implementing six Bank’s projects satisfactorily 
+
+which did not have any problems in meeting the pre-condition for first disbursement. To fast tracked 
+
+and kick start the preliminary key activities of the project, the Government had put in place an Interim 
+
+Project Implementation Unit which comprised of - a Project Coordinator (a Chief Irrigation Engineer), 
+
+                                                 
+8 Population and Housing Census, 2008 
+
+
+
+ 
+
+14 
+
+a Procurement Specialists, a Project Accountant, a Monitoring and Evaluation Expert and a Desk Officer 
+
+to support the project. However, in order to fast-track the implementation process, the Project 
+
+Coordinator, Supervising Irrigation Engineer, Cooperative Officer and  Procurement Specialist as well 
+
+as the FM officer will be recruited competitively locally to serve on full time basis. The externally 
+
+recruited staff will sign performance based contract with the GoM. The project has also allocated 
+
+resources to recruitment a lawyer to guide the farmers on legal issues. 
+
+4.1.2 The Lilongwe University of Agriculture and Natural Resources will implement the ENABLE 
+
+YOUTH sub-component. A Technical Adviser which will serve for one year will be recruited 
+
+competitively at the commencement of ENABLE YOUTH to support the university after which the 
+
+university will take over full implementation of the component. The project will partner with a financial 
+
+institution licensed by Reserved Bank of Malawi on risk sharing of the ENABLE YOUTH sub-
+
+component of the project. The financial institution will be competitively recruited using Quality Based 
+
+Method of Procurement.     
+
+The Ministry of Agriculture, Irrigation and Water Development will sign a memorandum of 
+
+understanding with Lilongwe University of Agriculture and Natural Resources (LUANAR) for 
+
+selection, training and evaluation of business proposals and recommendation of seed funds for the 
+
+Agripreneurs. The Bank will only release resources for the funding of Youth Agribusiness on the 
+
+recommendation of the LUANAR. A criteria for the selection of the youth will be developed which will 
+
+include the minimum qualification of the Malawi Schools Certificate of Education and targeting the 
+
+youth from the project areas. The Agripreneurs will be provided with modern farming production 
+
+technologies on loan such as tractors and agro-processing equipment for the crops being promoted in 
+
+the area through a Microfinance Institutions upon completion of the training at LUANAR 
+
+4.1.3 The PCT will ensure that project resources are properly accounted for and that all project targets 
+
+are timely delivered. The PCT will be reporting to the Principal Secretary for the Ministry of 
+
+Agriculture, Irrigation and Water Development. There will be a Technical Committee comprising of 
+
+Directors of relevant Departments. The Technical Committee will report to the Project Steering 
+
+Committee chaired by PS MoAIWD which will approve the work plans and budgets and guide the 
+
+project on policy matters. At field level the PIU will work closely with the District Commissioners 
+
+Office especially the District Agriculture Development Officers, Irrigation Officers and Youth 
+
+Development Officers. Program Managers, Divisional Irrigation Services Officers from Salima and 
+
+Mzuzu Agricultural Development/ISD will provide technical support to the project.  
+
+4.1.4 Steering Committee: The existing ASWAp Executive Management Committee in conjunction 
+
+with members from the Department of Youth, LUANAR and Financial Institution to be recruited as risk 
+
+sharing partner will act as the Project Steering Committee and will have the overall decision making 
+
+responsibility. The Principal Secretary, MoAIWD will chair the Steering Committee. 
+
+ 
+
+Procurement Arrangements 
+
+ 
+
+4.1.5 Procurement of goods (including non-consultancy services), works and the acquisition of 
+
+consulting services, financed by the Bank for the project, will be carried out in accordance with the 
+
+“Procurement Policy and Methodology for Bank Group Funded Operations” (BPM), dated October 
+
+2015 and following the provisions stated in the Financing Agreement. Specifically, Procurement would 
+
+be carried out following: (1) Borrower Procurement System (BPS): Specific Procurement Methods and 
+
+Procedures (PMPs) under BPS comprising its Laws and Regulations as stipulated under 2003 Public 
+
+Procurement Act (PPA) and 2004 Public Procurement Regulations (PPR using the national Standard 
+
+Solicitation Documents (SSDs) or other Solicitation Documents agreed during project negotiations” for 
+
+various group of transactions to be entailed under components 3 and 4 under the Project, and (2) Bank 
+
+Procurement Policy and Methodology (BPM): Bank standard PMPs, using the relevant Bank Standard   
+
+Solicitation Documents SDDs, mainly for components 1 and 2 for contracts that are either: (i) above 
+
+the thresholds indicated in Annex B5, Para. B.5.3;2, or (ii) in case BPS is not relied upon for a specific 
+
+transaction or group of transactions; and (iii) in case BPM have been found to be the best fit for purpose 
+
+
+
+ 
+
+15 
+
+for a specific transaction or group of transactions. In order to gain time and specifically to meet the 
+
+requirements of PD2 of 2015, the Interim Project Implementation Unit put in place by the Government 
+
+has commenced the preparation of the procurement documents. In addition, the Government has 
+
+selected to use Advance Procurement.  
+
+4.1.6 Procurement Risks and Capacity Assessment (PRCA): the assessment of procurement risks at 
+
+the Country, Sector, and Project levels and of procurement capacity at the Executing Agency (EA), were 
+
+undertaken  for the project and the output have informed the decisions on the procurement regimes (BPS 
+
+and Bank)   being used for specific transactions or groups of similar transactions under the project. The 
+
+global rating of risk assessment was Substantial with possibility of reducing to moderate after the 
+
+implementation of the mitigating measures. The appropriate risks mitigation measures have been 
+
+included in the procurement PRCA action plan proposed in Annex B5, Para. 5.3.8.  
+
+Table 4.1 Procurement Table  
+
+Project Categories  UA ‘000 
+
+NCB OCB OTHERS LCB TOTAL 
+
+     
+
+Works 
+
+ Infrastructure 
+
+ Building  
+
+     
+
+ 11050   11050 
+
+ 410   410 
+
+Goods 
+
+ Machinery & 
+Equip 
+
+ Vehicles 
+
+ Office 
+Equipment 
+
+     
+
+ 585.03   585.03 
+
+   129.83 129.83 
+
+15.38    15.38 
+
+Services 
+
+ Non Consulting 
+
+ Consulting 
+
+ Financial & 
+Procurement 
+
+ LUANAR  
+
+ TA 
+
+ TA –Fin.Inst. 
+
+ African Harvest 
+
+     
+
+1263    1263 
+
+  989.35  989.35 
+
+     
+
+  124.49  124.49 
+
+  364.57  364.57 
+
+  335  335 
+
+  350 
+
+85.00 
+
+ 350 
+
+85.00 
+
+Operating Expenses   873.00  873.32 
+
+Salaries and others   991.26  991.26 
+
+ 1278.38 12045.03 4112.26 129.83 17566.26 
+
+      
+
+ 
+
+4.1.7 Financial Management Arrangements:  
+
+ 
+
+4.1.7.1 MOAIWD has prior experience in implementing projects financed by various development 
+
+partners and currently manages a total of three projects funded by the Bank. The Bank-funded projects 
+
+are mainstreamed within the Ministry but the financial management function is performed by 
+
+Consultants working together with Government Accountants. The frequent rotation of Government 
+
+Accountants has hampered the reinforcement of capacity within the Ministry thus necessitating the 
+
+retention of Consultants to support the PIUs. The existing projects have had a number of financial 
+
+management challenges related to the poor quality of quarterly reporting, delays in the preparation of 
+
+annual financial statements, non-compliance with the Bank’s audit submission deadlines, late 
+
+submission of expenditure justification documents and inadequate controls at the district level. 
+
+ 
+
+
+
+ 
+
+16 
+
+4.1.7.2 In order the mitigate the identified FM risks based on prior experience, the project will recruit a 
+
+Financial Management Specialist and an Accountant on a contractual basis to work together with the 
+
+two Accountants designated by the Accountant General. The Financial Management Specialist will have 
+
+primary responsibility for the FM aspects and report to the Project Manager and to the Director of 
+
+Finance at MoAIWD.  The contracted FM consultants will be subjected to annual performance 
+
+evaluations to ensure that they support the borrower’s compliance with the Bank’s financial 
+
+management requirements. 
+
+ 
+
+4.1.7.3 The project’s FM will be centrally managed within the Project Implementation Unit (PIU) in 
+
+MoAIWD. The PIU would coordinate all project FM-related issues. The overall conclusion of the 
+
+assessment is that MoAIWD’s capacity to handle all the FM aspects of the project, satisfies Bank 
+
+minimum requirements as laid out in the Bank’s FM guidelines subject to the recruitment on a 
+
+contractual basis of a Financial Management Specialist and an Accountant . The overall FM risk for the 
+
+project is assessed as Moderate (see Annex 1 – Risk Analysis summary).  
+
+ 
+
+4.1.8 Financial Reporting and Auditing Arrangement:  
+
+In accordance with the Bank’s financial reporting and audit requirements, the project will be required 
+
+to prepare and submit a quarterly progress report to the Bank not later than forty-five (45) days after the 
+
+end of each calendar quarter. The project will prepare and submit annual financial statements, audited 
+
+by the National Audit Office or an independent private audit firm, together with the auditor’s opinion 
+
+and management letter to the Bank not later than six (6) months after the end of the financial year. The 
+
+detailed auditing arrangements are included in the Technical Annex B.4. 
+
+4.1.9 Internal Audit:  
+
+The Central Internal Audit Unit will be responsible for providing objective assurance and ensuring 
+
+accountability in the utilization of public funds and assets. Various bank rules and guidelines (including 
+
+procurement rules, FM guidelines and disbursement guidelines) would also provide additional guidance. 
+
+The internal controls of the project will be spelt out in the project implementation manual which would 
+
+include sections on accounting and administrative procedures and provide guidance on the day to day 
+
+project FM issues. The internal control environment will be underpinned by the clear definition of roles 
+
+and responsibilities allowing for segregation of duties. 
+
+4.1.10 Disbursement Arrangements:  
+
+The project would make use of the Bank’s various disbursement methods including (i) Direct Payment, 
+
+(ii) Special Account (SA) and (iii) Reimbursement methods in accordance with Bank rules and 
+
+procedures as laid out in the Disbursement handbook as applicable. The Bank will issue a Disbursement 
+
+Letter of which the content will be discussed and agreed with the Government of Malawi (GoM) during 
+
+negotiations.  
+
+ 
+
+The government will open a special account which will be denominated in foreign currency, at a bank 
+
+acceptable to the Bank for the Project’s use. A related local currency account will also be opened for 
+
+eligible local currency operating costs.  
+
+4.2 Monitoring  
+
+ 
+4.2.1 The established ASWAp results framework will be used for M&E of the project performance. 
+
+Support will be provided by the MoAIWD and Ministry Labour, Youth and Manpower Development 
+
+(MLYMD) to undertake their roles in leading the M&E process. The M&E Units will generate gender 
+
+disaggregated data and also assess socio-economic impacts on the target groups. The Environmental 
+
+District Officers and Land Resources Conservation Officers will monitor the social and environmental 
+
+impacts of the project. Project effect and impacts on the target groups will be monitored by constituting 
+
+cross-section samples of beneficiaries. The component will facilitate stakeholder consultations, farmer 
+
+organisation, nutrition and HIV/AIDS messages, promotion of women participation, field 
+
+demonstrations including competitions and short-term consultancies.  
+
+ 
+
+
+
+ 
+
+17 
+
+4.2.2 Milestones 
+ 
+
+Timeframe Milestone Monitoring process / feedback loop 
+
+Year 0  Preparation of 
+
+procurement packages  
+
+ 
+
+Project Approval, 
+
+launching, signature  
+
+GOM, AFDB 
+
+ 
+
+ 
+
+AFDB Board, GOM 
+
+Year 1 – 5 Implementation  
+
+Year 1 – 5 Oversight  Steering Committee () 
+
+Year 1 – 5 Audit Reports   Annually by PCU 
+
+Year 3 Mid-Term Review   Bank and PCU to monitor  
+
+Year 5 Impact Study   PCU and Regions 
+
+Year 5 Project Completion Report   ASWAP and PCU to monitor; Bank to participate 
+
+ 
+4.3 Governance  
+
+ 
+
+4.3.1 The Agricultural sector in Malawi is repositioning itself to institutionalize transparency and 
+
+good governance as evidenced in earlier detection by the management and ordering of full investigation 
+
+of suspected salary fraud in the ministry. It should be noted that the MAIWD was not involved in the 
+
+Malawi Cashgate of 2013. However, the requisite fiduciary management framework still poise a lot of 
+
+challenges which include lack of qualified and experienced project accounting staff due to high turnover 
+
+or attrition of accounting staff, weak internal controls and non-compliance with key internal control 
+
+procedures within line ministry.  
+
+4.3.2 The 2015 report of Transparency International Corruption Perception Index showed that Malawi 
+
+had slide from 37(88/176) to 31 (112/175) between 1912 and 2015. The overall score of 2015 was below 
+
+Sub-Saharan average of 33 score. However, the overall average score for Malawi’s Country Policy and 
+
+Institutional Assessment (CPIA) Governance component has been improving slowly between 2004-
+
+2014 with intermittent slight decreases in 2010 (-0.1) and 2014 (-0.13). However, the theft of public 
+
+funds amounting to about US Dollar 50 million in September, 2013 dubbed as Cash gate, exposed high 
+
+level corruption and serious weaknesses in Malawi’s PFM system. The current administration has since 
+
+coming into power shown strong resolve to address the root causes of Cash gate and reform the PFM 
+
+system.  The Government is implementing the PFM Reform Action Plan to restore controls and integrity 
+
+of the PFM system over the short term. The Government also is also implementing a broader Public 
+
+Sector Reform Programme (PSRP) aimed at improving accountability and transparency in public 
+
+service delivery.  Steady progress in reforms is being made as evidenced by recent improvement in 
+
+financial reporting and completion of pay roll audit.  There are on-going efforts to strengthen the 
+
+capacity of key governance institutions, such as the Anti-Corruption Bureau, Office of the Directorate 
+
+of Public Procurement (ODPP) and the National Auditor General’s Office. 
+
+4.4 Sustainability  
+
+4.4.1 The participatory approach adopted during the project design and envisioned to be extended 
+
+during the implementation phase will enhance the ownership of project’s activities and realizations by 
+
+the main stakeholders ensuring its sustainability. The irrigation infrastructure will be operated and 
+
+maintained by the Water Users Associations (WUAs) whose capacities will be developed through 
+
+training. The project will ensure that at least 30% of women are represented in the irrigation 
+
+management committees. Operation and Maintenance guidelines will be developed including tariff 
+
+setting by the supervising consultant for the operation and maintenance of the schemes that takes into 
+
+consideration past experiences in the management of irrigation schemes in the country. The WUAs are 
+
+expected to cover the O&M costs from the contribution of farmers through water charges. Other 
+
+sustainability of other components - Value Addition and Youth entrepreneurship and Agro-
+
+
+
+ 
+
+18 
+
+Cooperatives Development for Employability are hinged on making paradigm shift of agriculture from 
+
+development to business/commercial activities.  
+
+4.4.2 The project is financially sustainable. The analysis indicates 23% and 26% FIRR and EIRR 
+
+respectively. It is evident that the farmers will be able to pay for the water usage (which is currently 
+
+estimated at KWA50, 000 per annum) through the Water User Association given that farmers will be 
+
+linked to processors who will be ready to buy their products. In order to strengthen the relationships 
+
+between the two parties,   provisions have been made for legal services. The project also makes 
+
+provision for the training of artisans and technicians for the maintenance of the irrigation infrastructure.  
+
+In addition regarding the irrigation infrastructure, marketing of value added products, provision of 
+
+institutional support and development of strong farmer groups will work in synergy to ensure 
+
+sustainability. In particular it is expected that, under AIYAP, the farmers who will be organized in 
+
+Farmer Associations/Cooperative Societies will operate as farming businesses. Cooperative and 
+
+Extension Officers will be recruited to provide technical supports in farms management, operation and 
+
+maintenance.  The analysis also indicates that the young entrepreneurs will be able to service their loans, 
+
+as well as obtain handsome net profits for re-investments in running of their farms.    
+
+4.5 Risk management  
+
+ 
+
+4.5.1 One major risk is the unpredictability of agricultural markets due to trade restrictions and price 
+
+controls on some items. The Government is being urged by DPs, for instance to deregulate agriculture 
+
+markets including removal of bans and pegging the price on some strategic crops such as maize.   
+
+Enactment of the Goods Control Act would help to improve market predictability.  However, there is 
+
+already a guaranteed market for sugarcane production by linking the farmers with Dwangwa Cane 
+
+Growers Trust and Dwangwa Cane Growers Company Ltd.     
+
+4.5.2  Volatility of the world commodity prices 
+
+Mitigation: The country enjoys accessibility to SADC market and the project lays emphasis on internal 
+
+processing of raw materials and value addition. 
+
+ 
+
+4.5.3 Project Cost Overruns: Project cost overruns due to exchange rate fluctuations, uncertainties in 
+
+economic situation of Malawi and SADC and the rise in the cost of materials. 
+
+Mitigation: Project is costed in USD and efficient procurement timing to address the increases, as well 
+
+as adequate price contingencies for the unavoidable increases will is provided in the project costing. 
+
+4.5.4 Reduced precipitation, increased temperature, change in length of rainy season, increased 
+
+incidences of drought and floods, due to climate risks:  
+
+Mitigation: Training regarding vulnerabilities, assisting the communities to select various adaptation 
+
+measures; e.g. rainwater harvesting, rotational grazing, using drought tolerant varieties e.g. cassava, 
+
+sorghum etc. 
+
+4.5.5 Delay in providing counterpart funding:  
+
+Mitigation: The GoM contributions will be largely be in kind in form of provisions of office spaces, 
+
+furniture, salary and wages, allowances (including per diem of staff), payment of all utility bills, office 
+
+equipment and payment of hotel bills for staff seconded to the project.  
+
+ 
+4.6 Knowledge building  
+ 
+
+4.6.1 The knowledge gained and lessons learnt through the implementation of various agricultural 
+
+projects in Malawi, government policies as well as studies carried out in the sector have been duly 
+
+applied in designing this project. Similarly, the knowledge that will be generated through 
+
+implementation of this Project will be synergised with other projects on ground such as SIVAP and 
+
+AISP to achieve maximum result. The results from the various studies and other surveys, including the 
+
+socio-economic impact study will inform the stakeholders on how to put the acquired knowledge into 
+
+practical use for better results-oriented achievements and sustained benefit flows. 
+
+ 
+
+
+
+ 
+
+19 
+
+4.6.2 At the project level, the project implementation review, quarterly progress reports, audit, sector 
+
+M&E and completion reports will also provide information on various aspects of the project for further 
+
+diagnosis. The knowledge obtained will be shared within the Bank and with other development partners 
+
+as well as with RMCs. 
+
+V LEGAL INSTRUMENTS AND AUTHORITY 
+
+ 
+
+5.1 Legal instrument  
+
+The Project will be financed by an ADF loan.  
+
+5.2 Conditions associated with Bank’s intervention 
+
+5.2.1 Conditions Precedent to Entry into Force of the Loan Agreement: The entry into force of 
+
+the Loan Agreement shall be subject to the fulfilment by the Borrower of the provisions of Section 
+
+12.01 of the General Conditions Applicable to Loans and Guarantee Agreements of the ADF. 
+
+5.2.2 Conditions Precedent to First Disbursement of the Loan: The obligation of the Bank to make 
+
+the first disbursement of the loan shall be conditional upon entry into force of Loan Agreement in 
+
+accordance with 5.2.1 above and the submission by the Borrower of evidence in form and substance 
+
+satisfactory to the Bank, of the opening of a special account in a bank acceptable to the Bank into which 
+
+the proceeds of the Loan will be deposited.   
+
+5.2.3 Other Conditions: The Borrower shall cause the Executing Agency to: (a) establish a Project 
+
+Implementation Unit (PIU) within six months of the entry into force of the Loan Agreement.. 
+
+ 
+
+5.2.4 Undertaking: The Borrower shall cause the Executing Agency to implement the project in 
+
+compliance with national legislations and in accordance with the Environmental and Social 
+
+Management Framework (ESMF) and submit to the Bank on an annual basis an acceptable 
+
+Environmental and Social Monitoring Report. 
+
+ 
+
+5.3 Compliance with Bank Policies 
+
+ 
+
+This Project complies with all applicable Bank policies.  
+
+ 
+VI RECOMMENDATION 
+
+ 
+
+Management recommends that the Board of Directors approve the proposed ADF loan of UA16 million 
+
+to the Government of Malawi for the purposes and subject to the conditions stipulated in this report. 
+
+
+
+ 
+
+I 
+
+APPENDIX 1. Map of Malawi showing Project Location 
+
+ 
+ 
+
+Linga and Dwanbazi 
+
+
+
+ 
+
+II 
+
+APPENDIX II. Malawi’s Comparative Socio-Economic Indicators 
+
+ 
+
+Year Malawi Africa
+
+Develo-    
+
+ping         
+
+Countries
+
+Develo-       
+
+ped  
+
+Countries
+
+Basic Indicators
+
+Area ( '000 Km²) 2014 118 30,067 80,386 53,939
+Total Population (millions) 2014 16.8 1,136.9 6.0 1.3
+Urban Population (% of Total) 2014 16.1 39.9 47.6 78.7
+Population Density  (per Km²) 2014 142.0 37.8 73.3 24.3
+GNI per Capita (US $) 2013  270 2 310 4 168 39 812
+Labor Force Participation - Total (%) 2014 83.0 66.1 67.7 72.3
+Labor Force Participation - Female (%) 2014 51.0 42.8 52.9 65.1
+Gender -Related Dev elopment Index  Value 2007-2013 0.891 0.801 0.506 0.792
+Human Dev elop. Index  (Rank among 187 countries) 2013 174 ... ... ...
+Popul. Liv ing Below  $ 1.25 a  Day  (% of Population)2008-2013 72.2 39.6 17.0 ...
+
+Dem ographic Indicators
+
+Population Grow th Rate   - Total (%) 2014 2.8 2.5 1.3 0.4
+Population Grow th Rate   - Urban (%) 2014 3.8 3.4 2.5 0.7
+Population < 15 y ears  (%) 2014 45.0 40.8 28.2 17.0
+Population >= 65 y ears  (%) 2014 3.2 3.5 6.3 16.3
+Dependency  Ratio (%) 2014 96.7 62.4 54.3 50.4
+Sex  Ratio (per 100 female) 2014 100.6 100.4 107.7 105.4
+Female Population 15-49 y ears (% of total population) 2014 22.6 24.0 26.0 23.0
+Life Ex pectancy  at Birth - Total (y ears) 2014 55.8 59.6 69.2 79.3
+Life Ex pectancy  at Birth - Female (y ears) 2014 55.8 60.7 71.2 82.3
+Crude Birth Rate (per 1,000) 2014 39.4 34.4 20.9 11.4
+Crude Death Rate (per 1,000) 2014 11.1 10.2 7.7 9.2
+Infant Mortality  Rate (per 1,000) 2013 44.2 56.7 36.8 5.1
+Child Mortality  Rate (per 1,000) 2013 67.9 84.0 50.2 6.1
+Total Fertility  Rate (per w oman) 2014 5.3 4.6 2.6 1.7
+Maternal Mortality  Rate (per 100,000) 2013 510.0 411.5 230.0 17.0
+Women Using Contraception (%) 2014 50.1 34.9 62.0 ...
+
+Health & Nutrition Indicators
+
+Phy sicians (per 100,000 people) 2004-2012 1.9 46.9 118.1 308.0
+Nurses (per 100,000 people)* 2004-2012 34.3 133.4 202.9 857.4
+Births attended by  Trained Health Personnel (%) 2009-2012 71.4 50.6 67.7 ...
+Access to Safe Water (% of Population) 2012 85.0 67.2 87.2 99.2
+Healthy  life ex pectancy  at birth (y ears) 2012 50.0 51.3 57 69
+Access to Sanitation (% of Population) 2012 10.3 38.8 56.9 96.2
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2013 10.3 3.7 1.2 ...
+Incidence of Tuberculosis (per 100,000) 2013 156.0 246.0 149.0 22.0
+Child Immunization Against Tuberculosis (%) 2013 96.0 84.3 90.0 ...
+Child Immunization Against Measles (%) 2013 88.0 76.0 82.7 93.9
+Underw eight Children (% of children under 5 y ears) 2005-2013 13.8 20.9 17.0 0.9
+Daily  Calorie Supply  per Capita 2011 2 334 2 618 2 335 3 503
+Public Ex penditure on Health (as % of GDP) 2013 4.2 2.7 3.1 7.3
+
+Education Indicators
+
+ Gross Enrolment Ratio (%)
+
+      Primary  School       -   Total 2011-2014 141.3 106.3 109.4 101.3
+      Primary  School       -   Female 2011-2014 143.8 102.6 107.6 101.1
+      Secondary  School  -   Total 2011-2014 36.6 54.3 69.0 100.2
+      Secondary  School  -   Female 2011-2014 34.9 51.4 67.7 99.9
+Primary  School Female Teaching Staff (% of Total) 2012-2014 39.9 45.1 58.1 81.6
+Adult literacy  Rate - Total (%) 2006-2012 61.3 61.9 80.4 99.2
+Adult literacy  Rate - Male (%) 2006-2012 72.1 70.2 85.9 99.3
+Adult literacy  Rate - Female (%) 2006-2012 51.3 53.5 75.2 99.0
+Percentage of GDP Spent on Education 2009-2012 5.4 5.3 4.3 5.5
+
+Environm ental  Indicators
+
+Land Use (Arable Land as % of Total Land Area) 2012 39.8 8.8 11.8 9.2
+Agricultural Land (as % of land area) 2012 0.6 43.4 43.4 28.9
+Forest (As % of Land Area) 2012 33.6 22.1 28.3 34.9
+Per Capita CO2 Emissions (metric tons) 2012 0.1 1.1 3.0 11.6
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available.
+
+July 2015
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+Infant Mortality Rate
+( Per 1000 )
+
+Malawi Africa
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+7
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+GNI Per Capita US $
+
+Malawi Africa
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+Population Growth Rate (%)
+
+Malawi Africa
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+5
+
+2
+0
+
+0
+8
+
+2
+0
+
+0
+9
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+Life Expectancy at Birth 
+(years)
+
+Malawi Africa
+
+
+
+ 
+
+III 
+
+APPENDIX III. Table of ADB's Portfolio in Malawi as at 31st May 2016 
+
+ 
+
+Division Long name Loan Number Project I D Sector W indow
+Approval 
+
+date
+
+Planned 
+
+project 
+
+completion 
+
+date
+
+Amount 
+
+Approved (UA)
+
+Amount 
+
+Disbursed 
+
+(UA)
+
+Disburse
+
+ment 
+
+Ratio
+
+Age 
+
+(Years)
+
+AWTF SHIRE VALLEY IRRIGATION PROJECT FEASIBILITY STUDY 5600155003701 P-MW-AAC-008 Agriculture  [OTHERS] 12/18/2013 6/1/2018 1,427,866.1 0.0 0.0 1.6
+
+OSAN1 AGRICULTURE DEVELOPMENT PROGRAMME - ISP 2100155016517 P-MW-AAA-004 Agriculture  [  ADF ] 9/9/2009 6/30/2016 15,000,000.0 5,438,828.1 36.3 5.9
+
+OSAN3 SMALLHOLDER IRRIGATION AND VALUE ADDITION PROJECT (SIVAP/FUN 2100155024516 P-MW-AA0-026 Agriculture  [  ADF ] 3/13/2013 12/31/2018 253,000.0 26,769.7 10.6 2.4
+
+OSAN3 SMALLHOLDER IRRIGATION AND VALUE ADDITION PROJECT (SIVAP/FUN 5570155000151 P-MW-AA0-026 Agriculture  [OTHERS] 3/13/2013 12/31/2018 28,151,792.2 4,577,009.0 16.3 2.4
+
+Agriculture 44,832,658.3 10,042,606.8 22.4 3.0
+
+OSAN3 GEF CARLA CLIMATE ADAPTATION FOR RURAL LIVELIHOODS AND AGRIC 5550155000051 P-MW-C00-001 Environment  [OTHERS] 11/10/2011 6/30/2016 2,132,711.5 1,428,533.9 67.0 3.7
+
+Environment 2,132,711.5 1,428,533.9 67.0 3.7
+
+OSGE2 PUBLIC FINANCE MANAGEMENT INSTITUTIONAL SUPPORT PROJECT 2100155025967 P-MW-KF0-002 Multi-Sector  [  ADF ] 10/8/2013 12/31/2017 2,980,000.0 803,564.1 27.0 1.8
+
+Multi-Sector 2,980,000.0 803,564.1 27.0 1.8
+
+ONEC2 KOLOMBIDZO HYDRO POWER PROJECT FEASIBILITY STUDY 2100155024773 P-MW-FA0-001 Power  [  ADF ] 3/25/2013 6/30/2015 2,000,000.0 146,282.8 7.3 2.3
+
+Power 2,000,000.00 146,282.82 7.31 2.3
+
+OSHD1 SUPPORT TO LOCAL ECONOMIC DEVELOPMENT 2100150017493 P-MW-IE0-002 Social  [  ADF ] 9/24/2008 12/31/2015 14,000,000.0 11,811,626.7 84.4 6.8
+
+OSHD1 SUPPLEMENTARY LOAN LOCAL ECONOMIC DEVLOP 2100150023643 P-MW-IE0-003 Social  [  ADF ] 12/9/2010 12/31/2015 3,162,000.0 2,608,508.2 82.5 4.6
+
+OSHD1  COMPETITIVENESS AND JOB CREATION SUPPORT PROJECT 2100150025701 P-MW-IE0-004 Social  [  ADF ] 12/16/2011 12/31/2017 10,000,000.0 3,730,478.3 37.3 3.6
+
+OSHD1 PROTECTION OF BASIC SERVICES 2100155029667 P-MW-IE0-005 Social  [  ADF ] 4/29/2015 19,000,000.0 0.0 0.0 0.2
+
+OSHD2 SUPPORT TO HIGHER EDUCATION SCIENCE & TECHNOLOGY & TECHNICAL 2100150026296 P-MW-IAD-001 Social  [  ADF ] 2/8/2012 12/31/2018 9,050,000.0 2,050,339.8 22.7 3.4
+
+OSHD2 SUPPORT TO HIGHER EDUCATION SCIENCE & TECHNOLOGY & TECHNICAL 2100155022172 P-MW-IAD-001 Social  [  ADF ] 2/8/2012 12/31/2018 10,950,000.0 777,730.4 7.1 3.4
+
+OSHD2 SUPPORT TO HIGHER EDUCATION SCIENCE & TECHNOLOGY & TECHNICAL 2200160000939 P-MW-IAD-001 Social  [  NTF ] 2/8/2012 12/31/2018 6,500,000.0 1,170,075.9 18.0 3.4
+
+Social 72,662,000.0 22,148,759.2 30.5 3.7
+
+OITC2 MALAWI TRUNK ROAD REHABILITATION: BLANTYRE-ZOMBA 2100150019845 P-MW-DB0-011 Transport  [  ADF ] 5/22/2009 12/31/2015 22,980,000.0 16,226,652.2 70.6 6.2
+
+OITC2 MALAWI TRUNK ROAD REHABILITATION: BLANTYRE-ZOMBA 2100155015418 P-MW-DB0-011 Transport  [  ADF ] 5/22/2009 12/31/2015 1,124,000.0 87,024.6 7.7 6.2
+
+OITC2 MALAWI: MZUZU-NKHATABAY ROAD REHABILITATION PROJECT 2100150028743 P-MW-DB0-012 Transport  [  ADF ] 3/13/2013 12/31/2015 21,890,000.0 307,875.8 1.4 2.4
+
+OITC2 NACALA ROAD CORRIDOR PROJECT PHASE IV (LIWONDE-MANGOCHI)  MA 2100150030794 P-Z1-DB0-084 Transport  [  ADF ] 12/3/2013 12/31/2018 42,360,000.0 0.0 0.0 1.6
+
+Transport 88,354,000.0 16,621,552.6 18.8 4.1
+
+OWAS2 SUSTAINABLE RURAL WATER AND SANITATION INFRASTRUCTURE FOR IM 2100150031195 P-MW-E00-006 Water Sup/Sanit  [  ADF ] 4/30/2014 12/31/2019 15,000,000.0 33,274.9 0.2 1.2
+
+OWAS2 SUSTAINABLE RURAL WATER AND SANITATION INFRASTRUCTURE FOR IM 2200160001289 P-MW-E00-006 Water Sup/Sanit  [  NTF ] 4/30/2014 12/31/2019 5,000,000.0 249,775.0 5.0 1.2
+
+OWAS2 SUSTAINABLE RURAL WATER AND SANITATION INFRASTRUCTURE FOR IM 5800155001352 P-MW-E00-006 Water Sup/Sanit  [OTHERS] 4/30/2014 12/31/2019 2,787,245.6 8,583.9 0.3 1.2
+
+W ater Sup/Sanit 22,787,245.6 291,633.8 1.3 1.2
+
+Grand Total 235,748,615.4 51,482,933.1 21.8 3.2
+
+
+
+ 
+
+IV 
+
+Appendix IV:    Key Related Projects Financed by the Bank and Other Development Partners 
+Donor/Agency Project Title Project Coverage9 Budget 
+
+(USD m) 
+
+Implementing 
+
+Organization 
+
+Project 
+
+Status 
+
+African 
+
+Development 
+
+Bank 
+
+Agriculture Infrastructure 
+
+Support Project (AISP) 
+KK, NE, NS, CK 22.0 ASWAp Secretariat On-going 
+
+Smallholder Crop Production 
+
+and Marketing Project 
+
+(SCPMP) 
+
+CP, KA, MZ, NB, RU, DZ, 
+
+DA, KU,  LL, MT, KK, NU, 
+
+NT, BLK, CK, MHG, MH, 
+
+NS & ZA 
+
+22.0 PIU On-going 
+
+Competitiveness & Job 
+
+Creation Project for Private 
+
+Sector 
+
+MZ, KU, NT, DA, LL, DZ, 
+
+ZA, CZ, TO & MJ 
+ MoIT On-going 
+
+ 
+
+Smallholder Irrigation and 
+
+Value Addition Project 
+
+(SIVAP) 
+
+KA, SA, MHG, CK, KK,  39.00 Irrigation Dept On-going 
+
+ 
+
+CLIMATE ADAPTATION 
+
+FOR RURAL LIVELIHOOD 
+
+AND AGRICULTURE 
+
+(CARLA) PROJECT 
+
+KA, DZ, CK 3.00 
+Department of 
+
+Environment 
+On-going 
+
+European 
+
+Union (EU) 
+
+Food Security program Country wide 22.06 PIU  On-going 
+
+Farm Income Diversification 
+
+Program (FIDP) 
+
+KA, CP, MZ, NB, KK, LL, 
+
+SA, DA, TO, CZ, BLK and 
+
+RU 
+
+25.53 
+Government  
+
+(MoAFS)   
+On-going 
+
+World Bank 
+
+IRLADP (Irrigation, Rural 
+
+Livelihoods and Agricultural 
+
+Development Project) 
+
+NE, CK, BT, PE, ZA, DZ, 
+
+LL, SA, NB, RU, CH 
+102.70 PIU - MoAFS  On-going 
+
+ASWAp-SP (Agricultural 
+
+Sector Wide Approach - 
+
+Support Project) 
+
+Country  Wide  
+
+ 
+68.00 
+
+Government  
+
+(MoAFS)   
+On-going 
+
+Shire River Basin 
+
+Management Project 
+
+CK, NE, NU, MH, BLK, 
+
+MN, NENO, BT, CZ, PE, MJ 
+131.00 
+
+Government 
+
+(MoWDI)  
+On-going 
+
+International 
+
+Fund for 
+
+Agriculture 
+
+Development 
+
+(IFAD) 
+
+IRLADP 
+NE, CK, BT, PE, ZA, DZ, 
+
+LL, SA, NB, RU, CH 
+8.00 
+
+Government 
+
+through PIU 
+On-going 
+
+SAPP CK, KK, LL, CZ, BT, BLK 45.70 MoAFS/ASWAp On-going 
+
+RLEEP  DZ, MC, NS 16.70 MLGRD/PIU On-going 
+
+RLSP  TO, NS, CZ 14.80 MLGRD/PIU On-going 
+
+US Aid for 
+
+International 
+
+Development 
+
+(USAID) 
+
+Integrating Nutrition in Value 
+
+Chains (INVC) 
+
+MC, LL, DZ, NU, MH, 
+
+MHG, BLK 
+24.6 
+
+Development 
+
+Alternatives Inc. 
+On-going 
+
+Wellness and Agriculture for 
+
+Life Advancement (WALA) 
+
+MJ, CK, ZA, MHG, NE, 
+
+BLK, TO 
+80.93 
+
+Catholic Relief 
+
+Services (CRS) 
+On-going 
+
+Irish Aid 
+
+Conservation Agriculture 
+
+Project 
+
+KA, RU, MZ, KK, NE, LL, 
+
+NU, BLK, MC, ZA, MJ 
+1.57 NASFAM On-going 
+
+Agroforestry Food Security 
+
+Programme 
+
+SA, DZ, NU, LL, CK, MJ, 
+
+KA, MHG, TO, NS, MZ 
+3.14 
+
+World Agroforestry 
+
+Centre (ICRAF) 
+On-going 
+
+Malawi Seed Industry 
+
+Development Project 
+KA, MZ, MC KU, LL. 3.76 
+
+International Crops 
+
+Research for the 
+
+Semi-Arid Tropics- 
+
+ICRISAT 
+
+On-going 
+
+Norway 
+ASWAp-SP Country Wide 11.20 MoAFS On-going 
+
+NASFAM Country  Wide 15.80 NASFAM On-going 
+
+Flemish 
+
+International 
+
+Cooperation 
+
+Agency (FICA) 
+
+GDCP/MLW/001/FLA  KU, MZ 5.41 UN-FAO On-going 
+
+MMPA Central & Northern Malawi 0.66 
+
+Malawi Milk 
+
+Producers 
+
+Association 
+
+On-going 
+
+MZCPCU CP, RU, MZ, NB 0.66 
+
+Mzuzu Coffee 
+
+Planters 
+
+Cooperative Union 
+
+On-going 
+
+STP KU, MZ 0.69 
+FUM, NASFAM, 
+
+TAPP, Microloan, 
+On-going 
+
+                                                 
+9 Project coverage/Districts names’ key: BLK = Balaka; BT = Blantyre; CP = Chitipa; CK =  Chikhwawa; CZ = Chiradzulu; DZ = Dedza; DA = Dowa; 
+
+KA = Karonga;  KK =  Nkhotakota;  LL = Lilongwe;  MJ = Mulanje;  MZ= Mzimba;  MN = Mwanza; MC = Mchinji; MH = Mangochi; MHG = Machinga; 
+NB = Nkhata Bay; NE = Neno;  NU = Ntcheu; NE = Nsanje;  NS = Ntchisi;  PE = Phalombe;  RU = Rumphi;  SA = Salima; TO = Thyolo; and  ZA = 
+
+Zomba. 
+
+
+
+ 
+
+V 
+
+Donor/Agency Project Title Project Coverage9 Budget 
+
+(USD m) 
+
+Implementing 
+
+Organization 
+
+Project 
+
+Status 
+
+MOGA, DAMRA, 
+
+MEJN 
+
+SAETS KU, MZ 8.40 
+
+DAES, DAHL, 
+
+Bunda College, 
+
+NRC, SSLPP 
+
+On-going 
+
+ASWAp-SP  Country wide 6.61 Government  On-going 
+
+Japan 
+
+International 
+
+Cooperation 
+
+Agency (JICA) 
+
+Partnership on Community 
+
+Based Irrigation Management 
+
+Project to Dedza  
+
+DZ 0.37 
+
+Government - 
+
+Department of 
+
+Irrigation  
+
+On-going 
+
+Sustainable Land 
+
+Management Promotion 
+
+Project   
+
+RU, MZ, NB 2.76 
+
+Government - 
+
+Department of Land 
+
+Resources   
+
+On-going 
+
+The Technical Cooperation 
+
+Project for Development of 
+
+Medium Scale Irrigation  
+
+MHG, MJ 2.63 
+
+Government - 
+
+Department of 
+
+Irrigation  
+
+On-going 
+
+Food and 
+
+Agriculture 
+
+Organisation of 
+
+the United 
+
+Nations (FAO) 
+
+FAO-UNJPs Projects : (i) 
+
+Cassava Commercialization 
+
+and value addition: 
+
+UNJP/MLW/046/EDF (ii) 
+
+Reduction of Post-Harvest 
+
+Losses through construction 
+
+of Community Managed 
+
+Grain Banks (Small stock 
+
+production, Climate change & 
+
+NRM 
+
+KK, SA 6.45 
+
+PMU/FAO Contract 
+
+Staff/MoAFS/Min 
+
+of Youth 
+
+On-going 
+
+FAO-ECU-Conservation 
+
+Agriculture Coordination and 
+
+Advocacy in Southern Africa 
+
+RU, KK, BLK, CK 0.12 
+PMU/FAO Contract 
+
+Staff and MoAFS  
+On-going 
+
+FAO-GDCP-FLANDERS- 
+
+Improving Food Security and 
+
+Nutrition Policies and 
+
+Program Outreach 
+
+MZ, KU 5.30 
+
+PMU/FAO Contract 
+
+Staff and District 
+
+Assemblies  
+
+On-going 
+
+FAO-GCP/INT/139/EC: 
+
+Climate Smart Agriculture: 
+
+Capturing the synergies 
+
+between Mitigation, 
+
+Adaptation and Food Security 
+
+Country wide 2.23 
+
+PMU/FAO/MoAFS-
+
+LRCD/Bunda 
+
+College 
+
+On-going 
+
+United Nations 
+
+Development 
+
+Programme 
+
+(UNDP) 
+
+Sustainable Land 
+
+Management 
+NE, MN, BLK, BT 2.50 
+
+Ministry of 
+
+Environment and 
+
+Climate Change 
+
+Management 
+
+On-going 
+
+World Food 
+
+Programme 
+
+(WFP) 
+
+Purchase for Progress 
+NS, MZ, MC, DZ, NU, ZA, 
+
+KU, DA 
+17.59 WFP/GoM On-going 
+
+ 
+
+
+
+ 
+
+VI 
+
+Appendix V: FRAGILITY REPORT 
+
+ 
+
+1. Introduction 
+
+ 
+
+1.1 The country has few resources and is highly dependent on external aid. It is rapidly urbanizing and 
+
+has high population growth and limited arable land. These challenges have manifested in unfavourable 
+
+socio-economic indicators, including a high incidence of poverty.  
+
+Malawi’s other main challenges include improving infrastructure  mainly energy and water delivery 
+
+which are adversely affecting private sector investment, addressing a scarcity of skilled human 
+
+resources,  provision of health care, reforming its public financial management (PFM) system, and the 
+
+large and relatively inefficient public service  including parastatals. 
+
+The Agricultural Infrastructure and Youth in Agribusiness Project is to address the twin problems 
+
+of food security and high rate youth unemployment within the context of 2011-2016 Malawi Growth 
+
+and Development Strategy (MGDS) which identified agriculture and food security, irrigation and green 
+
+belt initiatives as drivers of economic growth. Agriculture in Malawi is highly vulnerable to the adverse 
+
+impacts of climate change and extreme weather events, such as dry spells, droughts and floods. 
+
+1.2 The project Fragility Assessment Report (PFAR) of the Agricultural Infrastructure and Youth Skill 
+
+Development in Agribusiness Project (AIYAP) is based on the Country Profile Report of 2016, which 
+
+identified the key drivers of fragility of Malawi including: the country’s dependence on a single 
+
+agricultural export, High population density, Poverty reduction has been slow, Natural disasters and 
+
+climate change, Weak financial sector development, Gender Inequality 
+
+ 
+
+2 Main Drivers of Fragility for Malawi 
+
+2.1 The country’s dependence on a single agricultural export tobacco is a risk, there is a need of 
+
+agricultural diversification and its success will depend on adequate infrastructures (road) access and 
+
+relaxation of remaining trade restrictions. 
+
+2.2 High population density increases the land degradation and reduce agricultural productivity and 
+
+damage infrastructure, and adversely affect human health and critical ecosystems.   
+
+2.3 Poverty reduction has been slow and low human development outcomes have been exacerbated 
+
+by high household vulnerability to weather shocks and high population growth.  
+
+2.4 Natural disasters and climate change caused by land degradation, resulting from significant loss 
+
+of soil fertility, soil erosion impacted severely the country through frequent occurrences of drought and 
+
+floods, specifically for the majority of rural households who depend on the fragile natural resource base 
+
+for their livelihoods.   
+
+2.5 Weak financial sector development as more than 50 percent of the population are not formally 
+
+banked. Many key barriers to financial access like limited accessibility of financial service points; lack 
+
+of collateral,  high transaction costs; capacity constraints; crowding effect of the public sector, and the 
+
+lack of market coordination and harmonization between public and private initiatives seeking to 
+
+promote better access to financial services still. 
+
+2.6 Gender Inequality keep limiting women’s access to agricultural inputs and their share in the 
+
+benefits of production, as well as access to education, health, and other social services.  
+
+ 
+
+3 Assessment and conclusion 
+
+The project does not have dual objective on fragility nor specific fragility indicators for monitoring and 
+
+evaluation but the design has duly incorporated the key drivers of fragility. The related interventions 
+
+will help to address the key drivers of fragility as highlighted in the assessment  
+
+
+
+
+

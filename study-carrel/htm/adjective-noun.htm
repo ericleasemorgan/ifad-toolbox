@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">adjective/noun</li>
+		</ol>
+	</nav>
+
+
+<h1>adjective/noun</h1>
+<p>This is a table of adjective/noun combinations and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>adjective</th>
+                <th>noun</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>private</td><td>sector</td><td>833</td></tr>
+<tr><td>agricultural</td><td>sector</td><td>622</td></tr>
+<tr><td>rural</td><td>areas</td><td>505</td></tr>
+<tr><td>financial</td><td>management</td><td>489</td></tr>
+<tr><td>agricultural</td><td>production</td><td>426</td></tr>
+<tr><td>-</td><td>component</td><td>381</td></tr>
+<tr><td>-</td><td>sector</td><td>199</td></tr>
+<tr><td>agricultural</td><td>value</td><td>199</td></tr>
+<tr><td>-</td><td>projects</td><td>198</td></tr>
+<tr><td>institutional</td><td>capacity</td><td>193</td></tr>
+<tr><td>rural</td><td>development</td><td>192</td></tr>
+<tr><td>-</td><td>food</td><td>174</td></tr>
+<tr><td>social</td><td>impacts</td><td>171</td></tr>
+<tr><td>agricultural</td><td>development</td><td>170</td></tr>
+<tr><td>-</td><td>sectors</td><td>169</td></tr>
+<tr><td>total</td><td>cost</td><td>162</td></tr>
+<tr><td>public</td><td>sector</td><td>146</td></tr>
+<tr><td>financial</td><td>services</td><td>135</td></tr>
+<tr><td>total</td><td>project</td><td>129</td></tr>
+<tr><td>environmental</td><td>impacts</td><td>126</td></tr>
+<tr><td>-</td><td>country</td><td>122</td></tr>
+<tr><td>social</td><td>management</td><td>107</td></tr>
+<tr><td>-</td><td>project</td><td>102</td></tr>
+<tr><td>public</td><td>services</td><td>94</td></tr>
+<tr><td>technical</td><td>support</td><td>93</td></tr>
+<tr><td>high</td><td>value</td><td>91</td></tr>
+<tr><td>sustainable</td><td>development</td><td>87</td></tr>
+<tr><td>economic</td><td>development</td><td>86</td></tr>
+<tr><td>small</td><td>farmers</td><td>86</td></tr>
+<tr><td>agricultural</td><td>activities</td><td>82</td></tr>
+<tr><td>environmental</td><td>management</td><td>80</td></tr>
+<tr><td>technical</td><td>services</td><td>76</td></tr>
+<tr><td>institutional</td><td>support</td><td>75</td></tr>
+<tr><td>other</td><td>countries</td><td>74</td></tr>
+<tr><td>-</td><td>components</td><td>70</td></tr>
+<tr><td>other</td><td>development</td><td>70</td></tr>
+<tr><td>rural</td><td>women</td><td>69</td></tr>
+<tr><td>economic</td><td>activities</td><td>64</td></tr>
+<tr><td>rural</td><td>sector</td><td>61</td></tr>
+<tr><td>-</td><td>value</td><td>57</td></tr>
+<tr><td>sustainable</td><td>management</td><td>56</td></tr>
+<tr><td>financial</td><td>support</td><td>56</td></tr>
+<tr><td>-</td><td>supported</td><td>54</td></tr>
+<tr><td>economic</td><td>activity</td><td>53</td></tr>
+<tr><td>social</td><td>impact</td><td>53</td></tr>
+<tr><td>social</td><td>services</td><td>52</td></tr>
+<tr><td>agricultural</td><td>services</td><td>47</td></tr>
+<tr><td>financial</td><td>sector</td><td>46</td></tr>
+<tr><td>other</td><td>project</td><td>45</td></tr>
+<tr><td>environmental</td><td>impact</td><td>40</td></tr>
+<tr><td>specific</td><td>activities</td><td>39</td></tr>
+<tr><td>sustainable</td><td>agriculture</td><td>37</td></tr>
+<tr><td>institutional</td><td>capacities</td><td>36</td></tr>
+<tr><td>regional</td><td>development</td><td>36</td></tr>
+<tr><td>social</td><td>development</td><td>36</td></tr>
+<tr><td>local</td><td>development</td><td>35</td></tr>
+<tr><td>technical</td><td>capacity</td><td>35</td></tr>
+<tr><td>higher</td><td>value</td><td>33</td></tr>
+<tr><td>institutional</td><td>development</td><td>32</td></tr>
+<tr><td>rural</td><td>markets</td><td>31</td></tr>
+<tr><td>total</td><td>area</td><td>31</td></tr>
+<tr><td>national</td><td>development</td><td>31</td></tr>
+<tr><td>other</td><td>sectors</td><td>30</td></tr>
+<tr><td>public</td><td>service</td><td>30</td></tr>
+<tr><td>rural</td><td>services</td><td>29</td></tr>
+<tr><td>-</td><td>cost</td><td>27</td></tr>
+<tr><td>economic</td><td>impacts</td><td>27</td></tr>
+<tr><td>high</td><td>cost</td><td>27</td></tr>
+<tr><td>key</td><td>areas</td><td>27</td></tr>
+<tr><td>new</td><td>project</td><td>27</td></tr>
+<tr><td>other</td><td>projects</td><td>27</td></tr>
+<tr><td>key</td><td>project</td><td>26</td></tr>
+<tr><td>agricultural</td><td>projects</td><td>26</td></tr>
+<tr><td>-</td><td>development</td><td>25</td></tr>
+<tr><td>total</td><td>costs</td><td>25</td></tr>
+<tr><td>poorest</td><td>countries</td><td>24</td></tr>
+<tr><td>regional</td><td>markets</td><td>24</td></tr>
+<tr><td>agricultural</td><td>systems</td><td>22</td></tr>
+<tr><td>key</td><td>sectors</td><td>22</td></tr>
+<tr><td>specific</td><td>project</td><td>22</td></tr>
+<tr><td>significant</td><td>impact</td><td>21</td></tr>
+<tr><td>other</td><td>activities</td><td>21</td></tr>
+<tr><td>private</td><td>sectors</td><td>21</td></tr>
+<tr><td>-</td><td>world</td><td>21</td></tr>
+<tr><td>main</td><td>components</td><td>21</td></tr>
+<tr><td>agricultural</td><td>sectors</td><td>21</td></tr>
+<tr><td>main</td><td>activities</td><td>20</td></tr>
+<tr><td>agricultural</td><td>areas</td><td>19</td></tr>
+<tr><td>agricultural</td><td>markets</td><td>19</td></tr>
+<tr><td>national</td><td>system</td><td>19</td></tr>
+<tr><td>other</td><td>value</td><td>19</td></tr>
+<tr><td>private</td><td>service</td><td>19</td></tr>
+<tr><td>-</td><td>agriculture</td><td>19</td></tr>
+<tr><td>new</td><td>activities</td><td>18</td></tr>
+<tr><td>sustainable</td><td>production</td><td>18</td></tr>
+<tr><td>other</td><td>areas</td><td>18</td></tr>
+<tr><td>local</td><td>markets</td><td>18</td></tr>
+<tr><td>low</td><td>capacity</td><td>18</td></tr>
+<tr><td>economic</td><td>impact</td><td>18</td></tr>
+<tr><td>key</td><td>development</td><td>17</td></tr>
+<tr><td>local</td><td>production</td><td>17</td></tr>
+<tr><td>other</td><td>bank</td><td>17</td></tr>
+<tr><td>key</td><td>activities</td><td>16</td></tr>
+<tr><td>financial</td><td>capacity</td><td>16</td></tr>
+<tr><td>-</td><td>support</td><td>16</td></tr>
+<tr><td>-</td><td>farmer</td><td>15</td></tr>
+<tr><td>-</td><td>management</td><td>15</td></tr>
+<tr><td>agricultural</td><td>water</td><td>15</td></tr>
+<tr><td>environmental</td><td>services</td><td>15</td></tr>
+<tr><td>national</td><td>programs</td><td>15</td></tr>
+<tr><td>new</td><td>markets</td><td>15</td></tr>
+<tr><td>such</td><td>activities</td><td>15</td></tr>
+<tr><td>agricultural</td><td>market</td><td>14</td></tr>
+<tr><td>annual</td><td>production</td><td>14</td></tr>
+<tr><td>local</td><td>costs</td><td>14</td></tr>
+<tr><td>national</td><td>production</td><td>14</td></tr>
+<tr><td>new</td><td>projects</td><td>14</td></tr>
+<tr><td>total</td><td>production</td><td>14</td></tr>
+<tr><td>national</td><td>project</td><td>13</td></tr>
+<tr><td>technical</td><td>service</td><td>13</td></tr>
+<tr><td>other</td><td>world</td><td>13</td></tr>
+<tr><td>low</td><td>value</td><td>13</td></tr>
+<tr><td>agricultural</td><td>activity</td><td>13</td></tr>
+<tr><td>key</td><td>sector</td><td>13</td></tr>
+<tr><td>-</td><td>production</td><td>12</td></tr>
+<tr><td>agricultural</td><td>service</td><td>12</td></tr>
+<tr><td>economic</td><td>costs</td><td>12</td></tr>
+<tr><td>other</td><td>programs</td><td>12</td></tr>
+<tr><td>other</td><td>sector</td><td>12</td></tr>
+<tr><td>rural</td><td>farmers</td><td>12</td></tr>
+<tr><td>total</td><td>%</td><td>12</td></tr>
+<tr><td>specific</td><td>areas</td><td>11</td></tr>
+<tr><td>total</td><td>water</td><td>11</td></tr>
+<tr><td>total</td><td>value</td><td>11</td></tr>
+<tr><td>small</td><td>water</td><td>11</td></tr>
+<tr><td>poor</td><td>farmers</td><td>11</td></tr>
+<tr><td>-</td><td>market</td><td>11</td></tr>
+<tr><td>national</td><td>food</td><td>10</td></tr>
+<tr><td>technical</td><td>implementation</td><td>10</td></tr>
+<tr><td>sustainable</td><td>water</td><td>10</td></tr>
+<tr><td>such</td><td>impacts</td><td>10</td></tr>
+<tr><td>social</td><td>sectors</td><td>10</td></tr>
+<tr><td>social</td><td>sector</td><td>10</td></tr>
+<tr><td>other</td><td>services</td><td>10</td></tr>
+<tr><td>new</td><td>production</td><td>10</td></tr>
+<tr><td>economic</td><td>sectors</td><td>10</td></tr>
+<tr><td>low</td><td>cost</td><td>10</td></tr>
+<tr><td>local</td><td>food</td><td>10</td></tr>
+<tr><td>local</td><td>capacity</td><td>10</td></tr>
+<tr><td>financial</td><td>service</td><td>10</td></tr>
+<tr><td>financial</td><td>markets</td><td>10</td></tr>
+<tr><td>agricultural</td><td>support</td><td>10</td></tr>
+<tr><td>-</td><td>water</td><td>10</td></tr>
+<tr><td>-</td><td>service</td><td>10</td></tr>
+<tr><td>new</td><td>areas</td><td>9</td></tr>
+<tr><td>total</td><td>program</td><td>9</td></tr>
+<tr><td>significant</td><td>impacts</td><td>9</td></tr>
+<tr><td>regional</td><td>market</td><td>9</td></tr>
+<tr><td>public</td><td>support</td><td>9</td></tr>
+<tr><td>poor</td><td>management</td><td>9</td></tr>
+<tr><td>local</td><td>market</td><td>9</td></tr>
+<tr><td>lower</td><td>food</td><td>9</td></tr>
+<tr><td>local</td><td>farmers</td><td>9</td></tr>
+<tr><td>institutional</td><td>management</td><td>9</td></tr>
+<tr><td>high</td><td>costs</td><td>9</td></tr>
+<tr><td>annual</td><td>project</td><td>9</td></tr>
+<tr><td>other</td><td>water</td><td>8</td></tr>
+<tr><td>such</td><td>areas</td><td>8</td></tr>
+<tr><td>public</td><td>management</td><td>8</td></tr>
+<tr><td>significant</td><td>development</td><td>8</td></tr>
+<tr><td>national</td><td>projects</td><td>8</td></tr>
+<tr><td>national</td><td>program</td><td>8</td></tr>
+<tr><td>financial</td><td>system</td><td>8</td></tr>
+<tr><td>local</td><td>cost</td><td>7</td></tr>
+<tr><td>technical</td><td>components</td><td>7</td></tr>
+<tr><td>specific</td><td>value</td><td>7</td></tr>
+<tr><td>public</td><td>programs</td><td>7</td></tr>
+<tr><td>poor</td><td>women</td><td>7</td></tr>
+<tr><td>main</td><td>project</td><td>7</td></tr>
+<tr><td>local</td><td>value</td><td>7</td></tr>
+<tr><td>local</td><td>service</td><td>7</td></tr>
+<tr><td>high</td><td>water</td><td>7</td></tr>
+<tr><td>financial</td><td>implementation</td><td>7</td></tr>
+<tr><td>economic</td><td>services</td><td>7</td></tr>
+<tr><td>annual</td><td>value</td><td>7</td></tr>
+<tr><td>agricultural</td><td>values</td><td>7</td></tr>
+<tr><td>-</td><td>system</td><td>7</td></tr>
+<tr><td>-</td><td>capacity</td><td>7</td></tr>
+<tr><td>-</td><td>bank</td><td>7</td></tr>
+<tr><td>financial</td><td>supports</td><td>7</td></tr>
+<tr><td>national</td><td>capacity</td><td>6</td></tr>
+<tr><td>rural</td><td>market</td><td>6</td></tr>
+<tr><td>new</td><td>development</td><td>6</td></tr>
+<tr><td>new</td><td>market</td><td>6</td></tr>
+<tr><td>rural</td><td>agriculture</td><td>6</td></tr>
+<tr><td>rural</td><td>area</td><td>6</td></tr>
+<tr><td>specific</td><td>support</td><td>6</td></tr>
+<tr><td>rural</td><td>water</td><td>6</td></tr>
+<tr><td>specific</td><td>impact</td><td>6</td></tr>
+<tr><td>specific</td><td>impacts</td><td>6</td></tr>
+<tr><td>technical</td><td>capacities</td><td>6</td></tr>
+<tr><td>national</td><td>systems</td><td>6</td></tr>
+<tr><td>key</td><td>value</td><td>6</td></tr>
+<tr><td>national</td><td>capacities</td><td>6</td></tr>
+<tr><td>economic</td><td>sector</td><td>6</td></tr>
+<tr><td>main</td><td>system</td><td>6</td></tr>
+<tr><td>-</td><td>%</td><td>6</td></tr>
+<tr><td>-</td><td>implementation</td><td>6</td></tr>
+<tr><td>agricultural</td><td>project</td><td>6</td></tr>
+<tr><td>annual</td><td>activity</td><td>6</td></tr>
+<tr><td>-</td><td>program</td><td>6</td></tr>
+<tr><td>large</td><td>areas</td><td>6</td></tr>
+<tr><td>low</td><td>agriculture</td><td>6</td></tr>
+<tr><td>low</td><td>water</td><td>6</td></tr>
+<tr><td>main</td><td>food</td><td>6</td></tr>
+<tr><td>other</td><td>costs</td><td>5</td></tr>
+<tr><td>regional</td><td>projects</td><td>5</td></tr>
+<tr><td>other</td><td>farmers</td><td>5</td></tr>
+<tr><td>other</td><td>food</td><td>5</td></tr>
+<tr><td>other</td><td>service</td><td>5</td></tr>
+<tr><td>poor</td><td>water</td><td>5</td></tr>
+<tr><td>regional</td><td>program</td><td>5</td></tr>
+<tr><td>regional</td><td>project</td><td>5</td></tr>
+<tr><td>technical</td><td>activities</td><td>5</td></tr>
+<tr><td>regional</td><td>support</td><td>5</td></tr>
+<tr><td>rural</td><td>sectors</td><td>5</td></tr>
+<tr><td>significant</td><td>support</td><td>5</td></tr>
+<tr><td>sustainable</td><td>impact</td><td>5</td></tr>
+<tr><td>sustainable</td><td>market</td><td>5</td></tr>
+<tr><td>technical</td><td>areas</td><td>5</td></tr>
+<tr><td>new</td><td>area</td><td>5</td></tr>
+<tr><td>other</td><td>components</td><td>5</td></tr>
+<tr><td>poor</td><td>market</td><td>5</td></tr>
+<tr><td>national</td><td>water</td><td>5</td></tr>
+<tr><td>higher</td><td>production</td><td>5</td></tr>
+<tr><td>national</td><td>market</td><td>5</td></tr>
+<tr><td>agricultural</td><td>component</td><td>5</td></tr>
+<tr><td>agricultural</td><td>management</td><td>5</td></tr>
+<tr><td>agricultural</td><td>programs</td><td>5</td></tr>
+<tr><td>economic</td><td>value</td><td>5</td></tr>
+<tr><td>financial</td><td>impact</td><td>5</td></tr>
+<tr><td>high</td><td>food</td><td>5</td></tr>
+<tr><td>economic</td><td>values</td><td>5</td></tr>
+<tr><td>key</td><td>food</td><td>5</td></tr>
+<tr><td>key</td><td>impact</td><td>5</td></tr>
+<tr><td>key</td><td>management</td><td>5</td></tr>
+<tr><td>-</td><td>farmers</td><td>5</td></tr>
+<tr><td>key</td><td>market</td><td>5</td></tr>
+<tr><td>key</td><td>projects</td><td>5</td></tr>
+<tr><td>large</td><td>area</td><td>5</td></tr>
+<tr><td>large</td><td>farmers</td><td>5</td></tr>
+<tr><td>social</td><td>project</td><td>4</td></tr>
+<tr><td>private</td><td>services</td><td>4</td></tr>
+<tr><td>public</td><td>markets</td><td>4</td></tr>
+<tr><td>rural</td><td>activities</td><td>4</td></tr>
+<tr><td>significant</td><td>capacity</td><td>4</td></tr>
+<tr><td>small</td><td>areas</td><td>4</td></tr>
+<tr><td>smaller</td><td>farmers</td><td>4</td></tr>
+<tr><td>social</td><td>costs</td><td>4</td></tr>
+<tr><td>total</td><td>food</td><td>4</td></tr>
+<tr><td>social</td><td>service</td><td>4</td></tr>
+<tr><td>specific</td><td>country</td><td>4</td></tr>
+<tr><td>specific</td><td>management</td><td>4</td></tr>
+<tr><td>such</td><td>projects</td><td>4</td></tr>
+<tr><td>such</td><td>services</td><td>4</td></tr>
+<tr><td>sustainable</td><td>food</td><td>4</td></tr>
+<tr><td>sustainable</td><td>value</td><td>4</td></tr>
+<tr><td>technical</td><td>management</td><td>4</td></tr>
+<tr><td>new</td><td>water</td><td>4</td></tr>
+<tr><td>other</td><td>country</td><td>4</td></tr>
+<tr><td>regional</td><td>management</td><td>4</td></tr>
+<tr><td>new</td><td>management</td><td>4</td></tr>
+<tr><td>financial</td><td>market</td><td>4</td></tr>
+<tr><td>national</td><td>agriculture</td><td>4</td></tr>
+<tr><td>agricultural</td><td>area</td><td>4</td></tr>
+<tr><td>agricultural</td><td>developments</td><td>4</td></tr>
+<tr><td>agricultural</td><td>productions</td><td>4</td></tr>
+<tr><td>annual</td><td>bank</td><td>4</td></tr>
+<tr><td>annual</td><td>program</td><td>4</td></tr>
+<tr><td>annual</td><td>values</td><td>4</td></tr>
+<tr><td>economic</td><td>capacity</td><td>4</td></tr>
+<tr><td>annual</td><td>agriculture</td><td>4</td></tr>
+<tr><td>financial</td><td>value</td><td>4</td></tr>
+<tr><td>higher</td><td>costs</td><td>4</td></tr>
+<tr><td>higher</td><td>food</td><td>4</td></tr>
+<tr><td>institutional</td><td>system</td><td>4</td></tr>
+<tr><td>key</td><td>component</td><td>4</td></tr>
+<tr><td>key</td><td>services</td><td>4</td></tr>
+<tr><td>large</td><td>markets</td><td>4</td></tr>
+<tr><td>high</td><td>impact</td><td>4</td></tr>
+<tr><td>main</td><td>sector</td><td>4</td></tr>
+<tr><td>national</td><td>value</td><td>3</td></tr>
+<tr><td>main</td><td>agriculture</td><td>3</td></tr>
+<tr><td>new</td><td>systems</td><td>3</td></tr>
+<tr><td>new</td><td>program</td><td>3</td></tr>
+<tr><td>new</td><td>agriculture</td><td>3</td></tr>
+<tr><td>main</td><td>projects</td><td>3</td></tr>
+<tr><td>national</td><td>markets</td><td>3</td></tr>
+<tr><td>national</td><td>activities</td><td>3</td></tr>
+<tr><td>main</td><td>sectors</td><td>3</td></tr>
+<tr><td>main</td><td>development</td><td>3</td></tr>
+<tr><td>poor</td><td>farmer</td><td>3</td></tr>
+<tr><td>poor</td><td>areas</td><td>3</td></tr>
+<tr><td>specific</td><td>development</td><td>3</td></tr>
+<tr><td>public</td><td>system</td><td>3</td></tr>
+<tr><td>regional</td><td>capacity</td><td>3</td></tr>
+<tr><td>regional</td><td>programs</td><td>3</td></tr>
+<tr><td>regional</td><td>sector</td><td>3</td></tr>
+<tr><td>regional</td><td>system</td><td>3</td></tr>
+<tr><td>small</td><td>farmer</td><td>3</td></tr>
+<tr><td>social</td><td>systems</td><td>3</td></tr>
+<tr><td>specific</td><td>agriculture</td><td>3</td></tr>
+<tr><td>specific</td><td>capacity</td><td>3</td></tr>
+<tr><td>specific</td><td>implementation</td><td>3</td></tr>
+<tr><td>specific</td><td>sector</td><td>3</td></tr>
+<tr><td>sustainable</td><td>services</td><td>3</td></tr>
+<tr><td>main</td><td>areas</td><td>3</td></tr>
+<tr><td>key</td><td>bank</td><td>3</td></tr>
+<tr><td>lower</td><td>costs</td><td>3</td></tr>
+<tr><td>high</td><td>production</td><td>3</td></tr>
+<tr><td>lower</td><td>cost</td><td>3</td></tr>
+<tr><td>-</td><td>impact</td><td>3</td></tr>
+<tr><td>annual</td><td>development</td><td>3</td></tr>
+<tr><td>annual</td><td>food</td><td>3</td></tr>
+<tr><td>annual</td><td>water</td><td>3</td></tr>
+<tr><td>economic</td><td>developments</td><td>3</td></tr>
+<tr><td>economic</td><td>management</td><td>3</td></tr>
+<tr><td>economic</td><td>system</td><td>3</td></tr>
+<tr><td>environmental</td><td>components</td><td>3</td></tr>
+<tr><td>high</td><td>development</td><td>3</td></tr>
+<tr><td>high</td><td>market</td><td>3</td></tr>
+<tr><td>-</td><td>valued</td><td>3</td></tr>
+<tr><td>higher</td><td>water</td><td>3</td></tr>
+<tr><td>local</td><td>services</td><td>3</td></tr>
+<tr><td>institutional</td><td>markets</td><td>3</td></tr>
+<tr><td>low</td><td>sector</td><td>3</td></tr>
+<tr><td>low</td><td>impact</td><td>3</td></tr>
+<tr><td>low</td><td>food</td><td>3</td></tr>
+<tr><td>low</td><td>production</td><td>3</td></tr>
+<tr><td>largest</td><td>country</td><td>3</td></tr>
+<tr><td>larger</td><td>farmers</td><td>3</td></tr>
+<tr><td>large</td><td>agriculture</td><td>3</td></tr>
+<tr><td>key</td><td>implementation</td><td>3</td></tr>
+<tr><td>key</td><td>activity</td><td>3</td></tr>
+<tr><td>regional</td><td>food</td><td>2</td></tr>
+<tr><td>poor</td><td>value</td><td>2</td></tr>
+<tr><td>regional</td><td>activities</td><td>2</td></tr>
+<tr><td>public</td><td>sectors</td><td>2</td></tr>
+<tr><td>public</td><td>projects</td><td>2</td></tr>
+<tr><td>public</td><td>market</td><td>2</td></tr>
+<tr><td>private</td><td>markets</td><td>2</td></tr>
+<tr><td>private</td><td>management</td><td>2</td></tr>
+<tr><td>private</td><td>agriculture</td><td>2</td></tr>
+<tr><td>poorest</td><td>country</td><td>2</td></tr>
+<tr><td>other</td><td>program</td><td>2</td></tr>
+<tr><td>poor</td><td>service</td><td>2</td></tr>
+<tr><td>poor</td><td>production</td><td>2</td></tr>
+<tr><td>poor</td><td>food</td><td>2</td></tr>
+<tr><td>other</td><td>supporting</td><td>2</td></tr>
+<tr><td>other</td><td>support</td><td>2</td></tr>
+<tr><td>other</td><td>market</td><td>2</td></tr>
+<tr><td>other</td><td>management</td><td>2</td></tr>
+<tr><td>other</td><td>implementation</td><td>2</td></tr>
+<tr><td>other</td><td>impacts</td><td>2</td></tr>
+<tr><td>rural</td><td>food</td><td>2</td></tr>
+<tr><td>regional</td><td>impacts</td><td>2</td></tr>
+<tr><td>such</td><td>activity</td><td>2</td></tr>
+<tr><td>rural</td><td>service</td><td>2</td></tr>
+<tr><td>rural</td><td>value</td><td>2</td></tr>
+<tr><td>total</td><td>sector</td><td>2</td></tr>
+<tr><td>total</td><td>agriculture</td><td>2</td></tr>
+<tr><td>technical</td><td>project</td><td>2</td></tr>
+<tr><td>sustainable</td><td>system</td><td>2</td></tr>
+<tr><td>sustainable</td><td>activities</td><td>2</td></tr>
+<tr><td>such</td><td>systems</td><td>2</td></tr>
+<tr><td>such</td><td>project</td><td>2</td></tr>
+<tr><td>such</td><td>program</td><td>2</td></tr>
+<tr><td>other</td><td>agriculture</td><td>2</td></tr>
+<tr><td>specific</td><td>markets</td><td>2</td></tr>
+<tr><td>specific</td><td>cost</td><td>2</td></tr>
+<tr><td>specific</td><td>component</td><td>2</td></tr>
+<tr><td>specific</td><td>activity</td><td>2</td></tr>
+<tr><td>social</td><td>programs</td><td>2</td></tr>
+<tr><td>smaller</td><td>projects</td><td>2</td></tr>
+<tr><td>small</td><td>area</td><td>2</td></tr>
+<tr><td>significant</td><td>water</td><td>2</td></tr>
+<tr><td>significant</td><td>food</td><td>2</td></tr>
+<tr><td>significant</td><td>cost</td><td>2</td></tr>
+<tr><td>other</td><td>farmer</td><td>2</td></tr>
+<tr><td>social</td><td>capacity</td><td>2</td></tr>
+<tr><td>new</td><td>value</td><td>2</td></tr>
+<tr><td>financial</td><td>systems</td><td>2</td></tr>
+<tr><td>largest</td><td>areas</td><td>2</td></tr>
+<tr><td>larger</td><td>areas</td><td>2</td></tr>
+<tr><td>large</td><td>market</td><td>2</td></tr>
+<tr><td>key</td><td>markets</td><td>2</td></tr>
+<tr><td>key</td><td>components</td><td>2</td></tr>
+<tr><td>key</td><td>agriculture</td><td>2</td></tr>
+<tr><td>institutional</td><td>implementation</td><td>2</td></tr>
+<tr><td>highest</td><td>value</td><td>2</td></tr>
+<tr><td>high</td><td>capacity</td><td>2</td></tr>
+<tr><td>financial</td><td>impacts</td><td>2</td></tr>
+<tr><td>local</td><td>areas</td><td>2</td></tr>
+<tr><td>financial</td><td>costs</td><td>2</td></tr>
+<tr><td>environmental</td><td>systems</td><td>2</td></tr>
+<tr><td>economic</td><td>projects</td><td>2</td></tr>
+<tr><td>economic</td><td>program</td><td>2</td></tr>
+<tr><td>economic</td><td>cost</td><td>2</td></tr>
+<tr><td>annual</td><td>capacity</td><td>2</td></tr>
+<tr><td>-</td><td>area</td><td>2</td></tr>
+<tr><td>new</td><td>system</td><td>2</td></tr>
+<tr><td>-</td><td>activities</td><td>2</td></tr>
+<tr><td>largest</td><td>sector</td><td>2</td></tr>
+<tr><td>agricultural</td><td>system</td><td>2</td></tr>
+<tr><td>local</td><td>capacities</td><td>2</td></tr>
+<tr><td>main</td><td>impacts</td><td>2</td></tr>
+<tr><td>new</td><td>food</td><td>2</td></tr>
+<tr><td>local</td><td>impact</td><td>2</td></tr>
+<tr><td>new</td><td>capacity</td><td>2</td></tr>
+<tr><td>natural</td><td>water</td><td>2</td></tr>
+<tr><td>natural</td><td>systems</td><td>2</td></tr>
+<tr><td>national</td><td>sector</td><td>2</td></tr>
+<tr><td>national</td><td>country</td><td>2</td></tr>
+<tr><td>main</td><td>water</td><td>2</td></tr>
+<tr><td>main</td><td>service</td><td>2</td></tr>
+<tr><td>new</td><td>components</td><td>2</td></tr>
+<tr><td>main</td><td>area</td><td>2</td></tr>
+<tr><td>low</td><td>project</td><td>2</td></tr>
+<tr><td>local</td><td>implementation</td><td>2</td></tr>
+<tr><td>local</td><td>project</td><td>2</td></tr>
+<tr><td>main</td><td>activity</td><td>2</td></tr>
+<tr><td>local</td><td>sector</td><td>2</td></tr>
+<tr><td>new</td><td>farmers</td><td>2</td></tr>
+<tr><td>lower</td><td>production</td><td>2</td></tr>
+<tr><td>lowest</td><td>capacity</td><td>2</td></tr>
+<tr><td>lower</td><td>value</td><td>2</td></tr>
+<tr><td>public</td><td>project</td><td>1</td></tr>
+<tr><td>private</td><td>project</td><td>1</td></tr>
+<tr><td>private</td><td>system</td><td>1</td></tr>
+<tr><td>private</td><td>systems</td><td>1</td></tr>
+<tr><td>private</td><td>value</td><td>1</td></tr>
+<tr><td>public</td><td>agriculture</td><td>1</td></tr>
+<tr><td>public</td><td>capacity</td><td>1</td></tr>
+<tr><td>public</td><td>component</td><td>1</td></tr>
+<tr><td>regional</td><td>agriculture</td><td>1</td></tr>
+<tr><td>regional</td><td>value</td><td>1</td></tr>
+<tr><td>regional</td><td>area</td><td>1</td></tr>
+<tr><td>regional</td><td>component</td><td>1</td></tr>
+<tr><td>regional</td><td>water</td><td>1</td></tr>
+<tr><td>regional</td><td>country</td><td>1</td></tr>
+<tr><td>regional</td><td>developments</td><td>1</td></tr>
+<tr><td>regional</td><td>farmer</td><td>1</td></tr>
+<tr><td>regional</td><td>implementation</td><td>1</td></tr>
+<tr><td>regional</td><td>systems</td><td>1</td></tr>
+<tr><td>private</td><td>market</td><td>1</td></tr>
+<tr><td>regional</td><td>components</td><td>1</td></tr>
+<tr><td>poor</td><td>agriculture</td><td>1</td></tr>
+<tr><td>private</td><td>farmers</td><td>1</td></tr>
+<tr><td>private</td><td>development</td><td>1</td></tr>
+<tr><td>new</td><td>sectors</td><td>1</td></tr>
+<tr><td>significant</td><td>market</td><td>1</td></tr>
+<tr><td>new</td><td>services</td><td>1</td></tr>
+<tr><td>new</td><td>world</td><td>1</td></tr>
+<tr><td>other</td><td>activity</td><td>1</td></tr>
+<tr><td>other</td><td>capacity</td><td>1</td></tr>
+<tr><td>other</td><td>component</td><td>1</td></tr>
+<tr><td>other</td><td>developments</td><td>1</td></tr>
+<tr><td>other</td><td>impact</td><td>1</td></tr>
+<tr><td>other</td><td>supports</td><td>1</td></tr>
+<tr><td>other</td><td>system</td><td>1</td></tr>
+<tr><td>other</td><td>systems</td><td>1</td></tr>
+<tr><td>poor</td><td>capacity</td><td>1</td></tr>
+<tr><td>poor</td><td>country</td><td>1</td></tr>
+<tr><td>poor</td><td>development</td><td>1</td></tr>
+<tr><td>poor</td><td>project</td><td>1</td></tr>
+<tr><td>poorer</td><td>farmers</td><td>1</td></tr>
+<tr><td>poorest</td><td>areas</td><td>1</td></tr>
+<tr><td>poorest</td><td>sectors</td><td>1</td></tr>
+<tr><td>rural</td><td>country</td><td>1</td></tr>
+<tr><td>specific</td><td>projects</td><td>1</td></tr>
+<tr><td>significant</td><td>sector</td><td>1</td></tr>
+<tr><td>significant</td><td>value</td><td>1</td></tr>
+<tr><td>such</td><td>farmers</td><td>1</td></tr>
+<tr><td>such</td><td>impact</td><td>1</td></tr>
+<tr><td>such</td><td>production</td><td>1</td></tr>
+<tr><td>such</td><td>programs</td><td>1</td></tr>
+<tr><td>such</td><td>projected</td><td>1</td></tr>
+<tr><td>such</td><td>sector</td><td>1</td></tr>
+<tr><td>such</td><td>sectors</td><td>1</td></tr>
+<tr><td>such</td><td>support</td><td>1</td></tr>
+<tr><td>sustainable</td><td>implementation</td><td>1</td></tr>
+<tr><td>sustainable</td><td>project</td><td>1</td></tr>
+<tr><td>sustainable</td><td>service</td><td>1</td></tr>
+<tr><td>technical</td><td>program</td><td>1</td></tr>
+<tr><td>technical</td><td>sectors</td><td>1</td></tr>
+<tr><td>technical</td><td>supports</td><td>1</td></tr>
+<tr><td>total</td><td>areas</td><td>1</td></tr>
+<tr><td>total</td><td>capacity</td><td>1</td></tr>
+<tr><td>total</td><td>components</td><td>1</td></tr>
+<tr><td>total</td><td>farmer</td><td>1</td></tr>
+<tr><td>new</td><td>farmer</td><td>1</td></tr>
+<tr><td>such</td><td>capacities</td><td>1</td></tr>
+<tr><td>such</td><td>bank</td><td>1</td></tr>
+<tr><td>specific</td><td>sectors</td><td>1</td></tr>
+<tr><td>social</td><td>capacities</td><td>1</td></tr>
+<tr><td>small</td><td>country</td><td>1</td></tr>
+<tr><td>small</td><td>development</td><td>1</td></tr>
+<tr><td>small</td><td>project</td><td>1</td></tr>
+<tr><td>small</td><td>projects</td><td>1</td></tr>
+<tr><td>small</td><td>value</td><td>1</td></tr>
+<tr><td>smallest</td><td>country</td><td>1</td></tr>
+<tr><td>social</td><td>activities</td><td>1</td></tr>
+<tr><td>social</td><td>area</td><td>1</td></tr>
+<tr><td>social</td><td>components</td><td>1</td></tr>
+<tr><td>specific</td><td>market</td><td>1</td></tr>
+<tr><td>social</td><td>implementation</td><td>1</td></tr>
+<tr><td>social</td><td>projects</td><td>1</td></tr>
+<tr><td>social</td><td>support</td><td>1</td></tr>
+<tr><td>social</td><td>system</td><td>1</td></tr>
+<tr><td>social</td><td>value</td><td>1</td></tr>
+<tr><td>specific</td><td>bank</td><td>1</td></tr>
+<tr><td>specific</td><td>components</td><td>1</td></tr>
+<tr><td>specific</td><td>countries</td><td>1</td></tr>
+<tr><td>new</td><td>sector</td><td>1</td></tr>
+<tr><td>financial</td><td>program</td><td>1</td></tr>
+<tr><td>new</td><td>country</td><td>1</td></tr>
+<tr><td>new</td><td>countries</td><td>1</td></tr>
+<tr><td>economic</td><td>areas</td><td>1</td></tr>
+<tr><td>economic</td><td>capacities</td><td>1</td></tr>
+<tr><td>economic</td><td>markets</td><td>1</td></tr>
+<tr><td>economic</td><td>project</td><td>1</td></tr>
+<tr><td>economic</td><td>systems</td><td>1</td></tr>
+<tr><td>financial</td><td>activities</td><td>1</td></tr>
+<tr><td>financial</td><td>managements</td><td>1</td></tr>
+<tr><td>high</td><td>agriculture</td><td>1</td></tr>
+<tr><td>high</td><td>implementation</td><td>1</td></tr>
+<tr><td>higher</td><td>agriculture</td><td>1</td></tr>
+<tr><td>higher</td><td>capacity</td><td>1</td></tr>
+<tr><td>higher</td><td>impact</td><td>1</td></tr>
+<tr><td>higher</td><td>management</td><td>1</td></tr>
+<tr><td>highest</td><td>agriculture</td><td>1</td></tr>
+<tr><td>institutional</td><td>component</td><td>1</td></tr>
+<tr><td>institutional</td><td>farmer</td><td>1</td></tr>
+<tr><td>institutional</td><td>service</td><td>1</td></tr>
+<tr><td>institutional</td><td>systems</td><td>1</td></tr>
+<tr><td>institutional</td><td>value</td><td>1</td></tr>
+<tr><td>annual</td><td>support</td><td>1</td></tr>
+<tr><td>annual</td><td>sector</td><td>1</td></tr>
+<tr><td>annual</td><td>implementation</td><td>1</td></tr>
+<tr><td>agricultural</td><td>country</td><td>1</td></tr>
+<tr><td>-</td><td>costs</td><td>1</td></tr>
+<tr><td>-</td><td>impacts</td><td>1</td></tr>
+<tr><td>-</td><td>services</td><td>1</td></tr>
+<tr><td>-</td><td>supporting</td><td>1</td></tr>
+<tr><td>-</td><td>systems</td><td>1</td></tr>
+<tr><td>-</td><td>watered</td><td>1</td></tr>
+<tr><td>-</td><td>women</td><td>1</td></tr>
+<tr><td>agricultural</td><td>capacity</td><td>1</td></tr>
+<tr><td>agricultural</td><td>marketed</td><td>1</td></tr>
+<tr><td>annual</td><td>farmer</td><td>1</td></tr>
+<tr><td>agricultural</td><td>program</td><td>1</td></tr>
+<tr><td>agricultural</td><td>supporting</td><td>1</td></tr>
+<tr><td>annual</td><td>%</td><td>1</td></tr>
+<tr><td>annual</td><td>activities</td><td>1</td></tr>
+<tr><td>annual</td><td>area</td><td>1</td></tr>
+<tr><td>annual</td><td>cost</td><td>1</td></tr>
+<tr><td>annual</td><td>costs</td><td>1</td></tr>
+<tr><td>annual</td><td>country</td><td>1</td></tr>
+<tr><td>institutional</td><td>water</td><td>1</td></tr>
+<tr><td>key</td><td>area</td><td>1</td></tr>
+<tr><td>key</td><td>capacity</td><td>1</td></tr>
+<tr><td>main</td><td>impact</td><td>1</td></tr>
+<tr><td>local</td><td>area</td><td>1</td></tr>
+<tr><td>local</td><td>management</td><td>1</td></tr>
+<tr><td>local</td><td>support</td><td>1</td></tr>
+<tr><td>local</td><td>water</td><td>1</td></tr>
+<tr><td>low</td><td>development</td><td>1</td></tr>
+<tr><td>low</td><td>farmers</td><td>1</td></tr>
+<tr><td>main</td><td>costs</td><td>1</td></tr>
+<tr><td>main</td><td>country</td><td>1</td></tr>
+<tr><td>main</td><td>market</td><td>1</td></tr>
+<tr><td>largest</td><td>water</td><td>1</td></tr>
+<tr><td>main</td><td>production</td><td>1</td></tr>
+<tr><td>national</td><td>cost</td><td>1</td></tr>
+<tr><td>national</td><td>service</td><td>1</td></tr>
+<tr><td>national</td><td>services</td><td>1</td></tr>
+<tr><td>national</td><td>support</td><td>1</td></tr>
+<tr><td>natural</td><td>areas</td><td>1</td></tr>
+<tr><td>new</td><td>activity</td><td>1</td></tr>
+<tr><td>new</td><td>component</td><td>1</td></tr>
+<tr><td>local</td><td>activities</td><td>1</td></tr>
+<tr><td>largest</td><td>development</td><td>1</td></tr>
+<tr><td>key</td><td>cost</td><td>1</td></tr>
+<tr><td>large</td><td>implementation</td><td>1</td></tr>
+<tr><td>key</td><td>costs</td><td>1</td></tr>
+<tr><td>key</td><td>production</td><td>1</td></tr>
+<tr><td>key</td><td>program</td><td>1</td></tr>
+<tr><td>key</td><td>programs</td><td>1</td></tr>
+<tr><td>key</td><td>service</td><td>1</td></tr>
+<tr><td>key</td><td>support</td><td>1</td></tr>
+<tr><td>key</td><td>supports</td><td>1</td></tr>
+<tr><td>large</td><td>impact</td><td>1</td></tr>
+<tr><td>large</td><td>production</td><td>1</td></tr>
+<tr><td>largest</td><td>countries</td><td>1</td></tr>
+<tr><td>large</td><td>projects</td><td>1</td></tr>
+<tr><td>large</td><td>value</td><td>1</td></tr>
+<tr><td>large</td><td>water</td><td>1</td></tr>
+<tr><td>larger</td><td>markets</td><td>1</td></tr>
+<tr><td>larger</td><td>production</td><td>1</td></tr>
+<tr><td>larger</td><td>project</td><td>1</td></tr>
+<tr><td>larger</td><td>projected</td><td>1</td></tr>
+<tr><td>largest</td><td>agriculture</td><td>1</td></tr>
+<tr><td>total</td><td>support</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

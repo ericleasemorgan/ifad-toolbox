@@ -1,0 +1,3747 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC  
+
+SIMULTANEOUS  DISCLOSURE 
+
+ 
+
+ 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HAITI 
+
+ 
+
+ 
+
+ARTISANAL FISHERIES DEVELOPMENT PROGRAM 
+
+ 
+
+ 
+
+(HA-L1096) 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRANT PROPOSAL 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+This document was prepared by the project team consisting of: Caroline Bidault (RND/CHA), Team Leader; 
+
+Bruno Jacquet, Marie Bonnard (RND/CHA); Lina Salazar, Carmine Paolo De Salvo, Michele Lemay 
+
+(INE/RND); Romina Emanuela Kirkagacli, Marise Etienne Salnave (FMP/CHA); Louis-François Chrétien 
+
+(LEG/SGO); Régine Lafontant (CDH/CHA); and Lisa Restrepo (INE/RND). 
+
+ 
+
+In accordance with the Access to Information Policy, this document is being released to the public and 
+
+distributed to the Bank´s Board of Executive Directors simultaneously. This document has not been 
+
+approved by the Board. Should the Board approve the document with amendments, a revised version will be 
+
+made available to the public, thus superseding and replacing the original version. 
+
+
+
+CONTENT 
+
+ 
+
+PROJECT SUMMARY………………………………………………………………………..1 
+
+I. PROGRAM DESCRIPTION AND RESULTS MONITORING ................................................... 2 
+
+A. Background, Problem Addressed and Justification ........................................... 2 
+
+B. Objective, Components and Cost ...................................................................... 9 
+
+C. Key Results Indicators ..................................................................................... 11 
+
+II. FINANCING STRUCTURE AND MAIN RISKS .................................................................. 11 
+
+A. Financing Instruments ..................................................................................... 11 
+
+B. Economic Analysis .......................................................................................... 11 
+
+C. Environmental and Social Safeguard Risks .................................................... 12 
+
+D. Fiduciary Risk ................................................................................................. 12 
+
+E. Other Key Issues and Risks ............................................................................. 13 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN ............................................................. 13 
+
+A. Summary Implementation Arrangements........................................................ 13 
+
+B. Summary of Arrangements for Monitoring Results ........................................ 16 
+
+ 
+
+
+
+- ii - 
+
+Annexes 
+Annex I Development Effectiveness Matrix (DEM) Summary  
+
+Annex II Results Matrix  
+
+Annex III Fiduciary Arrangements 
+
+ 
+
+Electronic Links 
+
+Required 
+
+1. The Pluriannual Execution Plan (PEP) 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542908  
+
+2. Monitoring and Evaluation Arrangements 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542996 
+
+3. Environmental and Social Management Report (ESMR) 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542894 
+
+4. Procurement Plan 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542989 
+
+Optional  
+
+1. Economic Analysis of the Program 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542897 
+
+2. Detailed Budget per Output 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542908 
+
+3. Diagnostic of the fishery sector in Haiti Southern regions 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39305157  
+
+4. A snapshot view of the fishery associated with Fishing Aggregating Devices (FADs) in 
+selected communes of the Southeast, South and Grande Anse Departments, Haiti 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39540185  
+
+5. Micro-study of the Fishery Sector in the South and Grand Anse Departments of Haiti 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39541888  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542908
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542996
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542894
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542989
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542897
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39542908
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39305157
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39540185
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39541888
+
+
+ACRONYMS 
+
+ 
+
+AECID 
+Spanish Agency of International Cooperation for Development (Agence 
+
+Espagnole de Coopération Internationale pour le Développement ) 
+
+AOP Annual Operation Plan 
+
+BAC Agricultural Communal Office (Bureau Agricole Communal) 
+
+CITES 
+Convention on International Trade in Endangered Species of Wild Fauna and 
+
+Flora 
+
+DDA 
+Departmental Agricultural Directorate (Direction Départementale de 
+
+l’Agriculture) 
+
+EA Executing Agency 
+
+ESMR Environmental and Social Management Report 
+
+FD Fishery Directorate 
+
+FY Fiscal Year  
+
+GCI-9 Ninth General Increase in Resources of the IDB 
+
+GDP Gross Domestic Product 
+
+GoH Government of Haiti 
+
+Ha Hectare 
+
+IDB Inter-American Development Bank 
+
+MDE Ministry of Environment (Ministère de l’Environnement)  
+
+M&E Monitoring and Evaluation  
+
+MARNDR Ministry of Agriculture, Natural Resources and Rural Development 
+
+MT Metric Ton 
+
+OM Operation Manual 
+
+PDPM 
+Marine Fisheries Development Program (Programme de Développement de la 
+
+Pêche Maritime) 
+
+PR Progress Report 
+
+SC Steering Committee 
+
+UE European Union 
+
+UNEP United Nations Environment Programme 
+
+UPMP Procurement Unit of the MARNDR (Unité de Passation des Marchés Publics) 
+
+ 
+
+ 
+ 
+
+
+
+PROJECT SUMMARY 
+
+HAITI 
+
+ARTISANAL FISHERIES DEVELOPMENT PROGRAM 
+
+(HA-L1096) 
+
+Financial Terms and Conditions 
+
+Beneficiary: Republic of Haiti 
+
+Executing Agency: Ministry of Agriculture, Natural 
+
+Resources and Rural Development (MARNDR) 
+
+Amortization period: N/A 
+
+Original WAL: N/A 
+
+Disbursement period: 60 months 
+
+Grace period: N/A 
+
+Source Amount (US$) 
+
+Supervision and 
+
+inspection fee: N/A 
+
+IDB (Grant Facility) 15,000,000 Interest rate N/A 
+
+Local 1,500,000 Credit fee: N/A 
+
+Total 16,500,000 
+
+Currency: US Dollars Parallel Financing 
+
+(AECID)         2,700,000* 
+
+Project at a Glance 
+
+Project Objective: The general objective of the project is to improve the income of small fishers in 
+
+three southern regions of Haiti (South, South-East and Grande Anse), through the sustainable 
+
+development of artisanal fisheries. The specific objectives are to: (i) strengthen the institutional 
+
+management of the fisheries sector for resource sustainability, and improved sanitary and food safety 
+
+conditions for marketing of seafood products; (ii) improve the quality of fish at landing sites, through 
+
+improved public infrastructure; and (iii) increase artisanal fisheries productivity and reduce economic 
+
+losses through the establishment of a rights-based fishery management scheme. In order to achieve 
+
+these objectives, and consistent with the identified challenges, the project will finance three 
+
+components: (i) institutional strengthening and information system; (ii) public infrastructure; and   
+
+(iii) stakeholders’ capacity building.  
+
+Special contractual conditions prior to first disbursement: (i) the hiring or assignation of a 
+
+planning, monitoring and evaluation specialist within the Fishery Directorate; of an administrator, an 
+
+accountant and an administrative assistant within the MARNDR’s BCP-ProGEBA unit; and of a 
+
+procurement specialist to support the Procurement Unit of the MARNDR (¶3.2); (ii) the creation of 
+
+the Program Steering Committee (¶3.4); and (iii) the approval of the Operation Manual by the 
+
+Steering Committee (¶3.7).   
+
+Special contractual condition prior to the use of resources for execution: the recruitment of 
+
+approximately 26 people by the MARNDR Fishing Directorate to provide basic fishery services in the 
+
+field for the regions of intervention will be a condition prior to execution of Component 3 (¶3.3).  
+
+Special disbursement: To enable the Executing Agency to fulfill all the conditions prior to first 
+
+disbursement, an initial disbursement for up to US$125,000 will be made to the extent the Beneficiary 
+
+fulfills to the Bank’s satisfaction all the standard general conditions prior to disbursement set forth in 
+
+grant agreements, except for: (i) the submission of the initial execution report; and  (ii) evidence of 
+
+reliable financial information systems and internal control mechanisms (¶3.8 and ¶5.6 of Annex III). 
+
+Exceptions to Bank policies: None 
+
+Project 
+
+qualifies for: 
+
+SEQ [ X ] PTI [ X ] Sector [ X ] Geographic  Headcount  
+
+  * The program is also supported by approximately US$2.7 million (€2.5million) in parallel financing from 
+AECID (Spanish Agency for International Cooperation for Development) which is not included as part of 
+
+the program’s budget total and  is subject to AECID’s annual budget approval for 2016-2020.  
+
+
+
+- 2 - 
+
+ 
+
+I. PROGRAM DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, Problem Addressed and Justification 
+
+1.1 Agriculture including farming activity, livestock, fisheries and forestry, plays a 
+dominant role in the Haitian economy, contributing 22.5% of Gross Domestic 
+
+Product (GDP) (Fiscal Year [FY] 2012-13). The economy’s recovery since the 
+
+2010 earthquake has been mainly attributed to accelerated output growth in the 
+
+agricultural sector. This has translated into GDP growth of 4.3% in FY 2013, up 
+
+from the 2.8% observed in 2012. While agriculture represents the principal form 
+
+of livelihood for over one million families, contributing to about 50% of the total 
+
+households’ income,
+1
+ rural poverty headcount remains the highest in the country 
+
+with 75.2% (58.7% national level).
+2
+  
+
+1.2 The Fisheries Act of 1978
+3
+ established the Fishery Directorate (FD) under the 
+
+Ministry of Agriculture Natural Resources and Rural Development (MARNDR) 
+
+as the responsible institution for the administration and enforcement of the 
+
+sector’s legal and regulatory framework, including surveillance and monitoring of 
+
+authorized fishing gear and compliance with fishing seasons for certain species.
+4
+  
+
+1.3 Occurring along many parts of the country’s approximately 1,700 km coastline,
+5
+ 
+
+the fishery sector in Haiti is of high socio-economic relevance as it generates 
+
+around 77,000 full-time jobs (52,000 direct jobs, and 25,000 indirect jobs),
+6
+ and 
+
+2.5% of the GDP
+7
+ (FY 2010-11). Artisanal fishing remains the main type of 
+
+marine fishery in Haiti. It is carried out in a total of 420 locations in 9 out of 10 
+
+departments of the country. Fishing is a diversified and largely unrestricted 
+
+artisanal activity, with the relative importance of main fishing practices varying 
+
+considerably among localities.
+8
+ Practices can nonetheless be grouped into two 
+
+different types: (i) collection of intertidal species such as shellfish, crabs, clams, 
+
+oysters, mussels; including the use of fish traps; and (ii) coastal fishing performed 
+
+using boats
+9
+ and fishing gear to catch demersal and pelagic fish. Fishers target a 
+
+wide range of resources that are found mainly on the continental shelf (conch, 
+
+lobster, reef and demersal fishes and small coastal pelagics).
+10
+
+  
+
+                                                 
+1
+  General Agricultural Census 2008-2009 (www.agriculture.gouv.ht); www.brh.net; www.mefhaiti.gouv.ht. 
+
+2
+   World Bank (WB). 2014. Poverty and Inclusion in Haiti: Social Gains at a Timid Pace. Washington DC: 
+
+The WB. Retrieved from: http://documents.worldbank.org/curated/en/2014/01/19871408/poverty-
+
+inclusion-haiti-social-gains-timid-pace  
+3 
+ The Fisheries Act of 1978 was approved byPresidential decree.
+
+ 
+
+4
+  e.g. lobster 
+
+5
+  Second longest in the Caribbean region countries, after Cuba (Fishery Country Profile, FAO, 2005). 
+
+6
+  Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural (MARNDR), Etude de 
+
+la filière pêche en Haïti et propositions de stratégie d’appui au secteur, IRAM-INESA, 2007. 
+7
+  FAO statistics and data management, http://faostat.fao.org, 2010. 
+
+8
+  Célestin 2004, Damais et al. 2007, Favrelière 2008. 
+
+9
+  The estimated fleet is 26,000 units of pirogues, canoes, sailing boats, and/or wooden motorboats. 
+
+10
+  Célestin 2004, Damais et al. 2007, Favrelière 2008. 
+
+http://www.agriculture.gouv.ht/
+http://www.brh.net/
+http://www.mefhaiti.gouv.ht/
+http://documents.worldbank.org/curated/en/2014/01/19871408/poverty-inclusion-haiti-social-gains-timid-pace
+http://documents.worldbank.org/curated/en/2014/01/19871408/poverty-inclusion-haiti-social-gains-timid-pace
+http://faostat.fao.org/
+
+
+- 3 - 
+
+ 
+
+1.4 Marketing of seafood is conducted by a network of intermediaries that ensure the 
+supply of fresh products for local consumption and export. The stakeholders who 
+
+market fish products include “merchants,” “merchants-saras” and agencies. The 
+
+marketing process of fishery products is dominated by women.
+11
+
+ They sell 69% of 
+
+the fish production fresh and 31% salted or dried. The latter is of lower value than 
+
+the fresh fish and is the result of a lack of accessibility to refrigeration and ice. 
+
+The merchants, who are often the spouses of the fishers buy and then sell 
+
+lowvalue fish to the merchant-saras in local markets or to agencies. Merchants 
+
+saras, estimated at approximately 7,000, come from the urban centers to coastal 
+
+areas to buy (dried or fresh) and return to sell the production back in the cities. 
+
+Finally, an estimated 1,000 agencies are located in the communes in coastal areas 
+
+and exhibit the greatest purchasing and refrigeration capacity. This allows them to 
+
+purchase the highest-valued products (conch, lobster) to resell to wholesalers, 
+
+supermarkets and restaurants in the urban centers.
+12
+
+  
+
+1.5 Despite the prevalence of fisheries, Haiti is a net importer of seafood products.
+13
+
+ 
+
+National production supplies only around 30% of total consumption. In 2011 the 
+
+sector’s annual production in terms of landing equivalent was estimated at 17,000 
+
+MT of fish, 600 MT of lobster, 200 MT of conch meat and 50 MT of shrimp.
+14
+
+ 
+
+Artisanal fisheries and trade are estimated to generate an annual sales figure 
+
+higher than 240 million gourdes (US$6.3 million). In 2003, total value of export 
+
+amounted to 349 MT (US$4.2 million),
+15
+
+ but had dropped significantly by 2011 to 
+
+less than 50 MT and limited to informal and occasional exchanges mainly with 
+
+the Dominican Republic.
+16 
+
+This drop in exports was mainly due to the suspension 
+
+of exports to Europe. 
+
+1.6 Sector challenges. Despite the critical importance of fishing as an economic 
+activity for coastal communities, several challenges prevent the development and 
+
+sustainability of the sector. The following challenges have been prioritized and 
+
+selected based on prior experience in the sector and Government of Haiti (GoH) 
+
+Marine Fisheries Development Program (PDPM) priorities.
+17
+
+ 
+
+1.7 Resource sustainability. Artisanal fishery’s contribution to socio-economic 
+development depends in large part on the sustainability of the fishery resources, 
+
+which represents the main challenge for the sector. As such, fisheries can be 
+
+distinguished from other agricultural activities by the challenges posed by 
+
+resource management. These include: (i) the diversity of the resource and means 
+
+of production, particularly in the case of artisanal fisheries; (ii) the mobility of the 
+
+                                                 
+11
+
+  Gachot, 2015. 100% of merchants and merchants-saras are women. 
+12
+
+  Célestin 2004, Damais et al. 2007, Favrelière 2008. 
+13
+
+  In 2010, Haiti imported more than US$ 20 million (34 MT) of seafood products and registered close to 
+
+US$6 million of exports (Sources FaoStat, 2012). 
+14
+
+  FAOStat, 2012. 
+15
+
+  ftp://ftp.fao.org/FI/DOCUMENT/fcp/fr/FI_CP_HT.pdf  
+16
+
+  Report on « préparation d’un programme d’investissement public en faveur du secteur de la pêche » (2011) 
+17
+
+  Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural (MARNDR), Etude de 
+
+la filière pêche en Haïti et propositions de stratégie d’appui au secteur, IRAM-INESA, 2007. 
+
+ftp://ftp.fao.org/FI/DOCUMENT/fcp/fr/FI_CP_HT.pdf
+
+
+- 4 - 
+
+ 
+
+resource not confined within set boundaries; (iii) the difficulties of assessing the 
+
+status of stocks and determining sustainable yields; and (iv) the absence of 
+
+property rights. Although reliable fisheries statistics do not exist for Haiti, 
+
+available evidence shows a catch reduction per fishing trip in coastal waters,
+18
+
+ 
+
+indicating that inshore stocks are either fully exploited or depleted, therefore 
+
+threatening the sustainability of the sector. Ensuring the resource’s sustainability 
+
+requires a strong government commitment to implement sustainable fishery 
+
+management systems.
+19
+
+ However, the existing Haitian governance structure has 
+
+not proven conducive to a sustainable exploitation of fisheries, as evidenced 
+
+particularly by a lack of implementation of monitoring, control measures and 
+
+regulations. This has led to unrestricted ‘open access to fishing grounds,’ and 
+
+deterioration of critical breeding and nursery habitat for fish and shellfish.  
+
+1.8 Sector governance. The existing fisheries regulations date from several decades 
+and are significantly outdated in several aspects, including the sustainability and 
+
+management of the natural resource. The FD is currently understaffed, comprised 
+
+of only six civils servants. Moreover, the decentralization of the FD services at 
+
+local levels remains weak with only eight agents (most of them supported by 
+
+projects) in Departmental Directorates for Agriculture (DDA) (one agent per 
+
+6,500 fishers). This prevents the provision of public services at local level such as 
+
+extension services for the introduction of new sustainable techniques, and on-site 
+
+data collection and implementation of a catch monitoring system. The FD’s 
+
+technical capacities for applied research, sanitary control and resource 
+
+management, need to be revamped to implement a more science-based approach 
+
+to the sector’s management. In this context, the FD is in a weak position to 
+
+exercise its leadership and coordination role (¶1.2). 
+
+1.9 Availability of information for decision-making. The FD does not collect 
+fisheries data nor does it compile fisheries statistics except for imports and 
+
+exports. Basic information especially related to socio economic aspects, catches 
+
+and marketing is essential for the adoption of improved policies for fisheries 
+
+management. Previous efforts to implement a data collection system have not 
+
+proven to be sustainable due to methodological and financial constraints to 
+
+maintain a long term data collection system.
+20
+
+ 
+
+1.10 Lack of public infrastructure and services for artisanal fisheries, results in 
+poor product quality, important post-harvest losses amounting to around 40%
+
+21
+ 
+
+(US$2.8 million), loss of market opportunities in urban centers and suspension of 
+
+exports of seafood products to Europe. Harvesting, processing and marketing 
+
+occur in marginal highly degraded areas that lack the basic infrastructure to ensure 
+
+basic sanitary conditions and product quality. Out of the 18 communes (¶1.14) 
+
+targeted by the program, only two have regular access to water and electricity, less 
+
+than 10% have adequate landing sites for artisanal fishing boats and the majority 
+
+                                                 
+18
+
+  IRAM, 2007. 
+19
+
+  Christy, 1997. 
+20
+
+  “Fisheries Investment Plan,” financed with the technical cooperation ATN/II-11593-HA. 
+21
+
+  Macias, 2014. 
+
+
+
+- 5 - 
+
+ 
+
+(80%) have public markets in poor conditions without running water or facilities for 
+
+ice production or storage. Finally, 16% do not have public markets.  
+
+1.11 Associations’ capacities. In 2002, the GoH sought to revitalize the fishery sector 
+through the National Fishers’ Association. A large number of fishers’ professional 
+
+associations were developed since then with more than 80 associations registered. 
+
+These associations have weak organizational structures and, as a consequence, 
+
+limited capacity to manage productive infrastructure and provide services and 
+
+equipment in a financially sustainable manner. The social context further inhibits 
+
+the development of the sector. Specifically Haitian fishing communities are 
+
+characterized by a relatively young population; high rate of illiteracy.  
+
+1.12 Access to basic technologies and equipment. The development of the fishery 
+sector in Haiti requires improvements in post-harvest handling of the product 
+
+through refrigeration and the adoption of technical innovations, some of which 
+
+have an important cost in terms of investment. This combined with the presence 
+
+of financial constraints prevents stakeholders to invest in the sector.
+22
+
+  
+
+1.13 Areas of intervention. The program will target the three most productive 
+departments (South East; South; and Grande Anse),
+
+23
+ that have been prioritized 
+
+by the GoH and which together support a majority of the country’s fisheries 
+
+localities along approximately 540 km of coastline. However, the institutional 
+
+component of the program will benefit all the fishing communes in the country. 
+
+As the South Department is also the intervention area of the tourism project 
+
+financed by the IDB (3383/GR-HA), a fishing program in this department will 
+
+develop the complementarity of the two operations in a context of sustainable 
+
+development of coastal areas through improvement in the fishery/tourism value 
+
+chain. In the South East Department the program will complement the Spanish 
+
+Agency of International Cooperation for Development’s (AECID) funding with 
+
+public infrastructure and thus consolidate this department as a model and catalyst 
+
+for artisanal fisheries development in Haiti contributing to the dissemination of 
+
+their experience in other regions of the south. 
+
+1.14 The area of intervention was further refined based on the following criteria:  (i) at 
+least one fishing association; (ii) fishery as a relevant socio-economic activity and 
+
+potential for further increase in productivity; and (iii) the possibility of               
+
+re-enforcing existing interventions financed by the AECID. Within the 
+
+intervention area a total of 55 fisher's associations have been identified, with an 
+
+estimate of 20,800 fishers.
+24
+
+ On average, fishing communities comprise 80 
+
+members of which 63% are fishers, and 35% are merchants. These fishing 
+
+communities are widely scattered, small and isolated with little access to basic 
+
+services such as water, sanitation and electricity. In addition, in the area of 
+
+                                                 
+22
+
+  IRAM, 2007 and Macias, 2014. 
+23
+
+  Supply chain analysis for fresh seafood in Haiti, Felix, 2012. 
+24
+
+  Macias, 2014. 
+
+javascript:fOpenWindow('http://edwbip.iadb.org:80/cognos8/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=XSSSTART*2fcontent*2ffolder*5b*40name*3d*27BI*20Reports*27*5d*2ffolder*5b*40name*3d*27OPS*27*5d*2ffolder*5b*40name*3d*27LMS*20REPORTS*27*5d*2ffolder*5b*40name*3d*27LMS1*20-*20Versiones*27*5d*2freport*5b*40name*3d*27LMS1*27*5dXSSEND&ui.name=LMS1&run.outputFormat=&run.prompt=false&p_Active=1&p_UDR=UDR&p_OpNumber=3383/GR-HA&p_Date=2015-04-06',%20'_OPSDetail');
+
+
+- 6 - 
+
+ 
+
+intervention the number of fishing vessels is estimated at approximately 10,700.
+25
+
+ 
+
+The small boat size (under 20 feet long) and lack of engines make offshore deep 
+
+water fishing difficult and so most fishing effort concentrates on shelf resources.  
+
+1.15 Lessons learned. This program takes into account important lessons learned from 
+the Bank and other donor-financed operations in Haiti (UE, UNEP, AECID), as 
+
+well as empirical evidence from research undertaken in Haiti and abroad (Belize, 
+
+Ecuador, Chile, Panama, Guadeloupe). Since 2007, the MARNDR is 
+
+implementing, with the technical and financial support from AECID, a project 
+
+focused on strengthening the capacity of fishery institutions and fishers 
+
+organizations to provide adequate services to their members. The total AECID 
+
+funding to present amounts to €3.5million. A recent external evaluation of the 
+
+intervention has indicated positive results, especially with respect to the 
+
+organizational capacity of fishing associations including financial sustainability, 
+
+and provisions of services including maintenance of collective infrastructure.
+26
+
+ 
+
+Therefore the proposed program aims to follow a similar approach. Moreover, the 
+
+design benefited from the close participation of national and international experts 
+
+involved in AECID-MARNDR’s project. Main lessons are primarily drawn from 
+
+Christy, F. T., 1997 The Development and Management of Marine Fisheries in 
+
+Latin America and the Caribbean, Seijo J.C., FAO, 2011, Coastal fisheries of 
+
+Latin America and the Caribbean and the Sector Framework Document on 
+
+Agriculture and Natural Resources Management (SFD) are included in Table 1. 
+
+1.16 Conception of the intervention. Based on the sector diagnostic, the challenges 
+identified and the lessons learned, interventions have been identified to improve 
+
+the sustainability of the resources by simultaneously increasing fishers’ 
+
+productivity and income through the provision of improved public services in the 
+
+sector. The literature
+27
+
+ suggests specific reasons that justify the public provision 
+
+of fishery services from a market failure perspective: (i) coordination failures 
+
+might foster depletion of resources reducing economic gains in the long run;     
+
+(ii) liquidity constraints limit the availability of financial resources for fishers to 
+
+access productive capital and adopt sustainable technologies; and (iii) risk 
+
+aversion and information asymmetries limit adoption of more productive and 
+
+sustainable technologies by fishers. To avoid overexploitation of the marine 
+
+resources, the implementation of a long term sustainable fishery management 
+
+system is required as a pilot in the southern regions. The effectiveness of the 
+
+system will be evaluated by an impact evaluation (¶3.12). 
+
+1.17 Regarding productivity and income generation, the program will address market 
+failures as follows: (i)  accelerating the decentralization and sustainability of 
+
+fishery services in close proximity to fishers, through the GoH’s commitment to 
+
+improve the staffing in the field; (ii) improving fishers’ access to pelagic stocks 
+
+using technological improvements while simultaneously piloting a rights-based 
+
+                                                 
+25
+
+  Dugout woods, flat-bottomed boats, and wooden sailboats. Less than 5% of total fishing vessels is made up 
+
+of fiberglass boats equipped with engines donated by non-governmental organizations and aid agencies. 
+26
+
+  Marine Fishery Strengthening Program in the Southeast department, mid-term review, Canaest, 2014. 
+27
+
+  Seijo J.C., FAO, 2011. Coastal fisheries of Latin America and the Caribbean. 
+
+
+
+- 7 - 
+
+ 
+
+fishery scheme; (iii)  promoting enhanced product quality through improved  
+
+post-harvest handling facilities to be co-managed with strengthened fishers’ 
+
+associations; and (iv)  strengthening the fisheries value chain through enhanced 
+
+collaboration between FD and other initiatives of the Bank for private sector. 
+
+Table 1. Lessons Learned 
+
+Lessons learned
+28
+
+ Reflected in the program design 
+
+Improved operational legal framework is 
+
+needed for marine fisheries with clear 
+
+competency to regulate and implement 
+
+corrective measures harmonized with 
+
+international standards, framework legislation 
+
+and regulations. 
+
+The modernization of the legal framework will be 
+
+supported through short term technical assistance. 
+
+(Component 1). 
+
+Basic socio-economic information is required 
+
+for the adoption of improved policies for 
+
+fisheries management. 
+
+The program includes the design and implementation of 
+
+marine information system including a national fishers’ 
+
+census, registries and sustainable data collection through 
+
+the associations, including socio economic aspects 
+
+(Component 1). 
+
+Fostering public infrastructure of fish product 
+
+processing and the cold chain will improve the 
+
+quality of the product opening new local and 
+
+international markets. 
+
+The program supports the development of public 
+
+infrastructure to improve fish product post-harvest quality 
+
+and sanitary conditions (Component 2). 
+
+Promotion of collective action schemes among 
+
+fishers is key to their participation, and 
+
+prevents individual actions that might threaten 
+
+the sustainability of the fishing resource. 
+
+The program includes activities aimed at strengthening 
+
+the capacity of fishers associations to promote collective 
+
+actions that ensure sustainability. This includes training 
+
+in sustainable fishing activities as well as maintenance of 
+
+public infrastructure (Component 2). 
+
+Shift attitudes from development to sustainable 
+
+fisheries management: The major opportunities 
+
+of the future lie in improved fisheries 
+
+management. 
+
+The program supports the establishment of fisheries 
+
+management regimes through: rights-based fishery 
+
+management pilot. (Component 3); and implementation 
+
+of the national marine information system and the 
+
+development of a research program (Component 1). 
+
+Given the importance of women contribution in 
+
+the fishery sector, the undertaken activities 
+
+must also be targeted to strengthen their 
+
+participation and empowerment. 
+
+The program includes improvement of public 
+
+infrastructure with the primary goal to increase the value 
+
+of fish sales per merchant (women). Also, part of the 
+
+training and matching grants benefit female merchants 
+
+(Component 3). 
+
+1.18 Regarding resource sustainability, the program will address market failures by 
+strengthening fisheries governance and management implementing an integrated 
+
+information system and establishing a strong scientific-based approach. In the 
+
+case of fisheries, empirical evidence shows that integrated fisheries management
+29
+
+ 
+
+not only contributes to resource sustainability by reducing pressure on stocks but 
+
+also generates increased income, especially with the transition towards a      
+
+rights- based fishery management (Belize,
+30
+
+ Ecuador, Chile
+31
+
+). The program will 
+
+ensure the implementation of a pilot on sustainable fishery management system to 
+
+avoid overexploitation of the marine resources based on successful interventions 
+
+                                                 
+28
+
+  Sector Framework Document on Agriculture and Natural Resources (GN-2709) 
+29
+
+  combining research, monitoring and measures to manage the activity 
+30
+
+  http://www.tidebelize.org/ 
+31
+
+  Seijo J.C., FAO, 2011, Coastal fisheries of Latin America and the Caribbean 
+
+
+
+- 8 - 
+
+ 
+
+in similar circumstances in Belize and Panama.
+32
+
+ This pilot will include:                 
+
+(i) definition of extraction rates compatible with stock replenishment rates; (ii) the 
+
+implementation of a fishery information system including a national fishers’ 
+
+census, as well as a strong monitoring and evaluation system; (iii) the 
+
+implementation of a rights-based fishery management scheme for both offshore 
+
+and coastal waters, combining managed access, quotas and no-take zones; and 
+
+(iv) the promotion of more sustainable alternative fisheries techniques. The 
+
+fisheries management measures will strengthen the benefits for stock recovery of 
+
+the already created marine protected areas in the intervention zone through close 
+
+collaboration with Ministry of Environment (MDE) and UNEP in the 
+
+implementation of fisheries habitat conservation regulations with the cooperation 
+
+of the fishers’ associations. 
+
+1.19 Gender approach. The proposed operation will include a gender approach that 
+promotes women’s participation and empowerment. Specifically, the program 
+
+will finance public infrastructure, training
+33
+
+ and matching grants
+34
+
+ targeted 
+
+towards female merchants. These activities aim to increase women’s income by 
+
+increasing value of sales and reducing economic losses.  
+
+1.20 Consistency with national priorities and donor coordination. The program 
+will finance activities included in the National Fisheries Development Program 
+
+(NFDP) and the Fisheries Investment Plan financed with the technical cooperation 
+
+ATN/II-11593-HA, particularly: (i) strengthening the institutional and legal 
+
+framework, through the establishment of a monitoring and control system, a data 
+
+collection and analysis service including a national census of fishers and a fishers 
+
+and vessels registry; (ii) socio-economic development of artisanal fishery through 
+
+institutional and organizational strengthening of fishers associations, and 
+
+introduction of improved fishing techniques and equipment; (iii) improving 
+
+seafood marketing through development of basic public infrastructure destined to 
+
+improve the processing of fish products and access to cold chain; and                 
+
+(iv) increasing effectiveness of fisheries management through introduction of 
+
+awareness campaigns introducing sustainable fisheries management practices. 
+
+Program activities will be closely coordinated with AECID. 
+
+1.21 Consistency with the Country Strategy, Sector Strategy and GCI-9. The 
+program is aligned with the Bank’s Country Strategy with Haiti for 2011-2015 
+
+(GN-2646), which sets agriculture (including fisheries) as a priority sector of 
+
+intervention and with its private sector development pillar. The program is also 
+
+included in the 2015 Operational Program Report (GN-2805). It contributes to 
+
+three of the lending program priority targets outlined in the Report on the Ninth 
+
+General Increase in Resources of the IDB (AB-2764) (GCI-9) and its Results 
+
+Framework: (i) support to small and vulnerable countries; (ii) poverty reduction 
+
+and equity enhancement, as beneficiaries will be low income fishers; and 
+
+                                                 
+32
+
+  Seijo J.C., FAO, 2011, Coastal fisheries of Latin America and the Caribbean 
+33
+
+  Training on the following themes will directly target female merchants: hygiene and sanitary conditions, 
+
+conservation techniques, infrastructure management  
+34
+
+  Specific equipment such as coolers and dryers have already been identified 
+
+
+
+- 9 - 
+
+ 
+
+(iii) support regional cooperation and integration, as the operation is consistent 
+
+with both, the cross-country focus and national subsidiarity criteria.
+35
+
+ It will also 
+
+contribute to the regional development goals of “trade openness,” as well as to the 
+
+Bank´s outputs, “regional and subregional integration agreements and cooperation 
+
+initiative supported” as defined in the Results Framework. The operation is 
+
+consistent with the strategic priority to “Protect the environment, respond to 
+
+climate change and enhance food security,” and will contribute to its Regional 
+
+Development Goal “Annual growth rate of agricultural GDP.” The operation is 
+
+consistent with the “Agriculture and Natural Resources Management Sector 
+
+Framework Document” (GN-2709-1), as it will foster fisheries management 
+
+regimes adapted to local conditions. Also, it is consistent with the Sector Strategy 
+
+“Sustainable Infrastructure for Competitiveness and Inclusive Growth”          
+
+(GN-2710-5), as the Program seeks to ensure financial sustainability of the 
+
+investments by developing maintenance plans for each infrastructure to be built. 
+
+The linkages with other projects from an economic perspective will be developed 
+
+during program implementation in particular with 3383/GR-HA, Sustainable 
+
+Coastal Tourism Program, with respect to improving food products for the 
+
+tourism value chain and 3260/GR-HA, Modernization of Agricultural Health 
+
+Public Services, regarding sanitary protection activities. Linkages with other Bank 
+
+initiatives through the FD will be developed to enhance private investments. In 
+
+particular it will support the participation of fishers’ associations in the Program 
+
+to Support Productive Investment (2827/GR-HA). 
+
+B. Objective, Components and Cost 
+
+1.22 The objective of the program is to improve the income of fishers in three southern 
+regions of Haiti (South, South-East and Grande Anse), through the sustainable 
+
+development of artisanal fisheries. The specific objectives are to: (i) strengthen 
+
+the institutional management of the fisheries sector for resource sustainability, 
+
+and improved sanitary and food safety conditions for marketing of seafood 
+
+products; (ii) improve the quality of fish at landing sites, through improved public 
+
+infrastructure; and (iii) increase artisanal fisheries productivity and reduce 
+
+economic losses through the establishment of a rights-based fishery management 
+
+scheme. To achieve this, the program will support a set of investments and actions 
+
+organized in three components. The direct beneficiaries of the program are the 
+
+20,800 fishers located in the intervention area. An additional 31,200 fishers 
+
+located elsewhere in the country will benefit from institutional strengthening. 
+
+                                                 
+35
+
+  According to the guidelines for GCI-9 regional cooperation and integration lending priority                   
+
+(GN-2733/ GN-2650), this operation is consistent with the cross-country focus criteria, as this national 
+
+program will support the institutional strengthening and infrastructure investments to promote 
+
+internationalization of the artisanal fishery industry, as presented in the result matrix by the indicator; 33% 
+
+increase in the number of annual health certificates for exports (OIE). The operation meets the national 
+
+subsidiarity criteria as it will support unilaterally policy reforms that are related to a supra-national plan. 
+
+Particularly, as stated in the result matrix, at least three international conventions on sustainable fishing 
+
+will be adopted. Haiti´s Pelagic fisheries as tuna, are shared among countries in the Caribbean, therefore 
+
+the sustainability improvements will have a positive impact at a regional level.  
+
+javascript:fOpenWindow('http://edwbip.iadb.org:80/cognos8/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=XSSSTART*2fcontent*2ffolder*5b*40name*3d*27BI*20Reports*27*5d*2ffolder*5b*40name*3d*27OPS*27*5d*2ffolder*5b*40name*3d*27LMS*20REPORTS*27*5d*2ffolder*5b*40name*3d*27LMS1*20-*20Versiones*27*5d*2freport*5b*40name*3d*27LMS1*27*5dXSSEND&ui.name=LMS1&run.outputFormat=&run.prompt=false&p_Active=1&p_UDR=UDR&p_OpNumber=3383/GR-HA&p_Date=2015-04-07',%20'_OPSDetail');
+javascript:fOpenWindow('http://edwbip.iadb.org:80/cognos8/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=XSSSTART*2fcontent*2ffolder*5b*40name*3d*27BI*20Reports*27*5d*2ffolder*5b*40name*3d*27OPS*27*5d*2ffolder*5b*40name*3d*27LMS*20REPORTS*27*5d*2ffolder*5b*40name*3d*27LMS1*20-*20Versiones*27*5d*2freport*5b*40name*3d*27LMS1*27*5dXSSEND&ui.name=LMS1&run.outputFormat=&run.prompt=false&p_Active=1&p_UDR=UDR&p_OpNumber=3260/GR-HA&p_Date=2015-04-07',%20'_OPSDetail');
+
+
+- 10 - 
+
+ 
+
+1.23 Component 1. Institutional strengthening and information system        
+(US$7.7million). This component will benefit all fishing communes in the 
+
+country (¶1.13). To accomplish these goals, the program will finance: (i) technical 
+
+assistance to conduct a detailed organizational and institutional analysis of the 
+
+FD, revise and formulate the legal framework of the sector, and formalize the 
+
+status of artisanal fishers;
+36
+
+ (ii) development and implementation of a national 
+
+integrated fishery information system including: design of the system, software 
+
+development, a national fishery census, and a registry of fishers, boats, sellers and 
+
+associations; (iii) strengthening of FD’s human resources capacities at 
+
+decentralized levels; (iv) technical training of managers, technicians and FD staff; 
+
+(v) study for seafood products new potential markets; (vi) national sensitization 
+
+campaigns on the use of ice, food safety, consumption of seafood products, and 
+
+information on endangered species; (vii) design and construction of FD office in 
+
+Damien and decentralized buildings;
+37
+
+ (viii) design and preliminary 
+
+implementation of a plan for control and surveillance of seafood pathologies as 
+
+well as a plan for sanitary control of seafood products; (ix) study on operational 
+
+fishery control system that supports the transition towards rights–based fishery 
+
+management for both offshore and coastal fisheries through a combination of 
+
+managed access, quotas, no-take zones and similar measures; and (x) stock 
+
+evaluation of under exploited resources via experimental fisheries campaigns and 
+
+implementation of a research program on new fishery techniques.
+38
+
+ 
+
+1.24 Component 2. Public infrastructure (US$2.6million). This component will 
+finance the design, supervision and maintenance plan (¶3.6) of the following 
+
+infrastructure: (i) basic fishery infrastructure (landing, cleaning sites and public 
+
+markets including solid waste management, manual system of seawater pumping 
+
+filtration, ice container); and (ii) other landing facilities to protect fishing vessels 
+
+during storms and hurricanes. To ensure sustainability, the design of investments 
+
+will take into account the vulnerability to natural disasters, climate change 
+
+mitigation and adaptation measures.  
+
+1.25 Component 3. Stakeholders’ capacity building (US$3.5million). This 
+component comprises the delivery of technical assistance and productive 
+
+technologies through the provision of matching grants. To strengthen the     
+
+fishers’ and merchants’ associations, the program will finance: (i) training to 
+
+fishers and merchants in organizational administration, infrastructure management 
+
+to ensure their sustainability and skills development for new fishing techniques;
+39
+
+ 
+
+(ii) provision of improved productive equipment
+40
+
+ to fishers’ and             
+
+                                                 
+36
+
+  Administrative recognition of what is a fisher, defining fishers’ eligibility to public support. 
+37
+
+    The size of the FD offices in Damien cannot host all FD staff. As no other space within the MARNDR is 
+
+available the program proposes to either build or rehabilitate one on the campus.  
+38
+
+  As no stock assessment has ever been done in Haiti, a preliminary work was conducted during program 
+
+preparation (Optional Link #6)  
+39
+
+  AECID project will directly carry out strengthening capacities of the associations in the South East region 
+
+under the AECID parallel funding, as well as training of project staff in other Departments through 
+
+technical assistance. 
+40
+
+  The research program will define new fishing techniques to be promoted by the project to the associations. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=39540185
+
+
+- 11 - 
+
+ 
+
+merchants’ associations through matching grants; and (iii) implementation of a 
+
+pilot on new fishing techniques and rights-based fishery management. 
+
+Approximately 2,829 fishers and 1,661 merchants will benefit from the pilot. 
+
+C. Key Results Indicators 
+
+1.26 The program is expected to improve artisanal fishers’ income through the 
+development of sustainable artisanal fisheries in Haiti. Table 2 summarizes the 
+
+program’s key indicators, measurement periods and selection rationale. 
+
+Table 2. Key indicators, measurement periods and selection rationale 
+
+Key Indicators Period Selection rationale  
+
+Impact Indicators 
+
+Increase average total net revenues from fishing and 
+
+fishing-related activities by household 
+Y5 
+
+Measures the impact on productivity and 
+
+income of artisanal fishers 
+
+% of fishers fishing exclusively on the shore  
+Y5 
+
+ 
+
+Measure the improvement on the 
+
+environmental sustainability of artisanal fishing 
+Establishment of at least one no-take zone in the 
+
+coastal area associated with the scope of the project 
+
+Selected Outcomes’ Indicators 
+
+Component 1: Membership to international 
+
+conventions on sustainable fishing 
+Y5 
+
+Measures the improvement on the management 
+
+of the resource at the institutional level. 
+
+Component 2: Value of weekly sales of fish per 
+
+woman merchant 
+Y5 
+
+Measures the improvement on sanitary 
+
+conditions and quality of the products sold. 
+
+Component 3: Fishing basins with rights based 
+
+fishery management  established 
+Y5 
+
+Measures the improvement on the management 
+
+of the resource at the local level. 
+
+Core Sector Indicator (CSI): Number of 
+
+beneficiaries of improved management and 
+
+sustainable use of natural and cultural capital 
+
+Y5 
+Measures the number of total beneficiairies in 
+
+the associations. 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing Instruments 
+
+2.1 The total program amount is US$16,500,000; financed by the IDB Grant Facility 
+up to the amount of US$15,000,000 and by the national counterpart up to the 
+
+amount of US$1,500,000. The program is also supported by approximately 
+
+US$2.7million (€2.5million)
+41
+
+ in parallel financing from AECID. A memorandum 
+
+of understanding is expected to be negotiated between MARNDR, AECID and 
+
+IDB to ensure further collaboration and complementarity of both interventions. 
+
+The disbursement period will be 60 months. Table 3 provides the cost summary 
+
+by investment categories and components (detailed budget). The budget includes 
+
+all costs associated with risks mitigation measures mentioned in ¶2.5. 
+
+B. Economic Analysis 
+
+2.2 A cost-benefit analysis was conducted to assess the economic viability of the 
+program. The main economic benefits that were quantified in the cost-benefit 
+
+analysis were: (i) the increase in gross operating margins of fishers; (ii) the 
+
+increase in the value added generated by the merchants; and (iii) the benefits 
+
+obtained from the restoration and sustainability of the stock fisheries. The annual 
+
+                                                 
+41
+
+  Subject to AECID’s annual budget approval in Euros for 2016-2020. 
+
+pcdocs://IDBDOCS/38107888/R
+
+
+- 12 - 
+
+ 
+
+overall costs of the program considered in the analysis include both investment 
+
+costs and recurrent costs. The analysis envisions a program horizon of 15 years 
+
+and a 12% discount rate. Goods and services considered in the analysis are 
+
+evaluated using their economic prices. The program is considered economically 
+
+viable as its estimated internal rate of return is 14.5%. The positive net present 
+
+value associated with the program amounts to US$1.6 million. Although the 
+
+economic analysis of the program is based on reasonably conservative 
+
+assumptions, a broad sensitivity analysis confirmed the reliability of the results. 
+
+Table 3. Estimated cost by component in US$ million 
+
+Investment categories IDB Local Total AECID 
+
+I. Components 
+
+1. Institutional capacity strengthening 6.3 1.4 7.7 1.08 
+
+2. Public Infrastructure 2.6 0.0 2.6 0.54 
+
+3. Stakeholders’ capacity building 3.5 0.0 3.5 1.08 
+
+II. Monitoring-Evaluation, Audit, Administration, Contingencies 
+
+Monitoring, Evaluation, Audits 0.8 0.0 0.8 - 
+
+Administration 1.4 0.1 1.5 - 
+
+Contingencies 0.4 0.0 0.4 - 
+
+Total 15.0 1.5 16.5 2.7 
+
+C. Environmental and Social Safeguard Risks  
+
+2.3 Following the guidelines in the Bank’s Environment and Safeguards Compliance 
+Policy (OP-703 and OP-765), this operation has been classified in Category “B.” 
+
+A positive social impact is expected from increasing fishers income level’s (as a 
+
+result of the program’s activities) and providing suitable fish processing facilities 
+
+(Component 2), which will contribute to improve social conditions and decrease 
+
+public health risks from poorly handled products. In terms of environmental 
+
+impact, the expected strengthening and monitoring of the sector, including the 
+
+fishers census and assessment of fishery resources (Component 1), will build a 
+
+strong foundation to implement a state fishery control system. No resettlement 
+
+and no adverse impacts on critical habitats are foreseen. Direct impacts will be 
+
+related to the construction of infrastructure, for which associated mitigation 
+
+measures will be incorporated in the bidding documents for the works. Potential 
+
+indirect negative impact as overfishing or endangered species fishing will be 
+
+mitigated by both the GoH increased capacity measures and fishers’ awareness 
+
+measures, whose costs have been incorporated into the operation’s budget. An 
+
+environmental and social analysis was conducted and the associated 
+
+Environmental and Social Management Plan (ESMP) will be included in the 
+
+Operation Manual (OM). This information is incorporated in the ESMR. 
+
+D. Fiduciary Risk  
+
+2.4 The financial risk of the proposed program is evaluated as being medium due to 
+the increase in volume and complexity of new projects being assigned to the 
+
+fiduciary team of BCP-ProGEBA (HA-L1087, HA-L1050 and HA-L1096). To 
+
+mitigate this risk, the Bank recommends the strengthening of BCP-ProGEBA’s 
+
+accounting team with the hiring of an administrator, an accountant and an 
+
+pcdocs://IDBDOCS/39542894/R
+
+
+- 13 - 
+
+ 
+
+administrative assistant dedicated to the implementation of this program. In 
+
+addition the OM of the program will include among other sections: (i) procedures 
+
+for the approval and disbursement of funds; (ii) chart of accounts; and (iii) policy 
+
+and procedures for the administration of inventory. The hiring of a support team 
+
+agreed upon with the Bank and the approval of the program’s OM will be 
+
+condition prior to first disbursement. In addition, during the first year of the 
+
+program, Bank’s Fiduciary staff will conduct inspection visits on a semi-annual 
+
+basis to review the execution of the financial plan, the preparation of financial 
+
+reports and the review of program expenses and documentation. All costs 
+
+associated with mitigation measures are included in the operation budget. 
+
+2.5 The procurement risk is evaluated as medium. The MARNDR’s Procurement 
+Unit (UPMP) is operational since early 2014 and has proved to possess a strong 
+
+technical capacity in procurement and a reliable structure. However, the increased 
+
+number of projects that are being handled by this unit may have an impact on the 
+
+timing of procurement activities. As a mitigation measure, an additional 
+
+procurement specialist will be hired to support the UPMP. During the program’s 
+
+life, the Bank will conduct at least one procurement inspection visit per year. All 
+
+associated costs are included in the operation budget. The ex-ante review method 
+
+will apply to major procurement activities. Ex post review will be conducted over 
+
+specific low risk activities as detailed under Annex III. 
+
+E. Other Key Issues and Risks 
+
+2.6 The main risk identified during a workshop conducted with the GoH is the 
+increase of the fishing effort and infrastructure sustainability. Mitigation measures 
+
+include among others: implementation of a pilot rights based fishery management 
+
+system, development of a fishery control system, technical assistance and training 
+
+of FD technical staff, creation of a Steering Committee (SC) and implementation 
+
+of infrastructure maintenance plans (¶3.6). The general risk qualification of the 
+
+program is medium. 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN  
+
+A. Summary Implementation Arrangements 
+
+3.1 The beneficiary of the program will be the Republic of Haiti and the Executing 
+Agency (EA) will be the MARNDR. The EA will be responsible for the overall 
+
+administration of the program, including: planning and reporting for technical and 
+
+fiduciary aspects; execution of procurement activities; the supervision of technical 
+
+assistance firms; financial and accounting management, including the submission 
+
+of disbursement requests; risks management; monitoring and evaluation; and 
+
+complying with contractual conditions of grant agreement. 
+
+3.2 The MARNDR will execute the aforementioned tasks through its FD. The 
+program will be headed by a Coordinator of the program. Financial management 
+
+aspects will be handled through the fiduciary team of the MARNDR’s            
+
+
+
+- 14 - 
+
+ 
+
+BCP-ProGEBA unit while the UPMP will execute all procurement activities. To 
+
+support the Project Coordinator in its tasks, the hiring or assignation of a 
+
+planning, monitoring and evaluation specialist within the FD; of an 
+
+administrator, an accountant and an administrative assistant within the 
+
+MARNDR’s BCP-ProGEBA unit; and of a procurement specialist to support 
+
+the Procurement Unit of the MARNDR will be a special contractual 
+
+condition prior to first disbursement. 
+
+3.3 To date, the MARNDR decentralized human resources in the intervention regions 
+are limited (two agents in the South-East, two in the South financed by AECID 
+
+and UNEP) or none (Grande Anse). The program will support the MARNDR-FD 
+
+in strengthening its capacity to provide decentralized services within the 
+
+DDA/BAC by recruiting/absorbing
+42
+
+ a total of 26 people (eight managers and 18 
+
+technicians) whose salary will be supported by Public Treasury through 
+
+counterpart funds. Recruitment of these managers and technicians is required to 
+
+provide basic fishery services in the field for the respective regions will be a 
+
+special contractual condition prior to the use of resources for the execution of 
+
+Component 3. These MARNDR’s fishery employees located in the DDA or BAC 
+
+will directly work and collaborate with the fishers associations in strengthening 
+
+their capacity implementing the AECID model with the technical assistance of                
+
+AECID-MARNDR’s project staff. 
+
+3.4 A Steering Committee (SC) will be created
+43
+
+ to ensure strategic general guidance 
+
+as well as the approval of the OM, initial Multi-Year Execution Plan, Annual 
+
+Operation Plans and semiannual Progress Reports. This committee will be led by 
+
+the Minister of the MARNDR, or his representative, and composed of: (i) the 
+
+MARNDR’s General Director; (ii) a representative of the National Agency for 
+
+Protected Areas from the Ministry of Environment; (iii) one representative of 
+
+national fishers’ federation,
+44
+
+ representing the three implementation departments 
+
+of the country; and (iv) one representative of the fishery and aquaculture 
+
+consultation group
+45
+
+ which includes the private sector. Representatives of the 
+
+Bank and other Donors, including AECID and UNEP, will be invited as 
+
+observers. The SC will meet at least two times per year. The creation of the SC 
+
+will be a special contractual condition prior to first disbursement. 
+
+3.5 Procurement activities will be conducted as detailed in Annex III. The 
+MARNDR’s UPMP will manage all procurement processes for goods and 
+
+services. Specific contractual mechanisms will be identified to purchase 
+
+equipment through matching grants, as foreseen under Component 3. All 
+
+procurement activities will be performed in accordance with Bank rules and 
+
+procedures, with no exceptions to the application of the Policies for the 
+
+                                                 
+42
+
+  Including 10 staff already supported by the AECID financing. 
+43
+
+  By Ministerial Circular. 
+44
+
+  IDBDOCS-#39592336. 
+45  The objective of the group for the sector is among other to Ensure effective participation of civil society 
+
+sector strategic orientation; coordinate the mobilization and use of resources (human, material and 
+
+financial); and ensure communication. Membership is open to any stakeholder in the sector. 
+
+pcdocs://IDBDOCS/39592336/R
+
+
+- 15 - 
+
+ 
+
+Procurement of Goods and Works (GN-2349-9) and Policies for the Selection and 
+
+Recruitment of Consulting Services (GN-2350-9). The program will also be 
+
+subject to the special provisions for procurement activities in Haiti (GN-2654). 
+
+3.6 Project financial management will be conducted as detailed in Annex III. 
+Advance of funds methodology will be used for the disbursement of program 
+
+funds and for an amount equivalent to three-month funding needs. No financial 
+
+resources of the program will be transferred to participating associations and 
+
+stakeholders, with the exception of a limited budget during the first four years of 
+
+the program for the strengthening of the capacity of local actors including fishers 
+
+and sellers through their association. It will be implemented by DDA via a 
+
+technical assistance to be provided by an experienced operator to be financed 
+
+under Component 3. National counterpart will be used to finance operational costs 
+
+including the strengthening of the FD human resources personnel at decentralized 
+
+levels and which will be processed through the MARNDR single treasury 
+
+account. The program will subsidize the purchase of equipment through matching 
+
+grants to associations based on eligible criteria defined in the OM including: (i) a 
+
+functioning registered association with all fishers and merchants members 
+
+registered; (ii) a business plan; (iii) commitment through an agreement to comply 
+
+with a rights based fishery management plan (¶7.3 of Annex III). The program’s 
+
+grant contribution will be a maximum of US$30,000 per association, and the 
+
+matching amount per association will be a minimum of ten percent of the grant. 
+
+The OM specifies the amounts to be granted to each association per type of 
+
+investment, based on a technical and economic analysis for each investment. 
+
+3.7 Operation Manual (OM). The OM will set out the procedures to be followed by 
+the EA with regard to implementation, planning and reporting of activities, 
+
+financial management, audits, procurement and contracting, risks management, 
+
+and monitoring and evaluation. The OM will include: (i) financial and accounting 
+
+procedures; (ii) chart of accounts; (iii) procurement procedures; (iv) matching 
+
+grant eligibility criteria and procedures; (v) environmental and social management 
+
+plan and procedures; and (vi) monitoring and evaluation plan. The SC’s approval 
+
+of the OM will be a special contractual condition prior to first disbursement. 
+
+3.8 Special disbursement. To enable the EA to fulfill all the conditions prior to first 
+disbursement an initial disbursement of up to US$125,000 will be made to the 
+
+extent the Beneficiary fulfills, to the Bank’s satisfaction, all the standard general 
+
+conditions prior to disbursement set forth in the grant agreement, except for: 
+
+(i) the submission of the initial execution report; and (ii) evidence of reliable 
+
+financial information systems and internal control mechanisms. 
+
+3.9 Special audit and financial reporting requirements: (i) audit of program: external 
+auditors eligible to the Bank will be hired by the FD to perform the audit of the 
+
+program as follows: one annual financial audit of the program including the audit 
+
+of internal control processes and the review of procurement processes to be 
+
+submitted within 120 days following the end of each fiscal year and a final 
+
+financial audit of the program to be submitted within 120 days after the date of 
+
+
+
+- 16 - 
+
+ 
+
+the last disbursement. For accounting and audit purposes, the Haitian fiscal year 
+
+will be respected; and (ii) during the first year of execution, the program will also 
+
+submit quarterly unaudited financial reports 45 days after the end of each quarter. 
+
+For the following years, the frequency for the submission of unaudited reports 
+
+will be based on risk evaluation updates determined during supervision missions. 
+
+B. Summary of Arrangements for Monitoring Results  
+
+3.10 Planning and monitoring. During the grant disbursement period, the EA will 
+submit annual operation plans
+
+46
+ (AOP) no later than 30 days before the end of the 
+
+preceding calendar year; and semiannual progress reports (PR) no later than 30 
+
+days after the end of the calendar semester. AOPs and PRs will be prepared 
+
+following a template consistent with the Bank’s “Project Monitoring Report”. The 
+
+AOPs will include targets indicators, a work plan for the calendar year, updated 
+
+procurement and risk mitigation plans, a disbursement forecast, and a 
+
+maintenance plan for infrastructures and equipment. The PRs will indicate the 
+
+level of fulfillment of the output and outcome indicators planned in the AOPs; 
+
+detail the execution of procurement, risk mitigation and maintenance activities; 
+
+analyze problems encountered; and propose corrective measures. Within 60 days 
+
+after the last disbursement date, the EA will prepare a final report, summarizing 
+
+all the PRs prepared during the program life and will organize a closing workshop 
+
+to present and discuss the Project Completion Report prepared by the Bank. 
+
+3.11 Evaluation. The EA will submit to the Bank: (i) a midterm independent 
+evaluation report no later than 36 months after the date of entry into force of the 
+
+grant agreement or when 50% of the grants proceeds have been disbursed, 
+
+whichever occurs first; and (ii) a final independent evaluation report, within 90 
+
+days after the date on which 90% of the grant proceeds have been disbursed or 
+
+after the Bank’s official request. The final evaluation report will mandatorily 
+
+include the results of the program’s impact evaluation (see below). 
+
+3.12 Impact evaluation. An impact evaluation plan was agreed upon with the GoH. 
+The impact evaluation and monitoring plan presents the methodology, data 
+
+collection plan, indicators to be measured, sample design and budget allocated to 
+
+each activity. For Components 2 and 3, the evaluation methodology to be applied 
+
+is a quasi-experimental approach of Double Difference combined with a 
+
+Propensity Score Matching. To accomplish this, a data collection strategy will be 
+
+implemented to administer two rounds of surveys to fishers and merchants in 
+
+treatment and control groups. This analysis will allow us to measure the impact 
+
+heterogeneity of the program with an emphasis on beneficiary women 
+
+(merchants). The total number of surveys for both rounds is 3,230. For 
+
+Component 1, a reflexive method will be used to compare indicators before and 
+
+after the intervention. The total cost of the impact evaluation amounts to 
+
+US$450,000. 
+
+                                                 
+46
+
+  Sections of the AOPs related to Component 2 and 3 for the SE department will be prepared in coordination 
+
+with AECID. 
+
+pcdocs://IDBDOCS/39542996/R
+
+
+                                                                                    Annex I - HA-L1096
+
+Page 1 of 1
+
+1. IDB Strategic Development Objectives
+
+     Lending Program
+
+     Regional Development Goals
+
+     Bank Output Contribution (as defined in Results Framework of IDB-9)
+
+2. Country Strategy Development Objectives
+
+     Country Strategy Results Matrix GN-2646
+
+     Country Program Results Matrix GN-2805
+
+Relevance of this project to country development challenges (If not aligned to country 
+
+strategy or country program)
+
+II. Development Outcomes - Evaluability Evaluable Weight Maximum Score
+
+8.6 10
+
+3. Evidence-based Assessment & Solution 7.2 33.33% 10
+
+     3.1 Program Diagnosis 1.8
+
+     3.2 Proposed Interventions or Solutions 2.4
+
+     3.3 Results Matrix Quality 3.0
+
+4. Ex ante Economic Analysis 8.5 33.33% 10
+
+     4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a General Economic 
+
+Analysis
+4.0
+
+     4.2 Identified and Quantified Benefits 1.5
+
+     4.3 Identified and Quantified Costs 1.5
+
+     4.4 Reasonable Assumptions 0.0
+
+     4.5 Sensitivity Analysis 1.5
+
+5. Monitoring and Evaluation 10.0 33.33% 10
+
+     5.1 Monitoring Mechanisms 2.5
+
+     5.2 Evaluation Plan 7.5
+
+Overall risks rate = magnitude of risks*likelihood
+
+Identified risks have been rated for magnitude and likelihood
+
+Mitigation measures have been identified for major risks
+
+Mitigation measures have indicators for tracking their implementation
+
+Environmental & social risk classification
+
+The project relies on the use of country systems
+
+Fiduciary (VPC/FMP Criteria)
+
+Non-Fiduciary
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries 
+
+and/or public sector entity in the following dimensions:
+
+Gender Equality Yes
+
+Labor
+
+Environment Yes
+
+Additional (to project preparation) technical assistance was provided to the public sector 
+
+entity prior to approval to increase the likelihood of success of the project
+
+The ex-post impact evaluation of the project will produce evidence to close knowledge gaps 
+
+in the sector that were identified in the project document and/or in the evaluation plan
+Yes
+
+The general objective of the project is to improve income of small fishers in three southern regions of Haiti (South, South-East and Grande Anse), through the sustainable development of artisanal fisheries. The 
+
+project aims to: (i) strengthen the institutional management of the fisheries sector for resource sustainability, and improve sanitary and food safety conditions for marketing of seafood products; (ii) improve the 
+
+quality of fish at landing sites, through improved public infrastructure; and (iii) increase artisanal fisheries productivity and reduce economic losses through the establishment of a rights-based fishery management 
+
+scheme.  A diagnosis of the opportunities and challenges of developing sustainable artisanal fisheries in Haiti is provided, although some key empirical evidence related to resource sustainability is missing. Cognizant 
+
+of this, the project emphasizes the gathering of socio-economic and resource information and in general the interventions and their sequencing respond to the needs identified.
+
+The vertical logic of the project recognizes and embeds both the need to establish sustainable management practices and to enhance income generating opportunities for fishers and merchants. Indicators at all levels 
+
+are SMART and baseline values, yearly targets, and the means for collecting the information is provided. 
+
+The ex-ante economic analysis is in general adequate, although some assumptions are not fully justified. The monitoring and evaluation plan is complete and follows the DEM guidelines. Given the lack of rigorous 
+
+evidence on the effectiveness of the type of interventions promoted by the project, the non-experimental approach proposed for the evaluation is particularly relevant, especially if similar project interventions are 
+
+to be expanded to other parts of the country.
+
+The program will finance public infrastructure, training and matching grants 
+
+targeted towards female merchants (see components II and III). Also, the impact 
+
+evaluation design will allow to measure the specific impact on women 
+
+merchants. 
+
+The project will improve environmental sustaibability of artisanal fishing. See 
+
+paragraph 1.23 of the POD.
+
+The impact evaluation will be conducted by implementing a quasi-experimental 
+
+approach of Difference in Differences combined with Propensity Score 
+
+Matching. This analysis will allow measuring the project effectiveness on 
+
+improving income and environmental sustainability by increasing access to 
+
+productive capital (boats, new fishing techniques, etc.), human capital 
+
+(trainings)  and public infrastructure.  In addition, this evaluation will allow 
+
+comparing the effectiveness of providing matching grants that partially finance 
+
+the cost of productive capital versus providing grants that fully finance access to 
+
+productive capital. Also, the impact evaluation design will allow measuring  the 
+
+specific impact on women merchants. 
+
+Medium
+
+Yes
+
+III. Risks & Mitigation Monitoring Matrix
+
+IV. IDB´s Role - Additionality
+
+Yes
+
+Yes
+
+B
+
+-Regional and sub-regional integration agreements and cooperation initiatives supported
+
+-Farmers given access to improved agricultural services and investments
+
+Aligned
+
+Increase agriculture income in targeted areas
+
+The intervention is included in the 2015 Operational Program.
+
+-Trade openness (trade as percent of GDP)
+
+-Annual growth rate of agricultural GDP (%)
+
+Development Effectiveness Matrix
+
+Summary
+
+Aligned
+
+-Lending to small and vulnerable countries
+
+-Lending for poverty reduction and equity enhancement
+
+-Lending to support regional cooperation and integration
+
+I. Strategic Alignment
+
+
+
+    ANNEX II - HA-L1096  
+
+Page 1 of 5 
+
+ 
+
+RESULTS FRAMEWORK 
+
+Objective: The general objective is to increase revenues of artisanal fishermen in the three southern regions of Haiti through the development of sustainable artisanal 
+
+fishing. The specific objectives are to: (i) strengthen the institutional management of the fisheries sector for resource sustainability and improved sanitary and food 
+
+safety conditionsfor marketing of seafood products; (ii) improve the quality of fish at landing sites through improved public infrastructure; and (iii) increase artisanal 
+
+fisheries productivity and reduce economic losses through the establishment of a rights-based fishery management scheme. 
+
+IMPACTS Baseline 2015 End of Project 
+
+Target 
+
+Comments 
+
+IMPACT 1: Increase net revenues of artisanal 
+
+fishers 
+
+  Source and year of baseline: Preparatory surveys Gachot, 2015, will 
+
+be confirmed by baseline surveys administered in Y1 
+
+Means of verification:  Impact evaluation surveys, Associations 
+
+monitoring system, Fisheries information system  
+Indicator 1.1: Increase average total net revenues 
+
+from fishing and fishing-related activities by 
+
+household 
+
+US$1,640  US$2,458  
+
+IMPACT 2: Improve the environmental 
+
+sustainability of artisanal fishing 
+
+  Source and year of baseline: Preparatory surveys Gachot, 2015, will 
+
+be confirmed by baseline surveys administered in Y1 
+
+Means of verification:  Impact evaluation surveys. Shore=continental 
+
+plateau. 
+Indicator 2.1: % of fishers fishing exclusively on the 
+
+shore out of total number of fishers 
+
+75% 50%  
+
+Indicator 2.2: Establishment of at least one no-take 
+
+zone in the coastal area associated with the scope of 
+
+the project 
+
+0 1 
+
+ 
+
+COMPONENT I: INSTITUTIONAL STRENGTHENING AND FISHERIES INFORMATION SYSTEM 
+
+OUTCOMES Baseline Y1 Y2 Y3 Y4 Y5 End of 
+
+Project 
+
+Comments 
+
+OUTCOMES 
+
+OUTCOME 1: Strengthen 
+
+the institutional management 
+
+of the fisheries sector for 
+
+resource management 
+
+       Source and year of baseline: MARNDR, 2015.International 
+
+conventions  have to be ratified by the parliament. For the FAO 
+
+agreement the verification will be done with documentation 
+
+provided by the Ministry.  
+
+Means of verification: At least 3 from the list below : 
+
+  · The Internation Commission for the Conservation of Atlantic 
+
+Tunas (ICCAT) is responsible for the conservation of tunas and 
+
+other related species in the Atlantic Ocean and adjacent seas 
+
+(1969) 
+
+  · The Convention on International Trade in Endangered Species 
+
+of Wild Fauna and Flora (CITES; 1973) 
+
+  · UN Agreement relating to the Conservation and Management of    
+
+Straddling Fish Stocks and Highly Migratory Fish Stocks (1995) 
+
+  · Safety of Life at Sea (SOLAS; 1974) 
+
+  · The Ramsar Convention (1971) 
+
+  · Convention on Biological Diversity (1993) 
+
+Indicator 1.1: Membership to 
+
+international conventions on 
+
+sustainable fishing (unit: 
+
+number of conventions) 
+
+ 
+
+0   1  2 3 
+
+
+
+    ANNEX II - HA-L1096  
+
+Page 2 of 5 
+
+ 
+
+COMPONENT I: INSTITUTIONAL STRENGTHENING AND FISHERIES INFORMATION SYSTEM 
+
+OUTCOMES Baseline Y1 Y2 Y3 Y4 Y5 End of 
+
+Project 
+
+Comments 
+
+OUTCOMES 
+
+· Convention on marine pollution (MARPOL; 1983) 
+
+  · International Plan of Action to Prevent, Deter, and Eliminate 
+
+Illegal, Unreported and Unregulated Fishing (INN)  
+
+OUTCOME 2: Improve 
+
+health conditions of fishing 
+
+products 
+
+        
+Source and year of baseline: OIE fisheries report, 2008-2009  
+
+Means of verification: OIE reports 
+
+Indicator 2.1: Number of 
+
+health certificates for exports 
+
+given to firms (OIE) 
+
+666   800   1000 
+
+OUTPUTS 
+
+Output 1: Revision and 
+
+formulation of judicial 
+
+instruments for the drafting of 
+
+a framework law on fisheries 
+
+0   1   1 Source and year of baseline: MARNDR , DPAQ 2015 
+
+Means of verification: Biannual project reports 
+
+Output 2: FD offices built and 
+
+equipped (unit: infrastructure) 
+
+0   3   3 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Visual observation during IDB inspection 
+
+visits. 
+
+One office for Fisheries Directorate in Damiens and 2 buildings in 
+
+Pestel and in Les Cayes 
+
+Output 3: Study on 
+
+operational implementation of 
+
+a control and monitoring 
+
+system of marine fisheries 
+
+(unit : study) 
+
+0  1    2 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Rapport semestriel du projet 
+
+Control and monitoring system of marine fisheries, pilot towards a 
+
+rights-based fisheries control system 
+
+Output 4: Implementation 
+
+plans for a system of 
+
+monitoring, control and 
+
+surveillance of diseases as well 
+
+as for a health control system 
+
+for fishing products drafted 
+
+(OSAPISA) (unit: plan) 
+
+0  2    2 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: (i) Biannual project reports;  
+
+(ii) Implementation plan for a system of monitoring, control and 
+
+surveillance of diseases; and (iii) Implementation plan for a health 
+
+control system for fishing products  
+
+Output 5: Additional FD staff 
+
+at decentralized DDA (South, 
+
+South East and Grande Anse) 
+
+in place (unit: staff) 
+
+0 26     26 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Proof of recruitment (contractual term 
+
+prior to first disbursement) 
+
+Additional DDA managers (8) and technicians (18) in departments 
+
+of intervention (Sud, Grande Anse and Sud Est) 
+
+
+
+    ANNEX II - HA-L1096  
+
+Page 3 of 5 
+
+ 
+
+COMPONENT I: INSTITUTIONAL STRENGTHENING AND FISHERIES INFORMATION SYSTEM 
+
+OUTCOMES Baseline Y1 Y2 Y3 Y4 Y5 End of 
+
+Project 
+
+Comments 
+
+OUTCOMES 
+
+Output 6: Managers and 
+
+technicians trained (unit: 
+
+people trained) 
+
+0 2 45   2 49 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports 
+
+Staff trained in : masters ; short term training for DDA managers, 
+
+DPAQ managers and technicians; training of aquatic pathology 
+
+service. 
+
+Output 7: Study on new 
+
+potential markets prepared 
+
+(unit: study) 
+
+0 1   0  1 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports, Study 
+
+Output 8: Outreach campaigns 
+
+conducted (unit: campaign)  
+
+0  2 1   3 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: (i) Biannual project reports; (ii) National 
+
+outreach campaign on the use of ice and health norms;               
+
+(iii) National outreach campaign promoting the consumption of 
+
+fishing products; and (iv) National outreach campaign on 
+
+endangered species. 
+
+Output 9: Fisheries 
+
+information system in place 
+
+(unit: system in place) 
+
+0  1    1 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports 
+
+This system includes: software development ; data collection 
+
+system 
+
+Output 10: Census of 
+
+fishermen conducted (unit: 
+
+census) 
+
+0 1     1 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports, census report, 
+
+dataset 
+
+The census of fishermen will take place nationally and will include 
+
+data on equipment and boats. 
+
+Output 11: Studies  on fishery 
+
+resources and new fishing 
+
+techniques completed (unit: 
+
+study) 
+
+0 3 1 1 1  6 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports 
+
+3 fisheries resources evaluation campaigns (experimental fishing) 
+
+Research on new fishing techniques including artifical reefs, FAD 
+
+(including study of impacts) 
+ 
+
+COMPONENT II: PUBLIC INFRASTRUCTURES 
+
+OUTCOMES Baseline Y1 Y2 Y3 Y4 Y5 End of 
+
+Project 
+
+Comments 
+
+OUTCOME 3: Increase 
+
+quality of fish sold  
+
+       Source and year of baseline: Preparatory surveys Gachot, 2015, 
+
+will be confirmed by baseline surveys administered in Y1 
+
+Means of verification: Impact evaluation surveys in the 
+
+intervention area 
+Indicator3.1: Value of weekly 
+
+sales of fish per woman 
+
+merchant 
+
+US$54       US$74 
+
+
+
+    ANNEX II - HA-L1096  
+
+Page 4 of 5 
+
+ 
+
+COMPONENT II: PUBLIC INFRASTRUCTURES 
+
+OUTCOMES Baseline Y1 Y2 Y3 Y4 Y5 End of 
+
+Project 
+
+Comments 
+
+OUTPUTS 
+
+Output 12: Fish 
+
+reception/unloading areas with 
+
+water supply and wastewater 
+
+disposal systems built (unit: 
+infrastructure and equipment) 
+
+0  1 1   2 Baseline year: 2015 
+
+Means of verification: Visual observation during IDB inspection 
+
+visits. Marigot and Anse d’Hainault 
+
+Includes: 300m2 warehouse, 1 floating pontoon, 1 3000L tank, 2 
+
+manual water pump systems, 1 insulated container. 
+
+Output 13: Fish cleaning areas 
+
+with water supply and 
+
+wastewater disposal systems 
+
+built (unit: infrastructures and 
+
+equipment) 
+
+0  10 7   17 Baseline year: 2015 
+
+Means of verification: Visual observation during IDB inspection 
+
+visits. One by commune of intervention except Jacmel 
+
+Includes: 30m2 warehouse, 1 2000L tank and its setting up, 1 
+
+manual water pump system, 1 20m3 insulated chamber. 
+
+Output 14: Communal public 
+
+markets built and equipped 
+
+with water supply and 
+
+wastewater disposal systems 
+
+(unit: infrastructure and 
+
+equipment) 
+
+0 2  2   4 Baseline year: 2015 
+
+Means of verification: Work acceptance report + visual 
+
+observation during IDB inspection visits. 
+
+Belle Anse (improvement of existing market), Bainet, Aquin, St 
+
+Jean du Sud (local/regional distribution centers) 
+
+Includes: 90m2 warehouse, 1 3000L tank and its setting up, 1 
+
+manual water pump system. 
+
+Output 15: Landing areas 
+
+improved (unit: infrastructure 
+
+and equipment) 
+
+0  21 20 28  69 Baseline year: 2015 
+
+Means of verification Visual observation during IDB inspection 
+
+visits. Beaching trolleys; improvement of accesses on board and 
+
+boat shelters. 
+
+Output 16: Technical 
+
+assistance to the MARNDR for 
+
+the monitoring of the public 
+
+infrastructure works (unit: 
+
+technical assistance) 
+
+0 1     1 Baseline year: 2015 
+
+Means of verification Proof of recruitment (contractual term prior 
+
+to first disbursement),  progress reports, supervision visit reports. 
+
+ 
+
+ 
+
+COMPONENT III: STAKEHOLDERS’ CAPACITY BUILDING 
+
+OUTCOMES 
+
+OUTCOME 4: 
+
+Establishment of rights based 
+
+management systems  
+
+       Source and year of baseline: Macias, 2014  
+
+Means of verification: Fisheries information system and surveys  
+
+Note: The targeted area is composed by five fishing basins defined 
+
+as fishing geographic area with a homogeneity in terms of fisheries 
+
+perspective (eg narrow continental shelf, sandy bottoms, 
+
+techniques and material) that the fishers usually operate together. 
+
+Indicator 4.1: Fishing basins 
+
+with rights based fishery 
+
+management  established (unit: 
+
+number) 
+
+0     2 2 
+
+
+
+    ANNEX II - HA-L1096  
+
+Page 5 of 5 
+
+ 
+
+COMPONENT III: STAKEHOLDERS’ CAPACITY BUILDING 
+
+OUTCOMES 
+
+OUTCOME 5: Increase 
+
+artisanal fishing productivity 
+
+       Source and year of baseline: Preparatory surveys Gachot, 2015, 
+
+will be confirmed by baseline surveys administered in Y1 
+
+Means of verification: Fisheries information system and surveys 
+
+(Total catches of pelagic fishes per boat / total number of fishing 
+
+trips per month) / number of fishers per boat 
+
+Indicator 5.1: Catches of 
+
+pelagic fishes by trip and by 
+
+fisher (unit: KG) 
+
+0.373      1 
+
+OUTCOME 6: Reduce 
+
+economic losses 
+
+       Source and year of baseline: Preparatory surveys Gachot, 2015, 
+
+will be confirmed by baseline surveys administered in Y1 
+
+Means of verification: Impact evaluation surveys in the 
+
+intervention area 
+Indicator 6.1: Percentage of 
+
+total catches sold fresh (%) 
+
+69%      78.3% 
+
+OUTPUTS 
+
+Output 17: Fishers 
+
+associations trained (unit: 
+
+association) 
+
+0  40 15   55 Source and year of baseline: MARNDR, 2015 
+
+Means of verification: Biannual project reports 
+
+100% of fishers are men 
+
+Output 18: Merchants 
+
+associations trained (unit: 
+
+association) 
+
+0  10  15  25  Source and year of baseline: Rapport Javier Macias, 2015 
+
+Means of verification: Biannual project reports 
+
+100% of the beneficiaries of the merchant training will be women 
+
+Output 19: Fishers and 
+
+Merchants associations having 
+
+access to technologies through 
+
+matching grant system (unit: 
+
+association) 
+
+0   20 20 15 55 Source and year of baseline: Rapport Javier Macias, 2015 
+
+Means of verification: Biannual project reports 
+
+Associations will be able to choose from a list of predefined 
+
+technologies. 
+
+Output 20: Pilot on new 
+
+fishing techniques 
+
+implemented in the targeted 
+
+area and rights based 
+
+management fishery system 
+
+(unit=pilot) 
+
+0     1 1 Source and year of baseline: the implementation of this pilot will 
+
+be based on the studies conducted in component I.  
+
+Means of verification: Biannual project reports 
+
+Output 20.1: Number of 
+
+beneficiaries of improved 
+
+management and sustainable 
+
+use of natural and cultural 
+
+capital 
+
+0     4490 4490 Core Sector Indicator (CSI) 
+
+Number of total beneficiairies in the associations. To be 
+
+desagregated as follows: 
+
+2829 fishers (men) and 1661 merchants (women) 
+
+ 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 1 of 8 
+
+ 
+
+ 
+
+FIDUCIARY ARRANGEMENTS 
+
+ 
+
+COUNTRY:    Republic of Haiti 
+
+PROJECT Nº :  HA-L1096 
+
+NAME:  Artisanal Fisheries Development Program 
+
+EXECUTING AGENCY:  The Ministry of Agriculture, Natural Resources and Rural 
+
+Development (MARNDR) 
+
+FIDUCIARY TEAM:  Marise E. Salnave and Romina Kirkagacli (FMP/CHA) 
+
+ 
+
+I. Executive Summary 
+ 
+
+1.1 The objective of the project is to improve income of small fishers in three southern 
+regions of Haiti (South, South-East and Grand Anse) through the sustainable 
+
+development of artisanal fisheries. The Ministry of Agriculture, Natural Resources and 
+
+Rural Development (MARNDR) will execute the project through its Fishery Directorate 
+
+(FD). Financial management aspects will be handled through the fiduciary team of the 
+
+MARNDR’s BCP-ProGEBA unit while the Central Procurement Unit of the Ministry 
+
+(“Unité de Passation des Marchés Publics” - UPMP for its French acronym) will execute 
+
+all procurement activities.  
+
+ 
+
+1.2 The project amount is US$16,500,000 financed by the IDB Grant Facility up to the 
+amount of US$15,000,000 and the national counterpart up to the amount of 
+
+US$1,500,000. 
+
+ 
+
+II. General Context of National Financial Management and Procurement Systems 
+ 
+
+2.1 The most recent evaluation of the public financial management systems of the Republic   
+of Haiti is contained in the Public Expenditure and Financial Accountability (PEFA) 
+
+assessment report conducted in 2011 and published in February 2012. Country financial 
+
+management systems and external control mechanism, as evidenced by this latest 
+
+diagnostic, would require further improvements to conform to levels consistent with 
+
+fiduciary management of Bank’s funded projects. As a result, no country systems will be 
+
+used for the financial management of the project.  
+
+ 
+
+2.2 An evaluation of the National Procurement System was performed in 2013, applying the 
+methodology established by the Organization for Economic Co-operation and 
+
+Development (OECD/DAC). A certain number of recommendations were identified 
+
+through an action plan for the modernization of the national procurement system; 
+
+however, the implementation of this plan still needs to be initiated. Based on the current 
+
+situation and the need to align the national system to international standards and best 
+
+practices, the Bank’s procurement policies will govern procurement activities foreseen 
+
+under this program. 
+
+2.3 To mitigate these risks the Bank will continue in the foreseeable future to: (i) rely on 
+special project execution units for the execution of all projects; and (ii) to implement 
+
+special fiduciary arrangements for the implementation of its projects and to conduct close 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 2 of 8 
+
+ 
+
+ 
+
+operation supervision of project execution units. External control will be performed for 
+
+all Bank operations by independent audit firms acceptable to the Bank in accordance with 
+
+the Bank’s financial reporting and audit guide. 
+
+ 
+
+III. Executing Agency´s Fiduciary Context  
+ 
+
+3.1 The MARNDR will execute the project through its FD and will be responsible for the 
+overall management of the project including the preparation of the PEP and POA, 
+
+technical supervision of activities as well as the monitoring and evaluation of project 
+
+results. Financial management aspects will be handled through the fiduciary team of 
+
+MARNDR’s BCP-ProGEBA unit which has extensive experience in the financial 
+
+management of Bank financed operations
+1
+ and will report to the Director of the FD. 
+
+BCP-ProGEBA will be responsible for the overall administrative and financial 
+
+management of project resources including budgeting, accounting and reporting on use of 
+
+funds, payments and disbursement requests and the recruitment project auditors.  The 
+
+implementation of this new project will result in an increase in workload which may have 
+
+an impact on project execution.  
+
+ 
+
+3.2 The UPMP, created through the Ministerial Decree “M-AIDG/(C-17)09-13:1659 (bis)” 
+on September 17, 2013, has been in place and operational since early 2014. Based on 
+
+findings of the technical assistance conducted by the Bank’s procurement team, this Unit 
+
+has proved to possess a solid technical knowledge in the application of Bank’s 
+
+procurement policies. The Coordinator of the Unit, a Senior Procurement Specialist who 
+
+has worked in specific Bank projects in the past, has been handling all procurement 
+
+activities of the Ministry with a high focus on the quality of the processes and an 
+
+increased collaboration with the technical teams. The Unit is composed of several 
+
+procurement specialists and has an organized system to treat purchase requests and 
+
+conduct procurement processes and is now working on the establishment of an improved 
+
+filing system. With an increased number of projects handled by this Unit, the 
+
+management of the workload may have an impact on execution. 
+
+ 
+
+IV. Fiduciary Risk Evaluation and Mitigation Actions  
+ 
+
+4.1 The latest assessment of BCP-ProGEBA was updated in July 2014 and confirms 
+improvement in its financial management risk rating from medium to low.                 
+
+BCP-ProGEBA has updated its accounting system and its accounting manual to include 
+
+mechanisms followed for the monitoring of budget, the safeguarding of financial 
+
+information, and the management of fixed assets. Nonetheless, due to the increase in 
+
+volume and complexity of new projects being assigned to the fiduciary team of         
+
+BCP-ProGEBA (HA-L1050 and HA-L1096), the Bank considers financial management 
+
+risk rating to be medium and to mitigate this risk recommends the strengthening of its 
+
+accounting team with the hiring of an administrator, an accountant and an administrative 
+
+assistant dedicated to the implementation of this new project. In addition the operation 
+
+                                                 
+1
+  The unit has successfully executed operations HA0016, HA-L1021 in the Artibonite Valley and is currently 
+
+implementing HA-L1087. 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 3 of 8 
+
+ 
+
+ 
+
+manual of the project will include among other sections: (i) procedures for the approval 
+
+and disbursement of funds; (ii) chart of accounts; and (iii) policy and procedures for 
+
+inventory administration. The hiring of the administrator, the accountant and the 
+
+administrative assistant and the approval of the project’s operation manual will be 
+
+condition prior to first disbursements. In addition, during the first year of the project, 
+
+Bank’s Fiduciary staff will conduct inspection visits on a semi-annual basis to review the 
+
+execution of financial plan, the preparation of financial reports and the review of project 
+
+expenses and documentation. 
+
+ 
+
+4.2 The fiduciary risk level for procurement under this project is defined as medium mainly 
+due to the workload that is being handled by the UPMP through the procurement 
+
+execution of several projects. The following specific risks and related mitigation 
+
+measures have been identified: (i) clearance of all procurement processes is currently 
+
+centralized with the coordinator of the Unit which can result in delays in procurement 
+
+execution. Mitigation: A procurement specialist with the required qualifications will be 
+
+hired in order to support the additional workload of the Unit; (ii) with a centralized 
+
+structure, the high number of transactions may also negatively impact the execution 
+
+timeframe. Mitigation: The Unit will work on consolidated procurement plans in order to 
+
+improve its planning capacity and identify recurrent purchases so as to reduce 
+
+transactional costs and achieve best value for money; (iii) the increased number of 
+
+contracts handled by the Unit may impede the effectiveness of contract management. 
+
+Mitigation: Identify a mechanism to ensure proper follow up on contract management 
+
+matters; (iv) the technical staff has not executed Bank’s projects previously and is new to 
+
+Bank’s procurement policies and procedures. Mitigation: As for all other projects, it is 
+
+recommended that the technical staff is trained on procurement matters such as: 
+
+preparation of Terms of Reference, establishment of selection criteria, evaluation of 
+
+technical and financial offers and contract monitoring during execution; and (v) while a 
+
+filing system has been put in place, the Unit does not have a dedicated space to stock 
+
+archives and does not have a person dedicated to the management of files. Mitigation: 
+
+Recruitment of a dedicated person for the management of archives. 
+
+ 
+
+V. Aspects to be Considered in the Special Conditions of Contract 
+ 
+
+1. Special conditions precedent to first disbursement: 
+ 
+
+5.1 Special Accounts: FD will open two separate bank accounts (in US dollars and in local 
+currency) for the management of grant resources. Local counterpart funds will be 
+
+processed through the Compte Unique du Trésor (CUT- according to its French acronym) 
+
+the MARNDR single treasury account which became operational in October 2014 for 
+
+funds disbursed by the Government of Haiti. 
+
+ 
+
+5.2 The preparation of an operation manual to include: (i) procedures for the approval and 
+disbursement of funds; (ii) chart of accounts; and (iii) inventory, equipment and 
+
+consumable stocks management and fuel consumption control procedures.  
+
+ 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 4 of 8 
+
+ 
+
+ 
+
+5.3 The Central Bank exchange rate at the day of transaction will be used at the reference 
+rate. 
+
+ 
+
+5.4 Procurement: A procurement specialist with the required qualifications will be hired in 
+order to support the workload of the UPMP. 
+
+ 
+
+5.5 Special audit and financial reporting requirements: (i) Audit of project: external 
+auditors eligible to the Bank will be hired by the FD to perform the audit of the program 
+
+as follows: one annual financial audit of the program including the audit the internal 
+
+control processes and the review of procurement processes to be submitted within 120 
+
+days following the end of each fiscal year and a final financial audit of the program to be 
+
+submitted within 120 days after the date of the last disbursement.  For accounting and 
+
+audit purposes, the Haitian fiscal year will be respected; and (ii) during the first year of 
+
+execution, the project will also submit quarterly unaudited financial reports 45 days after 
+
+the end of each quarter. For the following years, the frequency for the submission of 
+
+unaudited reports will be based on risk evaluation updates determined during supervision 
+
+missions. 
+
+ 
+
+5.6 Special disbursement: An initial disbursement of up to US$125,000 will be made to the 
+extent the beneficiary fulfills, to the Bank’s satisfaction, all the standard general 
+
+conditions prior to disbursement set forth in grant agreements, except for (i) the 
+
+submission of the initial execution report; and (ii) evidence of reliable financial 
+
+information systems and internal control mechanism. US$125,000 will enable the 
+
+executing agency to fulfill all the conditions prior to first disbursement and shall include: 
+
+(i) the hiring of the administrator, the accountant and the administrative assistant to 
+
+strengthen the fiduciary team of the BCP-ProGEBA; (ii) the hiring of a procurement 
+
+specialist to support the Coordinator of the UPMP; (iii) the selection of a consultant 
+
+responsible for elaborating the operation manual of the program; (iv) the hiring of a 
+
+planning, monitoring and evaluation specialist to support the FD Coordinator; (v) the 
+
+hiring of a consultant for the formatting of the BCP-ProGEBA accounting system to 
+
+include the chart of accounts of this new operation and the financial reports to be 
+
+submitted to the Bank including the training of new accounting personnel; and (vi) the 
+
+purchase of office and Information Technology (IT) equipment. 
+
+ 
+
+VI. Fiduciary Arrangements for Procurement Execution  
+ 
+
+6.1 The procurement fiduciary arrangements establish the conditions applicable to all 
+procurement execution activities in the project. 
+
+ 
+
+1. Procurement Execution  
+ 
+
+6.2 All project related procurement activities will be performed by the MARNDR 
+Procurement Unit following the Bank’s Procurement Policies: Policies for the 
+
+Procurement of Goods and Works financed by the Inter-American Development Bank 
+
+(GN-2349-9) and Policies for the Selection and Contracting of Consultants financed by 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 5 of 8 
+
+ 
+
+ 
+
+the Inter-American Development Bank (GN-2350-9) and the Special Procurement 
+
+Provisions for Haiti (GN-2654). 
+
+ 
+
+a. Procurement of works, goods and non-consulting services: The contracts for works, 
+goods, and non-consulting services
+
+2
+ generated under the project and subject to 
+
+International Competitive Bidding will be executed through the use of the Standard 
+
+Bidding Documents (SBDs) issued by the Bank. The processes subject to National 
+
+Competitive Bidding (NCB) will be executed through the use of National Bidding 
+
+Documents agreed to by the Bank. The technical specifications review during the 
+
+preparation of the selection process, is the responsibility of the project sector specialist. 
+
+Some contracts for the purchase of equipment will be executed using matching grant 
+
+mechanisms (the cost of the equipment will be borne by the project and partially through 
+
+beneficiaries’ contributions). As such, specific contractual modalities will be identified in 
+
+order to reflect this specific execution mechanism. A contract with a financial institution 
+
+is foreseen to allow the purchase of this equipment by fishermen associations through a 
+
+voucher system.  
+
+b. Selection and contracting of consultants: The consulting services contracts generated 
+under this project will be executed through the use of the Standard Request for Proposals 
+
+(SRFPs) issued or agreed to by the Bank. The terms of reference review for the selection 
+
+of consulting services is the responsibility of the project sector specialist. 
+
+c. Selection of individual consultants: The selection will be made in accordance with 
+Bank’s Procurement rules and procedures and will consist in evaluating the capacity of at 
+
+least three candidates against set and agreed Terms of References.  
+
+d. Direct contracting: No Direct Contracting is foreseen under this project for the time 
+being. Should any direct contracting be required during the execution of the operation, a 
+
+revised Procurement Plan will reflect this change and will be submitted to the Bank for 
+
+non-objection. 
+
+2. Thresholds (thousands US$) 
+ 
+
+6.3 The thresholds established in the Special Procurement Provisions for Haiti (GN-2654), 
+until these will be in place, will be applied to the procurement activities foreseen under 
+
+this operation, as detailed in the following table: 
+
+ 
+Table 1. Thresholds in force since January 1, 2012 (In thousands of US$) 
+
+HAITI   
+
+Works Goods Consulting Services 
+
+International 
+
+Competitive 
+
+Bidding 
+
+National Competitive 
+
+bidding / Price 
+
+Comparison 
+
+International 
+
+Competitive 
+
+Bidding 
+
+National Competitive 
+
+bidding / Price 
+
+Comparison 
+
+Short list of national 
+
+firms only 
+
+>1.000 <1.000 >100 <100 <100 
+
+ 
+ 
+
+                                                 
+2
+  Policies for the Procurement of Goods and Works Financed by the Inter-American Development Bank (GN-2349-9) paragraph 1.1: The services 
+
+different to consulting services have a similar process as procurement of goods. 
+
+
+
+ANNEX III – HA-L1096 
+
+Page 6 of 8 
+
+ 
+
+ 
+
+3. Main Procurement Activities 
+
+Table 2. Main Procurement Activities 
+
+Activity Procureme
+
+nt Method 
+
+Estimated 
+
+Date 
+
+Estimated Amount 
+
+thousands US$ 
+
+Goods    
+
+Purchase of  70 boats ICB Feb-2016 385,000 
+
+Purchase of  80 engines ICB Feb-2016 320,000  
+
+Purchase of 930  coolers for fish merchants ICB Feb-2016 210,000  
+
+Works    
+
+Construction of 23 fisheries infrastructures  
+ICB Jan-2016 1,700,000  
+
+Construction of  2 docks  (Marigot et Anse d'Hainault) ICB Jan-2016 510,000  
+
+Services    
+
+Contract with financial institution for the provision of vouchers to 
+
+fishers’ associations 
+
+NCB Jan-2016 60,000 
+
+Preparation of a national census of fishermen ICB Jan-2016 400,000 
+
+Firms    
+
+Supervision of fisheries infrastructure works QCS Jan-2016 1,756,000  
+
+Operators to strengthen fishermen’s associations QCS Mar-2016 1,200,000  
+
+Communication campaign QCS Mar-2016 525,000  
+
+Design and implementation of an  information system for 
+
+fisheries 
+
+QCS April-2016 450,000  
+
+*To access the 18 month procurement plan, click here  
+
+ 
+
+4. Procurement Supervision 
+ 
+
+6.4 Based on the risks identified under Section II above, the major procurement activities 
+foreseen under this operation will be subject to ex ante review by the Bank. Procurement 
+
+activities using the shopping method for goods and for works falling below the threshold 
+
+of US$200,000 and the recruitment of individual consultants selected under a competitive 
+
+method will be subject to ex post review. The external audit firm recruited under this 
+
+operation as per paragraph 4.2 will conduct the ex-post review on these contracts, on 
+
+behalf of the Bank. 
+
+ 
+
+5. Records and Files 
+ 
+
+6.5 The executing agency will be required to keep files and track records of all procurement 
+related activities financed by the Bank in their office in accordance with the Bank’s 
+
+procurement rules and procedures and to the project’s operational rules in such a way that 
+
+pcdocs://IDBDOCS/39542989/R
+
+
+ANNEX III – HA-L1096 
+
+Page 7 of 8 
+
+ 
+
+ 
+
+it be available for supervision visit by the fiduciary team. It is also recommended that the 
+
+executing agency develops electronic filing so as to ensure the efficiency of the system. It 
+
+is important however to note that the national legislation in Haiti does not recognize 
+
+electronic documents, hence this filing method should not replace paper files. 
+
+ 
+
+VII. Financial Management 
+ 
+
+A. Programming and Budget 
+ 
+
+7.1 Programming and budget execution and monitoring at the project level will rely on the 
+Bank’s project financial management formats and procedures. The FD will prepare 
+
+annually, an operation plan (AOP) which includes a procurement plan and a            
+
+twelve-month detailed financial plan. The financial plans will respect the budget lines 
+
+defined in the grant agreement (investment categories). During the first year of execution, 
+
+the program’s financial plans will be reviewed on a quarterly basis.  
+
+ 
+
+B. Accounting and Information Systems 
+ 
+
+7.2 BCP-ProGEBA’s financial management systems will be used for the financial 
+management of the project. The system will be programmed to generate income and 
+
+expense reports by investment categories and source of funds and to generate financial 
+
+statements required by bank. 
+
+ 
+
+C. Disbursements and Funds Flow  
+ 
+
+7.3 Advance of funds methodology will be used for the disbursement of project funds for an 
+amount equivalent to three-month funding needs.  The FD will open separate bank 
+
+accounts for the management of grant resources. Disbursement Supervision will be 
+
+expost. As specified in section 5.6 above, an initial disbursement of up to US$125,000 
+
+will be made by the Bank grant to fulfill conditions prior to first disbursements. No 
+
+financial resources of the program will be transferred to participating associations and 
+
+stakeholders, with the exception of a limited budget during the first four years of the 
+
+program for the strengthening of the capacity of local actors including fishermen and 
+
+sellers through their association to be implemented by Departmental Agricultural 
+
+Directorate (DDA) via a technical assistance to be provided by an experienced operator 
+
+(one operator per department in the South and Grand’Anse) to be financed under 
+
+Component III of the program. The local national counterpart will be used to finance 
+
+operation costs including the strengthening of the FD human resources personnel at the 
+
+decentralized level; managerial (eight) and technical (18) staff. GoH funding will be 
+
+processed through the MARNDR single treasury account. The project will also subsidize 
+
+the purchase of equipment through matching grants based on eligible criteria is to be 
+
+defined in the operation manual. Funds will be used for the purchase of improve 
+
+productive equipment. Each association will contribute to a certain percentage of the cost 
+
+based on their financial capacity and further defined in the operation manual. Exchange 
+
+rate valid at the day of transaction will be used to record all expenses made in local 
+
+currency. The Central Bank exchange rate will be used at the reference rate.  
+
+
+
+ANNEX III – HA-L1096 
+
+Page 8 of 8 
+
+ 
+
+ 
+
+ 
+
+D. Internal Control and Audit 
+ 
+
+7.4 The internal auditor of MARNDR will fulfill the internal audit function. The internal 
+control environment of the project will be strengthened with the preparation and 
+
+implementation of the project operation manual referred to in section 4.2. 
+
+ 
+
+E. External Control and Reporting 
+ 
+
+7.5 Audits will be performed in accordance with Bank’s Guidelines for Financial Reports and 
+External Audits as described in point 4.5. Financial audit cost will be financed by IDB 
+
+grant and estimated at US$200,000. The program financial statements will correspond to 
+
+the fiscal year. The audit firm will carry out audit on the basis of specific terms of 
+
+reference to be agreed between the FD and the Bank. During the first year of execution, 
+
+the project will also submit quarterly unaudited financial reports 45 days after the end of 
+
+each quarter. The frequency for the submission of unaudited report, for subsequent years, 
+
+will be based on risk evaluation updates determined during supervision missions. 
+
+ 
+
+F. Financial Supervision Plan 
+ 
+
+7.6 During the first year of execution, Fiduciary staff will review the execution of financial 
+plan on a quarterly basis and on a semi-annual basis for the following years. Semi-annual 
+
+inspection visit will be performed by financial management specialist, during the first 
+
+year of execution however frequency of visit are subject to change based on findings 
+
+raised during supervision missions. 
+
+ 
+
+G. Execution Mechanism 
+ 
+
+7.7 The FD will maintain proper financial management systems and will prepare AOPs (see 
+7.1.) indicating cash flow needs for the execution of program’s activities. The        
+
+twelve-month financial plan will serve as the basis for advance of funds disbursements. 
+
+Disbursement of advances of funds will be for the equivalent of funding needs required 
+
+for three months of program execution. Fund flows will be executed as stated in point 
+
+7.3. 
+
+
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROPOSED RESOLUTION DE-__/15 
+
+ 
+
+ 
+
+ 
+
+Haiti. Nonreimbursable Financing ____/GR-HA to the Republic of Haiti 
+
+Artisanal Fisheries Development Program 
+
+ 
+
+ 
+
+ 
+
+The Board of Executive Directors 
+
+ 
+
+RESOLVES: 
+
+ 
+
+That the President of the Bank, or such representative as he shall designate, is authorized, 
+
+in the name and on behalf of the Bank, as Administrator of the IDB Grant Facility (hereinafter 
+
+referred to as the “Account”), to enter into such contract or contracts as may be necessary with 
+
+the Republic of Haiti, as Beneficiary, for the purpose of granting it a nonreimbursable financing 
+
+to cooperate in the execution of the Artisanal Fisheries Development Program. Such 
+
+nonreimbursable financing will be for an amount of up to US$15,000,000, which form part 
+
+of the Account, and will be subject to the Terms and Financial Conditions and the Special 
+
+Contractual Conditions in the Project Summary of the Grant Proposal. 
+
+ 
+
+ 
+
+ 
+
+(Adopted on ___ ____________ 2015) 
+
+ 
+
+ 
+
+ 
+LEG/SGO/HA/IDBDOCS#39566710 
+HA-L1096 
+
+
+
+
+

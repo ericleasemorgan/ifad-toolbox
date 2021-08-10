@@ -1,0 +1,179 @@
+id	sid	eid	entity	type
+WB2	1	1	1	CARDINAL
+WB2	1	2	8	CARDINAL
+WB2	1	3	PID/ISDS	ORG
+WB2	1	4	ADDITIONAL FINANCING Report No	ORG
+WB2	2	1	PIDISDSA16622 Date Prepared/Updated:	PERSON
+WB2	2	2	17-Mar-2016	CARDINAL
+WB2	4	1	Basic Project Data Country	ORG
+WB2	4	2	Djibouti	GPE
+WB2	4	3	P157282 Parent Project	ORG
+WB2	4	4	Second	ORDINAL
+WB2	4	5	the Rural Community Development and Water Mobilization Project	ORG
+WB2	4	6	DJ-Rural Community Development and Water Mobilization Project (PRODERMO	ORG
+WB2	4	7	MIDDLE EAST	LOC
+WB2	4	8	NORTH AFRICA Estimated Appraisal Date:	ORG
+WB2	4	9	Estimated Board	ORG
+WB2	4	10	31-May-2016	TIME
+WB2	4	11	Agriculture Lending Instrument:	ORG
+WB2	4	12	30%	PERCENT
+WB2	4	13	30%	PERCENT
+WB2	4	14	30%	PERCENT
+WB2	4	15	10%	PERCENT
+WB2	4	16	50%	PERCENT
+WB2	4	17	30%	PERCENT
+WB2	4	18	20%	PERCENT
+WB2	4	19	Ministry of Economy and Finance in Charge of Planning and Industry Implementing Agency	ORG
+WB2	4	20	Ministry of Agriculture Water, Fisheries	ORG
+WB2	4	21	Livestock	ORG
+WB2	4	22	USD Million	CARDINAL
+WB2	4	23	International Development Association	ORG
+WB2	4	24	IDA	ORG
+WB2	4	25	7.00	CARDINAL
+WB2	4	26	2	CARDINAL
+WB2	4	27	8	CARDINAL
+WB2	6	1	Djibouti	GPE
+WB2	7	1	daily	DATE
+WB2	9	1	annual	DATE
+WB2	9	2	150 mm	QUANTITY
+WB2	10	1	more than 70 percent	PERCENT
+WB2	11	1	three-to	QUANTITY
+WB2	11	2	four-month	DATE
+WB2	12	1	Context Climate	ORG
+WB2	13	1	1.7-2.1	CARDINAL
+WB2	13	2	2050	DATE
+WB2	13	3	4-11 percent	PERCENT
+WB2	17	1	GoD	PRODUCT
+WB2	17	2	Ethiopia	GPE
+WB2	18	1	C. Proposed Development	PERSON
+WB2	19	1	Results � Increase	PERSON
+WB2	19	2	two hours	TIME
+WB2	19	3	20 km	QUANTITY
+WB2	19	4	� Increase	ORG
+WB2	20	1	Communities	PERSON
+WB2	20	2	3	CARDINAL
+WB2	21	1	Component Name Priority Community Investment Subprojects Comments	ORG
+WB2	21	2	AF-2	ORG
+WB2	21	3	US$4.0 million	MONEY
+WB2	21	4	57%	PERCENT
+WB2	22	1	priority community investment	ORG
+WB2	24	1	Fisheries	ORG
+WB2	25	1	US$1.6 million	MONEY
+WB2	25	2	23%	PERCENT
+WB2	27	1	AF-2	ORG
+WB2	27	2	Water Users Associations	ORG
+WB2	27	3	WUA	ORG
+WB2	30	1	Component Name Project Coordination and Management Comments	ORG
+WB2	30	2	US$1.1 million	MONEY
+WB2	30	3	15.7%	PERCENT
+WB2	33	1	E. Project	ORG
+WB2	33	2	AF-2	ORG
+WB2	33	3	4	CARDINAL
+WB2	33	4	8	CARDINAL
+WB2	35	1	12	CARDINAL
+WB2	35	2	six	CARDINAL
+WB2	35	3	three	CARDINAL
+WB2	35	4	Obock	GPE
+WB2	35	5	Fididiss-Allaylou	ORG
+WB2	35	6	Moulhoulé-Andoli	PERSON
+WB2	35	7	Saday-Waddi	PERSON
+WB2	35	8	Tadjoura	GPE
+WB2	35	9	Garabtissam- Balho	PERSON
+WB2	35	10	two	CARDINAL
+WB2	35	11	Dikhil	PERSON
+WB2	35	12	Kori-Gagadé	ORG
+WB2	35	13	Dawdaya-Der Ela	PERSON
+WB2	36	1	Two	CARDINAL
+WB2	37	1	Goubet	ORG
+WB2	37	2	Arta-Plage	ORG
+WB2	38	1	Environmental and Social Impact Assessment Framework	ORG
+WB2	38	2	PRODERMO	ORG
+WB2	39	1	Environmental and Social Management Framework	ORG
+WB2	40	1	F. Environmental and	ORG
+WB2	40	2	Ishanlosen Odiaua	PERSON
+WB2	41	1	Implementation Institutional and Implementation Arrangements	ORG
+WB2	42	1	The Ministry of Agriculture, Water, Fisheries	ORG
+WB2	42	2	AF-2	ORG
+WB2	43	1	Obock	GPE
+WB2	43	2	Tadjourah	PERSON
+WB2	43	3	Dikhil	PERSON
+WB2	43	4	AF-2	ORG
+WB2	44	1	AF-2	ORG
+WB2	44	2	Community Management Committees	ORG
+WB2	44	3	the Local Development Committee	ORG
+WB2	44	4	National Steering Committee	ORG
+WB2	45	1	III	ORG
+WB2	46	1	Safeguard Policies Triggered	ORG
+WB2	47	1	PRODERMO-AF-2	ORG
+WB2	48	1	4.09	CARDINAL
+WB2	48	2	AF-1	ORG
+WB2	49	1	5	CARDINAL
+WB2	49	2	8	CARDINAL
+WB2	49	3	Physical Cultural Resources OP	LAW
+WB2	49	4	4.12	CARDINAL
+WB2	58	1	2	CARDINAL
+WB2	60	1	3	CARDINAL
+WB2	62	1	N/A 4	ORG
+WB2	65	1	AF-1	ORG
+WB2	65	2	ESMF	ORG
+WB2	66	1	the Environmental and Social Management Plan	ORG
+WB2	66	2	6	CARDINAL
+WB2	66	3	8	CARDINAL
+WB2	69	1	monthly	DATE
+WB2	69	2	the Environmental and Social Management Framework	ORG
+WB2	69	3	Bank for review	ORG
+WB2	70	1	OP	PERSON
+WB2	70	2	4.01	CARDINAL
+WB2	73	1	OP/BP 4.12	ORG
+WB2	74	1	AF-1	ORG
+WB2	75	1	5	CARDINAL
+WB2	77	1	ESMF	ORG
+WB2	77	2	18	CARDINAL
+WB2	77	3	one	CARDINAL
+WB2	79	1	the Bank 16-Mar-2016 Date	ORG
+WB2	79	2	16-Mar-2016	DATE
+WB2	79	3	Disclosure Comments: If the project triggers the Pest Management and/or Physical Cultural Resources	WORK_OF_ART
+WB2	79	4	the Environmental Assessment/ Audit	ORG
+WB2	79	5	EMP	ORG
+WB2	80	1	EMP	WORK_OF_ART
+WB2	81	1	NA	ORG
+WB2	81	2	the Regional Environment Unit	ORG
+WB2	81	3	EA	PERSON
+WB2	82	1	NA	ORG
+WB2	82	2	EMP	ORG
+WB2	83	1	NA	ORG
+WB2	83	2	The World Bank Policy on Disclosure of Information	ORG
+WB2	83	3	the World Bank's	ORG
+WB2	84	1	NA	ORG
+WB2	84	2	7	CARDINAL
+WB2	84	3	8	CARDINAL
+WB2	85	1	NA	ORG
+WB2	85	2	All Safeguard Policies	WORK_OF_ART
+WB2	86	1	NA	ORG
+WB2	87	1	NA	ORG
+WB2	88	1	NA	ORG
+WB2	89	1	NA	ORG
+WB2	89	2	V. Contact	PERSON
+WB2	89	3	World Bank Contact	ORG
+WB2	89	4	Mohamed Medouar	PERSON
+WB2	89	5	Sr Agricultural Spec	ORG
+WB2	90	1	Borrower/Client/Recipient Name	ORG
+WB2	90	2	Ministry of Economy and Finance in Charge of Planning and Industry Contact	ORG
+WB2	90	3	H. E. Mr.	PERSON
+WB2	90	4	Ilyas Moussa Dawaleh Title	PERSON
+WB2	90	5	Email	PERSON
+WB2	90	6	Ministry of Agriculture Water, Fisheries	ORG
+WB2	91	1	The InfoShop The World Bank 1818 H Street	ORG
+WB2	91	2	NW	GPE
+WB2	91	3	Washington	GPE
+WB2	91	4	202	CARDINAL
+WB2	91	5	458	CARDINAL
+WB2	91	6	202	CARDINAL
+WB2	91	7	522-1500	CARDINAL
+WB2	92	1	Mohamed Medouar	PERSON
+WB2	92	2	Nina Chee	PERSON
+WB2	92	3	SA	ORG
+WB2	92	4	18-Mar-2016 Page 8	DATE
+WB2	92	5	8	CARDINAL
+WB2	92	6	Steven N. Schonberger	PERSON
+WB2	92	7	18-Mar-2016	DATE

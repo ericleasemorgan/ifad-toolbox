@@ -1,0 +1,871 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+  
+Jun 16, 2019 Page 1 of 10  
+
+     
+
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 28-Jun-2019 | Report No: PIDC27269 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+  
+Jun 16, 2019 Page 2 of 10  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Cambodia P171331  Land Allocation for 
+Social and Economic 
+Development Project III 
+(P171331) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EAST ASIA AND PACIFIC Feb 28, 2020 Jun 19, 2020 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Kingdom of Cambodia Ministry of Land 
+Management Urban 
+Planning and Construction 
+(MLMUPC), Ministry of 
+Agriculture, Forestry and 
+Fisheries (MAFF), National 
+Committee for Sub-National 
+Democratic and 
+Development Secretariat 
+(NCDDS) 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The project development objective is to help improve target beneficiaries' access to agriculture resources and selected 
+infrastructure and social services in project communities. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 100.00 
+
+Total Financing 70.00 
+
+of which IBRD/IDA 60.00 
+
+Financing Gap 30.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+  
+Jun 16, 2019 Page 3 of 10  
+
+     
+
+     International Development Association (IDA) 60.00 
+
+          IDA Credit 60.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 10.00 
+
+          Borrower/Recipient 10.00 
+
+   
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+High  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+
+Other Decision (as needed) 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Over the past two decades, Cambodia has undergone a significant transition, reaching lower middle-
+income economy by raising its per capita income from USD 250 in 1995 to an estimated USD 1,230 in 2017. Driven 
+by garment exports and tourism, Cambodia has sustained an average growth rate of 7.7% between 1995-2018, 
+ranking sixth in the world1, among the fastest-growing economies in the world and has achieved impressive gains in 
+poverty reduction. As global demand peaks in 2018, economic growth is estimated to have reached 7.5%, compared 
+to 7% in 2017. Growth is expected to remain robust over the medium term. Growth was accompanied by a significant 
+decline in poverty incidence, which dropped from 47 percent in 2007 to about 13 percent in 2013 thanks largely to 
+high agriculture commodity prices globally as well as strong job creation in manufacturing and services. Around 3.6 
+million jobs in industry and services were created over the past two decades. Cambodia’s growth has been pro-poor. 
+The percentage of Cambodians living under the national poverty line fell from 47.8 percent in 2007 to 13.5 percent 
+in 2014, according to official estimates. The Gini coefficient declined to 0.30 in 2014 from 0.34 in 2009. Cambodia 
+has made significant progress in attaining the Millennium Development Goals. Since 1990, the country has more than 
+halved extreme poverty and maternal mortality, achieved nearly universal primary education enrollment, and made 
+significant progress in combating HIV/AIDS. Poverty reduction was particularly dramatic from 2007 to 2009, when 
+poverty declined by 25 percentage points and 3.3 million people escaped poverty, owing in large part to an expansion 
+of cultivated area and high international food prices which benefited both farmers and agriculture workers. 
+
+2. Among the main drivers of growth have been exports of goods and services and foreign capital inflows. 
+Since opening its economy to international trade and capital flows in 1992, Cambodia has become one of the East 
+Asian countries most open to trade and foreign investment. Exports of goods and services grew at an average of 18 
+percent during 1994-2017, with Cambodia ranking 4th in the world in exports during that period. Notably, its export 
+
+                                            
+1 World Development Indicators. Four countries that experienced a recession during this period are excluded.  
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 4 
+ 
+
+ 
+
+success is driven by a few products, with final garments and footwear accounting for nearly three-quarters of total 
+exports and has been facilitated by preferential access to key markets. Cambodia is also among the top countries in 
+the world in terms of attracting foreign direct investment (FDI), which has facilitated entry into some global value 
+chains (GVCs).  
+ 
+3. With an aspiration to become an upper middle-income country by 2030, Cambodia needs to strengthen 
+its existing drivers, which are weakening, while building new drivers of growth. The end of the commodity super-
+cycle, coupled with adverse weather shocks, have resulted in a sharp slowdown in agriculture growth. Meanwhile, 
+Cambodia’s labor-intensive, export-oriented garment and tourism sectors are facing rising wages and greater 
+competition from abroad. There is evidence that all merchandise export growth, tourist arrivals, as well as FDI into 
+manufacturing have slowed during 2013-2017.  Moreover, the EU is considering the suspension of preferential 
+market access for Cambodian exports under the Everything-but-Arms (EBA) scheme, which could mean tariffs of 
+about 12 percent for Cambodian garment exports, threatening sector competitiveness. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+4. Growth has also been driven by the country’s rich and diverse natural capital, which supports the 
+livelihoods of millions of Cambodians. Agriculture, which depends heavily on natural resources and ecosystem 
+services, contributed 27% of the annual gross domestic product (GDP) in 2018. More than five million people depend 
+on agriculture and fisheries, to supplement their income and support their food security, and 88 percent of the 
+population still relies on traditional biomass for cooking. Cambodians are also the largest consumers of freshwater 
+fish per capita, with fish and other aquatic resources contributing to 37 percent of total protein consumption. 
+Tourism, another engine of economic growth, is also becoming increasingly dependent on natural resources and 
+environment. 
+ 
+5. Going forward, Cambodia may not be able to rely on the same factors that drove strong growth and 
+poverty reduction over the past two decades. In the case of agriculture, the outlook for commodity prices is not 
+positive, and Cambodia’s scope for further gains in cultivated area is more limited nowadays, especially considering 
+the need for environmental sustainability. Risks posed by the degradation of natural resources could affect economic 
+sustainability. It is crucial to maintain and develop natural resources while strengthening climate resilience. Low 
+prices for agricultural commodities along with rising salaries will require improvements in productivity to remain 
+competitive. Given the continued importance of the agricultural sector to growth and poverty reduction, Cambodia 
+will need to foster a gradual transformation of the sector through intensification, diversification, and value addition. 
+The public sector could facilitate expanded irrigation, knowledge, and technology adoption in collaboration with the 
+private sector and strategies of quality differentiation by enhancing systems for managing quality and food safety 
+and introducing an overall coherent approach to ‘brand’ Cambodian food and agriculture.  
+ 
+6. The benefits of economic growth and the reduction of poverty has not been shared equitably among 
+Cambodian citizens. Disparities in income and access to opportunities remain, particularly in rural communities. 
+Rural communities which are still heavily relying on land, forests, and other natural resources for their livelihoods are 
+still faced with widespread poverty in rural Cambodia.  Landlessness and access to natural resources remains a 
+problem. 
+7. Inequality in ownership and/or access to productive assets such as land is a major concern because it 
+implies the likelihood of a trend to growing inequality of production, income and consumption in the future. In the 
+absence of dramatic expansion of off-farm employment or livelihood opportunities to absorb landless labor, the 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 5 
+ 
+
+ 
+
+concentration of land in fewer hands implies a growing gap in the opportunities available to different types of 
+households.  
+ 
+8. Key reforms are needed for Cambodia to sustain pro-poor growth, foster country’s competitiveness, 
+sustainably manage natural resource wealth and improve access to and quality of public services. Cambodia 
+continues to have a serios infrastructure gap and would benefit from greater connectivity and investing in rural and 
+urban infrastructure is essential.  
+ 
+9. The Royal Government of Cambodia is making growing efforts to address landlessness and tenure 
+insecurity, including increasing Indigenous Communal Land Titling (ICLT). Commune-based and national Social Land 
+Concession projects, both Government and donor funded have been established, addressing rural poverty and 
+providing a social safety net or retirement benefit for demobilized soldiers. Where accompanied by adequate 
+infrastructure and service provision, these projects have shown to be able to provide sustainable livelihoods. 
+However, needs (and demands) of landless and tenure-insecure population groups and the challenges in addressing 
+them remain significant. Landlessness and poverty remaining an issue in rural areas. 
+ 
+10. Under the original LASED and the second phase LASED II projects, participatory planning of agriculture 
+and livelihood activities has progressively led to the adoption of good practices in agriculture production in the 
+land recipient communities. 5,000ha of agricultural land are newly under perennial or annual crops, on 3,000ha 
+beneficiaries apply improved production technologies that help raising incomes and protect natural resources.    
+Accompanying investments in infrastructure, including the planned and ongoing support to small-scale irrigation 
+schemes, have further increased sustainability of agriculture-based livelihoods, making sure products and production 
+processes respond to market demands and are resilient to the short and long-term climate changes affecting the 
+areas. At the same time, road linkages to and from the SLC areas benefit not only the direct land recipients but many 
+more stakeholders that travel to and from the area, providing new business opportunities, decreasing transaction 
+costs, and stimulating economic and social exchange.  A new, third phase and project would expand and extend 
+activities and benefits to new target groups in new provinces.  
+ 
+
+Relationship to CPF 
+ 
+
+11. The Project supports the achievement of the World Bank’s twin goals to end extreme poverty and promote 
+shared prosperity through its emphasis on expanding the benefits of poverty-targeted land distribution and 
+infrastructure and service provision, as well as reduce climate risk vulnerability to a broader segment of the poor and 
+marginalized population in rural areas.  The Project is also consistent with, and part of the World Bank Group’s Country 
+Partnership Framework (CPF) for Cambodia 2019-2023 which received Board approval in May 2019.  Furthermore, it 
+supports the objectives in the government’s Rectangular Strategy IV (RS4), particularly the objectives of poverty 
+reduction, agriculture development, diversification and commercialization, and improving rural infrastructure and 
+services. The project supports the achievement of Sustainable Development Goal (SDG) 1 on eradicating extreme 
+poverty and SDG 2 on preventing hunger and improving nutrition. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+12. The project development objective is to help improve target beneficiaries' access to agriculture resources 
+and selected infrastructure and social services in project communities.  
+
+Key Results (From PCN) 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 6 
+ 
+
+ 
+
+ 
+13. The key results that the Project would achieve include: 
+
+ 
+
+• Tenure security for formerly landless or land-poor, and other marginalized groups or individuals, i.e. 
+indigenous communities. 
+Achievements would be measured by the number of registered land rights (including titles) and the area 
+(ha) that was provided to beneficiaries.  
+
+• Infrastructure and service provision in the project areas, benefitting not only the direct target group but 
+supporting broader area development. 
+Achievements would be measured by the number of people that live along newly built or upgraded 
+roads and who benefit from improved connectivity and market access. 
+
+• Sustainable, agriculture-based livelihood development for individuals and groups in the project 
+communities. 
+Achievements would be measured by increased incomes from farming, and improved food security (and 
+nutrition) amongst the target beneficiary families.  
+
+ 
+14. With a potentially nation-wide coverage, implementation will focus on the existing LASED provinces, plus 
+the Northeastern Provinces of Mondulkiri, Rattanakiri, Stung Treng and Preah Vihear.  A total of 30-40 project sites 
+(sub-projects) would be included, covering a total of approximately 10,000 -15,000 direct beneficiary households.  
+Benefits from improved infrastructure availability and usage will accrue to a broader beneficiary group in the project 
+areas. 
+
+D. Concept Description 
+ 
+
+Component 1: Social Land Concession (SLC) and Indigenous Communal Land Titling (ICLT) Investment 
+Planning and Prioritization (approx. US$20million) 
+
+ 
+15. This would continue support for: (a) participatory preparation and updating of SLC or ICLT plans for the new, 
+and where necessary also existing sites, respectively; (b) identification, prioritization and planning of appropriate 
+technology and infrastructure investments, including the collection of project baseline data at additional sites, and 
+responding to increased monitoring requirements; and (c) processing of individual SLC land titles for eligible land 
+recipients in the existing sites. Additional and adjusted activities would include (d) facilitating incorporation of climate 
+smart/climate change resilience considerations, and where appropriate specific NRM protection in new and or 
+existing land use plans for project areas; and (e) processing of communal land titles in areas where the project sites 
+include indigenous communities with respective demands. 
+
+Component 2: Land Preparation and Infrastructure Development (approx. US$50million) 
+ 
+16. This would support the settling-in requirements as well as the required land preparation and prioritized 
+infrastructure investments at new project sites. These include the: (a) provision of settling-in assistance to newly-
+installed land recipients; (b) provision of initial land preparation assistance including a first cover crop; and (c) 
+provision of productive/economic and social community infrastructure investments such as rural roads, small-scale 
+irrigation systems, water supply and sanitation facilities, school buildings, teachers’ houses, health posts and 
+community centers, among others. Based on the experiences in existing SLC areas and responding to the significant 
+infrastructure gaps in rural areas expected to be encountered at the proposed new project areas, it is expected that 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 7 
+ 
+
+ 
+
+the Project’s largest investments would be provided for rural climate resilient roads, with benefits of those expanding 
+beyond the direct beneficiaries, including entire communes and areas.  With the substantial increase in project area, 
+the absolute amount for infrastructure investments will be considerably larger than under LASED II.  The second 
+largest item for project investments concerns water infrastructures, both for climate change resilient small-scale 
+irrigation schemes or water reservoirs and for provision of safe water supply and sanitation.  
+
+Component 3: Agriculture and Livelihood Development (approx. US$20million) 
+ 
+17. This would primarily support the improvement of climate-change resilient agricultural production systems, 
+livelihoods and food security of new land recipients, including facilitation and provision of support services and 
+technical assistance. These would include support for: (a) community organizing and development; (b) provision of 
+agricultural service and extension support following a pluralistic service provider approach; (c) establishment of 
+farmer-managed demonstration plots and model farms; (d) establishment and/or strengthening of farmers 
+organization, agriculture cooperatives, production and marketing groups and other community interest groups; and 
+(e) provision of community fund to strengthen successful local initiatives. Agriculture and livelihood support would 
+be adjusted, where applicable, to the specific sociocultural and biophysical environments of new project areas, in 
+particular in IP areas. Promotion of nutrition-sensitive agriculture will be part of the training curricula prepared and 
+implemented by MAFF and PDAFF.  Adaptation and expansion of existing MAFF materials on nutrition-sensitive 
+agriculture production will be part of the support.  
+
+18. The Project will build on the experiences with LASED interventions, which highlight the need of strong 
+agriculture development support to quickly integrate farming systems into the local and wider economy, 
+strengthening agriculture-based livelihoods and provide quick returns and strong incentives to land recipients.  
+Taking into consideration that additional project locations under the Project will include areas in provinces with 
+important natural habitats, the Project will incorporate in its agriculture and livelihood development plans activities 
+for protecting private, communal and public lands.  Where applicable, community forestry activities will be supported 
+alongside private agriculture activities.   
+
+19. An additional focus of agriculture and livelihood development under LASED III will be a specific response to 
+climate change challenges.  In order to (further) strengthen the resilience of agriculture and food systems in the 
+existing and new sites under the Project, responses to short- and long-term climate changes will be an integral part 
+of support.  This will particularly include irrigation and water management support, integrating site specific planning 
+into ongoing or prospective broader area development approaches.  
+
+Component 4: Project Management, Coordination and M&E (approx. US$10million) 
+ 
+
+20. This component would support adjusted project administration and coordination activities. It would ensure 
+in particular the timely and transparent flow of funds, procurement, auditing and reporting. It would also support 
+project implementing entities at all levels (including the new provinces and new communes) to establish (where 
+needed) and strengthen their fiduciary, administrative and reporting capacities. Clear assignments for procurement 
+and FM responsibilities of each IA will guide effective an efficient implementation. Ministry of Land Management 
+Urban Planning and Construction (MLMUPC) will be the executing agency, with participation from the Ministry of 
+Agriculture, Forestry and Fisheries (MAFF), National Committee for Sub-National Democratic and Development 
+Secretariat (NCDDS) as implementing agencies for this proposed project.  They will carry out procurement activities 
+at national level for their respective activities in the components and sub-components, respectively.  Communes and 
+communities will carry out procurement activities at the sub-national levels if and as applicable.  
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 8 
+ 
+
+ 
+
+21. Specific attention and support would also be provided to adapt and strengthen the Project’s M&E system, 
+and further expand and enhance the Project and SLC/ICLT-related management information system as input to the 
+site planning and prioritization. Support would include technical assistance, training, incremental operating costs, 
+vehicles and equipment, among others. 
+
+    
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 No 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+
+ 
+The overall environmental and social risk classification is high. The screening of risks and impacts is based on discussion 
+with the task team, consultations and observations undertaken during a mission, secondary data, and specialist 
+experience with LASED II. 
+ 
+The project will support the process for SLC and ICLT, establishment of sustainable infrastructure and livelihood systems 
+including land preparation, provision of social and economic infrastructure, agriculture support and livelihood 
+development. Restrictions on access to land and natural and cultural resources resulting from these activities may impact 
+on nature-based livelihoods and tenure of vulnerable or marginal households and communities where decisions may not 
+be managed in a participatory manner. While the project aims to deliver a range of benefits including economic 
+development and community livelihood opportunities, project activities have the potential to generate significant social 
+impacts, direct and indirect, due to the range of activities related to land consolidation, indigenous community lands, 
+agriculture and infrastructure. The scale of the proposed activities, across sensitive locations (indigenous areas) and new 
+focus on ICLT presents risks related to collective registration of indigenous communities’ lands.  
+ 
+Nine of the standards have be screened as relevant. Standard ESS9 on Financial Intermediaries is not considered 
+relevant. 
+ 
+The implementing agencies have good competency in implementing projects in accordance with national requirements 
+and World Bank Safeguards Policies but have less familiarity with and experience in delivering projects in line with the 
+Environmental and Social Framework. Prior to project appraisal an Environmental and Social Commitment Plan (ESCP) 
+will be prepared which will take into account the need to ensure budget, staffing and operational arrangements for 
+project environmental and social risk management. For new sites involving indigenous communities as sole beneficiaries, 
+to understand and address project related risks and impacts, a social assessment will be prepared prior to appraisal to 
+inform project design and project level social risk management framework, also to be prepared prior to appraisal. The 
+assessment will inform revisions to existing social risk management frameworks and plans, including on stakeholder 
+engagement, at both project and community level. 
+
+ 
+
+ 
+ 
+
+Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document. 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 9 
+ 
+
+ 
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+Mudita Chamroeun 
+
+Senior Rural Development Specialist 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Kingdom of Cambodia 
+
+H.E. Vanndy HEM 
+
+Under Secretary of State 
+
+admin@mef.gov.kh 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+Ministry of Land Management Urban Planning and Construction (MLMUPC) 
+
+H.E. Sophara CHEA 
+
+Deputy Prime Minister and Minister 
+
+dokdoma@gmail.com 
+  
+
+ 
+
+Dr. Doma DOK 
+
+Deputy Director General, GDH, and Project Director of LASED 
+
+dokdoma@gmail.com 
+  
+
+Ministry of Agriculture, Forestry and Fisheries (MAFF) 
+
+H.E. Sakhon VENG 
+
+Minister 
+
+info@maff.gov.kh 
+  
+
+ 
+
+H.E. Dr. Vanhan HEAN 
+
+Secretary of State 
+
+info@maff.gov.kh 
+  
+
+ 
+
+Mr. Monine SAMENG KEO 
+
+Deputy Director General, GDA and Project Manager, LASED II 
+
+skeomonine@online.com.kh 
+  
+
+National Committee for Sub-National Democratic and Development Secretariat (NCDDS) 
+
+H.E. Chamroeun NGAN 
+
+
+
+ 
+The World Bank  
+Land Allocation for Social and Economic Development Project III (P171331) 
+
+ 
+ 
+
+ 
+
+ 
+Jun 16, 2019   Page 10 
+ 
+
+ 
+
+Secretary of State 
+
+info@interior.gov.kh 
+  
+
+ 
+
+H.E. Setha SAK 
+
+Secretary of State 
+
+info@interior.gov.kh 
+  
+
+ 
+
+Mr. Ma On Nath MA ONN 
+
+LASED II Project Coordinator 
+
+maonnath@ncdd.gov.kh 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): Mudita Chamroeun 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Practice Manager/Manager:   
+
+Country Director:   
+    
+ 
+ 
+
+ 
+ 
+ 
+
+Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when 
+
+finalizing the document. 
+
+ 
+
+http://www.worldbank.org/projects
+
+

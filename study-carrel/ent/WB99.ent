@@ -1,0 +1,210 @@
+id	sid	eid	entity	type
+WB99	1	1	Pu bl	PERSON
+WB99	1	2	ic D	PERSON
+WB99	1	3	PID	ORG
+WB99	1	4	CONCEPT STAGE Report	ORG
+WB99	2	1	PIDC18818 Project Name National Agricultural and Rural Inclusive Growth Project (P153349)	ORG
+WB99	2	2	Kenya	GPE
+WB99	2	3	60%	PERCENT
+WB99	2	4	20%	PERCENT
+WB99	2	5	10%	PERCENT
+WB99	2	6	10%	PERCENT
+WB99	2	7	40%	PERCENT
+WB99	2	8	Social Inclusion	ORG
+WB99	2	9	30%	PERCENT
+WB99	2	10	Micro, Small and Medium Enterprise	LAW
+WB99	2	11	30%	PERCENT
+WB99	2	12	Ministry of Finance Implementing Agency Ministry of Devolution and Planning Environmental Category B-Partial Assessment Date PID	ORG
+WB99	2	13	20-Jan-2016	DATE
+WB99	3	1	Kenya	GPE
+WB99	4	1	Kenya	GPE
+WB99	4	2	47 percent	PERCENT
+WB99	4	3	2005/6	ORG
+WB99	4	4	about 39 percent	PERCENT
+WB99	4	5	2012/13	MONEY
+WB99	5	1	Kenya	GPE
+WB99	6	1	close to half	CARDINAL
+WB99	6	2	17 million	CARDINAL
+WB99	6	3	Kenyans	NORP
+WB99	6	4	2005	DATE
+WB99	7	1	nearly 4	CARDINAL
+WB99	7	2	10	CARDINAL
+WB99	7	3	Kenyans	NORP
+WB99	8	1	arid	GPE
+WB99	8	2	Pu bl	PERSON
+WB99	8	3	ic D	PERSON
+WB99	8	4	roughly 70 percent	PERCENT
+WB99	8	5	about 12 percent	PERCENT
+WB99	8	6	CPS	ORG
+WB99	10	1	recent years	DATE
+WB99	10	2	Kenya	GPE
+WB99	11	1	Kenya	GPE
+WB99	11	2	47.7	CARDINAL
+WB99	11	3	Ethiopia	GPE
+WB99	11	4	Tanzania	GPE
+WB99	11	5	Uganda	GPE
+WB99	12	1	10 percent	PERCENT
+WB99	12	2	garner 40 percent	PERCENT
+WB99	12	3	10 percent	PERCENT
+WB99	12	4	only 2 percent	PERCENT
+WB99	13	1	40	CARDINAL
+WB99	14	1	2	CARDINAL
+WB99	14	2	each year from now to 2030	DATE
+WB99	14	3	CPS	PERSON
+WB99	14	4	18	CARDINAL
+WB99	15	1	Kenya	GPE
+WB99	16	1	25 percent	PERCENT
+WB99	16	2	62 percent	PERCENT
+WB99	16	3	45 percent	PERCENT
+WB99	17	1	Kenya	GPE
+WB99	19	1	Kenyans	NORP
+WB99	24	1	more than 70 percent	PERCENT
+WB99	24	2	only 1-5 percent	PERCENT
+WB99	25	1	only 29 percent	PERCENT
+WB99	27	1	Kenya	GPE
+WB99	28	1	Kenya	GPE
+WB99	29	1	Kenya	GPE
+WB99	29	2	one	CARDINAL
+WB99	29	3	about 70 percent	PERCENT
+WB99	29	4	the 12 percent	PERCENT
+WB99	30	1	Kenya	GPE
+WB99	32	1	3	CARDINAL
+WB99	32	2	Pu bl ic D	PERSON
+WB99	32	3	Pu bl	PERSON
+WB99	32	4	D	PERSON
+WB99	34	1	47	CARDINAL
+WB99	35	1	The Constitution Bill of Rights	LAW
+WB99	35	2	Kenyan	NORP
+WB99	37	1	Constitution	LAW
+WB99	37	2	Kenyan	NORP
+WB99	38	1	Constitution	LAW
+WB99	40	1	Counties	GPE
+WB99	40	2	August 2013	DATE
+WB99	40	3	the “Equitable Share”	WORK_OF_ART
+WB99	43	1	Kenya	GPE
+WB99	43	2	the Western Kenya Community-Driven Development and Flood Mitigation	ORG
+WB99	43	3	WKCDD/FM) Project	ORG
+WB99	43	4	the Kenya Agricultural Productivity and Agribusiness Project	ORG
+WB99	44	1	Bank	ORG
+WB99	44	2	Kenya	GPE
+WB99	45	1	South Asia	LOC
+WB99	48	1	the next 5 to 15 years	DATE
+WB99	49	1	Bank	ORG
+WB99	49	2	GoK	ORG
+WB99	49	3	first	ORDINAL
+WB99	49	4	Kenya National Agricultural and Rural Inclusive Growth Project	ORG
+WB99	49	5	five years	DATE
+WB99	49	6	IDA	ORG
+WB99	49	7	US$200 million	MONEY
+WB99	50	1	the World Bank	ORG
+WB99	50	2	Kenya Country Partnership Strategy	ORG
+WB99	51	1	4	CARDINAL
+WB99	51	2	Pu bl	PERSON
+WB99	51	3	ic D	PERSON
+WB99	52	1	the “Kenya Vision 2030	LAW
+WB99	52	2	the Second Medium Term Plan	ORG
+WB99	52	3	2013-2017	DATE
+WB99	52	4	the Agriculture Sector Development Policy	ORG
+WB99	52	5	5	CARDINAL
+WB99	52	6	7 percent	PERCENT
+WB99	52	7	annual	DATE
+WB99	53	1	CPS	ORG
+WB99	53	2	Kenya	GPE
+WB99	53	3	70 percent	PERCENT
+WB99	54	1	Country Partnership Strategy	ORG
+WB99	55	1	CPS	ORG
+WB99	55	2	Bank	ORG
+WB99	55	3	three	CARDINAL
+WB99	55	4	Kenya	GPE
+WB99	56	1	First	ORDINAL
+WB99	56	2	Domain 1	PRODUCT
+WB99	57	1	Second	ORDINAL
+WB99	57	2	Domain 2	PRODUCT
+WB99	58	1	CPS	PERSON
+WB99	60	1	Third	ORDINAL
+WB99	60	2	two	CARDINAL
+WB99	62	1	PCN	ORG
+WB99	63	1	PCN	ORG
+WB99	63	2	40 percent	PERCENT
+WB99	63	3	Communities	LOC
+WB99	63	4	Counties	GPE
+WB99	63	5	less than 2 acres	QUANTITY
+WB99	65	1	III	ORG
+WB99	66	1	three	CARDINAL
+WB99	67	1	First	ORDINAL
+WB99	68	1	social capital	ORG
+WB99	69	1	5	CARDINAL
+WB99	69	2	Pu bl	PERSON
+WB99	69	3	ic D	PERSON
+WB99	70	1	Second	ORDINAL
+WB99	70	2	Kenya	GPE
+WB99	72	1	Third	ORDINAL
+WB99	77	1	about 10 to 15	CARDINAL
+WB99	77	2	about 500,000	CARDINAL
+WB99	77	3	about 2	CARDINAL
+WB99	78	1	5 million	CARDINAL
+WB99	79	1	IDA	ORG
+WB99	81	1	County	NORP
+WB99	82	1	4	CARDINAL
+WB99	82	2	1	CARDINAL
+WB99	82	3	Farmer/Community Institutions	ORG
+WB99	82	4	Agricultural/Rural Livelihoods	ORG
+WB99	82	5	roughly US$100 million	MONEY
+WB99	82	6	IDA Credit	ORG
+WB99	83	1	two	CARDINAL
+WB99	86	1	Investments for Agricultural Value Chains	ORG
+WB99	86	2	roughly US$60 million	MONEY
+WB99	86	3	IDA Credit	ORG
+WB99	87	1	6	CARDINAL
+WB99	87	2	Pu bl	PERSON
+WB99	87	3	ic D	PERSON
+WB99	88	1	cooperatives	ORG
+WB99	88	2	ii	ORG
+WB99	91	1	3	CARDINAL
+WB99	91	2	roughly US$30 million	MONEY
+WB99	91	3	IDA Credit	ORG
+WB99	91	4	County	FAC
+WB99	92	1	County Integrated Development Planning	ORG
+WB99	92	2	building County	GPE
+WB99	93	1	roughly US$10 million	MONEY
+WB99	95	1	4.01	CARDINAL
+WB99	95	2	Habitats OP	PRODUCT
+WB99	95	3	4.04	CARDINAL
+WB99	95	4	4.36	CARDINAL
+WB99	95	5	4.09	CARDINAL
+WB99	95	6	Physical Cultural Resources OP/BP	LAW
+WB99	95	7	4.10	CARDINAL
+WB99	95	8	OP	PERSON
+WB99	95	9	International Waterways OP/BP	ORG
+WB99	95	10	Disputed Areas OP/BP	FAC
+WB99	95	11	USD Million	CARDINAL
+WB99	95	12	200.00	CARDINAL
+WB99	95	13	200.00	CARDINAL
+WB99	95	14	0.00	CARDINAL
+WB99	95	15	7	CARDINAL
+WB99	95	16	Pu bl ic D	PERSON
+WB99	95	17	Pu bl	PERSON
+WB99	95	18	D	PERSON
+WB99	95	19	200.00	CARDINAL
+WB99	95	20	200.00	CARDINAL
+WB99	96	1	World Bank Contact	ORG
+WB99	96	2	Meena M. Munshi	PERSON
+WB99	96	3	473	CARDINAL
+WB99	96	4	Christopher Finch	PERSON
+WB99	96	5	Borrower/Client/Recipient Name	ORG
+WB99	96	6	Ministry of Finance Contact	ORG
+WB99	96	7	Kamau Thugge	PERSON
+WB99	96	8	National Treasury	ORG
+WB99	96	9	254-2022-52299	CARDINAL
+WB99	96	10	Ministry of Devolution and Planning Contact: Eng	ORG
+WB99	97	1	Peter P. Mangiti	PERSON
+WB99	97	2	Tel	PERSON
+WB99	97	3	254	CARDINAL
+WB99	98	1	VII	ORG
+WB99	99	1	The InfoShop The World Bank 1818 H Street	ORG
+WB99	99	2	NW	GPE
+WB99	99	3	Washington	GPE
+WB99	99	4	202	CARDINAL
+WB99	99	5	458	CARDINAL
+WB99	99	6	202	CARDINAL
+WB99	99	7	522-1500	CARDINAL

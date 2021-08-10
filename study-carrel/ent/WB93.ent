@@ -1,0 +1,765 @@
+id	sid	eid	entity	type
+WB93	1	1	World Bank Document	ORG
+WB93	1	2	Oct 12, 2018 Page	DATE
+WB93	1	3	22 Project	MONEY
+WB93	1	4	PID/ISDS	ORG
+WB93	1	5	Concept Stage	ORG
+WB93	1	6	| Report	WORK_OF_ART
+WB93	1	7	Oct 12, 2018	DATE
+WB93	1	8	2	CARDINAL
+WB93	1	9	22	CARDINAL
+WB93	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB93	2	2	Lake Chad Region Recovery and Development Project	ORG
+WB93	2	3	Oct 21, 2019	DATE
+WB93	2	4	Dec 17, 2019	DATE
+WB93	2	5	Niger - Ministry of Economy and Planning	ORG
+WB93	2	6	TBC	ORG
+WB93	2	7	TBC	ORG
+WB93	2	8	Niger - Executive Secretariat	ORG
+WB93	2	9	Sahel Niger	PERSON
+WB93	2	10	the Lake Chad Region	LOC
+WB93	2	11	Cameroon	LOC
+WB93	2	12	Chad	GPE
+WB93	2	13	Niger	GPE
+WB93	3	1	PROJECT FINANCING DATA	ORG
+WB93	3	2	Millions	CARDINAL
+WB93	3	3	SUMMARY-N ewFin1	ORG
+WB93	3	4	165.00	CARDINAL
+WB93	3	5	165.00	CARDINAL
+WB93	3	6	0.00	CARDINAL
+WB93	3	7	h1 World Bank Group Financing International Development Association	ORG
+WB93	3	8	IDA	ORG
+WB93	3	9	165.00	CARDINAL
+WB93	3	10	Oct 12, 2018	DATE
+WB93	3	11	3	CARDINAL
+WB93	3	12	22	CARDINAL
+WB93	3	13	IDA	ORG
+WB93	3	14	60.00	CARDINAL
+WB93	3	15	105.00	CARDINAL
+WB93	4	1	1	CARDINAL
+WB93	4	2	The Lake Chad 1	LOC
+WB93	5	1	Lake Chad	LOC
+WB93	5	2	Sahel	FAC
+WB93	5	3	West	LOC
+WB93	5	4	the Central Africa	LOC
+WB93	6	1	The Lake Chad	LOC
+WB93	6	2	Cameroon	LOC
+WB93	6	3	Chad	GPE
+WB93	6	4	Niger	PERSON
+WB93	6	5	Nigeria1	PERSON
+WB93	6	6	49 million	CARDINAL
+WB93	7	1	hinterlands2	GPE
+WB93	7	2	two	CARDINAL
+WB93	7	3	Ndjamena	ORG
+WB93	7	4	Maidiguri	GPE
+WB93	7	5	Sahelian	NORP
+WB93	7	6	Borno	ORG
+WB93	7	7	Nigeria	GPE
+WB93	7	8	Diffa	PERSON
+WB93	7	9	Niger	GPE
+WB93	7	10	the Far North Province	GPE
+WB93	7	11	Cameroon	LOC
+WB93	7	12	the Lake	LOC
+WB93	7	13	Lac	GPE
+WB93	7	14	Kanem	GPE
+WB93	7	15	Hadjer Lamis	GPE
+WB93	7	16	Chari Baguirmi	PERSON
+WB93	7	17	Chad	GPE
+WB93	8	1	all year long	DATE
+WB93	10	1	Lake Chad	LOC
+WB93	10	2	Ramsar	LOC
+WB93	10	3	Lake	LOC
+WB93	10	4	World Natural Heritage Site	ORG
+WB93	10	5	UNESCO	ORG
+WB93	11	1	2	CARDINAL
+WB93	12	1	West Africa	GPE
+WB93	12	2	Lake Chad	LOC
+WB93	13	1	over 23 million	CARDINAL
+WB93	13	2	four	CARDINAL
+WB93	13	3	Cameroon	FAC
+WB93	13	4	Chad	GPE
+WB93	13	5	Niger	GPE
+WB93	13	6	Nigeria	GPE
+WB93	14	1	Boko Haram	PERSON
+WB93	14	2	1	CARDINAL
+WB93	14	3	three	CARDINAL
+WB93	14	4	Cameroon	FAC
+WB93	14	5	Chad	GPE
+WB93	14	6	Niger	GPE
+WB93	15	1	the World Bank	ORG
+WB93	15	2	Lake Chad Program	ORG
+WB93	15	3	Nigeria	GPE
+WB93	15	4	Nigeria	GPE
+WB93	16	1	Nigeria	GPE
+WB93	17	1	2	CARDINAL
+WB93	17	2	300 km	QUANTITY
+WB93	17	3	the Lake	LOC
+WB93	17	4	about 250,000 km2	QUANTITY
+WB93	18	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	18	2	Oct 12, 2018	DATE
+WB93	18	3	4	CARDINAL
+WB93	18	4	22	CARDINAL
+WB93	21	1	Boko Haram	FAC
+WB93	21	2	the Lake Chad Region	LOC
+WB93	21	3	Africa	LOC
+WB93	22	1	2.3 million	CARDINAL
+WB93	22	2	half	CARDINAL
+WB93	22	3	refugees.3	ORG
+WB93	23	1	3	CARDINAL
+WB93	24	1	Boko Haram	FAC
+WB93	27	1	GBV	ORG
+WB93	27	2	the Lake Chad Region	LOC
+WB93	27	3	Boko Haram	FAC
+WB93	29	1	4	CARDINAL
+WB93	32	1	Region6	PERSON
+WB93	33	1	the Lake Chad	LOC
+WB93	34	1	the Lake Chad Region	LOC
+WB93	35	1	one	CARDINAL
+WB93	35	2	Lake Chad	LOC
+WB93	35	3	3	CARDINAL
+WB93	35	4	Plan International	WORK_OF_ART
+WB93	35	5	Lake Chad Snapshot	FAC
+WB93	35	6	15	CARDINAL
+WB93	35	7	Feb 2018	DATE
+WB93	36	1	4	CARDINAL
+WB93	37	1	5	CARDINAL
+WB93	37	2	four	CARDINAL
+WB93	37	3	the Lake Chad	LOC
+WB93	37	4	Cameroon	FAC
+WB93	37	5	Chad	GPE
+WB93	37	6	Niger	GPE
+WB93	37	7	Nigeria	GPE
+WB93	37	8	the Lake Chad	LOC
+WB93	37	9	the last 50 years	DATE
+WB93	37	10	60 million	CARDINAL
+WB93	37	11	1960	DATE
+WB93	37	12	more than 243 million	CARDINAL
+WB93	37	13	2017	DATE
+WB93	38	1	Lake Chad	LOC
+WB93	38	2	Holistic	LOC
+WB93	38	3	2018	DATE
+WB93	39	1	6	CARDINAL
+WB93	41	1	three	CARDINAL
+WB93	41	2	Cameroon	PERSON
+WB93	41	3	Chad	GPE
+WB93	41	4	Niger	GPE
+WB93	41	5	the Lake Chad Region	LOC
+WB93	42	1	annual	DATE
+WB93	42	2	between 1.0-3.4	CARDINAL
+WB93	42	3	°	PRODUCT
+WB93	42	4	2060	DATE
+WB93	43	1	Annual	DATE
+WB93	43	2	’ days	DATE
+WB93	44	1	annual	DATE
+WB93	45	1	seasonal	DATE
+WB93	47	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	47	2	Oct 12, 2018	DATE
+WB93	47	3	5	CARDINAL
+WB93	47	4	22	CARDINAL
+WB93	47	5	Islamists	NORP
+WB93	48	1	Cameroon	PERSON
+WB93	48	2	the Far North	LOC
+WB93	48	3	North	LOC
+WB93	48	4	74.3%	PERCENT
+WB93	48	5	67.9%	PERCENT
+WB93	48	6	almost half	CARDINAL
+WB93	48	7	North	LOC
+WB93	48	8	43%	PERCENT
+WB93	48	9	72%	PERCENT
+WB93	49	1	the Lake Chad	LOC
+WB93	49	2	Chad	GPE
+WB93	49	3	Niger	GPE
+WB93	49	4	Cameroon	LOC
+WB93	49	5	Nigeria	GPE
+WB93	50	1	the Lake Chad Region	LOC
+WB93	51	1	World Bank Group	ORG
+WB93	51	2	WBG	ORG
+WB93	51	3	United Nations	ORG
+WB93	51	4	2018	DATE
+WB93	56	1	6	CARDINAL
+WB93	57	1	the Lake Chad Region	LOC
+WB93	60	1	AFD/IRD	ORG
+WB93	60	2	Crisis and Development	WORK_OF_ART
+WB93	60	3	the Lake Chad Region	LOC
+WB93	60	4	the Lake Chad Region	LOC
+WB93	60	5	2013	DATE
+WB93	61	1	Boko Haram	PERSON
+WB93	61	2	the Lake Chad	LOC
+WB93	62	1	the Lake Chad	LOC
+WB93	62	2	Boko Haram	PERSON
+WB93	63	1	UNDP	PERSON
+WB93	63	2	OCHA	ORG
+WB93	63	3	Resilience for Sustainable Development	ORG
+WB93	63	4	the Lake Chad Basin	LOC
+WB93	64	1	8	CARDINAL
+WB93	64	2	the Lake Chad Basin	LOC
+WB93	65	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	65	2	Oct 12, 2018	DATE
+WB93	65	3	6	CARDINAL
+WB93	65	4	22 7	DATE
+WB93	67	1	three	CARDINAL
+WB93	68	1	one	CARDINAL
+WB93	68	2	Lake Chad	LOC
+WB93	69	1	Violent Lands”10	PERSON
+WB93	70	1	the Lake Chad Region	LOC
+WB93	74	1	Oslo Consultative Group	ORG
+WB93	74	2	Berlin	GPE
+WB93	74	3	September 2017	DATE
+WB93	75	1	the Economic Community	ORG
+WB93	75	2	West African	NORP
+WB93	75	3	ECOWAS	ORG
+WB93	75	4	the Economic Community of Central African States	ORG
+WB93	75	5	the Lake Chad Basin Commission	ORG
+WB93	76	1	many years	DATE
+WB93	77	1	9	CARDINAL
+WB93	78	1	The Sahel Alliance	ORG
+WB93	78	2	the Lake Chad Region	LOC
+WB93	80	1	Sahel	GPE
+WB93	80	2	Brussels	GPE
+WB93	80	3	Belgium	GPE
+WB93	80	4	February 23, 2018	DATE
+WB93	80	5	France	GPE
+WB93	80	6	Germany	GPE
+WB93	80	7	EU	ORG
+WB93	80	8	the African Development Bank	ORG
+WB93	80	9	UNDP	ORG
+WB93	80	10	the World Bank	ORG
+WB93	80	11	six	CARDINAL
+WB93	80	12	Italy	GPE
+WB93	80	13	Spain	GPE
+WB93	80	14	UK	GPE
+WB93	80	15	the Sahel Alliance	ORG
+WB93	81	1	AFD	ORG
+WB93	81	2	EU	ORG
+WB93	81	3	AfDB	NORP
+WB93	81	4	Germany	GPE
+WB93	81	5	UK	GPE
+WB93	81	6	USAID	GPE
+WB93	81	7	the Lake Chad Basin	LOC
+WB93	82	1	Lake Chad Region Recovery and Development Project	FAC
+WB93	82	2	9	CARDINAL
+WB93	82	3	IEG	ORG
+WB93	83	1	three	CARDINAL
+WB93	84	1	10	CARDINAL
+WB93	84	2	World Bank: Lagging Lands	ORG
+WB93	84	3	2017	DATE
+WB93	85	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	85	2	Oct 12, 2018	DATE
+WB93	85	3	7	CARDINAL
+WB93	85	4	22	CARDINAL
+WB93	85	5	the Sahel Alliance	ORG
+WB93	85	6	the World Bank	ORG
+WB93	85	7	the Sahel Alliance	ORG
+WB93	85	8	the Lake Chad Region	LOC
+WB93	86	1	the Sahel Alliance	ORG
+WB93	86	2	the Sahel Alliance	ORG
+WB93	86	3	Component 1	FAC
+WB93	86	4	Component 2	FAC
+WB93	86	5	3	CARDINAL
+WB93	87	1	10	CARDINAL
+WB93	88	1	the World Bank’s Regional Recovery and Development Strategy	ORG
+WB93	89	1	first	ORDINAL
+WB93	89	2	WBG	ORG
+WB93	89	3	the Lake Chad Region	LOC
+WB93	89	4	World Bank	ORG
+WB93	89	5	an estimated USD 470 million11	MONEY
+WB93	89	6	more than 10 million	CARDINAL
+WB93	90	1	WBG	ORG
+WB93	90	2	the Lake Chad Region	LOC
+WB93	90	3	Chad	GPE
+WB93	90	4	Niger	GPE
+WB93	91	1	the World Bank	ORG
+WB93	91	2	the Lake Chad Region	LOC
+WB93	92	1	State	ORG
+WB93	92	2	September 2018	DATE
+WB93	92	3	Cross	ORG
+WB93	92	4	the Lake Chad Region Project	LOC
+WB93	92	5	this Regional Recovery and Development Strategy	FAC
+WB93	92	6	Lake Chad	LOC
+WB93	92	7	four	CARDINAL
+WB93	92	8	the Lake	LOC
+WB93	92	9	three	CARDINAL
+WB93	92	10	Nigeria)12	PERSON
+WB93	93	1	Map 1:	PERSON
+WB93	93	2	World Bank	ORG
+WB93	93	3	the Lake Chad Region 11	LOC
+WB93	94	1	the World Bank’s Lake Chad Region Program	ORG
+WB93	95	1	second	ORDINAL
+WB93	95	2	the World Bank	ORG
+WB93	95	3	Lake Chad Region	LOC
+WB93	95	4	1	CARDINAL
+WB93	95	5	3	CARDINAL
+WB93	95	6	the Lake Chad Region	LOC
+WB93	96	1	The World Bank’s	ORG
+WB93	96	2	Lake Chad	LOC
+WB93	96	3	11	CARDINAL
+WB93	96	4	140 million	CARDINAL
+WB93	96	5	USD 330 million	CARDINAL
+WB93	97	1	Nigeria	PERSON
+WB93	97	2	USD 230 million	CARDINAL
+WB93	97	3	Chad	GPE
+WB93	97	4	USD 75 million	CARDINAL
+WB93	97	5	USD 150 million	CARDINAL
+WB93	97	6	Niger	GPE
+WB93	97	7	USD 15 million	MONEY
+WB93	98	1	12	CARDINAL
+WB93	98	2	the Lake Chad Region Project	LOC
+WB93	98	3	the Lake Chad Basin Governors’ Forum	ORG
+WB93	98	4	2019	DATE
+WB93	98	5	Niger	GPE
+WB93	98	6	the Lake Chad	LOC
+WB93	98	7	the Lake Chad	LOC
+WB93	98	8	quarterly	DATE
+WB93	99	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	99	2	Oct 12, 2018	DATE
+WB93	99	3	8	CARDINAL
+WB93	99	4	22	CARDINAL
+WB93	100	1	five	CARDINAL
+WB93	101	1	12	CARDINAL
+WB93	102	1	The World Bank’s Lake Chad Region Program	ORG
+WB93	102	2	the Lake Chad Region	LOC
+WB93	102	3	Berlin	GPE
+WB93	102	4	2018	DATE
+WB93	103	1	September 3-4	DATE
+WB93	103	2	17	CARDINAL
+WB93	103	3	UN	ORG
+WB93	103	4	the European Commission	ORG
+WB93	103	5	the World Bank	ORG
+WB93	103	6	the African Development Bank	ORG
+WB93	103	7	US$2.17 billion	MONEY
+WB93	103	8	US$ 467 million	MONEY
+WB93	103	9	the Lake Chad Region	LOC
+WB93	104	1	Lake Chad	LOC
+WB93	105	1	Lake Chad	LOC
+WB93	105	2	nexus.13	CARDINAL
+WB93	105	3	2	CARDINAL
+WB93	105	4	13	CARDINAL
+WB93	106	1	WBG	ORG
+WB93	106	2	UN	ORG
+WB93	106	3	the Lake Chad Region	LOC
+WB93	107	1	the Lake Chad Region	LOC
+WB93	107	2	two	CARDINAL
+WB93	107	3	Bank	ORG
+WB93	107	4	IDA	ORG
+WB93	107	5	the Lake Chad Development	ORG
+WB93	107	6	the Africa Climate Business Plan	ORG
+WB93	108	1	the International Finance Corporation	ORG
+WB93	108	2	IFC	ORG
+WB93	108	3	Sectorial Strategy and Operations	ORG
+WB93	108	4	three	CARDINAL
+WB93	109	1	UNOCHA	ORG
+WB93	109	2	Resilience for Sustainable Development in the Lake Chad Basin”	WORK_OF_ART
+WB93	109	3	UNFPA	ORG
+WB93	109	4	Lake Chad	LOC
+WB93	109	5	13	CARDINAL
+WB93	109	6	Chadian	NORP
+WB93	109	7	Nigerien	GPE
+WB93	110	1	the Lake Chad	LOC
+WB93	111	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	111	2	Oct 12, 2018	DATE
+WB93	111	3	9	CARDINAL
+WB93	111	4	22	CARDINAL
+WB93	111	5	Integrated	NORP
+WB93	111	6	Holistic	NORP
+WB93	111	7	the “UN Support Plan for the Sahel	LAW
+WB93	111	8	Sahel	WORK_OF_ART
+WB93	113	1	UN	ORG
+WB93	113	2	the Lake Chad Region	LOC
+WB93	114	1	14	CARDINAL
+WB93	116	1	Cameroon	LOC
+WB93	117	1	nine	CARDINAL
+WB93	117	2	the “Regional Strategy for the Stabilization, Recovery and Resilience of the Boko-Haram	ORG
+WB93	117	3	the Lake Chad Basin	LOC
+WB93	117	4	the Lake Chad Basin Ministers	LOC
+WB93	117	5	August 31, 2018	DATE
+WB93	118	1	nine	CARDINAL
+WB93	118	2	Boko Haram	PERSON
+WB93	118	3	vii	ORG
+WB93	118	4	the Lake Chad Basin	LOC
+WB93	119	1	CPF	ORG
+WB93	119	2	15	CARDINAL
+WB93	120	1	the Country Partnership Frameworks	ORG
+WB93	120	2	CPF	ORG
+WB93	120	3	Chad	GPE
+WB93	120	4	Cameroon	PERSON
+WB93	120	5	Niger	PERSON
+WB93	120	6	Chad	PERSON
+WB93	120	7	three	CARDINAL
+WB93	120	8	FY16-20	PRODUCT
+WB93	121	1	second	ORDINAL
+WB93	121	2	third	ORDINAL
+WB93	121	3	CPF	ORG
+WB93	122	1	three	CARDINAL
+WB93	122	2	FY17-21	DATE
+WB93	123	1	first	ORDINAL
+WB93	123	2	the Far North Region of Cameroon	LOC
+WB93	124	1	three	CARDINAL
+WB93	124	2	FY18-21	DATE
+WB93	125	1	first	ORDINAL
+WB93	125	2	CPF	ORG
+WB93	125	3	Rural Productivity and Incomes	ORG
+WB93	126	1	16	CARDINAL
+WB93	127	1	Africa	LOC
+WB93	128	1	4	CARDINAL
+WB93	129	1	4.2	CARDINAL
+WB93	129	2	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	129	3	Oct 12, 2018	DATE
+WB93	129	4	10	CARDINAL
+WB93	129	5	22	CARDINAL
+WB93	129	6	4.3	CARDINAL
+WB93	130	1	C. Proposed Development Objective(s	PERSON
+WB93	130	2	17	DATE
+WB93	131	1	the Lake Chad Region Recovery and Development Project-SOP1	ORG
+WB93	131	2	the Lake Chad Region	LOC
+WB93	131	3	Cameroon	LOC
+WB93	131	4	Chad	GPE
+WB93	131	5	Niger	GPE
+WB93	132	1	18	CARDINAL
+WB93	133	1	the Lake Chad Region	LOC
+WB93	133	2	the Lake Chad Region	LOC
+WB93	134	1	19	CARDINAL
+WB93	135	1	three	CARDINAL
+WB93	138	1	Reintegration	WORK_OF_ART
+WB93	139	1	PCN	GPE
+WB93	139	2	20	CARDINAL
+WB93	141	1	three	CARDINAL
+WB93	141	2	Cameroon	FAC
+WB93	141	3	Chad	GPE
+WB93	141	4	Niger).14 - Number	ORG
+WB93	141	5	three	CARDINAL
+WB93	142	1	three	CARDINAL
+WB93	143	1	three	CARDINAL
+WB93	145	1	RAI	ORG
+WB93	146	1	3	CARDINAL
+WB93	147	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	147	2	Oct 12, 2018	DATE
+WB93	147	3	11	CARDINAL
+WB93	147	4	22	CARDINAL
+WB93	147	5	4	CARDINAL
+WB93	147	6	The Project’s Intervention Rationale 21	ORG
+WB93	148	1	the Lake Chad Region	LOC
+WB93	148	2	the Lake Chad Region	LOC
+WB93	153	1	22	CARDINAL
+WB93	154	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	154	2	Oct 12, 2018	DATE
+WB93	154	3	12	CARDINAL
+WB93	154	4	22	CARDINAL
+WB93	154	5	Boko Haram	PRODUCT
+WB93	155	1	the Lake Chad	LOC
+WB93	155	2	Lake	LOC
+WB93	155	3	three	CARDINAL
+WB93	156	1	23	CARDINAL
+WB93	157	1	IPF	ORG
+WB93	157	2	IDA	ORG
+WB93	157	3	US$225 million	MONEY
+WB93	158	1	three	CARDINAL
+WB93	158	2	IDA	ORG
+WB93	158	3	US$60 million	MONEY
+WB93	158	4	Cameroon	PERSON
+WB93	158	5	US$45 million	MONEY
+WB93	158	6	Chad	GPE
+WB93	158	7	US$60 million	MONEY
+WB93	158	8	Niger	PERSON
+WB93	159	1	SOP	ORG
+WB93	159	2	three	CARDINAL
+WB93	159	3	Boko Haram	FAC
+WB93	160	1	SOP	ORG
+WB93	160	2	the Republic of Nigeria	GPE
+WB93	161	1	first	ORDINAL
+WB93	161	2	SOP	ORG
+WB93	162	1	first	ORDINAL
+WB93	162	2	SOP	ORG
+WB93	163	1	second	ORDINAL
+WB93	163	2	this SOP Series	EVENT
+WB93	163	3	first	ORDINAL
+WB93	163	4	the Lake Chad Region	LOC
+WB93	164	1	24	CARDINAL
+WB93	166	1	annual	DATE
+WB93	170	1	third	ORDINAL
+WB93	170	2	15	CARDINAL
+WB93	170	3	3	CARDINAL
+WB93	171	1	16	CARDINAL
+WB93	171	2	13	CARDINAL
+WB93	172	1	17	CARDINAL
+WB93	173	1	18	CARDINAL
+WB93	173	2	Cameroon	GPE
+WB93	173	3	the CEMAC Transport and Transit Facilitation Project	ORG
+WB93	174	1	Lake Chad Region Recovery and Development Project	FAC
+WB93	175	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	175	2	Oct 12, 2018	DATE
+WB93	175	3	13	CARDINAL
+WB93	175	4	22	CARDINAL
+WB93	175	5	GBV	ORG
+WB93	175	6	French Development Agency	ORG
+WB93	175	7	AFD)/World Bank	ORG
+WB93	175	8	conducted.19 25	ORG
+WB93	176	1	AFD	ORG
+WB93	176	2	Lake Chad Inclusive Economic and Social Recovery Program	ORG
+WB93	176	3	the Lake Chad	LOC
+WB93	176	4	WBG	ORG
+WB93	176	5	CEMAC - Transport-Transit Facilitation Project	ORG
+WB93	176	6	Cameroon	PERSON
+WB93	176	7	the Niger Rural Mobility and Connectivity Project	ORG
+WB93	176	8	Chad	GPE
+WB93	176	9	Niger	GPE
+WB93	176	10	UN	ORG
+WB93	176	11	the Lake Chad Region21	LOC
+WB93	176	12	the Sahel Alliance	ORG
+WB93	177	1	N’Guimi	WORK_OF_ART
+WB93	177	2	Diffa	PERSON
+WB93	177	3	Zinder	PERSON
+WB93	177	4	two	CARDINAL
+WB93	177	5	one	CARDINAL
+WB93	177	6	the North of the Lake Chad22	LOC
+WB93	177	7	Cameroon	LOC
+WB93	177	8	CEMAC	ORG
+WB93	177	9	Maroua and Septentrion	ORG
+WB93	177	10	the Lake Chad	LOC
+WB93	177	11	Chad	GPE
+WB93	177	12	the South of Cameroon	LOC
+WB93	177	13	West	LOC
+WB93	177	14	Baga Sol	PERSON
+WB93	177	15	Tangal	GPE
+WB93	177	16	Gueni	NORP
+WB93	178	1	26	CARDINAL
+WB93	183	1	27	CARDINAL
+WB93	187	1	the Continental Early Warning System	ORG
+WB93	187	2	AU	ORG
+WB93	187	3	three	CARDINAL
+WB93	189	1	19	CARDINAL
+WB93	189	2	Lake Chad	LOC
+WB93	190	1	20	CARDINAL
+WB93	190	2	Boko Haram's	PERSON
+WB93	191	1	21	CARDINAL
+WB93	192	1	22	CARDINAL
+WB93	193	1	23	CARDINAL
+WB93	193	2	One	CARDINAL
+WB93	194	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	194	2	Oct 12,	DATE
+WB93	194	3	14	CARDINAL
+WB93	194	4	22	CARDINAL
+WB93	194	5	GBV	ORG
+WB93	195	1	AFD	ORG
+WB93	195	2	UN	ORG
+WB93	195	3	Lake Chad	LOC
+WB93	198	1	the Lake Chad	LOC
+WB93	199	1	the Lake Chad Region	LOC
+WB93	200	1	Component 2	ORG
+WB93	200	2	3	CARDINAL
+WB93	201	1	the Lake Chad Basin	LOC
+WB93	202	1	the Lake Chad Basin Governors	LOC
+WB93	202	2	the Lake Chad Region	LOC
+WB93	203	1	Grievance Redress Mechanisms	ORG
+WB93	204	1	28	CARDINAL
+WB93	205	1	the Lake Chad	LOC
+WB93	207	1	Component 3	DATE
+WB93	207	2	IMT (Intermediate Means of Transport	ORG
+WB93	208	1	RAI	ORG
+WB93	210	1	the Labor Intensive Public Works	ORG
+WB93	214	1	two	CARDINAL
+WB93	214	2	24	CARDINAL
+WB93	214	3	AFD	ORG
+WB93	214	4	IRD	ORG
+WB93	214	5	Crise	ORG
+WB93	214	6	Tchad à l’épreuve de Boko Haram	ORG
+WB93	215	1	25	CARDINAL
+WB93	215	2	University of Diffa	ORG
+WB93	215	3	Niger	GPE
+WB93	215	4	University of N’Djamena, University of Maroua	ORG
+WB93	215	5	University of Maiduguri	ORG
+WB93	216	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	216	2	Oct 12, 2018	DATE
+WB93	216	3	15	CARDINAL
+WB93	216	4	22	CARDINAL
+WB93	216	5	2.1	CARDINAL
+WB93	217	1	LDP	ORG
+WB93	217	2	GBV	ORG
+WB93	221	1	the Lake Chad	LOC
+WB93	221	2	the Lake	LOC
+WB93	222	1	Sub-Component 3.1	LAW
+WB93	224	1	Agriculture Investments	ORG
+WB93	224	2	Value-Chain Development 29	ORG
+WB93	226	1	three	CARDINAL
+WB93	226	2	Public Productive Agriculture Investments	ORG
+WB93	227	1	3.2	CARDINAL
+WB93	227	2	Livelihood Support	ORG
+WB93	227	3	Value Chain Development	ORG
+WB93	227	4	fish)29	CARDINAL
+WB93	228	1	26	CARDINAL
+WB93	229	1	27	CARDINAL
+WB93	230	1	28	CARDINAL
+WB93	231	1	29	CARDINAL
+WB93	232	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	232	2	Oct 12, 2018	DATE
+WB93	232	3	16	CARDINAL
+WB93	232	4	22	CARDINAL
+WB93	232	5	Niger	GPE
+WB93	232	6	Nigeria	GPE
+WB93	232	7	Niger	GPE
+WB93	232	8	Chad	GPE
+WB93	232	9	Cameroon	LOC
+WB93	232	10	Nigeria	GPE
+WB93	241	1	Gender Based Violence	PERSON
+WB93	241	2	GBV	ORG
+WB93	242	1	3.3	CARDINAL
+WB93	242	2	GBV prevention	ORG
+WB93	243	1	GBV	ORG
+WB93	244	1	UNDP	ORG
+WB93	244	2	DDR	ORG
+WB93	244	3	the Lake Chad Region	LOC
+WB93	244	4	UNDP	ORG
+WB93	248	1	30	CARDINAL
+WB93	249	1	31	CARDINAL
+WB93	250	1	32	CARDINAL
+WB93	252	1	FAO	ORG
+WB93	253	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	253	2	Oct 12,	DATE
+WB93	253	3	17	CARDINAL
+WB93	253	4	22	CARDINAL
+WB93	254	1	Management Information System	ORG
+WB93	254	2	MIS	ORG
+WB93	255	1	Third Party Monitoring	ORG
+WB93	256	1	Knowledge	FAC
+WB93	257	1	Project Management	ORG
+WB93	258	1	5	CARDINAL
+WB93	258	2	31	DATE
+WB93	260	1	zero	CARDINAL
+WB93	262	1	5	CARDINAL
+WB93	262	2	Oct 12,	DATE
+WB93	262	3	18	CARDINAL
+WB93	262	4	22	CARDINAL
+WB93	263	1	Lake Chad	LOC
+WB93	263	2	Niger	GPE
+WB93	263	3	Cameroon	PERSON
+WB93	263	4	Chad	GPE
+WB93	264	1	N’Guimi	WORK_OF_ART
+WB93	264	2	Diffa	PERSON
+WB93	264	3	Zinder	PERSON
+WB93	264	4	two	CARDINAL
+WB93	264	5	one	CARDINAL
+WB93	264	6	the North of the Lake Chad	LOC
+WB93	264	7	Cameroon	LOC
+WB93	264	8	CEMAC	ORG
+WB93	264	9	Maroua and Septentrion	ORG
+WB93	264	10	the Lake Chad	LOC
+WB93	264	11	Chad	GPE
+WB93	264	12	the South of Cameroon	LOC
+WB93	264	13	West	LOC
+WB93	264	14	Baga Sol	PERSON
+WB93	264	15	Tangal	GPE
+WB93	264	16	Gueni	NORP
+WB93	266	1	B. Borrower’s	PERSON
+WB93	266	2	the 1996 Environmental Law	LAW
+WB93	266	3	ESIA	NORP
+WB93	267	1	The Ministry of Environment, Protection of Nature and Sustainable Development	ORG
+WB93	267	2	ESIAs/ESMPs/RAPs and ESMPs/RAPs compliance	ORG
+WB93	268	1	Ministries	ORG
+WB93	269	1	April 3, 2013	DATE
+WB93	269	2	Division of the country	ORG
+WB93	269	3	ESMP	ORG
+WB93	270	1	only one	CARDINAL
+WB93	272	1	World Bank	ORG
+WB93	273	1	Law n ° 14	LAW
+WB93	273	2	August 17, 1998	DATE
+WB93	274	1	August 4, 2010	DATE
+WB93	274	2	the Environmental Impact Assessment	ORG
+WB93	274	3	November 29, 2012	DATE
+WB93	274	4	EIA	ORG
+WB93	275	1	DEELCPN	GPE
+WB93	277	1	World Bank	ORG
+WB93	279	1	May 14, 2018	DATE
+WB93	280	1	The Bureau Environmental Assessments and Impact Studies	ORG
+WB93	280	2	BEEEI	ORG
+WB93	280	3	the Ministry of the Environment and Sustainable Development	ORG
+WB93	281	1	BEEEI	ORG
+WB93	282	1	BEEEI	ORG
+WB93	283	1	BEEEI	ORG
+WB93	284	1	BEEEI	ORG
+WB93	284	2	World Bank	ORG
+WB93	285	1	three	CARDINAL
+WB93	286	1	C. Environmental	PERSON
+WB93	286	2	Alexandra C. Bezeredi	PERSON
+WB93	286	3	Social Specialist	ORG
+WB93	286	4	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	286	5	Oct 12, 2018	DATE
+WB93	286	6	19	CARDINAL
+WB93	286	7	22	CARDINAL
+WB93	286	8	Kristyna Bishop	GPE
+WB93	286	9	Social Specialist	ORG
+WB93	286	10	Serge M. Menang Evouna	PERSON
+WB93	286	11	Safeguard Policies Triggered	PERSON
+WB93	287	1	Component 2 and	LAW
+WB93	289	1	ESMF	ORG
+WB93	289	2	World Bank	ORG
+WB93	290	1	GBV	ORG
+WB93	292	1	4.04	CARDINAL
+WB93	292	2	the Lake Chad	LOC
+WB93	292	3	the Ramsar Convention on Wetlands of International Importance	LAW
+WB93	293	1	the Lake Chad	LOC
+WB93	293	2	Ramsar	WORK_OF_ART
+WB93	294	1	the Lake Chad	LOC
+WB93	296	1	OP	PERSON
+WB93	297	1	4.09	CARDINAL
+WB93	298	1	4.11	CARDINAL
+WB93	298	2	Cameroon	PERSON
+WB93	298	3	Chad	GPE
+WB93	298	4	Niger	PERSON
+WB93	299	1	The Lake Chad	LOC
+WB93	299	2	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	299	3	Oct 12, 2018	DATE
+WB93	299	4	20	CARDINAL
+WB93	299	5	22	CARDINAL
+WB93	299	6	World Natural Heritage Site	ORG
+WB93	299	7	UNESCO	ORG
+WB93	304	1	Peoples OP/BP	ORG
+WB93	304	2	4.10	CARDINAL
+WB93	305	1	IPPF	ORG
+WB93	305	2	IPP	ORG
+WB93	306	1	World Bank	ORG
+WB93	307	1	OP	PERSON
+WB93	307	2	4.12	CARDINAL
+WB93	307	3	Components 2 & 3	ORG
+WB93	308	1	World Bank	ORG
+WB93	310	1	International Waterways OP/BP	ORG
+WB93	310	2	2.2	CARDINAL
+WB93	312	1	3.1	CARDINAL
+WB93	314	1	Lake Chad	LOC
+WB93	314	2	7.50	CARDINAL
+WB93	315	1	the Lake Chad Basin Commission	ORG
+WB93	315	2	Bank	ORG
+WB93	316	1	The World Bank Lake Chad Region Recovery and Development Project (P161706	ORG
+WB93	316	2	Oct 12, 2018	DATE
+WB93	316	3	21	CARDINAL
+WB93	316	4	22	CARDINAL
+WB93	316	5	7.60	CARDINAL
+WB93	317	1	E. Safeguard Preparation Plan Tentative	ORG
+WB93	317	2	Appraisal Stage PID/ISDS Apr 25, 2019	ORG
+WB93	318	1	Appraisal Stage PID/ISDS	ORG
+WB93	318	2	PNDP	ORG
+WB93	318	3	Cameroon	GPE
+WB93	320	1	Nicolas Perrin	PERSON
+WB93	320	2	Benjamin Burckhart	PERSON
+WB93	320	3	Cameroon - Ministry of Economy, Planning and Regional Development Republic	ORG
+WB93	320	4	Chad - Ministry of Economy and Planning Republic	ORG
+WB93	320	5	Niger - Ministry of Economy and Planning	ORG
+WB93	320	6	Oct 12,	DATE
+WB93	320	7	22	CARDINAL
+WB93	320	8	22	CARDINAL
+WB93	320	9	TBC	ORG
+WB93	320	10	PNDP	ORG
+WB93	320	11	TBC	ORG
+WB93	320	12	Niger - Executive Secretariat	ORG
+WB93	320	13	Sahel Niger	PERSON
+WB93	320	14	Ada Laoualy Secrétaire	PERSON
+WB93	320	15	Niger Refugee	PERSON
+WB93	320	16	Host Community	ORG
+WB93	320	17	Projec ada.laoualy@yahoo.fr	PERSON
+WB93	320	18	NW	GPE
+WB93	320	19	Washington	GPE
+WB93	320	20	202	CARDINAL
+WB93	320	21	473-1000	CARDINAL
+WB93	320	22	Nicolas Perrin	PERSON
+WB93	320	23	Benjamin Burckhart	PERSON
+WB93	320	24	Maman-Sani	PERSON
+WB93	320	25	Senait Nigiru Assefa	PERSON
+WB93	320	26	Elisabeth	PERSON

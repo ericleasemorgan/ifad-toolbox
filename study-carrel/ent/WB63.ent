@@ -1,0 +1,165 @@
+id	sid	eid	entity	type
+WB63	1	1	PID	ORG
+WB63	2	1	PIDA14019 Project Name NMPRP-2 Additional Financing (P148733) Parent Project Name	ORG
+WB63	2	2	Region EAST ASIA	ORG
+WB63	2	3	80%	PERCENT
+WB63	2	4	Animal	ORG
+WB63	2	5	20%	PERCENT
+WB63	2	6	80%	PERCENT
+WB63	2	7	20%	PERCENT
+WB63	2	8	Vietnam Implementing Agency Ministry of Planning and Investment Environmental Category B-Partial Assessment Date PID Prepared/	ORG
+WB63	2	9	Decision I.	PERSON
+WB63	3	1	Vietnam	GPE
+WB63	3	2	58 percent	PERCENT
+WB63	3	3	1993	DATE
+WB63	3	4	14 percent	PERCENT
+WB63	3	5	2010	DATE
+WB63	3	6	20 percent	PERCENT
+WB63	3	7	GSO-WB	ORG
+WB63	3	8	60 percent	PERCENT
+WB63	3	9	the West Northern Mountains Region	LOC
+WB63	3	10	38 percent	PERCENT
+WB63	3	11	the East Northern Mountains Region	LOC
+WB63	3	12	GSO-WB	ORG
+WB63	4	1	the Northern Mountains	LOC
+WB63	5	1	Vietnam	GPE
+WB63	7	1	five-year	DATE
+WB63	7	2	2011-2015	DATE
+WB63	7	3	the National Assembly	ORG
+WB63	7	4	November, 2011	DATE
+WB63	8	1	6 Poverty	PERCENT
+WB63	8	2	Vietnam	GPE
+WB63	9	1	only 15 percent	PERCENT
+WB63	9	2	half	CARDINAL
+WB63	9	3	Vietnam	GPE
+WB63	9	4	Vietnam	GPE
+WB63	10	1	66 percent	PERCENT
+WB63	11	1	North-West	GPE
+WB63	11	2	North-East	GPE
+WB63	11	3	Central Highland	LOC
+WB63	12	1	The Northern Mountains	LOC
+WB63	12	2	almost one-third	CARDINAL
+WB63	12	3	Vietnam	GPE
+WB63	13	1	the Northern Mountains	LOC
+WB63	13	2	Vietnam	GPE
+WB63	14	1	the last fifteen years	DATE
+WB63	14	2	GoV	ORG
+WB63	14	3	the Ministry of Labor	ORG
+WB63	14	4	Social Affairs	ORG
+WB63	14	5	MoLISA	ORG
+WB63	14	6	MPI	ORG
+WB63	14	7	the Committee for Ethnic Minority Affairs	ORG
+WB63	14	8	CEMA	ORG
+WB63	14	9	the Ministry of Agriculture and Rural Development	ORG
+WB63	15	1	the Program for Socio-Economic Development in Communes Facing Extreme Hardship in Ethnic Minority and Mountainous Areas	ORG
+WB63	15	2	62	CARDINAL
+WB63	16	1	GoV	ORG
+WB63	16	2	P135-3	CARDINAL
+WB63	16	3	CEMA	ORG
+WB63	16	4	MARD	PRODUCT
+WB63	17	1	Vietnam	GPE
+WB63	17	2	16	CARDINAL
+WB63	19	1	The World Bank	ORG
+WB63	19	2	Vietnam	GPE
+WB63	19	3	two	CARDINAL
+WB63	19	4	CDD	ORG
+WB63	19	5	CBRIP	ORG
+WB63	19	6	the Northern Mountains Poverty Reduction Project	ORG
+WB63	19	7	three	CARDINAL
+WB63	19	8	CDD	ORG
+WB63	20	1	Bank	ORG
+WB63	21	1	GoV	ORG
+WB63	21	2	Vietnam	GPE
+WB63	22	1	GoV	ORG
+WB63	23	1	two	CARDINAL
+WB63	23	2	one	CARDINAL
+WB63	25	1	3	CARDINAL
+WB63	25	2	4 percent	PERCENT
+WB63	25	3	2011	DATE
+WB63	25	4	2020	DATE
+WB63	25	5	2 percent	PERCENT
+WB63	26	1	GoV	ORG
+WB63	26	2	3 years	DATE
+WB63	26	3	multi-year	DATE
+WB63	26	4	annual	DATE
+WB63	28	1	GoV	ORG
+WB63	33	1	# At least	MONEY
+WB63	33	2	60%	PERCENT
+WB63	34	1	at least 10%	PERCENT
+WB63	36	1	AF	ORG
+WB63	36	2	AF	ORG
+WB63	37	1	AF	ORG
+WB63	38	1	AF	ORG
+WB63	38	2	The Project Development Objective	ORG
+WB63	39	1	III	ORG
+WB63	40	1	about 30%	PERCENT
+WB63	40	2	US$28.8 million	MONEY
+WB63	41	1	the District Socio-Economic Development Plans	ORG
+WB63	43	1	4	CARDINAL
+WB63	43	2	6	CARDINAL
+WB63	43	3	about 58%	PERCENT
+WB63	43	4	US$55.68 million	MONEY
+WB63	45	1	Common Interest Groups	ORG
+WB63	46	1	about 6%	PERCENT
+WB63	46	2	CPO	ORG
+WB63	46	3	US	GPE
+WB63	46	4	6.76million	MONEY
+WB63	47	1	AF	ORG
+WB63	47	2	AF	ORG
+WB63	49	1	the Socio- Economic Development Plan	ORG
+WB63	49	2	Project Management Comments	ORG
+WB63	49	3	about 6%	PERCENT
+WB63	49	4	CPO	ORG
+WB63	49	5	US$8.76 million	MONEY
+WB63	52	1	USD Million	CARDINAL
+WB63	52	2	110.00	CARDINAL
+WB63	52	3	100.00	CARDINAL
+WB63	52	4	0.00	CARDINAL
+WB63	52	5	10.00	CARDINAL
+WB63	52	6	International Development Association	ORG
+WB63	52	7	IDA	ORG
+WB63	52	8	100.00	CARDINAL
+WB63	52	9	110.00	CARDINAL
+WB63	53	1	Central Project Coordination Office	ORG
+WB63	53	2	CPO	ORG
+WB63	53	3	the Department of Agricultural Economics	ORG
+WB63	53	4	MPI	ORG
+WB63	53	5	the World Bank	ORG
+WB63	54	1	Provincial Project Management Unit	ORG
+WB63	54	2	PPMU	ORG
+WB63	54	3	Department of Planning and Investment	ORG
+WB63	55	1	District Project Management Unit	ORG
+WB63	56	1	CDBC	ORG
+WB63	56	2	5	CARDINAL
+WB63	56	3	6	CARDINAL
+WB63	56	4	DPMU	ORG
+WB63	57	1	Commune Development Board	ORG
+WB63	57	2	Commune People’s Committee	ORG
+WB63	57	3	CPC	ORG
+WB63	60	1	Safeguard Policies	PERSON
+WB63	60	2	4.01	CARDINAL
+WB63	60	3	Habitats OP	PRODUCT
+WB63	60	4	4.04	CARDINAL
+WB63	60	5	4.36	CARDINAL
+WB63	60	6	4.09	CARDINAL
+WB63	60	7	Physical Cultural Resources OP/BP	LAW
+WB63	60	8	4.10	CARDINAL
+WB63	60	9	OP	PERSON
+WB63	60	10	International Waterways OP/BP	ORG
+WB63	60	11	Disputed Areas OP/BP	FAC
+WB63	60	12	7.60	CARDINAL
+WB63	60	13	VII	ORG
+WB63	61	1	World Bank Contact	ORG
+WB63	61	2	Lan Thi	PERSON
+WB63	61	3	Ministry of Planning and Investment Contact	ORG
+WB63	61	4	Nguyen Thanh Duong	PERSON
+WB63	61	5	Department of Agriculture Economics	ORG
+WB63	61	6	6	CARDINAL
+WB63	61	7	6	CARDINAL
+WB63	62	1	The InfoShop The World Bank 1818 H Street	ORG
+WB63	62	2	NW	GPE
+WB63	62	3	Washington	GPE
+WB63	62	4	202	CARDINAL
+WB63	62	5	458	CARDINAL
+WB63	62	6	202	CARDINAL
+WB63	62	7	522-1500	CARDINAL

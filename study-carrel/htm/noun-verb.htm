@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 2, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">noun/verb</li>
+		</ol>
+	</nav>
+
+
+<h1>noun/verb</h1>
+<p>This is a table of noun/verb combinations and their frequencies from sentences in your study carrel. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>noun</th>
+                <th>verb</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>it</td><td>is</td><td>765</td></tr>
+<tr><td>project</td><td>is</td><td>751</td></tr>
+<tr><td>sector</td><td>is</td><td>174</td></tr>
+<tr><td>activities</td><td>are</td><td>167</td></tr>
+<tr><td>it</td><td>has</td><td>156</td></tr>
+<tr><td>they</td><td>are</td><td>142</td></tr>
+<tr><td>project</td><td>has</td><td>130</td></tr>
+<tr><td>agriculture</td><td>is</td><td>121</td></tr>
+<tr><td>impacts</td><td>are</td><td>119</td></tr>
+<tr><td>it</td><td>was</td><td>115</td></tr>
+<tr><td>component</td><td>is</td><td>112</td></tr>
+<tr><td>bank</td><td>has</td><td>111</td></tr>
+<tr><td>project</td><td>are</td><td>81</td></tr>
+<tr><td>country</td><td>is</td><td>78</td></tr>
+<tr><td>sector</td><td>has</td><td>77</td></tr>
+<tr><td>country</td><td>has</td><td>77</td></tr>
+<tr><td>project</td><td>support</td><td>77</td></tr>
+<tr><td>water</td><td>use</td><td>75</td></tr>
+<tr><td>%</td><td>increase</td><td>72</td></tr>
+<tr><td>project</td><td>include</td><td>71</td></tr>
+<tr><td>women</td><td>are</td><td>69</td></tr>
+<tr><td>production</td><td>is</td><td>68</td></tr>
+<tr><td>area</td><td>is</td><td>67</td></tr>
+<tr><td>system</td><td>is</td><td>58</td></tr>
+<tr><td>project</td><td>was</td><td>57</td></tr>
+<tr><td>bank</td><td>is</td><td>54</td></tr>
+<tr><td>activities</td><td>related</td><td>52</td></tr>
+<tr><td>they</td><td>have</td><td>50</td></tr>
+<tr><td>cost</td><td>is</td><td>46</td></tr>
+<tr><td>farmers</td><td>are</td><td>45</td></tr>
+<tr><td>systems</td><td>are</td><td>45</td></tr>
+<tr><td>%</td><td>are</td><td>44</td></tr>
+<tr><td>areas</td><td>are</td><td>43</td></tr>
+<tr><td>implementation</td><td>support</td><td>41</td></tr>
+<tr><td>projects</td><td>financed</td><td>41</td></tr>
+<tr><td>costs</td><td>related</td><td>40</td></tr>
+<tr><td>project</td><td>does</td><td>37</td></tr>
+<tr><td>%</td><td>is</td><td>33</td></tr>
+<tr><td>projects</td><td>are</td><td>33</td></tr>
+<tr><td>component</td><td>are</td><td>32</td></tr>
+<tr><td>services</td><td>are</td><td>31</td></tr>
+<tr><td>sector</td><td>are</td><td>30</td></tr>
+<tr><td>water</td><td>is</td><td>29</td></tr>
+<tr><td>bank</td><td>financed</td><td>29</td></tr>
+<tr><td>project</td><td>require</td><td>29</td></tr>
+<tr><td>agriculture</td><td>has</td><td>28</td></tr>
+<tr><td>costs</td><td>are</td><td>28</td></tr>
+<tr><td>services</td><td>provided</td><td>26</td></tr>
+<tr><td>capacity</td><td>building</td><td>25</td></tr>
+<tr><td>value</td><td>is</td><td>25</td></tr>
+<tr><td>activities</td><td>is</td><td>24</td></tr>
+<tr><td>it</td><td>contributes</td><td>24</td></tr>
+<tr><td>management</td><td>is</td><td>24</td></tr>
+<tr><td>projects</td><td>have</td><td>24</td></tr>
+<tr><td>development</td><td>is</td><td>23</td></tr>
+<tr><td>women</td><td>have</td><td>23</td></tr>
+<tr><td>areas</td><td>have</td><td>23</td></tr>
+<tr><td>bank</td><td>support</td><td>23</td></tr>
+<tr><td>project</td><td>supports</td><td>22</td></tr>
+<tr><td>services</td><td>is</td><td>22</td></tr>
+<tr><td>i</td><td>am</td><td>22</td></tr>
+<tr><td>it</td><td>does</td><td>22</td></tr>
+<tr><td>activities</td><td>including</td><td>21</td></tr>
+<tr><td>activities</td><td>supported</td><td>21</td></tr>
+<tr><td>project</td><td>financed</td><td>21</td></tr>
+<tr><td>activities</td><td>have</td><td>20</td></tr>
+<tr><td>markets</td><td>are</td><td>20</td></tr>
+<tr><td>production</td><td>has</td><td>20</td></tr>
+<tr><td>project</td><td>provides</td><td>20</td></tr>
+<tr><td>system</td><td>has</td><td>19</td></tr>
+<tr><td>support</td><td>is</td><td>19</td></tr>
+<tr><td>services</td><td>financed</td><td>19</td></tr>
+<tr><td>implementation</td><td>is</td><td>19</td></tr>
+<tr><td>%</td><td>have</td><td>19</td></tr>
+<tr><td>activities</td><td>financed</td><td>19</td></tr>
+<tr><td>it</td><td>includes</td><td>18</td></tr>
+<tr><td>they</td><td>include</td><td>18</td></tr>
+<tr><td>activities</td><td>implemented</td><td>17</td></tr>
+<tr><td>area</td><td>has</td><td>17</td></tr>
+<tr><td>areas</td><td>is</td><td>17</td></tr>
+<tr><td>it</td><td>provides</td><td>17</td></tr>
+<tr><td>management</td><td>are</td><td>16</td></tr>
+<tr><td>sectors</td><td>are</td><td>16</td></tr>
+<tr><td>impacts</td><td>include</td><td>16</td></tr>
+<tr><td>capacity</td><td>is</td><td>16</td></tr>
+<tr><td>components</td><td>are</td><td>15</td></tr>
+<tr><td>project</td><td>includes</td><td>15</td></tr>
+<tr><td>support</td><td>provided</td><td>15</td></tr>
+<tr><td>them</td><td>are</td><td>15</td></tr>
+<tr><td>they</td><td>do</td><td>15</td></tr>
+<tr><td>support</td><td>increased</td><td>14</td></tr>
+<tr><td>sectors</td><td>is</td><td>14</td></tr>
+<tr><td>sector</td><td>contributes</td><td>14</td></tr>
+<tr><td>project</td><td>related</td><td>14</td></tr>
+<tr><td>project</td><td>contributes</td><td>14</td></tr>
+<tr><td>i</td><td>m</td><td>14</td></tr>
+<tr><td>development</td><td>support</td><td>14</td></tr>
+<tr><td>country</td><td>are</td><td>14</td></tr>
+<tr><td>capacity</td><td>has</td><td>14</td></tr>
+<tr><td>areas</td><td>developed</td><td>14</td></tr>
+<tr><td>activities</td><td>included</td><td>14</td></tr>
+<tr><td>activities</td><td>include</td><td>14</td></tr>
+<tr><td>impact</td><td>is</td><td>13</td></tr>
+<tr><td>projects</td><td>implemented</td><td>13</td></tr>
+<tr><td>women</td><td>is</td><td>13</td></tr>
+<tr><td>farmers</td><td>is</td><td>12</td></tr>
+<tr><td>sector</td><td>was</td><td>12</td></tr>
+<tr><td>it</td><td>supports</td><td>12</td></tr>
+<tr><td>management</td><td>support</td><td>12</td></tr>
+<tr><td>development</td><td>are</td><td>12</td></tr>
+<tr><td>agriculture</td><td>are</td><td>12</td></tr>
+<tr><td>capacity</td><td>strengthening</td><td>12</td></tr>
+<tr><td>costs</td><td>have</td><td>12</td></tr>
+<tr><td>its</td><td>support</td><td>11</td></tr>
+<tr><td>system</td><td>based</td><td>11</td></tr>
+<tr><td>projects</td><td>is</td><td>11</td></tr>
+<tr><td>project</td><td>have</td><td>11</td></tr>
+<tr><td>project</td><td>finance</td><td>11</td></tr>
+<tr><td>project</td><td>builds</td><td>11</td></tr>
+<tr><td>sector</td><td>include</td><td>11</td></tr>
+<tr><td>impacts</td><td>related</td><td>11</td></tr>
+<tr><td>development</td><td>finance</td><td>11</td></tr>
+<tr><td>country</td><td>was</td><td>11</td></tr>
+<tr><td>component</td><td>includes</td><td>11</td></tr>
+<tr><td>activity</td><td>is</td><td>11</td></tr>
+<tr><td>capacities</td><td>are</td><td>11</td></tr>
+<tr><td>farmers</td><td>have</td><td>11</td></tr>
+<tr><td>component</td><td>has</td><td>10</td></tr>
+<tr><td>they</td><td>were</td><td>10</td></tr>
+<tr><td>sector</td><td>have</td><td>10</td></tr>
+<tr><td>project</td><td>supported</td><td>10</td></tr>
+<tr><td>activities</td><td>were</td><td>10</td></tr>
+<tr><td>areas</td><td>were</td><td>10</td></tr>
+<tr><td>activities</td><td>proposed</td><td>10</td></tr>
+<tr><td>activities</td><td>do</td><td>10</td></tr>
+<tr><td>%</td><td>being</td><td>10</td></tr>
+<tr><td>project</td><td>including</td><td>9</td></tr>
+<tr><td>values</td><td>are</td><td>9</td></tr>
+<tr><td>system</td><td>was</td><td>9</td></tr>
+<tr><td>services</td><td>required</td><td>9</td></tr>
+<tr><td>sector</td><td>support</td><td>9</td></tr>
+<tr><td>agriculture</td><td>finance</td><td>9</td></tr>
+<tr><td>markets</td><td>is</td><td>9</td></tr>
+<tr><td>it</td><td>include</td><td>9</td></tr>
+<tr><td>countries</td><td>have</td><td>9</td></tr>
+<tr><td>areas</td><td>include</td><td>9</td></tr>
+<tr><td>its</td><td>use</td><td>9</td></tr>
+<tr><td>implementation</td><td>has</td><td>8</td></tr>
+<tr><td>services</td><td>related</td><td>8</td></tr>
+<tr><td>projects</td><td>developed</td><td>8</td></tr>
+<tr><td>production</td><td>support</td><td>8</td></tr>
+<tr><td>implementation</td><td>are</td><td>8</td></tr>
+<tr><td>costs</td><td>include</td><td>8</td></tr>
+<tr><td>bank</td><td>supported</td><td>8</td></tr>
+<tr><td>activities</td><td>being</td><td>8</td></tr>
+<tr><td>systems</td><td>have</td><td>7</td></tr>
+<tr><td>system</td><td>used</td><td>7</td></tr>
+<tr><td>sectors</td><td>have</td><td>7</td></tr>
+<tr><td>projects</td><td>including</td><td>7</td></tr>
+<tr><td>project</td><td>proposes</td><td>7</td></tr>
+<tr><td>project</td><td>implementing</td><td>7</td></tr>
+<tr><td>implementation</td><td>including</td><td>7</td></tr>
+<tr><td>production</td><td>base</td><td>7</td></tr>
+<tr><td>production</td><td>increased</td><td>7</td></tr>
+<tr><td>impacts</td><td>including</td><td>7</td></tr>
+<tr><td>farmers</td><td>used</td><td>7</td></tr>
+<tr><td>farmers</td><td>supported</td><td>7</td></tr>
+<tr><td>countries</td><td>are</td><td>7</td></tr>
+<tr><td>costs</td><td>including</td><td>7</td></tr>
+<tr><td>bank</td><td>was</td><td>7</td></tr>
+<tr><td>areas</td><td>has</td><td>7</td></tr>
+<tr><td>area</td><td>are</td><td>7</td></tr>
+<tr><td>farmers</td><td>using</td><td>7</td></tr>
+<tr><td>services</td><td>including</td><td>6</td></tr>
+<tr><td>project</td><td>promotes</td><td>6</td></tr>
+<tr><td>projects</td><td>supporting</td><td>6</td></tr>
+<tr><td>projects</td><td>were</td><td>6</td></tr>
+<tr><td>sector</td><td>provides</td><td>6</td></tr>
+<tr><td>sectors</td><td>including</td><td>6</td></tr>
+<tr><td>services</td><td>have</td><td>6</td></tr>
+<tr><td>system</td><td>are</td><td>6</td></tr>
+<tr><td>services</td><td>promoted</td><td>6</td></tr>
+<tr><td>support</td><td>improved</td><td>6</td></tr>
+<tr><td>support</td><td>improving</td><td>6</td></tr>
+<tr><td>market</td><td>is</td><td>6</td></tr>
+<tr><td>system</td><td>developed</td><td>6</td></tr>
+<tr><td>system</td><td>established</td><td>6</td></tr>
+<tr><td>systems</td><td>is</td><td>6</td></tr>
+<tr><td>they</td><td>contribute</td><td>6</td></tr>
+<tr><td>markets</td><td>have</td><td>6</td></tr>
+<tr><td>projects</td><td>supported</td><td>6</td></tr>
+<tr><td>management</td><td>including</td><td>6</td></tr>
+<tr><td>component</td><td>include</td><td>6</td></tr>
+<tr><td>management</td><td>has</td><td>6</td></tr>
+<tr><td>activities</td><td>relating</td><td>6</td></tr>
+<tr><td>agriculture</td><td>contributes</td><td>6</td></tr>
+<tr><td>agriculture</td><td>including</td><td>6</td></tr>
+<tr><td>bank</td><td>are</td><td>6</td></tr>
+<tr><td>bank</td><td>had</td><td>6</td></tr>
+<tr><td>bank</td><td>have</td><td>6</td></tr>
+<tr><td>activities</td><td>identified</td><td>6</td></tr>
+<tr><td>component</td><td>supports</td><td>6</td></tr>
+<tr><td>development</td><td>has</td><td>6</td></tr>
+<tr><td>development</td><td>include</td><td>6</td></tr>
+<tr><td>farmers</td><td>do</td><td>6</td></tr>
+<tr><td>farmers</td><td>including</td><td>6</td></tr>
+<tr><td>its</td><td>implementing</td><td>6</td></tr>
+<tr><td>cost</td><td>includes</td><td>6</td></tr>
+<tr><td>project</td><td>takes</td><td>5</td></tr>
+<tr><td>it</td><td>promotes</td><td>5</td></tr>
+<tr><td>it</td><td>requires</td><td>5</td></tr>
+<tr><td>markets</td><td>including</td><td>5</td></tr>
+<tr><td>production</td><td>are</td><td>5</td></tr>
+<tr><td>production</td><td>was</td><td>5</td></tr>
+<tr><td>project</td><td>implemented</td><td>5</td></tr>
+<tr><td>support</td><td>has</td><td>5</td></tr>
+<tr><td>projects</td><td>being</td><td>5</td></tr>
+<tr><td>services</td><td>include</td><td>5</td></tr>
+<tr><td>them</td><td>is</td><td>5</td></tr>
+<tr><td>water</td><td>used</td><td>5</td></tr>
+<tr><td>women</td><td>make</td><td>5</td></tr>
+<tr><td>it</td><td>be</td><td>5</td></tr>
+<tr><td>it</td><td>builds</td><td>5</td></tr>
+<tr><td>activities</td><td>using</td><td>5</td></tr>
+<tr><td>implementation</td><td>was</td><td>5</td></tr>
+<tr><td>cost</td><td>based</td><td>5</td></tr>
+<tr><td>implementation</td><td>include</td><td>5</td></tr>
+<tr><td>activities</td><td>promoted</td><td>5</td></tr>
+<tr><td>area</td><td>developed</td><td>5</td></tr>
+<tr><td>area</td><td>have</td><td>5</td></tr>
+<tr><td>area</td><td>provided</td><td>5</td></tr>
+<tr><td>%</td><td>was</td><td>5</td></tr>
+<tr><td>country</td><td>have</td><td>5</td></tr>
+<tr><td>development</td><td>including</td><td>5</td></tr>
+<tr><td>farmers</td><td>increased</td><td>5</td></tr>
+<tr><td>impacts</td><td>expected</td><td>5</td></tr>
+<tr><td>impacts</td><td>have</td><td>5</td></tr>
+<tr><td>impacts</td><td>were</td><td>5</td></tr>
+<tr><td>support</td><td>are</td><td>4</td></tr>
+<tr><td>project</td><td>based</td><td>4</td></tr>
+<tr><td>project</td><td>be</td><td>4</td></tr>
+<tr><td>project</td><td>had</td><td>4</td></tr>
+<tr><td>project</td><td>requires</td><td>4</td></tr>
+<tr><td>project</td><td>were</td><td>4</td></tr>
+<tr><td>projects</td><td>related</td><td>4</td></tr>
+<tr><td>sector</td><td>including</td><td>4</td></tr>
+<tr><td>sector</td><td>requires</td><td>4</td></tr>
+<tr><td>services</td><td>were</td><td>4</td></tr>
+<tr><td>them</td><td>have</td><td>4</td></tr>
+<tr><td>system</td><td>have</td><td>4</td></tr>
+<tr><td>system</td><td>implemented</td><td>4</td></tr>
+<tr><td>system</td><td>including</td><td>4</td></tr>
+<tr><td>system</td><td>using</td><td>4</td></tr>
+<tr><td>systems</td><td>built</td><td>4</td></tr>
+<tr><td>their</td><td>use</td><td>4</td></tr>
+<tr><td>management</td><td>have</td><td>4</td></tr>
+<tr><td>they</td><td>provide</td><td>4</td></tr>
+<tr><td>water</td><td>related</td><td>4</td></tr>
+<tr><td>women</td><td>provide</td><td>4</td></tr>
+<tr><td>market</td><td>are</td><td>4</td></tr>
+<tr><td>sector</td><td>contributed</td><td>4</td></tr>
+<tr><td>it</td><td>takes</td><td>4</td></tr>
+<tr><td>bank</td><td>requires</td><td>4</td></tr>
+<tr><td>it</td><td>implemented</td><td>4</td></tr>
+<tr><td>%</td><td>reduced</td><td>4</td></tr>
+<tr><td>activities</td><td>required</td><td>4</td></tr>
+<tr><td>activity</td><td>has</td><td>4</td></tr>
+<tr><td>agriculture</td><td>based</td><td>4</td></tr>
+<tr><td>agriculture</td><td>related</td><td>4</td></tr>
+<tr><td>area</td><td>using</td><td>4</td></tr>
+<tr><td>areas</td><td>including</td><td>4</td></tr>
+<tr><td>areas</td><td>related</td><td>4</td></tr>
+<tr><td>areas</td><td>supported</td><td>4</td></tr>
+<tr><td>area</td><td>includes</td><td>4</td></tr>
+<tr><td>capacity</td><td>have</td><td>4</td></tr>
+<tr><td>components</td><td>is</td><td>4</td></tr>
+<tr><td>costs</td><td>increase</td><td>4</td></tr>
+<tr><td>countries</td><td>is</td><td>4</td></tr>
+<tr><td>country</td><td>include</td><td>4</td></tr>
+<tr><td>development</td><td>based</td><td>4</td></tr>
+<tr><td>development</td><td>was</td><td>4</td></tr>
+<tr><td>capacity</td><td>were</td><td>4</td></tr>
+<tr><td>farmers</td><td>had</td><td>4</td></tr>
+<tr><td>i</td><td>has</td><td>4</td></tr>
+<tr><td>project</td><td>being</td><td>3</td></tr>
+<tr><td>project</td><td>relate</td><td>3</td></tr>
+<tr><td>project</td><td>increased</td><td>3</td></tr>
+<tr><td>project</td><td>included</td><td>3</td></tr>
+<tr><td>project</td><td>finances</td><td>3</td></tr>
+<tr><td>project</td><td>expects</td><td>3</td></tr>
+<tr><td>management</td><td>related</td><td>3</td></tr>
+<tr><td>production</td><td>were</td><td>3</td></tr>
+<tr><td>production</td><td>have</td><td>3</td></tr>
+<tr><td>itself</td><td>is</td><td>3</td></tr>
+<tr><td>its</td><td>proposed</td><td>3</td></tr>
+<tr><td>projected</td><td>increase</td><td>3</td></tr>
+<tr><td>it</td><td>took</td><td>3</td></tr>
+<tr><td>project</td><td>took</td><td>3</td></tr>
+<tr><td>they</td><td>had</td><td>3</td></tr>
+<tr><td>projects</td><td>include</td><td>3</td></tr>
+<tr><td>projects</td><td>using</td><td>3</td></tr>
+<tr><td>sector</td><td>based</td><td>3</td></tr>
+<tr><td>sectors</td><td>identified</td><td>3</td></tr>
+<tr><td>services</td><td>support</td><td>3</td></tr>
+<tr><td>services</td><td>supported</td><td>3</td></tr>
+<tr><td>she</td><td>is</td><td>3</td></tr>
+<tr><td>support</td><td>following</td><td>3</td></tr>
+<tr><td>systems</td><td>established</td><td>3</td></tr>
+<tr><td>them</td><td>develop</td><td>3</td></tr>
+<tr><td>they</td><td>included</td><td>3</td></tr>
+<tr><td>they</td><td>support</td><td>3</td></tr>
+<tr><td>values</td><td>based</td><td>3</td></tr>
+<tr><td>women</td><td>implementing</td><td>3</td></tr>
+<tr><td>it</td><td>makes</td><td>3</td></tr>
+<tr><td>it</td><td>provided</td><td>3</td></tr>
+<tr><td>management</td><td>was</td><td>3</td></tr>
+<tr><td>it</td><td>increases</td><td>3</td></tr>
+<tr><td>capacity</td><td>strengthened</td><td>3</td></tr>
+<tr><td>it</td><td>had</td><td>3</td></tr>
+<tr><td>%</td><td>finance</td><td>3</td></tr>
+<tr><td>%</td><td>required</td><td>3</td></tr>
+<tr><td>activities</td><td>has</td><td>3</td></tr>
+<tr><td>activities</td><td>requiring</td><td>3</td></tr>
+<tr><td>activity</td><td>are</td><td>3</td></tr>
+<tr><td>agriculture</td><td>have</td><td>3</td></tr>
+<tr><td>agriculture</td><td>requires</td><td>3</td></tr>
+<tr><td>agriculture</td><td>was</td><td>3</td></tr>
+<tr><td>area</td><td>was</td><td>3</td></tr>
+<tr><td>areas</td><td>was</td><td>3</td></tr>
+<tr><td>bank</td><td>finances</td><td>3</td></tr>
+<tr><td>capacity</td><td>are</td><td>3</td></tr>
+<tr><td>capacity</td><td>developed</td><td>3</td></tr>
+<tr><td>agriculture</td><td>support</td><td>3</td></tr>
+<tr><td>capacity</td><td>support</td><td>3</td></tr>
+<tr><td>farmers</td><td>were</td><td>3</td></tr>
+<tr><td>component</td><td>was</td><td>3</td></tr>
+<tr><td>it</td><td>follows</td><td>3</td></tr>
+<tr><td>it</td><td>contributed</td><td>3</td></tr>
+<tr><td>implementation</td><td>based</td><td>3</td></tr>
+<tr><td>impacts</td><td>is</td><td>3</td></tr>
+<tr><td>he</td><td>has</td><td>3</td></tr>
+<tr><td>he</td><td>is</td><td>3</td></tr>
+<tr><td>farmers</td><td>use</td><td>3</td></tr>
+<tr><td>farmers</td><td>requires</td><td>3</td></tr>
+<tr><td>developments</td><td>are</td><td>3</td></tr>
+<tr><td>costs</td><td>were</td><td>3</td></tr>
+<tr><td>components</td><td>required</td><td>3</td></tr>
+<tr><td>components</td><td>including</td><td>3</td></tr>
+<tr><td>projects</td><td>was</td><td>2</td></tr>
+<tr><td>sector</td><td>reduce</td><td>2</td></tr>
+<tr><td>sector</td><td>does</td><td>2</td></tr>
+<tr><td>sector</td><td>financed</td><td>2</td></tr>
+<tr><td>sector</td><td>having</td><td>2</td></tr>
+<tr><td>it</td><td>were</td><td>2</td></tr>
+<tr><td>sector</td><td>provided</td><td>2</td></tr>
+<tr><td>service</td><td>is</td><td>2</td></tr>
+<tr><td>sector</td><td>were</td><td>2</td></tr>
+<tr><td>sectors</td><td>contributed</td><td>2</td></tr>
+<tr><td>sectors</td><td>develop</td><td>2</td></tr>
+<tr><td>sectors</td><td>promoted</td><td>2</td></tr>
+<tr><td>sectors</td><td>were</td><td>2</td></tr>
+<tr><td>service</td><td>including</td><td>2</td></tr>
+<tr><td>service</td><td>provided</td><td>2</td></tr>
+<tr><td>projects</td><td>has</td><td>2</td></tr>
+<tr><td>projects</td><td>relating</td><td>2</td></tr>
+<tr><td>management</td><td>include</td><td>2</td></tr>
+<tr><td>projected</td><td>increases</td><td>2</td></tr>
+<tr><td>project</td><td>using</td><td>2</td></tr>
+<tr><td>its</td><td>increasing</td><td>2</td></tr>
+<tr><td>management</td><td>established</td><td>2</td></tr>
+<tr><td>services</td><td>has</td><td>2</td></tr>
+<tr><td>management</td><td>provided</td><td>2</td></tr>
+<tr><td>market</td><td>based</td><td>2</td></tr>
+<tr><td>market</td><td>being</td><td>2</td></tr>
+<tr><td>market</td><td>support</td><td>2</td></tr>
+<tr><td>markets</td><td>were</td><td>2</td></tr>
+<tr><td>productions</td><td>is</td><td>2</td></tr>
+<tr><td>project</td><td>establishing</td><td>2</td></tr>
+<tr><td>project</td><td>financing</td><td>2</td></tr>
+<tr><td>project</td><td>identified</td><td>2</td></tr>
+<tr><td>project</td><td>prepared</td><td>2</td></tr>
+<tr><td>project</td><td>provided</td><td>2</td></tr>
+<tr><td>project</td><td>required</td><td>2</td></tr>
+<tr><td>services</td><td>based</td><td>2</td></tr>
+<tr><td>systems</td><td>implemented</td><td>2</td></tr>
+<tr><td>services</td><td>was</td><td>2</td></tr>
+<tr><td>support</td><td>based</td><td>2</td></tr>
+<tr><td>their</td><td>expected</td><td>2</td></tr>
+<tr><td>them</td><td>having</td><td>2</td></tr>
+<tr><td>themselves</td><td>do</td><td>2</td></tr>
+<tr><td>they</td><td>be</td><td>2</td></tr>
+<tr><td>they</td><td>contributed</td><td>2</td></tr>
+<tr><td>they</td><td>follow</td><td>2</td></tr>
+<tr><td>they</td><td>increased</td><td>2</td></tr>
+<tr><td>they</td><td>make</td><td>2</td></tr>
+<tr><td>they</td><td>promote</td><td>2</td></tr>
+<tr><td>they</td><td>supported</td><td>2</td></tr>
+<tr><td>value</td><td>was</td><td>2</td></tr>
+<tr><td>water</td><td>using</td><td>2</td></tr>
+<tr><td>we</td><td>expect</td><td>2</td></tr>
+<tr><td>women</td><td>has</td><td>2</td></tr>
+<tr><td>women</td><td>having</td><td>2</td></tr>
+<tr><td>systems</td><td>used</td><td>2</td></tr>
+<tr><td>systems</td><td>supported</td><td>2</td></tr>
+<tr><td>systems</td><td>strengthened</td><td>2</td></tr>
+<tr><td>system</td><td>being</td><td>2</td></tr>
+<tr><td>support</td><td>have</td><td>2</td></tr>
+<tr><td>support</td><td>includes</td><td>2</td></tr>
+<tr><td>support</td><td>strengthening</td><td>2</td></tr>
+<tr><td>support</td><td>was</td><td>2</td></tr>
+<tr><td>support</td><td>were</td><td>2</td></tr>
+<tr><td>supporting</td><td>increased</td><td>2</td></tr>
+<tr><td>system</td><td>contributes</td><td>2</td></tr>
+<tr><td>systems</td><td>required</td><td>2</td></tr>
+<tr><td>system</td><td>following</td><td>2</td></tr>
+<tr><td>system</td><td>includes</td><td>2</td></tr>
+<tr><td>system</td><td>were</td><td>2</td></tr>
+<tr><td>systems</td><td>being</td><td>2</td></tr>
+<tr><td>systems</td><td>do</td><td>2</td></tr>
+<tr><td>systems</td><td>including</td><td>2</td></tr>
+<tr><td>its</td><td>expected</td><td>2</td></tr>
+<tr><td>sector</td><td>includes</td><td>2</td></tr>
+<tr><td>it</td><td>strengthens</td><td>2</td></tr>
+<tr><td>areas</td><td>being</td><td>2</td></tr>
+<tr><td>areas</td><td>requiring</td><td>2</td></tr>
+<tr><td>areas</td><td>used</td><td>2</td></tr>
+<tr><td>bank</td><td>based</td><td>2</td></tr>
+<tr><td>bank</td><td>including</td><td>2</td></tr>
+<tr><td>bank</td><td>made</td><td>2</td></tr>
+<tr><td>bank</td><td>provided</td><td>2</td></tr>
+<tr><td>capacities</td><td>is</td><td>2</td></tr>
+<tr><td>capacities</td><td>were</td><td>2</td></tr>
+<tr><td>capacity</td><td>was</td><td>2</td></tr>
+<tr><td>component</td><td>be</td><td>2</td></tr>
+<tr><td>component</td><td>builds</td><td>2</td></tr>
+<tr><td>component</td><td>had</td><td>2</td></tr>
+<tr><td>component</td><td>proposes</td><td>2</td></tr>
+<tr><td>component</td><td>provides</td><td>2</td></tr>
+<tr><td>components</td><td>has</td><td>2</td></tr>
+<tr><td>areas</td><td>improve</td><td>2</td></tr>
+<tr><td>area</td><td>following</td><td>2</td></tr>
+<tr><td>components</td><td>include</td><td>2</td></tr>
+<tr><td>area</td><td>based</td><td>2</td></tr>
+<tr><td>it</td><td>proposes</td><td>2</td></tr>
+<tr><td>%</td><td>expected</td><td>2</td></tr>
+<tr><td>%</td><td>has</td><td>2</td></tr>
+<tr><td>%</td><td>reduces</td><td>2</td></tr>
+<tr><td>activities</td><td>based</td><td>2</td></tr>
+<tr><td>activities</td><td>contribute</td><td>2</td></tr>
+<tr><td>activities</td><td>contributed</td><td>2</td></tr>
+<tr><td>activities</td><td>contributing</td><td>2</td></tr>
+<tr><td>activities</td><td>expected</td><td>2</td></tr>
+<tr><td>activities</td><td>provided</td><td>2</td></tr>
+<tr><td>activities</td><td>relate</td><td>2</td></tr>
+<tr><td>agriculture</td><td>enhancing</td><td>2</td></tr>
+<tr><td>agriculture</td><td>had</td><td>2</td></tr>
+<tr><td>agriculture</td><td>uses</td><td>2</td></tr>
+<tr><td>agriculture</td><td>were</td><td>2</td></tr>
+<tr><td>components</td><td>have</td><td>2</td></tr>
+<tr><td>agriculture</td><td>include</td><td>2</td></tr>
+<tr><td>cost</td><td>including</td><td>2</td></tr>
+<tr><td>farmers</td><td>being</td><td>2</td></tr>
+<tr><td>farmers</td><td>identified</td><td>2</td></tr>
+<tr><td>farmers</td><td>provided</td><td>2</td></tr>
+<tr><td>i</td><td>finance</td><td>2</td></tr>
+<tr><td>i</td><td>is</td><td>2</td></tr>
+<tr><td>i</td><td>ve</td><td>2</td></tr>
+<tr><td>i</td><td>was</td><td>2</td></tr>
+<tr><td>impact</td><td>has</td><td>2</td></tr>
+<tr><td>impacts</td><td>established</td><td>2</td></tr>
+<tr><td>impacts</td><td>has</td><td>2</td></tr>
+<tr><td>implementation</td><td>have</td><td>2</td></tr>
+<tr><td>implementation</td><td>using</td><td>2</td></tr>
+<tr><td>it</td><td>are</td><td>2</td></tr>
+<tr><td>it</td><td>did</td><td>2</td></tr>
+<tr><td>cost</td><td>increase</td><td>2</td></tr>
+<tr><td>it</td><td>expected</td><td>2</td></tr>
+<tr><td>farmers</td><td>did</td><td>2</td></tr>
+<tr><td>impact</td><td>include</td><td>2</td></tr>
+<tr><td>farmer</td><td>has</td><td>2</td></tr>
+<tr><td>countries</td><td>included</td><td>2</td></tr>
+<tr><td>costs</td><td>is</td><td>2</td></tr>
+<tr><td>development</td><td>supporting</td><td>2</td></tr>
+<tr><td>costs</td><td>make</td><td>2</td></tr>
+<tr><td>costs</td><td>reduces</td><td>2</td></tr>
+<tr><td>costs</td><td>required</td><td>2</td></tr>
+<tr><td>cost</td><td>increases</td><td>2</td></tr>
+<tr><td>countries</td><td>has</td><td>2</td></tr>
+<tr><td>costs</td><td>used</td><td>2</td></tr>
+<tr><td>country</td><td>including</td><td>2</td></tr>
+<tr><td>country</td><td>reduce</td><td>2</td></tr>
+<tr><td>country</td><td>uses</td><td>2</td></tr>
+<tr><td>development</td><td>have</td><td>2</td></tr>
+<tr><td>countries</td><td>was</td><td>2</td></tr>
+<tr><td>development</td><td>requires</td><td>2</td></tr>
+<tr><td>development</td><td>proposed</td><td>2</td></tr>
+<tr><td>projects</td><td>promoted</td><td>1</td></tr>
+<tr><td>projects</td><td>ensures</td><td>1</td></tr>
+<tr><td>projects</td><td>contributed</td><td>1</td></tr>
+<tr><td>projects</td><td>done</td><td>1</td></tr>
+<tr><td>projects</td><td>had</td><td>1</td></tr>
+<tr><td>projects</td><td>finance</td><td>1</td></tr>
+<tr><td>projects</td><td>following</td><td>1</td></tr>
+<tr><td>projects</td><td>identified</td><td>1</td></tr>
+<tr><td>projects</td><td>proposed</td><td>1</td></tr>
+<tr><td>project</td><td>take</td><td>1</td></tr>
+<tr><td>project</td><td>expected</td><td>1</td></tr>
+<tr><td>project</td><td>strengthens</td><td>1</td></tr>
+<tr><td>project</td><td>promoting</td><td>1</td></tr>
+<tr><td>project</td><td>promote</td><td>1</td></tr>
+<tr><td>project</td><td>makes</td><td>1</td></tr>
+<tr><td>project</td><td>follows</td><td>1</td></tr>
+<tr><td>project</td><td>following</td><td>1</td></tr>
+<tr><td>project</td><td>established</td><td>1</td></tr>
+<tr><td>project</td><td>ensures</td><td>1</td></tr>
+<tr><td>project</td><td>enhances</td><td>1</td></tr>
+<tr><td>projects</td><td>relate</td><td>1</td></tr>
+<tr><td>project</td><td>do</td><td>1</td></tr>
+<tr><td>projects</td><td>providing</td><td>1</td></tr>
+<tr><td>sectors</td><td>increase</td><td>1</td></tr>
+<tr><td>projects</td><td>requires</td><td>1</td></tr>
+<tr><td>sector</td><td>base</td><td>1</td></tr>
+<tr><td>project</td><td>developed</td><td>1</td></tr>
+<tr><td>service</td><td>provides</td><td>1</td></tr>
+<tr><td>service</td><td>provide</td><td>1</td></tr>
+<tr><td>service</td><td>has</td><td>1</td></tr>
+<tr><td>service</td><td>based</td><td>1</td></tr>
+<tr><td>sectors</td><td>using</td><td>1</td></tr>
+<tr><td>sectors</td><td>supported</td><td>1</td></tr>
+<tr><td>sectors</td><td>improved</td><td>1</td></tr>
+<tr><td>sectors</td><td>implementing</td><td>1</td></tr>
+<tr><td>sectors</td><td>do</td><td>1</td></tr>
+<tr><td>sector</td><td>using</td><td>1</td></tr>
+<tr><td>sector</td><td>taking</td><td>1</td></tr>
+<tr><td>sector</td><td>supports</td><td>1</td></tr>
+<tr><td>sector</td><td>supported</td><td>1</td></tr>
+<tr><td>sector</td><td>increases</td><td>1</td></tr>
+<tr><td>sector</td><td>identified</td><td>1</td></tr>
+<tr><td>sector</td><td>had</td><td>1</td></tr>
+<tr><td>sector</td><td>following</td><td>1</td></tr>
+<tr><td>sector</td><td>finance</td><td>1</td></tr>
+<tr><td>sector</td><td>develop</td><td>1</td></tr>
+<tr><td>sector</td><td>contributing</td><td>1</td></tr>
+<tr><td>project</td><td>did</td><td>1</td></tr>
+<tr><td>management</td><td>supporting</td><td>1</td></tr>
+<tr><td>project</td><td>contribute</td><td>1</td></tr>
+<tr><td>markets</td><td>include</td><td>1</td></tr>
+<tr><td>markets</td><td>built</td><td>1</td></tr>
+<tr><td>market</td><td>requires</td><td>1</td></tr>
+<tr><td>market</td><td>provides</td><td>1</td></tr>
+<tr><td>market</td><td>increase</td><td>1</td></tr>
+<tr><td>market</td><td>including</td><td>1</td></tr>
+<tr><td>market</td><td>have</td><td>1</td></tr>
+<tr><td>market</td><td>has</td><td>1</td></tr>
+<tr><td>management</td><td>using</td><td>1</td></tr>
+<tr><td>services</td><td>contribute</td><td>1</td></tr>
+<tr><td>management</td><td>strengthened</td><td>1</td></tr>
+<tr><td>management</td><td>requires</td><td>1</td></tr>
+<tr><td>management</td><td>provides</td><td>1</td></tr>
+<tr><td>management</td><td>increases</td><td>1</td></tr>
+<tr><td>management</td><td>increase</td><td>1</td></tr>
+<tr><td>management</td><td>includes</td><td>1</td></tr>
+<tr><td>management</td><td>improved</td><td>1</td></tr>
+<tr><td>management</td><td>implementing</td><td>1</td></tr>
+<tr><td>management</td><td>following</td><td>1</td></tr>
+<tr><td>management</td><td>ensured</td><td>1</td></tr>
+<tr><td>management</td><td>developed</td><td>1</td></tr>
+<tr><td>management</td><td>being</td><td>1</td></tr>
+<tr><td>markets</td><td>had</td><td>1</td></tr>
+<tr><td>markets</td><td>increased</td><td>1</td></tr>
+<tr><td>project</td><td>building</td><td>1</td></tr>
+<tr><td>markets</td><td>prepared</td><td>1</td></tr>
+<tr><td>productions</td><td>are</td><td>1</td></tr>
+<tr><td>production</td><td>using</td><td>1</td></tr>
+<tr><td>production</td><td>takes</td><td>1</td></tr>
+<tr><td>production</td><td>strengthened</td><td>1</td></tr>
+<tr><td>production</td><td>reduces</td><td>1</td></tr>
+<tr><td>production</td><td>provides</td><td>1</td></tr>
+<tr><td>production</td><td>provided</td><td>1</td></tr>
+<tr><td>production</td><td>increase</td><td>1</td></tr>
+<tr><td>production</td><td>including</td><td>1</td></tr>
+<tr><td>production</td><td>include</td><td>1</td></tr>
+<tr><td>production</td><td>improves</td><td>1</td></tr>
+<tr><td>production</td><td>improved</td><td>1</td></tr>
+<tr><td>production</td><td>having</td><td>1</td></tr>
+<tr><td>production</td><td>finance</td><td>1</td></tr>
+<tr><td>production</td><td>expected</td><td>1</td></tr>
+<tr><td>production</td><td>contributes</td><td>1</td></tr>
+<tr><td>production</td><td>being</td><td>1</td></tr>
+<tr><td>production</td><td>based</td><td>1</td></tr>
+<tr><td>markets</td><td>was</td><td>1</td></tr>
+<tr><td>markets</td><td>using</td><td>1</td></tr>
+<tr><td>markets</td><td>requires</td><td>1</td></tr>
+<tr><td>services</td><td>being</td><td>1</td></tr>
+<tr><td>system</td><td>requires</td><td>1</td></tr>
+<tr><td>services</td><td>develop</td><td>1</td></tr>
+<tr><td>them</td><td>make</td><td>1</td></tr>
+<tr><td>they</td><td>relate</td><td>1</td></tr>
+<tr><td>they</td><td>propose</td><td>1</td></tr>
+<tr><td>they</td><td>develop</td><td>1</td></tr>
+<tr><td>themselves</td><td>have</td><td>1</td></tr>
+<tr><td>themselves</td><td>are</td><td>1</td></tr>
+<tr><td>them</td><td>were</td><td>1</td></tr>
+<tr><td>them</td><td>using</td><td>1</td></tr>
+<tr><td>them</td><td>taking</td><td>1</td></tr>
+<tr><td>them</td><td>supported</td><td>1</td></tr>
+<tr><td>them</td><td>requires</td><td>1</td></tr>
+<tr><td>them</td><td>include</td><td>1</td></tr>
+<tr><td>services</td><td>developed</td><td>1</td></tr>
+<tr><td>them</td><td>implement</td><td>1</td></tr>
+<tr><td>them</td><td>identify</td><td>1</td></tr>
+<tr><td>them</td><td>ensure</td><td>1</td></tr>
+<tr><td>them</td><td>do</td><td>1</td></tr>
+<tr><td>them</td><td>build</td><td>1</td></tr>
+<tr><td>their</td><td>improved</td><td>1</td></tr>
+<tr><td>systems</td><td>strengthening</td><td>1</td></tr>
+<tr><td>systems</td><td>requires</td><td>1</td></tr>
+<tr><td>systems</td><td>related</td><td>1</td></tr>
+<tr><td>systems</td><td>makes</td><td>1</td></tr>
+<tr><td>they</td><td>take</td><td>1</td></tr>
+<tr><td>value</td><td>are</td><td>1</td></tr>
+<tr><td>value</td><td>being</td><td>1</td></tr>
+<tr><td>value</td><td>improved</td><td>1</td></tr>
+<tr><td>you</td><td>do</td><td>1</td></tr>
+<tr><td>women</td><td>were</td><td>1</td></tr>
+<tr><td>women</td><td>use</td><td>1</td></tr>
+<tr><td>women</td><td>made</td><td>1</td></tr>
+<tr><td>women</td><td>do</td><td>1</td></tr>
+<tr><td>women</td><td>contribute</td><td>1</td></tr>
+<tr><td>women</td><td>based</td><td>1</td></tr>
+<tr><td>woman</td><td>is</td><td>1</td></tr>
+<tr><td>woman</td><td>are</td><td>1</td></tr>
+<tr><td>we</td><td>used</td><td>1</td></tr>
+<tr><td>we</td><td>do</td><td>1</td></tr>
+<tr><td>waters</td><td>is</td><td>1</td></tr>
+<tr><td>water</td><td>was</td><td>1</td></tr>
+<tr><td>water</td><td>uses</td><td>1</td></tr>
+<tr><td>water</td><td>requiring</td><td>1</td></tr>
+<tr><td>water</td><td>required</td><td>1</td></tr>
+<tr><td>water</td><td>make</td><td>1</td></tr>
+<tr><td>water</td><td>including</td><td>1</td></tr>
+<tr><td>water</td><td>are</td><td>1</td></tr>
+<tr><td>values</td><td>were</td><td>1</td></tr>
+<tr><td>values</td><td>has</td><td>1</td></tr>
+<tr><td>systems</td><td>increasing</td><td>1</td></tr>
+<tr><td>systems</td><td>increase</td><td>1</td></tr>
+<tr><td>systems</td><td>includes</td><td>1</td></tr>
+<tr><td>supported</td><td>is</td><td>1</td></tr>
+<tr><td>support</td><td>use</td><td>1</td></tr>
+<tr><td>support</td><td>taking</td><td>1</td></tr>
+<tr><td>support</td><td>requiring</td><td>1</td></tr>
+<tr><td>support</td><td>required</td><td>1</td></tr>
+<tr><td>support</td><td>related</td><td>1</td></tr>
+<tr><td>support</td><td>proposed</td><td>1</td></tr>
+<tr><td>support</td><td>increasing</td><td>1</td></tr>
+<tr><td>support</td><td>increase</td><td>1</td></tr>
+<tr><td>support</td><td>including</td><td>1</td></tr>
+<tr><td>support</td><td>implementing</td><td>1</td></tr>
+<tr><td>support</td><td>expected</td><td>1</td></tr>
+<tr><td>support</td><td>establishing</td><td>1</td></tr>
+<tr><td>support</td><td>does</td><td>1</td></tr>
+<tr><td>support</td><td>did</td><td>1</td></tr>
+<tr><td>support</td><td>be</td><td>1</td></tr>
+<tr><td>services</td><td>using</td><td>1</td></tr>
+<tr><td>services</td><td>supporting</td><td>1</td></tr>
+<tr><td>services</td><td>requires</td><td>1</td></tr>
+<tr><td>services</td><td>relating</td><td>1</td></tr>
+<tr><td>services</td><td>improved</td><td>1</td></tr>
+<tr><td>services</td><td>do</td><td>1</td></tr>
+<tr><td>supported</td><td>include</td><td>1</td></tr>
+<tr><td>supported</td><td>using</td><td>1</td></tr>
+<tr><td>systems</td><td>include</td><td>1</td></tr>
+<tr><td>supported</td><td>were</td><td>1</td></tr>
+<tr><td>systems</td><td>improve</td><td>1</td></tr>
+<tr><td>systems</td><td>identified</td><td>1</td></tr>
+<tr><td>systems</td><td>following</td><td>1</td></tr>
+<tr><td>systems</td><td>developed</td><td>1</td></tr>
+<tr><td>systems</td><td>develop</td><td>1</td></tr>
+<tr><td>systems</td><td>be</td><td>1</td></tr>
+<tr><td>systems</td><td>based</td><td>1</td></tr>
+<tr><td>system</td><td>takes</td><td>1</td></tr>
+<tr><td>system</td><td>support</td><td>1</td></tr>
+<tr><td>system</td><td>strengthening</td><td>1</td></tr>
+<tr><td>system</td><td>strengthened</td><td>1</td></tr>
+<tr><td>itself</td><td>using</td><td>1</td></tr>
+<tr><td>system</td><td>promoting</td><td>1</td></tr>
+<tr><td>system</td><td>prepared</td><td>1</td></tr>
+<tr><td>system</td><td>made</td><td>1</td></tr>
+<tr><td>system</td><td>identified</td><td>1</td></tr>
+<tr><td>system</td><td>had</td><td>1</td></tr>
+<tr><td>system</td><td>does</td><td>1</td></tr>
+<tr><td>supports</td><td>provided</td><td>1</td></tr>
+<tr><td>supports</td><td>implementing</td><td>1</td></tr>
+<tr><td>supporting</td><td>implementing</td><td>1</td></tr>
+<tr><td>itself</td><td>was</td><td>1</td></tr>
+<tr><td>i</td><td>using</td><td>1</td></tr>
+<tr><td>itself</td><td>has</td><td>1</td></tr>
+<tr><td>bank</td><td>require</td><td>1</td></tr>
+<tr><td>bank</td><td>provides</td><td>1</td></tr>
+<tr><td>bank</td><td>prepared</td><td>1</td></tr>
+<tr><td>bank</td><td>makes</td><td>1</td></tr>
+<tr><td>bank</td><td>increased</td><td>1</td></tr>
+<tr><td>bank</td><td>included</td><td>1</td></tr>
+<tr><td>bank</td><td>include</td><td>1</td></tr>
+<tr><td>bank</td><td>established</td><td>1</td></tr>
+<tr><td>bank</td><td>contributes</td><td>1</td></tr>
+<tr><td>bank</td><td>contributed</td><td>1</td></tr>
+<tr><td>areas</td><td>using</td><td>1</td></tr>
+<tr><td>areas</td><td>strengthen</td><td>1</td></tr>
+<tr><td>areas</td><td>proposed</td><td>1</td></tr>
+<tr><td>areas</td><td>included</td><td>1</td></tr>
+<tr><td>areas</td><td>improved</td><td>1</td></tr>
+<tr><td>areas</td><td>identified</td><td>1</td></tr>
+<tr><td>areas</td><td>having</td><td>1</td></tr>
+<tr><td>areas</td><td>expected</td><td>1</td></tr>
+<tr><td>areas</td><td>established</td><td>1</td></tr>
+<tr><td>areas</td><td>do</td><td>1</td></tr>
+<tr><td>areas</td><td>based</td><td>1</td></tr>
+<tr><td>area</td><td>were</td><td>1</td></tr>
+<tr><td>bank</td><td>related</td><td>1</td></tr>
+<tr><td>bank</td><td>supports</td><td>1</td></tr>
+<tr><td>area</td><td>used</td><td>1</td></tr>
+<tr><td>bank</td><td>were</td><td>1</td></tr>
+<tr><td>component</td><td>providing</td><td>1</td></tr>
+<tr><td>component</td><td>promotes</td><td>1</td></tr>
+<tr><td>component</td><td>increases</td><td>1</td></tr>
+<tr><td>component</td><td>implemented</td><td>1</td></tr>
+<tr><td>component</td><td>follows</td><td>1</td></tr>
+<tr><td>component</td><td>finances</td><td>1</td></tr>
+<tr><td>component</td><td>does</td><td>1</td></tr>
+<tr><td>component</td><td>contributes</td><td>1</td></tr>
+<tr><td>capacity</td><td>used</td><td>1</td></tr>
+<tr><td>capacity</td><td>required</td><td>1</td></tr>
+<tr><td>capacity</td><td>reduced</td><td>1</td></tr>
+<tr><td>capacity</td><td>increases</td><td>1</td></tr>
+<tr><td>capacity</td><td>increased</td><td>1</td></tr>
+<tr><td>capacity</td><td>including</td><td>1</td></tr>
+<tr><td>capacity</td><td>implementing</td><td>1</td></tr>
+<tr><td>capacity</td><td>established</td><td>1</td></tr>
+<tr><td>capacity</td><td>do</td><td>1</td></tr>
+<tr><td>capacity</td><td>built</td><td>1</td></tr>
+<tr><td>capacity</td><td>based</td><td>1</td></tr>
+<tr><td>capacities</td><td>strengthened</td><td>1</td></tr>
+<tr><td>capacities</td><td>required</td><td>1</td></tr>
+<tr><td>area</td><td>uses</td><td>1</td></tr>
+<tr><td>area</td><td>supports</td><td>1</td></tr>
+<tr><td>component</td><td>supported</td><td>1</td></tr>
+<tr><td>activity</td><td>based</td><td>1</td></tr>
+<tr><td>activities</td><td>supporting</td><td>1</td></tr>
+<tr><td>activities</td><td>support</td><td>1</td></tr>
+<tr><td>activities</td><td>provide</td><td>1</td></tr>
+<tr><td>activities</td><td>increased</td><td>1</td></tr>
+<tr><td>activities</td><td>includes</td><td>1</td></tr>
+<tr><td>activities</td><td>had</td><td>1</td></tr>
+<tr><td>activities</td><td>following</td><td>1</td></tr>
+<tr><td>activities</td><td>enhance</td><td>1</td></tr>
+<tr><td>activities</td><td>developed</td><td>1</td></tr>
+<tr><td>activities</td><td>develop</td><td>1</td></tr>
+<tr><td>activities</td><td>be</td><td>1</td></tr>
+<tr><td>_</td><td>has</td><td>1</td></tr>
+<tr><td>%</td><td>were</td><td>1</td></tr>
+<tr><td>%</td><td>using</td><td>1</td></tr>
+<tr><td>%</td><td>takes</td><td>1</td></tr>
+<tr><td>%</td><td>support</td><td>1</td></tr>
+<tr><td>%</td><td>increased</td><td>1</td></tr>
+<tr><td>%</td><td>improve</td><td>1</td></tr>
+<tr><td>%</td><td>following</td><td>1</td></tr>
+<tr><td>%</td><td>do</td><td>1</td></tr>
+<tr><td>%</td><td>base</td><td>1</td></tr>
+<tr><td>activities</td><td>was</td><td>1</td></tr>
+<tr><td>activity</td><td>financed</td><td>1</td></tr>
+<tr><td>area</td><td>supported</td><td>1</td></tr>
+<tr><td>activity</td><td>have</td><td>1</td></tr>
+<tr><td>area</td><td>support</td><td>1</td></tr>
+<tr><td>area</td><td>requiring</td><td>1</td></tr>
+<tr><td>area</td><td>requires</td><td>1</td></tr>
+<tr><td>area</td><td>relate</td><td>1</td></tr>
+<tr><td>area</td><td>including</td><td>1</td></tr>
+<tr><td>area</td><td>include</td><td>1</td></tr>
+<tr><td>area</td><td>improve</td><td>1</td></tr>
+<tr><td>area</td><td>identified</td><td>1</td></tr>
+<tr><td>area</td><td>had</td><td>1</td></tr>
+<tr><td>area</td><td>does</td><td>1</td></tr>
+<tr><td>area</td><td>being</td><td>1</td></tr>
+<tr><td>agriculture</td><td>using</td><td>1</td></tr>
+<tr><td>agriculture</td><td>provides</td><td>1</td></tr>
+<tr><td>agriculture</td><td>proposed</td><td>1</td></tr>
+<tr><td>agriculture</td><td>increase</td><td>1</td></tr>
+<tr><td>agriculture</td><td>included</td><td>1</td></tr>
+<tr><td>agriculture</td><td>following</td><td>1</td></tr>
+<tr><td>agriculture</td><td>developed</td><td>1</td></tr>
+<tr><td>agriculture</td><td>contribute</td><td>1</td></tr>
+<tr><td>agriculture</td><td>being</td><td>1</td></tr>
+<tr><td>activity</td><td>takes</td><td>1</td></tr>
+<tr><td>component</td><td>relates</td><td>1</td></tr>
+<tr><td>component</td><td>supporting</td><td>1</td></tr>
+<tr><td>itself</td><td>financed</td><td>1</td></tr>
+<tr><td>implementation</td><td>does</td><td>1</td></tr>
+<tr><td>impacts</td><td>using</td><td>1</td></tr>
+<tr><td>impacts</td><td>included</td><td>1</td></tr>
+<tr><td>impacts</td><td>improved</td><td>1</td></tr>
+<tr><td>impacts</td><td>identified</td><td>1</td></tr>
+<tr><td>impacts</td><td>following</td><td>1</td></tr>
+<tr><td>impacts</td><td>does</td><td>1</td></tr>
+<tr><td>impact</td><td>was</td><td>1</td></tr>
+<tr><td>impact</td><td>includes</td><td>1</td></tr>
+<tr><td>impact</td><td>are</td><td>1</td></tr>
+<tr><td>i</td><td>have</td><td>1</td></tr>
+<tr><td>i</td><td>are</td><td>1</td></tr>
+<tr><td>he</td><td>had</td><td>1</td></tr>
+<tr><td>farmers</td><td>take</td><td>1</td></tr>
+<tr><td>farmers</td><td>support</td><td>1</td></tr>
+<tr><td>farmers</td><td>increase</td><td>1</td></tr>
+<tr><td>farmers</td><td>improved</td><td>1</td></tr>
+<tr><td>farmers</td><td>has</td><td>1</td></tr>
+<tr><td>farmers</td><td>ensures</td><td>1</td></tr>
+<tr><td>farmers</td><td>enhance</td><td>1</td></tr>
+<tr><td>farmers</td><td>developed</td><td>1</td></tr>
+<tr><td>farmers</td><td>based</td><td>1</td></tr>
+<tr><td>implementation</td><td>developed</td><td>1</td></tr>
+<tr><td>implementation</td><td>requires</td><td>1</td></tr>
+<tr><td>farmer</td><td>increases</td><td>1</td></tr>
+<tr><td>it</td><td>being</td><td>1</td></tr>
+<tr><td>itself</td><td>based</td><td>1</td></tr>
+<tr><td>its</td><td>follow</td><td>1</td></tr>
+<tr><td>its</td><td>base</td><td>1</td></tr>
+<tr><td>it</td><td>supported</td><td>1</td></tr>
+<tr><td>it</td><td>support</td><td>1</td></tr>
+<tr><td>it</td><td>require</td><td>1</td></tr>
+<tr><td>it</td><td>relates</td><td>1</td></tr>
+<tr><td>it</td><td>related</td><td>1</td></tr>
+<tr><td>it</td><td>reduces</td><td>1</td></tr>
+<tr><td>it</td><td>provide</td><td>1</td></tr>
+<tr><td>it</td><td>proposed</td><td>1</td></tr>
+<tr><td>it</td><td>prepares</td><td>1</td></tr>
+<tr><td>it</td><td>made</td><td>1</td></tr>
+<tr><td>it</td><td>including</td><td>1</td></tr>
+<tr><td>it</td><td>implements</td><td>1</td></tr>
+<tr><td>it</td><td>identifies</td><td>1</td></tr>
+<tr><td>it</td><td>identified</td><td>1</td></tr>
+<tr><td>it</td><td>financed</td><td>1</td></tr>
+<tr><td>it</td><td>expects</td><td>1</td></tr>
+<tr><td>it</td><td>establishes</td><td>1</td></tr>
+<tr><td>it</td><td>ensures</td><td>1</td></tr>
+<tr><td>farmer</td><td>support</td><td>1</td></tr>
+<tr><td>farmer</td><td>have</td><td>1</td></tr>
+<tr><td>components</td><td>being</td><td>1</td></tr>
+<tr><td>countries</td><td>implementing</td><td>1</td></tr>
+<tr><td>countries</td><td>do</td><td>1</td></tr>
+<tr><td>countries</td><td>developed</td><td>1</td></tr>
+<tr><td>countries</td><td>build</td><td>1</td></tr>
+<tr><td>countries</td><td>being</td><td>1</td></tr>
+<tr><td>countries</td><td>based</td><td>1</td></tr>
+<tr><td>costs</td><td>relate</td><td>1</td></tr>
+<tr><td>costs</td><td>reduced</td><td>1</td></tr>
+<tr><td>costs</td><td>includes</td><td>1</td></tr>
+<tr><td>costs</td><td>has</td><td>1</td></tr>
+<tr><td>costs</td><td>follow</td><td>1</td></tr>
+<tr><td>costs</td><td>financed</td><td>1</td></tr>
+<tr><td>costs</td><td>do</td><td>1</td></tr>
+<tr><td>costs</td><td>based</td><td>1</td></tr>
+<tr><td>cost</td><td>was</td><td>1</td></tr>
+<tr><td>cost</td><td>takes</td><td>1</td></tr>
+<tr><td>cost</td><td>support</td><td>1</td></tr>
+<tr><td>cost</td><td>have</td><td>1</td></tr>
+<tr><td>cost</td><td>has</td><td>1</td></tr>
+<tr><td>cost</td><td>does</td><td>1</td></tr>
+<tr><td>components</td><td>support</td><td>1</td></tr>
+<tr><td>components</td><td>relating</td><td>1</td></tr>
+<tr><td>countries</td><td>identified</td><td>1</td></tr>
+<tr><td>countries</td><td>including</td><td>1</td></tr>
+<tr><td>farmer</td><td>being</td><td>1</td></tr>
+<tr><td>countries</td><td>increased</td><td>1</td></tr>
+<tr><td>farmer</td><td>based</td><td>1</td></tr>
+<tr><td>development</td><td>were</td><td>1</td></tr>
+<tr><td>development</td><td>supported</td><td>1</td></tr>
+<tr><td>development</td><td>prepared</td><td>1</td></tr>
+<tr><td>development</td><td>improved</td><td>1</td></tr>
+<tr><td>development</td><td>did</td><td>1</td></tr>
+<tr><td>development</td><td>contributes</td><td>1</td></tr>
+<tr><td>country</td><td>support</td><td>1</td></tr>
+<tr><td>country</td><td>require</td><td>1</td></tr>
+<tr><td>country</td><td>prepares</td><td>1</td></tr>
+<tr><td>country</td><td>makes</td><td>1</td></tr>
+<tr><td>country</td><td>had</td><td>1</td></tr>
+<tr><td>country</td><td>ensuring</td><td>1</td></tr>
+<tr><td>country</td><td>does</td><td>1</td></tr>
+<tr><td>country</td><td>being</td><td>1</td></tr>
+<tr><td>country</td><td>be</td><td>1</td></tr>
+<tr><td>country</td><td>''s</td><td>1</td></tr>
+<tr><td>countries</td><td>were</td><td>1</td></tr>
+<tr><td>countries</td><td>taking</td><td>1</td></tr>
+<tr><td>countries</td><td>reduce</td><td>1</td></tr>
+<tr><td>countries</td><td>makes</td><td>1</td></tr>
+<tr><td>you</td><td>have</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

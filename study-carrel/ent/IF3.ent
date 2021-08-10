@@ -1,0 +1,1267 @@
+id	sid	eid	entity	type
+IF3	1	1	Executive Board	ORG
+IF3	1	2	Glayson Ferrari dos Santos Country Programme	PERSON
+IF3	1	3	Tel	PERSON
+IF3	2	1	2384	CARDINAL
+IF3	2	2	3100	CARDINAL
+IF3	2	3	g.ferraridossantos@ifad.org	CARDINAL
+IF3	3	1	06	CARDINAL
+IF3	3	2	5459 2092	TIME
+IF3	3	3	12	CARDINAL
+IF3	3	4	November	DATE
+IF3	3	5	Spanish	NORP
+IF3	3	6	the Republic of El Salvador	GPE
+IF3	3	7	the National Programme of Rural Economic Transformation for Living Well - Rural Adelante EB 2015/LOT	ORG
+IF3	3	8	acronyms ii Map	PERSON
+IF3	3	9	1	CARDINAL
+IF3	5	1	1	CARDINAL
+IF3	7	1	2 A. Programme	PERCENT
+IF3	7	2	2 B. Programme	PERCENT
+IF3	7	3	3 C. Components	PERCENT
+IF3	7	4	3	CARDINAL
+IF3	8	1	4	CARDINAL
+IF3	9	1	4	DATE
+IF3	10	1	4 C. Planning	PERCENT
+IF3	10	2	5	CARDINAL
+IF3	10	3	D. Financial	ORG
+IF3	10	4	5	CARDINAL
+IF3	11	1	5 A. Programme	PERCENT
+IF3	11	2	5	CARDINAL
+IF3	11	3	B. Programme	PERSON
+IF3	11	4	6 C. Summary	PERSON
+IF3	11	5	6 D. Sustainability 6 E. Risk	PERCENT
+IF3	12	1	IFAD	ORG
+IF3	12	2	7	CARDINAL
+IF3	12	3	7 C. Innovation	PERCENT
+IF3	12	4	7	CARDINAL
+IF3	12	5	8	CARDINAL
+IF3	13	1	8	CARDINAL
+IF3	14	1	8	CARDINAL
+IF3	15	1	II	ORG
+IF3	16	1	DGDR Rural Development Directorate IRR	ORG
+IF3	16	2	LOT/P.34 iv Republic of El Salvador National Programme of Rural Economic Transformation for Living Well - Rural Adelante Financing	ORG
+IF3	16	3	IFAD Borrower: Republic of El Salvador	ORG
+IF3	16	4	Ministry of Agriculture and Livestock Total	ORG
+IF3	16	5	US$18.69 million	MONEY
+IF3	16	6	IFAD	ORG
+IF3	16	7	EUR 10.85 million	MONEY
+IF3	16	8	approximately US$12.13 million	MONEY
+IF3	16	9	3.56 million	CARDINAL
+IF3	16	10	approximately US$5.0 million	MONEY
+IF3	16	11	IFAD	ORG
+IF3	16	12	18 years	DATE
+IF3	16	13	3 years	DATE
+IF3	16	14	100 per cent	MONEY
+IF3	16	15	IFAD	ORG
+IF3	16	16	US$500,000	MONEY
+IF3	16	17	US$1.06 million	MONEY
+IF3	16	18	IFAD Cooperating	ORG
+IF3	16	19	IFAD EB 2015	ORG
+IF3	16	20	LOT/P.34 1 Recommendation	ORG
+IF3	16	21	The Executive Board	ORG
+IF3	16	22	the Republic of El Salvador	GPE
+IF3	16	23	the National Programme of Rural Economic Transformation for Living Well - Rural Adelante	ORG
+IF3	16	24	paragraph 46	DATE
+IF3	17	1	the Republic of El Salvador	GPE
+IF3	17	2	the National Programme of Rural Economic Transformation for Living Well - Rural Adelante I.	ORG
+IF3	19	1	1	CARDINAL
+IF3	20	1	El Salvador	GPE
+IF3	20	2	Latin America	LOC
+IF3	20	3	20,742	CARDINAL
+IF3	20	4	6,279,783	CARDINAL
+IF3	20	5	2014	DATE
+IF3	21	1	0.5 per cent	MONEY
+IF3	21	2	the period 2001-2013	DATE
+IF3	21	3	Central America	LOC
+IF3	21	4	one	CARDINAL
+IF3	21	5	Latin America	LOC
+IF3	22	1	2	CARDINAL
+IF3	23	1	El Salvador	GPE
+IF3	24	1	agrarian	NORP
+IF3	25	1	1.9 per cent	MONEY
+IF3	25	2	GNI	ORG
+IF3	25	3	1.19 per cent	MONEY
+IF3	25	4	the period 2001-2013	DATE
+IF3	26	1	2013	DATE
+IF3	26	2	0.76 per cent	MONEY
+IF3	26	3	7.26 per cent	MONEY
+IF3	26	4	2008	DATE
+IF3	29	1	3	CARDINAL
+IF3	30	1	El Salvador	GPE
+IF3	30	2	2011	DATE
+IF3	31	1	Poverty	ORG
+IF3	32	1	between the ages of 18 and 35	DATE
+IF3	32	2	38	DATE
+IF3	33	1	42 per cent	MONEY
+IF3	34	1	El Salvador	GPE
+IF3	34	2	Ministry of Health	ORG
+IF3	34	3	Eastern	NORP
+IF3	34	4	32,725	CARDINAL
+IF3	34	5	2014	DATE
+IF3	35	1	2014	DATE
+IF3	35	2	the Legislative Assembly	ORG
+IF3	36	1	4	CARDINAL
+IF3	37	1	2000	CARDINAL
+IF3	38	1	38.8 per cent	MONEY
+IF3	38	2	29.6 per cent	MONEY
+IF3	38	3	18 per cent	MONEY
+IF3	39	1	29.9 per cent	MONEY
+IF3	39	2	26.2 per cent	MONEY
+IF3	40	1	5	CARDINAL
+IF3	43	1	the period 2001-2013	DATE
+IF3	43	2	10.12 per cent	MONEY
+IF3	43	3	2001	DATE
+IF3	43	4	10 per cent	MONEY
+IF3	43	5	2013	DATE
+IF3	44	1	6	CARDINAL
+IF3	45	1	one	CARDINAL
+IF3	45	2	recent decades	DATE
+IF3	46	1	El Salvador	GPE
+IF3	46	2	one	CARDINAL
+IF3	47	1	North-east	GPE
+IF3	47	2	Eastern	NORP
+IF3	48	1	7	CARDINAL
+IF3	49	1	El Salvador	GPE
+IF3	49	2	Five-year	DATE
+IF3	49	3	2019	DATE
+IF3	50	1	roadmap	GPE
+IF3	51	1	three	CARDINAL
+IF3	53	1	five years	DATE
+IF3	53	2	0.7	CARDINAL
+IF3	55	1	8	CARDINAL
+IF3	57	1	IFAD	ORG
+IF3	58	1	9	CARDINAL
+IF3	59	1	IFAD	ORG
+IF3	59	2	El Salvador	GPE
+IF3	61	1	A. Programme	PERSON
+IF3	61	2	10	CARDINAL
+IF3	62	1	first	ORDINAL
+IF3	62	2	four	CARDINAL
+IF3	62	3	El Salvador's	GPE
+IF3	62	4	Eastern	ORG
+IF3	62	5	La Unión	ORG
+IF3	62	6	Usulután	GPE
+IF3	62	7	San Miguel	GPE
+IF3	62	8	Morazán	GPE
+IF3	62	9	87	CARDINAL
+IF3	63	1	first	ORDINAL
+IF3	65	1	11	CARDINAL
+IF3	67	1	three	CARDINAL
+IF3	68	1	3 12	DATE
+IF3	69	1	8,300	CARDINAL
+IF3	69	2	an estimated 32,000	CARDINAL
+IF3	71	1	four	CARDINAL
+IF3	72	1	13	CARDINAL
+IF3	73	1	40 per cent	MONEY
+IF3	73	2	Rural Adelante	ORG
+IF3	73	3	20 per cent	MONEY
+IF3	73	4	5 per cent	MONEY
+IF3	75	1	B. Programme	ORG
+IF3	75	2	14	DATE
+IF3	76	1	Rural Adelante	ORG
+IF3	76	2	San Miguel	GPE
+IF3	76	3	Usulután	GPE
+IF3	76	4	La Unión	ORG
+IF3	76	5	Morazán	PERSON
+IF3	77	1	at least 8,300	CARDINAL
+IF3	77	2	33,200	CARDINAL
+IF3	77	3	5,900	CARDINAL
+IF3	77	4	incomes1	PRODUCT
+IF3	77	5	5,000	CARDINAL
+IF3	77	6	20,000	CARDINAL
+IF3	78	1	C. Components/	PERSON
+IF3	78	2	15	CARDINAL
+IF3	79	1	four	CARDINAL
+IF3	82	1	two	CARDINAL
+IF3	91	1	the Ministry of Agriculture and Livestock	ORG
+IF3	91	2	MAG	ORG
+IF3	91	3	the National Youth Institute	ORG
+IF3	91	4	1	CARDINAL
+IF3	91	5	100 per cent	MONEY
+IF3	91	6	one or more years	DATE
+IF3	96	1	III	ORG
+IF3	98	1	16	CARDINAL
+IF3	99	1	three	CARDINAL
+IF3	101	1	three	CARDINAL
+IF3	102	1	17	CARDINAL
+IF3	107	1	18	CARDINAL
+IF3	108	1	Ministry of Agriculture and Livestock	ORG
+IF3	109	1	the Ministry of Agriculture and Livestock	ORG
+IF3	109	2	the Ministry of Agriculture and Livestock	ORG
+IF3	109	3	the Rural Development Directorate	ORG
+IF3	111	1	the United Nations Development Programme	ORG
+IF3	111	2	UNDP	PERSON
+IF3	111	3	the Ministry of Agriculture and Livestock	ORG
+IF3	112	1	19	CARDINAL
+IF3	113	1	five	CARDINAL
+IF3	114	1	three	CARDINAL
+IF3	115	1	SAFI	ORG
+IF3	116	1	20	CARDINAL
+IF3	119	1	21	CARDINAL
+IF3	121	1	D. Financial	ORG
+IF3	121	2	22	CARDINAL
+IF3	122	1	the Ministry of Agriculture and Livestock	ORG
+IF3	122	2	annual	DATE
+IF3	123	1	the Ministry of Agriculture and Livestock	ORG
+IF3	123	2	UNDP	ORG
+IF3	124	1	SAFI	ORG
+IF3	125	1	23	CARDINAL
+IF3	127	1	MAG	ORG
+IF3	127	2	ASAP	ORG
+IF3	127	3	the Central Reserve Bank	ORG
+IF3	127	4	El Salvador	GPE
+IF3	128	1	24	CARDINAL
+IF3	130	1	IFAD	ORG
+IF3	130	2	IFAD	ORG
+IF3	131	1	25	CARDINAL
+IF3	132	1	UNDP	ORG
+IF3	132	2	the Ministry of Agriculture and Livestock	ORG
+IF3	132	3	the Ministry of Agriculture and Livestock	ORG
+IF3	133	1	26	CARDINAL
+IF3	135	1	annual	DATE
+IF3	135	2	each year	DATE
+IF3	135	3	IFAD	ORG
+IF3	137	1	IFAD	ORG
+IF3	137	2	six months	DATE
+IF3	137	3	each fiscal year	DATE
+IF3	139	1	IFAD	ORG
+IF3	141	1	IFAD	ORG
+IF3	141	2	year three	DATE
+IF3	143	1	A. Programme	PERSON
+IF3	143	2	28	CARDINAL
+IF3	144	1	approximately US$18.69 million	MONEY
+IF3	145	1	US$3.64 million	MONEY
+IF3	145	2	19 per cent	MONEY
+IF3	145	3	2	CARDINAL
+IF3	145	4	US$10.46 million	MONEY
+IF3	145	5	56 per cent	MONEY
+IF3	146	1	approximately US$1.22 million	MONEY
+IF3	146	2	7 per cent	MONEY
+IF3	147	1	4	CARDINAL
+IF3	147	2	approximately US$3.37 million	MONEY
+IF3	147	3	18 per cent	MONEY
+IF3	148	1	Thousands	CARDINAL
+IF3	148	2	IFAD	ORG
+IF3	148	3	1	CARDINAL
+IF3	149	1	3 642 100	CARDINAL
+IF3	150	1	8 195	CARDINAL
+IF3	150	2	1 203	CARDINAL
+IF3	150	3	10	CARDINAL
+IF3	150	4	460 56 3	PRODUCT
+IF3	151	1	992	CARDINAL
+IF3	151	2	81 155 13 72	CARDINAL
+IF3	151	3	7 4	CARDINAL
+IF3	152	1	87	CARDINAL
+IF3	152	2	13	CARDINAL
+IF3	152	3	3	CARDINAL
+IF3	152	4	368	CARDINAL
+IF3	152	5	18	CARDINAL
+IF3	152	6	12	CARDINAL
+IF3	152	7	3 18	CARDINAL
+IF3	152	8	100	CARDINAL
+IF3	152	9	B. Programme	ORG
+IF3	152	10	29	DATE
+IF3	153	1	US$500,000	MONEY
+IF3	153	2	3 per cent	MONEY
+IF3	153	3	IFAD	ORG
+IF3	153	4	approximately US$12.13 million	MONEY
+IF3	153	5	65 per cent	MONEY
+IF3	153	6	ASAP	ORG
+IF3	153	7	US$5.00 million	MONEY
+IF3	153	8	27 per cent	MONEY
+IF3	153	9	approximately US$1.06 million	MONEY
+IF3	153	10	5 per cent	MONEY
+IF3	154	1	2	CARDINAL
+IF3	154	2	Thousands	CARDINAL
+IF3	154	3	IFAD	ORG
+IF3	154	4	Total Amount % Amount % Amount % Amount % Amount % 1	ORG
+IF3	155	1	456	CARDINAL
+IF3	155	2	9%	PERCENT
+IF3	155	3	3 2	CARDINAL
+IF3	156	1	497	CARDINAL
+IF3	156	2	901	CARDINAL
+IF3	156	3	16 3	CARDINAL
+IF3	157	1	3 248	PERCENT
+IF3	157	2	93%	PERCENT
+IF3	157	3	155 4 72 2 3	CARDINAL
+IF3	158	1	5	CARDINAL
+IF3	158	2	2 203	CARDINAL
+IF3	158	3	25 1 062	CARDINAL
+IF3	158	4	48 5	DATE
+IF3	159	1	2 214	CARDINAL
+IF3	159	2	78	CARDINAL
+IF3	159	3	2 838 15	CARDINAL
+IF3	159	4	12	CARDINAL
+IF3	159	5	27 1 062	CARDINAL
+IF3	159	6	6 500	CARDINAL
+IF3	159	7	3 18	CARDINAL
+IF3	159	8	30	CARDINAL
+IF3	160	1	annual	DATE
+IF3	160	2	10-year	DATE
+IF3	161	1	IRR	ORG
+IF3	162	1	IRR	ORG
+IF3	162	2	Rural Adelante	ORG
+IF3	162	3	IRR	ORG
+IF3	163	1	IRR	ORG
+IF3	163	2	12 per cent	MONEY
+IF3	164	1	IRR	ORG
+IF3	164	2	10-year	DATE
+IF3	165	1	31	CARDINAL
+IF3	166	1	IRR	ORG
+IF3	166	2	20 per cent	MONEY
+IF3	166	3	US$6.40 million	MONEY
+IF3	166	4	US$22.20 million	MONEY
+IF3	166	5	NPV	ORG
+IF3	166	6	20-year	DATE
+IF3	167	1	D. Sustainability 32	ORG
+IF3	168	1	Rural Adelante	ORG
+IF3	171	1	the Ministry of EB 2015/	ORG
+IF3	172	1	E. Risk	PERSON
+IF3	172	2	33	CARDINAL
+IF3	174	1	34	CARDINAL
+IF3	176	1	35	CARDINAL
+IF3	177	1	Rural Adelante	ORG
+IF3	177	2	IFAD	ORG
+IF3	178	1	V. Corporate	ORG
+IF3	179	1	IFAD	ORG
+IF3	179	2	36	CARDINAL
+IF3	180	1	IFAD	ORG
+IF3	180	2	2011-2015	DATE
+IF3	181	1	IFAD	ORG
+IF3	182	1	B. Harmonization	PERSON
+IF3	182	2	37	DATE
+IF3	183	1	IFAD	ORG
+IF3	183	2	El Salvador	GPE
+IF3	185	1	38	CARDINAL
+IF3	186	1	IFAD	ORG
+IF3	186	2	cooperatives	ORG
+IF3	187	1	39	CARDINAL
+IF3	188	1	2015-2019	DATE
+IF3	189	1	C. Innovation	PERSON
+IF3	189	2	40	CARDINAL
+IF3	190	1	El Salvador	GPE
+IF3	190	2	IFAD	ORG
+IF3	190	3	recent years	DATE
+IF3	191	1	the Rural Development Project	ORG
+IF3	191	2	the North-Eastern Region	FAC
+IF3	191	3	the Rural Development and Modernization Project	ORG
+IF3	191	4	the Eastern Region	LOC
+IF3	191	5	PRODEMORO	ORG
+IF3	191	6	the Rural Territorial Competitiveness Programme	ORG
+IF3	191	7	Amanecer Rural	PERSON
+IF3	192	1	IFAD	ORG
+IF3	193	1	8 41	DATE
+IF3	194	1	IFAD	ORG
+IF3	194	2	vi	ORG
+IF3	194	3	vii	ORG
+IF3	195	1	42	CARDINAL
+IF3	198	1	43	CARDINAL
+IF3	199	1	the Republic of El Salvador	GPE
+IF3	199	2	IFAD	ORG
+IF3	199	3	borrower/	NORP
+IF3	201	1	44	CARDINAL
+IF3	202	1	The Republic of El Salvador	GPE
+IF3	202	2	IFAD	ORG
+IF3	202	3	the Adaptation for Smallholder Agriculture Programme	ORG
+IF3	202	4	ASAP)	ORG
+IF3	202	5	IFAD	ORG
+IF3	202	6	Trustee	ORG
+IF3	202	7	the ASAP Trust Fund	ORG
+IF3	203	1	45	CARDINAL
+IF3	204	1	the Agreement Establishing IFAD	ORG
+IF3	204	2	the Lending Policies	ORG
+IF3	204	3	IFAD	ORG
+IF3	205	1	VII	ORG
+IF3	206	1	46	CARDINAL
+IF3	207	1	the Executive Board	ORG
+IF3	207	2	the Republic of El Salvador	GPE
+IF3	207	3	ten million eight hundred fifty thousand	CARDINAL
+IF3	207	4	10,850,000	CARDINAL
+IF3	208	1	the Republic of El Salvador	GPE
+IF3	208	2	three million five hundred sixty thousand	CARDINAL
+IF3	208	3	3,560,000	CARDINAL
+IF3	209	1	Kanayo F. Nwanze	PERSON
+IF3	209	2	Appendix	GPE
+IF3	209	3	Programa Nacional de Transformación Económica Rural	ORG
+IF3	209	4	Buen Vivir - Rural Adelante	ORG
+IF3	209	5	9 de octubre 2015	TIME
+IF3	209	6	Número	GPE
+IF3	209	7	Préstamo	WORK_OF_ART
+IF3	209	8	Número de la	PERSON
+IF3	209	9	Programa Nacional de Transformación Económica Rural	ORG
+IF3	209	10	Buen Vivir - Rural Adelante	ORG
+IF3	209	11	Programa	GPE
+IF3	209	12	El Fondo Internacional de Desarrollo Agrícola	ORG
+IF3	209	13	Fondo	WORK_OF_ART
+IF3	209	14	El Salvador	GPE
+IF3	209	15	cada uno de ellos	PERSON
+IF3	209	16	la “Parte	WORK_OF_ART
+IF3	209	17	Partes	WORK_OF_ART
+IF3	209	18	acuerdan lo	PERSON
+IF3	209	19	Preámbulo CONSIDERANDO	PERSON
+IF3	209	20	105º	CARDINAL
+IF3	209	21	de sesiones	PERSON
+IF3	209	22	Programa de Adaptación	ORG
+IF3	209	23	Pequeña Escala	PERSON
+IF3	209	24	el fin de financiar	FAC
+IF3	209	25	de la cartera básica de programas y programas	ORG
+IF3	209	26	el FIDA	ORG
+IF3	209	27	aumentar la capacidad de resiliencia de los agricultores	PERSON
+IF3	209	28	pequeña escala al cambio	PERSON
+IF3	209	29	las cinco	GPE
+IF3	209	30	CONSIDERANDO	ORG
+IF3	209	31	que el Fondo	PERSON
+IF3	209	32	Préstamo	FAC
+IF3	209	33	Donación ASAP al Prestatario/Receptor	FAC
+IF3	209	34	Convenio	GPE
+IF3	209	35	CONSIDERANDO	ORG
+IF3	209	36	que el Prestatario	PERSON
+IF3	209	37	que las	PERSON
+IF3	209	38	Programa sean financiadas de	LOC
+IF3	209	39	Convenio	GPE
+IF3	209	40	Las Partes	GPE
+IF3	209	41	además lo	PERSON
+IF3	209	42	1	CARDINAL
+IF3	210	1	Los siguientes	GPE
+IF3	210	2	Convenio	GPE
+IF3	210	3	Descripción	GPE
+IF3	210	4	Programa	GPE
+IF3	210	5	Anexo 1)	FAC
+IF3	210	6	el Cuadro de asignaciones	PERSON
+IF3	210	7	Anexo 2	FAC
+IF3	210	8	Condiciones Generales	PERSON
+IF3	210	9	Financiación del Desarrollo Agrícola de fecha	WORK_OF_ART
+IF3	210	10	29	CARDINAL
+IF3	210	11	“Condiciones Generales”	WORK_OF_ART
+IF3	211	1	2	CARDINAL
+IF3	212	1	Las Condiciones Generales	PERSON
+IF3	212	2	al presente Convenio	PERSON
+IF3	213	1	Convenio	GPE
+IF3	213	2	los términos	GPE
+IF3	213	3	Condiciones Generales	PERSON
+IF3	214	1	3	CARDINAL
+IF3	215	1	El Fondo	ORG
+IF3	215	2	Préstamo	FAC
+IF3	215	3	Donación ASAP al Prestatario/Receptor	GPE
+IF3	215	4	que el mismo	ORG
+IF3	215	5	Programa de	LOC
+IF3	215	6	Convenio	GPE
+IF3	216	1	Appendix	GPE
+IF3	217	1	A. El monto	PERSON
+IF3	217	2	Préstamo	LOC
+IF3	217	3	10 850 000	MONEY
+IF3	217	4	cincuenta mil euros	PERSON
+IF3	218	1	B. El monto de la	PERSON
+IF3	218	2	especiales de giro	PERSON
+IF3	219	1	2	CARDINAL
+IF3	220	1	El Préstamo	PERSON
+IF3	220	2	de reembolso de dieciocho	PERSON
+IF3	220	3	18	CARDINAL
+IF3	220	4	un	ORG
+IF3	220	5	de gracia de	PERSON
+IF3	220	6	3	CARDINAL
+IF3	220	7	que el Fondo	ORG
+IF3	220	8	haya determinado que	PERSON
+IF3	220	9	han	NORP
+IF3	220	10	previas para el retiro de fondos	PERSON
+IF3	221	1	La tasa de interés	ORG
+IF3	221	2	de referencia que	PERSON
+IF3	221	3	el FIDA	ORG
+IF3	221	4	que actualmente	ORG
+IF3	221	5	basado en el	PERSON
+IF3	221	6	más un	ORG
+IF3	222	1	3	CARDINAL
+IF3	223	1	La Moneda de Pago del Servicio	ORG
+IF3	223	2	Préstamo	NORP
+IF3	224	1	4	CARDINAL
+IF3	225	1	El Ejercicio Financiero	PERSON
+IF3	226	1	5	CARDINAL
+IF3	227	1	15	CARDINAL
+IF3	227	2	15	CARDINAL
+IF3	228	1	El capital será	ORG
+IF3	228	2	30	CARDINAL
+IF3	228	3	3	CARDINAL
+IF3	228	4	previas para el retiro de los fondos	PERSON
+IF3	229	1	al Prestatario/Receptor el	ORG
+IF3	230	1	6	CARDINAL
+IF3	231	1	El Prestatario/Receptor	ORG
+IF3	231	2	Programa	GPE
+IF3	232	1	el Prestatario	ORG
+IF3	232	2	los cargos	GPE
+IF3	232	3	por concepto de impuestos para	FAC
+IF3	232	4	los bienes	FAC
+IF3	232	5	adquiridos con cargo	PERSON
+IF3	232	6	a la Financiación	WORK_OF_ART
+IF3	233	1	7	CARDINAL
+IF3	234	1	El Prestatario/Receptor	ORG
+IF3	234	2	del Ministerio de Agricultura y Ganadería	FAC
+IF3	234	3	MAG	ORG
+IF3	234	4	Banco Central de Reserva de El Salvador	ORG
+IF3	234	5	Cuenta Designada	ORG
+IF3	234	6	los recursos de Préstamo	FAC
+IF3	234	7	Cuenta Designada	ORG
+IF3	234	8	los recursos de la Donación	FAC
+IF3	235	1	Ambas	PERSON
+IF3	235	2	Estados Unidos de América	PERSON
+IF3	237	1	El Organismo Responsable del Programa	ORG
+IF3	237	2	el Ministerio de Agricultura	PERSON
+IF3	237	3	MAG	ORG
+IF3	237	4	del Prestatario/Receptor	ORG
+IF3	238	1	2	CARDINAL
+IF3	239	1	Programa	GPE
+IF3	240	1	3	CARDINAL
+IF3	241	1	El MAG	ORG
+IF3	241	2	Revisión de Medio	PERSON
+IF3	241	3	Término	NORP
+IF3	241	4	8.03	CARDINAL
+IF3	241	5	Condiciones Generales	PERSON
+IF3	241	6	Revisión de Medio	PERSON
+IF3	241	7	Programa	GPE
+IF3	242	1	4	CARDINAL
+IF3	243	1	La Fecha de Terminación	PERSON
+IF3	243	2	Programa	GPE
+IF3	243	3	el quinto aniversario de la fecha de	ORG
+IF3	243	4	Convenio	GPE
+IF3	244	1	Appendix	GPE
+IF3	245	1	El Fondo	ORG
+IF3	245	2	interna de las cuentas	ORG
+IF3	245	3	directamente el Programa	PERSON
+IF3	246	1	1	CARDINAL
+IF3	247	1	Se considera que	PERSON
+IF3	247	2	los previstos	GPE
+IF3	247	3	Condiciones Generales	PERSON
+IF3	247	4	Convenio	NORP
+IF3	247	5	que cualquiera de las	PERSON
+IF3	247	6	del Manual de Operaciones	EVENT
+IF3	247	7	Programa	GPE
+IF3	247	8	sido objeto de cesión	PERSON
+IF3	247	9	enmienda u	PERSON
+IF3	247	10	Fondo	GPE
+IF3	247	11	que tal cesión	PERSON
+IF3	247	12	que tenga	PERSON
+IF3	247	13	consecuencias adversas	PERSON
+IF3	247	14	para el Programa	PERSON
+IF3	248	1	2	CARDINAL
+IF3	249	1	Se considera que	PERSON
+IF3	249	2	previas para el retiro de fondos que	PERSON
+IF3	249	3	El/la Gerente	ORG
+IF3	249	4	Programa	GPE
+IF3	249	5	el Anexo 1	FAC
+IF3	250	1	Se disponga de un	PERSON
+IF3	250	2	Programa	GPE
+IF3	251	1	El Prestatario/Receptor	ORG
+IF3	251	2	MAG	ORG
+IF3	251	3	haya abierto las	PERSON
+IF3	251	4	Banco Central de Reserva de El Salvador	ORG
+IF3	252	1	cuando corresponda	PERSON
+IF3	252	2	los fondos de	GPE
+IF3	252	3	para cada año	PERSON
+IF3	252	4	Programa	GPE
+IF3	252	5	el presupuesto	ORG
+IF3	252	6	del Prestatario/Receptor	ORG
+IF3	253	1	Se haya firmado el	FAC
+IF3	253	2	con el administrador de recursos	ORG
+IF3	253	3	Convenio	GPE
+IF3	254	1	3	CARDINAL
+IF3	255	1	El Prestatario/Receptor	ORG
+IF3	255	2	al Ministro de Hacienda	PERSON
+IF3	255	3	como su	PERSON
+IF3	255	4	los efectos de la	GPE
+IF3	255	5	Sección 15.03 de las	FAC
+IF3	255	6	Condiciones Generales	PERSON
+IF3	255	7	indican	NORP
+IF3	256	1	4	CARDINAL
+IF3	258	1	El Prestatario	ORG
+IF3	258	2	al Ministro de Agricultura	PERSON
+IF3	258	3	Ganadería como su	PERSON
+IF3	258	4	Sección 15.03 de las	WORK_OF_ART
+IF3	258	5	Condiciones Generales	PERSON
+IF3	258	6	Los retiros de la Cuenta	ORG
+IF3	258	7	4.02	CARDINAL
+IF3	258	8	4.04	CARDINAL
+IF3	258	9	4.08	CARDINAL
+IF3	258	10	Condiciones Generales	PERSON
+IF3	259	1	Convenio y Artículos VII	FAC
+IF3	259	2	y X de las	PRODUCT
+IF3	259	3	Condiciones Generales	PERSON
+IF3	260	1	Appendix	GPE
+IF3	261	1	indican	NORP
+IF3	261	2	Por el FIDA	PERSON
+IF3	261	3	Kanayo F. Nwanze Presidente	PERSON
+IF3	261	4	Carlos Enrique	PERSON
+IF3	261	5	Chávez Ministro de Hacienda	PERSON
+IF3	261	6	Ministro de Agricultura	PERSON
+IF3	262	1	Convenio de Financiación	ORG
+IF3	262	2	Prestatario/Receptor	ORG
+IF3	263	1	7	CARDINAL
+IF3	264	1	indican	NORP
+IF3	264	2	que han de	PERSON
+IF3	264	3	entre otros	PERSON
+IF3	264	4	Convenio	GPE
+IF3	264	5	Fondo Internacional de Desarrollo Agrícola Via Paolo di Dono	ORG
+IF3	264	6	44 00142	DATE
+IF3	264	7	Roma	ORG
+IF3	264	8	Italia Por el Prestatario	PERSON
+IF3	264	9	Ministerio de Hacienda Boulevard de Los Héroes	FAC
+IF3	265	1	1231	DATE
+IF3	265	2	San Salvador	GPE
+IF3	265	3	República de El Salvador Con	PERSON
+IF3	265	4	Ministerio de Agricultura	ORG
+IF3	265	5	1ª Av	PRODUCT
+IF3	266	1	Norte	ORG
+IF3	266	2	13	CARDINAL
+IF3	266	3	Calle Oriente y Av	PERSON
+IF3	267	1	Manuel Gallardo	PERSON
+IF3	267	2	Santa Tecla	GPE
+IF3	267	3	La Libertad	ORG
+IF3	267	4	República de El Salvador	PERSON
+IF3	268	1	REPÚBLICA DE EL SALVADOR	ORG
+IF3	268	2	Kanayo F. Nwanze Presidente	PERSON
+IF3	268	3	LOT/P.34	ORG
+IF3	268	4	I. Descripción	PERSON
+IF3	268	5	1	CARDINAL
+IF3	270	1	Programa	GPE
+IF3	271	1	El Programa	ORG
+IF3	271	2	alcanzar su	PERSON
+IF3	271	3	basada	PERSON
+IF3	271	4	ii	GPE
+IF3	271	5	una estrategia de focalización basada	PERSON
+IF3	271	6	la selección	FAC
+IF3	271	7	participantes y iii	PERSON
+IF3	271	8	una estrategia de focalización	PERSON
+IF3	271	9	la selección de familias	ORG
+IF3	271	10	más excluidos	PERSON
+IF3	272	1	2	CARDINAL
+IF3	273	1	Meta y área el Programa	PERSON
+IF3	274	1	que comprende	PERSON
+IF3	274	2	los Departamentos de San Miguel	GPE
+IF3	274	3	Usulután	GPE
+IF3	274	4	La Unión	ORG
+IF3	275	1	El área del Programa	PERSON
+IF3	276	1	3	CARDINAL
+IF3	278	1	Programa	GPE
+IF3	278	2	los ingresos de familias	ORG
+IF3	278	3	los Departamentos de San Miguel	GPE
+IF3	278	4	Usulután	GPE
+IF3	278	5	La Unión	ORG
+IF3	279	1	4	CARDINAL
+IF3	281	1	El Programa	ORG
+IF3	281	2	3	CARDINAL
+IF3	281	3	1	CARDINAL
+IF3	282	1	al cambio	PERSON
+IF3	282	2	El objetivo	GPE
+IF3	282	3	y capacitación para el desarrollo de las cadenas priorizadas	PERSON
+IF3	282	4	bajo un enfoque de adaptación al cambio	ORG
+IF3	283	1	Las	GPE
+IF3	283	2	El establecimiento de un servicio de información climática	ORG
+IF3	283	3	La	GPE
+IF3	283	4	El desarrollo de planes de adaptación	FAC
+IF3	284	1	el desarrollo de una	ORG
+IF3	284	2	programa de	LOC
+IF3	284	3	jóvenes y adultos	PERSON
+IF3	285	1	2	CARDINAL
+IF3	286	1	Desarrollo de Cadenas de Valor Competitivas	ORG
+IF3	286	2	Sustentables e Inclusivas El	PERSON
+IF3	286	3	como un	ORG
+IF3	286	4	para el incremento de ingresos de familias	PERSON
+IF3	287	1	inclusivas y sustentables	PERSON
+IF3	287	2	basado	PERSON
+IF3	287	3	la demanda del mercado	PERSON
+IF3	288	1	Appendix	GPE
+IF3	288	2	La promoción de alianzas	FAC
+IF3	288	3	El desarrollo	FAC
+IF3	288	4	que puedan auto-	ORG
+IF3	288	5	iii	GPE
+IF3	288	6	El fortalecimiento de	ORG
+IF3	288	7	los niveles de las organizaciones	ORG
+IF3	288	8	los aspectos	GPE
+IF3	289	1	3	CARDINAL
+IF3	290	1	para el desarrollo rural	PERSON
+IF3	291	1	juventud rural y	PERSON
+IF3	291	2	poblaciones indígenas	GPE
+IF3	291	3	al cambio climático	PERSON
+IF3	292	1	Se espera	PERSON
+IF3	292	2	para mejorar su	PERSON
+IF3	292	3	el ciclo de las	PERSON
+IF3	293	1	Las	GPE
+IF3	293	2	juventud y poblaciones indígenas	PERSON
+IF3	293	3	el área rural	FAC
+IF3	293	4	La promoción y realización de asambleas nacionales de jóvenes	FAC
+IF3	293	5	como también de foros regionales para	ORG
+IF3	293	6	poblaciones indígenas	GPE
+IF3	295	1	1	CARDINAL
+IF3	296	1	Organismo Responsable del Programa 1.1 Designación	ORG
+IF3	297	1	El Prestatario/Receptor	ORG
+IF3	297	2	Organismo Responsable del Programa al Ministerio de Agricultura	ORG
+IF3	297	3	Ganadería	PERSON
+IF3	297	4	MAG	ORG
+IF3	298	1	1.2	CARDINAL
+IF3	299	1	El MAG	ORG
+IF3	299	2	el responsable de la	PRODUCT
+IF3	299	3	Programa	GPE
+IF3	300	1	El MAG	ORG
+IF3	300	2	será la encargada de conformar	PERSON
+IF3	300	3	Unidad de Gestión del Programa	FAC
+IF3	300	4	UGP	ORG
+IF3	300	5	que	PERSON
+IF3	300	6	autonomía de funcionamiento para su	PERSON
+IF3	300	7	responderá al MAG	PERSON
+IF3	300	8	como	ORG
+IF3	300	9	ejecutora del financiamiento	ORG
+IF3	301	1	el Programa	ORG
+IF3	301	2	implementado por la UGP	PERSON
+IF3	302	1	2	CARDINAL
+IF3	302	2	La Unidad de Gestión del Programa 2.1 La UGP	FAC
+IF3	302	3	dirigida por la gerencia del Programa	PERSON
+IF3	303	1	La DGDR	PERSON
+IF3	303	2	supervisar y evaluar	PERSON
+IF3	303	3	Programa	GPE
+IF3	304	1	2.2	CARDINAL
+IF3	304	2	La UGP	EVENT
+IF3	304	3	un Gerente General	ORG
+IF3	304	4	uno para	ORG
+IF3	304	5	específica	PERSON
+IF3	304	6	Comunicación	PERSON
+IF3	304	7	Desarrollo	PERSON
+IF3	304	8	Inclusión y género y Planificación	FAC
+IF3	305	1	El Manual de Operaciones	ORG
+IF3	305	2	Appendix	GPE
+IF3	306	1	Ambiente y adaptación al cambio climático	PERSON
+IF3	307	1	2.3	CARDINAL
+IF3	307	2	Programa	GPE
+IF3	307	3	y competitivos	PERSON
+IF3	307	4	que	PERSON
+IF3	307	5	PNUD	FAC
+IF3	307	6	Programa	GPE
+IF3	308	1	2.4	CARDINAL
+IF3	308	2	La UGP	ORG
+IF3	308	3	la ciudad	FAC
+IF3	308	4	de las cadenas	FAC
+IF3	309	1	Las principales funciones de la UGP	GPE
+IF3	309	2	semestrales y especiales de ejecución	PERSON
+IF3	310	1	b. Presentar al Fondo	PERSON
+IF3	310	2	desembolsos	GPE
+IF3	310	3	los informes	GPE
+IF3	310	4	financieros	GPE
+IF3	310	5	anuales de auditoria	ORG
+IF3	311	1	c. Verificar que	PERSON
+IF3	311	2	Programa	GPE
+IF3	311	3	dentro de los plazos	PERSON
+IF3	311	4	las normas	GPE
+IF3	311	5	con el FIDA	FAC
+IF3	312	1	d. Preparar	PERSON
+IF3	312	2	al PNUD	ORG
+IF3	312	3	como los reportes de avance	ORG
+IF3	312	4	los procedimientos establecidos por el FIDA	PERSON
+IF3	313	1	e. Coordinar	PERSON
+IF3	313	2	y todos	ORG
+IF3	313	3	entre los diferentes	ORG
+IF3	314	1	f. Realizar el seguimiento	PERSON
+IF3	314	2	PN	GPE
+IF3	315	1	sistema electrónico	PERSON
+IF3	315	2	MAG	ORG
+IF3	316	1	h. Llevar	PERSON
+IF3	316	2	Programa	GPE
+IF3	317	1	i. Preparar el Manual de Operaciones	ORG
+IF3	317	2	Programa	GPE
+IF3	318	1	j. Abrir	PERSON
+IF3	318	2	Programa	GPE
+IF3	319	1	3	CARDINAL
+IF3	319	2	3.1	CARDINAL
+IF3	319	3	El Programa	LOC
+IF3	319	4	Comité de Evaluación Técnica	ORG
+IF3	319	5	CET	ORG
+IF3	320	1	El Comité de Evaluación Técnica	ORG
+IF3	320	2	CET	ORG
+IF3	320	3	será el encargado de garantizar la pertinencia	ORG
+IF3	320	4	la viabilidad	GPE
+IF3	320	5	económica	PRODUCT
+IF3	320	6	financiera y ambiental de los PNO	FAC
+IF3	321	1	Comité de Aprobación de Propuestas	ORG
+IF3	321	2	CAP	ORG
+IF3	322	1	El Comité de Aprobación de Propuestas	GPE
+IF3	322	2	CAP	ORG
+IF3	322	3	un	ORG
+IF3	323	1	3.2	CARDINAL
+IF3	323	2	del Programa de Formación Técnica	EVENT
+IF3	323	3	que incluirá la participación de jóvenes	ORG
+IF3	324	1	Appendix	GPE
+IF3	324	2	El financiamiento de los PNO	FAC
+IF3	325	1	Las	ORG
+IF3	325	2	para la ejecución de los PNO	PERSON
+IF3	325	3	de las transferencias	PERSON
+IF3	325	4	Programa	GPE
+IF3	326	1	4	CARDINAL
+IF3	326	2	PNUD	ORG
+IF3	326	3	para la administración de recursos	PERSON
+IF3	327	1	El Prestatario/Receptor	ORG
+IF3	327	2	MAG	ORG
+IF3	327	3	un	ORG
+IF3	327	4	convenio que	PERSON
+IF3	327	5	entre el MAG y el PNUD	PERSON
+IF3	327	6	determinando claramente las condiciones de transferencia y	PERSON
+IF3	327	7	tales como	PERSON
+IF3	327	8	procesos de	ORG
+IF3	327	9	y contrataciones	PERSON
+IF3	327	10	y pagos de	PERSON
+IF3	329	1	entre el MAG y el PNUD	PERSON
+IF3	329	2	del Fondo	ORG
+IF3	330	1	5	CARDINAL
+IF3	330	2	Programa	GPE
+IF3	330	3	MOP	ORG
+IF3	330	4	normativo y técnico del Programa	PERSON
+IF3	330	5	como los niveles de responsabilidad de las instancias	ORG
+IF3	331	1	los procedimientos	PERSON
+IF3	331	2	administrativos y financieros	PERSON
+IF3	331	3	y acciones que	PERSON
+IF3	331	4	para su implementación	PERSON
+IF3	331	5	bajo un esquema flexible sujeto	ORG
+IF3	331	6	los ajustes	GPE
+IF3	331	7	que se	ORG
+IF3	331	8	entre las	PERSON
+IF3	332	1	El MOP será	ORG
+IF3	332	2	para	GPE
+IF3	332	3	los funcionarios	GPE
+IF3	332	4	de las	ORG
+IF3	332	5	Programa	GPE
+IF3	332	6	como de las organizaciones	LOC
+IF3	333	1	la Unidad de Gestión del Programa (UGP	FAC
+IF3	333	2	y aprobado por el MAG	PERSON
+IF3	333	3	el cual tendrá la responsabilidad de trasladarlo al FIDA	GPE
+IF3	334	1	5.2	CARDINAL
+IF3	334	2	al MOP	PERSON
+IF3	334	3	éstas	PERSON
+IF3	334	4	ser igualmente	GPE
+IF3	334	5	por el MAG y la UGP	PERSON
+IF3	334	6	previa recomendación del FIDA	ORG
+IF3	335	1	Appendix	GPE
+IF3	337	1	Categoría	GPE
+IF3	337	2	Categorías Monto del Préstamo	WORK_OF_ART
+IF3	337	3	EUR	GPE
+IF3	337	4	Monto de la	PERSON
+IF3	337	5	DEG	ORG
+IF3	337	6	Porcentaje de	ORG
+IF3	337	7	1	CARDINAL
+IF3	338	1	Vehículos	GPE
+IF3	338	2	equipos y materiales	PERSON
+IF3	338	3	100%	PERCENT
+IF3	338	4	2	CARDINAL
+IF3	339	1	Asistencia Técnica	PERSON
+IF3	339	2	Convenios	PRODUCT
+IF3	339	3	400	CARDINAL
+IF3	339	4	1 540	CARDINAL
+IF3	339	5	100%	PERCENT
+IF3	339	6	3	CARDINAL
+IF3	340	1	Asistencia Técnica/	PERSON
+IF3	340	2	2 610	CARDINAL
+IF3	340	3	100%	PERCENT
+IF3	340	4	4	CARDINAL
+IF3	341	1	600	CARDINAL
+IF3	341	2	100%	PERCENT
+IF3	341	3	5	CARDINAL
+IF3	342	1	1 780	CARDINAL
+IF3	342	2	100%	PERCENT
+IF3	342	3	100%	PERCENT
+IF3	342	4	sin impuestos para	ORG
+IF3	342	5	1 090	CARDINAL
+IF3	342	6	10 850 000	MONEY
+IF3	342	7	Algunos de los términos	PERSON
+IF3	342	8	emplean	PERSON
+IF3	342	9	i. Asistencia Técnica	PERSON
+IF3	342	10	los convenios	GPE
+IF3	342	11	entre el Programa	PERSON
+IF3	342	12	para actividades de adaptación al cambio	PERSON
+IF3	342	13	y de apoyo al marco de políticas	PERSON
+IF3	344	1	Asistencia Técnica/	PERSON
+IF3	344	2	entre el	PERSON
+IF3	344	3	Programa y proveedores de	FAC
+IF3	344	4	de fortalecimiento de las organizaciones	PERSON
+IF3	344	5	productivos	PERSON
+IF3	344	6	agregado de valor y de	PERSON
+IF3	346	1	Programa	GPE
+IF3	346	2	para la implementación de los planes de	PERSON
+IF3	347	1	El detalle de estas	ORG
+IF3	347	2	el Manual de Operaciones del Programa	ORG
+IF3	348	1	Appendix	GPE
+IF3	349	1	Costos de puesta	PERSON
+IF3	350	1	El retiro de fondos de la cuenta	PERSON
+IF3	350	2	Préstamo	LOC
+IF3	350	3	marcha realizados antes de satisfacer las	PERSON
+IF3	350	4	previas para el retiro	PERSON
+IF3	350	5	un monto total de	PERSON
+IF3	350	6	5	CARDINAL
+IF3	350	7	la elaboración del	PERSON
+IF3	350	8	MOP	ORG
+IF3	351	1	1 2	CARDINAL
+IF3	351	2	Marco Lógico Descripción	PERSON
+IF3	351	3	Indicadores básicos de resultados Medios de verificación	ORG
+IF3	351	4	Periodicidad/Responsable Hipótesis	ORG
+IF3	351	5	Meta Contribuir	ORG
+IF3	351	6	Región Oriental de El Salvador	GPE
+IF3	351	7	3%	PERCENT
+IF3	351	8	10%	PERCENT
+IF3	351	9	 %	PERCENT
+IF3	351	10	 Línea de base	FAC
+IF3	351	11	 Informes de pobreza  Evaluaciones RIMS	WORK_OF_ART
+IF3	351	12	5	CARDINAL
+IF3	351	13	Los objetivos	GPE
+IF3	351	14	metas y acciones	PERSON
+IF3	351	15	por el Gobierno	FAC
+IF3	351	16	Incrementar de forma	PRODUCT
+IF3	351	17	los ingresos de familias	ORG
+IF3	351	18	los Departamentos de San Miguel	GPE
+IF3	351	19	Usulután	GPE
+IF3	351	20	La Unión	ORG
+IF3	351	21	al cambio	PERSON
+IF3	351	22	Al finalizar el	PERSON
+IF3	351	23	Programa	GPE
+IF3	351	24	33.200	CARDINAL
+IF3	351	25	8300	CARDINAL
+IF3	351	26	20%	PERCENT
+IF3	351	27	40%	PERCENT
+IF3	351	28	5%	PERCENT
+IF3	351	29	1.8.1	TIME
+IF3	351	30	5900	DATE
+IF3	351	31	PN incrementan	ORG
+IF3	351	32	20.000	CARDINAL
+IF3	351	33	5	CARDINAL
+IF3	352	1	Oriental	NORP
+IF3	354	1	Efecto	ORG
+IF3	354	2	MAG	ORG
+IF3	354	3	CENTA	ORG
+IF3	354	4	ENA	ORG
+IF3	354	5	MARN	ORG
+IF3	354	6	para transferir	PERSON
+IF3	354	7	ACC	ORG
+IF3	354	8	Al finalizar el	PERSON
+IF3	354	9	100%	PERCENT
+IF3	354	10	han mejorado	ORG
+IF3	354	11	para transferir	PERSON
+IF3	354	12	ACC	ORG
+IF3	354	13	c/  5000	PRODUCT
+IF3	354	14	climática para la toma de decisiones	FAC
+IF3	354	15	 Línea de base	FAC
+IF3	354	16	5	CARDINAL
+IF3	354	17	MAG Efecto	ORG
+IF3	354	18	2	CARDINAL
+IF3	354	19	1	CARDINAL
+IF3	354	20	los actores	ORG
+IF3	354	21	y privados regionales	ORG
+IF3	354	22	de gestión	PRODUCT
+IF3	354	23	menos 60%	PERCENT
+IF3	354	24	5	CARDINAL
+IF3	354	25	3	CARDINAL
+IF3	354	26	adultas	GPE
+IF3	354	27	para el empleo	PERSON
+IF3	354	28	cadenas de	ORG
+IF3	354	29	ACC Al finalizar el programa:	ORG
+IF3	354	30	40%	PERCENT
+IF3	354	31	25%	PERCENT
+IF3	354	32	Registros de empleos de las	PERSON
+IF3	354	33	 Evaluación	PRODUCT
+IF3	354	34	5	CARDINAL
+IF3	354	35	Efecto	ORG
+IF3	354	36	coordinan estrategias para el desarrollo de las cadenas de valor	ORG
+IF3	354	37	Al finalizar el	PERSON
+IF3	354	38	Programa	GPE
+IF3	354	39	5	CARDINAL
+IF3	354	40	propuestas	ORG
+IF3	354	41	para mejorar el desempeño de las cadenas	PERSON
+IF3	354	42	según estrategias	PERSON
+IF3	354	43	100%	PERCENT
+IF3	354	44	Documentos de alianzas	PERSON
+IF3	354	45	 Evaluación	FAC
+IF3	354	46	5	CARDINAL
+IF3	354	47	5	CARDINAL
+IF3	354	48	2	CARDINAL
+IF3	354	49	Descripción	ORG
+IF3	354	50	Indicadores básicos de resultados Medios de verificación	ORG
+IF3	354	51	Periodicidad/Responsable Hipótesis	ORG
+IF3	354	52	Efecto	ORG
+IF3	354	53	2	CARDINAL
+IF3	354	54	Al finalizar	PERSON
+IF3	354	55	100%	PERCENT
+IF3	354	56	20%	PERCENT
+IF3	354	57	40%	PERCENT
+IF3	354	58	5%	PERCENT
+IF3	354	59	100%	PERCENT
+IF3	354	60	2.6.5	CARDINAL
+IF3	354	61	5000	CARDINAL
+IF3	354	62	han	NORP
+IF3	354	63	Al menos 50%	PERCENT
+IF3	354	64	según el grupo	PERSON
+IF3	354	65	 Estudio	PRODUCT
+IF3	354	66	Registros de organizaciones	FAC
+IF3	354	67	Ofertas	NORP
+IF3	354	68	2	CARDINAL
+IF3	354	69	3	DATE
+IF3	354	70	4	DATE
+IF3	354	71	económicos que	PERSON
+IF3	354	72	y/o que desaceleren	ORG
+IF3	354	73	Efecto	ORG
+IF3	354	74	3	CARDINAL
+IF3	354	75	60%	PERCENT
+IF3	354	76	Al menos 80%	PERCENT
+IF3	354	77	reportan mejora	PERSON
+IF3	354	78	la calidad	PERSON
+IF3	354	79	prácticas BPM	GPE
+IF3	354	80	70%	PERCENT
+IF3	354	81	 Línea de	PERSON
+IF3	354	82	 Evaluación	FAC
+IF3	354	83	Informes de infraestructura 	WORK_OF_ART
+IF3	354	84	5	CARDINAL
+IF3	354	85	1	CARDINAL
+IF3	354	86	3	CARDINAL
+IF3	354	87	los actores	ORG
+IF3	354	88	públicos y privados fortalecen el	PERSON
+IF3	354	89	500	CARDINAL
+IF3	354	90	50%	PERCENT
+IF3	354	91	50	CARDINAL
+IF3	354	92	para el diálogo	PERSON
+IF3	354	93	públicas	GPE
+IF3	354	94	100%	PERCENT
+IF3	354	95	de política	PERSON
+IF3	354	96	100%	PERCENT
+IF3	354	97	5	CARDINAL
+IF3	354	98	por parte del gobierno para	ORG
+IF3	354	99	el desarrollo de las	FAC
+IF3	354	100	Efecto	ORG
+IF3	354	101	2	CARDINAL
+IF3	354	102	MAG	ORG
+IF3	354	103	MARN	ORG
+IF3	354	104	INJUVE	ORG
+IF3	354	105	Municipalidades	GPE
+IF3	354	106	el desarrollo rural y cambio	ORG
+IF3	354	107	Al finalizar	PERSON
+IF3	354	108	INJUVE y municipalidades con	ORG
+IF3	354	109	Documentos de instrumentos	FAC
+IF3	354	110	5	CARDINAL
+IF3	354	111	MAG Efecto	ORG
+IF3	354	112	3/	CARDINAL
+IF3	354	113	3	CARDINAL
+IF3	354	114	La	NORP
+IF3	354	115	120	CARDINAL
+IF3	354	116	para el diálogo	PERSON
+IF3	355	1	5	CARDINAL
+IF3	355	2	5	CARDINAL
+IF3	356	1	según hombre	PERSON
+IF3	356	2	mujer	PERSON
+IF3	356	3	grupo etario	PERSON
+IF3	356	4	indígena	GPE
+IF3	356	5	Departamento	PERSON
+IF3	356	6	Municipio	ORG
+IF3	357	1	Medido según ingresos	PERSON
+IF3	357	2	100%	PERCENT
+IF3	357	3	un	ORG
+IF3	357	4	y considerando las	PERSON
+IF3	357	5	fuentes de ingresos	WORK_OF_ART
+IF3	358	1	b/ Un	ORG
+IF3	358	2	aumenta	GPE
+IF3	358	3	su resiliencia al cambio	PERSON
+IF3	358	4	al menos	PERSON
+IF3	358	5	las	PERCENT
+IF3	358	6	que utiliza	PERSON
+IF3	358	7	el clima	GPE
+IF3	358	8	difundido por el proyecto	PERSON
+IF3	358	9	ii	PRODUCT
+IF3	358	10	que implementa las actividades	PERSON
+IF3	358	11	el contexto de un plan de	ORG
+IF3	358	12	cofinanciado por el proyecto	PERSON
+IF3	358	13	activos están	PERSON
+IF3	358	14	un uno de los 10	ORG
+IF3	358	15	climáticos y el plan de manejo de recursos	ORG
+IF3	358	16	una de las 10	PERSON
+IF3	358	17	cuya planificación incluye	FAC
+IF3	358	18	el tema del cambio	FAC
+IF3	359	1	c/ Indicadores	PERSON
+IF3	359	2	para cada	PERSON
+IF3	359	3	según variables	PERSON
+IF3	360	1	conocimientos/habilidades	ORG
+IF3	360	2	d/ Empleo	PERSON
+IF3	360	3	al servicio de otra	PERSON
+IF3	360	4	un	ORG
+IF3	360	5	contrato realiza su	PERSON
+IF3	360	6	cambio de una	ORG
+IF3	361	1	e/ Indicadores	PERSON
+IF3	361	2	Indicadores	PERSON
+IF3	361	3	50%	PERCENT
+IF3	361	4	los asociados g/ Indicadores	PERSON
+IF3	361	5	Al menos 80%	PERCENT
+IF3	361	6	40%	PERCENT
+IF3	361	7	un	ORG
+IF3	361	8	de política ambiental	ORG
+IF3	361	9	i/ Al	LOC
+IF3	361	10	juventud	PERSON
+IF3	361	11	Logical	PERSON
+IF3	361	12	the Eastern Region	LOC
+IF3	361	13	El Salvador	GPE
+IF3	361	14	3%	PERCENT
+IF3	361	15	10%	PERCENT
+IF3	361	16	 %	PERCENT
+IF3	361	17	Baseline  Poverty	FAC
+IF3	361	18	Year 5	DATE
+IF3	361	19	San Miguel	GPE
+IF3	361	20	Usulután	GPE
+IF3	361	21	La Unión	ORG
+IF3	361	22	Morazán	PERSON
+IF3	361	23	33,200	CARDINAL
+IF3	361	24	8,300	CARDINAL
+IF3	361	25	20%	PERCENT
+IF3	361	26	40%	PERCENT
+IF3	361	27	5%	PERCENT
+IF3	361	28	1.8.1	CARDINAL
+IF3	361	29	5,900	CARDINAL
+IF3	361	30	20,000	CARDINAL
+IF3	361	31	5,000	CARDINAL
+IF3	361	32	Year 3 and year 5	DATE
+IF3	361	33	 El	PERSON
+IF3	364	1	Outcome 1/Component 1 Instituciones	ORG
+IF3	364	2	MAG	ORG
+IF3	364	3	CENTA	ORG
+IF3	364	4	ENA	ORG
+IF3	364	5	MARN	ORG
+IF3	364	6	para transferir	PERSON
+IF3	364	7	ACC	ORG
+IF3	364	8	Al finalizar el	PERSON
+IF3	364	9	100%	PERCENT
+IF3	364	10	han mejorado	ORG
+IF3	364	11	para transferir	PERSON
+IF3	364	12	ACC	ORG
+IF3	364	13	c/  5000	PRODUCT
+IF3	364	14	climática para la toma de decisiones	FAC
+IF3	364	15	 Línea de base	FAC
+IF3	364	16	5	CARDINAL
+IF3	364	17	los actores	ORG
+IF3	364	18	y privados regionales	ORG
+IF3	364	19	de gestión	PRODUCT
+IF3	364	20	menos 60%	PERCENT
+IF3	364	21	5	CARDINAL
+IF3	364	22	adultas	GPE
+IF3	364	23	para el empleo	PERSON
+IF3	364	24	cadenas de	ORG
+IF3	364	25	ACC Al finalizar el programa:	ORG
+IF3	364	26	40%	PERCENT
+IF3	364	27	25%	PERCENT
+IF3	364	28	Registros de empleos de las	PERSON
+IF3	364	29	 Evaluación	PRODUCT
+IF3	364	30	5	CARDINAL
+IF3	364	31	coordinan estrategias para el desarrollo de las cadenas de valor	ORG
+IF3	364	32	Al finalizar el	PERSON
+IF3	364	33	Programa	GPE
+IF3	364	34	5	CARDINAL
+IF3	364	35	propuestas	ORG
+IF3	364	36	para mejorar el desempeño de las cadenas	PERSON
+IF3	364	37	según estrategias	PERSON
+IF3	364	38	100%	PERCENT
+IF3	364	39	Documentos de alianzas	PERSON
+IF3	364	40	 Evaluación	FAC
+IF3	364	41	5	CARDINAL
+IF3	364	42	5	CARDINAL
+IF3	364	43	2	CARDINAL
+IF3	364	44	Frequency/Responsible Assumptions	ORG
+IF3	364	45	Organizaciones	PRODUCT
+IF3	364	46	Al finalizar	PERSON
+IF3	364	47	100%	PERCENT
+IF3	364	48	20%	PERCENT
+IF3	364	49	40%	PERCENT
+IF3	364	50	5%	PERCENT
+IF3	364	51	100%	PERCENT
+IF3	364	52	2.6.5	CARDINAL
+IF3	364	53	5000	CARDINAL
+IF3	364	54	han	NORP
+IF3	364	55	Al menos 50%	PERCENT
+IF3	364	56	según el grupo	PERSON
+IF3	364	57	 Estudio	PRODUCT
+IF3	364	58	Registros de organizaciones	FAC
+IF3	364	59	Ofertas	NORP
+IF3	364	60	2	CARDINAL
+IF3	364	61	3	DATE
+IF3	364	62	4	DATE
+IF3	364	63	económicos que	PERSON
+IF3	364	64	y/o que desaceleren	ORG
+IF3	364	65	Outcome 3/Component 2 Organizaciones	ORG
+IF3	364	66	60%	PERCENT
+IF3	364	67	Al menos 80%	PERCENT
+IF3	364	68	reportan mejora	PERSON
+IF3	364	69	la calidad	PERSON
+IF3	364	70	prácticas BPM	GPE
+IF3	364	71	70%	PERCENT
+IF3	364	72	 Línea de	PERSON
+IF3	364	73	 Evaluación	FAC
+IF3	364	74	Informes de infraestructura 	WORK_OF_ART
+IF3	364	75	5	CARDINAL
+IF3	364	76	3	CARDINAL
+IF3	364	77	fortalecen el diálogo	PRODUCT
+IF3	364	78	50%	PERCENT
+IF3	364	79	50	CARDINAL
+IF3	364	80	para el diálogo	PERSON
+IF3	364	81	públicas	GPE
+IF3	364	82	100%	PERCENT
+IF3	364	83	de política	PERSON
+IF3	364	84	100%	PERCENT
+IF3	364	85	5	CARDINAL
+IF3	364	86	por parte del gobierno para	ORG
+IF3	364	87	el desarrollo de las	FAC
+IF3	364	88	Outcome 2/Component 3 El	WORK_OF_ART
+IF3	364	89	MAG	ORG
+IF3	364	90	MARN	ORG
+IF3	364	91	INJUVE	ORG
+IF3	364	92	Municipalidades	GPE
+IF3	364	93	el desarrollo rural y cambio	ORG
+IF3	364	94	Al finalizar	PERSON
+IF3	364	95	INJUVE y municipalidades con	ORG
+IF3	364	96	Documentos de instrumentos	FAC
+IF3	364	97	5	CARDINAL
+IF3	364	98	3/	CARDINAL
+IF3	364	99	120	CARDINAL
+IF3	364	100	para el diálogo	PERSON
+IF3	365	1	5	CARDINAL
+IF3	365	2	5	CARDINAL
+IF3	366	1	según hombre	PERSON
+IF3	366	2	mujer	PERSON
+IF3	366	3	grupo etario	PERSON
+IF3	366	4	indígena	GPE
+IF3	366	5	Departamento	PERSON
+IF3	366	6	Municipio	ORG
+IF3	367	1	Medido según ingresos	PERSON
+IF3	367	2	100%	PERCENT
+IF3	367	3	un	ORG
+IF3	367	4	y considerando las	PERSON
+IF3	367	5	fuentes de ingresos	WORK_OF_ART
+IF3	368	1	b/ Un	ORG
+IF3	368	2	aumenta	GPE
+IF3	368	3	su resiliencia al cambio	PERSON
+IF3	368	4	al menos	PERSON
+IF3	368	5	las	PERCENT
+IF3	368	6	que utiliza	PERSON
+IF3	368	7	el clima	GPE
+IF3	368	8	difundido por el proyecto	PERSON
+IF3	368	9	ii	PRODUCT
+IF3	368	10	que implementa las actividades	PERSON
+IF3	368	11	el contexto de un plan de	ORG
+IF3	368	12	cofinanciado por el proyecto	PERSON
+IF3	368	13	activos están	PERSON
+IF3	368	14	un uno de los 10	ORG
+IF3	368	15	climáticos y el plan de manejo de recursos	ORG
+IF3	368	16	una de las 10	PERSON
+IF3	368	17	cuya planificación incluye	FAC
+IF3	368	18	el tema del cambio	FAC
+IF3	369	1	c/ Indicadores	PERSON
+IF3	369	2	para cada	PERSON
+IF3	369	3	según variables	PERSON
+IF3	370	1	conocimientos/habilidades	ORG
+IF3	370	2	d/ Empleo	PERSON
+IF3	370	3	al servicio de otra	PERSON
+IF3	370	4	un	ORG
+IF3	370	5	contrato realiza su	PERSON
+IF3	370	6	cambio de una	ORG
+IF3	371	1	e/ Indicadores	PERSON
+IF3	371	2	Indicadores	PERSON
+IF3	371	3	50%	PERCENT
+IF3	371	4	los asociados g/ Indicadores	PERSON
+IF3	371	5	Al menos 80%	PERCENT
+IF3	371	6	40%	PERCENT
+IF3	371	7	un	ORG
+IF3	371	8	de política ambiental	ORG
+IF3	371	9	i/ Al	LOC
+IF3	371	10	juventud	PERSON

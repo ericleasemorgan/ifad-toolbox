@@ -1,0 +1,1390 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+ 
+
+  
+Jan 04, 2018 Page 1 of 18  
+
+     
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 28-Feb-2018 | Report No: PIDISDSA23460 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 2 of 18  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Chad P162956 Chad – Climate Resilient 
+Agriculture and 
+Productivity Enhancement 
+Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 26-Feb-2018 26-Apr-2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Chad Ministry of Agriculture, 
+Irrgation and Equipment 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The proposed Project Development Objective (PDO) is to “promote the adoption of improved technologies leading to 
+increase productivity and enhance the climate resilience of agricultural production systems in the areas targeted by 
+the Project”. 
+ 
+
+ 
+Components 
+
+Institutional support for sustainable agriculture development and climate resilience 
+Supporting adoption of demand driven technologies and climate-smart agriculture 
+Contingency Emergency Response 
+Coordination. Knowledge management and Monitoring and Evaluation 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+IDA Grant   41.00  
+
+Total Project Cost   41.00  
+    
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 3 of 18  
+
+ 
+
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+
+ 
+
+Country Context 
+
+1. Chad is a vast and landlocked country in Central Africa characterized by land degradation and 
+erratic climatic conditions. It has a total land area of 1,284,000 km2 that encompasses three agro-
+ecological zones: Saharan, Sahelian, and Sudanian. Out of a total population of over 14 million people, 47 
+percent live below the poverty line. Chad ranked 186 out of 188 on the 2016 Human Development Index 
+(HDI, 2016), making it one of the poorest and most deprived countries in the world. Chad remains largely 
+rural, with over three-quarters of its population living in rural areas where they depend on subsistence 
+farming for both household food and income security. The country is also beset with high unemployment, 
+particularly among the youth. 
+
+2. The economy continues to underperform, due to impacts from two main exogenous shocks: 
+low oil prices and elevated regional insecurity. The oil and agricultural sectors were Chad's main growth 
+drivers until the fall of the world oil price in 2014. Since then, Chad has experienced a sharp economic 
+slow-down, with a fall in government revenue, resulting in a significant reduction in public expenses 
+negatively impacting GDP growth (from 6.3% in 2014 to 0.2% in 2017)1,  leading the economy into deeper 
+recession.  This difficult economic situation has been exacerbated by the prevailing serious threat to 
+security in the region (including civil conflict and low-level insurgencies in the neighboring countries of 
+Sudan, Nigeria, CAR and Libya), which has caused economic disruption in Chad and forced the Government 
+to reprioritize its spending to defense, hosting of refugees and internally displaced persons. It also had an 
+impact on cross-border trade, leading to the collapse of internal and external trade, especially for 
+livestock, and a major disruption of the trade routes of imported products, especially in the Sahel.  
+
+3. The short and medium-term outlooks remain challenging, with projected GDP growth for 2019 
+of 3.15 percent. The situation has led the Government of Chad to prioritize diversification of the economy, 
+focusing more on the non-oil sectors. The most important of these is the agricultural sector, which 
+employs 80% of the Chadian workforce and accounts for 52% of GDP. It is also the second largest source 
+of export income, after oil. In its 2016 – 2020 national development plan, the Government has, among 
+other actions, prioritized the industrialization of agriculture, with the aim of boosting exports in order to 
+diversify the economy to reduce its dependence on oil exports and increase tax revenue. 
+
+4. The country is also experiencing rapid population growth (6.3% annually from 2010 to 20152), 
+with a large youth cohort – more than 65% of the population is under the age of 25. The majority of the 
+population remains rural, deriving their incomes from subsistence farming and herding activities, relying 
+on traditional extensive production techniques, with limited access to markets and services (Systematic 
+Country Diagnosis - SCD, 2015). Women engaged in agriculture and/or living in rural areas face 
+considerable barriers: Chad ranks 140 out of 144 on the Global Gender Gap Index. Adult female literacy 
+rate is 13.9% per UNESCO, about half that of men, and women are often confined to producing 
+
+                                                           
+1 The World Bank Group countries statistics (2017) (https://data.worldbank.org/country/chad) 
+2  World Statistics Pocket Book, UN 2016 
+
+https://data.worldbank.org/country/chad
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 4 of 18  
+
+ 
+
+subsistence crops and traditional farming, with little access to advisory services and inputs (mainly 
+captured by men). As a result, they are financially more vulnerable.  
+
+5. Food insecurity is a big concern that is likely to be exacerbated by climate change. It is estimated 
+that one out of 10 Chadians, or 1.4 million people, are chronically food-insecure, meaning they are unable 
+to meet their basic food requirements even during “good” years of crop harvest. The situation worsens 
+during “bad” years – characterized by limited availability of and constrained access to food – where 
+millions more can easily and quickly fall into transitory food insecurity. Difficulties in access to food are 
+partly attributed to the poor performance of the important crops and livestock sub-sectors, which are 
+characterized by sluggish productivity growth due to multiple factors. Such factors include lack of and 
+limited access to promising technologies, underinvestment in new technologies, as well as climate-related 
+constraints. Crop and livestock production are highly dependent on rainfall, making these sub-sectors 
+extremely vulnerable to climate shocks (in particular the scarcity and poor distribution of rainfall over 
+time and space). This situation is aggravated by the country’s vulnerability to climatic risks, both short-
+term risks associated with its inherent climatic variability and long-terms risks associated with climate 
+change. The National Action Program of Adaptation (NAPA, 2010) reported that the main short-term 
+climate risks are associated with droughts, floods, poor spatial and temporal distribution of rainfall, 
+extreme heat, and strong winds. 
+
+ 
+
+Sectoral and Institutional Context 
+
+6. Chad has enormous unrealized agricultural potential. The country has a total agricultural area of 
+more than 49 million hectares, of which only 6 percent is currently cultivated. Similarly, the available 
+water resources remain largely untapped, with only 9 percent of this potential being used. Less than 1 
+percent of the agricultural land is under irrigation in Chad. The main Agro-Ecological Zones (AEZ) in Chad, 
+from North to South, are the Saharian (up to 200 mm average annual rainfall), the Sahelian (200-700 mm) 
+and the Sudanian (over 750 mm) AEZ. These distinct AEZs provide a unique opportunity to diversify 
+agricultural production and to develop dynamic and complementary crop and livestock value chains. 
+While other projects are already targeting livestock systems in the Sahelian AEZ, the proposed project will 
+focus on the higher potential Sudanian AEZ where smallholder farmers are engaged mainly in traditional 
+rainfed cereal-based (sorghum, millet and berbéré and associated pulses) farming systems, but including 
+also some small livestock production. This zone is also a transit zone for livestock herds as they move 
+southwards from the Sahelian AEZ during the dry season, causing some farmer-livestock herder conflicts. 
+
+7. Despite its vast potential, the agriculture sector continues to underperform. Yields of key cereals 
+are far below the averages for sub-Saharan Africa (SSA), and yield gains have not kept pace with the yield 
+gains achieved in other countries. For example, sorghum yields average stand between 720 and 785 
+kg/ha3 respectively for Sahelian and Sudanian zones of Chad, against an average of 980 kg/ha in the 
+ECOWAS4 region.  
+
+8. Average rainfall ranges between 800 to 1250 mm in the Sudanian Agro-Ecological Zone (AEZ), but 
+the distribution increases in variability, in both inter-annual quantities and geographic distribution, when 
+moving from the south towards the north. The main crops are cereals (sorghum, berbéré, maize and rice), 
+
+                                                           
+3 Chad – Agriculture Sector Review (ASRR), May 2017 
+4 Feeding Africa (2015): Report on Cereal Crops: Rice, Maize, Millet, Sorghum, Wheat, H. Mac Cauley (Africa Rice), Tabo 
+Ramadjita (ICRISAT) 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 5 of 18  
+
+ 
+
+mostly intercropped with legumes, and roots and tubers, mainly grown for household consumption. 
+Farmers also cultivate cotton for cash. Unfortunately, production of cotton is in sharp decline due to weak 
+value chain organization. The Sudanian AEZ area is also classified as a cattle husbandry (and 
+transhumance) area. Finally, collection of wild fruits and plants remains common, especially collection of 
+shea nuts. 
+
+9. The 2017 Agriculture Sector Review Report (ASRR) described how Chadian agriculture is going 
+through a deep crisis. The sector is struggling to modernize and remains largely dependent on weather 
+conditions. However, the report emphasized the potential for development of family farming in terms of 
+productivity, profitability and resilience to shocks and its potential to meet the national and external food 
+demand and improve the welfare of the rural populations.  
+
+10. Several related factors explain the low productivity of Chadian agriculture: 
+
+▪ Weak research and extension services as well as low overall institutional capacity constrain 
+innovation and slow the rate of technical change. The agriculture research and development 
+(AR&D) system is weak, with limited human and infrastructure resources and lack of continued 
+programmatic support. In addition, the limited reach of public and private agricultural extension 
+and advisory services significantly affects the dissemination and adoption of promising 
+technologies.  
+
+▪ The use of low yielding agricultural technologies and poor and unsustainable traditional 
+agricultural practices are the main characteristics of Chadian subsistence farming. Farmers lack 
+access to improved agricultural technologies, as well as to the know-how needed to improve 
+productivity. For example, less than 5% of farmers are currently using improved seeds (Agriculture 
+Sector Review, May 2017).  
+
+▪ The growing population is increasing pressure on existing fertile production resources and hence 
+rendering the practice of extensive subsistence agriculture and traditional livestock management 
+systems more challenging over time. Increased competition for the shrinking natural capital often 
+results in tensions between diverse user communities with at times conflicting interests. As a 
+result, the increasing pressure on natural resources, particularly in marginal areas and their fragile 
+eco-systems, are leading to lower soil fertility levels, soil erosion and degradation. 
+
+▪ Climate shocks are exacting an increasing toll on Chadian agriculture. The Intergovernmental 
+Panel on Climate Change (IPCC) categorizes Chad as one of the countries highly vulnerable to the 
+impacts of climate change. Vulnerability in Chad is characterized by increasing scarcity of available 
+natural resources, fragile and substantially degraded soils, high level of food security and poverty, 
+and lack of infrastructure, which hinder the capacity of local population to adapt to severe 
+weather conditions. Indeed, the Intended Nationally Determined Contribution (INDC) of the 
+Republic of Chad (September 2015) indicates that over the past decades, the Saharan and 
+Sahelian climatic zones of Chad have progressed southwards by 150 km.  
+
+▪ Weak or lack of policies also lead to cumbersome administrative and organizational procedures in 
+Chad. The Agriculture Sector Review Report (ASRR) highlighted the persistent lack of concrete 
+measures to address effectively the major factors that impact food and nutritional security. In 
+practice, efforts to address those factors are very limited, and often questioned. As an illustration, 
+the ASRR proposed a process for  setting up a pastoral code, which has not moved forward even 
+though there has been a resurgence of conflicts related to the access and control of natural 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 6 of 18  
+
+ 
+
+resources by different users. This situation of land insecurity is still limiting private investment 
+and the sector’s performance. 
+
+11. To address these constraints, the 2017 Agriculture Sector Review Report has identified improving 
+productivity and strengthening resilience of family farming as effective and appropriate means of reducing 
+poverty in rural areas. 
+
+12. The Project will coordinate closely with other IDA-financed projects and projects being 
+implemented by other partners to ensure effective synergies on the ground. For example, the Project will 
+rely on the Chad Hydrological and Meteorological Services Modernization Project (P164256) to strengthen 
+the capacity of the National Meteorology Agency (ANAM) to provide effective agro-meteorological 
+services in support of the Project’s activities, including training and acquisition of digital solutions for data 
+collection and analysis and weather forecasting (e.g. remote sensing application and GIS products). The 
+Project will also complement interventions in pastoralism management being supported under the 
+Regional Sahel Pastoralism Support Project (PRAPS – P147674). The Project will support mixed crops and 
+livestock systems in agro-pastoral zones, while PRAPS will target purely pastoral zones. The Project will 
+establish strategical and operational linkages with the Rural Mobility and Connectivity Project (P164747) 
+which will be implemented in two out of the three targeted regions. This Project will to improve road 
+access to selected agricultural production basin and markets in the Project area. Technologies to be 
+introduced by the Project would also be used in the irrigation schemes developed by the Chad’s 
+Component of the Sahel Irrigation Initiative Project (P154482). The is aligned with the Sahel Alliance 
+Initiative which objective is to improve the support and coordination of development partners in the 
+region to contribute effectively and more broadly to the stabilization and eradication of poverty, by 
+developing rural areas, creating employment for youth, improving energy infrastructure and 
+strengthening governance.  
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+
+13. The proposed Project Development Objective (PDO) is “to promote the adoption of improved 
+technologies leading to increase productivity and enhance the climate resilience of agricultural 
+production systems in the areas targeted by the Project.”  
+
+ 
+Key Results 
+
+ 
+
+14. The PDO-Level Results Indicators are:  
+
+i. Number of direct Project beneficiaries – or farmers/producers/processors reached with 
+agricultural assets or services (of which 40% female and 50% youth); 
+
+ii. Total land area under improved technologies (in hectares) disseminated by the Project 
+(including % in CSA technology - proxy for climate resilience technologies/practices); 
+
+iii. Increase in average yields of the direct beneficiaries compared to average yields in the 
+Project area (% of baselines for targeted crops in the project area); and 
+
+iv. Share of targeted beneficiaries with rating ‘Satisfied’ or above on Project interventions 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 7 of 18  
+
+ 
+
+D. Project Description  
+ 
+The total project amount is the equivalent of USD 44.6 million (IDA grant of USD 41 million and beneficiaries contribution 
+of USD 3.6 million) over a period of 5 years. The project consists of four components, namely: (A) Institutional support 
+for sustainable agriculture development and climate resilience; (B) Supporting adoption of demand driven technologies 
+and climate-smart agriculture; (C) Contingency emergency response; and (D) Coordination, knowledge management and 
+monitoring, evaluation, and learning (MEL). 
+ 
+COMPONENT A: INSTITUTIONAL SUPPORT FOR SUSTAINABLE AGRICULTURE DEVELOPMENT AND CLIMATE RESILIENCE: 
+This component is designed to strengthen institutional capacities for Agricultural Research & Development (AR&D) and 
+climate change adaptation at national level. It includes the following sub-components : (A1) Strengthening the agricultural 
+research and development (AR&D) system;  (A2) Strengthening of national support services for sustainable agricultural 
+development and climate resilience and  (A.3) : Strengthening the framework for sectoral strategies and reforms 
+preparation and monitoring    
+ 
+COMPONENT B: SUPPORTING ADOPTION OF DEMAND DRIVEN TECHNOLOGIES AND CLIMATE-SMART AGRICULTURE: 
+This component will support the adoption of high productivity potential and climate resilient technologies /practices. It 
+is sub-divided into three sub-components: (B.1) Improving the effectiveness of agricultural support services in the 
+targeted areas; (B.2) Accelerating adoption of improved technologies and innovations; and (B.3) Implementing climate-
+smart agriculture plans.  
+ 
+COMPONENT C: CONTINGENCY EMERGENCY RESPONSE 
+This component will create a mechanism for financing emergency works in case of another disaster event by including a 
+“zero-dollar” Contingency Emergency Response Component (CERC). Should this component be activated, it will allow 
+rapid disbursement of funds to help reduce damage to infrastructure, ensure business continuity, and enable early 
+rehabilitation. Following an adverse event that causes a major disaster, the GoC will be able to request that the Bank to 
+channel resources from other components into an Immediate Response Mechanism (IRM). The IRM will enable the use 
+of a portion of uncommitted funds from the overall IDA portfolio to respond to emergencies. To mobilize resources from 
+the component, it will use the “Immediate Response Mechanism Operational Manual.”  
+
+ 
+
+COMPONENT D: COORDINATION, M&E AND KNOWLEDGE MANAGEMENT 
+This component is to support the Project on: (i) coordination and management, including human resources, financial 
+management and procurement; (ii) M&E, gender impact evaluation and technical studies, (iii) knowledge management 
+and communication; and (iv) safeguards and citizen engagement. The project will pilot the “Iterative Beneficiary 
+monitoring” (IBM) System which is a simple low cost, high frequency feedback mechanism elaborated to inform regularly 
+on what is not working during the project implementation and help to improve project results gradually and quickly 
+without need of lengthy and expensive evaluations. 
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements 
+
+15. The project will be implemented under the supervision of the Ministry of Agriculture, Irrigation 
+and Agricultural Equipment (MAIEA).  It will be supported by a National Steering Committee for all 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956)  
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 8 of 18  
+
+ 
+
+projects/programmes in the Agricultural sector, chaired by the Ministry’s General Secretary, whose 
+composition and mandate will be specified in a MAIEA decree5. 
+
+16. By Ministerial Decree, dated 05 October 2017, all new projects/programmes under the MoA are 
+under a unique Project Coordination Department (CCP). The CCP mandate are to ensure: (i) the alignment 
+of agricultural projects/programs with national and regional policies and strategies; (ii) the development 
+of synergies and collaborative frameworks between agricultural projects/programs funded  by different 
+donors; (iv) monitoring the progress of projects / programs by updating the MoA’s indicators dashboard; 
+(vi) knowledge management and communication on the projects and programs achievements ; (viii) the 
+organization of capacity building activities and exchange between the different projects/programs; (xi) 
+the recruitment of the (external) financial auditor in accordance with the provisions of the Financing 
+Agreement and monitoring of the implementation of the recommendations; and (x) support for the 
+release of counterpart funds for sector projects/programs.  
+
+17. The day to day project management and coordination will be under the responsibility of a 
+Technical and Fiduciary Coordination Unit (UCTF).  As agreed with MAIEA, the UCTF will be the 
+implementation unit for all new World Bank funded operations in the agriculture sector. Reporting to the 
+CCP, the UTCF main functions of this unit are to: (i) coordinate all projects of the agricultural portfolio of 
+the Bank and their relations with the technical departments of the Ministry; (ii) the preparation and 
+signing of the various memoranda of understanding, agreements and contracts linking the project (s) to 
+the various partners and service providers; (iii) Financial Management (FM) and procurement activities in 
+accordance with the provisions of the Credit Agreement between IDA and the Government and the 
+procurement and FM guidelines;  (v) Terms of reference preparation, recruitment and management of 
+support staff and technical units of Bank / IDA (UTPs) agricultural projects; (vi) preparation of annual work 
+plans , budgets and progress reports and presentation of these documents to the PSC in relation with the 
+CCP; (vii) daily liaison with all national partners, including communication on agricultural projects / 
+programs funded by the World Bank; and (viii) the organization of supervision missions, mid-term and 
+final evaluations of WB agricultural program projects. 
+
+18. The UCTF will be headed by a National Programme Coordinator. It will include the following staff: 
+an Internal Auditor, an Administrative and Financial Officer, an Accountant, one Procurement Officer, an 
+Environmental Specialist, Gender and Social Development Specialist, a Monitoring and Evaluation and 
+knowledge management Officer, and support staff. 
+
+19. At field level, a Regional Technical Support Unit (RTSU) will be set up in Sarh for the field activities 
+coordination and follow up. The TSU will be reporting to the UTCF.  The TSU will be a light structure that 
+will work closely with the regional rural development delegations. The TSU mandates are to: (i) ensure 
+and support the project activities implementation within its coverage area; (ii) providing technical and 
+management support to project beneficiaries; and (iii) ensuring the compliance of the various subprojects 
+to the operational rules and procedures. 
+
+ 
+ .    
+
+                                                           
+5 See MAIEA Minister Decree n°91/PR/PM/MAIEA/SE//SG/2017 – of 5 October 2017. 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 9 of 18  
+
+ 
+
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The proposed Project will primarily target the Sudanian Agro-Ecological Zone of Chad, considered as high 
+potential for agro-pastoral activities, but where the risk of food and nutritional security and rural poverty 
+are of serious concern. The project's activities will be implemented in three (03) administrative regions, 
+namely Salamat, Middle Chari and Mandoul located in the south-eastern pole of Chad. The project areas are 
+home to about 1.55 million people, representing over 11% of the total population. Targeted regions are 
+further characterized by high poverty rates of 70.9% in Mandoul, 61.4% in Middle Chari, and 48.4% in 
+Salamat. In these communities, the average rate of fertility is estimated at about 6.5. In terms of natural and 
+human resources, the targeted areas have significant agricultural potential, representing the Sudanese AEZ 
+with annual average rainfall ranging between 800 to 1250 mm. However, the rainfall is highly variable in 
+both inter-annual quantitates and in geographic distribution when moving from the south towards the 
+north. Wooded Sudanian savanna constitutes the main vegetation in these areas, while relatively poor 
+leached tropical ferruginous soils (on hills) and richer floodplains soils favorable to the culture of rice and all-
+season vegetable production dominate the main soil types. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Demba Balde, Social Safeguards Specialist 
+Cheikh A. T. Sagna, Social Safeguards Specialist 
+Emeran Serge M. Menang Evouna, Environmental Safeguards Specialist 
+Bougadare Kone, Environmental Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The Project is classified as category B project.   
+As part of the project’s aim of improving agricultural 
+productivity, the project will support the use of 
+improved agricultural inputs including fertilizers, 
+improved seeds, irrigation agriculture and pesticides 
+that will require environmental assessment to 
+ensure potential adverse effects are mitigated.  The 
+project is expected to be beneficial to the 
+environment given the aim is to ensure the impact 
+of climate change is mitigated, adaptation measures 
+implemented and resilience is built in to the 
+production landscape.  The project will ensure that 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 10 of 18  
+
+ 
+
+modern efficient utilization of pesticide and fertilizer 
+will be introduced and farmers trained in their 
+applications that will have a positive impact on the 
+environment compared to the status quo. Further, a 
+strict control mechanism will be put in place to avoid 
+potential adverse impacts such as pollution from 
+agricultural runoffs. An Environmental and Social 
+Management Framework (ESMF) will be prepared by 
+the borrower given that the exact detailed footprint 
+types and locations of project activities and their 
+respective sites have not yet been identified. The 
+ESMF will be consulted upon and publicly disclosed, 
+both in-country and at the InfoShop before 
+appraisal.  In addition, for subprojects that are 
+expected to be identified during preparation, an 
+ESIA will be prepared by appraisal.   
+
+Natural Habitats OP/BP 4.04 No 
+The project is not expected to intervene in any 
+critically natural habitats 
+
+Forests OP/BP 4.36 No The project will not support forest exploitation . 
+
+Pest Management OP 4.09 Yes 
+
+OP 4.09 is triggered based on project’ s activities to 
+increase agricultural productivity which is expected 
+to result in increased use of agrochemicals, such as 
+pesticides. Any use of pesticides will be justified 
+under the Integrated Pest Management (IPM) 
+approach that will be promoted by the project. An 
+Integrated Pest Management Plan (IPMP) will be 
+developed, consulted upon by the borrower and 
+publicly disclosed thereafter, both in-country and at 
+the InfoShop before appraisal. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+Due to potential impacts on Physical Cultural 
+Resources associated with civil works, the ESMF will 
+include provisions of “Chance Finds” approach to 
+ensure that these aspects will be taken into account 
+in ESIAs/EMPs to be developed under the ESMF. 
+
+Indigenous Peoples OP/BP 4.10 No 
+There are no Indigenous Peoples People, as per the 
+policy definition,  in the project area. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+This policy is triggered because the project 
+investments may support interventions that could 
+entail land taking or limiting access to land and other 
+resources. Since details of the subproject footprints 
+are still unknown at this very juncture, an RPF will be 
+developed by the borrower, consulted upon and 
+publicly disclosed, both in-country and at the 
+InfoShop, before appraisal. Where and when 
+warranted Full Resettlement Action Plans (FRAPs) or 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 11 of 18  
+
+ 
+
+Abbreviated Resettlement Action Plans (ARAPs) will 
+be prepared, reviewed, cleared and disclosed. 
+
+Safety of Dams OP/BP 4.37 No The project is not building dam (big and small). 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The Project is not intervening on International 
+Waterways. 
+
+Projects in Disputed Areas OP/BP 7.60 No Non applicable 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The environmental and social impacts and risks of the project activities are expected to be moderate to low, mostly 
+site-specific and easily manageable to an acceptable level, typical of Category B projects. The potential negative 
+environmental and social negative impacts and risks of the proposed project are associated with the implementation 
+of Component 1 an 2, which are designed to support various activities for strengthening the agriculture research 
+system and productive and resilient technology dissemination. These include: soil erosion due to agricultural 
+developments; the spread of waterborne disease vectors and health risks associated with pesticide use, risks of 
+increased prevalence of HIV/AIDS and other SCDs due to foreign workers on construction sites, the risk of pollution 
+and environmental degradation byfertilizers and pesticides, reduced vegetation and pasture due to agricultural 
+developments, etc. At the social level, though the project does not anticipate to physically display people, some of its 
+proposed activities may require acquisition of land plots or restriction of access to productive natural resources, and/ 
+or loss of incomes and livelihood resources without proper precautionary measures taken on time, could potentially 
+lead to the involuntary resettlement of project affected persons (PAP). 
+ 
+The proposed project triggers are OP/BP 4.01 (Environmental Assessment), OP 4.09 (Pest Management),  OP/BP 4.11 
+(Physical Cultural Resources); and OP/BP 4.12 (Involuntary Resettlement). In conformity with the World Bank' 
+requirements and the Government's Environmental Impact Assessment legislation, an ESMF was prepared, amply 
+consulted upon, along with a RPF, and a PMP. These were approved by the Ministry of Environment through a 
+national validation workshop, cleared by the Bank and publicly disclosed both in-country and at the World Bank 
+website prior to appraisal. 
+ 
+No large-scale or irreversible adverse impacts and risks haves been identified during the participatory ESMF, IPMP and 
+RPF analysis conducted. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+No adverse long term impact and risk haves been identified during the EA process. Instead, the project is expected to 
+deliver significant environmental and social benefits to hundred thousands of Chadians’ beneficiaries whose main 
+livelihoods depend largely on agriculture crops and value. The adoption of improved technologies, the sustainable 
+management practices of land and water as part of the formulation and implementation of climate-smart agriculture 
+plans are expected to increase the productive capital of the land and the net carbon stock; and to increase the 
+resilience of agro-sylvo-pastoral systems to climate risks. However, project activities to increase agricultural 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 12 of 18  
+
+ 
+
+productivity could potentially induce indirect, but manageable impacts associated with increased use of 
+agrochemicals, such as pesticides. These issues are addressed in the Pests and Pesticides Management Plan (PMP). 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+N/A 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The proposed project will be implemented by an new PIU under the Ministry of Agriculture, Irrigation and Agriculture 
+Equipment. The Ministry has some experience in implementing the Bank’s safeguards policies as it has implemented 
+the Agriculture Support Production Project (P126576). The Government of Chad (GoC) has completed the preparation 
+of an ESMF, an PMP and a RPF to address issues related to the safeguard policies triggered. 
+ 
+The ESMF outlines an environmental and social screening process for future sub-projects to ensure that they are 
+environmentally sound and socially equitable, sustainably implementable, and in line with GoC and World Bank 
+operational safeguards policies and guidelines on environmental and social impacts and risks management. The 
+implementation cost of the ESMF is estimated at FCFA 502 million, is proposed to be included the overall project 
+budget. 
+ 
+A Pests and Pesticide Management Plan (IPMP) has been prepared based on project activities to increase agricultural 
+productivity which is expected to result in increased use of agrochemicals, such as pesticides. The PMP action plan aim 
+to ensure safe pests and pesticides management. It includes: (i) promoting the use of alternative pest management 
+strategies in the project areas; (ii) strengthening of controls during importation of phytosanitary products; (iii) capacity 
+building of key actors on the rational use of pesticides; (iv) sensitization of producers on good pesticide management 
+practices (transport, storage, applying, safety measures);  (v) environmental monitoring of the physico-chemical 
+quality of water resources (groundwater and ponds); (vi) health monitoring of pesticides users and management of 
+empty containers; and (v) a coherent budget of FCFA 328.5 million proposed to be included in the overall project 
+budget. 
+ 
+The RPF sets forth the basic principles and procedures to be followed once the physical footprints of project activities 
+are known in details to properly mitigate any potential adverse social impacts (i.e. preparation of site specific 
+resettlement action plan-RAP, etc.). The RPF includes specifics such as valuation of assets, public consultation and 
+participation, institutional arrangement, capacity building, monitoring and evaluation, grievance redress mechanism, 
+budget and source of financing. CFA 192.5 million are proposed to support resettlement (RAP preparation, 
+sensitization and training of key stakeholders), and to be included in the overall project cost. These do not include 
+compensation costs which will be borne by the Government 
+ 
+A 2-person team of Social and Environmental Safeguards Specialists (SESS) will be established at the PIU level to 
+adequately handle the implementation of social and environmental recommendations. The SESS will work in tandem 
+with the WBG safeguards specialists to ensure due compliance with core safeguards policies requirements. 
+ 
+All bidding documents for civil works will have embedded environmental and social clauses (ESC), in order to enable 
+contractors to follow up on environmental and social due diligence and to mitigate the anticipated negative risks and 
+impacts. Depending of the type, scope/nature and size of construction, a supervising engineer (Bureau de contrôle) 
+will be hired by the project to oversee the construction works (including implementation of environmental and social 
+measures by the constructor) on behalf of the PIU. For small size construction type, the PIU will rely on the 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 13 of 18  
+
+ 
+
+deconcentrated technical services like Génie Rural, Regional Directorate for Environmental, as well as local level Socio-
+environmental Specialist, etc. to ensure due diligence on safeguards as described in the ESC. Regular Environmental 
+Assessment and Pollution and Nuisance Control Directorate (DEELCPN) patrols will inspect the construction sites if the 
+construction activities are in compliance with the approved site specific safeguards documents.  
+ 
+The Borrower has some experience with the World Bank Safeguards policies’ requirements through several past and 
+ongoing Bank funded projects. The proposed project will build on this experience and the 3 standalone safeguards 
+instruments (ESMF, IPMP & RPF) include provisions to further strengthen the capacity of the various stakeholders. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The key stakeholders identified are:  
+• The Steering Committee (SC) : The Steering Committee will monitor the registry and budgeting of the 
+environmental and social due diligence from the Work Plan and Annual Budget (WPAB) ; 
+• The Project Management Unit (PMU):  The PMU will ensure that environmental and social aspects and issues 
+are taken into account in the implementation of project activities. The PMU should benefit from capacity building in 
+the implementation of the project;  
+• The Environmental Assessment and Pollution and Nuisance Control Directorate (DEELCPN): it will review and 
+approve the environmental classification of sub-projects and also approve  the Environmental and Social Impact 
+Notices (ESIN). It will also participate in the external monitoring; 
+• The research institutions will provide technical manuals of research findings and ecological monitoring of 
+some activities. They will also participate in the preparation of manual of good agricultural practices. 
+• The National Agency for Rural Development Support (ANADER) will be responsible for extension of good 
+agricultural and environmental practices in the area; 
+• The Department of Fisheries and Aquaculture Development will take care of the environmental and fish 
+production monitoring; 
+• Decentralized Technical Services (DTS or « STD » in French) : The STDs are composed by the Regional an 
+Departmental Directorates of Ministries in charge of agriculture, of animal resources, of Health, of Environment. These 
+regional and departmental directorates of the project's intervention zones will be associated to all activities 
+implemented in their range and zones of action during and after the Project;  
+• Municipalities :They will participate in environmental and social monitoring through their municipal technical 
+services ; 
+• The Regional Committees of Actions (CRA), the local Committees of Actions (CLA), the Departmental 
+Committees of Actions (CDA), the National Council of Concertation of Rural Producers of Chad (CNCPRT), Asssociations 
+of Farmers, Breeders and Fishermen. All these structures will also be involved in the implementation of the ESMF of 
+the Project (identification of sub-projects, screening, etc.); 
+• Construction companies :  They will be responsible for the implementation of the Site-ESMFs and the drafting 
+of implementation reports of these ESMFs through their Environmental Expert ; 
+• Owner’s Engineer : The Environmental Expert within their organization will be responsible for the day-to-day 
+monitoring of the implementation of the site-ESMF and the drafting of an environmental and social monitoring report 
+to submit to the Project Management Unit (PMU); 
+• NGOs: In addition to social mobilization, they will participate in the sensitization of populations and the 
+monitoring of the implementation of the ESMF interpellation of the principal actors of the Project. 
+  
+Throughout the entire process of project preparation, transparent and engaging stakeholder participation 
+consultations were organized in the project intervention areas. The key concerns raised by the local stakeholders are 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 14 of 18  
+
+ 
+
+related to land degradation issues that affect their livelihood, mainly the reduction of arable lands due to water 
+erosion and silting of lowlands, lack of access to finance, and need for capacity building to improve agricultural 
+practices. They have been incorporated in the project design (protection of watersheds from erosion and secure 
+irrigation potential, Farmers 
+Field School program, matching grant facility, etc.). Since stakeholder consultation and participation is an iterative 
+process, it will be pursued and sustained throughout the project lifespan. 
+As part of the ESMF, the IPMP and the RPF, in addition to the series of intensive local stakeholder meetings (open 
+and/or focus groups discussions), a national stakeholders’ workshop was organized by the Client on to share the 
+results of the safeguards instruments, mainstream ownership and seek inputs from the stakeholders. The 3 
+standalone safeguards instruments, approved by the DEELCPN as result of this national stakeholders’ workshop, have 
+been submitted to the Bank for final approval. They have been disclosed both in-country (Feb 23, 2017) and at the 
+InfoShop (Feb. 22, 2018) prior to appraisal. The ESMF describes a comprehensive consultation and participation 
+mechanism and disclosure during subprojects 
+preparation. 
+ 
+ 
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission for disclosure 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+19-Jan-2018 22-Feb-2018  
+
+   
+
+"In country" Disclosure   
+
+   Chad 
+  23-Feb-2018 
+
+Comments 
+ 
+
+   
+OPS_RA_D ISCL OSURE_T ABLE  
+
+ 
+
+Resettlement Action Plan/Framework/Policy Process 
+
+   
+
+Date of receipt by the Bank Date of submission for disclosure  
+
+19-Jan-2018 22-Feb-2018  
+
+   
+
+"In country" Disclosure   
+   Chad 
+  23-Feb-2018 
+
+Comments 
+ 
+
+     
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 15 of 18  
+
+ 
+
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission for disclosure 
+
+Yes 19-Jan-2018 22-Feb-2018 
+
+   
+"In country" Disclosure   
+   Chad 
+ 23-Feb-2018 
+ 
+
+Comments 
+ 
+
+  
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+ 
+ 
+ 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting)  
+
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+Yes   
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report? 
+Yes   
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan? 
+Yes    
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+Yes   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+Yes   
+
+OPS_ PCR_C OM P_TA BLE  
+
+ 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 16 of 18  
+
+ 
+
+OP/BP 4.11 - Physical Cultural Resources  
+Does the EA include adequate measures related to cultural property? 
+Yes   
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property? 
+Yes    
+
+OPS_IR_ CO MP_TA BLE  
+
+ 
+
+OP/BP 4.12 - Involuntary Resettlement 
+
+ 
+ 
+
+Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared? 
+Yes  
+ 
+
+ 
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+Yes  
+ 
+
+ 
+
+ 
+
+ 
+
+      
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank for disclosure? 
+Yes   
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+Yes  
+
+ 
+ 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes 
+
+  
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes 
+
+  
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes 
+
+  
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes 
+
+ 
+ 
+ 
+
+CONTACT POINT 
+
+ 
+
+  World Bank 
+
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 17 of 18  
+
+ 
+
+ 
+
+Amadou Ba 
+Senior Agriculture Economist  
+
+ 
+
+Ziva Razafintsalama 
+Senior Agriculture Economist 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Republic of Chad 
+
+ 
+
+ 
+
+ 
+ 
+
+  Implementing Agencies 
+
+ 
+
+Ministry of Agriculture, Irrgation and Equipment 
+
+Abdelkhadir Kiboro 
+
+General Secretary, MAIEA 
+
+bordaba2001@yahoo.com 
+ 
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Amadou Ba 
+Ziva Razafintsalama 
+
+ 
+
+  Approved By 
+
+Safeguards Advisor:   
+
+Practice Manager/Manager: Marianne Grosclaude 28-Feb-2018 
+
+Country Director: Francois Nankobogo 02-Mar-2018 
+ 
+
+    
+
+http://www.worldbank.org/projects
+
+
+ 
+
+The World Bank  
+Climate Resilient Agriculture and Productivity Enhancement Project (P162956) 
+
+ 
+
+ 
+
+  
+Jan 04, 2018 Page 18 of 18  
+
+ 
+
+ 
+ 
+ 
+
+
+

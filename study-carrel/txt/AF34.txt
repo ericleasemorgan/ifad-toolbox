@@ -1,0 +1,5945 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Langue : ANGLAIS
+
+
+ 
+
+ 
+ 
+
+AFRICAN DEVELOPMENT BANK GROUP 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+PROJECT:  PROJECT TO STRENGTHEN RESILIENCE OF RURAL 
+
+COMMUNITIES TO FOOD AND NUTRITION INSECURITY IN 
+
+NIGER (PRECIS) 
+
+ 
+
+COUNTRY:  NIGER 
+ 
+
+APPRAISAL REPORT  
+
+Date: October 2020 
+
+ 
+
+ 
+
+ 
+
+Project 
+
+Team  
+
+Team Leader  C.M. ABDALLAHI, Senior Agricultural Economist 
+CONE/RDGW2/A
+
+HAI-W 
+7507 
+
+Team Members  
+
+H. A. TINE, Country Programme Officer CONE/RDGW 7505 
+
+SARR S. ROKHAYATOU, Procurement Officer SNFI.1/COGN 7413 
+
+D. BAMBO, Disbursement Officer FIFC.3 4617 
+
+F.A. TOURE, Financial Management Specialist SNFI.2 6105 
+
+A. BELLA-CORBIN, Environmental and Social Safeguards 
+
+Specialist 
+SNSC 4883 
+
+B. GRATIEN, Environmental and Social Safeguards 
+
+Specialist 
+SNSC 7509 
+
+H. JAMILA, Operations Analyst in charge of M&E RDGW 2981 
+
+C. KEMAYOU EMILE, Principal Political Economist RDGW.0 1702 
+
+S. TAIBATOU, Senior Labour Economist RDGW.2 4369 
+
+X. BOULENGER, Rural Engineering Consultant RDGW.2 5856 
+
+T. OUEDRAOGUO, Gender Consultant  RDGW.2 3383 
+
+M.I. MAGHA, Rural Development Consultant RDGW.2 xxxxx 
+
+Division Manager T. MOULDI RDGW.2 2235 
+
+Country Manager K. DIA NOURIDINE CONE/RDGW 7501 
+
+Sector Director  M. FREGENE AHAI 5586 
+
+Director-General M.L. AKIN-OLUGBADE RDGW 4018 
+
+  
+
+Peer 
+
+Review  
+
+Aminata SOW, Rural Infrastructure Engineer RDGC.2 3888 
+
+Hatem FELLAH, Principal Agricultural Economist RDGW.2/COSN 6578 
+
+Aime BICABA, Irrigation Engineer RDGW.2 4675 
+
+Ibro MANOMI, Senior Agricultural Economist RDGW.2 7467 
+
+
+
+ 
+
+ 
+
+ 
+
+AFRICAN DEVELOPMENT BANK GROUP 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+REPUBLIC OF NIGER 
+
+ 
+
+ 
+
+PROJECT TO STRENGTHEN RESILIENCE OF RURAL 
+
+COMMUNITIES TO FOOD AND NUTRITION INSECURITY 
+
+IN NIGER (PRECIS) 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+APPRAISAL REPORT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RDGW/AHAI DEPARTMENTS 
+ 
+
+October 2020 
+
+ 
+          Translated document 
+
+ 
+
+ 
+
+P
+u
+
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+
+th
+o
+ri
+
+z
+e
+d
+ 
+
+ 
+ 
+
+ 
+P
+
+u
+b
+li
+
+c
+ D
+
+is
+c
+lo
+
+su
+re
+
+ A
+u
+th
+
+o
+ri
+
+z
+e
+d
+ 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+TABLE OF CONTENTS ` 
+ 
+
+Currency Equivalents, Fiscal Year, Weights and Measures, Abbreviations and Acronyms, Project 
+
+Information, Project Summary, Results-Based Logical Framework, Project Implementation Schedule 
+     ……  i to xi 
+
+ 
+
+I – Strategic Thrust and Rationale ...................................................................................................1 
+
+1.1. Project Linkages with Country Strategy and Objectives .......................................................1 
+
+1.2. Rationale for Bank Intervention ...........................................................................................1 
+
+1.3. Aid Coordination .................................................................................................................2 
+
+ 
+
+II – Project Description ....................................................................................................................3 
+
+2.1. Project Components .............................................................................................................3 
+
+2.2. Technical Solutions Adopted and Alternatives Considered ...................................................4 
+
+2.3. Project Type ........................................................................................................................5 
+
+2.4. Project Cost and Financing Arrangements ............................................................................5 
+
+2.5. Project Area and Beneficiaries .............................................................................................7 
+
+2.6. Participatory Approach to Project Identification, Design and Implementation ......................8 
+2.7. Consideration of Bank Group Experience and Lessons Learned in Project Design ................8 
+
+2.8. Key Performance Indicators .................................................................................................9 
+
+ 
+
+III – Project Feasibility ................................................................................................................... 10 
+
+3.1. Economic and Financial Performance ................................................................................ 10 
+
+3.2. Environmental and Social Impact ...................................................................................... 11 
+
+ 
+
+IV – Implementation ....................................................................................................................... 13 
+
+4.1. Implementation Arrangements ........................................................................................... 13 
+
+4.2. Monitoring ........................................................................................................................ 16 
+
+4.3. Governance ....................................................................................................................... 17 
+
+4.4. Sustainability ..................................................................................................................... 17 
+
+4.5. Risk Management .............................................................................................................. 18 
+
+4.6. Knowledge Building .......................................................................................................... 19 
+
+ 
+
+V – Legal Framework ..................................................................................................................... 19 
+
+5.1. Legal Instruments .............................................................................................................. 19 
+
+5.2. Conditions Associated with the Bank's and the Fund's Intervention .................................... 19 
+
+5.3. Compliance with Bank Policies ......................................................................................... 22 
+
+ 
+
+VI – Recommendation .................................................................................................................... 22 
+
+ 
+
+Annex I. Comparative Socio-Economic Indicators of Niger 
+Annex II. Table of AfDB Portfolio in Niger 
+
+Annex III. Drivers of Fragility and Recommendations for Strengthening Resilience 
+
+Annex IV. Map of Project Area  
+Annex V. Reasons for requesting a waiver of the Government's contribution (excluding tax 
+
+exemption) of less than 10% of the total project cost. 
+
+Annex VI. Environmental and Social Compliance Note (ESCON 
+ 
+
+ 
+
+
+
+ 
+
+i 
+
+ 
+
+ 
+
+Currency Equivalents 
+
+(June 2020) 
+ 
+
+Currency Unit   =  CFAF 
+
+UA 1    =  CFAF 808.18 
+UA 1   =  USD 1.37 
+
+UA 1   =  EUR 1.23  
+
+ 
+ 
+
+Fiscal Year 
+
+1 January - 31 December 
+
+ 
+ 
+
+Weights and Measures 
+
+1 1 metric tonne  = 2204 pounds  
+1 kilogramme (kg) = 2.200 pounds 
+
+1 metre (m)  = 3.28 feet 
+
+1 millimetre (mm) = 0.03937 inch 
+1 kilometre (km) = 0.62 mile 
+
+1 hectare (ha)  = 2.471 acres 
+
+  
+
+
+
+ 
+
+ii 
+
+ 
+
+ 
+
+Abbreviations and Acronyms  
+
+ 
+
+ 
+
+ADF  : African Development Fund 
+
+ADL  : Local Development Officer 
+
+AfDB  : African Development Bank 
+
+BAGRI  : Banque agricole du Niger (Agricultural Bank of Niger) 
+
+BDs  : bidding documents 
+
+CENRAT : National Representation and Technical Assistance Unit 
+
+CES  : water and soil conservation 
+
+CSP  : Country Strategy Paper 
+
+ERR  : economic rate of return 
+
+ESMF  : Environmental and Social Management Framework 
+
+ESMP : Environmental and Social Management Plan 
+
+FDS  : final design study 
+
+GCF  : Green Climate Fund 
+
+GEF  : Global Environment Facility 
+
+HALCIA : Supreme Authority for Combating Corruption and Related Offences 
+
+HIMO  : labour-intensive 
+
+IFAD  : International Fund for Agricultural Development 
+
+IRR  : internal rate of return 
+
+MAE  : Ministry of Agriculture and Livestock  
+
+MER  : rural micro-enterprises 
+
+NGO  : non-governmental organisation 
+
+NPV  : net present value 
+
+OFID  : OPEC Fund for International Development 
+
+PDE  : Economic Development Pole 
+
+PMERSA : Water Mobilization Project to Enhance Food Security in the Maradi, Tahoua and 
+
+ Zinder Regions 
+
+PRECIS : Project to Strengthen Resilience of Rural Communities to Food and Nutrition 
+
+ Insecurity in Niger 
+
+ProDAF : Family Farming Development Programme 
+
+RPMU  : Regional Project Management Unit 
+
+RYEs  : Rural Young Enterprises  
+
+SDE  : Enterprise Development Service 
+
+STC  : Centralised Technical Services 
+
+STD  : Devolved Technical Services 
+
+TFPs  : technical and financial partners 
+
+TSF  : Transition Support Facility 
+
+UA M.  : million units of account 
+
+UA  : unit of account 
+
+ 
+
+  
+
+
+
+ 
+
+iii 
+
+ 
+
+Project Information 
+
+ 
+
+ 
+
+Client Information 
+
+ 
+
+BORROWER   :   Republic of Niger 
+
+EXECUTING AGENCY  :  Ministry of Agriculture and Livestock (MAE) 
+
+ 
+
+Financing Plan 
+
+Source  Amount Instrument 
+
+   
+
+TSF  UA 25.859 million Grant 
+
+IFAD  UA 70.803 million Loan and Grant 
+
+OFID  UA 11.381 million Loan 
+
+GEF  UA 4.582 million Grant 
+
+GCF   UA 7.538 million Loan and Grant 
+
+BAGRI  UA 0.739 million Private Sector  
+
+Government  UA 2.614 million Contribution 
+
+Beneficiaries  UA 4.286 million Grant 
+
+TOTAL COST  UA 147.802 million  
+
+ 
+
+ 
+
+ 
+
+Key TSF Financing Information  
+
+ 
+
+TSF grant currency  UA 
+
+IRR (baseline scenario) 
+
+ERR (baseline scenario) 
+
+NPV  
+
+ 
+
+17.3 % 
+
+18.8 % 
+
+CFAF 59.96 billion  
+
+ 
+
+Timeframe – Main Milestones (Expected) 
+
+  
+
+Concept Note Approval 20 December2019 
+
+Project Approval 8 October 2020 
+
+Effectiveness January 2021 
+
+Grant Closure 31 December 2025 
+
+___________________________________________________________________________ 
+
+
+
+ 
+
+iv 
+
+ 
+
+Executive Summary 
+
+ 
+
+ 
+
+Project overview: The Project to Strengthen Resilience of Rural Communities to Food and 
+
+Nutrition Insecurity in Niger (PRECIS) aims to sustainably improve the food and nutrition 
+
+security of rural households and strengthen their resilience to climatic and environmental 
+
+shocks. It will support small-scale producers by removing production and marketing constraints 
+
+in the cereal, market gardening, poultry and small livestock production sub-sectors, through 
+
+two technical components that will have the following effects: (i) diversify production, increase 
+
+yields and the capacity to adapt to external shocks, particularly climatic shocks, as well as 
+
+improve the nutrition security of rural producers (including women and young people); and (ii) 
+
+enhance the value of agro-sylvo-pastoral production surpluses through increased marketing on 
+
+semi-wholesale markets and the promotion of agricultural entrepreneurship with sustainable 
+
+integration into the local, regional and national economy.  
+
+The main achievements expected from PRECIS include: (i) increased income for some 210,000 
+
+households, or approximately 1,470,000 persons; (ii) the building of 117 water harnessing 
+
+structures; (iii) the creation/strengthening of 30,040 Rural Young Enterprises (RYEs), 
+
+including at least 30% owned by women; (iv) direct support for 35,000 households in the form 
+
+of nutrition education, benefiting 245,000 persons; (v) the opening of 660 literacy centres to 
+
+build the capacity of 33,000 household members; (vi) the strengthening/consolidation of 2,080 
+
+producer organisations/groups to improve their technical and management capacity; (vii) the 
+
+creation/consolidation of approximately 45,060 direct jobs in rural areas; (viii) the training of 
+
+at least 33,000 beneficiaries in the various themes related to climate change adaptation and the 
+
+management and promotion of micro-enterprises; (ix) the construction of 9 semi-wholesale 
+
+markets and 18 operational collection centres; (x) the setting up of 10 operational farmers' 
+
+houses offering input and production equipment supply services to family farmers; (xi) the 
+
+rehabilitation of 348 km of roads linking production areas to collection centres and semi-
+
+wholesale markets; and (xii) enhancement, in the short and long term, of the resilience of 
+
+communities in the target areas enabling them to cope with the effects of COVID-19 and other 
+
+natural and health shocks in the future.  
+
+The overall programme will be implemented over a six-year period for a total sum of UA 147.80 
+
+million (Bank financing will cover a five-year period). The Bank's contribution to the project 
+
+financing will amount to UA 25.859 million, provided in the form of a grant from the Transition 
+
+Support Facility (TSF). More specifically, the Bank's financing will be earmarked for the "water 
+
+harnessing" and "agricultural entrepreneurship" components and will be incorporated into the 
+
+operational mechanism of the IFAD-funded Family Farming Development Programme 
+
+(ProDAF), which will be strengthened.  
+
+In the context of the response to post-COVID-19, the project plans to carry out a short- and 
+
+medium-term emergency programme to help people affected by the disease who were obliged 
+
+to deplete their stocks and savings. This operation will restore the productive base of farmers 
+
+in the project area who have been severely hit by the pandemic.  
+
+Needs assessment: The size and fertility of farmland in the project area is steadily declining 
+
+due to lack of water, loss of vegetation cover, arid climate, erosion and increasing population 
+
+pressure. Surface water resources are severely affected by recurrent and chronic droughts. 
+
+Moreover, Niger is facing a situation of growing insecurity, characterized by terrorist attacks 
+
+on the borders with Nigeria and Mali, aggravating the people’s vulnerability. The livelihood of 
+
+the population concerned by the project consists mainly of small-scale agriculture and family 
+
+livestock farming, which employ more than 85% of the workforce. Agriculture is the leading 
+
+
+
+ 
+
+v 
+
+ 
+
+sector in terms of economic activity in the region and in the country, accounting for the largest 
+
+contribution to GDP, estimated at 43.4% in 2018. However, the region has huge, but 
+
+inadequately exploited, resources in the agro-pastoral sector. The under-exploitation of these 
+
+resources leaves the rural sector vulnerable to the vagaries of climate, which adversely impact 
+
+agriculture by causing the degradation of natural resources. As a result, performance in terms 
+
+of output and productivity is poor and food insecurity is a virtually permanent problem. With 
+
+an estimated 200,000 hectares of land lost to desert encroachment annually, the environmental 
+
+situation of the project is all the more precarious due to the magnitude of land degradation, poor 
+
+preservation of biodiversity, and difficulties in ensuring the sustainable management of land 
+
+and water resources. This project aims to sustainably improve the food and nutrition security 
+
+of rural households in the targeted areas and to strengthen their resilience to climatic shocks 
+
+and natural resource degradation. It will work towards the emergence of development poles in 
+
+four regions of the country, which are home to 12.9 million inhabitants, representing 60.2% of 
+
+the national population.  
+
+Value added for the African Development Bank: For more than 20 years, the Bank has 
+
+accumulated special experience in Niger in the area of water harnessing and natural resource 
+
+protection. It has financed about a dozen studies and projects (PMET Tahoua, PADAZ Zinder, 
+
+PADL Diffa, PVDT Dosso-Tillaberi, PMERSA-MTZ, PROMOVARE, PDIPC, P2RS, etc.) for 
+
+specific regions of the country, and which have improved the living conditions of men and 
+
+women in rural areas, while developing technical and organisational approaches tailored to 
+
+local contexts. The Bank has become a privileged partner in this sector thanks to its success in 
+
+water control and harnessing. On the strength of this experience and given the numerous 
+
+challenges that Niger still faces (climatic, economic, security, etc.), the Bank must continue its 
+
+efforts in the areas of water harnessing, women's empowerment and support for agricultural 
+
+entrepreneurship. The Bank's operations will help reduce poverty, promote youth and women's 
+
+employment, strengthen adaptation to climate change and increase the resilience of vulnerable 
+
+segments of the population to food and nutrition insecurity. By co-financing PRECIS, the Bank, 
+
+in full compliance with its strategic guidelines, will strengthen the partnerships already 
+
+established with other TFPs and contribute significantly to the mobilization of financial 
+
+resources for a wide-ranging programme. 
+
+Knowledge building: PRECIS will contribute to the training and the consolidation of the 
+
+know-how of producers. With regard to resilience to climate change, the project will develop 
+
+and disseminate innovative technologies in agriculture and small-scale livestock farming, for 
+
+both production and processing activities, while enhancing local know-how and skills in the 
+
+Sahelian environment. In an inclusive manner, it will enable young people and women to 
+
+develop technical and entrepreneurial capacities by settling on land with modern infrastructure 
+
+and means of exploitation and will promote the development of para-agricultural activities 
+
+through supported rural micro-enterprises. Furthermore, it will support the water harnessing at 
+
+regional level and provide expertise in terms of irrigation techniques at the individual and local 
+
+levels, coupled with the judicious use of climate information. The project will help to build 
+
+women's leadership capacity and strengthen their economic empowerment, as well as contribute 
+
+to the greater implementation of gender equality-promoting policies. The mechanisms for 
+
+disseminating and capitalizing on the project's outcomes and best practices, and the process of 
+
+generating endogenous value for the benefit of vulnerable groups through the development of 
+
+value chains will also contribute to knowledge building. 
+
+  
+
+
+
+ 
+
+vi 
+
+ 
+
+ 
+
+The project will be coordinated by the staff of the National Representation and Technical 
+
+Assistance Unit (CENRAT), which will benefit from skills transfer. Best practices in water 
+
+resource management, irrigation, agricultural extension, database management, dissemination 
+
+and use of climate information, youth entrepreneurship and environmental and social 
+
+safeguards will be capitalized on and disseminated, using various communication mechanisms 
+
+already set up under PRECIS (awareness-raising meetings, agricultural advisory services, 
+
+farmer field schools, etc.). 
+
+ 
+
+
+
+ 
+
+vii 
+
+ 
+
+PRECIS_Results-Based Logical Framework  
+ 
+
+ Project Name: Project to Strengthen Resilience of Rural Communities to Food and Nutrition Insecurity in Niger (PRECIS) 
+
+ Project Goal: Sustainably improve the food and nutrition security of rural households and strengthen their resilience to climate shocks and natural resource degradation. 
+
+RESULTS CHAINS  
+PERFORMANCE INDICATORS  MEANS OF 
+
+VERIFICATION 
+
+RISKS/MITIGATION  
+
+MEASURES  Indicator  Baseline * Target (2025) 
+
+IM
+P
+
+A
+C
+
+T
+ Improved food and nutrition security of the 
+
+people of Niger 
+
+- Prevalence of chronic malnutrition among under-five 
+
+children (% 
+ 
+
+- Prevalence of severe food insecurity in rural areas 
+
+ND (baseline study) 
+
+ 
+
+ 
+
+ND (baseline study) 
+
+ 
+
+% TBD (baseline study) 
+
+ 
+
+ 
+
+% TBD (baseline study) 
+
+ 
+
+INS periodic monitoring 
+
+reports and surveys 
+
+(EVIAM) 
+
+Risks 
+
+ 
+
+- Deterioration of security conditions. 
+
+- Severe climatic conditions that could lead to the 
+
+decapitalisation of the most vulnerable groups. 
+
+- Political stability in the run-up to the 2020 
+
+presidential elections. 
+
+- Risks of inter-community conflicts. 
+
+- Effects of COVID-19. 
+
+ 
+
+ 
+
+Mitigation measures 
+
+ 
+
+- Political commitment by the authorities and 
+
+support from regional actors and the international 
+
+community. 
+
+-Participation in political dialogue with the 
+
+Government alongside other TFPs. 
+
+- A delegation-of-work approach involving local 
+
+economic actors. 
+
+ - Planned actions for water mobilisation and 
+
+protection of productive capital. 
+
+- Special attention to vulnerable groups. 
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S
+
+  
+
+1. Improved production and agricultural 
+
+productivity in the project area. 
+
+1.1 Increase in the production of main foodcrops and cash 
+crops as a result of the project (tonnes) 
+
+ 
+
+P1: Millet production 
+
+P2: Sorghum production 
+
+P3: Cowpea production 
+
+P4: Peanut production 
+
+P5: Sesame production 
+
+ 
+
+1.2 Increase in crop yields (T/ha) as a result of the project 
+
+ 
+
+R1: Millet yield 
+
+R2: Sorghum yield 
+
+R3: Cowpea yield 
+
+R4: Peanut yield 
+
+R5: Sesame yield  
+
+ 
+ 
+ 
+
+P1: 120 
+
+P2: 130,000 
+
+P3: 400,000 
+
+P4: 120,000 
+
+P5: 66,000 
+
+ 
+ 
+ 
+
+ 
+
+R1: 0.5 
+
+R2: 0.4 
+
+R3: 0.375 
+
+R4: 0.5 
+
+R5: 0.45 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P1: 150,000 
+
+P2: 160,000 
+
+P3: 600,000 
+
+P4: 150,000 
+
+P5: 80,000 
+
+ 
+ 
+ 
+
+ 
+
+R1: 0.75  
+
+R2: 0.7 
+
+R3: 0.75 
+
+R4: 0.8 
+
+R5: 0.6 
+ 
+
+--Periodic reports and 
+
+project monitoring surveys 
+
+ 
+
+-Mid-Term Review Report 
+
+and Project Completion 
+
+Report 
+
+ 
+2. Young "profitable" and job-creating rural 
+enterprises are promoted. 
+
+ 
+
+2.1     Number of direct jobs created (% held by women) 
+
+2.2     Number of rural micro and small enterprises that 
+
+remain operational 3 years after their creation (% managed by 
+
+women  
+
+ND (baseline study) 
+
+ND (baseline study) 
+
+ 
+
+45,060 jobs 
+
+ 
+
+90% 
+
+
+
+ 
+
+viii 
+
+ 
+
+ Component A: Sustainable agricultural development and strengthening of the resilience of rural households  
+ 
+
+ 
+
+1.1: Access to water for family farmers (women 
+
+and young people) is improved 
+
+ 
+
+1.2: Irrigation farming areas and small-scale 
+
+irrigation schemes are implemented. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+1.3: The technical, organisational and institutional 
+
+capacities of family farms are strengthened. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.4: Resilient and innovative agricultural practices 
+
+are promoted and disseminated among individual 
+
+or organised producers. 
+
+ 
+
+1.1 Total surface area equipped for irrigation by the 
+project/number of beneficiaries (ha) 
+
+ 
+
+ 
+
+1.2.1 Number of structures by type built or rehabilitated 
+
+(number) 
+
+ 
+
+1.2.2. Irrigated area developed (ha)/number of people 
+
+ 
+ 
+
+ 
+
+1.3.1 % of farmers who have applied/adopted the technologies 
+
+that were taught (including women) 
+
+ 
+
+ 
+
+ 
+
+1.4.1. Number of people trained in sustainable production 
+
+practices and technologies 
+
+1.4.2 Number of rural producers/organisations supported 
+ 
+
+1.1  ND (baseline study) 
+
+ 
+
+ 
+ 
+
+1.2.1.   ND (baseline study) 
+
+ 
+
+ 
+
+1.2.2.   ND (baseline study) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3.1.  ND (baseline study) 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+1.4.1.  ND (baseline study) 
+
+ 
+ 
+
+1.4.2. ND (baseline study)      
+
+ 
+
+1.1            1,320  
+
+ 
+ 
+
+ 
+
+1.2.1. 3 mini dams; 106 flood diversion 
+
+weirs; 5 ponds; 66 DWS boreholes 
+ 
+
+ 
+
+1.2.2. 3,000 ha (30% of the 
+
+irrigable land potential)/5,000 
+
+producer households; 40,000 
+
+people) 
+
+ 
+
+1.3.1:  60 (50% of them women) 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+1.4.1.      33,000 producers 
+ 
+
+ 
+
+1.4.2          2,080 POs 
+
+- Progress reports of the 
+
+project 
+
+- Contracts signed with 
+
+enterprises and firms 
+
+- Reports of control 
+
+offices 
+
+- Bank supervision and the 
+
+Government's external 
+
+monitoring reports  
+
+-PRECIS monitoring 
+
+report 
+
+Risks 
+
+- Delays in the start-up and procurement process 
+
+- Socio-cultural barriers that do not always favour 
+
+women and young people's access to factors of 
+
+production 
+
+- Low capacity of construction companies 
+
+ 
+
+Mitigation measures  
+
+- Implementing agency already in place (ProDAF) 
+
+- FDS and BDs available 
+
+- Decentralisation of procurement at regional level 
+
+- Addition of a procurement assistant within 
+
+CENRAT (besides the manager) 
+
+- Proactive approach of the project 
+
+- Specific activities in favour of women and young 
+
+people 
+
+- Intelligent allotment to take into account the 
+
+capacities of the works companies. 
+
+ 
+
+ Component B: Sustainable agricultural development and strengthening the resilience of rural households 
+ 
+
+ 
+
+2.1: The integration of young people into rural 
+trades is improved/strengthened 
+
+ 
+
+ 
+ 
+
+ 
+
+2.2:  Actors and promoters have access to 
+
+information on the agricultural/rural 
+
+entrepreneurial environment 
+
+ 
+
+ 
+
+ 
+
+2.3: Access to finance and other financial 
+services for agricultural enterprises is ensured 
+
+ 
+
+ 
+2.4: system to strengthen and support rural 
+
+microenterprises is set up 
+
+ 
+
+ 
+
+ 
+
+2.5: Built/rehabilitated rural infrastructure is 
+
+managed in a sustainable manner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1.1 Number of young entrepreneurs supported and self-
+
+employed (% of women) 
+
+2.1.2. Number of functional agribusiness micro enterprises 
+
+ 
+ 
+
+2.2.1   Number of studies carried out 
+
+2.2.2   Number of young people trained in entrepreneurship 
+
+with the support of the project (% of women) 
+
+2.2.3 Number of users with access to business development 
+
+services (% of women) 
+
+ 
+ 
+
+2.3.1 Number of people trained/supported who received credit 
+
+(% of women) 
+
+2.3.2. Number of agribusiness micro enterprises financed for 
+
+the benefit of young people (by type) 
+
+ 
+
+2.4.1. Number of functional agricultural business incubators 
+
+2.4.2 Number of agricultural entrepreneurship mentoring 
+
+structures strengthened with project support  
+
+ 
+
+ 
+
+2.5.1.  Length of roads rehabilitated (km) 
+
+ 
+
+ 
+
+ 
+
+2..1.1 ND (baseline study) 
+
+ 
+
+ 
+
+2.1.2 ND (baseline study) 
+
+  
+
+2.2.1 ND (baseline study) 
+
+2.2.2: ND (baseline study) 
+
+ 
+
+ 
+
+2.2.3 ND (baseline study) 
+
+  
+
+23.1 ND (baseline study) 
+
+ 
+
+2.3.2 ND (baseline study) 
+
+ 
+
+ 
+
+2.4.1 ND (baseline study) 
+
+2.4.2 ND (baseline study) 
+
+ 
+
+ 
+
+ 
+
+2.5.1: ND (baseline study) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1: 400 (50% of them women) 
+
+ 
+
+1.2: 9.800 micro-enterprises 
+
+ 
+
+ 
+ 
+
+2.2.1    3 studies  
+
+2.2.2: 30,000 (33% of them women) 
+
+ 
+
+ 
+
+2.2.3    15,000 (40% of them women) 
+
+ 
+
+ 
+
+2.3.1     400 (30% of them women) 
+
+ 
+
+2.3.2     9,800 enterprises 
+
+ 
+
+2.4.1:     2 
+
+2.4.2:    5 
+
+ 
+
+  
+
+ 
+
+2.5.1     348 
+
+- Project progress reports 
+
+ 
+
+- Contracts signed with 
+
+companies and firms 
+
+ 
+
+- Reports from control 
+
+offices 
+
+ 
+
+- Bank supervision and 
+
+Government external 
+
+monitoring reports 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Risks 
+
+- Difficulties in selling market gardening produce 
+
+- Young people's mobility and/or disinterest in 
+
+promoting enterprises 
+
+ 
+
+Mitigation measures  
+
+- Activities to facilitate access to markets (opening 
+
+up, storage, organisation), support for farms in the 
+
+choice of crops and in marketing. 
+
+- A proactive project approach 
+
+- Specific actions in favour of women and young 
+
+people 
+
+- Support package including installation of young 
+
+people and strengthening of existing companies  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ix 
+
+ 
+
+O
+U
+
+T
+P
+
+U
+T
+
+S
+ 
+
+3.1 Monitoring and evaluation, knowledge 
+
+building and visibility ensured 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2 Operational project management 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+3.3 Environmental and social management 
+
+ensured  
+
+ 
+
+ 
+
+3.1.1 M&E baseline and manual developed and validated 
+
+3.1.2 Number and % of indicators regularly collected and 
+
+analysed 
+
+3.1.3 Number of progress reports validated/year 
+
+3.1.4 Communication strategy and plan developed and 
+
+implemented 
+
+3.1.5 Number of shared capitalisation reports 
+
+3.2.1 Number of procurement plans (PPs) developed and 
+
+complied with 
+
+3.2.2 Compliant disbursement rate 
+
+3.2.3 Number of audit reports produced and validated 
+
+3.2.4 Gender mainstreaming ensured 
+
+ 
+
+3.3.1 Number of ESIAs/ESMPs and RAPs implemented 
+
+ 
+
+3.1.1 available (T4 2020) 
+
+3.1.2 collected (T4 2020) 
+
+3.1.3  0% (early 2020) 
+
+3.1.4 Plan prepared (T1 
+
+2021) 
+
+3.1.5    0 
+
+3.2.1 PP prepared (2020) 
+
+3.2.2 0% (early 2020) 
+
+3.2.3 Firm Recruited (end-
+
+2020) 
+
+3.2.4 Promoted (end-2021) 
+
+ 
+
+3.1       0 
+
+ 
+
+3.1.1 M&E baseline and manual  
+
+3.1.2 TBD 
+
+3.1.3: 3 quarterly reports;1 annual rep. 
+
+13.4 Communication tools 
+
+disseminated.  
+
+3.1.5: 2 
+
+ 
+
+3.2.1: PP updated once/year  
+
+3.2.2: 20% annually on average  
+
+3.2.3: 5 audit reports validated 
+
+3.2.4: Gender disaggregated data 
+
+available 
+
+ 
+
+3.3.1: 10 ESIA/ESMP and 5 RAPs 
+
+ 
+
+ 
+
+PP 
+
+SAP system  
+
+Audit reports 
+
+Progress and M&E reports 
+
+Brochures, website, films  
+
+ 
+
+ 
+
+M&E audit reports and 
+
+Quarterly M&E reports  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Risks 
+
+- Implementation delays 
+
+ 
+
+Mitigation measures  
+
+- A majority of FDS and BDs are available 
+
+- Use of existing management entities 
+
+- Anticipation of "works" procurements 
+
+- Experience from previous projects 
+
+ 
+
+K
+E
+
+Y
+ A
+
+C
+T
+
+IV
+IT
+
+I
+E
+
+S
+  
+
+COMPONENTS  RESOURCES 
+
+ 
+
+Component A: Sustainable agricultural development and strengthening of the resilience of rural households 
+
+Construction of 3 mini-dams, 62 new flood diversion weirs, rehabilitation of 44 old degraded flood diversion weirs, 5 ponds, 
+
+development of 1,320 ha of small irrigation schemes linked to the mini-dams at the weirs, treatment of watersheds against erosion 
+
+and run-off, covering an areas of 5,833 ha, 66 boreholes, procurement of 1,000 tonnes of cereals, 200 tonnes of fertiliser, 500 tonnes 
+
+of seeds, 2,000 L/kg of phytosanitary products and 50 solar pumps, to cope with the effects of COVID -19. 
+
+ 
+
+Component B:   Promotion of youth entrepreneurship and market access 
+
+Installation of 42 business advisers; setting up of 2 pilot business incubators; signing of an agreement with a local bank to facilitate 
+
+access to financial services; Islamic financing line for youth and women's 300 self-employment projects; financing of 50 agricultural 
+
+youth VSEs/SMEs supported by business incubators; financing of 50 cooperatives and MSEs for the processing and packaging of 
+
+agricultural produce; financing of 45 para-agricultural service enterprises for young graduates; modular training in financial education 
+
+for young entrepreneurs and women's groups; study of value chains and mapping of eligible activities for youth entrepr eneurship; 
+
+awareness raising, youth mobilization and training campaigns; database of proposed project ideas and applicant profiles and strategy 
+
+for strengthening agricultural entrepreneurship support structures. 
+
+Component C: Project Management 
+
+Coordination of project activities; administrative, accounting and financial management; procurement of goods, works and services; 
+
+establishment of a communication plan; monitoring and evaluation of project implementation. 
+
+ 
+
+ 
+
+Components:                                                                                  Sources of financing: 
+
+Component A           :  UA 63.994 million (42.7%)         TSF : UA 25.859 million            GEF        :  UA 4.582 million   
+
+Component B           :  UA 60.498 million (41.8%)          IFAD  : UA 70.803 million            GCF         :  UA 7.538 million   
+
+Component C           : UA 23.310 million (15.5%)         OFID : UA 11.381 million            BAGRI     : UA 0.739 million   
+
+                                                                                                   Govt.    : UA 22.614 million              BEN        :    UA 4.286 million                                      
+
+*The values of the baseline indicators are not known at this stage. They will be determined by a baseline study that will be carried out after the start of the project. 
+
+ 
+
+  
+
+
+
+ 
+
+x 
+
+ 
+
+ 
+
+ 
+
+Project Appraisal and Implementation Schedule 
+
+ 
+
+ Year 2019 2020 2021 2022 2023 2024 2025  
+
+ Quarter 
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+Q
+
+2 
+
+Q
+
+3 
+
+Q
+
+4 
+
+Q
+
+1 
+
+0 PREPARATORY ACTIVITIES                            
+
+ AfDB Preparatory Mission                            
+
+ 
+Complementary mission for the definition of the agricultural 
+
+entrepreneurship component 
+                          
+
+ 
+
+ Preparation of the ESMF in conjunction with CENRAT                            
+
+ 
+Targeting of water harnessing sites by DGGR/CENRAT in line with 
+
+the FDS and BDs 
+                          
+
+ 
+
+ AfDB Evaluation Mission                            
+
+1 INITIAL ACTIVITIES                            
+
+ PRECIS/AfDB financing negotiations                            
+
+ ADF loan approval                            
+
+ Signing of the financing agreement                            
+
+ 
+Implementation and fulfilment of conditions precedent to 1st 
+
+disbursement 
+                          
+
+ 
+
+ Publication of the AfDB General Procurement Notice                            
+
+2 START-UP ACTIVITIES                            
+
+ Recruitment of additional PRECIS/AfDB staff                            
+
+ PRECIS/AfDB launching Mission                            
+
+ CENRAT training in AfDB procedures (procurement, disbursement)                            
+
+     Preparation of ESIAs / ESMPs and RAPs                            
+
+3 ENHANCEMENT OF WATER MANAGEMENT                            
+
+ Procurement process for water harnessing works                             
+
+ Procurement process for works control and supervision                             
+
+ Construction of water harnessing facilities (dams, weirs, ponds, etc.)                            
+
+ Setting up, training and support of management bodies                            
+
+ 
+Setting up and monitoring of the environmental and social management 
+
+framework 
+                  
+
+         
+
+4 PROMOTION OF ENTREPRENEURSHIP AND MARKET ACCESS                            
+
+ 
+Actions in support of rural entrepreneurship and youth and women's 
+
+employment 
+                  
+
+         
+
+ Support and monitoring of young and female entrepreneurs                            
+
+ FDS and BDs on for the Taza-Tahoua priority feeder road                            
+
+ Feeder road construction                             
+
+5 PROJECT MANAGEMENT+                            
+
+
+
+ 
+
+xi 
+
+ 
+
+ 
+
+ 
+
+ 
+Adaptation of ProDAF management and monitoring-evaluation tools to 
+
+the PRECIS project 
+                  
+
+         
+
+ Baseline situation and adaptation of the M&E system to PRECIS/AfDB                             
+
+ 
+Coordination, management, monitoring-evaluation and communication 
+
+activities 
+                  
+
+         
+
+ Annual accounts audit and environmental and social audits                            
+
+ Mid-term review of PRECIS/AfDB                            
+
+ ADF and Government completion report, in conjunction with IFAD                            
+
+
+
+ 
+
+1 
+
+ 
+
+NIGER 
+
+ 
+
+PROJECT TO STRENGTHEN RESILIENCE OF RURAL COMMUNITIES TO FOOD 
+
+AND NUTRITION INSECURITY IN NIGER (PRECIS) 
+
+ 
+
+Management submits this report and recommendations concerning the proposed award of a TSF 
+
+grant of UA 25.859 million to the Republic of Niger to finance the Project to Strengthen Resilience 
+
+of Rural Communities to Food and Nutrition Insecurity in Niger (PRECIS). 
+
+I  STRATEGIC THRUST AND RATIONALE  
+
+1.1. Project Linkages with Country Strategy and Objectives  
+
+1.1.1 Niger's 2018-2022 Country Strategy Paper (CSP) is based on two strategic pillars, with 
+
+two main sub-pillars, namely: mobilisation and harnessing of water resources, and development 
+
+of agro-pastoral value chains. These two areas are already being supported by the Bank and 
+
+other TFPs, whose efforts have yielded encouraging outcomes that will be consolidated and 
+
+amplified by PRECIS, as part of the consolidation of the "development poles" approach that is 
+
+already in place and which aims to promote the transformation of production systems and the 
+
+establishment of strong links between the various segments of the value chains within the main 
+
+agro-pastoral sub-sectors. PRECIS is also in line with the foundations of the 3N (Nigeriens 
+
+Nourish Nigeriens) Initiative, which aims to protect the people of Niger from hunger and 
+
+malnutrition, in the long term, and to create conditions enabling them to participate fully in 
+
+national production and improve their income. Furthermore, in 2018, the Government of Niger 
+
+developed an "Integrated Programme for Resilience to Food and Nutrition Insecurity" (Pro-
+
+resilience Programme 2019-2021), aimed at, inter alia: (i) increasing and diversifying agro-
+
+sylvo-pastoral and fisheries production; (ii) ensuring the regular supply of agricultural and agri-
+
+food products to rural and urban markets; and (iii) improving the people's resilience to food 
+
+crises and natural disasters and/or climatic shocks. The project activities will also be in line 
+
+with the Small-Scale Irrigation Strategy in Niger (SPIN), which is currently being implemented, 
+
+as well as with the Five-Year Action Plan for the implementation of the National Gender Policy 
+
+(NGP), whose vision for 2027 is to "build, with all stakeholders, a society, without 
+
+discrimination, where men and women, girls and boys have equal opportunities to participate 
+
+in its development and enjoy the benefits of its growth". Lastly, the project is consistent with 
+
+Niger's nationally determined contribution (NDC), particularly in the context of climate 
+
+adaptation and resilience in the agricultural sector, as well as the reduction of emissions related 
+
+to land use patterns and land allocation.  
+
+1.2. Rationale for Bank Intervention  
+
+1.2.1 For more than 20 years, the Bank has accumulated special experience in Niger in the 
+
+area of water harnessing and natural resource protection. Indeed, it has financed about a dozen 
+
+studies and projects (PMET Tahoua, PADAZ Zinder, PADL Diffa, PVDT Dosso-Tillaberi, 
+
+PMERSA-MTZ, PROMOVARE, PDIPC, P2RS, etc.) targeted at the regions, and which have 
+
+improved the living conditions of men and women in rural areas, while developing technical 
+
+and organisational approaches tailored to local contexts. The Bank has become a privileged 
+
+partner in this sector thanks to its success in water control and harnessing.  
+
+ 
+
+1.2.2 The portfolio review, conducted by the Bank in December 2019, revealed that the 
+
+Bank's active portfolio in Niger comprises 15 operations worth a total of just over UA 
+
+476,000,000, with national projects accounting for 49.21%, multinational projects for 48.08%, 
+
+
+
+ 
+
+2 
+
+ 
+
+and a private sector operation for 2.7%. The average timeframe for fulfilling the conditions 
+
+precedent to first disbursement is longer than the institutional standard, but the projects 
+
+approved in 2019 performed well in terms of the timeframes for signature (1 month) and 
+
+effectiveness (2.8 months). The review also noted satisfactory progress in the performance of 
+
+the agricultural project portfolio. In particular, the PMERSA-MTZ, which was closed in 
+
+September 2019, yielded satisfactory results, reflected especially in the completion of 69 water 
+
+harnessing works, the development of 2,343 ha of small irrigated areas (PPI) and the 
+
+reclamation of 2,100 ha of degraded land, making it possible to: (i) harness more than 70 million 
+
+cubic metres of water; (ii) increase production by more than 168,720 tonnes (irrigated/flood-
+
+recession and rain-fed crops); (iii) create more than 41,805 jobs; and (iv) multiply the income 
+
+of producers by 3.9 times compared with the baseline situation. On the strength of the 
+
+experience it has acquired over the past two decades, and given the numerous challenges that 
+
+Niger still faces (climatic, economic, security, etc.), the Bank must continue its efforts on water 
+
+harnessing, women's empowerment and support for agricultural entrepreneurship. By co-
+
+financing PRECIS, the Bank, in line with its strategic orientations, will strengthen the 
+
+partnerships already established with other TFPs (such as the co-financing of the Kandadji dam) 
+
+and contribute to the significant mobilisation of financial resources. This type of investment is 
+
+likely to limit security risks by targeting the most vulnerable local communities.  
+
+ 
+
+1.2.3 The objectives of PRECIS are in keeping with the Bank's High 5s, which aim to feed 
+
+Africa by 2025 and improve the living conditions of people of the continent by developing 
+
+value chains, building the capacities of stakeholders, creating jobs and generating income. The 
+
+project is directly linked to the specific areas of the Bank's Long-Term Strategy (LTS 2013-
+
+2022), dealing with agriculture and food security, as well as gender issues. Moreover, by 
+
+involving producers in private initiative, the project is aligned with the Bank's Ten-Year 
+
+Strategy (2013-2022) and particularly with the objective of inclusive growth. The project also 
+
+dovetails with the guidelines of the Bank's Agricultural Sector Strategy (2016-2025), which 
+
+give pre-eminence to the development of value chains and agricultural entrepreneurship. 
+
+Furthermore, the project supports the Bank's Climate Change Action Plan (CCAP II 2016-
+
+2020), especially Pillar I on climate adaptation and resilience in key sectors including 
+
+agriculture, as well as Pillar II which aims to promote low-emission development. 
+
+1.3. Aid Coordination  
+
+1.3.1 In Niger, official development assistance is coordinated by the consultative and 
+
+consultation bodies of the Economic and Social Development Plan (PDES). Thus, several sector 
+
+coordination poles have been set up. The Bank co-chairs the PDES “Infrastructure” sector 
+
+coordination pole with the Ministry of Equipment. It is a member of the "rural areas 
+
+transformation" pole. The Bank's role has been strengthened following the opening of its 
+
+Country Office in Niger. The TFPs are also involved in the National Technical Committee in 
+
+charge of monitoring PDES implementation. The technical partners are engaged in a constant 
+
+process of dialogue and mutual consultation with a view to ensuring the effective coordination 
+
+of their respective operations in Niger.  
+
+  
+
+
+
+ 
+
+3 
+
+ 
+
+ 
+
+1.3.2  The operations of the various partners in the broader rural sector (agriculture, livestock, 
+fisheries, environment, etc.) are presented in Annex A4 of Volume 2 and may be summarised as 
+
+follows: 
+
+II  PROJECT DESCRIPTION 
+
+2.1. Project Components  
+
+2.1.1 The overall objective of PRECIS is to sustainably improve the food and nutrition 
+
+security of rural households and strengthen their resilience to climate shocks and natural 
+
+resource degradation. The specific development objectives of the project are to increase rural 
+
+household incomes, improve livelihoods and lives, and the socio-economic integration of young 
+
+people (men and women) into productive rural occupations. 
+
+2.1.2 PRECIS covers a period of five years and is structured around three main components: 
+
+Component A, which will focus on sustainable agricultural development, strengthening the 
+
+resilience of rural households and short-term response to the effects of COVID-19; Component 
+
+B, which will focus on promoting youth entrepreneurship and market access; and Component 
+
+C, which will be dedicated to coordination, management, monitoring/evaluation and knowledge 
+
+transfer. The following table presents the main activities planned by component and sub-
+
+component: 
+
+Table 2.1: Project Components  
+
+Sector or Sub-Sector* 
+
+Scope (in 2018) 
+
+GDP  Exports 
+
+Labo
+
+ur  
+
+Agriculture and Rural Development 43.4% 35% 85% 
+
+Stakeholders – Annual Public Expenditure (CFAF Billion) 
+
+Government (2015-2018 average) Donors  (2015-2018 averages) 
+
+ 
+ 
+
+25 (23.33% of total expenditure)  
+
+ 
+
+BADEA 0.74 
+
+IsDB 1.13 
+
+IDA 30.43 
+
+IFAD 6.69 
+
+ADF 7.26 
+
+BOAD 1.87 
+
+EU 20.00 
+
+Aid Coordination Level 
+
+ Existence of thematic working groups  Yes  
+
+ Existence of an overall sector programme 3N (Nigeriens Nourish Nigeriens) Initiative 
+
+ Role of AfDB in aid coordination  Member (not leader) 
+
+Components Cost  Description of the Components of PRECIS 
+
+Component 1:  
+
+Sustainable 
+
+agricultural 
+
+development and 
+
+UA 
+
+63.994 
+
+million 
+
+(43.3%) 
+
+1.1 Strengthening surface water control and sustainable land 
+management. 3 mini-dams, 62 new flood diversion weirs, 
+
+rehabilitation of 44 old degraded flood diversion weirs, development 
+
+of 5 ponds, development of 1,320 ha of small irrigated areas, recovery 
+
+
+
+ 
+
+4 
+
+ 
+
+*This percentage relates to the overall programme management, while for the Bank's financing this percentage is 9.8% (see 
+details in the cost table in Annex B 2.2). 
+
+2.2. Technical Solutions Adopted and Alternatives Considered  
+
+2.2.1 The technical solutions selected take into account: (i) lessons and experiences derived 
+
+from the implementation of similar projects; (ii) socio-economic and environmental criteria; 
+
+and (iii) best practices in the development and maintenance of structures, with emphasis on the 
+
+quality of their implementation. The Bank's intervention focuses on specific areas where it has 
+
+a comparative advantage and proven experience. This positioning will favour the 
+
+implementation of operations and ensure greater efficiency of interventions. The technical 
+
+solutions relating to infrastructure were adopted on the basis of standards that would ensure the 
+
+sustainability of the investments, at acceptable costs, and ownership on the part of the 
+
+strengthening of 
+
+rural household 
+
+resilience 
+
+ 
+
+of degraded land upstream of watersheds and treatment of watersheds 
+
+against erosion and runoff, covering an area of 5,833 ha, stabilization 
+
+of 400 ha of dunes around the ponds, promotion of assisted natural 
+
+regeneration (ANR) on 50,000 ha, control of invasive plants on 350 
+
+ha, building the capacity of 39 management committees for small 
+
+irrigation areas, and 66 boreholes.  
+
+ 
+
+1.2 Building of the technical and institutional capacities of 
+
+beneficiaries: Creation of 100 new rain-fed farming field schools (FFS) 
+and 150 market gardening FFS, consolidation of 100 existing FFS, access 
+to inputs for 10 farmer houses, 18 small ruminant farms, 2,000 small 
+
+ruminant kits, establishment of 80 granaries, 4,340 nutrition gardens, 250 
+
+support contracts for the agricultural advisory support system for farmers 
+
+(ACAP), procurement of 150 motor pumps for farmer field schools, and 48 
+
+animal production support agreements. 
+ 
+
+1.3 Post COVID-19 Response 
+
+Procurement of 1,000 tonnes of cereals, 200 tonnes of fertiliser, 500 tonnes 
+
+of seeds, 2,000 L/kg of phyto-sanitary products and 50 solar pumps 
+
+Component 2: 
+
+Promotion of youth 
+
+and women's 
+
+entrepreneurship 
+
+and access to 
+
+markets 
+
+ 
+
+UA 
+
+60.498 
+
+million 
+
+(40.9%) 
+
+ 
+
+2.1 Support for the creation and development of sustainable rural 
+
+enterprises for young people and women: Installation of 42 business 
+
+advisers; setting up of 2 pilot business incubators; signing of an agreement 
+with a local bank to facilitate access to financial services; Islamic financing 
+
+line for 300 youth and women's self-employment projects; financing of 50 
+
+agricultural youth VSEs/SMEs supported by business incubators; financing 
+
+of 50 cooperatives and MSEs for the processing and packaging of 
+
+agricultural produce; financing of 45 para-agricultural service enterprises 
+
+for young graduates; modular training in financial education for young 
+
+entrepreneurs and women's groups; study of value chains and mapping of 
+
+eligible activities for youth entrepreneurship; awareness-raising, youth 
+
+mobilization and training campaigns; database of proposed project ideas 
+
+and applicant profiles; and strategy for strengthening agricultural 
+
+entrepreneurship support structures. 
+ 
+
+2.2 Market development: 9 semi-wholesale markets, 18 collection centres, 
+
+capacity-building for management structures, 348 km of roads serving the 
+
+production areas, 20 trade fairs and days centred on Economic 
+
+Development Plan (PDE), and 20 public-private exchange workshops. 
+
+ 
+
+Component 3: 
+
+Project 
+
+Management 
+
+UA 
+
+23.310 
+
+million 
+
+(15.8%*) 
+
+Coordination of project activities; administrative, accounting and financial 
+
+management; procurement of goods, works and services; establishment of 
+
+a communication plan; monitoring and evaluation of project 
+
+implementation. 
+
+
+
+ 
+
+5 
+
+ 
+
+beneficiaries. The design of water harnessing structures (mini-dams and weirs) takes into 
+
+account the experience gained over more than two decades at both technical and organisational 
+
+levels. The roads will be rehabilitated with special focus on the treatment of the critical points, 
+
+which will allow uninterrupted and smooth traffic all year round. The table below summarises 
+
+the main alternatives that were considered and finally rejected. 
+
+Table 2.2: Alternative Solutions Considered and Reasons for Rejection  
+
+Alternative 
+
+Solutions  
+Brief Description Reasons for Rejection 
+
+Bank interventions 
+in all components 
+
+and sub-
+
+components of 
+
+PRECIS. 
+
+TSF resources for this 
+programme are limited and are 
+
+mobilized to partially finance the 
+
+various project activities, with 
+
+no specific targeting. 
+
+Spreading the Bank's funding across multiple 
+
+activities would limit its impact and make 
+implementation more difficult. Focusing TSF 
+
+financing on water harnessing and youth 
+
+employment facilitates implementation while 
+
+remaining consistent with CSP priorities. 
+
+Development of 
+
+large irrigated 
+
+areas downstream 
+
+of dams. 
+
+Development of large irrigated 
+
+areas downstream of new dams. 
+
+This solution is ill-adapted to all regional 
+
+configurations and entails significant capital 
+
+requirements, which would limit the number of 
+
+structures and hence the number of people affected. 
+
+Light resurfacing 
+
+of the roads to be 
+
+rehabilitated. 
+
+Repairing existing roads by 
+
+lightly resurfacing the wearing 
+
+course in place. 
+
+The targeted areas will not be opened up on a 
+
+sustainable basis due to numerous critical points 
+
+and crossings that have not been repaired. The 
+
+option of comprehensive rehabilitation, including 
+
+all the critical areas, was therefore selected. 
+
+2.3. Project Type  
+
+PRECIS is an investment operation that is in line with a programmatic approach co-financed 
+
+from various resources including those of TSF, OFID, GEF, GCF and IFAD. The Government 
+
+of Niger has not yet fully committed itself to implementing projects and programmes through 
+
+the sector-based approach, on account of several institutional constraints. The programme-
+
+based co-financing approach is at this stage more advisable, since it guarantees the achievement 
+
+of outcomes and ensures the effective and efficient use of the resources allocated to the project 
+
+which will, in addition, capitalise on the Bank's achievements in Niger. 
+
+2.4. Project Cost and Financing Arrangements 
+
+2.4.1 The total project cost is estimated at UA 147.802 million (CFAF 119.450 billion), of 
+
+which UA 34.620 million is in foreign exchange (CFAF 27.979 billion) and UA 113.181 
+
+million in local currency (CFAF 91.470 billion). Customs duties and taxes have been accounted 
+
+for and will be borne by the State which will take the necessary steps to ensure that this 
+
+arrangement is adhered to. The foreign exchange portion constitutes 23.4% of the total cost and 
+
+the local currency portion amounts to 76.6%. Contingencies have thus been estimated at UA 
+
+14.647 million (CFAF 11.837 million). The project cost by component and by expenditure 
+
+category is summarized in tables 2.3 and 2.4 below. 
+
+  
+
+
+
+ 
+
+6 
+
+ 
+
+Table 2.3: Estimated Costs by Component  
+
+COMPONENTS 
+(CFAF ‘000) (CFAF ‘000) 
+
+% F.E. 
+L.C. F.E. Total L.C. F.E. Total 
+
+COMPONENTS  
+       
+
+Agricultural development  34,479,121.6 12,114,286.0 46,593,407.6 42,662.8 14,989.6 57,652.4 26.0% 
+
+Promotion of entrepreneurship  33,079,721.5 10,967,843.8 44,047,565.3 40,931.2 13,571.1 54,502.3 24.9% 
+
+         
+
+Project management  14,629,709.2 2,342,111.2 16,971,820.4 18,102.1 2,898.0 21,000.1 13.8% 
+
+Sub-Total 82,188,552.4 25,424,241.0 107,612,793.3 101,696.1 31,458.7 133,154.8 23.6% 
+
+CONTINGENCIES  - 
+  - - -  
+
+Physical contingencies  2,478,322.6 1,288,125.1 3,766,447.8 3,066.6 1,593.9 4,660.4 34.2% 
+
+Financial contingencies  6,803,818.9 1,267,140.6 8,070,959.5 8,418.7 1,567.9 9,986.6 15.7% 
+
+Sub-Total 9,282,141.5 2,555,265.8 11,837,407.3 11,485.3 3,161.8 14,647.0 
+ 
+
+TOTAL  91,470,693.8 27,979,506.7 119,450,200.6 113,181.4 34,620.5 147,801.8 23.4% 
+
+ 
+
+ 
+
+Table 2.4: Estimated Costs by Expenditure Category  
+
+CATEGORIES 
+CFAF Million UA Million 
+
+% F.E. % 
+L.C. F.E. Total L.C. F.E. Total 
+
+Works 24,452.38 15,898.08 40,350.46 30.26 19.67 49.93 39.40% 33.8% 
+
+Goods  8,894.71 2,933.36 11,828.07 11.01 3.63 14.64 24.80% 9.9% 
+
+Services 27,935.26 6,766.93 34,702.19 34.57 8.37 42.94 19.50% 29.1% 
+
+Credit and subsidies  10,519.48 0.00 10,519.48 13.02 - 13.02 0% 8.81% 
+
+Operation 4,715.66 227.38 4,943.04 5.83 0.28 6.12 4.60% 4.1% 
+
+Staff  5,269.57 0.00 5,269.57 6.52 - 6.52 0% 4.4% 
+
+Base Cost  81,787.046 25,825.747 107,612.79 101.20 31.96 133.155 24.00% 90.1% 
+
+Physical contingencies  2,478.32  1,288.13 3,766.45 3.54 1.12 4.66 34.20% 3.2% 
+
+Price escalation  6,803.82 1,267.14 8,070.96 7.59 2.40 9.99 15.70% 6.8% 
+
+TOTAL 91,069.19 28,381.01 119,450.20 112.33 35.47 147.80 23.76% 100% 
+
+2.4.2 The project will be financed by the African Development Fund (ADF), through the 
+
+TSF, jointly with four other technical and financial partners (IFAD, OFID, GEF and GCF), a 
+
+private agricultural bank (BAGRI), the Government and the beneficiaries. The ADF 
+
+contribution to PRECIS will amount to UA 25.859 million (CFAF 20.898 billion), accounting 
+
+for 17.63% of the total project cost as shown in Table 2.5 below. 
+
+Table 2.5: Financing Sources  
+
+SOURCES 
+CFAF Million UA Million 
+
+% Total 
+L.C. F.E.  Total L.C. F.E. Total 
+
+ADF 14,106.09 6,792.85 20,898.935 17.45 8.41 25.859 17.50% 
+
+IFAD 42,266.28 14,955.21 57,221.496 52.30 18.50 70.803 47.90% 
+
+OFID 5,253.02 3,944.64 9,197.665 6.50 4.88 11.381 7.70% 
+
+GEF 2,622.60 1,080.36 3,702.956 3.25 1.34 4.582 3.10% 
+
+GCF 5,539.17 552.79 6,091.960 6.85 0.68 7.538 5.10% 
+
+BAGRI 544.21 53.04 597.251 0.67 0.07 0.739 0.50% 
+
+Govt.  18,275.88 0.00 18,275.881 22.61 - 22.614 15.30% 
+
+BEN 2,883.59 580.47 3,464.056 3.57 0.72 4.286 2.90% 
+
+TOTAL 91,490.84 27,959.36 119,450.200 113.21 34.60 147.802 100.00% 
+
+  
+
+
+
+ 
+
+7 
+
+ 
+
+Table 2.6 – Expenditure Schedule by Component (in CFAF thousand) 
+ 2020 2021 2022 2023 2024 2025 T 
+
+COMPONENTS         
+
+C1. Agricultural 
+Development  
+
+1,766,410.8 9,666,755.5 17,651,318.3 11,277,214.1 5,010,803.4 1,220,905.5 46,593,407.6 
+
+C2. Promotion of 
+Entrepreneurship  
+
+1,250,713.9 7,650,679.3 20,722,129.3 6,607,519.0 5,394,769.0 2,421,754.9 44,047,565.3 
+
+C3. Project 
+
+Management  
+1,702,567.8 1,831,875.8 1,999,375.8 4,471,336.3 3,628,536.3 3,338,128.3 16,971,820.4 
+
+Total Base Cost  4,719,692.56 19,149,310.53 40,372,823.35 22,356,069.45 14,034,108.70 6,980,788.71 107,612,793.31 
+
+CONTINGENCIES         
+
+Physical 
+
+contingencies  
+165,189.24 670,225.87 1,413,048.82 782,462.43 491,193.80 244,327.60 3,766,447.77 
+
+Financial 
+
+contingencies  
+353,976.94 1,436,198.29 3,027,961.75 1,676,705.21 1,052,558.15 523,559.15 8,070,959.50 
+
+Total Contingencies 519,166.18 2,106 424.16 4,441,010.57 2,459,167.64 1,543,751.96 767,886.76 11,837,407.26 
+
+        
+
+TOTAL 5,238,858.74 21,255,734.69 44,813,833.92 24,815,237.09 15,577,860.66 7,748,675.47 119,450,200.58 
+
+2.4.3 Slightly more than two-thirds of the Bank's financing is allocated to the Agricultural 
+
+Development and Resilience component, mainly for the extension and development of irrigated 
+
+land. About 15.5% is devoted to the promotion of youth and women's entrepreneurship and 
+
+9.4% to operating expenses. Physical contingences account for 3% and financial contingencies 
+
+for 5.5%. 
+
+For ADF financing, and considering the country's tight budgetary context, the Government will 
+
+not be required to make any financial contribution, apart from granting exemptions. Given the 
+
+specific character of this programme and the nature of the activities financed, the various TFPs 
+
+have decided to finance the project on a parallel basis. 
+
+2.5. Project Area and Beneficiaries  
+
+2.5.1 In its entirety, PRECIS covers 186 municipalities located in the regions of Dosso, 
+
+Tahoua, Maradi and Zinder (PRECIS-AfDB will not be involved in the Dosso region), and will 
+
+directly affect nearly 210,000 households, or approximately 1,470,000 people. The population 
+
+of the neighbouring areas should also benefit indirectly from the momentum created by the 
+
+Economic Development Pole (PDE) approach. The agro-socio-economic environment of the 
+
+resident rural inhabitants is characterised by a low rate of access to support and development 
+
+infrastructure, especially roads, shops and other infrastructure for processing and for promoting 
+
+rural entrepreneurship, required to stabilise young people, ease the chores of women and reduce 
+
+their economic vulnerability in the regions concerned. 
+
+2.5.2 PRECIS will target more specifically: (i) sedentary small farmers engaged in cereal 
+
+production (maize, sorghum, millet), rice farming in the Dosso region, market gardening, 
+
+poultry farming and small-scale stockbreeding; (ii) employed or unemployed young men and 
+
+women (18 to 35 years old) who wish to set up their own micro and small enterprises in the 
+
+various selected sub-sectors; (iii) women farmers or women wishing to carry out income-
+
+generating activities; (iv) actors upstream and downstream of the production chain, engaged in 
+
+related trades and in service provision; (v) professional organizations (grassroots groups, 
+
+cooperatives, unions and federations); (vi) vulnerable farming households that are motivated 
+
+and wish to enlarge and develop their farms; and (vii) persons with disabilities in rural areas 
+
+
+
+ 
+
+8 
+
+ 
+
+who participate or intend to participate in activities along the selected value chains. PRECIS 
+
+aims ultimately to achieve gender parity by ensuring that women (youth and adults) make up 
+
+50% of project beneficiaries and that at least 30% of Rural Young Enterprises (RYEs) set up 
+
+and/or strengthened are women-owned. 
+
+2.6. Participatory Approach to Project Identification, Design and Implementation 
+
+2.6.1 The project is the result of a participatory and inclusive approach that involves all 
+
+stakeholders: technical services, producers' organisations, women/youth groups, civil society, 
+
+the private sector, TFPs and projects, etc. These broad consultations, which took place at all the 
+
+formulation and evaluation stages, focused particularly on the criteria for choosing operation 
+
+sites, the prospects for developing the value chains of profitable sub-sectors, the opportunities 
+
+for promoting youth employment and entrepreneurship and their financing mechanisms, the 
+
+lessons derived from previous similar projects, the shortcomings noted during the 
+
+implementation of the projects, the main PRECIS intervention guidelines and strategies, the 
+
+role of various actors in the new project context and the operating methods for ensuring proper 
+
+implementation of the project, and the opinions and recommendations of key players.  
+
+2.6.2 The project design was based on experience gained from carrying out or having carried 
+
+out operations on the ground (PMERSA, ProDAF), and conducted in close collaboration with 
+
+rural communities and local stakeholders. The activities identified are the result of ongoing 
+
+consultations conducted during implementation and take into account the needs expressed by 
+
+the population, civil society (including women), partner NGOs, producers and development 
+
+partners. During project preparation, IFAD and the Bank carried out numerous field visits to 
+
+potential intervention sites and to sites where projects have already been implemented. These 
+
+visits offered an opportunity to have discussions with the communities concerned in order to 
+
+better identify the difficulties facing them and to define the priority interventions to be carried 
+
+out. The implementation mechanisms planned at the regional level will enable this inclusive 
+
+approach to be continued during the implementation phase. 
+
+2.7. Consideration of the Bank's Experience and Lessons in the Project Design 
+
+For more than 20 years, the Bank has accumulated special experience in Niger in the area of 
+
+water harnessing and natural resource protection. Indeed, it has financed about a dozen studies 
+
+and projects (PMET Tahoua, PADAZ Zinder, PADL Diffa, PVDT Dosso-Tillaberi, PMERSA-
+
+MTZ, PROMOVARE, PDIPC, P2RS, etc.) targeted at the regions, and which have improved 
+
+the living conditions of men and women in rural areas, while developing technical and 
+
+organisational approaches tailored to local contexts. In particular, the PMERSA-MTZ project, 
+
+worth UA 30.36 million, was concluded in September 2019, and its completion report, 
+
+produced in November 2019, showed satisfactory outcomes with a rating of 3 out of 4. The 
+
+design of the current project will incorporate lessons from the implementation of Bank portfolio 
+
+projects in Niger, particularly in the agricultural sector, as well as those of TFPs, including 
+
+IFAD. Overall, the main generic lessons derived from the implementation of water harnessing 
+
+projects in Niger may be summarised as follows:  
+
+ 
+
+  
+
+
+
+ 
+
+9 
+
+ 
+
+ 
+
+Commitments  Arrangements Adopted for PRECIS 
+
+Delays in the start-up of initial works: For 
+
+irrigation infrastructure projects, there are 
+
+often significant delays in the start-up of 
+works due to the non-availability of final 
+
+design studies (FDS) and bidding documents 
+
+(BDs). 
+
+- Majority of existing FDS and BDs. Use of existing FDS and 
+
+BDs already produced by PRODAF, PMERSA and DGGR;  
+
+- Launching of the maximum number of procurements during 
+years 1 and 2, including for major works; 
+
+- Recruitment of an additional water resource management 
+
+expert for the "water harnessing" component. 
+
+Delays and bottlenecks encountered in the 
+
+procurement process: The lengthy timeframes 
+
+for the appraisal of procurement files, 
+
+involving various parties (PMU, Bank, Govt., 
+
+etc.), are often the cause of delays and have an 
+
+impact on compliance with the schedule. 
+
+- Quality in the preparation of BDs; 
+
+- Strengthening of qualified staff at CENRAT; 
+
+- Implementation of the recent circular prohibiting double ex-
+
+ante controls (Govt. and AfDB); 
+
+- Close monitoring of the validation and signing processes 
+
+(posting of dedicated staff); and 
+
+- Conduct of ex-post reviews/audits. 
+
+Overall weakness and failure of enterprises: 
+
+Irrigation projects in Niger are hampered by 
+
+the low technical, organisational and financial 
+capacity of enterprises, which makes it 
+
+difficult to carry out works on time and in 
+
+accordance with the required standards. 
+
+- Quality of specifications in BDs; 
+
+- Choice of suitable allotments; 
+
+- Stringency in the procurement process; need to verify the 
+actual experience of the companies and the projects they have 
+
+previously implemented; 
+
+- Adoption of a system for the close monitoring of works, 
+
+involving qualified technicians; and 
+
+- Capacity-building activities (companies; oversight offices,  
+
+ and technical services). 
+
+Difficulties in assuming responsibility for 
+
+management and maintenance: Beneficiaries 
+
+often find it difficult to ensure the proper 
+
+management and maintenance of the 
+
+infrastructure provided, and to meet operating 
+
+costs. 
+
+- Involvement of the communes and beneficiaries at all stages, 
+
+including requiring financial and/or physical contributions 
+
+from beneficiaries; 
+
+- Setting up and training of representative and empowered 
+
+structures in charge of management; 
+
+- Capacity building and support for management structures; 
+
+- Introduction of a water pricing system; and 
+
+- Use of solar energy whenever possible to limit operating 
+
+costs. 
+
+2.8. Key Performance Indicators 
+
+The monitoring and evaluation mechanism of the TSF financing will be part of the overall 
+
+framework of the PRECIS mechanism, which is itself based on the existing PRoDAF 
+
+mechanism. This system has a consolidator at central level (CENRAT), and M&E managers at 
+
+
+
+ 
+
+10 
+
+ 
+
+regional level supported by assistants. The mechanism is supported by a computerised system, 
+
+with on-line information at regional level that geo-localises all the interventions. It is possible 
+
+to filter requests by funding source. The system is based on permanent internal monitoring and 
+
+periodic internal and external evaluations. Information is regularly collected and analysed, 
+
+notably on: (i) progress towards the expected outcomes as set out in the project's logical 
+
+framework, with the possibility of isolating those of TSF funding, and the performance of the 
+
+actors involved in the implementation of activities; (ii) the recording and assessment of the 
+
+effective involvement of beneficiaries, disaggregated by gender, at various stages of 
+
+implementation; (iii) the attention given to cross-cutting aspects, nutrition, gender, youth, 
+
+climate change, and fragility/vulnerability; and (iv) the effects and impacts of the project on 
+
+beneficiaries, disaggregated by gender, through various types of surveys. A baseline study will 
+
+be carried out at the start of the PRECIS to establish the values of the quantitative and qualitative 
+
+indicators by region. The main indicators monitored, relating to TSF financing, will concern 
+
+the number of water harnessing structures built, the areas benefiting from irrigation (hectares), 
+
+the number of kilometres of roads rehabilitated, the number of jobs and micro-enterprises 
+
+created, with special focus on the situation of young people and women, the number of young 
+
+people supported, production levels (tonnes) and crop yields (t/ha) in the project area. 
+
+III.  PROJECT FEASIBILITY 
+
+3.1. Economic and Financial Performance 
+
+Table 3.1: Key Economic and Financial Data 
+
+NPV (baseline scenario) USD 102 million  
+
+IRR (baseline scenario) 17.3 % 
+
+ERR (baseline scenario) 18.8 %` 
+
+3.1.1 The economic and financial analysis of PRECIS was conducted from the standpoint 
+
+of national interest and covers the entire programme in calculating the overall return on the 
+
+investments to be made. The analysis is based on the following assumptions: (i) a 20-year 
+
+lifespan for the project, (ii) an opportunity rate of 10% was used to reflect the opportunity cost 
+
+of capital in Niger, (iii) the analysis was done in constant prices and the economic benefits were 
+
+expressed in constant values, and (iv) the supplementary agricultural production of farmers 
+
+(millet, sorghum, cowpea, onions, cabbages, etc.) was enhanced. Crop budgets as calculated in 
+
+the financial analysis were transformed into economic budgets by taking into account the 
+
+economic prices (obtained using the benchmark price method) of outputs and inputs, and by 
+
+eliminating financial costs. The detailed assumptions of the financial and economic analysis, 
+
+the operating model tables (the baseline situation and the situation with project) and the 
+
+financial and economic flows are recorded in Annex B7 of Volume 2. The results of the 
+
+financial and economic analysis show that PRECIS is financially and economically viable. 
+
+3.1.2 Financial performance: The analysis of financial return was based on the results 
+
+produced by ProDAF's updated Economic and Financial Analysis system. For the main 
+
+products, the results obtained suggest a satisfactory financial return for all production models. 
+
+For market gardening, the internal rate of return (IRR) of the production models is between 
+
+11.9% and 36%. For rain-fed cereal production (millet, sorghum and cowpea), gross margins 
+
+are established according to the combinations between CFAF 14,000/ha and CFAF 85,000/ha, 
+
+for IRRs of between 12% and 33%. In the case of micro-enterprises in the animal sector, gross 
+
+margins are estimated at CFAF 58,000 (family chicken farming), CFAF 205,000 (family guinea 
+
+
+
+ 
+
+11 
+
+ 
+
+fowl farming), CFAF 1,033,000 (goat farming), and CFAF 1,860,000 (poultry marketing). The 
+
+financial analysis also shows that specific youth activities offer opportunities for wealth and 
+
+employment creation in rural areas. The following financial margins were thus recorded for the 
+
+main activities (in CFAF million): 2.9 for meat grilling, 1.3 to 4 for onion conservation, 3 for 
+
+egg production, 2 for bourgou production from two hectares of land, etc. 
+
+3.1.3 Economic performance: On the basis of the adopted assumptions, the project's 
+
+overall economic rate of return (ERR) is 18.9% and the net present value (NPV) of the net 
+
+economic cash flow generated by PRECIS will be USD 102 million, which is a satisfactory 
+
+result. A sensitivity analysis was carried out to test the ERR variation on the assumption of: (i) 
+
+a 10% reduction/increase in costs and a 10% reduction/increase in profits, (ii) a variation in the 
+
+survival rate of Rural Micro-Enterprises (RMEs), and (iii) a reduction in the size of the areas 
+
+developed for irrigated crops. The results show that the ERR is sensitive to an increase in profits 
+
+linked to an improvement in selling prices. In all cases, the ERR remains above the 10% 
+
+opportunity rate. The other economic impacts of the project also concern the upstream effects 
+
+of additional income generation on service providers (NGOs, enterprises, suppliers, 
+
+consultancy firms, etc.), and the downstream effects of additional income generation on 
+
+producers, traders and those engaged in processing, who are women for the most part. For 
+
+households, the benefits of the project will include improved nutrition for vulnerable groups 
+
+(children, women of childbearing age and the elderly), reduced medical bills, reduced hardship 
+
+for agricultural workers, especially women, reduced incidence of monetary and non-monetary 
+
+poverty, enhanced livelihoods and strengthened resilience to food insecurity and the effects of 
+
+climate change for those targeted by PRECIS. 
+
+3.2. Environmental and Social Impact 
+
+3.2.1 Environment: PRECIS is classified in environmental and social category 1, in 
+
+accordance with Niger's environmental and social assessment regulations and the Bank's 
+
+Integrated Safeguard System. The prepared Environmental and Social Management Framework 
+
+(ESMF) and the Pest and Pesticides Management Plan (PPMP) were reviewed and approved 
+
+by the Bank, prior to their publication by the Borrower on 15 May 2020, and then by the Bank 
+
+on 27 May 2020 following the Borrower's authorization of 25 May 2020. The Bank has 
+
+ascertained that public consultations were duly held by the Borrower and the minutes thereof 
+
+are annexed to the safeguard instruments that were prepared. 
+
+The expected positive impacts are: (i) water control and land restoration; (ii) the preservation 
+
+of pools of great biological interest; (iii) improved soil productivity; and (iv) decreased water 
+
+erosion and land degradation within and downstream of developed areas. However, the 
+
+following major and moderate adverse risks and impacts are expected: (i) bacteriological and 
+
+physio-chemical pollution due to the increased use of agricultural inputs (chemical fertilisers 
+
+and pesticides), coupled with the misuse of phyto-sanitary products; (ii) over-exploitation of 
+
+wood for the construction of dead hedges around plots following their development for 
+
+irrigation purposes; and (iii) outbreaks of waterborne diseases and cases of poisoning, etc. To 
+
+address these risks and adverse impacts, environmental safeguard instruments that have been 
+
+developed: (i) specify the procedure for ensuring the environmental and social management of 
+
+project activities, and (ii) outline the environmental surveillance and monitoring programme as 
+
+well as the arrangements for implementing safeguard measures, including the preparation of 
+
+ESIAs/ESMPs and the conduct of audits during project implementation. 
+
+  
+
+
+
+ 
+
+12 
+
+ 
+
+3.2.2 Social: A Resettlement Policy Framework (RPF) developed pursuant to Decree No. 
+
+2019-027/PRN/MESU/DD of 11 January 2019 was reviewed and approved by the Bank and 
+
+published on the same dates as the ESMF and PMP.3.2.6. In terms of benefits, the project will 
+
+directly affect nearly 210,000 households, or approximately 1,470,000 people. However, the 
+
+potential social risks and impacts, ranging from major and moderate, are: (i) encroachment on 
+
+the landed property of certain households during the construction of water control infrastructure 
+
+(dams), irrigation facilities, market infrastructure and rural roads, etc.; (ii) land conflicts due to 
+
+irrigation facilities (irrigated areas, various reservoirs, etc.), which will lead to a rapid surge in 
+
+the value of land; and (iii) conflicts between farmers and herdsmen. 
+
+The budget for the implementation of safeguard instruments is estimated at CFAF 612,000,000. 
+
+To that, should be added the sum of CFAF 100,000,000 for the compensation of project-
+
+affected persons (PAPs) in anticipation of the construction of water harnessing infrastructure 
+
+and irrigation development works.  
+
+At the institutional level, the National Representation and Technical Assistance Unit 
+
+(CENRAT), which serves as the Project Implementation Unit, has a social safeguard specialist, 
+
+and the process to recruit an IFAD-financed environmental safeguard and climate change 
+
+specialist is under way. As far as Regional Project Management Units (RPMUs) are concerned, 
+
+the recruitment of four environmental and social safeguard experts is planned, two of whom 
+
+will be financed by the AfDB and the other two by IFAD. 
+
+3.2.3 Climate change and green growth: The project is classified in Category 2 according 
+
+to the Bank's climate information system. The project is therefore vulnerable to the impacts of 
+
+climate change as it is located in the Sahel, a region highly sensitive to climate change. Niger 
+
+is a country that is extremely vulnerable to the impacts of climate change. The ND-GAIN 
+
+climate vulnerability index ranks Niger as the second most vulnerable country in the world to 
+
+climate change after Somalia. Niger's climate has become increasingly arid, with a sharp decline 
+
+in rainfall and an increase in temperatures in recent decades. A more intense variability of 
+
+Niger's climate is projected by 2050, characterized by higher risks of aridity, according to the 
+
+dry scenario (a sharp drop in rainfall and rising temperatures), or by excessive humidity, 
+
+according to the wet scenario. With regard to climate risks, the models indicate a predominance 
+
+of droughts, heat waves, an upsurge in extreme wet events and locust invasions. Project 
+
+operations may therefore be severely affected by climate change. The main climate risks that 
+
+may affect the project outcomes are droughts, floods, increasing temperatures and irregular 
+
+rainfall. The project as a whole aims to reduce climate vulnerability and strengthen the 
+
+resilience of small-scale farmers to water scarcity and droughts through the harnessing and 
+
+control of water, the development of small irrigation areas with solar-powered dewatering 
+
+systems, agricultural diversification, improving access to climate-resilient seeds for family 
+
+farmers, supporting the production, dissemination and use of climate information and services, 
+
+as well as promoting youth agricultural entrepreneurship and market access. The reclamation 
+
+of degraded agricultural land, watershed management and erosion control will also help to 
+
+foster the long-term resilience of farmers to flood risks and water scarcity and ensure the 
+
+sustainability of food production systems in Niger. The project will also contribute to climate 
+
+change forecasting by producing and disseminating meteorological information to 
+
+prevent/anticipate climatic shocks.  
+
+3.2.4 Gender: Niger ranks 157th out of 189 countries on the gender inequality index of the 
+
+2016 Human Development Report. This poor ranking is due to the persistence of gender 
+
+discrimination and inequality in Niger, which causes enormous economic and social losses for 
+
+the country. The loss of income associated with gender inequality was estimated in 2015 by the 
+
+
+
+ 
+
+13 
+
+ 
+
+IMF at 32% of GDP. Female-headed households are more severely affected by food insecurity 
+
+at 59.4%, compared with 38.2% of male-headed households.  
+
+To address the shortcomings hindering gender equality, the initiatives undertaken during the 
+
+implementation of the IFAD-funded PRoDAF programme will be continued and strengthened 
+
+within the context of PRECIS. These include, in particular: (i) improving the resilience of the 
+
+most vulnerable households through the establishment of women's granaries; (ii) improving 
+
+food, nutrition and hygiene practices in households; (iii) supporting the development of income-
+
+generating activities for women and young people in the agricultural, pastoral, poultry and craft 
+
+sectors; (iv) ensuring information, education, communication and advocacy for a change in 
+
+behaviour that should lead to equitable access to productive resources for women and young 
+
+people; (v) building the entrepreneurial capacity of women and young people by means of 
+
+functional literacy training, institutional and organisational development of women's groups, 
+
+study tours and training in self-employment through women's centres; (vi) providing chores-
+
+easing equipment (grinding mills, boreholes, processing units, improved stoves, etc.) for 
+
+women in the villages covered by the project; (vii) recruiting local assistants to organise and 
+
+rally women's and youth groups around the structures built; and (viii) developing a gender 
+
+strategy specific to PRECIS, drawing on the experience gained from implementing ProDAF.  
+
+The project has thus been classified in category 2 of the Bank's gender marker system. The 
+
+budget allocated more specifically to gender promotion and women's economic empowerment 
+
+activities is estimated at UA 6 million. 
+
+IV.  IMPLEMENTATION  
+
+4.1. Implementation Arrangements  
+
+4.1.1 Implementation modalities: PRECIS will be under the technical supervision of the 
+
+Ministry in charge of Agriculture. It will be coordinated by the National Representation and 
+
+Technical Assistance Unit (CENRAT), whose fiduciary and technical capacities were assessed 
+
+and deemed acceptable by the Bank. Two orders, respectively designating CENRAT as the 
+
+management and coordination unit for TSF financing and the Senior National Technical 
+
+Assistant in charge of Policy Dialogue as Project Coordinator, will be signed by the Minister 
+
+of Agriculture and Livestock. The signing of these two orders will constitute a condition 
+
+precedent to project implementation. The current Steering Committee of ProDAF will also 
+
+serve as the Steering Committee of PRECIS. Establishment Order No. xxxxx will be revised to 
+
+accommodate the actors that are not yet included, in order to ensure the consistency of the 
+
+operations and facilitate work coordination. This committee shall meet twice a year, and as 
+
+many times as necessary, to review project outcomes, validate financial statements, discuss 
+
+programmes and approve related budgets. To ensure implementation of the project, the current 
+
+ProDAF mechanism, operating in the regions of Maradi, Tahoua and Zinder, will be used after 
+
+adjustment to the specific context of PRECIS (for more details, see the current ProDAF 
+
+mechanism in Annex C1). The project’s management will thus benefit from the various existing 
+
+mechanisms relating to coordination, financial management, procurement, monitoring and 
+
+evaluation, communication, etc. (for more details, see the current ProDAF mechanism in Annex 
+
+C1). An assessment of the various existing mechanisms indicates that it should be relatively 
+
+easy to adapt the current systems to the addition of a new source of financing and also to the 
+
+requirements of the Bank, especially its rules and procedures.  
+
+  
+
+
+
+ 
+
+14 
+
+ 
+
+To support the implementation of AfDB financing, additional staff will be recruited, funded 
+
+with TSF resources. The additional staff should include: (i) one (1) resource management (RM) 
+
+expert embedded in CENRAT to coordinate the "water harnessing" component; he/she will also 
+
+specifically ensure the monitoring of all AfDB financing activities, focused on structuring 
+
+works; (ii) two (2) environmental protection and social safeguard experts, who will be added to 
+
+the two other IFAD-supported experts; (iii) one (1) procurement expert within CENRAT, in 
+
+charge of the preparation and close monitoring of procurement files for Bank-financed 
+
+operations; (iv) one (1) senior accountant specifically in charge of processing TSF financing 
+
+accounts, under the responsibility of the CENRAT Administrative and Financial Manager 
+
+(AFM); (v) two (2) "Youth Entrepreneurship" assistants who will be under the responsibility of 
+
+the RPMU component manager and will maintain close working relations with the National 
+
+Technical Assistant of CENRAT; three (3) accounting assistants under the responsibility of the 
+
+AFMs of the Regional Project Management Units (RPMUs) in Maradi, Tahoua and Zinder; ten 
+
+(10) local development assistants (LDAs), including six for the Agricultural Council and four 
+
+for monitoring and evaluation. Of these 10 LDAs, 9 will be assigned to RPMUs and only 1 to 
+
+CENRAT to strengthen the monitoring and evaluation team. These LDAs will be equipped with 
+
+motorbikes and will be added to the water harnessing assistants already in place. They will be 
+
+distributed in each region, according to the areas of concentration of the work in progress. 
+
+Special attention will be paid to gender parity in the staff recruitment, given that mixed teams 
+
+will be more efficient. 
+
+4.1.2 Procurement: All goods, works and consulting services financed with Bank resources 
+
+will be procured in accordance with the Procurement Policy for Bank Group-Financed 
+
+Operations ("AfDB Financing Policy"), October 2015 edition, and in accordance with the 
+
+provisions set out in the Financing Agreement. Pursuant to this policy, the country system was 
+
+assessed in 2019 using the critical indicators assessment method defined by the Bank. Based 
+
+on the findings of the assessment, the overall level of risk associated with the use of the country 
+
+system for Bank-financed operations was deemed "Substantial" and certain procurements will 
+
+be done following the country's procurement system ("National System") enshrined by law 
+
+(Law No. 2011/037 of 28 October 2011 on the general principles, control and regulation of 
+
+public procurement and public service delegations), decree (Decree No. 2016-641/PRN/PM of 
+
+1 December 2016 establishing the Public Procurement Code and Public Service Delegations) 
+
+and various implementing instruments, based on national standard bidding documents 
+
+(NSBDs). 
+
+Using the national system for part of the project will improve efficiency thanks to better 
+
+ownership of the procurement system to be used by the executing agency. However, the Bank 
+
+reserves the right to request the Borrower to revert to the use of the Bank's system if: (a) Niger's 
+
+legal procurement framework happens to change to a system that is unsatisfactory to the Bank; 
+
+(b) the executing agency fails to comply with the arrangements in force; or (c) the appropriate 
+
+risk mitigation measures included in the risk assessment action plan that was made at the time 
+
+of the project appraisal are not adhered to. The procurement risk mitigation action plan is 
+
+annexed to Volume 2. 
+
+4.1.3 Financial Management: The National Representation and Technical Assistance Unit 
+
+(CENRAT), based in Niamey and placed under the supervision of the Ministry of Agriculture 
+
+and Livestock, will be responsible for the administrative, financial and accounting management 
+
+of the project. The activities will be carried out by three Regional Project Management Units 
+
+(RPMUs) based in Maradi, Tahoua, Zinder.  
+
+  
+
+
+
+ 
+
+15 
+
+ 
+
+CENRAT and the RPMUs have financial management staff with extensive experience in the 
+
+accounting and financial management of development projects, and who are also familiar with 
+
+most of the tools required for proper recording of financial operations, and for monitoring the 
+
+financial execution of activities and accountability. Regarding the needs of PRECIS, the 
+
+financial management staff in place will be strengthened through the recruitment of a senior 
+
+accountant for CENRAT and an accounting assistant for each RPMU. The staff will also be 
+
+trained in the Bank's financial management and disbursement rules and procedures at the launch 
+
+of the project and in the use of the software.  
+
+ 
+
+The budgetary management of PRECIS will be based on the existing mechanism in CENRAT 
+
+and the RPMUs. The Project will continue to produce an annual work plan and budget (AWPB) 
+
+that will incorporate the resources of the Bank as well as those of the national counterpart. It 
+
+will be validated by the Steering Committee and submitted to the Bank for its no-objection 
+
+before 31 December of the current year. The TOM2PRO software will be reconfigured to 
+
+support PRECIS by allowing the Budget execution and the production of quarterly financial 
+
+monitoring reports based on the implementation of the work plan and the annual budget, 
+
+annexed to the quarterly progress reports transmitted to the Bank within 45 days following the 
+
+end of each quarter.  
+
+ 
+
+The accounting system will be private in nature and will be in conformity with the standards of 
+
+the revised SYSCOHADA and based on the TOM2PRO software. It will make it possible to 
+
+perform the three types of accounting (general, budgetary and analytical) and to produce annual 
+
+financial statements which will be audited. 
+
+ 
+
+Internal oversight is based on the existing procedures manual, but the manual will be revised 
+
+and submitted to the Bank for its no-objection. The internal audit will be conducted by the 
+
+internal auditor who will be recruited with IFAD funding. The General Finance Inspectorate 
+
+(IGF) could provide support to the internal auditor, covering part of the project's internal audit 
+
+activities. The administrative, accounting and financial procedures manual will be subject to 
+
+the Bank's no-objection. 
+
+ 
+
+Financial reporting will be based on consolidated quarterly financial monitoring reports which 
+
+will be transmitted to the Bank no later than forty-five (45) days after the end of the quarter. 
+
+The assessment of CENRAT's capacities is provided in detail in the technical annexes, as well 
+
+as the financial management risk, which was assessed to be substantial. 
+
+4.1.4 Disbursements: Three (3) payment methods will be used for the financial 
+
+implementation of the project namely: (i) reimbursement, (ii) the special account, and (iii) direct 
+
+payment. The special account method will be used to finance minor operating expenses, short 
+
+training courses and miscellaneous expenses. A special account will be opened for this purpose 
+
+with a commercial bank acceptable to the Bank. The opening of this account will be a condition 
+
+precedent to first disbursement. This special account will be used to receive an initial advance, 
+
+whose amount will be determined on the basis of the provisional operating budget for six 
+
+months of project activity. The special account will be replenished on the same basis, after the 
+
+borrower has justified at least 50% of the amount of the previous advance. The direct payment 
+
+method will be used for disbursement for contracts relating to the goods, services and works 
+
+categories. Training in the Bank's disbursement rules and procedures will be provided at the 
+
+launch of the project. 
+
+  
+
+
+
+ 
+
+16 
+
+ 
+
+4.1.5 Audits: In accordance with the general conditions applicable to the financing 
+
+agreements of the African Development Fund, the country will be required account for the use 
+
+of the resources allocated to it. An independent and competent external audit firm will therefore 
+
+verify once a year the accuracy of the annual consolidated financial statements prepared by the 
+
+project management team and assess the functioning of the internal oversight system of the 
+
+entire project. It will be recruited by CENRAT on the basis of terms of reference previously 
+
+agreed on with the Bank and in accordance with Bank rules and procedures. The audit contract 
+
+will be for a maximum duration of three fiscal years, and the auditor will be required to submit 
+
+his/her report no later than six (6) months after the end of the fiscal year to which the audit 
+
+relates. The audit fees will not be paid in full unless the report is approved by the Bank. The 
+
+auditor shall not be allowed to render services in respect of a year unless the services of the 
+
+previous year were satisfactorily performed. 
+
+ 
+
+The country will also be required to carry out an environmental and social performance audit 
+
+on a yearly basis. To that end, an independent consultant will to be recruited to carry out that 
+
+environmental and social audit. 
+
+4.2. Monitoring  
+
+4.2.1 Monitoring mechanisms: The monitoring and evaluation mechanism of 
+
+PRECIS/AfDB will be part of the overall framework of the PRECIS mechanism, itself backed 
+
+up by that of ProDAF, which is already in place. A baseline situation will be established at the 
+
+start of the project to set the quantitative and qualitative values of the indicators selected for the 
+
+logical framework. The M&E system is based on a continuous internal monitoring of selected 
+
+activities with emphasis on the effects and changes brought about by the project's achievements. 
+
+This system will be participatory and will involve the beneficiaries and actors of the project in 
+
+the collection of data and information feedback from the field (difficulties encountered, possible 
+
+risks and delays, etc.). Thematic surveys and external evaluations will be conducted in order to 
+
+better assess issues relating to food security, nutrition, job creation, gender mainstreaming and 
+
+aspects associated with resilience. External monitoring tasks, involving relevant line ministries, 
+
+will also be regularly organised by the Government, in addition to the two annual supervision 
+
+missions organised by the Bank and the close monitoring carried out by the Bank’s Country 
+
+Office in Niger (CONE). Several participatory workshops will also be organised to enable local 
+
+actors to evaluate by themselves the operations implemented. A mid-term review and a final 
+
+evaluation are planned, involving the Bank and the Government, in order to allow for possible 
+
+readjustments and capitalisation of achievements, respectively, accompanied by an evaluation 
+
+of the Bank's contribution to outcomes on the ground. The monitoring and evaluation 
+
+framework will systematically include gender-disaggregated data to ensure greater readability 
+
+of the outcomes on women and vulnerable groups. A baseline study will be carried out at the 
+
+start of PRECIS to establish the values of quantitative and qualitative indicators by region. The 
+
+system in place currently has a consolidator at the central level (CENRAT), and M&E officers 
+
+at regional level supported by assistants. The mechanism is supported by a computerised system 
+
+that provides on-line information at regional level and geo-localises all operations. It is possible 
+
+to filter requests by funding source. 
+
+ 
+
+4.2.2 The following is a summary of the provisional project implementation schedule. 
+
+  
+
+
+
+ 
+
+17 
+
+ 
+
+Activities     Date/Period   Responsible 
+
+Preparation    November-December 2019  AfDB/Govt. 
+
+Census FDS and sites   January-February 2020  DGGR/CENRAT 
+
+Preparation ESMF, RPF and PPMP January -April 2020  CENRAT 
+
+Appraisal     June-July 2020  AfDB/Govt. 
+
+PRECIS negotiation   End-August 2020  Govt./AfDB 
+
+Board of Directors   October 2020  AfDB/Govt. 
+
+Signing of the Financing Agreement October 2020  AfDB/Govt. 
+
+Effectiveness of 1st disbursement December 2020  Govt./AfDB 
+
+Launch of PRECIS/AfDB  January 2021  AfDB/Govt./CENRAT 
+
+Implementation of operational activities 2021-2025 CENRAT/Govt./Sce, Providers 
+
+Construction of water harnessing structures 2021-2023   CENRAT/Enterprises 
+
+Mid-term review 1st half 2023  AfDB/Govt./CENRAT 
+
+Project closing date 3  1 December 2025  CENRAT/AfDB/Govt. 
+
+Completion report   1st half 2026  AfDB/Govt. 
+
+4.3. Governance 
+
+The project falls within the framework of the Economic and Social Development Plan (PDES, 
+
+2017-2021) which is founded on the strategy to ensure sustainable development and inclusive 
+
+growth by 2035. Under this strategy, the country continues to work towards the consolidation 
+
+of democratic institutions and the promotion of good governance. Niger has made significant 
+
+strides in improving the overall governance framework in recent years and has finalized the 
+
+establishment of all the institutions of the Republic, in accordance with the Constitution of 25 
+
+November 2010. Niger is also in the process of implementing the National Justice and Human 
+
+Rights Policy adopted in 2016, which led to the adoption in October 2017 of a bill on the 
+
+organisation and jurisdiction of courts, aimed at improving public access to fair justice. With 
+
+regard to combating corruption, the powers of the Supreme Authority to Combat Corruption 
+
+and Related Offences (HALCIA) were strengthened in 2016 by law. According to Transparency 
+
+International, Niger ranks 112th out of 180 countries. Niger has also been working on improving 
+
+public finance governance for at least a decade. Accordingly, it adopted implementing 
+
+instruments for the six WAEMU directives on public finance management; adopted a new 
+
+customs code in line with community directives; delegated financial controls to the country's 
+
+regional capitals; conducted the 2013 and 2014 public procurement audits; drafted and adopted 
+
+a new public procurement code (in 2016); prepared implementing instruments and new BDs; 
+
+and adopted and implemented a comprehensive public procurement capacity-building plan. 
+
+Thus, the national procurement system is deemed to be largely compliant with international 
+
+standards, even if certain provisions need to be strengthened, notably in order to (i) cap the 
+
+proportion of direct agreement contracts at 15%; (ii) build the professional capacity of the actors 
+
+involved in the procurement and contract execution process; and (iii) institute a policy to 
+
+promote and strengthen the participation of national companies in competitive bidding. 
+
+4.4. Sustainability  
+
+4.4.1 Sustainability is a central concern for PRECIS. This is evident in the choice of 
+
+transformative investments in socio-economic areas (Development Pole) that promote the 
+
+transformation of production systems and the forging of strong links between various segments 
+
+of the value chains of the main agro-pastoral sub-sectors. These transformative investments, 
+
+
+
+ 
+
+18 
+
+ 
+
+whose quality will be subject to ongoing control (works control and supervision and 
+
+procurement audits), will be supplemented by technical and organisational capacity-building 
+
+for beneficiaries. The emphasis placed on promoting youth entrepreneurship and women's 
+
+empowerment will also be continued and scaled up beyond the project's financing period. 
+
+4.4.2 The institutional structure of the project, the approach of outsourcing tasks to 
+
+established institutions and the involvement of beneficiaries right from the planning to the 
+
+operation stages (in the case of infrastructure) will guarantee the sustainability of PRECIS 
+
+achievements after the project ends. Indeed, the PRECIS project is modelled on ProDAF, and 
+
+stands to benefit from ProDAF staff who are already experienced in most of the implementation 
+
+strategies, and also from ProDAF methods, tools and lessons, as well as from the availability 
+
+of FDS on water harnessing structures; this will help to avoid the delays often experienced 
+
+project commencement. Furthermore, this will help to ensure the rapid and timely deployment 
+
+of all operations, thereby allowing sufficient time to support producers and to monitor the 
+
+capitalisation and the strengthening of gains by the beneficiaries. Following the example of 
+
+ProDAF and PMERSA, PRECIS will help to build the capacities of established entities with 
+
+which it will collaborate during implementation (STC, STD, NGOs, RECA, CRA, POs, etc.). 
+
+This will help to strengthen them and to provide them with the resources required to continue 
+
+monitoring the activities entrusted to them after the end of the partnerships.  
+
+4.4.3 Regarding the implementation strategy, the civil and social engineering duo will 
+
+promote greater ownership by the beneficiaries and their empowerment. Thus, many of the 
+
+project activities will contribute to its sustainability, especially in terms of securing land tenure, 
+
+supporting the organisation of beneficiaries and introducing management tools to ensure better 
+
+maintenance and coverage of recurrent infrastructure costs (water harnessing works, irrigation 
+
+development works, markets, shops, farm-to-market roads, etc.), and strengthening of the 
+
+organisation of producers. In addition, the activities included in the components relating to the 
+
+promotion of rural entrepreneurship, processing and market access, will generate value-added 
+
+and create wealth, thereby contributing to ownership of the project's achievements by the direct 
+
+beneficiaries. With regard to the entrepreneurship component, the exit strategy will be based on 
+
+the establishment of business development service (SDE) providers and building their capacity 
+
+so that they can set up their own businesses. 
+
+4.5. Risk Management  
+
+The potential risks identified in PRECIS implementation and their mitigation measures are 
+
+summarised in the table below: 
+
+ 
+
+Risks Mitigation Measures 
+
+Worsening of security conditions, 
+
+particularly in localities of the 
+
+northern part of Tahoua 
+
+-Targeting of areas currently without security problems; 
+
+-Political commitment of the authorities and support from regional 
+
+actors and the international community; 
+
+-An outsourcing approach that is reliant on local economic and civil 
+
+society actors; and 
+
+-Integration of pastoral water projects in the North. 
+
+The sometimes protracted delays in 
+
+procurement procedures, which 
+undermine the capacity to absorb 
+
+available funding; 
+
+-Anticipation of procurement operations thanks to the existing 
+
+agencies and the availability of BDs; 
+
+-Decentralisation of part of the procurement process to the regions; 
+
+and 
+
+ 
+
+
+
+ 
+
+19 
+
+ 
+
+-Recruitment of a procurement assistant to follow up the files at the 
+
+Ministry. 
+
+Unfavourable environmental and 
+
+climatic conditions in the Sahel 
+
+region, which could lead to 
+
+decapitalisation of the most 
+
+vulnerable groups during severe 
+
+crises 
+
+- Development and implementation of environmental and social 
+
+safeguard instruments (ESMF, RPF, PPMP, ESIA/ESMP, RAP); 
+
+-Planned water harnessing activities; and  
+
+-Specific attention to vulnerable groups. 
+
+Socio-cultural barriers that do not 
+
+always favour the access of women 
+and young people to factors of 
+
+production 
+
+-A proactive approach of the project and specific activities carried 
+
+out in favour of women and young people; and 
+
+-Addressing land tenure issues through an agreement with the Rural 
+
+Code Secretariat and support for grassroots land commissions 
+
+(COFOB and COFOCOM). 
+
+Difficulties relating to ownership and 
+
+management of the new areas by the 
+
+communities 
+
+- Training and structuring activities; 
+
+- Organisation of exchange visits; and 
+
+- Ongoing support of beneficiaries. 
+
+Lack of interest among young people  
+
+(18-24 years of age) 
+
+- Conduct of communication, information and awareness-raising 
+
+activities for young people; and 
+
+- Continuous mentoring and support for young people and the most 
+
+vulnerable groups. 
+
+4.6. Knowledge-Building  
+
+PRECIS activities that will lead to better knowledge management and development may be 
+
+summarised as follows: (i) strengthening of local expertise in terms of resilience and the 
+
+capacity of local communities to adapt to the recurrent effects of climate change, through 
+
+irrigation development and better control and management of water resources; (ii) 
+
+dissemination of new production and processing technologies: development of expertise in 
+
+localised irrigation techniques at the individual level, promotion of appropriate crop sequencing 
+
+techniques for the Sahel region, dissemination/extension of assisted natural regeneration 
+
+(ANR), promotion of improved stoves made from local materials, etc.; (iii) setting up of 
+
+demonstration units and dissemination of best practices: farmer field schools (FFS) and small 
+
+livestock innovation demonstration units (DIPE) which will help to disseminate knowledge and 
+
+improve productivity and yields, integrated soil fertility management (ISFM), sustainable land 
+
+and water management (SLWM), and integrated predator and pest management (IPPM) which 
+
+will enable the protection and preservation of resources and help to mitigate the vulnerability 
+
+of soil resources; (iv) organisation of production and processing technology review workshops 
+
+and exchange visits, as tools for interaction between researchers, support and extension agents 
+
+and producers with a view to adapting technologies to the local context; (v) awareness-raising 
+
+and dissemination of information, through various communication channels (community radio, 
+
+media programmes, website, films, etc.), aimed at promoting the use of these technologies in 
+
+water resource management; (vi) strengthening of women's leadership and economic 
+
+empowerment, supported by a commitment to policy dialogue with the ministries concerned, 
+
+with a view to greater implementation of policies that promote gender equality; and (vii) 
+
+promotion of innovative activities to improve the employability of young people and women, 
+
+and the development of rural micro and small enterprises, through targeted support and 
+
+customized assistance. 
+
+  
+
+
+
+ 
+
+20 
+
+ 
+
+V.  LEGAL FRAMEWORK  
+
+5.1. Legal Instrument 
+
+The project's legal framework will be a TSF Grant Protocol Agreement between the Republic 
+
+of Niger (the "Donee") and the Bank and the Fund, as TSF administrators (the Bank and the 
+
+Fund are hereinafter collectively referred to as the "Fund"). 
+
+5.2. Conditions Associated with the Bank’s and the Fund’s Intervention  
+
+5.2.1 The Grant Protocol Agreement shall become effective on the date of its signature by 
+
+the parties, in accordance with Section 10.01 of the General Conditions Applicable to Grant 
+
+Protocol Agreements of the Fund. 
+
+5.2.2 In addition to the effectiveness of the Grant Agreement, the first disbursement of the 
+
+TSF Grant will be subject to fulfilment by the Donee, to the satisfaction of the Fund, of the 
+
+following conditions: 
+
+(a) submission of [the ministerial order(s)] confirming (i) the designation of 
+CENRAT as the Project Coordination Unit ("PCU"); and (ii) the appointment of 
+
+the Senior National Technical Assistant in charge of Policy Dialogue as the PCU 
+
+Coordinator; 
+
+ 
+
+(b) submission of evidence of the recruitment within the PCU of (i) one (1) 
+environmental and social safeguards expert; (ii) an accountant; and (iii) a 
+
+procurement expert; whose respective qualifications and terms of reference will 
+
+have been previously approved by the Fund; 
+
+ 
+
+(c) submission of evidence deemed satisfactory by the Fund, on form and substance, 
+of the configuration of the integrated TOM2PRO software allowing the 
+
+Executing Agency to ensure the keeping of accounts for the Project. 
+
+5.2.3 Conditions precedent to disbursements for works involving resettlement: Subject 
+
+to the arrangements relating to effectiveness of the Protocol Agreement and the conditions 
+
+precedent to first disbursement above, the Fund's obligation to disburse grant resources for 
+
+works involving an Environmental and Social Management Framework (ESMF) and a 
+
+Resettlement Policy Framework (RPF) shall be contingent upon fulfilment by the Donee of the 
+
+following additional conditions: 
+
+(a) submission, for the site concerned, of an Environmental and Social Impact 
+Assessment (ESIA), an Environmental and Social Management Plan (ESMP) 
+
+and a Resettlement Action Plan (RAP) for the works, prepared in accordance 
+
+with the ESMF, the Resettlement Policy Framework (RPC), and the Fund's 
+
+Safeguards Policies, and satisfactory to the Fund in both substance and form;  
+
+(b) submission of satisfactory evidence that all project-affected persons (PAPs) in 
+the works area have been compensated and/or resettled in accordance with the 
+
+Environmental and Social Management Plan (ESMP) developed for a specific 
+
+site, the RAP developed for a specific site, the developed works and 
+
+compensation schedule, and the Fund's Safeguard Policies, prior to the start of 
+
+such works and, in any event, prior to the displacement of the PAPs and/or 
+
+appropriation of their land and/or related property; or 
+
+
+
+ 
+
+21 
+
+ 
+
+(c) in lieu of paragraphs (b) above, submission of satisfactory evidence that 
+resources allocated for PAP compensation and/or resettlement have been 
+
+deposited in a dedicated account with a bank acceptable to the Fund or deposited 
+
+with a trusted third party acceptable to the Fund, where the Donee can prove to 
+
+the satisfaction of the Fund that the compensation and/or resettlement of the 
+
+PAPs, pursuant to paragraph (b) above, could not be fully or partially carried 
+
+out, for the following reasons: 
+
+(i) identification of PAPs by the Donee is neither feasible nor possible; 
+
+(ii) there are ongoing disputes involving the PAPs and/or affecting the 
+compensation and/or resettlement exercise; or 
+
+(iii) any other reason beyond the control of the Donee as discussed and agreed 
+with the Fund. 
+
+5.2.4  Environmental and social safeguards: The Donee undertakes to: 
+
+ 
+
+(a) implement the Project in accordance with the ESMP, RAP, the Work and 
+Compensation Schedule, the Fund's Safeguard Policies and national legislation;  
+
+(b) prepare and submit to the Fund, no later than fifteen (15) days following the 
+period covered, quarterly reports on the implementation of the site-specific 
+
+ESMP and the RAP;  
+
+(c) refrain from any action that would prevent or hinder the implementation of the 
+site-specific ESMP and RAP; 
+
+(d) fully cooperate with the Fund in case the implementation of the project or any 
+change in its scope leads to unforeseeable displacement and/or resettlement of 
+
+people; and 
+
+(e)  recruit on a competitive basis with the Fund's approval an independent external 
+consultant to carry out an annual audit of the environmental and social 
+
+performance of the project throughout its implementation period using the 
+
+Fund's resources, in accordance with terms of reference previously deemed 
+
+acceptable by the Fund. The annual audit report will be submitted to the Fund 
+
+no later than 30 January of the year following the audited year. 
+
+5.2.5 Other undertakings: The Donee undertakes to:  
+
+(a) no later than six (6) months following the effectiveness of the Protocol of 
+Agreement, recruit the independent auditor for the project. 
+
+(b) no later than three (3) months following the first disbursement of the Grant 
+resources: 
+
+(i) update the administrative, financial and accounting procedures manual of 
+the Executing Agency; and 
+
+ 
+
+
+
+ 
+
+22 
+
+ 
+
+(c) no later than six (6) months following the first disbursement of the Grant 
+resources 
+
+(i) recruit within each PMU (Maradi, Tahoua and Zinder) an assistant 
+accountant, on a competitive basis; 
+
+(ii) recruit, on a competitive basis and with the prior approval of the Fund, one 
+(1) expert in environmental and social safeguard within the URGP of 
+
+Maradi and one (1) expert in environmental and social safeguard within 
+
+the URGP of Tahoua 
+
+(iii) recruit within the PCU, on a competitive basis, the following experts: (A) 
+one (1) Agricultural Engineering (AE) expert to monitor all project 
+
+activities, focusing on structural works; (B) two (2) assistants specialised 
+
+in youth entrepreneurship, placed under the responsibility of the RPMU 
+
+component manager and who will work in close cooperation with the 
+
+national technical assistant of CENRAT; (D) ten (10) local development 
+
+assistants (LDAs), six (6) of whom will be tasked with agricultural 
+
+extension and four (4) with monitoring and evaluation. Nine (9) local 
+
+development assistants will be assigned to RPMUs; and one (1) to 
+
+CENRAT to strengthen the monitoring and evaluation team.  
+
+ 
+
+ (d) no later than twelve (12) months following the first disbursement of Grant  
+
+                   resources: 
+
+(i) elaborate and sign the conventions listed in Annex IV (Conventions) of the  
+Memorandum of Understanding 
+
+5.3. Compliance with Bank Policies 
+
+This project complies with all applicable Bank policies. It will be implemented as part of the 
+
+Bank's intervention strategy for Niger defined in the CSP (2018-2022). 
+
+VI. Recommendation 
+
+Management recommends that the Boards of Directors of the Bank and the Fund, acting as 
+
+administrators of the Transition Support Facility (TSF), should approve the proposed award of 
+
+a TSF grant of UA 25.859 million to the Republic of Niger, for the purpose and under the 
+
+conditions set forth in this report. 
+
+ 
+
+ 
+
+
+
+ 
+
+I 
+
+ 
+
+Annex I:  Comparative Socioeconomic Indicators of Niger 
+
+ 
+
+  
+
+Year Niger
+West 
+
+Africa
+Africa
+
+Develo-    
+
+ping         
+
+Countries
+
+Basic Indicators
+
+Area ( '000 Km²) 2019 1 267 5 115 30 067 94 797
+Total Population (millions) 2019 23,3 386,9 1 306,3 6 384,0
+Urban Population (% of Total) 2019 16,4 47,0 43,3 50,3
+Population Density  (per Km²) 2019 18,4 76,9 44,5 69,2
+GNI per Capita (US $) 2018  390 1 551 1 783 4 844
+Labor Force Participation *- Total (%) 2019 72,0 58,7 63,2 60,7
+Labor Force Participation **- Female (%) 2019 60,6 53,0 54,6 45,8
+Sex  Ratio (per 100 female) 2019 101,0 101,3 99,8 107,1
+Human Dev elop. Index  (Rank among 189 countries) 2018 189 ... ... …
+Popul. Liv ing Below  $ 1.90 a  Day  (% of Population) 2007-18 44,5 41,2 35,6 11,9
+
+Dem ographic Indicators
+
+Population Grow th Rate   - Total (%) 2019 3,9 2,7 2,7 1,2
+Population Grow th Rate   - Urban (%) 2019 4,5 4,1 3,6 2,3
+Population < 15 y ears  (%) 2019 49,8 43,4 40,6 27,6
+Population 15-24 y ears (%) 2019 19,4 19,6 19,3 16,4
+Population >= 65 y ears  (%) 2019 2,6 2,8 3,5 7,2
+Dependency  Ratio (%) 2019 110,3 85,8 78,7 54,6
+Female Population 15-49 y ears (% of total population) 2019 21,0 23,3 24,2 25,2
+Life Ex pectancy  at Birth - Total (y ears) 2019 62,4 58,0 63,5 70,8
+Life Ex pectancy  at Birth - Female (y ears) 2019 63,6 59,1 65,3 73,0
+Crude Birth Rate (per 1,000) 2019 45,6 36,8 33,0 20,2
+Crude Death Rate (per 1,000) 2019 8,0 10,0 8,0 7,3
+Infant Mortality  Rate (per 1,000) 2018 48,0 64,1 48,7 31,3
+Child Mortality  Rate (per 1,000) 2018 83,7 99,6 70,2 42,0
+Total Fertility  Rate (per w oman) 2019 6,8 5,1 4,4 2,6
+Maternal Mortality  Rate (per 100,000) 2017 509,0 704,7 432,3 230,0
+Women Using Contraception (%) 2019 20,5 21,9 39,1 61,7
+
+Health & Nutrition Indicators
+
+Phy sicians (per 100,000 people) 2010-18 4,3 25,1 33,4 121,8
+Nurses and midw iv es (per 100,000 people) 2010-18 27,0 98,7 107,8 240,8
+Births attended by  Trained Health Personnel (%) 2010-17 39,7 50,5 61,7 78,5
+Peop.  Using at least basic drinking w ater serv ices (% of Pop.) 2017 50,3 69,8 66,3 87,7
+Peop.  Using at least basic sanitation serv ices (% of Population) 2017 13,6 32,5 40,3 68,5
+Percent. of Adults (aged 15-49) Liv ing w ith HIV/AIDS 2018 0,3 1,5 3,4 ...
+Incidence of Tuberculosis (per 100,000) 2018 87,0 171,5 202,3 154,0
+Child Immunization Against Tuberculosis (%) 2018 87,0 70,4 81,4 84,9
+Child Immunization Against Measles (%) 2018 77,0 71,0 76,1 85,2
+Underw eight Children (% of children under 5 y ears) 2010-17 31,7 19,8 17,5 14,5
+Prev alence of stunding 2010-17 42,2 36,3 34,0 23,6
+Prev alence of undernourishment (% of pop.) 2017 16,5 13,9 18,5 12,3
+Current health ex penditure (% of GDP) 2016 6,2 4,1 5,3 5,4
+
+Education Indicators
+
+ Gross Enrolment Ratio (%)
+
+      Primary  School       -   Total 2010-19 74,7 89,4 100,1 104,1
+      Primary  School       -   Female 2010-19 69,2 87,1 98,0 104,4
+      Secondary  School  -   Total 2010-19 24,3 44,9 52,6 71,9
+      Secondary  School  -   Female 2010-19 20,7 42,1 50,4 71,4
+Primary  School Female Teaching Staff (% of Total) 2010-18 52,7 40,2 48,6 62,9
+Adult literacy  Rate - Total (%) 2010-18 30,6 56,0 66,9 84,0
+Adult literacy  Rate - Male (%) 2010-18 91,6 53,6 70,8 88,2
+Adult literacy  Rate - Female (%) 2010-18 22,6 46,8 60,0 79,8
+Gouv ernment ex penditure on Education (% of GDP) 2010-17 3,5 4,1 4,3 4,1
+
+Environm ental  Indicators
+
+Land Use (Arable Land as % of Total Land Area) 2016 13,3 17,0 8,0 11,4
+Agricultural Land (as % of land area) 2016 36,1 48,9 38,2 38,3
+Forest (As % of Land Area) 2016 0,9 9,2 13,2 31,9
+Per Capita CO2 Emissions (metric tons) 2014 0,1 0,4 1,2 3,5
+
+Sources  :  AfDB Statistics Department Databases;  World Bank: World Development Indicators; last update :
+
+UNAIDS; UNSD; WHO, UNICEF, UNDP; Country Reports.
+
+Note  :    n.a. : Not  Applicable ;  … : Data Not Available. * Labor force participation rate, total (%  of total population ages 15+)
+
+** Labor force participation rate, female (%  of female population ages 15+) 
+
+Niger
+COMPARATIVE SOCIO-ECONOMIC INDICATORS
+
+April 2020
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+8
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+2
+0
+
+1
+8
+
+Infant Mortality Rate
+( Per 1000 )
+
+Niger Afr ica
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+8
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+2
+0
+
+1
+8
+
+GNI Per Capita US $
+
+Niger Afr ica
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+2,5
+
+3,0
+
+3,5
+
+4,0
+
+4,5
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+7
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+2
+0
+
+1
+8
+
+Population Growth Rate (%)
+
+Niger Afr ica
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+2
+0
+
+0
+0
+
+2
+0
+
+0
+7
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+2
+0
+
+1
+8
+
+Life Expectancy at Birth 
+(years)
+
+Niger Afr ica
+
+
+
+   
+
+II 
+
+ 
+
+ 
+
+Annex II: Bank’s Active Portfolio in Niger as of 31 December 2019 
+ 
+
+ 
+  
+
+Sector SAP Code Number
+Instrument No.
+
+Date 
+
+Approved
+Date     signed
+
+Date 
+
+Completed 
+Amount Committed Amount Disbursed Rate Disb. Age
+
+2100150041544 12/062019 46 520 000,00 0,00 0,00
+
+2100155039628 11/06/2019 35 480 000,00 0,00 0,00
+
+5900150002601 11/06/2019 10 000 000,00 0,00 0,00
+
+5565130000051 6 881 814,00 4 681 016,36 68,02
+
+5565155000301 2 535 111,29 1 411 574,57 55,68
+
+5565130000052 9 053 968,90 6 734 421,68 74,38
+
+5565155000302 6 881 016,36 5 218 475,13 75,84
+
+117 351 910,55 18 045 487,74 15,38 4,87
+
+2100150036843 15 070 000,00 1 028 826,00 6,83
+
+2100155034017 29 250 000,00 2 299 848,00 7,86
+
+2200160002039 7 400 000,00 477 491,00 6,45
+
+51 720 000,00 3 806 165,00 7,36 3,30
+
+5 P-NE-KZ0-001 SUPPORT FOR RESOURCE MOBILIZATION AND IMPLEMENTATION OF THE 2017-2021 ESDP 5900155013451 27/03/2018 25/06/2018 20/08/2020 1 000 000,00 853 397,98 85,34 1,76
+
+6 P-NE-IAE-001 ECONOMIC COMPETITIVENESS AND FINANCIAL MANAGEMENT SUPPORT PROJECT 2100155040418 03/09/2019 01/11/2019 31/12/2022 9 210 000,00 533 205,00 5,79 0,33
+
+10 210 000,00 853 397,98 8,36 1,05
+
+2100150023461 7 870 000,00 7 759 371,33 98,59
+
+2100155019273 17 630 000,00 16 883 603,49 95,77
+
+25 500 000,00 24 642 974,82 96,64 9,05
+
+2100150042199 15 810 000,00 0,00 0,00
+
+5900150002751 11 140 000,00 0,00 0,00
+
+5900155016102 2 510 000,00 0,00 0,00
+
+29 460 000,00 0,00 0,00 0,15
+
+234 241 910,55 47 348 025,54 20,21 4,57
+
+2100150032045 14 480 000,00 6 944 285,47 47,96
+
+2100155028525 14 480 000,00 6 832 721,27 47,19
+
+10 P-Z1-CZ0-023 MULTINATIONAL PROJECT TO SUPPORT THE SOCIO-ECONOMIC REINTEGRATION OF VULNERABLE GROUPS IN THE LAKE CHAD BASIN 5550155001453 18/07/2018 01/11/2019 31/12/2024 2 373 509,33 0,00 0,00 1,45
+
+2100155038973 7 500 000,00 87 415,71 1,17
+
+5110155000552 1 579 702,82 48 898,27 3,10
+
+2100150030845 58 980 000,00 24 487 632,47 41,52
+
+2100155026867 20 090 000,00 8 913 673,21 44,37
+
+2100150038698 26 000 000,00 0,00 0,00
+
+5900150001801 27 500 000,00 0,00 2,29
+
+2100155036218 9 000 000,00 205 850,73 2,29
+
+5110155000151 29/06/2018 19/12/2018 31/12/2022 12 100 970,50 0,00 0,00
+
+2100150037243 19 375 000,00 0,00 0,00
+
+2100155034416 15 443 000,00 1 762 274,60 11,41
+
+228 902 182,65 49 282 751,73 21,53 3,16
+
+463 144 093,20 96 630 777,27 20,86 3,86
+
+SONIBANK  SOCIETE NIGERIENNE DE BANQUE 2000130010430 16/01/2013 08/07/2013 08/07/2021 10 459 409,45 10 459 409,45 100,00 6,96
+
+SONIBANK  SOCIETE NIGERIENNE DE BANQUE 5050140000065 04/11/2015 14/10/2016 08/07/2021 2 478 075,46                          0,00 0,00 4,16
+
+12 937 484,91 10 459 409,45 80,85 5,56
+
+476 081 578,11 107 090 186,72 22,49 3,94
+
+12
+
+13
+
+14
+
+15
+
+11
+
+0,15
+
+06/06/2019
+
+1
+
+4
+
+7
+
+8
+
+2
+
+3
+
+9
+
+09/12/2016
+
+Energy P-Z1-FA0-119 NIGER: NIGERIA-NIGER-BENIN-BURKINA FASO POWER INTERCONNECTION PROJECT
+
+Environment
+
+CLIMATE INFORMATION DEVELOPMENT AND FORECASTING PROJECT 24/09/2012 22/11/2012 31/12/2020
+
+25/06/2018 31/12/2022
+
+5,21
+
+1,15
+
+6,06
+
+2,04
+
+3,30
+
+9,05
+
+3,06
+
+Sub-Total Transport 
+
+06/04/2017
+
+RURAL, PERI-URBAN AND URBAN ELECTRIFICATION PROJECT
+
+Sub-Total Energy  
+
+09/12/2016 10/03/2017 31/12/2020P-NE-F00-004
+
+Sub-Total Governance 
+
+ Private Sector Projects
+
+P-NE-HAB-001Finances
+
+Social
+
+ Multinational Public Projects
+
+VOCATIONAL AND TECHNICAL EDUCATION AND TRAINING DEVELOPMENT SUPPORT PROJECTP-NE-IAE-001
+
+NIGER - PROGRAMME TO BUILD RESILIENCE TO FOOD INSECURITY
+
+PROGRAMME FOR INTEGRATED DEVELOPMENT AND ADAPTATION TO CLIMATE CHANGE IN THE NIGER RIVER BASIN 
+
+15/10/2014 27/01/2015 31/12/2021
+
+31/12/2021
+
+P-Z1-GB0-024 TRANS-SAHARAN OPTICAL FIBRE BACKBONE (TSB) PROJECT
+
+15/12/2017
+
+Sub-Total Public Projects 
+
+Communications
+
+Agriculture
+
+31/12/2024
+
+National Public Projects 
+
+P-NE-CZ0-004
+
+P-NE-CZ0-001
+
+Agriculture
+
+22/11/2012
+
+TOTAL 
+
+Sub-Total Social 
+
+Sub-T otal Private Sector Projects 
+
+Sub-Total Public Projects 
+
+07/11/2018
+
+ALGERIA-NIGER-CHAD TRANS-SAHARAN HIGHWAY (TSH) PROJECT 
+
+P-Z1-C00-071
+
+P-Z1-AAZ-022
+
+P-Z1-DB0-102 11/12/2013 08/03/2014
+
+30/06/2021
+
+Sub-Total Multinational Public Project 
+
+Transport
+
+Environment
+31/12/2025
+
+P-NE-DB0-011 TAMASKE-TAHOUA AND TAMASKE-MARRARABA ROADS DEVELOPMENT PROJECT 05/11/2019
+
+Governance
+
+Energy
+
+WATER RESOURCES MOBILIZATION AND DEVELOPMENT PROJECT 25/09/2012
+
+22/05/2019 31/12/2026P-NE-AA0-020 KANDADJI ECOSYSTEMS REGENERATION PROGRAMME SUPPORT PROJECT
+
+31/12/2020
+
+0,06
+
+7,27
+
+Transport
+
+7,27
+
+15/12/2010 22/12/2010 30/04/2020
+
+
+
+   
+
+III 
+
+ 
+
+ 
+
+ 
+
+Annex III:  Drivers of Fragility and Recommendations for Strengthening Resilience 
+
+ 
+
+Introduction 
+
+Niger is one of the least developed countries most at risk of institutional and societal collapse, due 
+
+to the multiplicity of drivers of fragility it faces and the devastating synergy between them and 
+
+the country's structural economic and social characteristics. Environmental factors produce 
+
+recurrent exogenous shocks that create situations of vulnerability which for some communities 
+
+have become chronic. Yet, the country is not lacking in levers of resilience, one of whose pillars 
+
+is definitely the entrenchment of democracy. A promising strategy for keeping young people away 
+
+from the sirens of migration and rebellion is the creation of jobs in medium and small-sized 
+
+enterprises to absorb the influx of labour market entrants. 
+
+ 
+
+The availability of arable land per capita is greater in the western part of the country than in other 
+
+Sahelian countries, which is a major advantage in agriculture, especially if the irrigation potential 
+
+is effectively and efficiently harnessed. A substantial increase in electricity supply, which is still 
+
+well below the country's needs, would help ensure the economic viability of small-scale industries, 
+
+particularly the processing of agricultural produce for which there is a local market, currently 
+
+occupied by imports. 
+
+ 
+
+Socioeconomic Context 
+
+ 
+
+Niger is facing serious structural challenges and attention to security issues should not overshadow 
+
+the major obstacles to development confronting the country, including: its landlocked position, 
+
+poor infrastructure, fragile government institutions, inadequate health care and the world's highest 
+
+population growth and total fertility rates, limited and declining arable land area, low annual 
+
+rainfall, high levels of malnutrition, extremely low levels of education, high gender inequalities 
+
+and a future threatened by the effects of climate change. It is essentially a rural country that is yet 
+
+to begin its urban transition. Most of its social and economic indicators are weak. With a poverty 
+
+rate of 48.9% and a per capita income of USD 420, Niger is one of the poorest countries in the 
+
+world, and this poverty is more pronounced in rural areas where almost 80% of the population 
+
+lives. Unemployment and underemployment, particularly among young graduates, are a 
+
+permanent concern in Niger. In 2010, there were 277,363 unemployed graduates in Niger, mainly 
+
+young people, of whom 52.5% were men and 47.5% women. The majority of unemployed or 
+
+under-employed young people are a burden to household heads, particularly in the low-income 
+
+quintiles where the average household size is larger. Larger households are also associated with 
+
+lower educational attainment. About 60% of the unemployed are in households where the head 
+
+has no education. In 2015, Niger ranked 188th out of 188 countries on the United Nations Human 
+
+Development Index. 
+
+ 
+
+At 3.9% per year, the country's population growth rate is one of the highest in the world, with an 
+
+average of 7.6 children per woman, which represents a huge burden on service delivery and is 
+
+likely to adversely impact the economic development of the country. Sixty percent (60%) of 
+
+Niger's population lives on less than one US dollar a day. This problem is worsened by very high 
+
+illiteracy rates resulting from low school enrolment. Official development assistance, which has 
+
+increased since the 1990s, represents about 60% of the investment budget and 40% of the State 
+
+budget. 
+
+ 
+
+Niger's economy is highly dependent on the security situation, which affects tourism in the 
+
+country. In the early 2000s, the tourism sector was booming, with high numbers of tourists visiting 
+
+especially the north of the country (Agadez region). However, insecurity and instability have led 
+
+
+
+   
+
+IV 
+
+ 
+
+ 
+
+to a decline in the number of tourists, adversely impacting jobs and livelihoods. Vast swathes of 
+
+the country are conducive to the development of more intensive agro-pastoral activity. Agriculture 
+
+and livestock farming are the two pillars of Niger's economy and employ 85% of the national 
+
+workforce, with a contribution to GDP formation estimated at an average of more than 40% over 
+
+the past decade. However, an unpredictable climate, coupled with soil depletion and erosion, is a 
+
+constant threat to agricultural production. Frequent natural disasters and high population growth 
+
+often lead to food crises in Niger. Food security therefore remains a major and recurrent challenge, 
+
+and the frequent food crises greatly expose rural populations, especially women and children, to 
+
+persistent food and nutrition vulnerability. In addition, the recent violent clashes between Boko 
+
+Haram and the Nigerian army have caused the displacement of more than 115,000 people from 
+
+Nigeria to Niger. Refugees are concentrated in Diffa, a food-insecure region currently 
+
+experiencing a humanitarian crisis of the greatest magnitude. 
+
+ 
+
+Niger is an exporter of natural resources, consisting mainly of uranium and oil. The country’s 
+
+subsoil is also rich in gas, gold, iron, phosphates, coal, limestone, gypsum and cassiterite. Tapping 
+
+these resources requires significant diversification of the economy with the development of a 
+
+dynamic national and international private sector within a well-defined and favourable regulatory 
+
+and institutional framework. Such a context should encourage the development of an environment 
+
+that facilitates the integration of young people into the labour market and the creation of wealth 
+
+with a view to strengthening overall stability. 
+
+ 
+
+Environmental Context 
+
+ 
+
+The Sahel is one of the most fragile ecologies in the world. Only 12% of Niger's land area receives 
+
+enough rainfall to sustain agriculture, and it is projected that very little or nothing will subsist 
+
+between now and 2100. Land in Niger is poor in nutrients, poorly managed, overgrazed and loses 
+
+up to 100 tonnes of its arable soil component per hectare per year due to erosion. The amount of 
+
+firewood used for cooking (estimated at two million tonnes per year) is double the natural 
+
+replacement growth rate. Subsistence farmers and pastoralists in this landlocked country have 
+
+weak links to domestic markets and even less access to imports, such as improved seed varieties 
+
+and fertilizers. Moreover, they have no financial institutions to lend them money nor any 
+
+protection against external shocks - and the animals that constitute their capital investment die 
+
+when the rains are scarce. For several decades, cereal production has been declining by an average 
+
+of 0.6 % per year. New drought-resistant varieties of millet, sorghum and cowpea are being 
+
+adopted; however, it seems unlikely that yields will keep pace with population growth. 
+
+ 
+
+Development Challenges in the Project Areas 
+
+ 
+
+Niger regularly experiences community conflicts, the most traditional of which are those between 
+
+nomadic transhumant herdsmen and sedentary farmers of various ethnicities. The war effort 
+
+burden imposed on public finances by the security situation, the limitations of donor intervention 
+
+in this area, and the economic consequences of the conflicts that sometimes lead to a halt in 
+
+production (as is the case in the Diffa region) seriously undermine implementation of the country's 
+
+development programmes. 
+
+Despite the unfavourable conditions, with temperatures of up to 50 degrees Celsius in the shade, 
+
+low and irregular rainfall as well as poor and erosion-prone soils, most people in Niger in general, 
+
+and in the project areas in particular, depend on income from rain-fed agriculture. In a context of 
+
+
+
+   
+
+V 
+
+ 
+
+ 
+
+increasing scarcity of this water resource, rainwater harvesting is of utmost importance. 
+
+The development of small-scale irrigation is hampered by the fact that smallholder families do not 
+
+have enough money to invest in the extension and improvement of irrigated areas. There is also a 
+
+lack of know-how when it comes to creating an irrigation system. Moreover, farmers do not have 
+
+access to inputs such as seeds, fertilisers and pesticides. 
+
+ 
+
+With regard to education, young people, particularly girls, have limited access to schooling. In 
+
+addition to the lack of school infrastructure in communes of the project area, the start of the school 
+
+year depends on the length of the rainy season, as these children make up the bulk of the 
+
+agricultural workforce. Human capital will not be improved unless the education of children is 
+
+placed at the forefront of development projects. These projects have the potential to provide 
+
+appropriate solutions to this problem, given that by developing agricultural potential, the projects 
+
+will ensure that the agricultural sector operates all year round. 
+
+ 
+
+Lessons from the Implementation of Previous Projects 
+
+ 
+
+The appraisal of the implementation of some agricultural projects in Niger shows frequent 
+
+protracted delays, with a direct impact on the expected outcomes of these projects, which, as a 
+
+result, reduces the impact on the beneficiaries. It was noted that the delays partly stemmed from 
+
+certain lapses in the procurement process, including laxity in the assessment of the financial 
+
+capacity and workload of the contracting enterprises. 
+
+ 
+
+The national counterpart component in project financing is very often an obstacle to compliance 
+
+with the work schedule. This reality is even more pronounced in Category 1 fragile countries such 
+
+as Niger. 
+
+ 
+
+Recommendation for the Strengthening of Resilience 
+
+ 
+
+When controlled upstream, run-off water is beneficial to local people who put it to multiple uses, 
+
+but it is necessary to empower these people, particularly women and young people by adopting 
+
+activities that could strengthen human capital, promote literacy and boost the local economy by 
+
+promoting the marketing of agricultural, aquaculture and reforestation products.  
+
+ 
+
+The recommendations below will help to address the abovementioned drivers of fragility 
+
+identified and strengthen resilience at the community level: 
+
+ 
+
+- Lay emphasis on improving the socio-economic environment by incorporating a 
+range of income-generating activities such as technical assistance to farmers, 
+
+support measures for local cooperatives, pest-control tools, the creation of product 
+
+conservation units, the procurement of machinery for the production and 
+
+processing of agricultural products, the development of infrastructure for the 
+
+marketing of agricultural products (rural roads for transporting products to large 
+
+commercial centres, construction of sheds to promote small local markets, etc.); 
+
+- Systematically enhance livestock corridors to prevent conflicts between farmers 
+and herdsmen; 
+
+
+
+   
+
+VI 
+
+ 
+
+ 
+
+- Make every effort to address literacy which is a huge problem. The effort 
+should be extended to the rehabilitation/construction of basic school infrastructure 
+
+as part of support measures; 
+
+- Pay special attention to women and young people. It is important to strengthen the 
+different forms of assistance for women in project areas, where such assistance has 
+
+the greatest potential to capitalise on the empowerment of this group, given the 
+
+wide gender disparity in the country; 
+
+- Include young people in the promotion of project outcomes, since they constitutue 
+more than half of the population. Activities in that regard could be supplemented 
+
+by providing unemployed youth aged 15 to 25 with training in a range of practical 
+
+skills that will help them to earn an income and become productive members of the 
+
+community; 
+
+- Address the problem of national counterpart funding right from the project design 
+stage by providing 100% financing, for instance; and 
+
+- Define and streamline the communication lines within the various projects: 
+Communication between members of the project management team, as well as 
+
+between members of this team and the supervisory authority is weak and 
+
+inefficient, which contributes to the multiplication of errors and other shortcomings 
+
+in project implementation.  
+
+ 
+
+However, the effective implementation of these measures requires a significant improvement in 
+
+governance, including the acceleration of anti-corruption efforts, transparency in procurement, 
+
+and streamlining of the management of public finances in general and project resources in 
+
+particular. 
+
+  
+
+
+
+   
+
+VII 
+
+ 
+
+ 
+
+          
+Annex IV: Map of Project Area  
+
+ 
+
+++
+
+ 
+ 
+
+NB: The entire PRECIS project will be implemented throughout the red-shaded area, but PRECIS-AfDB 
+
+will be implemented only in the Tahoua, Maradi and Zinder regions, and not in the Dosso region (red-
+
+shaded area in the West). 
+
+ 
+
+
+
+ 
+
+VIII 
+
+ 
+
+ 
+
+Annex V: Reasons for requesting a waiver of the Government's contribution (excluding tax  
+
+  exemptions) of less than 10% of the total project cost. 
+
+ 
+
+The purpose of this note is to present the rationale for waiving the Government of Niger's financial 
+
+contribution to the Project to Strengthen Resilience of Rural Communities to Food and Nutrition 
+
+Insecurity in Niger (PRECIS). For this programme whose objective is to sustainably improve the 
+
+food and nutrition security of rural households and strengthen their resilience to climatic and 
+
+environmental shocks, the Bank Group Eligible Expenditure Policy1 may apply. 
+
+ 
+
+The note analyses the four main criteria in this regard, namely: 
+
+  
+
+• The country's commitment to implement its overall development agenda; 
+
+• The priority that the country gives to the sector targeted by the Bank's assistance; 
+
+• The country's fiscal situation and debt level; and 
+
+• The cap on cost-sharing and the guidelines specified in the country financing 
+
+parameters. 
+
+ 
+
+1. Commitment of the country to implementing its comprehensive development 
+
+agenda 
+
+Following the drafting, in May 2017, of its Sustainable Development and Inclusive Growth Strategy 
+
+(SDDCI, 2035) defining the country's 2035 vision, Niger adopted its second Economic and Social 
+
+Development Plan for 2017-2021 (PDES, 2017-2021). PDES 2017-2021 is structured around five 
+
+strategic pillars: (i) cultural renaissance; (ii) social development and demographic transition, 
+
+particularly through demographic transition indicators; (iii) acceleration of economic growth; (iv) 
+
+improvement of governance, peace and security; and (v) sustainable management of the 
+
+environment. The specific outcomes expected from the PDES (2017-2021) are: reduction in the 
+
+incidence of poverty from 45.1.8% in 2016 to 31.3% in 2021; achievement of real GDP growth 
+
+averaging 7.3%; and a structural transformation of the economy with a greater contribution from 
+
+the secondary sector, as well as increased enhancement of agricultural production in the rural areas 
+
+and the revitalisation of the private sector. 
+
+ 
+
+The implementation status of the PDES (2017-2021) for 2019 shows that out of the 120 indicators 
+
+of the Results Measurement Framework (RMF), 53 reached and/or exceeded their 2018 target 
+
+(44.17%), 29 did not reach their target but exceeded their 2017 value (24.17%), 6 remained stable 
+
+(5%), 20 indicators remained below their 2017 value (16.67%), while 8 indicators had no data 
+
+(6.66%) and 4 had no baseline (3.33%). 
+
+ 
+
+2. Priority given by the country to the sector targeted by the Bank's aid 
+
+The agricultural and rural sector is a national priority in Niger, as reflected in the pillars of the 
+
+PDES (2017-2021) and the 3N (Nigeriens Nourish Nigeriens) Initiative. In particular, the 3N 
+
+Initiative aims to "shelter the people of Niger, on a sustainable basis, from hunger and malnutrition 
+
+and guarantee them conditions for full participation in national production and for the improvement 
+
+of their incomes.” More specifically, it aims to "strengthen national capacities for food production 
+
+and supply and resilience in the face of food crises and disasters" through five strategic pillars, 
+
+ 
+1 ADB/BD/WP/2007/106/Rev.2- ADF/BD/WP/207/72/Rev.2 of 2 May 2008. 
+
+
+
+ 
+
+IX 
+
+ 
+
+namely: (i) increasing and diversifying agro-sylvo-pastoral and fisheries production; (ii) supplying 
+
+rural and urban markets with agricultural and agri-food products on a regular basis (iii) improving 
+
+the resilience of vulnerable groups to climate change, crises and disasters; (iv) improving the 
+
+nutrition status of the people of Niger ; and (v) creating a favourable environment for the 
+
+implementation of the Initiative. 
+
+ 
+
+Implementation of the 3N Initiative has achieved encouraging outcomes as evidenced by the 
+
+implementation reports of the 2019 PDES and the Bank's agricultural sector projects, among others. 
+
+However, the performance of the rural sector is still weak overall, with chronic food insecurity 
+
+affecting around 30% of the population. As highlighted in the PRECIS evaluation report, the main 
+
+challenges faced in rural sector development are diverse, and include: (i) financing difficulties 
+
+(access to credit and limited public funding), the low capacity of actors and their organisations, and 
+
+the poor coordination and harmonisation of the numerous activities; (ii) low and especially 
+
+unevenly distributed rainfall, poor knowledge of water resources, poor water management, high 
+
+cost of inputs and equipment, and persistent land tenure insecurity, as well as the isolation of 
+
+production areas and difficulties in accessing regional markets.  
+
+ 
+
+3. National fiscal situation and debt level 
+
+ 
+
+Prior to the COVID-19 pandemic, efforts to consolidate public finances had also yielded 
+
+encouraging results, notably with the reduction of the budget deficit from 5.7% of GDP in 2017 to 
+
+3.2% of GDP in 2019. The country's financial situation, which nonetheless remained difficult due 
+
+to the security environment, was further undermined by the COVID-19 pandemic, resulting in a 
+
+significant loss in tax revenue, which might raise the budget deficit to -4.6% of GDP in 2020 from 
+
+an initial projection of -2.6% of GDP. This budget deficit, which is likely to worsen in the 
+
+pessimistic scenario, may also be attributed to the sharp increase in public spending designed to 
+
+cope with the consequences of the pandemic. Public debt should increase due to the impact of 
+
+COVID-19. Indeed, according to the baseline scenario established by the World Bank, public debt 
+
+is expected to rise from 42.2% of GDP in 2019 to 45.4% in 2020. The present value of external 
+
+public and state-guaranteed debt exceeds the threshold with limited space for repayment despite 
+
+strong donor support but is expected to decline next year. Niger's weak export base also limits its 
+
+capacity to contract more external debt. 
+
+ 
+
+4. Cap on cost-sharing and guidance specified in country funding parameters 
+
+ 
+
+The Bank Group Eligible Expenditure Policy states in paragraph 5.1.1 that the Bank will use the 
+
+Country Financing Parameters (CFPs) already developed for 38 countries by the World Bank to 
+
+determine, among other things, the cap on cost-sharing. The financing parameters for the World 
+
+Bank indicate that it can finance up to 100% of total project costs on a case-by-case basis. The 
+
+World Bank has used this CFP facility to finance the full cost of some of its new projects in Niger 
+
+in light of the current financial constraints and limited financial capacity of the Government 
+
+resulting from the sharp rise in security and humanitarian expenditure. Other TFPs have also revised 
+
+the cost-sharing model for their operations so that they can be financed 100% from external 
+
+resources. 
+
+  
+
+
+
+ 
+
+X 
+
+ 
+
+ 
+
+5. Conclusion 
+
+Most current assessments indicate that the economic and financial situation in Niger is deteriorating 
+
+following the outbreak of the Covid 19 pandemic, which aggravated the country's situation that had 
+
+already been made extremely fragile by security problems. The 2019 review of the Bank's portfolio 
+
+performance had already highlighted the constraint faced by the State in paying project 
+
+implementation counterpart funding. Considering the above, it is recommended that the Bank 
+
+should grant Niger a waiver of payment of the national counterpart funding for the Project to 
+
+Strengthen Resilience of Rural Communities to Food and Nutrition Insecurity in Niger (PRECIS. 
+
+ 
+
+  
+
+
+
+ 
+
+XI 
+
+ 
+
+ 
+
+Annex VI: ENVIRONMENTAL AND SOCIAL COMPLIANCE NOTE (ESCON)2 
+
+ 
+A. Basic Information 
+
+Project Title: Project to Strengthen the Resilience of Rural Communities to Food and 
+
+Nutrition Insecurity (PRECIS) 
+
+Project SAP code : P-NE-A00-009    
+
+Country: Niger Lending Instrument3: DI   FI   CL   BS   GU   RPA   EF   RBF  
+
+Project Managing Sector: AHAI Task Team Leader: CHEIBANY MOUSTAPHA ABDALLAHI 
+
+Appraisal date: 22 june-03 july 2020 Estimated Board Date: 15 October 2020 
+
+Environmental safeguards Officer: Gratien BONI Social safeguards Officer: - 
+
+Environmental and Social Category: 1 Operation type: SO   NSO   PBO    
+
+Is this project processed under rapid responses to crises and emergencies? Yes     No  
+
+Is this project processed under a waiver to the Integrated Safeguards System? Yes     No  
+
+ 
+
+B. Disclosure and Compliance Monitoring 
+B.1. Mandatory disclosure: NA 
+
+Environmental Assessment/Audit/System/Others (specify: ESMF and PMP) 
+
+Was/Were the document (s) disclosed prior to appraisal? Yes       No        NA         
+
+Date of "in-country" disclosure by the borrower/client 15/05/2020 
+
+Date of receipt, by the Bank, of the authorization to disclose 25/05/2020 
+
+Date of disclosure by the Bank 27/05/2020 
+
+Resettlement Action Plan/Framework/Others (specify: RPF.) 
+
+Was/Were the document (s) disclosed prior to appraisal? Yes       No        NA  
+
+Date of "in-country" disclosure by the borrower/client 15/05/2020 
+
+Date of receipt, by the Bank, of the authorization to disclose 25/05/2020 
+
+Date of disclosure by the Bank 27/05/2020 
+
+Vulnerable Peoples Plan/Framework/Others (specify: …………………………………………………………………...) 
+
+Was the document disclosed prior to appraisal? Yes        No      NA    
+
+Date of "in-country" disclosure by the borrower/client [Date] 
+
+Date of receipt, by the Bank, of the authorization to disclose [Date] 
+
+Date of disclosure by the Bank [Date] 
+
+If in-country disclosure of any of the above documents is not expected, please explain why: NA 
+
+ 
+
+B.2. Compliance monitoring indicators 
+
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for 
+
+the implementation of measures related to safeguard policies? 
+
+Yes     No  NA    
+
+Have costs related to environmental and social measures, including for the running of the 
+
+grievance redress mechanism, been included in the project cost? 
+
+Yes     No  NA    
+
+Is the total amount for the full implementation for the Resettlement of affected people, as 
+
+integrated in the project costs, effectively mobilized and secured? 
+
+Yes     No  NA    
+
+Does the Monitoring and Evaluation system of the project include the monitoring of 
+
+safeguard impacts and measures related to safeguard policies? 
+
+Yes     No  NA    
+
+Have satisfactory implementation arrangements been agreed with the borrower and the same 
+
+been adequately reflected in the project legal documents? 
+
+Yes     No  NA    
+
+ 
+
+C. Clearance 
+Is the project compliant to the Bank’s environmental and social safeguards requirements, and to be submitted 
+
+to the Board? Yes        No         
+
+ 
+
+ 
+2 Note: This ESCON shall be appended to project appraisal reports/documents before Senior Management and/or Board approvals. 
+3 DI=Direct Investment; FI= Financial Intermediary; CL=Corporate Loan; BS=Budget Support; GU=Guarantee; RPA=Risk Purchase Agreement; 
+
+EF=Equity Financing; RBF=Results Based Financing. 
+
+
+
+ 
+
+XII 
+
+ 
+
+Prepared by: Name Signature Date 
+
+Environmental Safeguards Officer: Gratien BONI  10/07/2020 
+
+Social Safeguards Officer: - - 
+
+Task Team Leader: CHEIBANY MOUSTAPHA 
+ABDALLAHI 
+
+15/07/2020 
+
+Submitted by:  
+
+Sector Director: Martin FREGENE  28/09/2020 
+
+Cleared by:  
+
+Director SNSC: Mr. Maman-Sani ISSA 
+ 
+
+09/10/2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+

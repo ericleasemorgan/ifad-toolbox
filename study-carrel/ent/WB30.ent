@@ -1,0 +1,177 @@
+id	sid	eid	entity	type
+WB30	1	1	World Bank Document PROGRAM INFORMATION DOCUMENT	ORG
+WB30	1	2	November 4	DATE
+WB30	2	1	110125	DATE
+WB30	2	2	EUROPE	LOC
+WB30	2	3	30%	PERCENT
+WB30	2	4	20%	PERCENT
+WB30	2	5	20%	PERCENT
+WB30	2	6	20%	PERCENT
+WB30	2	7	10%	PERCENT
+WB30	2	8	P149555 Lending Instrument Development Policy Financing Borrower(s	ORG
+WB30	2	9	THE REPUBLIC OF MOLDOVA Implementing Agency	ORG
+WB30	2	10	November 4, 2016	DATE
+WB30	2	11	November 4, 2016	DATE
+WB30	2	12	December 16, 2016	DATE
+WB30	2	13	October 21, 2016	DATE
+WB30	2	14	the past decade	DATE
+WB30	2	15	2014	DATE
+WB30	3	1	the early 2000s	DATE
+WB30	3	2	5 percent	PERCENT
+WB30	4	1	11 percent	PERCENT
+WB30	4	2	2014	DATE
+WB30	4	3	26 percent	PERCENT
+WB30	4	4	2007	DATE
+WB30	4	5	earlier in the decade	DATE
+WB30	5	1	40 percent	PERCENT
+WB30	6	1	2014	DATE
+WB30	6	2	the European Union	ORG
+WB30	6	3	EU	ORG
+WB30	6	4	the Russian Federation	GPE
+WB30	6	5	Moldova	GPE
+WB30	7	1	summer	DATE
+WB30	7	2	Moldova	GPE
+WB30	8	1	0.5 percent	PERCENT
+WB30	8	2	2015	DATE
+WB30	8	3	46.6 percent	PERCENT
+WB30	8	4	38.2 percent	PERCENT
+WB30	8	5	a year earlier	DATE
+WB30	9	1	2016	DATE
+WB30	9	2	Moldova	ORG
+WB30	10	1	2.2 percent	PERCENT
+WB30	10	2	2016	DATE
+WB30	13	1	40	CARDINAL
+WB30	18	1	Moldova	ORG
+WB30	19	1	European	NORP
+WB30	19	2	2009	DATE
+WB30	20	1	Moldova	ORG
+WB30	20	2	EU	ORG
+WB30	20	3	Association Agreement	ORG
+WB30	20	4	a Deep and Comprehensive Free Trade Agreement	LAW
+WB30	20	5	2010	DATE
+WB30	20	6	June 27, 2014	DATE
+WB30	21	1	Moldovan	GPE
+WB30	21	2	Schengen	ORG
+WB30	21	3	April 2014	DATE
+WB30	23	1	2014	DATE
+WB30	23	2	over 10 percent	PERCENT
+WB30	24	1	Filip	PERSON
+WB30	24	2	January 2016	DATE
+WB30	25	1	Moldovan	GPE
+WB30	25	2	three	CARDINAL
+WB30	26	1	three	CARDINAL
+WB30	27	1	first	ORDINAL
+WB30	28	1	second	ORDINAL
+WB30	29	1	third	ORDINAL
+WB30	29	2	PIM	ORG
+WB30	30	1	World Bank Group	ORG
+WB30	30	2	Moldova	GPE
+WB30	31	1	first	ORDINAL
+WB30	31	2	two	CARDINAL
+WB30	31	3	the Competitiveness DPO	LAW
+WB30	31	4	FY2013	WORK_OF_ART
+WB30	32	1	DPL	ORG
+WB30	32	2	the Government of Moldova's	WORK_OF_ART
+WB30	33	1	second	ORDINAL
+WB30	33	2	two	CARDINAL
+WB30	33	3	three	CARDINAL
+WB30	36	1	Moldovan	GPE
+WB30	38	1	Moldovan	GPE
+WB30	39	1	NBM	ORG
+WB30	39	2	NCFM	ORG
+WB30	46	1	second	ORDINAL
+WB30	46	2	two	CARDINAL
+WB30	46	3	the National Development Strategy	ORG
+WB30	46	4	NDS	ORG
+WB30	47	1	three	CARDINAL
+WB30	47	2	three	CARDINAL
+WB30	47	3	eight	CARDINAL
+WB30	47	4	NDS	ORG
+WB30	47	5	Pillar A	PERSON
+WB30	47	6	Pillar A and C	ORG
+WB30	52	1	CPS	ORG
+WB30	53	1	CPS	ORG
+WB30	53	2	Board	ORG
+WB30	53	3	September 2013	DATE
+WB30	53	4	three	CARDINAL
+WB30	53	5	Moldova	GPE
+WB30	54	1	DPO	ORG
+WB30	54	2	first	ORDINAL
+WB30	54	3	CPS	ORG
+WB30	55	1	second	ORDINAL
+WB30	56	1	CPS	ORG
+WB30	58	1	Borrower/Recipient 0 International Development Association	ORG
+WB30	58	2	17.8	CARDINAL
+WB30	58	3	International Bank for Reconstruction and Development	ORG
+WB30	58	4	45	CARDINAL
+WB30	58	5	World Bank Group	ORG
+WB30	58	6	Moldova	GPE
+WB30	61	1	the Competitiveness Enhancement Project II	ORG
+WB30	61	2	DPO	ORG
+WB30	61	3	Regulatory Reform	ORG
+WB30	61	4	SME Development	ORG
+WB30	62	1	The World Bank Group’s	ORG
+WB30	62	2	the Competition Council	ORG
+WB30	64	1	Public Expenditure Review	ORG
+WB30	64	2	the Trust Fund for Strengthening Public Investment Management	ORG
+WB30	65	1	DPO	ORG
+WB30	65	2	Strengthening the Effectiveness of the Social Safety Net	WORK_OF_ART
+WB30	65	3	SIL	ORG
+WB30	68	1	DPO	ORG
+WB30	69	1	Bank	ORG
+WB30	70	1	three	CARDINAL
+WB30	71	1	the International Monetary Fund	ORG
+WB30	71	2	the European Commission	ORG
+WB30	71	3	three-year	DATE
+WB30	71	4	Poverty	ORG
+WB30	71	5	Social Impacts	ORG
+WB30	75	1	27.3 percent	PERCENT
+WB30	77	1	2011	DATE
+WB30	77	2	30 percent	PERCENT
+WB30	77	3	7 percent	PERCENT
+WB30	79	1	14.5 percent	PERCENT
+WB30	79	2	1 percent	PERCENT
+WB30	79	3	5.7 percent	PERCENT
+WB30	79	4	12.5	CARDINAL
+WB30	79	5	13.9 percent	PERCENT
+WB30	81	1	20 13	CARDINAL
+WB30	81	2	over a third	CARDINAL
+WB30	81	3	fewer than 20	CARDINAL
+WB30	82	1	about 6.5 percent	PERCENT
+WB30	82	2	23 percent	PERCENT
+WB30	85	1	as much as 0.5	CARDINAL
+WB30	86	1	57 percent	PERCENT
+WB30	86	2	Ajutor	ORG
+WB30	86	3	2015	DATE
+WB30	87	1	BEM	ORG
+WB30	87	2	Banca Sociala	PERSON
+WB30	88	1	years	DATE
+WB30	88	2	9.6 weeks	DATE
+WB30	88	3	one year	DATE
+WB30	88	4	18.6 weeks	DATE
+WB30	88	5	those with 10 years	DATE
+WB30	89	1	6.3	CARDINAL
+WB30	89	2	one year	DATE
+WB30	89	3	27	CARDINAL
+WB30	89	4	ten years	DATE
+WB30	90	1	2015	DATE
+WB30	90	2	only 9 percent	PERCENT
+WB30	90	3	40 percent	PERCENT
+WB30	93	1	DPO	ORG
+WB30	93	2	Annex 4	ORG
+WB30	94	1	Pillar C	ORG
+WB30	96	1	PIM	ORG
+WB30	97	1	World Bank Contact	ORG
+WB30	97	2	Ruslan Piontkivsky	PERSON
+WB30	97	3	256	CARDINAL
+WB30	97	4	Moldova	ORG
+WB30	97	5	373	CARDINAL
+WB30	97	6	26 26	CARDINAL
+WB30	97	7	octavian.armasu@mf.gov.md	CARDINAL
+WB30	97	8	The InfoShop The World Bank 1818 H Street	ORG
+WB30	97	9	NW	GPE
+WB30	97	10	Washington	GPE
+WB30	97	11	202	CARDINAL
+WB30	97	12	458	CARDINAL
+WB30	97	13	202	CARDINAL
+WB30	97	14	522-1500	CARDINAL

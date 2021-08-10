@@ -1,0 +1,447 @@
+id	sid	eid	entity	type
+WB14	1	1	World Bank Document	ORG
+WB14	1	2	P165873	ORG
+WB14	1	3	Feb 18, 2018 Page	DATE
+WB14	1	4	13 Project	MONEY
+WB14	1	5	PID/ISDS	ORG
+WB14	1	6	Concept Stage	ORG
+WB14	1	7	26-Mar-2018	TIME
+WB14	1	8	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	1	9	P165873	ORG
+WB14	1	10	Feb 18, 2018	DATE
+WB14	1	11	2	CARDINAL
+WB14	1	12	13	CARDINAL
+WB14	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB14	2	2	Samoa P165873 Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	2	3	P165873)	ORG
+WB14	2	4	EAST ASIA	LOC
+WB14	2	5	03, 2018	DATE
+WB14	3	1	USD Million	CARDINAL
+WB14	3	2	21.00	CARDINAL
+WB14	3	3	21.00	CARDINAL
+WB14	3	4	0.00	CARDINAL
+WB14	3	5	Total World Bank Group	ORG
+WB14	3	6	21.00	CARDINAL
+WB14	3	7	World Bank	ORG
+WB14	3	8	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	3	9	P165873	ORG
+WB14	3	10	Feb 18, 2018	DATE
+WB14	3	11	3	CARDINAL
+WB14	3	12	13	CARDINAL
+WB14	4	1	Samoa	GPE
+WB14	4	2	Samoa	GPE
+WB14	4	3	Pacific Island Country	LOC
+WB14	4	4	approximately 197,000	CARDINAL
+WB14	5	1	two	CARDINAL
+WB14	5	2	Upolu	ORG
+WB14	5	3	2,830 km2	QUANTITY
+WB14	5	4	131,000km2	CARDINAL
+WB14	6	1	Samoa	GPE
+WB14	7	1	Samoa	GPE
+WB14	8	1	recent years	DATE
+WB14	8	2	around 7 percent	PERCENT
+WB14	8	3	between 1 and 2 percent	CARDINAL
+WB14	8	4	the previous two years	DATE
+WB14	9	1	FY16	GPE
+WB14	9	2	two	CARDINAL
+WB14	10	1	annual	DATE
+WB14	10	2	around 2 percent2	TIME
+WB14	12	1	Tropical Cyclone Evan	ORG
+WB14	12	2	late 2012	DATE
+WB14	12	3	the Damage and Loss Assessment3	ORG
+WB14	12	4	an estimated US$210 million	MONEY
+WB14	12	5	30%	PERCENT
+WB14	12	6	annual	DATE
+WB14	12	7	49 percent	PERCENT
+WB14	12	8	5 percent	PERCENT
+WB14	13	1	Samoa	GPE
+WB14	13	2	TC Evan	ORG
+WB14	13	3	1	CARDINAL
+WB14	13	4	10-year	DATE
+WB14	13	5	Samoa	GPE
+WB14	14	1	Samoa	GPE
+WB14	15	1	Fifty-four percent	PERCENT
+WB14	15	2	Samoa	GPE
+WB14	15	3	obese and 25 percent	PERCENT
+WB14	15	4	as high as 8.5 percent	PERCENT
+WB14	15	5	20404	DATE
+WB14	17	1	0.6 percent	PERCENT
+WB14	17	2	26.9 percent	PERCENT
+WB14	18	1	Eighty-one percent	PERCENT
+WB14	18	2	Samoa	GPE
+WB14	21	1	Samoa	GPE
+WB14	21	2	Pacific	LOC
+WB14	23	1	February 2017	DATE
+WB14	23	2	27.5 percent	PERCENT
+WB14	23	3	2015	DATE
+WB14	23	4	approximately 67 percent	PERCENT
+WB14	23	5	95 percent	PERCENT
+WB14	25	1	one	CARDINAL
+WB14	25	2	39 percent	PERCENT
+WB14	25	3	20166	DATE
+WB14	25	4	only 3.2 percent	PERCENT
+WB14	25	5	the July to September 2017 quarter	DATE
+WB14	26	1	1 Samoa Bureau of Statistics	ORG
+WB14	27	1	2	CARDINAL
+WB14	27	2	The World Bank	ORG
+WB14	27	3	2017	DATE
+WB14	27	4	3	CARDINAL
+WB14	27	5	Samoa Post-Disaster Needs Assessment, Cyclone Evan	WORK_OF_ART
+WB14	27	6	Government of Samoa	ORG
+WB14	27	7	March 2013	DATE
+WB14	28	1	4	CARDINAL
+WB14	28	2	The World Bank	ORG
+WB14	28	3	2017	DATE
+WB14	28	4	5	CARDINAL
+WB14	28	5	Samoa Bureau of Statistics	ORG
+WB14	28	6	Central Bank of Samoa	ORG
+WB14	28	7	P165873	ORG
+WB14	28	8	Feb 18, 2018	DATE
+WB14	28	9	4	CARDINAL
+WB14	28	10	13	CARDINAL
+WB14	28	11	2015	ORDINAL
+WB14	28	12	Samoa Agriculture Survey	ORG
+WB14	28	13	97 percent	PERCENT
+WB14	30	1	Samoa	GPE
+WB14	30	2	between 2009 and 2015	DATE
+WB14	30	3	5.2 percent	PERCENT
+WB14	30	4	4.4 percent	PERCENT
+WB14	30	5	sale7	ORG
+WB14	31	1	21 percent	PERCENT
+WB14	31	2	37 percent	PERCENT
+WB14	31	3	Savaii	GPE
+WB14	32	1	70 percent	PERCENT
+WB14	32	2	2015	DATE
+WB14	33	1	the early 1990	DATE
+WB14	34	1	Pacific	LOC
+WB14	35	1	recent years	DATE
+WB14	35	2	more than 50 percent	PERCENT
+WB14	35	3	between 2009 and 2013	DATE
+WB14	36	1	Taiwanese	NORP
+WB14	36	2	Apia	GPE
+WB14	36	3	Samoa	GPE
+WB14	36	4	2010	DATE
+WB14	37	1	April 2012	DATE
+WB14	37	2	34	CARDINAL
+WB14	37	3	6	CARDINAL
+WB14	37	4	2012	DATE
+WB14	38	1	Samoa	GPE
+WB14	38	2	American	NORP
+WB14	38	3	Samoa	GPE
+WB14	39	1	2014	DATE
+WB14	39	2	Samoa	GPE
+WB14	39	3	the Tokelau Arrangement	ORG
+WB14	39	4	the South Pacific Longline Fishery	LOC
+WB14	40	1	only 1 percent	PERCENT
+WB14	40	2	Samoan	ORG
+WB14	40	3	one third	CARDINAL
+WB14	40	4	women8	PRODUCT
+WB14	41	1	between 2011 and 2015	DATE
+WB14	41	2	only 12 percent	PERCENT
+WB14	42	1	Samoa	GPE
+WB14	42	2	2015	DATE
+WB14	42	3	tertiary	ORDINAL
+WB14	44	1	Samoa	GPE
+WB14	46	1	the World Bank’s Climate	ORG
+WB14	47	1	Climate	ORG
+WB14	47	2	the ‘Overall Risk’ section	LAW
+WB14	48	1	Samoa	GPE
+WB14	49	1	only one	CARDINAL
+WB14	49	2	Veterinarian	NORP
+WB14	50	1	7	CARDINAL
+WB14	50	2	more than 625 square yards	QUANTITY
+WB14	50	3	more than 20	CARDINAL
+WB14	50	4	more than 20	CARDINAL
+WB14	50	5	more than 20	CARDINAL
+WB14	51	1	8	CARDINAL
+WB14	51	2	9	CARDINAL
+WB14	51	3	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	51	4	P165873	ORG
+WB14	51	5	Feb 18, 2018	DATE
+WB14	51	6	5	CARDINAL
+WB14	51	7	13	CARDINAL
+WB14	53	1	Samoa	GPE
+WB14	54	1	the Ministry of Agriculture and Fisheries	ORG
+WB14	54	2	MAF	ORG
+WB14	55	1	MAF	ORG
+WB14	55	2	the Samoa Bureau of Statistics	ORG
+WB14	57	1	two	CARDINAL
+WB14	57	2	38	CARDINAL
+WB14	57	3	9 percent	PERCENT
+WB14	57	4	September 2017 quarter	DATE
+WB14	58	1	2017	DATE
+WB14	59	1	SACEP	ORG
+WB14	61	1	C. Relationship	PERSON
+WB14	61	2	RPF	GPE
+WB14	61	3	February 2017	DATE
+WB14	61	4	nine	CARDINAL
+WB14	61	5	Pacific Island	LOC
+WB14	61	6	Samoa	GPE
+WB14	62	1	RPF	GPE
+WB14	62	2	four	CARDINAL
+WB14	63	1	the Pacific Eight Systematic Country Diagnostic	ORG
+WB14	63	2	SCD	ORG
+WB14	63	3	Samoa	GPE
+WB14	64	1	Samoa Agriculture and Fisheries Productivity and Marketing Project	ORG
+WB14	64	2	RPF	GPE
+WB14	64	3	Samoa	GPE
+WB14	64	4	SCD	ORG
+WB14	65	1	Samoans	NORP
+WB14	66	1	Samoa	GPE
+WB14	66	2	the Samoa Agriculture and Marketing Project	FAC
+WB14	67	1	2016-2020	DATE
+WB14	67	2	Samoa	GPE
+WB14	68	1	SAFPROM	ORG
+WB14	68	2	Samoa	GPE
+WB14	68	3	the Pacific Islands	LOC
+WB14	69	1	The PROP Program	ORG
+WB14	69	2	SOP	ORG
+WB14	69	3	three	CARDINAL
+WB14	69	4	each six years	DATE
+WB14	70	1	1	CARDINAL
+WB14	70	2	2014	DATE
+WB14	70	3	four	CARDINAL
+WB14	70	4	Micronesia	GPE
+WB14	70	5	Republic of Marshall Islands	GPE
+WB14	70	6	Solomon Islands	GPE
+WB14	70	7	Tuvalu	PERSON
+WB14	70	8	one	CARDINAL
+WB14	70	9	the Pacific Islands Forum Fisheries Agency	ORG
+WB14	70	10	FFA	ORG
+WB14	72	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	72	2	P165873	ORG
+WB14	72	3	Feb 18, 2018	DATE
+WB14	72	4	6	CARDINAL
+WB14	72	5	13	CARDINAL
+WB14	73	1	Samoa	GPE
+WB14	73	2	International Development Association	ORG
+WB14	73	3	IDA	ORG
+WB14	74	1	three	CARDINAL
+WB14	74	2	SPC	FAC
+WB14	74	3	FFA	PRODUCT
+WB14	75	1	the PROP Program	ORG
+WB14	75	2	Phase II	WORK_OF_ART
+WB14	75	3	Tonga	GPE
+WB14	75	4	Samoa	GPE
+WB14	75	5	FFA	ORG
+WB14	75	6	Phases II	GPE
+WB14	75	7	III	ORG
+WB14	76	1	four	CARDINAL
+WB14	76	2	Phase II of PROP	WORK_OF_ART
+WB14	77	1	PROPOSED PDO/RESULTS A.	ORG
+WB14	81	1	MAF	ORG
+WB14	83	1	11	CARDINAL
+WB14	83	2	Pacific Islands Fisheries Forum Agency	ORG
+WB14	83	3	FFA	ORG
+WB14	83	4	Pacific Community	ORG
+WB14	83	5	SPC	ORG
+WB14	83	6	the Nauru Agreement Office	ORG
+WB14	83	7	Pacific Islands Forum	LOC
+WB14	83	8	PIFS	ORG
+WB14	83	9	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	83	10	P165873	ORG
+WB14	83	11	Feb 18, 2018	DATE
+WB14	83	12	7	CARDINAL
+WB14	83	13	13	CARDINAL
+WB14	84	1	1	CARDINAL
+WB14	85	1	P115351	ORG
+WB14	85	2	last year	DATE
+WB14	85	3	31 December 2018	DATE
+WB14	86	1	SACEP	ORG
+WB14	86	2	Samoa	GPE
+WB14	88	1	SAFPROM	ORG
+WB14	88	2	four	CARDINAL
+WB14	91	1	MAF	ORG
+WB14	93	1	an Agriculture Sector Coordination Division	ORG
+WB14	93	2	MAF	ORG
+WB14	98	1	SACEP	ORG
+WB14	98	2	Static	PERSON
+WB14	98	3	the Tissue Culture Laboratory	ORG
+WB14	99	1	Packhouse	ORG
+WB14	100	1	2	CARDINAL
+WB14	100	2	MGP	ORG
+WB14	101	1	MGP	ORG
+WB14	101	2	SACEP	ORG
+WB14	104	1	MGP	ORG
+WB14	107	1	MGP	ORG
+WB14	107	2	CBFMP	ORG
+WB14	107	3	1995	DATE
+WB14	108	1	CBFMP	ORG
+WB14	109	1	Over 100	CARDINAL
+WB14	110	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	110	2	P165873	ORG
+WB14	110	3	Feb 18, 2018	DATE
+WB14	110	4	8	CARDINAL
+WB14	110	5	13	CARDINAL
+WB14	110	6	cucumber	DATE
+WB14	112	1	GoS	GPE
+WB14	113	1	Samoa	GPE
+WB14	113	2	IDA	ORG
+WB14	113	3	US$ 3 million	MONEY
+WB14	113	4	IDA	ORG
+WB14	113	5	US$ 6 million	MONEY
+WB14	113	6	IDA	ORG
+WB14	114	1	GoS	WORK_OF_ART
+WB14	115	1	the Tokelau Arrangement	ORG
+WB14	115	2	the Western and Central Pacific Fisheries Management Commission	ORG
+WB14	115	3	WCPFC	ORG
+WB14	116	1	Monitoring	LOC
+WB14	116	2	Control	NORP
+WB14	116	3	Surveillance	PERSON
+WB14	116	4	MCS	ORG
+WB14	117	1	Samoa’s Fisheries Information Management Systems	ORG
+WB14	117	2	MCS	ORG
+WB14	117	3	IUU	ORG
+WB14	118	1	Component 4:	DATE
+WB14	118	2	Contingency Emergency Response Component	ORG
+WB14	118	3	US$0	MONEY
+WB14	118	4	Samoa	GPE
+WB14	118	5	Bank	ORG
+WB14	122	1	SAFEGUARDS A.	PERSON
+WB14	123	1	five years	DATE
+WB14	123	2	Upolu	ORG
+WB14	123	3	Savaii	GPE
+WB14	124	1	Samoa	GPE
+WB14	124	2	nine	CARDINAL
+WB14	124	3	four	CARDINAL
+WB14	124	4	Upolu	ORG
+WB14	124	5	Savaii	ORG
+WB14	124	6	Manono	ORG
+WB14	124	7	Apolima	PRODUCT
+WB14	124	8	2,830 km2	QUANTITY
+WB14	127	1	Samoa	GPE
+WB14	127	2	approximately 197,000	CARDINAL
+WB14	127	3	97%	PERCENT
+WB14	127	4	Polynesian	NORP
+WB14	128	1	Upolu	ORG
+WB14	128	2	Savaii	WORK_OF_ART
+WB14	130	1	Approximately 60,000	CARDINAL
+WB14	130	2	21%	PERCENT
+WB14	131	1	approximately 60%	PERCENT
+WB14	132	1	12	CARDINAL
+WB14	132	2	Upolu	ORG
+WB14	132	3	Savaii	ORG
+WB14	133	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	133	2	P165873	ORG
+WB14	133	3	Feb 18, 2018	DATE
+WB14	133	4	9	CARDINAL
+WB14	133	5	13	CARDINAL
+WB14	133	6	10,000 km2	QUANTITY
+WB14	133	7	131000 km2	QUANTITY
+WB14	134	1	Samoa	GPE
+WB14	134	2	Apia (Upolu	ORG
+WB14	134	3	Savaii	PRODUCT
+WB14	134	4	Apolima-uta	PERSON
+WB14	134	5	Upolu	ORG
+WB14	135	1	Samoa	GPE
+WB14	135	2	three	CARDINAL
+WB14	135	3	3	CARDINAL
+WB14	136	1	Samoa	GPE
+WB14	136	2	Pacific	LOC
+WB14	137	1	recent years	DATE
+WB14	137	2	more than 50 percent	PERCENT
+WB14	137	3	between 2009 and 2013	DATE
+WB14	138	1	Taiwanese	NORP
+WB14	138	2	Apia	GPE
+WB14	138	3	Samoa	GPE
+WB14	138	4	2010	DATE
+WB14	139	1	April 2012	DATE
+WB14	139	2	34	CARDINAL
+WB14	139	3	6	CARDINAL
+WB14	139	4	2012	DATE
+WB14	140	1	Samoa	GPE
+WB14	140	2	American	NORP
+WB14	140	3	Samoa	GPE
+WB14	141	1	2014	DATE
+WB14	141	2	Samoa	GPE
+WB14	141	3	the Tokelau Arrangement	ORG
+WB14	141	4	the South Pacific Longline Fishery	LOC
+WB14	142	1	B. Borrower’s	PERSON
+WB14	142	2	World Bank	ORG
+WB14	142	3	Samoa Agriculture Competitiveness Enhancement Project	ORG
+WB14	142	4	SACEP	ORG
+WB14	142	5	MAF	ORG
+WB14	142	6	E&S	ORG
+WB14	143	1	MAF	ORG
+WB14	143	2	Agriculture Sector Coordination Division	ORG
+WB14	143	3	ASCD	ORG
+WB14	143	4	E&S	ORG
+WB14	144	1	a Centralized Technical Services	ORG
+WB14	144	2	CTSSU	ORG
+WB14	144	3	MOF	ORG
+WB14	144	4	E&S Advisor	ORG
+WB14	145	1	ASCD	ORG
+WB14	146	1	C. Environmental	PERSON
+WB14	146	2	Thomas John Callander	PERSON
+WB14	146	3	Nicholas John Valentine	PERSON
+WB14	146	4	Safeguard Policies Triggered	ORG
+WB14	151	1	small veterinary laboratory	ORG
+WB14	151	2	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	151	3	P165873	ORG
+WB14	151	4	Feb 18, 2018	DATE
+WB14	151	5	10	CARDINAL
+WB14	151	6	13	CARDINAL
+WB14	153	1	Samoa	GPE
+WB14	155	1	ESMF	ORG
+WB14	155	2	the World Group’s Environmental, Health and Safety Guidelines	ORG
+WB14	156	1	Contingency Emergency Response Component	ORG
+WB14	157	1	ESMF	ORG
+WB14	157	2	E&S	ORG
+WB14	157	3	CERC	ORG
+WB14	157	4	the World Bank’s Rapid Response	ORG
+WB14	158	1	ESMF	ORG
+WB14	160	1	ESMF	ORG
+WB14	161	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	161	2	P165873	ORG
+WB14	161	3	Feb 18, 2018	DATE
+WB14	161	4	11	CARDINAL
+WB14	161	5	13	CARDINAL
+WB14	161	6	4.36	MONEY
+WB14	164	1	ESMF	ORG
+WB14	165	1	4.09	CARDINAL
+WB14	165	2	SACEP Integrated Pest Management	ORG
+WB14	165	3	IPM	ORG
+WB14	165	4	the World Group’s Environmental, Health and Safety	ORG
+WB14	166	1	IPM	ORG
+WB14	168	1	ESMF	ORG
+WB14	169	1	Peoples OP/BP	ORG
+WB14	169	2	4.10	CARDINAL
+WB14	169	3	Samoa	GPE
+WB14	169	4	92.6%	PERCENT
+WB14	169	5	Europeans	NORP
+WB14	169	6	European	NORP
+WB14	170	1	OP	PERSON
+WB14	173	1	RPF	GPE
+WB14	176	1	4.37	CARDINAL
+WB14	177	1	International Waterways OP/BP	ORG
+WB14	178	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	178	2	P165873	ORG
+WB14	178	3	Feb 18, 2018	DATE
+WB14	178	4	12	CARDINAL
+WB14	178	5	13	CARDINAL
+WB14	178	6	Disputed Areas OP/BP	ORG
+WB14	179	1	E. Safeguard Preparation Plan Tentative	ORG
+WB14	179	2	Appraisal Stage PID/ISDS Aug	ORG
+WB14	180	1	Appraisal Stage PID/ISDS	ORG
+WB14	180	2	GoS	GPE
+WB14	180	3	Facility	PERSON
+WB14	180	4	E&S	ORG
+WB14	180	5	ESMF	ORG
+WB14	181	1	mid-August	DATE
+WB14	182	1	CONTACT POINT World Bank Stephane Forman	ORG
+WB14	182	2	Cary Anne Cadman Sr Agricultural Spec	ORG
+WB14	183	1	Borrower/Client/Recipient Ministry of Finance	ORG
+WB14	183	2	Implementing Agencies Ministry of Agriculture & Fisheriers	ORG
+WB14	183	3	David Hunter	PERSON
+WB14	183	4	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
+WB14	183	5	P165873	ORG
+WB14	183	6	Feb 18, 2018	DATE
+WB14	183	7	13	CARDINAL
+WB14	183	8	13	CARDINAL
+WB14	183	9	Washington	GPE
+WB14	183	10	202	CARDINAL
+WB14	183	11	473-1000	CARDINAL
+WB14	183	12	Stephane Forman	PERSON
+WB14	183	13	Cary Anne Cadman	PERSON
+WB14	183	14	Nathan M. Belete 22-Mar-2018	ORG
+WB14	183	15	Michel Kerf	PERSON

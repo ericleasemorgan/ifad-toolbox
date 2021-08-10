@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 1 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+PROJECT INFORMATION DOCUMENT (PID) 
+CONCEPT STAGE
+
+Report No.: PIDC11855
+
+Project Name Bangladesh NATP-2: National Agricultural Technology Program - Phase II 
+(P149553)
+
+Region SOUTH ASIA
+Country Bangladesh
+Sector(s) Agricultural extension and research (50%), Animal production (20%), 
+
+Crops (20%), Information technology (10%)
+Theme(s) Rural services and infrastructure (50%), Technology diffusion (25%), 
+
+Rural markets (25%)
+Lending Instrument Investment Project Financing
+Project ID P149553
+Borrower(s) Economic Relations Division, Ministry of Finance
+Implementing Agency Ministry of Agriculture (MOA)
+Environmental 
+Category
+
+B-Partial Assessment
+
+Date PID Prepared/
+Updated
+
+04-Sep-2014
+
+Date PID Approved/
+Disclosed
+
+09-Sep-2014
+
+Estimated Date of 
+Appraisal Completion
+
+05-Nov-2014
+
+Estimated Date of 
+Board Approval
+
+26-Feb-2015
+
+Concept Review 
+Decision
+
+I. Introduction and Context
+Country Context
+Building on its remarkable social and economic performance over the last 20 years, Bangladesh 
+aims to become a middle income country by 2021; to achieve this will require among other that the 
+GoB overcomes considerable challenges in agricultural development and rural economic growth. 
+The country’s GDP growth averaged 5.8 percent between 2000 and 2010, accompanied by a decline 
+in the national poverty headcount rate from 48.9 percent to 31.5 percent over the same period, 
+effectively lifting some 16 million people out of poverty. Bangladesh, a country of over 160 million 
+inhabitants, has also made noteworthy gains in education and health, and is well set to achieve most 
+of the MDGs.  
+Bangladesh remains a predominantly agricultural country and growth and development 
+achievements in rural areas must be brought on par with those in urban areas. Agriculture occupies 
+
+
+
+Page 2 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+some three-quarters of the scarce land space of the country and supports the livelihoods of the 
+majority of the population. While overall poverty has significantly declined over the 2000 to 2010 
+period, the poverty headcount in rural areas (still 35.2 percent) has not declined as fast as in urban 
+settings; moreover, the proportion of people living in extreme poverty in rural areas is still three 
+times higher than in urban areas. The contribution of agriculture to the country’s economic output 
+has declined over the past decade, but crops, livestock, forestry, fisheries still combine for almost 
+one-fifth of GDP. Moreover, with some 70 percent of the population living in rural areas and over 
+43 percent of the country's total labor force engaged in agriculture, achieving further economically, 
+socially and environmentally sustainable economic growth and poverty reduction will require 
+policies and investments conducive of lasting transformational changes in rural areas – including 
+through technological innovations in agriculture.
+
+Sectoral and Institutional Context
+To eliminate the country’s extreme poverty by the year 2030 and to promote shared prosperity for 
+the poorest 40 percent, agriculture  must continue to grow (in ways that are sustainable and adapted 
+to climate change) and rely on a more diversified production base. Poverty reduction in rural areas 
+depends crucially on growth in agricultural productivity, which is driven by investment in 
+infrastructure, generation of new or improved technologies adapted to changing climate, and their 
+adoption by farmers and other value chains actors (e.g. processors). Sustainable intensification and 
+diversification of agriculture through technological change requires an efficient and productive 
+national agricultural technology system, comprising agricultural research (technology development 
+and refinement) and agricultural extension (technology dissemination and adoption). This needs to 
+be supported by appropriate value addition and market linkages through smallholder participation in 
+emerging/established supply chains for higher value agriculture. To achieve these strategic goals, 
+the GoB has been seeking the support of development partners such as the Bank, to develop and 
+finance activities aimed at boosting agricultural production through productivity enhancement, and 
+increasing smallholders’ income.   
+In Bangladesh, while the performance of the NARS has been impressive in contributing to food 
+security (in particular with rice), research in some key sub sectors (e.g. livestock, fisheries) has yet 
+to reach its potential productivity in terms of releasing a sufficient stream of useful innovations 
+(including a range of new climate smart technologies for production and post-harvesting). The 
+extension system has still extremely limited reach into the myriad communities of the nation (in 
+particular for the fisheries and livestock subsectors were local level public extension workers are 
+absent), and worse, hardly communicates with the NARS, or the relevant private and non-
+government entities also engaged in technological advance. In short, the national agricultural 
+innovation system is far from exploiting the systemic interactions that should drive it to success, and 
+the insufficiencies pervade the system both within the subsystems, the all-too disconnected and in 
+some instances less than strong elements of the NARS: public-private links are disturbingly absent, 
+and links between research entities public and private with the higher education sector are sparse 
+and severely underexploited. To enable agriculture and stakeholders to adapt readily when 
+challenges occur and to respond readily when opportunities arise, the proposed project will seek to 
+overcome some of the key constraints to increasing the efficiency and performance of the national 
+agricultural innovation system. 
+The National Agricultural Extension Policy (NAEP, 2012) and the Bangladesh Agricultural 
+Research Council Act (BARC, 2011) provide the sector policy framework for the proposed 
+NATP-2. NAEP advocates inter alia the development of decentralized, integrated, demand-driven 
+agricultural research and extension services. Support is now required for the Department of 
+Agricultural Extension (MoA) towards achieving the strategic objectives of the NAEP and as well 
+
+
+
+Page 3 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+as technical assistance for the Department of Livestock Services and the Department of Fisheries 
+(both MFL) for the completion of their respective sector extension strategy/policy. The 2012 BARC 
+Act aims at fostering the coordination of research activities conducted by the twelve NARS 
+institutes, making BARC responsible for the allocation of resources among the NARS institutes and 
+for the approval of the institutes’ research programs; it is among other things expected to reduce 
+duplication of research efforts and enhance accountability. Implementation of the BARC Act 
+remains a challenging process and requires additional financial and technical assistance. Further, 
+there are some significant differences in the institutional capacity and performance among the 
+various NARS institutes (with livestock and fisheries lagging behind), and the project is expected to 
+strengthen the research agenda and outcomes for livestock and fisheries given the importance of 
+these sub sectors for rural economic growth and rural livelihoods.
+
+Relationship to CAS
+Agriculture has long occupied a central place in the Bangladesh development agenda and in the 
+CPSs of the WBG. In the CPS for FY11-14 (subsequently extended to FY15), agriculture is 
+highlighted in Pillar 3, Vulnerability, Adaptation and Inclusion, although the sector surely 
+contributes to the growth Pillar 2, and benefits from initiatives under the 4th Pillar of Governance. 
+As the CASPR (Report No. 73983-BD) of November 20, 2013 notes concerning Pillar 3 Outcome 
+3.1 on Agriculture and Food Security, program implementation has been ramping-up and is showing 
+significant improvements in agricultural productivity as measured in crops and livestock 
+performance. Recurrent natural disasters and deficiencies in technology remain the basic threats to 
+improvements in agricultural production, and are therefore the focus of Bank interventions in the 
+sector. IFC, with financing from the Pilot Program for Climate Resilience, is also assisting by 
+supporting the climate resilience of agribusiness companies and their supply chains, and is 
+exploring availability of low-cost housing and livestock protection structures in flood-prone coastal 
+areas. Furthermore, IFC’s investment climate and advisory services include activities in agriculture 
+that are complementary to NATP-2 (e.g. development of Seed Act and National Seed Policy, 
+strengthening of sanitary and phyto-sanitory registration and certification system, development of 
+the dairy value chain). The proposed follow-up to NATP Phase 1 was retained in the revised CAS 
+for FY15 implementation.
+
+II. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+6. The proposed project development objective (PDO) for NATP-2 is to enhance the 
+agricultural productivity of smallholders through better research and extension and improve their 
+market access through better integration in selected value chains. To that effect, NATP-2 will 
+support a decentralized, demand-driven agricultural research and extension services, and promote 
+market-oriented smallholder production. NATP-2 will also support access to markets for 
+smallholder farmers by facilitating their linkages with selected value chains, contributing in turn to 
+increased farm income and to the sustainability of farmer groups and producer organizations formed 
+by the project. The following project design emerged as an outcome of the Identification mission: 
+Comp.1: Promoting Agricultural Innovation, Comp.2: Supporting Crops Development; Comp.3: 
+Supporting Livestock Development; Comp.4: Supporting Fisheries Development; and Comp.5: 
+Project Management and Coordination. 
+7. NATP-2 will achieve the PDO: (i) by strengthening the capacity of the NARS and the 
+extension services to generate and diffuse agricultural technologies aimed at increasing farm 
+productivity; and (ii) by promoting the sustainability of existing and newly created farmer groups 
+
+
+
+Page 4 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+and producer organizations by strengthening their linkages with markets. Sustainable intensification 
+and diversification of agriculture through technological change requires an efficient and productive 
+national agricultural technology system, comprising agricultural research (technology development 
+and refinement) and agricultural extension (technology dissemination). This needs to be supported 
+by appropriate value addition and market linkages through the strengthening of supply chains for 
+high value agriculture. To that effect, while NATP-2 will continue supporting agricultural research 
+and extension, it will need to have a stronger focus on market-oriented production, on value chains 
+and on the participation of smallholders in those emerging market opportunities, than under 
+NATP-1.
+
+Key Results (From PCN)
+(i) Client satisfaction (including for female-led households) with the agricultural extension and 
+advisory services provided by the agricultural innovation system has increased  
+(ii) New technologies generated by the agricultural innovation system have been adopted by 
+producers (including by female-led households) and other value chain actors targeted by the project  
+(iii) The increase achieved in agricultural productivity (for crops, fisheries and livestock) is 
+larger for farmers supported by the project  
+(iv) The proportion of smallholder agricultural production marketed relative to total smallholder 
+farm output has increased 
+(v) The women-led Common Interest Groups for homestead gardening are making a significant 
+contribution to improving nutrition in participating households
+
+III. Preliminary Description
+Concept Description
+NATP-2 will achieve the PDO by: (i) continuing to strengthen the capacity of the NARS and 
+extension services to generate and disseminate agricultural technologies aimed at increasing farm 
+productivity; and (ii) promoting the sustainability of existing and new farmer groups and producer 
+organizations by strengthening their linkages with markets. Sustainable intensification and 
+diversification of agriculture through technological change requires an efficient and productive 
+national agricultural technology system, comprising agricultural research (technology development 
+and refinement) and agricultural extension (technology dissemination). This needs to be supported 
+by appropriate value addition and market linkages through the development of supply chains for 
+high value agriculture. To that effect, while NATP-2 will continue supporting agricultural research 
+and extension, it will need to have a much stronger focus on market-oriented production, on value 
+chains and on the participation of smallholders in those emerging market opportunities, than under 
+NATP-1. A differentiated approach will be required for project activities at field level to account for 
+the vertical and horizontal scaling up efforts under NATP-2. The new project will deepen the 
+interventions in existing upazillas (vertical scaling up) while expanding the geographic coverage to 
+include new districts and upazillas (horizontal scaling up) . 
+The project design for NATP-2 takes into account some of the shortcomings identified under 
+NATP-1 and reflects the integrated approach required to achieve the PDO. NATP-2 includes a 
+broader component that addresses the multiple dimensions required for decentralized, demand-
+driven agricultural research as a core pillar of an agricultural innovation system in the country 
+context. The project further includes three sub sector components, each tackling specific constraints 
+to the development of selected commodities from technology generation to transfer and adoption at 
+farm level, to market-oriented production and agro processing. This value chain approach is 
+expected to lead to a better integration of research and extension, which was regularly reported in 
+
+
+
+Page 5 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+NATP-1 as an area requiring further improvement. Finally, the project includes a component that 
+covers most cross-cutting activities as well as regular project management tasks. Project 
+components, their objectives and contribution to the PDO, as well as the core activities covered, are 
+described below. 
+ 
+Component 1: Enhancing the Agricultural Innovation System 
+This component, led by the Project Management and Coordination Unit with implementation 
+support from other agencies, will support the development of decentralized, demand-driven and 
+integrated agricultural research. This component will likely include investments, capacity 
+enhancement and technical assistance in areas launched under NATP-1 (such as sustainability of 
+Common Interest Groups (CIGs) and emerging Producer Organizations (POs), rehabilitation of 
+rural markets, technical advisory services), strengthening National Agricultural Research Institutes  
+(NARI) (including investments in physical infrastructure), developing one-stop farmer advisory 
+service centers. The component will also include the window for competitive research and matching 
+grants under the Agricultural Innovation Fund.   
+ 
+Component 2: Supporting crop development  
+This component, coordinated by the Department of Agricultural Extension, will support the 
+development of decentralized extension services and demand-driven research for crop production 
+(including horticulture), post-harvest management and processing, and facilitate the integration of 
+smallholder farmers in selected crop-based value chains (bananas, vegetables, and aromatic rice). 
+This component would include investments, capacity enhancement and technical assistance in e.g. 
+smallholder farm mechanization, seed testing facilities (with IFC), an electronic phytosanitary 
+certification system (with IFC), food safety, agricultural commercialization, and promotion of 
+smallholder-based commodity value chains. Financial incentives to smallholder farmers for the 
+adoption of productivity enhancing and post-harvest loss reducing technologies, as well as support 
+to private small and medium agro entrepreneurs in the selected value chains (e.g. food processing) 
+will be secured through the corresponding AIF window.  
+ 
+Component 3: Supporting fisheries development  
+This component, coordinated by the Department of Fisheries, will support the development of 
+decentralized extension services and demand-driven research for fish and aquaculture, and facilitate 
+the integration of smallholder fish farmers in selected commodity value chains (tilapia, major carps, 
+and shrimps). This component would include investments, capacity enhancement and technical 
+assistance in e.g. the rehabilitation of fish ponds, food safety, quality improvement of fish feed and 
+fingerlings, fish commercialization and the promotion of aquaculture-based commodity value 
+chains. Financial incentives to smallholder farmers for the adoption of productivity enhancing and 
+post-harvest loss reducing technologies, as well as support to private small and medium agro 
+entrepreneurs in the selected value chains (e.g. food processing) will be secured through the 
+corresponding AIF window. 
+ 
+Component 4: Supporting livestock development  
+This component, coordinated by the Department of Livestock Services, will support the 
+development of decentralized extension services and demand-driven research for livestock products, 
+and facilitate the integration of smallholder farmers in selected commodity value chains (dairy, goat 
+meat). This component would include investments, capacity enhancement and technical assistance 
+in e.g.: laboratory infrastructure and equipment (including at the regional level), artificial 
+insemination, fodder production and conservation, efficient biogas production, farm mechanization, 
+
+
+
+Page 6 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+food safety, and the promotion of livestock-based commodity value chains. Financial incentives to 
+smallholder farmers for the adoption of productivity enhancing and post-harvest loss reducing 
+technologies, as well as support to private small and medium agro entrepreneurs in the selected 
+value chains (e.g. food processing) will be secured through the corresponding AIF window. 
+ 
+Component 5: Project Management and Coordination 
+Under this component a Project Management and Coordination Unit will be in charge of overall 
+day-to-day project management and implementation, as well as coordination among the project 
+PIUs from the Ministry of Agriculture and Ministry of Food. The PCMU will have the operational, 
+safeguards and fiduciary responsibility and be accountable for overall project performance. The 
+PCMU will carry out procurement and financial management activities. Other specific PMU-led 
+activities under this component will include among others: (i) the support to the development of a 
+national agricultural atlas, (ii) the coordination of third-party project monitoring and impact 
+evaluation (with baseline, midline, endline surveys), (iii) the coordination of analytical studies and 
+dissemination of findings, (iv) the support to short- and longer term assistance to the project 
+management team and other agencies involved in component implementation, (v) the coordination 
+of all staff training and (vii) preparation studies for a potential follow-up operation (phase III of 
+NATP).
+
+IV. Safeguard Policies that might apply
+Safeguard Policies Triggered by the Project Yes No TBD
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+Projects in Disputed Areas OP/BP 7.60 ✖
+
+V. Financing (in USD Million)
+Total Project Cost: 200.00 Total Bank Financing: 150.00
+Financing Gap: 0.00
+Financing Source Amount
+ BORROWER/RECIPIENT 3.00
+ International Development Association (IDA) 150.00
+ US  Agency for International Development (USAID) 25.00
+ Bangladesh MDTF for Climate Change 0.00
+ International Fund for Agriculture Development 22.00
+ Total 200.00
+
+
+
+Page 7 of 7
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+Pu
+bl
+
+ic
+ D
+
+is
+cl
+
+os
+ur
+
+e 
+C
+
+op
+y
+
+VI. Contact point
+World Bank
+Contact: Patrick Verissimo
+Title: Lead Rural Development Specialist
+Tel: 5764+4318 /
+Email: pverissimo@worldbank.org
+
+Borrower/Client/Recipient
+Name: Economic Relations Division, Ministry of Finance
+Contact:
+Title: Additional Secretary, Ministry of Finance
+Tel: 9180675
+Email: addl-secy2@erd.gov.bd
+
+Implementing Agencies
+Name: Ministry of Agriculture (MOA)
+Contact: S.M. Nazmul Islam
+Title: Secretary
+Tel: (880-2) 716-0470
+Email: drnazmulislam@gmail.com
+
+VII. For more information contact:
+The InfoShop 
+The World Bank 
+1818 H Street, NW 
+Washington, D.C. 20433 
+Telephone: (202) 458-4500 
+Fax: (202) 522-1500 
+Web: http://www.worldbank.org/infoshop
+
+
+

@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Distant Reader</title>
+
+	<!-- Bootstrap CSS files-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+
+	<!-- jQuery Javascript Library -->
+	<script src="../js/jquery.min.js"></script>
+	
+	<!-- Bootstrap Library -->
+	<script src="../js/bootstrap.min.js"></script>
+
+	<!-- Local Javascript add on -->
+	<script src="../js/main.js" type="text/javascript"></script>
+
+	<!-- Font Awesome Web Icons -->
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+
+	<!-- custom local css file -->
+	<link rel="stylesheet" href="../css/main.css">
+
+	<!-- data tables -->
+	<link   rel="stylesheet"       type="text/css"       href="../css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="../js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" class="init">
+		$(document).ready(function() { $('#tsv').DataTable( {
+        "order": [[ 1, "desc" ]],
+        "pageLength": 10
+    } ); } );
+	</script>
+	
+</head>
+<body>
+
+	<nav class="navbar yamm navbar-inverse navbar-fixed-top">
+		 <div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
+								 class="icon-bar"></span><span class="icon-bar"></span></button>
+					 <h1><a class="navbar-brand" href="https://distantreader.org/">Distant Reader</a></h1>
+				</div> <!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					 <ul class="nav navbar-nav navbar-right">
+
+							<li class="dropdown" id="grams-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ngrams <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="unigrams.htm">Unigrams</a></li>
+										<li><a href="bigrams.htm">Bigrams</a></li>
+										<li><a href="trigrams.htm">Trigrams</a></li>
+										<li><a href="quadgrams.htm">Quadgrams</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="pos-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POS <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="nouns.htm">Nouns</a></li>
+										<li><a href="verbs.htm">Verbs</a></li>
+										<li><a href="adjectives.htm">Adjectives</a></li>
+										<li><a href="adverbs.htm">Adverbs</a></li>
+										<li><a href="pronouns.htm">Pronouns</a></li>
+										<li><a href="proper-nouns.htm">Proper nouns</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="grammar-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Grammars <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="noun-verb.htm">Noun – Verb</a></li>
+										<li><a href="adjective-noun.htm">Adjective – Noun</a></li>
+										<li><a href="questions.htm">Questions</a></li>
+								 </ul>
+							</li>
+							<li class="dropdown" id="miscellaneous-menu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other <span class="caret"></span></a>
+								 <ul class="dropdown-menu">
+										<li><a href="bibliographics.htm">Bibliographics</a></li>
+										<li><a href="keywords.htm">Keywords</a></li>
+										<li><a href="entities.htm">Named entities</a></li>
+										<li><a href="search.htm">Search (experimental)</a></li>
+										<li><a href="topic-model.htm">Topic model (experimental)</a></li>
+								 </ul>
+							</li>
+					 </ul>
+				</div><!-- /.navbar-collapse -->
+		 </div>
+	</nav>
+
+	<div class="container subpage">
+
+		<nav aria-label="breadcrumb">
+		<ol class="breadcrumb ">
+			<li class="breadcrumb-item">
+				<a href="../index.htm">Home</a>
+			</li>
+			<li class="breadcrumb-item active" aria-current="page">keyword</li>
+		</ol>
+	</nav>
+
+<h1>keyword</h1>
+<p>This is a table of type keyword and their frequencies. Use it to search &amp; browse the list to learn more about your study carrel.</p>
+
+<table id="tsv" class="display">
+        <thead>
+            <tr>
+                <th>keyword</th>
+                <th>frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td>bank</td><td>127</td></tr>
+<tr><td>project</td><td>121</td></tr>
+<tr><td>development</td><td>57</td></tr>
+<tr><td>world</td><td>53</td></tr>
+<tr><td>agriculture</td><td>29</td></tr>
+<tr><td>ifad</td><td>22</td></tr>
+<tr><td>agricultural</td><td>21</td></tr>
+<tr><td>program</td><td>14</td></tr>
+<tr><td>support</td><td>11</td></tr>
+<tr><td>management</td><td>11</td></tr>
+<tr><td>government</td><td>11</td></tr>
+<tr><td>fund</td><td>11</td></tr>
+<tr><td>rural</td><td>10</td></tr>
+<tr><td>adf</td><td>9</td></tr>
+<tr><td>national</td><td>8</td></tr>
+<tr><td>lot</td><td>7</td></tr>
+<tr><td>programme</td><td>6</td></tr>
+<tr><td>niger</td><td>6</td></tr>
+<tr><td>plan</td><td>5</td></tr>
+<tr><td>haiti</td><td>5</td></tr>
+<tr><td>guinea</td><td>5</td></tr>
+<tr><td>eur</td><td>5</td></tr>
+<tr><td>chad</td><td>5</td></tr>
+<tr><td>benin</td><td>5</td></tr>
+<tr><td>africa</td><td>5</td></tr>
+<tr><td>irrigation</td><td>4</td></tr>
+<tr><td>angola</td><td>4</td></tr>
+<tr><td>cfaf</td><td>4</td></tr>
+<tr><td>covid-19</td><td>4</td></tr>
+<tr><td>des</td><td>4</td></tr>
+<tr><td>water</td><td>4</td></tr>
+<tr><td>lesotho</td><td>4</td></tr>
+<tr><td>sector</td><td>4</td></tr>
+<tr><td>tsf</td><td>4</td></tr>
+<tr><td>region</td><td>4</td></tr>
+<tr><td>climate</td><td>3</td></tr>
+<tr><td>faso</td><td>3</td></tr>
+<tr><td>fao</td><td>3</td></tr>
+<tr><td>esmf</td><td>3</td></tr>
+<tr><td>drc</td><td>3</td></tr>
+<tr><td>cost</td><td>3</td></tr>
+<tr><td>congo</td><td>3</td></tr>
+<tr><td>burundi</td><td>3</td></tr>
+<tr><td>china</td><td>3</td></tr>
+<tr><td>burkina</td><td>3</td></tr>
+<tr><td>bolivia</td><td>3</td></tr>
+<tr><td>bissau</td><td>3</td></tr>
+<tr><td>argentina</td><td>3</td></tr>
+<tr><td>ghana</td><td>3</td></tr>
+<tr><td>food</td><td>3</td></tr>
+<tr><td>moldova</td><td>3</td></tr>
+<tr><td>kenya</td><td>3</td></tr>
+<tr><td>paraguay</td><td>3</td></tr>
+<tr><td>lake</td><td>3</td></tr>
+<tr><td>sudan</td><td>3</td></tr>
+<tr><td>strategy</td><td>3</td></tr>
+<tr><td>rev.1</td><td>3</td></tr>
+<tr><td>projet</td><td>3</td></tr>
+<tr><td>piu</td><td>3</td></tr>
+<tr><td>senegal</td><td>3</td></tr>
+<tr><td>morocco</td><td>3</td></tr>
+<tr><td>marndr</td><td>3</td></tr>
+<tr><td>liberia</td><td>3</td></tr>
+<tr><td>leone</td><td>3</td></tr>
+<tr><td>land</td><td>3</td></tr>
+<tr><td>landscapes</td><td>2</td></tr>
+<tr><td>fisheries</td><td>2</td></tr>
+<tr><td>india</td><td>2</td></tr>
+<tr><td>idb</td><td>2</td></tr>
+<tr><td>health</td><td>2</td></tr>
+<tr><td>guyana</td><td>2</td></tr>
+<tr><td>green</td><td>2</td></tr>
+<tr><td>grant</td><td>2</td></tr>
+<tr><td>gabon</td><td>2</td></tr>
+<tr><td>fonds</td><td>2</td></tr>
+<tr><td>asap</td><td>2</td></tr>
+<tr><td>financing</td><td>2</td></tr>
+<tr><td>digital</td><td>2</td></tr>
+<tr><td>côte</td><td>2</td></tr>
+<tr><td>cote</td><td>2</td></tr>
+<tr><td>cgiar</td><td>2</td></tr>
+<tr><td>boké</td><td>2</td></tr>
+<tr><td>african</td><td>2</td></tr>
+<tr><td>afghanistan</td><td>2</td></tr>
+<tr><td>maharashtra</td><td>2</td></tr>
+<tr><td>mag</td><td>2</td></tr>
+<tr><td>ministry</td><td>2</td></tr>
+<tr><td>malawi</td><td>2</td></tr>
+<tr><td>risk</td><td>2</td></tr>
+<tr><td>market</td><td>2</td></tr>
+<tr><td>zambia</td><td>2</td></tr>
+<tr><td>youth</td><td>2</td></tr>
+<tr><td>uganda</td><td>2</td></tr>
+<tr><td>turkey</td><td>2</td></tr>
+<tr><td>tanzania</td><td>2</td></tr>
+<tr><td>south</td><td>2</td></tr>
+<tr><td>social</td><td>2</td></tr>
+<tr><td>sierra</td><td>2</td></tr>
+<tr><td>technology</td><td>2</td></tr>
+<tr><td>resilient</td><td>2</td></tr>
+<tr><td>ptta</td><td>2</td></tr>
+<tr><td>province</td><td>2</td></tr>
+<tr><td>programa</td><td>2</td></tr>
+<tr><td>north</td><td>2</td></tr>
+<tr><td>nigeria</td><td>2</td></tr>
+<tr><td>myanmar</td><td>2</td></tr>
+<tr><td>regional</td><td>2</td></tr>
+<tr><td>minagri</td><td>2</td></tr>
+<tr><td>kosovo</td><td>1</td></tr>
+<tr><td>kankan</td><td>1</td></tr>
+<tr><td>kcsap</td><td>1</td></tr>
+<tr><td>khyber</td><td>1</td></tr>
+<tr><td>kordofan</td><td>1</td></tr>
+<tr><td>lebanon</td><td>1</td></tr>
+<tr><td>kyrgyz</td><td>1</td></tr>
+<tr><td>loan</td><td>1</td></tr>
+<tr><td>lao</td><td>1</td></tr>
+<tr><td>litani</td><td>1</td></tr>
+<tr><td>livestock</td><td>1</td></tr>
+<tr><td>jamaica</td><td>1</td></tr>
+<tr><td>jamara</td><td>1</td></tr>
+<tr><td>ida</td><td>1</td></tr>
+<tr><td>irrigated</td><td>1</td></tr>
+<tr><td>international</td><td>1</td></tr>
+<tr><td>inra</td><td>1</td></tr>
+<tr><td>improvement</td><td>1</td></tr>
+<tr><td>implementation</td><td>1</td></tr>
+<tr><td>imf</td><td>1</td></tr>
+<tr><td>iita</td><td>1</td></tr>
+<tr><td>igad</td><td>1</td></tr>
+<tr><td>luhansk</td><td>1</td></tr>
+<tr><td>icar</td><td>1</td></tr>
+<tr><td>honduras</td><td>1</td></tr>
+<tr><td>himachal</td><td>1</td></tr>
+<tr><td>guatemala</td><td>1</td></tr>
+<tr><td>lsi</td><td>1</td></tr>
+<tr><td>mawf</td><td>1</td></tr>
+<tr><td>lumpsum</td><td>1</td></tr>
+<tr><td>mordi</td><td>1</td></tr>
+<tr><td>group</td><td>1</td></tr>
+<tr><td>odisha</td><td>1</td></tr>
+<tr><td>nrlp</td><td>1</td></tr>
+<tr><td>nepal</td><td>1</td></tr>
+<tr><td>natp-2</td><td>1</td></tr>
+<tr><td>natp</td><td>1</td></tr>
+<tr><td>nares</td><td>1</td></tr>
+<tr><td>nanni</td><td>1</td></tr>
+<tr><td>namsip</td><td>1</td></tr>
+<tr><td>namibia</td><td>1</td></tr>
+<tr><td>mozambique</td><td>1</td></tr>
+<tr><td>mosap</td><td>1</td></tr>
+<tr><td>montenegro</td><td>1</td></tr>
+<tr><td>maah</td><td>1</td></tr>
+<tr><td>mofa</td><td>1</td></tr>
+<tr><td>ministers</td><td>1</td></tr>
+<tr><td>mifa</td><td>1</td></tr>
+<tr><td>mgap</td><td>1</td></tr>
+<tr><td>mcrp</td><td>1</td></tr>
+<tr><td>mauritania</td><td>1</td></tr>
+<tr><td>masa</td><td>1</td></tr>
+<tr><td>maratakka</td><td>1</td></tr>
+<tr><td>mali</td><td>1</td></tr>
+<tr><td>maldives</td><td>1</td></tr>
+<tr><td>mail</td><td>1</td></tr>
+<tr><td>madagascar</td><td>1</td></tr>
+<tr><td>guangxi</td><td>1</td></tr>
+<tr><td>animal</td><td>1</td></tr>
+<tr><td>groundnut</td><td>1</td></tr>
+<tr><td>basin</td><td>1</td></tr>
+<tr><td>colombia</td><td>1</td></tr>
+<tr><td>coffee</td><td>1</td></tr>
+<tr><td>census</td><td>1</td></tr>
+<tr><td>cenrat</td><td>1</td></tr>
+<tr><td>cbl</td><td>1</td></tr>
+<tr><td>cashew</td><td>1</td></tr>
+<tr><td>car</td><td>1</td></tr>
+<tr><td>canal</td><td>1</td></tr>
+<tr><td>cameroon</td><td>1</td></tr>
+<tr><td>cabinda</td><td>1</td></tr>
+<tr><td>bélier</td><td>1</td></tr>
+<tr><td>bif</td><td>1</td></tr>
+<tr><td>banco</td><td>1</td></tr>
+<tr><td>component</td><td>1</td></tr>
+<tr><td>badf</td><td>1</td></tr>
+<tr><td>avdp</td><td>1</td></tr>
+<tr><td>association</td><td>1</td></tr>
+<tr><td>assam</td><td>1</td></tr>
+<tr><td>asdu</td><td>1</td></tr>
+<tr><td>appsa</td><td>1</td></tr>
+<tr><td>oie</td><td>1</td></tr>
+<tr><td>amvat</td><td>1</td></tr>
+<tr><td>albania</td><td>1</td></tr>
+<tr><td>aiccra</td><td>1</td></tr>
+<tr><td>agreement</td><td>1</td></tr>
+<tr><td>aecid</td><td>1</td></tr>
+<tr><td>commercial</td><td>1</td></tr>
+<tr><td>comrural</td><td>1</td></tr>
+<tr><td>grenada</td><td>1</td></tr>
+<tr><td>enhancement</td><td>1</td></tr>
+<tr><td>girsal</td><td>1</td></tr>
+<tr><td>ghg</td><td>1</td></tr>
+<tr><td>gef</td><td>1</td></tr>
+<tr><td>gdp</td><td>1</td></tr>
+<tr><td>gambia</td><td>1</td></tr>
+<tr><td>gafsp</td><td>1</td></tr>
+<tr><td>fonsis</td><td>1</td></tr>
+<tr><td>fnda</td><td>1</td></tr>
+<tr><td>fishery</td><td>1</td></tr>
+<tr><td>ffs</td><td>1</td></tr>
+<tr><td>ethiopia</td><td>1</td></tr>
+<tr><td>espes</td><td>1</td></tr>
+<tr><td>economic</td><td>1</td></tr>
+<tr><td>council</td><td>1</td></tr>
+<tr><td>eaj</td><td>1</td></tr>
+<tr><td>drslp</td><td>1</td></tr>
+<tr><td>drd</td><td>1</td></tr>
+<tr><td>diffa</td><td>1</td></tr>
+<tr><td>dgdr</td><td>1</td></tr>
+<tr><td>department</td><td>1</td></tr>
+<tr><td>del</td><td>1</td></tr>
+<tr><td>ddrr</td><td>1</td></tr>
+<tr><td>dcea</td><td>1</td></tr>
+<tr><td>date</td><td>1</td></tr>
+<tr><td>csa</td><td>1</td></tr>
+<tr><td>crda</td><td>1</td></tr>
+<tr><td>oecs</td><td>1</td></tr>
+<tr><td>rani</td><td>1</td></tr>
+<tr><td>ongo</td><td>1</td></tr>
+<tr><td>senasag</td><td>1</td></tr>
+<tr><td>tasc</td><td>1</td></tr>
+<tr><td>tadb</td><td>1</td></tr>
+<tr><td>taat</td><td>1</td></tr>
+<tr><td>syrian</td><td>1</td></tr>
+<tr><td>swio</td><td>1</td></tr>
+<tr><td>sud</td><td>1</td></tr>
+<tr><td>status</td><td>1</td></tr>
+<tr><td>state</td><td>1</td></tr>
+<tr><td>somalia</td><td>1</td></tr>
+<tr><td>smart</td><td>1</td></tr>
+<tr><td>skills</td><td>1</td></tr>
+<tr><td>serbia</td><td>1</td></tr>
+<tr><td>senacsa</td><td>1</td></tr>
+<tr><td>tcep</td><td>1</td></tr>
+<tr><td>security</td><td>1</td></tr>
+<tr><td>scpz</td><td>1</td></tr>
+<tr><td>sanitation</td><td>1</td></tr>
+<tr><td>samriddhi</td><td>1</td></tr>
+<tr><td>samoa</td><td>1</td></tr>
+<tr><td>salvador</td><td>1</td></tr>
+<tr><td>sahel</td><td>1</td></tr>
+<tr><td>sagcot</td><td>1</td></tr>
+<tr><td>rwanda</td><td>1</td></tr>
+<tr><td>ruaha</td><td>1</td></tr>
+<tr><td>rplp</td><td>1</td></tr>
+<tr><td>road</td><td>1</td></tr>
+<tr><td>tbd</td><td>1</td></tr>
+<tr><td>title</td><td>1</td></tr>
+<tr><td>riz</td><td>1</td></tr>
+<tr><td>uruguay</td><td>1</td></tr>
+<tr><td>zar</td><td>1</td></tr>
+<tr><td>zaghouan</td><td>1</td></tr>
+<tr><td>yemen</td><td>1</td></tr>
+<tr><td>year</td><td>1</td></tr>
+<tr><td>wfp</td><td>1</td></tr>
+<tr><td>west</td><td>1</td></tr>
+<tr><td>weir</td><td>1</td></tr>
+<tr><td>wee</td><td>1</td></tr>
+<tr><td>wash</td><td>1</td></tr>
+<tr><td>vietnam</td><td>1</td></tr>
+<tr><td>victoria</td><td>1</td></tr>
+<tr><td>uzbekistan</td><td>1</td></tr>
+<tr><td>urt</td><td>1</td></tr>
+<tr><td>tnd</td><td>1</td></tr>
+<tr><td>urc</td><td>1</td></tr>
+<tr><td>ukraine</td><td>1</td></tr>
+<tr><td>ucar</td><td>1</td></tr>
+<tr><td>tvet</td><td>1</td></tr>
+<tr><td>tunisia</td><td>1</td></tr>
+<tr><td>tsh</td><td>1</td></tr>
+<tr><td>trip</td><td>1</td></tr>
+<tr><td>transformation</td><td>1</td></tr>
+<tr><td>tourism</td><td>1</td></tr>
+<tr><td>total</td><td>1</td></tr>
+<tr><td>tonga</td><td>1</td></tr>
+<tr><td>togo</td><td>1</td></tr>
+<tr><td>rlacc</td><td>1</td></tr>
+<tr><td>river</td><td>1</td></tr>
+<tr><td>p.15</td><td>1</td></tr>
+<tr><td>padcae</td><td>1</td></tr>
+<tr><td>pdzta</td><td>1</td></tr>
+<tr><td>pdzsta</td><td>1</td></tr>
+<tr><td>pdcv</td><td>1</td></tr>
+<tr><td>pdar</td><td>1</td></tr>
+<tr><td>pcu</td><td>1</td></tr>
+<tr><td>pceu</td><td>1</td></tr>
+<tr><td>patareb</td><td>1</td></tr>
+<tr><td>patag</td><td>1</td></tr>
+<tr><td>pastoral</td><td>1</td></tr>
+<tr><td>pasta</td><td>1</td></tr>
+<tr><td>pagpa</td><td>1</td></tr>
+<tr><td>padecas</td><td>1</td></tr>
+<tr><td>padaer</td><td>1</td></tr>
+<tr><td>peu</td><td>1</td></tr>
+<tr><td>padaam</td><td>1</td></tr>
+<tr><td>pacvear</td><td>1</td></tr>
+<tr><td>pacba</td><td>1</td></tr>
+<tr><td>p2rs</td><td>1</td></tr>
+<tr><td>p175263</td><td>1</td></tr>
+<tr><td>p167945</td><td>1</td></tr>
+<tr><td>p167860</td><td>1</td></tr>
+<tr><td>p164764</td><td>1</td></tr>
+<tr><td>p164509</td><td>1</td></tr>
+<tr><td>p159979</td><td>1</td></tr>
+<tr><td>p.9</td><td>1</td></tr>
+<tr><td>p.8</td><td>1</td></tr>
+<tr><td>peja</td><td>1</td></tr>
+<tr><td>phase</td><td>1</td></tr>
+<tr><td>research</td><td>1</td></tr>
+<tr><td>pse</td><td>1</td></tr>
+<tr><td>report</td><td>1</td></tr>
+<tr><td>rep</td><td>1</td></tr>
+<tr><td>recipient</td><td>1</td></tr>
+<tr><td>rcn</td><td>1</td></tr>
+<tr><td>rating</td><td>1</td></tr>
+<tr><td>r.8</td><td>1</td></tr>
+<tr><td>r.23</td><td>1</td></tr>
+<tr><td>qcbs</td><td>1</td></tr>
+<tr><td>qaraoun</td><td>1</td></tr>
+<tr><td>pzta</td><td>1</td></tr>
+<tr><td>punjab</td><td>1</td></tr>
+<tr><td>psta</td><td>1</td></tr>
+<tr><td>prosap</td><td>1</td></tr>
+<tr><td>pmu</td><td>1</td></tr>
+<tr><td>productive</td><td>1</td></tr>
+<tr><td>prodivac</td><td>1</td></tr>
+<tr><td>prodefi</td><td>1</td></tr>
+<tr><td>procurement</td><td>1</td></tr>
+<tr><td>proader</td><td>1</td></tr>
+<tr><td>prepas</td><td>1</td></tr>
+<tr><td>precis</td><td>1</td></tr>
+<tr><td>pradesh</td><td>1</td></tr>
+<tr><td>poyang</td><td>1</td></tr>
+<tr><td>poverty</td><td>1</td></tr>
+<tr><td>post</td><td>1</td></tr>
+<tr><td>png</td><td>1</td></tr>
+<tr><td>adaptation</td><td>1</td></tr>
+
+        </tbody>
+    </table>
+	</div>
+	<footer class="footer">
+ 		<div class="container">
+ 			 <hr>
+ 			 <div class="row">
+
+ 					<div class="col-sm-4">
+ 						 <p class="text-muted text-center">&copy; 2019 Eric Lease Morgan</p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center"><a href="mailto:emorgan@nd.edu">Contact Webmaster</a></p>
+ 					</div>
+ 					<div class="col-sm-4">
+ 						 <p class="text-center">
+ 								<a href="https://distantreader.org/">About Distant Reader</a>
+ 						 </p>
+ 					</div>
+
+ 			 </div>
+
+
+ 		</div>
+  </footer>
+</body>
+</html>

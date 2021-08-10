@@ -1,0 +1,177 @@
+id	sid	eid	entity	type
+WB62	1	1	Pu bl	PERSON
+WB62	1	2	Pu bl	PERSON
+WB62	1	3	D	PERSON
+WB62	1	4	PID	ORG
+WB62	2	1	PIDA15898 Project Name Agricultural Development Support Project	ORG
+WB62	2	2	Region EAST ASIA	ORG
+WB62	2	3	40%	PERCENT
+WB62	2	4	30%	PERCENT
+WB62	2	5	30%	PERCENT
+WB62	2	6	60%	PERCENT
+WB62	2	7	20%	PERCENT
+WB62	2	8	20%	PERCENT
+WB62	2	9	P147629 Borrower(s	ORG
+WB62	2	10	the Union of Myanmar Implementing Agency Ministry of Agriculture and Irrigation Environmental Category B-Partial Assessment Date	ORG
+WB62	2	11	23-Apr-2015	DATE
+WB62	3	1	Southeast Asia	LOC
+WB62	3	2	about 654,000 square km	QUANTITY
+WB62	4	1	Bangladesh	GPE
+WB62	4	2	China	GPE
+WB62	4	3	India	GPE
+WB62	4	4	Lao PDR	FAC
+WB62	4	5	Thailand	GPE
+WB62	4	6	more than 2,800 miles	QUANTITY
+WB62	5	1	East Asia	LOC
+WB62	5	2	between 26 and 37 percent	DATE
+WB62	5	3	around 52 million	CARDINAL
+WB62	6	1	March 2011	DATE
+WB62	7	1	Myanmar	GPE
+WB62	7	2	60 years	DATE
+WB62	8	1	Myanmar	GPE
+WB62	9	1	about 36 percent	PERCENT
+WB62	9	2	ASEAN	ORG
+WB62	10	1	about 30 percent	PERCENT
+WB62	10	2	70 percent	PERCENT
+WB62	11	1	about 53 percent	PERCENT
+WB62	11	2	about 70 percent	PERCENT
+WB62	12	1	26 to 37 percent	PERCENT
+WB62	12	2	2	CARDINAL
+WB62	12	3	Pu bl ic D	PERSON
+WB62	12	4	Pu bl	PERSON
+WB62	12	5	D	PERSON
+WB62	12	6	the Dry Zone	GPE
+WB62	12	7	34 percent	PERCENT
+WB62	12	8	Delta	LOC
+WB62	12	9	25 percent	PERCENT
+WB62	12	10	the Systematic Country Diagnostic	ORG
+WB62	12	11	the World Bank Group	ORG
+WB62	12	12	2014	DATE
+WB62	13	1	Delta	LOC
+WB62	13	2	the Dry Zones	ORG
+WB62	18	1	20,870 m3	CARDINAL
+WB62	18	2	Asia	LOC
+WB62	18	3	3,948	CARDINAL
+WB62	18	4	the East Asia	LOC
+WB62	18	5	Pacific	LOC
+WB62	18	6	EAP	ORG
+WB62	18	7	0.8	CARDINAL
+WB62	18	8	Thailand	GPE
+WB62	18	9	Cambodia	GPE
+WB62	18	10	less than half	CARDINAL
+WB62	18	11	Myanmar	GPE
+WB62	18	12	Vietnam	GPE
+WB62	18	13	Indonesia	GPE
+WB62	19	1	the Myanmar Census of Agriculture	ORG
+WB62	19	2	2010	DATE
+WB62	19	3	2.6	CARDINAL
+WB62	19	4	second	ORDINAL
+WB62	19	5	EAP	ORG
+WB62	19	6	Thailand	GPE
+WB62	19	7	3.1	CARDINAL
+WB62	19	8	about five	CARDINAL
+WB62	19	9	Vietnam	GPE
+WB62	19	10	Mekong Delta	LOC
+WB62	22	1	Myanmar	GPE
+WB62	29	1	about 2 million	CARDINAL
+WB62	29	2	second	ORDINAL
+WB62	29	3	only about 28 percent	PERCENT
+WB62	29	4	2011/12	FAC
+WB62	35	1	3	CARDINAL
+WB62	35	2	6	CARDINAL
+WB62	35	3	Pu bl	PERSON
+WB62	35	4	Pu bl	PERSON
+WB62	35	5	D	PERSON
+WB62	39	1	Myanmar	GPE
+WB62	39	2	decades	DATE
+WB62	40	1	Myanmar	GPE
+WB62	40	2	years	DATE
+WB62	41	1	The Ministry of Agriculture and Irrigation	ORG
+WB62	41	2	ween the 1980s	DATE
+WB62	41	3	2000s	DATE
+WB62	45	1	Bago East	LOC
+WB62	45	2	Nay Pyi Taw	ORG
+WB62	45	3	Mandalay	PRODUCT
+WB62	45	4	Sagaing	GPE
+WB62	46	1	III	ORG
+WB62	49	1	about 35,000	CARDINAL
+WB62	49	2	up to 8	CARDINAL
+WB62	49	3	2-3	CARDINAL
+WB62	52	1	Farm Advisory and Technical Services Comments	ORG
+WB62	54	1	3	CARDINAL
+WB62	55	1	Project Coordination and Management Comments	ORG
+WB62	55	2	4	CARDINAL
+WB62	55	3	Pu bl	PERSON
+WB62	55	4	Pu bl	PERSON
+WB62	55	5	D	PERSON
+WB62	59	1	USD Million	CARDINAL
+WB62	59	2	100.00	CARDINAL
+WB62	59	3	100.00	CARDINAL
+WB62	59	4	0.00	CARDINAL
+WB62	59	5	IDA	ORG
+WB62	59	6	100.00	CARDINAL
+WB62	59	7	100.00	CARDINAL
+WB62	60	1	the National Project Steering Committee	ORG
+WB62	60	2	the Township Agricultural Coordination Committees	ORG
+WB62	60	3	ACC	ORG
+WB62	61	1	the Project Management Unit	ORG
+WB62	61	2	Department of Irrigation	ORG
+WB62	62	1	Nay Pyi Taw	LAW
+WB62	62	2	MOAI	ORG
+WB62	63	1	day	DATE
+WB62	65	1	annual	DATE
+WB62	66	1	annual	DATE
+WB62	66	2	annual	DATE
+WB62	67	1	five	CARDINAL
+WB62	67	2	Department of Irrigation/ID	ORG
+WB62	67	3	Department of Agriculture/DOA	ORG
+WB62	67	4	Department of Agricultural Research/DAR	ORG
+WB62	67	5	Agricultural Mechanization Department	ORG
+WB62	67	6	AMD	ORG
+WB62	67	7	Settlements and Land Records Department/SLRD	ORG
+WB62	68	1	AMD	ORG
+WB62	68	2	DOA	ORG
+WB62	68	3	Component 2	ORG
+WB62	68	4	DAR	GPE
+WB62	68	5	AMD	ORG
+WB62	70	1	annual	DATE
+WB62	70	2	5	CARDINAL
+WB62	70	3	6	CARDINAL
+WB62	70	4	Pu bl ic D	PERSON
+WB62	70	5	Pu bl	PERSON
+WB62	70	6	D	PERSON
+WB62	72	1	ACC	ORG
+WB62	73	1	the Project Implementation Committees	ORG
+WB62	73	2	ACC	ORG
+WB62	75	1	Safeguard Policies	PERSON
+WB62	75	2	4.01	CARDINAL
+WB62	75	3	Habitats OP	PRODUCT
+WB62	75	4	4.04	CARDINAL
+WB62	75	5	4.36	CARDINAL
+WB62	75	6	4.09	CARDINAL
+WB62	75	7	Physical Cultural Resources OP/BP	LAW
+WB62	75	8	4.10	CARDINAL
+WB62	75	9	OP	PERSON
+WB62	75	10	International Waterways OP/BP	ORG
+WB62	75	11	Disputed Areas OP/BP	FAC
+WB62	75	12	7.60	CARDINAL
+WB62	75	13	VII	ORG
+WB62	76	1	World Bank Contact:	ORG
+WB62	76	2	the Union of Myanmar Contact	ORG
+WB62	76	3	Budget Department	ORG
+WB62	76	4	Ministry of Finance	ORG
+WB62	76	5	9567410450	DATE
+WB62	76	6	Ministry of Agriculture and Irrigation	ORG
+WB62	76	7	Zaw Title	PERSON
+WB62	76	8	9567413778	CARDINAL
+WB62	76	9	6	CARDINAL
+WB62	76	10	Pu bl	PERSON
+WB62	76	11	Pu bl	PERSON
+WB62	76	12	D	PERSON
+WB62	77	1	The InfoShop The World Bank 1818 H Street	ORG
+WB62	77	2	NW	GPE
+WB62	77	3	Washington	GPE
+WB62	77	4	202	CARDINAL
+WB62	77	5	458	CARDINAL
+WB62	77	6	202	CARDINAL
+WB62	77	7	522-1500	CARDINAL

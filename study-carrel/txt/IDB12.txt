@@ -1,0 +1,2835 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+ 
+ 
+ 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+GUYANA 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SUSTAINABLE AGRICULTURAL DEVELOPMENT PROGRAM 
+ 
+ 
+
+(GY-L1060) 
+ 
+ 
+ 
+ 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+This document was prepared by the project team consisting of: Juan de Dios Mattos (CSD/RND) and Sybille 
+Nuenninghoff (RND/CBL), Project Co-Team Leaders; Onil Banerjee (CSD/RND); Jamie Cotta (CSD/RND); 
+Alan Mentis (CCB/CGY); Paula Louis–Grant (FMP/CGY); Emilie Chapuis (FMP/CGY); María Camila Padilla 
+(FMP/CBA); Graham Watkins (CSD/CCS); Rachel Atkinson (VPS/ESG); Claudia Stevenson (IFD/CTI); 
+Escarlata Baza (LEG/SGO); David Cotacachi (SCL/GDI); Maja Schling (SPD/SDV); and Lisa Restrepo 
+(CSD/RND). 
+
+ 
+In accordance with the Access to Information Policy, this document is being released to the public and 
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been 
+approved by the Board. Should the Board approve the document with amendments, a revised version will be 
+made available to the public, thus superseding and replacing the original version.
+
+ 
+
+
+
+ 
+
+CONTENTS 
+ 
+ 
+
+PROJECT SUMMARY ............................................................................................................ I 
+
+I. DESCRIPTION AND RESULTS MONITORING .................................................................. 2 
+
+A. Background, Problem Addressed, Justification .............................................. 2 
+B. Objective, Components and Cost .................................................................. 8 
+C. Key Results Indicators ..................................................................................11 
+
+II. FINANCING STRUCTURE AND MAIN RISKS ..................................................................11 
+
+A. Financing Instruments...................................................................................11 
+B. Economic viability .........................................................................................12 
+C. Environmental and Social Safeguards Risks .................................................12 
+D. Fiduciary Risk ...............................................................................................13 
+E. Other Risks ...................................................................................................14 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN ..............................................................14 
+
+A. Summary of Implementation Arrangements ..................................................14 
+B. Summary of Arrangements for Monitoring Results ........................................17 
+
+ 
+ 
+ 
+ 
+  
+
+
+
+- ii - 
+
+ 
+
+ 
+
+ANNEXES 
+
+Annex I Development Effectiveness Matrix (DEM) - Summary 
+
+Annex II Results Framework 
+
+Annex III Fiduciary Arrangements  
+
+ 
+
+ELECTRONIC LINKS 
+
+REQUIRED 
+
+1. Pluri-annual Execution Plan (PEP) 
+
+2. Annual Operational Plan (AOP) 
+
+3. Monitoring and Evaluation Arrangements 
+
+4. Environmental and Social Management Report (ESMR) 
+
+5. Procurement Plan  
+
+OPTIONAL 
+
+1. Technical design Component 1 
+
+2. Diagnostic of the Agricultural Information System 
+
+3. Technical design Component 2 
+
+4. Institutional Capacity Assessment (ICAS) 
+
+5. Technical design Component 3 
+
+6. Analysis of gender and diversity inclusion  
+
+7. Review of infrastructure proposals and ToR for design and supervision 
+
+8. Impact evaluation proposal 
+
+9. Ex ante economic analysis 
+
+10. Environmental and Social Analysis and Management Plan  
+
+11. Agricultural household survey in Regions 5, 9 and 10 
+
+12. Draft Program Operating Manual 
+
+13. Safeguard Policy Filter (SPF) and Safeguard Screening Form (SSF) 
+
+  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40564707
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40586954
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40564750
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40647394
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40564551
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40588762
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40663628
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40663634
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40588559
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40589854
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40587422
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40590131
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40587606
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40588061
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40664054
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40590454
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40588248
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40280490
+
+
+- iii - 
+
+ 
+
+ 
+
+ABBREVIATIONS 
+
+AIS Agricultural Information System 
+
+ASDU Agricultural Sector Development Unit 
+
+EPA Environment and Protection Agency 
+
+ESMP Environmental and Social Management Plan 
+
+ESMR Environmental and Social Management Report 
+
+ESS Environmental and Social Strategy 
+
+FAO Food and Agriculture Organization of the United Nations 
+
+GBS Guyana Bureau of Statistics 
+
+GDP Gross Domestic Product 
+
+GMC Guyana Marketing Corporation 
+
+GL&SC Guyana Land and Survey Commission 
+
+GLDA Guyana Livestock Development Agency 
+
+GoG Government of Guyana 
+
+GRDB Guyana Rice Development Board 
+
+GRIF Guyana REDD+ Investment Fund 
+
+GSA Guyana School of Agriculture 
+
+GUYSUCO Guyana Sugar Corporation 
+
+IDB Inter-American Development Bank 
+
+IFAD International Fund for Agricultural Development 
+
+IFPRI International Food Policy Research Institute 
+
+LAC Latin America and the Caribbean 
+
+M&E  Monitoring and Evaluation  
+
+MIF Multilateral Investment Fund 
+
+MoA Ministry of Agriculture 
+
+MRV Monitoring, Reporting and Verification 
+
+NAREI National Agriculture Research and Extension Institute 
+
+NDIA National Drainage and Irrigation Authority 
+
+NSC National Steering Committee 
+
+OECD Organization for Economic Cooperation and Development 
+
+POM Program Operations Manual 
+
+PS Permanent Secretary 
+
+RLPA Rupununi Livestock Association  
+
+RMC Regional Management Committee 
+
+SPF Safeguard Policy Filter 
+
+SPS Sanitary and Phytosanitary 
+
+SSF Safeguard Screening Form 
+
+TFP Total Factor Productivity 
+
+WBSGA West Berbice Sheep and Goat Association 
+
+ 
+  
+
+
+
+ 
+
+PROJECT SUMMARY  
+GUYANA 
+
+SUSTAINABLE AGRICULTURAL DEVELOPMENT PROGRAM 
+
+(GY-L1060) 
+
+Financial Terms and Conditions 
+
+Borrower: Co-operative Republic of 
+
+Guyana 
+
+ 
+
+ OC FSO 
+
+Amortization Period: 30 years 40 years 
+
+Executing Agency: Ministry of Agriculture    
+
+Disbursement Period: 5.5 years 5.5 years 
+
+Source Amount (US$) % Grace Period: 6 years 40 years 
+
+IDB (OC): 7,500,000 50 Supervision and Inspection Fee: (a)  NA 
+
+IDB (FSO): 7,500,000 50 Interest rate: FU fixed (b)  0.25% 
+
+Total: 15,000,000 100 
+Credit Fee: (a)  NA 
+
+Currency of Approval: US$ US$ 
+
+Project at a Glance 
+
+Project Objective/Description: Increase productivity of the agricultural sector while maintaining a sustainable 
+
+and climate resilient use of natural resources in Guyana. The specific objectives are: (i) produce high quality data 
+for the agricultural sector; (ii) increase productivity, especially for medium and small farmers; and (iii) increase 
+sanitary and phytosanitary (SPS) standards and access to meat processing facilities. Higher productivity will also 
+contribute to reduce pressure on forest and fragile ecosystems, and at the same time, increase income for small 
+and medium-sized farmers. 
+
+Special contractual conditions prior to the first disbursement of the financing: (i) the presentation of 
+
+evidence that the Ministry of Agriculture (MoA) has selected a program coordinator, a financial officer and a 
+procurement officer according to the terms and conditions previously agreed with the Bank (¶3.1); (ii) approval 
+and entry into effect of the Program Operating Manual (POM) according to the terms and conditions previously 
+agreed with the Bank (¶3.4); and (iii) presentation of an initial report, including, the Program’s Pluri-annual 
+Execution Plan (PEP), the Procurement Plan, the Financial Plan and the Results Matrix according to the terms 
+and conditions previously agreed with the Bank (¶3.12).  
+
+Special contractual execution conditions: (i) prior to the implementation of the activities related to the Guyana 
+
+Bureau of Statistics (GBS) under Component 1, the subscription and entry into effect of an agreement between 
+the MoA and the GBS, according to the terms and conditions previously agreed with the Bank (¶3.2); (ii) prior to 
+the bidding of infrastructure works under Components 2 and 3, the subscription and entry into effect of an 
+agreement between the MoA and the EPA, according to the terms and conditions previously agreed with the 
+Bank (¶3.2); (iii) prior to the building of infrastructure works related to the meat processing facilities financed 
+under Component 3, the subscription and entry into effect of an agreement between the MoA and a producer’s 
+association responsible for operating the abattoir, according to the terms and conditions previously agreed with 
+the Bank (¶3.7); and (iv) compliance with the environmental and social conditions established in Section VI of the 
+Environmental and Social Management Report (ESMR). 
+
+Exceptions to Bank Policies: None 
+
+Strategic Alignment 
+
+Challenges
+(c)
+
+: SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Cross-Cutting Themes
+(d)
+
+: GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+(a)
+ The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors during 
+
+its review of the Bank’s lending charges, in accordance with the relevant policies. 
+(b) 
+
+   The borrower shall pay interests on the outstanding balance of the Ordinary Capital loan at a Libor based rate. Each time 
+the outstanding balance reaches 25% of the net approved amount or $3 million, whichever is greater, the interest rate will 
+be fixed. 
+
+(c)
+ SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+
+(d)
+ GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity 
+
+and Rule of Law).
+ 
+
+
+
+- 2 - 
+
+ 
+
+I. DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, Problem Addressed, Justification
+1
+ 
+
+1.1 Guyana’s green economy development model. Guyana has 10 administrative 
+regions and more than 75% of the territory is 
+covered with forest. Savannahs represent 
+10% of the territory. Forest and savannah 
+ecosystems offer a wide range of goods and 
+environmental services, necessary for 
+agricultural development. Since 2009, 
+Guyana in partnership with Norway started a 
+payment-for-performance, forest conservation 
+program. This partnership aims to maintain or 
+reduce deforestation rates, currently at 
+0.56%, one of the lowest in the world. 
+Because agriculture is one of the drivers of 
+deforestation in Guyana, increased 
+production and productivity need to consider 
+secondary effects on forests and savannahs.   
+
+1.2 Agricultural Production. In 2014, agriculture represented almost 18% of total 
+Gross Domestic Product (GDP), contributed 20% of employment (70% in rural 
+areas), and is one of the main sources of foreign exchange earnings, representing 
+19% of total exports (GBS, 2016). Coastal regions (2, 3, 4 and 5, mostly) 
+concentrate in agricultural production especially export crops like sugar and rice. 
+Although Guyana experienced high rates of economic growth between 2009 and 
+2013 (4.5% annual average), the share of agriculture in GDP (and natural 
+resources in general) has decreased consistently (Modeste, 2016). This is in part 
+due to lower international prices for commodities, but also low productivity, 
+especially among small farmers.  
+
+1.3 Although small farmers produce most of the fruits and vegetables grown in Guyana 
+(80% of the country’s grains, 60% of coconuts, and 40% of all coconut oil [FAO, 
+2012]); productivity is still considered low compared to other countries with similar 
+farm production systems (yields of corn, beans, and small scale rice, on average, 
+are 40% lower than the Caribbean average). Livestock production is focused on 
+poultry, with cattle and small ruminants produced mainly on small farms, with 
+similarly low productivity (FAO, 2012). In the aggregate, as a result of the farming 
+structure and low levels of agricultural services, the sector’s efficiency, as part of 
+Total Factor Productivity (TFP) is one of the lowest in Latin America and the 
+Caribbean (LAC) (Nin-Pratt, et al., 2015). As Fuglie and Rada (2013) have shown, 
+45% of growth in productivity in the agricultural sector (global average) can be 
+attributed to the adoption of better technologies.  
+
+1.4 Low productivity is not the only challenge. Agriculture in Guyana is also affected by 
+changes in weather patterns, particularly drought severity. The drought of      
+
+                                                 
+1
+  References included in this document can be found in IDBDocs40279510 
+
+pcdocs://IDBDOCS/40279510/R
+
+
+- 3 - 
+
+ 
+
+2014–2015 was one of the longest and most severe of the last two decades, 
+extending the dry days from 145 to 189 (OCC-MP, 2016). Such drought poses 
+enormous risk to farmers, and food security, particularly those in the hinterlands 
+(Region 9), where water availability is one of the main constraints to agriculture 
+and livestock development. Climate change impacts, including intensified drought 
+as well as flooding, increase the need to facilitate the identification and adoption of 
+adaptation measures, both for large and small farmers (IFPRI, 2009).  
+
+1.5 Agricultural production in Regions 9 and 10 requires the adoption of practices 
+tailored to ensure long–term conservation and ecosystem service supply in these 
+environments. Although more than 90% of households in the hinterlands practice 
+agriculture, most are subsistence–based with only 35% with agriculture as their 
+main source of income. This low percentage is the function of precipitation patterns 
+in the region (six months on average with less than 50mm of rainfall per month), 
+little information on regionally appropriate agricultural practices and a lack of       
+all-weather road connection with Georgetown. Improved technologies and 
+practices for water management and use are critical in these regions where 
+seasonal variation in precipitation induces drought stress as well as flooding.  
+
+1.6 A study commissioned by the Bank (2016) analyzed the relative support to 
+producers using the Organisation for Economic Cooperation and Development 
+(OECD) methodology (Derlagen, 2016). The main findings show that the 
+Government of Guyana employs various policy instruments in support of the 
+agricultural sector, including trade policies, fiscal measures as well as public 
+investment in infrastructure, research, extension services and marketing. During 
+the preparation of the Program, a diagnostic of these services was clustered in 
+three sections: (i) information systems; (ii) research, innovation and extension; and 
+(iii) SPS standards and compliance. These sub–sectors represent the bulk of 
+public goods and services provided by the Government. Through these services 
+the Government has the opportunity to improve productivity and the sustainable 
+use of natural resources.  
+
+1.7 Agricultural information system (AIS). The MoA has a Monitoring and 
+Evaluation (M&E) Unit created in 2014 that aggregates information produced by 
+the Guyana Marketing Corporation (GMC); National Agricultural Research and 
+Extension Institute (NAREI), the Guyana Livestock Development Agency (GLDA), 
+the Guyana Sugar Corporation (GUYSUCO) and the Guyana Rice Development 
+Board (GRDB), among others. An assessment carried out by the FAO in 2015 
+showed that nine agencies of the MoA collect statistical data, but standards and 
+consistency are lacking (see Optional Link 2). The last national agricultural census 
+was implemented in 1952 and there is scant information on the current 
+configuration of farmers, farming systems and cost structures across the country. 
+Regional and national development plans are based on population censuses, with 
+little or anecdotal information about production activities or productivity. The 
+evidence and historical experience is clear and unambiguous: strategic 
+investments in agricultural sector information increase productivity (Alston, 2010) 
+and private sector investment (Fuglie, 2016). 
+
+1.8 Limitations of the AIS. Because data from non-traditional crops are collected on 
+an ad hoc basis, farmer characteristics, particularly in the hinterlands, are not well 
+known and therefore provide little input into the preparation of regional 
+
+pcdocs://IDBDOCS/40663628/R
+
+
+- 4 - 
+
+ 
+
+development plans and policies. Land use and pressure on the environment can 
+currently only be assessed on an anecdotal basis. Furthermore, as the 
+assessment of the agricultural information system of the MoA shows, data 
+collection, processing, and reporting protocols and standards need to be 
+established and staff trained as a prerequisite to improving the AIS (see Optional 
+Link 2). Lack of quality data present problems for suppliers, by also for users, like 
+the Government, private investors and development agencies. Fundamentally, a 
+comprehensive census is needed to provide the necessary basis for data-driven, 
+evidence-based policy and decision making, robust survey design for commodity 
+and sector specific analysis; and an accurate portrayal of agriculture’s contribution 
+to economic growth. In the absence of this information, both the public and private 
+sectors develop their policies and investments in an environment of high 
+uncertainty and risk; they face higher costs as a result, and; their probabilities of 
+success are much lower than in environments where information is available and 
+credible. 
+
+1.9 Research, innovation and technology transfer. NAREI, established in 2011, is 
+the leading research and extension agency in Guyana. NAREI has 30 researchers 
+(three PhD and four MSc) and 20 experiments under implementation, but no 
+research programs. NAREI has released at least 10 new varieties of                 
+non-traditional crops and five new technologies in the last five years, but adoption 
+is difficult to assess or quality of the genetic material. NAREI has a budget of   
+US$4 million annually. Also, GUYSUCO and GRDB have their own research 
+facilities and personnel to develop technologies for the sugar and rice industries. 
+Together they invest approximately US$0.5 million annually in research and 
+innovation. NAREI and GLDA only have 35 technical staff dedicated to extension 
+and technology transfer, which given the number of farmers in Guyana, this is well 
+below international best practices (FAO, 2008). Medium and large sugar and rice 
+farmers are the ones benefiting most from current investment in research and 
+innovation.  
+
+1.10 Analysis at the regional (Avila et. al, 2010) and global level (Heisey, 2001) show 
+that a higher proportion of research, innovation and technology transfer of the 
+agricultural GDP is correlated with higher productivity and incomes. On average, 
+for LAC, an increase in 10% in public expenditure in public services (including 
+research, innovation and technology transfer) results in a 5% increase in the 
+agricultural sector value added per capita (Foster, et. al. 2016). However, the total 
+research budget of Guyana represented just 0.86% of the agricultural GDP in 
+2014, which is below the average of 1.15% observed for LAC and the Anglophone 
+Caribbean (Stads, et. al., 2016). Based on a systematic review, Waddington et. al. 
+(2014) reported that access to extension and innovation increases revenues and 
+use of sustainable practices, by 25% and 60% respectively. Moreover, a World 
+Bank study (2011) of 86 impact evaluations (15 in LAC), found strong effects of 
+research and extension on yields, income and productivity. An increase in 
+productivity may result in less area used for pastures, reducing pressure on forest 
+and ecosystems. Furthermore a survey conducted during the preparation of this 
+loan showed that only 3% of farmers reported having received some kind of 
+technical assistance; only 8% have access to credit and do not have access to 
+public infrastructure. IFPRI (2009) reports a likely 25% fall in yields for an average 
+of three global models for Guyana. Experience in LAC (Salazar, 2015; Mullally and 
+Maffioli, 2014) show that a combination of technical assistance with incentives for 
+
+pcdocs://IDBDOCS/40663628/R
+pcdocs://IDBDOCS/40663628/R
+http://www.fao.org/nr/gen/gen_081001_en.htm
+
+
+- 5 - 
+
+ 
+
+adoption of new technologies have a positive effect on productivity and incomes, 
+especially for small farmers.  
+
+1.11 Limitations of the research, innovation and extension services in Guyana. 
+Guyana lacks the necessary infrastructure and research programs to promote 
+agricultural production, especially for non–traditional crops. Furthermore, although 
+NAREI and GLDA have access to research stations, the scientific rigor of research 
+program design and implementation is unlikely to generate substantive gains (see 
+Optional Link 3). Limitations to collaborate with international research programs 
+and institutions need to be resolved to access genetic material and reduce costs of 
+validation and technology transfer in Guyana. In addition, little agricultural research 
+and extension has been carried out in the ecologically (and socially) distinct 
+savannahs of Regions 9 and 10 and thus knowledge of appropriate technologies is 
+similarly lacking. High transaction costs, associated with the lack of research and 
+innovation and the size of the market, limit the exposure of small famers in the 
+target area to new technologies (Agriculture SFD). Increased attention is needed 
+toward the identification and adoption of sustainable and climate resilient practices 
+which protect fragile ecosystems and watersheds (including pasture/crop rotation, 
+fertilizer use, and improved water storage and management), and reduce the risks 
+of losses and food insecurity. 
+
+1.12 Animal Health and Sanitary and Phytosanitary framework. GLDA was 
+established in 2010. Its main objective is to provide services and research for the 
+livestock industry. The GLDA is a semi-autonomous organization of the MoA and 
+has offices in all regions, except Regions 1 and 8. GLDA staff is comprised of 148 
+people and provides inspection and technical assistance services. GLDA also has 
+eight authorizing officers that enforce the Animal Health Act in the country; the 
+Veterinarian Act; and the Guyana Livestock Development Authority Act. Although 
+the Animal Health Act was approved in 2011, regulations are still pending.  
+
+1.13 Guyana has 10 registered abattoirs all of which are in poor condition and do not 
+comply with current standards (see Optional Link 5). The Georgetown abattoir is 
+the main abattoir and slaughters approximately 60% of all animals slaughtered in 
+Guyana. Small producers in Region 9 process 35 animals per month, out of a 
+current potential of 100. Overall, opportunities for the export of meat from Guyana 
+are severely constrained by lack of infrastructure, adequate regulations, trained 
+inspectors and supporting policies. Noncompliance increases risks of animal 
+diseases (like foot and mouth) and compromises human health and environmental 
+quality. OVE (2015) reports that investments in sanitary and phytosanitary 
+activities increased competitiveness and productivity in the countries analyzed. 
+Better access to infrastructure and technical assistance will increase productivity 
+and prices for small producers, through higher quality and better prices (Agriculture 
+SFD, 2016).  
+
+1.14 Problems with meat processing and SPS standards. Current standards in 
+Guyana compromise human health and environmental quality, as well as access to 
+revenue from export markets. Meat inspections are carried out under the authority 
+of the Public Health Ordinance of 1915 with updates circa 1977, as well as 
+sections of the Food and Drug Act of 1972, also updated in 1977. Waste disposal 
+is also under the Public Health Ordinance and the Environmental Protection Act, 
+1996, that created the Environmental Protection Agency. Regulations of this act 
+
+pcdocs://IDBDOCS/40663634/R
+pcdocs://IDBDOCS/40589854/R
+
+
+- 6 - 
+
+ 
+
+are not available. Standards for abattoirs, are based on standards from India 
+dating from 1979, and are outdated. A comprehensive analysis of the costs of 
+complying with local and international standards is not available in Guyana. 
+Practical implementation of standards and regulations is not readily available to the 
+private sector to evaluate the feasibility of medium and large investments. There 
+are important public goods associated with SPS standards, but small farmers also 
+lack access to capital and knowledge to improve practices (Agriculture SFD). 
+Access to processing facilities will generate incentives for higher productivity and 
+quality, as demonstrated by Ding (2014). 
+
+1.15 Bank interventions and other investments. The Bank has supported the country 
+in the modernization of the agricultural sector since 2004 through operations 
+1558/SF-GY and 1929/BL-GY. Also, operations 3106/BL-GY and 3422/BL-GY 
+helped the Government to implement a Low Carbon Development Strategy, which 
+included support for the agricultural sector. These two operations helped the 
+Government of Guyana (GoG) to comply with agreements with the Government of 
+Norway that aim to reduce the deforestation below 0.56% annually. 1558/SF-GY 
+improved the competitiveness of the agricultural sector through investment in 
+drainage and irrigation systems and 1929/BL-GY focused on non-traditional 
+agricultural export like aquaculture, fruits, vegetables and livestock. It also 
+facilitated the creation and startup of NAREI and GLDA. The MIF approved three 
+projects for the agriculture sector (ATN/ME-12052-GY, ATN/ME-11699-GY and 
+GY-L1062) and Compete Caribbean has financed two projects. The International 
+Fund for Agricultural Development (IFAD) is preparing a new investment loan for 
+up to US$9 million that will target Region 9 and Region 1. Also the European 
+Union is financing a US$9 million project to facilitate the diversification of the sugar 
+sector and the GRIFF is financing the land titling program in the hinterlands.  
+
+1.16 Additionally, the Ministry of Business, with support from the Bank is preparing loan 
+GY-L1059 (Enhancing the National Quality Infrastructure for Economic 
+Diversification and Trade Promotion). Laboratories to be implemented with        
+GY-L1059 funding will support a national system, for calibration and standards. 
+Laboratories planned for Region 9 and Region 10 financed by the Program will be 
+small facilities for soil analysis to support, mainly, research activities. However, 
+investments in national standards and metrology supported by GY-L1059 will 
+facilitate the implementation of Component 3 of this Program.  
+
+1.17 Lessons learned. The proposed operation draws lessons from the final evaluation 
+of loans 1929/BL-GY, 3106/BL-GY and 3422/BL-GY, and lessons from IFAD’s 
+project 742-GY final evaluation – draft (see Table I-1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+- 7 - 
+
+ 
+
+Table I-1. Lessons learned from projects implemented by the Bank and IFAD 
+
+Lessons learned How it was addressed in the design 
+
+Legal framework and regulations take 
+time to be reviewed and agreed 
+
+The Program will facilitate the update and drafting of legislation 
+and regulations focusing on meat processing (¶1.26). 
+Documents to be updated have been identified and activities 
+financed by the Program will target specific parts of the 
+legislation to facilitate the implementation of pilot facilities 
+(¶1.26).  
+
+Support to farmers and producers 
+associations are part of the social 
+capital needed for success 
+
+Producers associations will manage pilot facilities. Two 
+producers associations have been identified and strengthening of 
+their administrative, institutional and technical capacities will be 
+implemented before the infrastructure is delivered (¶3.7).  
+
+Infrastructure is a basic input, but 
+needs to be accompanied with training, 
+management and maintenance 
+provisions 
+
+The Program will finance training and startup operations of 
+agriculture centers and pilot facilities (¶1.24 and ¶1.26). 
+Research programs have been prepared in collaboration with 
+NAREI and GLDA (¶1.24) and will include collaboration with 
+international research institutions.  
+
+Enforcement of environment 
+management and mitigation measures 
+has to be included in the design 
+
+To ensure compliance with local legislation and Bank’s policies, 
+the Program will finance the monitoring and supervision of 
+environmental impact evaluations (¶1.24). The Program will also 
+include training for MoA staff to facilitate the preparation of ToR, 
+bidding documents and supervision as it related to environmental 
+management. 
+
+Baseline and monitoring need to start 
+implementation before the project is 
+approved 
+
+During the preparation of the Program, a survey was 
+implemented in Regions 5, 9 and 10. This baseline provided 
+valuable information to prepare the impact evaluation and 
+economic analysis (¶1.21).  
+
+1.18 Conceptualization. This Program will contribute to the MoA strategy for the 
+development of Guyana’s agricultural sector. Most agriculture is concentrated in 
+the coast, facing climate change risks and reduced availability of water and 
+suitable land. The MoA wants to increase production in the hinterlands (Regions 
+10 and 9) where natural resources are available. By generating the necessary 
+capacity for data collection and analysis, the MoA will be in the position to propose 
+policy and investments that generate the highest return for the country, in line with 
+the National Strategy for Agriculture (2013 – 2020). This document includes 
+objectives for the collection and analysis of statistical information. Preparation of 
+agricultural policies and regional plans will benefit from better information. Better 
+information will reduce uncertainty and risk in both public and private investments 
+of all scales, and will result in higher production and incomes. Productivity gains 
+will be achieved through scientifically rigorous research program design and 
+implementation, and an expansion of Guyana’s capacity to transfer these 
+technologies to farmers. Farmers will have access to genetic material, practices 
+and technologies not currently available, which will increase yields, production, 
+incomes and food security. Improved agriculture and livestock technology will 
+reduce pressure on fragile ecosystem and facilitate adaptation to climate change if 
+sufficient guidance and adequate support is provided. Guyana’s ability to produce 
+livestock safe for domestic and export consumption will be enhanced, spurring 
+investment and growth. Public goods supported by the Program (¶1.8, ¶1.11 and 
+¶1.14) will be enhanced with incentives for technology adoption (¶1.25) and 
+access to infrastructure to add value to production (¶1.26) that address the costs 
+and access to knowledge in Regions 9 and 10.  
+
+1.19 Gender and diversity inclusion strategy. Twenty-eight percent of households in 
+the target area are headed by women. Only 1.9% of women head of households in 
+
+
+
+- 8 - 
+
+ 
+
+Regions 5, 9 and 10 reported access to technical assistance and a very low use of 
+sustainable agricultural practices (23%). Extension services will be implemented at 
+the community level and will include strategies to promote the participation of 
+women (for example providing childcare and food for the participants). Members of 
+livestock producers associations are more than 50% women and will receive 
+training and technical assistance. The agriculture census will assess the 
+involvement of women and other vulnerable groups in agriculture. Because a large 
+share of households in Region 9 is comprised of Amerindian communities, a 
+specific strategy for technology transfer has been prepared for this region.   
+
+1.20 Strategic alignment. This operation is consistent with the IDB Country Strategy 
+with Guyana (GN-2690) through the priority area “Natural resources management” 
+and cross-cutting issues related to indigenous population in Guyana. The Program 
+is consistent with the Update to the Institutional Strategy (UIS) 2010-2020         
+(AB-3008) and is strategically aligned with the development challenge of 
+productivity and innovation by increasing productivity of farmers in Guyana (impact 
+indicators). The Program is also aligned with the cross-cutting themes of:              
+(i) climate change and environmental sustainability by reducing the pasture area 
+allocated to livestock production; and (ii) institutional capacity and rule of law by 
+the improvement of SPS regulations. The Program also contributes to gender 
+equality and diversity by increasing the participation of women in agricultural 
+technical assistance. Additionally, the Program will contribute to the Corporate 
+Results Framework (CRF) 2016-2019 (GN-2727-6) by increasing the number of 
+farmers that improve the use and management of natural capital. This operation is 
+also consistent with: (i) the Food Security SFD (GN-2825-3), contributing to two 
+sources of food security: (a) access, and (b) availability; (ii) the Agriculture and 
+Natural Resources SFD (GN-2709-5); and (iii) Gender and Diversity SFD         
+(GN-2800), promoting livelihood opportunities for indigenous peoples.  
+
+B. Objective, Components and Cost 
+
+1.21 The main objective of the Program is to increase productivity of the agricultural 
+sector while maintaining a sustainable and climate resilient use of natural 
+resources in Guyana. The specific objectives are to: (i) produce high quality data 
+for the agricultural sector; (ii) increase productivity, especially for medium and 
+small farmers; and (iii) increase SPS standards and access to meat processing 
+facilities. Higher productivity will also contribute to reduce pressure on forest and 
+fragile ecosystems, and at the same time, increase incomes for small and  
+medium-sized farmers. 
+
+1.22 Target population. The main beneficiaries of the Program will be farmers of 
+Regions 5, 9 and 10 and the MoA and its agencies (see Optional Link 9). The 
+Population Census 2012 identifies 29,457 households in these regions (13,847 in 
+Region 5, 4,929 in region 9, 10,681 in Region 10), of which 35% are farmers 
+according to the 2002 estimation provided by the Guyana Bureau of Statistics 
+(GBS). A survey prepared for the design of this operation shows that farmers in 
+these regions are small on average. The Program will target 5,000 farmers in 
+these three regions (out of a total of 10,310), 89% of them, cultivating less than 
+five Ha. The main annual crops are cassava, beans and corn. Average annual 
+household income for these farmers is US$4,649, with agriculture, livestock and 
+forestry production accounting for more than 25% (up to 50% in Region 9). 
+
+pcdocs://IDBDOCS/40588061/R
+
+
+- 9 - 
+
+ 
+
+Agricultural productivity is low, averaging 260 USD/Ha/year (and only 200 
+USD/Ha/year in Region 9), compared to other countries of similar development. 
+Only 3.6% of interviewed farmers report technical assistance and 8% have access 
+to finance or equipment for agricultural production. Forty-eight percent report to be 
+part of Amerindian communities (93% in Region 9) and have some productive 
+activities at the community level.   
+
+1.23 Component 1: Information for policy making and natural resource 
+management (US$4.17 million). This component will enhance the capabilities of 
+the MoA for data collection, analysis and dissemination. Data collected will be 
+based on a nationwide agricultural census. This new information will be used not 
+only by the Government, but also by the private sector to develop investments in 
+agriculture, in line with the Green Development Strategy.
+
+2
+ Land use plans and 
+
+promotion of sustainable practices will draw from the results of the census. The 
+census will also contribute to monitoring of other variables, for example Monitoring, 
+Reporting and Verification (MRV) related to the Guyana REDD+ Investment Fund 
+(GRIF). The MoA through the M&E Unit will produce reports based on the census 
+and data collected with support of the Program. The Program will finance:            
+(i) strengthening of the MoA’s Agricultural Information System. This will include 
+strengthening of the MoA’s M&E Unit; update of regulations and legal framework, 
+training of MoA and the Guyana Bureau of Statistics staff, purchase of equipment 
+and software, and dissemination; and (ii) the implementation of a national 
+agricultural census. The agricultural census will collect data from all regions of 
+Guyana and will use the latest technology for collection, analysis and quality 
+control. Among other topics, the census will assess the involvement of women and 
+vulnerable groups in the agricultural sector. Field activities will include training, 
+pilot testing and a communication strategy. The implementation of the census will 
+require the training of more than 600 enumerators and interviewing more than 
+120,000 households.  
+
+1.24 Component 2: Strengthening the agricultural innovation and extension 
+system (US$6.39 million). This component will finance the implementation of 
+research programs in Region 9 and Region 10, including the setup of an extension 
+strategy tailored to the different groups of beneficiaries. Adoption of sustainable 
+practices will be promoted through an incentives scheme targeting small farmers / 
+communities. The main activities to be financed are: (i) the design and construction 
+of an agricultural center in Region 9. This agriculture center will house research 
+programs to be implemented by NAREI, GLDA and the Hydrometeorological 
+Service. The agriculture center will also have facilities for the Guyana School of 
+Agriculture (GSA) and the National Drainage and Irrigation Authority (NDIA);       
+(ii) design and construction of a water reservoir for the agricultural center in Region 
+9. This reservoir will harvest rainfall that will facilitate irrigation and livestock 
+research in the agriculture center in Region 9; (iii) design and upgrade of facilities 
+in Region 10 to implement a fully functional agricultural center in Ebini;                 
+(iv) implementation of soil laboratories in both Region 9 and Region 10 for 
+research purposes. These laboratories will facilitate the preparation of fertility 
+maps for Region 9 and Region 10 and support extension services;                       
+(v) implementation of research programs in each agricultural center. During 
+
+                                                 
+2
+  Guyana’s Green Development Strategy is the strategy being developed by the current Government. It has 
+
+four pillars: energy, environment security, ecological services and enterprise and employment.  
+
+
+
+- 10 - 
+
+ 
+
+preparation of the loan the following crops/areas of research were identified, 
+among others: cassava, peanuts; orchards, livestock (cattle and small ruminants); 
+and pastures. The POM will describe eligibility criteria to include other crops/areas 
+of research in the Program. The design of these research programs, include the 
+financing for visiting researchers; inputs for agricultural research; equipment and 
+training for NAREI and GLDA staff; (vi) preparation and implementation of an 
+extension strategy that will include incentives for technology adoption for small 
+farmers. This strategy will include specific activities to include women in training 
+events. Extension will be based on individual visits and group activities, centered in 
+demonstration plots; and (vii) support to the EPA for environmental monitoring.  
+The MoA has already requested the lease of land for the agriculture center in 
+Region 9 to the GL&SC, which indicated that it is available.  
+
+1.25 This component will also finance incentives targeting individual small farmers, and 
+will be complementary to investments being prepared with IFAD funding. The IFAD 
+funded project will provide support at the group (producer association or 
+cooperative) and individual levels. Incentives will facilitate technology adoption and 
+enhance the probability of increases in productivity. Farmers / communities will 
+receive an incentive for at least 50% of the cost of the technology package 
+financed by the Program. The POM will detail the process to identify and 
+implement the incentives strategy (see ¶3.6).  
+
+1.26 Component 3: Support for compliance with sanitary and phytosanitary 
+standards (US$2.8 million). This component will finance the provision of technical 
+assistance to develop the legal and regulatory framework and specific investments 
+to improve SPS standards for meat processing. These investments will increase 
+the volume of meat processed in accord to sanitary standards and lead to the 
+attainment of better prices. The validation of the enforcement process and control 
+will improve the safety of meat products for Guyanese and visitors and in the 
+longer term, position the Food Safety System to be recognized by international 
+trading partners and open the opportunity for export of meat products. The 
+Program will finance the: (i) development and implementation of a simplified 
+grading system for beef; (ii) update of abattoir standards and preparation of legal 
+framework; (iii) technical assistance for the adaptation of the International Codex 
+Alimentarius to the Guyana context; (iv) provision of support to GLDA to enforce 
+standards; (v) technical assistance for the preparation of regulations pertaining to 
+the new Food Safety Act; (vi) financing of two meat processing centers (one in 
+Region 9 and one in Region 5), that will include infrastructure for processing, 
+waste management, and equipment. These facilities will be managed by producers 
+associations, which are 50% women (¶3.7). The Rupununi Livestock Producers 
+Association (RLPA) and the Weste Berbice Sheep and Goat Association (WBSGA) 
+have been identified to manage these facilities. Processing facilities will include all 
+environmental mitigation activities described in the ESMR; (vii) training of GLDA 
+staff in meat inspection, effective enforcement and audit; and members of selected 
+producers associations members in management; standards; best practices; and 
+environment protection; and (viii) strengthening of producers associations to 
+enhance management. 
+
+
+
+- 11 - 
+
+ 
+
+C. Key Results Indicators 
+
+1.27 The MoA and the Bank have agreed on a Results Matrix for the Program. The 
+principal results of the Program are: (i) higher private investment in the agricultural 
+sector; (ii) regional development plans prepared based on the agricultural census; 
+(iii) higher productivity at the farm level; (iv) adoption of sustainable agricultural 
+practices; (v) higher value of products processed by pilot facilities; and                
+(vi) increase in the use of practices that reduce pressure on ecosystems. At the 
+end of the Program, productivity (measured as the gross value of production per 
+hectare per year) will increase and pressure on fragile ecosystems will be reduced 
+(see Annex 2).   
+
+Table I-2. Principal indicators of the Program 
+
+Impact indicators 
+Proposed 
+
+measurement 
+Justification 
+
+Gross value of farm’s agricultural 
+production (increase expected) 
+
+US$ per farm 
+per year 
+
+Higher gross value reflects higher productivity 
+and lead to higher incomes 
+
+Gross value of farm’s livestock 
+production (increase expected) 
+
+US$ per farm 
+per year 
+
+Higher gross value reflects higher productivity 
+and lead to higher incomes 
+
+Reduction of the area allocated to 
+pastures for livestock production 
+
+Area (hectares) Higher efficiency in land use reduces pressure 
+on ecosystems and increases sustainability 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing Instruments 
+
+2.1 The total Program amount is estimated at US$15,000,000 of which US$7,500,000 
+will be financed by Ordinary Capital and US$7,500,000 will be financed by the 
+FSO. The disbursement period will be 66 months. Table II-1 provides the cost 
+summary by investment categories and components. The budget includes all costs 
+associated with risks mitigation measures identified in the ESMP and the risk 
+analysis. 
+
+Table II-1. Costs and sources of financing (US$) 
+
+ IDB Total % 
+
+Component 1 4,170,000 4,170,000 27.8% 
+
+Component 2 6,398,000 6,398,000 42.7% 
+
+Component 3 2,800,000 2,800,000 18.7% 
+
+Monitoring and Evaluation 400,000 400,000 2.7% 
+
+Program Administration 1,232,000 1,232,000 8.2% 
+
+Total 15,000,000 15,000,000 100% 
+
+2.2 The Program is a specific investment operation and it is designed to be disbursed 
+in five years and six months. The disbursement calendar is presented in Table II-2 
+and it is based on the PEP (see Required Link 1).  
+
+Table II-2. Disbursement projections (US$) 
+
+ Year 1 Year 2 Year 3 Year 4 Year 5 Year 6
+1
+ Total 
+
+IDB 1,326,935 3,633,645 5,218,345 3,163,525 1,111,475 546,075 15,000,000 
+
+% 8.8% 24.2% 34.8% 21.1% 7.4% 3.6% 100% 
+
+Total 1,326,935 3,633,645 5,218,345 3,163,525 1,111,475 546,075 15,000,000 
+1 
+
+Last year of implementation is only six months. 
+
+pcdocs://IDBDOCS/40647380/R
+pcdocs://IDBDOCS/40564707/R
+
+
+- 12 - 
+
+ 
+
+B. Economic viability 
+
+2.3 The ex-ante economic evaluation includes all components of the Program, 
+following the vertical logic (see ¶1.18). The analysis was undertaken in two stages 
+and follows best practices (World Bank, 2011). In the first stage, a break-even 
+analysis was conducted in an optimization and cost benefit analytical framework to 
+estimate the minimum net economic return per adopting farming household 
+required for the net present value (NPV) of the Program to be equal to zero at a 
+12% discount rate (2017 to 2040). Costs follow directly from the PEP and include: 
+Program costs estimated in the design stage, and operations and maintenance 
+costs of the agricultural research centers and processing facilities. Costs also 
+include opportunity costs of training for farmers. Key assumptions in the analysis 
+are: the technological adoption ceiling, assumed to be 20% of the 5,000 targeted 
+farming household beneficiaries, and the adoption path which is assumed to follow 
+a logistical functional form. The minimum return per adopting household for the 
+Program to be economically viable is US$2,196 per household/year.   
+
+2.4 The second stage of the analysis characterized the current farming System 1 
+based on the farming household survey described in Optional Link 11. Key 
+variables include area planted, harvest output, prices, yields and costs. System 2 
+is the potential farming system that the Program aims to achieve. The crops bora 
+bean and cassava, as well as livestock were chosen to characterize System 2, 
+based on Program design. Yields to characterize System 2 crops were extracted 
+from statistics on actual national average yields supplied by NAREI and the 
+Ministry of Agriculture (2014), while beef cattle yields were drawn from FAO 
+(2013). 
+
+2.5 Yields reported in the household farm survey are considerably lower than those 
+reported by NAREI and FAO and therefore a conservative approach to scenario 
+design was pursued. Three scenarios are evaluated: an average scenario where 
+achieved yields are 35% of those reported by NAREI and FAO; an optimistic 
+scenario where 50% of potential yields are achieved, and; a pessimistic scenario 
+where only 25% of potential yields are achieved. Across scenarios, a low adoption 
+ceiling of 20% of potential new beneficiaries and current farmers is used. The 
+average scenario results in a net present value (NPV) US$1,531,706 and an 
+internal rate of return (IRR) of 14%; the optimistic scenario generates a NPV of 
+US$17,762,431 and an Internal Rate of Return (IRR) of 31%, and the pessimistic 
+scenario resulted in a negative NPV of US$8,243,387. Sensitivity analysis around 
+the adoption ceiling shows that the Program breaks even when the adoption 
+ceiling is 16.25% or greater, which is considered low in comparison to similar 
+investments in agricultural research, extension and information.    
+
+C. Environmental and Social Safeguards Risks 
+
+2.6 The Program is classified as Category “B” pursuant to the Bank's Environment and 
+Safeguards Compliance Policy (OP-703) and an Environmental and Social 
+Analysis (ESA) was conducted which incorporated inputs from consultations with 
+stakeholders, via meetings and a public consultation. The main direct impacts of 
+the project relate to inadequate siting, design and operation of the facilities, 
+especially animal welfare and waste management from the abattoirs and the high 
+water use for both the abattoir and research station. Additionally, given the 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40588061
+
+
+- 13 - 
+
+ 
+
+sensitive nature of the ecosystem (especially in Region 9) and the emphasis on 
+sustainable agriculture there is a need to ensure that training and research does 
+not lead to unsustainable agricultural development in the region. These programs 
+must not lead to the introduction of invasive species, the excessive use of 
+pesticides and herbicides or high water demands. These measures help reduce 
+the Program’s indirect impacts.  
+
+2.7 Based on the ESA, specific management actions and mitigation measures were 
+recommended to address the Program’s direct and indirect impacts. The measures 
+are incorporated into the procedures and requirements for execution as part of the 
+Environmental and Social Management Plan (ESMP). The main mitigation 
+measures identified in the Plan include effective measures for site selection, 
+design and construction to high standards for all new infrastructures, ensuring 
+capacity for the supervision of construction and operation, and ensuring training 
+courses are inclusive of indigenous groups and women, and do not result in the 
+introduction of invasive species. The Environmental and Social Management 
+Report (ESMR) provides a summary of the ESA and ESMP in relation to Bank 
+policies.  
+
+2.8 The ESMP describes how the Program complies with the Disaster Risk 
+Management Policy (OP-704), the policies on Indigenous Peoples (OP-765) and 
+on Gender and Equality (OP-761).
+
+3
+ The Program will promote risk reduction, 
+
+climate change adaptation and the building of resilience to natural disasters and 
+climate change. The Program also promotes opportunities and empowerment for 
+low income women and indigenous peoples participating in agricultural activities. 
+
+D. Fiduciary Risk 
+
+2.9 The Ministry of Agriculture (MoA) has the lead responsibility for reporting on 
+fiduciary matters and overall Program progress to the Ministry of Finance and the 
+IDB. Based on discussions with the MoA during Program preparation, the 
+Agricultural Service Development Unit (ASDU) will serve as the project 
+implementation unit. As described in Annex III to the present POD, the fiduciary 
+risk has been ranked as medium. The main fiduciary risks relate to:                        
+(i) procurement processing delays due duplication of efforts to meet internal 
+controls requirements for multiple approvals within the MoA and at the national 
+level as per GoG national procurement regulations; (ii) most activities will be 
+implemented in Region 9 and 10, which will require a high level of coordination;  
+and (iii) budget and institutional capacity constraints due to ability to retain qualified 
+technical  consultants (e.g., engineers, contractors) to provide technical assistance 
+on some procurements.  
+
+2.10 These are being addressed through: (i) the design of an Program Operating 
+Manual (POM) which seeks to provide adequate guidance and mitigation 
+measures to discharge all fiduciary duties in accordance with the Bank’s rules and 
+procedures; (ii) continuous support to streamline the timely execution of all 
+fiduciary activities; and (iii) providing continuous technical supervision and training 
+
+                                                 
+3
+  Section 6 of the ESMP describes in detail expected impacts and proposed mitigating activities. Section 7 
+
+describes the management plan for all mitigating activities.  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40664054
+pcdocs://IDBDOCS/40564651/R
+
+
+- 14 - 
+
+ 
+
+in financial management and procurement staff who will be responsible for 
+fiduciary activities under the present Loan. 
+
+E. Other Risks 
+
+2.11 The design of the Program used the methodology “Program Risk Analysis for 
+Sovereign Guaranteed Loans”. Besides environmental and fiduciary risks, this 
+analysis identified the following risks: (i) coordination between agencies (a national 
+and regional coordinating committees will support the MoA, ¶3.3); and (ii) delays in 
+the design, environmental and social impact evaluation and procurement of 
+infrastructure (two procurement specialists will support the ASDU in the 
+implementation, ¶2.6).  
+
+2.12 Agriculture centers in Regions 9 and 10 will be managed, maintained and 
+supported by the MoA. Specific budget lines are available in NAREI and GLDA 
+budgets.  
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of Implementation Arrangements 
+
+3.1 The Borrower is the Co-operative Republic of Guyana. The executing agency is 
+the MoA, which will implement the Program through its ASDU. The ASDU is a 
+specialized unit under the Permanent Secretary (PS) of the MoA. The ASDU will 
+be responsible for all the fiduciary obligations to manage the Program, including:  
+(i) planning of the technical and fiduciary aspects related to the Program activities; 
+(ii) procurement of goods, works and services for the Program; (iii) the oversight 
+and evaluation of Program activities; (iv) financial and accounting management of 
+the Program, including the submission of disbursement requests and preparation 
+of financial reports; and (v) risk management. The Program will strengthen the 
+ASDU to facilitate the implementation of the Program, through the financing of 
+specialized personnel dedicated to the Program, including among others; program 
+coordinator; procurement officer; financial officer; civil engineer; and administrative 
+assistant. The presentation of evidence that the Ministry of Agriculture (MoA) 
+has selected a program coordinator, a financial officer and a procurement 
+officer according to the terms and conditions previously agreed with the 
+Bank will be a special contractual condition prior to first disbursement of the 
+financing.  
+
+3.2 Support to partner agencies. Additionally, the Program aims at strengthening the 
+capacity of GBS and EPA, through the financing of consulting services to support 
+supervision and monitoring. For this purpose, the MoA will subscribe an agreement 
+with each GBS and EPA, which shall include, inter alia, a description of the roles 
+and responsibilities of each entity in the implementation of the Program activities. 
+The subscription and entry into effect of an agreement between the MoA and the 
+GBS, according to the terms and conditions previously agreed with the Bank will 
+be a special contractual condition prior to the implementation of the agricultural 
+census included in Component 1. The subscription and entry into effect of an 
+agreement between the MoA and the EPA, according to the terms conditions 
+
+
+
+- 15 - 
+
+ 
+
+previously agreed with the Bank will be a special contractual condition prior to the 
+bidding of infrastructure works under Components 2 and 3. 
+
+3.3 Institutional coordination. Coordination at the national level will use the same 
+structure proposed by the IFAD funded loan. A National Steering Committee 
+(NSC) will be established, and it will include: (i) the MoA; (ii) the Ministry of 
+Indigenous People’s Affairs; (iii) Ministry of Public Health; (iv) Ministry of Business;        
+(v) Ministry of Natural Resources (MNR); (vi) the Office of Climate Change at the 
+Ministry of the Presidency; and (vii) the Ministry of Finance. The responsibilities 
+and composition of the NSC will be detailed in the POM, but it will include:             
+(i) support the implementation of loan; (ii) provide institutional and technical advice 
+and support; and (iii) coordinate field activities. At the regional level, technical 
+coordination will be implemented through the establishment of a Regional 
+Management Committee (RMC). This RMC will include: (i) Regional Chairman;    
+(ii) Regional representative of the Ministry of Indigenous People’s Affairs;            
+(iii) Regional representative of the MNRE; (iv) Regional representative of each 
+NAREI or GLDA; and (v) a regional representative of the beneficiaries. The roles 
+and responsibilities of each of the members of the RMC, composition and its 
+functions will be detailed in the POM, which will include: (i) support the 
+implementation of the Program at the Regional level; (ii) support the ASDU in the 
+implementation of the AOP; (iii) provide guidance to the AOP; and (iv) collaborate 
+in coordinating with local and community leaders. 
+
+3.4 Program Operating Manual (POM). The POM; which establishes standards and 
+procedures for the MoA with regard to programming activities, procurement audits, 
+and monitoring and evaluation, among others, will govern Program execution. The 
+POM will include: (i) a detailed description of the implementation agreement of 
+each component; (ii) roles and responsibilities of the agencies involved in the 
+implementation of the Program; (iii) criteria and procedures to select and contract 
+goods, services and works; (iv) criteria and procedures for management and 
+financial control of the Program; (v) monitoring and evaluation arrangements; and 
+(vi) specific criteria for environmental and social management of the Program, as 
+described in the ESMR. The approval and entry into effect of the POM 
+according to the terms and conditions previously agreed with the Bank will 
+be a special contractual condition prior to first disbursement of the 
+financing. 
+
+3.5 Incentives for technology adoption. Research programs under Component 3 
+will generate technology packages to be transferred to farmers. To increase the 
+likelihood of adoption, the Program will finance incentives to adopt new 
+technologies targeting small farmers. The eligibility criteria will be: (i) area under 
+production / fallow; (ii) agriculture / forestry is the main source of income;            
+(iii) farmer have farms located in Region 5, 9 or 10; and (iv) evidence that the 
+farmer has the property rights, possession, community rights or rights of use of the 
+land, as applicable. 
+
+3.6 The steps to identify and select participants in the incentives program are detailed 
+in the POM, and will be: 
+
+
+
+- 16 - 
+
+ 
+
+a. Farmers will be selected from the lists prepared by the MoA during the 
+promotion of the Program. The target number of beneficiaries for the 
+incentives is 2,000.   
+
+b. Farmers will be selected from a random sample of communities. As a part of 
+the registration process, each farmer will sign an implementation agreement 
+with the MoA. However, during the preparation of the loan, a progression of 
+500, 700, 800 farmers per year was suggested (see Optional Link 8 and 12).  
+
+c. Farmers will select the technologies they want to implement from the 
+packages offered by the MoA. Each package will include: (i) inputs; (ii) land 
+preparation; (iii) equipment; and (iv) technical assistance. Packages will be 
+designed for a specific unit of production. 
+
+d. Each farmer will receive the incentive in designated bank accounts or 
+through vouchers, based on verification of the implementation of the 
+technologies, according to the conditions established in the POM. Vouchers 
+will be redeemed by service providers after verification from the MoA. The 
+MoA will verify the implementation of the technology in the field and prepare 
+a report.  
+
+e. Additionally, an external verification process will be implemented. This 
+verification process will review, at random, the implementation of 
+technologies; support provided by the MoA; and financial flows. 
+
+3.7 Management of meat processing facilities. The implementation of the meat 
+processing facilities under Component 3 requires the strengthening of the 
+producers associations, which will manage these facilities. The associations will 
+sign an agreement with the MoA to manage the facilities, that will include: (i) the 
+length of the lease or other form of transfer; (ii) responsibilities of the association, 
+in terms of payments or fees to be paid to the MoA, liabilities, limitations of the 
+agreement in terms of responsibilities of the MoA; and penalties; and                  
+(iii) monitoring and evaluation to be implemented by the MoA. The subscription 
+and entry into effect of an agreement between the MoA and a producer’s 
+association responsible for operating the abattoir, according to the terms and 
+conditions previously agreed with the Bank will be a special contractual condition 
+prior to the building of infrastructure works related to the meat processing facilities 
+financed under Component 3. 
+
+3.8 Procurement. All Program related procurement activities will be performed 
+following Bank’s Procurement Policies: Policies for the Procurement of Goods and 
+Works financed by the Bank (GN-2349-9) and Policies for the Selection and 
+Contracting of Consultants financed by the Bank (GN-2350-9) as applicable.  
+
+3.9 The Program is currently looking into the possibility of a Direct Contract with the 
+Food and Agriculture Organization of the United Nations (FAO) for a total of   
+US$4 million. This Direct Contract would be based on the FAO’s experience in 
+carrying out Agricultural Surveys as described in Component 1 of the present Loan 
+and hence, the request for same would be grounded on Section 3.10 (d) of       
+GN-2350-9, which foresees that “Single-source selection may be appropriate only 
+
+pcdocs://IDBDOCS/40587606/R
+pcdocs://IDBDOCS/40588248/R
+
+
+- 17 - 
+
+ 
+
+if it presents a clear advantage over competition: […] (d) when only one firm is 
+qualified or has experience of exceptional worth for the assignment”
+
+4
+.  
+
+3.10 Retroactive financing. The Bank may finance retroactively under the loan up to 
+the amount US$350,000 (2.33% of the proposed loan amount), eligible expenses 
+incurred by the Borrower prior to the date of loan approval to: (i) design, 
+environmental and impact evaluation, and supervision of the infrastructure 
+included in Components 2 and 3; (ii) contract specialized personnel of the ASDU 
+dedicated to the Program; and (iii) finance the travel, per diem expenses and office 
+supplies, provided that all the requirements substantially similar to those set out in 
+the loan agreement requirements are adhered to. These expenses must have 
+been incurred on or after June 16
+
+th
+, 2016 (PP approval date), and under no 
+
+circumstances shall expenditures incurred more than 18 months prior to the loan 
+approval date be included.  
+
+3.11 Auditing. The Program will submit to the Bank the following documents:              
+(i) semiannual financial reports of the Program are to be included in the 
+semiannual progress report which will be submitted by the MoA to the Bank;         
+(ii) annual financial statements of the project, audited by the Auditor General of 
+Guyana are to be submitted to the Bank within 120 days at the end of each fiscal 
+year, beginning with the fiscal year in which the first expenditures are incurred; and 
+(iii) a final financial audit report of the Program is to be submitted by MoA within 
+120 days after the date of the last disbursement. 
+
+B. Summary of Arrangements for Monitoring Results 
+
+3.12 Monitoring. Indicators and targets will be monitored using the Agricultural 
+Information System and the Results Matrix. The M&E Unit of the MoA will collect 
+the data and prepare the reports. The Program will prepare reports for the Bank 
+every six months, which will be submitted no later than 45 days after the end of 
+each semester. Also, the MoA will submit to the Bank an Annual Operations Plan 
+(AOP) no later than 45 days prior to the beginning of each calendar year. The AOP 
+will include the update of the PEP and will detail the activities and procurement 
+proposed for the year. The presentation by the Borrower of an initial report, 
+including, the Program’s Pluri-annual Execution Plan (PEP), the Procurement 
+Plan, the Financial Plan and the Results Matrix according to the terms and 
+conditions previously agreed with the Bank, will be a special contractual 
+condition prior to first disbursement of the financing. 
+
+3.13 Evaluation. Two independent evaluations will be contracted by the MoA:              
+(i) mid–term evaluation, to be implemented when 50% of the resources have been 
+committed or thirty months after the date of effectiveness of the loan contract, 
+whichever comes first; and (ii) a final impact evaluation, to be implemented when 
+90% of the resources have been committed. These reports will be contracted 
+based on Terms of Reference agreed with the Bank (see Required Link 3). 
+
+                                                 
+4
+  This does not constitute a request for approval/no objection to the Direct Contract. Such request will be 
+
+processed in accordance with the applicable rules during execution. FAO is a specialized agency of the 
+United Nations and has executed similar censuses around the world. It is the only agency worldwide with 
+this kind of experience, except national statistic agencies.  
+
+pcdocs://IDBDOCS/40564750/R
+
+
+- 18 - 
+
+ 
+
+3.14 Impact evaluation. The impact evaluation will have two parts. First, investments in 
+Component 1 and Component 2 will be evaluated through a quasi–experimental 
+design. The planned evaluation intends to assess the impact of data availability 
+and research and extension services and seeks to answer the question whether 
+these services, provided through the agricultural census, newly constructed 
+agriculture centers, improved the production, productivity, and income of 
+beneficiary farmer households. In order to answer this question, the evaluation 
+relies on a difference-in-difference approach paired with randomized order of 
+phase-in (see Optional Link 8). Specifically, the evaluation will take advantage of 
+the staggered implementation of the Program over three years by using beneficiary 
+farmers in later cohorts as the control group for the early treatment group. In this 
+manner, the evaluation can control for potential bias from self-selection among 
+beneficiary farmers and ensure a reliable impact estimate. A carefully planned 
+selection mechanism (clustered randomized assignment) at the community level 
+further allows the inclusion of such farmers who live in close proximity to 
+beneficiaries and may enjoy indirect spillover effects that could increase program 
+impact. The evaluation will rely on three rounds of surveys: (i) a baseline survey 
+administered in year one prior to the provision of extension services to the first 
+cohort; (ii) the first follow-up survey administered in year two prior to the provision 
+of extension services to the second cohort; and (iii) a final follow-up survey 
+administered in year three prior to the provision of extension services to the third 
+cohort. A final impact evaluation report will be due at the end of year six of 
+Program implementation. 
+
+3.15 The second part of the evaluation will use a before – after approach to evaluate 
+the impact of investments in pilot facilities for meat processing proposed under 
+Component 3.  As a key impact indicator, livestock production (volume of meat, 
+number of animals) will be measured both at the farm level and at the processing 
+facility level. Also, prices received by farmers will be recorded to reflect changes in 
+sales due to higher quality and compliance with sanitary and phytosanitary 
+standards.  
+
+pcdocs://IDBDOCS/40587606/R
+
+
+ Annex 1 - GY-L1060
+
+Page 1 of 1
+
+1. IDB Strategic Development Objectives
+
+     Development Challenges & Cross-cutting Themes
+
+     Regional Context Indicators
+
+     Country Development Results Indicators
+
+2. Country Strategy Development Objectives
+
+     Country Strategy Results Matrix GN-2690
+
+     Country Program Results Matrix
+
+Relevance of this project to country development challenges (If not aligned to country strategy or country 
+
+program)
+
+II. Development Outcomes - Evaluability Evaluable Weight Maximum Score
+
+8.1 10
+
+3. Evidence-based Assessment & Solution 7.7 33.33% 10
+
+     3.1 Program Diagnosis 3.0
+
+     3.2 Proposed Interventions or Solutions 2.4
+
+     3.3 Results Matrix Quality 2.3
+
+4. Ex ante Economic Analysis 7.0 33.33% 10
+
+     4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a General Economic Analysis 4.0
+
+     4.2 Identified and Quantified Benefits 1.5
+
+     4.3 Identified and Quantified Costs 1.5
+
+     4.4 Reasonable Assumptions 0.0
+
+     4.5 Sensitivity Analysis 0.0
+
+5. Monitoring and Evaluation 9.6 33.33% 10
+
+     5.1 Monitoring Mechanisms 2.5
+
+     5.2 Evaluation Plan 7.1
+
+Overall risks rate = magnitude of risks*likelihood
+
+Identified risks have been rated for magnitude and likelihood
+
+Mitigation measures have been identified for major risks
+
+Mitigation measures have indicators for tracking their implementation
+
+Environmental & social risk classification
+
+The project relies on the use of country systems
+
+Fiduciary (VPC/FMP Criteria) Yes
+
+Non-Fiduciary
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries and/or public sector 
+
+entity in the following dimensions:
+
+Gender Equality Yes
+
+Labor
+
+Environment
+
+Additional (to project preparation) technical assistance was provided to the public sector entity prior to 
+
+approval to increase the likelihood of success of the project
+
+The ex-post impact evaluation of the project will produce evidence to close knowledge gaps in the sector 
+
+that were identified in the project document and/or in the evaluation plan
+Yes
+
+-Poverty headcount ratio (US $4 per day PPP) (%)
+
+-Global Innovation Index (LAC average)
+
+-Research and development expenditure as a percentage of GDP (%)
+
+-Greenhouse gas emissions (kg of CO2 e per $1 GDP (PPP))
+
+Development Effectiveness Matrix
+
+Summary
+
+Aligned
+
+-Productivity and Innovation
+
+-Climate Change and Environmental Sustainability
+
+-Institutional Capacity and the Rule of Law
+
+I. Strategic Alignment
+
+-Beneficiaries of improved management and sustainable use of natural capital (#)*
+
+-Micro / small / medium enterprises provided with non-financial support (#)*
+
+-Government agencies benefited by projects that strengthen technological and managerial tools to improve public 
+
+service delivery (#)
+
+-Women beneficiaries of economic empowerment initiatives (#)*
+
+Aligned
+
+Support the development of productive use of the country's natural resources, 
+
+while addressing the challenge of sustainable management of the natural 
+
+resources at stake.
+
+The intervention is not included in the 2016 Operational Program.
+
+Medium
+
+Yes
+
+III. Risks & Mitigation Monitoring Matrix
+
+IV. IDB´s Role - Additionality
+
+Yes
+
+B
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+Financial Management: Budget, External control.
+
+ The objective of the Program is to increase productivity of the agricultural sector while maintaining a sustainable and climate resilient use of natural resources.  The Program will implement three components: Information for Policy making and 
+
+natural resource management (including an agricultural census that has not been updated since 1952); Strengthening the agricultural innovation and extension system; and Support for compliance with sanitary and phytosanitary standards. 
+
+  
+
+The documentation is well-structured, with a good diagnostic of the problems faced by the sector in terms of major limitations in the Agricultural Information Systems, Research, Innovation & Technology Transfer System, the Animal Health 
+
+and Sanitary and Phytosanitary Framework, and the effects of climate change, all of which contribute to low levels of productivity. 
+
+The proposed solution is clearly related to the magnitude of the problems identified.  The results matrix (RM) reflects the objectives of the program and shows a clear vertical logic for all components. The key outcome indicators have values 
+
+that are the result of the ex-ante economic analysis; and lower-level indicators reflect the design of the three components. The RM includes SMART indicators at the levels of impact, outcomes (except for one) and outputs (except for two) with 
+
+their respective baseline values and targets and the means to gather information. 
+
+The economic analysis (EA) is based on a break-even and Cost-Benefit Analysis that uses data recently collected in the targeted areas.  The benefits are based on a good understanding of the theory of change and are derived from the 
+
+expected gains in yields for two key crops and cattle and the expected rate of adoption by farmers.  The economic costs include all resource costs as well as costs from a social perspective.  In general, the assumptions made are reasonable; 
+
+however, the assumed absolute change in gains for yields is rather high and not supported by empirical evidence. The EA undertakes a sensitivity analysis based on key variables (gains in yields and adoption rates) under three scenarios: 
+
+optimistic; average; and pessimistic.  The Internal Rate of Return is above 12% for the optimistic (31% IRR) and average (14% IRR) scenarios; however, the pessimistic scenario yields an IRR of -1%.  Importantly, the pessimistic scenario 
+
+might not be that pessimistic in the sense that it assumes increases of 1,276% in yields for one of the crops evaluated, which is quite high. Importantly, given the lack of data, the EA was not able to include the potential benefits to the sector 
+
+arising from a new agricultural census. In this sense, one might consider these results as conservative.   
+
+The monitoring and evaluation plan is well designed and the impact evaluation proposes a reasonable strategy based on a quasi-experimental design with random selection at the community level that aims to measure direct and indirect 
+
+impacts of the program by measuring spill-over effects. Given the scant number of rigorous studies done in Guyana, the impact evaluation will make an important contribution to the knowledge base of the sector, the country, and the Bank.    
+
+The risks identified in the risk matrix seem reasonable, except for one that does not comply with DEM guidelines; five are classified as Medium and three are classified as Low. The risks include mitigating actions and compliance indicators.
+
+The Program will promote the participation of women in agricultural technical 
+
+assistance and training, and the agricultural census will have a special focus on 
+
+women for data collection.
+
+An impact evaluation was prepareed during the design. A quasi - experimental 
+
+analysis, based on the implementation strategy was agreed with the MoA. 
+
+
+
+Annex II – GY-L1060 
+Page 1 of 3 
+
+ 
+
+Results Framework 
+
+ 
+
+Objective:  To increase productivity of the agricultural sector and sustainable use of natural resources in Guyana. 
+
+ 
+
+Expected Impact 
+
+Indicators Units 
+Baseline Target EOP* Means of 
+
+verification 
+Observations 
+
+Value Year Value Year 
+
+Average gross 
+value of farm’s 
+agricultural 
+production  
+(increase expected) 
+
+USD/farm US$582.39/farm  2016 US$848.20/farm  2021 
+Baseline study 
+Surveys for 
+agricultural census 
+
+Target EOP values 
+based on expected 
+yield increases for 
+cassava, bean, and 
+cattle
+
+1
+. 
+
+Average gross 
+value of farm’s 
+livestock production  
+(increase expected) 
+
+USD/farm US$223.85/farm  2016 US$654.28/farm  2021 
+Baseline study 
+Surveys for 
+agricultural census 
+
+Target EOP values 
+based on expected 
+yield increases for 
+cassava, bean, and 
+cattle.
+
+ 1
+ 
+
+Reduction on the 
+pressure on fragile 
+ecosystems by 
+inefficient livestock 
+production 
+(inefficient use of 
+pastures) 
+
+Hectares 
+removed 
+from 
+livestock 
+production 
+
+0 ha 2016 570 ha  2021 
+Baseline study 
+Surveys for 
+agricultural census 
+
+Suitable buffer zones 
+around pasture areas 
+established. 
+Technology transfer will 
+reduce use of pasture 
+areas. Intensity 
+(animals / ha) will 
+increase.   
+
+* EOP, End of Project 
+
+ 
+
+Expected outcomes 
+
+Indicator Unit 
+Baseline Intermediate  EOP Target Means of 
+
+verification 
+Observations 
+
+Value Year Value Year Value Year 
+
+Private investment in 
+agriculture (increase 
+expected) 
+
+USD per 
+year 
+
+5.72 million 2008 
+ 
+
+2019 7 million 2022 
+Go-Invest 
+reports 
+
+Related to the 
+census. At the 
+national level 
+
+Regional development 
+plans prepared based on 
+the agricultural census 
+
+Plan 0 2016 
+ 
+
+ 3 2022 
+Ministry of 
+Communitie
+s 
+
+Assuming the 
+agricultural census 
+is available in 2019 
+
+Productivity at the farm 
+level of select crops 
+(increase expected) 
+
+MT/Ha 
+
+Cassava: 
+2,220 kg/ha 
+
+ 
+Bora bean: 
+215 kg/ha 
+
+2016 
+
+ 
+
+2019 
+
+Cassava: 
+3,883 
+kg/ha 
+
+ 
+Bora 
+bean: 
+4,143 
+kg/ha 
+
+2022 
+Baseline 
+and final 
+evaluation 
+
+Selected crops, 
+Baseline value from 
+survey, EOP Target 
+computed as 35% 
+of yields reported by 
+NAREI and FAO 
+
+Adoption of sustainable 
+agriculture practices by 
+farmers (disaggregated by 
+gender) 
+
+Number of 
+technologie
+s 
+
+3 Male 
+1 Female 
+
+2016 
+
+ 
+
+ 
+6 Male 
+
+4 Female 
+2022 
+
+Baseline 
+and final 
+evaluation 
+
+Baseline values 
+based on 
+agricultural 
+household survey 
+
+Average price of meat 
+processed by pilot facilities 
+(increase expected) 
+
+USD / Kg 
+USD / Lt 
+
+3 2016 
+ 
+
+2019 5 2022 
+ASDU 
+reports 
+
+Return to the 
+producers (value of 
+the animal) 
+
+Use of practices that 
+reduce pressure on 
+ecosystems (increase 
+expected) 
+
+Number of 
+practices 
+per 
+household 
+
+1.43 2016 
+
+ 
+
+2019 3 2022 
+Baseline 
+and final 
+evaluation 
+
+Based on the 
+survey 
+
+ 
+
+                                                           
+1
+  Assumptions follow the ex-ante economic analysis: Increases in gross production value at end of project are based on increases in 
+
+cassava, bean, and cattle yields: Cassava and bean yields increase to 35% of benchmark yields provided by NAREI with a 10% 
+adoption rate among farmers. Cattle yields increase by 70% with a full adoption rate. Current market prices from survey used to 
+compute gross production value. Based on the survey, livestock production contributes around 40% to total gross value of 
+household production. 
+
+
+
+Annex II – GY-L1060 
+Page 2 of 3 
+
+ 
+
+Outputs 
+
+Indicator Cost* Unit 
+Baselin
+
+e 
+Year 
+
+1 
+Year 
+
+2 
+Year 3 Year 4 Year 5 Year 6 
+
+EOP 
+Target 
+
+Means of verification 
+
+Component 1: Generating Information for evidence – based policy making and natural resource management 
+
+Agricultural census 
+completed 
+
+4,00
+0 
+
+Census 0   1    1 Results published 
+
+MoA and GSB staff 
+trained in data 
+management 
+
+70 
+Number 
+of people 
+
+0 20 50 50 20 20 20 150 
+Training for the survey 
+and census 
+
+M&E Unit 
+strengthened 
+
+100 Unit 0  1      
+Consultants and 
+equipment for the 
+M&E Unit 
+
+Component 2: Strengthening of the agricultural innovation and extension system 
+
+Agriculture centers 
+built and refurbished 
+in Regions 9 and 10 
+
+3,61
+0 
+
+Agricultur
+e center 
+
+  1 1   2 
+ 
+
+ASDU reports 
+
+Design and 
+construction of a 
+water reservoir in 
+Region 9 completed 
+
+500 
+Water 
+
+reservoir 
+   1     ASDU reports 
+
+Soil laboratories 
+constructed and 
+implemented 
+
+350 
+Laborator
+
+y 
+0   1 1   2 ASDU reports 
+
+Research programs 
+implemented 
+
+225 Program 0  1 2 3 2 2 10 ASDU reports 
+
+Extension programs 
+implemented 
+
+417 Program 0   1 2   3 ASDU reports 
+
+Farmers trained in 
+sustainable 
+agriculture practices 
+that do not receive 
+incentives  
+
+928 
+
+Number 
+of 
+
+farmers 
+(total) 
+
+0 300 1200 1000 500 5,000  3,000 
+
+ASDU reports 
+
+Male 0 216 864 720    2,160 
+
+Female 0 84 336 280    840 
+
+Farmers trained in 
+sustainable 
+agriculture practices 
+the use and benefits 
+of technologies 
+promoted by AC - 
+incentives 
+
+238 
+
+Number 
+of 
+
+farmers 
+(total) 
+
+0 500 800 700    2,000 
+
+ASDU reports 
+
+Male 0 360 576 504    1440 
+
+Female 0 140 224 196    560 
+
+NAREI and GLDA 
+staff trained 
+
+65 
+
+Number 
+of people 
+
+(total) 
+0 10 10 10 10 10  50 
+
+ASDU reports 
+Male 0 8 8 8 8 8   
+
+Female 0 2 2 2 2 2   
+
+Environmental 
+supervision visits for 
+agriculture research 
+and extension 
+
+65 Reports   2 2 2 2 2 10 
+EPA with support from 
+the MoA 
+
+Component 3: Support for compliance with sanitary and phytosanitary standards 
+
+Pilot facility to 
+process meat 
+implemented 
+
+1,75
+0 
+
+Facility 0   1 1   2 ASDU reports 
+
+Number of producers 
+associations 
+strengthened 
+
+685 
+Producer 
+associatio
+
+n 
+0  1 1    1 ASDU reports 
+
+Annual review of 
+compliance with 
+hygienic and 
+environmental 
+standards 
+
+25 Report 0   1 1 1  3 
+Technical audit and 
+EPA 
+
+Number of people 
+trained in SPS and 
+
+30 
+Number 
+of people 
+
+0 20 20 30 30   100 ASDU reports 
+
+
+
+Annex II – GY-L1060 
+Page 3 of 3 
+
+ 
+
+Indicator Cost* Unit 
+Baselin
+
+e 
+Year 
+
+1 
+Year 
+
+2 
+Year 3 Year 4 Year 5 Year 6 
+
+EOP 
+Target 
+
+Means of verification 
+
+food safety standards Male 0 15 15 22 22   74 
+
+Female 0 5 5 8 8   26 
+
+Development and 
+implementation of a 
+simplified grading 
+system for beef 
+
+120 
+Regulatio
+
+n 
+0 1      1 
+
+Subscription and entry 
+into effect. ASDU 
+reports 
+
+Update of abattoir 
+standards and 
+preparation of legal 
+framework completed 
+
+60 
+Regulatio
+
+n 
+0  1     1 
+
+Subscription and entry 
+into effect. ASDU 
+reports 
+
+Adaptation of the 
+International Codex 
+Alimentarius to the 
+Guyana context 
+completed 
+
+55 
+Regulatio
+
+n 
+0   1    1 
+
+Subscription and entry 
+into effect. ASDU 
+reports 
+
+Support to the GLDA 
+to enforce standards 
+completed 
+
+25 
+Annual 
+report 
+
+0 1 1 1 1 1 1 6 
+Annual reports of 
+compliance 
+
+* Thousand dollars 
+
+
+
+Annex III – GY-L1060 
+Page 1 of 8 
+
+ 
+
+Fiduciary Arrangements 
+
+ 
+
+COUNTRY: Guyana 
+
+PROJECT Nº: GY-L1060 
+
+NAME: Sustainable Agricultural Development Program 
+
+EXECUTING AGENCY: Ministry of Agriculture 
+
+ 
+
+I. EXECUTIVE SUMMARY 
+
+1.1 The general objective of the program is to increase the productivity of the 
+agricultural sector while maintaining sustainable and climate resilient use of natural 
+resources in Guyana. The total estimated budget is US$15,000,000, all of which 
+will be financed by the IDB from the OC/FSO resources. 
+
+ 
+1.2 The Executing agency is the Ministry of Agriculture (MoA). MoA executed two Bank 
+
+financed Loans – Agricultural Support Services 1558/SF-GY and Agricultural 
+Export Diversification Program 1929/BL-GY. The latter loan was executed by the 
+Agriculture Sector Development Unit (ASDU) of the MoA which was established in 
+2007 to execute all foreign funded programs for the sector.  
+
+ 
+1.3 An institutional capacity assessment of the ASDU of MoA was conducted in July 
+
+2016 using the Institutional Capacity Assessment System (ICAS) methodology. 
+The assessment combining previous experience and the findings from the ICAS 
+conclude that the fiduciary risk is considered medium. A re-evaluation of the 
+fiduciary risks will be conducted during execution as part of the regular fiduciary 
+supervision to ensure efficient support to project execution. 
+
+ 
+1.4 Fiduciary context of the country. An Integrated Fiduciary Assessment (IFA) was 
+
+conducted in 2012/2013. It provided an update to the 2007 combined Public 
+Expenditure and Financial Assessment (PEFA) performance measurement 
+framework and OECD-DAC procurement assessment. The results of the 
+2012/2013 IFA, like the 2007 PEFA, concluded that Guyana’s overall budget 
+planning, accounting and reporting systems worked well; IFMAS (the financial and 
+management accounting system used by the Government) operated consistently 
+and reliably providing updated information about all elements of budget execution, 
+and budget planning and reporting was being done in accordance with the cash 
+basis of accounting and its standards. The Public Financial Management (PFM) 
+indicator scores from the 2012/2013, indicate encouraging results with slight 
+improvements in areas such as Strengthened External Audit Function, Budget 
+Preparation Process, Revenue Administration etc. Notwithstanding, the IFA 
+highlighted that attention needed to be paid to the internal control environment, 
+Internal Audit, Payroll Control and Procurement Control among others. To date, 
+confirmations from the Borrower on the results of the 2012/2013 IFA as well as 
+2007 PEFA remain outstanding. The Bank’s Guide for the Use of Country Systems 
+(GUS) Assessment was also conducted in 2013; this also has not been accepted 
+by the Government. The Auditor General’s Office (AOG) is currently eligible to 
+audit all Bank-financed TCs and loan operations deemed to be of low or medium 
+complexity and risk. This was based on an assessment of the capacity of the AOG 
+undertaken by the Bank in 2011 and the continued institutional strengthening 
+support given by the Bank to the AOG. For this operation, the Bank is 
+recommending: (i) the use of the national accounting system, Integrated Financial 
+
+
+
+Annex III – GY-L1060 
+Page 2 of 8 
+
+ 
+
+Management Accounting System – IFMAS, or any other system acceptable to the 
+Bank, for the financial administration of the project; and (ii) for external control, a 
+firm of independent public accountants acceptable to the Bank or the Auditor 
+General of Guyana. 
+
+ 
+1.5 With regards to procurement, assessments of the national system (MAPS) have 
+
+been performed in 2007 and 2013. The results are not yet endorsed by the 
+Government of Guyana (GoG). Guyana has a dedicated legislation that governs 
+public procurement, namely the Procurement Act of 2003 and its associated 
+regulations. The National Procurement and Tender Administration Board (NPTAB) 
+was established in the same Procurement Act of 2003. It is responsible for 
+exercising jurisdiction over the country’s tender processes, reporting to the Ministry 
+of Finance with policy making, advisory oversight, and monitoring and information 
+functions. In accordance with the existing legal framework, the NPTAB is a 
+temporary entity while awaiting the creation of the Public Procurement Commission 
+(PPC). The PPC is a Constitutional body with responsibility for overseeing that the 
+purchasing of goods and services and the execution of works by public institutions 
+is carried out in a fair, equitable, transparent, and competitive manner; its members 
+are appointed by the President and approved by the National Assembly. 
+The country is in the process of strengthening its centralized website for publication 
+of opportunities for requests for proposals, but to date, it is not regularly used 
+across procurement entities or by the independent public corporations. 
+Additionally, efforts are being deployed to also strengthen capacity to retain 
+records of procurement processes and related information, as well as a registry for 
+protests, suspension and debarment and contractors’ performance. Statistics on 
+public procurement awards is also an area of focus for GoG. Notwithstanding, to 
+date, the Country Procurement System has not been approved and hence will not 
+be used under the present Loan. Consequently, the Bank requires the use of its 
+Procurement Policies GN-2349-9 and GN-2350-9 for all projects approved starting 
+April 19, 2011. In the meantime, the Bank will bring adequate support to the 
+procurement function to ensure that procurement activities are carried out in a way 
+that support the prompt execution of the operation and in accordance with the 
+Bank’s rules and procedures. 
+
+ 
+
+II. FIDUCIARY CONTEXT OF THE EXECUTING AGENCY 
+
+2.1. The ASDU of the MOA will be responsible for the execution of the Loan and for 
+carrying out all related fiduciary activities.  In accordance with the existing structure 
+at the MoA, the ASDU will discharge its duties coordinating with the Office of the 
+Permanent Secretary. As per ICAS findings, the ASDU was established in 2007 as 
+the sole “coordinating unit within MoA for the administration of international agency 
+funded projects/programs. To strengthen the execution capacity of the ASDU Unit, 
+a Financial Officer and a Procurement Officer will be recruited to discharge the 
+expected fiduciary duties for the duration of the Loan.  
+
+2.2. MoA, as a budget agency, uses the Integrated Financial Management Accounting 
+System (IFMAS) of the country. ASDU uses IFMAS for the financial management 
+and an off the shelf accounting system for detailed reporting. IFMAS was 
+successfully piloted on previous IDB-financed loans. It is recommended that this 
+program use IFMAS along with the off the shelf accounting package for the 
+financial management and accounting of the program. 
+
+
+
+Annex III – GY-L1060 
+Page 3 of 8 
+
+ 
+
+2.3. As far as the procurement function is concerned, findings of the ICAS indicate that 
+the procurement activities that will be conducted by the ASDU under this Loan will 
+be placed under the responsibility of a procurement officer who is presently 
+discharging procurement duties under a Loan financed by the World Bank. The 
+procurement officer is one constituent of what is referred to as the Procurement 
+Department in the current ASDU’s organizational structure. The position for the 
+procurement manager is presently vacant. However, in accordance with the 
+findings of the ICAS, it appears that, for in as much as the Procurement 
+Department is placed under the Project Coordinator (currently, a vacant position as 
+per findings of the ICAS), the Procurement Officer reports directly to the 
+Permanent Secretary while coordinating activities with the Director of the ASDU. 
+Most importantly however, the ASDU is presently operating in accordance with 
+approved internal control mechanisms guaranteeing “the presence of internal 
+controls throughout the Ministry’s governance, planning, administration, 
+procurement and financial management, including support documentation for all 
+commitment and payment transactions, authorizing signatories following GoG 
+procedures and segregation of authority for most of its internal processes, among 
+others”. In addition, an operation’s manual will be tailored and implemented to 
+increase the ASDU’s capacity to implement the present Loan. Given the above, it 
+is expected that the Procurement Function as structured for the present Loan will 
+have the expected capacities to perform its fiduciary duties.  
+
+III. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS 
+
+3.1. The Project Team in consultation with the MoA and other stakeholders developed 
+a preliminary Risk Mitigation Matrix included in the package of project documents 
+to be approved for the present Loan Agreement. The Bank and the MoA will 
+undertake joint reviews of the Matrix on a yearly basis, and introduce necessary 
+additional mitigating actions as a result of such reviews and as deemed necessary. 
+
+3.2. Taking into consideration the current ASDU organizational structure where a 
+vacancy exists in the Accounting section, the capacity of the existing accounting 
+staff to undertake the financial management for a new operation, the ICAS 
+Assessment and the experience of the Bank with the previous loan, the financial 
+management risk has been classified as medium. The recruitment of a financial 
+officer to ensure adequate segregation of duties coupled with the provision of 
+training on Bank policies and procedures should mitigate the existing risk and 
+strengthen the control environment. 
+
+3.3. With regards to the procurement activities, it is estimated that the overall level of 
+risk is medium. The existing structure as described in Section 2.3 above is 
+identified in the ICAS as presenting a low level of risk. In practice however, the 
+current ASDU organizational structure indicates that the Procurement Department 
+counts with 2 (two) positions and that only that of the Procurement Officer is filled 
+to date. As indicated in the ICAS, the procurement officer is presently responsible 
+for the procurement activities under a World Bank Loan. Given that the 
+Procurement rules and procedures between the World Bank and the IDB are 
+harmonized, it is expected that the experience acquired during the execution of the 
+WB Loan will constitute a mitigation factor in itself. However, to avoid potential 
+bottlenecks tied to an increased workload as indicated above, recruiting a 
+procurement assistant appears to be a necessary additional mitigation measure to 
+avoid potential bottlenecks in the execution of the procurement activities under the 
+IDB financed Loan. Indeed, once the present Loan enters in execution, the 
+
+
+
+Annex III – GY-L1060 
+Page 4 of 8 
+
+ 
+
+Procurement Officer currently on duty would be responsible for several Loans 
+above US$10M.This adapted structure should be reflected and catered for in the 
+operation’s manual as approved under the conditions of Section 4.1 below. 
+
+IV. SPECIAL CONDITIONS OF CONTRACT TO BE ADHERED TO 
+
+4.1. Conditions prior to first disbursement: (i) the presentation of evidence that the 
+Ministry of Agriculture (MoA) has selected a Program Coordinator, a Financial 
+Specialist and a Procurement Specialist according to the terms and conditions 
+previously agreed with the Bank(¶3.1 of the POD); (ii) approval and entry into 
+effect of the Program Operating Manual (POM) according to the terms and 
+conditions previously agreed with the Bank (¶3.4 of the POD), and (iii) presentation 
+by the Borrower of an initial report, including, the Program’s Pluri-annual Execution 
+Plan (PEP), the Procurement Plan, the Financial Plan and the Results Matrix 
+according to the terms and conditions previously agreed with the Bank(¶3.12 of the 
+POD). 
+
+4.2. Type of exchange rate to be used by EA. The type of funds to be used are 
+established in the following manner: (i) Reimbursement of actual expenses: the 
+effective rate of exchange on the date of payment of each expenditure, as 
+published by the Central Bank of Guyana; (ii) Reporting on accounts (Advance of 
+Funds): the effective rate of exchange used in the conversion of the currency of the 
+operation to the local currency. In cases of reimbursement of a guarantee of letter 
+of credit, the equivalent of the currency of the operation will be fixed in accordance 
+with the amount effectively disbursed by the IDB. 
+
+V. FINANCIAL MANAGEMENT 
+
+5.1 Financial Statements and Reports, audited or unaudited. (i) semi-annual 
+financial reports of the program are to be included in the semi-annual progress 
+report which will be submitted by the MoA to the Bank; (ii) annual financial 
+statements of the project, audited by the Auditor General of Guyana are to be 
+submitted to the Bank within 120 days at the end of each fiscal year, beginning 
+with the fiscal year in which the first project expenditures are incurred; and (iii) a 
+final financial audit report of the program is to be submitted by MoPH within 120 
+days after the date of the last disbursement. 
+
+5.2 Programming and Budget: The Borrower has committed to allocate, for each 
+fiscal year of project execution, adequate fiscal space to guarantee the unfettered 
+execution of the project; as determined by normal operative instruments such as 
+the Annual Operating Plan and the PP. 
+
+5.3 Accounting and Information Systems. It is expected that IFMAS accounting 
+system will facilitate the recording and classification of all financial transactions, 
+supported by an off-shelf accounting system. 
+
+5.4 Disbursements and Cash Flow. The Bank will supervise the creation of an 
+Advance of Funds, using the Advance of Funds methodology. Whenever resources 
+from the financing are requested through an Advance of Funds, it will be deposited 
+into a Special Account, denominated in US$, established exclusively for the Project 
+at the Central Bank of Guyana. Required resources from this Special Account will 
+be transferred to another bank account, denominated in Guyana Dollars to be 
+utilized for payment of expenditures in local currency. 
+
+
+
+Annex III – GY-L1060 
+Page 5 of 8 
+
+ 
+
+5.5 The project will provide adequate justification of the existing Advance of Funds 
+balance, whenever 80% of said balance has been spent. Advances will normally 
+cover a period not exceeding 180 days and no less than 90 days. In order to 
+request disbursements from the Bank, the EA will present the following forms and 
+supporting documents: 
+
+Type of 
+Disbursement 
+
+Mandatory Forms 
+Optional forms/ information that 
+
+can be requested by the IDB 
+
+Advance Disbursement Request/ Financial 
+Plan 
+
+List of Commitments 
+Physical/Financial Progress 
+Reports 
+
+Reimbursements of 
+Payments Made 
+
+Disbursement Request/ Project 
+Execution Status/ Statement of 
+Expenses 
+
+List of Commitments 
+Physical/Financial Progress 
+Reports 
+
+Direct Payment to 
+Supplier 
+
+Disbursement Request/ Statement of 
+Expenses/Acceptable Supporting 
+Documentation 
+
+List of Commitments 
+Physical/Financial Progress 
+Reports 
+
+ 
+
+5.6 Generally, supporting documentation for Justification of Advances and 
+Reimbursement of Payments Made will be kept at the office of the EA. 
+Disbursements’ supporting documents may be reviewed by the Bank on an ex-post 
+basis.  
+
+5.7 Internal Control and Internal Audit: The management of the project will assume 
+the responsibility for designing and implementing a sound system of internal 
+controls for the project. 
+
+5.8 External Control and Reports. For each fiscal year during project execution, MoA 
+will be responsible to produce semi-annual financial reports for the project, annual 
+Audited Financial Reports of the Program and one final Audited Financial Report at 
+the end of the Program, audited either by the Auditor General of Guyana or by a 
+firm of independent public accountants acceptable to the Bank. 
+
+5.9 Financial Supervision Plan. Financial Supervision will be developed based on the 
+initial and subsequent risk assessments carried out for the project. Inspection visits 
+will be performed based on the risk assessed, covering the following: (i) review of 
+the bank reconciliation and supporting documentation for Advances and 
+Justifications; (ii) compliance with procedures; (iii) review of compliance with the 
+lending criteria; and (iv) ex-post review of disbursements. 
+
+5.10 Execution Mechanism. MoA will be the EA and will be responsible for the 
+financial administration of the program. MoA’s responsibility will include:                
+(i) preparation of required project reports; (ii) monitoring product, output and 
+outcomes achievement using established indicators; (iii) preparation and 
+submission of disbursement requests to the Bank and justification of expenses;   
+(iv) preparation of financial reports; (v) ensure compliance with all aspects of the 
+Operating Manual; and (vi) maintain adequate documentation filing system. 
+
+VI. REQUIREMENTS AND AGREEMENTS FOR EXECUTION OF PROCUREMENT 
+
+6.1 Procurement Execution. Procurement activities for the proposed project will be 
+carried out in accordance with the Policies for the Procurement of Works and 
+Goods Financed by the Inter-American Development Bank (GN-2349-9), of March 
+2011, and the Policies for the Selection and Contracting of Consultants Financed 
+by the Inter-American Development Bank (GN-2350-9), of March 2011. They will 
+also be subject to the provisions established in the Loan contract. In addition, for all 
+projects, the Borrower is required to prepare and submit to the Bank, a draft 
+
+
+
+Annex III – GY-L1060 
+Page 6 of 8 
+
+ 
+
+General Procurement Notice as well as an initial procurement plan which will be 
+updated in accordance with the applicable sections of the Policies and the Loan 
+Agreement. 
+
+6.2 Exception to Bank Procurement Policies. The operation does not foresee any 
+exception to the Bank’s procurement policies. 
+
+6.3 Procurement of Goods, Works, and Non-Consulting Services. In accordance 
+with Section 1.2 of GN-2349-9, “the responsibility for the implementation of the 
+project, and therefore for the award and administration of contracts under the 
+project, rests with the Borrower”. In accordance with the findings of the ICAS for 
+this Loan and given the level of risk as identified above, all procurement activities 
+will be carried out under ex-ante supervision.  
+
+6.4 Procurement of Consulting Services. In accordance with Section 1.4 of         
+GN-2350-9, “The Borrower is responsible for preparing and implementing the 
+project, and therefore for selecting the consultant, and awarding and subsequently 
+administering the contract.” As such, the Borrower is responsible for preparing and 
+implementing the scheduled activities, and therefore for preparing the TORs, short 
+lists, selecting the consultants, awarding the contract and subsequently 
+administering it. In accordance with the findings of the ICAS for this Loan and given 
+the level of risk as identified above, all procurement activities will be carried out 
+under ex-ante supervision as described in the following section of the present 
+Annex III.  
+
+6.5 Sole Source Selection and/or Direct Contracting. The Program is currently 
+looking into the possibility of a Direct Contract with the Food and Agriculture 
+Organization of the United Nations (FAO) for a total of US$4 million. This Direct 
+Contract would be based on the FAO’s experience in carrying out Agricultural 
+Surveys as described in Component 1 of the present Loan and hence, the request 
+for same would be grounded on Section 3.10 (d) of GN-2350-9 which foresees that 
+“Single-source selection may be appropriate only if it presents a clear advantage 
+over competition: […] (d) when only one firm is qualified or has experience of 
+exceptional worth for the assignment”. The FAO would be recruited by the Ministry 
+of Agriculture and it is expected that the request for no-objection for the said 
+contract will be submitted to the Bank for no-objection prior in accordance with the 
+applicable rules and procedures governing Direct Contracting of Consulting 
+Services. This does not constitute a request for approval/no-objection to the Direct 
+Contract in question which, as mentioned above, will be processed in accordance 
+with the applicable rules during execution. 
+
+6.6 Selection of Individual Consultants. Individual consultants will be selected and 
+recruited in accordance with Section V of GN-2350-9. 
+
+6.7 Recurring Expenses. Include payment of utilities and other office operating 
+expenses of the Executing Unit, if any. 
+
+6.8 Advance Contracting/Retroactive Financing. The Bank may finance 
+retroactively under the loan, eligible expenses incurred by the Borrower prior to the 
+date of loan approval to: (i) design, environmental and impact evaluation, and 
+supervision of the infrastructure included in Components 2 and 3; (ii) contract 
+specialized personnel of the ASDU dedicated to the Program; and (iii) finance the 
+travel, per diem expenses and office supplies, up to the amount US$350,000 
+(2.33% of the proposed loan amount), provided that all the requirements 
+substantially similar to those set out in the loan agreement requirements are 
+
+
+
+Annex III – GY-L1060 
+Page 7 of 8 
+
+ 
+
+adhered to. These expenses must have been incurred on or after June 16
+th
+, 2016 
+
+(PP approval date), and under no circumstances shall expenditures incurred more 
+than 18 months prior to the loan approval date be included.  
+
+6.9 Domestic Preference. Domestic Preference is not requested under this Loan. 
+
+6.10 Country Threshold. Table (US$ thousands) www.iadb.org/procurement  
+
+International Competitive 
+Bidding Threshold* 
+
+ 
+
+National Competitive Bidding Range 
+** (complex works and non-common 
+
+goods)  
+
+Consulting Services 
+
+Works Goods Works Goods International Short List 
+
+>1,000,000 >100,000 <1,000,000 <100,000 > 100,000 
+
+* When procuring simple works and common goods and their amount is under the International 
+Competitive Bidding thresholds, Shopping may be used. 
+** When procuring non-complex works or common goods with amounts under the NCB range, 
+Shopping shall be used. 
+
+ 
+
+6.11 Procurement Plan. The Procurement Plan for the operation covering the first 18 
+months of project execution can be accessed through the following electronic link. 
+The on-line Electronic Procurement Execution System (known by its Spanish 
+acronym as SEPA) will be used for the publication and updates of the Procurement 
+Plan during project execution. It is expected that the EA will use the SEPA program 
+for management of its procurement activities. The Procurement Plan will be 
+updated annually or whenever necessary, or as required by the Bank 
+(www.iadb.org/procurement; http://www.iniciativasepa.org/bid/sitio/guyana/index-
+_ing.htm). The initial procurement plan for the operation lists all procurement 
+activities foreseen under this operation. The table below includes the list of the 
+main procurement activities for this Loan. 
+
+Main Procurement Activities 
+
+Activity Add’l Info. 
+Procurement 
+
+Method 
+ 
+
+Estimated 
+Amount 
+ in US$: 
+
+Estimated 
+Amount  
+BID %: 
+
+Review 
+Method 
+
+ 
+
+Specific 
+Procurement 
+
+notice 
+
+Contract 
+Signature 
+
+Buildings, 
+Laboratories, 
+Water Reservoir, 
+and civil works in 
+Region 9 
+
+Works ICB 3,100,000 100 Ex-ante Q3 2017 Q4 2017 
+
+Construction of 
+abattoir and 
+associated waste 
+management 
+facilities in 
+Region 9 
+
+Works ICB 1,200,000 100 Ex-ante Q4 2017 Q1 2018 
+
+Laboratory 
+equipment 
+(autoclave; soil 
+grinder; 
+incubator; 
+moisture content 
+analyzer) 
+
+Goods ICB 120,000 100 Ex-ante Q2 2018 Q2 2018 
+
+Agricultural 
+Census 
+
+Consulting 
+Services 
+
+SSS 4,000,000 100 Ex-ante N/A Q1 2017 
+
+Design & 
+supervision Agri. 
+Construction 
+Infrastructure 
+
+Consulting 
+services 
+
+QCBS 680,000 100 Ex-ante Q1 2017 Q2 2017 
+
+http://www.iadb.org/procurement
+http://idbdocs.iadb.org/WSdocs/getDocument.aspx?DOCNUM=38332109
+http://www.iadb.org/procurement
+http://www.iniciativasepa.org/bid/sitio/guyana/index_ing.htm
+http://www.iniciativasepa.org/bid/sitio/guyana/index_ing.htm
+
+
+Annex III – GY-L1060 
+Page 8 of 8 
+
+ 
+
+ 
+
+6.12 Supervision. Under the present Loan, procurement activities (i) are not expected 
+to be complex in nature, nor will they involve the acquisition of medical of 
+therapeutic equipment; (ii) will be subject to ex-ante review given the level of risk 
+as identified above; (iii) will be explicitly listed in the approved and updated 
+procurement plan in SEPA; (iv) will be launched once all technical specifications 
+and/or terms of reference are validated by the Bank’s Sector Specialist; and (v) will 
+be documented in accordance with the general filing guidelines that will be 
+provided as part of the inception training of the fiduciary staff and in accordance 
+with the applicable Bank Policies. 
+
+6.13 All modifications to the present arrangement are subject to a prior written 
+agreement between the EA and the Bank. The evaluation of capacity and the level 
+of risk may vary during the project’s execution depending on the findings of the 
+regular supervision activities that will be conducted during the project’s lifespan. As 
+such, supervision modalities may vary as capacity increases. 
+
+6.14 Records and Files. All records and files will be maintained by the EA, according to 
+accepted best practices and to the general guidelines that will be provided by the 
+Bank at the initial training of the fiduciary staff. All records must be kept for seven 
+(7) years beyond the end of the operation’s execution period. It is also 
+recommended that the Executing Agencies develop electronic filing to avoid losing 
+all paper files. 
+
+
+

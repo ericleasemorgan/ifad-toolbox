@@ -1,0 +1,317 @@
+id	sid	eid	entity	type
+WB106	1	1	World Bank Document	ORG
+WB106	1	2	Agribusiness and Rural Transformation Project	ORG
+WB106	1	3	18, 2018 Page	DATE
+WB106	1	4	11 Project	MONEY
+WB106	1	5	PID/ISDS	ORG
+WB106	1	6	Concept Stage	ORG
+WB106	1	7	| Report	WORK_OF_ART
+WB106	1	8	2	CARDINAL
+WB106	1	9	11	CARDINAL
+WB106	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB106	2	2	India P168310 State	ORG
+WB106	2	3	Maharashtra	ORG
+WB106	2	4	Agribusiness and Rural Transformation Project	ORG
+WB106	2	5	May 13, 2019 Aug 12, 2019	DATE
+WB106	2	6	Agriculture Financing Instrument Borrower(s	ORG
+WB106	2	7	Maharashtra	ORG
+WB106	4	1	PROJECT FINANCING DATA	ORG
+WB106	4	2	Millions	CARDINAL
+WB106	4	3	SUMMARY-N ewFin1	ORG
+WB106	4	4	300.00	CARDINAL
+WB106	4	5	300.00	CARDINAL
+WB106	4	6	0.00	CARDINAL
+WB106	4	7	h1 World Bank Group Financing International Bank for Reconstruction and Development	ORG
+WB106	4	8	210.00	CARDINAL
+WB106	4	9	80.00	CARDINAL
+WB106	4	10	80.00	CARDINAL
+WB106	4	11	The World Bank State of Maharashtra's	ORG
+WB106	4	12	18, 2018	DATE
+WB106	4	13	3	CARDINAL
+WB106	4	14	11	CARDINAL
+WB106	4	15	10.00	CARDINAL
+WB106	6	1	India	GPE
+WB106	7	1	Indian	NORP
+WB106	7	2	5.5 per cent	MONEY
+WB106	7	3	2012-13	DATE
+WB106	7	4	8 per cent	MONEY
+WB106	7	5	2015- 16	DATE
+WB106	8	1	India	GPE
+WB106	8	2	7.1 per cent	MONEY
+WB106	8	3	2016-17	DATE
+WB106	8	4	6.5 per cent	MONEY
+WB106	8	5	2017-18	DATE
+WB106	10	1	2018-19	DATE
+WB106	11	1	the 2000s	DATE
+WB106	11	2	India	GPE
+WB106	11	3	38.9	CARDINAL
+WB106	11	4	21.6	CARDINAL
+WB106	11	5	US$1.90	MONEY
+WB106	11	6	between 2004 and 2011	DATE
+WB106	12	1	100 million	CARDINAL
+WB106	12	2	India	GPE
+WB106	14	1	2011	DATE
+WB106	16	1	2	CARDINAL
+WB106	17	1	India	GPE
+WB106	19	1	More than 54	CARDINAL
+WB106	19	2	2011	CARDINAL
+WB106	19	3	17.1 per cent	MONEY
+WB106	19	4	GVA	ORG
+WB106	19	5	the year 2017-18	DATE
+WB106	20	1	GVA	ORG
+WB106	20	2	18.6 per cent	MONEY
+WB106	20	3	2013-14	DATE
+WB106	20	4	17.4 per cent	MONEY
+WB106	20	5	2016-17	DATE
+WB106	21	1	annual	DATE
+WB106	21	2	3-3.5	CARDINAL
+WB106	21	3	the 1990s	DATE
+WB106	21	4	2000s	DATE
+WB106	21	5	3below 2	CARDINAL
+WB106	21	6	2013- 15	DATE
+WB106	22	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	22	2	18, 2018	DATE
+WB106	22	3	4	CARDINAL
+WB106	22	4	11	CARDINAL
+WB106	22	5	agrarian	NORP
+WB106	23	1	3	CARDINAL
+WB106	24	1	India	GPE
+WB106	25	1	needs2	PRODUCT
+WB106	27	1	4	CARDINAL
+WB106	28	1	the years	DATE
+WB106	28	2	India	GPE
+WB106	28	3	10th	ORDINAL
+WB106	30	1	India	GPE
+WB106	30	2	only about 2	CARDINAL
+WB106	31	1	India	GPE
+WB106	31	2	25 per cent	MONEY
+WB106	31	3	US	GPE
+WB106	31	4	49 per cent	MONEY
+WB106	31	5	China	GPE
+WB106	34	1	Maharashtra	ORG
+WB106	34	2	annual	DATE
+WB106	34	3	6.4 per cent	MONEY
+WB106	34	4	2004-05 to 2011-12	DATE
+WB106	34	5	2000	DATE
+WB106	35	1	about 25 per cent	MONEY
+WB106	35	2	only 7	CARDINAL
+WB106	37	1	2000	DATE
+WB106	40	1	approximately 240,000	CARDINAL
+WB106	40	2	about 15 per cent	MONEY
+WB106	42	1	around 57 per cent	MONEY
+WB106	42	2	only three	CARDINAL
+WB106	42	3	districts4	ORG
+WB106	43	1	6	CARDINAL
+WB106	44	1	Maharashtra	ORG
+WB106	45	1	44 per cent	MONEY
+WB106	45	2	Maharashtra	GPE
+WB106	46	1	India	GPE
+WB106	47	1	the past few years	DATE
+WB106	47	2	about 20 percent	PERCENT
+WB106	47	3	1	CARDINAL
+WB106	47	4	Annual Report	WORK_OF_ART
+WB106	47	5	2017-18	DATE
+WB106	48	1	Department of Agriculture, Cooperation & Farmers Welfare, Government of India 2	ORG
+WB106	48	2	India	GPE
+WB106	48	3	fifth	ORDINAL
+WB106	48	4	the Asia Pacific region	LOC
+WB106	48	5	one	CARDINAL
+WB106	49	1	India	GPE
+WB106	49	2	$135 million	MONEY
+WB106	49	3	2016	DATE
+WB106	49	4	$464 million	MONEY
+WB106	49	5	2021	DATE
+WB106	50	1	around 2005	DATE
+WB106	50	2	over 3,000	CARDINAL
+WB106	50	3	2016	DATE
+WB106	51	1	3	CARDINAL
+WB106	51	2	2017-18	DATE
+WB106	51	3	GOM	ORG
+WB106	52	1	4	CARDINAL
+WB106	52	2	ASI	ORG
+WB106	52	3	2010-11	DATE
+WB106	52	4	GOM	ORG
+WB106	53	1	5	CARDINAL
+WB106	53	2	1.44	CARDINAL
+WB106	54	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	54	2	18, 2018	DATE
+WB106	54	3	5	CARDINAL
+WB106	54	4	11	CARDINAL
+WB106	54	5	Maharashtra	ORG
+WB106	54	6	India	GPE
+WB106	56	1	7	CARDINAL
+WB106	57	1	the Government of India	ORG
+WB106	57	2	GOI	ORG
+WB106	57	3	Government of Maharashtra	ORG
+WB106	57	4	GOM	ORG
+WB106	57	5	Doubling Farmer’s Income by 2022	WORK_OF_ART
+WB106	58	1	US$3 billion	MONEY
+WB106	59	1	GOI	ORG
+WB106	59	2	GOM	ORG
+WB106	59	3	second	ORDINAL
+WB106	59	4	100 per cent	MONEY
+WB106	59	5	FDI	ORG
+WB106	61	1	India	GPE
+WB106	61	2	4.00 per cent	MONEY
+WB106	61	3	US$ 60 billion	MONEY
+WB106	61	4	2022	DATE
+WB106	62	1	8	CARDINAL
+WB106	64	1	India	GPE
+WB106	69	1	More than 2 million	CARDINAL
+WB106	69	2	Self Help Groups	ORG
+WB106	71	1	9	CARDINAL
+WB106	72	1	the National Action Plan on Climate Change	LAW
+WB106	72	2	the Government of Maharashtra	ORG
+WB106	72	3	the Maharashtra State Adaptation Action Plan on Climate Change	ORG
+WB106	73	1	2030	DATE
+WB106	73	2	2050	DATE
+WB106	73	3	2070	DATE
+WB106	74	1	Impacts	ORG
+WB106	74	2	three	CARDINAL
+WB106	74	3	the past five years	DATE
+WB106	76	1	10	CARDINAL
+WB106	77	1	the World Bank	ORG
+WB106	77	2	Maharashtra	ORG
+WB106	77	3	four	CARDINAL
+WB106	77	4	the Maharashtra Project on Climate Resilient Agriculture	ORG
+WB106	77	5	three	CARDINAL
+WB106	77	6	the National Dairy Support Project	ORG
+WB106	77	7	the National Groundwater Management Improvement Program	ORG
+WB106	77	8	P158119	NORP
+WB106	77	9	Agriculture Risk Resilience Insurance Access Project	ORG
+WB106	79	1	Bank	ORG
+WB106	79	2	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	79	3	18, 2018	DATE
+WB106	79	4	6	CARDINAL
+WB106	79	5	11	CARDINAL
+WB106	79	6	National Rural Economic Transformation Project	ORG
+WB106	79	7	Food Processing and Value Addition Pilot Program	ORG
+WB106	80	1	CPF 11	LAW
+WB106	81	1	two	CARDINAL
+WB106	81	2	the India CPF	ORG
+WB106	82	1	CPF	ORG
+WB106	82	2	12	CARDINAL
+WB106	83	1	1.1	CARDINAL
+WB106	84	1	CPF	ORG
+WB106	84	2	Government of India	ORG
+WB106	84	3	GOI	ORG
+WB106	84	4	2022	DATE
+WB106	85	1	Maharashtra	ORG
+WB106	90	1	13	CARDINAL
+WB106	91	1	2.1	CARDINAL
+WB106	92	1	GOM	ORG
+WB106	95	1	C. Proposed Development Objective(s	PERSON
+WB106	95	2	14	DATE
+WB106	96	1	Maharashtra	ORG
+WB106	98	1	CRI	ORG
+WB106	98	2	Farmers	ORG
+WB106	98	3	CRI	ORG
+WB106	99	1	15	CARDINAL
+WB106	100	1	Farmer Producer Organisations	ORG
+WB106	100	2	Primary Agriculture Credit Cooperative Societies	ORG
+WB106	101	1	D. Concept Description	PERSON
+WB106	102	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	102	2	18, 2018	DATE
+WB106	102	3	7	CARDINAL
+WB106	102	4	11 16	DATE
+WB106	103	1	Maharashtra	ORG
+WB106	105	1	third	ORDINAL
+WB106	105	2	Maharashtra	ORG
+WB106	117	1	17	CARDINAL
+WB106	118	1	Corporate Social Responsibility	ORG
+WB106	118	2	CSR	ORG
+WB106	118	3	the Village Social Transformation Foundation	ORG
+WB106	118	4	GOM	ORG
+WB106	119	1	SAFEGUARDS A.	PERSON
+WB106	120	1	Maharashtra	ORG
+WB106	120	2	India	GPE
+WB106	120	3	114 million	CARDINAL
+WB106	121	1	India	GPE
+WB106	121	2	four	CARDINAL
+WB106	121	3	36	CARDINAL
+WB106	121	4	India	GPE
+WB106	121	5	106	CARDINAL
+WB106	124	1	only 30.77 million	MONEY
+WB106	124	2	about 16%	PERCENT
+WB106	125	1	Maharashtra	ORG
+WB106	125	2	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	125	3	18, 2018	DATE
+WB106	125	4	8	CARDINAL
+WB106	125	5	11	CARDINAL
+WB106	126	1	recent years	DATE
+WB106	127	1	Sahyadri	ORG
+WB106	127	2	Satpura	ORG
+WB106	127	3	two	CARDINAL
+WB106	127	4	Godavari	PERSON
+WB106	127	5	Bhima	PERSON
+WB106	127	6	Krishna	PERSON
+WB106	127	7	two	CARDINAL
+WB106	129	1	About 17%	PERCENT
+WB106	129	2	Sahyadri	ORG
+WB106	131	1	Maharashtra	ORG
+WB106	131	2	1800	CARDINAL
+WB106	132	1	Maharashtra	ORG
+WB106	132	2	Southern Tropical Thorn	PRODUCT
+WB106	132	3	five	CARDINAL
+WB106	133	1	Western Ghats	NORP
+WB106	133	2	Maharashtra	ORG
+WB106	133	3	34	CARDINAL
+WB106	133	4	Biodiversity Hotspots	ORG
+WB106	135	1	B. Borrower’s	PERSON
+WB106	135	2	the World Bank's	ORG
+WB106	135	3	Bank	ORG
+WB106	136	1	Maharashtra Agricultural Competitiveness Project	ORG
+WB106	136	2	Project on Climate Resilient Agriculture	ORG
+WB106	138	1	MACP	ORG
+WB106	138	2	Satisfactory	LOC
+WB106	141	1	Maharashtra	ORG
+WB106	142	1	C. Environmental	PERSON
+WB106	142	2	Environmental Specialist Gitanjali Chaturvedi	ORG
+WB106	142	3	Social Specialist D. Policies	ORG
+WB106	142	4	Safeguard Policies Triggered	ORG
+WB106	148	1	The World Bank State of Maharashtra's	ORG
+WB106	148	2	18, 2018	DATE
+WB106	148	3	9	CARDINAL
+WB106	148	4	11	CARDINAL
+WB106	150	1	4.03	CARDINAL
+WB106	150	2	TBD	ORG
+WB106	154	1	4.04	CARDINAL
+WB106	154	2	TBD	ORG
+WB106	156	1	EA	ORG
+WB106	157	1	OP	PERSON
+WB106	158	1	4.09	CARDINAL
+WB106	161	1	Peoples OP/BP	ORG
+WB106	162	1	Maharashtra	ORG
+WB106	162	2	54%	PERCENT
+WB106	162	3	4.10	CARDINAL
+WB106	163	1	Scheduled Tribes	PERSON
+WB106	163	2	4.10	CARDINAL
+WB106	163	3	OP	PERSON
+WB106	163	4	TBD	ORG
+WB106	166	1	International Waterways OP/BP	ORG
+WB106	167	1	Disputed Areas OP/BP	ORG
+WB106	168	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	168	2	18, 2018	DATE
+WB106	168	3	10	CARDINAL
+WB106	169	1	Appraisal Stage PID/ISDS	ORG
+WB106	169	2	Environment Assessment	ORG
+WB106	171	1	an Indigenous People's Planning Framework (IPPF	ORG
+WB106	171	2	Scheduled Tribes	PERSON
+WB106	172	1	Manivannan Pathy	PERSON
+WB106	172	2	Adarsh Kumar Sr Agricultural Spec	PERSON
+WB106	173	1	Borrower/Client/Recipient Republic of India	ORG
+WB106	173	2	Ministry of Finance	ORG
+WB106	173	3	Government of India bandana.preyashi@gov.in	ORG
+WB106	173	4	NW	GPE
+WB106	173	5	Washington	GPE
+WB106	173	6	202	CARDINAL
+WB106	173	7	473-1000	CARDINAL
+WB106	173	8	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
+WB106	173	9	18, 2018	DATE
+WB106	173	10	11	CARDINAL
+WB106	173	11	11	CARDINAL
+WB106	173	12	APPROVAL	ORG
+WB106	173	13	Manivannan Pathy	PERSON
+WB106	173	14	Adarsh Kumar	PERSON
+WB106	173	15	Mary Kathryn Hollifield	PERSON
+WB106	173	16	Luc Lecuit	PERSON

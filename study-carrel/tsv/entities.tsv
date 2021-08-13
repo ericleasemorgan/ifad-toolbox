@@ -1,22 +1,26 @@
 entity	type	frequency
 bank	ORG	2647
 ifad	ORG	951
+adb	ORG	950
+borrower	ORG	945
+loan	ORG	423
 africa	LOC	387
 esmf	ORG	364
-world bank	ORG	277
-adf	ORG	276
-appendix	PERSON	274
+appendix	PERSON	291
+world bank	ORG	278
+adf	ORG	278
 ida	ORG	272
 op	PERSON	270
 na	ORG	266
 the world bank	ORG	257
 pu bl	PERSON	256
 ua	GPE	253
+program	ORG	215
+piu	GPE	212
 fao	ORG	206
-piu	GPE	204
 af	ORG	203
-eu	ORG	191
-program	ORG	182
+eu	ORG	199
+emp	ORG	183
 rpf	ORG	181
 vii	ORG	180
 tadb	ORG	178
@@ -28,27 +32,28 @@ un	ORG	165
 state	ORG	164
 d	PERSON	163
 india	GPE	162
-borrower	ORG	162
 sudan	GPE	143
 guinea	GPE	141
 chad	GPE	139
 kenya	GPE	137
 iii	ORG	136
+cooperatives	ORG	135
 the ministry of agriculture	ORG	134
 washington	GPE	134
-cooperatives	ORG	133
 pu bl ic d	PERSON	132
 burundi	GPE	128
 morocco	GPE	125
-loan	ORG	124
+sps	ORG	121
+usd	ORG	120
 liberia	GPE	120
-usd	ORG	116
 csp	ORG	114
 tanzania	GPE	113
 nigeria	GPE	111
+cpf	ORG	111
 burkina faso	PERSON	111
 uganda	GPE	109
 pim	ORG	108
+pam	ORG	107
 ghana	GPE	101
 angola	GPE	101
 psc	ORG	100
@@ -60,21 +65,22 @@ girsal	ORG	96
 senegal	PERSON	95
 wb	ORG	93
 nw	GPE	93
+the project executing agency	ORG	92
 mali	GPE	90
-emp	ORG	90
-cpf	ORG	90
 china	GPE	88
 sierra leone	ORG	87
+o&m	ORG	87
+category	PERSON	87
 argentina	GPE	86
 gef	ORG	84
 ghg	ORG	83
+eirr	ORG	81
 bolivia	ORG	81
-eirr	ORG	80
 programa	GPE	78
 somalia	GPE	77
 lesotho	PERSON	77
+myanmar	GPE	76
 zambia	GPE	75
-myanmar	GPE	74
 world bank document	ORG	73
 turkey	GPE	73
 rap	ORG	73
@@ -88,7 +94,7 @@ benin	PERSON	70
 vii	ORG	69
 pcn	ORG	69
 ic d	PERSON	68
-undp	ORG	68
+undp	PERSON	68
 ta	ORG	68
 senacsa	ORG	68
 rwanda	GPE	68
@@ -104,31 +110,33 @@ irr	ORG	65
 gabon	GPE	65
 wfp	ORG	64
 esmp	ORG	63
-adb	ORG	63
 cameroon	LOC	62
 l u s	GPE	61
+total	ORG	61
 congo	GPE	61
 cgiar	ORG	61
+iee	ORG	60
 eur	GPE	60
 namsip	ORG	59
 board	ORG	59
 bank group	ORG	59
+balochistan	GPE	58
 peoples op/bp	ORG	57
-o&m	ORG	57
+gap	ORG	56
 wash	ORG	55
-total	ORG	55
 gafsp	ORG	55
 farmers	ORG	55
 ppf	ORG	54
+ii	ORG	54
 the bank date	ORG	53
 sahel	PERSON	53
 ifc	ORG	53
-guinea-bissau	PERSON	52
+guinea-bissau	GPE	52
 ffs	ORG	52
 ea	PERSON	52
 the african development bank	ORG	51
 yemen	GPE	51
-ii	ORG	51
+goods	PERSON	51
 c. proposed development	PERSON	51
 rcn	ORG	50
 punjab	PERSON	50
@@ -136,10 +144,12 @@ promifa	ORG	50
 mozambique	GPE	50
 maharashtra	ORG	50
 guyana	GPE	50
+rp	ORG	49
 boké	PERSON	49
 tbd	ORG	48
 serbia	GPE	48
 scd	ORG	48
+pid	ORG	48
 minagri	ORG	48
 mcrp	ORG	48
 i.	ORG	48
@@ -157,7 +167,6 @@ the executing agency	ORG	45
 sa	ORG	45
 moa	ORG	45
 pmp	ORG	44
-pid	ORG	44
 moldova	GPE	44
 mauritania	GPE	44
 latin america	LOC	44
@@ -167,14 +176,15 @@ pdcv-riz	ORG	43
 life ex	ORG	43
 land bank	ORG	43
 the bank group	ORG	42
+rural development	ORG	42
 pagpa	ORG	42
 nanni	ORG	42
 lessons	ORG	42
 gni	ORG	42
+the ministry of finance	ORG	41
 samoa	GPE	41
-rural development	ORG	41
 nombre	ORG	41
-usaid	ORG	40
+usaid	GPE	40
 padaam	ORG	40
 nanni weir	ORG	40
 got	ORG	40
@@ -186,31 +196,32 @@ pceu	ORG	39
 oie	ORG	39
 masa	ORG	39
 environmental and	ORG	39
-the ministry of finance	ORG	38
+the european union	ORG	38
 waemu	ORG	38
 mtr	ORG	38
+subproject	ORG	37
 montenegro	GPE	37
 honduras	GPE	37
 c. environmental	PERSON	37
-the european union	ORG	36
+afd	ORG	37
 unicef	ORG	36
 un	ORG	36
-peu	PERSON	36
+peu	ORG	36
 par	ORG	36
 operating regulations	ORG	36
 mifa	ORG	36
 kp	ORG	36
 ipm	ORG	36
 bank policies	ORG	36
-afd	ORG	36
+bp	ORG	36
 the african development fund	ORG	35
 who	ORG	35
 pmt	ORG	35
 mag	ORG	35
 icb	ORG	35
-feed africa	GPE	35
+feed africa	ORG	35
+dwr	ORG	35
 basic project data ops table country project id parent project id	ORG	35
-bp	ORG	35
 the project management unit	ORG	34
 uzbekistan	ORG	34
 uruguay	GPE	34
@@ -225,18 +236,21 @@ the infoshop the world bank 1818 h street	ORG	33
 pmv	ORG	33
 isdb	ORG	33
 executive board	ORG	33
+eia	ORG	33
+drd	ORG	33
 appraisal stage pid/isds	ORG	33
+treasury	ORG	32
+earf	ORG	32
 d. financial	ORG	32
 caribbean	LOC	32
 asia	LOC	32
 the board of directors	ORG	31
+pfi	ORG	31
 moa	PERSON	31
 mgap	ORG	31
 brazil	GPE	31
 the executive board	ORG	30
 united states	GPE	30
-treasury	ORG	30
-sps	ORG	30
 rplp	ORG	30
 project management unit	ORG	30
 programme	PERSON	30
@@ -252,6 +266,7 @@ vietnam	GPE	29
 the world bank resilient productive landscapes	ORG	29
 pcmu	ORG	29
 mis	ORG	29
+maf	ORG	29
 fd	ORG	29
 european union	ORG	29
 b. borrower’s	PERSON	29
@@ -266,17 +281,20 @@ le	GPE	28
 iv	ORG	28
 dem rep	ORG	28
 concept stage	ORG	28
+bpm	ORG	28
+appendix 4	ORG	28
 annex iii	ORG	28
 the regional environment unit	ORG	27
 mm	PERSON	27
 world bank: world development indicators	ORG	27
+works	ORG	27
 wbg	ORG	27
 waapp	ORG	27
 prosap	ORG	27
+ministry of finance	ORG	27
 mt	ORG	27
 lake chad	LOC	27
 gou	ORG	27
-bpm	ORG	27
 afdb statistics department databases	ORG	27
 the ministry of rural development	ORG	26
 tunisia	GPE	26
@@ -285,10 +303,11 @@ sub-saharan africa	LOC	26
 south africa	GPE	26
 regional	ORG	26
 pse	ORG	26
-ministry of finance	ORG	26
 mawf	ORG	26
+loan agreement	ORG	26
 kolda	PERSON	26
 esmr	ORG	26
+dli	ORG	26
 car	ORG	26
 du programme	ORG	25
 west	LOC	25
@@ -301,14 +320,16 @@ popul	PERSON	25
 p166072	PERSON	25
 mid-term review	ORG	25
 maratakka spillway-	ORG	25
-maf	ORG	25
+moes	PERSON	25
 lessons reflected	ORG	25
 casamance	ORG	25
 bafata	PERSON	25
+bwdb	ORG	25
 the world bank''s	ORG	24
 the groundnut basin	LOC	24
 world bank contact	ORG	24
 thrust	PERSON	24
+sri lanka	GPE	24
 samriddhi	GPE	24
 portal	ORG	24
 prodivac	ORG	24
@@ -316,7 +337,6 @@ maldives	GPE	24
 lebanon	GPE	24
 ipard	ORG	24
 imf	ORG	24
-drd	ORG	24
 contact point world bank	ORG	24
 birth - total	ORG	24
 birth - female	ORG	24
@@ -353,7 +373,6 @@ the steering committee	ORG	22
 the ministry of agriculture and forestry	ORG	22
 the agreement establishing ifad	ORG	22
 the executive board	ORG	22
-sri lanka	GPE	22
 sdg	ORG	22
 resepag ii	ORG	22
 pad	PERSON	22
@@ -368,6 +387,7 @@ gender	PERSON	22
 financing structure	ORG	22
 development partners	ORG	22
 african development bank	ORG	22
+this loan agreement	ORG	21
 the project steering committee	ORG	21
 the lake chad	ORG	21
 the general conditions	ORG	21
@@ -385,6 +405,7 @@ iwrm	ORG	21
 isds	ORG	21
 ilo	ORG	21
 côte	GPE	21
+cambodia	GPE	21
 c. proposed development objective(s	PERSON	21
 annex ii	ORG	21
 albania	GPE	21
@@ -399,6 +420,7 @@ social risks	ORG	20
 social management plan	ORG	20
 summary	ORG	20
 rural economic transformation project	ORG	20
+rf	ORG	20
 ptta/resepag	ORG	20
 peja	ORG	20
 pacba	ORG	20
@@ -412,11 +434,9 @@ health	ORG	20
 gol	ORG	20
 goa	ORG	20
 fonsis	ORG	20
-eia	ORG	20
 e. safeguard preparation plan tentative	ORG	20
 donee	PERSON	20
 drslp	ORG	20
-cambodia	GPE	20
 c. compliance monitoring indicators	PERSON	20
 bl-bo	ORG	20
 ap	ORG	20
@@ -449,19 +469,25 @@ e. risk	PERSON	19
 dpo	ORG	19
 clearinghouse	ORG	19
 brazzaville	GPE	19
+asian development bank	ORG	19
 aimu	ORG	19
 aecid	ORG	19
 the united nations	ORG	18
 the ministry of agriculture and livestock	ORG	18
+the loan agreement	ORG	18
+vat	ORG	18
 the world bank burkina faso agriculture resilience and competitiveness project (p167945)	ORG	18
 the bank group	ORG	18
 tt	ORG	18
 trip	ORG	18
+section	ORG	18
 santa cruz	GPE	18
 smf	ORG	18
 sap	ORG	18
 rllp	ORG	18
 psge	ORG	18
+northern	LOC	18
+netherlands	GPE	18
 nepal	GPE	18
 national development plan	ORG	18
 national agricultural research and extension systems	ORG	18
@@ -482,7 +508,7 @@ concept note np modernization of rani	ORG	18
 awp	ORG	18
 the united republic of tanzania	GPE	17
 the ministry of environment	ORG	17
-vat	ORG	17
+the a loan	ORG	17
 the world bank lake chad region recovery and development project (p161706	ORG	17
 the ministry of agriculture	ORG	17
 summary-n ewfin1	ORG	17
@@ -492,8 +518,6 @@ resilient rain-fed	PERSON	17
 png	ORG	17
 pm_c	PERSON	17
 pcr	ORG	17
-northern	LOC	17
-netherlands	GPE	17
 ndc	ORG	17
 mad	ORG	17
 ldcf	ORG	17
@@ -502,6 +526,7 @@ integrated pest management	ORG	17
 ipf	ORG	17
 ifad cooperating	ORG	17
 icar	ORG	17
+goods, works and services	ORG	17
 email	ORG	17
 ecowas	ORG	17
 condiciones generales	PERSON	17
@@ -512,6 +537,8 @@ african development fund	ORG	17
 avcp	ORG	17
 apz	ORG	17
 the world bank group	ORG	16
+the program implementing agency	ORG	16
+unallocated	ORG	16
 the world bank yemen food security response and resilience project (p176129	ORG	16
 the world bank maharashtra project on climate resilient agriculture	ORG	16
 the world bank khyber pakhthunkhwa irrigated agriculture improvement project	ORG	16
@@ -522,6 +549,7 @@ rationale for bank	ORG	16
 population density	ORG	16
 para	PERSON	16
 pniasan	ORG	16
+pap	ORG	16
 pa	ORG	16
 p173104	ORG	16
 p165129	PERSON	16
@@ -548,20 +576,21 @@ annex b5	ORG	16
 abc	ORG	16
 the republic of liberia	GPE	15
 the ministry of agriculture and food security	ORG	15
-the loan agreement	ORG	15
 the environmental and social management plan	ORG	15
 the world bank transforming	ORG	15
 the world bank integrated management of agricultural risk	ORG	15
 the world bank afghanistan strategic grain reserve	ORG	15
 the world bank ap integrated irrigation& agriculture transformation project	ORG	15
+subprojects	ORG	15
 steering committee	ORG	15
+schedule	PERSON	15
 svg	ORG	15
 sc	ORG	15
 roc	GPE	15
 per capita	PERSON	15
 party	ORG	15
+pf	ORG	15
 pdpfa-gz	ORG	15
-pap	ORG	15
 p172562	GPE	15
 p166279	PERSON	15
 p166222	GPE	15
@@ -575,7 +604,6 @@ hdp	ORG	15
 france	GPE	15
 fara	ORG	15
 el salvador	GPE	15
-dli	ORG	15
 d. concept description	PERSON	15
 chin	PERSON	15
 cb	ORG	15
@@ -583,6 +611,7 @@ the ta program	ORG	14
 the environmental and social management framework	ORG	14
 the central bank	ORG	14
 al.	GPE	14
+wua	ORG	14
 united nations	ORG	14
 ua thousand	ORG	14
 the world bank women''s economic empowerment rural development project	ORG	14
@@ -592,15 +621,18 @@ the world bank digital solutions for sustainable development (p160418	ORG	14
 tambacounda	GPE	14
 tahoua	PERSON	14
 socio-economic development project	ORG	14
+social assessment	ORG	14
 social	ORG	14
 ssa	ORG	14
 resepag	ORG	14
 poyang lake	PERSON	14
+philippines	GPE	14
 observations value year	ORG	14
 ncb	ORG	14
 naip	ORG	14
 matam	GPE	14
 maman-sani	PERSON	14
+mof	ORG	14
 lpa	ORG	14
 inrm	GPE	14
 ilri	ORG	14
@@ -608,6 +640,7 @@ general conditions	ORG	14
 disb	GPE	14
 dem	ORG	14
 competitive agriculture project	ORG	14
+climate change	ORG	14
 child immunization against measles	ORG	14
 capita	ORG	14
 cta	ORG	14
@@ -631,23 +664,23 @@ max	PERSON	13
 kg	PERSON	13
 xdr	ORG	13
 world bank contact:	ORG	13
+works and services	ORG	13
 v. contact	PERSON	13
 tomato	PERSON	13
 the world bank integrated project for source sustainability	ORG	13
 the world bank groundnut competitiveness and agriculture diversification project	ORG	13
 tor	ORG	13
-social assessment	ORG	13
 sep	ORG	13
 rm	ORG	13
 results	ORG	13
 rcfi	ORG	13
 pest management	ORG	13
 ppd	ORG	13
-pf	ORG	13
 p175588	ORG	13
 p165873	ORG	13
 p164226	GPE	13
 p163980	PERSON	13
+operations	ORG	13
 otr	ORG	13
 norway	GPE	13
 national steering committee	ORG	13
@@ -656,7 +689,6 @@ ndp	ORG	13
 nars	ORG	13
 mid-term	ORG	13
 mru	ORG	13
-mof	ORG	13
 koulikoro	GPE	13
 kcsap	ORG	13
 ippf	ORG	13
@@ -665,13 +697,14 @@ govt	ORG	13
 goi	ORG	13
 gis	ORG	13
 gcf	ORG	13
-gap	ORG	13
 forest	ORG	13
+environmental	PERSON	13
 esia	ORG	13
 esc	ORG	13
 eop	ORG	13
 e&s	ORG	13
-climate change	ORG	13
+consulting services	ORG	13
+component 2	ORG	13
 cpmu	ORG	13
 barc	ORG	13
 africarice	ORG	13
@@ -680,6 +713,7 @@ aacp	ORG	13
 the united states	GPE	12
 the plurinational state of bolivia	ORG	12
 the pforr program	ORG	12
+the loan disbursement handbook	ORG	12
 the international fund for agricultural development	ORG	12
 zinder	PERSON	12
 zaghouan	GPE	12
@@ -691,13 +725,15 @@ the world bank guinea integrated agricultural development project	ORG	12
 the world bank congo commercial agriculture project (p159979	ORG	12
 the world bank 1818 h street	ORG	12
 the international fund for agricultural development	ORG	12
+table	ORG	12
 social management framework	ORG	12
 social inclusion	ORG	12
 sedhiou	PERSON	12
+schedule 4	ORG	12
 sau	ORG	12
 russia	GPE	12
 risks	PERSON	12
-rationale	PERSON	12
+rationale	ORG	12
 rpg	ORG	12
 rlrcp	ORG	12
 powerpoint	ORG	12
@@ -705,11 +741,12 @@ py6 ifad-piu	ORG	12
 pom	ORG	12
 pip	ORG	12
 pdar ii	ORG	12
-operations	ORG	12
 npsc	ORG	12
 mof	ORG	12
 moe	ORG	12
 maradi	ORG	12
+mandaluyong city	GPE	12
+maff	ORG	12
 maaif	GPE	12
 las	GPE	12
 la	GPE	12
@@ -719,18 +756,15 @@ international waterways op 7.50	ORG	12
 integrated pest management plan	ORG	12
 ip	ORG	12
 ikugh	ORG	12
-goods	ORG	12
 giz	ORG	12
-fonds	GPE	12
+fonds	ORG	12
 fdi	ORG	12
 f. environmental and	ORG	12
-environmental	PERSON	12
 ecuador	GPE	12
 eastern ukraine	ORG	12
 ddrr	GPE	12
 conditions precedent	ORG	12
 component ii	GPE	12
-component 2	ORG	12
 climate smart agriculture program	ORG	12
 central	LOC	12
 coraf	ORG	12
@@ -744,6 +778,8 @@ avacyep	ORG	12
 1.1.3	ORG	12
 the republic of sierra leone	GPE	11
 the republic of burundi	GPE	11
+the project provinces	LOC	11
+the project implementing agencies	ORG	11
 the project coordinator	ORG	11
 the ministry of agriculture (moa	ORG	11
 the central african republic	LOC	11
@@ -783,6 +819,7 @@ op/bp 4.04	ORG	11
 newcastle	GPE	11
 ntfp	ORG	11
 morocco digital	PERSON	11
+metro manila	PERSON	11
 mde	ORG	11
 mfppm	PERSON	11
 mard	ORG	11
@@ -805,19 +842,21 @@ contingency emergency response component	ORG	11
 concept note	PERSON	11
 cassava	ORG	11
 crda	ORG	11
+cdr	ORG	11
 cclip	ORG	11
 c. innovations	PERSON	11
 bélier region	GPE	11
 bouar	PERSON	11
 bmgf	ORG	11
 assessment & solution	ORG	11
+appendix 1	ORG	11
 agricultural land (as %	ORG	11
 action recovery and economic stimulus	ORG	11
 ata	ORG	11
 anapej	ORG	11
 adf loan	ORG	11
 a. programme	PERSON	11
-➢	GPE	10
+➢	ORG	10
 the togolese republic	GPE	10
 the special contractual conditions of the project summary of the loan proposal	ORG	10
 the ministry of economy and finance	ORG	10
@@ -826,14 +865,12 @@ the food and agriculture organization of the united nations	ORG	10
 the food and agriculture organization	ORG	10
 the financial terms and conditions	ORG	10
 the board of executive directors	ORG	10
-aux	ORG	10
+aux	GPE	10
 zanzibar	GPE	10
 world bank group	ORG	10
-wua	ORG	10
 wema	ORG	10
 value addition	ORG	10
 v. corporate	ORG	10
-unallocated	ORG	10
 the world bank productive alliances project	ORG	10
 the world bank policy on disclosure of information	ORG	10
 the world bank malawi resilient productive landscapes project	ORG	10
@@ -853,8 +890,9 @@ sazapip	PERSON	10
 results	PERSON	10
 reconnect, recover, revitalize	ORG	10
 pour	GPE	10
-pillar	ORG	10
+pillar	LOC	10
 pvs	ORG	10
+pmo	ORG	10
 pitag	ORG	10
 phcompliance	ORG	10
 ph	ORG	10
@@ -867,11 +905,13 @@ p170419	ORG	10
 omusati	PERSON	10
 outcome	ORG	10
 north africa	GPE	10
+national competitive bidding	ORG	10
 nrlm	ORG	10
 nrc	ORG	10
 nh_c	PERSON	10
 nap	ORG	10
 magway	LOC	10
+mowram	ORG	10
 mfnp	GPE	10
 mal	ORG	10
 lofa county	GPE	10
@@ -891,7 +931,7 @@ el prestatario/receptor	ORG	10
 doi	ORG	10
 district	LOC	10
 dev	PERSON	10
-dakar	PERSON	10
+dakar	GPE	10
 dws	ORG	10
 dfid	ORG	10
 central africa	LOC	10
@@ -904,9 +944,11 @@ bill	PERSON	10
 blk	ORG	10
 bcp-progeba	ORG	10
 bceao	ORG	10
+appendix 2	ORG	10
 annex 2	ORG	10
 agriculture financing instrument borrower(s)	ORG	10
 afdb/govt	ORG	10
+article iv particular covenants section	ORG	10
 admp	ORG	10
 aaac	ORG	10
 4.3.1	ORG	10
@@ -931,7 +973,6 @@ the world bank additional financing	ORG	9
 the project implementation unit	ORG	9
 the pforr program	ORG	9
 social management	ORG	9
-section	ORG	9
 sepa	ORG	9
 risks & mitigation monitoring matrix iv	ORG	9
 rb-cosop	ORG	9
@@ -963,7 +1004,6 @@ moldovan	PERSON	9
 moderate	ORG	9
 moaiwd	ORG	9
 mineagrie	ORG	9
-loan agreement	ORG	9
 land area	LOC	9
 labor force participation *- total	ORG	9
 karaman	GPE	9
@@ -987,6 +1027,8 @@ east	LOC	9
 esap	ORG	9
 eig	ORG	9
 ei (economic integration	ORG	9
+egdf	LOC	9
+ecop	ORG	9
 diversity	ORG	9
 directorate	ORG	9
 dz	ORG	9
@@ -996,6 +1038,7 @@ daf	ORG	9
 dae	ORG	9
 cost-effectiveness analysis	ORG	9
 corantijn canal	ORG	9
+cooperatives	ORG	9
 consultancy	ORG	9
 comments	ORG	9
 colombia	GPE	9
@@ -1026,6 +1069,7 @@ the parent project	ORG	8
 the national assembly	ORG	8
 the ministry of fisheries	ORG	8
 the loan service payment currency	ORG	8
+the kyrgyz republic	GPE	8
 the french development agency	ORG	8
 the feed africa strategy	ORG	8
 the eastern province	LOC	8
@@ -1056,19 +1100,19 @@ recruit	ORG	8
 ratio	PERSON	8
 rnd/cha	ORG	8
 projet	ORG	8
+project	ORG	8
 prior	ORG	8
 prevalence	ORG	8
 poverty	ORG	8
 pointe noire	GPE	8
 pillar 2	ORG	8
 psia	ORG	8
-pmu	ORG	8
-pfi	ORG	8
+pri	ORG	8
+pmu	LOC	8
 p164326	GPE	8
 outcome	ORG	8
 non-world bank group	ORG	8
 nicaragua	GPE	8
-national competitive bidding	ORG	8
 nanni spillway	ORG	8
 npcu	ORG	8
 nbs	ORG	8
@@ -1078,6 +1122,7 @@ monitoring	LOC	8
 maputo	GPE	8
 madagascar	GPE	8
 mwe	ORG	8
+mef	ORG	8
 loan number	ORG	8
 livelihoods project (	ORG	8
 libreville	GPE	8
@@ -1115,11 +1160,12 @@ energy	ORG	8
 eastern province	GPE	8
 europe	LOC	8
 essa	ORG	8
+ec	ORG	8
+eba	ORG	8
 dincap	ORG	8
 digeaf	ORG	8
 dda	ORG	8
 countries develo-	PERSON	8
-cooperatives	ORG	8
 company	ORG	8
 climate smart agriculture project	ORG	8
 central africa division tel	ORG	8
@@ -1127,7 +1173,6 @@ csa	ORG	8
 cic	ORG	8
 cenrat	ORG	8
 cemac	ORG	8
-cdr	ORG	8
 cdd	ORG	8
 ccc	ORG	8
 bugesera	LOC	8
@@ -1210,9 +1255,8 @@ rlf	ORG	7
 results chain performance indicators means of verification risks/	ORG	7
 provinces	ORG	7
 prodaf-diffa	PERSON	7
-phytosanitary	PERSON	7
+phytosanitary	ORG	7
 physical cultural resources	ORG	7
-pri	ORG	7
 ppcr	ORG	7
 poe	ORG	7
 pni	ORG	7
@@ -1243,11 +1287,12 @@ mdipmi	ORG	7
 mc	GPE	7
 maer	ORG	7
 maeapg	ORG	7
-luanda	PERSON	7
+luanda	GPE	7
 longido	GPE	7
 lomé	ORG	7
 le projet	ORG	7
 law	PERSON	7
+land acquisition	ORG	7
 labour	ORG	7
 lvb	ORG	7
 latin america	LOC	7
@@ -1256,9 +1301,11 @@ km	PERSON	7
 kinshasa	ORG	7
 kasaï	PERSON	7
 kamuli	GPE	7
+kampong thom	GPE	7
 jonglei	PERSON	7
 jiangxi	GPE	7
-involuntary resettlement	PERSON	7
+japan international cooperation agency	ORG	7
+involuntary resettlement	ORG	7
 implementing agency	ORG	7
 implementation institutional and implementation arrangements	ORG	7
 iscl	ORG	7
@@ -1272,6 +1319,7 @@ hct	ORG	7
 gulu	PERSON	7
 grant amount allocated	PERSON	7
 grace	ORG	7
+goods, works and consulting services	ORG	7
 gos	GPE	7
 goap	PERSON	7
 ghana statistical service	ORG	7
@@ -1285,11 +1333,11 @@ environmental assessment	ORG	7
 el programa	ORG	7
 efecto	ORG	7
 enable	GPE	7
-ec	ORG	7
 east asia	LOC	7
 eaj	ORG	7
 e. project	ORG	7
 e. implementation institutional and implementation arrangements	ORG	7
+disbursement procedures 5	PERSON	7
 diourbel	GPE	7
 dina umali-deininger	PERSON	7
 dependency ratio	PERSON	7
@@ -1303,7 +1351,6 @@ coastal	ORG	7
 cibitoke	PERSON	7
 chato	GPE	7
 chairperson	PERSON	7
-category	ORG	7
 cosop	ORG	7
 codex	ORG	7
 cnca	ORG	7
@@ -1311,6 +1358,7 @@ cgiar centers	ORG	7
 cfp	ORG	7
 cdb	ORG	7
 capi	ORG	7
+cam	ORG	7
 borrower/client/recipient	ORG	7
 boffa	PERSON	7
 beneficiary	GPE	7
@@ -1321,6 +1369,7 @@ bank portfolio	ORG	7
 banco	ORG	7
 beeei	ORG	7
 audit	ORG	7
+asian development bank	ORG	7
 anuradhapura	PERSON	7
 annex b7	ORG	7
 andhra pradesh	PERSON	7
@@ -1347,6 +1396,7 @@ the republic of guinea	GPE	6
 the republic of el salvador	GPE	6
 the qaraoun lake	LOC	6
 the project team leader	ORG	6
+the project implementing agency	ORG	6
 the program steering committee	ORG	6
 the program operating manual (pom	ORG	6
 the national steering committee	ORG	6
@@ -1361,6 +1411,7 @@ the indian ocean	LOC	6
 the implementing agency	ORG	6
 the implementing agencies	ORG	6
 the horn of africa	LOC	6
+the grant agreement	ORG	6
 the government of tanzania	ORG	6
 the government of sierra leone	ORG	6
 the government of mozambique	ORG	6
@@ -1405,8 +1456,8 @@ tasi	ORG	6
 ta program	ORG	6
 sustainable development	ORG	6
 surinam canal	ORG	6
-subproject	ORG	6
 strategic thrust	ORG	6
+special funds	ORG	6
 special agro-industrial processing zones	ORG	6
 spain	GPE	6
 songhai	GPE	6
@@ -1417,6 +1468,7 @@ syscohada	ORG	6
 slc	ORG	6
 sip	ORG	6
 siaf	ORG	6
+sf	GPE	6
 scu	ORG	6
 sadc	ORG	6
 sada	ORG	6
@@ -1431,6 +1483,7 @@ rationale	ORG	6
 préstamo	LOC	6
 programme activities	ORG	6
 prepare	ORG	6
+policy dialogue	PERSON	6
 pillar ii	LOC	6
 peop	ORG	6
 prsp	ORG	6
@@ -1470,13 +1523,14 @@ mexico	GPE	6
 mendoza	PERSON	6
 mbale	GPE	6
 mua	ORG	6
+mrd	ORG	6
+moali	ORG	6
 mm 7.5	GPE	6
 mineco	ORG	6
 minagrie	ORG	6
 mhg	ORG	6
 mgp	ORG	6
 memarts	ORG	6
-mef	ORG	6
 mafs	ORG	6
 louga	GPE	6
 logical framework	ORG	6
@@ -1495,11 +1549,10 @@ karatu	GPE	6
 kk	ORG	6
 kcs	ORG	6
 justice	ORG	6
-japan international cooperation agency	ORG	6
 jcf	ORG	6
 ivory coast	GPE	6
 italie	GPE	6
-international waterways	ORG	6
+international waterways	LOC	6
 international fund for agricultural development	ORG	6
 institutional	ORG	6
 information system	ORG	6
@@ -1509,6 +1562,7 @@ igf	ORG	6
 iga	ORG	6
 ifmis	ORG	6
 icas	ORG	6
+ibp	ORG	6
 human development report	ORG	6
 health (as %	ORG	6
 habitats op/	PERSON	6
@@ -1530,6 +1584,8 @@ fcpsg	PERSON	6
 farmod	ORG	6
 fao food and agriculture organization	ORG	6
 exp	ORG	6
+euros	PERSON	6
+esms	ORG	6
 esmp environmental	ORG	6
 esm	ORG	6
 esia/esmp	ORG	6
@@ -1555,7 +1611,6 @@ csd/ccs	ORG	6
 coajoq	ORG	6
 ccap	ORG	6
 cap	ORG	6
-cam	ORG	6
 caadp	ORG	6
 c. key	PERSON	6
 bubanza	GPE	6
@@ -1603,7 +1658,6 @@ the republic of turkey	GPE	5
 the republic of south sudan	GPE	5
 the regional technology delivery infrastructure	ORG	5
 the project to support development	ORG	5
-the project executing agency	ORG	5
 the permanent secretariat	ORG	5
 the people’s republic of bangladesh	GPE	5
 the nickerie river	LOC	5
@@ -1618,6 +1672,7 @@ the ministry of agriculture and agricultural entrepreneurship	ORG	5
 the ministry	ORG	5
 the matching grants program	ORG	5
 the lending policies	ORG	5
+the kamping pouy subproject	ORG	5
 the japan international cooperation agency	ORG	5
 the islamic republic of mauritania	GPE	5
 the islamic development bank	ORG	5
@@ -1625,11 +1680,13 @@ the international finance corporation	ORG	5
 the international center for tropical agriculture	ORG	5
 the internal audit unit	ORG	5
 the implementing partners	ORG	5
+the disaster risk management component of the project	ORG	5
 the department of fisheries	ORG	5
 the department of agriculture	ORG	5
 the debt sustainability framework	ORG	5
 the country strategy	ORG	5
 the cooperative republic of guyana	GPE	5
+the consulting services	ORG	5
 the congo basin	LOC	5
 the central african government	ORG	5
 the bugesera natural region	LOC	5
@@ -1692,7 +1749,8 @@ sndd	ORG	5
 slwm	ORG	5
 sisa	ORG	5
 sigeseva	ORG	5
-sf	GPE	5
+sdwssss	ORG	5
+sdap	ORG	5
 sadcp	ORG	5
 sacep	ORG	5
 rural development program ii	ORG	5
@@ -1704,19 +1762,18 @@ radoniqi	ORG	5
 rsf	GPE	5
 rpba	ORG	5
 rfp	PERSON	5
-rf	ORG	5
 results chain performance indicators means	ORG	5
 rdb	ORG	5
 rcb	ORG	5
 rb	ORG	5
 que	ORG	5
 project management team	ORG	5
+project implementing agency	ORG	5
 project implementation manual	ORG	5
 project completion report	ORG	5
 productive alliance	ORG	5
 primary school female teaching staff	ORG	5
 portugal	GPE	5
-policy dialogue	PERSON	5
 plateaux	PERSON	5
 percent	ORG	5
 parakou	GPE	5
@@ -1730,9 +1787,9 @@ pod	ORG	5
 po	ORG	5
 pnisa	ORG	5
 pmu m&e	ORG	5
-pmo	ORG	5
 pio	ORG	5
 pidd	ORG	5
+pfls	ORG	5
 pdu	ORG	5
 pda	ORG	5
 pcu	ORG	5
@@ -1820,6 +1877,7 @@ institutional strengthening and capacity building	ORG	5
 industrialise africa	GPE	5
 iwumd	ORG	5
 iwm	ORG	5
+iso	ORG	5
 isabu	ORG	5
 irm	ORG	5
 iram	ORG	5
@@ -1833,6 +1891,7 @@ human dev	PERSON	5
 heis	ORG	5
 guarantee fund	ORG	5
 green climate fund	ORG	5
+grant	PERSON	5
 gonzalo muñoz	PERSON	5
 glazoué	GPE	5
 gilbert f. houngbo président	PERSON	5
@@ -1841,6 +1900,7 @@ georgetown	GPE	5
 gender equality yes labor environment	PERSON	5
 garry charlier	PERSON	5
 grs	ORG	5
+gesiap	ORG	5
 geep	ORG	5
 gd cc	ORG	5
 freetown	ORG	5
@@ -1907,6 +1967,7 @@ beneficiaries 2.5.1	ORG	5
 belize	GPE	5
 belgium	GPE	5
 batticaloa	PERSON	5
+battambang	GPE	5
 banzon	ORG	5
 bank procurement methods and procedures	ORG	5
 bt	GPE	5
@@ -1929,6 +1990,8 @@ accounting and reporting	ORG	5
 awf	ORG	5
 asrr	ORG	5
 artci	ORG	5
+aris	ORG	5
+apb asian development bank	ORG	5
 annex iii	ORG	5
 annex	ORG	5
 aif-2	ORG	5
@@ -1949,6 +2012,7 @@ vi results	PERSON	4
 titre du don	PERSON	4
 the ‘ict environment	ORG	4
 the yangtze river	LOC	4
+the world health organization	ORG	4
 the value chain development programme	ORG	4
 the united nations development programme	ORG	4
 the urc/prosap	ORG	4
@@ -1961,6 +2025,7 @@ the rural development bureau	ORG	4
 the republic of the union of myanmar	GPE	4
 the republic of ghana	GPE	4
 the project coordination team	ORG	4
+the program executing agency	ORG	4
 the procurement framework for bank group	ORG	4
 the poyang lake	LOC	4
 the pad stage isds	ORG	4
@@ -1985,7 +2050,7 @@ the ministry of agriculture, irrigation and water development	ORG	4
 the ministry of agriculture, animal industry and fisheries	ORG	4
 the ministry of agriculture and water management	ORG	4
 the lead project agency	ORG	4
-the kyrgyz republic	GPE	4
+the japan fund for poverty reduction	ORG	4
 the ivorian government	ORG	4
 the intergovernmental panel on climate change	ORG	4
 the india country partnership strategy	ORG	4
@@ -2012,6 +2077,7 @@ the environmental protection agency	ORG	4
 the economic and social development plan	ORG	4
 the department of livestock services	ORG	4
 the country strategy paper	ORG	4
+the consulting guidelines	ORG	4
 the consultant guidelines	ORG	4
 the competitiveness of agricultural value chains	ORG	4
 the commodity technology delivery compact	ORG	4
@@ -2057,8 +2123,11 @@ zambézia	GPE	4
 zambezi	ORG	4
 ziflp	ORG	4
 yamoussoukro district	LOC	4
+xiangkhouang	GPE	4
 world bank borrowers	ORG	4
 world bank (wb	ORG	4
+works, nonconsulting and consulting services	ORG	4
+works and consulting services	ORG	4
 woreda	GPE	4
 water users associations	ORG	4
 water users	ORG	4
@@ -2076,6 +2145,7 @@ v. legal framework 5.1	ORG	4
 v. agreements	PERSON	4
 united nations development programme	ORG	4
 unguja	GPE	4
+uxo	ORG	4
 ur-l1147	ORG	4
 unido	ORG	4
 ufcp	ORG	4
@@ -2114,6 +2184,7 @@ suriname	GPE	4
 strategic environmental	ORG	4
 state agricultural universities	ORG	4
 springer nature switzerland ag	ORG	4
+special operations	ORG	4
 south-south	LOC	4
 south-east	LOC	4
 source amount	ORG	4
@@ -2170,6 +2241,7 @@ rnd/car	ORG	4
 rlacc	ORG	4
 rf 7.5	ORG	4
 requirements for procurement execution	ORG	4
+remdf	PERSON	4
 rb-cosop 1 ii	ORG	4
 pul-e-khumri	GPE	4
 project coordination and management	ORG	4
@@ -2277,13 +2349,13 @@ mzn	ORG	4
 mpmd	ORG	4
 mpi	ORG	4
 mpa	ORG	4
+mofali	ORG	4
 mics	ORG	4
 mdpac	ORG	4
 mca	ORG	4
 marn	ORG	4
 maiea	ORG	4
 mafrd	ORG	4
-maff	ORG	4
 maah	ORG	4
 ma	ORG	4
 m. fregene	PERSON	4
@@ -2300,6 +2372,7 @@ lake basin	LOC	4
 lrad	ORG	4
 lra	ORG	4
 lisgis	ORG	4
+larf	GPE	4
 l''emprunteur	GPE	4
 kétou	GPE	4
 kédougou	GPE	4
@@ -2318,8 +2391,10 @@ ka	GPE	4
 juvenal nzambimana	PERSON	4
 jules cesaire yaganza	PERSON	4
 jiangxi province	GPE	4
+jfpr grant agreement	ORG	4
 italie appendix	GPE	4
 iowa	GPE	4
+involuntary resettlement safeguards	ORG	4
 international monetary fund	ORG	4
 international food policy research institute	ORG	4
 international financial statistics	ORG	4
@@ -2334,7 +2409,6 @@ implementation progress	ORG	4
 il sera	PERSON	4
 iganga	GPE	4
 ita	ORG	4
-iso	ORG	4
 iscl osure_ta ble pest management plan	ORG	4
 ipsas	ORG	4
 ipnm	ORG	4
@@ -2347,11 +2421,13 @@ ifad’s board	ORG	4
 ida-h7410	ORG	4
 iclt	ORG	4
 hydro	PERSON	4
+houaphan	GPE	4
 horn of africa	LOC	4
 high-5	ORG	4
 harari	ORG	4
 haitian	GPE	4
 hva	ORG	4
+hltf	ORG	4
 hhs	ORG	4
 ha-l1107/	ORG	4
 ha intake	PERSON	4
@@ -2370,6 +2446,7 @@ goh	ORG	4
 gob	ORG	4
 gharb	GPE	4
 general state policies	ORG	4
+gsws	ORG	4
 gibader	ORG	4
 gdi	ORG	4
 gaap	ORG	4
@@ -2387,7 +2464,6 @@ fies	ORG	4
 ffs	ORG	4
 fapa	ORG	4
 famv	ORG	4
-euros	PERSON	4
 eritrea	GPE	4
 equipment & materials	ORG	4
 environmental and social management plan	ORG	4
@@ -2401,6 +2477,7 @@ esim	ORG	4
 epp	ORG	4
 elcsa	PERSON	4
 eif	ORG	4
+egdp	ORG	4
 eg	ORG	4
 ebs	ORG	4
 eaeu	ORG	4
@@ -2409,6 +2486,7 @@ dosso	PERSON	4
 donga	PERSON	4
 djougou	GPE	4
 district population %	ORG	4
+disbursement procedures 4	PERSON	4
 disbursement letter	ORG	4
 digital	ORG	4
 deux	ORG	4
@@ -2524,6 +2602,7 @@ agex	ORG	4
 ageroute	ORG	4
 ael	ORG	4
 adf grant	ORG	4
+adb asian development bank	ORG	4
 ac	ORG	4
 abbreviations	ORG	4
 6 final	ORG	4
@@ -2547,7 +2626,6 @@ titre du prêt	PERSON	3
 titre du don	PERSON	3
 titre du	PERSON	3
 the “procurement policy for bank group funded operations”	ORG	3
-the world health organization	ORG	3
 the western balkans	LOC	3
 the water users associations	ORG	3
 the water efficient maize for africa	ORG	3
@@ -2566,11 +2644,13 @@ the technologies for african agricultural transformation	ORG	3
 the technical annexes (volume ii	ORG	3
 the syrian arab republic	LOC	3
 the support to agricultural development	ORG	3
+the stung chinit south subproject	ORG	3
 the state of maharashtra	ORG	3
 the state of burkina faso	ORG	3
 the state plant quarantine inspection	ORG	3
 the state government	ORG	3
 the standard request for proposals	ORG	3
+the standard operating procedures	ORG	3
 the southern agricultural growth corridor	ORG	3
 the southern african development community	ORG	3
 the south-east	LOC	3
@@ -2598,6 +2678,8 @@ the regional social development unit	ORG	3
 the public expenditure and financial accountability	LOC	3
 the project report	ORG	3
 the project preparation fund	ORG	3
+the project	ORG	3
+the program completion date	ORG	3
 the procurement policy for bank group funded operations	ORG	3
 the procurement department	ORG	3
 the private investment promotion agency	ORG	3
@@ -2606,6 +2688,7 @@ the paris agreement	ORG	3
 the pacific islands	LOC	3
 the pacific division tel	ORG	3
 the organization for economic co-operation and development	ORG	3
+the ordinary operations (concessional) loan agreement	ORG	3
 the ordinary capital project	ORG	3
 the operations manual	ORG	3
 the office of the deputy	ORG	3
@@ -2622,10 +2705,13 @@ the national energy efficiency strategy	ORG	3
 the national directorate of agriculture and silviculture	ORG	3
 the national development plan 2030	ORG	3
 the national chamber of agriculture	ORG	3
+the national bank of cambodia	ORG	3
 the national agricultural technology programme	ORG	3
 the national agricultural investment plan	ORG	3
 the multi-sectoral nutrition action plan	ORG	3
+the ministry of water resources	ORG	3
 the ministry of rural and land development (mdryt	ORG	3
+the ministry of natural resources and environmental conservation	ORG	3
 the ministry of national policies and economic affairs	ORG	3
 the ministry of national development planning	ORG	3
 the ministry of livestock	ORG	3
@@ -2644,6 +2730,7 @@ the lebanese republic for harmonized actions	GPE	3
 the lebanese republic	GPE	3
 the land bank	ORG	3
 the lake chad basin commission	ORG	3
+the kingdom of the netherlands	GPE	3
 the kingdom of morocco	GPE	3
 the karnali river	LOC	3
 the irrigation and water utilization management department	ORG	3
@@ -2657,11 +2744,11 @@ the international bank for reconstruction and development	ORG	3
 the integrated safeguards system	ORG	3
 the integrated public finance management system	ORG	3
 the integrated food security phase classification	ORG	3
+the initial project	ORG	3
 the higher council for environment and natural resources	ORG	3
 the heavily indebted poor countries	ORG	3
 the guyana bureau of statistics	ORG	3
 the guangxi consolidated poverty reduction program	ORG	3
-the grant agreement	ORG	3
 the government of togo	ORG	3
 the government of haiti	ORG	3
 the government of guinea	ORG	3
@@ -2709,11 +2796,13 @@ the bank''s fund for special operations	ORG	3
 the bank''s disbursement manual	ORG	3
 the bank''s board of directors	ORG	3
 the bank for the project	ORG	3
+the b loan	ORG	3
 the agriculture sector working group	ORG	3
 the agricultural and rural development project	ORG	3
 the agricultural services program	ORG	3
 the agricultural sector	LOC	3
 the african union’s	ORG	3
+the a loan b loan	ORG	3
 suspendu	GPE	3
 semestre dans la monnaie de paiement	PERSON	3
 que l’emprunteur/bénéficiaire	ORG	3
@@ -2773,12 +2862,13 @@ worldfish	ORG	3
 world trade organization	ORG	3
 world health organization	ORG	3
 world bank document combined project information	ORG	3
-works	ORG	3
+works, goods	ORG	3
 west kordofan	GPE	3
 watershed management	ORG	3
 water & sanitation	ORG	3
 washington, dc	GPE	3
 wrm	ORG	3
+wmo	ORG	3
 wef	ORG	3
 wdi	ORG	3
 wb world bank	ORG	3
@@ -2787,6 +2877,7 @@ vulnerability	ORG	3
 vol	PERSON	3
 vision 2040	LOC	3
 value	GPE	3
+vtdsc	ORG	3
 value chain development	ORG	3
 v. salaires	PERSON	3
 v. legal framework	ORG	3
@@ -2885,12 +2976,15 @@ senegal af rica	PERSON	3
 senate	ORG	3
 semi-arid lands	ORG	3
 seed expert	PERSON	3
+schedule 1	ORG	3
 savè	GPE	3
 saudi fund	ORG	3
+sangkat wat	PERSON	3
 san miguel	GPE	3
 saint-louis	GPE	3
 saint vincent	GPE	3
 sagaing	GPE	3
+safeguards monitoring reports	ORG	3
 safeguard policy filter	PERSON	3
 safeguard assessment and plan	ORG	3
 swio	GPE	3
@@ -2975,12 +3069,11 @@ podgorica	GPE	3
 plateau	PERSON	3
 pierre frank laporte	PERSON	3
 physical cultural resources op/bp	ORG	3
-philippines	GPE	3
 paraguay project	ORG	3
 papua new guinea	GPE	3
 panama	GPE	3
 pzta	ORG	3
-py	ORG	3
+py	PERSON	3
 psta 4 priority area 4	ORG	3
 psas	ORG	3
 prsf	ORG	3
@@ -3009,6 +3102,7 @@ parfaci	ORG	3
 parede	ORG	3
 pana	ORG	3
 paiva	ORG	3
+pafo	ORG	3
 pafej	ORG	3
 padl diffa	PERSON	3
 padec	ORG	3
@@ -3096,6 +3190,7 @@ ministry of humanitarian affairs	ORG	3
 ministry of forestry and water management	ORG	3
 ministry of fisheries	ORG	3
 ministry of finance contact	ORG	3
+ministry of agriculture, forestry and fisheries	ORG	3
 ministry of agriculture and livestock	ORG	3
 ministry of agriculture and food security	ORG	3
 ministry of agriculture contact	ORG	3
@@ -3147,6 +3242,7 @@ mdpu	ORG	3
 mdd	ORG	3
 mcs	ORG	3
 marndr/mde	ORG	3
+map	ORG	3
 malgp	ORG	3
 mafwm	PERSON	3
 luribay	GPE	3
@@ -3159,6 +3255,8 @@ legal operational policies triggered	ORG	3
 lake victoria basin commission	ORG	3
 la rioja	PERSON	3
 lur	ORG	3
+loan agreement	ORG	3
+loan	ORG	3
 lndc	ORG	3
 lmp	ORG	3
 lga	ORG	3
@@ -3190,6 +3288,7 @@ juan de dios mattos	PERSON	3
 jennifer doherty-bigara	PERSON	3
 javier jiménez	PERSON	3
 japanese international cooperation agency	ORG	3
+jfpr	GPE	3
 islamic development bank	ORG	3
 iringa rural itunundu	GPE	3
 irina i. klytchnikova	PERSON	3
@@ -3205,6 +3304,7 @@ increase	ORG	3
 improve and expand animal health services	ORG	3
 iuu	ORG	3
 isp	ORG	3
+islamic republic of pakistan	ORG	3
 introduction	ORG	3
 international development association	ORG	3
 institutional strengthening	ORG	3
@@ -3223,6 +3323,7 @@ ia	ORG	3
 i.1	ORG	3
 hon	ORG	3
 healthy life	PERSON	3
+health and safety 13	ORG	3
 health & nutrition indicators phy	ORG	3
 hardap mariental	ORG	3
 haouz	GPE	3
@@ -3236,10 +3337,10 @@ gueskérou	ORG	3
 groundnuts	PERSON	3
 grant facility	PERSON	3
 grant agreement	PERSON	3
-grant	PERSON	3
 grande-anse	ORG	3
 government of india	ORG	3
 goudoumaria	PERSON	3
+goods, works	ORG	3
 goods, services & inputs	ORG	3
 godavari	PERSON	3
 gotg	ORG	3
@@ -3284,6 +3385,7 @@ favrelière	ORG	3
 family farming development programme	ORG	3
 fall armyworm	ORG	3
 fadama	PERSON	3
+fwucs	ORG	3
 fsrp	ORG	3
 fonap	ORG	3
 fns	ORG	3
@@ -3319,7 +3421,6 @@ eastern equatoria	ORG	3
 eastern black sea river basin protection action plan	LOC	3
 east asia	LOC	3
 ess	ORG	3
-esms	ORG	3
 esmr environmental	ORG	3
 esf	ORG	3
 escps	PERSON	3
@@ -3330,7 +3431,6 @@ empoderar	ORG	3
 eib	ORG	3
 egdpo	ORG	3
 ees	ORG	3
-eba	ORG	3
 eac	ORG	3
 e. poverty	PERSON	3
 e. initial environmental	ORG	3
@@ -3339,11 +3439,13 @@ doukkala	GPE	3
 dosso-tillaberi	PERSON	3
 donors	ORG	3
 donbas	GPE	3
+dollar	GPE	3
 dogbo	GPE	3
 dire dawa	PERSON	3
 dfid	LOC	3
 development data portal database	ORG	3
 des moines	GPE	3
+department of environment	ORG	3
 demography	ORG	3
 decree n	ORG	3
 debt sustainability framework	ORG	3
@@ -3351,6 +3453,7 @@ darfur	GPE	3
 damais	GPE	3
 dsf	ORG	3
 dscse	ORG	3
+drrf grant	ORG	3
 drm	ORG	3
 dpv	ORG	3
 dpn-medd	ORG	3
@@ -3358,6 +3461,7 @@ dpmi	ORG	3
 dpc	ORG	3
 dpbd	ORG	3
 dp	ORG	3
+dlls	ORG	3
 dls actual	ORG	3
 dgpv	ORG	3
 dgpae	ORG	3
@@ -3366,6 +3470,7 @@ dess	ORG	3
 dep	ORG	3
 defr	ORG	3
 deelcpn	GPE	3
+de	ORG	3
 ddfca	ORG	3
 dbn	ORG	3
 dapees	ORG	3
@@ -3374,6 +3479,7 @@ da	GPE	3
 d. sustainability 32	ORG	3
 d. concept description a.	PERSON	3
 cuvette	PERSON	3
+credit guarantee	ORG	3
 covè	PERSON	3
 country strategy paper	ORG	3
 counties	GPE	3
@@ -3386,6 +3492,7 @@ cooperative	ORG	3
 cooperating	GPE	3
 conventions	ORG	3
 continuousl y pmu m&e	ORG	3
+consulting services and nonconsulting services	ORG	3
 congo power pesd	ORG	3
 conditions precedent to entry into force	ORG	3
 conditions precedent to	ORG	3
@@ -3486,6 +3593,7 @@ athiémé	GPE	3
 atacora	PERSON	3
 arid	ORG	3
 appendix i	PERSON	3
+appendix 3	ORG	3
 app	ORG	3
 anupam joshi	PERSON	3
 annuelle	GPE	3
@@ -3534,6 +3642,7 @@ amee	ORG	3
 amd	ORG	3
 alsf	ORG	3
 alis	ORG	3
+aif eligible activity	PERSON	3
 aguipe	ORG	3
 agra	ORG	3
 agpi	ORG	3
@@ -3543,9 +3652,11 @@ af-1	ORG	3
 adic-nafaia	ORG	3
 adazz	ORG	3
 ad2m-ii	PERSON	3
+acd	ORG	3
 abe	ORG	3
 aar	GPE	3
 a.1	ORG	3
+a loan	ORG	3
 99.9 primary school female teaching staff	ORG	3
 857,4 births	ORG	3
 6,8 total fertility rate	ORG	3
@@ -3554,6 +3665,7 @@ a.1	ORG	3
 5,3	ORG	3
 4.5.4	ORG	3
 4,2	ORG	3
+4 consulting services	ORG	3
 3.2.3 climate	ORG	3
 3.1.4 economic analysis	ORG	3
 2573/oc-ar	ORG	3
@@ -3636,6 +3748,7 @@ the strategy for economic recovery of the agriculture sector	ORG	2
 the state social registry	ORG	2
 the state rural livelihoods missions	ORG	2
 the state fund	ORG	2
+the special operations loan regulations of adb	ORG	2
 the special agro-industrial processing zones development programme	ORG	2
 the special agro-industrial processing zone	ORG	2
 the sovereign fund for strategic investments	ORG	2
@@ -3683,6 +3796,7 @@ the regional development board	ORG	2
 the regional climate resilience investment plan	ORG	2
 the real property rights registry	ORG	2
 the provincial councils	ORG	2
+the province of balochistan	GPE	2
 the proposal for operation development	ORG	2
 the promotion of youth entrepreneurship	ORG	2
 the project paper	ORG	2
@@ -3692,11 +3806,12 @@ the project implementation units	ORG	2
 the project identification	ORG	2
 the project development objective	ORG	2
 the project completion report	ORG	2
-the project	ORG	2
+the project agreement	ORG	2
 the programme management unit	ORG	2
 the program to establish a partial credit guarantee fund for enterprise development	ORG	2
 the program management unit	ORG	2
 the program execution unit	ORG	2
+the program executing agency and program implementing agency	ORG	2
 the productive partnerships	ORG	2
 the procurement policy for bank group-financed operations	ORG	2
 the procurement policy for bank group	ORG	2
@@ -3708,6 +3823,7 @@ the portugal trust fund	ORG	2
 the plurinational state of bolivia rural land regularization and titling program	ORG	2
 the plurinational state of bolivia agricultural health and food safety program ii	ORG	2
 the physical cultural resources	ORG	2
+the people’s republic of bangladesh sher-e-bangla	GPE	2
 the pacific risk resilience programme	ORG	2
 the pdcv-riz	ORG	2
 the ordu province	GPE	2
@@ -3781,15 +3897,15 @@ the namibia agricultural mechanisation	ORG	2
 the municipio of el torno	ORG	2
 the multilateral development banks	ORG	2
 the moroccan government	ORG	2
-the mo ibrahim index	ORG	2
+the mo ibrahim index	LOC	2
 the ministry of the presidency	ORG	2
 the ministry of agriculture	ORG	2
 the ministry of youth	ORG	2
-the ministry of water resources	ORG	2
 the ministry of sustainable development, economy, investment promotion	ORG	2
 the ministry of social affairs	ORG	2
 the ministry of rural rehabilitation and development	ORG	2
 the ministry of planning and investment	ORG	2
+the ministry of local government	ORG	2
 the ministry of internal affairs	ORG	2
 the ministry of interior	ORG	2
 the ministry of food, agriculture and livestock	ORG	2
@@ -3797,6 +3913,7 @@ the ministry of food and agriculture	ORG	2
 the ministry of fisheries and agriculture	ORG	2
 the ministry of finance''s	ORG	2
 the ministry of environment and fisheries	ORG	2
+the ministry of emergency situations	ORG	2
 the ministry of education	ORG	2
 the ministry of development, investment and international cooperation	ORG	2
 the ministry of agriculture, water and forestry	ORG	2
@@ -3822,6 +3939,7 @@ the maharashtra state adaptation action plan on climate change	ORG	2
 the marndr innovation directorate	ORG	2
 the lower shire valley	LOC	2
 the local government sector strategic plan	ORG	2
+the loan agreements	ORG	2
 the litani river authority	ORG	2
 the letter of agreement	ORG	2
 the land tenure security program	ORG	2
@@ -3830,12 +3948,13 @@ the lake chad region project	LOC	2
 the lake balaton	GPE	2
 the labor-intensive public works	ORG	2
 the labor intensive public works	ORG	2
-the kingdom of the netherlands	GPE	2
+the larp for the subproject	ORG	2
 the kenya agricultural productivity and agribusiness project	ORG	2
 the jobs & competitiveness pforr	ORG	2
 the island councils	ORG	2
 the involuntary resettlement policy	ORG	2
 the investment fund	ORG	2
+the international rice research institute	ORG	2
 the international public sector accounting standards	ORG	2
 the international labor organization	ORG	2
 the international labor office	ORG	2
@@ -3851,6 +3970,7 @@ the integrated financial administration system	ORG	2
 the integrated accounting subsystem	ORG	2
 the innovation directory	ORG	2
 the innovation directorate of the marndr	ORG	2
+the indigenous peoples safeguards	ORG	2
 the indigenous people policy framework	ORG	2
 the indian ocean tuna commission	ORG	2
 the indian ocean region	LOC	2
@@ -3864,11 +3984,13 @@ the idb group	ORG	2
 the hydrological cycle	ORG	2
 the human development index	ORG	2
 the human capital strategy	ORG	2
+the high-level technology fund	ORG	2
 the high authority for quality and technical quality structures	ORG	2
 the haitian central bank	ORG	2
 the gulf of guinea	LOC	2
 the guinean institute for agricultural research (irag	ORG	2
 the guide for the preparation of financial statements and external audits	ORG	2
+the grant agreements	LOC	2
 the grant 100%	ORG	2
 the government of the republic of cote d’ivoire	ORG	2
 the government of the lao people’s democratic republic	ORG	2
@@ -3917,6 +4039,7 @@ the environmental and social manual	ORG	2
 the environmental program of	ORG	2
 the environmental category b	ORG	2
 the embassy of france	ORG	2
+the eligible activity	ORG	2
 the economy and finance	ORG	2
 the eastern republic of uruguay	GPE	2
 the eastern province of zambia	GPE	2
@@ -3964,12 +4087,16 @@ the central bank of sri lanka	ORG	2
 the central bank of lebanon	ORG	2
 the central bank of haiti	ORG	2
 the central bank of burundi	ORG	2
+the cao bang province	LOC	2
+the col loan agreement	ORG	2
 the car government	ORG	2
 the car agricultural transformation strategy	ORG	2
 the c-house	ORG	2
 the business producer associations	ORG	2
 the bureau of administration and finance	ORG	2
 the bounkani region (district of bouna	LOC	2
+the borrower’s ministry of finance	ORG	2
+the borrower economic relations division ministry of finance government	ORG	2
 the benué valley	LOC	2
 the benue river valley	LOC	2
 the bank’s technologies for african agricultural transformation (taat) programme	ORG	2
@@ -3988,6 +4115,8 @@ the bank of ghana (bog	ORG	2
 the bank and fund	ORG	2
 the bank board of directors	ORG	2
 the bank 11-nov-2016 date	ORG	2
+the bangladesh water development board	ORG	2
+the bac kan province	GPE	2
 the autonomous district of yamoussoukro	GPE	2
 the asian development bank	ORG	2
 the artibonite basin	LOC	2
@@ -4122,6 +4251,7 @@ haya determinado que	PERSON	2
 han mejorado	ORG	2
 géré selon	PERSON	2
 grupo etario	PERSON	2
+gram	PERSON	2
 gb_office@ifad.org executive board	ORG	2
 gb@ifad.org	LOC	2
 financé par	PERSON	2
@@ -4231,6 +4361,7 @@ zè	GPE	2
 zogbodomè	GPE	2
 zimbabwe	GPE	2
 zilberman	PERSON	2
+zhob	PERSON	2
 zambezia	GPE	2
 zambezi katima	PERSON	2
 zakpota	GPE	2
@@ -4248,7 +4379,10 @@ yobe states	GPE	2
 yangon	GPE	2
 yacob wondimkun endaylalu	PERSON	2
 y/n)	ORG	2
+xiangkhouang province	GPE	2
 xayabury province	GPE	2
+xaignabouli province	GPE	2
+xaignabouli	GPE	2
 xxii	ORG	2
 xxi	ORG	2
 xof	ORG	2
@@ -4263,7 +4397,8 @@ world bank lending	ORG	2
 world bank group financing international development association	ORG	2
 world bank data	ORG	2
 world bank 2014	ORG	2
-works, goods	ORG	2
+works, goods and/or consulting services	ORG	2
+works or nonconsulting services	ORG	2
 woredas	PERSON	2
 wheat	PERSON	2
 west centre	GPE	2
@@ -4280,6 +4415,7 @@ water basins management program marndr ministry of agriculture	ORG	2
 waste-to energy	ORG	2
 wakay	GPE	2
 wwf	ORG	2
+wug	ORG	2
 wto	ORG	2
 wra	ORG	2
 wfp yemen	ORG	2
@@ -4310,6 +4446,7 @@ v-1	ORG	2
 uzbek	ORG	2
 upper guinea	GPE	2
 upper east	GPE	2
+uplands irrigation and water resources management sector project)	ORG	2
 unité de passation des marchés publics	ORG	2
 united states dollar	GPE	2
 united states agency for international development	ORG	2
@@ -4504,12 +4641,13 @@ sugarcane	PERSON	2
 sudano-sahelian	GPE	2
 success	ORG	2
 subtotal	GPE	2
-subprojects	ORG	2
+subloan	ORG	2
 subcomponent 2c	ORG	2
 subcomponent 1.1	ORG	2
 subcomponent 1	ORG	2
 sub-total transport	ORG	2
 sub-saharan african	LOC	2
+stung chinit south subproject	ORG	2
 study coordinator	ORG	2
 study	ORG	2
 stratégie de développement et de sécurité	ORG	2
@@ -4531,6 +4669,7 @@ special contractual clauses	ORG	2
 special contractual clause	ORG	2
 special account	ORG	2
 spe tel	PERSON	2
+southwest area integrated water resources planning and management project	LOC	2
 southeast	LOC	2
 south-sudan	GPE	2
 south-east asia	LOC	2
@@ -4540,6 +4679,7 @@ south africa’s	GPE	2
 south african	GPE	2
 source amount (ua) instrument	ORG	2
 soulemane fofana	PERSON	2
+son province	GPE	2
 solíz	PERSON	2
 solomon islands	GPE	2
 solomon islanders	PERSON	2
@@ -4594,7 +4734,7 @@ second climate change action plan	ORG	2
 sebastien gachot	PERSON	2
 scope	PERSON	2
 scheduled castes	ORG	2
-schedule 1	ORG	2
+schedule 2	ORG	2
 saravia	ORG	2
 santa fe	GPE	2
 sanjay triloki	PERSON	2
@@ -4615,6 +4755,7 @@ stass	ORG	2
 star-p project	ORG	2
 ssfnsp	ORG	2
 ssei	ORG	2
+sri lanka	ORG	2
 spo	ORG	2
 south asia	ORG	2
 snv	ORG	2
@@ -4642,6 +4783,7 @@ secap	ORG	2
 sds	ORG	2
 sdg 6	PERSON	2
 scl/gdi	ORG	2
+schedule	ORG	2
 sc2.3	ORG	2
 saris	ORG	2
 sara	ORG	2
@@ -4654,7 +4796,7 @@ résultats indicateurs5 moyens	PERSON	2
 résultats indicateurs clés de vérification2&3	PERSON	2
 résultats indicateurs clés de vérification	PERSON	2
 république du niger	PERSON	2
-république	PERSON	2
+république	ORG	2
 rural enterprises program	ORG	2
 rural engineering consultant	ORG	2
 rural development support project	ORG	2
@@ -4704,6 +4846,7 @@ razafimahefa	ORG	2
 rationale for fund	ORG	2
 rationale 1.1 project linkages with country strategy	ORG	2
 rationale 1.1	ORG	2
+rate cap	PERSON	2
 rapports d’activités	ORG	2
 rapports de	ORG	2
 rapports d''évaluation des	ORG	2
@@ -4714,6 +4857,7 @@ ramsar	LOC	2
 radoniqi dam	PERSON	2
 rachel atkinson	PERSON	2
 rss	ORG	2
+rsp	ORG	2
 rpse	ORG	2
 rpo	ORG	2
 rpg window of adf	ORG	2
@@ -4727,6 +4871,7 @@ results chain performance indicators means of verification	ORG	2
 resp	ORG	2
 report programme team team	ORG	2
 rel-1	ORG	2
+regdf	ORG	2
 rdgp	ORG	2
 rda	ORG	2
 rcpca	ORG	2
@@ -4762,13 +4907,13 @@ promote agricultural	ORG	2
 projet d''appui	PERSON	2
 project team co-leader	ORG	2
 project team	ORG	2
+project provinces	ORG	2
 project mid-term review report	ORG	2
 project management, monitoring & evaluation	ORG	2
 project executing agency	ORG	2
 project development objective	ORG	2
 project design 2.7.1	ORG	2
 project design	ORG	2
-project	ORG	2
 progress reports	ORG	2
 programme management unit	ORG	2
 programme design	ORG	2
@@ -4842,6 +4987,7 @@ presan-kl	ORG	2
 praps-niger	ORG	2
 praps	ORG	2
 ppaao/waapp	ORG	2
+pornmoniroth	ORG	2
 poa	ORG	2
 pnsadr-im	ORG	2
 pniasa 2	ORG	2
@@ -4875,7 +5021,6 @@ par ii af	ORG	2
 papd	ORG	2
 pampej	ORG	2
 pamecas	ORG	2
-pam	ORG	2
 padefa-ena)	ORG	2
 pade	ORG	2
 padcae	PERSON	2
@@ -4897,6 +5042,7 @@ operational results management system	ORG	2
 operation & maintenance	ORG	2
 open competitive bidding international	ORG	2
 opala	GPE	2
+onlending agreements	ORG	2
 ongoing bank	ORG	2
 olom	ORG	2
 oio regions	ORG	2
@@ -4921,6 +5067,7 @@ onagri	ORG	2
 ohada	ORG	2
 og	ORG	2
 oel	ORG	2
+ocwm	ORG	2
 occ	ORG	2
 oc-dr	ORG	2
 oag	ORG	2
@@ -4946,6 +5093,7 @@ north department	GPE	2
 north centre	GPE	2
 north central	LOC	2
 nord	ORG	2
+nonconsulting services	ORG	2
 non-governmental organization o&m operation	ORG	2
 non-governmental organization	ORG	2
 non-consulting	ORG	2
@@ -5011,6 +5159,7 @@ nathalie weier johnson	PERSON	2
 nathalie suzanna	PERSON	2
 namibia - namibia agricultural mechanisation	ORG	2
 nakasongola	ORG	2
+nagar dhaka	PERSON	2
 nabatieh	GPE	2
 nt	ORG	2
 nsp +4.45 m.	ORG	2
@@ -5099,7 +5248,6 @@ ministry of health	ORG	2
 ministry of environment and agriculture	ORG	2
 ministry of education	ORG	2
 ministry of agriculture, livestock	ORG	2
-ministry of agriculture, forestry and fisheries	ORG	2
 ministry of agriculture and livestock total	ORG	2
 ministry of agriculture and	ORG	2
 ministry of agriculture water, fisheries	ORG	2
@@ -5179,7 +5327,6 @@ mp_tab le	PERSON	2
 mopf	ORG	2
 mop	ORG	2
 mofl	ORG	2
-moali	ORG	2
 mn	ORG	2
 mlgrd	ORG	2
 mivarf	GPE	2
@@ -5211,7 +5358,6 @@ mardr	ORG	2
 mardnr	ORG	2
 maps	ORG	2
 mapmdref	ORG	2
-map	ORG	2
 management & monitoring/	ORG	2
 maiwd	ORG	2
 maga	GPE	2
@@ -5230,6 +5376,8 @@ luc lecuit	PERSON	2
 low rating	PERSON	2
 low impact development	ORG	2
 louise victoria monchuk	PERSON	2
+louangphabang province	GPE	2
+louangphabang	GPE	2
 los siguientes	GPE	2
 los beneficiarios	GPE	2
 lopez	PERSON	2
@@ -5238,6 +5386,7 @@ lomé-cotonou road rehabilitation project and transport facilitation	ORG	2
 local consultative committee	ORG	2
 local authorities	ORG	2
 lobaye	GPE	2
+loan disbursement handbook	PERSON	2
 livestock development policy; fisheries policy and policies for services delivery (extension	ORG	2
 livestock (mail	PERSON	2
 littoral	GPE	2
@@ -5245,6 +5394,7 @@ litani	ORG	2
 list	PERSON	2
 lisa sofia restrepo	PERSON	2
 lisa restrepo	PERSON	2
+linked indicators	PERSON	2
 linear	ORG	2
 limited competitive bidding	ORG	2
 lim	PERSON	2
@@ -5263,6 +5413,7 @@ lead centers	ORG	2
 le cp	ORG	2
 las condiciones generales	PERSON	2
 lao women’s union	ORG	2
+lang son	PERSON	2
 lands	ORG	2
 landana	GPE	2
 land tenure security program	ORG	2
@@ -5306,6 +5457,7 @@ la raymo	PERSON	2
 la consolidation du tissu economique	ORG	2
 l''agence	PERSON	2
 kyrgyzstan	GPE	2
+kyrgyz republic	GPE	2
 kween	GPE	2
 kwango province	GPE	2
 kwacha	PERSON	2
@@ -5342,6 +5494,7 @@ kaolack	PERSON	2
 kangaba	GPE	2
 kanayo f. nwanze président	PERSON	2
 kamwenge, masindi	GPE	2
+kampong cham	GPE	2
 kainji	PERSON	2
 kabambare	ORG	2
 kabala	PERSON	2
@@ -5381,11 +5534,13 @@ jaffna	GPE	2
 jack	PERSON	2
 jse	ORG	2
 jpm	ORG	2
+jfpr grant	ORG	2
 itahari	GPE	2
 issyk-kul region	GPE	2
 israel	GPE	2
 isingiro	ORG	2
 irrigation department	ORG	2
+io	PERSON	2
 internships	ORG	2
 international waters	ORG	2
 international standards of supreme audit institutions	ORG	2
@@ -5499,7 +5654,7 @@ human resources development project	ORG	2
 huilerie	ORG	2
 huffman	PERSON	2
 huambo	GPE	2
-houaphan	GPE	2
+houaphan province	GPE	2
 hinterland environmentally sustainable agricultural development project	ORG	2
 himalayan	PERSON	2
 hills	GPE	2
@@ -5519,6 +5674,7 @@ harambee	PERSON	2
 hanneke van tilburg	PERSON	2
 hameleers	GPE	2
 hafzullah	ORG	2
+ha giang	PERSON	2
 hpp	ORG	2
 hipc	ORG	2
 ha-l1107/ha-g1038 page 2	ORG	2
@@ -5543,6 +5699,7 @@ gu	PERSON	2
 group	ORG	2
 groundnut basin	PERSON	2
 grievance redress service	ORG	2
+grievance	PERSON	2
 grenada - ministry of finance & energy	ORG	2
 green house gas	ORG	2
 green economy and climate change	ORG	2
@@ -5566,6 +5723,7 @@ government accountants	ORG	2
 gourdes	GPE	2
 goods, works and services quarterly	ORG	2
 goods, works & services contracts	ORG	2
+goods or works	ORG	2
 good agriculture practices	ORG	2
 gonzalez	PERSON	2
 gok	ORG	2
@@ -5643,6 +5801,7 @@ food and agriculture development	ORG	2
 food security support project	ORG	2
 fonds national de recherche	ORG	2
 fondo	GPE	2
+flora	GPE	2
 flagship programme	PERSON	2
 financial reports	ORG	2
 fin source	PERSON	2
@@ -5692,12 +5851,15 @@ exchange	ORG	2
 european investment fund	ORG	2
 europe division tel	ORG	2
 euro (eur	ORG	2
+euro	ORG	2
 etude de la filière	PERSON	2
 est	ORG	2
 esen	GPE	2
 escobal	ORG	2
 erick herman abiassi	PERSON	2
 erick herman	PERSON	2
+equity capital loan	ORG	2
+equity capital	ORG	2
 environmental, forests	ORG	2
 environmental and social impact assessment (eies	ORG	2
 environmental and social framework	ORG	2
@@ -5713,6 +5875,8 @@ emilie chapuis	ORG	2
 emergency command centers	ORG	2
 elisabeth	PERSON	2
 elisa gamberoni	PERSON	2
+eligible sub-borrowers	PERSON	2
+eligible	ORG	2
 eli weiss	PERSON	2
 eleventh development plan	ORG	2
 el capital será	ORG	2
@@ -5726,6 +5890,7 @@ el ejercicio financiero	PERSON	2
 egidia rukundo	PERSON	2
 edward mabaya	PERSON	2
 economy and finance, agriculture, industry and trade, investment	ORG	2
+economy and finance	ORG	2
 eastern republic of uruguay	GPE	2
 east serbia	GPE	2
 ews	ORG	2
@@ -5746,6 +5911,7 @@ eneo	ORG	2
 ena	ORG	2
 emsf	ORG	2
 emrip	ORG	2
+eia type project	ORG	2
 eia environmental impact assessment eirr economic internal rate of return epa environmental protection authority fao food and agriculture organisation of the united nations	ORG	2
 edp	ORG	2
 ecvmb	ORG	2
@@ -5805,6 +5971,7 @@ department of planning and investment	ORG	2
 department of planning and cooperation (	ORG	2
 department of livestock services	ORG	2
 department of irrigation	ORG	2
+department of fisheries	ORG	2
 department of economic affairs	ORG	2
 department of agriculture	ORG	2
 department for international development (dfid	ORG	2
@@ -5853,7 +6020,7 @@ details	ORG	2
 deg	ORG	2
 de prix	ORG	2
 de financement	ORG	2
-de	ORG	2
+ddwssd	PERSON	2
 ddaep	ORG	2
 dard	ORG	2
 dar	GPE	2
@@ -5899,6 +6066,7 @@ conditions associated with	ORG	2
 conditions associated	ORG	2
 conditions	ORG	2
 condition precedent to entry into force	ORG	2
+concessional	ORG	2
 computerised accounting and financial management system	ORG	2
 comprehensive african agriculture development programme	ORG	2
 comprehensive africa agriculture development program	ORG	2
@@ -5911,6 +6079,7 @@ comp	ORG	2
 community infrastructure and services	ORG	2
 community improvement project	ORG	2
 community improvement programme	ORG	2
+community development and investment agency	ORG	2
 community animal health workers	ORG	2
 common interest groups	ORG	2
 commerciale du burkina	ORG	2
@@ -5951,6 +6120,7 @@ census	PERSON	2
 cell	PERSON	2
 categoría	GPE	2
 category iv	PERSON	2
+category a	ORG	2
 cashew nut	PERSON	2
 casablanca	ORG	2
 carolina vera	PERSON	2
@@ -6052,6 +6222,7 @@ bougadare kone	PERSON	2
 bouenza departments	ORG	2
 bossito	PERSON	2
 borsa	ORG	2
+borrowers	PERSON	2
 borrower/client/recipient republic of	ORG	2
 borrower/client/recipient contact:	ORG	2
 borrower contact:	PERSON	2
@@ -6137,6 +6308,7 @@ b.c.	GPE	2
 b.4	ORG	2
 b. recurring	PERSON	2
 b. mise	PERSON	2
+b loan	ORG	2
 avocado	GPE	2
 avci	ORG	2
 authorized representative international fund for agricultural	ORG	2
@@ -6161,11 +6333,10 @@ armyworm	PERSON	2
 area	GPE	2
 arabica	GPE	2
 aquatic resources sme fund	ORG	2
+approved currency	PERSON	2
 appropriate	ORG	2
 appraisal stage pid/isds project	ORG	2
 appraisal stage pid/isds feb 13, 2018 time	ORG	2
-appendix 4	ORG	2
-appendix 2	ORG	2
 appendix 10	ORG	2
 apia	GPE	2
 antezana	GPE	2
@@ -6296,6 +6467,7 @@ asdpg	ORG	2
 asce-lc	ORG	2
 ascd	ORG	2
 asap)	ORG	2
+article vii delegation of authority section	ORG	2
 arep	ORG	2
 ara	ORG	2
 aqim	ORG	2
@@ -6305,6 +6477,7 @@ appendix	GPE	2
 app	ORG	2
 apl	ORG	2
 apc	ORG	2
+apb	ORG	2
 apagro	ORG	2
 ansd	ORG	2
 anproca	PERSON	2
@@ -6386,6 +6559,7 @@ a project management unit	ORG	2
 2,9 0,8	LOC	2
 123rd session rome	ORG	2
 1.9 number	ORG	2
+1.458,333	ORG	2
 1.4 agricultural	ORG	2
 1.3.1 number	ORG	2
 1.1.3 the government	ORG	2
@@ -6479,6 +6653,7 @@ zaha.waheed@fishagri.gov.mv vi	PERSON	1
 zaban	GPE	1
 young people4 4%	ORG	1
 year).1 domestically	ORG	1
+y) project implementing agency	ORG	1
 y “asistencia	PERSON	1
 y vi	PERSON	1
 y un	ORG	1
@@ -6593,6 +6768,7 @@ trans-national control of pests	ORG	1
 traitées	PERSON	1
 trabajos relacionados de	PERSON	1
 totalw	GPE	1
+ti»e loan regulations	ORG	1
 titulación y registro de tierras	PERSON	1
 titulación y registro de tierra	PERSON	1
 titre du don du fonds	PERSON	1
@@ -6601,6 +6777,7 @@ time & within	ORG	1
 tilapia	GPE	1
 this namibia agricultural mechanisation	ORG	1
 this guarantee fund	ORG	1
+theproject	ORG	1
 the “sun, sea	ORG	1
 the “world bank disbursement guidelines for projects	ORG	1
 the “regional strategy for the stabilization, recovery and resilience of the boko-haram	ORG	1
@@ -6858,6 +7035,7 @@ the united nations gdp gross	ORG	1
 the united nations food and agriculture organization	ORG	1
 the united nations fso fund for special operations	ORG	1
 the united nations environment programme	ORG	1
+the united nations environment program	ORG	1
 the united nations country team	ORG	1
 the united nations conventions on combating desertification	ORG	1
 the united nations children''s fund	ORG	1
@@ -7004,6 +7182,7 @@ the sudanian agro-ecological zone	ORG	1
 the sudan region	GPE	1
 the sudan national agricultural investment plan	ORG	1
 the sudan comprehensive africa agriculture development program	ORG	1
+the subproject or hydrometeorological installation works	ORG	1
 the sub-saharan african	LOC	1
 the sub-saharan africa	LOC	1
 the study on the development of agro-industrial parks	ORG	1
@@ -7041,7 +7220,11 @@ the state department of fisheries and	ORG	1
 the state department of fisheries	ORG	1
 the state council’s leading group for poverty reduction and development	ORG	1
 the state center for animal diseases and food safety	ORG	1
+the state bank of vietnam of the borrower	ORG	1
 the state bank of pakistan	ORG	1
+the state agency of environmental protection	ORG	1
+the state agency for water resources	ORG	1
+the standard operating procedures of the borrower	ORG	1
 the standard bidding documents (sbd	ORG	1
 the special procurement provisions for haiti	ORG	1
 the special climate change fund	ORG	1
@@ -7141,6 +7324,7 @@ the second rural enterprise support project	ORG	1
 the second national communication	ORG	1
 the second medium term plan	ORG	1
 the sea coast	LOC	1
+the screening report	ORG	1
 the scientific committee meetings	ORG	1
 the school meal programme	ORG	1
 the school feeding programme	ORG	1
@@ -7156,6 +7340,7 @@ the sahel africa''s	ORG	1
 the safety of dams	ORG	1
 the safety net project	ORG	1
 the safeguards division	ORG	1
+the safeguard monitoring report	ORG	1
 the swio sub-regional fisheries monitoring centers	ORG	1
 the su-l1052 program	ORG	1
 the star-p project	ORG	1
@@ -7228,6 +7413,7 @@ the result areas	ORG	1
 the resources of the bank (gci-9	ORG	1
 the resources of the bank	ORG	1
 the resource mobilization	ORG	1
+the resilient community development project	ORG	1
 the resettlement action plan	ORG	1
 the reserve bank	ORG	1
 the research and development programme	ORG	1
@@ -7304,6 +7490,7 @@ the public procurement commission	ORG	1
 the public management system	ORG	1
 the public health ordinance	ORG	1
 the public financial management	ORG	1
+the provincial steering committee	ORG	1
 the provincial project steering committees	ORG	1
 the provincial project implementation unit	ORG	1
 the provincial nutrition committee	ORG	1
@@ -7337,6 +7524,7 @@ the promotion agency for agricultural extension	ORG	1
 the project’s technical committee	ORG	1
 the project’s financial internal rate of return	ORG	1
 the project’s coordination units	ORG	1
+the project the goods	ORG	1
 the project for the acceleration of agricultural sub-sectors	ORG	1
 the project for reviving food crops and small livestock production	ORG	1
 the project for professionalisation of agricultural credit methodologies	ORG	1
@@ -7345,12 +7533,15 @@ the project and programme monitoring unit	ORG	1
 the project steering committee for the tsf grant	ORG	1
 the project special accounts	ORG	1
 the project rating	ORG	1
+the project provinces under section 7.01	ORG	1
+the project provinces to adb	ORG	1
+the project provinces and adb	ORG	1
+the project operations manual	ORG	1
 the project monitoring and evaluation unit	ORG	1
 the project management and coordination unit	ORG	1
 the project management team:	ORG	1
 the project management offices	ORG	1
 the project management component	ORG	1
-the project implementing agency	ORG	1
 the project implementation committees	ORG	1
 the project identification mission	ORG	1
 the project environmental and social management plan	ORG	1
@@ -7367,7 +7558,6 @@ the project area annex iv	ORG	1
 the project area agricultural development hubs	ORG	1
 the project appraisal report	ORG	1
 the project appraisal mission	ORG	1
-the project agreement	ORG	1
 the project affected persons	ORG	1
 the project (project affected persons	ORG	1
 the progress and learning report	ORG	1
@@ -7382,6 +7572,7 @@ the programme appraisal report	ORG	1
 the programme	GPE	1
 the program to support productive investment	ORG	1
 the program to support agricultural public management ii	ORG	1
+the program implementing agency	ORG	1
 the program for socio-economic development in communes facing extreme hardship in ethnic minority and mountainous areas	ORG	1
 the program and project management area	ORG	1
 the program and project management	ORG	1
@@ -7389,6 +7580,8 @@ the program impact	ORG	1
 the program coordinator for smart punjab	ORG	1
 the program coordination and monitoring unit	ORG	1
 the program completion report	ORG	1
+the program agreement	ORG	1
+the program actions	ORG	1
 the professional association of banks and financial institutions of benin	ORG	1
 the productive sectors	ORG	1
 the productive safety nets program	ORG	1
@@ -7399,6 +7592,7 @@ the productive alliance	ORG	1
 the procurement policy for operations	ORG	1
 the procurement policy for bank-group funded operations	ORG	1
 the procurement policy for bank group-funded operations	ORG	1
+the procurement poi»cy	ORG	1
 the procurement framework for operations financed	ORG	1
 the procurement framework for bank group- funded operations	ORG	1
 the procurement framework	ORG	1
@@ -7457,9 +7651,13 @@ the payment for ecosystem services	ORG	1
 the partnership for recovery and resilience (pfrr) framework	ORG	1
 the partnership agreements	ORG	1
 the partner states	GPE	1
+the participatory water management rules 2014	ORG	1
+the participatory water management rules	ORG	1
+the participating financial intermediaries	ORG	1
 the participating financial institutions	ORG	1
 the partial credit guarantee	ORG	1
 the parliamentary counsel	ORG	1
+the parliament of the kyrgyz republic	ORG	1
 the paris climate agreement	ORG	1
 the paraguayan institute for agricultural technology	ORG	1
 the package of practices and capacity building	ORG	1
@@ -7513,6 +7711,7 @@ the operational results management system	ORG	1
 the operational policy (op	ORG	1
 the operational monitoring bureau	ORG	1
 the operating manual	ORG	1
+the onlending agreement	ORG	1
 the on-lending policy (adb/bd	ORG	1
 the office of the vice	ORG	1
 the office of the united nations	ORG	1
@@ -7534,6 +7733,7 @@ the office of parliamentary counsel	ORG	1
 the office of livestock and pasture (oep	ORG	1
 the office of evaluation and supervision	ORG	1
 the office of climate change	ORG	1
+the office of chief water management	ORG	1
 the office for supporting economic production	ORG	1
 the office national de développement de la filière riz	ORG	1
 the office burundais de protection de l’environnement	ORG	1
@@ -7554,6 +7754,7 @@ the northern mountains poverty reduction project	ORG	1
 the northern integrated agricultural development project	ORG	1
 the northern development authority zone	ORG	1
 the northern communal areas	ORG	1
+the northeastern provinces sector project loan number 3633-vle(col	LOC	1
 the northeast development commission	ORG	1
 the north/south	LOC	1
 the north/north east	LOC	1
@@ -7606,6 +7807,7 @@ the national youth employment agency	ORG	1
 the national youth commission	ORG	1
 the national water strategy 2009-2030	ORG	1
 the national water strategy	ORG	1
+the national water resources data management center	ORG	1
 the national water resources authority d. concept description 22	ORG	1
 the national water resources authority	ORG	1
 the national water information system decree	ORG	1
@@ -7703,6 +7905,7 @@ the national integrated plan for accessibility, mobility and transport	ORG	1
 the national institute of agronomic studies and research	ORG	1
 the national institute of agronomic research	ORG	1
 the national institute for small and medium enterprises (ipeme	ORG	1
+the national institute for plant protection	ORG	1
 the national initiative on climate resilient agriculture	ORG	1
 the national industrialization policy	ORG	1
 the national human development initiative	ORG	1
@@ -7870,6 +8073,7 @@ the ministry of women condition	ORG	1
 the ministry of women affairs	ORG	1
 the ministry of water''s integrated water resources management and development plan	ORG	1
 the ministry of water and irrigation	ORG	1
+the ministry of water resources and meteorology	ORG	1
 the ministry of water affairs	ORG	1
 the ministry of water	ORG	1
 the ministry of vocational training and youth integration 	ORG	1
@@ -7897,7 +8101,6 @@ the ministry of national education and scientific research	ORG	1
 the ministry of national education and civics promotion	ORG	1
 the ministry of ministry fisheries water resources & national assembly matters	ORG	1
 the ministry of meteorology, energy, information	ORG	1
-the ministry of local government	ORG	1
 the ministry of local affairs and environment	ORG	1
 the ministry of livestock, fisheries	ORG	1
 the ministry of livestock and animal resources	ORG	1
@@ -7930,6 +8133,7 @@ the ministry of equipment	ORG	1
 the ministry of environment and urbanization	ORG	1
 the ministry of environment and sustainable development	ORG	1
 the ministry of environment and natural resources	ORG	1
+the ministry of environment and forest	ORG	1
 the ministry of energy and natural resources	ORG	1
 the ministry of economy, planning and regional integration	ORG	1
 the ministry of economy, planning and cooperation (mepc	ORG	1
@@ -7953,12 +8157,14 @@ the ministry of agriculture, water and fisheries resources	ORG	1
 the ministry of agriculture, ministry of industry and mines	ORG	1
 the ministry of agriculture, ministry of health	ORG	1
 the ministry of agriculture, livestock and food	ORG	1
+the ministry of agriculture, livestock	ORG	1
 the ministry of agriculture, irrigation and livestock (mail	ORG	1
 the ministry of agriculture, irrigation and agriculture equipment	ORG	1
 the ministry of agriculture, irrigation and agricultural equipment	ORG	1
 the ministry of agriculture, forestry and water management	ORG	1
 the ministry of agriculture, forestry and fisheries	ORG	1
 the ministry of agriculture, food, forests and fisheries	ORG	1
+the ministry of agriculture, food industry and melioration of the borrower	ORG	1
 the ministry of agriculture, animal husbandry and	ORG	1
 the ministry of agriculture through the project implementation unit	ORG	1
 the ministry of agriculture on	ORG	1
@@ -8053,6 +8259,7 @@ the malawi agricultural infrastructure and youth in agribusiness project	ORG	1
 the maintenance and operations fund	ORG	1
 the mainstreaming of rural development innovation	ORG	1
 the mahila kisan sashiktikaran program	ORG	1
+the mahaweli water security investment program	ORG	1
 the maharashtra state seed corporation	ORG	1
 the maharashtra project on climate resilient agriculture	ORG	1
 the maharashtra groundwater development and management act	ORG	1
@@ -8076,16 +8283,22 @@ the long-term strategy	ORG	1
 the lomé-cinkansé- ouagadougou corridor	ORG	1
 the lome port authority	ORG	1
 the local rice promotion project	ORG	1
+the local government engineering department	ORG	1
+the local government division	ORG	1
 the local government	ORG	1
 the local development programme	ORG	1
 the local development committee	ORG	1
 the local councils’	ORG	1
 the local consultation council	ORG	1
 the local authorities	ORG	1
+the loan regulations	ORG	1
+the loan implementation consultant	ORG	1
 the loan agreements and article ix	ORG	1
-the loan agreements	ORG	1
 the loan agreement service charge	ORG	1
 the loan agreement loan maturity	ORG	1
+the loan account**(dollar)	ORG	1
+the loan account category subcategory 1 civil	ORG	1
+the loan account 1 works (stung chinit south subproject	PERSON	1
 the living conditions and monitoring survey	ORG	1
 the livestock survey	ORG	1
 the livestock fund	ORG	1
@@ -8173,6 +8386,7 @@ the islamic maghreb	ORG	1
 the isdb rvcdp	ORG	1
 the irrigation technical sub-group	ORG	1
 the irrigation national 2012-2027 plan	ORG	1
+the irrigation department of balochistan	ORG	1
 the irrigated rice cultivation intensification support project - pairi	ORG	1
 the irrigated rice cultivation intensification support project	ORG	1
 the investment and free zone promotion agency	ORG	1
@@ -8183,7 +8397,6 @@ the international public sector accounting standards	ORG	1
 the international water management institute	ORG	1
 the international standards on auditing	ORG	1
 the international seed quality control agency	ORG	1
-the international rice research institute	ORG	1
 the international plant protection convention	ORG	1
 the international organization of supreme audit institutions	ORG	1
 the international institute of tropical agriculture	ORG	1
@@ -8209,6 +8422,7 @@ the interest rate subsidy fund	ORG	1
 the interamerican bank for development	ORG	1
 the interagency commission	ORG	1
 the inter-ministerial road safety council	ORG	1
+the inter-ministerial resettlement committee	ORG	1
 the inter-ministerial irrigation and drainage coordination working group	ORG	1
 the inter-american institute for cooperation on agriculture (iica	ORG	1
 the inter-american institute for cooperation on agriculture	ORG	1
@@ -8244,6 +8458,9 @@ the institute of agrarian development (ida	ORG	1
 the institute for research in applied science and technology	ORG	1
 the institute for agriculture development	ORG	1
 the inspectorate general of finance	ORG	1
+the initial special operations loan agreement	ORG	1
+the initial loan agreement or	ORG	1
+the initial loan agreement	ORG	1
 the information and accounting system	ORG	1
 the info shop	ORG	1
 the indénié- djuablin region	GPE	1
@@ -8253,6 +8470,7 @@ the industrial sector development policy letter	ORG	1
 the indigenous peoples policy	ORG	1
 the indigenous peoples plan	ORG	1
 the indigenous peoples development plan	ORG	1
+the indigenous peoples category a	ORG	1
 the indigenous peoples	ORG	1
 the indian ocean regional	LOC	1
 the indian ocean commission	ORG	1
@@ -8266,6 +8484,7 @@ the independent verification agency	ORG	1
 the independent evaluation group	ORG	1
 the inclusive comprehensive agricultural development project	ORG	1
 the inclusive comprehensive agricultural development program	ORG	1
+the important bird and biodiversity area	ORG	1
 the implications for extension and advisory services	ORG	1
 the implementation of the plan maroc vert project	ORG	1
 the implementation of agricultural statistics systems	ORG	1
@@ -8364,6 +8583,7 @@ the great lakes national program office	ORG	1
 the grama niladhari division	ORG	1
 the government’s harambee comprehensively coordinated and integrated agricultural development programme	ORG	1
 the governments of niger and mali	ORG	1
+the government of the republic of the union of myanmar	ORG	1
 the government of the republic of sudan	ORG	1
 the government of the republic of south sudan	ORG	1
 the government of the republic of mali	ORG	1
@@ -8604,12 +8824,14 @@ the enabling business in agriculture 2019 report	ORG	1
 the enabling agricultural credit office	ORG	1
 the emergency training center	ORG	1
 the eligible expenditure policy	ORG	1
+the eligible activity and the aif eligible activity	ORG	1
 the eleventh replenishment of ifad’s	ORG	1
 the elephant protection initiative	ORG	1
 the effectiveness of the adf	ORG	1
 the economic and monetary community of central africa	ORG	1
 the economic and financial management support project	ORG	1
 the economic relations division of the recipient’s ministry of finance	ORG	1
+the economic relations division	ORG	1
 the economic reform program	ORG	1
 the economic net present value	ORG	1
 the economic governance strengthening support project	ORG	1
@@ -8646,6 +8868,7 @@ the dry zone	GPE	1
 the drought resilience knowledge community	ORG	1
 the drini river basin	LOC	1
 the drini river	LOC	1
+the division advancement of women	ORG	1
 the district of sassandra-marahoué	LOC	1
 the district of gôh-djiboua	LOC	1
 the district unit	ORG	1
@@ -8731,6 +8954,7 @@ the departments of agriculture	ORG	1
 the departmental units	ORG	1
 the departmental committees of actions	ORG	1
 the department of youth	ORG	1
+the department of water resources and melioration	ORG	1
 the department of sud	ORG	1
 the department of studies and planning	ORG	1
 the department of statistics	ORG	1
@@ -8741,8 +8965,11 @@ the department of national planning and cooperation, dnpc	ORG	1
 the department of irrigation and mahaweli authority	ORG	1
 the department of irrigation	ORG	1
 the department of foreign employment	ORG	1
+the department of external resources of the borrower	ORG	1
 the department of export agriculture	ORG	1
 the department of environmental and social safeguards	ORG	1
+the department of environment	ORG	1
+the department of drnking water supply and sewerage development	ORG	1
 the department of community development	ORG	1
 the department of agroindustrial complex finance tmirzaev@mf.uz	ORG	1
 the department of agriculture, forestry and fisheries	ORG	1
@@ -8758,6 +8985,7 @@ the defence and security forces	ORG	1
 the decentralized provincial autonomous governments	ORG	1
 the debt sustainability analysis	ORG	1
 the debt department	ORG	1
+the data center	ORG	1
 the dar es salaam international trade fair	GPE	1
 the damage and loss assessment3	ORG	1
 the dam safety review panel	ORG	1
@@ -8779,6 +9007,7 @@ the crop/livestock technology delivery compact	ORG	1
 the crop and grain storage warehouse construction programme	ORG	1
 the credit line management unit	ORG	1
 the credit guarantee fund	ORG	1
+the credit guarantee	ORG	1
 the credit component	ORG	1
 the credit committee	ORG	1
 the county team	ORG	1
@@ -8800,6 +9029,7 @@ the council of ministers investment and free zones promotion agency	ORG	1
 the council of ministers decree 9/2012	ORG	1
 the council of ministers code	ORG	1
 the council of ministers action 5	ORG	1
+the council	ORG	1
 the cotton-textile sector	ORG	1
 the corruption perception index	ORG	1
 the corridor team	ORG	1
@@ -8813,6 +9043,7 @@ the cooperative development fund	ORG	1
 the cooperative development agency	ORG	1
 the cooperative action department	ORG	1
 the cooperating institution	ORG	1
+the convention on international trade in endangered species of wild fauna	ORG	1
 the contingent emergency response component	ORG	1
 the contingency emergency response plan	ORG	1
 the contingency emergency response	ORG	1
@@ -8855,6 +9086,7 @@ the community irrigation systems	ORG	1
 the community health worker system	ORG	1
 the community economic livelihood grant (celg	ORG	1
 the community economic infrastructure grant proposals	ORG	1
+the community development and investment agency	ORG	1
 the community development project	ORG	1
 the community action project	ORG	1
 the communal land reform act	ORG	1
@@ -8961,6 +9193,7 @@ the csp team	ORG	1
 the csp mid-term review	ORG	1
 the cps eic	ORG	1
 the comrural ii	LOC	1
+the col loan	ORG	1
 the cerc operations manual (om	ORG	1
 the cenrat administrative and financial	ORG	1
 the cemac transport and transit facilitation project	ORG	1
@@ -8993,9 +9226,26 @@ the budget directorate	ORG	1
 the british virgin islands	GPE	1
 the brazilian corporation of agricultural research (embrapa	ORG	1
 the branch canals	ORG	1
+the borrower’s ministry of water resources and meteorology	ORG	1
+the borrower’s ministry of food, agriculture	ORG	1
+the borrower’s ministry of environment and tourism	ORG	1
+the borrower’s ministry of environment	ORG	1
+the borrower’s ministry of agriculture, livestock and irrigation	ORG	1
+the borrower’s department of rural development	ORG	1
+the borrower’s department of environment	ORG	1
 the borrower/recipient’s	ORG	1
 the borrower/recipient and the fund	ORG	1
+the borrower''s ministry ol rural development	ORG	1
+the borrower''s ministry of economy and finance	ORG	1
+the borrower''s ministry of agriculture and forestry	ORG	1
+the borrower''s land acquisition act	ORG	1
 the borrower on the bank	ORG	1
+the borrower state bank of vietnam	ORG	1
+the borrower secretary economic affairs division ministry of finance	ORG	1
+the borrower pei	LOC	1
+the borrower ministry of planning, finance and industry building	ORG	1
+the borrower ministry of finance	ORG	1
+the borrower ministry of economy and finance	ORG	1
 the border inspection point	ORG	1
 the boké-québo road project	ORG	1
 the boké-québo road construction programme	ORG	1
@@ -9106,6 +9356,7 @@ the bank 16-mar-2016 date	ORG	1
 the bank 12-oct-2020 resettlement action plan/framework/others	ORG	1
 the bank 07-sept-2017 date	ORG	1
 the bank	ORG	1
+the bangladesh water development board act	ORG	1
 the bangladesh bank	ORG	1
 the banco de la nación argentina	ORG	1
 the bagré growth pole support project	ORG	1
@@ -9135,6 +9386,7 @@ the association nationale des organisations professionnelles agricoles de côte	
 the assessment and vocational training centre	ORG	1
 the assam agricultural competitiveness project	ORG	1
 the asia pacific region	LOC	1
+the asia investment facility	LOC	1
 the arusha agreements	ORG	1
 the artisanal fisheries development project	ORG	1
 the artisanal fisheries development program	ORG	1
@@ -9176,6 +9428,7 @@ the agriculture and rural development sector donor group	ORG	1
 the agriculture and rural development donor coordination group	ORG	1
 the agriculture and livestock value chains sustainable development support project	ORG	1
 the agriculture and livestock value chain sustainable development support project	ORG	1
+the agriculture and cooperatives department of balochistan	ORG	1
 the agriculture and cooperative development bank	ORG	1
 the agriculture value chain development project	ORG	1
 the agriculture value chain development	ORG	1
@@ -9297,6 +9550,7 @@ the administrative procedures manual	ORG	1
 the administration for food safety, veterinary and phytosanitary affairs, advisory services	ORG	1
 the administration for food safety, veterinary and phytosanitary affairs	ORG	1
 the administration and finances bureau	ORG	1
+the administration arrangement	ORG	1
 the administración nacional de combustibles	ORG	1
 the adapted rural financing services promotion project	ORG	1
 the adaptation for smallholder agriculture programme	ORG	1
@@ -9316,7 +9570,10 @@ the asdu unit	ORG	1
 the asap trust fund	ORG	1
 the artf management committee	ORG	1
 the aif-2 operational guidelines and procedures	ORG	1
+the afd loan	ORG	1
+the adb procurement policy and the procurement regulations	ORG	1
 the adb group	ORG	1
+the a loan account	ORG	1
 the 2018 performance & learning review	ORG	1
 the 2017 doing business survey	ORG	1
 the 2016/17 el niño	ORG	1
@@ -9351,6 +9608,7 @@ spray	PERSON	1
 soy	GPE	1
 south east	LOC	1
 south	LOC	1
+soum governments	PERSON	1
 sorte que	PERSON	1
 sollicité	ORG	1
 solidarité nationale	ORG	1
@@ -9731,6 +9989,7 @@ los ajustes	GPE	1
 los activos colectivos	ORG	1
 los tdr	GPE	1
 los proyectos integrales	GPE	1
+lol.owmg	ORG	1
 logiciel tom2pro	PERSON	1
 lo que implica	PERSON	1
 lo cual representa	PERSON	1
@@ -9897,8 +10156,10 @@ knowhow and/or	GPE	1
 km	PERSON	1
 kiruhura	GPE	1
 kiosk managers	PERSON	1
+kindergartens	PERSON	1
 kilometres	PERSON	1
 kilograms	GPE	1
+khuskaba	PERSON	1
 kg/m3	ORG	1
 kg/ha	ORG	1
 kernels	PERSON	1
@@ -9928,6 +10189,7 @@ iv project summary overview	ORG	1
 iv loan information client	ORG	1
 iv loan	ORG	1
 iv knowledge management	ORG	1
+iti	ORG	1
 issues/	ORG	1
 interviendra dans	PERSON	1
 internships	ORG	1
@@ -9963,6 +10225,7 @@ il existe un	PERSON	1
 il bénéficie d’infrastructures	PERSON	1
 il bénéficie	PERSON	1
 il	GPE	1
+iit	ORG	1
 iii) world bank	ORG	1
 iii) project management and coordination	ORG	1
 iii) prepare	ORG	1
@@ -10052,6 +10315,7 @@ hiérarchique de l’ufcp	ORG	1
 hitherto weak	PERSON	1
 hinterlands2	GPE	1
 hill broom	PERSON	1
+hearth facilities	GPE	1
 haya sido objeto de cesión	PERSON	1
 haya habilitado el	PERSON	1
 haya abierto las	PERSON	1
@@ -10065,7 +10329,6 @@ ground nut	PERSON	1
 grass turfs	PERSON	1
 grapes	PERSON	1
 gram coordinator	PERSON	1
-gram	PERSON	1
 govt	ORG	1
 gouvernance sectorielle	PERSON	1
 goat meat	PERSON	1
@@ -10416,6 +10679,7 @@ d''accorder un	ORG	1
 d''appui	GPE	1
 cuyo	PERSON	1
 cuando corresponda	PERSON	1
+crrteria	GPE	1
 couvrir les	PERSON	1
 county livestock bureau	ORG	1
 country?s	ORG	1
@@ -10466,6 +10730,7 @@ clé du système de	PERSON	1
 clé du projet ou de toute	PERSON	1
 clé du programme ou de	PERSON	1
 clé de l''unité de coordination et de gestion	ORG	1
+climate­	ORG	1
 clim ate risk & i	ORG	1
 clim ate	ORG	1
 cinq chauffeurs	PERSON	1
@@ -10511,6 +10776,7 @@ building county	GPE	1
 buffalo	GPE	1
 brown bear	PERSON	1
 bread fruit	ORG	1
+bme	ORG	1
 biocontrol	ORG	1
 between the republic of gabon	GPE	1
 benefician de	ORG	1
@@ -10575,8 +10841,10 @@ associations	ORG	1
 associa ted functions	PERSON	1
 assisté par ii	PERSON	1
 asistencia técnica productiva	ORG	1
+asbestos­	ORG	1
 articulos/unidad-de-inteligencia-sanitaria-101745?idiom	ORG	1
 arrêté du maepg	PERSON	1
+ariff	PERSON	1
 arid seasons	ORG	1
 arid climate	ORG	1
 arat io	PERSON	1
@@ -10659,6 +10927,7 @@ al ministro de agricultura	PERSON	1
 al mop	PERSON	1
 al exca	PERSON	1
 al banco	ORG	1
+aiyl kenesh	PERSON	1
 ainsi que l’ensemble des	PERSON	1
 ainsi que les rapports de supervision	PERSON	1
 ainsi que les rapports	PERSON	1
@@ -10689,6 +10958,7 @@ afin de faciliter	ORG	1
 afin de développer	ORG	1
 af	ORG	1
 adquiridos con cargo	PERSON	1
+admwitstratwe procedures	PERSON	1
 administrativos y financieros	PERSON	1
 administratif et fiduciaire	PERSON	1
 adjoint et	PERSON	1
@@ -10767,6 +11037,7 @@ a high anti- corruption authority	ORG	1
 a guarantee fund	ORG	1
 a food and agriculture organization	ORG	1
 a financial management specialist	ORG	1
+a data center	ORG	1
 a dgper project implementation unit	ORG	1
 a daec technical support team	ORG	1
 a council of ministers	ORG	1
@@ -10779,6 +11050,7 @@ a cerc operations manuals (om	ORG	1
 a board of directors of girsal limited	ORG	1
 a board of directors	ORG	1
 a beneficiaries partnership framework and consultation guidelines	ORG	1
+\>r	PERSON	1
 [national dairy institute	ORG	1
 [agricultural advisory council	ORG	1
 zusi bergés	PERSON	1
@@ -10803,7 +11075,6 @@ ziguinchor 2017-2021	PERSON	1
 ziguinchor 2016-2020 7 project	PERSON	1
 ziguinchor 2015 2	ORG	1
 zhuhu lake	GPE	1
-zhob	PERSON	1
 zhang	PERSON	1
 zeynep durnev darendeliler	PERSON	1
 zenteno	GPE	1
@@ -10882,7 +11153,6 @@ xiong sr transport	ORG	1
 xin rivers	PERSON	1
 ximing zhang title	PERSON	1
 xieng khouang	PERSON	1
-xiangkhouang	GPE	1
 xiang peng	PERSON	1
 xai-xai	PERSON	1
 xxxiv  capacity	ORG	1
@@ -10988,7 +11258,11 @@ world agroforestry centre	ORG	1
 world agroforestry center	ORG	1
 world agroforestry	ORG	1
 workshops	PERSON	1
+works3	PERSON	1
 works/item cost option 1 cost option 2 increase	ORG	1
+works, goods and services	ORG	1
+works, consulting services	ORG	1
+works nonconsulting and consulting services	ORG	1
 works goods consulting	ORG	1
 works goods	ORG	1
 works construction & rehabilitation	ORG	1
@@ -11047,6 +11321,7 @@ wellness and agriculture for life advancement	ORG	1
 weed management	ORG	1
 weak economic planning framework 	ORG	1
 wau	PERSON	1
+watershed management sector project loan number	ORG	1
 watershed management approaches	ORG	1
 watershed management - labour	ORG	1
 watershed management (wm	ORG	1
@@ -11061,6 +11336,7 @@ water and forestry agriculture and food proposed program development objective(s
 water and forestry	ORG	1
 water and environment sector working group	ORG	1
 water and employment	ORG	1
+water users and unions of water user associations	ORG	1
 water users organizations and farmers organizations	ORG	1
 water users associations/groups	ORG	1
 water users association	ORG	1
@@ -11077,6 +11353,7 @@ water resources management for improved livelihoods:	ORG	1
 water resources management for improved livelihoods	ORG	1
 water resources management for improved livelihood  construction	ORG	1
 water resources management and investment plan	ORG	1
+water resources management scholarship	ORG	1
 water resources management authority	ORG	1
 water resources management & development opportunities	ORG	1
 water resources engineer	ORG	1
@@ -11208,6 +11485,7 @@ vinda kisyombe	PERSON	1
 vinay kumar vutukuru sr agricultural spec	PERSON	1
 vinay kumar vutukuru	PERSON	1
 villalobos	PERSON	1
+villages	ORG	1
 village and community councils	ORG	1
 village organizations	GPE	1
 village entrepreneurship programme	ORG	1
@@ -11215,6 +11493,7 @@ village entrepreneurship program	ORG	1
 village development clusters	ORG	1
 villa hayes	GPE	1
 vietnam implementing agency ministry of planning and investment environmental category b-partial assessment date pid prepared/	ORG	1
+viet nam	PERSON	1
 vientiane province	GPE	1
 vienna	GPE	1
 vidharbha	PERSON	1
@@ -11353,6 +11632,8 @@ upper niger valley authority	ORG	1
 upper jhelum irrigation department	ORG	1
 upper guinea rural development support project	ORG	1
 upper guinea rural development support	ORG	1
+uplands irrigation and water resources management sector project loan number cam-3289(sf	ORG	1
+uplands irrigation and water resources management sector project	ORG	1
 updating of programme	ORG	1
 unreported	ORG	1
 unlike punjab	PERSON	1
@@ -11408,6 +11689,7 @@ un compte de programme	ORG	1
 un comité	ORG	1
 um sumeima	GPE	1
 um kiredim	GPE	1
+ulaanbaatar-15160	ORG	1
 ukravtodor	GPE	1
 ukrainian	GPE	1
 ukraine growth study final document:	ORG	1
@@ -11427,7 +11709,6 @@ uganda bank portfolio 1 community agricultural infrustructure improvement progra
 uganda aids indicator survey	ORG	1
 uzs uzbek	ORG	1
 uzs 8,092 to us$1	ORG	1
-uxo	ORG	1
 ut bank ltd.	ORG	1
 ustification du niveau de	ORG	1
 usd9.8b	ORG	1
@@ -11587,10 +11868,12 @@ trimestrielle co-entreprises	ORG	1
 trimestrielle antenne sous-composante	PERSON	1
 triloki	PERSON	1
 trichur k. balakrishnan	PERSON	1
+tribes, minor races	ORG	1
 tribal people plan/ framework	ORG	1
 tribal people plan framework	ORG	1
 tribal development plans	ORG	1
 tribal development framework	ORG	1
+treasury department ministry of planning, finance and industry asian development bank /newin	ORG	1
 trash	PERSON	1
 trarza	PERSON	1
 transport and energy	ORG	1
@@ -11610,6 +11893,7 @@ trans-saharan road development project	ORG	1
 trans-pacific	ORG	1
 trans- african highway seven	GPE	1
 training ii annex	ORG	1
+training 6,000,000	ORG	1
 training & workshops iv	ORG	1
 trainers of trainers attendance	ORG	1
 traffic management plans	ORG	1
@@ -11649,6 +11933,7 @@ torit	GPE	1
 tori-bossito	ORG	1
 torghar	GPE	1
 tons/ha	ORG	1
+tonle sap	GPE	1
 tonj, gogrial	GPE	1
 tonia kandiero	PERSON	1
 tongan	GPE	1
@@ -12120,6 +12405,7 @@ the action network on pesticides	ORG	1
 the accelerated growth and employment promotion strategy	ORG	1
 the awp/bs	ORG	1
 the adf fund	ORG	1
+the a loan	ORG	1
 the 2015 systematic country diagnostic	ORG	1
 tharus	ORG	1
 tharu	ORG	1
@@ -12201,6 +12487,7 @@ task force	ORG	1
 tashkent	GPE	1
 tariq rashid	PERSON	1
 tarija	ORG	1
+tariff	ORG	1
 target value chains	ORG	1
 tarek kotb country programme manager near east	ORG	1
 tarai	LOC	1
@@ -12235,8 +12522,12 @@ tamil nadu irrigated agriculture modernization	ORG	1
 tambacounda 2017-2020	ORG	1
 takoradi ii expansion power project	ORG	1
 takhar	PERSON	1
+takeo	GPE	1
 taken	GPE	1
+takec province	GPE	1
 taizz	ORG	1
+taing krasang	ORG	1
+taing	GPE	1
 tahira syed	PERSON	1
 tadla dh31.1 m	PERSON	1
 tadla dh14.6 m	GPE	1
@@ -12280,6 +12571,7 @@ tmc	ORG	1
 tib	ORG	1
 the world bank	ORG	1
 the united republic of tanzania	GPE	1
+the union of myanmar	ORG	1
 the study 5.1 organization and management of the operation	ORG	1
 the smallholder agriculture development for food and	ORG	1
 the republic of south sudan	ORG	1
@@ -12456,6 +12748,7 @@ subcomponent 2a	ORG	1
 subcomponent 2.2	ORG	1
 subcomponent 2 - technical	ORG	1
 subcomponent	ORG	1
+sub-borrower	PERSON	1
 sub-window board consultation paper	ORG	1
 sub-total, services	ORG	1
 sub-total multisector	ORG	1
@@ -12469,6 +12762,7 @@ sub humid	PERSON	1
 sub component 2.1	PERSON	1
 sub component	PERSON	1
 stung treng	PERSON	1
+stung chinit	ORG	1
 study of the wholesale	ORG	1
 study organization and management	ORG	1
 study m	ORG	1
@@ -12491,6 +12785,7 @@ strategic overview	ORG	1
 strategic environmental and social evaluation	ORG	1
 strategic environmental social assessment (sesa	ORG	1
 strategic committee	ORG	1
+stralegc	PERSON	1
 storage agro-processing	GPE	1
 stondansi canal	LOC	1
 stondansi swamp retention	PERSON	1
@@ -12533,6 +12828,7 @@ state department of fisheries	ORG	1
 state council''s leading group	ORG	1
 state coordinators	ORG	1
 state building and trust	ORG	1
+state bank of viet nam asian development bank	ORG	1
 state agriculture universities	ORG	1
 state agriculture policy, department of agriculture, bhubaneswar	ORG	1
 state agency moldsilva	ORG	1
@@ -12566,6 +12862,7 @@ specific instruments	ORG	1
 specialist snfi 1 4230	ORG	1
 special relief fund	ORG	1
 special programs	ORG	1
+special drawing rights	ORG	1
 special conditions precedent to disbursement for works	ORG	1
 special climate change fund	ORG	1
 special category	ORG	1
@@ -12578,6 +12875,7 @@ spain kedougou	PERSON	1
 soviet union	GPE	1
 sovereign fund for strategic investments	ORG	1
 sovereign	ORG	1
+southwest area integrated water resources planning and management project - additional financing	LOC	1
 southwest	LOC	1
 southern zone	GPE	1
 southern regions	ORG	1
@@ -12627,6 +12925,7 @@ sophara chea	PERSON	1
 songhaï center	ORG	1
 son aquellos gastos	PERSON	1
 son thanh	PERSON	1
+son	GPE	1
 somalia national statistical capacity building project	ORG	1
 somalia country brief	ORG	1
 somali government	ORG	1
@@ -12681,6 +12980,7 @@ social safeguards specialist natasa vetma	ORG	1
 social safeguards specialist felipe jacome	ORG	1
 social safeguards specialist d. policies	ORG	1
 social safeguards risks	ORG	1
+social safeguards 10	ORG	1
 social safeguard management - esmf	ORG	1
 social response framework for covid19	ORG	1
 social protection and quality services for all	ORG	1
@@ -12844,6 +13144,7 @@ serán	ORG	1
 será el ministerio de agroindustria del prestatario/receptor	ORG	1
 servicio nacional de sanidad agropecuaria e inocuidad alimentaria	ORG	1
 servicio nacional de reforma agraria	ORG	1
+services- means consulting services and nonconsulting services	ORG	1
 service point	ORG	1
 service commission	ORG	1
 service charge	ORG	1
@@ -12918,12 +13219,15 @@ sector office	ORG	1
 sector m&e strengthened	PERSON	1
 sector coordination and management	ORG	1
 sections ii	PERSON	1
+sections 4.03{a	PERSON	1
+sections	ORG	1
 section vi of the environmental and	ORG	1
 section v of the policies	ORG	1
 section ii	ORG	1
 section i.d	ORG	1
 section i.a.2 of schedule 2	ORG	1
 section b.7.9	ORG	1
+section 9.04 of	ORG	1
 section 4.2.2	ORG	1
 section 1.a.1(b	ORG	1
 secretaries’ committee, commissioners’	ORG	1
@@ -12966,6 +13270,7 @@ saudi arabia	GPE	1
 satu kristiina j. kahkonen	PERSON	1
 satu kahkonen	PERSON	1
 satpura	ORG	1
+sathapana bank	ORG	1
 sarl	PERSON	1
 sarh	PERSON	1
 saouef	GPE	1
@@ -13022,6 +13327,7 @@ sagaing states	GPE	1
 safety of dams op/bp	ORG	1
 safety and environmental	ORG	1
 safety net and basic services project	ORG	1
+safeguards environment	ORG	1
 safeguards assessment and plan	ORG	1
 safeguard specialist	PERSON	1
 safeguard instruments	ORG	1
@@ -13097,6 +13403,7 @@ snfab	ORG	1
 sn identified risks mitigation	ORG	1
 smp & slesca mitigation: slesca & smp	ORG	1
 smp & enable-njala	ORG	1
+smo	ORG	1
 smn	ORG	1
 smes/smis	ORG	1
 smes development, ministry of environment and tourism	ORG	1
@@ -13173,6 +13480,7 @@ scrpiii studies / survey proportion	ORG	1
 scpzs	ORG	1
 scpz support project	ORG	1
 scpz program	ORG	1
+schedules allocation and withdrawal of loan proceeds	ORG	1
 sce construction and operation company	ORG	1
 scb-ii	GPE	1
 scapp	PERSON	1
@@ -13189,6 +13497,7 @@ sapip	ORG	1
 sapec	ORG	1
 sap system  audit reports 	ORG	1
 san	ORG	1
+samaratunga	ORG	1
 sagcot support institutions	ORG	1
 sagcot catalytic trust fund	ORG	1
 safer	ORG	1
@@ -13299,6 +13608,7 @@ rural development mof ministry	ORG	1
 rural development financing	ORG	1
 rural development field agents	ORG	1
 rural development bureau - organizational	ORG	1
+rural connectivity improvement project - additional financing loan number	ORG	1
 rural community finance institutions	ORG	1
 rural community	ORG	1
 rural communities	ORG	1
@@ -13353,6 +13663,7 @@ river valley	LOC	1
 river gee	ORG	1
 river basin management plan	ORG	1
 river basin management	ORG	1
+river basin administration	ORG	1
 rivadavia	GPE	1
 risks and capacity development	ORG	1
 risks - political	ORG	1
@@ -13416,6 +13727,8 @@ resilient productive landscapes project (rplp	ORG	1
 resilient productive landscapes project	ORG	1
 resilient natural resource management for tourism and growth (	ORG	1
 resilient landscapes	ORG	1
+resilient community development project loan number	ORG	1
+resilient community development project	ORG	1
 resilience for sustainable development	ORG	1
 resilience and land investment project	ORG	1
 resilience psc :	PERSON	1
@@ -13517,6 +13830,7 @@ reasons for rejection alternative brief description reasons for rejection	ORG	1
 reasons for rejection alternative brief description reason for rejection develop	ORG	1
 reasons for rejection altenative name brief description reasons for rejection animal	ORG	1
 reardon	PERSON	1
+reallocation 4	ORG	1
 re-organization of extension agents	ORG	1
 raymond rayan permanent	ORG	1
 rawaba	PERSON	1
@@ -13578,10 +13892,10 @@ rrvcp	GPE	1
 rrmsp	ORG	1
 rra rural restructuring agency	ORG	1
 rra	ORG	1
+rp’1	PERSON	1
 rpp	ORG	1
 rpm	ORG	1
 rpacc	ORG	1
-rp	ORG	1
 rnra water resources department	ORG	1
 rnfe	ORG	1
 rnd/cur	ORG	1
@@ -13636,6 +13950,7 @@ repÚblica de el salvador	ORG	1
 republique de madagascar	ORG	1
 reprosem	GPE	1
 renlac	ORG	1
+remdp	LOC	1
 redi ii	ORG	1
 recover - agriculture investments	ORG	1
 recommendations management	ORG	1
@@ -13688,6 +14003,7 @@ qais agah safeguard	ORG	1
 qacha’s nek	PERSON	1
 qabb elias	PERSON	1
 qp	ORG	1
+qo	ORG	1
 qncocpa/gb	ORG	1
 qncocpa	ORG	1
 qer	ORG	1
@@ -13732,6 +14048,7 @@ public investment %	ORG	1
 public finance management reform plan	ORG	1
 public expenditure review	ORG	1
 public debt department elena.matveeva@mf.gov.md	ORG	1
+public awareness and communication 24	ORG	1
 pu	PERSON	1
 président fonds international de développement	LOC	1
 présidence de la république	ORG	1
@@ -13766,6 +14083,7 @@ prov.	GPE	1
 protocols of agreement for grants	ORG	1
 protocols	PERSON	1
 protection of m eans of	ORG	1
+protect executing agency	ORG	1
 prosperity & partnership	ORG	1
 prospere backiny-yetna	ORG	1
 prosopis	ORG	1
@@ -13792,11 +14110,13 @@ projet statut n°	ORG	1
 projects reports	ORG	1
 projects progress	ORG	1
 projects coordination unit	ORG	1
+project1	PERSON	1
 project/contract management	ORG	1
 project on climate resilient agriculture	ORG	1
 project for value chains development	ORG	1
 project for rural income through exports	ORG	1
 project working	ORG	1
+project townships	ORG	1
 project title approval effectiveness	ORG	1
 project technical team	ORG	1
 project review and appraisal committee	ORG	1
@@ -13832,12 +14152,14 @@ project m & e	ORG	1
 project linkages with country strategy	ORG	1
 project launching participatory	ORG	1
 project information sheet client information	ORG	1
+project implementing agency ar:,d	ORG	1
 project implementation units(piu)s	ORG	1
 project implementation units	ORG	1
 project implementation period	ORG	1
 project implementation organisational structure project implementation unit	ORG	1
 project implementation offices	ORG	1
 project implementation arrangements and key performance indicators	ORG	1
+project facilities	ORG	1
 project executive summary overview	ORG	1
 project e & s	ORG	1
 project development objective viable	ORG	1
@@ -13867,6 +14189,7 @@ project affected persons	ORG	1
 project advisory committee	ORG	1
 project accountant (pa	ORG	1
 project -pariis	ORG	1
+project - general implementation arrangements 1	ORG	1
 projec ada.laoualy@yahoo.fr	PERSON	1
 programme for integrated development and adaptation to climate change	ORG	1
 programme for agricultural development	ORG	1
@@ -13887,6 +14210,7 @@ programa integrado de transferência de tecnologias agrárias	PERSON	1
 programa fida mercosur claeh	PERSON	1
 programa fichas	ORG	1
 programa ficha de seguimiento	PERSON	1
+program implementing agency	ORG	1
 program overview	ORG	1
 program monitoring	ORG	1
 program management/ monitoring & evaluation 1	ORG	1
@@ -13894,7 +14218,9 @@ program management unit	ORG	1
 program management	ORG	1
 program institutional and implementation arrangements 34	ORG	1
 program institutional and implementation arrangements	ORG	1
+program implementing agency	ORG	1
 program execution unit	ORG	1
+program executing agency	ORG	1
 program delivery unit	ORG	1
 program advisor	ORG	1
 prog	PERSON	1
@@ -13972,10 +14298,12 @@ presidential advisor - constitutional affairs	ORG	1
 prepare an agricultural transformation strategy support project	ORG	1
 prepare 5 project	ORG	1
 preliminary design avfa agricultural extension and training agency bct	ORG	1
+prek chik	PERSON	1
 prefectural directorate of agriculture du :	ORG	1
 preeti s. ahuja 29-nov-2018	PERSON	1
 preeti s.	PERSON	1
 predictive proxy indicators	ORG	1
+predesign	ORG	1
 preamble c	ORG	1
 preah vihear	PERSON	1
 pradhan mantri krishi sinchai yojana	PERSON	1
@@ -14040,6 +14368,7 @@ plano d irector	PERSON	1
 planning and project management	ORG	1
 planning and investment	ORG	1
 planning and finance ministry of planning and finance	ORG	1
+planning and finance	ORG	1
 planning and agriculture and rural development risk	ORG	1
 planning and agriculture and rural development	ORG	1
 planning framework (ipapf	ORG	1
@@ -14087,6 +14416,9 @@ physical	LOC	1
 phosphorus	PERSON	1
 phongsaly	GPE	1
 phongsali	GPE	1
+phnom penh	GPE	1
+phnom khan	PERSON	1
+philippines facsimile numbers	ORG	1
 phases ii	GPE	1
 phase iii	PERSON	1
 phase	PERSON	1
@@ -14200,6 +14532,7 @@ pan-africa	ORG	1
 pan communal de développement communautaire	ORG	1
 pan american health organization/pan american	ORG	1
 pakistan implementing agency directorate general agriculture	ORG	1
+pakistan facsimile number	ORG	1
 pakistan department of agriculture, government of khyber pukhthukhwa	ORG	1
 pakistan datum	ORG	1
 page 7	PERSON	1
@@ -14389,6 +14722,8 @@ pgfc	ORG	1
 pgcl1 aissatou	PERSON	1
 pgc	ORG	1
 pgai	ORG	1
+pfl	ORG	1
+pft	ORG	1
 pfm specialist coet	ORG	1
 pfm public finance management dfid uk department for international develop	ORG	1
 pfm donor coordination group	ORG	1
@@ -14409,6 +14744,7 @@ pdzsta-kb)	ORG	1
 pdzsta-kb''s	ORG	1
 pdzsta	ORG	1
 pdzp/pndl-afdb	ORG	1
+pdwram	ORG	1
 pdus will	PERSON	1
 pdsa	ORG	1
 pds	ORG	1
@@ -14430,6 +14766,7 @@ pco	ORG	1
 pcms/mi/mae/c	ORG	1
 pcd	ORG	1
 pbg	ORG	1
+pavit ramiachandran country director mongolia	ORG	1
 patag eaj ppf	ORG	1
 patafi	ORG	1
 pat	ORG	1
@@ -14474,7 +14811,6 @@ pagie	ORG	1
 pagefcom ii - communal forests management	ORG	1
 pagba	ORG	1
 pafos	ORG	1
-pafo	ORG	1
 pades	ORG	1
 padel and pahabo	ORG	1
 padefa-ena''s	ORG	1
@@ -14598,7 +14934,9 @@ ouémé valley agricultural infrastructure support project	LOC	1
 ouémé superieur	PERSON	1
 ouémé	ORG	1
 outre les missions de supervision	PERSON	1
+outputs	LOC	1
 output 2.2	PERSON	1
+output 1	LOC	1
 output	ORG	1
 outcomes units baseline target means	ORG	1
 outcomes unit of measure baseline	ORG	1
@@ -14693,6 +15031,7 @@ oley dibba	PERSON	1
 oleg nivievskyi	PERSON	1
 olagoke oladapo	PERSON	1
 oladapo olagoke a. ahfr.2 sector division	ORG	1
+okhindiin tai	PERSON	1
 ohio state university	ORG	1
 ogun	PERSON	1
 office of the provincial	ORG	1
@@ -14707,6 +15046,7 @@ office of treasury registrar,	ORG	1
 office of climate change	ORG	1
 office of agricultural censuses and statistics	ORG	1
 office national du bois	ORG	1
+office equipment, furniture	ORG	1
 office equipment(tbd	ORG	1
 office equipment comp	ORG	1
 odisha economic survey of	ORG	1
@@ -14813,6 +15153,7 @@ nsanje	PERSON	1
 nsalala	GPE	1
 nowshera	ORG	1
 nov.-17	ORG	1
+notwithstanding	ORG	1
 notice wsrmp	ORG	1
 notice 2 start	ORG	1
 norwegian development cooperation agency	ORG	1
@@ -14851,6 +15192,8 @@ nord-est	ORG	1
 nord ubangi	ORG	1
 nora kaoues page 13	PERSON	1
 nora kaoues	PERSON	1
+nonconsuhing services	ORG	1
+nonccnsulting services	ORG	1
 non-wood forest products pniasan	ORG	1
 non-wood forest products	ORG	1
 non-timber forest products	ORG	1
@@ -15174,6 +15517,7 @@ national bureau of standards	ORG	1
 national budget asr proceedings project iprs & qprs impact ass	ORG	1
 national basin management strategy	ORG	1
 national bank of commerce	ORG	1
+national bank of cambodia''s	ORG	1
 national authority for the health safety of food products	ORG	1
 national associations of financial institutions	ORG	1
 national association of farmers of guinea-bissau	ORG	1
@@ -15234,6 +15578,8 @@ nathalie gahunga	PERSON	1
 natalie g. gahunga	PERSON	1
 nat	PERSON	1
 nasriddin najimov	PERSON	1
+naryn rural water supply and sanitation development program loan number	ORG	1
+naryn	GPE	1
 narrative summary key performanceindicators means of verification assumptions name baseline	ORG	1
 naranjo	GPE	1
 nanning	GPE	1
@@ -15415,6 +15761,7 @@ médicago	ORG	1
 mzuzu agricultural development/isd	ORG	1
 mzimba	PERSON	1
 myriam yinusa	PERSON	1
+myanmar environmental impact assessment procedure	ORG	1
 myanmar agriculture development bank	ORG	1
 myanmar agricultural survey	ORG	1
 myanmar agricultural public expenditure review	ORG	1
@@ -15454,6 +15801,7 @@ multi-sector investment plan	ORG	1
 multi-donor trust fund	ORG	1
 mullah	PERSON	1
 muligirwa emmanuel social	PERSON	1
+mula	LOC	1
 muja annah rutebuka 01/12/2020	PERSON	1
 muja annah	PERSON	1
 muhammad riaz	PERSON	1
@@ -15720,8 +16068,10 @@ ministry of finance implementing agency council for development and reconstructi
 ministry of finance implementing agency	ORG	1
 ministry of finance implementing agencies ministry of agroindustry alejandro gennari	ORG	1
 ministry of finance executing	ORG	1
+ministry of finance asian development bank country	ORG	1
 ministry of finance & planning implementing agency office	ORG	1
 ministry of finance & planning contact	ORG	1
+ministry of finance & mass media asian development bank	ORG	1
 ministry of finance & economic planning	ORG	1
 ministry of finance & development planning	ORG	1
 ministry of f rishikesh.singh74@nic.in	ORG	1
@@ -15890,6 +16240,7 @@ michael hamaide 21-feb-2018	PERSON	1
 michael gboyega ilesanmi	PERSON	1
 miami	GPE	1
 mexico city	GPE	1
+metro manna	PERSON	1
 metric ton	PERSON	1
 method total international shopping consulting services other a.	ORG	1
 method estimated amount	ORG	1
@@ -15969,6 +16320,8 @@ matam agricultural development project	ORG	1
 mata masu dubara	ORG	1
 massingir	PERSON	1
 massa circular economy 3.4	PERSON	1
+mass media colombo	ORG	1
+mass media	GPE	1
 masood ahmad	PERSON	1
 mascitelli	PERSON	1
 mascheroni	PERSON	1
@@ -16015,6 +16368,7 @@ mario gonzález flores	PERSON	1
 mario gonzález	PERSON	1
 marine fishery strengthening program	ORG	1
 marine fisheries	ORG	1
+marine	ORG	1
 marie-laure akin-olugbade orwa ext	PERSON	1
 marie-laure akin-olugbade 4047	PERSON	1
 marie-laure akin-olugbade	PERSON	1
@@ -16182,8 +16536,8 @@ msip	ORG	1
 ms program	ORG	1
 ms	ORG	1
 mrsa	ORG	1
-mrd	ORG	1
 mrc	ORG	1
+mqwram	ORG	1
 mpjse	ORG	1
 mpiea	ORG	1
 mph	ORG	1
@@ -16192,6 +16546,7 @@ mpd	ORG	1
 mpaem	ORG	1
 mp	GPE	1
 mozbio	ORG	1
+mowram, department of farmer water user communities	ORG	1
 moti mof	ORG	1
 mossap	PERSON	1
 morh	ORG	1
@@ -16201,6 +16556,8 @@ mord	ORG	1
 moph	ORG	1
 monstat	ORG	1
 monitoring	LOC	1
+mongolia ministry of finance asian	ORG	1
+mongolia	ORG	1
 mone	ORG	1
 mogcsp	ORG	1
 mofec	PERSON	1
@@ -16276,6 +16633,7 @@ mfdp	ORG	1
 mfd	ORG	1
 mevka	ORG	1
 metfpet	ORG	1
+met	ORG	1
 mers-cov	ORG	1
 mercosur	ORG	1
 mera	ORG	1
@@ -16322,6 +16680,7 @@ marhp	ORG	1
 mar	ORG	1
 map of burkina faso	ORG	1
 manr	ORG	1
+manmohan parkash country director bangladesh resident mission 9 schedule 1	ORG	1
 mamda	ORG	1
 mai ministry of agroindustry pea2 federal and participative agri-	ORG	1
 magyp resolution 45	ORG	1
@@ -16386,6 +16745,7 @@ lycées techniques et industriels	ORG	1
 lycée d''enseignement professionnel agricole	ORG	1
 lycée technique industriel	ORG	1
 lycèes d’enseignement	ORG	1
+ly thai	PERSON	1
 lusenga plain	ORG	1
 lusanga	GPE	1
 lump sum/ls	PERSON	1
@@ -16471,8 +16831,11 @@ loan greater accra	PERSON	1
 loan fully	ORG	1
 loan effectiveness	ORG	1
 loan conditions	PERSON	1
+loan agreements	ORG	1
+loan agreement''	ORG	1
 loan agreement beneficiary/bank	ORG	1
 loan accra	PERSON	1
+loan account	PERSON	1
 loa	ORG	1
 living conditions monitoring survey report	ORG	1
 livestock, post and telecommunications	ORG	1
@@ -16518,7 +16881,6 @@ liscow	GPE	1
 lisandro martin director	PERSON	1
 liquid waste recycling support project	ORG	1
 linking smallholder farmers to markets	ORG	1
-linked indicators	PERSON	1
 linked agri-risk assessment tool	ORG	1
 link	ORG	1
 lining	GPE	1
@@ -16527,6 +16889,7 @@ limited govt	PERSON	1
 limitaciones	ORG	1
 lilongwe university of agriculture and natural resources	ORG	1
 likhetlane	GPE	1
+light industry	ORG	1
 light	ORG	1
 licungo	GPE	1
 licitación pública internacional	ORG	1
@@ -16629,6 +16992,8 @@ lao pdr	ORG	1
 lao farmers network	ORG	1
 lao environmental	ORG	1
 lange	LOC	1
+lang son province	PERSON	1
+lang	GPE	1
 landslide 8(4	PERSON	1
 lands, country planning and environment, environmental protection agency	ORG	1
 lands (mdryt	ORG	1
@@ -16642,6 +17007,7 @@ land restoration and security p	ORG	1
 land project	ORG	1
 land management efforts	ORG	1
 land mef ministry of economy and public finance mpd ministry of planning and development pcr program completion report sesa strategic environmental	ORG	1
+land leasing 21	ORG	1
 land development and integrated management	ORG	1
 land degradation project	ORG	1
 land degradation neutrality	ORG	1
@@ -16733,8 +17099,8 @@ lot/p.34	ORG	1
 lossombot principal financial management specialist cocd 6348	ORG	1
 lonzo	ORG	1
 logical framework country	ORG	1
+loan number	ORG	1
 loan information	ORG	1
-loan	ORG	1
 lmic	ORG	1
 list of tables currency equivalents	ORG	1
 list of goods & services	ORG	1
@@ -16744,6 +17110,7 @@ licp	ORG	1
 liberia smallholder agriculture development for food and	ORG	1
 lib	ORG	1
 li	ORG	1
+lged	ORG	1
 lfn	ORG	1
 lessons learned lessons	ORG	1
 lessons	ORG	1
@@ -16784,6 +17151,7 @@ lasip	ORG	1
 lased iii	PERSON	1
 lased ii skeomonine@online.com.kh national committee for sub-national democratic and development secretariat	ORG	1
 lao people’s democratic republic	ORG	1
+lao peoples democratic republic	ORG	1
 lake chad	LOC	1
 lab	ORG	1
 la cre	ORG	1
@@ -16810,6 +17178,7 @@ l l	ORG	1
 kérou, kouandé, matéri	ORG	1
 kérou	GPE	1
 kénédougou province	GPE	1
+kyrgyzhydromet	ORG	1
 kyrgyz republic implementing agency ministry of finance	ORG	1
 kwilu/kwango oil mill	ORG	1
 kwanza	PERSON	1
@@ -16835,6 +17204,8 @@ krishi vigyan kendra	PERSON	1
 krishi sinchai yojana	PERSON	1
 krishi sakhi	PERSON	1
 kreditanstalt für wiederaufbau	PERSON	1
+kraisang headworks	PERSON	1
+kraisang	GPE	1
 kpomassè	PERSON	1
 kouroussa	GPE	1
 koudougou	GPE	1
@@ -16983,6 +17354,7 @@ kandadji	LOC	1
 kananga	GPE	1
 kan rivers	PERSON	1
 kamwenge	ORG	1
+kamping pouy subproject	ORG	1
 kampala	GPE	1
 kambia	GPE	1
 kamal lochan	PERSON	1
@@ -17001,6 +17373,7 @@ kabul river	LOC	1
 kabul central region	LOC	1
 kabataş	GPE	1
 kabale	ORG	1
+kyrgyz republic authorized representative ''	ORG	1
 kyc	ORG	1
 kw	PERSON	1
 ksc	ORG	1
@@ -17123,6 +17496,7 @@ jea young agricultural entrepreneurs	ORG	1
 jcas	ORG	1
 jas	ORG	1
 j/p hro	ORG	1
+j/ / kgz	ORG	1
 j.c. nsabimana	PERSON	1
 j. et al	PERSON	1
 j. w., esty	PERSON	1
@@ -17178,6 +17552,7 @@ iran	GPE	1
 iomami	ORG	1
 involvement 5.2.1 conditions	ORG	1
 involvement 1.2.1 incidences	ORG	1
+involuntary resettlement and indigenous peoples 13	ORG	1
 involuntary resettlement x ps 6:	ORG	1
 investments for agricultural value chains	ORG	1
 investments comments	ORG	1
@@ -17344,6 +17719,7 @@ innovation -climate change	ORG	1
 innovation (ministère de l’enseignement	ORG	1
 inner2	ORG	1
 inner delta	LOC	1
+initial concessional loan agreement	ORG	1
 initial activities internal processing of	ORG	1
 inharrim e	ORG	1
 ingenious peoples planning framework (ippf	ORG	1
@@ -17388,6 +17764,7 @@ india p166745 national rural economic transformation project	ORG	1
 india p160408 maharashtra project	ORG	1
 india implementing agency	ORG	1
 india climate change mitigation action support	ORG	1
+independent verification agent 3	ORG	1
 independent evaluation department	ORG	1
 independence	GPE	1
 incubation centre cms	ORG	1
@@ -17400,6 +17777,7 @@ incorporation	ORG	1
 inclusive value chains development outcome 1	ORG	1
 inclusive value chains development	ORG	1
 inclusive value	ORG	1
+inclusive finance facility	ORG	1
 inclusive access to basic social services	ORG	1
 inclusive	ORG	1
 inadequate	ORG	1
@@ -17686,6 +18064,7 @@ ida d1680	ORG	1
 ida 5650 credit	ORG	1
 ida 5570-ml	ORG	1
 ida - financing agreements ida-55740 (credit	ORG	1
+ict project review and evaluation	ORG	1
 icrisat international crops research institute	ORG	1
 icra années 1	PERSON	1
 icpac	ORG	1
@@ -17741,6 +18120,7 @@ households	PERSON	1
 household and economic survey reports	ORG	1
 household food	ORG	1
 house	ORG	1
+houaphan province	GPE	1
 hotter	PERSON	1
 hotels	ORG	1
 hot-spot areas	ORG	1
@@ -17788,6 +18168,12 @@ healthy human resources	ORG	1
 health, agriculture and wash	ORG	1
 health workers(10)tech	ORG	1
 health and safety guidelines	ORG	1
+health and safety 39	ORG	1
+health and safety 28	ORG	1
+health and safety 16	ORG	1
+health and safety 15	ORG	1
+health and safety 14	ORG	1
+health and safety 12	ORG	1
 health workers	ORG	1
 health services reinforcement project	ORG	1
 health sector investment promotion support project ongo	ORG	1
@@ -17815,6 +18201,7 @@ haripur	GPE	1
 hargeisa	GPE	1
 hardware - digital finance platform	ORG	1
 harald oberhofer	PERSON	1
+hanoi	GPE	1
 hanna ponomarenko	PERSON	1
 hangu	PERSON	1
 handbook on import risk analysis for animals products	ORG	1
@@ -17847,6 +18234,7 @@ hp forest eco-system climate proofing project	ORG	1
 hp forest department	ORG	1
 hortex	ORG	1
 hmp	ORG	1
+hltf grant agreement	ORG	1
 higher education science & technology & technical 2200160000939	ORG	1
 higher education science & technology & technical 2100155022172	ORG	1
 higher education science & technology & technical 2100150026296	ORG	1
@@ -17919,6 +18307,7 @@ guinea bissau’s	PERSON	1
 guinea af	GPE	1
 guinea a2	GPE	1
 guidimakha	ORG	1
+guidelines for participatory water management 2001	ORG	1
 guiana shield	GPE	1
 gui	PERSON	1
 guerdane	PERSON	1
@@ -17950,7 +18339,6 @@ gross	ORG	1
 grievance redressal	PERSON	1
 grievance redress mechanisms	ORG	1
 grievance redress mechanism	ORG	1
-grievance	PERSON	1
 grenada/svg	ORG	1
 grenada svg - ministry of economic planning, sustainable development, industry, information	ORG	1
 grenada cocoa association	ORG	1
@@ -17999,6 +18387,7 @@ grant conditions	PERSON	1
 grant bagri	PERSON	1
 grant amount	PERSON	1
 grant agreements	ORG	1
+grant agreement*	PERSON	1
 grant agreement government/	ORG	1
 grant account	PERSON	1
 grant 2 signature	PERSON	1
@@ -18042,6 +18431,7 @@ government of sierra leone	ORG	1
 government of serbia	ORG	1
 government of samoa	ORG	1
 government of niger	ORG	1
+government of netherlands	ORG	1
 government of maharashtra	ORG	1
 government of madagascar	ORG	1
 government of liberia	ORG	1
@@ -18077,11 +18467,13 @@ goudomp	ORG	1
 goubet	ORG	1
 gorgol	GPE	1
 gopalaswamy srihari	PERSON	1
-goods, works	ORG	1
+goods, works, and consulting services	ORG	1
+goods, works, goods and services	ORG	1
 goods, service & inputs	ORG	1
 goods, equipment and materials	ORG	1
 goods  machinery & equip  vehicles  office equipment	ORG	1
 goods and materials	ORG	1
+goods works and services	PERSON	1
 goods sudan	PERSON	1
 goods services & inputs	ORG	1
 goods environmental	ORG	1
@@ -18134,6 +18526,7 @@ giménez rolón	PERSON	1
 gijduvan	PERSON	1
 gignoux	PERSON	1
 gibbons, maffioli	ORG	1
+giang province	GPE	1
 ghor	PERSON	1
 ghazzé	GPE	1
 ghatak	GPE	1
@@ -18199,6 +18592,7 @@ gender, ghg	PERSON	1
 gender, climate	ORG	1
 gender and social development specialist	ORG	1
 gender and social affairs	ORG	1
+gender and development	ORG	1
 gender and communication specialist	ORG	1
 gender and children’s affairs, environmental protection agency	ORG	1
 gender and children affairs	ORG	1
@@ -18241,6 +18635,7 @@ garry christensen	PERSON	1
 garoua	GPE	1
 garcía-suárez	PERSON	1
 garabtissam- balho	PERSON	1
+gaps	PERSON	1
 ganta-saglepie	ORG	1
 gansu province	GPE	1
 gangetic dolphin	PERSON	1
@@ -18310,6 +18705,7 @@ gm	ORG	1
 glof	GPE	1
 gitega-nyangungu-ngozi road development and asphalting project	ORG	1
 gisal	ORG	1
+gis wmo	ORG	1
 gis geographic information system gom government	ORG	1
 gis feasibility	ORG	1
 girsal quarterly performance reports risk:	ORG	1
@@ -18322,6 +18718,8 @@ ghlbank	ORG	1
 ggw	ORG	1
 ger	ORG	1
 gepe	ORG	1
+geia letter	ORG	1
+geia	ORG	1
 gef/ldcf.sccf.17/05/	ORG	1
 gef climate change and	ORG	1
 ge	ORG	1
@@ -18455,7 +18853,6 @@ focal points	ORG	1
 focal point with government	ORG	1
 focal point - ministry of environment	ORG	1
 flora dda departmental agricultural directorate	ORG	1
-flora	GPE	1
 flood risk	PERSON	1
 flemish international cooperation agency	ORG	1
 fié	LOC	1
@@ -18621,6 +19018,7 @@ falconi	PERSON	1
 faizabad	GPE	1
 fadama iii/	PERSON	1
 fadama iii additional financing	ORG	1
+facsimile numbers	PERSON	1
 facility eu european union	ORG	1
 facility adb loan	ORG	1
 facilitators, services providers	ORG	1
@@ -18636,6 +19034,8 @@ fy16-fy202	ORG	1
 fy16-fy19	ORG	1
 fy14	GPE	1
 fy02	GPE	1
+fwuc management committee	ORG	1
+fwuc	ORG	1
 fwr	ORG	1
 fta/grm/sa	ORG	1
 fss grant	ORG	1
@@ -18776,7 +19176,6 @@ european union global network against	ORG	1
 european union aweil stabilization and recovery programme	ORG	1
 european investment bank	ORG	1
 european bank for reconstruction and development	ORG	1
-euro	ORG	1
 euphrates-tigris	GPE	1
 eugeniu osmochescu	PERSON	1
 etude de a situation de référence	ORG	1
@@ -18805,9 +19204,11 @@ erramalai	PERSON	1
 errachidia	ORG	1
 erick shitindi title	PERSON	1
 eric dirabou yapi	PERSON	1
+equity capital loans	ORG	1
 equitable	ORG	1
 equipment of plat	ORG	1
 equipment & materials equipment 4,595.76	ORG	1
+equipment & machinery	ORG	1
 equipment &	ORG	1
 equateur province	GPE	1
 environnement	ORG	1
@@ -18909,8 +19310,11 @@ elle s''articule	PERSON	1
 ellada investiments pty ltd	ORG	1
 elizabeth chavez	PERSON	1
 elisabeth huybens	PERSON	1
+eligible sub-borrower''	PERSON	1
+eligible sub-borrower	PERSON	1
 eligible crisis	ORG	1
-eligible	ORG	1
+eligible activity	ORG	1
+eligible activities	ORG	1
 el/la gerente	ORG	1
 el-obied	ORG	1
 el-obeid	ORG	1
@@ -18965,8 +19369,8 @@ edson mpyisi	PERSON	1
 edith scheikerman de obschatko et al.	PERSON	1
 edgardo m. favaro	PERSON	1
 ed tel	PERSON	1
-economy and finance	ORG	1
 economique	GPE	1
+economics relations division ministry of finance asian development bank	ORG	1
 economics affairs division	ORG	1
 economics	ORG	1
 economic and social services	ORG	1
@@ -18977,6 +19381,8 @@ economic relations division ministry of finance government	ORG	1
 economic participation and opportunity	ORG	1
 economic governance development policy operation	ORG	1
 economic development and poverty	ORG	1
+economic affairs division	ORG	1
+economic affairs	ORG	1
 ecological zone pcmu programme co-ordination	ORG	1
 ecole supérieure d’agronomie	PERSON	1
 ecosan	ORG	1
@@ -19053,6 +19459,7 @@ equipment & materials equipment 2,302.69	ORG	1
 equipment & materials equipment 1,130.85	ORG	1
 equipment & materials	ORG	1
 equipment & inputs	ORG	1
+eps	ORG	1
 epd	ORG	1
 epa number	ORG	1
 epa environmental protection agency	ORG	1
@@ -19075,9 +19482,12 @@ emu	ORG	1
 empoderar financing	ORG	1
 emp checklists	ORG	1
 emicov/eds food	ORG	1
+emgp	ORG	1
+emgf	LOC	1
 emc 2014	ORG	1
 ema	ORG	1
 eio	ORG	1
+eimp	ORG	1
 eib national irrigation water saving support programme	ORG	1
 eiar	ORG	1
 eia report	ORG	1
@@ -19260,6 +19670,8 @@ disbursement schedule	PERSON	1
 disbursement linked indicators	PERSON	1
 disbursement arrangements 4.1.8	PERSON	1
 disburse ment ratio age (years	ORG	1
+disaster-resilient water resources sector project loan number	ORG	1
+disaster risk reduction fund	ORG	1
 disaster risk management policy	ORG	1
 disaster risk management	ORG	1
 disaster management and social development	ORG	1
@@ -19329,6 +19741,7 @@ dhushyanth raju senior social protection specialist borrower/client/recipient	OR
 dhamar	PERSON	1
 dfa	ORG	1
 devoll	ORG	1
+devetopmenl bank	ORG	1
 developments	ORG	1
 development of processing & marketing infrastructure	ORG	1
 development of agro-industry	ORG	1
@@ -19377,6 +19790,7 @@ departmental	LOC	1
 department of trancas	ORG	1
 department of statistics: data platform	ORG	1
 department of rural development	ORG	1
+department of public health engineering	ORG	1
 department of planning and development	ORG	1
 department of planning and cooperation	ORG	1
 department of irrigation/id	ORG	1
@@ -19385,9 +19799,8 @@ department of irrigation telephone	ORG	1
 department of irrigation contact :	ORG	1
 department of industry and commerce	ORG	1
 department of health (doh	ORG	1
-department of fisheries	ORG	1
 department of finance	ORG	1
-department of environment	ORG	1
+department of external resources facsimile	ORG	1
 department of emergency situations	ORG	1
 department of cottage and small industries	ORG	1
 department of community development	ORG	1
@@ -19395,6 +19808,7 @@ department of agriculture/doa	ORG	1
 department of agriculture, cooperation & farmers welfare, government of india 2	ORG	1
 department of agriculture misrar04@gmail.com department of irrigation, government	ORG	1
 department of agriculture and	ORG	1
+department of agriculture extension	ORG	1
 department of agriculture economics	ORG	1
 department of agricultural research/dar	ORG	1
 department of agricultural land management and statistics	ORG	1
@@ -19430,6 +19844,7 @@ degraded forest landscapes	ORG	1
 definition/ description source baseline	ORG	1
 definition/	ORG	1
 deficiencias de la plataforma tecnológica	PERSON	1
+deen	GPE	1
 dedza	ORG	1
 decreto no.54/2015	ORG	1
 decreto lei	PERSON	1
@@ -19442,6 +19857,7 @@ decree n°	ORG	1
 deconcentrated public institution for food sovereignty]	ORG	1
 deconcentrated public institution for food sovereignty	ORG	1
 decision tools	PERSON	1
+decentralized water management 19	ORG	1
 decentralized technical services	ORG	1
 decentralised monitoring and evaluation sgp strategic guidance paper slm sustainable land management taat technologies	ORG	1
 decentralisation	GPE	1
@@ -19467,6 +19883,7 @@ david ivanovic designation	PERSON	1
 david hunter	PERSON	1
 david cotacachi	PERSON	1
 david bridgman	PERSON	1
+dauntri	GPE	1
 date of board	ORG	1
 date final disb.	PERSON	1
 date amt	PERSON	1
@@ -19513,6 +19930,7 @@ dairi vele	PERSON	1
 dahua	PERSON	1
 dadalauri	GPE	1
 dvcc as innovation platforms	ORG	1
+durrani-jamal country	ORG	1
 du	ORG	1
 dtaon	ORG	1
 dss	ORG	1
@@ -19559,6 +19977,7 @@ dns	ORG	1
 dnpc	ORG	1
 dnp	ORG	1
 dnas	ORG	1
+dll	ORG	1
 dls department of livestock services	ORG	1
 dlrp	ORG	1
 dli 1,	ORG	1
@@ -19757,6 +20176,7 @@ corantijn canal and stondansi canal	ORG	1
 corantijn canal 6 rationale	ORG	1
 copan	GPE	1
 coordonner	ORG	1
+coordination with development partners 26	ORG	1
 coordination and facilitation	ORG	1
 coordination steering committee m	ORG	1
 coordination committee	ORG	1
@@ -19775,6 +20195,7 @@ cooperative program	ORG	1
 cooperative development and enhancement	ORG	1
 cooperating partners group	ORG	1
 cookshop	PERSON	1
+cood govern	PERSON	1
 convenio y al rop	PERSON	1
 convenio de financiación	ORG	1
 contuboel, gêba	ORG	1
@@ -19805,7 +20226,6 @@ context sri lanka’s	GPE	1
 context south africa’s	LOC	1
 context climate	ORG	1
 contact	PERSON	1
-consulting services	ORG	1
 consultative council	ORG	1
 consultative committee	ORG	1
 consultative	ORG	1
@@ -19849,7 +20269,7 @@ conditions associated with fund intervention 5.2.1 conditions	ORG	1
 conditions associated with bank’s involvement	ORG	1
 condition precedent to entry into	ORG	1
 cond	ORG	1
-concessional	ORG	1
+concessional) loan regulations	ORG	1
 conceptualización de la	PERSON	1
 conakry office	ORG	1
 comé	ORG	1
@@ -19956,6 +20376,7 @@ community development councils	ORG	1
 community collaborative water management (ccwm	ORG	1
 community based organizations	ORG	1
 community banks and financial services associations	ORG	1
+community awareness and beneficiary participation	ORG	1
 community agricultural infrastructure improvement project 3	ORG	1
 community agricultural infrastructure improvement project - 1	ORG	1
 community agricultural infrastructure improvement programme project 2	ORG	1
@@ -20146,6 +20567,7 @@ chakib jenane 21-aug-2018	PERSON	1
 chairperson september 2017 afdb board	ORG	1
 chair of the badf board of directors	ORG	1
 chair	ORG	1
+chain loan	PERSON	1
 chain develop	PERSON	1
 chain dev	PERSON	1
 chagga	ORG	1
@@ -20220,6 +20642,7 @@ cdr	ORG	1
 catherine signe	PERSON	1
 catherine meola	PERSON	1
 categoría monto	PERSON	1
+category1	PERSON	1
 category total	ORG	1
 category loan amount allocated	PERSON	1
 category ii	PERSON	1
@@ -20276,6 +20699,7 @@ capacity building & institutional development	ORG	1
 capacity building	PERSON	1
 capacidad de uso mayor de la tierra	PERSON	1
 cap	PERSON	1
+cao bang	PERSON	1
 canisius kanangire	PERSON	1
 canchungo division	ORG	1
 canan yildiz sr natural	PERSON	1
@@ -20555,6 +20979,7 @@ c. manuel des	PERSON	1
 c. impact	ORG	1
 c. higher level	PERSON	1
 c. components 10	PERSON	1
+c. component 2	PERSON	1
 c. benefit	PERSON	1
 c. bank’s	ORG	1
 c. agricultural innovation fund operational guidelines and procedures 1	ORG	1
@@ -20680,7 +21105,7 @@ botswana	GPE	1
 botha-bothe	PERSON	1
 bosso	GPE	1
 bossembele	GPE	1
-borrowers	ORG	1
+borrowers ministry of agriculture forestry	ORG	1
 borrower/recipient ibrd others	ORG	1
 borrower/recipient 0 international development association	ORG	1
 borrower/donee	ORG	1
@@ -20705,6 +21130,8 @@ borrower/client/recipient borrower :	ORG	1
 borrower or bank	ORG	1
 borrower procurement systems	ORG	1
 borrower ministry of finance and budget bp	ORG	1
+borrower ministry of finance	ORG	1
+borrowei	PERSON	1
 boromo	GPE	1
 borno state	ORG	1
 borgou division	ORG	1
@@ -20843,6 +21270,7 @@ bayarsaikhan tumurdavaa title	PERSON	1
 bayarsaikhan tumurdavaa	PERSON	1
 bauchi	PERSON	1
 batagram	PERSON	1
+bassac	PERSON	1
 basin administration of irrigation system	ORG	1
 basic social services	ORG	1
 baseline, completion survey	ORG	1
@@ -20949,7 +21377,9 @@ banikoara bmz/giz	ORG	1
 bangladeshi taka	ORG	1
 bangladesh total amount % amount % amount % amount % amount 1	ORG	1
 bangladesh for the fund: president international fund for agricultural development	ORG	1
+bangladesh facsimile number	ORG	1
 bangladesh facsimile	ORG	1
+bangladesh 7 facsimile number	ORG	1
 bangla	GPE	1
 bandundu city	GPE	1
 bandita sijapati	PERSON	1
@@ -20970,6 +21400,7 @@ bamyan	GPE	1
 bamar	GPE	1
 bamako-zantiebougou-	ORG	1
 bama	PERSON	1
+balochistan water resources development sector project loan number	ORG	1
 ballabour	GPE	1
 balla	PERSON	1
 balkh	PERSON	1
@@ -21013,6 +21444,7 @@ badakhsan	GPE	1
 bacoumana agro	GPE	1
 backyard	ORG	1
 background appendix	PERSON	1
+bac kan	PERSON	1
 babato	GPE	1
 babar naseem khan	PERSON	1
 babai ip	PERSON	1
@@ -21040,6 +21472,7 @@ bo & kenema	ORG	1
 bnda of mali	ORG	1
 bna	ORG	1
 bmz	ORG	1
+bmp	ORG	1
 bmn	ORG	1
 bmgf and world bank	ORG	1
 bmg	ORG	1
@@ -21160,7 +21593,6 @@ assam agribusiness	PERSON	1
 assaba	GPE	1
 asistencia técnica	PERSON	1
 asistencia técnica	PERSON	1
-asian development bank	ORG	1
 asia-pacific	LOC	1
 arvind kumar title	PERSON	1
 artisanal fisheries development program executing agency	ORG	1
@@ -21234,6 +21666,7 @@ appendix b5	ORG	1
 appendix b key arguments to support the project appendix c operational annexes i currency equivalents	ORG	1
 appendix a country development agenda	ORG	1
 appendix 6	ORG	1
+appendix 5	ORG	1
 apoyo	PERSON	1
 apolima-uta	PERSON	1
 apiary	GPE	1
@@ -21388,6 +21821,7 @@ al-maghrib	PERSON	1
 al udaya	PERSON	1
 al jawf	LOC	1
 al hudaydah	ORG	1
+al f eligible activity	PERSON	1
 al dhale’e, al jawf	LOC	1
 akola	GPE	1
 ajutor	ORG	1
@@ -21493,6 +21927,7 @@ agriculture board	ORG	1
 agriculturalmarket development outcome2	ORG	1
 agricultural/rural livelihoods	ORG	1
 agricultural and rural enterprises	ORG	1
+agricultural and rural development bank	ORG	1
 agricultural water management projects	ORG	1
 agricultural voluntary programme	ORG	1
 agricultural vocational training exp	ORG	1
@@ -21501,6 +21936,7 @@ agricultural value chains development programme	ORG	1
 agricultural value chain support	ORG	1
 agricultural value chain development programme purpose	ORG	1
 agricultural value chain development	ORG	1
+agricultural value chain competitiveness and safety enhancement project loan number	ORG	1
 agricultural transformation and youth employment	ORG	1
 agricultural transformation support project	ORG	1
 agricultural transformation strategy	ORG	1
@@ -21703,6 +22139,7 @@ administrative courts	ORG	1
 administrative assistant	ORG	1
 administration system for bank projects]	ORG	1
 administration system for bank projects	ORG	1
+administration arrangement	ORG	1
 administración nacional de combustibles	ORG	1
 adjohoun	GPE	1
 adetunji a. oredipe	PERSON	1
@@ -21823,12 +22260,16 @@ asp	ORG	1
 asmp	ORG	1
 asky	ORG	1
 asip	ORG	1
+asian development bankcadb	ORG	1
+asian development bank dated & qec&rnjom	ORG	1
 asi	ORG	1
 asepex senegalese export promotion agency	ORG	1
 asec	ORG	1
+asean lnfrastructu»e fund	ORG	1
 asdu agriculture sector development unit	ORG	1
 asals	PERSON	1
 article iv —	ORG	1
+article iv particular covenants section 4,01	ORG	1
 ars para	ORG	1
 ars	ORG	1
 arp	ORG	1
@@ -21856,6 +22297,7 @@ apd	ORG	1
 apcbtmp	GPE	1
 ap socio-economic survey	ORG	1
 ap drought adaptation initiative	ORG	1
+ao0 kingdom of ca	ORG	1
 ansd national agency for statistics	ORG	1
 anpdf	ORG	1
 anopaci	ORG	1
@@ -21887,6 +22329,8 @@ aipz	ORG	1
 aimu - agriculture investment management unit	ORG	1
 aif-1/pbrg operational guidelines and procedures	ORG	1
 aif-1/pbrg	ORG	1
+aif eligible activity under	PERSON	1
+aif eligible activities	ORG	1
 ai 3.6.2 change	ORG	1
 ahhd	PERSON	1
 ahfr.2 rebecca dadzie	PERSON	1
@@ -21923,6 +22367,7 @@ afdb country offices	ORG	1
 afdb afdb board	ORG	1
 afd/ird	ORG	1
 afd)/world bank	ORG	1
+afd loan''	ORG	1
 aecid-marndr	ORG	1
 aec	ORG	1
 adi	ORG	1
@@ -21951,6 +22396,7 @@ adf grants 3 board	ORG	1
 adf grant tsf-pillar 1 rwssi-tf gef	PERSON	1
 adf grant financing agreements	ORG	1
 adf grant agreements	ORG	1
+adf grant agreement''	ORG	1
 adf grant 15/03/2017	ORG	1
 adf grant 10/10/2018	ORG	1
 adf grant 07/11/2018	ORG	1
@@ -21961,6 +22407,8 @@ adf african development fund asdpg agriculture & rural development donor coordin
 adf african development fund af adaptation fund	ORG	1
 adf 13 loan	ORG	1
 adf & afdb	ORG	1
+ade	ORG	1
+adb?s ordinary operations	ORG	1
 adb statistics department database	ORG	1
 adb loan agreements	ORG	1
 adazzz	ORG	1
@@ -22063,6 +22511,7 @@ a national steering committee	ORG	1
 650,72	ORG	1
 646,53	PERSON	1
 644,44 van	PERSON	1
+616/2015 on environmental impact	ORG	1
 600,000mt	ORG	1
 600 group development plans	ORG	1
 6.90 green climate fund	ORG	1
@@ -22180,10 +22629,10 @@ a national steering committee	ORG	1
 4 project	ORG	1
 4 outputs unit	ORG	1
 4 national bureau of statistics	ORG	1
+4 incremental	ORG	1
 4 farm income enhancement and forestry conservation project ii	ORG	1
 4 enterprises survey report	ORG	1
 4 ecgf mic grant institutional strengthening	ORG	1
-4 consulting services	ORG	1
 4 c. benefit	PERSON	1
 4 agricultural	ORG	1
 4 african legal support facility	ORG	1
@@ -22246,6 +22695,8 @@ a national steering committee	ORG	1
 3,096.99 promotion of youth entrepreneurship	ORG	1
 3(1	PERSON	1
 3 military courts	ORG	1
+3 consulting services (project management, design and supervision consultant	ORG	1
+3 consulting services	ORG	1
 2b complementary	ORG	1
 2pai bélier	GPE	1
 29 de noviembre de 20167	PERSON	1
@@ -22478,3 +22929,5 @@ a national steering committee	ORG	1
 & bank’s	ORG	1
 % tbd	PERSON	1
 % n/a n	ORG	1
+"""environmental impact assessment"""	ORG	1
+"""environmental assessment and review framework"	ORG	1

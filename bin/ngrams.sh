@@ -11,7 +11,9 @@
 # configure
 SUBCORPORA='./subcorpora'
 NGRAMS='./bin/ngrams.py'
-HEADER='file\tcount'
+SIZE='./bin/size.py'
+MULTIPLIER=10000
+SCALE=7
 
 # sanity check; get input
 if [[ -z $1 || -z $2 ]]; then
@@ -23,20 +25,31 @@ fi
 N=$1
 PATTERN=$2
 
-# initialize output
-echo -e "$HEADER"
-
 # process each subcorpus
 find $SUBCORPORA -type f | sort | while read FILE; do
 
 	# create pretty filename (mostly) and debug
 	BASENAME=$( basename $FILE '.txt' )
-	echo $BASENAME... >&2
+	echo "       basename: $BASENAME" >&2
 	
-	# do the work
-	printf "$BASENAME\t"
-	$NGRAMS $FILE $N | grep -c $PATTERN
+	# count the number of occurrences
+	NUMERATOR=$( $NGRAMS $FILE $N | grep -c $PATTERN )
+	echo "          count: $NUMERATOR" >&2
+	
+	# get the size of the (sub)corpus
+	DENOMERATOR=$( $SIZE $FILE )
+	echo "           size: $DENOMERATOR" >&2
 
+	# calculate the relative number of occurrences
+	RELATIVESIZE=$( echo "scale=$SCALE; $NUMERATOR/$DENOMERATOR*$MULTIPLIER" | bc )
+	echo "  relative size: $RELATIVESIZE" >&2
+
+	# output
+	printf "$BASENAME\t$RELATIVESIZE\n"
+
+    # prettify
+    echo >&2
+    	
 done
 exit
 

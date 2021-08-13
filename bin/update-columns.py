@@ -28,18 +28,18 @@ for index, row in metadata.iterrows() :
 	# parse
 	country = row[ 'country' ]
 	region  = row[ 'region' ]
-	amount  = row[ 'amount' ]
+	finance  = row[ 'finance' ]
 	file    = row[ 'file' ]
 	
 	# normalize, escape quotes, create key, and create sql
-	amount  = str( amount )
+	finance  = str( finance )
 	country = country.replace( "'", "''" )
 	region  = region.replace( "'", "''" )
 	key     = file.replace( '.pdf', '' )
-	sql     = ( UPDATE % ( country, region, amount, key ) )
+	sql     = ( UPDATE % ( country, region, finance, key ) )
 		
 	# debug
-	stderr.write( '\t'.join( [ key, country, region, amount ] ) + '\n' )
+	stderr.write( '\t'.join( [ key, country, region, finance ] ) + '\n' )
 	stderr.write( sql + '\n' )
 	
 	# do the work

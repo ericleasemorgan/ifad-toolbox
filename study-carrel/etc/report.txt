@@ -23,12 +23,12 @@ report.
 
 Number of items in the collection; 'How big is my corpus?'
 ----------------------------------------------------------
-195
+208
 
 
 Average length of all items measured in words; "More or less, how big is each item?"
 ------------------------------------------------------------------------------------
-882
+8631
 
 
 Average readability score of all items (0 = difficult; 100 = easy)
@@ -39,18 +39,21 @@ Average readability score of all items (0 = difficult; 100 = easy)
 Top 50 statistically significant keywords; "What is my collection about?"
 -------------------------------------------------------------------------
 127	Bank
-107	Project
+116	Project
 56	Development
 53	World
 29	Agriculture
 22	IFAD
 19	Agricultural
+14	Loan
 13	project
+12	Borrower
 11	Management
 11	Government
 11	Fund
+10	Program
+10	ADB
 9	support
-9	Program
 9	ADF
 8	National
 7	Rural
@@ -85,139 +88,138 @@ Top 50 statistically significant keywords; "What is my collection about?"
 3	Morocco
 3	Moldova
 3	MARNDR
-3	Liberia
-3	Leone
-3	Lake
 
 
 Top 50 lemmatized nouns; "What is discussed?"
 ---------------------------------------------
-13963	project
-8158	%
-5076	sector
-4463	development
-4423	management
-4103	activity
-4021	area
-3517	implementation
-3247	country
-3238	production
-3210	value
-3185	service
-3166	agriculture
-2946	system
-2825	component
-2751	support
-2738	capacity
-2646	impact
-2640	farmer
-2562	water
-2505	market
-2503	cost
-2475	woman
-2444	food
-2417	program
-2417	investment
-2315	risk
-2298	access
-2275	policy
-2268	i
-2259	land
-2255	resource
-2254	level
-2221	infrastructure
-2204	chain
-2202	year
-2174	climate
-2091	percent
-1866	technology
-1818	financing
-1773	growth
-1689	term
-1674	procurement
-1654	beneficiary
-1636	community
-1633	irrigation
-1601	productivity
-1594	plan
-1590	crop
-1565	poverty
+14034	project
+8275	%
+5080	sector
+4549	management
+4500	development
+4211	activity
+4066	area
+3676	implementation
+3308	service
+3258	country
+3256	production
+3233	value
+3178	agriculture
+3008	system
+2837	component
+2777	support
+2757	capacity
+2754	impact
+2653	farmer
+2650	water
+2533	cost
+2512	market
+2503	woman
+2447	investment
+2445	food
+2444	program
+2375	risk
+2349	i
+2336	resource
+2328	land
+2307	access
+2287	policy
+2265	infrastructure
+2264	level
+2262	year
+2212	chain
+2193	climate
+2092	percent
+1870	technology
+1853	financing
+1839	term
+1787	procurement
+1775	growth
+1691	plan
+1691	irrigation
+1677	community
+1657	beneficiary
+1634	measure
+1608	productivity
+1593	crop
 
 
 Top 50 proper nouns; "What are the names of persons or places?"
 --------------------------------------------------------------
-6729	Bank
-6621	Project
-3454	Development
-2664	_
-2635	World
-2245	Agriculture
-1951	de
-1833	Management
-1595	Government
-1545	Agricultural
-1532	Ministry
-1438	National
-1221	ii
+7535	Project
+6758	Bank
+3509	Development
+2763	_
+2637	World
+2257	Agriculture
+1952	de
+1867	Management
+1669	Borrower
+1606	Government
+1582	Ministry
+1548	Agricultural
+1539	Loan
+1452	National
+1287	Plan
+1262	ii
+1229	Program
 1213	OP
 1199	IFAD
-1195	Plan
 1173	la
-1132	Financing
-1126	Program
+1163	Financing
+1089	ADB
+1088	Fund
 1081	UA
-1080	Fund
 1078	et
+1069	y
+1065	II
 1062	du
-1059	y
-1047	Social
-1047	II
-1015	BP
+1055	Social
+1016	BP
+977	Environmental
 945	Africa
 942	cl
-929	Environmental
+928	Component
 897	Programme
-895	Component
-882	Rural
+893	Rural
 870	
+860	Agreement
 850	des
-839	Country
-831	Total
+847	Country
+846	Total
+758	Procurement
+748	C
 736	le
-736	C
 724	GDP
-712	e
-708	Strategy
-696	Sector
-683	iii
-678	International
-678	Assessment
-666	Republic
-645	Annex
-635	Framework
-628	ADF
+720	e
+712	Agency
+709	Strategy
+709	Grant
+708	Sector
 
 
 Top 50 personal pronouns nouns; "To whom are things referred?"
 -------------------------------------------------------------
-2850	it
-892	i
-669	they
-539	them
-90	he
-55	itself
+2860	it
+921	i
+717	they
+559	them
+94	he
+61	itself
 40	bl
 37	themselves
 19	she
+12	me
 12	ha
 10	em
+9	we
 9	design?if
-8	we
 7	one
 4	us
 4	pobreza
 4	him
 3	you
+2	tn
 2	iv
 2	her
 2	ce
@@ -231,6 +233,7 @@ Top 50 personal pronouns nouns; "To whom are things referred?"
 1	pasta+peja
 1	oneself
 1	midas2
+1	io
 1	ibm),12
 1	expanding.3
 1	agricoles
@@ -238,123 +241,123 @@ Top 50 personal pronouns nouns; "To whom are things referred?"
 
 Top 50 lemmatized verbs; "What do things do?"
 ---------------------------------------------
-35064	be
-7167	have
-4939	include
-3051	improve
-3025	support
-2759	increase
-2517	provide
-1951	base
-1788	finance
-1772	implement
-1596	strengthen
-1586	use
-1571	propose
-1556	ensure
-1538	develop
-1473	follow
-1356	promote
-1260	make
+36323	be
+7519	have
+5249	include
+3081	improve
+3037	support
+2769	increase
+2681	provide
+1983	base
+1972	ensure
+1944	finance
+1890	implement
+1681	use
+1607	strengthen
+1594	propose
+1580	follow
+1565	develop
+1409	make
+1359	promote
+1231	relate
+1218	prepare
+1209	establish
 1200	contribute
-1187	expect
-1163	establish
-1154	reduce
-1135	identify
-1113	relate
-1111	prepare
-1077	do
-1012	enhance
-995	require
-962	build
-931	take
-919	address
-909	target
-905	exist
-843	estimate
-824	create
-816	need
-793	select
-754	lead
+1199	expect
+1177	do
+1168	reduce
+1152	identify
+1132	set
+1128	require
+1020	enhance
+978	take
+965	build
+921	address
+914	exist
+910	target
+869	estimate
+829	need
+825	create
+816	select
+757	lead
+743	involve
 742	aim
-737	help
-732	remain
-731	manage
-728	set
-718	approve
-707	generate
-696	involve
+738	help
+735	remain
+734	manage
+734	approve
+710	generate
+710	carry
 695	focus
-670	carry
-659	achieve
-630	affect
+678	achieve
+652	cover
 
 
 Top 50 lemmatized adjectives and adverbs; "How are things described?"
 ---------------------------------------------------------------------
-5420	agricultural
-2908	rural
-2721	also
-2627	financial
-2474	economic
-2361	not
-2310	other
-2224	well
-2030	-
-1972	environmental
-1952	technical
-1915	social
-1844	high
-1840	public
-1704	private
-1672	national
-1599	such
-1574	more
-1567	as
-1482	local
-1465	total
-1439	new
-1343	small
-1298	key
-1207	sustainable
-1204	low
-1148	up
-1103	institutional
-1084	natural
-1056	specific
-1052	regional
-993	poor
-969	annual
-943	out
-853	main
-842	large
-803	overall
-786	significant
-781	potential
-745	only
+5460	agricultural
+2916	rural
+2751	financial
+2734	also
+2558	not
+2523	other
+2483	economic
+2228	well
+2074	environmental
+2058	-
+1996	such
+1956	technical
+1952	social
+1855	public
+1851	high
+1708	private
+1692	national
+1607	as
+1585	more
+1527	total
+1509	local
+1443	new
+1354	small
+1313	key
+1218	sustainable
+1209	low
+1155	up
+1111	institutional
+1085	natural
+1075	out
+1071	specific
+1053	regional
+1009	annual
+998	poor
+859	main
+844	large
+807	overall
+804	only
+797	potential
+789	significant
+768	relevant
+749	first
 743	most
-739	however
-717	agro
-713	first
-698	improved
-672	additional
-670	relevant
-667	major
-641	particularly
-640	good
+742	however
+738	additional
+722	agro
+703	improved
+669	major
+655	particularly
+648	good
 
 
 Top 50 lemmatized superlative adjectives; "How are things described to the extreme?"
 -------------------------------------------------------------------------
 297	most
-215	good
-208	least
+228	least
+220	good
 157	large
 149	high
 123	poor
 103	Most
 87	late
-66	low
+68	low
 27	great
 17	fast
 14	Least
@@ -378,6 +381,7 @@ Top 50 lemmatized superlative adjectives; "How are things described to the extre
 2	heavy
 2	furth
 2	close
+1	©
 1	wealthy
 1	sunny
 1	slow
@@ -397,7 +401,7 @@ Top 50 lemmatized superlative adjectives; "How are things described to the extre
 Top 50 lemmatized superlative adverbs; "How do things do to the extreme?"
 ------------------------------------------------------------------------
 446	most
-250	least
+277	least
 7	well
 5	hard
 4	fast
@@ -572,17 +576,17 @@ Top 50 email addresses; "Who are you gonna call?"
 Top 50 positive assertions; "What sentences are in the shape of noun-verb-noun?"
 -------------------------------------------------------------------------------
 52	project is also
-37	project does not
+45	project does not
 33	project is not
 33	water use efficiency
 32	project is consistent
 23	project is fully
-17	program is also
 16	project include mitigation
 14	activities are not
 13	% are women
-13	program is consistent
 12	bank financed projects
+12	investments are not
+11	project related services
 10	activities do not
 9	project finance commercial
 9	project is likely
@@ -620,7 +624,7 @@ Top 50 positive assertions; "What sentences are in the shape of noun-verb-noun?"
 4	sectors including agriculture
 4	system is still
 4	systems are not
-4	women have access
+4	values set forth
 
 
 Top 50 negative assertions; "What sentences are in the shape of noun-verb-no|not-noun?"
@@ -630,6 +634,7 @@ Top 50 negative assertions; "What sentences are in the shape of noun-verb-no|not
 2	activities are not yet
 2	agriculture has not yet
 2	bank has not yet
+2	investments are not yet
 2	project are not large
 2	sectors are not likely
 1	% have no health
@@ -653,9 +658,9 @@ Top 50 negative assertions; "What sentences are in the shape of noun-verb-no|not
 1	impacts are not major
 1	impacts are not yet
 1	implementation does not directly
+1	investments are not likely
 1	management is not only
 1	management is not sufficient
-1	programs has not yet
 1	project does not indirectly
 1	project does not specifically
 1	project is not substantial
@@ -948,6 +953,97 @@ keywords = BIF; Bank; Burundi; PATAREB; TSF; development; project; support
 keywords = Bank; Chad; GEF; Management; Project; Sahel; p2rs; report
  summary = PARSAT Project to Improve the Resilience of Agricultural Systems in Chad In Chad,, the Bank has developed and implemented a number of projects in the rural Natural Resources Management Project in the Sudan Region (PGRN-ZS) and the Food Crops Country and Project Name: CHAD – Project to Build Resilience for Food Security and Nutrition in Rural Communities Project Goal: Strengthen Food and Nutrition Security through Sustainable and Resilient Agro-Sylvo-Pastoral Systems in the Sahel Regions of Chad degradation and promote sustainable natural resource management, this will improve socioeconomic resilience while strengthening agro-pastoral and transhumance resources, which and Nutrition Security in Rural Communities in Chad", the GEF project will be based on the The activities are grouped into three components: (i) improvement of agrosylvo-pastoral productivity in drylands; (ii) promotion of integrated ecosystem management to The GEF Project is committed to promoting climate resilience by improving food and nutrition 
 
+      id = AS1
+  author = AsDB
+   title = Southwest Area Integrated Water Resources Planning And Management Project -additional Financing
+    date = 2015
+keywords = ADB; Borrower; Loan; Project
+ summary = Loan Agreement (Special Operations) for Southwest Area Integrated Water Resources Planning and Management Project (Additional Financing to Loan No. 2200-BAN[SF]) Project described in Schedule 1 to the Initial Special Operations Loan Agreement ("Initial terms defined in the Loan Regulations have the respective meanings therein set forth unless Project facilities, the Borrower shall perform, or cause to be performed, all obligations set 2. Except as ADB may otherwise agree, the proceeds of the Loan shall be clarifications to such procedures agreed between the Borrower and ADB shall be set out in The Borrower shall ensure that all ADB-financed contracts with consultants agreed between the Borrower and ADB and set forth in the Procurement Plan. 1. The Borrower and BWDB shall ensure that the Project is implemented in Borrower and BWDB shall take all steps required to ensure that the Project complies with all The Borrower shall ensure that no proceeds of the Loan and/or the Grant are 
+
+      id = AS19
+  author = AsDB
+   title = Irrigated Agriculture Improvement Project
+    date = 2019
+keywords = ADB; Borrower; Loan
+ summary = terms defined in the Loan Regulations have the respective meanings therein set forth unless Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth Section 4.02 (a) The Borrower shall cause the Project Executing statements for the Project in accordance with financial reporting standards acceptable to ADB; purposes of Section 8.01 (m) of the Loan Regulations: the Borrower shall have failed to perform 1. The Borrower shall cause MOWRAM to ensure that the Project is implemented 7. The Borrower shall cause MOWRAM to ensure that all land and ail rights-ofway required for the Kamping Pouy Subproject and the Project facilities to be developed under The Borrower shall cause MOWRAM to ensure that the Project does not have The Borrower shall ensure that no proceeds of the Loan are used to finance The Borrower shall cause MOWRAM to ensure that the Project facilities are 
+
+      id = AS2
+  author = AsDB
+   title = Uplands Irrigation And Water Resources Management Sector Project
+    date = 2015
+keywords = ADB; Borrower; Loan; Project
+ summary = terms defined in the Loan Regulations have the respective meanings therein set forth unless Standard Operating Procedures prepared by the Borrower and endorsed by ADB, which sets clarifications to such procedures agreed between the Borrower and ADB shall be set out in The Borrower shall ensure that all ADB-financed contracts with consultants agreed between the Borrower and ADB and set forth in the Procurement Plan. 1. The Borrower shall ensure that the Project is implemented in accordance with the 4. The Borrower shall ensure or cause MOWRAM to ensure that all land and all rightsof-way required for the Project are made available to the Works contractor in accordance 7. The Borrower shall ensure or cause MOWRAM to ensure that the Project does not Project does have any such impact, the Borrower shall take all steps required to ensure that The Borrower shall ensure that no proceeds of the loans are used to finance any 
+
+      id = AS20
+  author = AsDB
+   title = Resilient Community Development Project
+    date = 2019
+keywords = ADB; Borrower; Loan; Project
+ summary = Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth 1. The Borrower shall ensure that the Project is implemented in accordance with Borrower, through the Project Executing Agency, shall ensure that the following conditions are The Borrower, through the Project Executing Agency, shall ensure that all land The Borrower, through the Project Executing Agency, shall do the following: The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the The Borrower, through the Project Executing Agency, shall ensure that (a) the 
+
+      id = AS21
+  author = AsDB
+   title = Naryn Rural Water Supply And Sanitation Development Program
+    date = 2019
+keywords = Borrower; Loan; Program
+ summary = (Naryn Rural Water Supply and Sanitation Development Program) (Naryn Rural Water Supply and Sanitation Development Program) terms defined in the Loan Regulations have the respective meanings therein set forth unless Mitigate Fraud, Corruption and Other Prohibited Activities in ResultsBased Lending for Programs as set forth in Appendix 7 to ADB''s Borrower shall, within 6 months of the Program Completion Date, provide a refund to ADB for The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to The Borrower shall ensure, or cause the Program Implementing Agency to 
+
+      id = AS23
+  author = AsDB
+   title = Agricultural Value Chain Competitiveness And Safety Enhancement Project
+    date = 2020
+keywords = ADB; Agreement; Borrower; Loan; Project
+ summary = (A) the Borrower has a ppi cd to ADB for a loan for me purposes of me Project ADB with respect thereto Such Subsioiary Loan Agreement shall be in form and on terms and Loans and Credit Guarantees to Eligible Sub-borrowers for Eligible Activity and shall be applied 3. The Borrower shall ensure that the Project Implementing Agencies provide 4. The Borrower shall ensure, and cause each Project Implementing Agency and PFI 5. The Borrower shall cause each Project Implementing Agency ar:,d each PFI to The Borrower shall cause each PFI to ensure that each Equity Capital Loan is The Borrower shall do the following or cause the Project Implementing Agencies The Borrower shall cause the Project Implementing Agencies to ensure that the The Borrower shall cause the Project Implementing Agencies to ensure that the The Borrower shall cause the Project Implementing Agencies to ensure that the
+
+      id = AS25
+  author = AsDB
+   title = Rural Connectivity Improvement Project- Additional Financing
+    date = 2020
+keywords = Borrower; Loan; Project
+ summary = Loan Agreement (Ordinary Operations [Concessional]) for Loan 3932-BAN: Rural Connectivity Improvement Project Additional Financing Borrower for the purposes of financing expenditures of the project described in Schedule 1 of ("Initial Concessional Loan") to the Borrower for the purposes of financing expenditures of the scaling up of the Initial Project, as described in Schedule 1 to this Loan Agreement; (E) ADB has agreed to make a concessional loan to the Borrower from terms defined in the Loan Regulations have the respective meanings therein set forth unless Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth 2 Except as ADB may otherwise agree, the proceeds of the Loan shall be 4 Except as ADB may otherwise agree, the Loan proceeds shall be disbursed in 11 The Borrower shall cause the Project Executing Agency to do the following: The Borrower and the Project Executing Agency shall (a) comply with ADB''s
+
+      id = AS26
+  author = AsDB
+   title = Sustainable Rural Infrastructure And Watershed Management Sector Project
+    date = 2019
+keywords = ADB; Borrower; Loan; Project
+ summary = Loan Agreement (Ordinary Operations [Concessional]) for Loan 3817-LAO: Sustainable Rural Infrastructure and Watershed Management Sector Project the Borrower will make available to the Project provinces a portion of the proceeds of the loan terms defined in the Loan Regulations have the respective meanings therein set forth unless Project facilities, the Borrower shall perform, or cause to be performed all obligations set forth 2. Except as ADB may otherwise agree, the proceeds of the Loan shall be 8. The Borrower shall ensure that no subproject which meets the ADB''s Category A 8. The Borrower shall ensure that no subproject which meets the ADB''s Category A 16 The Borrower shall ensure or cause the Project provinces to ensure that no proceeds 20 The Borrower shall ensure that candidate subprojects in each Project province are laws and regulations are complied with during Project implementation The Borrower shall The Borrower shall implement the financial management plan as agreed with ADB and 
+
+      id = AS27
+  author = AsDB
+   title = Vegetable Production And Irrigated Agriculture Project
+    date = 2020
+keywords = ADB; Borrower; Loan; Project
+ summary = Borrower, through the Project Executing Agency, shall submit the following documents to ADB the Borrower, through the Project Executing Agency, shall immediately advise ADB of such The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the The Borrower, through the Project Executing Agency, shall ensure that the 
+
+      id = AS3
+  author = AsDB
+   title = Climate Change And Disaster-resilient Water Resources Sector Project
+    date = 2018
+keywords = ADB; Borrower; Loan
+ summary = terms defined in the Loan Regulations have the respective meanings therein set forth unless Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth purposes of Section 8.01 (m) of the Loan Regulations: the Borrower shall have failed to perform 6. The Borrower, through DWR and MOES, shall ensure that all land and all rightsof-way required for the Project, each Subproject, all Hydrometeorology Installation Works, and 8. The Borrower, through DWR and MOES, shall ensure that the Project does not 8. The Borrower, through DWR and MOES, shall ensure that the Project does not In addition, the Borrower shall provide all necessary support to DWR and MOES and ensure The Borrower, through DWR, shall ensure that each Subproject is implemented (a) The Borrower, through DWR, shall ensure that all Project facilities are The Borrower, DWR and MOES shall (a) comply with ADB''s Anticorruption
+
+      id = AS4
+  author = AsDB
+   title = Balochistan Water Resources Development Sector Project
+    date = 2019
+keywords = ADB; Borrower; Loan; Project
+ summary = administered by ADB, for the purposes of the Project described in Schedule 1 to this Loan Borrower will make available to Balochistan the proceeds of the Grants and the loan provided Project and Subproject facilities, the Borrower shall perform, or cause to be performed, all 3. The Project shall include the provision of consulting services for detailed interest charge on the Loan during the implementation period of the Project ADB shall be (a) The Borrower shall ensure that all Goods and Works procured (including The Borrower shall ensure that all ADB-financed contracts with consultants agreed between the Borrower and ADB and set forth in the Procurement Plan, 1. The Borrower and Balochistan shall ensure that the Project is implemented in The Borrower shall ensure and cause Balochistan to ensure that no Subproject The Borrower shall ensure and cause Balochistan to ensure that the Project The Borrower shall ensure and cause Balochistan to ensure that the Project 
+
+      id = AS7
+  author = AsDB
+   title = Basic Infrastructure For Inclusive Growth In .The Northeastern Provinces Sector Project
+    date = 2018
+keywords = Borrower; Loan; Project
+ summary = available to the Project Provinces the proceeds of the loan provided for herein upon terms terms defined in the Loan Regulations have the respective meanings therein set forth unless proceeds of the Loan available to the Project Provinces through budget allocation, and (ii) Project facilities, the Borrower shall perform, or cause to be performed, all obligations set interest charge on the Loan during the implementation period of the Project ADB shall be 7. The Project Provinces shall not award any Works contract for a Subproject The Borrower shall ensure that all ADB-financed contracts with consultants the REMDF or the REMDP, the Borrower shall ensure or cause the Project Provinces to 9. The Borrower shall make available and cause the Project Provinces to make The Borrower shall cause the Project Provinces to ensure that the counterpart agreed between the Project Provinces and ADB and included in the PAM is implemented in 
+
+      id = AS8
+  author = AsDB
+   title = Mahaweli Water Security Investment Program - Tranche 2
+    date = 2018
+keywords = ADB; Loan
+ summary = Schedule 1 to the Ordinary Operations (Concessional) Loan Agreement (as defined [Concessional] Loan Agreement"), ADB has agreed to lend to the Borrower from its ordinary withdrawn in accordance with the provisions of Schedule 2 to this Loan Agreement, as such forth in Schedule 5 to the Ordinary Operations (Concessional) Loan Agreement. Regulations: the Ordinary Operations (Concessional) Loan Agreement shall have been duly 1. The following table sets forth the Principal Payment Dates of the Loan and the Principal Payment Date shall be determined by ADB by multiplying: (a) the total principal amount of the Loan withdrawn and outstanding as of the first Principal Payment Date; by (b) as of the first Principal Payment Date, the Borrower shall repay the 2. Except as ADB may otherwise agree, the proceeds of the Loan shall be 5. Except as ADB may otherwise agree, the Loan proceeds shall be disbursed in
+
       id = IDB10
   author = IDB
    title = Rural Land Regularization And Titling Program
@@ -1041,7 +1137,7 @@ keywords = CBL; IFAD; Liberia; Project; TASC
 
       id = IF10
   author = IFAD
-   title = Proposed Grant To The Lao Peopleõs Democratic Republic Strategic Support For Food Security And Nutrition Project Ð Global Agriculture And Food Security Program (gafsp) Funds
+   title = Proposed Grant To The Lao People''s Democratic Republic Strategic Support For Food Security And Nutrition Project Global Agriculture And Food Security Program (gafsp) Funds
     date = 2016
 keywords = Agriculture; Fund; GAFSP; IFAD; Project; WFP
  summary = SSFSNP Strategic Support for Food Security and Nutrition Project Strategic Support for Food Security and Nutrition Project 4. In June 2015, the Global Agriculture and Food Security Program (GAFSP) – a multidonor financing facility – approved a US$30 million proposal presented by the 7. The GAFSP grant for the Strategic Support for Food Security and Nutrition Project three-year multi-sector, nutrition-sensitive village development plans (VDPs) Project funding will flow from the GAFSP account to IFAD and WFP IFAD-managed funds (GAFSP grant), the Ministry of Finance shall open a which the Recipient shall use to implement the IFAD financed project activities in Simultaneously, the Project will support improved village development planning in the Project co-financed investments in the four NNSPA agriculture interventions. Project will support the establishment of monthly village-level "farmer nutrition Support shall be provided for project coordination and implementation as outlined in
@@ -1055,14 +1151,14 @@ keywords = Fund; IFAD; PMU; Project; rev.1
 
       id = IF12
   author = IFAD
-   title = Proposed Loan And Grant To The Kingdom Of Tonga For The Tonga Rural Innovation Project Ð Phase Ii (trip Ii)
+   title = Proposed Loan And Grant To The Kingdom Of Tonga For The Tonga Rural Innovation Project Phase Ii
     date = 2018
 keywords = IFAD; MORDI; Project; TRIP; Tonga
  summary = TRIP Tonga Rural Innovation Project Tonga Rural Innovation Project – Phase II (TRIP II) Tonga Rural Innovation Project – Phase II (TRIP II) 6. The Tonga Rural Innovation Project II (TRIP II) builds on the success of a first-phase TRIP II aims to contribute to improved and resilient livelihoods for Tonga''s rural Its development objective is to enable communities to plan and manage MORDI TT will establish a dedicated project management unit (PMU) to support of finance for community economic infrastructure and sustainable livelihoods; (iii) a A project financing agreement between the Kingdom of Tonga and IFAD will "Financing"), which the Borrower/Recipient shall use to implement the Project in The development objective of the Project is to enable communities to and from which target communities select and develop (with Project Support to Community Agricultural Development Plans management capacity for implementation and monitoring of project activities. management capacity for implementation and monitoring of project activities.
 
       id = IF15
   author = IFAD
-   title = Presidentõs Report On A Proposed Loan And Grant To The Lebanese Republic For Harmonized Actions To Enhance Livestock Production And Processing
+   title = President''s Report On A Proposed Loan And Grant To The Lebanese Republic For Harmonized Actions To Enhance Livestock Production And Processing
     date = 2017
 keywords = IFAD; LOT; Lebanon; Project; syrian
  summary = on dairy livestock, through improved production, capacity development, access to with higher productivity per head and hygienic processing to add value to goodquality raw milk, would sustainably increase incomes among smallholder dairy dairy production and on-farm processing, whether now as refugees in Lebanon or (ii) Improving animal management and productivity in cattle dairy herds and IFAD-supported projects, and given the limited capacity in the MoA, HALEPP A specially created project management unit (PMU) with competitively recruited services procurement financed by the IFAD loan and grant and FARMS funds will The project will be financed by an IFAD loan of US$4.9 million (covering A project financing agreement between the Lebanese Republic and IFAD will "Financing"), which the Borrower/Recipient shall use to implement the Project in (a) Key Staff, including a Project Director, Financial Manager and a Procurement  Syrian Refugees engaged in dairy production and processing. operations of the project, namely: Financial Manager, Procurement Officer, Accountant,

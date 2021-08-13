@@ -1,6 +1,8 @@
 # IFAD Toolbox
 
-How are different words and phrases used in a given corpus? Such is the sort of question this suite of tools is designed to address. More specifically, a set of 200 PDF files complete with rudimentary bibliographic metadata was used as input to a system called the Distant Reader. The result is/was a data set -- a set of structured data intended for computation. This distribution augments the data set, queries the result, and outputs simple tables used to illustrate the results.
+How are different words and phrases used in a given corpus? Such is the sort of question this suite of tools is designed to address.
+
+More specifically, a set of 200 PDF files complete with rudimentary bibliographic metadata was used as input to a system called the Distant Reader. The result is/was a data set -- a set of structured data intended for computation. This distribution augments the data set, queries the result, and outputs simple tables used to illustrate the results.
 
 
 ## Contents

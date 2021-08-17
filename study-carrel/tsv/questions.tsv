@@ -1,20 +1,20 @@
 identifier	question
 IDB10	What Does Bolivia Export?
-WB119	Legal Operational Policies Triggered?
-WB111	Legal Operational Policies Triggered?
 AF32	1.1.3 Why is productivity so low in Africa?
 AF32	Country Projects Aligned to inserting a TAAT component?
+WB111	Legal Operational Policies Triggered?
+WB119	Legal Operational Policies Triggered?
 WB11	The World Bank Guinea Bissau Emergency Food Security Project( P174336) Page 8 of 10 Legal Operational Policies Triggered?
 WB18	C. Environmental and Social Safeguards Specialists on the Team D. Policies that might apply Safeguard Policies Triggered?
-WB40	Legal Operational Policies Triggered?
 WB36	Legal Operational Policies Triggered?
+WB40	Legal Operational Policies Triggered?
 WB54	Legal Operational Policies Triggered?
 AF17	( ii) What coordination arrangements will be made?
 AF17	( iii) What capacity constraints exist if any, and how will they be lifted?
+WB56	Legal Operational Policies Triggered?
+WB67	The World Bank Ghana Productive Safety Net Project 2( P175588) Nov 25, 2020 Page 10 of 12 Legal Operational Policies Triggered?
 WB122	Legal Operational Policies Triggered?
 WB66	Legal Operational Policies Triggered?
-WB67	The World Bank Ghana Productive Safety Net Project 2( P175588) Nov 25, 2020 Page 10 of 12 Legal Operational Policies Triggered?
-WB56	Legal Operational Policies Triggered?
 WB70	Legal Operational Policies Triggered?
 WB72	Legal Operational Policies Triggered?
 WB81	The World Bank Turkey Resilient Landscape Integration Project( TULIP)( P172562) Mar 12, 2020 Page 13 of 15 Legal Operational Policies Triggered?
@@ -31,12 +31,12 @@ WB84	? s national strategy on water security agenda and to the World Bank Group 
 WB84	? s white- napped cranes, 55% of world''s hooded crane, 60% of world''s white storks, and 96% of world''s swan goose population.
 WB84	It is a house for over 95% of world''s white crane, 60% of world?
 WB84	The project is expected to contribute to both China?
-AF39	Was/ Were the document( s) disclosed prior to appraisal?
-AF39	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
-AF39	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
 AF1	Was/ Were the document( s) disclosed prior to appraisal?
 AF1	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
 AF1	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
+AF39	Was/ Were the document( s) disclosed prior to appraisal?
+AF39	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
+AF39	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
 AF34	Was/ Were the document( s) disclosed prior to appraisal?
 AF34	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
 AF34	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
@@ -322,22 +322,6 @@ WB105	Yes If yes, then did the Regional unit responsible for safeguards or Pract
 WB105	Yes Is a separate PMP required?
 WB105	Yes OPS_ PCR_C OM P_TA BLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
 WB105	Yes OPS_SD_ C OMP_ TABLE OP/ BP 4.37- Safety of Dams Have dam safety plans been prepared?
-WB39	Are PMP requirements included in project design?
-WB39	If yes, does the project team include a Pest Management Specialist?
-WB39	NA Has an Emergency Preparedness Plan( EPP) been prepared and arrangements been made for public awareness and training?
-WB39	NA OPS_ PIW_ C OMP_ TABLE OP 7.50- Projects on International Waterways Have the other riparians been notified of the project?
-WB39	No Have the TORs as well as composition for the independent Panel of Experts( POE) been reviewed and approved by the Bank?
-WB39	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
-WB39	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
-WB39	Yes Does the credit/ loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
-WB39	Yes Have costs related to safeguard policy measures been included in the project cost?
-WB39	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
-WB39	Yes If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
-WB39	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
-WB39	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
-WB39	Yes Is a separate PMP required?
-WB39	Yes OPS_ PCR_C OM P_TABLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
-WB39	Yes OPS_SD_ C OMP_ TABLE OP/ BP 4.37- Safety of Dams Have dam safety plans been prepared?
 WB35	Are PMP requirements included in project design?
 WB35	If yes, does the project team include a Pest Management Specialist?
 WB35	NA Has an Emergency Preparedness Plan( EPP) been prepared and arrangements been made for public awareness and training?
@@ -355,6 +339,22 @@ WB35	Yes If yes, then did the Regional unit responsible for safeguards or Practi
 WB35	Yes Is a separate PMP required?
 WB35	Yes OPS_ PCR_C OM P_TA BLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
 WB35	Yes OPS_SD_ C OMP_ TABLE OP/ BP 4.37- Safety of Dams Have dam safety plans been prepared?
+WB39	Are PMP requirements included in project design?
+WB39	If yes, does the project team include a Pest Management Specialist?
+WB39	NA Has an Emergency Preparedness Plan( EPP) been prepared and arrangements been made for public awareness and training?
+WB39	NA OPS_ PIW_ C OMP_ TABLE OP 7.50- Projects on International Waterways Have the other riparians been notified of the project?
+WB39	No Have the TORs as well as composition for the independent Panel of Experts( POE) been reviewed and approved by the Bank?
+WB39	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
+WB39	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
+WB39	Yes Does the credit/ loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+WB39	Yes Have costs related to safeguard policy measures been included in the project cost?
+WB39	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
+WB39	Yes If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
+WB39	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
+WB39	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+WB39	Yes Is a separate PMP required?
+WB39	Yes OPS_ PCR_C OM P_TABLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
+WB39	Yes OPS_SD_ C OMP_ TABLE OP/ BP 4.37- Safety of Dams Have dam safety plans been prepared?
 WB107	?
 WB107	Average growth between 2010 and 2013 was 6.2 percent?
 WB107	In more marginal, more variable rainfall zones, greater emphasis will be placed on stimulating farmers?

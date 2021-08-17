@@ -131,7 +131,7 @@ ii	ORG	54
 the bank date	ORG	53
 sahel	PERSON	53
 ifc	ORG	53
-guinea-bissau	GPE	52
+guinea-bissau	PERSON	52
 ffs	ORG	52
 ea	PERSON	52
 the african development bank	ORG	51
@@ -184,7 +184,7 @@ gni	ORG	42
 the ministry of finance	ORG	41
 samoa	GPE	41
 nombre	ORG	41
-usaid	GPE	40
+usaid	ORG	40
 padaam	ORG	40
 nanni weir	ORG	40
 got	ORG	40
@@ -547,7 +547,7 @@ tralard	ORG	16
 sop	ORG	16
 rationale for bank	ORG	16
 population density	ORG	16
-para	PERSON	16
+para	ORG	16
 pniasan	ORG	16
 pap	ORG	16
 pa	ORG	16
@@ -585,7 +585,7 @@ subprojects	ORG	15
 steering committee	ORG	15
 schedule	PERSON	15
 svg	ORG	15
-sc	ORG	15
+sc	LOC	15
 roc	GPE	15
 per capita	PERSON	15
 party	ORG	15
@@ -733,7 +733,7 @@ schedule 4	ORG	12
 sau	ORG	12
 russia	GPE	12
 risks	PERSON	12
-rationale	ORG	12
+rationale	PERSON	12
 rpg	ORG	12
 rlrcp	ORG	12
 powerpoint	ORG	12
@@ -757,7 +757,7 @@ integrated pest management plan	ORG	12
 ip	ORG	12
 ikugh	ORG	12
 giz	ORG	12
-fonds	ORG	12
+fonds	GPE	12
 fdi	ORG	12
 f. environmental and	ORG	12
 ecuador	GPE	12
@@ -856,7 +856,7 @@ ata	ORG	11
 anapej	ORG	11
 adf loan	ORG	11
 a. programme	PERSON	11
-➢	ORG	10
+➢	GPE	10
 the togolese republic	GPE	10
 the special contractual conditions of the project summary of the loan proposal	ORG	10
 the ministry of economy and finance	ORG	10
@@ -865,7 +865,7 @@ the food and agriculture organization of the united nations	ORG	10
 the food and agriculture organization	ORG	10
 the financial terms and conditions	ORG	10
 the board of executive directors	ORG	10
-aux	GPE	10
+aux	ORG	10
 zanzibar	GPE	10
 world bank group	ORG	10
 wema	ORG	10
@@ -890,7 +890,7 @@ sazapip	PERSON	10
 results	PERSON	10
 reconnect, recover, revitalize	ORG	10
 pour	GPE	10
-pillar	LOC	10
+pillar	ORG	10
 pvs	ORG	10
 pmo	ORG	10
 pitag	ORG	10
@@ -931,7 +931,7 @@ el prestatario/receptor	ORG	10
 doi	ORG	10
 district	LOC	10
 dev	PERSON	10
-dakar	GPE	10
+dakar	PERSON	10
 dws	ORG	10
 dfid	ORG	10
 central africa	LOC	10
@@ -1108,7 +1108,7 @@ pointe noire	GPE	8
 pillar 2	ORG	8
 psia	ORG	8
 pri	ORG	8
-pmu	LOC	8
+pmu	ORG	8
 p164326	GPE	8
 outcome	ORG	8
 non-world bank group	ORG	8
@@ -1255,7 +1255,7 @@ rlf	ORG	7
 results chain performance indicators means of verification risks/	ORG	7
 provinces	ORG	7
 prodaf-diffa	PERSON	7
-phytosanitary	ORG	7
+phytosanitary	PERSON	7
 physical cultural resources	ORG	7
 ppcr	ORG	7
 poe	ORG	7
@@ -1287,7 +1287,7 @@ mdipmi	ORG	7
 mc	GPE	7
 maer	ORG	7
 maeapg	ORG	7
-luanda	GPE	7
+luanda	PERSON	7
 longido	GPE	7
 lomé	ORG	7
 le projet	ORG	7
@@ -1305,7 +1305,7 @@ kampong thom	GPE	7
 jonglei	PERSON	7
 jiangxi	GPE	7
 japan international cooperation agency	ORG	7
-involuntary resettlement	ORG	7
+involuntary resettlement	PERSON	7
 implementing agency	ORG	7
 implementation institutional and implementation arrangements	ORG	7
 iscl	ORG	7
@@ -1552,7 +1552,7 @@ justice	ORG	6
 jcf	ORG	6
 ivory coast	GPE	6
 italie	GPE	6
-international waterways	LOC	6
+international waterways	ORG	6
 international fund for agricultural development	ORG	6
 institutional	ORG	6
 information system	ORG	6
@@ -3897,7 +3897,7 @@ the namibia agricultural mechanisation	ORG	2
 the municipio of el torno	ORG	2
 the multilateral development banks	ORG	2
 the moroccan government	ORG	2
-the mo ibrahim index	LOC	2
+the mo ibrahim index	ORG	2
 the ministry of the presidency	ORG	2
 the ministry of agriculture	ORG	2
 the ministry of youth	ORG	2
@@ -4796,7 +4796,7 @@ résultats indicateurs5 moyens	PERSON	2
 résultats indicateurs clés de vérification2&3	PERSON	2
 résultats indicateurs clés de vérification	PERSON	2
 république du niger	PERSON	2
-république	ORG	2
+république	PERSON	2
 rural enterprises program	ORG	2
 rural engineering consultant	ORG	2
 rural development support project	ORG	2
@@ -6083,7 +6083,7 @@ community development and investment agency	ORG	2
 community animal health workers	ORG	2
 common interest groups	ORG	2
 commerciale du burkina	ORG	2
-collines	LOC	2
+collines	ORG	2
 coelho	ORG	2
 cobly	ORG	2
 co-team leaders	ORG	2

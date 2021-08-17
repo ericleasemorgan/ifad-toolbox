@@ -9,7 +9,7 @@
 
 
 # configure
-WIDTH = 180
+WIDTH = 80
 LINES = 999
 
 # require

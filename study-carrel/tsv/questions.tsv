@@ -1,27 +1,27 @@
 identifier	question
 IDB10	What Does Bolivia Export?
+WB111	Legal Operational Policies Triggered?
 AF32	1.1.3 Why is productivity so low in Africa?
 AF32	Country Projects Aligned to inserting a TAAT component?
-WB111	Legal Operational Policies Triggered?
 WB119	Legal Operational Policies Triggered?
 WB11	The World Bank Guinea Bissau Emergency Food Security Project( P174336) Page 8 of 10 Legal Operational Policies Triggered?
 WB18	C. Environmental and Social Safeguards Specialists on the Team D. Policies that might apply Safeguard Policies Triggered?
-WB36	Legal Operational Policies Triggered?
 WB40	Legal Operational Policies Triggered?
+WB36	Legal Operational Policies Triggered?
 WB54	Legal Operational Policies Triggered?
 AF17	( ii) What coordination arrangements will be made?
 AF17	( iii) What capacity constraints exist if any, and how will they be lifted?
 WB56	Legal Operational Policies Triggered?
 WB67	The World Bank Ghana Productive Safety Net Project 2( P175588) Nov 25, 2020 Page 10 of 12 Legal Operational Policies Triggered?
-WB122	Legal Operational Policies Triggered?
-WB66	Legal Operational Policies Triggered?
 WB70	Legal Operational Policies Triggered?
+WB66	Legal Operational Policies Triggered?
+WB122	Legal Operational Policies Triggered?
 WB72	Legal Operational Policies Triggered?
 WB81	The World Bank Turkey Resilient Landscape Integration Project( TULIP)( P172562) Mar 12, 2020 Page 13 of 15 Legal Operational Policies Triggered?
-WB89	The World Bank Malawi Resilient Productive Landscapes Project( P167860) Nov 27, 2018 Page 11 of 12 Legal Operational Policies Triggered?
 WB58	? s rural poverty alleviation programs.
 WB58	The 14 zones contain 680 nationally designated poverty counties which benefit from special financial support under the government?
 WB88	Legal Operational Policies Triggered?
+WB89	The World Bank Malawi Resilient Productive Landscapes Project( P167860) Nov 27, 2018 Page 11 of 12 Legal Operational Policies Triggered?
 IF17	Q2: Will the establishment of any new oil palm plantation result in deforestation?
 IF17	Q3: Will the establishment of any new oil palm plantation result in involuntary resettlement of project beneficiaries?
 IF17	Q4: What is the foreseen market for the oil palm produced under the project?
@@ -37,12 +37,12 @@ AF1	Yes No NA C. Clearance Is the project compliant to the Bank ’s environment
 AF39	Was/ Were the document( s) disclosed prior to appraisal?
 AF39	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
 AF39	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
-AF34	Was/ Were the document( s) disclosed prior to appraisal?
-AF34	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
-AF34	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
 WB121	Have costs related to safeguard policy measures been included in the project cost?
 WB121	No Is this a Transferred project?
 WB121	Safeguard Policies Triggered?
+AF34	Was/ Were the document( s) disclosed prior to appraisal?
+AF34	Yes No Is this project processed under a waiver to the Integrated Safeguards System?
+AF34	Yes No NA C. Clearance Is the project compliant to the Bank ’s environmental and social safeguards requirements, and to be submitted to the Board?
 WB2	Safeguard Policies that might apply Safeguard Policies Triggered?
 WB2	Yes[] No[] NA[] Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
 WB2	Yes[] No[] NA[] Have costs related to safeguard policy measures been included in the project cost?
@@ -54,11 +54,6 @@ WB13	Yes[] No[] NA[] Have costs related to safeguard policy measures been includ
 WB13	Yes[] No[] NA[] If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
 WB13	Yes[] No[] NA[] OP/ BP 4.04- Natural Habitats Would the project result in any significant conversion or degradation of critical natural habitats?
 WB13	Yes[] No[] NA[] The World Bank Policy on Disclosure of Information Have relevant safeguard policies documents been sent to the World Bank''s Infoshop?
-WB32	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
-WB32	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
-WB32	Yes Have costs related to safeguard policy measures been included in the project cost?
-WB32	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
-WB32	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
 WB19	Are PMP requirements included in project design?
 WB19	If yes, does the project team include a Pest Management Specialist?
 WB19	NA Is a separate PMP required?
@@ -66,6 +61,11 @@ WB19	Yes Does the Monitoring and Evaluation system of the project include the mo
 WB19	Yes Have costs related to safeguard policy measures been included in the project cost?
 WB19	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
 WB19	Yes If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
+WB32	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
+WB32	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
+WB32	Yes Have costs related to safeguard policy measures been included in the project cost?
+WB32	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
+WB32	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
 WB33	Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
 WB33	Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
 WB33	Have costs related to safeguard policy measures been included in the project cost?
@@ -74,12 +74,6 @@ WB33	If yes, then did the Regional Environment Unit or Practice Manager( PM) rev
 WB33	No Does the credit/ loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
 WB33	OPS_ PCR_C OM P_TA BLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
 WB33	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
-WB79	Have costs related to safeguard policy measures been included in the project cost?
-WB79	SAFEGUARD POLICIES THAT MIGHT APPLY Safeguard Policies Triggered?
-WB79	Yes[ X] No[] NA[] Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
-WB79	Yes[ X] No[] NA[] Has the RVP approved such an exception?
-WB79	Yes[ X] No[] NA[] If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
-WB79	Yes[ X] No[] NA[] PHCompliance OP 7.50- Projects on International Waterways Have the other riparians been notified of the project?
 WB120	Are PMP requirements included in project design?
 WB120	If yes, does the project team include a Pest Management Specialist?
 WB120	No If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
@@ -91,6 +85,12 @@ WB120	Yes Have satisfactory implementation arrangements been agreed with the bor
 WB120	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
 WB120	Yes Is a separate PMP required?
 WB120	Yes OPS_ PM_C OM P_TA BLE OP 4.09- Pest Management Does the EA adequately address the pest management issues?
+WB79	Have costs related to safeguard policy measures been included in the project cost?
+WB79	SAFEGUARD POLICIES THAT MIGHT APPLY Safeguard Policies Triggered?
+WB79	Yes[ X] No[] NA[] Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
+WB79	Yes[ X] No[] NA[] Has the RVP approved such an exception?
+WB79	Yes[ X] No[] NA[] If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
+WB79	Yes[ X] No[] NA[] PHCompliance OP 7.50- Projects on International Waterways Have the other riparians been notified of the project?
 WB22	Are PMP requirements included in project design?
 WB22	If yes, does the project team include a Pest Management Specialist?
 WB22	NA If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
@@ -226,21 +226,6 @@ WB12	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM)
 WB12	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
 WB12	Yes Is a separate PMP required?
 WB12	Yes OPS_F O_C OM P_TA BLE OP/ BP 4.36- Forests Has the sector- wide analysis of policy and institutional issues and constraints been carried out?
-WB50	Are PMP requirements included in project design?
-WB50	If yes, does the project team include a Pest Management Specialist?
-WB50	NA Does the project design include satisfactory measures to overcome these constraints?
-WB50	NA Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
-WB50	NA OPS_ PCR_C OM P_TA BLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
-WB50	No If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
-WB50	No OPS_ PM_C OM P_TA BLE OP 4.09- Pest Management Does the EA adequately address the pest management issues?
-WB50	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
-WB50	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
-WB50	Yes Does the credit/ loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
-WB50	Yes Have costs related to safeguard policy measures been included in the project cost?
-WB50	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
-WB50	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
-WB50	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
-WB50	Yes Is a separate PMP required?
 WB77	Are PMP requirements included in project design?If yes, does the project team include a Pest Management Specialist?
 WB77	Is this a Repeater project?
 WB77	OP/ BP 4.12- Involuntary Resettlement Has a resettlement plan/ abbreviated plan/ policy framework/ process framework( as appropriate) been prepared?
@@ -271,6 +256,21 @@ WB23	Yes[] No[] NA x Are the cost and the accountabilities for the EMP incorpora
 WB23	Yes[] No[] NA x Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
 WB23	Yes[] No[] NA x Is physical displacement/ relocation expected?
 WB23	Yes[] No[] NA x PHCompliance OP 4.09- Pest Management Does the EA adequately address the pest management issues?
+WB50	Are PMP requirements included in project design?
+WB50	If yes, does the project team include a Pest Management Specialist?
+WB50	NA Does the project design include satisfactory measures to overcome these constraints?
+WB50	NA Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
+WB50	NA OPS_ PCR_C OM P_TA BLE OP/ BP 4.11- Physical Cultural Resources Does the EA include adequate measures related to cultural property?
+WB50	No If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?
+WB50	No OPS_ PM_C OM P_TA BLE OP 4.09- Pest Management Does the EA adequately address the pest management issues?
+WB50	Yes Are the cost and the accountabilities for the EMP incorporated in the credit/ loan?
+WB50	Yes Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures related to safeguard policies?
+WB50	Yes Does the credit/ loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+WB50	Yes Have costs related to safeguard policy measures been included in the project cost?
+WB50	Yes Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately reflected in the project legal documents?
+WB50	Yes If yes, then did the Regional Environment Unit or Practice Manager( PM) review and approve the EA report?
+WB50	Yes If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+WB50	Yes Is a separate PMP required?
 WB9	Are PMP requirements included in project design?
 WB9	If yes, does the project team include a Pest Management Specialist?
 WB9	NA Does the project design include satisfactory measures to overcome these constraints?

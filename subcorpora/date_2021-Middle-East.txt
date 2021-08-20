@@ -1,0 +1,1638 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+ 
+
+  
+Mar 10, 2021 Page 1 of 22  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Project Information Document (PID) 
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 31-Mar-2021 | Report No: PIDA31193 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 2 of 22  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Yemen, Republic of P176129 Yemen Food Security 
+Response and Resilience 
+Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+MIDDLE EAST AND NORTH 
+AFRICA 
+
+18-Mar-2021 27-Apr-2021 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing United Nations 
+Development Programme, 
+World Food Programma, 
+Food and Agriculture 
+Organization 
+
+World Food Programme, 
+Food and Agriculture 
+Organization, United 
+Nations Development 
+Programme 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to improve the availability of and access to food and nutritious diets, both in the 
+short and medium term, for targeted households in the Project Area, and to enhance Yemen's capacity to respond to 
+food insecurity. 
+
+ 
+Components 
+
+Improving household incomes through CFW for agricultural production infrastructure and building climate resilience 
+Increasing Production and Sale of Nutritious Crop, Livestock and Fish Products 
+Improving the Nutritional Status of Vulnerable Rural Households 
+Capacity building for food security management and climate resilience 
+Project Management and Knowledge Management 
+
+ 
+OPS_TABLE_FCC The processing of this project is applying the policy requirements exceptions for situations of urgent need of 
+assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.     
+Yes 
+
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 127.00 
+
+Total Financing 127.00 
+
+of which IBRD/IDA 100.00 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 3 of 22  
+
+ 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 100.00 
+
+          IDA Grant 100.00 
+
+Non-World Bank Group Financing 
+
+     Trust Funds 27.00 
+
+          Global Agriculture and Food Security Program 27.00 
+
+    
+
+Environmental and Social Risk Classification 
+
+Substantial 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+ 
+1. Violent conflict, now in its seventh year, has crippled Yemen’s economy and created an 
+unprecedented humanitarian crisis. Oil exports, the main source of government revenue and foreign 
+exchange, came to a virtual halt in 2015 due to repeated sabotage of vital infrastructure and increased 
+insecurity. The resulting wide-scale suspension of basic public services and civil service salary payments, 
+rapid currency depreciation, and shortages of imported goods weakened the non-hydrocarbon sector and 
+left many Yemenis without a regular income. More than 50 percent of Yemenis between the ages of 18 
+and 24 were unemployed in 2017 (United Nations Development Program 2017). A liquidity crisis hit the 
+country in mid- to late-2018 with the local currency depreciating significantly and food prices rising, 
+making food virtually unaffordable to many households. External assistance financed imports of food and 
+other necessities and helped stabilize the economy in 2019 but was largely depleted by early 2020 and 
+foreign reserves were not replenished. Some respite was provided through IMF financing in late spring 
+and summer of 2020.  
+ 
+2. The macroeconomic policy environment differs spatially due to the bifurcation of 
+administration between areas of control. In the areas controlled by the internationally recognized 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 4 of 22  
+
+ 
+
+government (IRG), significant revenue underperformance and continued monetization of the fiscal deficit 
+have undermined macroeconomic stability. Oil prices remain low, eroding the government’s hydrocarbon 
+revenue. Non-oil economic activity has suffered significantly from COVID-19 related trade slowdown, 
+desert locust outbreaks and exceptionally heavy rainfalls, which have caused intense flooding, 
+infrastructure damage and human casualties in 2020. The severe revenue shortfall has led to expenditure 
+compression. Since early 2020, salary payments to public sector workers have seen frequent delays. 
+Payables to suppliers (mostly to energy suppliers) have continued building up, disrupting fuel imports and 
+electricity supply. The complete ban on using new banknotes since December 2019[1] has resulted in two 
+exchange rates, complicating trade and financial flows across Yemen. The DFA’s fiscal policy operates 
+under a cash-constrained budget. The collection of corporate profit and sales taxes and customs revenue, 
+the three largest revenue sources, was affected negatively by COVID-19 related trade slowdown and 
+movement restrictions, and administrative disruption caused by flooding. In 2020, the DFA disbursed half-
+month salaries to public sector workers under its controlled areas every other month 1. 
+ 
+3. Over 24 million people (or 83 percent of the total estimated population) are food insecure2, 
+including a staggering 16.2 million people in IPC Phase 3+ requiring urgent emergency assistance. Food 
+insecurity in Yemen is driven by constrained food production, supply and distribution and households’ 
+diminishing purchasing power. An estimated 4.3 million people have fled their homes since the start of 
+the conflict, and 3.3 million remain internally displaced. Hunger, food insecurity and malnutrition are 
+among the most pressing and overwhelming challenges Yemen now faces, at a scale that is not being fully 
+met by national authorities and the international development and humanitarian communities. Low food 
+access has resulted from a combination a high household dependence on food imports, high food prices 
+and significantly reduced household income. It is estimated that Yemen imported 8 percent less wheat 
+per month between January and May 2020 than during the same period in 2019 due to limited funds, 
+which is an insufficient imported amount of wheat to meet the 2020 consumption requirement.  
+ 
+4. Socio-economic conditions deteriorated further in 2020, significantly worsening poverty. 
+Distortions created by the fragmented institutional capacity and the divergent policy decisions between 
+the areas of control have compounded the economic and humanitarian crisis. This dramatic deterioration 
+of conditions in Yemen means that an estimated 80 percent of the population (around 24 million) were 
+living below the poverty line even before COVID-19 pandemic crisis (World Bank 2019). The likely result 
+based on anecdotal evidence is a contraction of the economy from an already low base in 2020. In addition 
+to monetary poverty, it is estimated that up to 80 percent of households experience overlapping monetary 
+and non-monetary deprivations (World Food Program 2020). 
+ 
+5. Multiple indices point towards a significant gender gap, with Yemeni women having a lower 
+standard of living than men, and less access to education, health, productive employment and food 
+security than men (World Bank 2014). The Gender Inequality Index (GII) measures Yemen’s GII value as 
+0.8343 vs. the world’s average at 0.439.  Yemen ranks 153 out of 153 countries, meaning Yemen has the 
+most massive gender gap in the world, in the 2020 Global Gender Gap Report4 by the World Economic 
+
+ 
+[1] Notes printed after September 2016 when the Central Bank of Yemen (CBY) headquarters was moved to Aden. 
+1 The Yemen Macro-Poverty Outlook, the 2020 Annual Meetings Edition. 
+2 IPC Phase 2 and above.  
+3 The Borgen Project, 2018. 
+4  The Global Gender Gap considers the economic participation, education, health and political empowerment of all genders. 
+
+http://www3.weforum.org/docs/WEF_GGGR_2020.pdf
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 5 of 22  
+
+ 
+
+Forum. International Labor Organization (ILO)- modeled estimates5 suggest that 46 percent of women 
+work in agriculture (versus only 27 percent of men). Yet far fewer women participate in the labor market 
+and in productive employment, with only 6 percent of women participating in the labor force compared 
+to 72 percent of men. One out of four women in the labor market are unemployed (24 percent) compared 
+to 12 percent of men. Vulnerable employment is high for all but especially for women; 68 percent of 
+women fall in this category compared to 44 percent of men. Income inequality is stark: for every dollar a 
+man makes in Yemen, a woman is estimated to make only thirty cents6. In 2011, the adult literacy rate 
+was 80 percent for men and 45 percent for women, but among youth aged 15-24, these rates were 96 
+and 72, respectively7 8. Finally, while men face a higher direct burden of war through fighting and battle 
+deaths, women are disproportionately affected by the indirect and often lasting effects of conflict (World 
+Development Report 2011, Buvinic et al. 2012, Justino 2018) that exacerbate existing gender-based 
+deprivations and development shortfalls. 
+ 
+6. Economic and social prospects for 2021 and beyond are highly uncertain. With the ongoing 
+difficult political and security situation, socio-economic conditions will remain difficult. Urgent progress 
+to address the current restrictions of access to supplies and fuel imports would improve public service 
+provision and the operational environment for humanitarian operations. Ceasing hostilities and eventual 
+political reconciliation, including the return of unitary macroeconomic policy implementation, are 
+prerequisites for reconstructing the economy and rebuilding social fabric. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+7. Yemen’s agriculture supplies around 15 – 20 percent of its food needs due to limited agricultural 
+land and water resources and poor agricultural practices. However, agriculture—including fisheries and 
+livestock—is the backbone of Yemeni livelihoods and the most important non-oil sector of the economy, 
+even as its contribution to gross domestic product (GDP) has decreased during this period of severe 
+economic disruption. Agriculture’s share of GDP contracted from 10.3 percent in 2010 to 4.03 percent in 
+20189. Agricultural land is less than three percent (3 percent) of Yemen’s land area (FAOSTAT) and supplies 
+around 15 - 20 percent of its needs for food. The principal agricultural systems are in the rainfed highlands 
+characterized by terraced agriculture for coffee, fruits, grains and qat10 and extensive livestock (meat) 
+production. Horticulture and field crops predominate in the plains, using groundwater for irrigation. 
+Groundwater resources are very limited, fossil and non-renewable, and agriculture accounts for up to 90 
+percent of groundwater use. The current annual renewable freshwater resources in Yemen are estimated 
+at 80 m3 per capita versus an 8,900 m3 per capita global average. Yemen therefore falls well below the 
+absolute scarcity threshold of 500 m3 per capita11. Up to 85 percent of food consumed is imported, mostly 
+staples, such as wheat, rice, oil, sugar and milk. Yemen has self-sufficiency in some cereals (sorghum, 
+millet, and barley), while 90 percent of wheat is imported. The agricultural sector accounts for a large 
+portion of non-oil domestic exports and supports livelihoods through agricultural and livestock 
+production. Over three thirds of Yemenis depend on agriculture for their livelihoods.  
+
+ 
+5 World Bank Data.  
+6 The Borgen Project. 
+7 World Bank: data.worldbank.org/country/yemen-republic. 
+8Description of Yemen’s education system is summarized in Annex 2.  
+9 https://www.theglobaleconomy.com/Yemen/share_of_agriculture/ 
+10 Qat is a mild stimulant leaf chewed for recreation, and for which up to 40 percent of total water resource use is dedicated 
+11 Dire Straits: The Crisis Surrounding Poverty, Conflict, and Water in the Republic of Yemen, World Bank, 2017. 
+
+https://www.theglobaleconomy.com/Yemen/share_of_agriculture/
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 6 of 22  
+
+ 
+
+ 
+8. Agriculture is very important for job creation and food security, especially for women, yet 
+women have less access to agricultural assets and higher food insecurity. Women have a major role in 
+agricultural production; up to 87 percent of rural women are involved in agriculture sector activities (FAO), 
+yet women rarely have land ownership rights and they commonly relinquish inherited land rights to male 
+family members. It is estimated that only 13 percent of women are agricultural landholders (UNDP). 
+Women working in agriculture face many constraints, such as limited access to land ownership, finance, 
+markets, livelihood activities, and information, aside from legal and cultural restrictions on economic 
+independence. It is estimated that only 2 percent of women have access to a formal bank account or 
+mobile financial provider compared to 11 percent of men (which is also low). According to UNOCHA, 
+female-headed households are more at risk of food insecurity due to scarce work opportunities for them. 
+Women are generally excluded from economic transactions in the local markets. When food is scarce, 
+women are the first family members to eat less as a coping mechanism, even though they continue to do 
+hard work, including in the fields. Lack of official papers are an obstacle for women, boys and girls when 
+registering for humanitarian assistance distribution. Restrictions in mobility (for security and cultural 
+reasons) are often an obstacle for women and girls to go to humanitarian distribution points. Given the 
+agriculture sector’s importance in producing food for consumption and commercialization, and 
+generating incomes, it will continue playing an important role in households’ coping strategies and is 
+expected to play a leading role in post-conflict recovery and reconstruction12. 
+ 
+9. Vulnerability to climate change and pest outbreaks are exacerbating Yemen’s dire food 
+insecurity, creating a crisis within a crisis. Yemen is highly vulnerable to climate change, further 
+threatening food security and intensifying the development of locust swarms. By 2060, mean annual 
+temperature is expected to increase by 1.2oC to 3.3oC, and the rate of warming is projected to be more 
+rapid in interior regions than in coastal areas. Sea level rise will result in increased coastal flooding and 
+possible damages to infrastructure and ecosystems, leading to sea-water intrusion affecting the country’s 
+already fragile freshwater balance. Climate change has already triggered the strongest alterations in water 
+temperature in the Indian Ocean in 60 years. Warmer seas also create more extreme rainfall as well as 
+stronger and more frequent cyclones, providing ideal conditions for desert locusts to hatch, breed, and 
+disperse widely. Fall Armyworm breeding areas are also increasing in Yemen as a result of ecologically 
+favorable conditions, including extensive rains, with several governorates affected. 
+ 
+10. Despite the agricultural sector’s importance, agricultural productivity remains low and the 
+conflict has severely disrupted access to markets, transportation and distribution. Yemeni farmers 
+operate around 1.18 million farms, with an average land holding of 1.36 ha (FAO). About 75 percent of 
+agricultural production comes from the highlands, home to 60 percent of the population. While 
+productivity has always been low, conflict has worsened production conditions, resulting in a shortage of 
+inputs such as seeds, fertilizer and fuel, damage to agricultural machinery, irrigation systems and storage 
+facilities along with a deterioration of water, sanitation and electricity services, and a breakdown of 
+logistical chains. These disruptions, coupled with the relatively small and fragmented land holdings, have 
+been preventing the sector from making a larger contribution to rural incomes and addressing food trade 
+imbalances. The insufficient availability of inputs and post-harvest losses have been exacerbated by 
+
+ 
+12 https://www.theglobaleconomy.com/Yemen/Employment_in_agriculture/ 
+
+https://www.theglobaleconomy.com/Yemen/Employment_in_agriculture/
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 7 of 22  
+
+ 
+
+inadequate marketing systems, low human resource capacity, and lack of infrastructure and access to 
+markets. 
+ 
+11. Acute malnutrition is among the world’s highest, and both underlying acute and chronic 
+malnutrition will adversely impact the country’s human capital outcomes in the long term. Prior to the 
+2015 escalation of conflict, Yemen already had one of the world’s highest malnutrition levels. In 2021, 
+over 2.25 million children under the age of five in Yemen are threatened with acute malnutrition. Of those 
+children, 395,000 are expected to suffer from severe acute malnutrition and could die if without 
+treatment. The projected figures in the IPC nutrition analysis13 mark a 16 percent increase in acute 
+malnutrition and a 22 percent increase in severe acute malnutrition among children under five compared 
+to last year’s estimate. This is the highest number on record in Yemen. An additional concern are the more 
+than one million pregnant and lactating women who are projected to suffer from acute malnutrition 
+during 2021 in Yemen. Acute severe malnutrition14 has immediate effects, including greater susceptibility 
+to diseases like cholera, wasting and a whole range of other poor physical and mental health outcomes. 
+Malnutrition impacts on children is particularly severe, as it results in long term declines in cognitive 
+development, along with poorer health outcomes in both short and longer terms. This looms as a longer-
+term societal issue. According to UNICEF, a shocking 46 percent of all children in Yemen are stunted. At 
+this rate, malnutrition will create a lost generation. Undernutrition is particularly prevalent in rural areas, 
+related to lean seasons or food security crises, and in areas remote from food aid. This suggests that 
+enhanced, rural household-focused nutritional awareness, combined with improved local production can 
+improve nutritional outcomes. 
+ 
+12. Several aggravating factors that emerged in the spring and summer 2020 have been driving a 
+worsening of the food security situation. Those factors include:  
+ 
+
+(a) Widespread floods. In most of the governorates, the 2020 agriculture season started in March with 
+strong rains, which lasted into August and led to heavy floods across the country. The floods resulted 
+in substantial damage to cultivated lands and infrastructure and affected agricultural activities such 
+as horticulture and livestock. Floods coincided both with harvesting and planting, resulting in damages 
+to the standing crops and delayed planting activities. Destruction of water infrastructure alone (not 
+including impacts on crops and livestock) is estimated at US$50 million (FAO). The estimated recovery 
+and reconstruction needs for the short- and medium-term are between US$763 million and US$932 
+million15. 
+ 
+
+(b) Desert locust invasion. Yemen is one of the main breeding grounds of desert locust swarms, with 
+swarms developing across the entire year and in multiple locations. The rains created favorable 
+conditions for desert locusts to reproduce, resulting in extensive damage to cultivated crops. 
+Residents and farmers in selected governorates reported a huge number of locusts invading farms, 
+cities and villages, devouring important seasonal crops such as dates and causing heavy losses. The 
+World Bank’s estimates put the damages and losses for the 2020 agricultural season at US$ 222 
+million.  
+
+ 
+13 Yemen: High levels of food insecurity persist | IPC Global Platform (ipcinfo.org)  
+14 Severe acute malnutrition is defined by a very low weight for height (below -3z scores of the median WHO growth standards), 
+by visible severe wasting, or by the presence of nutritional oedema (WHO). 
+15 Yemen Dynamic Needs Assessment (DNA): Updated 2020 (World Bank). 
+
+https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ipcinfo.org%2Fipcinfo-website%2Falerts-archive%2Fissue-34%2Fen%2F&data=04%7C01%7Clevke.groher%40wfp.org%7Ce86d9cd3ea3e494a131208d8d24e8c3d%7C462ad9aed7d94206b87471b1e079776f%7C0%7C0%7C637490582106175894%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=USpcsPe3%2Fby%2FurFf%2BD%2BKHXCUY%2Fo3U5Dmo4psA1VbdjU%3D&reserved=0
+http://www.ipcinfo.org/ipcinfo-website/alerts-archive/issue-34/en/
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 8 of 22  
+
+ 
+
+ 
+
+(c) Livestock disease incidences and prevalence in 2020. The above normal and intense rains created 
+conducive environments for disease vectors to multiply and easier disease transmission of livestock 
+diseases, resulting in increased outbreaks. In livestock, suspected outbreaks of Foot and Mouth 
+Disease (FMD), Peste des petits ruminants (PPR), sheep and goat pox (SGP) in areas of low/absence of 
+vaccination coverage, Lumpy Skin Disease (LSD) and other disease conditions have devastated 
+livestock population, increasing vulnerability of livestock dependent population to food security 
+shocks. 
+ 
+
+(d) Well below-average cereal harvest in 2020. The total cereal production in 2020 was estimated at 
+365,000 tons, almost 25 percent below the five-year average. Rural food crop production is expected 
+to continue declining unless action is taken. With reduced food imports, higher food prices and for 
+most households significantly reduced income earnings, the result will be lower food access. 
+ 
+
+(e) The COVID-19 pandemic continues its spread across Yemen, negatively impacting food supply chains 
+and food trade and contributing to sharp food price increases. By early March 2021, Yemen had 
+reported 2,436 COVID-19 cases with 660 deaths, although it is likely COVID-19 cases are significantly 
+under-reported. Market functionality and logistics in many areas have been hampered due to curfews 
+and other COVID-19 pandemic prevention measures, greatly affecting farmers’ access to markets. 
+Although farmgate prices did not change, poor market access has resulted in high post-harvest losses 
+of horticulture products with only a few farmers finding alternate marketing channels to sell their 
+produce, resulting in lower incomes. Movement restrictions and high input costs could further affect 
+the next planting season. Negative coping strategies observed amongst pastoralists, such as selling 
+herds, could continue without assistance to secure the upcoming planting season and to preserve 
+productive assets in rural areas. In the coming months, localized and temporary increases in COVID-
+19 control measures are expected in areas where higher numbers of cases are suspected, with further 
+disruptions to trade and access to food and income. 
+ 
+
+(f) Food price increases have continued through a combination of rapid currency deterioration, COVID-19 
+pandemic impacts on the agri-food sector and lower food imports. Food represents a large share of 
+poor households’ consumption expenditures, estimated between 60 to 70 percent. The disruptions 
+to supply chains of locally produced foods are resulting in postharvest losses, and informal food flows 
+across land borders are expected to continue at reduced levels relative to the pre-conflict period. 
+Trade across land borders will likely remain difficult as continuing insecurity is now compounded by 
+border closures due to COVID-19. As a result, the cost of the minimum food basket (MFB) increased 
+by more than 20 percent during February 2020 – January 202116. For instance, wheat flour price 
+gradually increased throughout 2020 and in November 2020 was 27 percent higher than at the same 
+time previous year17. At the same time, incomes in the informal sector have dropped dramatically, 
+remittances are also down sharply, and from December 2019 to June 2020, the local currency (Yemeni 
+riyal) lost an average of 19 percent of its value against the US dollar18.  
+
+ 
+16 MENA Crisis Tracker, January 20, 2021.  
+17 FEWS NET Yemen Food Security Outlook Update, December 2020. 
+18 IPC ACUTE FOOD INSECURITY ANALYSIS JULY – DECEMBER 2020; Issued July 2020. 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 9 of 22  
+
+ 
+
+13. The ability of Yemen’s physical food markets  to operate varies across the country. Yemen’s food 
+market landscape is  fragmented and market ability to operate depends on the security situation.  In many 
+areas, markets are operating reasonably well and are reasonably well stocked, however, in many food 
+insecure areas poorly operating markets and dis-functional logistics are among the reasons contributing 
+to the food insecurity.  The Yemen Joint Market Monitoring Initiative19 regularly monitors market 
+operations in 56 districts in 16 governorates. They report that price inflation is the most commonly 
+reported constraint faced by the assessed vendors when obtaining fuel, Water, Sanitation and Hygiene 
+(WASH) items, food items, and water trucking services. Among the vendors interviewed, results showed 
+86.2 percent saw price increases as the key constraint. Other constraints listed by respondents were 
+insecurity (17.7 percent), demand shortages due to the population’s low purchasing power (14.9 percent), 
+transportation difficulties (12.8 percent), with supply shortages only mentioned by 2.4 percent of 
+respondents. Yet farmers report worsening access to markets due to the COVID-19 restrictions. 
+Horticulture farmers, mainly women, are selling a highly perishable commodity and rely on this income to 
+sustain their families. Poor market access has both, kept the farmgate prices steady, but also resulted in 
+high post-harvest losses of horticulture products with only a few farmers finding alternate marketing 
+channels to sell their produce, resulting in lower incomes. Another significant factor that negatively 
+impacts overall private sector operations is fuel scarcity and its trading in the black market at double the 
+price, which have disrupted the production process, service delivery, decreased working hours, and 
+increased costs of production, transportation, storage and marketing20. 
+ 
+14. Climate change is already worsening the existing challenges and negatively impacting all four 
+dimensions of food security: availability, access, stability, and utilization of food. Food availability is 
+compromised by projected yield declines due to temperature and precipitation patterns change. Climate 
+change also compromises food access by affecting consumers' purchasing power through price increases 
+as a result of climate change. Climate change affects food utilization primarily by reducing food safety 
+through a higher incidence of food-borne diseases and the spread of novel pests and diseases. Regarding 
+food stability, the risks to food and nutrition security are exacerbated by the expected increase in the 
+frequency and intensity of climate-related events. Furthermore, according to the World Bank's 
+Groundswell report21, climate change will scale up internal climate migration. The poorest people in rural 
+areas will be forced to move due to slow-onset climate change impacts, including decreasing crop 
+productivity, shortage and deterioration of water’s quantity and quality, and rising sea levels. Therefore, 
+actions geared towards building improved and climate-smart agri-food systems will contribute to 
+increased food security, climate change adaptation and mitigation. 
+ 
+15. Food security situation forecasts for the first half of 2021 predict that food insecurity across the 
+country will intensify due to the continued, combined effects of the aggravating factors described in 
+paragraph 12 above, a warning uniformly sounded across the UN agencies working in Yemen, including 
+the FAO, UNICEF and the World Food Programme (WFP)22. This includes large areas of the country 
+previously in IPC Phase 2 (Stressed) moving to IPC Phase 3 (Crisis), with the share of the population in IPC 
+Phases 3 and 4 significantly increasing by June 2021. The number of people likely to experience high levels 
+of acute food insecurity (IPC Phase 3 or above) is estimated to be nearly 16.2 million (54 percent of the 
+
+ 
+19 Yemen Joint Market Monitoring Initiative, January 2021 Situation Overview.  
+20 Yemen Socio-Economic Update, October 2020. 
+21 Groundswell: Preparing for Internal Climate Migration, The World Bank, 2018. 
+22 3.2www.unicef.org/yemen/press-releases/yemen-sees-return-alarming-levels-food-insecurity, July 22, 2020 
+
+http://www.unicef.org/yemen/press-releases/yemen-sees-return-alarming-levels-food-insecurity
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 10 of 22  
+
+ 
+
+total population). Food insecurity is more severe both in areas with active fighting and bordering areas 
+with limited access. It is particularly affecting Internally Displaced Persons (IDPs) and marginalized groups 
+such as the landless laborers and the Mohamasheen23. Food insecurity is also severe in areas where 
+people survive on low and irregular sources of income and low access to public services. The population 
+in Catastrophe (IPC Phase 5) are found in five districts of Al Jawf, Hajjah and Amran. The governorates 
+with the highest proportion of IPC Phase 4 districts (>75%) are located in Al Dhale’e, Al Jawf, Hajjah, Marib 
+and Rayma Governorates. Each of the governorates of Al Hudaydah, Dhamar, Hajjah, Ibb, Sana’a City and 
+Taizz have more than one million people in IPC Phase 3 (Crisis) or above. The upcoming “lean” season, 
+between March and June 2021 is expected to aggravate this situation. 
+ 
+
+C. Proposed Development Objective(s)  
+ 
+
+Development Objective(s) (From PAD)  
+ 
+16. The Project Development Objective is to improve availability and access to food and nutritious 
+diets, both in the short and medium term, for targeted households in the Project Area, and to enhance 
+Yemen’s capacity to respond to food insecurity. 
+ 
+
+Key Results 
+ 
+
+17. Progress toward the achievement of the PDO will be measured by the following outcome 
+indicators:  
+ 
+
+Outcome 1: Short-term access and availability of food and nutritious diets at household level 
+
+improved  
+
+• Percentage of households (HH) with improved Food Insecurity Experience Scale (FIES), of which 
+female-headed households;  
+
+• Percentage of women in beneficiary households with minimum dietary diversity; 
+
+• Percentage of children (6-23 months) consuming minimum acceptable diet.  
+ 
+
+Outcome 2: Medium-term access and availability of food and nutritious diets at household level 
+
+improved 
+
+• Increase in the volume of food/agricultural products commercialized/sold by beneficiaries, of which 
+by female beneficiaries.  
+ 
+
+Outcome 3: Country capacity to respond to food insecurity strengthened 
+
+• Food security preparedness improved, through the adoption of the food security preparedness plan 
+and the use of the EO monitoring tool.  
+
+ 
+ 
+
+ 
+23 Mohamasheen or “the marginalized ones” is a minority of African descent who suffer from caste-based discrimination and 
+have long been characterized by deep-seated poverty and exclusion. 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 11 of 22  
+
+ 
+
+D. Project Description  
+ 
+
+ 
+18. Component 1: Improving household incomes through CFW for agricultural production 
+infrastructure (US$20.0 million, including US$5.0 million from GAFSP and US$15.0 million from IDA). 
+UNDP will implement this component through the Social Fund for Development (SFD) and the Public 
+Works Project (PWP). The  SFD will  take the lead in implementing the CFW program, which will provide 
+employment opportunities directly to beneficiary laborers from the communities in the project area. The 
+PWP will implement small-scale infrastructure-related works through selected locally sourced contractors 
+which are also expected to create employment opportunities for the communities. Both organizations 
+have extensive experience implementing their respective responsibilities under a number of other 
+interventions, including under several Bank-financed projects.  It is expected that 85 percent of the 
+component financing will be allocated for CFW activities, which the remaining 15 percent would be 
+channeled through the PWP. Component 1 activities will be implemented in close collaboration with the 
+FAO to ensure that they are closely coordinated with the productive investments made under Component 
+2. Component 1 would ensure immediate access to food for an estimated 26,500 food-insecure 
+households by creating temporary employment opportunities through a Cash-for-Work (CFW) program, 
+focusing on restoring damaged public and collective productive assets, including those affected by the 
+recent floods. The project would target youth (18 – 32 years of age) through the community outreach 
+programs and encourage them to participate in the CFW program. The Component will also seek to 
+support employment generation activities targeting women. 
+ 
+
+19.  Component 1 activities would directly contribute to climate change adaptation and mitigate 
+greenhouse gas emissions. Implementing climate-resilient irrigation and water conservation and 
+management practices will restore degraded lands (including terracing) and affected water infrastructure 
+for subsequent productive, climate-smart technology use in agricultural production and allow 
+beneficiaries to earn much needed income from their repair and maintenance through cash-for-work. An 
+estimated 15,700 farmers will have improved access to water infrastructure, irrigation networks and 
+rehabilitated lands. These actions also contribute to climate change mitigation and adaptation by 
+increasing carbon sequestration and improving water management. The Component will finance 
+beneficiary compensation, estimated as US$660 per household per six month period, and the operating 
+costs of SFD and PWP. The detailed criteria for beneficiary selection will be included in the Project 
+Operations Manual (POM), and care will be taken to ensure that the beneficiaries of this Component are 
+not engaged in parallel Bank-financed projects24. 
+ 
+
+20. Component 2: Increasing production and sale of nutritious crop, livestock and fish products 
+(US$33.0 million, including US$10.0 million from GAFSP and US$23.0 million from IDA). This Component 
+will be implemented by FAO. The Component would allocate resources to provide key support for 
+smallholder farmers and producers to invest in productive assets and help improve their capacity to better 
+commercialize their products and enter new markets. The Component would support: (1) restoring 
+climate-smart local food production to increase household access to food and food availability in local 
+markets, and (2) improving farmer’s access to markets for staple and high value cash crops (such as 
+horticultural crops and coffee), by strengthening value chains’ vertical and horizontal linkages, to increase 
+incomes for beneficiary households. Component 2 would collaborate with IFC in developing selected high 
+
+ 
+24 SFD is the main implementing agency for CFW components and sub-components under Bank-financed projects.  
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 12 of 22  
+
+ 
+
+value agricultural value chains, building value chains between the project-supported farmers/agricultural 
+producers and IFC’s advisory services and investment clients25. This component is therefore expected to 
+restore climate-smart agricultural production while also stimulating the local economy and promoting the 
+production of nutrient-dense foods (e.g., horticulture, pulses, meat (chicken and livestock), dairy and fish). 
+This component would finance two types of support packages. Detailed criteria for beneficiary selection 
+and implementation arrangements will be included in the POM. 
+ 
+
+21. Sub-component 2.1: Restoring climate-smart agricultural production (US$15.0 million, including 
+US$ 5.0 million from GAFSP and US$10.0 million from IDA). The Input Package for agricultural producers 
+will promote climate-smart agricultural production focusing on smallholder’s re-engagement in 
+horticulture, crop and livestock farming, bee-keeping and fish production. Producers would receive 
+support to restart or expand production, including input starter packages for crops, animal feed, improved 
+forage seeds, equipment and inputs to start fish farming, bee-keeping kits, farm equipment such as fodder 
+choppers and small dairy equipment, energy efficient post-harvest handling and storage facilities. The 
+Input Packages will be supported by complementary climate-smart practices supporting diversified 
+production and climate resilience—for instance, by introducing improved varieties and plantings and ways 
+to preserve and manage grasslands. The Sub-component will also provide extension support to producers, 
+including training and advisory services through Farmer Field Schools (FFS) on good agricultural practices, 
+enhanced animal husbandry and feeding practices  and climate-smart technologies. SFD, which has 
+extensive prior experience in implementing the types of activities supported under this Component, will 
+work alongside FAO to restoring and enhancing access to  some agriculture inputs. It would also 
+strengthen access to supporting services to ensure maximum benefits from those assets, including 
+extension services to be supported under Component 4, veterinary services (including vaccinations for 
+animals) thought Community Animal Health Workers (CAHWS) and General Directorate for Animal Health 
+and Quarantine (GDAHWQ), and mechanical services support.  
+ 
+
+22. Sub-component 2.2: Promoting value addition and sale of nutritious food products (US$20.0 
+million, including US$5.0 million from GAFSP and US$15.0 million from IDA). The second package of 
+interventions (Value Addition Package) will provide in-kind grants to support enterprising producers, 
+processors and traders to scale up, add value to their products, improve product quality and aggregation, 
+consolidate production, and access local and regional markets with their products. The sub-component 
+will work with the value chain participants to structure the value chain, providing both training and 
+advisory support in technical aspects (aggregation, development of linkages with farmers, product quality 
+and others), business skill capacity building, and provide beneficiaries with key assets (equipment, 
+machinery and working capital), enabling them to increase the quality and commercialization of food 
+products. In areas with high caseloads of Internally Displaced Persons (IDPs), the project will build 
+capacities of farmers with agriculture techniques, value chain development and maintenance of local 
+infrastructure, to improve mutual trust, understanding and collaboration between displaced and host 
+populations. SFD, which has extensive prior experience in implementing the types of activities supported 
+under this Sub-component, will work alongside FAO to increase the farm-gate value and nutritional 
+content of some agricultural products through provision of improved technologies and practices for key 
+horticulture crops. The equipment and machinery provided under the sub-component will be climate-
+smart and more environmentally friendly than conventional technologies. Most of the equipment and 
+machinery is expected to be procured, imported and distributed to the value chain/value addition 
+
+ 
+25 One such opportunity for a black sesame value chain has already been identified. 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 13 of 22  
+
+ 
+
+beneficiaries by FAO. Some of the value chain activities may also cover the beneficiaries who received 
+support under the SAPREP and ECRP.  
+ 
+
+23. Sub-component 2.2 will support key value chains mostly focused on the local market, including 
+beans and cereals, vegetables, dairy, livestock and fish value chains. To increase production, improve 
+product quality, extend shelf-life, reduce food loss, and improve energy efficiency, the component will 
+complement the Input Packages by providing in-kind grants for value chain development, post-harvest 
+enhancement and value addition activities. The size of in-kind grants will depend on the type of 
+beneficiary financed – a group or individual, as well as on the nature of the activity. Larger-scale 
+investments, such as seedling centers, post-harvest centers, hydroponics, dairy processing facilities, etc., 
+will be implemented though groups of beneficiaries. For group beneficiaries, the upper value of the in-
+kind grants should not exceed a maximum of US$70,000 per group. The only exception to this maximum 
+size limit may be groups engaged in milk collection and dairy processing where construction of 
+infrastructure is necessary. Given the high start-up costs, the maximum value of such in-kind grants should 
+not exceed a maximum of US$120,000 per group. Individual beneficiaries who will receive support for 
+activities such as beekeeping, poultry production, horticulture production and processing, food 
+preservation, agro-logistics services and other income-generating value-addition activities, the grant shall 
+not exceed US$2,000 per individual beneficiary. All in-kind grant financed by the project should be 
+supported by a business idea description, description of the market, value chain arrangements and 
+financial viability. The length of the business idea description should be commensurate with the size of 
+the in-kind grant. Detailed description of the in-kind grants is in Annex 3. 
+ 
+
+24. The component will also support investments and technical assistance in selected high-value, 
+high-growth value chains (such as coffee, fruits and nuts, and poultry and eggs26), some of them in 
+collaboration with IFC and aiming to generate IFC and/or private sector investments. This should generate 
+higher employment and household incomes, improve access to food, and allow for higher diversification 
+of household diets. To ensure that the products are delivered to the market, and to create additional jobs, 
+selected small-scale agro-logistics service providers may also be supported. The component will prioritize 
+the adoption of climate-smart crop and livestock practices to reduce greenhouse gas emissions and 
+enhance resilience to climate change. SMEPS will be working alongside FAO and IFC to ensure knowledge 
+transfer on value chain development and support to build SMEPS’s capacity to engage in similar activities 
+in the future. To further review and strengthen opportunities for development of value chains, the Sub-
+component will also finance studies in two areas: (1) A fisheries and coastal 
+aquaculture needs assessment and a fisheries and coastal aquaculture stock assessment; and (2) agro-
+logistics constraints and solutions for selected value chains. The sub-component will also support limited 
+small-scale laboratory equipment for selected Universities to support the value chain development 
+activities. 
+ 
+25. Component 3: Improving the nutritional status of vulnerable rural households (US$49.3 million, 
+all IDA). Sub-component 3.1 will be implemented by FAO and Sub-component 3.2 and 3.3 will be 
+implemented by WFP. This component would aims at improving the nutritional security of very vulnerable 
+(Sub-components 3.1 and 3.3) and moderately vulnerable (Sub-component 3.2) households through a 
+variety of instruments, including: (1) targeted nutrition-sensitive agriculture activities and facilitating 
+
+ 
+26 Based on the results of application of the Agricultural Investment for Development Analyzer (AIDA) model by the 
+International Food Policy Research Institute (IFPRI).  
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 14 of 22  
+
+ 
+
+uptake by poor households of appropriate dietary and nutrition practices, in particular improving nutrient 
+intakes of pregnant mothers and children under two, (2) promoting women’s entrepreneurship activities 
+and improving the diets of the female-led households, and (3) improving nutrition in vulnerable 
+households with malnourished women and children. Component 3 beneficiaries may also include the 
+Cash-for-Nutrition beneficiaries under the ECRP, to ensure that they receive support allowing them to 
+start their own production of food or improve nutritious diets on a more sustainable basis.  
+ 
+26. Sub-component 3.1: Promoting kitchen gardens and backyard production for improved diets 
+(US$10.0 million, all IDA). FAO will implement this Sub-component which will target beneficiary 
+households that have received malnutrition treatment and prevention services referred to under Sub-
+component 3.3, former beneficiaries of the Cash-for-Nutrition programs under the ECRP, households with 
+pregnant mothers and children under two, and other eligible households with a similar vulnerability level. 
+The Sub-component will provide inputs (vegetable seeds, chicken, etc.) for households to establish kitchen 
+gardens and backyard production of nutritious food items (vegetables, eggs, and meat). It is estimated 
+that the sub-component will reach 20,000 beneficiary households. Beneficiaries would also receive two 
+types of training. For improving backyard production, they will receive training on best and climate-smart 
+agricultural production practices. The Sub-component will prioritize the adoption of climate-smart crop 
+and livestock practices to reduce greenhouse gas emissions and enhance resilience to climate change. To 
+maximize the nutritional value of available food, training sessions will be offered to beneficiaries of this 
+sub-component on how to maximize the nutritional value of foods when preparing family meals. Also, the 
+project will use different communication channels to spread nutrition messages to trigger behavioral 
+change in target populations. Since women are the main family caretakers, mostly women beneficiaries 
+are expected to partake in these activities, however, the training will be open to both women and men. 
+ 
+27. Sub-component 3.2: Promoting women’s rural entrepreneurship for improved nutrition and 
+food security (US$14.3 million, all IDA). The Sub-component will be implemented by WFP and will focus 
+on promoting women’s entrepreneurship to generate higher income and improve nutritious diets and 
+food security at the household level. WFP’s resilience and livelihoods interventions will mainly target 
+moderately food-insecure people to prevent them from slipping into further food insecurity. WFP will 
+work with national NGO partners and provide Food for Training to food-insecure women, especially 
+targeting those who are heading their households in rural communities. The training will develop their 
+skills, aimed at restoring or establishing their livelihoods, and starting their own businesses. The support 
+in most cases will range from six to nine months (at the monthly payment of US$105), giving participants 
+access to various trainings, such as skill development, business development and management, digital skills, 
+entrepreneurship, improved nutrition and life-skills (e.g. health practices) while they are supported by a 
+monthly allowance. Once trainings are completed and a business plan submitted, the women would 
+receive a start-up grant to start diversified income generating activities (both agricultural and non-
+agricultural). The grant amount per individual will not exceed US$800. Increasing the productive capacity 
+and livelihoods potential of rural women, especially in agriculture and food production, will help sustain 
+their food and nutritional security when the assistance period ends. Similar to 3.1, for agricultural 
+activities, the Sub-component will prioritize the adoption of climate-smart crop and livestock practices to 
+reduce greenhouse gas emissions and enhance resilience to climate change. WFP’s comprehensive 
+approach also includes training and support related to gender-based violence, awareness on preventing 
+infectious disease spread, and child-care, nutrition and health practices. Participants will be encouraged 
+to work together in joint business ventures with an estimated 3 participants per business, although the 
+number may vary based on participant preferences and conditions for joint ventures in the targeted areas. 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 15 of 22  
+
+ 
+
+It is expected that around 7,910 women will participate in the training, establishing an estimated 2,637 
+businesses.  
+ 
+28. Sub-component 3.3: Providing nutrition assistance to treat and prevent malnutrition (US$25.0 
+million, all IDA) for pregnant and lactating women and girls (PLWG) and children under 5 years old. This 
+Sub-component will be implemented by WFP and constitutes an integrated malnutrition prevention and 
+treatment response. WFP will provide blanket supplementary feeding with specialized nutrition products 
+to children aged 6–23 months and PLWG to prevent acute and chronic malnutrition in the project area 
+districts prioritized for integrated famine response. Elsewhere, WFP will provide targeted supplementary 
+feeding to malnourished children aged 6–59 months and PLWG girls to treat moderate and acute 
+malnutrition across the country. Beneficiaries of targeted supplementary feeding will be screened in local 
+health centers, through community health volunteers and screening campaigns organized by the Ministry 
+of Public Health and Population (MOPHP), using mid-upper arm circumference (MUAC) and weight-for-
+height measurements. This is accompanied by social behavior change communication (SBCC), designed to 
+reduce barriers to adequate infant and young children feeding practices and healthy eating and hygiene 
+habits. The SBCC campaign will target PLWG, health workers and caregivers, and also other decision 
+makers and influencers within the community such as parents-in-law, husbands and local leaders. 
+Messaging will focus on ensuring that responsibility for the care of children is shared within the household 
+and not only limited to women. During the project period, around 195,000 beneficiaries are expected to 
+be reached through the  Treatment Program, including 150,000 acutely malnourished children under the 
+age of five and 45,000 acutely malnourished pregnant and lactating women and girls, as well as around 
+277,000 beneficiaries through the Prevention Program, including 150,000 children under the age of two 
+and 127,000 pregnant and lactating women and girls. 
+ 
+29. Component 4: Capacity building for food security management (US$6.0 million, all IDA). FAO 
+will lead implementation of this component in cooperation with other partner organizations as described 
+below. This component includes a set of activities that are expected to significantly strengthen the 
+capacity of both the private (households) and public sectors for food security crisis planning and response: 
+
+ 
+
+(a) Developing an evidence-based Food Security Preparedness Plan (FSPP). The FSPP development 
+will be co-led by the World Bank (financed under a separate budget) and the FAO, and will be 
+carried out in a highly participatory manner, consulting with the main line ministries and 
+Institutions involved in the agricultural sector, multilateral and bilateral organizations, the private 
+sector; and civil society including international and local NGOs. This FSPP will be prepared within 
+six months of project effectiveness and it will be reviewed by the World Bank’s Technical Expert 
+Group on Food Security. The FSPP implementation will be monitored on a regular basis 
+throughout the project period.  
+ 
+
+(b) Establishing a satellite-based Earth Observation (EO) crop and pasture monitoring and early 
+warning system for detecting climate-induced hazards. This tool would support monitoring 
+agricultural production, providing information to the GOY for decision-making regarding food 
+imports planning. The data generated by the EO Tool will also feed into the FSPP implementation. 
+The EO tool will initially be housed by FAO and arrangements to transfer to the appropriate agency 
+will be identified during the project Mid-Term Review (MTR). The project will be designed in a 
+manner to ensure its use for the intended (civilian) purpose only.  
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 16 of 22  
+
+ 
+
+ 
+
+(c) Strengthening agriculture extension services by financing capacity building of the existing 
+extension services, including current extension services staff, Community Animal Health Workers 
+(CAHWs) and other extension service agents working in the communities. A significant number of 
+women, enrolled on the basis of selection criteria which will be reflected in the POM, will be 
+trained as extension workers, agricultural technicians, and CAHWs under this activity and 
+recruited to be part of FFS.  
+ 
+
+(d) Piloting alternative agricultural production technologies will introduce alternative, climate smart 
+land- and water-efficient agricultural production technologies for producing nutritious crops (soil-
+less technologies, such as hydroponics and aquaponics) by financing technology pilots and 
+demonstrations in areas where previously, production would not have been possible, due to 
+limited land resources. 
+
+ 
+30. Component 5: Project Management and Knowledge Management (US$16.7 million, including 
+US$3.2 million from GAFSP and US$13.5 million from IDA). This component would cover the costs 
+associated with project management for all three Implementing Agencies (FAO, UNDP and WFP), 
+recognizing the particularly challenging operating conditions in Yemen. Covered implementation costs 
+include financial management, procurement, monitoring the project’s environmental and social 
+safeguards, communication and stakeholder engagement, and overall monitoring and evaluation (M&E). 
+Additionally, M&E is expected to be strengthened by using the Geo-Enabling initiative for Monitoring and 
+Supervision (GEMS) and by carrying out an additional impact assessment (in collaboration with IFPRI), to 
+assess the suitability and impact of project interventions. This component would also finance a third-party 
+monitoring (TPM) mechanism and establishing and maintaining a grievance redress mechanism (GRM). 
+ 
+31. For real-time data collection and analysis, the project will implement the Geo-Enabling method 
+for Monitoring and Supervision (GEMS). The GEMS method enables project teams to use open-source 
+tools for in-field collection of structured digital data that automatically feeds into a centralized M&E 
+system and Management Information System (MIS). The integrated data can include any kind of 
+indicators, based on tailor-made forms; photos, audio, videos; time and date stamps; and GPS coordinates 
+that allow for automated geo-mapping of the information. Using these tools systematically allows the 
+project to enhance the transparency and accuracy of project planning as well as M&E and third-party 
+monitoring throughout the project cycle. Moreover, GEMS allows for establishing a digital platform for 
+remote supervision, real-time safeguards monitoring, and portfolio mapping for coordination across 
+project components as well as with other operations in the region.  
+ 
+32. Integration of COVID-19 response. The project will use its resources (such as field consultants) to 
+integrate COVID-19 awareness and preventive measures in the training events and awareness campaigns 
+planned for beneficiaries. Awareness raising and training events will follow precautionary measures 
+described in workshop/training protocols, as well as enforce and maintain adequate distancing during 
+control, distribution, training, payment, and other project activities. These will also be held in locations 
+and during times that are convenient for women. The project will work with local communities, female 
+and male consultants, and beneficiaries to reach households with awareness and hygiene materials (such 
+as masks, hand sanitizers and other relevant consumables) that will be developed to resonate with women 
+and men’s different roles and behaviors at home and in society. The decision on which hygiene materials 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 17 of 22  
+
+ 
+
+to procure will be made in coordination with the Bank-financed COVID-19 health emergency project in 
+Yemen.  .
+
+.  
+Legal Operational Policies 
+
+            Triggered? 
+
+Projects on International Waterways OP 7.50             No  
+
+Projects in Disputed Areas OP 7.60             No  
+
+ 
+
+Summary of Assessment of Environmental and Social Risks and Impacts 
+. 
+
+ 
+Environmental Risk Rating 
+ 
+
+33. The environmental risk is considered Substantial given that the project will support several 
+interventions that might be associated with environmental risks and impacts and the implementation 
+agencies' ESF capacity remains limited. Environmental risks and impacts are expected to be site-specific, 
+reversible, and generally of low magnitude that can be mitigated following appropriate measures; 
+nonetheless, based on the implementation experience of ongoing projects, particularly those involving 
+labor-intensive interventions, and the identification of significant Occupational Health and Safety (OHS) 
+gaps, there is a significant risk for fatal incidents or serious injuries to occur under the project, particularly 
+under the interventions of component 1 (Alleviating immediate food security needs by improving 
+household incomes) since the activities under this component will provide temporary work opportunities 
+to a large number of local community members, with little or no knowledge or experience in applying OHS 
+measures. 
+ 
+34. Furthermore, there is a risk of COVID-19 transmission among community workers if worksites are 
+not managed appropriately and injuries due to the potential explosion of a remnant of war (ERW). 
+Component 1 will also support the rehabilitation of small-scale rural land and water infrastructure and 
+access roads to isolated villages/communities, therefore improper management of materials that will be 
+used for the rehabilitation activities might lead to the generation of waste and open dumping in the 
+environment. In addition, the project might support some interventions such as rehabilitation of terraces 
+and construction of hydroponics which might increase the use of pesticides (the project will not finance 
+procurement of pesticides) and fertilizers which should be applied and disposed of adequately and in a 
+controlled manner.  
+
+ 
+
+35. It is mentionable that the project will have several positive impacts including through supporting 
+the hydroponics and aquaponics which will enhance the economically - environmentally friendly and 
+sustainable development solution for the beneficiaries and will pilot interventions which are of high 
+productivity and save land and water consumption for irrigation. This may encourage other farmers to 
+replicate this intervention at a larger scale and spreading scientific knowledge to other farmers 
+countrywide. 
+ 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 18 of 22  
+
+ 
+
+Social Risk Rating 
+ 
+
+36. The proposed project is expected to bring significant social benefits to the targeted communities. 
+It will contribute to the alleviation of food security and improvement of household income through the 
+Cash for Work program, support restoration of local food production and increase the sales of crops and 
+livestock and promote diversified nutrient crops.  Particular attention and efforts would be given to the 
+promotion of youth and women participation and maximizing their benefits through dedicated 
+subcomponents under the project.   
+ 
+37. The project could face possible adverse social impacts and risks. The proposed interventions in 
+farmland and irrigation works are of rehabilitation and maintenance nature.  They are planned to take 
+place within their existing footprints and are expected to be quite small in scale. Therefore, land 
+acquisition or resettlement needs are not anticipated under the project.  A negative exclusion list will be 
+developed for the project. However, these activities could have potentials for labor-related impacts and 
+risks, such as possible child labor, forced labor, discriminatory practices in recruitment, occupational 
+health and safety issues, and GBV/SEA risks, and even possible conflicts within potential beneficiary 
+communities.  The project faces a potential risk of elites or better-connected individuals or groups 
+capturing project benefits, affecting poor and vulnerable groups receiving their due share of project 
+benefits.  These could include the elderly, poor farmers, women, and individuals displaced by the ongoing 
+conflict. The overall country security situation poses another challenge for the project and is a key risk for 
+the project implementation. In addition to the general conflict and security situation the country faces, 
+the project may face possible conflicts among local communities, interested groups, and factions over 
+project benefits distribution. Given the above, the project's social risks are considered Substantial. 
+
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements 
+
+ 
+38. The project would be implemented by three UN Agencies, FAO, UNDP and WFP, ensuring project 
+activities reach throughout both the South and the North of Yemen. Each Agency will implement part of 
+the project based on their mandate and relevant experience: 
+ 
+
+(i) FAO is the specialized UN agency responsible for and well positioned to respond to 
+emergencies in agriculture and food security, including crop and food supply monitoring and 
+needs assessments, evaluations of agricultural relief requirements, and mobilizing assistance 
+and resources to restore agricultural activity. The FAO has prior experience in supporting the 
+implementation of Bank-financed projects on the ground in Yemen (since 2017 it has led the 
+implementation of SAPREP toward satisfactory achievement of results and more recently it 
+became the Implementing Agency for the Desert Locust Response Project; P174170). SAPREP, 
+implemented in collaboration with SFD,  supported a set of similar activities, including the 
+CFW instrument implementation, support to agricultural production by providing input kits 
+and ensuring access to associated services (such as animal health services). The project’s 
+implementation performance rating is Satisfactory. Given their prior experience in 
+implementing SAPREP, FAO is fully aware of the Bank’s fiduciary and safeguards 
+requirements. FAO has put in place enhanced M&E mechanisms to supervise local 
+implementation partners and has also been using TPM. 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 19 of 22  
+
+ 
+
+(ii) UNDP is the UN’s development agency and it is committed to supporting the peacebuilding 
+initiative in Yemen, political stability and enhanced local governance. UNDP has built a 
+successful partnership with the World Bank in implementing the CFW activities of the ECRP. 
+The project works in 317 districts out of 330 districts of Yemen. UNDP is partnering with the 
+SFD and PWP and their community networks to deliver services. Given their prior experience 
+in implementing the ECRP, the UNDP is fully aware of the Bank’s fiduciary and safeguards 
+requirements. UNDP established an M&E system to ensure proper project management, 
+assuring stakeholders and providing accountability and is also using a TPM mechanism to 
+monitor project implementation. UNDP communicates with the World Bank team monthly on 
+project implementation and to address  emerging challenges. UNDP had a good collaboration 
+with FAO on water resource management, aimed at enhancing access to water in agriculture 
+and improving the effective use and management of scarce water resources in Yemen.  
+
+(iii) WFP is the food-assistance branch of the United Nations and is the world's largest 
+humanitarian organization, the largest one focused on hunger and food security, and the 
+largest provider of school meals. In Yemen, in addition to food and nutrition interventions, 
+such as school feeding programs, WFP is also engaged in livelihoods development activities 
+through a range of instruments, including Food-for-Assets and Food-for-Training in close 
+cooperation with FAO. WFP’s vulnerability, mapping and assessment (VAM) expertise 
+conducts joint nation-wide food security and livelihood assessments which inform the 
+Integrated Food Security Phase Classification (IPC) for Yemen, as well as regular food security 
+and price monitoring and analysis. WFP is an existing Implementing Agency under the World 
+Bank-financed Restoring Education and Learning Project (P175036), engaged in school 
+feeding activities, and it has therefore some exposure to the Bank’s fiduciary and safeguards 
+requirements.  
+ 
+
+39. The Country Representation Offices of the three UN Agencies will be responsible for the overall 
+implementation of their respective activities and coordinating all relevant activities at the sub-national 
+level, supported by the regional office staff who will monitor the activities in different governorates. 
+The FAO will be the lead agency for the implementation of the project and will be a recipient of both IDA 
+and GAFSP financing. Both UNDP and WFP will receive IDA financing. Each UN Agency will be responsible 
+for the technical implementation of the relevant components and sub-components (as indicated in the 
+PAD), as well as all fiduciary, environmental, and social aspects, monitoring and reporting. The UN 
+Agencies will help ensure financial and technical accountability of the implementing partner organizations 
+(such as SFD, SMEPS and PWP) and ensure appropriate training and capacity building of the staff of the 
+implementing partner organizations. The FAO would have a Project Coordination Unit (PCU) based in 
+Sana’a, and technical staff deployed in its Aden sub-office and other decentralized hubs to ensure day-to-
+day project management, including all fiduciary, environmental, and social aspects, and monitoring and 
+reporting. UNDP and WFP will assign dedicated staff to support project implementation and ensure timely 
+and relevant contributions to the PCU work. This proposed structure would build on the experience with 
+previous grants implemented by FAO in the country. Moreover, the FAO team in Sana’a is backstopped 
+by a dedicated team of technical experts at Regional (Cairo) and Headquarters (Rome) level in line with 
+the Level 3 fast-track procedures established due to the emergency situation in Yemen. 
+ 
+40. Coordination. The three selected organizations are currently working in Yemen and exchanging 
+information as part of their participation in partner meetings. The three UN Agencies will set up a formal 
+project Coordination Committee for increased efficiency and efficacy, including to coordinate activities 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 20 of 22  
+
+ 
+
+with and among the Implementing Partners. This committee will hold meetings on a regular basis 
+(suggested monthly) to best coordinate their activities, evaluate progress, address bottlenecks and 
+consolidate annual work plans. Frequency of meetings, attendance, communication tools, etc. will be 
+developed in the POM. Collecting and reporting on indicators (including methodology, tools, devices, etc.) 
+to inform the results framework and progress on implementation will be discussed and agreed among 
+implementing partners with the support of the Bank. A mechanism will also be established to brief the 
+authorities at various levels on regular basis on the project results and challenges of implementation.  
+ 
+41. Local partners with prior extensive experience in implementing similar projects will have key 
+implementation roles. The PWP and SFD would play a key role as the local implementing partners for 
+Component 1, SFD and SMEPS would support implementation of small-scale value chain activities, 
+provision of technologies and practices for some horticulture crops and restoration of agriculture inputs 
+under Component 2, alongside FAO. The SFD and PWP are the key local partners in implementing the 
+ongoing ECRP, SAPREP and DLRP, and they would lead the implementation of Component 1. SMEPS would 
+contribute to the value chain development under Component 2. Selecting national institutions for these 
+roles would contribute to building national capacity for community-based interventions. For activities that 
+would be implemented by SFD, SMEPS and PWP, UNDP and FAO would provide technical guidance and 
+backstopping as required. Under the CFW program of Component 1, SFD will be in charge of working with 
+beneficiaries on the CFW program, while the PWP will implement the activities related to restoration of 
+small-scale agricultural infrastructure in the cases it requires involvement of professional contractors, to 
+ensure communities have access to good quality assets. SMEPS will ensure technical assistance to the 
+value chain development activities. Additional personnel will be recruited to cover any skills or human 
+capacity gaps as assessed during the project preparation. All staff are required to have satisfactory 
+expertise, experience, and qualifications. All three national institutions have capacity and experience 
+spanning over 20 years in undertaking participatory and community-based development activities 
+involving women and men from local communities. 
+ 
+42. Project Operational Manual (POM). A detailed POM and a separate CfW Transfer Manual will be 
+prepared for all project components by effectiveness. The POM and the CfW Transfer Manual will be 
+subject to the World Bank’s no objection.  
+ 
+43. Financial Management and Procurement arrangements. The project’s financial management 
+(FM) arrangements will be governed by the Financial Management Framework Agreement (FMFA) 
+between the World Bank and the UN Agencies, which provides for the use of the UN’s Financial 
+Regulations. For procurement, FAO will follow its own procurement procedures as Alternative 
+Procurement Arrangements, as provided under the World Bank New Procurement Framework Policy 
+Section III. F. This implementation arrangement is sound, since the procurement procedures of FAO were 
+assessed and found acceptable to the World Bank under agreements with UN agencies. 
+ 
+44. Implementing partners will prepare budgeted Annual Work Plans of implementation and a 
+detailed procurement plan (in agreement with the World Bank). This budgeted Annual Work Plan will be 
+prepared no later than four months after project effectiveness. It will highlight the activities to be 
+implemented for the subsequent 12 months by component and sub-component with intended results, 
+timeline, budgets and planned procurement activities. It will also identify issues / implementation 
+bottlenecks and relevant remedial actions and outline key responsibilities. In the context of COVID-19 and 
+virtual missions (video/audio), the budgeted Annual Work Plan will be the common communication 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 21 of 22  
+
+ 
+
+interface between implementing partners and the World Bank to regularly monitor activities of each 
+component, evaluate progress and discuss corrective actions or changes as needed. 
+ . 
+
+   
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Sandra Broka 
+Senior Agriculture Economist 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+United Nations Development Programme 
+
+Auke  Lootsma 
+
+Resident Representative UNDP Yemen 
+
+Auke.lootsma@undp.org 
+ 
+ 
+
+World Food Programma 
+
+Laurent  Bukera 
+
+Representative and Country Director, WFP Yemen 
+
+laurent.bukera@wfp.org 
+ 
+ 
+
+Food and Agriculture Organization 
+
+Hussein  Gadain 
+
+FAO Representative in Yemen 
+
+Hussein.Gadain@fao.org 
+ 
+
+  Implementing Agencies 
+ 
+
+World Food Programme 
+
+Laurent  Bukera 
+
+Representative and Country Director, WFP Yemen 
+
+laurent.bukera@wfp.org 
+ 
+ 
+
+Food and Agriculture Organization 
+
+Hussein Gadain 
+
+FAO Representative in Yemen 
+
+Hussein.Gadain@fao.org 
+ 
+ 
+
+United Nations Development Programme 
+
+Auke Lootsma 
+
+Resident Representative UNDP Yemen 
+
+Auke.lootsma@undp.org 
+ 
+
+ 
+
+
+
+ 
+
+The World Bank  
+Yemen Food Security Response and Resilience Project (P176129) 
+
+ 
+
+ 
+
+  
+Mar 10, 2021 Page 22 of 22  
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): Sandra Broka 
+ 
+
+  Approved By 
+
+Practice Manager/Manager:   
+
+Country Director: Tania Meyer 31-Mar-2021 
+ 
+
+    
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+http://www.worldbank.org/projects
+
+

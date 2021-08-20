@@ -1,0 +1,1964 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+ 
+
+  
+Jun 01, 2020 Page 1 of 10  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Project Information Document (PID) 
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 09-Jun-2020 | Report No: PIDA29373 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 2 of 10  
+
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Guatemala P173480 Responding to COVID-19: 
+Modern and Resilient 
+Agri-food Value Chains 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+LATIN AMERICA AND CARIBBEAN 09-Jun-2020 20-Aug-2020 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance 
+Guatemala (MINFIN) 
+
+Ministry of Economy 
+Guatemala (MINECO) 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The PDO is to contribute to reducing food losses, increasing adoption of climate resilient technologies and providing 
+emergency response to COVID-19 to beneficiaries in select value chains 
+
+ 
+Components 
+
+Component 1: Emergency Response to COVID-19 impacts on agro-industrial economic activities 
+Component 2: Investments to Enhance MSMEs Efficiency and Resiliency 
+Component 3: Institutional strengthening in support of Guatemala’s agri-food system 
+Component 4. Monitoring, Evaluation and Project Management 
+Component 5: Contingency Emergency Response (CERC) 
+
+ 
+OPS_TABLE_FCC The processing of this project is applying the policy requirements exceptions for situations of urgent need of 
+assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.     
+Yes 
+
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 211.00 
+
+Total Financing 211.00 
+
+of which IBRD/IDA 150.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 3 of 10  
+
+ 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 150.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 50.00 
+
+          Local Beneficiaries 50.00 
+
+     Other Sources 11.00 
+
+          International Fund for Agriculture Development 11.00 
+
+    
+
+Environmental and Social Risk Classification 
+
+Substantial 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 4 of 10  
+
+ 
+
+B. Introduction and Context 
+Country Context 
+ 
+1. Despite a stable macroeconomic framework, Guatemala struggles with low rates of economic growth and 
+high poverty compared to its neighbors. Measured by per capita Gross Domestic Product (GDP), Guatemala is the fifth 
+poorest economy of Latin America and the Caribbean (LAC) and remains one of the region’s countries with the highest 
+rates of social and economic exclusion. GDP growth averaged only 3.3 percent over 2015-2018, with real GDP per 
+capita growth stagnating and falling behind its Central America peers over the same period. Guatemala’s ability to 
+provide basic public services and respond to changing conditions and demands is hampered by low collection of taxes 
+by the Central Government (tax revenues are close to 10 percent of GDP) and highly rigid expenditures, as well as 
+significant gaps in knowledge and job skills. For example, around two-thirds of Guatemalan children at late primary age 
+today do not possess basic literacy skills.  
+ 
+2. Poverty, inequality, and rurality are high and persistent.  Guatemala has one of the highest poverty rates in 
+LAC, and deep inequality persist across various dimensions. In 2014, an estimated 60 percent of the total population 
+of 17 million was estimated to live in poverty, up from 55 percent in 2000. Almost 80 percent of Indigenous people  
+live in poverty (2014), and 50 percent live in extreme poverty. Income inequality is high, and the Gini coefficient rating 
+stood at 0.49 in 2014. Vulnerability is particularly high among the Indigenous peoples, with almost 80 percent living in 
+poverty in 2014, and half in extreme poverty. In 2017, about 48 percent of the total population was estimated to live 
+in rural areas, where poverty is significantly higher (76 percent) than in urban areas (42 percent). Assessing more recent 
+changes in poverty and inequality is difficult, due to the scarce availability of socio-economic data (Guatemala has had 
+the second-lowest number of household surveys available in the region (after Haiti), in the period since 2000). 
+However, qualitative evidence, available data and recent developments, do not point to progress on these metrics.  
+ 
+3. Guatemala is among the highest rates in the Gender Inequality Index and has the lowest rate of female labor 
+force participation in Latin America and the Caribbean. Many indicators of women’s economic opportunities have not 
+improved since 2000 and are worse than the average in LAC and similar countries. Only 4 out of 10 women are in the 
+labor force, less than half the corresponding rate of men. Similarly, female youth unemployment is almost twice that 
+of men. Women are at a disadvantage with respect to their male counterparts also in terms of technical and soft skills, 
+as well as business opportunities and access to information, technology, and markets for inputs and outputs – all of 
+which translate into lower income levels. In terms of Gender-Based Violence (GBV), Guatemala registers one of the 
+highest rates of violent deaths among women in the world: 6.4 in 100,000 in 2018, almost 5 times the global rate. An 
+estimated 628 women lost their lives to violence in 2018, almost two deaths per day. Lack of education, inclusion, and 
+gender inequality are among the most relevant triggers of GBV.  
+
+ 
+4. Guatemala has the sixth highest rate of chronic malnutrition in the world and the highest in LAC, with 
+Indigenous and rural populations disproportionately affected. In 2019, Guatemala ranked 68th in food security out of 
+113 countries, with only 40 percent of Guatemalan families enjoying food security. Some 77 percent of families have a 
+poor or inadequate diet, characterized by high consumption of cereals (maize) and low consumption of foods of animal 
+origin, fruits, and vegetables. Chronic child malnutrition (stunting) is very high according to the World Health 
+Organization (WHO), affecting 47 percent of all Guatemalan children under five, 58 percent of Indigenous children, and 
+66 percent of children in the lowest income quintile. On the opposite side of the spectrum, overweight and obesity are 
+on the rise, affecting over 50 percent of the adult population. 
+
+ 
+5. Guatemala is extremely affected by climate and weather events and its poorer populations are particularly 
+vulnerable. Guatemala is the ninth most at risk country worldwide from climate change. By 2050, economic losses 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 5 of 10  
+
+ 
+
+from drought, flooding, and other extreme weather events are projected to reduce GDP by between 1.3 percent and 
+3.7 percent. On the other hand, Guatemala's contribution to global Green House Gas (GHG) emissions is low compared 
+to other countries: in 2011 the country emitted 3.4 tCO2e/capita (half of the average per capita emissions of LAC).  
+Agriculture is one of the strategic sectors for climate change mitigation and adaptation goals under Guatemala’s 
+Nationally Determined Contribution (NDC) to the United Nations Framework Convention on Climate Change (UNFCC). 
+
+ 
+6. On March 11, 2020, the WHO declared the novel coronavirus (COVID-19) outbreak a pandemic. and the 
+impacts on Guatemala are expected to be severe. The economic impacts of the disease outbreak are envisaged to 
+lead to a significant decline in GDP in 2020, and the International Monetary Fund (IMF) has revised the country’s 
+economic growth projections for 2020 to negative 2 percent.  Impacts are starting to be felt mainly through reductions 
+in exports and tourism, and through reduced remittances (12 percent of GDP in 2018). The COVID-19 outbreak will 
+have significant effects on the external accounts, inflation, and government balances, with expected higher financing 
+needs and public deficit. On March 18, 2020, in preparation for the spread of COVID-19 in Guatemala, the Government 
+launched the “National Program for Emergency and Economic Recovery” to respond to the crisis. 
+
+ 
+Sectoral and Institutional Context 
+
+7. Agriculture plays a significant role in Guatemala’s economic performance and employment. Primary agriculture 
+accounts for about 10 percent of the country’s GDP with a significant multiplier when accounting for the full backward 
+and forward linkages in the agri-food system and employs around 30 percent of the population. In 2015, the broader 
+food sector represented 45 percent of the country’s total merchandise exports. Secondary processing activities also 
+create opportunities for job creation and diversification of local production. Market-linkage programs in the sub-sectors 
+of vegetable and fruit preparation for exports have in some cases, proven particularly beneficial for small-scale 
+organized producers. 
+ 
+8. Limited market access and inefficient value addition/preservation capacity and lack of market information 
+result in low productivity and variable sales and incomes, for Guatemala’s micro, small and medium agro-industrial 
+enterprises and small producers.  Within the domestic markets, smaller producers and SME agribusinesses face a 
+number of challenges. Limited market transparency, lack of investment in on-farm and post-harvest technologies and 
+other logistical market-access barriers lead to an abundance of middlemen, who capture a large portion of the value 
+of any transaction. In addition, the quality of infrastructure varies greatly across Guatemala, which exacerbates regional 
+income inequality, particularly between urban and rural areas. This also has severe impacts on access to agricultural 
+markets, including contributing to high food losses (on-farm and throughout the VC and affecting food quality and 
+safety.  
+
+ 
+
+9. In particular, the Guatemalan agri-food sector faces the challenge of substantial post-harvest food losses, due 
+to insufficient investment in storage facilities, limited market information and low uptake of good post-harvest 
+practices.  According to the United Nations Environment Programme, 52,000 tons of post-harvest food is lost or wasted 
+annually in Guatemala. More than 35 percent of beans and maize are spoiled due to poor harvest management, pests 
+and animals, salmonella and aflatoxins. In addition, lack of information about market location and prices leads to high 
+levels of food loss at the farm level and additional upstream loss in the value chain. Food Loss and Waste (FLW) also 
+significantly contributes to GHG emissions 
+
+ 
+
+10. To build toward its anti-poverty and growth potential as part of the new Government’s “economic wall of 
+opportunities,” the agri-food system must improve significantly its productive and post-harvest efficiency while 
+mitigating the deleterious impacts of the recent COVID-19 pandemic. COVID-19 is expected to impact in 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 6 of 10  
+
+ 
+
+unprecedented ways the productivity and food security of producers and consumers within Guatemala’s food systems, 
+as well as agri-food exports. While the sector has clear potential for continued expansion and diversification in export 
+and domestic markets, the urgent challenge related to COVID-19 threatens producers, agribusiness micro-, small- and 
+medium-sized enterprises (MSMEs), other supply chain actors, markets, and domestic and international demand. To 
+improve access to markets and build resilience in the system, especially given the current dual health and economic 
+emergencies, the proposed Project offers an opportunity to make investments that contribute to strengthening and 
+improving efficiency in productive and post-harvest capacity, and to promoting food safety, food quality, 
+competitiveness and broader resilience considerations. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD)  
+The project development objective (PDO) is to contribute to reducing food losses, increasing adoption of climate resilient 
+technologies and providing emergency response to COVID-19 to beneficiaries in select value chains 
+ 
+
+Key Results 
+
+ 
+
+Reducing Food Losses 
+• Reduction of food losses in selected value chains (as a percentage of total production)   
+
+• Reduction of products rejected due to food safety received by buyers in selected value chains (as a 
+percentage share of baseline).   
+
+Increasing adoption of climate 
+resilient technologies  
+
+• Beneficiaries adopting improved agricultural technologies promoted by the Project to enhance climate 
+resiliency, disaggregated by gender and ethnicity (number)  
+
+• Beneficiaries demonstrating an improvement in empowerment  disaggregated by gender (IFAD core 
+indicator) (percentage)1 
+
+Providing emergency response 
+to the Covid-19 pandemic 
+
+• MSMES supported under MINECO’s COVID-19 emergency response fund, disaggregated by gender - 
+(number) 
+
+• Number of PFIs that use the guarantee fund (number)  
+
+ 
+ 
+D. Project Description  
+ 
+
+11. The proposed Project will prioritize investments in select, strategic Value Chains (VCs) pre-identified by 
+the Ministry of Economy (MINECO).  Project-supported beneficiaries will be eligible micro, small and medium 
+agribusinesses and agro-industry, producers’ associations, and producers’ groups (hereinafter referred to as 
+MSMEs).  
+
+12. Component 1: Emergency Response to COVID-19 Impacts on Agro-industrial Economic Activities. This 
+component will invest in two strategic priority areas (i) Emergency relief to MSMEs through a MINECO partial 
+guarantee fund, and (ii) Skills development for greater employability through training and an on-line labor-
+
+ 
+1 This is a survey-based index for measuring empowerment, agency, and inclusion of women in the agriculture sector. Developed jointly by the 
+International Food Policy Research Institute (IFPRI), the Oxford Poverty and Human Development Initiative (OPHI), and thirteen partner projects 
+in IFPRI’s GAAP2 portfolio, Pro-WEAI is composed of twelve indicators of women’s empowerment in agriculture: autonomy in income, self-
+efficacy, attitudes about domestic violence, input in productive decisions, ownership of land and other assets, access to and decisions on credit, 
+control over use of income, work balance, visiting important locations, group membership, membership in influential groups, and respect among 
+household members. 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 7 of 10  
+
+ 
+
+matching platform. 
+
+13. Component 2: Investments to Enhance MSMEs Efficiency and Resiliency. This component will operate 
+at a national level, focusing on subprojects in select, strategic VCs. Eligible beneficiary MSMEs will receive 
+financial support based on approved business plans to improve the quality of their productive processes through 
+investments in post-harvest practices, including activities such as storage, agro-logistics, aggregation, and 
+transformation of harvested products along the selected VCs. The Project will provide grants and beneficiaries 
+will be expected to provide contributions.  The grants will be provided by MINECO with both IFAD and World 
+Bank resources.  
+
+14. Component 3: Institutional strengthening in support of Guatemala’s agri-food system.  The objective of 
+this component is to strengthen public sector institutions that are considered strategic in supporting the 
+efficiency of the country’s agri-food system.  It is divided into two sub-components: (i) improving public 
+infrastructure to enhance SPS standards, food safety, food quality and traceability and (ii) institutional 
+strengthening of key public sector institutions, including MINECO, MAGA, and National Quality System and INE.  
+
+15. Component 4. Monitoring, Evaluation and Project Management. This Component will finance the overall 
+project management, monitoring, and implementation of Components 1 to 3.  
+
+16. Component 5. Contingent Emergency Response Component (CERC). The objective of this component is 
+to support the Government’s emergency response to disasters. This will be activated upon request of the 
+Borrower, upon the official declaration of a national emergency.  
+
+.
+
+.  
+Legal Operational Policies 
+
+            Triggered? 
+
+Projects on International Waterways OP 7.50             Yes  
+
+Projects in Disputed Areas OP 7.60             No  
+
+ 
+
+Summary of Assessment of Environmental and Social Risks and Impacts 
+. 
+
+ 
+17. Whereas the environmental risk rating is assessed as moderate, the combined Environmental and Social risk 
+rating is considered SUBSTANTIAL, particularly driven by contextual social factors and borrower’s capacity: (i) the 
+inherent challenges of implementing projects with multiple and diverse Indigenous groups with their own governance 
+structures, languages and socio-cultural characteristics dispersed nationally; (ii) potential implementation of 
+subprojects in remote and difficult to access areas due to inadequate and limited infrastructure, particularly during 
+the rainy season, as well as potential overlapping with high crime and violence areas, creating challenges for providing 
+technical support and effective monitoring; (iii) use of a guarantee scheme that triggers participation of financial 
+intermediaries with no previous experience working with the World Bank; and, (iv) no existing institutional capacity in 
+MINECO to develop and monitor Environmental and Social (E&S) instruments and no previous experience with the 
+new areas covered by the Environmental and Social Framework. 
+ 
+18. Given that the exact scope and location of subprojects will be defined only during project implementation, 
+based on demand and subject to the specific eligibility criteria, and because specific risks are unknown, the project has 
+adopted a framework approach to environmental and social management. The framework approach and phased 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 8 of 10  
+
+ 
+
+preparation of E&S instruments is also required to accommodate project preparation with condensed procedures 
+under paragraph 12 of the Investment Project Financing policy in response to the Covid-19 pandemic. The E&S 
+instruments will be developed in two phases. The Government of Guatemala (GoG) will develop, consult with key 
+stakeholders, and disclose prior to appraisal a draft Stakeholder Engagement Plan (SEP), including a project-level 
+Grievance Redress Mechanism (GRM) and an Environmental and Social Commitment Plan (ESCP). Consultations for 
+these instruments took place in the context of country-wide quarantine with strong mobility restrictions, following the 
+recommendations set forth in the WB’s Technical Note, avoiding in-person gatherings, and using virtual interactive 
+meetings, emails, online surveys, WhatsApp and traditional telephone calls, when stakeholders did not have access to 
+online channels or were not used to them. The results of these consultations have been documented in the draft SEP 
+and integrated into the design of the project and the SEP. 
+ 
+19. The Borrower will also develop, consult with stakeholders and disclose within 30 days of effectiveness: an (i) 
+Environmental and Social Management Framework (ESMF); (ii) Labor Management Procedures with a dedicated GRM 
+for project workers; (iii) an Indigenous Peoples Planning Framework (IPPF); and, (vi) a final SEP, including a project-
+level GRM. The ESCP reflects the GoG’s requirements to implement the above-mentioned instruments at the site-
+specific level and to complete periodic reporting to the Bank on its compliance. During implementation, as business 
+plans are approved, Environmental and Social screenings will be carried out for each subproject. Environmental and 
+Social Management Plans (ESMPs) covering environmental, social, health and safety (ESHS) issues, as well as 
+Indigenous Peoples Plans (IPPs), will also be developed when applicable. All required construction phase mitigation, 
+management and monitoring measures identified in the ESMF will be reflected in bidding and contracting documents. 
+
+ 
+
+20. The PIU will include dedicated environmental, social and gender specialists and will be responsible for 
+complying with environmental and social commitments, supervising firms and contractors to ensure application of 
+mitigation measures, monitoring implementation and reporting to the Bank and relevant national authorities. MINECO 
+will submit semiannual implementation reports to the Bank, including a dedicated section on compliance with the 
+environmental and social requirements set forth in the ESCP and specified in each of the E&S instruments developed 
+for this Project. 
+
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements  
+
+21. The Project will be implemented by MINECO. MINECO is the entity in charge of formulating and executing 
+consumer protection and competition promotion policies. Specifically, it formulates and executes policies for 
+national and foreign investment, promotion of competitiveness, industrial and commercial development. In 
+addition, by delegation of the President of the Republic, it is the entity in charge of carrying out the negotiations 
+of bilateral and multilateral international trade agreements and treaties. It also proposes, in coordination with 
+the other ministries and State agencies, the specifications and technical and quality standards of national 
+production; and facilitates the competitive development of micro, MSMEs through the provision of financial 
+services and business development. The Project will be headed by the Vice Ministry of Investment and 
+Competition of MINECO and the National Program on Competitiveness (PRONACOM).  
+ 
+22. As part of the support to the agriculture sector, MINECO will provide technical support and capacity 
+building for the other key institution in the sector - the Ministry of Agriculture, Livestock and Food (MAGA). 
+Among its functions, MAGA is in charge of implementing the food and nutrition security policy, as well as 
+promoting community organization through productive agricultural projects by means of extension services, 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 9 of 10  
+
+ 
+
+training, and technical assistance. In addition, it is responsible for generating, processing and disseminating 
+geographic, cartographic, food security and risk management information to prevent and mitigate the effects 
+caused by natural disasters. MAGA will receive technical support and capacity building through project activities.  
+
+ . 
+   
+CONTACT POINT 
+
+ 
+
+  World Bank 
+ 
+
+Katie Kennedy Freeman 
+Senior Agriculture Economist  
+
+ 
+
+Tomas Ricardo Rosada Villamar 
+Senior Agriculture Economist 
+
+  
+
+ 
+
+  Borrower/Client/Recipient 
+ 
+
+Ministry of Finance Guatemala (MINFIN) 
+
+ 
+
+ 
+
+ 
+ 
+
+  Implementing Agencies 
+
+ 
+
+Ministry of Economy Guatemala (MINECO) 
+
+Lisardo Bolaños Fletes 
+
+Deputy Minister of MINECO 
+
+lisardo.bolanos@fulbrightmail.org 
+ 
+
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+ 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+http://www.worldbank.org/projects
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 10 of 10  
+
+ 
+
+APPROVAL 
+
+ 
+
+Task Team Leader(s): 
+Katie Kennedy Freeman 
+Tomas Ricardo Rosada Villamar 
+
+ 
+
+  Approved By 
+
+Environmental and Social Standards 
+Advisor: 
+
+  
+
+Practice Manager/Manager:   
+
+Country Director: Andrea C. Guedes 09-Jun-2020 
+ 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Colombia Institutional Strengthening for Territorial Development DPF (P170728) 
+
+ 
+ 
+
+  
+ Page 1 of 5  
+
+     
+
+     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Program Information Document 
+(PID)  
+
+ 
+Concept Stage | Date Prepared/Updated:  18-Jun-2019| Report No: PIDC27150 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+Colombia Institutional Strengthening for Territorial Development DPF (P170728) 
+
+ 
+ 
+
+  
+ Page 2 of 5  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Colombia P170728 Colombia Institutional 
+Strengthening for Territorial 
+Development DPF 
+(P170728) 
+
+ 
+
+Region Estimated Board Date Practice Area (Lead) Financing Instrument 
+
+LATIN AMERICA AND 
+CARIBBEAN 
+
+Jan 16, 2020 Governance Development Policy 
+Financing 
+
+Borrower(s) Implementing Agency 
+
+Republic of Colombia National Planning Department 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The objective of this operation is to support policies to strengthen the institutional frameworks for coordination, 
+planning and resource allocation, and capacity building that promote strategic investments at the regional level, as 
+well as to foster efficient rural and urban land markets to leverage regional development. 
+
+ 
+ Financing (in US$, Millions) 
+
+FIN_SUMM_PUB_TBL 
+SUMMARY 
+ 
+
+Total Financing 400.00 
+    
+DETAILS-NewFin3 
+
+Total World Bank Group Financing 400.00 
+
+     World Bank Lending 400.00 
+   
+
+  
+Decision 
+The review did authorize the preparation to continue 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+The World Bank  
+Colombia Institutional Strengthening for Territorial Development DPF (P170728) 
+
+ 
+ 
+
+  
+ Page 3 of 5  
+
+     
+
+B. Introduction and Context 
+ 
+Country Context 
+ 
+Advancing inclusive, sustainable and productive territorial development is one of the salient objectives in Colombia’s new 
+National Development Plan (NDP) for 2018-2022. Historically, gaps in the frameworks and institutions for territorial 
+planning and subnational public management have contributed to important challenges to equitable regional 
+development in Colombia, as reflected in poor service delivery indicators and inequality measures. Recognizing the 
+importance of addressing these challenges, the Government’s 2014-2018 NDP outlined a program of reforms targeted 
+at establishing the enabling environment and regulatory framework for integrated territorial development, actions that 
+were supported by the First Programmatic Territorial Development Development Policy Financing (P158520). Important 
+milestones - including approval of a new territorial planning policy, a comprehensive cadaster policy, and the 
+strengthening of investment agreements between the national and subnational governments, among others - were 
+achieved under this Program. Under the framework of the new 2018-2022 NDP, the Government is now advancing on 
+the next generation of policies aimed at strengthening the institutional frameworks needed to further consolidate 
+territorial development in Colombia.  
+ 
+Relationship to CPF 
+ 
+The proposed operation is well-aligned with Pillar 1 (Fostering Balanced Territorial Development) of the 2016-2021 CPF, 
+which recognizes the important role of subnational governments in supporting territorial development.  
+ 
+
+C. Proposed Development Objective(s)  
+ 
+The objective of this operation is to support policies to strengthen the institutional frameworks for coordination, 
+planning and resource allocation, and capacity building that promote strategic investments at the regional level, as 
+well as to  foster efficient rural and urban land markets to leverage regional development.  
+
+ 
+Key Results  
+
+ 
+Key results are expected from improved coordination, planning and resource allocation that promote strategic 
+investments at the regional level, more efficient rural and urban land markets such as increased coverage of cadastral 
+information for improved multisectoral public management, and improved public management capacity at the 
+subnational level.  
+ 
+
+D. Concept Description 
+The proposed operation aims to achieve its objective in supporting policy actions under three pillars. As the design further 
+develops, these may be consolidated into two pillars.  
+ 
+Pillar 1: Coordination, Planning and Resource Allocation that Promote Strategic Investments at the Regional Level -  
+Despite recent advances in the implementation of Colombia’s frameworks for effective territorial development, 
+challenges related to weak inter-institutional coordination at the territorial level and investment atomization continue.  
+Thus, further efforts are needed to consolidate these reforms and address persistent regional inequalities in territorial 
+development. As such, reforms under this pillar focus on strengthening the institutional framework for multi-level 
+governance, enhancing coordination within and between regions, and incentivizing regional investments aimed at 
+supporting strategic regional development needs. 
+
+
+
+ 
+The World Bank  
+Colombia Institutional Strengthening for Territorial Development DPF (P170728) 
+
+ 
+ 
+
+  
+ Page 4 of 5  
+
+     
+
+ 
+Pillar 2: Fostering Efficient Urban and Rural Land Markets - Rural and urban land markets in Colombia have operated 
+inefficiently, in part due to the lack of reliable and current information about land parcel demarcation, land ownership, 
+land prices and overall land economic potential. As a result, land disputes have multiplied exponentially, complicated by 
+the country’s long civil conflict which impeded access to the entirety of the territory. The operation will support 
+government policies to establish efficient land information systems and processes and more dynamic land management 
+at the urban level. 
+ 
+Pillar 3: Improving Public Management Capacity at the Subnational Level - The effectiveness of the Government’s 2018-
+2022 NDP in achieving its regional development objectives will depend, to a great extent, on the capacity of subnational 
+governments to effectively manage the underlying processes essential for operationalizing and implementing policy, as 
+well as for the central government to effectively monitor the process and provide subnational entities with relevant 
+incentives and support.  As such, the operation supports reforms that build on previous and existing efforts to strengthen 
+institutional capacities in subnational governments.  
+ 
+
+E. Poverty and Social Impacts and Environmental Aspects 
+ 
+Poverty and Social Impacts 
+
+The Poverty and Social Impact Analysis (PSIA) will be organized around the pillars outlined in the DPF. In particular, the 
+policies in Pillar 1 aimed at strengthening policies and institutions to enable integrated territorial development are 
+expected to have positive effects on territorial management and planning at the subnational level, as well as on the 
+enhancement of territorial development. The effects on welfare are likely to be mostly indirect and moderately positive 
+overall, operating through a better provision of public services and local public goods. Actions under Pillar 2, supporting 
+policies to improve the efficiency of rural and urban land markets are expected to have moderate positive effects in the 
+long-run through tenure formalization, and the improvement of efficiency and performance of sub-national entities that 
+could help to reduce socio-economic gaps. The impact on poverty and shared prosperity of policy actions under Pillar 3, 
+aimed at supporting the strengthening of management capacity in the public sector at subnational level are expected to 
+be positive; it will, however, depend on the way those savings will be allocated and the elasticity between local public 
+investment and poverty. Further analysis and a more extensive literature review will take place as the team moves forward 
+to determine the distributional impact of these prior actions. 
+ 
+Environmental Impacts 
+ 
+
+The policy actions supported by this operation will likely contribute to more adequate management of local resources and 
+a better planning of territorial development, which, by way of integrating environmental preservation and conservation, 
+can generate better contributions in information, institutional coordination and allocation of budgets for environmental 
+management. To expand the coverage of cadastral information should contribute to increased tenure security and secure 
+access of local communities to forest and natural resources and to strengthen local governments’ ability to generate 
+resources, improve public service delivery, and potentially develop environmental enforcement capacity; those 
+improvements can help to reduce illegal deforestation and degradation of rural landscapes, maintain vital ecosystems 
+services, reduce greenhouse emissions, and improve agricultural productivity. Policies supporting strong environmental 
+requirements for urban permits and urban land regulations could bring about climate change co-benefits in cities. The 
+environmental analysis identified a potential risk for possible indirect negative environmental effects from some policies 
+supported under the DPF, which are not considered to be significant, as long as government applies existing environmental 
+legislation and best practices.  
+ 
+
+
+
+ 
+The World Bank  
+Colombia Institutional Strengthening for Territorial Development DPF (P170728) 
+
+ 
+ 
+
+  
+ Page 5 of 5  
+
+     
+
+ .    
+CONTACT POINT 
+ 
+
+World Bank 
+
+Alberto Leyton, Alexandra Ortiz 
+
+Lead Public Sector Specialist 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Republic of Colombia 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+National Planning Department 
+
+Monica Penuela 
+
+Subdirectora de Credito 
+
+mpenuela@dnp.gov.co 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+APPROVAL 
+
+Task Team Leader(s): Alberto Leyton, Alexandra Ortiz 
+ 
+
+Approved By 
+APPROVALTBL 
+
+Country Director: Ulrich Zachau 18-Jun-2019 
+   
+ 
+
+http://www.worldbank.org/projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 1 of 8  
+
+     
+
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Program Information Document 
+(PID)  
+
+ 
+Appraisal Stage | Date Prepared/Updated: 15-May-2020 | Report No: PIDA29255 
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 2 of 8  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+A. Basic Project Data OPS TABLE 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Uruguay P172796 
+UY - COVID-19 Response & 
+Economic Recovery 
+(P172796) 
+
+ 
+
+Region Estimated Board Date Practice Area (Lead) Financing Instrument 
+
+LATIN AMERICA AND 
+CARIBBEAN 
+
+18-Jun-2020 
+Environment, Natural 
+Resources & the Blue 
+Economy 
+
+Development Policy 
+Financing 
+
+Borrower(s) Implementing Agency 
+
+Oriental Republic of Uruguay Ministry of Economy and Finance 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The development objective of the proposed operation is to support the Government of Uruguay in (i) mitigating the 
+economic and social impact of the COVID-19 outbreak and (ii) laying the foundations for a strong and resilient economic 
+recovery.  
+ 
+
+ 
+ Financing (in US$, Millions) FIN_SUMM_PUB_TBL 
+
+SUMMARY 
+ 
+
+Total Financing 400.00 
+ 
+
+ 
+DETAILS-NewFin3 
+
+Total World Bank Group Financing 400.00 
+
+     World Bank Lending 400.00 
+   
+
+  
+Decision 
+The review did authorize the team to appraise and negotiate 
+
+     
+ 
+ 
+ 
+ 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 3 of 8  
+
+     
+
+B. Introduction and Context  
+ 
+Country Context  
+ 
+
+1. The COVID-19 outbreak is expected to push Uruguay’s economy into a recession for the first time in two 
+decades. Over the past years, real GDP growth had been on a downward trend, declining from 4.6 percent in 2013 to 0.2 
+percent in 2019, the lowest level since 2002. Prior to the outbreak, it was expected that this trend would be reversed in 
+2020 as result of the implementation of the new Government’s reform agenda as well as the prospect of large 
+infrastructure investments associated with a paper mill project of historic proportions coming on stream. The economic 
+fallout resulting from the COVID-19 outbreak has changed this scenario dramatically. Total exports contracted y-o-y by 
+10.9 percent1 as early as February, due to a drastic drop in exports to China, Uruguay’s largest trading partner. The 
+domestic lockdown mandated in March then triggered a sharp decline in economic activity, affecting both demand and 
+supply. Real GDP growth projections are nearly 6 percentage lower than they were at the beginning of 2020; they are 
+projected to register at -3.7 percent, from an originally projected growth of 2.0 percent.  
+
+ 
+2. The economic fallout will result in a significant increase in poverty and will generate an enormous strain for 
+many Uruguayan families, with children and youth being particularly vulnerable to the shock.  Although the Government 
+swiftly adopted emergency measures to mitigate the impact on the most vulnerable, building on existing social safety nets 
+and adding temporary measures to expand the protection to those that do not qualify to existing programs, notably 
+informal workers, Bank staff estimate that poverty will increase from 8.8 percent in 2019 to 11.8 percent in 2020, 
+annihilating the major progress witnessed over the past decade. This is due to the economic impact of the pandemic 
+layered over the effects of the drop in agricultural productivity from the drought as well as contagion from both 
+Argentina’s economic crisis and Brazil’s recession. The increase in the poverty incidence translates into 106,000 additional 
+people falling into poverty, disproportionately affecting households with children. Afro-descendants (1 in every 5 people 
+in the poorest decile) and informal workers (7 in every 10 workers in the poorest decile) are disproportionately exposed 
+to the shock. People in the bottom 40 percentile of the income distribution face higher risks of unemployment and labor 
+income losses and make up a disproportionally large share of the workforce in the sectors most affected by the crisis, such 
+as retail and hospitality. The expected increase in poverty incidence and severity threatens to erode human capital with 
+lasting negative effects, and to raise concerns about perpetuation of disadvantages and social exclusion which stands in 
+contrast to Uruguay’s societal preference for equity and social cohesion.  
+ 
+3. To spur a strong economic recovery, Uruguay will have to set the foundations for a robust growth trajectory, 
+notably by strengthening policies and institutions to enhance resilience to different types of shocks. The unprecedented 
+economic shock caused by the COVID-19 outbreak is hitting Uruguay at the time of multiple risks pressing on the economy. 
+First, Uruguay is confronting an increasingly adverse regional economic scenario, notably the protracted economic crisis 
+and high market volatility in Argentina. Second, Uruguay is faced with a growing exposure to climate variability that is 
+putting at risks major sectors of its economy, particularly agriculture. The different risk dimensions - health, fiscal and 
+environmental - are mutually reinforcing and have the potential to create a “perfect storm” for the Uruguayan economy. 
+The COVID-19 outbreak highlights the need for a more comprehensive and integrated approach to risk management, at 
+the core of which is restoring prudent fiscal policy making. In order to put the economy back on a strong recovery path, 
+the new authorities will need to embark on their ambitious medium-term reform program once the crisis abates, with a 
+focus on the following dimensions: (i) fiscal consolidation, (ii) development of the private sector and (ii) resilience to 
+climate and weather-related shocks.  
+ 
+
+ 
+1 Although exports began to recover in March (in line with the rebound in industrial activity in China), they still were 23 percent lower than in 
+March 2019. 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 4 of 8  
+
+     
+
+Relationship to CPF 
+ 
+
+4. The proposed operation is fully aligned with the 2016-20 Country Partnership Framework (CPF), and the 2018 
+PLR, notably as it supports Uruguay in “building resilience to shocks.” The 2015 Systematic Country Diagnostic (SCD) had 
+identified the need to “build resilience to face economic volatility and extreme weather events” as one of the three main 
+challenges for Uruguay. Accordingly, the first of the CPF’s two Focus Areas is dedicated to “building resilience to shocks.” 
+This operation responds to the immediate needs to cushioning the impact of the pandemic on the most vulnerable 
+workers and firms (Pillar 1) and lays the ground for a strong recovery (Pillar 2), through enhanced resilience to future 
+shocks. The SCD update, currently under preparation, deepens the analysis of the vulnerability of the Uruguayan economy 
+to multiple, reinforcing shocks (i.e. fiscal/financial, sanitary and environmental) and identifies key institutional weaknesses 
+in this regard.  
+ 
+
+C. Proposed Development Objective(s) 
+ 
+5. The development objective of the proposed operation is to support the Government of Uruguay in (i) mitigating 
+the economic and social impact of the COVID-19 outbreak and (ii) laying the foundations for a strong and resilient 
+economic recovery.  
+ 
+Key Results  
+
+ 
+6. Following corporate guidance on new IBRD financing for countries with an income above the Graduation 
+Discussion Income (GDI), this operation addresses critical institutional shortcomings. At the core of the operation are 
+policy and institutional reforms that will lay the foundations for a strong and resilient economic recovery, notably through 
+enhancing resilience to multiple shocks. It supports measures that aim at mitigating the economic shock caused by COVID-
+19, helping weather the impact on public finances, and restoring a robust fiscal outlook in the medium term. The operation 
+thereby also contributes to safeguarding access to external capital markets on reasonable terms, an additional key feature 
+of corporate guidance on GDI countries. This is critical given that the COVID-19 crisis has rendered access to sovereign 
+financing more challenging for emerging economies, including Uruguay. Uruguay is currently rated just above the 
+investment grade2, with a negative outlook in recognition of its large fiscal consolidation needs in a time of economic 
+downturn. In addition, through its objective of enhancing resilience of the economy against climate shocks, the operation 
+supports the provision of regional and global public goods.   
+ 
+
+D. Project Description   
+
+7. The proposed DPL is a stand-alone operation aimed at mitigating the economic and social impact of the COVID-
+19 outbreak and improving policies and institutions for a strong and resilient economic recovery. The policy matrix of 
+the operation includes key priorities in the Government’s emergency response to the COVID-19 crisis and in the medium-
+term reform program. The first pillar is focused on supporting efforts to cushion the expected strong social and economic 
+impact of the crisis, with a focus on the most vulnerable households and firms that would otherwise by financially viable. 
+The second pillar is reflective is reflective of the ambitious medium-term reform commitments of the Government to 
+support a strong and resilient economic recovery through: (i) instituting a fiscal policy framework that safeguards fiscal 
+and debt sustainability, (ii) improving business climate for private sector development, (iii) enhancing disaster and 
+environmental risk management and, (iv) transforming agricultural production towards higher resilience to climate 
+change and increased productivity.  
+
+ 
+2 Uruguay’s sovereign credit rating, according to Fitch, is the lowest possible rating within the creditworthiness band, i.e., BBB- with a negative 
+outlook. The other two major credit rating agencies place Uruguay at BBB. 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 5 of 8  
+
+     
+
+ 
+8. The proposed DPF will support important reforms along two pillars:  
+ 
+
+• Pillar 1 of this operation aims at supporting a series of temporary countercyclical measures to protect the most 
+vulnerable and avoid the destruction of productive assets in the face of the COVID-19 pandemic. These measures 
+include: (i) the enactment of a series of countercyclical measures, including the creation of the COVID-19 Fund to 
+swiftly respond to the sanitary crisis (PA#1), (ii) the strengthening of three important social assistance programs to 
+(partially) offset temporary income losses of lower income groups (PA#2), (iii) the creation of a temporary 
+unemployment insurance scheme to protect workers against effects of lay-offs or partial suspensions (PA#3), (iv) the 
+strengthening of the institutional response to the expected rise of violence in the context of the COVID-19 quarantine 
+(PA#4), and (v) the adoption of emergency measures to support access to finance for MSMEs (PA#5). In the 
+presentation of these emergency measures, the Government emphasized their temporary and countercyclical nature 
+and committed to rolling them back once the crisis will have passed.  
+
+ 
+
+• Pillar 2 of this operation aims at laying the foundations for a strong and resilient economic recovery. The COVID-19 
+outbreak brings to the fore how the deteriorating fiscal position over the past years has limited the scope of a 
+countercyclical fiscal crisis response. The Government is committed to reversing the trend of rising fiscal deficits and 
+debt levels by instituting a fiscal policy framework that safeguards fiscal and debt sustainability and allows for 
+conducting countercyclical policies in times of economic downturns. This agenda is at the heart of the medium-term 
+reform program, as reflected in the Urgent Reform Bill, and will be implemented in full once recovery sets in. The 
+commitment to fiscal consolidation has already manifested itself by measures adopted soon after the Government 
+started its mandate, such as the elimination of certain tax expenditures in VAT (as reflected under the PA#6). Pillar 2 
+also reflects the Government’s commitment to continue advancing on structural reforms for private sector 
+development and on institutional strengthening for better protection of the economy against climate-related shocks. 
+Both agendas were initiated under the previous Government and have been endorsed by the current administration 
+as critical foundations for a dynamic and sustainable recovery after the COVID-19 pandemic. The Government will 
+pursue a broader reform effort aimed at improving Uruguay’s regulatory environment, such as by easing requirements 
+and costs for firm registration (PA#7). Uruguay also needs to strengthen its capacity to shelter its economy against 
+climate variability to avoid jeopardizing its recovery post-COVID. Addressing disaster and environmental risks is by 
+nature a complex and multi-sectoral endeavor, transmitting through various channels to the entire economy, and 
+requires differentiated yet coordinated interventions at various levels of government. In this sense, the operation 
+supports the institutional strengthening of the emergency response system, with enhanced coordination (both 
+horizontal and vertical) between public and private stakeholders (PA#8) as well as the transformation of the 
+agriculture model that increases resilience to climate variability, while enhancing productivity (PA#9). 
+
+ 
+
+E. Implementation  
+ 
+Institutional and Implementation Arrangements  
+
+ 
+9. The Ministry of Economy and Finance (MEF) will be the main responsible agency for the monitoring, evaluation, 
+and results framework and will coordinate actions across relevant ministries and agencies involved in the operation. 
+The agencies responsible for the implementation of the prior actions supported by the operation include: (i) Pillar 1: 
+Ministry of Social Development (MIDES), Ministry of Labor and Social Security (MLSS), Ministry of Public Health (MPH), 
+National Institute for Women (InMujeres) and MEF; (ii) Pillar 2: MEF, SINAE and Ministry of Livestock, Agriculture and 
+Fisheries (MGAP). The World Bank will be monitoring the implementation of the DPF program through regular supervision 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 6 of 8  
+
+     
+
+missions. The World Bank will maintain close dialogue with counterparts throughout preparation and collaborate with 
+MEF for the monitoring of indicators.  
+ 
+
+F. Poverty and Social Impacts, and Environmental, Forests, and Other Natural Resource Aspects 
+ 
+10. The policy measures supported by this DPF series are aimed at mitigating the short-term social and economic 
+impact of the Covid-19 pandemic on the most vulnerable, while implementing structural reforms aiming at building 
+enhanced resilience to multiple shocks (sanitary, fiscal and environmental). As such, the overall reform package 
+supported is expected to contribute to mitigating the effects of the pandemic shock on the poor, both directly through 
+strengthening the social safety net, but also by facilitating a faster and more sustainable recovery. By strengthening the 
+social protection systems, the policy program under the first pillar is expected to mitigate the impact of the Covid-19 
+shock on the most vulnerable by providing emergency relief as part of a time-bound countercyclical economic stimulus 
+package. Policies supported under the second pillar of the operation are aimed at strengthening the foundations for a 
+strong economic recovery with an emphasis placed on enhancing institutional capacities in reducing the country’s 
+exposure to future shocks, which tend to affect disproportionally the most vulnerable groups of the society. 
+
+ 
+
+Environmental, Forests, and Other Natural Resource Aspects 
+ 
+
+11. The policies supported under Pillar 1 of this DPL are not likely to cause significant negative effects on the 
+environment, forests, or other natural resources. The policies supported under the second pillar of this operation aim at 
+strengthening the foundations for private sector development and are expected to increase overall economic activity. 
+Spurring economic recovery after the COVID-19 pandemic does not imply a relaxation of environmental standards, given 
+the strong environmental management framework in Uruguay. The adoption of a policy on emergency and disaster risk 
+management and institutional strengthening of the National Emergency System-SINAE (PA#8) is expected to reduce 
+adverse impact to the environment including degradation of natural resources and the human urban environment from 
+exposure to disease and effects of infrastructure loss. The adoption of the national plan of adaptation to climate 
+variability and climate change (PA#9) is expected to have significant positive environmental effects.  
+ 
+12. Uruguay has a strong legislative and regulatory framework and relatively effective public-sector environmental 
+agencies. The limited negative environmental effects that could result from the operation will be well managed and 
+mitigated by the existing laws and regulations. Agencies such as the DINAMA and DINAGUA and DIGESA (under the 
+Ministry of Health) provide oversight and regular monitoring of environmental indicators, especially pollution. 
+Environmental impact assessment and licensing has been a requirement since 1994 (Ley 16,466) and is considered among 
+the top ranked countries based on environmental performance.3 
+
+ 
+
+G. Risks and Mitigation 
+ 
+
+13. The overall risk to achieving the PDO is assessed as Moderate. Given the severe economic impact of the COVID-
+19 outbreak around the globe, the macroeconomic risk is rated as Substantial: if the projected recovery path that foresees 
+a return to positive growth rates at end-2020 does not materialize, the country may be stretched beyond its fiscal capacity 
+to support the businesses and households affected by the crisis. The temporary COVID-19 response measures supported 
+through this operation would help the economy withstand the shock, while the medium-term institutional and policy 
+reforms also contained in the policy matrix will be critical for embarking as swiftly as possible on a sustained recovery 
+
+ 
+3 Ranked #6 according to the 2018 Environmental Performance Index. See: Wendling, Z. A., Emerson, J. W., Esty, D. C., Levy, M. A., de Sherbinin, A., 
+et al. (2018). 2018 Environmental Performance Index. New Haven, CT: Yale Center for Environmental Law & Policy. https://epi.yale.edu/ 
+
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 7 of 8  
+
+     
+
+trajectory. The risks related to Sector Strategies and Policies are rated Substantial because the timing of this operation, 
+(prepared shortly after the new Government took up its mandate, as well as the enormous amount of personal and 
+financial resources needed to respond to the COVID-19 crisis) may affect the ability to implement effectively the measures 
+contained in the policy matrix and meet the result targets. These risks are however mitigated by supporting through this 
+operation the reforms falling under the Government’s priority areas, as set by the COVID-19 response package and policy 
+package put forward in the Urgent Reform Bill. The risk categories for the Technical Design of the Program, Institutional 
+Capacity for Implementation and Sustainability and Stakeholders are rated as Moderate. In terms of technical design and 
+institutional capacity, Uruguay has a strong track record in terms of implementing programs, and a long trajectory of 
+successful DPL programs with the Bank and similar programs with other IFIs. On risks related to Stakeholders, the DPL 
+series supports further strengthening of the policies underpinning this social contract, notably those captured under Pillar 
+1.  . 
+    
+
+CONTACT POINT 
+
+ 
+
+World Bank 
+
+Carole Megevand, Peter Siegenthaler 
+
+Sector Leader 
+ 
+
+ 
+
+Borrower/Client/Recipient 
+ 
+
+Oriental Republic of Uruguay 
+
+Mariella Maglia 
+
+Director - Multilateral Organisms 
+
+mariella.maglia@mef.gub.uy 
+ 
+
+ 
+
+Implementing Agencies 
+ 
+
+Ministry of Economy and Finance 
+
+Mariella  Maglia 
+
+Director - Multilateral Organisms 
+
+mariella.maglia@mef.gub.uy 
+ 
+ 
+
+FOR MORE INFORMATION CONTACT 
+
+The World Bank 
+
+1818 H Street, NW 
+
+Washington, D.C. 20433 
+
+Telephone: (202) 473-1000 
+
+Web: http://www.worldbank.org/projects  
+
+ 
+
+ 
+
+http://www.worldbank.org/projects
+
+
+ 
+The World Bank  
+UY - COVID-19 Response & Economic Recovery (P172796) 
+
+ 
+ 
+
+  
+ Page 8 of 8  
+
+     
+
+APPROVAL 
+
+Task Team Leader(s): Carole Megevand, Peter Siegenthaler 
+ 
+
+  Approved By 
+APPROVALTBL 
+
+Country Director: Jordan Z. Schwartz 22-Apr-2020 
+    
+ 
+
+
+

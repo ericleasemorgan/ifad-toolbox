@@ -1,0 +1,2223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+PARAGUAY 
+
+ 
+
+ 
+
+ 
+
+PROJECT TO IMPLEMENT THE  
+CENSUS AND AGRICULTURAL SURVEYS SYSTEM 
+
+(PR-L1147) 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+
+This document was prepared by the project team consisting of: Gonzalo Muñoz (CSD/RND), 
+Project Team Leader; Alvaro García Negro (RND/CPR), Project Team Co-leader; Héctor 
+Valdés Conroy (CSD/RND); Fernando Glasman (VPC/FMP); Jorge Luis González 
+(VPC/FMP); Jose Antonio Mejía Guerra (IFD/ICS); Alejandro Quijada (CSC/CPR); Rodolfo 
+Tello (VPS/ESG); Rodolfo Graham (LEG/SGO); Jennifer Doherty (CSD/CCS); Carolina Vera 
+(CSC/CPR); and Elizabeth Chávez (CSD/RND). 
+
+ 
+
+This document is being released to the public and distributed to the Bank’s Board of Executive Directors 
+simultaneously. This document has not been approved by the Board. Should the Board approve the 
+document with amendments, a revised version will be made available to the public, thus superseding 
+and replacing the original version. 
+
+ 
+
+
+
+ 
+
+CONTENTS 
+
+PROJECT SUMMARY 
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING ................................................. 1 
+
+A. Background, problem addressed, and rationale ............................................ 1 
+B. Objectives, components, and cost ................................................................ 7 
+C. Key results indicators ................................................................................... 8 
+
+II. FINANCING STRUCTURE AND MAIN RISKS ................................................................. 9 
+
+A. Financing instruments .................................................................................. 9 
+B. Environmental and social safeguard risks ................................................... 10 
+C. Fiduciary risks ............................................................................................ 10 
+D. Other project risks ...................................................................................... 10 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 11 
+
+A. Summary of implementation arrangements ................................................ 11 
+B. Summary of arrangements for monitoring results ....................................... 12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIXES 
+
+Proposed resolution 
+ 
+
+  
+
+
+
+ - ii - 
+ 
+ 
+
+ANNEXES 
+
+Annex I Development Effectiveness Matrix (DEM) – Summary 
+
+Annex II Results Matrix 
+
+Annex III Fiduciary Agreements and Requirements 
+
+ 
+
+ELECTRONIC LINKS 
+
+REQUIRED 
+
+1. Multiyear execution plan and annual work plan (AWP) 
+
+2. Monitoring and evaluation plan 
+
+3. Environmental and social management report (ESMR) 
+
+4. Procurement plan 
+
+OPTIONAL 
+
+1. Project economic analysis 
+
+2. Institutional Capacity Assessment System (ICAS) 
+
+3. Program Operating Regulations 
+
+4. Census and surveys technical report 
+
+5. Public consultation with data users and producers 
+
+6. Public consultation with National Organization of Indigenous Peoples (ONPI) 
+
+7. Bibliography 
+
+8. Sociocultural analysis 
+
+ 
+  
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-43
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-34
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-29
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-43
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-30
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-35
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-42
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-33
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-32
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-31
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1261750315-13
+
+
+ - iii - 
+ 
+ 
+
+ABBREVIATIONS 
+
+AWP Annual work plan 
+CAA Consejo Asesor Agrario [Agricultural Advisory Council] 
+CAN Censo Agrario Nacional [National Agricultural Census] 
+DCEA Dirección de Censos y Estadísticas Agropecuarias [Office of 
+
+Agricultural Censuses and Statistics] 
+DGEEC Dirección General de Estadística, Encuestas, y Censos [Bureau of 
+
+Statistics, Surveys, and Censuses] 
+DGP Dirección General de Planificación [Bureau of Planning] 
+DINCAP Dirección Nacional de Coordinación y Administración de Proyectos 
+
+[National Office of Project Coordination and Administration] 
+ESMR Environmental and social management report 
+FAO Food and Agriculture Organization 
+ICAS Institutional Capacity Assessment System 
+MAG Ministry of Agriculture and Livestock 
+OC Ordinary Capital 
+ONPI  Organización Nacional de los Pueblos Indígenas [National Organization 
+
+of Indigenous Peoples] 
+PDA Personal digital assistant 
+PEU Program execution unit 
+SCSP Sistema de Contrataciones del Sector Público [Public Sector 
+
+Procurement System] 
+SICP  Sistema de Información de Contrataciones Públicas  
+
+[Public Procurement Information System] 
+UNFCCC United Nations Framework Convention on Climate Change 
+WAL  Weighted average life 
+WCA World Programme for the Census of Agriculture 
+ 
+ 
+
+
+
+ 
+ 
+
+PROJECT SUMMARY 
+
+PARAGUAY 
+PROJECT TO IMPLEMENT THE  
+
+CENSUS AND AGRICULTURAL SURVEYS SYSTEM 
+(PR-L1147) 
+
+ 
+
+Financial Terms and Conditions 
+
+Borrower: Republic of Paraguay 
+Flexible Financing Facility(a) 
+
+Amortization period: 24 years 
+
+Executing agency: Republic of Paraguay, acting through the  
+Ministry of Agriculture and Livestock (MAG) 
+
+Disbursement period: 5 years 
+
+Source Amount (US$) % Grace period: 6 years(b) 
+
+IDB Ordinary Capital (OC): 15 million 100% 
+
+Interest rate: LIBOR-based 
+
+Credit fee: (c) 
+
+Inspection and supervision fee: (c) 
+
+Total: 15 million 100% 
+
+Weighted average life (WAL) 15.25 years(d) 
+
+Currency of approval: 
+U.S. dollars from the 
+Ordinary Capital  
+
+Project at a Glance 
+
+Project objective/description:  
+
+To contribute to improving the availability and quality of agricultural information in the country, to support decision-making by public and 
+private stakeholders. 
+
+Special contractual conditions precedent to the first disbursement of the loan proceeds:  
+
+(i) The program execution unit has been established on the terms agreed upon with the Bank; and (ii) the borrower has provided evidence, 
+to the Bank’s satisfaction, that the program Operating Regulations have entered into force (see paragraph 3.4). 
+
+Special contractual execution conditions: 
+
+The project will be executed in accordance with the contractual provisions on environmental, social, health, and safety matters identified 
+in the legal requirements section of the environmental and social management report (ESMR), including Annex B. 
+
+Exceptions to Bank policies: None. 
+
+Strategic Alignment 
+
+Challenges:(e) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting themes:(f) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+ 
+(a) Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization schedule, 
+
+as well as currency and interest rate conversions. The Bank will take operational and risk management considerations into account when reviewing such 
+requests. 
+
+(b) Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail any 
+extension of the original WAL of the loan or the last payment date as documented in the loan contract. 
+
+(c) The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the Bank’s 
+lending charges, in accordance with applicable policies. 
+
+(d) The original WAL may be shorter, depending on the signature date of the loan contract. 
+(e) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(f) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of Law). 
+
+ 
+ 
+
+ 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-42
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-29
+
+
+ 
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problem addressed, and rationale 
+
+1.1 Agriculture is a key sector of the Paraguayan economy. In the period 2004-2016, it 
+generated an annual average of 25% of GDP, and 30% of jobs. The sector has also 
+grown at an average annual rate of 5.7% over that same period. Alongside this 
+growth, agricultural exports have risen significantly over the last decade, 
+representing 60% of the total value of exports in 2016.1  
+
+1.2 This solid sector performance has occurred in the context of a dual productive 
+structure. On the one hand, rapid growth can be observed in some areas, especially 
+
+soybeans, which contributed 57% of agricultural GDP growth between 2004 and 
+2016. Based on Paraguay’s last National Agricultural Census in 2008 (CAN 2008), 
+the production of soybeans and livestock is concentrated on lands larger than 500 
+hectares. By contrast, survey data show that the average annual farm income of 
+family farms (under 50 hectares, accounting for 96% of at farms, according to 
+CAN 2008) devoted to sesame, cassava, sugarcane, corn, and other crops, fell from 
+US$3,121 in 1991 to just US$981 in 2013. (Willi, P., 1991; A-Fines and GIZ, 2014).2 
+Recent studies indicate that, to maintain this solid aggregate sector performance 
+and improve farming income for rural families living Paraguay, productivity needs to 
+improve through actions to promote the use of better technologies among small-
+scale farmers, greater diversification of production, and the introduction of 
+production systems that help to better manage climate and other risks (Nin-Pratt, A. 
+et al., 2016). 
+
+1.3 These recommendations are the result of an analysis of existing official statistics. 
+However, decision-makers need robust, up-to-date information that allows them to 
+work more precisely when designing and/or implementing instruments for public 
+policy and/or private investment. Furthermore, the impact of different interventions 
+can only be measured and assessed effectively if appropriate statistics are available. 
+For that reason, statistics are needed on land use, agricultural production factors, 
+the predominant economic and social conditions faced by farmers, and other areas. 
+Additionally, much of the income inequality seen in Latin America and the Caribbean 
+can be attributed to factors such as race, place of birth, education level of parents, 
+gender, and sexual orientation. Some case studies suggest that the benefits of 
+having information are much greater than the costs of generating it. For example, 
+Bruce Gardner reviewed the literature that quantifies the value of information on the 
+agricultural market for private decision-makers, as well as for decision-makers in the 
+public sector working on policy reforms relating to trade and investment in research 
+and development in the U.S. (Gardner, 2004). The study confirms that the availability 
+of this information has net benefits for decision-makers. 
+
+1.4 Data requirements for the agricultural sector are extensive and include information 
+on the structure and management of agricultural holdings, agricultural production 
+and inputs, food consumption, household income and expenditure, gender equality, 
+the work force, and agricultural prices. There is also a growing demand for basic 
+agroenvironmental data on greenhouse gas and ammonia emissions, to improve 
+national greenhouse gas inventories. All these data could come from agricultural 
+
+                                                
+1  Source: Central Bank of Paraguay. 
+2  See optional electronic link 7 for a full bibliography. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-2
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-2
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+
+
+ - 2 - 
+ 
+ 
+
+ 
+censuses and sample surveys, population censuses and surveys, administrative 
+records, and other sources.  
+
+1.5 An agricultural census is a statistical operation focused on collecting, processing, 
+and disseminating data on the structure of the agricultural sector of an entire country, 
+or a significant part of one. The basic objectives of agricultural censuses according 
+to the World Programme for the Census of Agriculture (WCA 2020) (FAO 2015) are: 
+(i) to provide data on the structure of agriculture, especially for small administrative 
+units, and to enable detailed cross-tabulations; (ii) to provide data to use as 
+benchmarks for, and reconciliation of, current agricultural statistics; and (iii) to 
+provide frames for agricultural sample surveys. 
+
+1.6 In an integrated agricultural statistics system, an agricultural census provides: (i) an 
+integrated set of data on food and agriculture, necessary for decision-making related 
+to food, agriculture, and rural development; and (ii) sampling frames for the surveys, 
+which are conducted more frequently to collect more detailed and timely data. It 
+should also be based on the necessary quality standards and include the 
+dissemination of the information, so as to meet the information demand of the public 
+and private sectors. 
+
+1.7 The “Global Strategy to Improve Agricultural and Rural Statistics” (World Bank, 
+UNSD, FAO 2010) published after a consultation process that included national 
+statistical institutes, agriculture ministries, recommendations from the United 
+Nations Security Council, experts and academics, and online forums. In its 
+recommendations, the strategy identifies and highlights limitations in the production 
+of statistical data for the agricultural sector and suggests that the conceptual 
+framework for agricultural and rural statistics needs be expanded, and that the scope 
+and coverage of such statistics should be broadened to include, for example, 
+aspects of rural populations and households, fisheries, forestry, and other 
+dimensions. 
+
+1.8 Some countries of the region, including Paraguay, therefore implemented technical 
+cooperation operation ATN/OC-14750-RG, to develop a consensus-based shared 
+conceptual and methodological framework for the IDB’s Regional Public Goods 
+Initiative based on technical and practical criteria, to promote the production of 
+agricultural and rural statistics sustainably over time. This regional public good, 
+named “Development of Methodology for the Implementation of Agricultural 
+Statistics Systems in Latin America and the Caribbean,” began with a diagnostic 
+assessment3 of the capacity to produce and disseminate agricultural and rural 
+statistics, looking at the legal framework, coordination within the national statistical 
+system, financial and human resources, available infrastructure and equipment, and 
+the type and quality of data. It also identified national needs, along with procedures 
+for generating and/or compiling data and dissemination methods.  
+
+                                                
+3  This assessment was based on responses to a self-administered standard questionnaire sent to the 
+
+countries. The questionnaire had 233 items grouped into 23 categories under four dimensions, which 
+were used to prepare a baseline country profile. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+
+
+ - 3 - 
+ 
+ 
+
+ 
+1.9 The findings of the regional public good assessment put Paraguay4 in Group 2 out 
+
+of four groups, with Group 1 being the “weakest countries,” and Group 4 being the 
+“strongest countries.” Group 2, “intermediate to weak countries,” also includes 
+El Salvador, Belize, the Dominican Republic, and St. Lucia. According to this 
+diagnostic assessment, the main limiting factors for agricultural statistics in 
+Paraguay are institutional weakness due to a scarcity of resources, both human 
+(core training) and material (physical infrastructure), and weak methods and 
+practices. Added to these are poor coordination within the national statistical system 
+and unawareness of data quality5 (see details in Table 1). 
+
+ 
+Table 1. Limiting Factors for Agricultural Statistics in Paraguay 
+
+Dominant 
+limitations 
+
+• Transportation equipment for field activities 
+
+• Sound methodology implemented for agricultural surveys 
+
+• Development and updating of sampling frames 
+
+Significant 
+limitations 
+
+• Number of professional staff for statistical activities in the main offices 
+
+• Number of professional staff for statistical activities in the field 
+
+• Technical skills of available statistical personnel 
+
+• Up-to-date information technology hardware 
+
+• Up-to-date information technology software 
+
+• Lack of available funds for planned statistical field activities 
+
+• Interagency coordination 
+
+Relevant 
+limitations 
+
+• Number of support staff in the field for statistical activities 
+
+• Office equipment (phone, Internet, office furniture) 
+
+• Turnover of professional staff 
+
+• Information sources exhausted 
+
+ 
+
+1.10 Paraguay’s current regulatory framework puts responsibility for producing 
+agricultural statistics on the Ministry of Agriculture,6 as is the case in other countries 
+inside and outside the region such as France, Uruguay, India, and the U.S. The legal 
+foundation for statistical activities is based on two main laws: Executive Order 11126 
+of 1942, which reorganizes the Bureau of Statistics, Surveys, and Censuses 
+(DGEEC) and gives it the authority for “technical direction of all statistical work;” and 
+Law 81 of 1992, which designates the Office of Agricultural Censuses and Statistics 
+(DCEA) as the executing agency responsible for preparing agricultural statistics and 
+keeping them up to date by regularly conducting the CAN. Paraguay has also 
+developed the National Strategy for Statistical Development, based on the principles 
+
+                                                
+4  On a scale of 0 to 100, Paraguay received 28 points, ahead of only Argentina (21) and Venezuela (14) in 
+
+a group of 13 Latin American and Caribbean countries that averaged 45. The best score was obtained 
+by Mexico (82), followed by Brazil (71). Among the items with the lowest score were: (i) coordination 
+within the statistical system, strategic vision and planning, and trained human resources, with a score of 
+0; (ii) data collection technologies, with 9; and (iii) awareness of quality, with 23. 
+
+5  “Diagnóstico sobre las capacidades instaladas en los países de ALC para la producción y difusión de 
+estadísticas agropecuarias rurales” [Diagnostic assessment of installed capacities in the LAC countries 
+for the production and dissemination of rural agricultural statistics], Miguel Galmés, technical cooperation 
+operation ATN/OC-14750-RG IDB. 
+
+6  Law 81/92 of 22 December 1992 establishing the organizational and functional structure of the Ministry 
+of Agricultural and Livestock (MAG). 
+
+
+
+ - 4 - 
+ 
+ 
+
+ 
+of the PARIS 21 initiative.7 Nevertheless, the statistical sector is not coordinated as 
+a whole, nor is there one institution with the legal mandate to lead and coordinate 
+the process of preparing statistics across sectors and institutions. 
+
+1.11 Paraguay’s most recent agricultural census was performed in 2008 and was the fifth 
+in the country’s history since 1944. A decade has passed since that census 
+(CAN 2008), and the information from it no longer reflects the current conditions in 
+the country. It lacks the data to assess quality (omission and nonresponse rates), 
+nor is there data on information requests classified by type of user or how that 
+information is used. Some users have questioned the reliability of the data, because 
+of the way the field work was done, and the data processed. The data are also not 
+broken down by thematic area: gender and indigenous peoples. Paraguay does not 
+have a system of regular, reliable surveys to monitor and follow up on trends 
+occurring after the previous intercensal period (1981-2008). Data need to be 
+quantified on the expansion of the land area devoted to annual crops, deforestation, 
+new operators and the development of technology-based business production 
+models, news ways of organizing production, and other developments. 
+
+1.12 The Office of Agricultural Censuses and Statistics (DCEA) is the unit of the Ministry 
+of Agriculture and Livestock (MAG) responsible for “preparing and updating 
+agricultural statistics, for which it regularly conducts the National Agricultural 
+Census.”8 A preliminary assessment of the current organizational and financial 
+structure of the DCEA reveals weaknesses in: (i) technical human resources, in 
+terms of both number and knowledge that is sufficiently up to date to work using 
+advanced technologies and statistical methods (out of 39 DCEA employees, only 
+15 have university degrees, and 50% of those have low levels of training or outdated 
+knowledge of census procedures); (ii) equipment and materials (100% of computer 
+hardware is obsolete, and the vehicle fleet has been reduced by 80% over the last 
+five years); and (iii) strategic planning for data collection based on statistical 
+methods. Annual DCEA estimates of agricultural output are derived from data 
+provided by authorized data reporters, which is an imprecise and unreliable type of 
+information. Consequently, strengthening the DCEA both technically and 
+administratively would benefit the decision-making and policy formulation process of 
+the MAG, and particularly its Bureau of Planning (DGP)9 responsible for planning, 
+monitoring, coordination, and assessment, as well as other public and private 
+entities.  
+
+1.13 The assessments mentioned above clearly underscore the need to strengthen 
+country systems for agricultural statistics. This means not only having more 
+information available, but improving the timeliness and quality of that information in 
+a cost-effective manner. Adopting modern information technologies is a key factor 
+in meeting these objectives, as their benefits in quality and economic efficiency have 
+been proven in other countries. An example is the use of personal digital assistants 
+(PDAs) to conduct surveys and censuses, known as computer-assisted personal 
+interviewing (CAPI), instead of pen-and-paper interviewing (PAPI). Reliability, 
+accuracy, timeliness, accessibility, and consistency are all quality indicators for 
+
+                                                
+7  The Partnership in Statistics for Development in the Twenty-first Century (PARIS 21), established in 1999, 
+
+promotes the better use and production of statistics throughout the developing world. 
+8  Law 81/92, Article 8. 
+9  A MAG unit: http://www.mag.gov.py/index.php/institucion/dependencias. 
+
+http://www.mag.gov.py/index.php/institucion/dependencias.
+
+
+ - 5 - 
+ 
+ 
+
+ 
+censuses that show improvements with the use of these new technologies (Baker 
+et al, 1995; Caeyers et al., 2011; Seligson and Moreno Morales, 2015; Benstead et 
+al., 2017). 
+
+1.14 The Bank’s experience. Since 2007, the Bank has approved a series of investment 
+loans to help support censuses and strengthen statistical systems. These include: 
+the Program to Support the Economic Census (loan 1918/BL-PR); Program to 
+Develop the National Statistical System through the 2012 Population and Housing 
+Census (loan 2542/BL-PR); Project to Improve the Agricultural Statistical 
+Information System and the Agricultural Information Service for Rural Development 
+in Peru (loan 3272/OC-PE); and the Sustainable Agricultural Development Program 
+(loan 3798/BL-GY). Public good ATN/OC-14750-RG, Development of a 
+Methodology for the Implementation of Agricultural Statistics Systems in Latin 
+America and the Caribbean, is also now in execution.  
+
+1.15 Based on these operations, as well as the recommendations of the FAO’s World 
+Programme for the Census of Agriculture (WCA 2020) and IDB technical note 
+“Experiencias en el diseño estadístico y realización de censos nacionales del sector 
+agropecuario y rural” [Experiences in the statistical design and implementation of 
+national censuses of the agricultural and rural sector] (document IDB-TN-366), 
+Table 2 presents the main lessons learned and the how these have been 
+incorporated into the design of the proposed operation. 
+
+ 
+Table 2. Lesson Learned 
+
+Recommendations Incorporation into program design 
+
+1. The National Agricultural Census (CAN) 
+must be considered part of an integrated 
+
+national statistical system. 
+
+The program includes the generation of integrated 
+information (census and surveys) of the national 
+agricultural statistics system, as input for the 
+national statistical system. 
+
+2. Pilot testing is necessary to prepare a 
+high quality census questionnaire. 
+
+The program calls for a pilot to review and adjust 
+critical parameters, such as the duration of surveys 
+and the data collection and analysis method. 
+
+3. As a project activity, it is important to 
+make respondents, producers, and users 
+aware of the value of accurate statistical 
+information and utilizing that information to 
+improve the quality of public policy and 
+decision-making. 
+
+The program will finance a communication and 
+dissemination plan to raise awareness in the target 
+population prior to collecting information, along with 
+widespread dissemination of findings through 
+
+various sources. 
+
+4. The extensive involvement of public 
+and private sector users in designing the 
+census questionnaire ensures that useful 
+
+information is collected. 
+
+To design the census questionnaire, the program 
+calls for workshops with the participation of public 
+and private sector users. 
+
+5. Political commitment to the census at 
+the highest level is important. 
+
+The program includes joint activities with 
+Agricultural Advisory Council (CAA) to ensure that 
+it is a political priority. 
+
+6. Include the gender perspective in the 
+design of the questionnaires. 
+
+The program supports the incorporation of 
+questions that will generate information on gender 
+and diversity in census and survey forms, following 
+the guidelines of the FAO’s WCA 2020.  
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-36
+
+
+ - 6 - 
+ 
+ 
+
+ 
+Recommendations Incorporation into program design 
+
+7. Work with advanced technologies for 
+data collection. 
+
+The program incorporates the use of PDAs for 
+personal interviews and a Web-based data 
+transmission system to enhance data quality and 
+reduce the time required for collection and 
+analysis. It also includes the use of satellite 
+imagery to make land-use and production 
+estimates. The use of PDAs will also facilitate the 
+implementation and quality control of the census. 
+
+8. Institution-strengthening must be 
+prioritized to ensure census continuity and 
+the ongoing quality and dissemination of 
+statistical information. 
+
+The program includes investments to help 
+strengthen the DCEA, so that data collection, 
+analysis, and dissemination actions are 
+sustainable. A cooperation agreement with the 
+DGEEC is also planned. 
+
+9. Synchronized administrative 
+management is necessary when 
+executing a mass data collection 
+operation. 
+
+The program calls for a company or international 
+agency with experience in human resource 
+management to be engaged for the selection and 
+hiring of census takers. 
+
+ 
+
+1.16 The country’s sector strategy. The project is linked primarily to the principal points 
+and objectives of the National Development Plan 2030, as well as the MAG’s 
+Agricultural Strategic Framework 2014-2018 and Institutional Strategic Plan 
+2014-2018. In terms of the National Development Plan 2030 and its major areas of 
+strategic focus—poverty reduction and social development, inclusive economic 
+growth, and positioning Paraguay as a global player—the project will provide 
+essential input to identify evidence-based actions to support farming families and 
+rural populations. The program will also contribute to the MAG’s Agricultural 
+Strategic Framework 2014-2018 by supporting public policy design and the adoption 
+of sector development measures, as one of the objectives is to make information 
+available for such purposes. The program also fits into the MAG’s Institutional 
+Strategic Plan 2014-2018 by supporting the establishment of an agricultural 
+information system that integrates information on climate, economics, and 
+technology, as well as statistical synthesis and studies of current economic 
+conditions and sector performance, to provide the different users with data for 
+decision-making. 
+
+1.17 The Bank’s country strategy. This operation is aligned with the Bank’s country 
+strategy with Paraguay 2014-2018 (document GN-2769), since it contributes to the 
+strategic objective to “Increase the supply of agricultural public goods and services.” 
+
+1.18 Strategic alignment. The program is consistent with the Update to the Institutional 
+Strategy 2010-2020 (document AB-3008), specifically the crosscutting themes of: 
+(i) institutional capacity and rule of law, as it seeks to strengthening the institutions 
+that generate agricultural statistics; (ii) gender equality and diversity, as it generates 
+differentiated information by thematic area: gender and indigenous peoples; and 
+(iii) climate change and environmental sustainability, as it provides reliable 
+information for building a national emissions inventory. The program is also aligned 
+the Corporate Results Framework 2016-2019 (document GN-2727-6) under the 
+indicator, “Government agencies benefited by projects that strengthen technological 
+and managerial tools to improve public service delivery,” through the outcome 
+indicator “Improvement in institutional capacity to collect and process agricultural 
+statistics” in the program’s Results Matrix. It is consistent with the Dimension of 
+
+
+
+ - 7 - 
+ 
+ 
+
+ 
+Success 1 of the Agriculture and Natural Resources Management Sector 
+Framework Document (document GN-2709-5), which advocates that agriculture in 
+the region achieve high levels of productivity and proposes the modernization of 
+statistics systems as an activity under its second line of action. Lastly, it is consistent 
+with the Sector Strategy on Institutions for Growth and Social Welfare (document 
+GN-2587-2) through support for public sector management through integrated 
+information systems. 
+
+1.19 Approximately 6% of the resources of this operation will be invested in climate 
+change adaptation activities, based on the joint methodology of the multilateral 
+development banks for estimating climate finance. These resources contribute to 
+the IDB Group’s goal to increase the financing of climate change-related projects to 
+30% of total approvals by the end of 2020. 
+
+B. Objectives, components, and cost 
+
+1.20 The general objective of this project is to contribute to improving the availability and 
+quality of agricultural information in the country, to support decision-making by public 
+and private stakeholders. The program has the following components: 
+
+1.21 Component 1: Design and implementation of the agricultural census 
+(US$10.32 million). This component will finance the implementation of the 
+agricultural census with emphasis on guaranteeing quality, proper thematic 
+coverage, and the timely and wide dissemination of the information generated. As 
+an innovation, this census will adopt the use of an electronic questionnaire and data 
+capture using mobile devices in the field. The census will have a crosscutting gender 
+approach, to get women more involved and increase their visibility in their role as 
+both producers and workers. All relevant information will also be disaggregated by 
+indigenous community and will address issues of environmental conservation. The 
+agricultural census process to be financed will have the following stages: 
+(i) pre-census: cartographic updates and georeferencing of farms, pre-census 
+survey, and development of the data capture system; (ii) census: data collection pilot 
+test and field operation; and (iii) post-census: data quality analysis, post-census 
+survey, and dissemination of results. To promote the quality of data collection, this 
+component also envisages: (i) validations and controls in the electronic form that 
+assist census takers in their work; (ii) a pilot test in the field to validate the electronic 
+forms; and (iii) dissemination actions to inform and motivate the respondent 
+population. An information processing and analysis system will be developed that 
+encompasses everything from database consolidation and quality control to the 
+generation of the primary tabulations and making the information (including 
+microdata) available to users online, in as much detail as permitted by laws and 
+regulations on the confidentiality of the information. As an additional layer of quality 
+control for the information generated, a post-census survey is planned to validate 
+the accuracy of the census itself.  
+
+1.22 Component 2: Institutional strengthening of the entities in the agricultural 
+statistics system (US$3.67 million). This component will strengthen the capacity 
+of the Office of Agricultural Censuses and Statistics (DCEA) to generate reliable and 
+up-to-date agricultural statistics. The strengthening process includes: (i) developing 
+IT tools to support the adoption of best practices for agricultural censuses; 
+(ii) updating knowledge of census processes in the region by sending DCEA 
+technical staff abroad and hiring experts to bring DCEA technical staff up to date on 
+
+https://publications.iadb.org/handle/11319/7807
+https://publications.iadb.org/handle/11319/7807
+
+
+ - 8 - 
+ 
+ 
+
+ 
+practices used; (iii) renovating buildings; (iv) purchasing computer hardware; 
+(v) purchasing vehicles to ensure that the DCEA can operate throughout rural areas; 
+(vi) developing a model for the use of satellite imagery to produce agricultural 
+statistics that can be validated with census information; (vii) conducting thematic 
+studies with the census information; and (viii) conducting two surveys built on the 
+census sampling frame to update relevant information on the sector. The topics of 
+these surveys will depend on the studies and policy priorities, but may include 
+agriculture, livestock, production costs, and family farming. Agricultural statistics are 
+also expected to be incorporated into the national statistical system under an 
+agreement with the DGEEC. 
+
+C. Key results indicators 
+
+1.23 The program Results Matrix has been agreed upon with the borrower (Annex II) and 
+contains impact, outcome, and output indicators for the program, as well as its 
+baselines and targets. In keeping with the program objective, the impact indicators 
+also seek to capture the two dimensions of availability and quality of agricultural 
+information. As a substitute for availability, the number of census information 
+requests is used as an indicator. The indicator to evaluate the expected changes in 
+the quality of information will be user ratings. At the outcome level, indicators are 
+included for three different dimensions: (i) the quality of the census will be assessed 
+by comparing the census results to the results of the post-census survey, omission 
+rate, and nonresponse rate; (ii) the improvement in the timeliness and availability of 
+agricultural information will be verified through a shorter time lag between the 
+conclusion of field work and publication of the final results, as well as through a 
+shorter time devoted to data collection in the field; and (iii) the improvement in 
+agricultural statistical capacity will be assessed through the rating of installed 
+capacities for the production and dissemination of agricultural and rural statistics.  
+
+1.24 As an added benefit, strengthening the agricultural census makes the source of 
+information used to build Paraguay’s national emissions inventory more reliable, 
+enabling Paraguay to comply with current requirements under the United Nations 
+Framework Convention on Climate Change (UNFCCC) and transparency guidelines 
+under the Paris Agreement.10 It also generates information on land use (pastures, 
+forests, crops), livestock, etc., that can be used to assess resilience, design public 
+policies on adaptation, and makes it possible to pose specific questions on mitigation 
+and/or adaptation. The program will also benefit Paraguayan farmers and ranchers 
+(currently estimated at 300,000), public and private institutions, and other links in the 
+agrifood chain. 
+
+1.25 The use of mobile devices for data capture and satellite imagery are technological 
+innovations that will benefit the country’s statistical capacity in the context of the 
+agreement signed with the DGEEC. The program will also receive advisory support 
+from the National Secretariat for Information and Communication Technologies 
+(SENATICs) on the technical specifications of computer hardware and connectivity. 
+These interagency agreements, along with efforts to strengthen the MAG/DCEA, 
+aim to make the generation of agricultural statistics sustainable. 
+
+                                                
+10  The Paris Agreement (2015) is part of the UNFCCC, which establishes measures to reduce greenhouse 
+
+gas emissions through mitigation, adaptation, and resilience of ecosystems to the effects of global 
+warming. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40491683
+https://en.wikipedia.org/wiki/Treaty
+https://en.wikipedia.org/wiki/Climate_change_mitigation
+https://en.wikipedia.org/wiki/Climate_change_adaptation
+https://en.wikipedia.org/wiki/Ecological_resilience
+
+
+ - 9 - 
+ 
+ 
+
+ 
+1.26 Economic viability. The economic analysis of the program was based on the 
+
+economic viability of the 2018 National Agricultural Census (CAN 2018), the costs 
+of which represent nearly 80% of total program resources. The analysis of the 
+economic viability of the census employed the least-cost methodology (a specific 
+instance of cost-effectiveness analysis). This methodology is commonly used in 
+interventions of this nature, when it is recognized that the benefits (statistical 
+information, in this case) have a very high value, but one that is difficult to quantify. 
+
+1.27 The anticipated costs of the agricultural census indicate that it will be cost-effective 
+(See optional electronic link 1). The estimated total cost of CAN 2018 is 
+US$11,627,262,11 including all aspects of the preparation, survey, processing, and 
+dissemination phases. The estimated number of productive units to be enumerated 
+will be around 300,000, yielding a cost per productive unit of US$39.12 This figure is 
+higher than was budgeted for the agricultural censuses in Nicaragua (2011, US$23) 
+and Honduras (2008, US$27), but lower than was budgeted in Brazil (2018, US$47) 
+or the actual figure in Uruguay (2011, US$73). Factoring in the land area (which 
+affects the cost of field work), the cost per square kilometer of CAN 2018 in 
+Paraguay will be US$29, which is higher than in Uruguay (2011, US$18.5) and 
+similar to Brazil (2018, US$29), but lower than in Nicaragua (2011, US$49) and 
+Honduras (2008, US$71). The cost of the agricultural census will therefore be within 
+the range of costs of other recent agricultural censuses performed in countries of the 
+region. 
+
+1.28 Another relevant comparison is the costs budgeted for the census using 
+computer-assisted personal interviewing (CAPI) (US$11,627,262) versus the costs 
+that would be expected using pen-and-paper interviewing (PAPI) (US$12,330,855). 
+The use of PDAs instead of paper questionnaires will save approximately 
+US$700,000. This figure does not reflect the fact that CAPI offers better quality 
+control than PAPI, so the financial gains of adopting CAPI are even greater. 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 This project is designed as a specific investment loan under the Flexible Financing 
+Facility (document FN-655-1) and the specific investment modality. Its total cost is 
+US$15 million, to be financed totally by the Bank from the Ordinary Capital 
+resources. 
+
+                                                
+11  This figure includes the amount of Component 1, plus an amount corresponding to equipment and 
+
+management and evaluation costs for the project. 
+12  All figures presented in the economic viability analysis are expressed in 2016 U.S. dollars. The sources 
+
+of this data are the FAO, Uruguay’s Office of Agricultural Statistics (DIEA), and the DCEA (Paraguay). 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-30
+
+
+ - 10 - 
+ 
+ 
+
+ 
+Table 3. Program Cost and Financing (in US$000) 
+
+WBS Components IDB % 
+
+1 Component 1: Design and implementation of the 
+agricultural census 
+
+10,320 69% 
+
+2 Component 2: Institutional strengthening of the entities 
+in the agricultural statistics system 
+
+3,670 24% 
+
+3 Administration, audit, and evaluation 710 5% 
+
+4 Contingencies 300 2% 
+
+ Total: 15,000 100% 
+
+ * These amounts include local taxes. 
+
+2.2 The program disbursement period will be five years, running from the effective date 
+of the loan contract. Disbursements will be made in the form of advances of funds 
+(see paragraph 3.7). 
+
+ 
+Table 4. Disbursement Schedule (in US$) 
+
+ Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+Total 1,559,201 11,117,339 895,705 803,553 624,202 15,000,000 
+
+% 10% 74% 6% 6% 4% 100% 
+
+ 
+
+B. Environmental and social safeguard risks 
+
+2.3 In accordance with the Environment and Safeguards Compliance Policy 
+(Operational Policy OP-703), the Bank has analyzed the potential environmental and 
+social risks of this operation and classified it as category “B,” with a moderate level 
+of risk. No significant environmental or social risks have been identified in the 
+sociocultural analysis prepared for this project. The identified environmental and 
+social risks relate primarily to interactions between census takers and the indigenous 
+population, risks faced by census takers when travelling to socially complex areas, 
+and the risk that the census questionnaire may not be sensitive enough to the 
+sociocultural complexity of indigenous peoples and gender issues in agriculture. The 
+sociocultural analysis includes recommendations on these issues to promote the 
+inclusion of vulnerable population groups like indigenous peoples and small family 
+farmers, with a gender approach. 
+
+2.4 In accordance with Operational Policy OP-703, Directive B.6, this project requires at 
+least one public consultation. This requirement was met with two consultations 
+conducted with key stakeholders: (i) one with public and private sector data users, 
+and (ii) another with the National Organization of Indigenous Peoples (ONPI). 
+Additional consultations with other social actors are also planned as part of the 
+census preparation process, especially, once a draft census form is ready. More 
+information on this matter is included in the annex, Environmental and social 
+management report (ESMR). 
+
+C. Fiduciary risks 
+
+2.5 The fiduciary risk is low, so no special mitigation actions are planned. 
+
+D. Other project risks 
+
+2.6 The following was identified as high risk: a government changeover would affect 
+priority or execution time. The planned mitigation measure is to rely on political 
+consensus and the sectoral private sector, as well as the mandate contained in 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-1261750315-13
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-32
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-31
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-29
+
+
+ - 11 - 
+ 
+ 
+
+ 
+Article 8 of Law 81 of 1992, and international commitments (the 2030 Agenda for 
+Sustainable Development). The following were identified as medium risks: (i) public 
+administration fails to keep pace with census operation needs; (ii) no decree issued 
+to conduct the census; (iii) refusal to provide information to census takers; 
+(iv) political decisions not to disseminate census results; and (v) loan contract fails 
+to enter into effect in 2018. The following mitigation activities were identified and 
+agreed upon, supported particularly by the Agricultural Advisory Council (CAA) for 
+the census, made up of prominent individuals from the public and private sector, to 
+back up policy-level actions at the key entities identified: (i) the CAA will take steps 
+to comply with administrative time frames; (ii) work will be done directly with the 
+Office of the President; (iii) an efficient communication campaign will be launched 
+(local authorities and civil society); (iv) the CAA will take steps to raise awareness 
+among public sector stakeholders, with IDB support; and (v) the MAG, CAA, and 
+project team will work with Congress for it to take up this law for consideration. 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements 
+
+3.1 The borrower will be the Republic of Paraguay, and the executing agency will be the 
+borrower, acting through the Ministry of Agriculture and Livestock (MAG), which will 
+be fully responsible for administration and supervision of the program. 
+
+3.2 The program will be implemented under the direct supervision of the MAG, acting 
+through the Office of Agricultural Censuses and Statistics (DCEA) and the National 
+Office of Project Coordination and Administration (DINCAP). The DCEA, supported 
+by a program execution unit (PEU) reporting directly to the DCEA director, will 
+provide general coordination of program execution, programming, and monitoring, 
+ensuring that the conditions and targets set in the loan contract are met, and serving 
+as principal liaison between the IDB and the borrower during execution. DINCAP will 
+perform administration and finance activities, as well as procurement and 
+contracting, in coordination with the PEU. 
+
+3.3 The key positions identified for the PEU for program execution are: (i) general 
+coordinator; (ii) Component 1 coordinator; (iii) Component 2 coordinator; 
+(iv) financial and administrative specialist; (v) procurement specialist; and 
+(vi) planning and monitoring specialist. 
+
+3.4 Special contractual conditions precedent to the first disbursement of the loan 
+proceeds: (i) the program execution unit has been established on the terms 
+agreed upon with the Bank; and (ii) the borrower has provided evidence, to 
+the Bank’s satisfaction, that the program Operating Regulations have entered 
+into force. These conditions must be satisfied for implementation to begin. The 
+program Operating Regulations establish the basic rules for the execution of the loan 
+(e.g., field work, supervision, and regional coordination, information processing and 
+analysis, and fiduciary considerations), as well as the responsibilities of PEU 
+members.  
+
+3.5 Procurement of works, goods, and nonconsulting services. Procurements 
+financed in whole or part with IDB funds will be conducted pursuant to the Policies 
+for the Procurement of Works and Goods Financed by the Inter-American 
+Development Bank (document GN-2349-9) and the Policies for the Selection and 
+
+
+
+ - 12 - 
+ 
+ 
+
+ 
+Contracting of Consultants Financed by the Inter-American Development Bank 
+(document GN-2350-9). The procurement plan contains detailed information on the 
+procurements to be implemented during execution, as well as the procedures 
+followed by the Bank for their review. Numerous low- and medium-skilled operational 
+staff will be hired (approximately 5,300 people) to collect CAN information in the 
+field. To do so, an international competitive bidding process will be held to engage 
+a firm with experience in human resources management, or an international agency 
+with such experience will be contracted. No selection processes involving single-
+source selection are planned, with the exception of fuel purchases, since this product 
+can be obtained from only one source13 under the fuel provision agreement between 
+Petróleos Paraguayos (PETROPAR) and the executing agency,14 and other cases 
+where it is justified under policy documents GN-2349-9 and GN-2350-9. 
+
+3.6 The Fiduciary Agreements and Requirements (Annex III) establish the framework 
+applicable to program execution for financial management and planning, as well as 
+procurement supervision and execution. An intervention of this nature entails 
+significant travel expenditures and an additional time commitment from employees 
+of the MAG or other government agencies called upon to prepare and implement of 
+the census, as well as process and disseminate the information generated. The 
+estimated expenditure for these tasks is approximately US$1.3 million, broken down 
+as follows: per diems (per MAG regulations) (33%), gas (21%), and additional 
+compensation (45%). This last item must be justified by the Budget Act and in line 
+with expense items 123, 125, and 137, depending on the different cases of 
+employees that take on additional work.15 
+
+3.7 Disbursements. The disbursement modality will be as established in the Financial 
+Management Guidelines for IDB-financed Projects (document OP-273-6). 
+Advances will be made preferably on a six-monthly basis, once justification has been 
+provided for at least 80% of the advanced amount. Accountability forms and the 
+financial planning spreadsheet must be submitted as documentation.  
+
+3.8 Audits. The PEU will deliver the audited financial statements for the program on an 
+annual basis during execution on the terms required by the Bank. The project will 
+require the selection of a Plus-level independent auditing firm. The audited financial 
+statements will be delivered within 120 days after the close of each fiscal year, and 
+the closing final statement will be delivered within 120 days following the scheduled 
+date for the last disbursement. 
+
+B. Summary of arrangements for monitoring results 
+
+3.9 The project has a detailed monitoring and evaluation plan agreed upon with the 
+MAG. The DCEA, acting through the PEU, will be responsible for generating and 
+sharing the necessary information with the Bank to track the Results Matrix 
+indicators. 
+
+3.10 Monitoring. Throughout project execution, the PEU will prepare and deliver status 
+reports to the Bank within 60 days after the end of each six-month period. These 
+
+                                                
+13  Document GN-2349-9, paragraph 3.6(c). 
+
+14  Based on Article 316 of Decree 176 implementing Articles 128 and 129 of Law 5554/2016. 
+
+15  The program does not call for counterpart support to be factored into the calculation. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-43
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40468605
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-34
+
+
+ - 13 - 
+ 
+ 
+
+ 
+reports will provide a detailed account of physical and financial execution of the 
+project, as well as progress on all Results Matrix indicators. The reports will also 
+provide a detailed account of issues encountered during project execution, and 
+corrective measures taken, as well as explain any deviation from the project 
+management instruments (multiyear execution plan, annual work plan (AWP), and 
+procurement plan). No later than the last quarter of each year of project execution, 
+the PEU will deliver the AWP for the following year, to the Bank’s satisfaction, as 
+well as the maintenance plan for equipment purchased with the loan proceeds and 
+the plan for meeting the environmental and social requirements established in the 
+environmental and social management plan (ESMP). Bank staff will conduct regular 
+inspection missions and meet with PEU personnel to discuss the progress of 
+activities identified in the AWP, compliance with the Results Matrix indicators, the 
+AWP for the following year, and the procurement plan for the next 12 months. 
+
+3.11 In addition to overall monitoring of execution, the project will incorporate several 
+different measures to oversee data gathering and ensure the quality of information 
+in CAN 2018 and the agricultural surveys in the two subsequent years. Firstly, a 
+cartographic update will be done, to minimize the likelihood of omissions or 
+duplications during data collection. Secondly, the PDAs used to collect information 
+will have a built-in, automatic verification program. This way, any inconsistency in 
+responses, whether contradictions or mistakes on the part of the respondent or 
+errors on the part of the census taker when entering the information into the PDA, 
+will be detected and corrected immediately. Thirdly, CAN 2018 will have a Web-
+based data transmission system for the immediate and simultaneous application of 
+controls on progress and coverage in the field, and the data registered by census 
+takers. 
+
+3.12 As established in the monitoring and evaluation plan, the project will have a midterm 
+and a final evaluation. The midterm evaluation will be conducted 90 days after the 
+date on which 50% of the loan proceeds have been committed, or 50% of the 
+execution period has elapsed, whichever occurs first. The objective of the midterm 
+evaluation will be to review the progress of all activities, examine the causes of any 
+potential deviation from the planned progress, and propose corrective measures. 
+The final evaluation will be conducted 90 days after the date on which 95% of the 
+loan proceeds have been disbursed. These reports will include: (i) financial 
+execution by subcomponent and the source of financing; (ii) progress on outputs, 
+outcomes, and impacts included in the Results Matrix; (iii) compliance with the 
+ESMP; (iv) summary of financial statements, procurements, disbursements, and 
+internal control; (v) review of implementation; and (vi) lessons learned. Both the 
+midterm and final evaluation will be conducted by external consultants independent 
+of the PEU. 
+
+3.13 Impact assessment. The project will have a “before and after” evaluation of the 
+impact indicators included in the Results Matrix, conducted as part of the final 
+evaluation described above and the project completion report (PCR). 
+
+3.14 Additionally, CAN 2018 will include a post-census survey to measure omission and 
+nonresponse rates, as well as the accuracy of certain key variables included in the 
+census. This will make it possible to get an exact final value for the outcome 
+indicators included in the Results Matrix. Significantly, there is no known experience 
+with post-census surveys in the case of agricultural censuses, so this will be the only 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-34
+
+
+ - 14 - 
+ 
+ 
+
+ 
+census in the region to conduct such a survey. For that reason, CAN 2018 will not 
+only yield benefits for Paraguay, but serve as an international benchmark. 
+
+
+
+Annex I - PR-L1147
+
+Page 1 of 1
+
+1. IDB Development Objectives
+
+     Development Challenges & Cross-cutting Themes
+
+     Country Development Results Indicators
+
+2. Country Development Objectives
+
+     Country Strategy Results Matrix GN-2769
+
+     Country Program Results Matrix
+
+Relevance of this project to country development challenges (If not aligned to country strategy 
+
+or country program)
+
+II. Development Outcomes - Evaluability
+3. Evidence-based Assessment & Solution
+
+     3.1 Program Diagnosis
+
+     3.2 Proposed Interventions or Solutions
+
+     3.3 Results Matrix Quality
+
+4. Ex ante Economic Analysis
+
+     4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a General Economic 
+
+Analysis
+
+     4.2 Identified and Quantified Benefits
+
+     4.3 Identified and Quantified Costs
+
+     4.4 Reasonable Assumptions
+
+     4.5 Sensitivity Analysis
+
+5. Monitoring and Evaluation 
+
+     5.1 Monitoring Mechanisms
+
+     5.2 Evaluation Plan
+
+Overall risks rate = magnitude of risks*likelihood
+
+Identified risks have been rated for magnitude and likelihood
+
+Mitigation measures have been identified for major risks
+
+Mitigation measures have indicators for tracking their implementation
+
+Environmental & social risk classification
+
+The project relies on the use of country systems
+
+Fiduciary (VPC/FMP Criteria) Yes
+
+Non-Fiduciary
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries and/or 
+
+public sector entity in the following dimensions:
+
+Gender Equality
+
+Labor
+
+Environment
+
+Additional (to project preparation) technical assistance was provided to the public sector entity 
+
+prior to approval to increase the likelihood of success of the project
+
+The ex-post impact evaluation of the project will produce evidence to close knowledge gaps in 
+
+the sector that were identified in the project document and/or in the evaluation plan
+
+Development Effectiveness Matrix
+
+Summary
+
+Yes
+
+-Gender Equality and Diversity
+
+-Climate Change and Environmental Sustainability
+
+-Institutional Capacity and the Rule of Law
+
+I. Corporate and Country Priorities
+
+Yes
+
+Increase the provision of agricultural public goods and services.
+
+The intervention is not included in the 2017 Operational Program.
+
+Low
+
+Yes
+
+III. Risks & Mitigation Monitoring Matrix
+
+IV. IDB´s Role - Additionality
+
+Yes
+
+Yes
+
+B
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+Financial Management: Budget, Treasury, Accounting and 
+
+Reporting.
+
+Procurement: Information System, Price Comparison.
+
+The objective of the project is to contribute to improving the availability and quality of agricultural information in the country to support the decision-making of public and private agents. To 
+
+achieve this objective, the project will implement two components: 1) Design and implementation of the Agricultural Census; and 2) Institutional strengthening of the entities in charge of 
+
+the agricultural statistics system.
+
+The documentation is well structured, with a good diagnosis of the problems and main weaknesses faced by the national agricultural statistics system, including institutional weaknesses, 
+
+inadequate methods and statistical practices used, and lack of coordination in the national statistical system. Likewise, aspects of the previous agricultural census are identified that can 
+
+be improved upon in terms of data quality, and the dissemination and use of these data.
+
+The proposed solution is in line with the problems identified. The results matrix (RM) reflects the objectives of the program and shows a clear vertical logic. Higher-level indicators reflect 
+
+benchmarks established in other censuses to measure data quality. The lower level indicators reflect the design of each component. The RM includes SMART indicators at the levels of 
+
+impacts, results and outputs with their respective baseline values, targets, and means to collect information. Empirical evidence is provided on the utility and effectiveness of implementing 
+
+surveys using the Computer Assisted Personal Interviewing (CAPI) method; however, the external validity of this evidence is not alluded to.
+
+The economic analysis is based on a cost-effectiveness analysis. The cost per survey, and per square kilometer, is compared between this and other censuses in the region. The census 
+
+cost is identified using the CAPI method and it is compared to the cost of the counterfactual if the PAPI (Pen-And-Paper Interviewing) method was used. The results indicate that the 
+
+CAPI method will provide a census of better quality and at a lower cost. A sensitivity analysis is performed based on the main costs. The results indicate that the CAPI method will allow 
+
+the country to save a significant amount of resources, which is in contrast if the census was done using the PAPI method.
+
+The monitoring and evaluation plan proposes an evaluation using two methods: 1) reflexive evaluation; and 2) ex post cost-effectiveness assessment. The reflexive evaluation will use the 
+
+results of the census and a post-census survey to measure the quality of the data in terms of omission and non-response rates. These results will provide important information, since 
+
+there is no evidence from another agricultural census carried out in the region that undertakes a post-census survey to verify the quality of the data
+
+The risks identified in the risk matrix seem reasonable. Risks include mitigation actions and compliance indicators.
+
+Evaluable
+9.3
+
+3.0
+
+3.6
+
+2.7
+
+1.2
+
+6.9
+
+2.3
+
+4.7
+
+10.0
+
+4.0
+
+2.4
+
+1.2
+
+1.2
+
+
+
+Annex II 
+Page 1 of 5 
+
+ 
+ 
+
+RESULTS MATRIX 
+
+Project objective: To contribute to improving the availability and quality of agricultural information in the country, to support decision-
+making by public and private stakeholders. 
+
+ 
+
+EXPECTED IMPACT 
+
+Indicators 
+Unit of 
+
+measure 
+Baseline Base year Final target Means of verification Comments 
+
+Impact: Improve the utilization and value of agricultural statistical information. 
+
+Requests and 
+downloads of 
+information 
+generated from 
+the agricultural 
+census 
+
+Information 
+requests and 
+downloads 
+
+110 2009 200 DCEA reports No systematic record of consultations is 
+available for the 2008 agricultural 
+census. There are records of 
+information requests that serve as a 
+basis to estimate the quantity. 
+
+Quality rating of 
+census data 
+based on user 
+perceptions 
+
+Score (1-5) To be 
+determined 
+
+2017 BL * 1.25 Survey of public sector 
+users of agricultural 
+information 
+
+Create a list of users of agricultural 
+information. Determine consultation 
+methodology and content of the rating 
+form. 
+Construct baseline with opinions on the 
+2008 census. 
+For the new census, consider one year 
+after the census is published to allow for 
+dissemination. 
+
+ 
+  
+
+
+
+Annex II 
+Page 2 of 5 
+ 
+ 
+
+EXPECTED OUTCOMES 
+
+Indicators 
+Unit of 
+
+measure 
+Baseline Base Indicators Unit of measure Comments 
+
+Outcome 1: Improvement in the quality of the country’s agricultural statistics 
+
+Difference 
+between the 
+results of the 
+post-census 
+survey and the 
+census 
+
+% N/A N/A <5% Publication of the census and results 
+of the post census survey 
+
+For the main variables: land area, 
+land use, and others to be 
+determined when the census form 
+is designed. 
+
+Overall 
+omission rate 
+
+% N/A N/A <5% Agricultural census fact sheet Comparison between the 
+agricultural census and the post-
+census survey. 
+
+Nonresponse 
+rate 
+
+% N/A N/A 1% Agricultural census fact sheet and 
+database 
+
+Comparison between the 
+agricultural census and the post-
+census survey. 
+
+FAO Gender 
+Index 
+
+Index 0 2009 1 The FAO Gender Index is calculated 
+using items 1001-1005 of the FAO 
+publication “World Programme of the 
+Census of Agriculture 2020,” dividing 
+the number of responses that can be 
+obtained based on census 
+information by the total number of 
+items (5) 
+
+Gender monitoring. 
+
+Indigenous 
+population 
+index 
+
+Index 0 2009 1 The indigenous population index has 
+a value of 1 if the main census 
+variables can be stratified based on 
+the producer’s ethnic origin, and 0 if 
+the census data cannot be broken 
+down by this criterion 
+
+Ethnic monitoring. 
+
+
+
+Annex II 
+Page 3 of 5 
+
+ 
+ 
+
+Indicators 
+Unit of 
+
+measure 
+Baseline Base Indicators Unit of measure Comments 
+
+Outcome 2: Improvement in the timeliness and availability of agricultural information 
+
+Time lag 
+between the 
+end of field 
+work and 
+publication of 
+results 
+
+Months 12 2009 6 Presentation of final results Construct baseline using the 2008 
+census. 
+
+Time taken for 
+field work 
+
+Months 9 2008 4 Agricultural census fact sheet DCEA report on 2008 census as 
+baseline. 
+
+Outcome 3: Improvement in institutional capacity for the collection and processing of agricultural statistics 
+
+Rating of 
+agricultural 
+statistical 
+capacity 
+
+Score To be 
+determined 
+
+2017 To be 
+determined 
+
+Report with baseline and final scores Score applied using the FAO 
+methodology (“Assessing Country 
+Capacity to Produce Agricultural 
+and Rural Statistics,” June 2014), 
+surveyed by an external 
+consultant, rather than self-rating. 
+Use the score directly and not 
+“Class.” 
+
+ 
+  
+
+
+
+Annex II 
+Page 4 of 5 
+ 
+ 
+
+OUTPUTS 
+
+Outputs 
+Unit of 
+
+measure 
+Baseline 
+
+Base 
+year 
+
+Year 
+1 
+
+Year 
+2 
+
+Year 
+3 
+
+Year 
+4 
+
+Year 
+5 
+
+Final 
+target 
+
+Means of verification Comments 
+
+Component 1: Design and implementation of the agricultural census 
+
+Cartographic 
+update 
+
+Cartographic 
+maps of 
+departments 
+
+0 2017  17    17 Department maps, DCEA 
+technical report, and GIS 
+content. With technical support 
+from the DGEEC. 
+
+ 
+
+Census 
+conducted 
+
+Census 0 2017  1    1 Preliminary results published.  
+
+Post-census 
+evaluation 
+survey 
+conducted 
+
+Survey 0 2017   1   1 Report on post-census survey 
+results.  
+Within six months following 
+census field work. 
+
+ 
+
+Results 
+disseminated 
+
+Publication N/A N/A   1   1 Dissemination includes 
+publication of results with a 
+methodological note and the 
+primary tabulations, as well as 
+Web-based microdata 
+consultation system. 
+
+ 
+
+Component 2: Institutional strengthening of the entities in the agricultural statistics system 
+
+Agricultural 
+surveys  
+
+Surveys 0 2017    1 1 2 Publication of survey results 
+within three years following the 
+census. 
+
+ 
+
+Technical staff 
+trained in 
+generating 
+statistical 
+information 
+
+Number of 
+technical 
+staff 
+
+0 2017  15    15 DCEA report identifying 
+technical staff and areas in 
+which they received training. 
+
+ 
+
+Model 
+developed for 
+the use of 
+satellite 
+imagery  
+
+Model 0 2017    1  1 DCEA report on the results 
+achieved in using satellite 
+imagery to generate agricultural 
+statistics.  
+
+ 
+
+
+
+Annex II 
+Page 5 of 5 
+
+ 
+ 
+
+Thematic 
+studies 
+performed with 
+census 
+information 
+
+Number of 
+studies 
+
+0 2017    1 2 3 Documents with the results of 
+the studies performed within 24 
+months following publication of 
+the census results. 
+
+ 
+
+ 
+
+
+
+Annex III 
+Page 1 of 6 
+
+ 
+ 
+
+FIDUCIARY AGREEMENTS AND REQUIREMENT 
+
+Country: Republic of Paraguay 
+
+Project name: Project to Implement the Census and Agricultural Surveys 
+System 
+
+Project number: PR-L1147 
+
+Executing agency Republic of Paraguay, acting through the Ministry of 
+Agriculture and Livestock (MAG) 
+
+Prepared by: Fernando Glasman, Bruno Candia, and Jorge Luis Gonzalez 
+(Fiduciary Specialists) 
+
+ 
+
+I. EXECUTIVE SUMMARY 
+
+1.1 The institutional evaluation for the project’s fiduciary management was based on: 
+(i) the fiduciary context of the country; (ii) the findings of the fiduciary risk 
+assessment and project risk management workshop; and (iii) the September 2017 
+report on findings using the Institutional Capacity Assessment System (ICAS) on the 
+National Office of Project Coordination and Administration (DINCAP). The fiduciary 
+agreements applicable in project execution have been prepared as a result of this 
+evaluation. 
+
+II. FIDUCIARY CONTEXT OF THE COUNTRY 
+
+2.1 In general terms, the country systems for financial management have a medium 
+level of development; nevertheless, these systems need to be supplemented for the 
+execution of Bank-financed projects. Specific financial reports are prepared through 
+auxiliary accounting systems. Financial control tools such as the Integrated Financial 
+Administration System (SIAF), the Integrated Accounting Subsystem (SICO), and 
+other subsystems allow the executing agency to manage payment transfers to 
+vendors under acceptable conditions through the Central Bank of Paraguay. The 
+integration of these tools will allow audited financial statements for a program or 
+project to be prepared in the SIAF in the future; in the meantime, parallel systems 
+are used. External control is currently performed through private audit firms. 
+
+2.2 In terms of the country’s Public Sector Procurement System (SCSP), the Bank 
+makes full use of the Public Procurement Information System (SICP), as well as the 
+country subsystems electronic for reverse auction and competitive bidding, for the 
+amounts and categories established in the agreement for the use of these 
+subsystems signed between Paraguay and the Bank on 17 June 2014.  
+
+
+
+Annex III 
+Page 2 of 6 
+ 
+ 
+
+III. FIDUCIARY CONTEXT OF THE EXECUTING AGENCY 
+
+3.1 The executing agency will be the Republic of Paraguay, acting through the Ministry 
+of Agriculture and Livestock (MAG), with the support of the Office of Agricultural 
+Censuses and Statistics (DCEA) and DINCAP. The DCEA, supported by a program 
+execution unit (PEU) reporting directly to the DCEA director, will provide general 
+coordination of program execution, programming, and monitoring, ensuring that the 
+conditions and targets set in the loan contract are met, and serving as principal 
+liaison between the IDB and the borrower during execution. DINCAP will perform 
+administration and finance activities, as well as procurement and contracting, in 
+coordination with the PEU.  
+
+3.2 Considering the MAG’s satisfactory fiduciary performance in the execution of prior 
+operations (loans 1255/OC-PR and 1800/OC-PR), acting through DINCAP, no 
+fiduciary risks are anticipated that could affect meeting the program objectives. 
+Nonetheless, the institutional capacity assessment of the MAG was updated during 
+the preparation phase of the operation in the following areas: planning and 
+organization, capacity to execute the activities programmed and organized 
+(administration of personnel, goods, and services, and financial management), and 
+control. The consolidated result for the MEG capabilities evaluated using the ICAS 
+exhibits a medium level of development, which is associated with medium risk. 
+
+IV. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS 
+
+4.1 Based on the evaluations of the MAG and our experience to date, the opportunities 
+for improvement are concentrated in the strengthening of accounting and internal 
+control. 
+
+4.2 Procurement management. The fiduciary risk is low, so no special mitigation 
+actions are envisaged.  
+
+4.3 Financial management. The internal control unit lacks formal procedures for the 
+monitoring of project-related activities. For that reason, the DCEA will prepare a 
+procedures manual for the PEU that will be approved by MAG authorities. 
+
+V. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE CONTRACT 
+
+5.1 The following agreements and requirements should be included in the special 
+provisions:  
+
+a. A special bank account to be opened for the exclusive use of the program.  
+
+b. The executing agency will deliver the audited annual and final financial 
+statements for the project, with specific terms of reference acceptable to the 
+Bank, within 120 days after the close of each fiscal year of the executing 
+agency during the original disbursement period or its extensions. The final 
+audit report will be delivered within 120 days after the close of the original 
+disbursement period or its extensions. 
+
+
+
+Annex III 
+Page 3 of 6 
+
+ 
+ 
+
+VI. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR  
+PROCUREMENT EXECUTION 
+
+6.1 The applicable procurement policies for this loan are documents GN-2349-9 and 
+GN-2350-9. The Bank’s Board of Executive Directors also approved the use of the 
+electronic reverse auction and competitive bidding subsystems (document 
+GN-2538-11) of the SCSP (Law 2051/03). The use of other country systems 
+accepted subsequent to approval of the project will be implemented automatically, 
+and so stated in the procurement plan. 
+
+6.2 Procurement of works, goods, and nonconsulting services. Contracts for 
+works, goods, and nonconsulting services1 subject to international competitive 
+bidding (ICB) will be executed using the standard bidding documents issued by the 
+Bank. Bidding processes subject to national competitive bidding will be conducted 
+using national bidding documents agreed upon with the Bank. The project sector 
+specialist will be responsible for reviewing the technical specifications of 
+procurements during the preparation of selection processes. No selection processes 
+involving single-source selection are planned initially, with the exception of fuel 
+purchases under the fuel provision agreement between Petróleos Paraguayos 
+(PETROPAR) and the executing agency,2 and other cases where it is justified under 
+policy documents GN-2349-9 and GN-2350-9.  
+
+6.3 Numerous low- and medium skilled operational staff will be hired (approximately 
+5,300 people) to collect information in the field. To do so, an international competitive 
+bidding process will be held to engage a firm with experience in human resources 
+management, or an international agency with such experience will be contracted. 
+The estimated budget to engage this firm is US$335,895, and the estimated 
+personnel expenditure is US$7,028,731. 
+
+6.4 Selection and contracting of consultants. Consulting service contracts generated 
+under the project will be executed using the standard request for proposals issued 
+or agreed upon with the Bank. The project sector specialist will be responsible for 
+reviewing the terms of reference for the contracting consulting services.  
+
+a. Selection of individual consultants. Pursuant to the procurement policies 
+contained in document GN-2350-9. 
+
+b. Training. A procurement workshop will be held. 
+
+c. Use of country system. Pursuant to document GN-2538 of October 2013, the 
+use of the SCSP electronic reverse auction and competitive bidding 
+subsystems in Bank-financed operations will apply:  
+
+(i) To all contracts for goods and nonconsulting services subject to the use 
+of the electronic reverse auction procedure under the SCSP and 
+involving amounts below the Bank’s established threshold for the 
+shopping method for off-the-shelf goods (for reference, US$250,000)..  
+
+(ii) To all contracts for works involving amounts below the Bank’s 
+established threshold for use of the competitive bidding (shopping) 
+
+                                                
+1  Document GN-2349-9, paragraph 1.1: Nonconsulting services are treated as goods. 
+
+2  Based on Article 316 of Decree 176 implementing Articles 128 and 129 of Law 5554/2016. 
+
+
+
+Annex III 
+Page 4 of 6 
+ 
+ 
+
+method for complex works (for reference, US$250,000), and for 
+contracts for goods and nonconsulting services up to the amount 
+established by the Bank for use of the shopping method for complex 
+goods and services (for reference, US$50,000) 
+
+(iii) Contracts for amounts equal to or greater than the aforementioned 
+amounts will be governed by Bank policies (document GN-2349-9). 
+
+6.5 Section 1 of the Bank policies (document GN-2349-9) will continue to be applicable 
+to all executed contracts, regardless of amount or procurement method. Any system 
+or subsystem approved subsequently will be applicable to this operation. The 
+operation’s procurement plan and its updates will indicate what contracts are to be 
+executed through the approved country systems.3 
+
+6.6 Recurring expenditures. An intervention of this nature entails significant travel 
+expenditures and an additional time commitment from employees of the MAG or 
+other government agencies called upon to prepare and implement of the census, as 
+well as process and disseminate the information generated. The estimated 
+expenditure for these tasks is approximately US$1.3 million, broken down as follows: 
+per diems (per MAG regulations) (33%), gas (21%), and additional compensation 
+(45%). This last item must be justified by the Budget Act and in line with expense 
+items 123, 125, and 137, depending on the different cases of employees that take 
+on additional work. 
+
+6.7 Advance procurement/retroactive financing. None for this operation. 
+
+6.8 Domestic preference. None for this operation. 
+
+ 
+Table 1. Thresholds for ICB and International Shortlist (US$) 
+
+Method ICB works 
+ICB goods and 
+nonconsulting 
+
+services 
+
+International shortlist 
+in consulting services 
+
+Threshold 3,000,000 250,000 200,000 
+
+ 
+
+                                                
+3  If the Bank approves another system or subsystem, it will be applicable to the operation, in accordance 
+
+with the loan contract. 
+
+
+
+Annex III 
+Page 5 of 6 
+
+ 
+ 
+
+Table 2. Main Procurements 
+
+Activity Method 
+Estimated 
+
+date 
+Estimated  
+
+amount (US$) 
+
+Goods    
+
+Computer hardware and tablets ICB Year 1 1,382,014 
+
+Procurement of vehicles ICB Year 1 617,500 
+
+Procurement of fuel SSS Year 1 283,353 
+
+Nonconsulting services    
+
+Firm to contract and manage personnel for field work ICB Year 1 335,895 
+
+Consulting firms    
+
+Evaluation of data quality by sampling QCBS Year 2 315,857 
+
+Field operation (7,500 surveys in two waves) QCBS Year 4 758,981 
+
+* Link to procurement plan. 
+
+ 
+Table 3. Amounts by Category 
+
+Categories Total amounts (US$) 
+
+Works 35,588 
+
+Goods 2,578,683 
+
+Nonconsulting services 1,339,537 
+
+Consulting firms 1,280,965 
+
+Individual consultants 1,349,647 
+
+Total, procurement plan 6,584,420 
+
+Note: Does not include the US$7,028,731 corresponding to the operational staff expense for collection of information in 
+the field, described in paragraph 6.3, as it is not a procurement. 
+
+ 
+
+6.9 Procurement supervision. All procurement processes governed by policy 
+documents GN-2349-9 and GN-2350-9 will be subject to ex ante review by the Bank, 
+considering the position of the Ministry of Finance on the matter. Supervision of all 
+procurement processes governed by the SCSP electronic reverse auction and 
+competitive bidding subsystems (document GN- 2538-11) will be conducted through 
+the country’s system.4 
+
+6.10 Special provisions. No special provisions are anticipated, beyond those specified 
+in paragraph 5.1. 
+
+6.11 Records and files. The agreed formats and procedures to be described in the 
+project’s Fiduciary Manual of Functions and Procedures should be used for the 
+preparation and filing of project reports. 
+
+VII. FINANCIAL MANAGEMENT 
+
+7.1 Programming and budget. (a) The PEU, reporting to the DCEA and in coordination 
+with DINCAP, will centralize the coordination of execution, supported by other 
+departments and units of the MAG, as necessary; and (b) the MAG will be 
+responsible for budget programming, administration, and execution, under the zero-
+based budget system. 
+
+                                                
+4  Depending on the scope of use of the system, supervision may be supplemented by project audits. If so, it 
+
+should be mentioned in this Annex. 
+
+https://idbg.sharepoint.com/teams/EZ-PR-LON/PR-L1147/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-345112541-43
+
+
+Annex III 
+Page 6 of 6 
+ 
+ 
+
+7.2 Accounting and information systems. The country uses the modified cash basis 
+of accounting; however, cash basis accounting is used for the accountability process 
+of IDB-financed projects.  
+
+a. Information systems. The PEU will have access to the SIAF through 
+DINCAP. The country systems do not issue the reports necessary for the Bank. 
+These reports are prepared using different systems, which creates additional 
+work for the PEU. 
+
+b. Disbursements and cash flow. Program disbursements will be made through 
+advances of funds, which must be corroborated through the monthly 
+submission of a detailed financial plan for up to six months, and another for a 
+longer period, which can be used to determine the program’s actual demand 
+inferred from the multiyear execution plan, annual work plan, and procurement 
+plan. The second and subsequent disbursements will be subject to the 
+justification of 80% of the previous advance.  
+
+c. Exchange rate. The exchange rate agreed upon with the executing agency for 
+accountability will be decided by the borrower and executing agency during the 
+loan negotiation process. 
+
+d. Internal control and internal audit. The ICAS establishes an improvement 
+plan for internal control. Additionally, the MAG internal audit unit does not 
+include Bank-financed projects in its audit plan.  
+
+e. External control and reports. The executing agency must deliver annual 
+program audit reports prepared by an independent audit firm accepted by the 
+Bank, on terms of reference previously approved by the Bank. The project's 
+financial statements include a cash flow statement, statement of accrued 
+investment income, the notes to these financial statements, and the statement 
+from the project management team. The audit report will include evaluation of 
+the internal control system. The project will require the selection of a Plus-level 
+independent audit firm. External audits will be covered with loan proceeds, 
+estimated at US$260,000 over the planned five years of execution of the loan. 
+
+f. Financial supervision plan. Financial supervision may be adjusted based on 
+project execution and internal audit reports. 
+
+ 
+Table 4. Financial Supervision Plan 
+
+Nature/Scope Frequency 
+
+Ex post review of disbursements 1 per year 
+
+Financial audit and delivery of financial statements Annual 
+
+Review of disbursement requests and attached reports 2/3 per year 
+
+Inspection visit/analysis of internal controls and 
+control environment at the executing agency 
+
+Annual 
+
+ 
+
+7.3 Execution mechanism. As described in Section III.A. of the loan proposal. 
+
+
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+ 
+ 
+ 
+ 
+
+PROPOSED RESOLUTION DE-__/17 
+ 
+ 
+ 
+
+Paraguay. Loan ____/OC-PR to the Republic of Paraguay 
+Project to Implement the Agricultural Survey 
+
+and Census System 
+ 
+ 
+ 
+
+The Board of Executive Directors 
+ 
+RESOLVES: 
+ 
+
+That the President of the Bank, or such representative as he shall designate, is authorized, 
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be necessary 
+with the Republic of Paraguay, as Borrower, for the purpose of granting it a financing to cooperate in 
+the execution of the Project to Implement the Agricultural Survey and Census System. Such 
+financing will be for an amount of up to US$15,000,000 from the Ordinary Capital resources of the 
+Bank, and will be subject to the Financial Terms and Conditions and the Special Contractual 
+Conditions of the Project Summary of the Loan Proposal. 
+ 
+ 
+ 
+
+(Adopted on ___ ____________ 2017) 
+ 
+ 
+ 
+
+LEG/SGO/CSC/EZSHARE-746870777-1994 
+Pipeline: PR-L1147 
+ 
+
+
+

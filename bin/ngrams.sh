@@ -9,24 +9,24 @@
 
 
 # configure
-SUBCORPORA='./subcorpora'
 NGRAMS='./bin/ngrams.py'
 SIZE='./bin/size.py'
 MULTIPLIER=10000
 SCALE=7
 
 # sanity check; get input
-if [[ -z $1 || -z $2 ]]; then
-	echo "Usage: $0 <n> <pattern>" >&2
+if [[ -z $1 || -z $2 || -z $3 ]]; then
+	echo "Usage: $0 <n> <pattern> [corpora|subcorpora]" >&2
 	exit
 fi
 
 # get input
 N=$1
 PATTERN=$2
+DIRECTORY=$3
 
 # process each subcorpus
-find $SUBCORPORA -type f | sort | while read FILE; do
+find $DIRECTORY -type f | sort | while read FILE; do
 
 	# create pretty filename (mostly) and debug
 	BASENAME=$( basename $FILE '.txt' )

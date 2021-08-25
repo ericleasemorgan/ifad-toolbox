@@ -1,3 +1,4 @@
+corpus	smallholder
 author_AfDB-2015	
 author_AfDB-2016	14.6520000
 author_AfDB-2017	1.6490000
@@ -29,7 +30,7 @@ author_IFAD-2021
 author_World-Bank-2015	14.2770000
 author_World-Bank-2016	9.0660000
 author_World-Bank-2017	6.1790000
-author_World-Bank-2018	6.9310000
+author_World-Bank-2018	6.8450000
 author_World-Bank-2019	5.5120000
 author_World-Bank-2020	.7550000
 author_World-Bank-2021	5.1820000
@@ -46,7 +47,7 @@ date_2017-Asia	6.6980000
 date_2017-Latin-America-and-Caribbean	4.3910000
 date_2017-Middle-East	10.4750000
 date_2018-Africa	5.4830000
-date_2018-Asia	5.5440000
+date_2018-Asia	5.3760000
 date_2018-Latin-America-and-Caribbean	0
 date_2018-Middle-East	0
 date_2019-Africa	2.3500000
@@ -70,7 +71,7 @@ region_Asia-AfDB
 region_Asia-AsDB	0
 region_Asia-IDB	
 region_Asia-IFAD	10.7560000
-region_Asia-World-Bank	4.6630000
+region_Asia-World-Bank	4.6100000
 region_Latin-America-and-Caribbean-AfDB	
 region_Latin-America-and-Caribbean-AsDB	
 region_Latin-America-and-Caribbean-IDB	1.3480000

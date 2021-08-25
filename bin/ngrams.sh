@@ -25,6 +25,9 @@ N=$1
 PATTERN=$2
 DIRECTORY=$3
 
+# output a header
+printf "corpus\t$PATTERN\n"
+
 # process each subcorpus
 find $DIRECTORY -type f | sort | while read FILE; do
 

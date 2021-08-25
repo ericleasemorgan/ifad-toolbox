@@ -1,0 +1,5 @@
+1	smallholder	subcorpora	tables/smallholder.tsv
+2	^small\\Wfarm	subcorpora	tables/small-farm.tsv
+2	^small\\Wholder	subcorpora	tables/small-holder.tsv
+2	^small\\Wproduce	subcorpora	tables/small-produce.tsv
+2	^small\\Wscale	subcorpora	tables/small-scale.tsv

@@ -2,7 +2,7 @@
 
 How are different words and phrases used in a given corpus? Such is the sort of question this suite of tools is designed to address.
 
-More specifically, a set of 200 PDF files complete with rudimentary bibliographic metadata was used as input to a system called the Distant Reader. The result is/was a data set -- a set of structured data intended for computation. This distribution augments the data set, queries the result, and outputs simple tables used to illustrate the results.
+More specifically, a set of 200 PDF files complete with rudimentary bibliographic metadata was used as input to a system called the Distant Reader. The result is/was a data set -- a set of structured data intended for computation. The corpus is approximately 1.5 million words long. (By comparison, the novel Moby Dick is .2 million words long.) This distribution augments the data set, queries the result, and outputs simple tables intended to illustrate the results.
 
 
 ## Contents
@@ -23,26 +23,41 @@ This distribution includes the following scripts intended to be used in the foll
 
    7. ./bin/ngrams.sh - given a file, an integer, and a regular expression, output a tab-delimited file listing a file found in the ./subcorpora directory and the relative number of times the regular expression occurs
 
+   8. ./bin/size.py - used internally, compute the size of the whole corpus, sans stop words; used to compute the relative weight of a search result returned in ./bin/search.sh
+   
+   9. ./bin/search.sh - given a set of queries (./etc/queries.tsv), run ./bin/ngrams.sh and output a corresponding set of .tsv files listing relative weights of queries
+   
+  10. ./bin/merge.sh - given the .tsv files found in ./tables, amalgamate all the .tsv files into a single .csv file intended for visualization
+
 
 ## Usage
 
 Using the scripts in this distribution is an iterative process:
 
-   1. Run ./bin/build.sh to ultimately create a set of subcorpora
+   1. Run ./bin/build.sh to ultimately create two different sets of corpora
 
    2. Use both concordance.py and ngrams.py to identify words or phrases of interest.
 
-   3. With the understanding that a word or phrase can be manifested in a number of different forms (plurals, stems, etc.), render the word or phrase as a regular expression. This is by far the most difficult part of the process.
+   3. With the understanding that an idea be manifested in a number of different forms (plurals, stems, etc.), render the word or phrase as a regular expression. This is by far the most difficult part of the process.
 
-   4. Use ngrams.sh to do the necessary counts and tabulations.
+   4. Use ./bin/ngrams.sh to test queries and validate results
 
-   5. Go to Step #2.
+   5. Create ./etc/queries.tsv denoting a set of searches. The file requires 4 columns: 1) an integer denoting the size of an ngram, 2) a regular expression; the thing to search, 3) the directory of the corpora to query; either corpora or subcorpora, and 4) the name of the file to send results
+
+   6. Run ./bin/search.sh to loop through the queries and save .tsv files in ./tables
+   
+   7. Run ./bin/merge.py to create a single .csv file from all the .tsv files in ./tables. The output will be a file named ./table.csv, and you might want to rename this file in order to keep in distinct from others
+   
+   8. Go to Step #5 and change the value of column 3 from "corpora" to "subcorpora" or vice versa
+   
+   9. Go to Step #1; this is never-ending work
 
 
 ## Examples
 
 Here are number of examples:
 
+   * ./bin/build.sh
    * ./bin/concordance.py
    * ./bin/concordance.py ./study-carrel/etc/reader.txt farmer
    * ./bin/concordance.py ./study-carrel/etc/reader.txt "small farmer"
@@ -54,13 +69,23 @@ Here are number of examples:
    * ./bin/ngrams.py ./study-carrel/etc/reader.txt 2 | grep '^small\Wfarm' | sort | uniq -c | sort -rn | less
    * ./bin/ngrams.sh
    * ./bin/ngrams.sh 2 '^small\Wfarm' > ./tables/small-farm.tsv
-   
+   * (create/edit ./etc/queries.tsv)
+   * ./bin/search.sh
+   * ./bin/merge.py
+   * mv table.csv ./tables/corpora.csv
+   * (edit ./etc/queries.tsv)
+   * ./bin/search.sh
+   * ./bin/merge.py
+   * mv table.csv ./tables/subcorpora.csv
+   * (use your spreadsheet program to open the .csv files and visualize the results)
+
+
 ## Summary
 
 This is the beginnings of a suite of tools used to quickly use and understand the content of specifically shaped corpus. I'm sure bugs will be found along the way, and I'm sure there are ways the suite can be improved.
 
 --- 
 Eric Lease Morgan  
-August 13, 2021
+August 30, 2021
 
    

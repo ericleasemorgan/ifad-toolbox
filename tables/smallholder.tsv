@@ -1,84 +1,17 @@
 corpus	smallholder
-author_AfDB-2015	
-author_AfDB-2016	14.6520000
-author_AfDB-2017	1.6490000
-author_AfDB-2018	1.0650000
-author_AfDB-2019	.7060000
-author_AfDB-2020	1.0900000
-author_AfDB-2021	28.9440000
-author_AsDB-2015	0
-author_AsDB-2016	
-author_AsDB-2017	
-author_AsDB-2018	0
-author_AsDB-2019	0
-author_AsDB-2020	0
-author_AsDB-2021	
-author_IDB-2015	0
-author_IDB-2016	0
-author_IDB-2017	6.9770000
-author_IDB-2018	0
-author_IDB-2019	0
-author_IDB-2020	
-author_IDB-2021	
-author_IFAD-2015	8.0740000
-author_IFAD-2016	3.0310000
-author_IFAD-2017	33.3290000
-author_IFAD-2018	11.8560000
-author_IFAD-2019	
-author_IFAD-2020	
-author_IFAD-2021	
-author_World-Bank-2015	15.5300000
-author_World-Bank-2016	9.3490000
-author_World-Bank-2017	6.4250000
-author_World-Bank-2018	7.0180000
-author_World-Bank-2019	5.6630000
-author_World-Bank-2020	.7550000
-author_World-Bank-2021	5.1820000
-date_2015-Africa	12.8700000
-date_2015-Asia	8.9430000
-date_2015-Latin-America-and-Caribbean	1.3660000
-date_2015-Middle-East	9.6080000
-date_2016-Africa	14.3570000
-date_2016-Asia	4.1660000
-date_2016-Latin-America-and-Caribbean	1.3930000
-date_2016-Middle-East	
-date_2017-Africa	4.9760000
-date_2017-Asia	6.8400000
-date_2017-Latin-America-and-Caribbean	4.3910000
-date_2017-Middle-East	12.9390000
-date_2018-Africa	5.6590000
-date_2018-Asia	5.5440000
-date_2018-Latin-America-and-Caribbean	0
-date_2018-Middle-East	0
-date_2019-Africa	2.4780000
-date_2019-Asia	2.2310000
-date_2019-Latin-America-and-Caribbean	2.5630000
-date_2019-Middle-East	15.8980000
-date_2020-Africa	1.3080000
-date_2020-Asia	0
-date_2020-Latin-America-and-Caribbean	0
-date_2020-Middle-East	
-date_2021-Africa	19.0120000
-date_2021-Asia	
-date_2021-Latin-America-and-Caribbean	
-date_2021-Middle-East	2.1150000
-region_Africa-AfDB	2.4040000
-region_Africa-AsDB	
-region_Africa-IDB	
-region_Africa-IFAD	11.9360000
-region_Africa-World-Bank	9.0990000
-region_Asia-AfDB	
-region_Asia-AsDB	0
-region_Asia-IDB	
-region_Asia-IFAD	10.9480000
-region_Asia-World-Bank	4.8220000
-region_Latin-America-and-Caribbean-AfDB	
-region_Latin-America-and-Caribbean-AsDB	
-region_Latin-America-and-Caribbean-IDB	1.3480000
-region_Latin-America-and-Caribbean-IFAD	4.8420000
-region_Latin-America-and-Caribbean-World-Bank	2.4640000
-region_Middle-East-AfDB	
-region_Middle-East-AsDB	
-region_Middle-East-IDB	
-region_Middle-East-IFAD	19.9170000
-region_Middle-East-World-Bank	2.7190000
+author-AfDB	8.6500000
+author-AsDB	0
+author-IDB	1.2700000
+author-IFAD	13.1000000
+author-World-Bank	25.2500000
+date-2015	7.1200000
+date-2016	4.8300000
+date-2017	14.8200000
+date-2018	12.2700000
+date-2019	5.4700000
+date-2020	.5700000
+date-2021	3.1800000
+region-Africa	33.2700000
+region-Asia	9.4100000
+region-Latin-America-and-Caribbean	3.1100000
+region-Middle-East	2.4800000

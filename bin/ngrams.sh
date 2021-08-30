@@ -11,8 +11,9 @@
 # configure
 NGRAMS='./bin/ngrams.py'
 SIZE='./bin/size.py'
-MULTIPLIER=10000
+MULTIPLIER=100000
 SCALE=7
+CORPUS='./study-carrel/etc/reader.txt'
 
 # sanity check; get input
 if [[ -z $1 || -z $2 || -z $3 ]]; then
@@ -24,6 +25,9 @@ fi
 N=$1
 PATTERN=$2
 DIRECTORY=$3
+
+# initialize
+DENOMERATOR=$( $SIZE $CORPUS )
 
 # output a header
 printf "corpus\t$PATTERN\n"
@@ -39,8 +43,7 @@ find $DIRECTORY -type f | sort | while read FILE; do
 	NUMERATOR=$( $NGRAMS $FILE $N | grep -c $PATTERN )
 	echo "          count: $NUMERATOR" >&2
 	
-	# get the size of the (sub)corpus
-	DENOMERATOR=$( $SIZE $FILE )
+	# echo the size of the corpus
 	echo "           size: $DENOMERATOR" >&2
 
 	# calculate the relative number of occurrences

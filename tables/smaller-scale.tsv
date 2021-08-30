@@ -1,8 +1,8 @@
-corpus	^small\Wholder
+corpus	^smaller\Wscale
 author_AfDB-2015	
 author_AfDB-2016	0
-author_AfDB-2017	.3410000
-author_AfDB-2018	.0660000
+author_AfDB-2017	0
+author_AfDB-2018	0
 author_AfDB-2019	0
 author_AfDB-2020	0
 author_AfDB-2021	0
@@ -16,42 +16,42 @@ author_AsDB-2021
 author_IDB-2015	0
 author_IDB-2016	0
 author_IDB-2017	0
-author_IDB-2018	0
+author_IDB-2018	1.3180000
 author_IDB-2019	0
 author_IDB-2020	
 author_IDB-2021	
 author_IFAD-2015	0
-author_IFAD-2016	.4330000
+author_IFAD-2016	0
 author_IFAD-2017	0
 author_IFAD-2018	0
 author_IFAD-2019	
 author_IFAD-2020	
 author_IFAD-2021	
-author_World-Bank-2015	.7510000
-author_World-Bank-2016	.8490000
-author_World-Bank-2017	.2450000
-author_World-Bank-2018	.0860000
-author_World-Bank-2019	.5280000
+author_World-Bank-2015	0
+author_World-Bank-2016	0
+author_World-Bank-2017	0
+author_World-Bank-2018	0
+author_World-Bank-2019	0
 author_World-Bank-2020	0
 author_World-Bank-2021	0
-date_2015-Africa	.6890000
+date_2015-Africa	0
 date_2015-Asia	0
 date_2015-Latin-America-and-Caribbean	0
 date_2015-Middle-East	0
-date_2016-Africa	.4860000
-date_2016-Asia	.3780000
-date_2016-Latin-America-and-Caribbean	.2320000
+date_2016-Africa	0
+date_2016-Asia	0
+date_2016-Latin-America-and-Caribbean	0
 date_2016-Middle-East	
-date_2017-Africa	.3360000
-date_2017-Asia	.2850000
+date_2017-Africa	0
+date_2017-Asia	0
 date_2017-Latin-America-and-Caribbean	0
 date_2017-Middle-East	0
-date_2018-Africa	.0350000
-date_2018-Asia	.1680000
-date_2018-Latin-America-and-Caribbean	0
+date_2018-Africa	0
+date_2018-Asia	0
+date_2018-Latin-America-and-Caribbean	1.1870000
 date_2018-Middle-East	0
-date_2019-Africa	.1700000
-date_2019-Asia	.4460000
+date_2019-Africa	0
+date_2019-Asia	0
 date_2019-Latin-America-and-Caribbean	0
 date_2019-Middle-East	0
 date_2020-Africa	0
@@ -62,20 +62,20 @@ date_2021-Africa	0
 date_2021-Asia	
 date_2021-Latin-America-and-Caribbean	
 date_2021-Middle-East	0
-region_Africa-AfDB	.1230000
+region_Africa-AfDB	0
 region_Africa-AsDB	
 region_Africa-IDB	
 region_Africa-IFAD	0
-region_Africa-World-Bank	.3910000
+region_Africa-World-Bank	0
 region_Asia-AfDB	
 region_Asia-AsDB	0
 region_Asia-IDB	
 region_Asia-IFAD	0
-region_Asia-World-Bank	.3700000
+region_Asia-World-Bank	0
 region_Latin-America-and-Caribbean-AfDB	
 region_Latin-America-and-Caribbean-AsDB	
-region_Latin-America-and-Caribbean-IDB	0
-region_Latin-America-and-Caribbean-IFAD	.4030000
+region_Latin-America-and-Caribbean-IDB	.4040000
+region_Latin-America-and-Caribbean-IFAD	0
 region_Latin-America-and-Caribbean-World-Bank	0
 region_Middle-East-AfDB	
 region_Middle-East-AsDB	

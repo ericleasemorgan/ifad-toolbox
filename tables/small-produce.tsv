@@ -3,7 +3,7 @@ author_AfDB-2015
 author_AfDB-2016	0
 author_AfDB-2017	0
 author_AfDB-2018	.0660000
-author_AfDB-2019	.8990000
+author_AfDB-2019	.9630000
 author_AfDB-2020	.2180000
 author_AfDB-2021	0
 author_AsDB-2015	0
@@ -27,56 +27,56 @@ author_IFAD-2018	.2470000
 author_IFAD-2019	
 author_IFAD-2020	
 author_IFAD-2021	
-author_World-Bank-2015	.2500000
+author_World-Bank-2015	.5000000
 author_World-Bank-2016	0
-author_World-Bank-2017	.4900000
+author_World-Bank-2017	.5880000
 author_World-Bank-2018	.0860000
 author_World-Bank-2019	.4530000
-author_World-Bank-2020	0
+author_World-Bank-2020	.3770000
 author_World-Bank-2021	.4710000
 date_2015-Africa	.2290000
 date_2015-Asia	.2180000
-date_2015-Latin-America-and-Caribbean	2.5380000
+date_2015-Latin-America-and-Caribbean	2.7330000
 date_2015-Middle-East	1.2010000
 date_2016-Africa	0
 date_2016-Asia	0
 date_2016-Latin-America-and-Caribbean	.9290000
 date_2016-Middle-East	
-date_2017-Africa	.0740000
+date_2017-Africa	.1120000
 date_2017-Asia	.2850000
-date_2017-Latin-America-and-Caribbean	.9910000
+date_2017-Latin-America-and-Caribbean	1.1330000
 date_2017-Middle-East	0
 date_2018-Africa	.1060000
 date_2018-Asia	.1680000
 date_2018-Latin-America-and-Caribbean	.3950000
 date_2018-Middle-East	0
-date_2019-Africa	.6830000
+date_2019-Africa	.7260000
 date_2019-Asia	.5950000
 date_2019-Latin-America-and-Caribbean	0
 date_2019-Middle-East	0
 date_2020-Africa	.1450000
-date_2020-Asia	0
-date_2020-Latin-America-and-Caribbean	0
+date_2020-Asia	.2460000
+date_2020-Latin-America-and-Caribbean	1.3860000
 date_2020-Middle-East	
 date_2021-Africa	.3960000
 date_2021-Asia	
 date_2021-Latin-America-and-Caribbean	
 date_2021-Middle-East	0
-region_Africa-AfDB	.2820000
+region_Africa-AfDB	.3000000
 region_Africa-AsDB	
 region_Africa-IDB	
 region_Africa-IFAD	.3310000
-region_Africa-World-Bank	.1630000
+region_Africa-World-Bank	.1950000
 region_Asia-AfDB	
 region_Asia-AsDB	0
 region_Asia-IDB	
 region_Asia-IFAD	.3840000
-region_Asia-World-Bank	.3170000
+region_Asia-World-Bank	.3700000
 region_Latin-America-and-Caribbean-AfDB	
 region_Latin-America-and-Caribbean-AsDB	
 region_Latin-America-and-Caribbean-IDB	1.2130000
 region_Latin-America-and-Caribbean-IFAD	0
-region_Latin-America-and-Caribbean-World-Bank	1.1590000
+region_Latin-America-and-Caribbean-World-Bank	1.5940000
 region_Middle-East-AfDB	
 region_Middle-East-AsDB	
 region_Middle-East-IDB	

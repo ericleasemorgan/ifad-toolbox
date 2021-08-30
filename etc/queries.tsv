@@ -3,4 +3,5 @@
 2	^small\\Wholder	subcorpora	tables/small-holder.tsv
 2	^small\\Wproduce	subcorpora	tables/small-produce.tsv
 2	^small\\Wscale	subcorpora	tables/small-scale.tsv
+2	^smaller\\Wscale	subcorpora	tables/smaller-scale.tsv
 3	^small\\Wand\\Wmedium	subcorpora	tables/small-medium.tsv

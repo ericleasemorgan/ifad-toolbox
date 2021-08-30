@@ -7,7 +7,8 @@
 STOPWORDS = './study-carrel/etc/stopwords.txt'
 
 # require
-from   re  import search
+from   re          import search
+from nltk.tokenize import RegexpTokenizer
 import sys
 import nltk
 
@@ -20,9 +21,12 @@ n    = int( sys.argv[ 2 ] )
 stopwords = open( STOPWORDS ).read().split()
 
 # read, tokenize, and normalize the text
-text   = open( file ).read()
-tokens = nltk.word_tokenize( text, preserve_line=True )
-tokens = [ token.lower() for token in tokens if token.isalpha() ]
+text      = open( file ).read()
+tokenizer = RegexpTokenizer( r'\w+' )
+tokens    = tokenizer.tokenize( text )
+#tokens = nltk.word_tokenize( text, preserve_line=True )
+#tokens = [ token.lower() for token in tokens if token.isalpha() ]
+tokens = [ token.lower() for token in tokens ]
 
 # create the set of ngrams; the magic happens here
 ngrams = list( nltk.ngrams( tokens, n ) )

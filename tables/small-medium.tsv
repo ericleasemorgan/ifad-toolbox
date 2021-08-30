@@ -1,9 +1,9 @@
 corpus	^small\Wand\Wmedium
 author_AfDB-2015	
 author_AfDB-2016	0
-author_AfDB-2017	.6250000
-author_AfDB-2018	.3990000
-author_AfDB-2019	.4490000
+author_AfDB-2017	.6820000
+author_AfDB-2018	.9990000
+author_AfDB-2019	2.8900000
 author_AfDB-2020	0
 author_AfDB-2021	1.4840000
 author_AsDB-2015	0
@@ -13,72 +13,72 @@ author_AsDB-2018	0
 author_AsDB-2019	0
 author_AsDB-2020	0
 author_AsDB-2021	
-author_IDB-2015	0
-author_IDB-2016	0
+author_IDB-2015	.5490000
+author_IDB-2016	6.1600000
 author_IDB-2017	1.3950000
-author_IDB-2018	0
+author_IDB-2018	3.2950000
 author_IDB-2019	0
 author_IDB-2020	
 author_IDB-2021	
-author_IFAD-2015	.3220000
-author_IFAD-2016	0
-author_IFAD-2017	0
-author_IFAD-2018	.3700000
+author_IFAD-2015	.8070000
+author_IFAD-2016	.4330000
+author_IFAD-2017	.6280000
+author_IFAD-2018	.9880000
 author_IFAD-2019	
 author_IFAD-2020	
 author_IFAD-2021	
-author_World-Bank-2015	3.5060000
+author_World-Bank-2015	3.7570000
 author_World-Bank-2016	2.5490000
-author_World-Bank-2017	.7350000
+author_World-Bank-2017	1.2260000
 author_World-Bank-2018	.7790000
-author_World-Bank-2019	1.9630000
-author_World-Bank-2020	.9440000
-author_World-Bank-2021	.4710000
-date_2015-Africa	.6890000
+author_World-Bank-2019	2.2650000
+author_World-Bank-2020	1.1330000
+author_World-Bank-2021	1.8840000
+date_2015-Africa	1.1490000
 date_2015-Asia	1.0900000
-date_2015-Latin-America-and-Caribbean	1.3660000
-date_2015-Middle-East	1.2010000
+date_2015-Latin-America-and-Caribbean	1.9520000
+date_2015-Middle-East	2.4020000
 date_2016-Africa	.7300000
 date_2016-Asia	2.2720000
-date_2016-Latin-America-and-Caribbean	0
+date_2016-Latin-America-and-Caribbean	4.1800000
 date_2016-Middle-East	
-date_2017-Africa	.7100000
-date_2017-Asia	.2850000
-date_2017-Latin-America-and-Caribbean	1.2740000
+date_2017-Africa	.8980000
+date_2017-Asia	.4270000
+date_2017-Latin-America-and-Caribbean	2.1240000
 date_2017-Middle-East	0
-date_2018-Africa	.3530000
-date_2018-Asia	1.1760000
-date_2018-Latin-America-and-Caribbean	0
+date_2018-Africa	.8130000
+date_2018-Asia	1.3440000
+date_2018-Latin-America-and-Caribbean	2.9690000
 date_2018-Middle-East	.8130000
-date_2019-Africa	.5550000
-date_2019-Asia	2.8270000
-date_2019-Latin-America-and-Caribbean	0
+date_2019-Africa	2.2220000
+date_2019-Asia	2.9750000
+date_2019-Latin-America-and-Caribbean	1.0250000
 date_2019-Middle-East	1.9870000
 date_2020-Africa	.4360000
 date_2020-Asia	0
-date_2020-Latin-America-and-Caribbean	2.7720000
+date_2020-Latin-America-and-Caribbean	4.1580000
 date_2020-Middle-East	
-date_2021-Africa	1.1880000
+date_2021-Africa	2.3760000
 date_2021-Asia	
 date_2021-Latin-America-and-Caribbean	
 date_2021-Middle-East	0
-region_Africa-AfDB	.4590000
+region_Africa-AfDB	1.3080000
 region_Africa-AsDB	
 region_Africa-IDB	
-region_Africa-IFAD	0
-region_Africa-World-Bank	.9130000
+region_Africa-IFAD	.6630000
+region_Africa-World-Bank	1.1740000
 region_Asia-AfDB	
 region_Asia-AsDB	0
 region_Asia-IDB	
-region_Asia-IFAD	.7680000
-region_Asia-World-Bank	1.8540000
+region_Asia-IFAD	1.1520000
+region_Asia-World-Bank	1.9070000
 region_Latin-America-and-Caribbean-AfDB	
 region_Latin-America-and-Caribbean-AsDB	
-region_Latin-America-and-Caribbean-IDB	.2690000
-region_Latin-America-and-Caribbean-IFAD	0
-region_Latin-America-and-Caribbean-World-Bank	2.0290000
+region_Latin-America-and-Caribbean-IDB	2.5610000
+region_Latin-America-and-Caribbean-IFAD	.4030000
+region_Latin-America-and-Caribbean-World-Bank	3.4790000
 region_Middle-East-AfDB	
 region_Middle-East-AsDB	
 region_Middle-East-IDB	
-region_Middle-East-IFAD	.6860000
+region_Middle-East-IFAD	1.3730000
 region_Middle-East-World-Bank	.5430000

@@ -1,8 +1,8 @@
 corpus	^small\Wfarm
 author_AfDB-2015	
-author_AfDB-2016	.4070000
+author_AfDB-2016	.8140000
 author_AfDB-2017	.0560000
-author_AfDB-2018	.9320000
+author_AfDB-2018	1.0650000
 author_AfDB-2019	.1920000
 author_AfDB-2020	.2180000
 author_AfDB-2021	0
@@ -11,12 +11,12 @@ author_AsDB-2016
 author_AsDB-2017	
 author_AsDB-2018	0
 author_AsDB-2019	0
-author_AsDB-2020	0
+author_AsDB-2020	.5600000
 author_AsDB-2021	
 author_IDB-2015	.2740000
 author_IDB-2016	.3620000
 author_IDB-2017	2.7900000
-author_IDB-2018	1.7570000
+author_IDB-2018	2.6360000
 author_IDB-2019	0
 author_IDB-2020	
 author_IDB-2021	
@@ -29,56 +29,56 @@ author_IFAD-2020
 author_IFAD-2021	
 author_World-Bank-2015	1.0010000
 author_World-Bank-2016	2.5490000
-author_World-Bank-2017	1.0790000
-author_World-Bank-2018	.0860000
-author_World-Bank-2019	.4530000
+author_World-Bank-2017	1.2260000
+author_World-Bank-2018	.3460000
+author_World-Bank-2019	.6040000
 author_World-Bank-2020	.1880000
 author_World-Bank-2021	.4710000
 date_2015-Africa	.4590000
 date_2015-Asia	.4360000
 date_2015-Latin-America-and-Caribbean	.5850000
 date_2015-Middle-East	2.4020000
-date_2016-Africa	.9730000
+date_2016-Africa	1.2160000
 date_2016-Asia	2.2720000
 date_2016-Latin-America-and-Caribbean	.9290000
 date_2016-Middle-East	
 date_2017-Africa	.2990000
-date_2017-Asia	1.1400000
-date_2017-Latin-America-and-Caribbean	2.1240000
+date_2017-Asia	1.2820000
+date_2017-Latin-America-and-Caribbean	2.4080000
 date_2017-Middle-East	2.4640000
-date_2018-Africa	.4950000
+date_2018-Africa	.6010000
 date_2018-Asia	1.5120000
-date_2018-Latin-America-and-Caribbean	1.5830000
+date_2018-Latin-America-and-Caribbean	2.7710000
 date_2018-Middle-East	0
-date_2019-Africa	.1700000
+date_2019-Africa	.2130000
 date_2019-Asia	.1480000
 date_2019-Latin-America-and-Caribbean	1.0250000
-date_2019-Middle-East	3.9740000
+date_2019-Middle-East	5.9610000
 date_2020-Africa	.2900000
-date_2020-Asia	0
+date_2020-Asia	.2460000
 date_2020-Latin-America-and-Caribbean	0
 date_2020-Middle-East	
 date_2021-Africa	.3960000
 date_2021-Asia	
 date_2021-Latin-America-and-Caribbean	
 date_2021-Middle-East	0
-region_Africa-AfDB	.3530000
+region_Africa-AfDB	.4060000
 region_Africa-AsDB	
 region_Africa-IDB	
 region_Africa-IFAD	0
-region_Africa-World-Bank	.4890000
+region_Africa-World-Bank	.5540000
 region_Asia-AfDB	
-region_Asia-AsDB	0
+region_Asia-AsDB	.1440000
 region_Asia-IDB	
 region_Asia-IFAD	1.9200000
-region_Asia-World-Bank	.8470000
+region_Asia-World-Bank	.9000000
 region_Latin-America-and-Caribbean-AfDB	
 region_Latin-America-and-Caribbean-AsDB	
-region_Latin-America-and-Caribbean-IDB	1.2130000
+region_Latin-America-and-Caribbean-IDB	1.4820000
 region_Latin-America-and-Caribbean-IFAD	1.2100000
-region_Latin-America-and-Caribbean-World-Bank	1.5940000
+region_Latin-America-and-Caribbean-World-Bank	2.1740000
 region_Middle-East-AfDB	
 region_Middle-East-AsDB	
 region_Middle-East-IDB	
 region_Middle-East-IFAD	4.1200000
-region_Middle-East-World-Bank	.5430000
+region_Middle-East-World-Bank	.8150000

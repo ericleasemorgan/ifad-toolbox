@@ -8,6 +8,10 @@
 # August 10, 2021 - first cut
 
 
+# pre-declare; tricky
+declare -A INSTITUTIONS 
+INSTITUTIONS=([IFAD]="./corpora/author-IFAD.txt" [World-Bank]="./corpora/author-World-Bank.txt" [IDB]="./corpora/author-IDB.txt" [AsDB]="./corpora/author-AsDB.txt" [AfDB]="./corpora/author-AfDB.txt")
+
 # configure
 NGRAMS='./bin/ngrams.py'
 SIZE='./bin/size.py'
@@ -26,24 +30,26 @@ N=$1
 PATTERN=$2
 DIRECTORY=$3
 
-# initialize
-DENOMERATOR=$( $SIZE $CORPUS )
-
 # output a header
 printf "corpus\t$PATTERN\n"
 
 # process each subcorpus
 find $DIRECTORY -type f | sort | while read FILE; do
-
+	
 	# create pretty filename (mostly) and debug
 	BASENAME=$( basename $FILE '.txt' )
 	echo "       basename: $BASENAME" >&2
-	
+		
 	# count the number of occurrences
 	NUMERATOR=$( $NGRAMS $FILE $N | grep -c $PATTERN )
 	echo "          count: $NUMERATOR" >&2
 	
+	# get the corpus; tricky
+	for KEY in "${!INSTITUTIONS[@]}"; do if [[ $BASENAME = *${KEY}* ]]; then CORPUS=${INSTITUTIONS[$KEY]}; fi; done	
+	echo "         corpus: $CORPUS" >&2
+
 	# echo the size of the corpus
+	DENOMERATOR=$( $SIZE $CORPUS )
 	echo "           size: $DENOMERATOR" >&2
 
 	# calculate the relative number of occurrences

@@ -4,9 +4,7 @@ WB32	1	2	Jan 05, 2018	DATE
 WB32	1	3	17 Combined Project Information Documents / Integrated Safeguards Datasheet	ORG
 WB32	1	4	PID/ISDS	ORG
 WB32	1	5	22-Jan-2018 | Report	WORK_OF_ART
-WB32	1	6	Jan 05, 2018	DATE
-WB32	1	7	2	CARDINAL
-WB32	1	8	17	CARDINAL
+WB32	1	6	PIDISDSA22919 BASIC INFORMATION	ORG
 WB32	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
 WB32	2	2	Albania	GPE
 WB32	2	3	23-Jan-2018	TIME
@@ -14,10 +12,6 @@ WB32	2	4	Transport & Digital Development Financing Instrument Borrower(s)	ORG
 WB32	2	5	Implementing Agency Investment Project Financing Ministry of Finance and Economy Albania Development Fund	ORG
 WB32	2	6	The Project Development Objective	ORG
 WB32	2	7	USD Million	CARDINAL
-WB32	2	8	The World Bank Regional and Local Roads Connectivity (P163239	ORG
-WB32	2	9	Jan 05, 2018	DATE
-WB32	2	10	3	CARDINAL
-WB32	2	11	17	CARDINAL
 WB32	3	1	Albania	GPE
 WB32	3	2	1990	DATE
 WB32	3	3	2008	DATE
@@ -76,13 +70,9 @@ WB32	23	1	Albania	GPE
 WB32	23	2	about 15,000 km	QUANTITY
 WB32	23	3	4,000 km	QUANTITY
 WB32	23	4	the South East Europe Core Regional Transport Network	LOC
-WB32	23	5	The World Bank Regional and Local Roads Connectivity	ORG
-WB32	23	6	Jan 05,	DATE
-WB32	23	7	4	CARDINAL
-WB32	23	8	17	CARDINAL
-WB32	23	9	11,000 km	QUANTITY
-WB32	23	10	The Ministry of Infrastructure and Energy	ORG
-WB32	23	11	the Ministry of Transport and Infrastructure	ORG
+WB32	23	5	11,000 km	QUANTITY
+WB32	23	6	The Ministry of Infrastructure and Energy	ORG
+WB32	23	7	the Ministry of Transport and Infrastructure	ORG
 WB32	24	1	The Albania Road Authority	ORG
 WB32	24	2	ARA	ORG
 WB32	25	1	The Albania Development Fund	ORG
@@ -105,383 +95,303 @@ WB32	36	3	less than 20 percent	PERCENT
 WB32	37	1	the year	DATE
 WB32	38	1	2016	DATE
 WB32	38	2	approximately 300 Euro per	PERCENT
-WB32	41	1	2	CARDINAL
-WB32	41	2	about 2,500 km	QUANTITY
-WB32	41	3	15,000 km	QUANTITY
-WB32	42	1	3	CARDINAL
-WB32	42	2	EBRD	NORP
-WB32	42	3	TA	ORG
-WB32	42	4	Regional and Local Roads 2016	WORK_OF_ART
-WB32	42	5	The World Bank Regional and Local Roads Connectivity	ORG
-WB32	42	6	Jan 05, 2018	DATE
-WB32	42	7	5	CARDINAL
-WB32	42	8	17	CARDINAL
-WB32	42	9	the past decade	DATE
-WB32	43	1	ADF	ORG
-WB32	43	2	a Rural Road Program	ORG
-WB32	43	3	2008–2016	CARDINAL
-WB32	43	4	World Bank	ORG
-WB32	43	5	US$386 million	MONEY
-WB32	44	1	improved1,200 km	PERSON
-WB32	44	2	12	CARDINAL
-WB32	44	3	61	CARDINAL
-WB32	44	4	over 2 million	CARDINAL
-WB32	45	1	The World Bank’s	ORG
-WB32	45	2	2008 to 2013	DATE
-WB32	47	1	the past few years	DATE
-WB32	47	2	GoA	ORG
-WB32	47	3	the National Territorial Development Strategy	ORG
-WB32	47	4	the Coastal Management Strategy	ORG
-WB32	47	5	Albania	GPE
-WB32	47	6	the next 15 years	DATE
-WB32	47	7	2015–2030	CARDINAL
-WB32	49	1	Integrated Urban	ORG
-WB32	49	2	Tourism Development Project	ORG
-WB32	49	3	the South of Albania	LOC
-WB32	49	4	RLRCP	PERSON
-WB32	49	5	Albania	GPE
-WB32	50	1	October 2014	DATE
-WB32	50	2	GoA	ORG
-WB32	50	3	five-year	DATE
-WB32	50	4	Rural and Agriculture Development	ORG
-WB32	50	5	EU	ORG
-WB32	51	1	One	CARDINAL
-WB32	52	1	Albania	GPE
-WB32	52	2	almost half	CARDINAL
-WB32	53	1	half	CARDINAL
-WB32	53	2	the Western Balkans	LOC
-WB32	53	3	80 percent	PERCENT
-WB32	54	1	Albania	GPE
-WB32	55	1	recent years	DATE
-WB32	55	2	Albania	GPE
-WB32	55	3	EU	ORG
-WB32	55	4	the World Health Organization	ORG
-WB32	55	5	15.1	CARDINAL
-WB32	55	6	100,000	CARDINAL
-WB32	55	7	11.9	CARDINAL
-WB32	55	8	Montenegro	GPE
-WB32	55	9	9.1	CARDINAL
-WB32	55	10	Greece	GPE
-WB32	55	11	7.7	CARDINAL
-WB32	55	12	Serbia	GPE
-WB32	55	13	4.3	CARDINAL
-WB32	55	14	Germany	GPE
-WB32	55	15	5.1	CARDINAL
-WB32	55	16	France	GPE
-WB32	55	17	2.9	CARDINAL
-WB32	55	18	the United Kingdom.6	GPE
-WB32	55	19	GoA	ORG
-WB32	55	20	50 percent	PERCENT
-WB32	55	21	2020	DATE
-WB32	55	22	2009.7	CARDINAL
-WB32	55	23	GoA	ORG
-WB32	55	24	the Road Safety Strategy and Action Plan	FAC
-WB32	55	25	2011	DATE
-WB32	56	1	RRMSP	ORG
-WB32	56	2	the Inter-Ministerial Road Safety Council	ORG
-WB32	56	3	4	CARDINAL
-WB32	56	4	Albanian	NORP
-WB32	56	5	8.4 percent	PERCENT
-WB32	56	6	2016	DATE
-WB32	56	7	10.8 percent	PERCENT
-WB32	56	8	2027	DATE
-WB32	57	1	85,500	CARDINAL
-WB32	57	2	7.7 percent	PERCENT
-WB32	57	3	2016	DATE
-WB32	57	4	120,000	CARDINAL
-WB32	57	5	10.1 percent	PERCENT
-WB32	57	6	2025	DATE
-WB32	58	1	5	CARDINAL
-WB32	58	2	22 percent	PERCENT
-WB32	58	3	2015	DATE
-WB32	58	4	41 percent	PERCENT
-WB32	58	5	2015	DATE
-WB32	60	1	6	CARDINAL
-WB32	60	2	World Health Organization	ORG
-WB32	61	1	2015	DATE
-WB32	61	2	Global Status Report on Road Safety 2015	WORK_OF_ART
-WB32	61	3	7	CARDINAL
-WB32	62	1	125, February 23, 2011	DATE
-WB32	62	2	Implementing Objectives for Improving Road Safety	WORK_OF_ART
-WB32	62	3	By Amendment	LAW
-WB32	62	4	Article 71/	LAW
-WB32	62	5	Road Safety Audit	WORK_OF_ART
-WB32	62	6	the Highway Code	EVENT
-WB32	63	1	815	CARDINAL
-WB32	63	2	November 2011	DATE
-WB32	64	1	The World Bank Regional and Local Roads Connectivity (P163239) Jan	ORG
-WB32	64	2	6	CARDINAL
-WB32	64	3	17	CARDINAL
-WB32	64	4	the Accident Information System	ORG
-WB32	65	1	RLRCP	PERSON
-WB32	66	1	Regional Trade and Transport Facilitation Project	ORG
-WB32	68	1	two	CARDINAL
-WB32	70	1	recent years	DATE
-WB32	71	1	World Bank	ORG
-WB32	71	2	Technical Assistance	ORG
-WB32	71	3	the Global Facility for Disaster Reduction and Recovery (GFDRR	WORK_OF_ART
-WB32	72	1	TA	ORG
-WB32	73	1	recent years	DATE
-WB32	73	2	Albania	GPE
-WB32	74	1	the World Bank	ORG
-WB32	74	2	European Commission	ORG
-WB32	74	3	European Bank for Reconstruction and Development	ORG
-WB32	74	4	European Investment Bank	ORG
-WB32	74	5	EIB	ORG
-WB32	74	6	Kreditanstalt für Wiederaufbau	PERSON
-WB32	74	7	KfW	ORG
-WB32	74	8	GoA	WORK_OF_ART
-WB32	74	9	ARA	ORG
-WB32	75	1	the U.S. Agency for International Development (USAID	ORG
-WB32	75	2	Deutsche Gesellschaft	PERSON
-WB32	75	3	Internationale Zusammenarbeit	GPE
-WB32	75	4	GIZ	ORG
-WB32	75	5	Agence Francaise de Developpement	ORG
-WB32	75	6	the Swiss Agency for Development and Cooperation	ORG
-WB32	76	1	RLRCP	ORG
-WB32	77	1	EBRD	ORG
-WB32	77	2	GoA	ORG
-WB32	77	3	World Bank	ORG
-WB32	77	4	US$50 million	MONEY
-WB32	79	1	less than 5 percent	PERCENT
-WB32	79	2	17 percent	PERCENT
-WB32	81	1	TA	ORG
-WB32	81	2	State	ORG
-WB32	81	3	Peace Building Fund	ORG
-WB32	81	4	SPBF	ORG
-WB32	81	5	the World Bank	ORG
-WB32	82	1	TA	ORG
-WB32	82	2	RLRCP	PERSON
-WB32	83	1	C. Proposed Development	PERSON
-WB32	83	2	PAD	ORG
-WB32	83	3	The Project Development Objective	ORG
-WB32	83	4	The World Bank Regional and Local Roads Connectivity (P163239) Jan 05, 2018 Page	ORG
-WB32	83	5	7	CARDINAL
-WB32	83	6	17	CARDINAL
-WB32	83	7	Municipal Transport Investment and Maintenance Plan	ORG
-WB32	84	1	US$50 million	MONEY
-WB32	85	1	RLRCP	PERSON
-WB32	85	2	Albania	GPE
-WB32	86	1	RLRCP	ORG
-WB32	88	1	RLRCP	PERSON
-WB32	89	1	two	CARDINAL
-WB32	89	2	1,400 km	QUANTITY
-WB32	89	3	ADF	ORG
-WB32	89	4	61	CARDINAL
-WB32	89	5	200 km	QUANTITY
-WB32	90	1	GoA	ORG
-WB32	91	1	GoA	ORG
+WB32	41	1	the past decade	DATE
+WB32	42	1	ADF	ORG
+WB32	42	2	a Rural Road Program	ORG
+WB32	42	3	2008–2016	CARDINAL
+WB32	42	4	World Bank	ORG
+WB32	42	5	US$386 million	MONEY
+WB32	43	1	improved1,200 km	PERSON
+WB32	43	2	12	CARDINAL
+WB32	43	3	61	CARDINAL
+WB32	43	4	over 2 million	CARDINAL
+WB32	44	1	The World Bank’s	ORG
+WB32	44	2	2008 to 2013	DATE
+WB32	46	1	the past few years	DATE
+WB32	46	2	GoA	ORG
+WB32	46	3	the National Territorial Development Strategy	ORG
+WB32	46	4	the Coastal Management Strategy	ORG
+WB32	46	5	Albania	GPE
+WB32	46	6	the next 15 years	DATE
+WB32	46	7	2015–2030	CARDINAL
+WB32	48	1	Integrated Urban	ORG
+WB32	48	2	Tourism Development Project	ORG
+WB32	48	3	the South of Albania	LOC
+WB32	48	4	RLRCP	PERSON
+WB32	48	5	Albania	GPE
+WB32	49	1	October 2014	DATE
+WB32	49	2	GoA	ORG
+WB32	49	3	five-year	DATE
+WB32	49	4	Rural and Agriculture Development	ORG
+WB32	49	5	EU	ORG
+WB32	50	1	One	CARDINAL
+WB32	51	1	Albania	GPE
+WB32	51	2	almost half	CARDINAL
+WB32	52	1	half	CARDINAL
+WB32	52	2	the Western Balkans	LOC
+WB32	52	3	80 percent	PERCENT
+WB32	53	1	Albania	GPE
+WB32	54	1	recent years	DATE
+WB32	54	2	Albania	GPE
+WB32	54	3	EU	ORG
+WB32	54	4	the World Health Organization	ORG
+WB32	54	5	15.1	CARDINAL
+WB32	54	6	100,000	CARDINAL
+WB32	54	7	11.9	CARDINAL
+WB32	54	8	Montenegro	GPE
+WB32	54	9	9.1	CARDINAL
+WB32	54	10	Greece	GPE
+WB32	54	11	7.7	CARDINAL
+WB32	54	12	Serbia	GPE
+WB32	54	13	4.3	CARDINAL
+WB32	54	14	Germany	GPE
+WB32	54	15	5.1	CARDINAL
+WB32	54	16	France	GPE
+WB32	54	17	2.9	CARDINAL
+WB32	54	18	the United Kingdom.6	GPE
+WB32	54	19	GoA	ORG
+WB32	54	20	50 percent	PERCENT
+WB32	54	21	2020	DATE
+WB32	54	22	2009.7	CARDINAL
+WB32	54	23	GoA	ORG
+WB32	54	24	the Road Safety Strategy and Action Plan	FAC
+WB32	54	25	2011	DATE
+WB32	55	1	RRMSP	ORG
+WB32	55	2	the Inter-Ministerial Road Safety Council	ORG
+WB32	55	3	4	CARDINAL
+WB32	55	4	Albanian	NORP
+WB32	55	5	8.4 percent	PERCENT
+WB32	55	6	2016	DATE
+WB32	55	7	10.8 percent	PERCENT
+WB32	55	8	2027	DATE
+WB32	56	1	85,500	CARDINAL
+WB32	56	2	7.7 percent	PERCENT
+WB32	56	3	2016	DATE
+WB32	56	4	120,000	CARDINAL
+WB32	56	5	10.1 percent	PERCENT
+WB32	56	6	2025	DATE
+WB32	57	1	5	CARDINAL
+WB32	57	2	22 percent	PERCENT
+WB32	57	3	2015	DATE
+WB32	57	4	41 percent	PERCENT
+WB32	57	5	2015	DATE
+WB32	59	1	6	CARDINAL
+WB32	59	2	World Health Organization	ORG
+WB32	60	1	2015	DATE
+WB32	60	2	Global Status Report on Road Safety 2015	WORK_OF_ART
+WB32	60	3	7	CARDINAL
+WB32	61	1	125, February 23, 2011	DATE
+WB32	61	2	Implementing Objectives for Improving Road Safety	WORK_OF_ART
+WB32	61	3	By Amendment	LAW
+WB32	61	4	Article 71/	LAW
+WB32	61	5	Road Safety Audit	WORK_OF_ART
+WB32	61	6	the Highway Code	EVENT
+WB32	62	1	815	CARDINAL
+WB32	62	2	November 2011	DATE
+WB32	62	3	the Accident Information System	ORG
+WB32	63	1	RLRCP	PERSON
+WB32	64	1	Regional Trade and Transport Facilitation Project	ORG
+WB32	66	1	two	CARDINAL
+WB32	68	1	recent years	DATE
+WB32	69	1	World Bank	ORG
+WB32	69	2	Technical Assistance	ORG
+WB32	69	3	the Global Facility for Disaster Reduction and Recovery (GFDRR	WORK_OF_ART
+WB32	70	1	TA	ORG
+WB32	71	1	recent years	DATE
+WB32	71	2	Albania	GPE
+WB32	72	1	the World Bank	ORG
+WB32	72	2	European Commission	ORG
+WB32	72	3	European Bank for Reconstruction and Development	ORG
+WB32	72	4	European Investment Bank	ORG
+WB32	72	5	EIB	ORG
+WB32	72	6	Kreditanstalt für Wiederaufbau	PERSON
+WB32	72	7	KfW	ORG
+WB32	72	8	GoA	WORK_OF_ART
+WB32	72	9	ARA	ORG
+WB32	73	1	the U.S. Agency for International Development (USAID	ORG
+WB32	73	2	Deutsche Gesellschaft	PERSON
+WB32	73	3	Internationale Zusammenarbeit	GPE
+WB32	73	4	GIZ	ORG
+WB32	73	5	Agence Francaise de Developpement	ORG
+WB32	73	6	the Swiss Agency for Development and Cooperation	ORG
+WB32	74	1	RLRCP	ORG
+WB32	75	1	EBRD	ORG
+WB32	75	2	GoA	ORG
+WB32	75	3	World Bank	ORG
+WB32	75	4	US$50 million	MONEY
+WB32	77	1	less than 5 percent	PERCENT
+WB32	77	2	17 percent	PERCENT
+WB32	79	1	TA	ORG
+WB32	79	2	State	ORG
+WB32	79	3	Peace Building Fund	ORG
+WB32	79	4	SPBF	ORG
+WB32	79	5	the World Bank	ORG
+WB32	80	1	TA	ORG
+WB32	80	2	RLRCP	PERSON
+WB32	81	1	C. Proposed Development	PERSON
+WB32	81	2	PAD	ORG
+WB32	81	3	The Project Development Objective	ORG
+WB32	81	4	Municipal Transport Investment and Maintenance Plan	ORG
+WB32	82	1	US$50 million	MONEY
+WB32	83	1	RLRCP	PERSON
+WB32	83	2	Albania	GPE
+WB32	84	1	RLRCP	ORG
+WB32	86	1	RLRCP	PERSON
+WB32	87	1	two	CARDINAL
+WB32	87	2	1,400 km	QUANTITY
+WB32	87	3	ADF	ORG
+WB32	87	4	61	CARDINAL
+WB32	87	5	200 km	QUANTITY
+WB32	88	1	GoA	ORG
+WB32	89	1	GoA	ORG
+WB32	90	1	RLRCP	PERSON
+WB32	90	2	TA	ORG
+WB32	91	1	RLRCP	PERSON
 WB32	92	1	RLRCP	PERSON
-WB32	92	2	TA	ORG
-WB32	93	1	RLRCP	PERSON
-WB32	94	1	RLRCP	PERSON
-WB32	95	1	Albania	GPE
-WB32	95	2	Albania	GPE
-WB32	95	3	Albania	GPE
-WB32	95	4	Technical Assistance	WORK_OF_ART
-WB32	95	5	The World Bank Regional and Local Roads Connectivity (P163239	ORG
-WB32	95	6	Jan 05, 2018	DATE
-WB32	95	7	8	CARDINAL
-WB32	95	8	17	CARDINAL
+WB32	93	1	Albania	GPE
+WB32	93	2	Albania	GPE
+WB32	93	3	Albania	GPE
+WB32	93	4	Technical Assistance	WORK_OF_ART
+WB32	94	1	TA	ORG
+WB32	94	2	RLRCP	PERSON
 WB32	96	1	TA	ORG
-WB32	96	2	RLRCP	PERSON
-WB32	98	1	TA	ORG
-WB32	99	1	Promoting Woman’s Employment in Road Sector	ORG
-WB32	99	2	Albania	GPE
-WB32	99	3	TA	ORG
-WB32	104	1	US$47.03 million	MONEY
-WB32	104	2	US$47.03 million	MONEY
-WB32	105	1	Subcomponent 1.1	ORG
-WB32	106	1	US$45.83 million	MONEY
-WB32	107	1	50 km	QUANTITY
-WB32	107	2	5 to 6	CARDINAL
-WB32	108	1	Albanian	NORP
-WB32	109	1	first-year	DATE
-WB32	109	2	three	CARDINAL
-WB32	109	3	three	CARDINAL
-WB32	109	4	40 km	QUANTITY
-WB32	109	5	200 km	QUANTITY
-WB32	113	1	first-year	DATE
-WB32	115	1	US$1.2 million	MONEY
-WB32	120	1	US$0.85 million	MONEY
-WB32	120	2	US$0.85 million	MONEY
-WB32	123	1	Municipal Transport Capacity Development	ORG
-WB32	123	2	US$0.45 million	MONEY
-WB32	124	1	The World Bank Regional and Local Roads Connectivity	ORG
-WB32	124	2	Jan 05, 2018	DATE
-WB32	124	3	9	CARDINAL
-WB32	124	4	17	CARDINAL
-WB32	130	1	US$0.20 million	MONEY
-WB32	131	1	100	CARDINAL
-WB32	134	1	100	CARDINAL
-WB32	136	1	the World Bank	ORG
-WB32	136	2	Albania	GPE
-WB32	136	3	2.3	CARDINAL
-WB32	137	1	US$0.20 million	MONEY
+WB32	97	1	Promoting Woman’s Employment in Road Sector	ORG
+WB32	97	2	Albania	GPE
+WB32	97	3	TA	ORG
+WB32	102	1	US$47.03 million	MONEY
+WB32	102	2	US$47.03 million	MONEY
+WB32	103	1	Subcomponent 1.1	ORG
+WB32	104	1	US$45.83 million	MONEY
+WB32	105	1	50 km	QUANTITY
+WB32	105	2	5 to 6	CARDINAL
+WB32	106	1	Albanian	NORP
+WB32	107	1	first-year	DATE
+WB32	107	2	three	CARDINAL
+WB32	107	3	three	CARDINAL
+WB32	107	4	40 km	QUANTITY
+WB32	107	5	200 km	QUANTITY
+WB32	111	1	first-year	DATE
+WB32	113	1	US$1.2 million	MONEY
+WB32	118	1	US$0.85 million	MONEY
+WB32	118	2	US$0.85 million	MONEY
+WB32	121	1	Municipal Transport Capacity Development	ORG
+WB32	121	2	US$0.45 million	MONEY
+WB32	128	1	US$0.20 million	MONEY
+WB32	129	1	100	CARDINAL
+WB32	132	1	100	CARDINAL
+WB32	134	1	the World Bank	ORG
+WB32	134	2	Albania	GPE
+WB32	134	3	2.3	CARDINAL
+WB32	135	1	US$0.20 million	MONEY
+WB32	136	1	100	CARDINAL
 WB32	138	1	100	CARDINAL
-WB32	140	1	100	CARDINAL
-WB32	144	1	Implementation Management Support	ORG
-WB32	144	2	US$2.0 million	MONEY
-WB32	144	3	US$2.0 million	MONEY
-WB32	144	4	ADF	ORG
-WB32	144	5	Geographic Information System	ORG
-WB32	144	6	GIS	ORG
-WB32	144	7	ADF	ORG
-WB32	146	1	ADF	ORG
-WB32	146	2	Rural Road Program	ORG
-WB32	147	1	9	CARDINAL
-WB32	148	1	CPF	ORG
-WB32	149	1	the World Bank	ORG
-WB32	150	1	The World Bank Regional and Local Roads Connectivity (P163239) Jan	ORG
-WB32	150	2	10	CARDINAL
-WB32	150	3	17	CARDINAL
-WB32	150	4	E. Implementation Institutional and Implementation Arrangements	ORG
-WB32	150	5	four years and seven months	DATE
-WB32	150	6	ADF	ORG
-WB32	150	7	the World Bank	ORG
-WB32	150	8	1993	DATE
-WB32	151	1	Project Management Team	ORG
-WB32	151	2	PMT	ORG
-WB32	151	3	ADF	ORG
-WB32	152	1	PMT	ORG
-WB32	154	1	Component 3	DATE
-WB32	156	1	ADF	ORG
-WB32	159	1	ADF	ORG
-WB32	160	1	ADF	ORG
-WB32	160	2	TOR	ORG
-WB32	161	1	1	CARDINAL
-WB32	167	1	2	CARDINAL
-WB32	168	1	1	CARDINAL
-WB32	172	1	F. Project	ORG
-WB32	173	1	The World Bank Regional and Local Roads Connectivity	ORG
-WB32	173	2	Jan 05,	DATE
-WB32	173	3	11	CARDINAL
-WB32	173	4	17	CARDINAL
-WB32	173	5	50 km	QUANTITY
-WB32	174	1	Three	CARDINAL
-WB32	174	2	the first year	DATE
-WB32	174	3	Shkoder	GPE
-WB32	174	4	Pogradec	GPE
-WB32	174	5	Fier	ORG
-WB32	176	1	G. Environmental	PERSON
-WB32	176	2	Social Safeguards Specialist Natasa Vetma	ORG
-WB32	176	3	Environmental Safeguards Specialist SAFEGUARD	ORG
-WB32	181	1	Environmental and Social Framework	ORG
-WB32	181	2	ESMF	ORG
-WB32	182	1	ESMF	ORG
-WB32	182	2	subsequent years	DATE
+WB32	142	1	Implementation Management Support	ORG
+WB32	142	2	US$2.0 million	MONEY
+WB32	142	3	US$2.0 million	MONEY
+WB32	142	4	ADF	ORG
+WB32	142	5	Geographic Information System	ORG
+WB32	142	6	GIS	ORG
+WB32	142	7	ADF	ORG
+WB32	144	1	ADF	ORG
+WB32	144	2	Rural Road Program	ORG
+WB32	145	1	9	CARDINAL
+WB32	146	1	CPF	ORG
+WB32	147	1	the World Bank	ORG
+WB32	148	1	E. Implementation Institutional and Implementation Arrangements	ORG
+WB32	148	2	four years and seven months	DATE
+WB32	148	3	ADF	ORG
+WB32	148	4	the World Bank	ORG
+WB32	148	5	1993	DATE
+WB32	149	1	Project Management Team	ORG
+WB32	149	2	PMT	ORG
+WB32	149	3	ADF	ORG
+WB32	150	1	PMT	ORG
+WB32	152	1	Component 3	DATE
+WB32	154	1	ADF	ORG
+WB32	157	1	ADF	ORG
+WB32	158	1	ADF	ORG
+WB32	158	2	TOR	ORG
+WB32	159	1	1	CARDINAL
+WB32	165	1	2	CARDINAL
+WB32	166	1	1	CARDINAL
+WB32	170	1	F. Project	ORG
+WB32	171	1	50 km	QUANTITY
+WB32	172	1	Three	CARDINAL
+WB32	172	2	the first year	DATE
+WB32	172	3	Shkoder	GPE
+WB32	172	4	Pogradec	GPE
+WB32	172	5	Fier	ORG
+WB32	174	1	G. Environmental	PERSON
+WB32	174	2	Social Safeguards Specialist Natasa Vetma	ORG
+WB32	174	3	Environmental Safeguards Specialist SAFEGUARD	ORG
+WB32	179	1	Environmental and Social Framework	ORG
+WB32	179	2	ESMF	ORG
+WB32	180	1	ESMF	ORG
+WB32	180	2	subsequent years	DATE
+WB32	181	1	ESMF	ORG
+WB32	181	2	World Bank	ORG
 WB32	183	1	ESMF	ORG
-WB32	183	2	World Bank	ORG
-WB32	185	1	ESMF	ORG
-WB32	186	1	The World Bank Regional and Local Roads Connectivity	ORG
-WB32	186	2	Jan 05,	DATE
-WB32	186	3	12	CARDINAL
-WB32	186	4	17	CARDINAL
-WB32	188	1	OP	PERSON
-WB32	188	2	4.09	MONEY
-WB32	190	1	ESMF	ORG
-WB32	191	1	4.11	CARDINAL
-WB32	194	1	ESIA	NORP
-WB32	194	2	ESMP	ORG
-WB32	194	3	the World Bank	ORG
-WB32	194	4	the Albanian Agency for Protected areas	ORG
-WB32	195	1	Peoples OP/BP	ORG
-WB32	195	2	Involuntary	NORP
-WB32	195	3	OP	PERSON
-WB32	201	1	Resettlement Policy Framework	ORG
-WB32	201	2	RPF	GPE
-WB32	202	1	Resettlement Action Plan	LAW
-WB32	203	1	The World Bank Regional and Local Roads Connectivity (P163239) Jan	ORG
-WB32	203	2	13	CARDINAL
-WB32	203	3	17	CARDINAL
-WB32	203	4	International Waterways OP/BP	ORG
-WB32	203	5	Disputed Areas OP/BP	FAC
-WB32	212	1	one	CARDINAL
-WB32	212	2	two	CARDINAL
-WB32	214	1	ESMF	ORG
-WB32	217	1	ESIA	NORP
-WB32	217	2	ESMP	ORG
-WB32	217	3	WB	ORG
-WB32	217	4	the Albanian Agency for Protected areas	ORG
-WB32	217	5	Environmental Authorities	ORG
-WB32	218	1	TA	ORG
-WB32	219	1	2	CARDINAL
-WB32	220	1	1	CARDINAL
-WB32	223	1	3	CARDINAL
-WB32	228	1	ESMF	ORG
-WB32	228	2	The World Bank Regional and Local Roads Connectivity (P163239	ORG
-WB32	228	3	Jan 05,	DATE
-WB32	228	4	14	CARDINAL
-WB32	228	5	17	CARDINAL
-WB32	228	6	4	CARDINAL
-WB32	231	1	The Albanian Development Fund	ORG
-WB32	231	2	ADF	ORG
+WB32	186	1	OP	PERSON
+WB32	186	2	4.09	MONEY
+WB32	188	1	ESMF	ORG
+WB32	189	1	4.11	CARDINAL
+WB32	192	1	ESIA	NORP
+WB32	192	2	ESMP	ORG
+WB32	192	3	the World Bank	ORG
+WB32	192	4	the Albanian Agency for Protected areas	ORG
+WB32	193	1	Peoples OP/BP	ORG
+WB32	193	2	Involuntary	NORP
+WB32	193	3	OP	PERSON
+WB32	199	1	Resettlement Policy Framework	ORG
+WB32	199	2	RPF	GPE
+WB32	200	1	Resettlement Action Plan	LAW
+WB32	210	1	one	CARDINAL
+WB32	210	2	two	CARDINAL
+WB32	212	1	ESMF	ORG
+WB32	215	1	ESIA	NORP
+WB32	215	2	ESMP	ORG
+WB32	215	3	WB	ORG
+WB32	215	4	the Albanian Agency for Protected areas	ORG
+WB32	215	5	Environmental Authorities	ORG
+WB32	216	1	TA	ORG
+WB32	217	1	2	CARDINAL
+WB32	218	1	1	CARDINAL
+WB32	221	1	3	CARDINAL
+WB32	226	1	ESMF	ORG
+WB32	226	2	4	CARDINAL
+WB32	229	1	The Albanian Development Fund	ORG
+WB32	229	2	ADF	ORG
+WB32	230	1	ADF	ORG
+WB32	230	2	World Bank	ORG
+WB32	231	1	ADF	ORG
 WB32	232	1	ADF	ORG
-WB32	232	2	World Bank	ORG
-WB32	233	1	ADF	ORG
-WB32	234	1	ADF	ORG
-WB32	234	2	an Environmental and Social Management Framework	ORG
-WB32	234	3	Bank	ORG
-WB32	236	1	subsequent years	DATE
-WB32	238	1	ESMF	ORG
-WB32	238	2	Borrower	ORG
-WB32	238	3	Environmental and Social Impact Assessment (ESIA	ORG
-WB32	238	4	Fier-Seman	NORP
-WB32	239	1	RPF	GPE
-WB32	239	2	the Environmental and Social Framework	ORG
-WB32	239	3	the December 22th	DATE
-WB32	239	4	January 4th	DATE
-WB32	240	1	5	CARDINAL
+WB32	232	2	an Environmental and Social Management Framework	ORG
+WB32	232	3	Bank	ORG
+WB32	234	1	subsequent years	DATE
+WB32	236	1	ESMF	ORG
+WB32	236	2	Borrower	ORG
+WB32	236	3	Environmental and Social Impact Assessment (ESIA	ORG
+WB32	236	4	Fier-Seman	NORP
+WB32	237	1	RPF	GPE
+WB32	237	2	the Environmental and Social Framework	ORG
+WB32	237	3	the December 22th	DATE
+WB32	237	4	January 4th	DATE
+WB32	238	1	5	CARDINAL
+WB32	240	1	ADF	ORG
 WB32	242	1	ADF	ORG
+WB32	242	2	December 22, 2017	DATE
+WB32	242	3	two weeks	DATE
+WB32	243	1	ESIA	NORP
+WB32	243	2	ADF	ORG
+WB32	243	3	Fier	ORG
+WB32	243	4	January 5, 2018	DATE
 WB32	244	1	ADF	ORG
-WB32	244	2	December 22, 2017	DATE
-WB32	244	3	two weeks	DATE
-WB32	245	1	ESIA	NORP
-WB32	245	2	ADF	ORG
+WB32	245	1	Tirana	GPE
+WB32	245	2	January 4, 2018r	DATE
 WB32	245	3	Fier	ORG
-WB32	245	4	January 5, 2018	DATE
-WB32	246	1	ADF	ORG
-WB32	247	1	Tirana	GPE
-WB32	247	2	January 4, 2018r	DATE
-WB32	247	3	Fier	ORG
-WB32	247	4	January 15, 2018	DATE
-WB32	248	1	RPF	GPE
-WB32	248	2	the Environmental and Social Framework	ORG
-WB32	248	3	ESMF	ORG
-WB32	249	1	ADF	ORG
-WB32	249	2	at least two weeks	DATE
-WB32	251	1	the Bank Date	ORG
-WB32	251	2	Disclosure The World Bank Regional and Local Roads Connectivity (P163239) Jan 05, 2018 Page 15	WORK_OF_ART
-WB32	251	3	17	CARDINAL
-WB32	251	4	Albania	GPE
-WB32	251	5	22-Dec-2017	DATE
-WB32	251	6	the Bank Date	ORG
-WB32	251	7	22-Dec-2017	MONEY
-WB32	251	8	Disclosure Albania	WORK_OF_ART
-WB32	251	9	22-Dec-2017	DATE
-WB32	251	10	ISDS	ORG
-WB32	251	11	EMP	ORG
-WB32	252	1	the Regional Environment Unit	ORG
-WB32	252	2	EA	PERSON
-WB32	253	1	EMP	ORG
-WB32	254	1	NH_C	PERSON
-WB32	254	2	BLE OP/BP	ORG
-WB32	255	1	Bank	ORG
-WB32	256	1	BP	ORG
-WB32	257	1	Jan 05,	DATE
-WB32	257	2	16	CARDINAL
-WB32	257	3	18	CARDINAL
-WB32	257	4	Regional	ORG
-WB32	258	1	the World Bank	ORG
-WB32	264	1	Xiong Sr Transport	ORG
-WB32	266	1	Borrower/Client/Recipient Ministry of Finance and Economy Erjon Luci	ORG
-WB32	266	2	Jan 05,	DATE
-WB32	266	3	17	CARDINAL
-WB32	266	4	17	CARDINAL
-WB32	266	5	Albania Development Fund	ORG
-WB32	266	6	NW	GPE
-WB32	266	7	Washington	GPE
-WB32	266	8	202	CARDINAL
-WB32	266	9	473-1000	CARDINAL
-WB32	266	10	Jing Xiong	PERSON
-WB32	266	11	Baher El-Hifnawi 22-Jan-2018	PERSON
+WB32	245	4	January 15, 2018	DATE
+WB32	246	1	RPF	GPE
+WB32	246	2	the Environmental and Social Framework	ORG
+WB32	246	3	ESMF	ORG
+WB32	247	1	ADF	ORG
+WB32	247	2	at least two weeks	DATE

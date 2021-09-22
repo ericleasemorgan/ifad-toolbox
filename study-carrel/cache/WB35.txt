@@ -1,0 +1,866 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Lesotho Second Smallholder Agriculture Development Project (SADP) (P165228) 
+
+ 
+ 
+
+  
+Mar 13, 2019 Page 1 of 20  
+
+     
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 10-Apr-2019 | Report No: PIDISDSA26662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Lesotho P165228 Second Phase Smallholder 
+Agriculture Development 
+Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 10-Apr-2019 30-May-2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Ministry of Agriculture 
+and Food Security (MAFS) 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The development objective of the project is to support increased adoption of climate smart agricultural technologies 
+in Lesotho's agriculture, enhanced commercialization and improved dietary diversity among targeted beneficiaries. 
+
+ 
+Components 
+
+Scaling Up Climate Smart-Agricultural Practices and Advisory Services 
+Improving Commercialization and Nutrition 
+Project Management, Coordination and Monitoring and Evaluation 
+Contingency Emergency Response Component 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 57.00 
+
+Total Financing 57.00 
+
+of which IBRD/IDA 50.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 50.00 
+
+
+
+ 
+
+          IDA Credit 50.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 5.00 
+
+          Local Beneficiaries 5.00 
+
+     Trust Funds 2.00 
+
+          Japan Policy and Human Resources Development Fund 2.00 
+
+    
+
+Environmental Assessment Category 
+
+B-Partial Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+ 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+1. The Kingdom of Lesotho is a small, mountainous, landlocked country in Southern Africa with a population of 
+2.2 million. It is an open economy, traditionally centered on trade, with textiles, water, and diamonds as its 
+main exports. Lesotho is a member of the Southern African Customs Union (SACU), the Southern African 
+Development Community, and the Common Monetary Area all of which create strong opportunities for regional 
+trade. As a member of the Common Monetary Area, its currency is pegged to the South African Rand.   
+ 
+
+2. Lesotho is one of the poorest countries in the region, with high levels of poverty and inequality.  An estimated 
+57 percent of the population lives below the national poverty line and 34 percent fall below the extreme poverty 
+line. Income inequality is among the highest in the world. Rural areas, heavily dependent on subsistence and 
+semi-subsistence agriculture, account for 70 percent of the population and 87 percent of all people living below 
+the poverty line (SCD, 2015). A wide (30 percent) poverty gap, high rates of unemployment, wide prevalence of 
+HIV/AIDS, and climate vulnerability further constrain the scope for inclusive growth and improvements in living 
+standards. GDP per capita is estimated at US$1,181 (2017) and when adjusted by Purchasing Power Parity is 
+equivalent to 16 percent of the world's average.    
+  
+
+3. Economic performance declined after 2012 as Lesotho’s growth drivers shifted from exports to high public 
+expenditure and consumption. Real annual GDP growth was at a low 2.5 percent in 2016-2017 down from a 4.5 
+percent average over the previous five years.  The sharp decline in SACU-related revenues over 2016-2017 and 
+increase in public expenditures to 60 percent of GDP, fueled by wage and employment growth in the public 
+sector, have resulted in a widening of the fiscal deficit and a difficult economic outlook for the country.  Output 
+is estimated to have contracted by 1.6 percent in 2017 and is projected to remain subdued in the near term.       
+ 
+
+
+4. Recognizing the inherent unsustainability of this economic model, Lesotho has endorsed a new template for 
+development. The recently completed National Strategic Development Plan (NSDP)-II 2018/19 – 2022/23 seeks 
+to pursue inclusive, sustainable growth and private sector-led employment creation.  The Government of 
+Lesotho (GoL) has identified four productive sectors, viz. agriculture, manufacturing, tourism and creative 
+industries and technology and innovation as potential sectors for job creation and inclusive economic growth 
+under a new growth path led by the private sector.   
+
+ 
+ 
+
+Sectoral and Institutional Context 
+ 
+
+5. Agriculture plays a significant role in Lesotho’s economy.  Over 70 percent of the country’s population lives in 
+rural areas and depends, directly or indirectly, on agriculture for employment and livelihood.  The sector has 
+the highest potential to increase food security, reduce rural poverty, and generate both on- and off-farm 
+employment opportunities.  Main crops include maize, sorghum and wheat which are planted as monocrops on 
+85 percent of the country’s arable land which comprises 10 percent of Lesotho’s total land area.  Livestock 
+contributes 75 percent of total agricultural output, including semi-intensive and intensive production of pigs 
+and poultry, as well as extensive (free range) production of goats and sheep on rangelands in the foothills and 
+highland areas (Johane, 2011). Sheep and goats, which dominate the livestock sector, are reared mainly for wool 
+and mohair.  
+ 
+
+6. Lesotho’s agricultural sector suffers from low levels of productivity and commercialization which has made 
+the country heavily dependent on food imports to meet domestic consumption needs.  Despite 70 percent of 
+the rural population engaged in some form of agricultural activity, the sector contributes less than 10 percent 
+to the national gross domestic product (GDP). Most of the rural population is engaged in subsistence farming: 
+rain-fed, undiversified farming (primarily cereal production) and extensive livestock grazing characterize the 
+sector. Productivity challenges in the sector, include, inter alia, limited size of arable land1, unfavorable farm 
+structures (average land holding of about 1.0 ha per family), outdated farm technologies and farm management 
+practices, limited technical expertise, sub-optimal use of inputs, lack of an adequate irrigation and drainage 
+system, weak rural infrastructure, a rudimentary rural advisory system, and limited access to credit and 
+investment capital. In addition, the country has experienced severe land degradation.  Massive soil erosion and 
+loss of scarce agricultural land have resulted in extremely low agricultural productivity levels: land productivity 
+averaged about USD 70 per hectare per year compared to the regional average of about USD 120 per hectare 
+per year for the period 2008-2013; cereal yields average less than 1,000 kg per hectare, failing to meet the SADC 
+RISDP target of achieving at least 2,000 kg per hectare2. Consequently, marketable surplus remains low.  A 
+nascent private sector further constrains commercialization. Private sector activity in Lesotho is dominated by 
+micro-enterprises, with a marked absence of the small and medium-sized enterprises that drive economic 
+growth and job creation in most countries.3  
+
+                                                           
+1 While the agricultural land area of 2.36 million ha accounts for 78 percent of total land area, only 357,000 ha (12 percent) 
+is suitable for crop production. Most agricultural land is mountain pasture, suited to extensive livestock production – which 
+accounts for 75 percent of the total value of agricultural output. FAOSTAT 
+2 Charles Nhemachena, Greenwell Matchaya and Sibusiso Nhlengethwa.  Agricultural Growth Trends and Outlook in Lesotho. 2016 
+3 A survey of registered business enterprises in 2015 shows that of 9,625 registered business enterprises, 75.6 percent were 
+micro-enterprises (1-4 employees) and 37.5 percent had a turnover of less than one million maloti (approximately 
+$US70,000). Only 15 percent of the enterprises surveyed were small to medium (5-50 employees), and only 4.3 percent had 
+a gross revenue of 1-5 million maloti ($US 70,000-$350,000). This pattern is even more evident in agro-processing and agri-
+business. Five large enterprises dominate the food and beverage sector3, with few medium- or micro-enterprises. 
+
+
+
+
+ 
+7. Climate change poses major challenges to the development of Lesotho’s agricultural sector.  The Inter-
+
+Governmental Panel on Climate Change (IPCC) categorizes Lesotho as one of the countries highly vulnerable to 
+the impacts of climate change.  The country has a temperate climate with subalpine characteristics and 
+experiences regular droughts, floods, frosts, snow, hailstorms, and strong winds. The El Niño-Southern 
+Oscillation (ENSO) phenomenon particularly affects climate variation in Lesotho (MEMWA, 2013)4. High intra-
+seasonal and inter-annual rainfall variability, with frequent droughts, has often resulted in delayed planting or 
+farmers not planting at all, reduced seed germination due to hardened soil and lack of water, crops failures, 
+deterioration of rangelands and pasture, water scarcity for livestock, and increased food prices of staple grains 
+such as maize.5  Chronic droughts have also negatively impacted the livestock sector, resulting in rangeland 
+degradation and limiting the carrying capacity of pastoral land. The drought of 2015-16 growing season was the 
+most severe on record putting over 534,000 people at risk of food insecurity. The current rain-fed crop 
+production system with its focus on maize at the expense of diversification to more drought-tolerant crops 
+(sorghum, millet, cowpeas) increases vulnerability to climatic shocks. The crop production system also makes 
+limited use of climate smart agricultural technologies such as new varieties, conservation agriculture, 
+intercropping, integrated pest management and simple water harvesting technologies, all of which compromise 
+productivity. The erratic and severe weather patterns and land degradation reinforce the need to mainstream 
+climate resilience in Lesotho’s agricultural sector.  
+ 
+
+8. Provision of irrigation is critical for addressing climatic risks in Lesotho’s agriculture; however, the subsector 
+is beset with challenges. Despite the ready availability of water from the mountains, only 2,600 ha of arable 
+land has been developed for irrigation.  Poor management and inadequate maintenance have reduced the area 
+under irrigation, with only an estimated 1,200 ha under irrigation in 2014.  The modernization of national water 
+resource management policies and institutions has been slow and physical infrastructure has deteriorated due 
+to lack of public funds for maintenance. Many pump stations are no longer operational and existing headworks 
+and reservoirs have silted up. On-farm irrigation systems have also deteriorated due to ill-defined property 
+rights over infrastructure and weak local capacity for management. There are few effective community-based 
+irrigation management systems and poor links between the existing institutions and the local public institutions 
+responsible for water management. Combating the effects of climate change and increasing productivity 
+towards food security and commercialization will require sustained efforts to provide adequate, reliable and 
+timely delivery of irrigation to Lesotho’s crop and livestock farmers.    
+ 
+
+9. Development of high value cash crops, such as fruits and vegetables and potatoes as well as dairy and small-
+scale pig and poultry production offer opportunities for moving from uncompetitive maize monocropping 
+production to a more diversified production base responsive to climatic risks.  Lesotho’s higher altitude, 
+potential for early season production and access to cheap water and labor combine to create favorable 
+conditions for the production and export of vegetables, fruit and seed potatoes. Regional demand for fruit and 
+vegetables is increasing as urban populations grow, incomes rise, and the popularity of healthy diets increases. 
+Higher production and sales of these high value crops would also deepen domestic agricultural markets, 
+generate rural employment and improve nutrition. Diversification and commercialization need a much broader 
+base than this however, as current commercial vegetable production currently ranges from 100-600 ha and 
+commercial potatoes are less than 500 ha. Government and donor support for increased production and 
+
+                                                           
+4 World Bank, 2016. “Lesotho Water Security and Climate Change Assessment.” World Bank, Washington, DC. 
+
+5 CIAT; World Bank; 2018, 201Climate-Smart Agriculture in Lesotho. CSA Country Profiles for Africa Series.  
+
+
+
+ 
+commercialization of small-scale dairy, pig and poultry enterprises will also be necessary, in addition to 
+continued support for mohair and fine wool.   
+ 
+
+10. A more diversified production base, with greater emphasis on horticulture and livestock production also 
+offers a means to increase dietary diversity and reduce child malnutrition. Lesotho’s high rates of child 
+malnutrition are attributed to poverty, low dietary diversity and inadequate consumption of fruits and 
+vegetables. Limited dietary diversity affects all children - only 23 percent of children have minimum dietary 
+diversity and 11 percent have a minimum acceptable diet. Fruit and vegetable availability was estimated at 128 
+grams in 2013, compared with the WHO recommended daily intake of 400 grams. Increased horticulture and 
+livestock production would contribute to improved nutrition by (a) increasing the availability of fruits and 
+vegetables as well as protein-rich foods; and (b) improving incomes and so access to a more diverse diet.   
+
+ 
+11. Recognizing the significant role of agriculture in Lesotho’s overall economic growth agenda, the Government 
+
+of Lesotho (GoL) is undertaking critical measures to build a commercial and climate resilient agricultural sector.  
+The National Strategic Development Plan (NSDP) II (2018/19-2022/23), which prioritizes the development of the 
+agricultural sector, identifies three broad areas of strategic action: (i) sustainable commercialization and 
+diversification of agriculture, (ii) a well-functioning agri-food system, and (iii) rehabilitation of range lands and 
+wet lands. Priorities for action within these areas include: (i) improved technology and infrastructure (including 
+irrigation and climate smart agriculture); (ii) increased production of high value crop and livestock products; (iii) 
+the development of institutional frameworks for producer and industry organizations; (iv) building the capacity 
+of farmers to benefit from these institutions; and (v) the development of value chains and agricultural markets. 
+The NSDP II also calls for the need to scale up current nutrition systems towards strengthening human capital 
+and expanding the use of water harvesting for irrigation. Gender and climate change are indicated as critical 
+cross-cutting issues. Several policies and strategies, including Vision 2020, National Climate Change Policy (2017), 
+Lesotho Food and Nutrition Policy (2016) and Lesotho Zero Hunger Strategic Review (LZHSR) accord high priority 
+to scaling up climate-smart practices and actions to promote agricultural adaptation and increased food security, 
+achieving zero hunger by 2030, access to adequate food and healthy diets all year round, ending malnutrition, 
+doubling of smallholder productivity and incomes, and eliminating food loss and waste. The GoL has also initiated 
+reform of the water sector to promote sustainable and productive use of Lesotho’s water resources.  
+ 
+
+12. The Bank has provided substantial support to the development of Lesotho’s agriculture sector over the past 
+decade. Through the ongoing Smallholder Agricultural Development Project (SADP) as well as Private Sector 
+Competitiveness and Economic Diversification Project (PSCED) the Bank has provided financial and technical 
+assistance  to improve commercialization and competitiveness in Lesotho’s agricultural sector. SADP is providing 
+training and competitive grants to smallholder farmers for improving marketable surplus in several value chains, 
+including horticulture (fruit and vegetable production), poultry, piggery and dairy.  The project is also supporting 
+the development of an irrigation master plan to assist the government in its efforts of defining strategic priorities 
+for improving the irrigation subsector in terms of alignment with agriculture growth potential, improving 
+resource utilization, water delivery service, and institutional and financial sustainability and identify a pipeline of 
+high priority irrigation investments for support from donors, government, private sector and other non-state 
+actors. The PSCED is assisting in building an  enabling business environment, leveraging private investment 
+support, providing access to finance to increase productivity and increasing market opportunities in Lesotho’s 
+horticulture subsector.  The Bank has also supported the preparation of the Lesotho Climate Smart Agricultural 
+Profile which provides an overview of the agricultural challenges in Lesotho and recommends country-specific 
+climate smart agricultural practices that can help the country adapt to and mitigate climate change.  
+ 
+
+
+13. The proposed Lesotho Climate Smart Agriculture Project (LCSAP) is being prepared at the request of the 
+Government of Lesotho to contribute to its efforts in developing a climate smart agricultural sector.  The 
+proposed project, an IDA credit in the amount of US$50 million and a Japanese Policy and Human Resources 
+Development (PHRD) grant of US$2.0 million aims to harness the triple wins of CSA in Lesotho’s agri-food sector, 
+i.e., improved productivity, increased adaptive capacity to climate risks and reduced greenhouse gas emissions.  
+Through the provision of technical assistance and investment support, the proposed project would introduce and 
+scale up best practices in CSA and sustainable land management thereby mainstreaming climate and 
+environmental considerations into agriculture as well incentivize a shift from uncompetitive maize monocropping 
+to high potential value chains, all of which are expected to result in positive outcomes of enhanced climate 
+resilience, increased commercialization, food security, job creation, improved rural livelihoods and improved 
+nutritional outcomes.  
+
+ 
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD)  
+The development objective of the project is to support increased adoption of climate smart agricultural technologies in 
+Lesotho's agriculture, enhanced commercialization and improved dietary diversity among targeted beneficiaries. 
+ 
+ 
+
+Key Results 
+
+• Land area brought under climate-smart agriculture and sustainable landscape management  
+
+• Household Commercialization levels (value of produce sold as a % of value of produce 
+
+• Farmers adopting improved agricultural practices 
+
+• Households with increased dietary diversity (disaggregated by women and children) 
+ 
+ 
+D. Project Description  
+
+ 
+ 
+
+25. The project will build on the achievements and lessons learned under SADP as well as the Lesotho Climate 
+Smart Investment Plan (CSIP).  Through a robust, multi-stakeholder process, the CSIP has developed a normative 
+vision and CSA goals for Lesotho’s agriculture sector and pathways for achieving the vision and goals. It has 
+prioritized key policy actions and investments towards building a productive, climate-resilient and low-
+emissions agriculture sector in Lesotho.  The CSA goals, developed under the three pillars of CSA, call for, inter 
+alia, increasing yields of major crops, reducing losses across agricultural value chains, including post-harvest 
+losses, increasing arable land under stress-tolerant crops, conservation agriculture, and agroforestry as well as 
+reduced livestock emissions.  Strategies for achieving these goals include measures reflected in project design, 
+i.e. climate resilience and nutrition security (such as agricultural diversification, CSA practices at the farm level, 
+stress tolerant crops); commercialization (agricultural value chain, market infrastructure development) and 
+capacity development (knowledge development, integrate weather and market advisories using ICT).     
+ 
+26. The following four components are envisaged under the project: (i) Promoting Climate-Resilient 
+Agriculture; (ii) Improving Agricultural Commercialization and Nutrition; (iii) Project Management, Coordination 
+and Monitroing and Evaluation; and (iv) Contingency Emergency Response.  
+
+
+Component 1: Scaling Up Climate-Smart Agricultural Practices and Advisory Services (Total Cost: US$20.0 
+million) 
+
+27. This component aims at strengthening the adaptive capacity of smallholder farmers to adjust and modify 
+their production systems to minimize the potential future impacts from climate variability. The overall goal is to 
+enhance climate resilience through solutions that improve soil health, increase water use efficiency, and 
+increase farm productivity and crop diversification. The component focuses on: (i) capacity building for scaling‐
+up the adoption of climate‐smart agriculture technologies by farmers and enhancing farm management 
+practices aimed at improving soil health, water‐use efficiency, crop diversification, and farm productivity; (ii) 
+promoting a more efficient use of surface water accompanied with a more sustainable use of groundwater, 
+leading to improved availability and quality of water at the farm level; and (iii) improving access to climate and 
+market advisory services through ICT, thereby strengthening farmers’ adaptation and resilience.   
+ 
+Component 2: Improving Agricultural Commecialization and Nutrition (US$30.0 million of which IDA 
+
+US$23.0 million; PHRD Grant US$2.0 million; Beneficiary Contribution US$5.0 million) 
+
+ 
+28. The objective of this component is to support the development of high potential value chains (VCs) in 
+Lesotho’s agricultural sector by strengthening backward and forward linkages within selected VCs with overall 
+aim of promoting diversification from uncompetitive maize monocropping to high value cash crops and 
+sustainable livestock production animal husbandry, improving productivity, quality, value addition and market 
+linkages towards increased agricultural commercialization and improved nutrition.   
+ 
+29. Component interventions will foster the integration of a greater number of smallholder producers that 
+dominate Lesotho’s rural landscape in potentially remunerative VCs, promote sustainable intensification of 
+production through adoption of  CSA and environmentally friendly agricultural technologies supported under 
+Component 1, incentivize contract farming, strengthen horizontal alliances and encourage farmers to establish 
+producer groups, strengthen vertical alliances by building trusted commercial partnerships between farmers 
+and private agri-businesses and drive enterprise operations towards more lucrative domestic and export 
+markets.  Activities under the component are expected to result in the positive outcomes of job creation, 
+improved beneficiary incomes, better nutritional outcomes and increased economic opportunities for women 
+and youth in the rural sector.   
+ 
+30. The component will finance services to support the formation of new as well as strengthen the existing 
+(e.g., those established under SADP-1) farmer groups in Lesotho’s agriculture sector.  Special attention will be 
+accorded to the need and interests of women and youth6.  Where feasible, the formation and strengthening of 
+horizontal alliances will draw on the Smallholder Horticulture Empowerment Project (SHEP7) approach 
+developed by the Japan International Cooperation Agency (JICA).  This approach shifts smallholder thinking from 
+subsistence farming to farming as a business by training farmers to conduct their own market surveys to identify 
+local crops with potential for commercialization; training them to grow these crops profitably; organizing 
+stakeholder forums to exchange information with other like-minded farmers, input suppliers and potential 
+buyers; and by helping them to build good relations with these market agents.  
+
+
+31. Two matching grant programs are envisaged under the component: grants up to US$30,000 for 
+smallholder farmers for increased productivity and grants ranging from US$30,000 to US$100,000 to agri-
+enterprises for post-harvest infrastructure and management.  All grants will require an equity contribution: 25 
+percent for the smaller grants and 40 percent for the larger grants.  The procedures and selection criteria used 
+for both matching grant programs will be detailed in a Grant Manual which will be prepared in a manner 
+satisfactory to the Bank. The Grant Manual will specify implementation arrangements of the Matching Grant 
+Programs and include appropriate technical, fiduciary, environmental and social safeguards provisions to ensure 
+that the grant funds will be used for intended purposes only. It will also include the Bank’s Anti-Corruption 
+Guidelines and consequences should the agreed commitments not be met. Any changes to the Grant Manual 
+during project implementation will require prior Bank approval. The PMU will be responsible for administering 
+the Grant Scheme. 
+ 
+32. Towards improved nutrition, the project will support a broad advocacy campaign to increase the 
+knowledge among the people of Lesotho of the benefits of dietary diversity. In addition to media campaigns, 
+the project will finance the development of industry guidelines for sugar, salt, and fat content, nutrition 
+fortification in food products, and labelling through stakeholder consultations. This work will be coordinated by 
+the Food and Nutrition Coordination Office (FNCO) in collaboration with CGIAR and other partners. Activities to 
+enhance knowledge on diets and nutrition will include nutrition education and demonstrations on production, 
+processing, cooking demonstrations, food safety and storage.  The project will also provide grants to individuals 
+for increasing household-level production and consumption of safe and nutritious foods. This activity will target 
+women to increase their capacity to feed their families a diversified diet through the consumption of inter alia, 
+a variety of fruits and vegetables as well as protein-rich food such as eggs and meat. Grants will be provided for 
+cultivation of horticulture products as well as purchase and rearing of small livestock and ruminants.  Grants will 
+also be provided for small-scale processing which will generate income opportunities for grant recipients.  Under 
+this window, small grants in the size of USD 2,000-20,000 (up to 80 percent of total investment cost) will be 
+available for production of nutritious foods and small-scale, nutrition-sensitive processing (e.g. purchase of 
+small equipment such as dryers, canning). Women and youth will be given priority under this program.  
+ 
+COMPONENT 3: Project Management, Coordination, Monitoring and Evaluation (US$7.0 million) 
+ 
+33. This component will support project management, coordination, monitoring and evaluation (M&E) of 
+project activities.  The existing Project Management Unit (PMU) within the Ministry of Agriculture and Food 
+Security will be responsible for project implementation including fiduciary aspects (including audits); knowledge 
+management/communication (including public awareness campaigns); grievance redress mechanism; citizen 
+engagement; and monitoring the implementation of safeguard related measures. It will finance PMU staff 
+related costs (training etc.), goods, equipment and vehicles, incremental operating costs, 
+assessments/analyses/studies for preparation of future projects/operations, and other eligible expenses 
+associated with overall project implementation. Support will also be provided for social/results/impact surveys 
+at project mid-term as well as project completion. Additional periodic surveys will be supported to improve 
+project implementation, for example to assess and improve women and youth participation. The monitoring 
+and evaluation (M&E) system will be strengthened to improve the efficiency of data collection, analysis, 
+evaluation and reporting.  The capacity of the PMU will be enhanced by hiring additional technical and 
+administrative staff as needed,  
+
+ 
+COMPONENT 4: Contingency Emergency Response Component (US$0.0 MILLION) 
+
+
+ 
+34. A Contingency Emergency Response Component (CERC) with zero allocation to partially cover emergency 
+response via implementation of key activities by the appropriate agencies to respond to the emergency. The 
+CERC could also be used to channel additional funds should they become available as a result of an eligible 
+emergency. 
+ 
+
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements 
+
+ 
+35. Project oversight. The project will be implemented under the direct oversight of Principal Secretary 
+MAFS. A Project Management Committee (PMC) that was established under SADP will be maintained given the 
+multi-sectoral nature of project interventions. The PMC will include representatives from several ministries 
+such as Ministry of Finance (MoF), Ministry of Development Planning (MoDP), Ministry of Agriculture and Food 
+Security (MAFS), Ministry of Forestry and Land Reclamation (MFLR), Ministry of Trade & Industry, Cooperatives 
+and Marketing (MTICM), Ministry of Environment and Tourism (MoET), Ministry of Local Government and 
+Chieftainship (MLGC). The PMC, which is an extension of the Technical Working Group formed during project 
+preparation of the ongoing SADP will review all project reports and Annual Work Plans and Budgets (AWPB). 
+The PMC will meet quarterly with the Project Manager acting as the Secretary to the PMC. 
+
+ 
+36. Project Implementation. The existing Project Management Unit (PMU) within the Ministry of 
+Agriculture and Food Security (MAFS)will be responsible for project implementation including fiduciary aspects 
+(including audits); knowledge management/communication (including public awareness campaigns); 
+grievance redress mechanism; citizen engagement; and monitoring the implementation of safeguard related 
+measures. It will finance PMU staff related costs (training etc.), goods, equipment and vehicles, incremental 
+operating costs, assessments / analyses / studies for preparation of future projects/operations, and other 
+eligible expenses associated with overall project implementation. Support will also be provided for 
+social/results/impact surveys at project mid-term as well as project completion. Additional periodic surveys 
+will be supported to improve project implementation, for example to assess and improve women and youth 
+participation. The monitoring and evaluation (M&E) system will be strengthened to improve the efficiency of 
+data collection, analysis, evaluation and reporting. 
+
+ 
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The Project will be undertaken in all the ten districts of Lesotho–Teyateyaneg, Butha-Buthe, Leribe, 
+Mafeteng, Maseru, Mohale’s Hoek, Mokhotlong, Qacha’s Nek, Quthing and Thaba-Tseka. Lesotho is 
+predominantly mountainous, with the highlands and mountain zones covering approximately 59 percent of 
+the total land area. This land is mostly characterized by steep slopes with fragile soil formations which are 
+extensively degraded. The highlands cover approximately 15 percent of the country, while the lowlands and 
+Senqu (Orange) River Valley make up approximately 17 percent and 9 percent of the country, respectively. 
+The cultivable land is largely confined to the lowlands and highlands along the Western border and the 
+
+
+Senqu River valley in the south, the latter being densely populated and resulting in much pressure on 
+natural resources. Land degradation in various forms is a dominant landscape feature in the country, and 
+inherent infertile soils affect the productivity of both arable and rangelands. Lesotho is highly susceptible to 
+climate-related events such as frost, drought, strong winds, snow, hailstorms and floods, all of which have a 
+devastating effect on agricultural productivity, including crop failure and increased incidences of invasive 
+plants and infestation by pests. Specific geographical locations for the proposed sub-projects have not been 
+identified yet but will be selected on a demand-driven basis during the implementation of the Project. Site-
+specific environmental and social assessments will be carried out during implementation and biophysical 
+characteristics comprehensively described. The designs of the sub-projects will also incorporate climate 
+resilience engineering measures and take into consideration the various environmental conditions which 
+could exacerbate impacts on the natural resource base. 
+
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The environmental risks of the Project are moderate 
+given the potential adverse but manageable impacts 
+likely to be generated from the construction and 
+operation of small-scale irrigation and drainage 
+schemes. The project will finance minor 
+rehabilitation works, the purchase and installation of 
+on-farm pipeline systems and irrigation auxiliaries, 
+irrigation canal and head work repair, provision of 
+pressure pipes and network repairs. The project will 
+also finance the rehabilitation of existing pump 
+stations and construction of water harvesting and 
+distribution reservoirs and where feasible also 
+establishment and repair of existing vertical wells 
+(boreholes). The total command area (hectares) for 
+rehabilitation of the on-farm irrigation infrastructure 
+is not known, but will be determined from the 
+recommendations of the Irrigation Master Plan 
+
+
+
+ 
+
+currently being developed with full participation of 
+key stakeholders, including smallholder farmers who 
+will directly benefit from the Project. Key 
+environmental impacts associated with the 
+construction and operation of irrigation schemes 
+include (a) changes to the low flow regime of rivers 
+which may have significant negative impacts on 
+downstream users, (b) changing hydrological regime 
+associated with irrigation schemes may alter the 
+capacity of the environment to assimilate water 
+soluble pollutants, (c) excessive use of both natural 
+and chemical fertilizers may result in excess of 
+nutrients which might have impacts on water bodies 
+and human health, (d) areas with water tables that 
+have a low hydraulic gradient are at risk from 
+salinization, (e) reduction in low flows and flood 
+flows may alter the river morphology, reducing the 
+capacity to transport sediment and thereby causing 
+a buildup of sediments in slower moving river 
+reaches, (f) irrigation schemes may fail if the 
+sediment load of water supply is higher than the 
+capacity of the irrigation canals to transport 
+sediment loads, (g) irrigation schemes may have 
+ecological impacts, particularly in wetland areas 
+affecting natural habitats. 
+ 
+The Resettlement Policy Framework has been 
+prepared to  guide the PMU in avoidance, 
+minimization and mitigation of any potential 
+resettlement impacts associated to rehabilitation of 
+irrigation infrastructure and activities related to 
+commercialization of agricultural that will require 
+land acquisition or restricted access to land and land 
+use.The Resettlement Policy Framework has been 
+prepared to guide the preparation of Resettlement 
+Action Plans 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 Yes 
+
+The policy is triggered. Reduction in natural river 
+flow and discharge of polluted return flows from 
+irrigation schemes, have potential impacts to 
+habitats both within and alongside rivers. Significant 
+changes to low flows (+/-20%) will alter micro-
+habitats particularly wetlands. 
+
+
+Forests OP/BP 4.36 No 
+The Project will not support sub-projects located 
+within forested areas or plantations as defined 
+under OP 4.36. Therefore, the policy is not triggered. 
+
+Pest Management OP 4.09 Yes 
+
+The Pest Management Policy is triggered as agro-
+chemicals will be used for irrigation subprojects. 
+Based on observations from the ongoing Smallholder 
+Agriculture Development Project, the risk of 
+pesticide use is considered low to moderate due to 
+the small quantities of pesticides currently being 
+used in the sub-projects. An Integrated Pest 
+Management Plan (IPMP) will be prepared to 
+provide guidance on the sustainable application of 
+fertilizers and pesticides taking into consideration 
+the soil type and slope to ensure protection of both 
+surface and ground water. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The policy is triggered given the likelihood of chance 
+finds in conjunction with earth works and/or an 
+encounter of graveyard sites from the experience 
+implementing infrastructure projects in Lesotho.The 
+ESMF will include Physical Cultural Resources 
+Management Plan (PCRMP) that includes measures 
+for avoiding and mitigating any adverse impacts on 
+physical cultural resources as well as providing 
+Chance Find Procedures (CFP).  The CFP will entail 
+measures to screen for and manage potential 
+impacts on cultural heritage or property that could 
+be affected by project activities. 
+
+Indigenous Peoples OP/BP 4.10 No 
+The policy will not be triggered as there are no 
+indigenous peoples in Lesotho. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+OP 4.12 will be triggered. The project will likely 
+expand the irrigation service area; however, this will 
+only be confirmed once the Irrigation Master Plan 
+has been prepared and investments to be supported 
+under SADP-2 are identified for support during 
+project implementation. At this stage while it is 
+unknown whether there will be any land acquisitions 
+as a direct result of the project, there might be 
+restricted access to resources (whether related to 
+private or communal resources) related to 
+rehabilitation of irrigation infrastructure and 
+therefore Involuntary Resettlement OP 4.12 is 
+triggered to address any adverse impacts.  Since the 
+exact location of these structures is not known, a 
+Resettlement Policy Framework will be prepared, 
+consulted and disclosed prior to appraisal. The 
+
+
+
+ 
+
+Resettlement Policy Framework will guide the 
+preparation of Resettlement Action Plans. The 
+Resettlement Policy Framework will guide the PMU 
+in avoidance, minimization and mitigation of any 
+potential resettlement impact. 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+This policy has been triggered as a precautionary 
+measure. At this stage, Tthere is insufficient 
+information to determine whether irrigation 
+schemes and drainage canals would rely on water 
+from existing dams or new small dams would need 
+to be supported under the project. An exclusion 
+clause will be included in the ESMF indicating that 
+the project would not support activities that are high 
+risk and trigger a full environmental assessment. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+Exception notification to be sent to riparian states 
+will be requested since the proposed small-scale 
+irrigation schemes will not adversely change the 
+quantity and quality of water flows to other riparian 
+states.  In addition, the proposed schemes will not 
+be adversely affected by the use of water 
+downstream by the other riparian states. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+
+The project will not finance activities located in any 
+known areas under territorial dispute as defined in 
+OP 7.60. Therefore, the 
+policy is not triggered. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+Potential environmental impacts are anticipated under Component 1: Support for Irrigation and Component 2: 
+Agricultural Commercialization. The provision of grants may result in agricultural intensification and increased 
+application of fertilizers and pesticides by grant recipients.  The grants will be awarded based on screening criteria set 
+forth in the ESMF/ IPMP currently under preparation. The screening criteria as set forth in the ESMF will help to  
+screen out project activities corresponding to a category A, and to provide adequate due diligence on a case-by-case 
+basis for the grants. The approach outlined in the ESMF/IPMP will apply to the matching grants, irrigation 
+rehabilitation and any activity that would be proposed to be financed within the project or the subsequent AFs.  
+The environmental impacts associated with the grants program and irrigation rehab should be readily mitigated 
+through sound construction practices (dust and noise, waste management, material sourcing) while the operational 
+impacts can be mitigated through environmentally friendly farming approaches (manure management, waste 
+disposal, emissions from food processing facilities, improved water resource use). 
+Under Component 1rehabilitation of the irrigation schemes is foreseen to lead to better management of water 
+
+
+
+resources. This activity will potentially entail minor construction related impacts that can be mitigated through a site-
+specific ESMP.  The overall project would lead to an increase in agricultural practices therefore having implications on 
+pest management, which should apply and follow the Integrated Pest Management Plan as prepared under the ESMF.   
+ 
+The potential social issues are likely to be on restriction to land use and access and possible land acquisition for the 
+rehabilitation of irrigation infrastructure and agricultural commercialization activities. The project will likely expand 
+the irrigation service area; however, this will only be confirmed once the Irrigation Master Plan has been prepared and 
+investments to be supported under SADP-2 are identified for support during project implementation. At this stage 
+while it is unknown whether there will be any land acquisitions as a direct result of the project, there might be 
+restricted access to resources (whether related to private or communal resources) related to rehabilitation of 
+irrigation infrastructure and activities under commercialization of agriculture, as a result Involuntary Resettlement OP 
+4.12 is triggered to address any adverse impacts.  Since the exact scope of works for rehabilitation of irrigation 
+infrastructure and commercialization of agriculture activities is not known, a Resettlement Policy Framework has been 
+prepared for the project. The Resettlement Policy Framework will guide the preparation of place specific Resettlement 
+Action Plans. The Resettlement Policy Framework will guide the PMU in avoidance, minimization and mitigation of any 
+potential resettlement impact. 
+ 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+There are no long term or indirect impacts associated with the project, beyond the potential increase in agricultural 
+production and therefore implications on pest management, where the  Integrated Pest Management Plan as 
+prepared under the ESMF should apply. 
+ 
+There are no long term adverse social impacts anticipated for the project, however, the project is expected to have 
+significant positive effects on households, by improving dietary diversity in households, increasing climate resilience of 
+farmers and promote adoption of climate smart agricultural technologies for enhanced agricultural commercialization. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+NA 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The Government of Lesotho has prepared an ESMF/IPMP and RFP.    
+The project will be implemented by the Project Management Unit (PMU) under the MAFS that is currently 
+implementing SADP.   The PMU has demonstrated limited capacity in assessing environmental and social (E&S) risks 
+and impacts, developing appropriate mitigation measures and implementing and monitoring E&S aspects of the 
+project. Currently, it does not have full-time and qualified E&S safeguards specialists to oversee the monitoring and 
+implementation of safeguards. Before LCSAP appraisal, the PMU has prepared a comprehensive Environmental and 
+Social Management Framework (ESMF) and Resettlement Policy Framework (RPF) and carried out stakeholder 
+consultations in line with both the Lesotho Environmental Impact Assessment (EIA) law and regulations and the World 
+Bank Safeguard Policies. The ESMF and RPF will provide clear procedures and methodologies for carrying out site-
+specific E&S assessments, review, approval and implementations of physical investments (sub-projects) to be financed 
+by LCSAP.  During implementation, the PMU will be responsible for carrying out site-specific E&S impacts assessment 
+for each sub-project including the associated Environmental and Social Management Plans (ESMPs) and Resettlement 
+Action Plans (RAPs) according to procedures outlined in the ESMF and RPF. The site-specific ESMPs and RAPs will be 
+included in the bidding documents for any civil works to be implemented. The PMU will ensure that all the mitigation 
+
+ 
+
+measures recommended in the site-specific ESIAs and RAPs are implemented, monitored and reported in progress 
+reports submitted to the Bank.  The Bank will also work with the PMU in recruiting full-time dedicated and qualified 
+E&S specialists whose responsibilities will be to screen sub-projects, determine the level and degree of E&S risks and 
+impacts, prepare site-specific ESMPs and RAPs, and ensure that mitigation and management measures are 
+implemented, monitored and reported in progress reports. The E&S specialists would also train/re-train PMU staff and 
+district agriculture officers in the implementation of appropriate mitigation measures for types of impacts expected. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The key stakeholders include representatives of the Project Management Unit and the Ministry of Agriculture and 
+Food Security (MAFS), farmers associations, entrepreneurs, local authorities, irrigation schemes, as well as the 
+members of the local communities where the project will be implemented. The ESMF/IPMP, RPF have been subjected 
+to public consultations and disclosure before appraisal while each of the subsequent ESMPs and RAPs prepared for 
+each specific subproject will also be subjected to disclosure and public consultations. The ESMF/IPMP and RFP will be 
+disclosed through the MAFS website and Bank's external website. 
+ 
+ 

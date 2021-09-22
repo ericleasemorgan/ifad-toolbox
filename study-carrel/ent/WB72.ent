@@ -2,10 +2,6 @@ id	sid	eid	entity	type
 WB72	1	1	World Bank Document	ORG
 WB72	1	2	Reconnect, Recover, Revitalize	ORG
 WB72	1	3	3R Project	MONEY
-WB72	1	4	Reconnect, Recover, Revitalize	ORG
-WB72	1	5	3R Project	MONEY
-WB72	1	6	2	CARDINAL
-WB72	1	7	11	CARDINAL
 WB72	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
 WB72	2	2	Ukraine	GPE
 WB72	2	3	Eastern Ukraine	ORG
@@ -20,13 +16,8 @@ WB72	3	2	Millions	CARDINAL
 WB72	3	3	100.00	CARDINAL
 WB72	3	4	100.00	CARDINAL
 WB72	3	5	0.00	CARDINAL
-WB72	3	6	h1 World Bank Group	ORG
-WB72	3	7	Reconnect, Recover, Revitalize	ORG
-WB72	3	8	3R Project	MONEY
-WB72	3	9	3	CARDINAL
-WB72	3	10	11	CARDINAL
-WB72	3	11	International Bank for Reconstruction and Development	ORG
-WB72	3	12	100.00	CARDINAL
+WB72	3	6	h1 World Bank Group Financing International Bank for Reconstruction and Development	ORG
+WB72	3	7	100.00	CARDINAL
 WB72	5	1	Ukraine	GPE
 WB72	5	2	1991	DATE
 WB72	5	3	2008	DATE
@@ -66,367 +57,284 @@ WB72	22	2	2.7 million	CARDINAL
 WB72	22	3	over 1.3 million	CARDINAL
 WB72	23	1	February 2015	DATE
 WB72	23	2	daily	DATE
-WB72	23	3	World Bank	ORG
-WB72	24	1	2016-2019	DATE
-WB72	25	1	Ukraine Economic Updates	ORG
-WB72	26	1	The World Bank Eastern Ukraine:	ORG
-WB72	26	2	Reconnect, Recover, Revitalize	ORG
-WB72	26	3	3R Project	MONEY
-WB72	26	4	4	CARDINAL
-WB72	26	5	11	CARDINAL
-WB72	26	6	Non-Governmental	ORG
-WB72	26	7	Eastern Ukraine	GPE
-WB72	27	1	4	CARDINAL
-WB72	28	1	Ukraine	GPE
-WB72	28	2	Donetsk	GPE
-WB72	28	3	Luhansk Oblasts	PERSON
-WB72	29	1	12.5 percent	PERCENT
-WB72	29	2	Ukraine	GPE
-WB72	29	3	15.7 percent	PERCENT
-WB72	29	4	a quarter	DATE
-WB72	30	1	an estimated 70 percent	PERCENT
-WB72	30	2	Donbas	GPE
-WB72	30	3	2017	DATE
-WB72	30	4	5	CARDINAL
-WB72	31	1	May 2019	DATE
-WB72	31	2	Ukrainian	NORP
-WB72	31	3	Volodymyr Zelenskyy	PERSON
-WB72	31	4	Eastern Ukraine	ORG
-WB72	32	1	the World Bank	ORG
-WB72	32	2	GoU	ORG
-WB72	33	1	Luhansk Oblast	PERSON
-WB72	33	2	World Bank	ORG
-WB72	33	3	Eastern Ukraine	ORG
-WB72	33	4	Donetsk Oblast	LOC
-WB72	33	5	Bank	ORG
-WB72	33	6	Ukraine	GPE
-WB72	34	1	Luhansk Oblast	GPE
-WB72	36	1	1.5 million	CARDINAL
-WB72	36	2	Luhansk	PERSON
-WB72	36	3	692,000	CARDINAL
-WB72	37	1	Twenty-two	CARDINAL
-WB72	37	2	34	CARDINAL
-WB72	37	3	Luhansk City	GPE
-WB72	38	1	An estimated 84 percent	PERCENT
-WB72	38	2	81 percent	PERCENT
-WB72	38	3	Luhansk Oblast	GPE
-WB72	39	1	17.5 percent	PERCENT
-WB72	39	2	2018	DATE
-WB72	39	3	between 2010-2017	DATE
-WB72	40	1	Luhansk Oblast	GPE
-WB72	40	2	4,000	CARDINAL
-WB72	40	3	6,000	CARDINAL
-WB72	40	4	2008-2013	DATE
-WB72	40	5	more than 13,000	CARDINAL
-WB72	40	6	7	CARDINAL
-WB72	41	1	Luhansk	PERSON
-WB72	42	1	2017	DATE
-WB72	42	2	Ukraine	GPE
-WB72	44	1	2011 to 2016	DATE
-WB72	44	2	IRI	ORG
-WB72	44	3	6	CARDINAL
-WB72	44	4	2	CARDINAL
-WB72	45	1	2017	DATE
-WB72	46	1	Donbas	GPE
-WB72	48	1	3	CARDINAL
-WB72	48	2	World Bank	ORG
-WB72	49	1	2017	DATE
-WB72	50	1	Ukraine	GPE
-WB72	50	2	Socio-Economic Impacts of Internal Displacement and Veteran Return	ORG
-WB72	51	1	4	CARDINAL
-WB72	51	2	Smits	GPE
-WB72	51	3	Karlis	GPE
-WB72	51	4	Edgardo M. Favaro	PERSON
-WB72	51	5	Anastasia Golovach	GPE
-WB72	51	6	Faruk Khan	PERSON
-WB72	51	7	Donald F. Larson	PERSON
-WB72	51	8	Kateryna Goychuk Schroeder	PERSON
-WB72	51	9	Gabriela Schmidt	PERSON
-WB72	51	10	Oleg Nivievskyi	PERSON
-WB72	51	11	Eugeniu Osmochescu	PERSON
-WB72	51	12	Hanna Ponomarenko	PERSON
-WB72	51	13	Jesus Crespo Cuaresma	PERSON
-WB72	51	14	Harald Oberhofer	PERSON
-WB72	51	15	Yevhen Hrebeniuk	PERSON
-WB72	51	16	Colin Christopher Ek	PERSON
-WB72	52	1	2019	DATE
-WB72	53	1	Ukraine Growth Study Final Document:	ORG
-WB72	53	2	Kinder	PERSON
-WB72	53	3	English	LANGUAGE
-WB72	54	1	Washington	GPE
-WB72	54	2	World Bank Group	ORG
-WB72	55	1	5	CARDINAL
-WB72	55	2	ILO (International Labour Organization	ORG
-WB72	56	1	Unemployment Data	ORG
-WB72	56	2	Region, 2018	DATE
-WB72	57	1	6 Ukraine State Statistics Agency	ORG
-WB72	58	1	November 2019	DATE
-WB72	58	2	Reconnect, Recover, Revitalize	ORG
-WB72	58	3	3R Project	MONEY
-WB72	58	4	5	CARDINAL
-WB72	58	5	11	CARDINAL
-WB72	58	6	5	CARDINAL
-WB72	58	7	17 percent	PERCENT
-WB72	59	1	Ukraine	GPE
-WB72	59	2	66th	ORDINAL
-WB72	59	3	160	CARDINAL
-WB72	59	4	the World Bank’s	ORG
-WB72	59	5	2018	DATE
-WB72	59	6	7	CARDINAL
-WB72	59	7	all European Union	ORG
-WB72	59	8	EU	ORG
+WB72	23	3	Government-Controlled Areas	WORK_OF_ART
+WB72	23	4	Non-Governmental	PERSON
+WB72	23	5	Eastern Ukraine	GPE
+WB72	24	1	4	CARDINAL
+WB72	25	1	Ukraine	GPE
+WB72	25	2	Donetsk	GPE
+WB72	25	3	Luhansk Oblasts	PERSON
+WB72	26	1	12.5 percent	PERCENT
+WB72	26	2	Ukraine	GPE
+WB72	26	3	15.7 percent	PERCENT
+WB72	26	4	a quarter	DATE
+WB72	27	1	an estimated 70 percent	PERCENT
+WB72	27	2	Donbas	GPE
+WB72	27	3	2017	DATE
+WB72	27	4	5	CARDINAL
+WB72	28	1	May 2019	DATE
+WB72	28	2	Ukrainian	NORP
+WB72	28	3	Volodymyr Zelenskyy	PERSON
+WB72	28	4	Eastern Ukraine	ORG
+WB72	29	1	the World Bank	ORG
+WB72	29	2	GoU	ORG
+WB72	30	1	Luhansk Oblast	PERSON
+WB72	30	2	World Bank	ORG
+WB72	30	3	Eastern Ukraine	ORG
+WB72	30	4	Donetsk Oblast	LOC
+WB72	30	5	Bank	ORG
+WB72	30	6	Ukraine	GPE
+WB72	31	1	Luhansk Oblast	GPE
+WB72	33	1	1.5 million	CARDINAL
+WB72	33	2	Luhansk	PERSON
+WB72	33	3	692,000	CARDINAL
+WB72	34	1	Twenty-two	CARDINAL
+WB72	34	2	34	CARDINAL
+WB72	34	3	Luhansk City	GPE
+WB72	35	1	An estimated 84 percent	PERCENT
+WB72	35	2	81 percent	PERCENT
+WB72	35	3	Luhansk Oblast	GPE
+WB72	36	1	17.5 percent	PERCENT
+WB72	36	2	2018	DATE
+WB72	36	3	between 2010-2017	DATE
+WB72	37	1	Luhansk Oblast	GPE
+WB72	37	2	4,000	CARDINAL
+WB72	37	3	6,000	CARDINAL
+WB72	37	4	2008-2013	DATE
+WB72	37	5	more than 13,000	CARDINAL
+WB72	37	6	7	CARDINAL
+WB72	38	1	Luhansk	PERSON
+WB72	39	1	2017	DATE
+WB72	39	2	Ukraine	GPE
+WB72	41	1	2011 to 2016	DATE
+WB72	41	2	IRI	ORG
+WB72	41	3	6	CARDINAL
+WB72	41	4	5 to 17 percent	PERCENT
+WB72	42	1	Ukraine	GPE
+WB72	42	2	66th	ORDINAL
+WB72	42	3	160	CARDINAL
+WB72	42	4	the World Bank’s	ORG
+WB72	42	5	2018	DATE
+WB72	42	6	7	CARDINAL
+WB72	42	7	all European Union	ORG
+WB72	42	8	EU	ORG
+WB72	43	1	Luhansk Oblast	PERSON
+WB72	44	1	Luhansk Oblast	PERSON
+WB72	45	1	the 1980s	DATE
+WB72	46	1	Luhansk	PERSON
+WB72	47	1	IRI	ORG
+WB72	47	2	Luhansk Oblast	GPE
+WB72	47	3	2017	DATE
+WB72	47	4	6.54	CARDINAL
+WB72	48	1	8	CARDINAL
+WB72	49	1	Luhansk	GPE
+WB72	50	1	about 10 percent	PERCENT
+WB72	50	2	about 10 percent	PERCENT
+WB72	51	1	Today	DATE
+WB72	51	2	about 76 percent	PERCENT
+WB72	51	3	1.5 million	CARDINAL
+WB72	51	4	Donbas	GPE
+WB72	51	5	Luhansk Oblast	FAC
+WB72	51	6	Luhansk GCA	PERSON
+WB72	52	1	2018	DATE
+WB72	52	2	23 percent	PERCENT
+WB72	52	3	2018	DATE
+WB72	52	4	964	CARDINAL
+WB72	52	5	more than 45,200	CARDINAL
+WB72	54	1	Luhansk	PERSON
+WB72	55	1	Eastern Ukraine	ORG
+WB72	55	2	Bank	ORG
+WB72	55	3	Ukraine	GPE
+WB72	55	4	Ukraine	GPE
+WB72	57	1	9	CARDINAL
+WB72	59	1	57 percent	PERCENT
 WB72	60	1	Luhansk Oblast	PERSON
-WB72	61	1	Luhansk Oblast	PERSON
-WB72	62	1	the 1980s	DATE
-WB72	63	1	Luhansk	PERSON
-WB72	64	1	IRI	ORG
-WB72	64	2	Luhansk Oblast	GPE
-WB72	64	3	2017	DATE
-WB72	64	4	6.54	CARDINAL
-WB72	65	1	8	CARDINAL
-WB72	66	1	Luhansk	GPE
-WB72	67	1	about 10 percent	PERCENT
-WB72	67	2	about 10 percent	PERCENT
-WB72	68	1	Today	DATE
-WB72	68	2	about 76 percent	PERCENT
-WB72	68	3	1.5 million	CARDINAL
-WB72	68	4	Donbas	GPE
-WB72	68	5	Luhansk Oblast	FAC
-WB72	68	6	Luhansk GCA	PERSON
+WB72	60	2	Luhansk	PERSON
+WB72	61	1	Kharkiv	GPE
+WB72	61	2	65 kilometers	QUANTITY
+WB72	62	1	2018	DATE
+WB72	62	2	140	CARDINAL
+WB72	64	1	8	CARDINAL
+WB72	64	2	United Nations Food and Agriculture Organization	ORG
+WB72	65	1	2018	DATE
+WB72	67	1	Rome	GPE
+WB72	68	1	9	CARDINAL
+WB72	68	2	United Nations Peacebuilding and Reconstruction Program	ORG
 WB72	69	1	2018	DATE
-WB72	69	2	23 percent	PERCENT
-WB72	69	3	2018	DATE
-WB72	69	4	964	CARDINAL
-WB72	69	5	more than 45,200	CARDINAL
-WB72	71	1	Luhansk	PERSON
-WB72	72	1	Eastern Ukraine	ORG
-WB72	72	2	Bank	ORG
-WB72	72	3	Ukraine	GPE
-WB72	72	4	Ukraine	GPE
-WB72	74	1	9	CARDINAL
-WB72	76	1	57 percent	PERCENT
-WB72	77	1	Luhansk Oblast	PERSON
-WB72	77	2	Luhansk	PERSON
-WB72	78	1	Kharkiv	GPE
-WB72	78	2	65 kilometers	QUANTITY
-WB72	79	1	2018	DATE
-WB72	79	2	140	CARDINAL
-WB72	81	1	8	CARDINAL
-WB72	81	2	United Nations Food and Agriculture Organization	ORG
-WB72	82	1	2018	DATE
-WB72	84	1	Rome	GPE
-WB72	85	1	9	CARDINAL
-WB72	85	2	United Nations Peacebuilding and Reconstruction Program	ORG
-WB72	86	1	2018	DATE
-WB72	87	1	the State Employment Service	ORG
-WB72	87	2	Luhansk Region	GPE
-WB72	88	1	10	CARDINAL
-WB72	88	2	Luhansk Region Civil-Military Administration	ORG
-WB72	89	1	2016	DATE
-WB72	90	1	2020	DATE
-WB72	91	1	Severedonetsk	ORG
-WB72	92	1	https://www.ua.undp.org/content/dam/ukraine/docs/Donbas/RPP/Luhansk-reg-dev-strategy_ENG-14-06-2017.pdf	ORG
-WB72	93	1	11	CARDINAL
-WB72	94	1	November 2019	DATE
-WB72	96	1	6	CARDINAL
-WB72	96	2	11	CARDINAL
-WB72	98	1	10	CARDINAL
-WB72	99	1	Luhansk	GPE
-WB72	99	2	Luhansk	PERSON
-WB72	99	3	over half	CARDINAL
-WB72	102	1	11	CARDINAL
-WB72	103	1	Luhansk Oblast	LOC
-WB72	104	1	13,000	CARDINAL
-WB72	104	2	67 percent	PERCENT
-WB72	104	3	under 28 years of age	DATE
-WB72	104	4	families.12 Luhansk Oblast	LOC
-WB72	104	5	second	ORDINAL
-WB72	104	6	Oblast	LOC
-WB72	104	7	270,000	CARDINAL
-WB72	106	1	Luhansk	GPE
-WB72	108	1	Luhansk Oblast	GPE
-WB72	108	2	12	CARDINAL
-WB72	110	1	disabled.14 Female	PRODUCT
-WB72	110	2	Luhansk	PERSON
-WB72	111	1	Luhansk	GPE
-WB72	112	1	12	CARDINAL
-WB72	112	2	2019	DATE
-WB72	113	1	See Ukraine State Statistics Agency	ORG
-WB72	113	2	2018-2019	DATE
-WB72	114	1	13	CARDINAL
-WB72	114	2	World Bank	ORG
-WB72	115	1	2017	DATE
-WB72	116	1	Ukraine	GPE
-WB72	116	2	Socio-Economic Impacts of Internal Displacement and Veteran Return	ORG
-WB72	117	1	14	CARDINAL
-WB72	117	2	Spear	GPE
-WB72	117	3	A.,	GPE
-WB72	117	4	Kokanova	ORG
-WB72	117	5	N.	NORP
-WB72	117	6	Magduyk	GPE
-WB72	117	7	L.	GPE
-WB72	117	8	Dadalauri	GPE
-WB72	117	9	N.	GPE
-WB72	117	10	Buzu	GPE
-WB72	117	11	Engvall	PERSON
-WB72	117	12	L. 2016	DATE
-WB72	118	1	EU	ORG
-WB72	118	2	Georgia	GPE
-WB72	118	3	Moldova	GPE
-WB72	118	4	Ukraine	GPE
-WB72	119	1	Swedish International Development Agency Publication	ORG
-WB72	120	1	60	CARDINAL
-WB72	121	1	15	CARDINAL
-WB72	121	2	Focus	ORG
-WB72	121	3	WB	ORG
-WB72	121	4	Gender Assessment	PERSON
-WB72	121	5	Luhansk	PERSON
-WB72	121	6	February 2020	DATE
-WB72	122	1	16	CARDINAL
-WB72	122	2	National	ORG
-WB72	123	1	Ukrainian	GPE
-WB72	123	2	47%	PERCENT
-WB72	123	3	63%	PERCENT
-WB72	125	1	2019	DATE
-WB72	126	1	Human Development Report	ORG
-WB72	127	1	17	CARDINAL
-WB72	127	2	United Nations Country Team	ORG
-WB72	127	3	Gender Theme Group	ORG
-WB72	128	1	2018	DATE
-WB72	131	1	The World Bank Eastern Ukraine:	ORG
-WB72	131	2	Reconnect, Recover, Revitalize	ORG
-WB72	131	3	3R Project	MONEY
-WB72	131	4	7	CARDINAL
-WB72	131	5	11	CARDINAL
-WB72	131	6	PAD	ORG
-WB72	131	7	Eastern Ukraine	GPE
-WB72	132	1	Luhansk	GPE
-WB72	133	1	Eastern Ukraine	ORG
-WB72	134	1	Luhansk	GPE
-WB72	136	1	Luhansk	GPE
-WB72	136	2	14	CARDINAL
-WB72	138	1	Luhansk Oblast	LOC
-WB72	138	2	Luhansk	GPE
-WB72	140	1	Luhansk	GPE
-WB72	141	1	2-3	CARDINAL
-WB72	141	2	two	CARDINAL
-WB72	146	1	15	CARDINAL
-WB72	147	1	RECOVER - Agriculture Investments	ORG
-WB72	148	1	Luhansk	GPE
-WB72	148	2	The World Bank Eastern Ukraine:	ORG
-WB72	148	3	Reconnect, Recover, Revitalize	ORG
-WB72	148	4	3R Project	MONEY
-WB72	148	5	8	CARDINAL
-WB72	148	6	11	CARDINAL
-WB72	148	7	Oblast	LOC
-WB72	149	1	an Agriculture Logistics and Service Hub	ORG
-WB72	149	2	Starobilsk City	GPE
-WB72	149	3	Food Safety Laboratory	ORG
-WB72	150	1	Cluster	ORG
-WB72	150	2	an estimated 5	CARDINAL
-WB72	150	3	10	CARDINAL
-WB72	150	4	100	CARDINAL
-WB72	150	5	150	CARDINAL
-WB72	152	1	16	CARDINAL
-WB72	155	1	Project Management	ORG
-WB72	155	2	MRTOT	ORG
-WB72	156	1	Luhansk	PERSON
-WB72	156	2	Ukrainian	NORP
-WB72	156	3	GoU	ORG
-WB72	156	4	Components 1	LOC
-WB72	156	5	2	CARDINAL
-WB72	156	6	3R	CARDINAL
-WB72	157	1	Eastern Ukraine	ORG
-WB72	158	1	Component 3	PRODUCT
-WB72	158	2	Eastern Ukraine	LOC
-WB72	162	1	International Waterways OP 7.50	ORG
-WB72	162	2	7.60	CARDINAL
-WB72	162	3	Social Risks	ORG
-WB72	162	4	Impacts	ORG
-WB72	163	1	17	CARDINAL
-WB72	165	1	The Environmental and Social Risk Classification	ORG
-WB72	166	1	18	CARDINAL
-WB72	168	1	Reconnect, Recover, Revitalize	ORG
-WB72	168	2	3R Project	MONEY
-WB72	168	3	9	CARDINAL
-WB72	168	4	11	CARDINAL
-WB72	171	1	UXO	ORG
-WB72	172	1	HACCP	ORG
-WB72	172	2	Hazard Analysis	ORG
-WB72	172	3	Critical Control Point	ORG
-WB72	173	1	19	CARDINAL
-WB72	175	1	one	CARDINAL
-WB72	175	2	1	CARDINAL
-WB72	175	3	2	CARDINAL
-WB72	175	4	1	CARDINAL
-WB72	175	5	two	CARDINAL
-WB72	175	6	three	CARDINAL
-WB72	175	7	Eastern Ukraine	GPE
-WB72	175	8	four	CARDINAL
-WB72	175	9	Ukravtodor	GPE
-WB72	175	10	ESF	ORG
-WB72	178	1	SEP	ORG
-WB72	180	1	20	CARDINAL
-WB72	181	1	Social Framework	ORG
-WB72	182	1	the World Bank’s Environmental and Social Standards	ORG
-WB72	182	2	the Environmental and Social Review Summary (ESRS	ORG
-WB72	183	1	ESS 1-6, 8	LAW
-WB72	183	2	10	CARDINAL
-WB72	183	3	Environmental and Social Commitment Plan	WORK_OF_ART
-WB72	183	4	UAD	ORG
-WB72	183	5	MRTOT	ORG
-WB72	183	6	the World Bank	ORG
-WB72	184	1	The Environmental and Social Management Framework	ORG
-WB72	184	2	Labor Management Procedure	ORG
-WB72	185	1	Environmental and Social Management	ORG
-WB72	185	2	Traffic Management Plans	ORG
-WB72	185	3	TMP	ORG
-WB72	185	4	Waste Management	ORG
-WB72	186	1	ESMF	ORG
-WB72	187	1	E. Implementation Institutional and Implementation Arrangements 21	ORG
-WB72	188	1	Luhansk Oblast	GPE
-WB72	188	2	The World Bank Eastern Ukraine: Reconnect, Recover, Revitalize	ORG
-WB72	188	3	3R Project	MONEY
-WB72	188	4	10	CARDINAL
-WB72	188	5	11	CARDINAL
-WB72	188	6	Luhansk Oblast	LOC
-WB72	190	1	Bank	ORG
-WB72	190	2	UAD	ORG
-WB72	190	3	1	CARDINAL
-WB72	190	4	Ukrdorinvest	WORK_OF_ART
-WB72	190	5	UDI	ORG
-WB72	190	6	UAD	ORG
-WB72	190	7	Luhansk Oblast	GPE
-WB72	191	1	Ukrdorinvest	ORG
-WB72	192	1	Ukrdorinvest	ORG
-WB72	192	2	UAD	ORG
-WB72	192	3	Luhansk Oblast	LOC
-WB72	193	1	Components 2 and 3	ORG
-WB72	193	2	Eastern Ukraine	LOC
-WB72	194	1	PIU	GPE
-WB72	194	2	PIU	ORG
-WB72	194	3	Sector Office	ORG
-WB72	194	4	Luhansk Oblast	GPE
-WB72	195	1	Inter-Governmental Council on Recovery of the Eastern Regions	ORG
-WB72	196	1	The Sub-Committee	ORG
-WB72	196	2	Ministry of Infrastructure	ORG
-WB72	196	3	UAD	ORG
-WB72	196	4	MDETA	ORG
-WB72	196	5	Ministry of Finance	ORG
-WB72	196	6	the Luhansk Oblast State	ORG
-WB72	196	7	Civil-Military Administration	ORG
-WB72	197	1	The Sub-Committee	ORG
-WB72	197	2	3R	CARDINAL
-WB72	199	1	CONTACT POINT World Bank Holly Welborn Benner Senior Social Development Specialist	ORG
-WB72	199	2	Reconnect, Recover, Revitalize	ORG
-WB72	199	3	3R Project	MONEY
-WB72	199	4	11	CARDINAL
-WB72	199	5	11	CARDINAL
-WB72	199	6	Oleksandr Kubrakov	PRODUCT
-WB72	199	7	Ministry for Reintegration of Temporarily Occupied Territories	ORG
-WB72	199	8	Ihor Yaremenko	PERSON
-WB72	199	9	NW	GPE
-WB72	199	10	Washington	GPE
-WB72	199	11	202	CARDINAL
-WB72	199	12	473-1000	CARDINAL
-WB72	199	13	Klavdiya Maksymenko	PERSON
+WB72	70	1	the State Employment Service	ORG
+WB72	70	2	Luhansk Region	GPE
+WB72	71	1	10	CARDINAL
+WB72	71	2	Luhansk Region Civil-Military Administration	ORG
+WB72	72	1	2016	DATE
+WB72	73	1	2020	DATE
+WB72	74	1	Severedonetsk	ORG
+WB72	77	1	10	CARDINAL
+WB72	78	1	Luhansk	GPE
+WB72	78	2	Luhansk	PERSON
+WB72	78	3	over half	CARDINAL
+WB72	81	1	11	CARDINAL
+WB72	82	1	Luhansk Oblast	LOC
+WB72	83	1	13,000	CARDINAL
+WB72	83	2	67 percent	PERCENT
+WB72	83	3	under 28 years of age	DATE
+WB72	83	4	families.12 Luhansk Oblast	LOC
+WB72	83	5	second	ORDINAL
+WB72	83	6	Oblast	LOC
+WB72	83	7	270,000	CARDINAL
+WB72	85	1	Luhansk	GPE
+WB72	87	1	Luhansk Oblast	GPE
+WB72	87	2	12	CARDINAL
+WB72	89	1	disabled.14 Female	PRODUCT
+WB72	89	2	Luhansk	PERSON
+WB72	90	1	Luhansk	GPE
+WB72	91	1	12	CARDINAL
+WB72	91	2	2019	DATE
+WB72	92	1	See Ukraine State Statistics Agency	ORG
+WB72	92	2	2018-2019	DATE
+WB72	93	1	13	CARDINAL
+WB72	93	2	World Bank	ORG
+WB72	94	1	2017	DATE
+WB72	95	1	Ukraine	GPE
+WB72	95	2	Socio-Economic Impacts of Internal Displacement and Veteran Return	ORG
+WB72	96	1	14	CARDINAL
+WB72	96	2	Spear	GPE
+WB72	96	3	A.,	GPE
+WB72	96	4	Kokanova	ORG
+WB72	96	5	N.	NORP
+WB72	96	6	Magduyk	GPE
+WB72	96	7	L.	GPE
+WB72	96	8	Dadalauri	GPE
+WB72	96	9	N.	GPE
+WB72	96	10	Buzu	GPE
+WB72	96	11	Engvall	PERSON
+WB72	96	12	L. 2016	DATE
+WB72	97	1	EU	ORG
+WB72	97	2	Georgia	GPE
+WB72	97	3	Moldova	GPE
+WB72	97	4	Ukraine	GPE
+WB72	98	1	Swedish International Development Agency Publication	ORG
+WB72	99	1	60	CARDINAL
+WB72	100	1	15	CARDINAL
+WB72	100	2	Focus	ORG
+WB72	100	3	WB	ORG
+WB72	100	4	Gender Assessment	PERSON
+WB72	100	5	Luhansk	PERSON
+WB72	100	6	February 2020	DATE
+WB72	101	1	16	CARDINAL
+WB72	101	2	National	ORG
+WB72	102	1	Ukrainian	GPE
+WB72	102	2	47%	PERCENT
+WB72	102	3	63%	PERCENT
+WB72	104	1	2019	DATE
+WB72	105	1	Human Development Report	ORG
+WB72	106	1	17	CARDINAL
+WB72	106	2	United Nations Country Team	ORG
+WB72	106	3	Gender Theme Group	ORG
+WB72	107	1	2018	DATE
+WB72	109	1	C. Proposed Development	PERSON
+WB72	109	2	PAD	PERSON
+WB72	109	3	Eastern Ukraine	GPE
+WB72	110	1	Luhansk	GPE
+WB72	111	1	Eastern Ukraine	ORG
+WB72	112	1	Luhansk	GPE
+WB72	114	1	Luhansk	GPE
+WB72	114	2	14	CARDINAL
+WB72	116	1	Luhansk Oblast	LOC
+WB72	116	2	Luhansk	GPE
+WB72	118	1	Luhansk	GPE
+WB72	119	1	2-3	CARDINAL
+WB72	119	2	two	CARDINAL
+WB72	124	1	15	CARDINAL
+WB72	125	1	RECOVER - Agriculture Investments	ORG
+WB72	126	1	Luhansk	GPE
+WB72	126	2	Oblast	LOC
+WB72	127	1	an Agriculture Logistics and Service Hub	ORG
+WB72	127	2	Starobilsk City	GPE
+WB72	127	3	Food Safety Laboratory	ORG
+WB72	128	1	Cluster	ORG
+WB72	128	2	an estimated 5	CARDINAL
+WB72	128	3	10	CARDINAL
+WB72	128	4	100	CARDINAL
+WB72	128	5	150	CARDINAL
+WB72	130	1	16	CARDINAL
+WB72	133	1	Project Management	ORG
+WB72	133	2	MRTOT	ORG
+WB72	134	1	Luhansk	PERSON
+WB72	134	2	Ukrainian	NORP
+WB72	134	3	GoU	ORG
+WB72	134	4	Components 1	LOC
+WB72	134	5	2	CARDINAL
+WB72	134	6	3R	CARDINAL
+WB72	135	1	Eastern Ukraine	ORG
+WB72	136	1	Component 3	PRODUCT
+WB72	136	2	Eastern Ukraine	LOC
+WB72	140	1	International Waterways OP 7.50	ORG
+WB72	140	2	7.60	CARDINAL
+WB72	140	3	Social Risks	ORG
+WB72	140	4	Impacts	ORG
+WB72	141	1	17	CARDINAL
+WB72	143	1	The Environmental and Social Risk Classification	ORG
+WB72	144	1	18	CARDINAL
+WB72	149	1	UXO	ORG
+WB72	150	1	HACCP	ORG
+WB72	150	2	Hazard Analysis	ORG
+WB72	150	3	Critical Control Point	ORG
+WB72	151	1	19	CARDINAL
+WB72	153	1	one	CARDINAL
+WB72	153	2	1	CARDINAL
+WB72	153	3	2	CARDINAL
+WB72	153	4	1	CARDINAL
+WB72	153	5	two	CARDINAL
+WB72	153	6	three	CARDINAL
+WB72	153	7	Eastern Ukraine	GPE
+WB72	153	8	four	CARDINAL
+WB72	153	9	Ukravtodor	GPE
+WB72	153	10	ESF	ORG
+WB72	156	1	SEP	ORG
+WB72	158	1	20	CARDINAL
+WB72	159	1	Social Framework	ORG
+WB72	160	1	the World Bank’s Environmental and Social Standards	ORG
+WB72	160	2	the Environmental and Social Review Summary (ESRS	ORG
+WB72	161	1	ESS 1-6, 8	LAW
+WB72	161	2	10	CARDINAL
+WB72	161	3	Environmental and Social Commitment Plan	WORK_OF_ART
+WB72	161	4	UAD	ORG
+WB72	161	5	MRTOT	ORG
+WB72	161	6	the World Bank	ORG
+WB72	162	1	The Environmental and Social Management Framework	ORG
+WB72	162	2	Labor Management Procedure	ORG
+WB72	163	1	Environmental and Social Management	ORG
+WB72	163	2	Traffic Management Plans	ORG
+WB72	163	3	TMP	ORG
+WB72	163	4	Waste Management	ORG
+WB72	164	1	ESMF	ORG
+WB72	165	1	E. Implementation Institutional and Implementation Arrangements 21	ORG
+WB72	166	1	Luhansk Oblast	GPE
+WB72	166	2	Luhansk Oblast	LOC
+WB72	168	1	Bank	ORG
+WB72	168	2	UAD	ORG
+WB72	168	3	1	CARDINAL
+WB72	168	4	Ukrdorinvest	WORK_OF_ART
+WB72	168	5	UDI	ORG
+WB72	168	6	UAD	ORG
+WB72	168	7	Luhansk Oblast	GPE
+WB72	169	1	Ukrdorinvest	ORG
+WB72	170	1	Ukrdorinvest	ORG
+WB72	170	2	UAD	ORG
+WB72	170	3	Luhansk Oblast	LOC
+WB72	171	1	Components 2 and 3	ORG
+WB72	171	2	Eastern Ukraine	LOC
+WB72	172	1	PIU	GPE
+WB72	172	2	PIU	ORG
+WB72	172	3	Sector Office	ORG
+WB72	172	4	Luhansk Oblast	GPE
+WB72	173	1	Inter-Governmental Council on Recovery of the Eastern Regions	ORG
+WB72	174	1	The Sub-Committee	ORG
+WB72	174	2	Ministry of Infrastructure	ORG
+WB72	174	3	UAD	ORG
+WB72	174	4	MDETA	ORG
+WB72	174	5	Ministry of Finance	ORG
+WB72	174	6	the Luhansk Oblast State	ORG
+WB72	174	7	Civil-Military Administration	ORG
+WB72	175	1	The Sub-Committee	ORG
+WB72	175	2	3R	CARDINAL

@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424) 
+
+ 
+ 
+
+  
+Nov 15, 2017 Page 1 of 18  
+
+     
+
+ 
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 20-Nov-2017 | Report No: PIDISDSA23780 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Montenegro P164424 Montenegro Second 
+Institutional Development 
+and Agriculture 
+Strengthening Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EUROPE AND CENTRAL ASIA 17-Nov-2017 30-Jan-2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Ministry of Agriculture 
+and Rural Development 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to improve the competitiveness of agriculture and fisheries in Montenegro 
+through enhanced delivery of government support in alignment with EU accession requirements. 
+ 
+Components 
+
+Strengthening MARD agriculture, rural development and fisheries program 
+Support for the Food Safety, Veterinary and Phytosanitary Services 
+Modernization of the Fisheries Sector 
+Project Management 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+International Bank for Reconstruction and Development   34.89  
+
+Total Project Cost   34.89  
+    
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+ 
+
+
+
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+Montenegro, a small, upper middle-income country, gained its independence in 2006 and is making big strides 
+towards negotiating its accession to the European Union (EU). With a population of only 0.6 million, and a 
+Gross National Income (GNI) per capita of US$7,320, Montenegro is the smallest country in the Western 
+Balkans. It started negotiations with the EU in June 2012 and strives to join by 2020 ahead of the other countries 
+in the Western Balkans. Of the 35 negotiations chapters, three have been provisionally closed and twenty-four 
+have been opened. Good progress towards EU alignment has been made in areas such as free movements of 
+goods, agriculture and rural development, food safety, veterinary and phytosanitary policy, energy, employment 
+and social policy, regional policy and preparation for structural instruments. In the latest Progress Report on 
+Montenegro (November 2016), the European Commission (EC) notes that the country is at early stages of 
+preparation regarding budgetary and financial provisions, environment and climate change, and more needs to 
+be done to improve competitiveness, as well as economic and monetary policy. Strengthening the 
+administrative capacity for ensuring the application of the acquis communautaire remains a substantial 
+challenge for Montenegro. 
+
+ 
+
+Montenegro has followed a steady path of economic growth, but not without challenges. The economic boom, 
+from 2000 to 2008, was triggered by a large inflow of capital that stimulated aggregate demand, led to a steady 
+increase in Gross Domestic Product (GDP) growth, and a fall in the unemployment rate. During the boom, there 
+was a steady decline in the percentage of households below the poverty line and an increase in the income of 
+households in the bottom 40 percent, most of them in rural areas. After experiencing a double-dip recession due 
+to the 2008 global financial and the 2012 Eurozone debt crises, Montenegro’s economy slowed down to 1.8 
+percent in 2014 and recovered to 2.5 percent in 2016, continuing its recovery path (with 3.2 percent in 2017) 
+due to investments in road infrastructure and robust tourism activity. However, the unemployment rate remains 
+high at 17.3 percent in early 2017. Large fiscal deficit and growing fiscal debt have prompted the Government of 
+Montenegro to adopt a set of fiscal consolidation measures aimed at reducing public spending.   
+
+ 
+
+Montenegro’s overarching development goal is to achieve smart, sustainable and inclusive growth. Montenegro’s 
+development plan is outlined in three separate, but complimentary strategies: the EU Accession Program 2014-2018, 
+the Montenegro Development Directions (MDD) 2015-2018, and the Montenegro Economic Reform Program (ERP) 
+2016-2018. Montenegro’s EU Accession Program was adopted in December 2013 and represents the main strategic 
+document regarding European integration. It focuses on measures required for completing alignment with the acquis 
+communautaire. The MDD, aligned with the Europe 2020 strategy, was adopted by the Government in July 2015. The 
+MDD identifies four driving sectors, namely tourism, energy, agriculture and rural development, and manufacturing, 
+
+Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when 
+
+finalizing the document. 
+
+ 
+
+
+towards achieving the objective of “smart, sustainable and inclusive growth.” The ERP complements these efforts by 
+tightening fiscal spending and reducing public debt. 
+ 
+Sectoral and Institutional Context 
+ 
+Agriculture is an important sector for the economic development of Montenegro. In this predominantly 
+mountainous country, agricultural land represents 38 percent of total land area, two thirds of which is covered 
+by pastures. Agriculture and food production play an important role in the economy, contributing 12 percent of 
+GDP (with the primary sector contributing 10 percent, and agro-food processing and fisheries contributing 
+around two percent). With agricultural exports increasing by around four percent annually during the last eight 
+years, agricultural imports have been increasing much faster (around 16 percent annually) leading to the 
+worsening of agricultural trade deficit from US$166 million in 2005 to quadrupling by 2014.  
+
+ 
+
+Agriculture contributes to income and job creation, but much of it is not accounted for. Agriculture is the 
+largest economic activity in rural Montenegro; close to 50,000 families (roughly a quarter of the country’s 
+population), with an average holding of 4.5 hectares, derive their income partly or entirely from agriculture. 
+Despite its small size, the agro-climate and landscape varies dramatically from the north to the south and coastal 
+areas of Montenegro. Olive and citrus fruit production dominate in the coastal region; early vegetable 
+production and vineyards - in the center and in proximity of the larger agglomerations of Nikšić and Podgorica; 
+and, extensive livestock production - in the north. According to MONSTAT, in 2010 there were 2,347 people 
+formally employed in agriculture. Yet according to the 2010 Agricultural Census, the equivalent of 46,473 Annual 
+Work Units were employed in agriculture, suggesting that only around five percent of agricultural employment is 
+formal.  
+
+ 
+
+Montenegro agriculture is characterized by constraints similar to those that prevail in Southeast Europe. 
+Among them: (i) inability of agricultural producers to adopt modern technologies due to limited access to 
+finance; (ii) small average farm size and an incomplete land use planning; (iii) slow uptake in development of 
+aggregators that could improve collecting, storage, packaging and marketing of produce; and (iv) the effects of 
+climate change, especially increased weather-related natural disasters such as droughts and floods that have a 
+major negative impact on productivity, water supply and land erosion. 
+
+ 
+
+With an extensive coastline, the fisheries sector of Montenegro has an enormous potential that has not yet 
+been capitalized on. The fisheries sector has not yet developed to its full potential. According to recent stock 
+assessments, marine living resources are currently under-exploited by the domestic fleet, which could safely 
+increase in size. Today Montenegro is a net importer of fish products. In 2014, for example, 3,316 tons of 
+fisheries products were imported into Montenegro, of which 2,000 tons of fresh, frozen and fileted products, 
+whereas a mere 11 tons of fisheries products were exported. With current marine catch estimated at around 
+900 tons a year, Montenegro has the potential to substantially increase its production to meet domestic 
+demand (leading to an ultimate phase-out of imports), a large share of which will be absorbed by the growing 
+tourism sector. The capacity of the fisheries sector, however, is currently constrained by outdated equipment, 
+lack of adequate infrastructure (landing sites and dedicated access in existing ports) and an underdeveloped 
+value chain.   
+
+ 
+
+The Ministry of Agriculture and Rural Development (MARD) has a cross-cutting mandate that covers not only 
+agriculture, rural development, and the food system, but also encompasses water, forestry and fisheries. 
+
+
+
+While the focus of the past 10 years has primarily been on agricultural production and to a lesser extent on food 
+safety, the Ministry recognizes the need to strengthen the performance of other sub-sectors, i.e. food safety and 
+fisheries, for which little policy orientation or support has been provided. The MARD has recently taken 
+important steps to address this matter by adopting legislation that provides a new framework for food safety 
+and establishes the Administration for Food Safety, Veterinary and Phytosanitary Affairs (AFSVPA). Further, it 
+has functionally separated the Directorate for Agriculture and Fisheries into two Directorates to focus on 
+supporting each sub-sector individually.  
+
+ 
+
+Agriculture is an important sector in the EU accession agenda of Montenegro. Montenegro has made 
+significant progress in establishing the required institutions and systems, and has developed capacity to 
+implement the EU Instrument for Pre-Accession and Assistance for Rural Development (IPARD). However, 
+further work is required as the country has committed to align its national agricultural policy to the Common 
+Agricultural Policy (CAP) of the EU by the date of accession. To this end, the country is required to have all the 
+necessary systems in place in order to manage and receive funding from the EU and to make payments to 
+Montenegrin beneficiaries in accordance with EU rules and procedures. An Integrated Administration and 
+Control System (IACS), along with other tools, are necessary for the efficient utilization and monitoring of 
+support funds, and for the harmonization of the national direct payment measures with those currently 
+implemented in the EU. EU membership brings important benefits to the country both at the macro and micro 
+levels. It has been found to increase GDP per capita by approximately 12 percent. Trade liberalization has 
+increased the flow of goods and services and has put competitiveness at the forefront of market integration. In 
+agriculture, EU membership unlocks significant assistance and direct payments to farmers under the EU’s CAP, 
+yet it also imposes stricter food safety and other trade-related requirements to agricultural production. 
+ 
+
+Montenegro is making good progress towards alignment to EU food safety legislation.  A number of rulebooks, 
+decrees and bylaws have been adopted. A new AFSVPA has been established under the oversight of the MARD, 
+which also incorporates inspection services that previously operated autonomously. Several advances have been 
+made in veterinary policy. The Animal Identification and Registration system, which already included large and 
+small ruminants, was extended to pigs, and it has been completed. The multiannual program for the eradication 
+of rabies has continued and routine monitoring and testing of ruminants for transmissible spongiform 
+encephalopathies (TSEs) are being introduced. The implementing legislation on food safety rules was adopted in 
+various fields but enforcement remains a challenge mainly due to shortage of human and material resources. As 
+the country moves towards EU accession, the MARD would need to continue improving its administrative 
+capacity, in particular for inspection services and laboratories, as well as upgrading food safety establishments. 
+
+ 
+
+Montenegro’s preparations for the fisheries sector are at an early stage, but important progress has been 
+made. The country’s Fisheries Strategy of 2015-2020 provides an overall guidance for the development of the 
+Montenegrin sector and its administration in line with the Common Fisheries Policy (CFP), including steps 
+required to fully align and harmonize the national fisheries policy with the EU acquis communautaire. Steps 
+must be taken to inform fishermen, traders and processors about the requirements they will face prior to and 
+upon accession of Montenegro to the EU. The strategy identifies some of the sub-sector’s key areas for potential 
+growth, including improved resource exploitation and connecting production from capture fisheries to the 
+tourism sector and processing, thus ultimately increasing the added value of fish products. To reach this 
+potential, adequate support will be required to increase fisheries production – including number of boats, 
+improvement of fisheries coastal infrastructure, and enhancement of the control and surveillance system to 
+address illegal, unregulated and unreported (IUU) fishing. It is important to note that after EU accession, 
+
+
+production capacity will be capped because of overall EU policy for the preservation of marine living resources. 
+As a new EU member, Montenegro’s vessel capacity will be frozen as to the date of entry, without possibility of 
+future expansion of the fleet.  
+
+ 
+
+Since the early stages of Montenegro’s EU accession process, the EC and the World Bank (WB) have closely 
+coordinated their activities to support Montenegro’s authorities and the agricultural sector towards unlocking 
+access to the IPARD. Funded by the International Bank for Reconstruction and Development (IBRD) and the 
+Global Environment Facility (GEF), the Montenegro Institutional Development and Agriculture Strengthening 
+Project (MIDAS) was launched in July 2009
+
+1
+ and has made important contributions to compliance with the IPARD 
+
+requirements. The country’s authorities have put considerable efforts into setting up the required legal and 
+institutional framework to meet EU pre-accession requirements. To this end, the MIDAS project has contributed 
+towards (i) the establishment and capacity building of the Directorate for Rural Development (future Managing 
+Authority) and preparation of the IPARD 2014-2020 Program and of the Code of Good Agricultural Practices; (ii) 
+the establishment of the Directorate for Payments (future Paying Agency), including setting up its infrastructure 
+that meets accreditation’s requirements, and establishment of the Farm Registry and of the Reference Price 
+Database; (iii) provision of grants to agriculture holdings to promote their development and modernization 
+along with familiarization of both farmers and Montenegrin authorities with the IPARD rules and principles; and 
+(iv) enhancing food safety through investments in the national reference laboratories (Veterinary Lab and 
+Institute of Marine Biology), as well as building and equipping the first Border Inspection Post (BIP) in Bar and 
+strengthening the sector’s legal and regulatory framework.  
+ 
+
+Montenegro received the EU’s “Entrustment of budget implementation tasks for EU IPARD funds.” 
+Specifically, the entrustment was received in October 2017 for Measure 1 (Investments in physical assets of 
+agricultural holdings) and Measure 3 (Investments in physical assets concerning processing and marketing of 
+agricultural and fishery products) of the IPARD II Program. To this end, Montenegro’s IPARD II Program for 2014-
+2020 (approved by the EU and adopted by the Government of Montenegro in September 2015) is conceived as a 
+multi-annual development program for rural areas and proposes seven measures to be co-financed by EU and 
+implemented by the Government, for which the Sectoral Agreement between Montenegro and the EU has been 
+signed and ratified.  
+
+ 
+
+Montenegro has opened negotiations with the EU on Chapter 11 (Agriculture and Rural Development) in 
+December 2016, while negotiations for Chapter 12 (Food Safety), and Chapter 13 (Fisheries) were opened in 
+June 2016. The opening benchmarks for these chapters have all been met and negotiations positions adopted by 
+the Montenegrin Government. MIDAS activities have actively contributed in supporting the country in reaching 
+the EU pre-accession negotiation opening benchmarks for Chapters 11 and 12. In this context, the MARD has 
+requested the Bank to continue its support to the Ministry with meeting the closing benchmarks of these two 
+chapters and provide additional support towards meeting the closing benchmarks for Chapter 13. 
+ 
+ 
+C. Proposed Development Objective(s)  
+ 
+Development Objective(s) (From PAD)  
+The Project Development Objective is to improve the competitiveness of agriculture and fisheries in Montenegro 
+through enhanced delivery of government support in alignment with EU accession requirements. 
+
+                                                           
+1
+ The MIDAS is scheduled to close on March 30, 2019 
+
+Key Results 
+ 
+ 
+D. Project Description  
+ 
+
+The project will include the following components: 
+ 
+
+Component 1: Strengthening MARD agriculture, rural development and fisheries program (EUR20 million). 
+
+The component will: (i) increase and diversify income generation opportunities for productive units, and 
+
+contribute to the creation of jobs, and (ii) support Montenegro for meeting Chapter 11 closing benchmarks. 
+
+The grant program is expected to address most of the constraints faced by the country’s agricultural sector, 
+
+including: (i) enabling access to finance to grant beneficiaries to adopt modern technologies; (ii) development 
+
+of aggregators to improve collection, storage, packaging and marketing of produce; and (iii) implementation of 
+
+agro-environmental measures to improve resilience to climatic pressures. 
+
+ 
+
+Sub-component 1.1: Increasing and diversifying income opportunities through grants for agriculture, rural 
+
+development and fisheries. This sub-component will support the development of agriculture, rural 
+
+development and fisheries through the provision of grants. The design of the grant program will follow the 
+
+implementation experience gained through the MIDAS project, where “the learning by doing” approach has 
+
+been successfully tested with the core principle of IPARD. Investments are pre-financed by the beneficiaries, 
+
+with reimbursement received upon successful completion and on-spot verification of the investment, and 
+
+according to the share of support to total cost of investment (normally between 50 and 65 percent of the total 
+
+investment); four-eye principle both for administrative control and on-spot control, coordination with 
+
+Technical Bodies as appointed for verification of compliance with relevant national legislation. 
+
+ 
+
+The grant program will be targeted at: (i) piloting further IPARD-like measures, including farm diversification 
+and on-farm processing, that have not been previously implemented in order to develop the capacity of both 
+institutions and beneficiaries while stimulating economic growth in rural areas; (ii) implementing direct 
+support for rural development measures, including agro-environment measures, that will support MARD’s 
+policy objectives towards harmonization with the CAP; (iii) support to production and processing 
+associations/collections centers (including for milk, fruit and vegetables, etc.); and (iv) fisheries grants to 
+enhance the capacity of the sector in preparation for the implementation of the European Maritime Fisheries 
+Fund. The grant program is expected to leverage private sector investment and beneficiaries’ contribution, as 
+well complement public sector investment in the modernization of the fisheries sector under Component 3. 
+Detailed criteria, procedures, and related safeguards requirements of the grant program will be described in 
+the Grant Operational Manual (GOM), satisfactory to the Bank, which will be prepared during project 
+implementation prior to each call. 
+ 
+
+Sub-component 1.2: Strengthening the MARD toward fulfilling EU accession requirements.  This sub-
+
+component will provide investments to strengthen the DfP (future Paying Agency) management capacity 
+
+through the development of the IACS components required for the management and control of payments to 
+
+productive units, as well as the implementation of the European Agriculture Guarantee Fund, functionality of 
+
+
+
+which constitute one of the closing benchmark of Chapter 11. The project will support the development of 
+
+several modules necessary for the operational system of integrated controls, strengthen the regional offices 
+
+for Advisory Services, and build the Paying Agency system at the regional level, which will be part of the final 
+
+structure of a fully functional Paying Agency.  For logistical and accessibility purposes, the two services could 
+
+be hosted in the same building but in different offices, however, the roles and responsibilities of the Advisory 
+
+Services and Paying Agency will be well defined and fully separated from each other. To this end the project 
+
+will finance refurbishing and equipping of existing offices, and purchasing the required hardware and software 
+
+infrastructure. The project will also strengthen capacity of the DfRD, DfA, and DfP through provision of 
+
+technical assistance (TA), training and study tours to assist with the policy design towards the EU CAP, and to 
+
+assist with the design required to finalize the IACS and its various applications.  
+
+ 
+
+Component 2: Support for the Food Safety, Veterinary and Phytosanitary Services (EUR3 million). This 
+
+component will develop capacity for food safety, veterinary and phytosanitary services as part of the creation 
+
+of an integrated food quality system which is consistent with EU requirements. Promoting safer agricultural 
+
+products, including the prevention and control of animal and plant diseases are essential for improving the 
+
+competitiveness of Montenegro’s agricultural production both domestically and abroad. It will also help 
+
+producers to introduce cross-compliance requirements to receive IPARD funds. This component will support: 
+
+(i) the establishment of an official, comprehensive control system for the safe disposal and/or processing of 
+
+animal by-products (ABPs); (ii) strengthening of the diagnostic capacity of the phytosanitary laboratory; and 
+
+(iii) strengthening of the capacity of the inspection services. The following set of activities will be financed 
+
+under this component: 
+
+ 
+
+Sub-component 2.1: Safe management of animal by-products (APBs). The project will support the 
+
+establishment of a comprehensive system for the processing and/or disposal for ABPs which will be identified 
+
+and documented in the National Strategy and Action Plan for the Management of ABPs scheduled to be 
+
+adopted by the MARD in late-2017 or early-2018. Specifically, the project will provide TA for the design of a 
+
+control system for the safe management of ABPs. The design will include a business plan for a disposal facility, 
+
+detailed technical specifications and cost estimates for a housing facility. The project will also support the 
+
+gradual operationalization of the official control system for ABPs along the entire chain (production, 
+
+separation, storage, transport, and disposal and/or processing), including training of inspectors and business 
+
+operators, establishing documented procedures and check lists for the approval of establishments and 
+
+inspection thereof, aligning and completing the legal and regulatory framework in line with the current and 
+
+relevant EU acquis and launching a public information and awareness campaign addressed to the associated 
+
+food production/processing industry.  
+
+ 
+
+Sub-component 2.2: Strengthening the diagnostic capacity of the phytosanitary laboratory. The project will 
+
+assist the NRL housed at the Bio-Technical Faculty of the University of Montenegro with construction of new 
+
+laboratory facilities (vertically extending an existing site), procurement of laboratory equipment and fixed 
+
+laboratory furniture to support official controls. The project will also provide targeted TA aiming to ensure 
+
+efficient inter-agency collaboration between the AFSVPA and the NRL by means of a Memorandum of 
+
+Understanding, and pave the way towards accreditation of priority tests and methods as per ISO standard 
+
+17025. 
+
+
+
+Sub-component 2.3: Support to inspection services. To enable the inspectors of the unified AFSVPA to 
+
+implement effectively the enhanced official control regime arising from alignment of national legislation with 
+
+EU legislation, and the risk-based annual official control and sampling plan, the project will provide new 
+
+vehicles and equipment for collection, cold storage and transport of samples, IT equipment, protective 
+
+clothing, official uniforms, and other items.  
+
+ 
+
+Component 3: Modernization of the Fisheries Sector (EUR6 million).  This component will finance public 
+
+sector investment aimed at achieving two objectives: (i) enhancing the productive capacity of the sector with 
+
+investments in basic infrastructure and equipment that will provide fishermen regulated safe, and sanitary 
+
+landing facilities and access to port, and (ii) strengthening the institutional capacity in the sector to apply the 
+
+CFP upon EU accession, as well as substantially strengthen administrative, inspection, and control capacity. 
+
+This component will finance the following interventions: 
+
+ 
+
+Sub-component 3.1: Development of a network of landing sites (both in ports and other locations) with 
+
+enhanced access to auxiliary services. Sub-component. A national coastal urban planning strategy is currently 
+
+being elaborated at various levels of government (both national and local), though it is not expected to be fully 
+
+finalized before 2019. This planning process incorporates the designation of several locations for landing sites, 
+
+including in the country’s six coastal cities, where accommodations can be designed for fishing activities in 
+
+existing ports and in new landing sites to be developed. The port towns of Bar (in the far South of the 
+
+country’s coastline), Herceg Novi (the far North of the country’s coastline) and a network of other sites along 
+
+the coastline will be subject to infrastructure improvements and specific sites for construction and 
+
+reconstruction activities will be identified by the Government. The project will finance TA for the preparation 
+
+of designs and technical specifications required for equipment and infrastructure. The project will also finance 
+
+civil works, including construction of facilities for landing, catch data collection, weighing and access to market 
+
+for landed catches in sites that comply with World Bank norms. In addition, and where appropriate, 
+
+improvements will be made in certain locations for access to water and fuel, and operational support (boat 
+
+and gear maintenance).   
+
+   
+
+Sub-Component 3.2: Capacity Building for the Directorate for Fisheries, and support to Associations of 
+
+Fishermen. The MARD Directorate for Fisheries already benefits from the various regional programs 
+
+supporting the sustainable management of marine living resources. Scientific support is provided mainly by 
+
+the Institute of Marine Biology in Kotor, while the Directorate itself is receiving support in the development of 
+
+rules and regulations pertaining to the sector converging towards the full application of the CFP. The project 
+
+will support training and equipment for fisheries inspectors to enable them to meet EU requirements.  
+
+Significant TA support will be provided to Associations of Fishermen, which will be the direct beneficiaries of 
+
+resources from the European Maritime Fisheries Fund (EMFF) designed mainly to cover the added expenses 
+
+incurred by fishermen in application of CFP rules and regulations.  
+
+ 
+
+Component 4: Project Management (EUR1 million). This component will cover the costs for project management 
+related to staffing, consultancies, and equipment costs, as well as implementation of the Environmental and Social 
+Management Framework (ESMF), monitoring and evaluation of all project activities in line with the Results Framework, 
+
+
+
+adequate fiduciary (procurement and financial management), audits and accountability mechanisms for oversight, 
+including a grievance redress mechanism.   
+ 
+E. Implementation 
+ 
+Institutional and Implementation Arrangements 
+ 
+
+The MARD will be the lead Implementing Agency and will have overall responsibility for project management 
+and implementation. Following the project implementation structure established under the ongoing MIDAS 
+Project, relevant Directorates and Administrations within the MARD will be responsible for the technical 
+implementation (i.e. preparing terms of reference and technical specifications, preparing training programs, 
+supervising consultants and advisors, participating in procurement evaluation committees, etc.) of project 
+activities. Specifically, given the extensive experience on implementation of Bank-funded projects, the General 
+Director of the Directorate for Payments (DfP) will be appointed as a Project Coordinator. The Director for 
+Rural Development (DfRD) will be responsible for the implementation of Component 1; the Director for the 
+AFSVPA will be responsible for the implementation of Component 2; and the General Director of the 
+Directorate for Fisheries will oversee Component 3 of the project.  
+
+ 
+
+An existing, experienced and well-performing Project Management Team (PMT) established to implement the 
+MIDAS Project, will also manage MIDAS2. The PMT is currently housed in the DfP premises, and consists of the 
+Project Coordinator (General Director of DfP, civil servant), Project Manager, Civil Engineer, IT specialist and 
+Safeguards Specialist. Up to the closing date of the MIDAS Project, i.e. March 30, 2019, the proposed Project 
+will continue to be supported by the current PMT staff. Thereafter, sufficient resources will be allocated to 
+retain a Project Manager and other staff as required. The project implementation team will also continue to 
+rely on a part-time environmental and social specialist, who will take active participation in the screening of 
+the grants and direct payments as per the ESMF. The specialist’s tasks will include desk reviews, training and 
+guidance of the applicants, and site visits to review compliance with both the World Bank safeguards policies 
+and relevant Montenegrin laws. In addition, a Monitoring and Evaluation Specialist and other specialists in the 
+field of fisheries and civil engineering will be recruited to support MIDAS2. Details of the above-mentioned 
+arrangements will be provided in the Project Operational Manual (POM). 
+ 
+
+A Project Steering Committee (PSC) will be established and maintained throughout the life of the Project to 
+ensure overall coordination and strategic guidance functions. The PSC will be chaired by the Minister of 
+Agriculture and Rural Development and will include the Project Coordinator (DfP General Director); General 
+Directors of Directorate for Rural Development (DfRD), Directorate for Agriculture (DfA), and Directorate for 
+Fisheries (DfF); Director of  the Administration for Food Safety, Veterinary and Phytosanitary Affairs, Advisory 
+Services, Ministry of Finance, Ministry of Transport and Maritime Affairs, Morsko Dobro, Biotechnical 
+Faculty/Phytosanitary Laboratory Director; and representatives of beneficiaries (civil society, local institutions, 
+private sector).  
+
+ 
+
+Fiduciary responsibilities, including procurement and financial management and disbursement, will be carried 
+out by the existing central Technical Services Unit (TSU) under the Ministry of Finance. The TSU will be 
+responsible for the preparation of quarterly unaudited financial reports and annual audited financial 
+statements. Expenses incurred by the TSU will be financed out of the loan on a pro rata basis with other World 
+Bank-financed projects in Montenegro. 
+
+
+ 
+ 
+
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project will be implemented throughout Montenegro, including the activities targeting the fisheries 
+under Component 3 in the coastal part of Montenegro. The activities on grants and direct payments will 
+follow the well established screening procedure from the original MIDAS project, and will help screen out 
+activities that may have additional safeguards implications. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Vera Dugandzic, Social Safeguards Specialist 
+Esma Kreso, Environmental Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project activities on direct payments and grants 
+under Component 1 will finance a diverse series of 
+activities aimed at improving the agricultural 
+practices in country. However, some of these 
+activities, as evident from the support provided 
+under the original MIDAS project, could have 
+environmental impacts and implications. This 
+includes, but is not limited to, small scale 
+construction of barns, farm facilities, manure 
+management platforms, traditional katuni huts, etc. 
+The environmental screening procedure has been 
+implemented for the original project and will 
+continue to be applicable to these activities; the 
+procedure has been slightly revised to reflect the 
+envisaged project activities including support to the 
+fisheries sector, in the form of an ESMF.  
+ Furthermore, the ESMF addresses the construction 
+
+and reconstruction activities under Component 3, 
+aimed at improving the pier facilities for the 
+fisheries.  There are no major environmental impacts 
+anticipated at this stage except for the dust and 
+noise, material sourcing, and waste management 
+with regards to Components 1 and 3. For 
+Component 2, the technical assistance provided will 
+help establish a sound management system of the 
+animal byproducts as a follow on to the strategic 
+planning documents to be developed by the client 
+towards the end of 2017. These activities will be 
+supplemented by adequate due diligence 
+documentation prepared based on the final 
+management solution of ABPs.  
+ 
+
+Natural Habitats OP/BP 4.04 No 
+The activities will be carried out on already 
+established farms on agricultural land and there will 
+be no activities involving natural habitats. 
+
+Forests OP/BP 4.36 No 
+There are no activities involving forests foreseen 
+under the project. 
+
+Pest Management OP 4.09 Yes 
+
+The project will support increase and improvement 
+in agricultural practices, and may indirectly lead to 
+an increase in the pest management practices. The 
+project will not support directly purchasing or 
+supplying of pest management materials, but the 
+project’s ESMF includes a precautionary section on 
+PMP. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+There are no activities involving cultural resources 
+foreseen under the project. 
+
+Indigenous Peoples OP/BP 4.10 No 
+There are no activities involving indigenous peoples 
+foreseen under the project. 
+
+Involuntary Resettlement OP/BP 4.12 No 
+
+The original project triggered the Bank’s Policy OP 
+4.12 on Involuntary Resettlement as it was expected 
+that the project would finance the construction of 
+the Paying Agency building and that land may be 
+required to be expropriated for that purpose. The 
+Resettlement Policy Framework (RPF) document was 
+developed, approved and disclosed in November 
+2008. However, the implementing Ministry of 
+Agriculture and Rural Development decided not to 
+construct a new building but rather opted to use the 
+existing state-owned building. To date, no land 
+acquisition took place under the MIDAS and 
+associated IPARD-like grants. As stated in the Grant 
+Operational Manual (GOM), only activities that do 
+
+
+
+not trigger the application of Bank’s OP 4.12 policy 
+on Involuntary Resettlement are eligible for grant 
+funding. The Grant scheme support program under 
+the proposed project will follow the same eligibility 
+criteria which clearly state that the activities which  
+may result in displacement of any third party 
+formally or informally occupying or using the land on 
+which the activity is to be implemented will be 
+excluded from financing. Only activities that are 
+located on the farmer’s own land or on land for 
+which the grant applicant has written consent from 
+the owner to use the land will be eligible for funding. 
+Additionally, no land acquisition will take place 
+under the sub-component on development of the 
+landing places (piers) and their auxiliary services in 
+the ports of Bar and Herceg Novi as the civil works 
+will be carried out in public maritime domain. In 
+brief, project will not support any activities which 
+might involve involuntary taking of land or physical 
+or economic displacement of squatters, scavengers, 
+or any other third party formally or informally 
+occupying or using the land. 
+ 
+
+Safety of Dams OP/BP 4.37 No 
+There are no activities involving dams foreseen 
+under the project. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+
+The activities under Component 3 aimed at 
+supporting and improving the docking facilities for 
+fisheries may pose a risk to international waterways, 
+i.e. the Adriatic Sea. However, due to the scope of 
+works there is very little potential to impact the 
+quantity and quality of water to riparians.In 
+consultations with LEGEN it was determined that the 
+activities are not of such scope or scale that would 
+require triggering of this policy. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+ 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The potential environmental and social impacts that are foreseen for the activities financed under the project are not 
+large scale, significant or irreversible. The activities financed under the project can be broadly grouped into three 
+
+groups, per project components: the grants and direct payments scheme, the support to the fisheries sector through 
+small scale infrastructure interventions and the technical assistance towards establishment of a management system 
+of animal byproducts (ABPs). The grant scheme activities will be screened using an ESMF and a mechanism established 
+under the original MIDAS 1 project. The procedure will screen out activities that correspond to a Category A or that 
+trigger additional safeguards policies. For activities that correspond to a World Bank Category B adequate due 
+diligence will be prepared. The ESMF also sets up the monitoring and follow up activities that the PMT will undertake. 
+The activities supporting the fisheries component will be subject to a Checklist EMP for simple infrastructure works, 
+since all of the works anticipated are of a limited scope and to be carried out within the existing marine areas 
+designated for reception of the fisheries fleet. Support provided under the animal byproducts Technical Assistance, 
+will be supplemented with the adequate environmental and social due dilligence documentation, that would be 
+adapted to the final selection of the methods and treatment chosen for safe management of ABPs. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+There are no indirect or long term impacts anticipated in the project area due to the project financed activities. All of 
+the activities are limited in scope and localized to a given location. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+No alternatives have been considered. The ESMF will screen out activities based on the associated impact and 
+activities corresponding to a Category A or triggering additional safeguards policies will not be financed. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The Client has a well established PMT with a part time environmental and social specialist in place. The key staff have 
+attended multiple World Bank environmental safeguards trainings and have a good track record along with the 
+experience of implementing multiple rounds of grant calls and screening of all received applications. The PMT has 
+strong ownership over the screening process and have used each subsequent call to additionally fine-tune the 
+screening procedures, and to also conduct environmental awareness raising trainings for all applicants. The Client has 
+prepared a revised ESMF coupled with the Checklist EMP for the fisheries component and a precautionary Integrated 
+Pest Management Plan and has disclosed this document with the public consultations held on November 10, 2017 in 
+Podgorica. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The key stakeholders are the project beneficiaries, that is the farmers and agricultural and fisheries workers, along 
+with the neighbors and adjacent plots that could be impacted by the supported activities. Additionally, the 
+stakeholders that may be involved include the different institutions supporting the development and operations of the 
+agricultural sector in country, including government institutions, academia and  non-governmental institutions. The 
+client has publically disclosed the ESMF with an announcement made on their website and through the local media for 
+the public consultations that were held on November 10, 2017in Podgorica. In addition to the public consultations of 
+the ESMF, each of the ESMPs that will be produced under the ESMF procedure will also be subject to public disclosure 
+and consultations, as well as the Checklist EMPs for the fisheries infrastructure. Overall, the project has an established 
+grieveance redress mechanism where each of the affected parties can communicate directly with the designated 
+contact person through established email and telephone contacts. 
+ 
+ 

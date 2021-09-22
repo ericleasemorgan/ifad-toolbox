@@ -1,0 +1,579 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Accelerating Impacts of CGIAR Climate Research for Africa (AICCRA) (P173398) 
+
+ 
+ 
+
+  
+Jun 09, 2020 Page 1 of 11  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 09-Jun-2020 | Report No: PIDC29338 
+
+ 
+The World Bank  
+Accelerating Impacts of CGIAR Climate Research for Africa (AICCRA) (P173398) 
+
+ 
+ 
+
+  
+Jun 09, 2020 Page 2 of 11  
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Africa P173398  Accelerating Impacts of 
+CGIAR Climate 
+Research for Africa 
+(AICCRA) (P173398) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Jun 16, 2020 Sep 30, 2020 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing International Center for 
+Tropical Agriculture (CIAT) 
+
+International Crops Research 
+Institute for the Semi-Arid 
+Tropics (ICRISAT), 
+International Livestock 
+Research Institute (ILRI) 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Development Objective is to increase access for agriculture research and extension service providers in Africa to 
+knowledge, technologies, and decision making tools relevant to enhancing the resilience of agriculture and food 
+systems in the face of climate change. 
+ 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 60.00 
+
+Total Financing 60.00 
+
+of which IBRD/IDA 60.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 60.00 
+
+          IDA Grant 60.00 
+
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+Moderate  Track I-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+
+Other Decision (as needed) 
+ 
+A policy waiver will be sought from IDA to allow the International Center for Tropical Agriculture (CIAT), an international 
+organization, to serve as recipient of a regional IDA grant. 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+Agriculture remains central to the livelihoods of millions of Africans, yet far too many agriculture-dependent Africans 
+remain food insecure and malnourished. After a period of moderate improvement, food security throughout the region 
+has recently deteriorated. Slowdowns in productivity growth, combined with increasingly frequent food production 
+failures, point to the need to significantly raise the bar when it comes to increasing the productive capacity and 
+strengthening the resilience of rural households. The economic hardship resulting from the COVID-19 crisis are expected 
+to further worsen food insecurity in the region, making resilience-building an even more urgent task. 
+
+The livelihoods of African farmers and livestock keepers, long known to be vulnerable to the vicissitudes of weather, are 
+being severely impacted by climate change. Climate-related shocks to food production have increased in frequency from 
+occurring once every 12.5 years to occurring once every 2.5 years. The increased frequency of climate-induced production 
+shocks have made it increasingly difficult to maintain positive growth in per capita food production over the longer term.   
+
+Climate change is projected to further increase the number of drought days in Africa and shorten growing seasons. 
+Droughts, floods, and tropical storms are the climatic events that affect food production the most. Substantial increases 
+in these major drivers of crop and livestock production shortfalls are projected for large parts of Africa. This at a time when 
+the number of people to feed will almost double by 2050 to over 2 billion―a population that will be increasingly urbanized. 
+
+Climate change poses a serious threat to crop productivity in sub-regions within Africa that are already food insecure. The 
+impact is projected to be highest in maize, millet, sorghum, and wheat. Climate change will also affect productivity in 
+Africa’s livestock sector. Depending on the location and prevailing production systems, water scarcity will lower the 
+productivity of pastures, reduce yields of milk and meat, and increase the incidence of diseases. All this will translate into 
+a significant deterioration in food security, if no action is taken. 
+
+Agriculture is an important livelihood source for women throughout sub-Saharan Africa and an important source of 
+employment. Studies consistently show that in most parts of sub-Saharan Africa, productivity of women farmers 
+consistently lags behind that of men farmers. The sources of the productivity gap have been amply documented including 
+land, improved technologies, lesser access to inputs, credit, insurance, and advisory services. They are thus generally less 
+well-resourced, and hence more vulnerable to shocks that negatively impact farming and livestock keeping activities.  
+
+Women farmers are especially vulnerable to climate change impacts, due to household responsibilities as well as increased 
+agricultural work from male out-migration. Climate-smart agriculture (CSA) options have the potential to provide benefits 
+for women; when they have access to information on CSA, they are just as likely as men to adopt the practices. Women 
+can be important agents of innovation, including in response to climate change, and ensuring that women beneficiaries 
+
+
+of the project are able to avail of CSA technologies and climate information will be a focus of the project’s gender strategy.  
+
+The ambition of many African governments to improve food security, nationally and at household level, is in danger of not 
+being met. The 2014 Malabo Declaration set ambitious 2025 targets to end hunger, double agricultural productivity, halve 
+post-harvest losses, and sustain agricultural GDP growth of at least 6 percent per year. The region is not on track to meet 
+these targets, and it will be difficult to make sustained progress in the face of large climate-induced production shocks.  
+
+Strengthening the productivity and resilience of African agriculture will depend critically on the ability of governments and 
+their partners to bring science and innovation to the forefront of the development agenda. Urgent action is needed to 
+improve climate adaptation of Africa’s food systems. Incentives, knowledge, science, and finance will all need to play a 
+role, together with increased co-ordination among development partners to improve the climate resilience of production 
+systems, build efficient value chains, facilitate internal and external trade, and boost the purchasing power of the most 
+vulnerable households. As countries contemplate a shift towards climate-smart investments, investing in agricultural 
+research is more critical than ever. The high returns to investment in agricultural research and innovation are well 
+documented, and a large body of evidence shows that such investment is very effective at reducing poverty and hunger. 
+
+In recognition of the critical role played by science and innovation in enabling the adaptation of African agriculture to 
+climate change, the World Bank recently announced an increase in support to CGIAR. At the Climate Action Summit that 
+took place during the UN General Assembly held in September 2019, President Malpass announced an increase in support 
+to CGIAR. While the CGIAR system has in the past received direct grants from the World Bank, the unprecedented decision 
+to use IDA financing to support CGIAR reflects the World Bank’s strong commitment to step up support to CGIAR despite 
+a constrained budget environment. The incremental financing presents a unique opportunity to support critical CGIAR 
+work being done for the benefit of millions of poor households in IDA countries whose livelihoods depend on agriculture.   
+
+The World Bank’s increased support for CGIAR comes at a critical time, when the COVID-19 pandemic is further 
+threatening food security throughout the region and undermining the livelihoods of millions of agriculture-dependent 
+households. Going forward, efforts will be needed to increase domestic food production throughout the region and make 
+food supply chains more resilient to the threat of pandemics, by promoting innovation and building additional capacity to 
+manage pests and diseases while monitoring the health and safety of food. CGIAR will be at the forefront of these efforts. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+CGIAR is the world leader in international agriculture research on climate change adaptation. With a budget of around 
+US$1 billion, CGIAR operates at a scale that when combined with the investments made by its many partners is having a 
+measurable impact on climate adaptation efforts worldwide. CGIAR specializes in “translational research,” adapting 
+knowledge produced through basic research so it can be applied in specific contexts. CGIAR does this by partnering with 
+regional organizations, national research institutions, civil society organizations, and private firms and individuals.  
+
+CGIAR can play a vital catalytic role in strengthening the agriculture research architecture in Africa, if the “missing middle” 
+can be filled. At present, regional and national programs in Africa have difficulty engaging with CGIAR in a systematic way, 
+and what is happening now is often done in an ad hoc manner. A major obstacle is the absence of resources to support 
+interactions between CGIAR Centers on the one hand (funded mainly by international donors) and regional and national 
+programs on the other hand (funded mainly by African governments). New sources of flexible funding are needed to 
+facilitate the engagement between CGIAR and regional and national programs in Africa.  
+
+The CGIAR Research Program (CRP) on Climate Change, Agriculture, and Food Security (CCAFS) is at the forefront of 
+fostering climate adaptation in agriculture and food systems. The over-arching objectives of CCAFS are: (i) to identify and 
+test pro-poor climate change adaptation and mitigation practices, technologies and policies for food systems, adaptive 
+capacity and rural livelihoods; and (ii) to provide diagnosis and analysis that will ensure cost effective investments, the 
+
+
+inclusion of agriculture in climate change policies, and the inclusion of climate issues in agricultural policies, from the sub-
+national to the global level in a way that brings benefits to the rural poor.  
+
+CCAFS is being implemented by a consortium of CGIAR and non-CGIAR partners, under the leadership of the International 
+Center for Tropical Agriculture (CIAT), an international agricultural research center within the CGIAR system with the 
+mandate to carry out research on problems of tropical agriculture for the benefit of developing countries. CCAFS work is 
+led by staff at CGIAR Centers and at six partner universities, including: (1) Leeds University, (2) Columbia University, (3) 
+University of Vermont, (4) University of Oxford, (5) Utrecht University, and (6) Wageningen University.  
+
+CCAFS activities are focused on enhancing climate resilience in Sub-Saharan Africa, but the level of funding is inadequate. 
+During 2017-2019, nearly one-half (48 percent) of the total CCAFS budget of $160 million went to support work in Africa, 
+including 26 percent allocated to CCAFS programs in West Africa and 22 percent allocated to CCAFS programs in East 
+Africa. CCAFS has an approved expenditure framework, but shortfalls in expected donor financing have resulted in 
+significant funding gaps that threaten the achievement of some critical results. Moreover, since CCAFS was approved in 
+2018, new evidence has emerged (for example, IPCC’s 2019 1.5 degree assessment report) that makes clear that the level 
+of ambition to promote climate adaptation must increase dramatically. 
+
+AICCRA will support CCAFS programs and activities that are targeted specifically to Africa and will help take to scale the 
+most strategic and impactful CCAFS-Africa programs, promoting resilience to climate change and improved food security 
+in the region. AICCRA will fill a critical gap by making cutting-edge CGIAR research and innovation available to NARS and 
+other key stakeholders in Africa. It will support knowledge creation and capacity building activities to enable regional and 
+national-level stakeholders to take CSA innovations to scale. It will achieve that by fostering partnerships between CGIAR 
+and local research institutes, universities, civil society organizations, farmer organizations, and private sector. AICCRA will 
+facilitate the development of Climate Information Services (CIS) and promote the adoption of CSA solutions across sub-
+regions within Africa that are extremely vulnerable to climate change. The project will also support on-the-ground 
+activities in selected countries in Western, Eastern and Southern Africa where CGIAR science has the greatest chance of 
+success in delivering catalytic results, which can be adopted by other countries in the region. 
+
+ 
+Relationship to CPF 
+
+ 
+AICCRA is well aligned with World Bank regional strategies. AICCRA will support the World Bank Africa Regional Integration 
+and Cooperation Assistance Strategy (2018). It will contribute to the World Bank Group Strategy for Fragility, Conflict and 
+Violence 2020–2025, as well as to the World Bank Group Adaptation and Resilience Action Plan (2018) and the World Bank 
+Africa Climate Business Plan (2018) and New Generation Climate Business Plan (under preparation). In addition, it will 
+contribute to the activities proposed under World Bank Country Partnership Frameworks for many countries being served 
+in Africa by CCAFS.  
+
+AICCRA will build upon the achievements of past and current engagements by the World Bank in Africa. The design of 
+AICCRA incorporates lessons learned from other World Bank initiatives in the region, including the West Africa Agricultural 
+Productivity Programs (WAAPP), the Great Green Wall initiative (GGW), the Sahel Irrigation Initiative Support Project 
+(SIIP), and the Regional Sahel Pastoralism Support Project (PRAPS), among others.  
+
+AICCRA will complement and add value to future World Bank lending operations in Africa. The World Bank is preparing a 
+series of new lending operations to mobilize cutting-edge science in addressing food security needs in the face of the 
+global climate crisis by promoting the successful adoption of proven technologies on a massive scale. Noteworthy among 
+these is the West Africa Food System Resilience Program (FSRP) The success of FSRP, which forms part of the Africa 
+Regional Integration and Cooperation Assistance Strategy, will depend critically on the ability of the participating entities 
+to access the newest and most effective technologies available, especially those generated by CGIAR. AICCRA will 
+complement FSRP by serving as a conduit for the international science generated by CGIAR Centers to reach the regional 
+
+
+and national actors who will be supported by FSRP (e.g. ECOWAS, CORAF).  
+
+As a regional project, AICCRA will fill an important niche in the Word Bank’s’ Africa portfolio and help to advance the 
+regional integration agenda. By supporting activities that will be implemented at sub-regional level through multi-actor 
+networks, AICCRA will be able to achieve outcomes that cannot be achieved easily, if at all, by engaging with individual 
+partners at country level. On the research supply side, working at regional level justifies investment in infrastructure and 
+personnel at scales that surpass minimum critical mass and allow economies of scale to be captured. On the research 
+demand side, working at regional level facilitates the flow of innovations across national borders and enhances learning 
+effects, increasing the number of adopters and amplifying the benefits. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+The Development Objective is to increase access for agriculture research and extension service providers in Africa to 
+knowledge, technologies, and decision making tools relevant to enhancing the resilience of agriculture and food systems 
+in the face of climate change. 
+ 
+Key Results (From PCN) 
+
+ 
+Achievements of the Project will be measured using the following PDO level indicators: 
+ 
+Results Area 1: Knowledge and tools needed to project likely impacts of climate change on agricultural systems available 
+for use by beneficiaries in project area.  
+
+Results Area 2: Climate-smart agriculture technologies available for upscaling in project area. 
+ 
+D. Concept Description 
+ 
+
+AICCRA will focus on bridging the gap between the research institutes that produce improved technologies and the 
+development organizations that promote the adoption of improved technologies, for the purpose of enhancing the 
+resilience of Africa’s agriculture and food systems in the face of climate change. Through support to CCAFS, AICCRA will 
+strengthen the technical, institutional, and human capacity needed to move CGIAR innovations off the shelf and achieve 
+impacts at scale in IDA-eligible countries in Africa. 
+
+AICCRA will strengthen systemic capacity to monitor climate change in Africa, project the likely impacts of climate 
+change on local agri-food systems, identify improved technologies that can strengthen the resilience of those systems in 
+the face of climate change, and transfer knowledge about the improved technologies to agri-food system actors. The 
+knowledge, technologies, and decision making tools promoted under AICCRA will be of value not only to productive agents 
+(e.g., farmers, livestock keepers, assemblers, processors, and distributors), but also to the public, private, and civil society 
+organizations that play critical roles in delivering improved technologies to productive agents.  
+
+Climate advisories generated through monitoring networks and early warning systems work much better when they 
+flow rapidly and easily into decision support systems and are integrated with input provision. For that reason, there is 
+a need not only to strengthen monitoring and analytical capacity to make sure systems are in place that can generate 
+timely and relevant climate advisories and early warnings, but also a need to implement policies and reinforce institutions 
+to ensure that those climate advisories and early warnings can be translated into effective preventive actions, for example 
+through changes in the types and amounts of inputs being used, or adjustments in management practices. In addition, 
+decision support systems must be capable of channelling information from service users back to service providers, to 
+inform research so that it becomes more demand-driven and responsive to local needs.  
+
+
+
+AICCRA will consist of four components. Box 1 provides illustrative examples of the results which are anticipated from the 
+three large areas of support under AICCRA. The results will be further elaborated during project preparation and 
+development of the results framework. All activities will be undertaken for the benefit of IDA-eligible SSA countries.   
+
+Component 1. Knowledge and Services 
+
+Component 1 will support the generation and sharing of knowledge products and tools that will address critical gaps in 
+the design and provision of climate services, enable climate-informed investment planning, and support the design of 
+policies to promote uptake of CSA practices. Activities to be supported under Component 1 will include one set of 
+transversal activities to be pursued Africa-wide, as well as two subsets of geographically tailored activities to be pursued 
+in Western and Eastern/Southern Africa, respectively. 
+
+Subcomponent 1.1. Africa-wide. Sub-component 1.1 will support the generation of new knowledge and associated 
+delivery platforms that are expected to be relevant throughout the region to improve targeting in the provision of agro-
+climatic services as well as planning of CSA investments. The following activities will be financed, inter alia: (i) Identification 
+of adaptation interventions targeted to agricultural land-use categories, small-scale farmer groups and associated climate 
+hazards; (ii) Development of climate information service packages to accompany climate-smart interventions based on 
+needs assessments and qualitative-quantitative cost-benefit analyses; (iii) Development or refinement of indicators and 
+other adaptation tracking systems that can feed into planning processes and assist with national reporting related to NDCs 
+and NAPs; (iv) Identification of big-ticket CSA investment opportunities, detailing the potential social, economic, and 
+environmental benefits at national, regional, and continental scale (an example might be assessing the potential to launch 
+large-scale initiatives to produce and distribute seed of drought-resilient varieties); (v) Development of business models 
+and identification of innovative finance options for scaling-up CSA and climate-resilient value chains, with special 
+consideration of gender and social inclusion; and (vi) Undertaking climate, agricultural and environmental policy 
+coherence analyses to identify regional policy overlaps, gaps and alignment. 
+
+Sub-component 1.2. Western Africa. Sub-component 1.2 will support the development of new or improved climate 
+service tools that can help bridge the gap between meteorological services and agricultural extension systems. Activities 
+to be financed include the development of ag-data hubs, design of climate service and visualization tools and 
+dissemination systems and strengthening of partnerships for the delivery of early warnings, climate services, and climate-
+informed digital agro-advisories to support agricultural decision-making. The sub-component will also seek to identify 
+tailored climate information services and digital agro-advisory packages for use in building new extension systems or 
+strengthening existing extension systems. Activities will take place in selected countries in Western Africa (Mali, Ghana 
+and Senegal).  
+
+Sub-component 1.3. Eastern and Southern Africa. Sub-component 1.3 will support the development of new or improved 
+climate service tools that can help bridge the gap between meteorological services and agricultural extension systems. 
+Activities to be financed include the development of ag-data hubs, design of climate service and visualization tools and 
+dissemination systems, and strengthening of partnerships for the delivery of early warnings, climate services, and climate-
+informed digital agro-advisories to support agricultural decision-making. The sub-component will also seek to identify 
+tailored climate information services and digital agro-advisory packages for use in building new extension systems or 
+strengthening existing extension systems. Activities will take place in selected countries in Eastern and Southern Africa 
+(Ethiopia, Kenya and Zambia). 
+
+Component 2. Partnerships for Delivery 
+
+Component 2 will support building of partnerships and networks to strengthen the ability of actors all along the research-
+to-development continuum to anticipate climate effects and project their likely impacts on agriculture, food security, and 
+rural livelihoods, with the goal of accelerating the identification, prioritization, and uptake of best-bet adaptive measures 
+
+
+within defined application domains. Activities to be supported under Component 2 include training and building of 
+partnerships and networks, at regional and national levels. A particular focus will be on planning and implementing 
+appropriate delivery channels to promote the flow of innovative knowledge generated under Component 1, via regional 
+and national partners.  
+
+Subcomponent 2.1. Africa-wide. Sub-component 2.1 will support capacity development activities designed to strengthen 
+the ability of regional multi-stakeholder platforms to conduct participatory visioning and priority setting, supported by 
+quantitative and qualitative analytical methods at different scales. It will encourage engagement with regional institutions 
+(AGRHYMET, ICPAC, and others) to collaborate in sharing knowledge and scaling up national climate services within and 
+across regions. Where needed, it will backstop national, regional and continental groups involved in climate negotiations. 
+Activities to be financed include, inter alia: (i) formal and informal training, (ii) workshops, (iii) study tours, (iv) knowledge 
+exchanges, and (v) technical assistance. 
+
+Sub-component 2.2. Western Africa. Sub-component 2.2 will support training and provide institutional support to 
+enhance the capacity of diverse groups of beneficiaries to form innovative partnerships that can ensure sustained delivery 
+and use of climate services. Activities to be financed include: (i) Strengthening of national meteorological services (NMS) 
+real-time monitoring, weather forecasting, data archiving and generation systems; (ii) Capacity building of public and 
+private sectors (e.g., NMSs, NARES, MoA, ICT companies and media) for effectiveness of context-specific climate services 
+delivery models; (iii) Strengthening National Frameworks for Climate Services (NFCS) and supporting national stakeholders 
+to implement effective governance for sustained national early warning, climate services and agro-advisory delivery; (iv) 
+Training farmer organizations and other value chain actors in the use of climate services, co-production and feedback 
+processes; and (v) Training extension officers, input providers, development agents, private sector and media for effective 
+implementation and use of prioritized CSA options in crop and livestock value chains. Activities will take place in selected 
+countries in Western Africa (Mali, Ghana and Senegal) 
+
+Sub-component 2.3. Eastern and Southern Africa. Sub-component 2.3 will support training and provide institutional 
+support to enhance the capacity of diverse groups of beneficiaries to form innovative partnerships that can ensure 
+sustained delivery and use of climate services, Activities to be financed include: (i) Strengthening of national 
+meteorological services (NMS) real-time monitoring, weather forecasting, data archiving and generation systems; (ii) 
+Capacity building of public and private sectors (e.g., NMSs, NARES, MoA, ICT companies and media) for effectiveness of 
+context-specific climate services delivery models; (iii) Strengthening National Frameworks for Climate Services (NFCS) and 
+support national stakeholders to implement effective governance for sustained national early warning, climate services 
+and agro-advisory delivery; (iv) Training farmer organizations and other value chain actors in the use of climate services, 
+co-production and feedback processes; and (v) Training extension officers, input providers, development agents, private 
+sector and media for effective implementation and use of prioritized CSA options in crop and livestock value chains. 
+Activities will take place in Eastern and Southern Africa (Ethiopia, Kenya and Zambia). 
+
+Component 3. Supporting the Uptake of Climate-Smart Agriculture  
+
+Component 3 will support the uptake of CSA among small-scale farmers and intermediaries in selected value chains by 
+supporting the validation of CSA technologies in the field, linking validated CSA technologies to technology transfer 
+systems, and improving assess to climate-informed agricultural advisory services that will help farmers and other value 
+chain actors make better decisions about CSA technologies and practices. It will also support the development of climate-
+smart agriculture investment plans (CSAIPs) at national level as a sustainable scaling mechanism for CSA, coupled by CSA 
+and CIS bundling collaborations through regional bodies.  
+
+Subcomponent 3.1. Africa-wide. Sub-component 3.1 will support regional and continental efforts to promote the use of 
+CIS in support of CSA at scale by influencing the planning and implementation mechanisms of regional bodies (i.e. African 
+Risk Capacity) and large implementation agencies (i.e. WFP). Activities to be financed include: (i) Identification of initiatives 
+
+
+that are seeking to promote regional and continental collaboration around climate modeling, introduction or 
+strengthening of early warning systems, and/or promotion of CSA technologies; (ii) Promoting dialogue among 
+participants in these initiatives, with the goal of securing agreement on common standards and protocols for delivery of 
+climate advisory services; (iii) Identification of opportunities to use regional and continental networks to promote 
+dissemination of the results of CGIAR climate research; and (iv) Development of approaches and mechanisms to ensure 
+sustainability of regional and continental initiatives.  
+
+Sub-component 3.2. Western Africa. Sub-component 3.2 will support the uptake of CSA at national level in selected 
+countries in Western Africa. Activities to be financed include: (i) Assessment of the climate-smartness of candidate 
+technologies; (ii) Participatory selection and prioritization of best-bet and promising CSA options in key value chains, 
+through stakeholder engagement; (iii) Identification of scaling mechanisms, especially for women and youth; (iv) 
+Formulation of recommendations to be integrated into tailored climate-informed agro-advisory systems for distinct 
+smallholder profiles; and (v) Refining of investment opportunities from existing climate-smart agriculture investment plans 
+(CSAIPs), developing investment prospectus, and identifying specific investors and funding instruments, including new 
+CSAIPs for countries without CSAIPs, as needed. Activities will take place in selected countries in Western Africa (Mali, 
+Ghana and Senegal) 
+
+Sub-component 3.3. Eastern and Southern Africa. Sub-component 3.2 will support the uptake of CSA at national level in 
+selected countries in Eastern and Southern Africa. Activities to be financed include: (i) Assessment of the climate-
+smartness of candidate technologies; (ii) Participatory selection and prioritization of best-bet and promising CSA options 
+in key value chains, through stakeholder engagement; (iii) Identification of scaling mechanisms, especially for women and 
+youth; (iv) Formulation of recommendations to be integrated into tailored climate-informed agro-advisory systems for 
+distinct smallholder profiles; and (v) Refining of investment opportunities from existing climate-smart agriculture 
+investment plans (CSAIPs), developing investment prospectus, and identifying specific investors and funding instruments, 
+including new CSAIPs for countries without CSAIPs, as needed. Activities will take place in Eastern and Southern Africa 
+(Ethiopia, Kenya and Zambia). 
+
+Component 4. Project Management 
+
+Component 4 will support project management functions. Consistent with the objective of strengthening systemic 
+capacity in CGIAR, project management activities will be distributed among all of the CCAFS partners. CIAT as the Lead 
+Center for CCAFS and recipient of the IDA grant will hold ultimate responsibility for technical, administrative, fiduciary, 
+legal, and safeguards compliance functions. The CCAFS management team will provide oversight of the technical work 
+program, ensure coordination among and between the implementation entities, supervise monitoring and evaluation 
+activities and compile consolidated M&E reports documenting progress achieved. Under the shared accountability 
+approach, the CCAFS implementation entities will be expected to comply with all applicable administrative, fiduciary 
+(procurement and financial management), monitoring and evaluation, and safeguards requirements, and they will be 
+responsible for providing information needed by the CCAFS management team and by CIAT to fulfill compliance with the 
+terms of the IDA grant.   
+
+
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 No 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+.  
+ 
+
+The relevant Environmental and Social Standards (ESSs) are: ESS 1 (Assessment and Management of Environmental and 
+Social Risks and Impacts; ESS 2 (Labor and Working Conditions); ESS 3 (Resource Efficiency and Pollution Prevention 
+Management); ESS 4 (Community Health and Safety); and ESS 10 (Stakeholder Engagement and Information Disclosure). 
+Key risks are related to: waste management, pest management, resource use (including water, soil, energy), Occupational 
+Health and Safety (OHS) and labor issues. The Project will not finance activities that involve land acquisition, restrictions 
+on land use and involuntary resettlement, or adversely affect biodiversity conservation, sustainable management of living 
+resources and cultural heritage. The Project will be implemented mainly in established agricultural research stations and 
+will not be implemented in areas in which Indigenous Peoples / Sub-Saharan African Historically Underserved Traditional 
+Local Communities are present, or have collective attachment to a proposed project area. 
+
+ 
+
+ 
+ 
+  

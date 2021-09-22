@@ -1,0 +1,1118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Guinea Integrated Agricultural Development Project (GIADP) (P164326) 
+
+ 
+ 
+
+  
+Jul 23, 2017 Page 1 of 16  
+
+     
+
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 05-Dec-2017 | Report No: PIDISDSC22885 
+
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Guinea P164326  Guinea Integrated 
+Agricultural 
+Development Project 
+(GIADP/PDAIG) 
+(P164326) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Apr 02, 2018 May 08, 2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Guinea West Africa Agricultural 
+Productivity Program 
+(WAAPP) Project 
+coordination unit 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Project development objective is to increase productivity, processing and market transactions between producers 
+and other actors participating in targeted agricultural values chains in the project areas. 
+
+ 
+
+ Financing (in USD Million)      
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  Track I-The review did authorize the preparation to 
+continue 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+International Development Association (IDA)   40.00  
+
+Total Project Cost   40.00  
+
+    
+ 
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+ 
+
+
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Guinea is fortunate to possess considerable agricultural and mining resources. It possesses the world’s richest 
+
+deposits of bauxite and iron as well as abundant agricultural land and water resources (“water tower” of West Africa). 
+However, Guinea has yet to take advantage of this endowment to achieve sustainable economic growth and poverty 
+reduction. Guinea remains one of Africa’s poorest countries and is classified among the Low Income and Food Deficit 
+Countries by the World Bank. Per-capita income was approximately US$490 in 2016, less than one third of the regional 
+average (US$1,505), and the majority of the population continues to live in extreme poverty. According to UNDP’s 
+2015 Human Development Report1, Guinea ranks 182th out of 188 countries in terms of the Human Development 
+Index (HDI). Guinea’s HDI of 0.411 is below the average for countries in the low human development group (0.505) 
+and also for countries in Sub-Saharan Africa (0.518).  
+
+ 
+2. Guinea past economic growth has been too slow and too inconsistent to reduce poverty. Since the mid-80s, 
+
+economic growth increased due in part to the implementation of the Programme de Redressement Economique et 
+Financier (Financial and Economic Redressing Program - PREF)2. Annual economic growth averaged 4.5 percent during 
+the 1990-97 period, outpacing population growth (3.1 percent). Poverty declined and most social indicators 
+improved3. However, these gains were short-lived. After 2000, the country experienced a series of internal political 
+crises, and was negatively impacted by conflicts in neighboring countries (Liberia, Sierra Leone and Cote d’Ivoire)4. 
+Economic growth slowed and poverty increased from 49 percent in 2002 to 53 percent in 2007 and more than 55 
+percent in 2012. As is typical for many Sub-Saharan African countries, most of the poor are living in rural areas with a 
+poverty rate of 65 percent against 32 percent in urban area (2012). Per recent detailed surveys of food security in 
+Guinea5, close to a third of the country’s households (30.5 percent) are food insecure. 
+
+ 
+3. Economic growth resumed after 2010 following the presidential elections that resulted in a return to constitutional 
+
+order. Macroeconomic policies improved, structural reforms were carried out in key sectors and the country’s 
+cooperation with external partners improved. Guinea reached the Highly-Indebted Poor Countries (HIPC) Completion 
+Point in 2012 with the cancellation of two-thirds of its external debt. However, growth again faltered in 2013-2015 
+with the Ebola outbreak which had a devastating impact on economic activity6. Economic growth dropped drastically 
+to 2.4 percent in 2013, then 1.1 percent and 0.1 percent respectively in 2014 and 2015. GDP per capita declined 
+accordingly to -0.9 percent, -2.1 and -2.2 over those years. The Ebola crisis took a heavy toll on the agriculture and the 
+food sectors. Guinea like other African countries is highly vulnerable to internal and external shocks that can wipe out 
+hard-earned development gains, and worsen already entrenched poverty. However, in 2016 strong growth was 
+recorded (6.7 percent) driven by a strong harvest and the mining sector. 
+
+ 
+4. Mining and agriculture are the dominant sectors in the country. The agriculture sector represents 20 percent of GDP. 
+
+The mining sector currently consists of industrial-scale mining of bauxite, alumina and gold, and accounts for about 
+
+ 
+1 2015 Human Development Report (HDR) Work for Human Development; UNDP 2015. 
+2 Supported by the International Monetary Fund and the World Bank, focusing on macro-economic stabilization and the liberalization 
+
+of the economy. 
+3 Between 1985 and 1997, primary school enrolment increased from 29% to 51%; access to primary health care from 10% to 40%; 
+
+access to drinkable water from 28% to 55%. 
+4 Guinea recorded more than half-a million refugee.  
+5 “Evaluation de la sécurité alimentaire en situation d’urgence », PAM, July 2015; and « Guinea, Nutritional Assessment », Feed the 
+Future, USAID, 24 November 2015. 
+6 The World Bank estimates Ebola economic impact to 0.7 -2.3 % of GDP during 2014-2015. 
+
+
+20 percent of GDP, 80 percent of foreign currency earnings and 20 to 25 percent of government revenue. However, 
+the extractive industries do not create enough direct jobs opportunities. Secondly, strong investment and policies 
+from the Government are a condition to diversify the economy. Thirdly, the sector increases governance risks and the 
+potential for corruption. There is a strong risk that Guinea’s economy could become subject to the “resource curse” 
+resulting from an overreliance on extractive industries. Such undesirable developments can be avoided by increasing 
+investment in agricultural values chains to increase productivity and competitiveness, as well as investing in transport 
+and marketing infrastructure and energy to facilitate economic diversification, inclusive private sector development 
+and job creation. 
+ 
+
+Sectoral and Institutional Context 
+ 
+5. The economy of Guinea is not sufficiently diversified, and structural transformation is incomplete. The agricultural 
+
+sector is, along with the mining sector, the main engine of the economy7. Contrary to mining, which provides most of 
+
+the country’s export revenues but creates little employment, agriculture still occupies approximately 80 percent of 
+
+the active population. As a result, sustainable agricultural development is central to Guinea’s economic and social 
+
+development agenda.  
+
+6. Guinea is richly endowed with natural resources: 6.2 million ha of cultivable land, abundant rainfall and varied agro-
+
+climatic conditions favorable to the production of a wide variety of cash and food crops. This considerable potential 
+
+is largely underutilized. Only 25 percent of cultivable land is cultivated (including fallow land, with less than 10 percent 
+
+cropped every year). Only 32,000 ha have been developed for irrigation out of a potential of 360,000 ha (less than 10 
+
+percent).8 Agricultural productivity is very low, using extensive, rainfed agricultural and livestock farming systems. 
+
+Farms are small and produce primarily for household consumption, with very little marketed surplus. The main food 
+
+crops are cereals (rice, maize and fonio), root crops (cassava, yam, sweet potato and potato) and groundnut. Rice is 
+
+by far the main crop representing more than two thirds of all cultivated land, and produced by 80 percent of 
+
+agricultural households. It is also the main food import of the country. Women play particularly a key role in rice 
+
+production, processing and marketing. The main cash crops are coffee, cotton, cashew, oil palm and rubber. Their 
+
+importance in Agricultural GDP is negligible and exports are low despite the potential and market opportunity.  
+
+7. Guinea's agriculture is key for poverty reduction, job creation and food security. The country has not been able to 
+
+build on its natural advantages and on the traditional expertise of its farmers. Agriculture in Guinea is entangled in a 
+
+vicious circle starting from lack of investment, and distorted incentives and interference in markets, leading to low 
+
+productivity and competitiveness. Producers face high costs of factors and inputs, as well as high costs of 
+
+transformation and commercialization. Unable to invest in quality, their products are sold at low prices, and face 
+
+significant challenges reaching domestic and export markets.  
+
+8. As a result, Guinean agriculture is missing the positive outcomes that would have been generated from oversea 
+
+trade and market-oriented agribusiness, while other countries in the region have become world exporters of cash 
+
+crops. Agriculture in Guinea represents 11% of exports and 17% of imports (PNIASA 2012). Agricultural exports are 
+
+declining. In 2013, only five agricultural products were exported overseas: coffee, cocoa, rubber, cashew and mango. 
+
+Cotton and banana, once Guinean major exports, have disappeared from overseas market. Guinean fruits and 
+
+vegetables, as well as palm oil and rice are sold in neighboring countries, that are less demanding in terms of quality. 
+
+ 
+7 20% for agriculture, 41% for the industrial sector (of which 15%for the mining sector) and 34%for the service sector. 
+8 Of which 9 000 ha of bottom land (20% of potential), 15 000 ha of mangrove (13%), 8 000 ha of flood plains (6%). 
+
+To break the spell, a holistic approach to agriculture is needed, focused on markets, and enhancing upstream and 
+
+downstream linkages. 
+
+9. Agricultural growth has been driven by the increase in cultivated land estimated at 3% per year, consistent with the 
+
+increase in rural population. Agriculture suffers from very low productivity constrained by a combination of limited 
+
+use of improved technologies, failures in input, output and financial markets, and land tenure issues. Subsistence 
+
+farmers, who account for 95 percent of the cultivated area, use very few agriculture inputs (e.g. improved seeds, 
+
+fertilizer, pesticides, irrigation, and mechanization). Improved seeds are used on less than 8 percent of cultivated land 
+
+with only 7 kg of fertilizer used per hectare, per year (among the lowest use in Africa). Yields are very low and have 
+
+been stagnant for many years at less than 1t/ha for rainfed rice and 5 tons/ha for cassava. Many production areas are 
+
+cut off from markets for part or most of the year, access to financial institutions is nearly non-existent and post-harvest 
+
+losses are high (rice: 10 percent, maize: 15-20 percent, roots and tuber: 20-45 percent, fruits and vegetables: 30-60 
+
+percent) due to poor cultural practices and post-harvest handling, the lack of storage and deficient transport services.  
+
+Processing is negligible and mostly small-scale. The project would be instrumental in addressing these challenges.  
+
+10. Animal husbandry is an important activity for the rural population. Guinea has a large herd of mostly local breeds, 
+
+hardy and trypanotolerant9. Animal husbandry accounts for approximately 20 percent of Agricultural GDP and 4 
+
+percent of total GDP. It provides revenues to approximately 30 percent of agricultural households. It also provides 
+
+much needed animal protein to the population, and thus contributes to food security and nutritional status. Livestock 
+
+systems are mostly traditional, extensive and with low productivity. The country has significant advantages for 
+
+livestock production possessing large tracts of natural pasture land, water resources and ample availability of 
+
+agricultural sub-products. Thus, despite very low public investment (less than 5 percent of public investment is in the 
+
+agricultural sector), Guinea has registered reasonable long-term growth (3.8 percent per year). However, competition 
+
+for land with agriculture is increasingly causing conflict, and constraining prevailing extensive, transhumant cattle 
+
+raising systems. National production cannot keep up with demand, and the country has experienced a significant 
+
+increase in livestock imports, mostly poultry and milk.  
+
+11. Over the last few decades, increasing population pressures have been responsible for an accelerating degradation 
+
+of the natural resource base, most visible in mangrove areas along the coast and in Guinée Forestière. These anthropic 
+
+factors have been amplified by climate change. Data since 1960 show a continuous increase in temperature and 
+
+decline in rainfall, together with an increased variability in the start of the agricultural season and more frequent dry 
+
+spells and floods. Although difficult to predict with any precision, it is anticipated that these trends will continue in 
+
+the future, with important negative impacts on ecosystems and agricultural production with a decrease in crop yields 
+
+estimated at 10 to 25 percent by 205010. To mitigate these adverse developments, Guinea has prepared its Programme 
+
+d’Action National pour l’Adaptation aux Changements Climatiques (National Action Program for Climate Change 
+
+Adaptation - PANA, 2007) which identifies preventive and adaptation measures such as development of irrigation, 
+
+development and dissemination of drought-resistant varieties, protection of forests and watersheds, improved soil 
+
+and water conservation practices, environmental education, etc.  
+
+12. Regarding institutional context, the Government of Guinea has long recognized the critical role of agriculture for 
+
+economic growth and poverty reduction. It has prepared and implemented a series of strategies and plans. The most 
+
+recent are: (i) the Plan National d’Investissement Agricole et de Sécurité Alimentaire (National Agricultural and Food 
+
+ 
+9 Estimated in 2012 at 5.5 million cattle, 4.0 million small ruminants, 105.000 pigs and 24 million poultry. 
+10 Various models forecast a decline in rainfall of 100-to-400 mm and an increase in temperature of 1.5 to 3.0 degrees by 2050.  
+
+
+
+Security Investment Plan - PNIASA, 2013-2017), (ii) the Programme Accéléré de Sécurité Alimentaire et Nutritionnelle 
+
+et de Développement Agricole Durable (Accelerated Program of Food and Nutritional Security, and Sustainable 
+
+Agricultural Development - PASANDAD, 2016-2020), and (iii) the Plan National de Développment Economique et Social 
+
+(National Economic and Social Development Plan – PNDES, 2016-2020). PASANDAD is a strategy, an orientation 
+
+framework and a program fully integrated in the PNDES and aiming at improving food and nutrition security, 
+
+accelerating agricultural production (crop, animal, fish and forestry), improving commercialization, storage and 
+
+processing, and reducing foods imports. PNDES is targeting a primary sector growth rate of 8.1 percent by 2020 
+
+horizon by setting up agro-poles across the districts focusing on the development of values chains with high value-
+
+added, a core component of PASANDAD. Also, PASANDAD is seeking to spur implementation of PNIASA which will be 
+
+completed on December 31, 2017.  
+
+13. A detailed analysis of PNIASA achievements has been initiated in the context of preparation of the successor 
+
+program (PNIASA 2) for the 2018-22 period. This assessment is on-going and preliminary results from 2015 showed 
+
+clearly that, although some positive results were achieved, most of PNIASA’s strategic objectives will not be met: 
+
+▪ Actual growth in the sector has been lower than the PNIASA annual 6 percent growth target with 5.1 percent in 
+
+2013, 2.7 in 2014 and 4.1 in 2015. Like most of Sub-Saharan African countries, Guinea did not meet the ECOWAS 
+
+and CAADP 6 percent agricultural growth goal;  
+
+▪ About rice production, the objectives - a 300 percent increase in production through increased use of irrigation, 
+
+a doubling of yields (from 1.2 to 2.45 t/ha) and the elimination of rice imports - will not be achieved. Rice 
+
+production continued to increase at about 3% per year, largely through the expansion of cultivated areas, and rice 
+
+imports have increased;  
+
+▪ Regarding food crop diversification, while satisfactory results have been achieved with maize and fonio 
+
+production which has exceeded PNIASA’s objectives, the production of cassava has not; 
+
+▪ With respect to cash crop production and exports, there has been no significant increase, as the current business 
+
+environment related to access to markets, inputs and services is still not conducive to large private investments 
+
+in agricultural sector;    
+
+▪ Concerning livestock production, despite very little public support with less than 2 percent of the agricultural 
+
+budget, the sector continued to show reasonable annual growth of about 4 percent on the strength of its 
+
+traditional extensive systems and also of the development of peri-urban poultry production;  
+
+▪ Regarding development of infrastructure, only 1,400 km of rural roads have been rehabilitated through 2015, 
+
+against an objective of 3,000 km (47 percent), and only 10,000 ha brought under irrigation to date against the end 
+
+of the Plan target of 110,000 ha. 
+
+ 
+
+14. The disappointing results registered so far are due in part to the impact of the Ebola epidemic, as well as a large 
+
+shortfall in the PNIASA financing plan. The financing plan suffered from two clear weaknesses: (i) an extreme 
+
+dependency on external sources (approximately 90 percent of financing); and (ii) the low level of financial resources 
+
+mobilized at the start (less than 25 percent). In fact, annual budget allocations for the sector averaged 5 percent, much 
+
+lower than anticipated by PNIASA’s financing plan and the Maputo objective of 10% public spending on agriculture. 
+
+As lessons learnt from PNIASA underperformance, it is worthy to have ambitious development objective, but 
+
+mobilization of required resources and its efficient distribution and use across the activities driving growth are critical 
+
+to meet it. Also, whatever the agricultural potential and opportunities offered by the country, private sector could be 
+
+attracted if and only the business environment is favorable. 
+
+15. Like the new PNDES approved in June 2017 by the Parliament, PNIASA 2 will be consistent with the African Union’s 
+
+Agenda 2063 for the structural transformation of Africa, the Paris Agreement (COP 21) on climate change and the 
+
+UN’s Universal Program for Sustainable Development.  PNIASA 2 will also be based on the main principles of the 
+
+Malabo Declaration (2014) which reaffirms that agriculture is at the heart of Africa’s economic and social development 
+
+while enlarging governments’ commitments to areas, such as rural infrastructure, natural resource management and 
+
+nutrition which, are critical for agricultural growth and poverty reduction.  
+
+16. Realigning its interventions to the PASANDAD, World bank will support the development of value chains and the 
+
+emergence of commercial agriculture, complementing ongoing operations with (i) the proposed IDA operation 
+
+focusing on selected staple crops for domestic and regional market, (ii) an IBRD-enclave operation focusing on 
+
+potentially exportable crops for international market, (iii) another IDA operation on rural mobility and connectivity, 
+
+and (iv) a Development Policy Operation (DPO) supporting structural reform in the governance of the sector and 
+
+particularly the agricultural subsidy program for more targeting, transparency and efficiency. In addition, a review of 
+
+the agricultural sector and the Systematic Country Diagnostic (SCD) are being completed. The proposed project will 
+
+draw heavily on findings from these analytical works.  
+
+17. Progress is being made by the Agriculture Sector Support Project (PASA-G) on strengthening institutional capacity 
+
+and by the West Africa Agricultural Productivity Program (WAAPP) on reinforcing research, regional transfer of 
+
+innovations and improved technologies to farmers, and rebuilding seeds production systems. Building on these 
+
+achievements, to pave way for structural agricultural transformation for inclusive economic growth and poverty 
+
+reduction, Guinea needs to: (i) increase agricultural productivity through a climate-smart intensification and 
+
+sustainable mechanization of the production systems to create jobs, leveraging on WAAPP; (ii) develop and integrate 
+
+agricultural values chains and food systems to increase value addition; (iii) improve competitiveness and develop 
+
+agricultural markets seizing upon growing domestic, regional and international food demand; (iv) reinforce basic 
+
+production infrastructure and logistics to enable irrigation, connection, connectivity or mobility, storage and agro-
+
+processing for a better agri-business environment more attractive to the private sector. Also, a special attention 
+
+should be paid to finding ways to attract youth to modern agribusiness including access to water and land-efficient 
+
+technologies, modern labor-saving irrigation and agro-processing technologies, and advisory and financial services. 
+
+The project will be instrumental in contributing to this development agenda. 
+
+Relationship to CPF 
+ 
+18. The last closing Guinea Country Partnership Strategy (CPS, 2014-2017) focused on: (i) improving governance and 
+
+service delivery, (ii) stimulating growth and economic diversification, and (iii) strengthening human capital. A 
+
+Systematic Country Diagnostic (SCD) is being completed. The SCD identified two hypotheses and the five most critical 
+
+binding constraints and opportunities facing Guinea in achieving the World Bank Group’s twin goals of ending extreme 
+
+poverty and boosting shared prosperity. The first hypothesis arguing that poor political and economic governance is 
+
+at the center of Guinea’s development difficulties, leading to natural resources mismanagement, institutional 
+
+fragmentation, and ineffective public investment. The second hypothesis is that low levels of structural transformation 
+
+are affected by unproductive agriculture and poorly planned urbanization. Guinea’s position regarding agriculture is 
+
+interesting since Guinea is performing significantly below its potential despite abundant rainfall and agricultural land. 
+
+For a variety of historical reasons, agriculture was not given prominence in Guinea, and the potential for agricultural 
+
+development remains largely underexploited. The three critical binding constraints related to agriculture are the 
+
+following. First, although resilient, Guinea’s agriculture is underperforming, partly due to farmers’ limited access to 
+
+quality inputs (fertilizer, seeds, and equipment). Second, Guinea’s poor infrastructure (road, ports and logistics 
+
+services, power and telecommunications) is a major obstacle to private sector development. Finally, access to finance 
+
+is difficult for smallholders and entrepreneurs and low levels of private investment and undercapitalization are 
+
+manifest. Taken together, the improvement in these constraints will be able to help Guinea move forward. The project 
+
+will be instrumental in addressing most of these constraints in the agricultural sector by improving productivity, value 
+
+chain diversification and integration, market development and competitiveness, infrastructures and logistics to enable 
+
+agribusiness development and create job. A multisector approach will be used bringing Agriculture, Trade and 
+
+Competitiveness, and Transport Global Practices to team up. The project will support anticipatively the 
+
+implementation of the upcoming CPS which will be guided by findings from the SCD. The project is also consistent 
+
+with the Africa Regional Strategy. 
+
+C. Proposed Development Objective(s)  
+ 
+19. The Project development objective is to increase productivity, processing and market transactions between producers 
+
+and other actors participating in targeted agricultural values chains in the project areas. 
+
+Key Results (From PCN) 
+ 
+20. The proposed PDO level performance indicators are: i) Number of Farmers reached with agricultural assets or services 
+
+of which female (at least 40%) and youth (at least 10%); ii) Increase in productivity (ton/ha) of targeted agricultural 
+
+commodities by direct beneficiaries; (iii) Volume of targeted agricultural commodities processed with the new 
+
+facilities (t); and (iv) Increase in volume of market sales of targeted agricultural commodities by Project-supported 
+
+beneficiaries (%). A detailed result monitoring framework and indicators would be developed during project 
+
+preparation.  
+
+21. It is expected that the project would result in increased productivity and production coupled with reduced post-
+
+harvest losses, more integrated agricultural systems, improved product range and quality, more efficient processing 
+
+with a better access to facilities, and improved marketing and mobility, thereby generating additional incomes for 
+
+producers and other operators in the targeted value chains. The preliminary selected value chains are rice, maize, 
+
+horticulture (vegetables and fruits), livestock (poultry in particular) and aquaculture (fresh, dry and smoked fish) for 
+
+which market opportunities exist and productivity gains are achievable through better water control and adoption of 
+
+proven technologies leveraging on WAAPP. These commodities present potentially profitable business opportunities 
+
+that can attract youth and the private sector and contribute directly to rural poverty reduction as production is 
+
+dominated by poor smallholders. The project will be gender-sensitive targeting both men and women as key players 
+
+of the value chains. It is expected also that the project would develop an innovative business model for youth insertion 
+
+in agribusiness replicable throughout the region. 
+
+22. The project would contribute to integrated agricultural development to improve food security, income and youth 
+
+employment. This would be achieved by improving productive infrastructure, integrating values chains, and 
+
+developing agribusinesses and markets. An integrated approach would be used vertically along the targeted values 
+
+chains and horizontally across the selected agricultural subsectors including crops, livestock and aquaculture.  
+
+ 
+
+D. Concept Description 
+
+
+23. The design of the proposed project would build upon the achievements and lessons learned from the 
+
+implementation of on-going or closed projects and programs in Guinea and elsewhere in the region. Close 
+
+coordination and synergy would be sought with ongoing or upcoming projects and programs, and approaches would 
+
+be harmonized to leverage support in critical areas, optimize development outcomes and avoid duplication. In 
+
+particular, partnerships would be sought with (i) the project financed by Agence Française de Développement (French 
+
+Development Agency - AFD) and the European Union (EU) for developing rice-cum-fish production; (ii) the forthcoming 
+
+AFD-financed rural road project; (iii) the Third Village Community Project (PACV) financed by IDA and AFD; (iv) the 
+
+West African Agricultural Productivity Program (WAAPP) financed by IDA; (v) the Agriculture Sector Support Project 
+
+(PASA-G); (vi) the Agricultural Services Support Project financed by USAID under its « Feed the Future » Program; (vii) 
+
+the Growth Pole Project under preparation for funding by the Abu Dhabi Development Fund; (viii) the upcoming rural 
+
+mobility and connectivity project financed by IDA; and (ix) the future IBRD-enclave project.  
+
+24. The design of the project considers the growing need for Guinea to transformits agriculture sector by increasing 
+
+substantially productivity and resilience against climate change, integrating values chains, developing markets, 
+
+improving competitiveness, and reinforcing infrastructure to foster economic growth, improve food security and 
+
+nutrition, and contribute to end extreme poverty. With the increasing concern for youth employment, it is more than 
+
+ever critical to enable agriculture to offer attractive business opportunities for youth. The project will focus support 
+
+on (i) a selected number of value chains that are both important in terms of food and nutrition security, and have 
+
+significant development potential to respond to market opportunities; (ii) a selected geographical area to resolve the 
+
+binding constraints on productivity, quality, value-addition and market linkages. 
+
+25. The proposed project would consist of four interconnected components structured as follows: 
+
+Component 1:  Supporting productive infrastructure and logistics systems 
+ 
+
+26.  This component would support critical public and private infrastructure and logistics systems required to better 
+valorize land and water resources to improve productivity and competitiveness of agricultural value chains. It would 
+consist of three sub-components: 
+ 
+
+27. Subcomponent 1.1: Water control and management. This subcomponent would consist of improving water 
+
+management and small scale irrigation systems within existing irrigation schemes to be rehabilitated or developed. 
+
+Land planning and water management are critical in strengthening resilience and increasing productivity and 
+
+competitiveness. This would enable the expansion of cropped areas, the mechanization of production systems and 
+
+production two to three times a year and consequently, yield increases. Increasing the cropping intensity is yet an 
+
+opportunity to be exploited for Guinea agricultural development. Less than 10% of the irrigable land estimated at 
+
+360,000 ha is developed. Also, the project would contribute to restore and develop under-used low-land (9,000 ha 
+
+out of a potential of 180,000 ha) and flood plains (8,000 ha out of a potential of 200,000 ha). A master planning study 
+
+on irrigation is underway and will inform the interventions areas and perimeters to be targeted. By targeting some 
+
+works with no or limited environmental impact such as catchment weirs and drainage networks, supporting small-
+
+scale irrigation systems and promoting the adoption of efficient water and land management technologies, the project 
+
+would contribute significantly to developing irrigated agriculture in line with PANSANDAD priorities. It would support 
+
+the use of improved labor-saving irrigation systems to modernize horticultural production, alleviate women’s 
+
+irrigation burden and attract youth to this business. It would finance water user associations and develop management 
+
+procedures and guidelines to ensure the sustainability of irrigation infrastructures. The project would aim at a 
+
+substantial increase in yield in the irrigated perimeters, leveraging on WAAPP for producer access to improved 
+
+certified seeds and technologies.  
+
+28. Subcomponent 1.2: Storage, conditioning and logistics systems. This subcomponent would address the lack of 
+
+agricultural machinery, storage, conditioning and logistics assets that prevent value chain development. It would seek 
+
+to improve postharvest management facilities to improve quality, lower costs and enhance competitiveness, 
+
+particularly for domestically produced rice and horticultural crops. In particular, the project would finance: (i) storage 
+
+facilities for adequate conservation of the harvest; (ii) agro-processing equipment to reduce post-harvest losses and 
+
+allow processing and packaging of agricultural produces for value addition; (iii) production and processing facilities for 
+
+livestock (poultry and milk) and fish produces (smoked and dry); (iv) agricultural market infrastructure; and (v) 
+
+processing platforms in targeted large production zones and in partnership with the upcoming IBRD-Enclave 
+
+operation. Investment selection would be based on selection criteria including economic analyses. Investments would 
+
+require a business plan, a mechanism for sustainable operation, and be tied to market demand.  Private sector 
+
+involvement in those investments could be structured either through direct investment, joint ventures or PPP projects.  
+
+29. Finally, the project would work closely with the Rural Mobility and Connectivity project under preparation to unlock 
+
+production areas, connect farmers to markets, and attract private sector investment in agricultural values chains.  The 
+
+required roads to be built in the targeted areas would be jointly identified. 
+
+Component 2: Increasing agricultural productivity 
+ 
+
+30. Subcomponent 2.1: Access to quality inputs and machinery. The project would leverage on WAAPP to enable the 
+
+wide diffusion of improved technologies including certified seeds of improved varieties, fertilizers, best and 
+
+environmentally-friendly practices for the intensification of production systems. The project’s emphasis would be on 
+
+supporting appropriate and sustainable agricultural mechanization through the transfer of improved motorized 
+
+machinery developed throughout the region leveraging on WAAPP, the development of machinery services and 
+
+leasing systems. The project would provide financial and technical assistance for entrepreneurs developing 
+
+agricultural machinery and using appropriate technology to develop prototypes and systems.  It would engage these 
+
+entrepreneurs via business plan competitions and matchmaking with regional and international incubators for 
+
+innovation and appropriate technology.  
+
+31. Subcomponent 2.2: Institutional strengthening. Leveraging on WAAPP, the project would provide support to the 
+
+national extension service, the Agence National de la Promotion Rurale et du Conseil Agricole (National Agency for 
+
+Rural Promotion and Agricultural Council - ANPROCA), strengthening its institutional capacity through financial and 
+
+logistic support, and capacity building. Efforts would be put on connecting and articulating agricultural extension 
+
+services to research to enable dissemination of improved technologies and agricultural advisory services. 
+
+Component 3: Developing and integrating agricultural values chains  
+ 
+
+32. Subcomponent 3.1: Capacity building and value chain coordination. Under this sub-component, the project would 
+
+strengthen the technical and management skills of producers’ groups including youth and women’s groups, 
+
+cooperatives, professional associations and other stakeholders benefiting from the project. With support from agro-
+
+processing research institutes, more sophisticated agribusiness firms, NGOs and entrepreneurship incubators, training 
+
+would focus on improving and upgrading agro-processing technologies. Training may concern packaging and 
+
+compliance with food safety standards for quality assurance while promoting artisanal agro-processing. Training in 
+
+
+accounting, operations, using technology for business, financial management and marketing may be provided. The 
+
+project would develop, adapt and/or deliver training on a range of business and technical subjects. Innovative personal 
+
+initiative training that encourages entrepreneurial thinking and problem solving may also be delivered. Building on 
+
+WAAPP experiences, innovation platforms may be created or reinforced for some value chains to develop partnerships 
+
+among stakeholders. These efforts would build on, and may form partnerships with past and present training and 
+
+capacity building efforts of World Bank Group partners, and other donors and organizations. IFC’s Agribusiness team 
+
+may help replicate its Agribusiness Leadership Program which aims to professionalize producers/cooperatives by 
+
+improving their technical and managerial capacity, and supporting them to access finance. The project may collaborate 
+
+with IFAD’s program (Plan National d’Appui aux Acteurs des Filières Agricoles) whose objective is also to provide 
+
+capacity building to farmer’s organization in the same value chains targeted by this project. FAO and AFD have similar 
+
+programs in different value chains. Finally, for coordination of all initiatives on farmer’s professionalization, the project 
+
+may work within the local Market Ecosystem Alliance (AMEA) platform, under creation by the IFC’s Agribusiness 
+
+advisory team, which aims to standardize tools and mechanisms for farmers’ professionalization. For SMEs, more 
+
+involved at the middle of value-chains (processing, packaging, storage, transportation), the recently-created SME 
+
+Business center under Guinea MSME Project has the potential to become a robust platform to provide technical and 
+
+management capacity to SME. The project would take stock of the SME Business Center’s development with an aim 
+
+to partnering with it to deliver technical assistance and services.  
+
+33.  Subcomponent 3.2: Access to finance for agribusiness development. This subcomponent would promote youth 
+
+entrepreneurship and private sector investment in agribusiness through a matching grant mechanism to be defined 
+
+in consultation with stakeholders. The project would support development of Micro, Small and Medium Agribusiness 
+
+Enterprises (MSMAEs) to increase domestic production and processing of high-quality rice, horticultural produces 
+
+(mango, pineapple, banana, potatoes etc.), and livestock, particularly for poultry and dairy products, and fish 
+
+(aquaculture, dry and smoked fish etc.). The percentage of cost sharing required by beneficiaries would be determined 
+
+during the project design phase. The matching grants may be disbursed through one or more windows each targeting 
+
+specific types of beneficiaries, kinds of financial support or objectives. Training and capacity building activities would 
+
+be made available to complement financing. The project would develop relationships with financial institutions to 
+
+encourage co-financing of beneficiaries’ activities. Under this subcomponent, support would be given to the creation 
+
+of integrated aquaculture-poultry-rice firms leveraging experience developed in Nigeria under the West and Central 
+
+Africa Council for Agricultural Research and Development (CORAF/WECARD) Multi-Donor Trust Fund.  In addition, this 
+
+subcomponent would support the development of agricultural machinery services led by youth groups or producers’ 
+
+organizations.   
+
+34. Subcomponent 3.3: Formation of productive alliances for cash crops. The productive alliance is an economic 
+
+agreement between a group of organized producers and a buyer (intermediary, wholesaler, agro-processor or 
+
+processor, international mining company) in which all parties assume risks, provide resources, and share the benefits, 
+
+such that the agreement can continue over the medium and long term. The subcomponent’s main output would be 
+
+the implementation of subprojects with clearly defined and sustainable goals, and cost sharing accompanied by 
+
+technical assistance and business development services. It would help build productive alliances between rural 
+
+producers and their buyers (intermediaries, wholesalers, processors or exporters) for cash crops value chains, and 
+
+finance part of joint business plans. By formalizing relationships among value chain actors, the project would facilitate 
+
+access to finance and expand opportunities for investment in cash crop value chains ultimately increasing the revenues 
+
+of producers and industrial firms, improving the quality of Guinean products, and increasing exports and value added.  
+
+
+
+35. This subcomponent would leverage past and ongoing efforts in Guinea to study and develop productive alliances. The 
+
+World Bank and the IFC have undertaken studies to identify potential sectors and potential value chain participants 
+
+for productive alliances. This effort would be linked to IFC’s network of more sophisticated agribusinesses that may 
+
+be interested in buying from producers’ associations associated with the project. This subcomponent would link with 
+
+IFC and World Bank work with financial institutions to de-risk, identify opportunities and increasingly lending to 
+
+agribusinesses. Furthermore, the project would leverage ongoing IFC initiatives supporting the development of the 
+
+local content in the mining sector specifically to overcome obstacles to selling food to the mines.  
+
+36. Subcomponent 3.4: Provision of the market information system: This subcomponent would finance collaboration 
+
+with producers’ and marketing associations to provide agribusinesses with the information they need to plan their 
+
+operations and transact with their customers. The project would build upon pre-existing IT solutions in place where 
+
+possible, or create new systems that are responsive to the needs of agribusinesses, their suppliers and their 
+
+customers, and managed by market-oriented organizations. The goal would be to link producers to customers in 
+
+markets in urban areas in Guinea and in neighboring countries, build business relationships between buyers and 
+
+sellers, and facilitate transactions. A survey of market information systems initiatives and use, and an action plan 
+
+would be prepared during project preparation.  
+
+37. Subcomponent 3.5: Support to investment promotion in agricultural value chains. Through a results-based 
+
+Memorandum of Understanding (MoU) with the Investment Promotion Agency (APIP), this subcomponent would 
+
+finance experts, targeted Technical Assistance (TA), consulting services, trainings, and IT development and equipment 
+
+to facilitate private investments in agribusiness and cash crop value chains. Support for APIP under the Guinea MSME 
+
+Development Project has increased the Agency’s capabilities, but agribusiness investing is and requires special 
+
+attention. The new project would continue to support APIP so that it can attract and retain agribusiness investors, 
+
+both foreign and domestic. This subcomponent would also fund efforts to improve public-private dialogue to inform 
+
+policy decisions that take stock of the needs of agribusiness investors. The project would use the World Bank-
+
+developed framework, “Enabling the Business of Agriculture,” to identify business environment constraints to 
+
+investment support activities to overcome them.  
+
+ 
+
+Component 4: Project implementation and coordination 
+ 
+
+38. This component aims to ensure that the project is efficiently managed, monitored, and that performance and impacts 
+
+are carefully tracked. It would: (i) finance the incremental expenses incurred in implementing the project through the 
+
+project implementation unit (PIU) and the participating field implementing agencies and various service providers; (ii) 
+
+provide technical assistance through consultancies, audits, and training to enhance implementation capacity of the 
+
+PIU; (iii) finance communication and outreach activities; (iv) finance monitoring and evaluation of project outcomes 
+
+and impacts; (v) support institutional strengthening to ensure sustainability of the project; and (vi) provision funds to 
+
+address emergency demands arising from natural disasters or other shocks.  
+
+39. Finally, the project may finance the agricultural census in partnership with others donors.  
+ 
+
+  
+
+  SAFEGUARDS 
+
+ 
+
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+Activities with a physical footprint includes water control and management, building or rehabilitating storage facilities 
+
+and establishment or development of Micro, Small and Medium Agribusiness Enterprises (MSMAEs) to increase domestic 
+production and processing capacities for staple crops including high-quality rice, horticultural produces (mango, 
+pineapple, banana, potatoes etc.), livestock and particularly poultry and dairy produces, and fish produces (aquaculture, 
+dry and smoked fish etc.). The physical locations and specific details of the proposed project interventions are not as yet 
+known. 
+ 
+
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+This preliminary Borrower’s institutional Capacity for Safeguard policies will be completed during the project preparation 
+
+to complete the information that are not yet available. The preliminary assessment considers:  
+(i)-Policy framework:  
+Article 19 (3) of the constitution states that: "the People has the right to the preservation of his heritage, culture and of 
+
+its environment ".  Therefore, the environmental policy framework is rooted in the provisions of the Constitution. The 
+Environment code was published on May 28, 1987. In November 8, 1989 the government published a Decree Regulating 
+Impact Studies. 
+(ii)-Operationalization of policy framework:  
+The national Environmental and Social Assessment and ESIA review process is under the responsibility of the Ministry of 
+
+the Environment through the Guinean Bureau of Studies and Environmental Assessment (BGEEE). It is part of its functions 
+to monitoring and preserving the quality of the environment and advising the Government on the environmental issues. 
+Since March 2013, the Government adopted a General Environmental Assessment Guide that provides project 
+
+developers with technical support to carry out environmental and social impact studies necessary for a better analysis of 
+their projects.  
+(iii)-Resourcing 
+In general, the ministry of environment and other state institutions in charge to handle environmental and social issues 
+
+including BGEEE are poorly staffed.  
+At the institutional level, environmental and social units are set up in the main sectors (agriculture, livestock and 
+
+fisheries). At the decentralized level, the environmental monitoring committees (CPSE) exist.  
+At the concept stage of the project, the structure that will host the PIU is not yet found.  Once defined, an in-depth 
+
+assessment will be conducted and an action plan defined. The Unit will hire full time Environmental and Social 
+Development Specialists during project preparation and implementation period.  
+(iv)-Practice/outcomes/track record 
+BGEEE statistics are not published yet annually  confirming that a robust archiving system will be necessary.  Despite the 
+
+past experience with the WB safeguards policies implementation (WAAPP, PASAG, PRAO…) the borrower capacity to 
+ensure the safeguards implementation in the in the satisfactory manner remains low and more capacity building will be 
+needed including the logistic support to BGEEE. 
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The proposed project is categorized as B under this OP 
+because its potential social and environmental risks 
+are expected to moderate and mostly site specific, 
+with no significant or long-term negative impacts. The 
+potential environmental impacts are related to 
+components 1, 2 and 3 activities ( Water control and 
+management, building or rehabilitating storage 
+facilities and establishment or development of Micro, 
+Small and Medium Agribusiness Enterprises (MSMAEs) 
+to increase domestic production and processing 
+capacities for high-quality rice, horticultural produces 
+(mango, pineapple, banana, potatoes etc.), livestock 
+and particularly poultry and dairy produces, and fish 
+produces (aquaculture, dry fish etc.).   An ESMF will be 
+prepared and disclosed prior appraisal to guide the 
+way that potential negative environmental and social 
+impacts of future sub-projects (following the positive 
+list) will be identified and mitigated during the project 
+implementation. In the meantime, specific sites will be 
+identified during the project preparation and 
+ESIAs/EMPs prepared for the first year of the project 
+implementation. 
+
+Natural Habitats OP/BP 4.04 TBD  
+
+Forests OP/BP 4.36 TBD 
+
+The decision to trigger or not this policy will be taken 
+prior appraisal. Nevertheless, the project activities will 
+avoid any negative impacts on the health and quality 
+of forests. The project will avoid financing any activity 
+that should have any negative impact in the natural 
+forests. The ESMF will include sections relevant on 
+how. 
+
+Pest Management OP 4.09 Yes 
+
+The project activities will likely increase the use of 
+chemical pesticides which could have negative 
+environmental and health impacts. A pest 
+management plan will be prepared to mitigate this 
+risk. Moreover, the Project will support the diffusion 
+of best agricultural practices environmentally-friendly 
+including  integrated pest management practices 
+combining chemical and biological control of pest and 
+disease to support sustainable agriculture. 
+
+
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The proposed operation will involve excavations and 
+movement of earth for the building facilities. During 
+the development of the ESMF physical cultural 
+resources will be taken into consideration and 
+baselines defined.  The ESMF will include clear 
+procedures that will be required for identification, 
+protection of cultural property from theft, and 
+treatment of discovered artifacts, and will be included 
+in standard bidding documents. The ESMF will also 
+provide procedures for handling with “chance finds” 
+during implementation project activities. 
+
+Indigenous Peoples OP/BP 4.10 No  
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Involuntary Resettlement is triggered in the vent that 
+sub-projects should involve involuntary resettlement 
+as the Project will finance construction/rehabilitation 
+of processing facilities; and infrastructures that may 
+imply land acquisition in the covered areas. A RPF will 
+be prepared that will guide the management of such 
+situations should they arise during project 
+implementation. RAPs will be prepared as and when 
+necessary. 
+
+Safety of Dams OP/BP 4.37 No The project is not anticipating financing any dam. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project does not anticipate any wide activity that 
+could impact international waterways. only small 
+irrigation scheme will be rehabilitated or developed. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The project does not anticipate any disputes in the 
+targeted area. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Feb 15, 2018 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+Terms of reference for consultants in charge of safeguard-related studies will be completed in October 30, 2017 and 
+
+consultants will be hired by November 30, 2017. 
+ 
+Environmental and Social Management Framework (ESMF), Pest Management Plan (PMP), and Resettlement Policy 
+
+Framework (RPF),) will be delivered by January 30, 2018. 
+ 
+ 
+

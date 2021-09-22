@@ -1,0 +1,913 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51081-002: Climate Change and Disaster-Resilient Water Resources Sector Project
+
+
+LOAN NUMBER 3746-KGZ(COL)
+
+LOAN AGREEMENT 
+(Ordinary Operations [Concessional])
+
+(Climate Change and Disaster-Resilient Water Resources Sector Project)
+
+between
+
+KYRGYZ REPUBLIC
+
+and
+
+ASIAN DEVELOPMENT BANK
+
+DATED
+
+KGZ 51081
+
+
+
+LOAN AGREEMENT
+(Ordinary Operations [Concessional])
+
+LOAN AGREEMENT dated //^^^^Z f̂eetween KYRGYZ REPUBLIC 
+
+(“Borrower”) and ASIAN DEVELOPMENT BANK ("ADB”).
+
+WHEREAS
+
+(A) the Borrower has applied to ADB for a loan and a grant for the purposes 
+of the Project described in Schedule 1 to this Loan Agreement;
+
+(B) by a grant agreement between the Borrower and ADB (“Grant 
+Agreement”), ADB has agreed to make a grant to the Borrower from ADB’s Special Funds 
+resources ("Grant”) in the amount of sixteen million eight hundred thousand Dollars 
+($16,800,000) for the purposes of the Project; and
+
+(C) ADB has agreed to make a concessional loan to the Borrower from 
+ADB’s ordinary capital resources upon the terms and conditions set forth herein;
+
+NOW THEREFORE the parties agree as follows:
+
+ARTICLE I
+
+Loan Regulations; Definitions
+
+Section 1.01. All provisions of ADB’s Ordinary Operations 
+(Concessional) Loan Regulations, dated 1 January 2017 (“Loan Regulations”), are hereby 
+made applicable to this Loan Agreement with the same force and effect as if they were fully 
+set forth herein.
+
+Section 1.02. Wherever used in this Loan Agreement, the several 
+terms defined in the Loan Regulations have the respective meanings therein set forth unless 
+modified herein or the context otherwise requires. Additional terms used in this Loan 
+Agreement have the following meanings:
+
+(a) “Consulting Services” means consulting services as described in the 
+Procurement Regulations and set out in the Procurement Plan, and to 
+be financed out of the proceeds of the Loan and the Grant;
+
+(b) “Disaster Risk Management Component” means that component of the 
+Project described in paragraph 2(c) of Schedule 1 to this Loan 
+Agreement;
+
+(c) "DWR” means the Department of Water Resources and Melioration 
+under the Ministry of Agriculture, Food Industry and Melioration of the 
+Borrower, or any successor thereto acceptable to ADB;
+
+
+
+2
+
+(d) “EARF" means the environmental assessment and review framework 
+for the Project, including any update thereto, prepared and submitted by 
+the Borrower and cleared by ADB;
+
+(e) “EMP” means the environmental management plan for a Subproject, or, 
+as may be required, for Hydrometeorology Installation Works, including 
+any update thereto, incorporated in the IEE;
+
+(f) “Environmental Safeguards" means the principles and requirements set 
+forth in Chapter V, Appendix 1, and Appendix 4 (as applicable) of the 
+SPS;
+
+(g) “Goods" means equipment and materials as set out in the Procurement 
+Plan and to be financed out of the proceeds of the Loan and the Grant, 
+including any related Nonconsulting Services such as transportation, 
+insurance, installation, commissioning, training, and initial maintenance;
+
+(h) “Hydrometeorology Installation Works" means Works to install any 
+hydrological and/or meteorological equipment under the Disaster Risk 
+Management Component of the Project, including any Works to install 
+the hydrological posts referred to in paragraph 2(c) of Schedule 1 to this 
+Loan Agreement;
+
+(i) “IEE” means the initial environmental examination for a Subproject, or, 
+as may be required, for Hydrometeorology Installation Works, including 
+any update thereto, prepared and submitted by the Borrower pursuant 
+to the requirements set forth in the EARF and cleared by ADB;
+
+(j) "Involuntary Resettlement Safeguards” means the principles and 
+requirements set forth in Chapter V, Appendix 2, and Appendix 4 (as 
+applicable) of the SPS;
+
+(k) "Irrigation Infrastructure Component" means that component of the 
+Project described in paragraph 2(a) of Schedule 1 to this Loan 
+Agreement;
+
+(I) “KyrgyzHydromet” means the Agency for Hydrometeorology under the 
+Ministry of Emergency Situations of the Borrower, or any successor 
+thereto;
+
+(m) "Loan Disbursement Handbook” means ADB’s Loan Disbursement 
+Handbook (2017, as amended from time to time);
+
+(n) “MOES" means the Ministry of Emergency Situations of the Borrower, 
+or any successor thereto acceptable to ADB;
+
+(o) “Nonconsulting Services" means nonconsulting services as described in 
+the Procurement Regulations and set out in the Procurement Plan, and 
+to be financed out of the proceeds of the Loan and the Grant;
+
+(p) “O&M” means operation and maintenance;
+
+
+
+3
+
+(q) “PAM” means the project administration manual for the Project dated 19 
+October 2018 and agreed between the Borrower and ADB, as updated 
+from time to time in accordance with the respective administrative 
+procedures of the Borrower and ADB;
+
+(r) “PIU” means the Project implementation unit to be established within 
+DWR to assist with the execution of the Project;
+
+(s) “Procurement Plan” means the procurement plan for the Project dated 
+19 October 2018 and agreed between the Borrower and ADB, as 
+updated from time to time In accordance with the Procurement Policy, 
+the Procurement Regulations, and other arrangements agreed with 
+ADB;
+
+(t) “Procurement Policy” means ADB’s Procurement Policy - Goods, 
+Works, Nonconsulting and Consulting Services (2017, as amended from 
+time to time);
+
+(u) "Procurement Regulations" means ADB’s Procurement Regulations for 
+ADB Borrowers - Goods, Works, Nonconsulting and Consulting 
+Services (2017, as amended from time to time);
+
+(v) "Project Executing Agency" for the purposes of, and within the meaning 
+of, the Loan Regulations and the Grant Regulations (as this term is 
+defined in the Grant Agreement) means DWR and MOES, both 
+individually and collectively, or any successor to either of them 
+acceptable to ADB, which is responsible for the carrying out of the 
+Project;
+
+(w) "Project facilities" means the irrigation infrastructure to be protected, 
+modernized and provided, and the equipment to be installed, piloted and 
+provided, under the project;
+
+(x) “RF" means the resettlement framework for the Project, including any 
+update thereto, prepared and submitted by the Borrower and cleared by 
+ADB;
+
+(y) “RP” means the resettlement plan for a Subproject, or, as may be 
+required, for Hydrometeorology Installation Works, including any update 
+thereto, prepared and submitted by the Borrower pursuant to the 
+requirements set forth in the RF and cleared by ADB;
+
+(z) “Safeguards Monitoring Report" means each report prepared and 
+submitted by the Borrower to ADB that describes progress with 
+implementation of, and compliance with, the EMP and the RP (as 
+applicable), including any corrective and preventative actions;
+
+(aa) "Services" means Consulting Services and Nonconsulting Services;
+
+(bb) "SPS” means ADB's Safeguard Policy Statement (2009);
+
+
+
+4
+
+(cc) “Subproject” means a subproject under the Irrigation Infrastructure 
+Component of the Project that meets the subproject eligibility criteria set 
+forth in the PAM;
+
+(dd) “Works" means construction or civil works as set out in the Procurement 
+Plan and to be financed out of the proceeds of the Loan and the Grant, 
+including any related Nonconsulting Services and project related 
+services that are provided as part of a single responsibility or turnkey 
+contract; and
+
+(ee) “WUA" means a water user association or union of water user 
+associations established and operating under the Law of the Kyrgyz 
+Republic on “Unions (Associations) of Water Users and Unions of Water 
+User Associations" adopted by the Parliament of the Kyrgyz Republic 
+on 8 February 2002 and signed by the President of the Kyrgyz Republic 
+on 15 March 2002, as such law may be amended from time to time.
+
+ARTICLE II
+
+The Loan
+
+Section 2.01. (a) ADB agrees to lend to the Borrower from ADB’s
+ordinary capital resources an amount of twenty-one million eight hundred thousand Dollars 
+($21,800,000).
+
+(b) The Loan has a principal repayment period of 24 years, and a grace 
+period as defined in subsection (c) hereinafter.
+
+(c) The term "grace period" as used in subsection (b) hereinabove means 
+the period prior to the first Principal Payment Date in accordance with the amortization 
+schedule set forth in Schedule 2 to this Loan Agreement.
+
+Section 2.02. The Borrower shall pay to ADB an interest charge at the 
+rate of 1% per annum during the grace period, and 1.5% per annum thereafter, on the amount 
+of the Loan withdrawn from the Loan Account and outstanding from time to time.
+
+Section 2.03. The interest charge and any other charge on the Loan 
+shall be payable semiannually on 15 May and 15 November in each year.
+
+Section 2.04. The Borrower shall repay the principal amount of the 
+Loan withdrawn from the Loan Account in accordance with the amortization schedule set forth 
+in Schedule 2 to this Loan Agreement.
+
+Section 2.05. The currency of repayment of the principal amount of the 
+Loan and the currency of payment of the interest charge for the purposes of Sections 4.03(a) 
+and 4.04 of the Loan Regulations shall be the Dollar.
+
+
+
+5
+
+ARTICLE III
+
+Use of Proceeds of the Loan
+
+Section 3.01. The Borrower shall cause the proceeds of the Loan to be 
+applied exclusively to the financing of expenditures on the Project in accordance with the 
+provisions of this Loan Agreement.
+
+Section 3.02. The proceeds of the Loan shall be allocated and 
+withdrawn in accordance with the provisions of Schedule 3 to this Loan Agreement, as such 
+Schedule may be amended from time to time by agreement between the Borrower and ADB.
+
+Section 3.03. Except as ADB may otherwise agree, the Borrower shall 
+procure, or cause to be procured, the Items of expenditure to be financed out of the proceeds 
+of the Loan in accordance with the provisions of Schedule 4 to this Loan Agreement.
+
+Section 3.04. Withdrawals from the Loan Account in respect of Goods, 
+Works, and Services shall be made only on account of expenditures relating to:
+
+(a) Goods which are produced in and supplied from and Works and 
+Services which are supplied from such member countries of ADB as 
+shall have been specified by ADB from time to time as eligible sources 
+for procurement; and
+
+(b) Goods, Works, and Services which meet such other eligibility 
+requirements as shall have been specified by ADB from time to time.
+
+Section 3. 05. The Loan Closing Date for the purposes of Section 8.02 
+of the Loan Regulations shall be 30 September 2025 or such other date as may from time to 
+time be agreed between the Borrower and ADB.
+
+ARTICLE IV
+
+Particular Covenants
+
+Section 4. 01. In the carrying out of the Project and operation of the 
+Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth 
+in Schedule 4 to this Loan Agreement
+
+Section 4. 02. (a) The Borrower shall (i) maintain separate
+accounts and records for the Project; (ii) prepare annual financial statements for the Project in 
+accordance with financial reporting standards acceptable to ADB; (iii) have such financial 
+statements audited annually by independent auditors whose qualifications, experience and 
+terms of reference are acceptable to ADB, in accordance with auditing standards acceptable 
+to ADB; (iv) as part of each such audit, have the auditors prepare a report, which includes the 
+auditors’ opinion(s) on the financial statements and the use of the Loan proceeds, and a 
+management letter (which sets out the deficiencies in the internal control of the Project that 
+
+
+
+6
+
+were identified in the course of the audit, if any); and (v) furnish to ADB, no later than 6 months 
+after the end of each related fiscal year, copies of such audited financial statements, audit 
+report and management letter, all in the English language, and such other information 
+concerning these documents and the audit thereof as ADB shall from time to time reasonably 
+request.
+
+(b) ADB shall disclose the annual audited financial statements for the 
+Project and the opinion of the auditors on the financial statements within 14 days of the date 
+of ADB’s confirmation of their acceptability by posting them on ADB’s website.
+
+(c) The Borrower shall enable ADB, upon ADB’s request, to discuss the 
+financial statements for the Project and the Borrower’s financial affairs where they relate to the 
+Project with the auditors appointed pursuant to subsection (a)(iii) hereinabove, and shall 
+authorize and require any representative of such auditors to participate in any such discussions 
+requested by ADB. This is provided that such discussions shall be conducted only in the 
+presence of an authorized officer of the Borrower, unless the Borrower shall otherwise agree.
+
+Section 4. 03. The Borrower shall enable ADB’s representatives to 
+inspect the Project, the Goods, the Works and the Services, and any relevant records and 
+documents.
+
+ARTICLE V
+
+Suspension; Acceleration of Maturity
+
+Section 5. 01. The following is specified as an additional event for 
+suspension of the right of the Borrower to make withdrawals from the Loan Account for the 
+purposes of Section 8.01 (m) of the Loan Regulations: the Borrower shall have failed to perform 
+any of its obligations under the Grant Agreement.
+
+Section 5. 02. The following is specified as an additional event for 
+acceleration of maturity for the purposes of Section 8.07(d) of the Loan Regulations: the event 
+specified in Section 5.01 of this Loan Agreement shall have occurred.
+
+ARTICLE VI
+
+Effectiveness
+
+Section 6. 01. The following is specified as an additional condition to the 
+effectiveness of this Loan Agreement for the purposes of Section 9.01(f) of the Loan 
+Regulations: the execution and delivery of the Grant Agreement on behalf of the Borrower 
+have been duly authorized or ratified by all necessary governmental action.
+
+Section 6. 02, The following is specified as an additional matter, for the 
+purposes of Section 9.02(d) of the Loan Regulations, to be included in the opinion or opinions 
+
+
+
+7
+
+to be furnished to ADB: that the Grant Agreement has been duly authorized or ratified by, and 
+executed and delivered on behalf of, the Borrower and is legally binding upon the Borrower in 
+accordance with Its terms, subject only to the effectiveness of this Loan Agreement,
+
+Section 6.03. A date 90 days after the date of this Loan Agreement is 
+specified for the effectiveness of this Loan Agreement for the purposes of Section 9.04 of the 
+Loan Regulations.
+
+ARTICLE VII
+
+Miscellaneous
+
+Section 7. 01. The Minister of Finance of the Borrower is designated as 
+representative of the Borrower for the purposes of Section 11.02 of the Loan Regulations.
+
+Section 7. 02. The following addresses are specified for the purposes 
+of Section 11.01 of the Loan Regulations:
+
+For the Borrower
+
+Ministry of Finance
+58 Erklndik Boulevard
+Bishkek 720040
+Kyrgyz Republic
+
+Facsimile Number:
+
+(996) 312 661 645
+
+For ADB
+
+Asian Development Bank
+6 ADB Avenue
+Mandaluyong City
+1550 Metro Manila
+Philippines
+
+Facsimile Numbers:
+
+(632) 636-2444 
+(632)636-2424.
+
+
+
+8
+
+IN WITNESS WHEREOF the parties hereto, acting through their 
+representatives thereunto duly authorized, have caused this Loan Agreement to be signed in 
+their respective names as of the day and year first above written and to be delivered at the 
+principal office of ADB.
+
+Authorized Representative
+
+CountryJOirector
+Kyrgyz Resident Mission
+
+
+
+9
+
+SCHEDULE 1
+
+Description of the Project
+
+1. The objective of the Project is improved climate change and disaster resilience
+of infrastructure and water security.
+
+2. The Project shall comprise:
+
+(a) the protection and modernization of irrigation infrastructure to improve 
+the productivity of approximately 20,000 hectares of irrigated land, 
+including by upgrading and constructing main (primary and secondary) 
+canals, lower-level (Intra-farm and on-farm) canals, and associated 
+infrastructure such as protective mudflow crossing structures, cross­
+regulators and offtakes;
+
+(b) the enhancement of (i) irrigation system management, including by 
+developing and Implementing joint DWR-WUA irrigation system 
+management plans with, among others, water delivery scheduling and 
+O&M financing and planning; and (ii) agricultural land management, 
+including by developing WUA on-farm water management and 
+agricultural management plans with, among others, irrigation 
+scheduling, cropping patterns, and cultural methods, and providing 
+capacity building for farmers and community members; and
+
+(c) the improvement of national disaster risk management capacity, 
+including by providing heavy machinery and special equipment for 
+preventative and rehabilitation works at the Northern and Southern 
+Emergency Response Centers of MOES; enhancing the asset 
+management of such centers; providing capacity building for disaster 
+risk management, including project planning; installing hydrological 
+posts for KyrgyzHydromet in approximately 20 sites; and piloting an 
+information system for enhanced data collection, processing and flood 
+warning.
+
+3. The Project is expected to be completed by 31 March 2025,
+
+SCHEDULE 3
+
+Allocation and Withdrawal of Loan Proceeds
+
+General
+
+1. The table attached to this Schedule sets forth the Categories of items of
+expenditure to be financed out of the proceeds of the Loan and the allocation of the Loan 
+proceeds to each such Category (“Table”), (Reference to “Category” in this Schedule is to a 
+Category of the Table.)
+
+Basis for Withdrawal from the Loan Account
+
+2. Except as ADB may otherwise agree, the proceeds of the Loan shall be
+allocated to items of expenditure and disbursed on the basis of the withdrawal percentage for 
+each item of expenditure set forth in the Table.
+
+Interest Charge
+
+3. The amount allocated to the Category "Interest Charge" is for financing the
+interest charge on the Loan during the implementation period of the Project ADB shall be 
+entitled to withdraw from the Loan Account and pay to itself, on behalf of the Borrower, the 
+amounts required to meet payments, when due, of such interest charge.
+
+Reallocation
+
+4. Notwithstanding the allocation of Loan proceeds and the withdrawal
+percentages set forth in the Table,
+
+(a) if the amount of the Loan allocated to any Category appears to be 
+Insufficient to finance all agreed expenditures in that Category, ADB 
+may, by notice to the Borrower, (i) reallocate to such Category, to the 
+extent required to meet the estimated shortfall, amounts of the Loan 
+which have been allocated to another Category but, in the opinion of 
+ADB, are not needed to meet other expenditures, and (ii) if such 
+reallocation cannot fully meet the estimated shortfall, reduce the 
+withdrawal percentage applicable to such expenditures in order that 
+further withdrawals under such Category may continue until all 
+expenditures thereunder shall have been made; and
+
+(b) if the amount of the Loan allocated to any Category appears to exceed 
+all agreed expenditures in that Category, ADB may, by notice to the 
+Borrower, reallocate such excess amount to any other Category.
+
+Disbursement Procedures
+
+5. Except as ADB may otherwise agree, the Loan proceeds shall be disbursed in
+accordance with the Loan Disbursement Handbook.
+
+
+
+13
+Attachment to Schedule 3
+
+TABLE
+
+ALLOCATION AND WITHDRAWAL OF LOAN PROCEEDS
+
+Number Item
+
+Total Amount Allocated 
+for ADB Financing 
+
+($)
+Category
+
+Basis for Withdrawal 
+from the Loan Account
+
+1
+DWR - Civil Works (Off-farm 
+Canal and Ancillary); Equipment & 
+Machinery; O&M; and Services
+
+10,390,973
+76.86% of total expenditure 
+claimed*
+
+2
+MOES - Civil Works; Equipment 
+& Machinery; O&M; and Services
+
+10,559,541 76.86% of total expenditure 
+claimed*
+
+3 Interest during Implementation 849,486 100% of amounts due
+
+TOTAL 21,800,000
+
+* Exclusive of taxes and duties imposed within the territory of the Borrower.
+
+
+
+14
+
+SCHEDULE 4
+
+Execution of Project
+
+Implementation Arrangements
+
+1. The Borrower, through DWR and MOES, shall ensure that the Project is
+implemented in accordance with the detailed arrangements set forth In the PAM and its 
+appendices. Any subsequent change to the PAM or its appendices shall become effective only 
+after the approval of such change by the Borrower and ADB. In the event of any discrepancy 
+between the PAM or its appendices on the one hand, and this Loan Agreement or the Grant 
+Agreement on the other, the provisions of this Loan Agreement and the Grant Agreement shall 
+prevail.
+
+Procurement
+
+2. The Borrower, through DWR and MOES, shall ensure that:
+
+(a) the procurement of Goods, Works and Services is carried out in 
+accordance with the Procurement Policy and the Procurement 
+Regulations;
+
+(b) Goods, Works and Services shall be procured based on the detailed 
+arrangements set forth in the Procurement Plan, including the 
+procurement and selection methods, the type of bidding documents, and 
+ADB’s review requirements; the Borrower may modify the detailed 
+arrangements set forth in the Procurement Plan only with the prior 
+agreement of ADB, and such modifications must be set out in updates 
+to the Procurement Plan; and
+
+(c) (I) all Goods and Works procured and Services obtained (including all
+computer hardware, software and systems, whether separately 
+procured or incorporated within other goods and services procured) do 
+not violate or infringe any industrial property or intellectual property right 
+or claim of any third party; and (ii) all contracts for the procurement of 
+Goods, Works and Services contain appropriate representations, 
+warranties and, if appropriate, indemnities from the contractor, supplier, 
+consultant or service provider with respect to the matters referred to in 
+this subparagraph.
+
+3. The Borrower, through DWR, shall not award any Works contract for a
+Subproject which involves environmental impacts until DWR has:
+
+(a) obtained the final approval of the IEE from the State Agency of 
+Environmental Protection and Forestry of the Borrower; and
+
+(b) incorporated the relevant provisions from the EMP into the Works 
+contract.
+
+
+
+15
+Schedule 4
+
+This paragraph 3 shall apply similarly to MOES for all Hydrometeorology Installation Works 
+that are covered by an IEE and EMP.
+
+4. The Borrower shall not award any Works contract involving involuntary
+resettlement impacts for a Subproject until the Borrower has prepared and submitted to ADB 
+the final RP for such Subproject based on the Subproject's detailed design and obtained ADB's 
+clearance of such RP. This paragraph 4 shall apply similarly to all Hydrometeorology 
+Installation Works that are covered by an RP.
+
+Environment
+
+5. The Borrower, through DWR and MOES, shall ensure that the preparation,
+design, construction, implementation, operation and decommissioning of the Project, each 
+Subproject, all Hydrometeorology Installation Works, and all Project facilities comply with (a) 
+all applicable laws and regulations of the Borrower relating to environment, health, and safety; 
+(b) the Environmental Safeguards; (c) the EARF; and (d) all measures and requirements set 
+forth in the respective IEE and EMP, and any corrective or preventative actions set forth in a 
+Safeguards Monitoring Report.
+
+Land Acquisition and Involuntary Resettlement
+
+6. The Borrower, through DWR and MOES, shall ensure that all land and all rights-
+of-way required for the Project, each Subproject, all Hydrometeorology Installation Works, and 
+all Project facilities are made available to the Works contractor in accordance with the schedule 
+agreed under the related Works contract and all land acquisition and resettlement activities 
+are implemented in compliance with (a) all applicable laws and regulations of the Borrower 
+relating to land acquisition and involuntary resettlement; (b) the Involuntary Resettlement 
+Safeguards; (c) the RF; and (d) all measures and requirements set forth in the respective RP, 
+and any corrective or preventative actions set forth in a Safeguards Monitoring Report.
+
+7. Without limiting the application of the Involuntary Resettlement Safeguards, the
+RF or any RP, the Borrower, through DWR, shall ensure that no physical or economic 
+displacement takes place in connection with any Subproject until:
+
+(a) compensation and other entitlements have been provided to affected 
+people in accordance with the RP for the Subproject; and
+
+(b) a comprehensive income and livelihood restoration program has been 
+established in accordance with the RP for the Subproject.
+
+This paragraph 7 shall apply similarly to all Hydrometeorology Installation Works that are 
+covered by an RP.
+
+Indigenous Peoples
+
+8. The Borrower, through DWR and MOES, shall ensure that the Project does not
+have any indigenous peoples impact within the meaning of the SPS. In the event that the 
+Project does have any such impact, the Borrower, through DWR and/or MOES (as the case 
+may be), shall take all steps required to ensure that the Project complies with the applicable 
+laws and regulations of the Borrower and with the SPS.
+
+
+
+16
+Schedule 4
+
+Human and Financial Resources to Implemerit Safeguards Requirements
+
+9. The Borrower, through DWR and MOES, shall make available necessary
+budgetary and human resources to fully implement the EMPs and the RPs.
+
+Safeguards - Related Provisions in Bidding Documents and Works Contracts
+
+10. The Borrower, through DWR and MOES, shall ensure that all bidding
+documents and contracts for Works contain provisions that require contractors to:
+
+(a) comply with the measures and requirements relevant to the contractor 
+set forth in the relevant IEE, EMP and RP (to the extent they concern 
+impacts on affected people during construction), and any corrective or 
+preventative actions set out in a Safeguards Monitoring Report;
+
+(b) make available a budget for all such environmental and social 
+measures;
+
+(c) provide the Borrower with a written notice of any unanticipated 
+environmental or resettlement risks or impacts that arise during 
+construction, implementation or operation of the Subproject or 
+Hydrometeorological Installation Works (as the case may be) that were 
+not considered In the relevant IEE, EMP or RP;
+
+(d) adequately record the condition of roads, agricultural land and other 
+infrastructure prior to starting to transport materials and construction; 
+and
+
+(e) fully reinstate pathways, other local infrastructure, and agricultural land 
+to at least their pre-Project condition upon the completion of 
+construction.
+
+Safeguards Monitoring and Reporting
+
+11. The Borrower, through DWR and MOES, shall do the following:
+
+(a) submit semi-annual Safeguards Monitoring Reports to ADB and 
+disclose relevant information from such reports to affected persons 
+promptly upon submission;
+
+(b) if any unanticipated environmental and/or social risks and impacts arise 
+during construction, implementation or operation of any Subproject or 
+Hydrometeorological Installation Works that were not considered in the 
+relevant IEE, EMP or RP, promptly inform ADB of the occurrence of 
+such risks or impacts, with detailed description of the event and 
+proposed corrective action plan; and
+
+
+
+17
+Schedule 4
+
+(c) report any actual or potential breach of compliance with the measures 
+and requirements set forth in an EMP or RP promptly after becoming 
+aware of the breach.
+
+Prohibited List of Investments
+
+12. The Borrower, through DWR and MOES, shall ensure that no proceeds of the
+Loan or Grant are used to finance any activity included in the list of prohibited investment 
+activities provided in Appendix 5 of the SPS.
+
+Labor Standards, Health and Safety
+
+13. The Borrower, through DWR and MOES, shall ensure that the core labor
+standards and the Borrower’s applicable laws and regulations are complied with during Project 
+implementation. The Borrower, through DWR and MOES, shall Include specific provisions in 
+the bidding documents and contracts financed by ADB under the Project requiring that the 
+contractors, among other things: (a) comply with the Borrower’s applicable labor law and 
+regulations and incorporate applicable workplace occupational safety norms; (b) do not use 
+child labor; (c) do not discriminate workers in respect of employment and occupation; (d) do 
+not use forced labor; (e) allow freedom of association and effectively recognize the right to 
+collective bargaining; and (f) disseminate, or engage appropriate service providers to 
+disseminate, information on the risks of sexually transmitted diseases, including HIV/AIDS, to 
+the employees of contractors engaged under the Project and to members of the local 
+communities surrounding the Project area, particularly women.
+
+14. The Borrower, through DWR and MOES, shall strictly monitor compliance with
+the requirements set forth in paragraph 13 above and provide ADB with regular reports.
+
+Gender and Development
+
+15. The Borrower, through DWR and MOES, shall ensure that (a) the GAP is
+implemented in accordance with its terms; (b) the bidding documents and contracts include 
+relevant provisions for contractors to comply with the measures set forth in the GAP; (c) 
+adequate resources are allocated for implementation of the GAP; and (d) progress on 
+implementation of the GAP, including progress toward achieving key gender outcome and 
+output targets, are regularly monitored and reported to ADB
+
+Counterpart Support
+
+16. The Borrower shall make available all counterpart funds required for the timely
+and effective implementation of the Project, including for any shortfall of funds or cost overrun, 
+through providing annual budget allocations and releasing applicable funds In a timely manner. 
+In addition, the Borrower shall provide all necessary support to DWR and MOES and ensure 
+that DWR and MOES have sufficient funds to satisfy all liabilities arising from any Works, 
+Goods and/or Services contract under the Project.
+
+Operational Covenants - DWR
+
+17. The Borrower, through DWR, shall appraise and select all Subprojects in
+accordance with the criteria and procedures set out in the PAM. The Borrower, through DWR, 
+
+
+
+18
+Schedule 4
+
+shall ensure that the selection of sites for the feasibility study of potential Subprojects, and the 
+selection of sites for the implementation of selected Subprojects, are undertaken in accordance 
+with criteria and procedures agreed upon between DWR and ADB as set out in the PAM and 
+its appendices.
+
+18. The Borrower, through DWR, shall ensure that each Subproject is implemented
+in accordance with applicable design and technical specifications and construction norms 
+satisfactory to ADB, and construction supervision, quality control and contract management 
+are performed in accordance with best international industry practice, The Borrower, through 
+DWR, shall ensure that the detailed design of each Subproject incorporates the findings of the 
+climate risk assessment that was undertaken as part of the feasibility study of the Subproject.
+
+19. (a) The Borrower, through DWR, shall ensure that all Project facilities are
+operated and maintained, in an effective and sustainable manner, in accordance with the 
+applicable laws, regulations and standards of the Borrower and, in other respects not covered 
+by such laws, regulations and standards, in accordance with best international industry 
+practice.
+
+(b) The Borrower, through DWR, shall timely develop, approve, adopt and 
+implement a joint WUA-DWR sustainable O&M plan for each irrigation infrastructure to be 
+protected and modernized under the Project. As set out in the PAM and its appendices, each 
+such plan shall include, but shall not be limited to, (i) a water delivery schedule and (ii) an asset 
+management plan including an O&M budget and cost sharing. The Borrower, through DWR, 
+shall ensure that budgetary and other resources are allocated timely and provided promptly as 
+necessary for the O&M of each irrigation infrastructure to be protected and modernized under 
+the Project, and, at any given time, the amount of such budgetary and other resources shall 
+not be less than the total sum required, at that time, to cover the O&M expenditures indicated 
+in the O&M budget referred to in this sub-paragraph (b).
+
+(c) The Borrower, through DWR, shall ensure the timely development and 
+implementation of agriculture and on-farm water management plans under the Project. As set 
+out in the PAM and its appendices, each such plan shall include, but shall not be limited to, (I) 
+cropping patterns including introduction and diversification of crops and (ii) irrigation methods 
+and scheduling. The Borrower, through DWR, shall ensure that each such plan shall be 
+endorsed by the Council (established and operating under the applicable laws and regulations 
+of the Borrower on WUAs) managing the WUA that will be implementing the plan.
+
+Operational Covenants - MOES
+
+20. (a) The Borrower, through MOES, shall ensure that all equipment and
+information systems installed, piloted or provided under the Disaster Risk Management 
+Component of the Project are operated and maintained appropriately and In accordance with 
+the standards and requirements prescribed by the applicable laws and regulations of the 
+Borrower, and adequate budgetary and other resources are promptly provided for such O&M. 
+The Borrower, through MOES, shall ensure that adequate, appropriate and timely 
+arrangements and resources are in place for the preventive and standard maintenance of the 
+said equipment and information systems after their warranty periods expire. The Borrower, 
+through MOES, shall timely develop and implement sustainable asset management and 
+maintenance plans for the heavy equipment to be provided to the Northern and Southern 
+Emergency Response Centers of MOES.
+
+
+
+19
+Schedule 4
+
+(b) The Borrower, through MOES, shall ensure that all MOES divisions, 
+offices and units, including MOES associated entities and centers, that receive and operate 
+the equipment and information systems installed, piloted or provided under the Disaster Risk 
+Management Component of the Project are adequately staffed with personnel who have been 
+fully trained, in accordance with the requirements of and as otherwise contemplated by the 
+PAM, to operate and maintain them.
+
+(c) The Borrower, through MOES, shall ensure that all heavy machinery 
+and associated equipment provided under the Disaster Risk Management Component of the 
+Project is used only by MOES, or a government agency duly authorized by MOES, and only 
+for the purpose of preventative and recovery works related to disaster risk management, 
+including the maintenance of structures provided under the Project to protect irrigation 
+infrastructure from flood and mudflow. The Borrower, through MOES, shall ensure that such 
+equipment is not leased or otherwise permitted to be used by any third party for any 
+construction or other commercial activity.
+
+(d) The Borrower, through MOES, shall ensure that all hydrological and/or 
+meteorological equipment and information systems provided under the Disaster Risk 
+Management Component of the Project are, in accordance with the applicable laws and 
+regulations of the Borrower, transferred and/or made available for use by KyrgyzHydromet 
+promptly after their provision.
+
+Governance and Anticorruption
+
+21. The Borrower, DWR and MOES shall (a) comply with ADB’s Anticorruption
+Policy (1998, as amended to date) and acknowledge that ADB reserves the right to investigate 
+directly, or through its agents, any alleged corrupt, fraudulent, collusive or coercive practice 
+relating to the Project; and (b) cooperate with any such investigation and extend all necessary 
+assistance for satisfactory completion of such investigation.
+
+22. The Borrower, DWR and MOES shall ensure that the anticorruption provisions
+acceptable to ADB are included in all bidding documents and contracts, including provisions 
+specifying the right of ADB to audit and examine the records and accounts of the executing 
+and implementing agencies and all contractors, suppliers, consultants, and other service 
+providers as they relate to the Project.
+
+23. The Borrower, through DWR and MOES, shall provide updated Information on
+the Project on their websites, including information on performance, business opportunities, 
+bidding process and guidelines, outcome of biddings, and summary progress reports.
+
+
+
+
+

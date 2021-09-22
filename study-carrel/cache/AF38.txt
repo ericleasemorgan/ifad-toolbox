@@ -1,0 +1,3689 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AFRICAN DEVELOPMENT BANK 
+
+ 
+
+ 
+
+PROJECT : SOUTH AGRO-INDUSTRIAL PROCESSING ZONE 
+
+PROJECT    (PZTA-SUD) OR AGROPOLE SUD  
+
+ 
+
+COUNTRY :  REPUBLIC OF SENEGAL 
+ 
+
+ 
+
+ 
+
+APPRAISAL REPORT  
+ 
+
+PROJECT INFORMATION SHEET 
+
+ 
+
+Client Information 
+
+___________________________________________________________________________ 
+
+BORROWER  :  Republic of Senegal 
+ 
+
+EXECUTING AGENCY: Ministry of Industrial Development and Small and Medium Industry 
+
+(MDIPMI) 
+
+Financing Plan (in thousands)   
+
+Source 
+Amount   
+
+(EUR) 
+
+Amount  
+
+(CFAF) 
+
+Amount  
+
+(USD) 
+Instrument 
+
+AfDB 43,100 28,300,000 48,400 Loan 
+
+IsDB 27,850 18,300,000 30,000 Loan 
+
+Government  
+
+(including FONSIS) 
+
+16,800 
+
+(1,525)  
+11,000,000 
+
+(1,000,000) 
+
+18,800 
+
+(1,700) 
+Budget 
+
+TOTAL COST 87,750,000 57,600,000 88,300 - 
+
+ 
+
+Key Financial Information on AfDB Loan (SAP: P-SN-AAG-003) 
+ 
+
+Loan currency: EUR  
+
+Loan amount EUR 43 100 000  
+
+Loan type: Fully flexible loan 
+
+Maturity: 20 years  
+
+Grace period: 5 years  
+
+Average maturity: 12.75 years 
+
+Reimbursements: Thirty (30) half-yearly payments at the end of the grace period 
+
+Interest rate: Base rate + financing cost margin + lending margin + maturity premium 
+
+(This interest rate shall be above or equal to zero). 
+
+Base rate:  Floating (6-month EURIBOR reviewed on 1 February and 1 August) or any other 
+
+acceptable rate, with a free base rate fixing option 
+
+Financing cost  margin :  The Bank’s financing cost margin reviewed on 1 January and 1 July, and applied on 1 
+
+February and 1 August with the base rate 
+
+Lending spread 80 basis points (0.8%) 
+
+Maturity premium: 0 
+
+Front-end fee: 0.25% of the loan amount due latest than sixty (60) days from the effectiveness date or 
+
+at first disbursement, whichever comes first. The Borrower may pay the front-end fee 
+
+either from its own resources or deduct the same from the first disbursement proceeds. 
+
+The front-end fee due shall be based on the full amount of the loan, notwithstanding 
+
+any cancellation thereof in whole or in part, occurring after the effectiveness date. 
+
+Commitment fee: 0.25% per annum on the undisbursed amount, effective 60 days following the loan 
+
+signature date and due on interest payment dates (including during the grace period). 
+
+The commitment fee ceases to accrue at the time of full disbursement or cancellation 
+
+of the loan. 
+
+Base rate conversion  
+
+option* 
+
+Besides the free fixing option, the Borrower may revert to the floating rate or reset 
+
+the rate on all or part of the disbursed amount of its loan. 
+
+Transaction fees apply. 
+
+
+
+iv 
+
+Rate cap or collar  
+
+option* 
+
+ 
+
+The Borrower may cap or collar the base rate for all or part of the disbursed amount 
+
+of its loan. 
+
+Transaction fees apply. 
+
+Loan currency  
+
+conversion option* 
+
+ 
+
+The Borrower may change the currency of all or part of its loan, whether disbursed or 
+
+not, into another loan currency of the Bank. The new loan currency shall apply for 
+
+the remaining/full loan period or a shorter duration chosen by the Borrower after the 
+
+approval of such a request by the Bank. 
+
+Transaction fees apply. 
+
+ 
+
+ 
+
+* The related conversion options and transaction costs are governed by the Bank’s Directives on conversion available on  
+the website: http://www.afdb.org/en/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/ 
+
+ 
+
+NPV (baseline scenario): CFAF 298.21 billion 
+
+ERR (baseline scenario): 20.14% 
+
+ 
+
+Timeframe – Milestones (expected)  
+
+Concept note approval September 2019 
+
+Project approval    December 2019 
+
+Effectiveness March 2020 
+
+Completion date December 2024 
+
+Closing date March 2025 
+
+Last reimbursement February 2040 
+
+http://www.afdb.org/en/documents/document/guidelines-for-conversion-of-loan-terms-july-2014-87643/
+
+
+v 
+
+Executive Summary 
+
+A. Project Overview  
+
+A1. The South Agro-Industrial Processing Zone Project (PZTA-Sud, or Agropole Sud) is among 
+
+the flagship projects of Senegal’s Vision 2035 Emerging Senegal Plan (PSE), which raises the number 
+
+of growth drivers from two (telecommunications and services) to six, the four new ones being 
+
+agriculture and agribusiness, housing, mining and tourism. It forms part of Pillar I of the PSE on 
+
+“Structural transformation of the economy and growth” and is an integral part of the industrial PSE 
+
+component that provides for the establishment of three “integrated and competitive agricultural hubs”. 
+
+Furthermore, PZTA-Sud is in line with the priorities of the Country Strategy Paper (CSP) for the 2016-
+
+2020 period and the Bank's Ten-Year Strategy 2013-2022 through its High 5s “Feed Africa”, 
+
+“Industrialise Africa” and “Improve the quality of life for the people of Africa”. 
+
+A2. PZTA-Sud is a pilot project to be implemented over five years for a total cost (net of taxes) 
+
+of approximately EUR 87.75 million, broken down as follows: (i) ADB loan: EUR 43.1 million; (ii) 
+
+IsDB loan: EUR 27.85 million, and (iii) the State: EUR 16.8 million. The project comprises 3 
+
+components: (a) Support for the establishment of a business ecosystem conducive to private investment 
+
+in agribusiness; (b) Sustainable improvement of the capacity of agro-industrial producers; (c) 
+
+Coordination, management and monitoring/evaluation. A Project Implementation Unit (PIU), attached 
+
+to the Ministry of Industry (Executing Agency), will be responsible for: (i) coordinating investments 
+
+in the agricultural hub; and (ii) implementing public sub-projects. It will be complemented by the 
+
+Sovereign Fund for Strategic Investment (FONSIS), for the implementation of PPP sub-projects 
+
+through a Construction and Operation Company (SCE). Lastly, private companies will be responsible 
+
+for private sub-projects, in partnership with local financial institutions.  
+
+A3. The project area is the natural region of Casamance, which has real agro-industrial potential 
+
+in its three administrative districts of Ziguinchor, Sedhiou and Kolda. Thus, the project aims to 
+
+contribute to the revival of this region’s economic activities to support the current peace and 
+
+reconstruction momentum. In this regard, the project will have to mitigate the adverse effects of the 
+
+independence crisis of these last decades through the establishment of an ecosystem conducive to 
+
+private investment in the agro-industrial sectors with high nutritional and market (national and export) 
+
+potential. The key expected outputs of the project are: (i) increase in the share of locally processed 
+
+agricultural production from 2% to 20% for mango and from 5% to 30% for cashew nuts; (ii) reach a 
+
+cumulative amount of catalysed private investment of more than USD 200 million (of which 20% for 
+
+SMEs/SMIs); (iii) increase by at least 40% the agricultural production of key sectors (mango, cashew 
+
+and maize); and (iv) create jobs and wealth, including for youth and women. The project was the subject 
+
+of a comprehensive state-funded feasibility study conducted by a private firm and supported by the 
+
+United Nations Industrial Development Organization (UNIDO).  
+
+A4. The project will enable the creation and consolidation of about 14,500 direct jobs (of which 
+
+50% women and 60% youth) and 35,000 indirect jobs (of which 50% women and 60% youth). The 
+
+number of households that will be affected is estimated at 65,000, or about 365,000 people (of which 
+
+50% women and 60% youth). The number of people who will be indirectly affected corresponds to the 
+
+population of the natural region of Casamance estimated at 2 million in 2018. The expected outcomes 
+
+concern improving the food and nutritional security of beneficiaries as well as their income through 
+
+improved access to markets, agricultural inputs, and services. To this end, the project provides for (i) 
+
+the increase in private investment thanks to the facilities provided (more favourable business 
+
+ecosystem, construction of a central agro-industrial module (Adéane), three (3) regional modules 
+
+(Bignona, Sédhiou and Kolda) and five (5) aggregation and service platforms; and (ii) capacity building 
+
+of value chain actors in agro-industrial sectors (structuring/organisation of value chains, training, ease 
+
+of access to finance, production by researching in-vitro mango, cashew, maize seedlings, etc.).  
+
+ 
+
+
+
+vi 
+
+B. Needs Assessment 
+
+B.1  Despite efforts by the State, food security remains a challenge and food importation continues 
+
+to weigh on the trade balance. Thus, imports of cereals and fruits/by-products amounted respectively 
+
+to CFAF 329.7 billion and CFAF 37 billion in 2017. This is due to the limited private investment as a 
+
+result of the unfavourable business environment (land, taxation, etc.), inadequate infrastructure 
+
+(energy, transport, water, ICT, etc.) and poor structuring/organisation of agricultural value chains 
+
+(which employ about 60% of the working population). Furthermore, there is a low level of processing 
+
+of agricultural products based on quality industrial processes (barely 13% at national level), low 
+
+agricultural productivity and high vulnerability to climate change. This situation is more pronounced 
+
+in the project area where barely 2% and 5% of the mango and cashew nut productions are processed, 
+
+respectively. Thus, the project aims to facilitate the mobilisation of private investment especially in the 
+
+processing and marketing of key sectors (mango, cashew, corn, etc.).  
+
+C. Bank’s Value-Added  
+
+C.1  Through its initiative to support the development of Agro-Industrial Processing Zones 
+
+(AIPZs), the Bank aims to increase private investment in the agro-industrial sector for a sustainable 
+
+transformation of the rural economy particularly by providing quality basic infrastructure and a more 
+
+attractive business environment in the agricultural production basins. The Bank has the requisite 
+
+experience to support the preparation and implementation of this type of project (including in Togo, 
+
+Ethiopia, Guinea, Côte d'Ivoire, etc.), which calls for an integrated approach encompassing the entire 
+
+value chain. Lastly, lessons from similar projects supported by the Bank militate for such an 
+
+intervention that will mobilise the public component (with ADB and IsDB public windows), PPP (with 
+
+FONSIS) and private (with FONSIS and financial institutions).  
+
+D. Knowledge Building 
+
+D.1  As PZTA-Sud is a pilot operation under the PSE, a mechanism will be put in place for 
+
+monitoring/evaluation (M & E) of outcomes and impacts. The project will set up a suitable internal 
+
+monitoring system for project performance led by the Steering Committee, on the one hand, and 
+
+external evaluation, on the other hand, supervised by the Operational and Monitoring Office (BOS) of 
+
+the PSE under the oversight of the Presidency of the Republic. The project will support BOS to carry 
+
+out baseline and end-of-project surveys and, if necessary, specific studies (incentives, private 
+
+financing, public-private partnership, etc.).  Lastly, the results of the M&E mechanism will be 
+
+leveraged and shared through the BOS e-platform, the analytical reports, the consultation and 
+
+experience sharing meetings organised at the regional, national and international level.  
+
+ 
+
+
+
+ 
+
+vii 
+
+ 
+
+VII. Results-Based Logical Framework (RBLF) of Senegal's PZTA-Sud 
+ 
+
+NAME: South Agro-Industrial Processing Zone Project- PZTA-Sud (or Agropole Sud), Senegal 
+
+GOAL: Contribute towards reducing rural poverty and increasing the share of agro-industry in the country’s economic growth 
+
+ 
+RESULTS CHAIN  
+
+PERFORMANCE INDICATORS MEANS OF 
+
+VERIFICATION 
+
+RISKS AND MITIGATION 
+
+MEASURES  Indicators (including CSIs) Baseline Situation Target (2024) 
+
+IM
+P
+
+A
+C
+
+T
+ 
+
+  
+
+1. Contribute towards increasing the value-
+
+added of the agro-industrial sector and 
+
+reducing the poverty rate (particularly in rural 
+
+areas) 
+
+  
+
+1.0 Share of the industrial sector in GDP (%) 
+
+  
+
+1.1 Value of (i) imported; and (ii) exported food products 
+
+(in EUR/per capita)  
+ 
+
+1.2 Rural poverty rate in Casamance (moderate and severe 
+
+- national threshold of less than USD 2/day)  
+
+ 
+
+20.6 (2017) 
+
+ 
+
+(i) 65.7; (ii) 
+
+43.1 (2017) 
+ 
+
+71.1% (2011) 
+
+ 
+
+ 
+
+25%  
+
+ 
+
+(i) 60; (ii) 49 
+
+ 
+ 
+
+60%  
+
+ 
+
+ 
+
+National and UN 
+
+System Statistics  
+
+  
+
+ 
+
+ 
+
+O
+U
+
+T
+C
+
+O
+M
+
+E
+S
+
+ 
+
+ 
+
+1/.  Increased share of locally processed 
+
+agricultural production to the required 
+
+standards. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2/.  Increased private investment and jobs 
+
+created/consolidated in agribusiness.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3/. Sustainable improvement in the capacity of 
+
+producers in the key agro-industrial sectors  
+
+ 
+
+ 
+
+2.0. 
+  
+
+2.0.3  
+
+ 
+
+ 
+
+1.0.1 Installed capacity for modern agricultural product 
+
+processing (X ’000 T/year) (i) mangoes;( ii) cashew nuts; 
+
+(iii) maize (of which % fortified)  
+  
+
+1.0.2 Share of agricultural products processed according to 
+
+the required standards: (i) mango ;(ii) cashew; (iii) maize; 
+
+(iv) banana. 
+ 
+
+ 
+
+2.0.1 Cumulative amount of private investment catalysed 
+
+by agribusiness (including SMEs/SMIs) in USD million 
+ 
+
+2.0.2  Share of agro-industry in the portfolio of (i) banks; 
+
+(ii) MFIs 
+ 
+
+2.0.3 Additional decent jobs created /consolidated in the 
+
+industrial sector (of which 50% women and 60% 
+
+youth): (i) direct; and (ii) indirect  
+ 
+
+ 
+
+3.0.1 Change in the average annual income level of farming 
+
+households (headed by women) 
+
+ 
+
+3.0.2   Average agricultural production of the key sectors 
+
+(x1000 T): (i) mango; (ii) cashew; (iii) maize; (iv) banana 
+
+ 
+
+3.0.3 Additional jobs created/consolidated in the agricultural 
+
+sector (of which 50% women and 60% youth) ( i) 
+
+direct; (ii) indirect 
+
+ 
+
+(i) 0; (ii) 0; iii) 
+
+0 (0%)  
+
+ 
+ 
+
+(i) 2%; (ii) 5%; 
+
+(iii) 9%; (iv) 
+
+4%    
+ 
+
+ 
+
+0 (0) 
+
+ 
+ 
+
+(i) 5%; (ii) 10% 
+ 
+
+ 
+
+(i) 0; (ii) 0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0% 
+
+ 
+
+ 
+
+(i) 43; (ii) 15.3; 
+
+(iii) 45; (iv)19.2 
+
+ 
+
+(i). 0;( ii) 0 
+
+ 
+
+(i) 43; (ii) 16; (iii) 
+
+20 (5%) 
+
+ 
+ 
+
+(i) 20%; (ii) 30%; 
+
+(iii) 18%; (iv) 
+
+10% 
+ 
+
+ 
+
+>200 (40) 
+
+ 
+ 
+
+(i) 10%; (ii) 20% 
+ 
+
+ 
+
+(i) 1400;(ii) 3200 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15% 
+
+ 
+
+ 
+
+(i) 72; (ii) 24.8; 
+
+(iii) 63; (iv) 42 
+
+ 
+
+(i) 13100; (ii) 
+
+31800 
+
+ 
+
+Baseline survey 
+
+and project 
+
+completion 
+
+reports 
+
+ 
+
+ 
+
+National and 
+
+Regional 
+
+Statistics 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Demographic 
+
+and health/ 
+
+nutrition survey 
+
+ 
+
+Risk 1: Lack of private sector 
+
+interest could limit 
+
+investment. 
+Mitigation 1: (i) The private 
+
+sector will be regularly 
+
+consulted; (ii) the PIU will set 
+
+up basic infrastructure 
+
+(including a one-stop shop); 
+
+(iii) SCE will facilitate the 
+
+implementation of private 
+
+sub-projects; (iv) credit access 
+
+facilities will be put in place; 
+
+(v) Non-tariff barriers will be 
+
+applied as required. 
+
+ 
+
+Risk 2: Climate change, 
+
+discharges from industrial 
+
+units and harmful practices of 
+
+populations can degrade 
+
+natural resources. 
+
+Mitigation 2: The use of 
+
+resilient technologies, 
+
+planned mitigation measures 
+
+in industrial parks, access to 
+
+markets and agricultural 
+
+insurance will mitigate the 
+
+effects of CC and industrial 
+
+risks. 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+viii 
+
+RESULTS CHAIN  
+PERFORMANCE INDICATORS MEANS OF 
+
+VERIFICATION 
+
+RISKS AND MITIGATION 
+
+MEASURES  Indicators (including CSIs) Baseline scenario Target (2023) 
+O
+
+U
+T
+
+P
+U
+
+T
+S
+
+ 
+A/   Support for the establishment of an 
+
+ecosystem favourable to IP in agribusiness 
+ 
+
+A.1. Enhanced regulatory and institutional 
+
+environment for private investment. 
+
+ 
+
+ 
+
+ 
+
+A.2. Industrial superstructure of the South 
+
+agricultural hub set up 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+B/ Support to the sustainable improvement of 
+
+the capacity of producers in agro-industrial 
+
+subsectors 
+ 
+
+B.1. Enhanced capacity of producers in agro-
+
+industrial subsectors  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B.2. Increased resilience of communities  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C/ Coordination, management and 
+
+monitoring/evaluation 
+ 
+
+C.1. Project coordination, management and 
+
+monitoring/evaluation mechanism set up and 
+
+operational 
+
+ 
+
+A.1.1 Increased number of committees responsible for managing 
+
+PSE (BOS) and integrated agro-industrial hubs (COPIL)  
+  
+
+A.1.2 Number of operational SME/SMI support and quality 
+
+control structures in agro-industry (BMN, DPMI, etc.) 
+  
+
+A1.3 Private investment incentives study completed 
+ 
+
+A.2.1 Area of the serviced APZ (ha) : (i) Central module; (ii) 
+
+Regional modules; (iii) Aggregation and Services Platform 
+
+(PAS)  
+
+A.2.2 Construction and Operations Company (SCE) of the PZTA 
+
+established by FONSIS operational (including one-stop shop) 
+ 
+
+ 
+
+ 
+
+B.1.1 E-platform for access to functional services 
+  
+
+B.1.2 Additional number of farmers with access to (i) 
+
+markets; (ii) agricultural services; (iii) financing; (iv) 
+
+planned training  
+  
+
+B.1.3 Agricultural area targeted for the production of seedlings & 
+
+seed (ha): i) grafted mango trees; ii) double-grafted mango 
+
+trees; iii) cashew trees; iv) double-grafted cashew trees; v) 
+
+maize (pre-base)   
+  
+
+B.1.4 Number of micro-enterprises & SMEs/SMIs having 
+
+benefited from: i) upgrade of BMN; (ii) funding by financial 
+
+institutions   
+  
+
+B.1.5 Number of partner financial institutions receiving technical 
+
+assistance 
+
+B.2.1 PZTA-Sud Regional Monitoring Committees (of which at 
+
+least 30% women) operational  
+
+B.2.2 Implementation rate of (i) ESMP; (ii) the Resettlement 
+
+Action Plan (RAP);  
+
+B.2.3 Number of women sensitised on nutrition/health issues 
+
+B.2.4 Length of access roads to the rehabilitated agric. Pole 
+
+ 
+
+C.1.1 Number of quarterly reports submitted on time (including 
+
+AWPBs) 
+ 
+
+C.1.2 Number of audit reports  submitted on time and approved : 
+
+(i) Procurement; (ii) Financial  
+ 
+
+C.1.3 Baseline surveys, PP and end of project surveys completed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+0 
+
+ 
+ 
+
+0 
+
+ 
+ 
+
+0 
+ 
+
+(i) 0; (ii) 0; (iii) 0 
+
+ 
+ 
+
+0  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+0 
+ 
+
+(i) 0;(ii) 0; (iii) 0; 
+
+(iv) 0 
+
+ 
+ 
+
+(i) 0; (ii) 0; iii) 0; 
+
+(iv) 0; (v) 0 
+
+ 
+
+ 
+ 
+
+(i) 0 ; (ii) 0 
+
+ 
+
+ 
+ 
+
+0 
+ 
+
+0 
+
+ 
+ 
+
+(i) 0;(ii) 0;  
+
+0 
+ 
+
+0 
+
+ 
+ 
+
+ 
+
+0 (0) 
+ 
+
+ 
+
+(i) 0; ii) 0 
+
+ 
+ 
+
+0 
+
+ 
+
+2 
+
+ 
+ 
+
+5 
+
+ 
+ 
+
+1 
+ 
+
+(i) 40; (ii) 15; (iii) 
+
+10 
+ 
+
+1 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+1 
+ 
+
+(i) 5000; (ii) 4000; 
+
+(ii) 3000; (iv) 6000 
+
+ 
+ 
+
+(i) 3000; (ii) 
+
+25000; (iii) 6000; 
+
+(iv) 4000; (v) 5000 
+
+ 
+ 
+
+(i) 50; (ii) 30 
+
+ 
+
+ 
+
+3 
+ 
+
+3 
+
+ 
+ 
+
+(i) 90%; (ii) 95%;  
+
+65 000 
+ 
+
+372 km 
+
+ 
+ 
+
+ 
+
+20 5
+
+) 
+
+(i) 5; (ii) 5 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Baseline survey 
+
+and project 
+
+completion 
+
+reports 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half-yearly 
+
+project progress 
+
+reports 
+
+ 
+
+ 
+
+ 
+
+Bank supervision 
+
+reports    
+
+ 
+
+Risk 3: The expected benefits 
+
+could be hijacked by a 
+
+minority (including land). 
+
+ 
+
+Mitigation 3: The measures 
+
+included in the Strategic 
+
+Environmental and Social 
+
+Assessment (SESA) 
+
+(including the Environmental 
+
+and Social Management 
+
+Framework Plan - ESMFP), 
+
+the ESMP/RAP and the IEC 
+
+should make its mitigation 
+
+possible.  
+
+ 
+
+Risk 4: Delays in project 
+
+implementation due to 
+
+insufficient familiarity with 
+
+Bank procedures. 
+
+ 
+
+Mitigation 4: Substantial 
+
+institutional support and 
+
+regular training will be 
+
+provided to the PIU, AGEX 
+
+and the Borrower (Ministries 
+
+of Economy, Finance). 
+
+ 
+
+
+
+ 
+
+ix 
+
+K
+E
+
+Y
+ A
+
+C
+T
+
+. 
+ Components: (A) Support for the establishment of an ecosystem conducive to private 
+
+investment in agribusiness; (B) Support for the sustainable improvement of the 
+
+capacity of agro-industrial producers; (C) Coordination, management and 
+
+monitoring/evaluation   
+
+Resources by component: (1) Component A: EUR 47.3 million; 
+
+(2) Component B: EUR 30.8 million; (3) Component C: EUR 
+
+9.65 million  
+
+Sources of financing: (i) AfDB: EUR 43.1 million; 
+
+(ii) IsDB: EUR 27.85 million; (iii) the State: EUR 
+
+16.8 million  
+
+
+
+ 
+
+ix 
+
+Provisional Project Implementation Schedule 
+
+ 
+
+Year 2019 2020 2021 2022 2023 2024 2025 
+Quarter 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 
+Preparatory activities                         
+Joint project appraisal (AfDB, IsDB, Government)                        
+Loan negotiations (AfDB and IsDB) and approval                         
+Signing of loan agreements and fulfilment of conditions precedent to first disbursement                        
+Publication of the General Procurement Notice (GPN)                        
+Selection of key project personnel and official launch                        
+
+A / Support for the establishment of an ecosystem conducive to private investment in agribusiness                        
+
+Recruitment of the technical assistance firm to support Project Management and service delivery                         
+Capacity building of the steering structures: COPIL (meetings & missions) and support to BOS/PSE 
+
+(baseline, midterm and completion studies, special studies, etc.) 
+                       
+
+Build the capacity of structures responsible for quality, certification, etc. in agribusiness (equipment, 
+
+training, etc.): DPMI, ASEPEX, ADPME, ASN, etc. 
+                       
+
+Selection of the complementary study (DD/BD) and supervision of works of the South Agricultural Hub 
+
+(central module, regional modules and ASP) and service delivery 
+                       
+
+Selection of the South Agricultural Hub construction company (central module, 3 regional modules and 
+
+aggregation and service platforms) and service delivery  
+                       
+
+Support Agreement with the Institute of Food Technology and the Upgrading Bureau                        
+B / Sustainable improvement of the capacity of agro-industrial producers                        
+Build the capacity of POs/SMEs (with a firm to be recruited): transformative sectors, technical and 
+
+management training, procurement/management of inputs, agricultural services, etc. 
+                       
+
+Build the capacity of Women’s Promotion Groups: technical and management training, business plan 
+
+development, upgrading of priority private sector equipment, financial support.  
+                       
+
+Build the capacity of communities (including leaders): agricultural hub approach, gender, environmental 
+
+and social management, nutrition, climate change, fragility and resilience, etc. 
+                       
+
+Rehabilitation of access roads: selection of the engineering firm and works supervision, recruitment of 
+
+the company, and service delivery 
+                       
+
+TA Agreement at ISRA: production of grafted plants (mango, cashew) and pre-basic seeds (maize)                        
+Build the capacity of decentralised government structures (equipment, training, missions) and partner 
+
+financial institutions (line of credit, equipment and training) 
+                       
+
+C / Coordination, management and monitoring/evaluation                         
+Establishment of the financial, administrative and accounting management system                         
+Procurement of furniture, office equipment and vehicles                        
+Coordination, management and monitoring/evaluation                        
+Annual audit reports                         
+Midterm review                        
+Completion report                         
+
+
+
+ 
+
+1 
+
+BANK GROUP MANAGEMENT’S REPORT AND RECOMMENDATION TO THE BOARD OF 
+
+DIRECTORS CONCERNING A LOAN TO THE REPUBLIC OF SENEGAL TO FINANCE THE 
+
+SOUTH AGRO-INDUSTRIAL PROCESSING ZONE PROJECT (PZTA-SUD) 
+ 
+
+Management hereby submits this report and its recommendation concerning a proposal to grant a loan of 
+
+EUR 43,100,000 to the Republic of Senegal to finance the activities of the PZTA-Sud project, commonly 
+
+known as “Agropole Sud”. 
+
+I. STRATEGIC THRUST AND RATIONALE 
+
+1.1 Project Linkages with Country Strategy and Objectives  
+
+ 
+
+1.1.1 In 2014, the Government embarked on the implementation of the Emerging Senegal Plan (PSE), 
+
+which aims to have “an emerging Senegal in 2035 with a society of solidarity in a nation of laws” through 
+
+the structural transformation of the economic and social system. The strategic thrusts guiding the PSE are as 
+
+follows: (i) Thrust 1: Structural transformation of the economy and Growth; (ii) Thrust 2: Human Capital, 
+Social Protection and Sustainable Development; and (iii) Thrust 3: Governance, Institutions, Peace and 
+
+Security. Thus, PZTA-Sud or ‘Agropole Sud’ falls within the framework of the PSE’s Thrust 1 and forms an 
+
+integral part of the second Priority Action Plan (PAP) of PSE spanning the period 2019-2023. 
+
+ 
+
+1.1.2 PZTA-Sud (or Agropole Sud) is one of PSE's three agro-processing hubs (or integrated agricultural 
+
+hubs) through private investments in agribusiness. Thus, it is consistent with the Industrial Sector 
+
+Development Policy Letter (LPSDI), which seeks to raise the industrial sector’s contribution to the GDP 
+
+from 12 to 25% over the period 2014-35, by targeting the agricultural value chains with high potential (fruits 
+
+and vegetables, oils, dairy products, cereals, and poultry). This will benefit the domestic market (import 
+
+substitution) and the international market (fruits and vegetables, fishery products, etc.) as well. It is part of 
+
+the guidelines of the Agricultural, Sylvicultural and Pastoral Policy Law (LOASP) 2004-24 aimed at 
+
+reducing poverty and food security in rural areas. It also aligns with multisector strategies including the 
+
+National Strategy for Food Security and Resilience (SNSAR 2015-35), the National Strategy for Social 
+
+Protection (SNPS 2016-35) and the National Strategy for Equity and Gender Equality (SNEEG 2015-25).   
+
+ Emerging Senegal Plan (PSE) 
+  
+PSE is the economic policy framework aimed at steering Senegal on the path of emergence by 2035. Pursuing the 
+vision of "an emerging Senegal in 2035 with a society of solidarity in a nation of laws", it is structured around 3 thrusts 
+targeting 6 priority sectors, 17 key reforms and 27 flagship projects. Thrust 1 aims at the structural transformation of the 
+economy by strengthening the current drivers of growth and developing new sectors that create wealth and jobs. Thrust 2 
+"Human Capital, Social Protection and Sustainable Development" aims to improve living conditions for the people while 
+promoting the emergence of viable territories. Thrust 3 aims to modernise public administration and strengthen security, 
+stability, governance, and consolidate the rule of law. 
+
+The first priority action plan (PAP 1) over the 2014-2018 period has raised the GDP growth rate from an average of 
+3.3% in 2009-2013 to more than 6% since 2015. Substantial progress has been made in key projects such as the Diass 
+International Airport, the extension of the Dakar-Diamniadio motorway, the Thiès-Touba motorway, the Regional Express 
+Train, the Diamniadio Industrial Park and the rehabilitation of the Dakar-Bamako railroad line. The agricultural sector has 
+been strongly revitalised with the tripling of onion and groundnut production, the tenfold increase in potato production and 
+the 141% increase in rice production. As regards energy, progress has been achieved in the installed capacity from 573 to 
+1130 megawatts, but also in the generation of renewable energy (solar and wind) with 144 megawatts newly installed. The 
+number of electrified villages over the period has increased from 1648 to 3864. The second Phase 2019-2023 (PAP II) 
+seeks to remove or mitigate the potential constraints to this growth momentum, while promoting a better articulation 
+between the development objectives (SDGs) and those of PSE. It emphasises improving the structuring and maturation of 
+projects, and accelerating the implementation of reforms. 
+
+Lastly, the PSE monitoring/evaluation system was strengthened with the implementation of the Harmonised 
+Monitoring and Evaluation Framework (CASE) for Public Policy in 2015, comprising the Operational Monitoring Bureau 
+(BOS), the Ministry of Economy and Planning and the Organisation and Methods Bureau (BOM). Thus, placed under the 
+authority of the Minister in charge of monitoring the PSE, the role of BOS is to provide decision-making tools to the country’s 
+highest authority on a weekly basis. It is also responsible for the organisation, coordination and management of 
+maturation/structuring processes of projects or flagship reforms. 
+
+
+
+ 
+
+2 
+
+1.2 Rationale for the Bank’s Intervention 
+
+ 
+
+1.2.1 Senegal’s economy continues to perform well, with average annual GDP growth of around 6.7% over 
+
+the 2016-2018 period. This performance is attributable particularly to the dynamism of agriculture, 
+
+construction, tourism, transport as well as financial and insurance service sectors. However, food imports 
+
+continue to weigh on the trade balance and food security remains a challenge. Reasons identified include the 
+
+low level of processing of agricultural products according to quality and competitive industrial processes, 
+
+the low productivity of the agricultural sector and its high vulnerability to climate change. These constraints 
+
+result from the limited private investment due to the business environment that remains unfavourable - 
+
+despite jumping 18 spots in the Doing Business 2020 ranking, the poor quality of basic infrastructure (energy, 
+
+transport, water, telecommunications, etc.) and the poor organisation of agricultural value chains (which 
+
+employ about 60% of the labour force). 
+
+1.2.2 The South Agro-Industrial Processing Zone Project (PZTA-Sud) aligns well with the priorities of 
+
+the Bank's Country Strategy Paper 2016-2020 for Senegal, notably Pillar I on support for agricultural 
+
+processing. Furthermore, it forms part of the Bank’s Regional Integration Strategy for West Africa (RISP 
+
+2016-17, extended to 2019). It is in consonance with three (3) of the five (5) operational priorities of the 
+
+Bank's Ten-Year Strategy 2013-2022, namely (i) the Feed Africa Strategy 2016-2025; (ii) the 
+
+Industrialisation Strategy for Africa 2016-25; and (iii) the Strategy for Improving the Quality of Life for the 
+
+People of Africa 2016-25. Furthermore, the project is in line with the Bank's Second Climate Change Action 
+
+Plan (CCAP II 2016-2020). Lastly, the Bank's intervention forms part of the initiative launched in recent 
+
+years for the development of "agro-industrial processing zones" in agricultural basins with high market 
+
+(domestic and export) potential. Accordingly, Senegal has forged a strategic partnership with the Bank for 
+
+the implementation of the three (3) "Competitive Integrated Agricultural Hubs" of the PSE. Therefore, the 
+
+project will benefit from lessons learned from similar initiatives around the world, and from the Bank’s 
+
+experience garnered in Africa (particularly in Togo, Ethiopia and Guinea), hence its comparative advantage. 
+
+1.3 Donor Coordination  
+
+ 
+
+1.3.1 Development assistance is coordinated by the Government through the Economic and Financial 
+
+Cooperation Department (DCEF) of the Ministry of Economy, Planning and Cooperation (MEPC). 
+
+Coordination is carried out by the Consultative Committee of Technical and Financial Partners (TFPs) 
+
+through a three-tier consultation mechanism to which the Bank belongs: the G50, the G15 including a 15-
+
+member Executive Committee (COMEX) and thematic groups. In the dialogues between the TFPs and the 
+
+Government, the main issues addressed concern implementing the key PSE reforms, including land, portfolio 
+
+performance, monitoring/evaluation of outcomes, strengthening of the road maintenance fund and resource 
+
+mobilisation (including domestic resources) under the Ministry of Finance and the Budget (MFB). It is worth 
+
+noting that for the "integrated competitive agro-industrial hubs" project, the agricultural sector TFPs 
+
+participate in the meetings of the National Technical Working Group chaired by MDIPMI. 
+
+1.3.2 Therefore, PZTA-Sud will make use of the results expected from the interventions of projects 
+
+supporting increased agricultural productivity and the development of rural entrepreneurship, namely the 
+
+Water Valorisation for Value Chains Development Project (PROVALE-CV), the Project to Open Up 
+
+Production Areas in Support of the Local Development Programme (PDZP/PNDL-AfDB), the Support 
+
+Project for Skills Development and Youth Entrepreneurship in Growth Sectors (PDCEJ-AfDB), the 
+
+Multinational Programme to Build Resilience to Food and Nutrition Insecurity in the Sahel (P2RS-AfDB), 
+
+and the Project to Develop Resilience to Recurrent Food Insecurity in Senegal (DRIARS-IsDB). 
+
+1.3.3 Specifically, the project will work with the professional organisations engaged in these sub-sectors 
+
+(producer organisations, aggregators/logisticians, agro-processing entities, and exporters) and synergize with 
+
+similar ongoing projects, including Shelter for Life funded by the United States Development Agency 
+
+
+
+ 
+
+3 
+
+(USAID) and the Project to Support Investment and Competitiveness of Agribusiness in Senegal, focusing 
+
+particularly on the mango industry in Casamance (also USAID-funded). Lastly, the following table shows 
+
+the amounts currently committed in Senegal’s agro-industrial sector.  
+
+Sector or Subsector* 
+Scale 
+
+GDP Exports Labour 
+
+Agro-industrial sector  12.9% (2016) 9.1% (2014) Approximately 70% 
+
+Stakeholders – Public Expenditure (ongoing programmes or projects) 
+
+Government Donors Amounts (USD million) Period 
+
+USD 100 to 112 million WB 95 2012-2019 
+
+(per year) IFAD 130  2017-2024 
+
+ USAID 277 2013-2017 
+
+ AfDB 99.2 2013-2020 
+
+ CIDA 79.3 2013-2017 
+
+ IsDB 16 2011-2015 
+
+ BOAD 35.5 Active Portfolio 2012 
+
+ JICA 33 2015-2020 
+
+ FAO 6.85 2012-2013 
+
+ EU 105.7 2014-2017 
+
+ France 79 2014-2017 
+
+Donor Coordination Level 
+
+Existence of thematic working groups Yes 
+
+Existence of a general sector programme  No  
+
+Sources: PRACAS/DCFE/MEFP 
+ 
+
+II. PROJECT DESCRIPTION    
+
+2.0 Project Intervention Overview  
+
+2.0.0  The project’s overall objective is to contribute towards improving living conditions for the people 
+
+(including youth and women) through the creation of value-added on agricultural products and the 
+
+sustainable increase of productivity of the priority agro-industrial subsectors (mango and cashew nut). The 
+
+specific objectives of the project are (i) to create conditions conducive to private investment in the industrial 
+
+processing of agricultural products, as well as in the provision of inputs and services; and (ii) enhance the 
+
+capacity of priority sector actors to sustainably increase agricultural productivity. 
+
+2.0.1 In terms of concept: the project was designed based on a feasibility study financed by the 
+
+government with UNIDO support, as per the following principles: (i) the targeting of sectors with a domestic 
+
+or international market potential, which led to the choice of two priority subsectors (mango and cashew) and 
+
+three complementary subsectors (maize, banana and non-timber forest products); (ii) the presence of a high-
+
+potential agricultural production basin; and (iii) private sector interest in investing, as confirmed during the 
+
+consultation days (Labs) and with the creation of SOCAAS (Cooperative Society of Actors of the South 
+
+Agricultural hub). The key expected results of mango processing are puree, nectar, dried mango and vinegar. 
+
+For cashew, expected products are cashew nuts and cashew juice. 
+
+2.0.2 At the physical level: PZTA-Sud (or Agropole Sud) will finance : (i) a central module for the 
+
+industrial transformation of productions from the targeted sectors, their packaging and marketing, for a Phase 
+
+1 surface area of 40 ha expandable to 85 ha; (ii) three regional modules for secondary packaging and primary 
+
+processing (local and regional market) covering an area of 5 ha to be serviced, expandable to 10 ha; (iii) five 
+
+division-level platforms for aggregation, cleaning, sorting and primary packaging with a unit area of 3 to 5 
+
+ha; and (iv) collection points in villages (primary storage facilities). Furthermore, resources are earmarked to 
+
+ensure access of modules and platforms to regional networks (roads, electricity, ICT, etc.). The land of the 
+
+agricultural hub, which has been secured according to the requirements of national procedures and the Bank, 
+
+will be registered in the name of SCE. 
+
+
+
+ 
+
+4 
+
+2.0.2 At the operational level:  three categories of sub-projects (SP) were deemed necessary to implement 
+
+to ensure the success of the agricultural processing area (or Agricultural Hub), namely: 
+
+ Public sub-projects (financed from AfDB and IsDB public windows) will be set up by the Project 
+Executing Agency to facilitate private investment. These public sub-projects mainly concern the 
+
+infrastructure of the central module (located in Adéane), regional modules (Kolda, Bignona and Kolda) 
+
+and aggregation and service platforms for which the preliminary design studies (PDS) are in progress 
+
+and those of detailed design (DD) are planned before end-2019. Thus, the project will finance the 
+
+preparation of bidding documents (BD) as well as construction work. Capacity building of institutional 
+
+structures (ministries, research centres, technical services, etc.) and actors of value chains (Banks/MFIs, 
+
+POs, etc.) will be financed by the project to for performance enhancement. Partnership agreements, if 
+
+needed, will be signed with the said structures. 
+
+ 
+
+ The public-private sub-projects will be financed via the Sovereign Fund for Strategic Investments 
+(FONSIS) to which this responsibility is entrusted under a MDIPMI-FONSIS-BOS tripartite agreement. 
+
+Thus, FONSIS will set up a Construction and Operation Company (SCE), a public limited company 
+
+whose majority capital will be held by the private sector (tenant companies, financial investors and 
+
+members of inter-professional sectors), but will include public investors (FONSIS, local governments 
+
+and the Central State). Alongside the relevant State entities, the SCE will be responsible for: (i) 
+
+developing public-private sub-projects (about 5); (ii) promoting the arrival of private investors in the 
+
+hub; and (iii) managing, recovering and maintaining the hub. SCE’s income will consist mainly of 
+
+rentals, royalties and business services (see box 
+ 
+
+South Agricultural Hub (Agropole Sud) Construction and Operation Company (SCE) 
+ 
+
+The mobilisation of private investment is crucial for the success of Agropole Sud. The criteria influencing the investment 
+
+decision include the country’s quality of life and stability, market size, existence of developed and competitive land for industrial units, 
+
+quality of infrastructure (water, energy, wastewater treatment, etc.), connection to domestic and export markets, availability of 
+
+qualified and affordable labour, and the existence of tax/non-tax incentives for targeted activities. 
+ 
+
+In this regard, Agropole Sud has several strengths, among which: (i) the participatory structuring of the project, which has 
+
+helped to obtain the commitment of producers of the targeted sectors and potential private sector interest; (ii) the upgrading of 
+
+infrastructure thanks to the infrastructure provided for under the project (core module, regional modules, and aggregation and 
+
+service platforms) and those planned by other actors (existence of the Trans-Gambia bridge, dredging of the Casamance River 
+
+enabling the arrival of boats of 5500 tonnes, planned rehabilitation of the Senoba-Ziguinchor road, upgrading of the Ziguinchor 
+
+airport, revival of tourism, etc.); and (iii) the facilitation of investments through the establishment by APIX of an Investment Platform 
+
+in Ziguinchor and the future Agropole du Sud one-stop-shop, as well as the future implementation by FONSIS (Sovereign Fund for 
+
+Strategic Investments) of the Agropole du Sud Construction and Operation Company (SCE). 
+ 
+
+Thus, on the recommendation of the LAB (5-week participatory workshop organised by BOS, which brought together 96 structures 
+
+for a total 10,500 working hours), a tripartite agreement (BOS-MDIPMI-FONSIS) was signed to entrust FONSIS with the creation 
+
+of the SCE, as a founding shareholder. SCE will be a private company, majority owned by private companies including strategic 
+
+investors (including tenant and inter-professional companies) and financial investors. The State (including FONSIS) and local 
+
+authorities figure among the public shareholders. FONSIS will be responsible for developing and supporting the implementation of 
+
+the future SCE business plan, with the possible involvement of a world-class strategic partner with expertise in the development, 
+
+operation and promotion of private investments in the agricultural hub. The SCE will develop convincing business cases 
+
+concerning specific investments expected in the modules (central and regional) and divisional -level platforms. In these efforts, SCE 
+
+will synergize with the actors involved in investment promotion, including BOS, MDIPMI, APIX, and ASEPEX. 
+
+
+
+ 
+
+5 
+
+ Private sub-projects will be implemented by the interested companies that will be shareholders of the 
+SCE. Among these are five (5) large companies and about 15 SMEs/SMIs. In this regard, this project 
+
+will finance the intervention of the Upgrading Bureau (BMN) to provide non-financial support to about 
+
+35 micro-enterprises and 15 SMEs. Access to financial services will be facilitated through local financial 
+
+institutions (notably Banque Agricole, PAMECAS and ACEP), which have instruments tailored to the 
+
+needs of short- and medium-term credit (“warrantage”, leasing, etc.). They will be supported by the 
+
+Bank through a private sector-window operation under preparation (with PITD) to improve access to 
+
+long-term resources, which is essential for the development of SMEs/ SMIs of the agricultural hub (see 
+
+box). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Facilitating Access to Financial Services for SMEs/SMIs 
+
+The country's financial system comprises 29 credit institutions, but its banking penetration rate is 19%. Access to 
+financial services remains a challenge, especially for SMEs/SMIs, which account for around 80% of enterprises, contribute 30% 
+of GDP formation, and employ nearly 60% of the workforce. Furthermore, there is limited access to credit for the agricultural 
+sector, perceived as risky by the banks and the SFDs (insufficient financial standing, weak organisational and management 
+structures, unreliable financial information, lack of guarantees, and climatic and edaphic hazards) with total or partial crop losses: 
+climate, price volatility, markets, health hazards, locust invasions, etc.). They have put in place various types of credit, mainly 
+short-term, including: (i) credits for agricultural production; (ii) marketing credits for agricultural products; (iii) credits to breeders' 
+organisations for fattening and marketing; (iv) working capital loans, notably through "warrantage"; and (v) medium-long-term 
+agricultural equipment credits (tractors, tillers, motor pumps, etc.) via collateral. 
+
+Thus, the project will provide support in the form of: (i) an upgrade of SMEs/SMIs operating in the targeted sectors through 
+a technical assistance agreement to SME/SMI support structures (such as the Upgrading Bureau); (ii) a medium-to-long term 
+line of credit (from the ADB's private window) to be set up with one or two well-established financial institutions; (iii) strengthening 
+
+the capacity of FS/banks networks (based on a call for proposals) to help them develop financial products adapted to the 
+needs of the agro-industrial sector (warrantage, leasing, etc.), staff training and equipment purchase. 
+
+ 
+
+
+
+ 
+
+6 
+
+2.1 Project Components 
+
+ 
+
+The contents of the key project components are shown in the following table. 
+ 
+
+Components 
+Cost 
+
+(EURx10 6) 
+Description of Components 
+
+A/ Support for 
+
+the establishment 
+
+of an ecosystem 
+
+conducive to 
+
+private 
+
+investment (PI) 
+
+in agribusiness 
+
+ 
+
+ 
+
+47.3 
+
+ 
+
+A1/ Improve the regulatory and institutional framework for PI 
+
+ Support to the Steering Committee of Agric. Hubs-COPIL (meetings and missions) and 
+to BOS/PSE (baseline surveys, MTR, project completion report, specific studies). 
+
+ Establishment of SCE by FONSIS, and the one-stop shop by APIX 
+
+ Capacity building of State structures in charge of quality, standardisation, certification 
+and export promotion (equipment, training, ad hoc studies, etc.): MDIPMI, ASEPEX, 
+
+ASN, DPMI, ADPME etc. 
+
+ Agreement with the Food Technology Institute of Senegal (ITA) for the establishment 
+and management of the Centre of Excellence (lab) of the central module. 
+
+ TA agreement with the Upgrading Bureau (BMN) for technical support and assistance to 
+SMEs/SMIs of the agricultural hub. 
+
+ 
+
+  A2/ Establishment of the industrial superstructure  
+
+ Construction of the central module (Adéane): (i) external works (drinking water, 
+electricity, sanitation, etc.); (ii) an administrative block (offices, conference room, etc.); 
+
+(iii) a social space block (nursery, medical centre, gym, restaurants, etc.); (iv) a block of 
+
+services (training centre, management centre, business incubator, etc.); (v) a logistics 
+
+block (loading/unloading platform, weighing platform, storage/packaging hangars, etc.); 
+
+(vi) 4 business blocks (serviced plots, parking lots, etc.); (vii) a technical block (drilling, 
+
+water tower, generating set, etc.).  
+
+ Construction of 3 regional modules (Kolda, Sédhiou & Bignona) of 10 ha each 
+comprising: i) a serviced site (earthworks, site development ..); ii) logistics block & 
+
+services (administrative building, management centre, financial services, serviced plots 
+
+for private investment, market place, loading/unloading dock, weighbridge, 
+
+storage/packing shed...); iii) a technical block (water tower, borehole, generating set, 
+
+waste treatment...)  
+
+ Construction of aggregation and services platforms (5 sites of 5 ha each) with (i) servicing 
+of the site; (ii) a service block (administrative building, weighbridge, loading/unloading 
+
+dock, etc.); (iii) a technical block (sorting space, primary storage, etc.).  
+
+ Complementary engineering studies (DD, DCE, etc.) and control and monitoring of 
+infrastructure works in the agricultural hub (firms). 
+
+B/ Sustainable 
+
+improvement of 
+
+the productivity 
+
+of agro-industrial 
+
+sectors 
+
+ 
+
+ 
+
+ 
+
+30.8 
+
+B1/ Build the capacity of agro-industrial sector producers 
+
+ Improvement of the non-financial services offer : (i) support to training and advisory 
+support structures, POs/SMEs (equipment, training, missions, etc.); (iii) capacity 
+
+building (technical , managerial, etc.) of POs/SMEs in the value chains (mango, cashew, 
+
+maize, etc.) by a firm; (iv) agreement with ISRA (production of pre-base maize, mango 
+
+and cashew seedlings, and support for over-grafting of mango and cashew trees). 
+
+ Improvement of the financial services offer : (i) capacity building of financial 
+institutions: devising financial products adapted to the needs of the sector, training of 
+
+personnel, equipment; (ii) access to agricultural index insurance; (iii) medium- to long-
+
+term line of credit (ADB Private Window) for 2 financial institutions.    
+
+ Support for the implementation of an e-platform for access to agro-industrial services 
+(mechanisation, storage, inputs, financing, information, etc.). 
+
+
+
+ 
+
+7 
+
+Components 
+Cost 
+
+(EURx10 6) 
+Description of Components 
+
+B/ Sustainable 
+
+improvement of 
+
+the productivity 
+
+of agro-industrial 
+
+sectors 
+
+ 
+
+B2/ Build the community resilience capacity 
+
+ Community capacity building on approach, social marketing and conflict 
+prevention/management, PPP and fragility/resilience.  
+
+ Rehabilitation of 372 km of access tracks to modules and aggregation platforms, and 
+agricultural production areas, etc.  
+
+ Implementation of the Environmental and Social Management Plan (ESMP), the 
+Resettlement Action Plan (RAP), the Nutrition and Health Component and the Climate 
+
+Change Action Plan.  
+
+ Support to the three (3) South Agricultural Hub Regional Monitoring Task Force 
+(meetings). 
+
+C/ Coordination 
+
+and Management  
+
+9.65  Coordination and management, and monitoring/evaluation 
+
+ Procurement, Financial and Accounting Management, and Audit 
+
+ Steering and supervision 
+
+ 
+
+2.2 Technical Solutions Adopted and Alternatives Explored 
+
+2.2.1 PZTA-Sud aims to contribute to the transformation of the agro-industrial sector, with a view to 
+
+inclusive agricultural growth reducing poverty and food imports and generating employment. Accordingly, 
+
+PSE provides for the establishment of three "integrated competitive agro-industrial hubs or agricultural 
+
+hubs", in public-private partnership. For Agropole Sud, the physical agro-industrial architecture planned for 
+
+the targeted sectors (mango, cashew, corn, etc.) will include i) a centralised serviced module (external works, 
+
+electricity, sanitation, one-stop shop, etc.) to accommodate the key industrial units and related services 
+
+(logistics, services, etc.); ii) three serviced regional modules that will serve as storage, secondary packaging 
+
+and primary processing areas for agricultural products; and iii) serviced aggregation and service platforms 
+
+to facilitate interaction between value chain actors and to ease producers’ access to services, inputs and 
+
+markets. With the support of the State services, this system will be complemented by improving the access 
+
+of SMEs/SMIs and POs to technologies (quality plant material, inputs, etc.), knowledge (technical, 
+
+organisational, management, etc.), physical infrastructure (access roads, shops, etc.) and soft infrastructure 
+
+(ICT, digital platform, etc.). The system will be complemented by the establishment of the Construction and 
+
+Operations Company by FONSIS. The company established will be in charge of agricultural hub construction 
+
+and management, implementation of the PPP sub-projects (5) and support for private sector mobilisation (60 
+
+enterprises of which 35 micro, 15 SMEs, 5 large), in conjunction with the other relevant State agencies 
+
+(APIX, MDIPMI, ASEPEX, etc.). 
+
+Table 2.2: Alternative Solutions Explored and Reasons for Rejection 
+ 
+
+Alternative Solution Brief Description Reasons for Rejection  
+
+Implement a classic project 
+
+to support the improvement 
+
+of agricultural production 
+
+Finance the development of 
+
+infrastructure and 
+
+equipment for production, 
+
+harvest and post-harvest 
+
+ The State cannot afford to invest sustainably in the 
+
+agricultural sector 
+
+ Despite State efforts, food imports have remained on 
+
+the rise   
+
+Facilitate the establishment 
+
+of private investors capable 
+
+of investing in the entire 
+
+value chain 
+
+Secure sufficient land to 
+
+woo private investors 
+
+ Tens of thousands of families live on agriculture 
+
+(mango, cashew nuts, etc.); it is unacceptable for 
+
+private individuals to take the place of these 
+
+families. 
+
+
+
+ 
+
+8 
+
+2.3 Project Type    
+
+2.3.1 PZTA-Sud is a public investment project that aims to create the conditions for increased private 
+
+investment in targeted value chains, particularly in the areas of agricultural processing, input supply and food 
+
+services.  
+
+2.4 Project Cost and Financing Arrangement 
+
+2.4. Project Cost: The project’s overall cost is estimated at EUR 87.75 million (~ CFAF 57.6 billion), 
+
+net of taxes and customs duties. This cost is broken down as follows: a portion in foreign exchange estimated 
+
+at EUR 59.1 million (~ CFAF 38.8 billion) and a portion in local currency amounting to EUR 28.65 million 
+
+(~ CFAF 18.8 billion). This cost includes provisions for physical and financial contingencies estimated at 
+
+approximately 3% each. The estimate of the financial contingencies was made based on the current and 
+
+projected annual rates of inflation of the local currency and foreign exchange estimated on average 
+
+respectively at 2.5% and 1.5% per year. A summary of the estimated project cost by component and 
+
+expenditure category is shown in Tables 2.3, 2.4 and 2.5 below, while the detailed tables are given as an 
+
+Annex to the report.   
+
+Table 2.3: Summary of Project Cost by Component 
+
+PROJECT COMPONENTS 
+(CFAF Million) (EUR Thousand)   
+
+LC. FE Total LC FE Total FE %  % B.C. 
+
+A. SUPPORT FOR THE ESTABLISHMENT OF A PRIVATE 
+INVESTOR-FRIENDLY ECOSYSTEM 
+
+8 100 21 300 29 400 12 300 32 600 44 900 73 54 
+
+ 
+Improved regulatory & institutional environment 
+for private investment 
+
+1 100 3 300 4 400 1 600 5 100 6 700 76 8 
+
+ Establishment of the Industrial superstructure 7 000 18 000 25 000 10 700 27 500 38 200 72 46 
+
+B. SUPPORT FOR THE SUSTAINABLE IMPROVEMENT OF 
+THE PRODUCTION OF AGRO-INDUSTRIAL SUBSECTORS. 
+
+5 000 14 200 19 200 7 700 21 600 29 300 74 35 
+
+ Capacity building of agro-industrial producers 400 3 700 4 100 700 5 700 6 400 90 8 
+
+ Building of community resilience 4 600 10 500 15 100 7 000 15 900 22 900 70  28 
+
+C. COORDINATION, MGMT & MONITORING/ EVALUATION 4 800 1 400 6 200 7 250 2 100 9 350 26 10 
+
+ Coordination and project management 4 800 1 400 6 200 7 250 2 100 9 350 26 10 
+
+TOTAL BASE COST 17 900 36 900 54 800 27 250 56 300 83 550 68 100 
+
+ Physical contingencies 400 1 000 1 400 600 1 500 2 100 72 3 
+
+ Financial contingencies 500 900 1 400 800 1 300 2 100 62 3 
+
+TOTAL PROJECT COST 18 800 38 800 57 600 28 650 59 100 87 750 69 105 
+
+ 
+
+Table 2.4: Summary of Project Cost by Expenditure Category 
+
+EXPENDITURE CATEGORIES 
+(CFAF Million) (EUR Thousand)   
+
+LC FE Total LC FE Total FE % % B.C. 
+
+I. Investment cost 15 000 36 600 51 600 22 950 55 600 78 450 71 94 
+
+ A. WORKS 9 300 24 600 33 900 14 300 37 400 51 700 73 63 
+
+  Infrastructure 4 300 12 900 17 200 6 600 19 600 26 200 75 32 
+
+  Construction and rehabilitation 5 000 11 700 16 700 7 700 17 800 25 500 70 31 
+
+ B. GOODS 1 600 3 100 4 700 2 500 4 700 7 200 65 9 
+
+  Vehicles 100 200 300 100 300 400 75 - 
+
+  Equipment 1 500 2 900 4 400 2 400 4 400 6 800 65 8 
+
+ C. SERVICES 1 500 8 900 10 400 2 200 13 500 15 700 86 19 
+
+  Training 800 1 400 2 200 1 200 2 200 3 400 65 4 
+
+  Technical assistance staff - 2 400 2 400 - 3 600 3 600 100 5 
+
+  Studies 400 1 200 1 600 600 1 900 2 500 75 3 
+
+  Contractual services 200 3 800 4 000 300 5 700 6 000 95 7 
+
+  Audit 100 100 200 100 100 200 60 - 
+
+ D. MISCELLANEOUS 2 600 - 2 600 3 850 - 3 850 - 3 
+
+II. Recurrent cost 2 900 400 3 300 4 400 700 5 100 14 6 
+
+ A. PERSONNEL 1 900 - 1 900 3 000 - 3 000 - 3 
+
+ B. TRAVEL ALLOWANCE 500 - 500 700 - 700 - 1 
+
+ MAINT., OPERAT. & REPAIR 100 200 300 100 400 500 69 1 
+
+ D. OVERHEADS 400 200 600 600 300 900 30 1 
+
+TOTAL BASELINE COSTS 17 900 37 000 54 900 27 250 56 300 83 550 69 100 
+
+
+
+ 
+
+9 
+
+EXPENDITURE CATEGORIES 
+(CFAF Million) (EUR Thousand)   
+
+LC FE Total LC FE Total FE % % B.C. 
+
+ Physical contingencies 400 1 000 1 400 600 1 500 2 100 72 3 
+
+ Financial contingencies 500 800 1 300 800 1 300 2 100 62 3 
+
+TOTAL PROJECT COST 18 800 38 800 57 600 28 650 59 100 87 750 69 105 
+
+ 
+
+Table 2.5: Disbursement Plan by Component (in EUR) 
+
+PROJECT COMPONENTS 
+PROJECT YEARS Total 
+
+2020 2021 2022 2023 2024  
+
+A. SUPPORT FOR THE ESTABLISHMENT OF A PRIVATE SECTOR-
+FRIENDLY ECOSYSTEM 
+
+13 300 27 900 4 200 1 300 600 47 300 
+
+ Improvement of the regulatory & institutional environment in favour of the 
+private sector 
+
+2 400 2 700 900 500 600 7 100 
+
+ Establishment of the industrial superstructure 10 900 25 200 3 300 800 - 40 200 
+
+B. SUPPORT FOR THE SUSTAINABLE IMPROVEMENT OF THE 
+PRODUCTION OF THE AGRO-INDUSTRIAL SUBSECTORS 
+
+5 900 21 000 1 600 1 400 900 30 800 
+
+ Capacity building of agro-industrial producers 3 000 900 1 000 1 100 700 6 700 
+
+ Building of community resilience 2 900 20 100 600 300 200 24 100 
+
+C. COORDINATION, MANAGEMENT & MONITORING/EVALUATION 3 600 1 500 1 550 1 600 1 500 9 650 
+
+TOTAL PROJECT COST 22 800 50 400 7 300 4 250 3 000 87 750 
+
+ 
+
+2.4.2 Sources of Financing: The project will be financed by the AfDB, the IsDB and the Government of 
+
+Senegal for the respective amounts of EUR 43.1 million (49%), EUR 27.85 million (32%), and EUR 16.8 
+
+million (19%). Thus, it should be noted that the combined amount of the counterpart and IDB financing 
+
+represents nearly 51% of the total, which indicates the Government's significant commitment. The 
+
+government counterpart funding contribution, amounting to EUR 16.8 million, includes the seed money 
+
+provided by FONSIS for implementing public-private sub-projects amounting to CFAF 1 billion, the 
+
+compensation of affected persons, rehabilitation of some of the roads connecting the platforms/modules to 
+
+the production areas and the social spending of the PIU. Details of expenditures by source of financing and 
+
+expenditure category are given in Tables 2.6, 2.7 and 2.8, respectively. 
+ 
+
+Table 2.6: Project Financing Plan 
+
+ 
+
+Table 2.7: Project Cost by Component and by Source of Financing (in EUR thousand) 
+
+PROJECT COMPONENT 
+ADB IsDB STATE Total 
+
+Amount % Amount % Amount % Amount 
+
+A.  SUPPORT FOR THE ESTABLISHMENT OF A PRIVATE SECTOR-
+FRIENDLY ECOSYSTEM 
+
+25 000 53 20 700 44 1 600 3 47 300 
+
+ Improvement of the regulatory & institutional environment in 
+favour of PI 5 500 77 - - 1 600 23 7 100 
+
+ Establishment of the industrial superstructure 19 500 49 20 700 51 - - 40 200 
+B. SUPPORT FOR THE SUSTAINABLE IMPROVEMENT OF THE 
+PRODUCTION OF THE AGRO-INDUSTRIAL SUBSECTORS 
+
+12 900 42 3 500 12 14 400 47 30 800 
+
+ Capacity building of agro-industrial producers 5 800 87 900 13 - - 6 700 
+ Building of community resilience 7 100 30 2 600 11 14 300 60 24 100 
+C. COORDINATION, MANAGEMENT & MONITORING/ EVALUATION 5 200 54 3 650 38 800 9 9 650 
+
+TOTAL PROJECT COST 43 100 49 27 850 32 16 800 19 87 750 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SOURCE OF 
+FINANCING 
+
+(CFAF million) (EUR  thousand) 
+% 
+
+LC FE Total LC FE Total 
+
+ADB Loan 8 600 19 700 28 300 13 200 29 900 43 100 49.2 
+
+IsDB 6 400 11 900 18 300 9 650 18 200 27 850 31.8 
+
+State of Senegal 3 800 7 200 11 000 5 800 11 000 16 800 19.3 
+
+TOTAL 18 800 38 800 57 600 28 350 59 400 87 750 100.0 
+
+
+
+ 
+
+10 
+
+Table 2.8: Project Cost by Expenditure Category and by Source of Financing (in EUR Thousand) 
+
+EXPENDITURE CATEGORIES  
+ADB IsDB STATE Total 
+
+Amount % Amount % Amount % Amount % 
+
+I. Investment Cost 39 600 48 25 950 31 16 800 21 82 350 94 
+
+ A. WORKS 21 900 40 21 100 39 11 600 21 54 600 62 
+
+  Infrastructure 9 100 33 7 000 25 11 600 42 27 600 31 
+
+  Construction and rehabilitation 12 800 48 14 100 53 0 - 29 900 31 
+
+ B. GOODS 5 800 78 1 600 22 0 - 7 400 9 
+
+  Vehicles 200 65 100 35 0 - 300 1 
+
+  Equipment 5 600 79 1 500 21 0 - 7 100 8 
+
+ C. SERVICES 11 700 72 2 100 13 2 600 15 16 400 19 
+
+  Training 3 300 95 200 5 0 - 3 500 4 
+
+  Technical assistance staff 3 400 90 400 10 - - 3 800 5 
+
+  Studies 1 800 70 400 17 400 13 2 600 3 
+
+  Contractual services  3 000 49 1 000 16 2 200 35 6 200 7 
+
+  Audit 200 73 100 27 0 - 300 1 
+
+ D. MISCELLANEOUS 200 4 1 150 29 2 600 67 3 950 4 
+
+II.  Recurrent Costs 3 500 65 1 900 35 - - 5 400 6 
+
+ A. PERSONNEL 1 600 48 1 400 52 - - 3 000 3 
+
+ B. TRAVEL ALLOWANCES 600 69 200 31 - - 800 1 
+
+ C.MAINT. OPERAT. & REPAIR 300 54 300 46 0 - 600 1 
+
+ D. OVERHEADS 1 000 100 - - 0 - 1 000 1 
+
+TOTAL PROJECT COST 43 100 49 27 850 32 16 800 19 87 750 100 
+
+ 
+
+2.5. Project Area and Targeted Beneficiaries 
+
+2.5.1 The project impact area covers the regions of Ziguinchor, Kolda and Sedhiou which constitute the 
+natural region of Casamance and had a population of about 1,947,967 in 2018. The agricultural and socio-
+
+economic environment of the rural population is characterised by a low access rate to rural roads, storage, 
+
+processing and agricultural production infrastructure, particularly for youth and women. The area has the 
+
+distinction of being among the country’s most productive in agriculture thanks to its good rainfall and soil 
+
+quality. However, a large part of agricultural production is difficult to market owing to low value-added for 
+
+agricultural products. 
+
+2.5.2 The area of intervention has been the focus of attention by the State following the armed conflict of 
+the 1980s and 1990s, thanks to the inclusive dialogue for peace and the implementation of multisector 
+
+projects (PPDC, PACM, PARCES, PUDC, etc.), some financed by AfDB (PPDC, P2RS, PROVALE) and 
+
+IsDB (DRIARS, PROMISE, RRVCP etc.). To date, Ziguinchor port and airport are functional, the bridge 
+
+over the Gambia River was completed in 2019 and the road network expanded with the rehabilitation of the 
+
+Sénoba-Ziguinchor road. Therefore, the project comes to consolidate these gains by financing the requisite 
+
+actions to attract private investment in agribusiness. The project will create 14,500 direct jobs and 35,000 
+
+indirect jobs. It will benefit approximately 65,000 households, or about 365,000 people (51% women). It 
+
+will target farmers and the private sector (including SMEs/SMIs) that can invest in agricultural processing 
+
+and service delivery. Specific actions will target the youth and women to integrate them into the agricultural 
+
+value chains. The construction of the agricultural hub infrastructure will be based on local labour. Enterprises 
+
+will receive advisory support to provide decent jobs with basic social security. 
+
+2.6 Participatory Approach to Project Identification, Design and Implementation 
+
+2.6.1 The project design is based on a participatory and inclusive approach involving all stakeholders: 
+
+technical services, producer organisations, women/youth groups, civil society, private sector, TFPs and 
+
+projects. These broad-based consultations took place at all stages, including pre-feasibility and feasibility 
+
+studies, sub-project or 'LAB' structuring workshops, and project preparation and appraisal missions. Under 
+
+the supervision of BOS, the PEMANDU Big Fast Results method (the equivalent of BOS in Malaysia) was 
+
+applied to allow full stakeholder participation through the LAB, which brought 150 participants from 96 
+
+
+
+ 
+
+11 
+
+structures (private sector, financial institutions, public sector, civil society, etc.) for a total of 10,500 hours 
+
+of work. 
+
+2.6.2  The process helped to (i) delimit the Agropole Sud scheme, with a focus on the priority sectors (mango 
+
+and cashew); (ii) structure the priority sub-projects (public, PPP, and private) to be retained in the agricultural 
+
+hub; (iii) decide on the creation of a Construction and Operations Company (SCE) of the hub in the form of 
+
+a company under private law, in particular to implement the PPP sub-projects; iv) adopt the principle of 
+
+mandating FONSIS to create the SCE, through a tripartite protocol agreement duly signed by FONSIS, BOS 
+
+and MDIPMI. Furthermore, the involvement of various stakeholders has served to identify private investment 
+
+opportunities to be mobilised, with a view to generating wealth, employment & youth entrepreneurship. 
+
+2.6.3 At the project area level, working sessions brought together the territorial administration, local 
+
+elected officials, technical services (agriculture, livestock, water and forestry, etc.), research institutes (ISRA, 
+
+ITA, etc.), financial institutions (Banque Agricole, PAMECAS, ACEP), representatives of producers, civil 
+
+society and certain projects. These working sessions served to (i) present the project's intervention strategy; 
+
+(ii) share the technical choices and channels chosen; (iii) discuss the role of the project actors, gather the 
+
+opinions of the actors and measure the interest of the beneficiaries and their level of accountability in project 
+
+formulation, implementation and sustainability. This participatory approach will be continued during project 
+
+implementation. 
+
+2.7 Bank Group Experience and Lessons Reflected in Project Design 
+
+2.7.1 As of 30 September 2019, the Bank's portfolio comprised twenty-nine operations for a total net 
+
+commitment of UA 1,030 million. This amount is broken down as follows: UA 864.29 million for the public 
+
+sector and UA167.14 million for the private sector. The sector breakdown of national public sector projects 
+
+is as follows: transport (54.0%); water and sanitation (15.1%); rural (17.5%); ICT (6.0%); social (2.1%); 
+
+energy (3.5%) and governance (1.8%). The portfolio performance of national public sector projects remains 
+
+satisfactory with 3 out of 4. The project effectiveness has decreased on average from 9.4 months to 5 months 
+
+between 2011 and 2019 and the average time from approval to meeting the conditions precedent to first 
+
+disbursement has improved from 9.6 months in 2013 to 7 months in 2019. The disbursement rate is 26% for 
+
+an average portfolio age of 3.5 years. Lastly, the public sector portfolio comprises 4 regional operations for 
+
+UA 83.52 million (Senegal) and a disbursement rate of around 35%. 
+
+2.7.2 The mid-term review of the CSP 2016-2020, combined with the portfolio review provided lessons and 
+
+recommendations as follows: (a) For the Bank : i) strengthen Bank support to the private sector to enhance its 
+
+competitiveness and contribution to growth (including through PZTA); ii) improve the project preparation 
+
+quality by using the Project Preparation Fund (PPF); iii) increase the role of the Bank's country office in 
+
+Senegal in project supervision and assistance to reduce file processing times; iv) support agricultural hub 
+
+development projects; vi) improve the country's absorptive capacity by removing bottlenecks during project 
+
+implementation (procurement, disbursement, M&E, etc.); (b) For the Government : i) strengthen project 
+
+monitoring (Ministries of Economy, Finance, Industry); and ii) raise the level of domestic resource 
+
+mobilisation in a context where 50% of AfDB public project financing must be sourced from counterpart 
+
+funding.  
+
+2.8 Key Performance Indicators  
+
+2.8.1 The key performance indicators of the project's logical framework are: Impact Indicators: (i) the 
+
+rural poverty rate; (ii) the per capita value of food imports and exports; (iii) the share of the agro-industrial 
+
+sector in GDP; Outcome Indicators: (i) modern installed capacity of agricultural product processing; (ii) the 
+
+proportion of agricultural products processed according to the required standards (mango, cashew, maize, 
+
+and banana); (iii) the cumulative amount in USD million of private investments catalysed by agribusiness 
+
+
+
+ 
+
+12 
+
+(including SMEs/SMIs); (iv) additional decent direct/indirect jobs created/consolidated (of which 50% 
+
+women and 60% youth); (v) change in the average annual income level of agricultural households (headed 
+
+by women); (vi) agricultural production of key sectors; (vii) the number of jobs created/reinforced in the 
+
+agricultural sector (of which 50% women and 60% youth). 
+
+III. PROJECT FEASIBILITY  
+
+3.1 Economic and Financial Performance  
+
+3.1.1 The project is designed to generate direct spin-offs in the processing of targeted crops, through 
+private agribusiness investments in Agropole Sud (i.e. about 60 units), which can reach 90 by the end of ten 
+
+(10) years. Besides the spin-offs on the private companies established in the agricultural hub, the farms will 
+
+reap substantial income by supplying companies with raw materials for the targeted crops, namely: cashew 
+
+(over 10,000 ha), mango (over 5,500 ha), maize (over 5,000 ha) and banana (over 1,500 ha). In addition 
+
+to these benefits generated by the project and reflected in the economic and financial analysis, there will be 
+
+several others in terms of: (i) creation of temporary and permanent jobs estimated at around 180 per 
+
+processing unit (about 14,500 in total); (ii) improving and increasing the production of non-timber forest 
+
+products (such as baobab, honey, seeds and wild fruits, oils and resins, infusions , etc.); (iii) improving 
+
+the quality of nutrition as a result of capacity building in food fortification and hygiene; (iv) improving access 
+
+to index insurance; and (v) improving the quality of natural resource management through the application of 
+
+smart agriculture, climate change adaptation, biogas energy production and forest cover restoration.   
+
+3.1.2 Financial analysis: the bulk of the above benefits are not tradable or even tangible items, and thus 
+do not lend themselves to a financial performance analysis based on existing markets.  As a result, it has not 
+
+been considered appropriate to include them in quantitative analysis, based on a production model or profit-
+
+making activities approach. However, it has been possible to perform a cost/benefit analysis of agribusiness 
+
+and other agricultural production models (FARMOD), as indicated above. 
+
+3.1.3 For agribusiness enterprises, an assumption is proposed based on four (4) types of processing units, 
+namely micro, small, medium and large enterprises, with respective investments of CFAF 7 million, 15 
+
+million, 1.345 billion and 15 billion each, according to the average of investment profiles in these kinds of 
+
+models. In this case, the annual turnover per company is CFAF 3.95 million, 11.48 million, 782.10 million 
+
+and 8.88 billion, respectively, for micro, small, medium and large units, from the fifth year, on an operating 
+
+life of approximately 20 years. For agricultural crops from farms and suppliers of agribusiness companies in 
+
+the parks, FARMOD-type production cost/benefit models (Input/Output, Project and No Project) over a 20-
+
+year operating life were used. 
+
+3.1.4 Thus, the financial analysis gave: (i) a financial impact of over CFAF 70.54 billion per year from 
+the fifth year of operations expected over 20 years, according to the same type of operations, according the 
+
+life of the investments. This implies that the financial benefits of the project over the period of operation 
+
+exceed the cost of the investments needed to finance it; (ii) a cost/benefit ratio of 1.60, which means that the 
+
+benefits are higher than the cost of the investments; (iii) an internal rate of return of 19.44 %, which is higher 
+
+than the opportunity cost of capital (the capital cost of financial resources for investments in the project) is 
+
+estimated at 12%. Based on these results, it can be concluded that the project presents a profitability profile 
+
+justifying the cost of the investments financially. 
+
+3.1.5 Economic analysis: the economic analysis was carried out using the reference price method, 
+namely the prices under conditions of economic efficiency, according to the "Pareto" optimum. It was 
+
+conducted based on the comparison between the "no project" and "project" situation of the production models 
+
+presented in the financial analysis. In this model, tradable goods, i.e. goods likely to be the subject of 
+
+commercial transactions beyond the country (FOB at the port and CIF at the Port of Marseille), are 
+
+
+
+ 
+
+13 
+
+considered. In this case, the reference prices of these products (economic prices) are evaluated based on the 
+
+ex-ante balance of these crops enabling to obtain export parity prices at farm gate. The labour force was 
+
+economically valued at 65% of its financial value of CFAF 1,800/day, to take into account the inelasticity of 
+
+the labour demand in the country in general and in the project in particular. Based on realistic assumptions, 
+
+the economic rate of return (ERR) of the programme was estimated at 20.14%, with a B/C ratio of 1.62. In light 
+
+of these results, the overall project profitability is deemed satisfactory. 
+
+IRR (baseline scenario) : 19.44% NPV Amount:  CFAF 301.39 billion  
+
+ERR (baseline scenario) : 20.14% NPV Amount:  CFAF 298.21 billion 
+
+3.1.6 Sensitivity analysis: the sensitivity tests conducted based on the reduction in production prices were 
+used to measure the stability of the financial and economic performance indicators. Thus, the tests show that 
+
+prices should be lowered to 54.17% (break-even or " switching value") to cancel out the additional benefits 
+
+generated respectively at the financial and economic level, with IRR and ERR equal to the opportunity cost of 
+
+capital, i.e. 12 %. This test shows that the programme profitability profile is robust, although it has not been 
+
+performed on all endogenous values of the model. However, the price variable is of paramount importance since 
+
+it is the only one that is beyond the control of programme management and operation. The summary of the 
+
+sensitivity analysis is presented in the Technical Annexes (Volume II). 
+
+3.2 Environmental and Social Impact 
+
+3.2.1 Environment  
+
+3.2.1.1 PZTA-Sud (Agropole Sud) is classified in Category I. Its classification is justified by the activities 
+
+likely to cause major environmental and social impacts to the natural and human environment conceived as 
+
+an agro-industrial development hub. This approach led to the separation of the agricultural hub infrastructure 
+
+on sites covering the three regions and networking actors of the targeted value chains (producers, processing 
+
+firms, aggregators, etc.). This classification is also justified by the fact that it could trigger all five operational 
+
+safeguards. The documents presented are the Strategic Environmental and Social Assessment (SESA) and 
+
+the SESA summary, which were finalised and posted on 1 August 2019.  
+
+3.2.1.2 Negative impacts: The key negative impacts expected from the project are: (i) risks of 
+
+deforestation; (ii) disfigurement of the landscape; (iii) proliferation of disease vectors (malaria); (iv) 
+
+degradation of ecosystems (soil, wildlife and water resources); (v) waste generation; (vi) dust and smoke 
+
+emission; and (vii) traffic accidents, etc. The planned mitigation measures include: (a) tree planting; (b) 
+
+application of appropriate pesticide management measures; (c) strict control of the pesticides used; (d) 
+
+elimination of expired pesticides; (e) training in integrated pesticide management; (f) producer awareness 
+
+and training; and (g) watering the site, waste collection, etc. The estimated cost of the measures to be 
+included in the Environmental and Social Management Plan (ESMP) and entirely financed by the Bank is 
+
+about CFAF 665,000,000.  
+
+3.2.1.3 Positive impacts: The key positive impacts are: (i) business development; (ii) improved mango, 
+
+cashew and maize cultivation; (iii) linking farmers to processing industries; (iv) direct and indirect 
+
+employment for youth; and (vi) increased municipal revenue. The cost of enhancing environmental benefits 
+
+is included in the cost of environmental and social measures. 
+
+3.2.2 Social 
+
+3.2.2.1 PZTA-Sud will have a positive social impact in the construction phase in terms of increasing the 
+
+people's income through the use of local materials (stone, sand, gravel, laterite) and the purchase of materials 
+
+on the local market (cement, wood, iron, etc.). The work will inject fresh money into local markets, which 
+
+will contribute to the development of socio-economic activities. The work will also lead to the development 
+
+of retail trade around construction sites. The supply of construction equipment and materials should boost 
+
+
+
+ 
+
+14 
+
+transactions in the villages. In the operations phase, there will be a partnership between the agricultural hub 
+
+and the farmers. The agricultural hub operation should generate around 14,500 direct jobs and 35,000 indirect 
+
+jobs by 2024. The agricultural hub could be a means of creating jobs in agribusiness, transport, logistics and 
+
+services (accommodation, catering, etc.), which will improve market access and farmers' income. Therefore, 
+
+strengthening the skills of actors involved in the cashew and mango sectors (producers, traders, transporters, 
+
+etc.) should facilitate access to salaried jobs and the creation of self-employment, thus contributing to the 
+
+fight against poverty, rural exodus and illegal emigration.  
+
+3.2.3 Environmental and Social Management Framework Plan (ESMFP)  
+
+3.2.3.1 The following mitigation measures are included in the ESMFP: (i) development and reforestation 
+
+of the agricultural hub module sites; (ii) application of adequate pesticide management measures; (iii) strict 
+
+control of pesticides used by farmers; (iv) disposal of expired pesticides; (v) training in integrated pesticide 
+
+management; (vi) sensitisation and training of producers; and (vii) application of the Laws on the Protection 
+
+of Wildlife and Soil Degradation, etc. The SESA recommends conducting an Environmental and Social 
+
+Impact Assessment (ESIA) that will: (a) describe the biophysical characteristics of the environment in which 
+
+the project activities will take place, and highlight the major constraints that need to be taken into account 
+
+when preparing the land, building, installing equipment, and operating; (b) assess the potential environmental 
+
+and social impacts of project activities and recommend appropriate mitigation measures including cost 
+
+estimates; (c) evaluate needs regarding the collection of solid and liquid wastes, their disposal and 
+
+management, and make recommendations; (d) conduct a review of national environmental policies, 
+
+legislation, and administrative and institutional frameworks and donor safeguard policies, indicate which of 
+
+these policies are applicable to project activities, identify any gaps that could exist and make 
+
+recommendations to fill them. 
+
+3.2.4 Involuntary Resettlement 
+
+3.2.4.1 Regarding involuntary resettlement, there are legal safeguards to protect the rights of potential 
+
+project-affected persons. Section 31 of Law No. 64-46 of 17 June 1964 on National Land provides that: 
+
+"After the declaration of public utility, the compensation to be paid to affected persons is evaluated on 
+
+specified bases by a commission chaired by the prefect or his/her representative and composed of local 
+
+representatives of the ministries in charge of public works, economy, lands, and those of the communities 
+
+and associations including the mayor of the municipality. The compensations are established taking into 
+
+account exclusively the existing constructions, developments, plantations and crops in the affected area 
+
+undertaken by the affected persons (Section. 32). Displaced persons will be assisted and supported in their 
+
+efforts to improve and rebuild their livelihoods and standard of living. The standard of living of resettlement 
+
+populations will be more favourable than the original situation. Although not a tool offered by the AfDB 
+
+ISS, the Resettlement Action Plan (RAP) is required as a precaution, to clarify the process whereby land not 
+
+currently concerned by the project will be developed subsequently. The projected amount to cover the 
+
+displacement and resettlement of affected persons is CFAF 1 300 million (from the counterpart funding).   
+
+3.2.5 Climate Change 
+
+3.2.5.1 Senegal, in its Nationally Determined Contribution (NDC), agreed to unconditionally reduce 
+greenhouse gas emissions by 3%, 4% and 5% respectively in 2020, 2025 and 2030, compared to “business 
+
+as usual” (BAU) emissions for those years. The project will contribute to Senegal's climate change policies, 
+
+particularly for the agricultural sector, with a view to adapting it and achieving the mitigation objectives set 
+
+out in its Nationally Determined Contribution (NDC), particularly at regional level (Ziguinchor, Kolda and 
+
+Sedhiou).  
+
+
+
+ 
+
+15 
+
+3.2.5.2  The project is vulnerable to climate risk (classified as Category 2). For this reason, risk 
+
+management and adaptation options have been incorporated into the project design. The sizing of the 
+
+structures will be done taking into account the geotechnical and climatic conditions specific to each site. This 
+
+involves adaptation and mitigation measures in the agriculture, forestry and other land use sectors. In this 
+
+way, the project will support measures that will enable farmers to mitigate and increase their climate change 
+
+adaptation and resilience through, among others: (i) capacity building of state services (ISRA) to produce 
+
+resilient and high-yielding varieties (cashew, mango and maize); (ii) supporting farmer organisations for 
+
+better access to efficient and resilient technologies; (iii) strengthening the quality of advisory support services 
+
+to farmers (climate information, digital platform, etc.); (iv) facilitating access to index insurance for farmers; 
+
+(iv) improvement and adaptation of plant and forest production techniques; (v) changes in agroforestry 
+
+practices to sustainably improve the production, yields and income of agro-foresters; (vi) addition of quality 
+
+and value to agricultural production through post-harvest operations (storage and primary processing 
+
+facilities); and (vii) access to more profitable markets through investment provided for in the agricultural 
+
+processing modules (central and regional).  
+
+3.2.6 Gender  
+
+3.2.6.1 The project is classified under Category 3 according to the Bank's Gender Marker System. It will 
+
+be implemented in a social environment where gender inequalities persist and are exacerbated by the 
+
+migration of men. This situation reinforces the triple role of women with its corollaries of work overload and 
+
+poverty. Thus, the project will take into account the specific needs of women and men as well as youths of 
+
+both sexes. The aim is to reduce the inequalities of access for women and men of all social categories to the 
+
+opportunities offered by the agricultural hub. Actions to be taken include: (i) promoting a gender-sensitive 
+
+regulatory and institutional framework; (ii) equity in implementing project activities, including a quota of 
+
+50% of agricultural project aggregation/primary processing of women-run cooperatives and SMEs (project 
+
+selection, training, financing, etc.); (iii) development of gender-sensitive infrastructure (childcare facilities, 
+
+separate showers and toilets, secure and equipped with water, etc.); (iv) support for women's cooperatives 
+
+and SMEs through the structuring of their businesses and adapted training (including functional literacy, 
+
+financial inclusion, processing, storage and conservation of agricultural products, leadership, natural resource 
+
+management, etc.); (v) promoting women’s inclusion and leadership in the committees set up/consolidated 
+
+under the project (50% women); (v) a campaign/sensitisation to fight and prevent malnutrition; and (v) the 
+
+recruitment of a social development and gender specialist based on the South Branch. The budget allocated 
+for specific and gender-sensitive activities is EUR 6.3 million, or about 14% of the total amount. 
+
+3.2.7 Nutrition and Health  
+
+3.2.7.1 The Rural Survey of Food Security and Nutrition (ERASAN 2014) shows that households in food-
+
+insecure rural areas account for 30% of the total (153,728 households), of which 12% are in a severe 
+
+situation and 18% in a moderate situation. The rate of food insecurity is higher for female-headed households 
+
+at 40.4% compared to 29.4% for men-headed households. The regions of Ziguinchor (63%), Sédhiou (52%) 
+
+and Kolda (52%) have the highest rates of households with food insecurity. The project will ensure that the 
+
+modules and platforms take into account the establishment of medical services to support the safety of users. 
+
+The agreements to be signed with the research institutes, particularly the ITA for the Centre of Excellence, 
+
+will ensure that the nutritional quality of the processed products are acceptable to the local population and 
+
+the market. At community level, to ensure resilience, awareness and communication sessions for behavioural 
+
+change in nutrition, health and hygiene will be supported by the project. For vulnerable groups such as 
+
+women, activities to support processing for the local or divisional (“département”) market will be funded, 
+
+which will increase their income. For better social inclusion, the youth and women who will be selected for 
+
+the labour-intensive works during the constructions on the agricultural hub sites will come largely from the 
+
+poorest households. To this end, the project will use the single national registry targeting community-based 
+
+activities. These activities will be supported by partners already on site such, for instance the Malnutrition 
+
+
+
+ 
+
+16 
+
+Control Unit. To ensure greater inclusion, the labour-intensive works will target the most vulnerable youth 
+
+and women. Index insurance for producers is also a social protection measure for inclusion purposes. 
+
+3.2.8 Youth Training and Employment 
+
+3.2.8.1 The mapping of vocational training institutions in the project area indicates the existence of several 
+
+Vocational and Technical Training and Handicraft (FPTA) structures, of which thirteen (13) in Ziguinchor, 
+
+seven (7) in Kolda and three (3) in Sedhiou (one of the structures is being established). The project will work 
+
+with these centres to ensure that agribusinesses moving into the region will have on-site skilled labour for 
+
+the different trades. The project will help create around 1,400 direct and 35,000 indirect jobs for youth and 
+
+women in the region, during the construction phase (which will use labour-intensive techniques) and in the 
+
+operation phase by the 60 companies expected on the different sites. The project will also address the key 
+
+challenges related to youth entrepreneurship, namely access to land and finance and the acquisition of 
+
+technical skills for managing agro-industrial enterprises. At the agricultural hub, there are plans to build four 
+
+training halls which will facilitate the upgrading of the salaried and self-employed workforce. Close 
+
+collaboration will be established with at least three vocational training centres in the region, such as 
+
+Goudomp, which is being developed, particularly for the processing of cashew nuts and fruits. The business 
+
+incubator to be established at the Adéane central module will enable the incubation of youth-initiated 
+
+projects. As regards access to finance for SMEs, the project will carry out capacity building of at least three 
+
+financial institutions to develop services tailored to the needs of agro-industrial enterprises, particularly those 
+
+of youth. Furthermore, the project will collaborate with the Mastercard Foundation, which supports the 
+
+vocational training institutes in the project area as well as SMEs to strengthen youth employability. 
+
+3.2.9 Fragility and Resilience  
+
+3.2.9.1. The Casamance Natural Region, the project's impact area, experienced an armed conflict in the early 
+
+1980s, whose victims lived mainly in Sedhiou and Ziguinchor regions. The induced fragility endured over 
+
+nearly four decades slowed public and private investment in the region and has increased the social divide 
+
+and the feeling of social and spatial exclusion. However, the State has made substantial efforts to develop 
+
+infrastructure in the transport, energy and social sectors (drinking water, health, education, etc.), and this has 
+
+contributed significantly towards strengthening social cohesion at inter-regional and national level. That 
+
+notwithstanding, much effort remains to be made to mitigate the effects of regional disparity, gender 
+
+inequality and youth underemployment. This peculiarity of the region has been reflected in the project design 
+
+by taking into account existing resilience capacity in communities to address drivers of fragility. To reinforce 
+
+this fragile cohesion, the project will support the agricultural potential of each region and organise the 
+
+targeted sectors to provide economic opportunities for women, youth and vulnerable segments of the 
+
+population. The sensitive land issue for this region of the country was also considered through the 
+
+participatory approach undertaken for the project in terms of land tenure security. Areas with high production 
+
+cashew and mango plantations located along the border strip south of Casamance pose a risk for producers 
+
+due to the presence of mines in some places. This threat, already covered by the government’s partners 
+
+specialising in this aspect, will be regularly monitored by the project at the National Demining Centre, to 
+
+ensure that producers operating in the above-mentioned area are protected from this risk (see Annex).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+17 
+
+IV. IMPLEMENTATION  
+
+4.1. Implementation Arrangements  
+
+4.1.1 Institutional Arrangements 
+
+4.1.1.1 The Project Executing Agency (AGEX) will be the Ministry of Industry through a Project 
+
+Implementation Unit (PIU). A Steering Committee (COPIL) chaired by AGEX will be set up to: (i) formulate 
+
+the strategic thrusts of the agricultural hub programme; (ii) review and approve the AWPB; and (iii) analyse 
+
+and adopt activity reports (including financial reports) and audit reports. It will include representatives of the 
+
+ministries in charge of the following portfolios: Planning and Cooperation, Finance, Agriculture, Trade, 
+
+Gender and Social Affairs, Environment, Regional Planning, Health and Nutrition; as well as representatives 
+
+of the Private Sector, the Sovereign Fund for Strategic Investments (FONSIS), Federations of Farmers' 
+
+Organisations, Local Authorities, Consular Chambers and BOS/PSE. The PIU Coordinator will provide 
+
+secretarial support to COPIL. 
+
+4.1.1.2 The Project Implementation Unit (PIU) will be responsible for project coordination, implementation 
+
+and monitoring. The PIU will be based in Dakar and will ultimately be in charge of the 3 agricultural hub 
+
+(PZTA) projects (it will have 3 regional agencies corresponding to the three (3) agricultural hubs (South, 
+
+Centre and North). However, only the Agropole Sud agency will be set up under this project. Specifically, 
+
+the composition of the PIU includes the following staff: (i) a national coordinator; (ii) an agribusiness 
+
+engineer ; (iii) a monitoring/evaluation specialist; (iv) a procurement specialist; (v) an administrative and 
+
+financial officer; (vi) an investment and finance specialist ; (vii) a regional coordinator; (viii) an infrastructure 
+
+engineer (regional); (ix) an agronomist specialised in agricultural sectors (regional); (x) and environmental 
+
+safeguards specialist; (xi) a social safeguards specialist; (xii) 3 accountants (including one regional); (xiii) 3 
+
+assistants (procurement, administration, monitoring/evaluation); and (xiv) support staff. The baseline survey, 
+
+midterm surveys and the final evaluation of project outcomes and impacts will be conducted by consultants 
+
+to be recruited (in conjunction with MEPC, BOS and ANSD). 
+
+4.1.2  Procurement Arrangements 
+
+4.1.2.1 All Bank-financed procurement of works, goods and consultants services under this project shall be 
+
+carried out in accordance with the Procurement Policy for Bank Group-Funded Operations ("AfDB 
+
+Procurement Policy"), October 2015 edition, and the provisions of the financing agreement. Pursuant to this 
+
+policy and following the various evaluations conducted, all procurement listed in paragraph B.6.3.1 will be 
+
+carried out  in accordance with the country's procurement system ("National System") enshrined in Decree 
+
+No. 2014-1212 of 22 September 2014 on the Public Procurement Code (CMP), while all other procurement 
+
+listed in paragraph B.6.3.2 will be carried out in accordance with the Bank Procurement Methods and 
+
+Procedures (BPM), October 2015 edition, using the Bank's bidding documents (BDs). The use of the National 
+
+System improves efficiency through the following actions, among others: i) better ownership of the 
+
+procurement system to be used by the executing agency; ii) time saving with the absence of a second audit 
+
+(after that of the national entities), namely the Bank’s ex-ante review. However, the Bank reserves the right 
+
+to request the Borrower to revert to the use of the Bank System if: a) the legal framework of Senegalese public 
+
+procurement system changes and becomes unsatisfactory to the Bank; b) the provisions in force were not 
+
+respected by the Executing Agency; or c) the appropriate risk mitigation measures featuring in the Risk 
+
+Assessment Action Plan were not observed. 
+
+4.1.2.3 Advance contracting (AC): during the appraisal mission, the Government informed the Bank of 
+
+its intention to request authorisation to use advance contracting for the selection of: (i) a firm specialised in 
+
+human resources to be charged with recruiting the project team staff; and (ii) a technical assistance firm to 
+
+support PIU. A request accompanied with a procurement plan shall be submitted to the Bank for opinion 
+
+
+
+ 
+
+18 
+
+before the project is presented to the Bank’s Board of Directors. 
+
+4.1.2.4 Procurement Risk and Capacity Assessment (PRCA): to take project specificities into account, the 
+
+Bank assessed: (i) risks at the national, sector and project level; and (ii) the capacity of the executing agencies. 
+
+The findings of these assessments led to the conclusion that the procurement risk level was moderate and 
+
+determined, subject to the application of the mitigation measures proposed in paragraph 5.9 of Annex B.6, 
+
+the group of procurement to be carried out according to the Bank’s system and that likely to be carried out, 
+
+without major risk, according to the National System. The planned contracts for works amount to 
+
+approximately UA 27.307 million, for the various goods UA 5.162 million, and for consultancy services UA 
+
+8.355 million. Details of these procurement arrangements are available in Annex B.3 of the appraisal report.  
+
+4.1.3  Financial Management Arrangements  
+
+4.1.3.1  In accordance with the provisions of the Paris Declaration on Aid Effectiveness, the Bank, like most 
+
+other TFPs, has agreed to maximise the use of country systems for project and programme management as 
+
+far as possible. An assessment of the existing country financial and accounting management system was 
+
+made during the appraisal mission and the required mechanism specified for the project. Thus, the financial 
+
+management of the project will be carried out by the Project Implementation Unit (PIU), to be put in place by 
+
+the MDIMPI in its capacity as the Project Executing Agency. The PIU personnel, which will be recruited on 
+
+a competitive basis, will include among others a coordinator, an administrative and financial manager, an 
+
+accountant and an accounting assistant. The current accounting system is accrual accounting on software 
+
+enabling the recording of project operations. The software has the potential to handle multiple projects with 
+
+budgeting, analytics and general modules, up to the production of financial statements. The project’s internal 
+
+control will be formalised in an administrative, financial and accounting procedures manual to be drawn up 
+
+once the project is put into effect by a consultant. PZTA-Sud will produce quarterly project monitoring and 
+
+annual financial statements and submit them to the Bank after approval by the Project Steering Committee. 
+
+The project financial and accounting audit will be conducted by an independent firm registered on the role 
+
+of a national or regional order of Bank member countries. The audit firm will be recruited by Project 
+
+Coordination for three years based on terms of reference approved by the Bank, and paid out of AfDB funds.   
+
+ 
+
+4.1.4 Disbursement Arrangements  
+
+4.1.3.1 Disbursements will be made in accordance with Bank rules and procedures. A special account will 
+
+be opened in the books of a commercial bank to keep a portion of the loan resources. Three disbursement 
+
+methods will be used: (i) the special account method for training, operating and other minor project expenses; 
+
+(ii) the direct payment method for settling contracts and agreements for goods, works and services; and (iii) 
+
+the reimbursement method for expenses chargeable to AfDB but settled with the resources from counterpart 
+
+funding, with the Bank’s prior approval. Bank advances in the Special Account will be made based on the 
+
+Annual Work Programme and Budget (AWPB) previously approved by the Bank. The State’s counterpart 
+
+funding will be provided for in the State budget. 
+
+4.2 Project Monitoring/Evaluation  
+
+4.2.1 Technical and financial monitoring: the PIU will be responsible for collecting, analysing and 
+
+compiling information on physical achievements and financial execution. To this end, it will have a scorecard 
+
+with technical and financial indicators on the progress of the project. Such monitoring will serve to obtain 
+
+the following information for each activity and with a half-yearly periodicity: physical target, level of 
+
+achievement, expected costs, actual costs, gaps and explanations of any gaps. This information will be used 
+
+for preparing the half-yearly project progress reports. Furthermore, in addition to the review work of the 
+
+Steering Committee, the Bank will field two supervision missions per year, to which should be added a mid-
+
+term review mission. 
+
+
+
+ 
+
+19 
+
+ 
+
+4.2.2  Impact assessment: the project impact assessment will be conducted through participatory surveys 
+
+under the supervision of BOS/PSE. The baseline survey will determine the level of the following indicators 
+
+in project year zero: (i) current average household income; (ii) annual production of key crops; (iv) industrial 
+
+processing rate; (v) access to inputs, agricultural services and farmer financing; (vi) marketing performance; 
+
+and (vii) volume of financing mobilised by SMEs/SMIs. The same survey will be conducted at project 
+
+completion. 
+
+4.3  Governance  
+
+4.3.1  Senegal has enjoyed long-standing political stability supported by solid democratic institutions and 
+
+demonstrated by the three peaceful democratic regime changes. Senegal ranks 66th out of 180 countries on 
+
+Transparency International’s Corruption Perceptions Index 2018 and 8th in Africa in the indicators "Safety and Rule 
+
+of Law", "Participation and Human Rights" and "Transparency and Accountability" of the Mo Ibrahim Index of 
+
+African Governance (IIAG) 2017. This good performance reflects the efforts of the various regimes towards 
+
+establishing or strengthening key institutions such as the Court of Auditors, the State General Inspectorate (IGIE), the 
+
+National Financial Information Processing Unit (CENTIF), the National Bureau for the Fight against Fraud and 
+
+Corruption (OFNAC) and the Public Procurement Regulatory Authority (ARMP), and the introduction of a 
+
+requirement that senior officials must declare assets (2014). The business environment has improved significantly as 
+
+reflected by its 18-place jump in the Doing Business 2020 rankings. However, progress is needed in terms of 
+
+registering property, paying taxes, trading across borders and ease of access to these facilities outside of the capital.  
+
+4.3.2  In view of the project area’s sensitivity and the project’s complexity, the governance of the South Agricultural 
+
+Hub is of special interest to the Bank and the Senegalese authorities, both in its design/ development and operation 
+
+phases. While promoting private sector interest in the area, such sensitivity to the low-intensity conflict that has affected 
+
+Casamance1 is important. Therefore, the project design adopted a highly participatory process in line with the strategic 
+
+thrusts of PSE. Applying the Big Fast Results (BFR) methodology enabled the involvement of all project stakeholders, 
+
+including private companies, financing institutions, research centres, civil society and the administration, to agree on 
+
+partnership arrangements for successful its implementation. 
+
+4.3.3  This process resulted in the selection of the following options (technical annex): 
+
+ The management of the agricultural hub is entrusted to a dedicated company. After an in-depth analysis of different 
+
+PPP approaches, it was decided that a mandate will be granted to FONSIS to create a Construction and Operation 
+
+Company (SCE). The composition of the capital of SCE will unify the stakeholders’ commitment and will include 
+
+a public sector minority (FONSIS, regional authorities, etc.), and a private sector majority (strategic and financial 
+
+investors, including major agribusinesses and producer federations).  
+
+ The establishment of an ecosystem enabling the agricultural hub to have access to all the administrative and 
+
+facilitation services in the South zone. In this regard, the project will establish close collaboration with the 
+
+Ziguinchor Regional Investment Platform (PRI) so that its services can meet the needs of the hub’s investors. The 
+
+Adeane central module will also include a specific one-stop shop for the agricultural hub, offering high-end 
+
+services, complementary to those of the South PRI.   
+
+4.4  Sustainability  
+
+4.4.1 The project was designed in a participatory and integrated manner to ensure sustainability, thanks 
+
+to the active involvement of the relevant State services in project implementation (ISRA, ITA, ANCAR, 
+
+DRDR, FNDASP, etc.). Besides, the sectors identified by an analysis of the market potential were confirmed 
+
+during stakeholder consultations (surveys, missions, workshops, Labs, etc.) among which, the private sector, 
+
+producer organisations (POs) and the technical services of the State. In addition, the project was designed to 
+
+                                                 
+1  Rather than exacerbating the underlying causes of conflict, this should contribute towards consolidating the factors that foster peace and the economic and 
+
+social inclusion of all parties. 
+
+
+
+ 
+
+20 
+
+consolidate the State in its facilitation role, the private sector in investment and POs in sustainably increasing 
+
+agricultural productivity. Lastly, the project’s design takes into account the requisite conditions to ensure its 
+
+sustainability, through the following measures : (i) inclusion of measures to improve the agro-industrial 
+
+sector’s business ecosystem at the project area level (one-stop shop, support services, quality control services, 
+
+financial services, agricultural insurance, etc.); (ii) establishment of basic infrastructure (site development, 
+
+administrative buildings, social services, common areas, etc.) in the central module (acting as an agro-
+
+industrial park), the three (3) regional modules and the five (5) aggregation platforms and services; (iii) the 
+
+involvement of the private sector (leader) once the project is formulated, thus ensuring easier access to 
+
+markets (domestic, regional and international), technologies and financing (particularly for POs and SMEs); 
+
+(iv) support for the structuring and professionalisation of agro-industrial sectors by strengthening the 
+
+technical and business management capacity of beneficiary groups (including those run by women and 
+
+youth); (v) facilitating access to efficient plant material for the sustainable increase in productivity and 
+
+agricultural production of the main sectors (mango, cashew and maize). 
+
+4.5  Risk Management  
+
+4.5.1 Potential risks and mitigation measures have been identified and taken into consideration (see table 
+
+and logical framework). They will be refined and finalised during the appraisal mission. 
+
+Risks Risk Level Mitigation Measures/Actions  
+
+Risk 1: Lack of interest by the 
+
+private sector could limit 
+
+investment  
+
+  
+
+High Mitigation 1: (i) the private sector will be regularly consulted; 
+
+(ii) the PIU will put in place basic infrastructure (including one-
+
+stop shop); (iii) SCE will facilitate the implementation of 
+
+private sub-projects; (iv) access to credit facilities will be put 
+
+in place; and (v) non-tariff barriers will be applied as needed.  
+
+Risk 2: Climate change, discharges 
+
+from industrial units and harmful 
+
+practices of the population may 
+
+degrade natural resources  
+
+Moderate Mitigation 2: The use of resilient technologies, planned 
+
+environmental and social safeguards, access to markets and 
+
+agricultural insurance will mitigate climate change impacts and 
+
+industrial risks. 
+
+Risk 3: The expected benefits 
+
+(including land) could be hijacked 
+
+by a minority 
+
+Moderate Mitigation 3: The measures included in the SESA (including 
+
+the ESFMP), the ESFMP/RAP, and the project’s IEC 
+
+programme should mitigate this risk. 
+
+Risk 4: Delays in project 
+
+implementation due to inadequate 
+
+understanding of Bank procedures 
+
+High Mitigation 4: Institutional support and regular training will be 
+
+provided to the PIU, AGEX, and the Borrower (Ministries of 
+
+Finance, Economy)  
+
+ 
+
+4.6  Knowledge Building  
+
+4.6.1 PZTA-Sud differs from the value chain projects usually financed by the Bank in the country, mainly 
+
+in view of the following innovations: the targeting of value chains with market potential, the promotion of 
+
+private investment in agribusiness (facilities, incentives, etc.), and support to actors in targeted sectors. These 
+
+innovations will be subject to documented monitoring/evaluation and leveraged to determine the lessons 
+
+learned by the State, the private sector and other priority sector actors. The State and the Bank will take into 
+
+account the lessons learned during the exchange of experiences with regional member countries. The lessons 
+
+learned will be consolidated in the project completion report. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+21 
+
+V. LEGAL FRAMEWORK  
+
+5.1  Legal Instrument  
+
+5.1.1  To finance the project, an agreement will be signed between the Bank and the Republic of Senegal.  
+
+5.2  Conditions Associated with the Bank's Intervention  
+
+The extension of the ADB loan is subject to the following conditions:  
+
+5.2.1 Conditions Precedent to Effectiveness 
+
+The effectiveness of ADB loan agreement shall be subject to the Borrower’s fulfilment of the conditions set 
+
+out in Section 12.01 of the General Conditions Applicable to Loan Agreements and Guarantee Agreements 
+
+of the Bank (Sovereign Entities), to the Bank’s satisfaction.  
+
+5.2.2 Conditions Precedent to First Disbursement  
+
+In addition to effectiveness of the ADB loan agreement, the disbursement of loan resources shall be subject to 
+
+the Borrower’s fulfilment of the following condition, to the Bank’s satisfaction:  
+
+i) Provide to the Bank evidence of recruiting the key staff of the Project Implementation Unit (PIU), 
+
+namely the national coordinator, the regional coordinator, the procurement specialist, the financial 
+
+management specialist, the monitoring/evaluation specialist and the accountant.  
+
+5.2.3 Special Conditions Precedent to Disbursement of ADB Loan Resources for Works  involving 
+
+Involuntary Resettlement of the Population  
+
+In addition to effectiveness of the ADB loan agreement and fulfilment of conditions precedent to first 
+
+disbursement of resources, the disbursement of loan resources for works involving involuntary resettlement of 
+
+the population shall be subject to the Borrower’s fulfilment of the following additional conditions, to the Bank’s 
+
+satisfaction: 
+
+(a) Submit a works and compensation schedule that is consistent with the abbreviated resettlement plan(s) 
+(RAP) and satisfactory in substance and form to the Bank, specifying: (i) each project work area; and 
+
+(ii) the time frame for compensation and/or resettlement of all project-affected persons (PAPs) for each 
+
+area; 
+
+(b) Provide satisfactory evidence that all project-affected persons (PAPs) in the works area have been 
+compensated and/or relocated in accordance with the Resettlement Action Plan (“RAP”) and/or the 
+
+works and compensation schedule, as agreed, prior to commencement of such works and in any event 
+
+prior to the displacement and/or acquisition of the land and/or related assets of the PAP before the actual 
+
+commencement of works; or 
+
+(c) In lieu of paragraph (b) above, provide satisfactory evidence that the resources allocated for the 
+compensation and/or relocation of PAPs have been deposited in a special account in a bank acceptable 
+
+to the Bank, if the Borrower can prove, to the satisfaction of the Bank, that the compensation and/or 
+
+relocation of the PAPs, in accordance with paragraph (b) above, could not be completed in whole or in 
+
+part, for the following reasons: 
+
+(i) identification of the PAPs by the Borrower is not feasible or possible; 
+(ii) there are ongoing disputes and/or additional useful steps involving PAPs and/or affecting the 
+
+compensation and/or resettlement exercise; or 
+
+(iii) any other reason beyond the Borrower's control, as discussed and agreed with the Bank.  
+ 
+
+
+
+ 
+
+22 
+
+5.2.4 Other Conditions.  
+
+The Borrower undertakes to act as follows, to the Bank’s satisfaction:     
+
+(i) Prepare and forward to the Bank the administrative, financial and accounting procedures manual 
+covering all management cycles, latest four (4) months following the effectiveness of the loan 
+
+agreement;   
+
+(ii) Set up a multi-project and multi-chapter integrated management system on which the project’s 
+budgetary, analytic and general accounting modules shall be kept, at most 6 (six) months following 
+
+first disbursement of the loan; 
+
+(iii) Register, in the name of the Sovereign Fund for Strategic Investment (FONSIS), the land set aside for 
+the central module at most 3 (three) months after loan effectiveness and that set aside for the regional 
+
+modules as well as the aggregation and service platforms at most 6 (six) months after loan 
+
+effectiveness;  
+
+(iv) Submit the partnership agreements concluded with the Food Technology Institute, the Senegalese 
+Institute of Agronomic Research (ISRA) and the Upgrading Office (BMN) to the Bank for opinion, at 
+
+most 3 (three) months following effectiveness; and  
+
+(v) Provide the Bank with half-yearly reports on the implementation of the ESMFP, including weaknesses 
+and remedial action taken or scheduled, as needed, and any document deemed reasonably necessary 
+
+for monitoring the project implementation.  
+
+Undertaking. Environmental and Social Safeguards 
+
+(a) The Borrower undertakes to ensure that the Executing Agency and each of its contractors, 
+subcontractors and agents: 
+
+i). implement the project in accordance with the ESMP, RAP and/or works and compensation schedule, 
+the Bank’s Safeguard Policies and the national law as enforced in substance and in form satisfactory 
+
+to the Bank; 
+
+ii). prepare and submit to the Bank, within the Project Report mentioned in Section 7.01 of the Loan 
+Agreement, the quarterly ESMP and RAP implementation reports, including any shortcomings 
+
+identified and the relevant corrective measures taken; and 
+
+iii). refrain from any action likely to prevent or block implementation of the ESMP or RAP, including 
+any modification, suspension, renunciation and/or cancellation of any provision of the ESMP or 
+
+RAP, in whole or in part, without the prior written consent of the Bank. 
+
+(b) The Borrower undertakes to ensure that the Executing Agency and each of its contractors, subcontractors 
+and agents start works in areas affected by project implementation only after all PAPs present in the area 
+
+have been compensated/resettled in keeping with the RAP and/or the works and compensation schedule. 
+
+5.3  Compliance with Bank Policies  
+
+5.3.1 The Project complies with all applicable Bank policies. 
+
+ 
+
+VI. RECOMMENDATION  
+
+Bank Management recommends that the Board of Directors approve the proposal to grant an ADB loan of 
+
+EUR 43.1 million to the Republic of Senegal for the purpose and under the conditions set forth in this 
+
+report.   
+
+
+
+ 

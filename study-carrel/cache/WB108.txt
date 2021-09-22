@@ -1,0 +1,629 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 23-Feb-2018 | Report No: PIDISDSA24200 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+India P166745 National Rural Economic 
+Transformation Project 
+(Additional Financing to 
+the National Rural 
+Livelihoods Project ) 
+
+P104164 
+
+Parent Project Name Region Estimated Appraisal Date Estimated Board Date 
+
+National Rural Livelihoods Project SOUTH ASIA 23-Feb-2018 20-Apr-2018 
+
+Practice Area (Lead) Financing Instrument Borrower(s) Implementing Agency 
+
+Agriculture Investment Project 
+Financing 
+
+DEA National Rural Livelihood 
+Mission 
+
+ 
+Proposed Development Objective(s) Parent 
+ 
+The project development objective is to establish efficient and effective institutional platforms of theruralpoor that 
+enable them to increase household income through sustainable livelihood enhancements and improved access to 
+financial andselected public services. 
+ 
+
+ 
+Components 
+
+Component 1. Institutional and Human Capacity Development 
+Component 2.  State Livelihood Support 
+Component 3.  Innovation and Partnership Support 
+Component 4.  Project Implementation Support: 
+
+ 
+
+Financing (in US$, millions) 
+ 
+FIN_SUMM_PUB_TBL 
+SUMMARY 
+ 
+
+Total Project Cost 500.00 
+
+Total Financing 500.00 
+
+Financing Gap 0.00 
+
+ 
+ 
+DETAILS-NewFin3 
+
+Total World Bank Group Financing 250.00 
+
+     World Bank Lending 250.00 
+ 
+
+
+
+Total Government Contribution 250.00 
+
+ 
+
+Environmental Assessment Category 
+
+Partial Assessment (B) 
+  
+OPS_TABLE_SAFEGUARDS_DEFERRED 
+ 
+
+  
+Decision 
+
+ 
+
+B. Introduction and Context 
+ 
+
+Country Context 
+ 
+1. India continues to be one of the world’s fastest growing large economies and has experienced a 
+
+substantial decline in poverty. The Indian economy registered gradually rising growth from 5.5 
+percent in 2012-13 to 8 percent in 2015-16. This was supported by robust private consumption, a 
+resilient services sector, and some revival in industrial activity. Since the 2000s, India has made 
+remarkable progress in reducing absolute poverty. Between 2004 and 2011, poverty declined sharply 
+from 38.9 to 21.6 percent at the international poverty line ($1.90 PPP/day). With over a 100 million 
+people escaping poverty, the pace of poverty reduction in India exceeded that of the developing world 
+as well as that of Middle Income Countries (MICs) in this period. High economic growth, rapid rise in 
+rural wages, greater rural-urban integration and increase in non-farm activity, especially construction, 
+were the key drivers of poverty reduction. Since 2011, robust economic growth may have aided 
+further reduction in poverty. However, trends in the construction sector and rural wages suggest that 
+the pace of poverty reduction may have moderated. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+2. Agriculture continues to be important for rural Indians and there are 68 percent of the rural 
+
+population dependent on it for livelihoods and about 49 percent of the labor force works in the 
+agricultural sector but paradoxically it contributes only around 10 to 11 % to National gross domestic 
+product (GDP). The Government of India’s new agenda of “Doubling Farmer’s Income”, which not only 
+emphasizes upon productivity enhancement, intensification and diversification but also on agri-
+processing, Agri-logistics, resource use efficiency, agriculture marketing and sustainability could 
+possibly transform the Indian Agriculture. The opportunities in the agribusiness sector and local level 
+primary value addition are growing with the changing consumer basket and increasing urbanization 
+and demand for diversified and nutritious foods. Small producers have the opportunity to directly 
+participate in this value chain if they are organized and provided with appropriate infrastructure, 
+technology and information support. 
+
+
+
+3. Non-farm economy, in recent times, has emerged as an important livelihoods source in rural 
+India. A shift away from agriculture toward nonagricultural wage employment and reduced reliance 
+on agricultural income has become evident. Non- farm activities contributed 65% rural income in 
+2016-17 (Chand, 2017). Diversification into non-farm interventions (both self-employment and 
+wage employment) marks the shift from low-productivity jobs to high productivity and it is an 
+important pathway for poverty reduction and employment generation. Non-farm rural jobs are 
+predominantly in manufacturing, services (including public administration, education, health, 
+community, other personal or household services) and trade and transport (including wholesale 
+and retail trade, hotels, restaurants, transport, storage and warehousing and communication).  
+ 
+
+4. The Ministry of Rural Development, Government of India launched the National Rural Livelihood 
+Mission in 2011 as its flagship program to enhance rural livelihoods and reduce rural poverty in the 
+country. The world bank supported National Rural Livelihoods Project provided intensive support 
+to the launch and scale up of the NRLM over the last 7 years. The National Rural Livelihood Mission 
+(NRLM) has now been scaled up to o all 29 states of the country.  The intensive approach 
+successfully demonstrated by NRLP in around 500 blocks is now being implemented across nearly 
+2500 blocks across 29 states through the NRLM program. A total of 45 million rural women are 
+currently part of Self-Help Groups and they have cumulatively leveraged nearly 25 billion USD of 
+financing from commercial banks since the launch of the NRLM program in 2011.  
+
+ 
+5. Ministry of Rural Development has subsequently launched two critical programs that aim to 
+
+leverage the National Rural Livelihood Mission and scale up efforts to enhance agriculture incomes 
+and on-farm incomes for the rural poor namely the Mahila Kisan Sashiktikaran Program (MKSP ) 
+and the Startup Village Entrepreneurship program . The Mahila Kisan Sashaktikaran Pariyojana 
+(MKSP) is launched as a sub-component of the Deendayal Antodaya Yojana-NRLM to improve the 
+status of women in agriculture, who constitute 33% of the total agricultural labour force, and 
+enhance economic opportunities available to them. The program exclusively focus upon small and 
+marginal farmers, sustainable agriculture practices and vulnerability reduction. Community 
+Resource Persons (CRP) are identified as best practitioners (locally named as Pashu Sakhi, Krishi 
+Sakhi etc.) and are instrumental in promoting farm sector livelihoods (agriculture, animal 
+husbandry and NTFP), through community to community sharing and learning – as a “proof of 
+concept”. The ‘Start-up Village Entrepreneurship Programme’ (SVEP) launched by Government of 
+India in 2014-15 aims to promote and support existing rural entrepreneurs by providing bouquet 
+of business development services including entrepreneur capacity building, seed & growth capital 
+along with handholding support for business development. Currently, the programme is being 
+implemented in 47 Blocks across 14 states with support of 5 technical support agencies. Results 
+from SVEP and other world bank supported programs to promote SMEs will inform the scaling up 
+of enterprise development initiatives to be taken up under NRETP ( NRLP-AF) 
+
+ 
+6. The Government of India has recently launched Mission Antyodaya to improve the well-being of 10 
+
+million households from 5000 economic clusters (covering around 50,000 Gram Panchayats) by 
+addressing multiple dimensions of poverty through convergent actions under wide range of existing 
+development schemes and following a saturation approach. The movement of Panchayats away 
+from poverty will be tracked through a mobile based application i.e. “Panchayat Darpan” using a 
+set of indicators having differential weightage scheme. In a list of 24 indicators, 30% weightage has 
+been provided on GP level Infrastructure development; another 30% on Human Development 
+outcomes and rest 40% weightage has been given to livelihoods promotion. Mission Antyodaya 
+further accelerates economic transformation process building on the NRLP outcomes 
+
+
+
+ 
+7. One of the central lessons learned during the last seven years of implementation of NRLM has been 
+
+that while investments in building institutional platforms of rural poor households is a critical 
+foundation for sustainable poverty reduction, it is not sufficient unless these institutions are 
+engaged in higher level production systems and have better market interface. Integration of core 
+social mobilization and leveraging of financial resources have been adequately demonstrated. The 
+next level challenge is to leverage social capital into economic opportunities and crowd in private 
+investments; and engage with more commercial partnerships to integrate rural households into 
+higher-level income opportunities. Therefore, one of the main thrusts of the NRETP (NRLP- AF) will 
+be to develop value chains using end-to-end investments in selected commodities and facilitating 
+access to finance to support enterprises in agriculture and allied sectors, thus contributing to 
+productivity and profitability. The proposed project will build on existing investments and 
+institutional capital to bring further income increase and inclusive growth in rural areas.   
+
+C. Proposed Development Objective(s)  
+ 
+Original PDO  
+ 
+
+1. To establish efficient and effective institutional platforms of the rural poor that enable them to increase 
+household income through sustainable livelihood enhancements and improved access to financial 
+andselected public services. 
+
+ 
+Current PDO  
+ 
+
+2. To establish efficient and effective institutional platforms of the rural poor that enable them to increase 
+household income through sustainable livelihood enhancements and improved access to financial 
+andselected public services. 
+
+ 
+Key Results:  
+
+3. The PDO indicators for the additional financing are:  
+
+• 60% of SHGs# federated into Village Organizations.  
+
+• 40% of SHG members* report reduction in high cost debt 
+
+• 50% of SHG members report 30% increase in asset. 
+
+• 20 % increase in income of households that have accessed technical and financial services1 
+ 
+D. Project Description  
+        
+Project Beneficiary:  
+
+1. The proposed NRETP (NRLP AF) intends to support 100 districts from the existing 13 NRLP States 
+towards high end technical assistance and investment support towards deepening and scaling up of 
+the economic transformative initiatives that were introduced as part of dedicated funds under NRLP. 
+
+ 
+1 Define technical and financial services that will be provided/considered  
+
+
+
+Additionally, it would support to the Mission Antyodaya program that intends to further accelerate 
+economic transformation in selected areas, building on the NRLP outcomes.  
+
+ 
+2. While MoRD through their own increased budget allocation would continue to saturate and bring 
+
+remaining rural poor into the fold of women SHGs,  the specific investments under additional financing  
+will work with targeted households that are already part of SHGs and would focus on strengthening 
+of existing network (higher level federations i.e. VO and above) of community organizations of women 
+having potential to be mobilized into producer groups and producer organizations and transit to next 
+generation economic initiatives like high value agriculture including market access, enterprise and 
+skills development etc. MoRD will directly reach out to over a million households through these 
+initiatives. The project will support around 50000 individual enterprises; and around 100,000 youth 
+will be trained and placed with in formal job markets using the resources available under DDUJKY and 
+other skilling & entrepreneurship program of the Government of India. 
+
+Project Component 
+
+3. Component 1: Institutional and Human Capacity Development 
+This component will continue to finance technical assistance consultancies, human resources, 
+training and development of training material/approaches. Financing under this component will 
+endeavor to place skilled professionals to work with NRLM at the national, state and district levels. 
+As mentioned in the section on rationale, the TA will be focused on helping the National and State 
+teams transition to a new phase of the NRLM that involves greater focus on economic initiatives such 
+as high value agriculture and value chain development, enterprise and skills development. Given that 
+experiences from these initiatives are relatively nascent, the additional financing support will 
+emphasize sourcing of technical support from agencies (Public, Private and NGOs) with the requisite 
+technical expertise in rural enterprise development.  National, regional and international experiences 
+and skills may be sourced for this objective.   
+
+ 
+4. In addition, a new sub component focused on providing technical assistance for Mission Antyodaya 
+
+will be introduced. Specifically, as part of this sub component:  
+ 
+
+a. TA will be provided for Mission Antyodaya at the national, state and district level.    
+b. Support under this sub-component will be for 13 NRLP states and nearly 100 districts in those 13 
+
+states. The 100 districts with the highest intensity of the NRLM implementation will be selected 
+for the project. These districts will be the districts with the highest amount of mobilization and 
+capitalization (both the catalytic capital from NRLM and the finance from commercial banks) and 
+the possibilities of having transformative economic potential. Additionally, and as far as possible, 
+the project will strive for coordinated technical or investment support with the blocks and 
+panchayats selected under Mission Antyodaya and those under NRLP.   
+  
+
+5. Component 2. State Livelihood Support  
+The activities to be financed under this Component will remain essentially the same but with further 
+refinements to focus on the next generation institutional and investment support as described above 
+in the rationale. Sub component 2.1 (State Rural Livelihoods Support) will remain the same but 
+district level support will be focused on 100 districts that will be selected for project coverage under 
+this NRETP (NRLP AF). Under sub component 2.2 (Institution Building and Capacity Building) financing 
+will be oriented towards the mobilization of the producer groups and producer organizations. Under 
+sub component 2.3 (Community Investment Support) the focus would be on financing community 
+
+
+
+organizations mainly towards enterprise and skill development initiatives. The quantum of financing 
+under sub component 2.4 (Special Programs) will be significantly scaled up and most of this financing 
+will be focused on scaling up initiatives like high value agriculture including market access, enterprise 
+and skills development etc.  that were introduced under the dedicated funds under this sub-
+component during the project restructuring undertaken in January 2016. 
+
+ 
+6. Component 3. Innovation and Partnership Support: There is no change in the activities to be financed 
+
+under this component. The component will continue to finance pilot initiatives and technical 
+assistance consultancies that support innovative livelihoods activities in agriculture, livestock, youth 
+employment, among others, for rural poor households.  Learning and documentation of experiences 
+from these initiatives will be emphasized. 
+
+ 
+7. Component 4. Project Implementation Support: There is no change in the activities to be financed under this 
+
+component. This component will continue to strengthen the National Mission Management Unit for effective 
+project management at the national level, finance the Monitoring and Evaluation activities and ICT initiatives.  
+Learning and documentation of experiences under the economic transformative investments and institutional 
+strengthening programs will be emphasized. 
+
+ 
+E. Implementation 
+
+ 
+1. Institutional and Implementation Arrangements:  The MoRD through National Rural Livelihoods Promotion 
+
+Society (NRLPS)/National Mission Management Unit (NMMU) will be responsible for overall technical 
+assistance, guideline formulations, National level partnerships, coordination, monitoring, supervision and 
+release of funds to thirteen participating States. At the State level, the project will be implemented by the 
+State Rural Livelihoods Missions (SRLMs) set up under NRLM as per the agreed framework detailed out in 
+Project Implementation Plan (PIP). Each participating States will carry out a diagnostic study of pro-poor 
+agriculture value chain and potential of cluster based enterprise development based on which they will 
+prepare their Annual Action Plan (AAP) or multi-year State Perspective and Implementation Plan (SPIP). 
+
+ 
+ 
+ 
+ . 
+
+   
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The additional finance would cover about 100 districts in the current 13 states. The states are spread across 
+different agro climatic zones with varied natural and geographical features ranging from wet and humid to 
+dry and deciduous as well as include some coastal areas. All the states have previous experience in 
+implementing NRETP (NRLP AF) supported livelihood activities in varied agro climatic zones. There is also 
+prior experience of working in different geographies and with environmental and social setting of the rural 
+areas, which are primarily agrarian. The expected locations influenced by additional financing are likely to 
+be similar to those covered under the ongoing NRETP (NRLP AF), and therefore, poses no significant risks of 
+potential cumulative and localized significant adverse environmental impacts. Livelihood activities would 
+continue to centre around the sustainable use of natural resources, where these are available at project 
+locations. NRETP (NRLP AF) NRETP (NRLP AF) The additional financing will be spread across 100 Districts in 
+13 high poverty states. The states and project areas were identified based on their high incidence of rural 
+poverty and socioeconomic backwardness as well as higher concentration of marginalized population 
+groups such as scheduled tribes (indigenous peoples) and scheduled castes. States like Bihar and UP have 
+substantial population of Scheduled Castes (SC) and Other Backward Castes (OBC) who are more vulnerable 
+and marginalized compared to general population. On the other hand, states like Jharkhand, Chhattisgarh, 
+Odisha and parts of Rajasthan, MP, and Maharashtra are dominated by tribals. Within these geographies, 
+the NRETP (NRLP AF) will prioritize districts/blocks with higher levels of social mobilsation and financial 
+capitalization, which will overlap with pockets of higher tribal and marginalized populations.  
+
+ 
+
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+SAFEGUARD_TBL 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes  
+
+Natural Habitats OP/BP 4.04 Yes  
+
+Forests OP/BP 4.36 Yes  
+
+Pest Management OP 4.09 Yes  
+
+Physical Cultural Resources OP/BP 4.11 No  
+
+
+
+Indigenous Peoples OP/BP 4.10 Yes  
+
+Involuntary Resettlement OP/BP 4.12 No  
+
+Safety of Dams OP/BP 4.37 No  
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No  
+
+Projects in Disputed Areas OP/BP 7.60 No  
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ OPS_SAFEGUARD_SUMMARY_TBL 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project proposes to scale-up the existing livelihoods promoted through dedicated special funds. The livelihoods 
+include varies use of natural resources and linked processes, such as, Agriculture, Dairy, Small ruminants, Fisheries, 
+Non-Timber Forest Produce (lac culture, hill broom, tamarind etc.). The project will also support Non-farm enterprises 
+including small processing units and value addition. The project has been consciously promoting special initiatives for 
+environmental sustainability of livelihoods such as community managed sustainable agriculture, fodder cultivation and 
+stall feeding of milch animals and goats etc. However as the project proposes to scale-up the same interventions 
+through additional financing, improper management of any of these livelihood activities and unawareness among the 
+SHG members may result in negative impacts, such as: (i) indiscriminate use of chemical inputs in agriculture leading 
+to contamination of soil, water and surroundings; (ii) degradation of common grazing lands due to increased pressure 
+of grazing and improper pasture management practices; (iii) decreased regeneration capacity of NTFP species in forest 
+areas; and (iv) over use of water resources, particularly ground water etc. Most of these activities are small-scale 
+interventions, spread over wide areas in several villages. Further, any potential adverse environmental impact and risk 
+from these activities can be mitigated, contained and even reversed. Therefore, no potential large scale, significant 
+and/or irreversible impacts are envisaged. In addition to Environmental Assessment (OP 4.01), the safeguard policies 
+on Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36) and Pest Management (OP/BP 4.09) have been triggered 
+recognizing the importance of integrating sustainable management practices in forest-dependent and agriculture-
+based livelihoods. The safeguard policy on Safety of Dams (OP/BP 4.37) has not been triggered as the project funds are 
+unlikely to be used for community-level civil works such as small dams, embankments, etc. (Project funds would not 
+support activities involving excavations, etc., that may impact physical cultural resources. Therefore, OP/BP 4.11 is not 
+triggered. The key social safeguard issues and impacts associated with the NRETP (NRLP AF) are: ensuring project 
+interventions and implementation processes are aligned with the socio-cultural context in tribal areas and respond to 
+their development priorities; inclusion of traditionally marginalized social groups such as scheduled castes, migrant 
+labor, and other households identified under socioeconomic census survey (SECC); promoting strategies that reduce 
+gender gaps and advance women’s economic empowerment; and mitigation of any localized, adverse impacts from 
+small scale infrastructure that would be coming up in project areas. No adverse long terms impact on tribals and 
+indigenous population are expected from this project. OP 4.10 is triggered as states and districts having substantial 
+tribal population are included in Project areas. OP. 4.12 (Involuntary Resettlement) is not triggered as involuntary land 
+acquisition is not envisaged. Small scale community level, infrastructure such as citizen service centres, training 
+centres and custom hiring centres are expected to come up largely in pre-existing facilities. However, some of these 
+may require small land parcels that are expected to be leased or donated by Panchayats or local government 
+
+
+departments or individual donors with proper MoUs and due diligence. Given the size of small scale infrastructure, a 
+large portion of which is expected to be rented/leased with no or minimal construction, the risks of labor influx are 
+not going to be significant. Project interventions are not expected to cause any adverse livelihood impacts and 
+restriction of access to land and resources as a result to land taking by the project.  
+  
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Describe any potential indirect and/or long-term impacts due to anticipated future activities in the project area: No 
+severe or long-term impacts are expected due to proposed livelihood activities, mainly implemented through the 
+women Self Help Groups. Agriculture, livestock, fisheries, non-timber forest produce and non-farm sectors are the 
+predominant sectors in which rural poor households are involved and individual and household level investments in 
+these sectors generally do not result in potential indirect and/or long-term impacts in the project areas. Further, as 
+the experience of existing Bank projects has shown, the nature of activities/works taken up by the SHGs and 
+federations under the ongoing project is likely to remain so during the additional financing. No adverse long term 
+social impacts are envisaged from the AF interventions and investments. The potential long-term positive impacts are 
+expected to be: social, economic and financial empowerment of the poorest households, especially of Scheduled 
+Castes and Scheduled Tribes, and women. The poorest and most excluded households would have greater access to, 
+security and sustainability of livelihood resources, and enhanced household incomes. The project villages would most 
+likely see greater cohesion amongst the poorest social groups, greater capacity and assertiveness among the poor in 
+claiming their rights and entitlements, and better participation in local government structures and processes. Gender 
+relations could improve as collective action gives women self-esteem and confidence to voice their needs and 
+priorities in both the public and private spheres. Overall, the social dynamics and rural institutional environment are 
+expected to be much more supportive of the livelihood needs of the poorest households.  
+ 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+Since this is an additional financing aiming to scale up successful interventions, no analysis of alternatives was 
+undertaken. However, based on implementation experience during the ongoing project, the safeguards strategy will 
+continue to mainstream the environmental best practices into the Package of Practices (PoP) of the livelihood 
+activities (e.g.: stall feeding in goatary, non-chemical pest control measures in agriculture). In addition, Promotion of 
+alternate green solutions like use of renewable energy, Community Managed Sustainable Agriculture are planned 
+during the additional financing. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The measures taken during the ongoing project for addressing safeguard policies issues will continue throughout the 
+implementation of the additional financing. EMF compliance with the mandatory regulatory requirements list would 
+apply to all the clusters in the project and appropriate capacity building support for compliance with regulations and 
+awareness building on better environmental practices in livelihood activities would be provided. Efforts will be made 
+to develop and apply a sustainability index for funding potential activities through the dedicated fund. The index will 
+be based on the principles of resource efficiency, minimal adverse impacts and post-investment support continuation 
+of the livelihood. An assessment of the EMF in select states was undertaken during the ongoing project .There is mixed 
+experience in terms of borrower’s capacity to plan and implement the measures required for addressing safeguards 
+issues. Most of the states (Bihar, Madhya Pradesh, Odisha, Tamil Nadu and Rajasthan) have had previous experience 
+in implementing livelihood projects and other states have also implemented EMF and SMF under NRETP (NRLP AF). 
+States that have implemented World Bank-supported livelihood projects as well as NRETP (NRLP AF) have a higher 
+
+
+
+ 
+
+level of readiness and competency to implement the EMF. Some of these states (e.g. Bihar) have implemented the 
+green solutions at a considerable scale. The above findings from these assessments are being incorporated into the 
+updated EMF To streamline these capacities, it has been agreed with the Ministry of Rural Development that the 
+National Mission Management Unit (NMMU) will have the Livelihood Specialists as the anchor person for EMF to 
+support and monitor the implementation in the participating states. Further, the State Mission Management Unit 
+(SMMU) of the State Rural Livelihoods Missions (SRLM) would have Environmental Focal Points at the state level 
+(Livelihood Managers), district levels and among the block level project facilitating teams to streamline the EMF 
+requirements at all levels. The Technical Partners on different value chains will be taken on board for integration of 
+the best practices and regulatory requirements into the Package of Practices and Capacity Building programs. The 
+NRETP (NRLP AF) social management framework (SMF), including OP 4.10 on Indigenous Peoples (Scheduled Tribes), 
+will continue to apply to the AF. The SMF comprises strategies for targeting and inclusion of scheduled castes and 
+schedule tribe groups/areas, consultation and participation, gender & women’s economic empowerment, citizen’s 
+engagement, grievance redress and safeguard screening/mitigation planning for community projects involving 
+land/infrastructure. The SMF addresses the issues and needs of tribal people and incorporates the key requirements 
+of O.P. 4.10 especially with respect to free, prior and informed consultations and broad community support. The SMF 
+includes specific provisions for informed consultations, participation and inclusion of the SC/ST and other excluded 
+households, with a special focus on tribal people. The SMF also provides for institutional arrangements and capacity 
+building activities of project staff, community institutions and partner agencies. Community projects involving 
+productive infrastructure and land donation would follow consultative, transparent and voluntary procedures. MORD 
+and the 13 SRLMs have implemented the SMF and its constituent strategies with varying levels of intensity and quality 
+in the ongoing NRLP satisfactorily. Under the NRETP (NRLP AF), the capacities and performance of the social 
+development staff and partners would be strengthened through a range of measures. NRETP (NRLP AF) aims to 
+intensify interventions, financing & technical support for high value agriculture, rural value chains, skills and 
+enterprises, producer organizations, innovative livelihood approaches, digital financial inclusion as well as productive 
+infrastructure for post-production processes and value addition. Technical Assistance will also be provided to 
+convergence (Mission Antoyodaya). Partnerships with technical resource agencies from private and non-profit and 
+public sector will be strengthened. Increased investments in high value agriculture, enterprises, productive 
+infrastructure and financing of producer organizations would need more explicit criteria for inclusive beneficiary 
+targeting and benefit sharing as well as social safeguard screening to minimize elite capture and social exclusion. 
+Dedicated HR and Capacity building program on socially inclusive and gendered value chains/enterprises, social 
+safeguard screening and risk mitigation and social sustainability will be supported to ensure satisfactory social 
+performance of project counterparts. To respond to these focus areas in the AF, MORD has updated the existing SMF 
+especially with respect to social inclusion protocols, social safeguard screening mechanisms and inclusive beneficiary 
+targeting and benefit sharing criteria for financing of producer organizations and productive infrastructure. Additional 
+measures on staffing, capacity building, technical assistance, knowledge programs as well as citizen engagement and 
+grievance redressal would be implemented. The results framework will continue to track and report on gender, 
+inclusion, citizen’s engagement and women’s economic empowerment. NRETP (NRLP AF) will significantly advance the 
+gender mainstreaming and women’s economic empowerment agenda through strategies/specific interventions on 
+women led producer organizations and enterprises, Start-up Village Entrepreneurship Program (SVEP) and upgrading 
+of skills in selected self-employment occupations for women SHG members and youth. Interventions on digital 
+payments, financial inclusion/literacy, Business Correspondents (BC) and enterprise financing will lead to significant 
+financial empowerment of rural women. Support to Mission Antoyodaya will strengthen women’s advocacy and 
+agency in delivery of social safety net and entitlement services for the rural poor. Nutrition sensitive agriculture and 
+interventions on food handling and hygiene will benefit the women disproportionately. The results framework will 
+continue to track and report on gender, inclusion, citizen’s engagement and women’s economic empowerment. Client 
+has also been organizing regular reviews and lesson learning events on the gender, social inclusion and vulnerability 
+
+
+
+reduction dimensions of the SMF. A discrete stocktaking review was undertaken at Midterm stage of the project. 
+Overall the project has been performing satisfactorily on mobilsation, inclusion and financial and economic 
+empowerment of women and marginalization communities particularly tribals and SC households. SMF 
+implementation and reporting would need to improve further on safeguards, GRM and benefit sharing dimensions of 
+productive infrastructure and economic clusters. As described above, these are the aspects that are being updated in 
+the SMF  
+ 
+ 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The key stakeholders in the proposed project include the SHG members, groups and federations of rural poor in the 
+project districts, technical partners, relevant government departments etc. The existing safeguards arrangements will 
+continue to apply. If required, the existing EMF document will be updated based on a short field assessment and 
+would be disclosed in English and the local language (Hindi) on the websites of the NMMU, State Departments of Rural 
+Development and on the Bank’s InfoShop. The most important stakeholders of the project are the rural poor and their 
+organizations, including SHGs, federations, producer organizations and government and non-governmental 
+organizations working on rural poverty reduction and livelihoods advancement. The MoRD has held stakeholder 
+consultations to inform the design and implementation of the project and address the limitations of existing rural 
+development programs that target the poorest and most excluded groups. The following field consultations were also 
+held.  
+ 
+ 
+ 

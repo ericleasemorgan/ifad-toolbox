@@ -1,0 +1,482 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+ 
+
+  
+Jun 01, 2020 Page 1 of 10  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Project Information Document (PID) 
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 09-Jun-2020 | Report No: PIDA29373 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Guatemala P173480 Responding to COVID-19: 
+Modern and Resilient 
+Agri-food Value Chains 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+LATIN AMERICA AND CARIBBEAN 09-Jun-2020 20-Aug-2020 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance 
+Guatemala (MINFIN) 
+
+Ministry of Economy 
+Guatemala (MINECO) 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The PDO is to contribute to reducing food losses, increasing adoption of climate resilient technologies and providing 
+emergency response to COVID-19 to beneficiaries in select value chains 
+
+ 
+Components 
+
+Component 1: Emergency Response to COVID-19 impacts on agro-industrial economic activities 
+Component 2: Investments to Enhance MSMEs Efficiency and Resiliency 
+Component 3: Institutional strengthening in support of Guatemala’s agri-food system 
+Component 4. Monitoring, Evaluation and Project Management 
+Component 5: Contingency Emergency Response (CERC) 
+
+ 
+OPS_TABLE_FCC The processing of this project is applying the policy requirements exceptions for situations of urgent need of 
+assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.     
+Yes 
+
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 211.00 
+
+Total Financing 211.00 
+
+of which IBRD/IDA 150.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+nk Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 150.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 50.00 
+
+          Local Beneficiaries 50.00 
+
+     Other Sources 11.00 
+
+          International Fund for Agriculture Development 11.00 
+
+    
+
+Environmental and Social Risk Classification 
+
+Substantial 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+
+
+
+ 
+
+The World Bank  
+Responding to COVID-19: Modern and Resilient Agri-food Value Chains (P173480) 
+
+ 
+
+ 
+
+  
+Jun 01, 2020 Page 4 of 10  
+
+ 
+
+B. Introduction and Context 
+Country Context 
+ 
+1. Despite a stable macroeconomic framework, Guatemala struggles with low rates of economic growth and 
+high poverty compared to its neighbors. Measured by per capita Gross Domestic Product (GDP), Guatemala is the fifth 
+poorest economy of Latin America and the Caribbean (LAC) and remains one of the region’s countries with the highest 
+rates of social and economic exclusion. GDP growth averaged only 3.3 percent over 2015-2018, with real GDP per 
+capita growth stagnating and falling behind its Central America peers over the same period. Guatemala’s ability to 
+provide basic public services and respond to changing conditions and demands is hampered by low collection of taxes 
+by the Central Government (tax revenues are close to 10 percent of GDP) and highly rigid expenditures, as well as 
+significant gaps in knowledge and job skills. For example, around two-thirds of Guatemalan children at late primary age 
+today do not possess basic literacy skills.  
+ 
+2. Poverty, inequality, and rurality are high and persistent.  Guatemala has one of the highest poverty rates in 
+LAC, and deep inequality persist across various dimensions. In 2014, an estimated 60 percent of the total population 
+of 17 million was estimated to live in poverty, up from 55 percent in 2000. Almost 80 percent of Indigenous people  
+live in poverty (2014), and 50 percent live in extreme poverty. Income inequality is high, and the Gini coefficient rating 
+stood at 0.49 in 2014. Vulnerability is particularly high among the Indigenous peoples, with almost 80 percent living in 
+poverty in 2014, and half in extreme poverty. In 2017, about 48 percent of the total population was estimated to live 
+in rural areas, where poverty is significantly higher (76 percent) than in urban areas (42 percent). Assessing more recent 
+changes in poverty and inequality is difficult, due to the scarce availability of socio-economic data (Guatemala has had 
+the second-lowest number of household surveys available in the region (after Haiti), in the period since 2000). 
+However, qualitative evidence, available data and recent developments, do not point to progress on these metrics.  
+ 
+3. Guatemala is among the highest rates in the Gender Inequality Index and has the lowest rate of female labor 
+force participation in Latin America and the Caribbean. Many indicators of women’s economic opportunities have not 
+improved since 2000 and are worse than the average in LAC and similar countries. Only 4 out of 10 women are in the 
+labor force, less than half the corresponding rate of men. Similarly, female youth unemployment is almost twice that 
+of men. Women are at a disadvantage with respect to their male counterparts also in terms of technical and soft skills, 
+as well as business opportunities and access to information, technology, and markets for inputs and outputs – all of 
+which translate into lower income levels. In terms of Gender-Based Violence (GBV), Guatemala registers one of the 
+highest rates of violent deaths among women in the world: 6.4 in 100,000 in 2018, almost 5 times the global rate. An 
+estimated 628 women lost their lives to violence in 2018, almost two deaths per day. Lack of education, inclusion, and 
+gender inequality are among the most relevant triggers of GBV.  
+
+ 
+4. Guatemala has the sixth highest rate of chronic malnutrition in the world and the highest in LAC, with 
+Indigenous and rural populations disproportionately affected. In 2019, Guatemala ranked 68th in food security out of 
+113 countries, with only 40 percent of Guatemalan families enjoying food security. Some 77 percent of families have a 
+poor or inadequate diet, characterized by high consumption of cereals (maize) and low consumption of foods of animal 
+origin, fruits, and vegetables. Chronic child malnutrition (stunting) is very high according to the World Health 
+Organization (WHO), affecting 47 percent of all Guatemalan children under five, 58 percent of Indigenous children, and 
+66 percent of children in the lowest income quintile. On the opposite side of the spectrum, overweight and obesity are 
+on the rise, affecting over 50 percent of the adult population. 
+
+ 
+5. Guatemala is extremely affected by climate and weather events and its poorer populations are particularly 
+vulnerable. Guatemala is the ninth most at risk country worldwide from climate change. By 2050, economic losses 
+
+
+
+from drought, flooding, and other extreme weather events are projected to reduce GDP by between 1.3 percent and 
+3.7 percent. On the other hand, Guatemala's contribution to global Green House Gas (GHG) emissions is low compared 
+to other countries: in 2011 the country emitted 3.4 tCO2e/capita (half of the average per capita emissions of LAC).  
+Agriculture is one of the strategic sectors for climate change mitigation and adaptation goals under Guatemala’s 
+Nationally Determined Contribution (NDC) to the United Nations Framework Convention on Climate Change (UNFCC). 
+
+ 
+6. On March 11, 2020, the WHO declared the novel coronavirus (COVID-19) outbreak a pandemic. and the 
+impacts on Guatemala are expected to be severe. The economic impacts of the disease outbreak are envisaged to 
+lead to a significant decline in GDP in 2020, and the International Monetary Fund (IMF) has revised the country’s 
+economic growth projections for 2020 to negative 2 percent.  Impacts are starting to be felt mainly through reductions 
+in exports and tourism, and through reduced remittances (12 percent of GDP in 2018). The COVID-19 outbreak will 
+have significant effects on the external accounts, inflation, and government balances, with expected higher financing 
+needs and public deficit. On March 18, 2020, in preparation for the spread of COVID-19 in Guatemala, the Government 
+launched the “National Program for Emergency and Economic Recovery” to respond to the crisis. 
+
+ 
+Sectoral and Institutional Context 
+
+7. Agriculture plays a significant role in Guatemala’s economic performance and employment. Primary agriculture 
+accounts for about 10 percent of the country’s GDP with a significant multiplier when accounting for the full backward 
+and forward linkages in the agri-food system and employs around 30 percent of the population. In 2015, the broader 
+food sector represented 45 percent of the country’s total merchandise exports. Secondary processing activities also 
+create opportunities for job creation and diversification of local production. Market-linkage programs in the sub-sectors 
+of vegetable and fruit preparation for exports have in some cases, proven particularly beneficial for small-scale 
+organized producers. 
+ 
+8. Limited market access and inefficient value addition/preservation capacity and lack of market information 
+result in low productivity and variable sales and incomes, for Guatemala’s micro, small and medium agro-industrial 
+enterprises and small producers.  Within the domestic markets, smaller producers and SME agribusinesses face a 
+number of challenges. Limited market transparency, lack of investment in on-farm and post-harvest technologies and 
+other logistical market-access barriers lead to an abundance of middlemen, who capture a large portion of the value 
+of any transaction. In addition, the quality of infrastructure varies greatly across Guatemala, which exacerbates regional 
+income inequality, particularly between urban and rural areas. This also has severe impacts on access to agricultural 
+markets, including contributing to high food losses (on-farm and throughout the VC and affecting food quality and 
+safety.  
+
+ 
+
+9. In particular, the Guatemalan agri-food sector faces the challenge of substantial post-harvest food losses, due 
+to insufficient investment in storage facilities, limited market information and low uptake of good post-harvest 
+practices.  According to the United Nations Environment Programme, 52,000 tons of post-harvest food is lost or wasted 
+annually in Guatemala. More than 35 percent of beans and maize are spoiled due to poor harvest management, pests 
+and animals, salmonella and aflatoxins. In addition, lack of information about market location and prices leads to high 
+levels of food loss at the farm level and additional upstream loss in the value chain. Food Loss and Waste (FLW) also 
+significantly contributes to GHG emissions 
+
+ 
+
+10. To build toward its anti-poverty and growth potential as part of the new Government’s “economic wall of 
+opportunities,” the agri-food system must improve significantly its productive and post-harvest efficiency while 
+mitigating the deleterious impacts of the recent COVID-19 pandemic. COVID-19 is expected to impact in 
+
+
+
+unprecedented ways the productivity and food security of producers and consumers within Guatemala’s food systems, 
+as well as agri-food exports. While the sector has clear potential for continued expansion and diversification in export 
+and domestic markets, the urgent challenge related to COVID-19 threatens producers, agribusiness micro-, small- and 
+medium-sized enterprises (MSMEs), other supply chain actors, markets, and domestic and international demand. To 
+improve access to markets and build resilience in the system, especially given the current dual health and economic 
+emergencies, the proposed Project offers an opportunity to make investments that contribute to strengthening and 
+improving efficiency in productive and post-harvest capacity, and to promoting food safety, food quality, 
+competitiveness and broader resilience considerations. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD)  
+The project development objective (PDO) is to contribute to reducing food losses, increasing adoption of climate resilient 
+technologies and providing emergency response to COVID-19 to beneficiaries in select value chains 
+ 
+
+Key Results 
+
+ 
+
+Reducing Food Losses 
+• Reduction of food losses in selected value chains (as a percentage of total production)   
+
+• Reduction of products rejected due to food safety received by buyers in selected value chains (as a 
+percentage share of baseline).   
+
+Increasing adoption of climate 
+resilient technologies  
+
+• Beneficiaries adopting improved agricultural technologies promoted by the Project to enhance climate 
+resiliency, disaggregated by gender and ethnicity (number)  
+
+• Beneficiaries demonstrating an improvement in empowerment  disaggregated by gender (IFAD core 
+indicator) (percentage)1 
+
+Providing emergency response 
+to the Covid-19 pandemic 
+
+• MSMES supported under MINECO’s COVID-19 emergency response fund, disaggregated by gender - 
+(number) 
+
+• Number of PFIs that use the guarantee fund (number)  
+
+ 
+ 
+D. Project Description  
+ 
+
+11. The proposed Project will prioritize investments in select, strategic Value Chains (VCs) pre-identified by 
+the Ministry of Economy (MINECO).  Project-supported beneficiaries will be eligible micro, small and medium 
+agribusinesses and agro-industry, producers’ associations, and producers’ groups (hereinafter referred to as 
+MSMEs).  
+
+12. Component 1: Emergency Response to COVID-19 Impacts on Agro-industrial Economic Activities. This 
+component will invest in two strategic priority areas (i) Emergency relief to MSMEs through a MINECO partial 
+guarantee fund, and (ii) Skills development for greater employability through training and an on-line labor-
+
+ 
+1 This is a survey-based index for measuring empowerment, agency, and inclusion of women in the agriculture sector. Developed jointly by the 
+International Food Policy Research Institute (IFPRI), the Oxford Poverty and Human Development Initiative (OPHI), and thirteen partner projects 
+in IFPRI’s GAAP2 portfolio, Pro-WEAI is composed of twelve indicators of women’s empowerment in agriculture: autonomy in income, self-
+efficacy, attitudes about domestic violence, input in productive decisions, ownership of land and other assets, access to and decisions on credit, 
+control over use of income, work balance, visiting important locations, group membership, membership in influential groups, and respect among 
+household members. 
+
+matching platform. 
+
+13. Component 2: Investments to Enhance MSMEs Efficiency and Resiliency. This component will operate 
+at a national level, focusing on subprojects in select, strategic VCs. Eligible beneficiary MSMEs will receive 
+financial support based on approved business plans to improve the quality of their productive processes through 
+investments in post-harvest practices, including activities such as storage, agro-logistics, aggregation, and 
+transformation of harvested products along the selected VCs. The Project will provide grants and beneficiaries 
+will be expected to provide contributions.  The grants will be provided by MINECO with both IFAD and World 
+Bank resources.  
+
+14. Component 3: Institutional strengthening in support of Guatemala’s agri-food system.  The objective of 
+this component is to strengthen public sector institutions that are considered strategic in supporting the 
+efficiency of the country’s agri-food system.  It is divided into two sub-components: (i) improving public 
+infrastructure to enhance SPS standards, food safety, food quality and traceability and (ii) institutional 
+strengthening of key public sector institutions, including MINECO, MAGA, and National Quality System and INE.  
+
+15. Component 4. Monitoring, Evaluation and Project Management. This Component will finance the overall 
+project management, monitoring, and implementation of Components 1 to 3.  
+
+16. Component 5. Contingent Emergency Response Component (CERC). The objective of this component is 
+to support the Government’s emergency response to disasters. This will be activated upon request of the 
+Borrower, upon the official declaration of a national emergency.  
+
+.
+
+.  
+Legal Operational Policies 
+
+            Triggered? 
+
+Projects on International Waterways OP 7.50             Yes  
+
+Projects in Disputed Areas OP 7.60             No  
+
+ 
+
+Summary of Assessment of Environmental and Social Risks and Impacts 
+. 
+
+ 
+17. Whereas the environmental risk rating is assessed as moderate, the combined Environmental and Social risk 
+rating is considered SUBSTANTIAL, particularly driven by contextual social factors and borrower’s capacity: (i) the 
+inherent challenges of implementing projects with multiple and diverse Indigenous groups with their own governance 
+structures, languages and socio-cultural characteristics dispersed nationally; (ii) potential implementation of 
+subprojects in remote and difficult to access areas due to inadequate and limited infrastructure, particularly during 
+the rainy season, as well as potential overlapping with high crime and violence areas, creating challenges for providing 
+technical support and effective monitoring; (iii) use of a guarantee scheme that triggers participation of financial 
+intermediaries with no previous experience working with the World Bank; and, (iv) no existing institutional capacity in 
+MINECO to develop and monitor Environmental and Social (E&S) instruments and no previous experience with the 
+new areas covered by the Environmental and Social Framework. 
+ 
+18. Given that the exact scope and location of subprojects will be defined only during project implementation, 
+based on demand and subject to the specific eligibility criteria, and because specific risks are unknown, the project has 
+adopted a framework approach to environmental and social management. The framework approach and phased 
+
+
+
+preparation of E&S instruments is also required to accommodate project preparation with condensed procedures 
+under paragraph 12 of the Investment Project Financing policy in response to the Covid-19 pandemic. The E&S 
+instruments will be developed in two phases. The Government of Guatemala (GoG) will develop, consult with key 
+stakeholders, and disclose prior to appraisal a draft Stakeholder Engagement Plan (SEP), including a project-level 
+Grievance Redress Mechanism (GRM) and an Environmental and Social Commitment Plan (ESCP). Consultations for 
+these instruments took place in the context of country-wide quarantine with strong mobility restrictions, following the 
+recommendations set forth in the WB’s Technical Note, avoiding in-person gatherings, and using virtual interactive 
+meetings, emails, online surveys, WhatsApp and traditional telephone calls, when stakeholders did not have access to 
+online channels or were not used to them. The results of these consultations have been documented in the draft SEP 
+and integrated into the design of the project and the SEP. 
+ 
+19. The Borrower will also develop, consult with stakeholders and disclose within 30 days of effectiveness: an (i) 
+Environmental and Social Management Framework (ESMF); (ii) Labor Management Procedures with a dedicated GRM 
+for project workers; (iii) an Indigenous Peoples Planning Framework (IPPF); and, (vi) a final SEP, including a project-
+level GRM. The ESCP reflects the GoG’s requirements to implement the above-mentioned instruments at the site-
+specific level and to complete periodic reporting to the Bank on its compliance. During implementation, as business 
+plans are approved, Environmental and Social screenings will be carried out for each subproject. Environmental and 
+Social Management Plans (ESMPs) covering environmental, social, health and safety (ESHS) issues, as well as 
+Indigenous Peoples Plans (IPPs), will also be developed when applicable. All required construction phase mitigation, 
+management and monitoring measures identified in the ESMF will be reflected in bidding and contracting documents. 
+
+ 
+
+20. The PIU will include dedicated environmental, social and gender specialists and will be responsible for 
+complying with environmental and social commitments, supervising firms and contractors to ensure application of 
+mitigation measures, monitoring implementation and reporting to the Bank and relevant national authorities. MINECO 
+will submit semiannual implementation reports to the Bank, including a dedicated section on compliance with the 
+environmental and social requirements set forth in the ESCP and specified in each of the E&S instruments developed 
+for this Project. 
+
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements  
+
+21. The Project will be implemented by MINECO. MINECO is the entity in charge of formulating and executing 
+consumer protection and competition promotion policies. Specifically, it formulates and executes policies for 
+national and foreign investment, promotion of competitiveness, industrial and commercial development. In 
+addition, by delegation of the President of the Republic, it is the entity in charge of carrying out the negotiations 
+of bilateral and multilateral international trade agreements and treaties. It also proposes, in coordination with 
+the other ministries and State agencies, the specifications and technical and quality standards of national 
+production; and facilitates the competitive development of micro, MSMEs through the provision of financial 
+services and business development. The Project will be headed by the Vice Ministry of Investment and 
+Competition of MINECO and the National Program on Competitiveness (PRONACOM).  
+ 
+22. As part of the support to the agriculture sector, MINECO will provide technical support and capacity 
+building for the other key institution in the sector - the Ministry of Agriculture, Livestock and Food (MAGA). 
+Among its functions, MAGA is in charge of implementing the food and nutrition security policy, as well as 
+promoting community organization through productive agricultural projects by means of extension services, 
+
+
+training, and technical assistance. In addition, it is responsible for generating, processing and disseminating 
+geographic, cartographic, food security and risk management information to prevent and mitigate the effects 
+caused by natural disasters. MAGA will receive technical support and capacity building through project activities.  
+
+ . 
+   

@@ -1,12 +1,8 @@
 id	sid	eid	entity	type
 WB117	1	1	World Bank Document	ORG
-WB117	1	2	Response & Economic Recovery (P172796	ORG
-WB117	1	3	1	CARDINAL
-WB117	1	4	8	CARDINAL
-WB117	1	5	PID	ORG
-WB117	1	6	15-May-2020	TIME
-WB117	1	7	2	CARDINAL
-WB117	1	8	8	CARDINAL
+WB117	1	2	Response & Economic Recovery (P172796)	ORG
+WB117	1	3	PID	ORG
+WB117	1	4	15-May-2020	TIME
 WB117	2	1	Basic Project Data OPS TABLE Country Project ID Project Name Parent Project	ORG
 WB117	2	2	Uruguay P172796	PERSON
 WB117	2	3	Natural Resources & the Blue Economy Development Policy Financing Borrower(s)	ORG
@@ -18,8 +14,6 @@ WB117	3	3	400.00	CARDINAL
 WB117	3	4	Total World Bank Group	ORG
 WB117	3	5	400.00	CARDINAL
 WB117	3	6	World Bank	ORG
-WB117	3	7	The World Bank UY - COVID-19 Response & Economic Recovery (P172796	ORG
-WB117	3	8	3	CARDINAL
 WB117	5	1	Uruguay	PERSON
 WB117	5	2	first	ORDINAL
 WB117	5	3	two decades	DATE
@@ -72,9 +66,7 @@ WB117	28	2	March	DATE
 WB117	28	3	China	GPE
 WB117	28	4	23 percent	PERCENT
 WB117	28	5	March 2019	DATE
-WB117	29	1	The World Bank UY - COVID-19 Response & Economic Recovery (P172796	ORG
-WB117	29	2	4	CARDINAL
-WB117	29	3	8	CARDINAL
+WB117	29	1	CPF 4	LAW
 WB117	30	1	CPF	ORG
 WB117	30	2	2018	DATE
 WB117	30	3	Uruguay	PERSON
@@ -108,9 +100,7 @@ WB117	49	2	Fitch	ORG
 WB117	50	1	two	CARDINAL
 WB117	50	2	Uruguay	FAC
 WB117	50	3	BBB	ORG
-WB117	51	1	The World Bank UY - COVID-19 Response & Economic Recovery (P172796	ORG
-WB117	51	2	5	CARDINAL
-WB117	51	3	8 8	DATE
+WB117	51	1	8	CARDINAL
 WB117	52	1	DPF	ORG
 WB117	52	2	two	CARDINAL
 WB117	52	3	1	CARDINAL
@@ -162,43 +152,12 @@ WB117	86	4	Mitigation 13	DATE
 WB117	87	1	Moderate	ORG
 WB117	88	1	COVID- 19	LAW
 WB117	88	2	end-2020	DATE
-WB117	89	1	3	CARDINAL
-WB117	89	2	6	MONEY
-WB117	89	3	2018	DATE
-WB117	91	1	Emerson	ORG
-WB117	91	2	J. W., Esty	PERSON
-WB117	91	3	D. C.	GPE
-WB117	91	4	Levy	GPE
-WB117	91	5	de Sherbinin	ORG
-WB117	91	6	A.	GPE
-WB117	92	1	2018	DATE
-WB117	93	1	2018	DATE
-WB117	94	1	New Haven	GPE
-WB117	94	2	Yale Center for Environmental Law & Policy	ORG
-WB117	95	1	The World Bank UY - COVID-19 Response & Economic Recovery (P172796	ORG
-WB117	95	2	7	CARDINAL
-WB117	95	3	8 trajectory	QUANTITY
-WB117	96	1	Sector Strategies and Policies	ORG
-WB117	97	1	the Urgent Reform Bill	LAW
-WB117	98	1	the Technical Design of the Program	ORG
-WB117	98	2	Institutional Capacity for Implementation and Sustainability	ORG
-WB117	98	3	Moderate	ORG
-WB117	99	1	Uruguay	ORG
-WB117	99	2	DPL	ORG
-WB117	99	3	Bank	ORG
-WB117	100	1	DPL	ORG
-WB117	101	1	CONTACT POINT World Bank Carole Megevand	ORG
-WB117	101	2	Peter Siegenthaler	PERSON
-WB117	101	3	Implementing Agencies Ministry of Economy and Finance	ORG
-WB117	101	4	NW	GPE
-WB117	101	5	Washington	GPE
-WB117	101	6	202	CARDINAL
-WB117	101	7	473-1000	CARDINAL
-WB117	101	8	The World Bank	ORG
-WB117	101	9	Response & Economic Recovery (P172796	ORG
-WB117	101	10	8	CARDINAL
-WB117	101	11	8	CARDINAL
-WB117	101	12	APPROVAL	ORG
-WB117	101	13	Carole Megevand	PERSON
-WB117	101	14	Peter Siegenthaler	PERSON
-WB117	101	15	Jordan Z. Schwartz	PERSON
+WB117	90	1	Sector Strategies and Policies	ORG
+WB117	91	1	the Urgent Reform Bill	LAW
+WB117	92	1	the Technical Design of the Program	ORG
+WB117	92	2	Institutional Capacity for Implementation and Sustainability	ORG
+WB117	92	3	Moderate	ORG
+WB117	93	1	Uruguay	ORG
+WB117	93	2	DPL	ORG
+WB117	93	3	Bank	ORG
+WB117	94	1	DPL	ORG

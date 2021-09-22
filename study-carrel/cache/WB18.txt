@@ -1,0 +1,623 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Lao Agriculture Commercialization Project (P161473) 
+
+ 
+ 
+
+  
+Apr 13, 2017 Page 1 of 12  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 10-Mar-2017 | Report No: PIDISDSC21901 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Lao People's Democratic 
+Republic 
+
+P161473  Lao Agriculture 
+Commercialization 
+Project (P161473) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EAST ASIA AND PACIFIC Nov 06, 2017 Mar 30, 2018 Agriculture 
+
+Lending Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Lao People's Democratic 
+Republic 
+
+Department of Planning and 
+Cooperation 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Project Development Objective (PDO) is to increase commercialization of selected value chains in the project areas. 
+
+ 
+
+ Financing (in USD Million) 
+
+ 
+
+Financing Source Amount  
+
+Borrowing Agency    2.00  
+
+International Development Association (IDA)   35.00  
+
+Total Project Cost   37.00  
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Lao PDR has achieved good progress in economic growth and poverty reduction over the past decade. Average 
+growth of the gross domestic product (GDP) in the past decade was around 8 percent per annum. Poverty declined from 
+41.4 percent in 2002/03 to 28.8 percent in 2012/13. With a GDP per capita of around US$1,600 in 2014, Lao PDR has 
+become a lower-middle income country.  
+ 
+2. Despite impressive macroeconomic achievements, poverty still remains high, especially in rural areas and 
+among ethnic groups. Over 80 percent of the poor are concentrated in rural areas. About 40 percent of Mon Khmer and 
+Hmong ethnic groups are poor, compared to 15 percent of Lao-Tai people, and ethnic groups account for about two thirds 
+of people having no access to formal education. Stunting is also pronounced among ethnic groups.   
+ 
+3. In many rural areas of the country, a high prevalence of food insecurity and malnutrition is still a major problem. 
+Rice shortage often takes place for about 3-4 months per year. Prevalent farming systems are largely subsistent and 
+generally lack diversification. Although the country is able to achieve self-sufficiency in rice at the national level in the 
+normal year, there are still challenges in addressing food security due to the instability of annual production resulted from 
+poor farming practices, ineffective water management, and frequent natural disasters (i.e. floods and droughts). 
+ 
+
+Sectoral and Institutional Context 
+ 
+4. Agriculture is an important sector in Lao PDR, but it is currently underperforming. The sector employs two-thirds 
+of the country’s labor force, but generates only 22 percent of the GDP. In the last decade, agricultural growth averaged 
+3.7 percent, which is less than half of the overall GDP growth. Agricultural farming is largely subsistent, producing one 
+crop a year, mainly paddy with low productivity. Currently, irrigated agricultural land accounts for less than 15 percent of 
+cultivated land and the remaining 85 percent is rain-fed. Recently, there have been emerging signs of agricultural 
+commercialization and diversification (i.e. crop rotation or aquaculture with rice cultivation in low land areas; commercial 
+production of maize in Xayabury province, and vegetables in Vientiane province). In the bigger context, however, these 
+developments are still relatively scattered and small. 
+ 
+5. Lao PDR’s agriculture sector is constrained by subsistent farming and small scale production with low level of 
+commercialization, limited processing capacity, underdeveloped supporting infrastructure, and weak public services. 
+Value chains of rice, maize, and vegetables are currently underdeveloped. There are good opportunities and potentials 
+for improving their performance substantially through improving farm productivity and enhancing value chains. While the 
+former could be realized by adopting quality seed/ farm inputs, improved farming technologies, upgrades of irrigation and 
+improved water management, improved extension services/applied research, enhanced farming mechanization, 
+improved harvest/postharvest facilities, and better farming diversification/crop rotation, the latter could be achieved by 
+improved regulatory framework to facilitate trade and monitor quality standards, market analysis/research, 
+transportation/ logistics, strategic support to agribusinesses, contract farming, and product branding and marketing. The 
+recently completed project “Engaging the Private Sector to Develop the Lao Rice Industry” (EMRIP) demonstrated the 
+readiness of the growing number of rice mills to modernize their facilities, engage in contract farming and develop 
+marketing strategies.  
+
+ 
+6. There are concerns related to the quality and sustainability of agricultural growth. Rice is the most important 
+crop in the agriculture sector of Lao PDR. Rice production dominates agricultural land use, occupying nearly 56 percent of 
+
+
+the total harvested area of all crops. More than 80 percent of the Lao rice crop consists of various types of glutinous rice. 
+Maize, which constitutes about 12 percent of the harvested area, is the next most important crop. No other single crop or 
+category of crops takes up more than around 5 percent of the cultivated land. In terms of the tonnage of crops produced 
+at the national level, rice represents 81 percent of total weight of crops produced. Lack of diversification and heavily 
+reliance on rice while there is an increasingly fierce competition in global rice markets are the key challenges to 
+competiveness and sustainability of the agricultural growth of Lao PDR in the future. 
+ 
+7. Addressing the risks and shortcomings of the sector will require re-organization of agricultural production and 
+greater commercialization to support strategic value chains. According to the findings of the Project Identification 
+Mission jointly carried out by Ministry of Agriculture and Forestry (MAF) and the World Bank in November 2016, three 
+strategic value chains were identified, which include: (i) rice value chains in the selected low land provinces; (ii) maize 
+value chains in Xayabury province; and (iii) vegetables value chains in Vientiane province and possibly Vientiane Capital. 
+These value chains are currently operating far below their potentials due to: (1) weak agriculture knowledge and 
+information system (i.e. weak research and extension and private sector linkages, inadequate/weak delivery of extension 
+and training services, use of poor quality seeds, lack of agricultural diversification); (2) poor production infrastructure (i.e. 
+lack/degraded irrigation canals, poor maintenance of irrigation infrastructure, poor feeder roads to facilitate in-scheme 
+mechanization); (3) inadequate mechanization facilities and equipment (i.e. lack of mechanization for harvesting and post-
+harvest drying and processing, lack of  equipment and facilities for quality testing and storage); (4) lack of access to finance 
+(i.e. underdeveloped banking sector, low capacity of rice mills to prepare business plans and secure loans); (5) inadequate 
+enabling environment (i.e. constraints to new business entry/ business licensing, quality control and certification, public 
+services to promote trade); and (6) insecure agricultural land tenure (i.e. risks of conversion of agricultural land to other 
+uses, reduced incentives to invest and manage land by farmers). These constraints not only result in low farm productivity 
+but also are generic causes for the poor performance of the agriculture sector and slow process of agricultural 
+commercialization. 
+
+ 
+8. The Government has recognized the need to promote a substantial shift in the agriculture sector from 
+subsistent farming to sustainable commercial agriculture following cluster development and value chain approaches. 
+On November 18, 2016, the Government through Ministry of Planning and Investment (MPI) sent an Official Letter to the 
+World Bank requesting the support on agricultural commercialization in order to improve the sector’s performance 
+especially along the rice value chains. Yet, there is also an increasing attention of the Government to other crops such a 
+maize, horticulture, beans and pulses, and aquaculture, to increase diversification and farm incomes, as well as to improve 
+food security and reduce malnutrition. 
+ 
+
+Relationship to CPF 
+ 
+
+9. The proposed project is aligned with the National Agriculture Sector Plan to 2020 and Strategy to 2025, in which 
+improving the commercialization and competiveness of the agriculture sector are the top priorities. The proposed 
+project also supports several objectives of the Eighth National Socio-Economic Development Plan (NSEDP), namely 
+Outcome 2.2 “Food security ensured and incidence of malnutrition reduced” and Outcome 3.3 “Reducing the instability 
+of agricultural production caused by impacts of natural disasters.”  
+ 
+10. The proposed project is consistent with the Systematic Country Diagnostic (2016), which placed an increase in 
+agricultural productivity to support incomes among the top priorities to reduce poverty and boost shared prosperity in 
+Lao PDR, and with the Country Partnership Framework (CPF) 2017-2021. It contributes to achieving its Objective 1.2 
+“Making it easier to do business and create jobs” under the Focus Area 1 “Supporting Inclusive Growth” and Objective 2.1 
+“Reducing the prevalence of malnutrition” under the Focus Area 2 “Investing in People.”     
+
+
+ 
+11. The proposed project is closely aligned with the twin goals of ending extreme poverty and boosting shared 
+prosperity and with the global Sustainable Development Goals, including Zero Hunger (Goal 2) and Climate Action (Goal 
+13).   The project would directly provide benefits to local farmers in four provinces, namely Xayabury (those associated 
+with maize value chains), Vientiane Province (vegetables value chains), and Bolykhamxay and Khammouane Provinces and 
+Vientiane Capital (rice value chains). Most farmers in these provinces are practicing subsistent agriculture with low/ 
+unstable productivity and low incomes. Generally speaking, rural farmers among poor groups in Lao PDR and some of 
+them are living under extreme poverty. 
+ 
+C. Proposed Development Objective(s)  
+ 
+
+12. The Project Development Objective (PDO) is to increase commercialization of selected value chains in the project 
+areas. 
+ 
+Key Results (From PCN) 
+
+ 
+13. The proposed PDO-level results indicators are:  
+ 
+
+(i) Number of project beneficiaries (men and women; core indicator);  
+
+(ii) An increase in productivity from those farmers adopting new technologies; 
+
+(iii) An increase in the sale volumes (percentage) from those farmers adopting new technologies; 
+
+(iv) An increase in the quality of the produce sold to agribusinesses through production alliances. 
+ 
+D. Concept Description 
+
+ 
+14. The proposed Agriculture Commercialization Project (ACP) seeks to enhance the competitiveness and 
+sustainability of Lao PDR’s agriculture sector through technical and financial support to increase in agricultural productivity 
+and commercialization in selected strategic value chains. The project would focus on: (i) the geographical areas with high 
+agricultural development potentials; (ii) the farming systems with high potentials for commercialization (i.e. paddy, maize, 
+vegetables); (iii) promotion of good agricultural practices and climate smart agricultural technologies and farming system 
+diversification to enhance food and nutritional security; (iv) building capacity for farmers’ organisations, agribusinesses, 
+public and private service providers; and (v) building on and developing synergies with other government/donor programs.  
+ 
+15. Proposed project areas: In line with the above strategy, the project would select Provinces and Districts with: (i) 
+high potentials for agricultural production (farm land and production volume); (ii) high potentials for commercialization 
+and value chain development; (iii) availability of basic public infrastructure (i.e. irrigation, roads,  etc.); (iv) public services 
+in place to support commercialization and diversification; and (v) availability of agribusinesses interested in inclusive value 
+chain development. The list of target provinces is provisionally set as Vientiane capital, Vientiane province, Bolikhamxay, 
+Khammouane, and Xayabury. The Provinces will be confirmed and districts will be identified before pre-appraisal mission. 
+Three selected value chains could be initially selected for project preparation purposes – namely high value commercial 
+rice (not subsistence), maize, and vegetables -- while allowing flexibility to add other, high-value crops during the life of 
+the project. 
+
+ 
+16. It is envisage that the Project would have three components: (A) Enhancing Productivity of Farming Systems; (B) 
+Support for Improved Value Chains; and (C) Project Management. 
+
+17. Component A: Enhancing Productivity of Farming Systems: This component would aim at enhancing productivity 
+of farming systems and it would include the following activities:  
+
+ 
+(i) Production organization and promotion of the use of good quality seeds;  
+(ii) Research and extension to improve farming practices and farm machinery to promote good and 
+
+sustainable agricultural production, diversification and commercialization;  
+
+(iii) Upgrades of existing irrigation infrastructure and improvement of water management practices; 
+
+(iv) Establishment and capacity building for farmer groups and their members; and  
+
+(v) Mapping, demarcation, and registration of irrigation land/systems in the project area on a block basis (not 
+for individual plots).  
+
+ 
+18. Component B: Strengthening Agricultural Value Chains. This component would aim at strengthening and 
+leveraging private sector investments in selected food value chains, and it would include the following activities:  
+ 
+
+(i) Provision of matching grants to farmer groups and their members to promote investments in harvesting 
+machines, drying and storage facilities to reduce pre/postharvest losses; 
+
+(ii) Provision of matching grants and capacity building assistance to agribusinesses to strengthen their role in 
+driving the value chain development; 
+
+(iii) Upgrades of feeder access to production areas and farms;  
+
+(iv) Training and consulting support to farmer groups and their members to build their management skills, 
+business development and marketing of farm produce through adopting contract farming, value addition 
+and product branding;  
+
+(v) Support MAF, Ministry of Industry and Commerce (MOIC), their research institutes and technical agencies 
+in conducting relevant market research, agricultural policy analyses, and improving intelligence and 
+management skills; and  
+
+(vi) Improving the enabling environment through strengthening capacity for quality control and standards 
+certification (i.e. seeds, produce, mills, etc.) including improved inspection services, test kits and 
+laboratory capacity to certify for clean and safe foods. 
+
+ 
+19. Component C: Project Management. This component would provide equipment and incremental operating costs 
+for project monitoring, financial management, and procurement activities, ensure compliance with the safeguards, 
+support the short and long-term technical assistance to the project management team in selected areas, and support 
+analysis and dissemination of findings related to the effectiveness and challenges associated with the different 
+institutional and technical models being applied or piloted under the project.  
+ 
+20. The project would establish and support linkages with ongoing and future interventions by other donors including 
+ADB, IFC, NGOs, and government projects/programs. For instance, farmer groups and agribusinesses which received 
+previous supports from the Netherlands Development Organization SNV’s Enhancing Milled Rice Production in Lao PDR 
+(EMRIP) will be eligible for further support from this project in order to be more effective and efficient. The farmer groups 
+and agribusinesses participating in this project would be well positioned to graduate and become potential clients of IFC 
+in the future. This proposed project would seek to create complementary and enhance synergy of existing 
+projects/programs in the areas. 
+
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The list of target provinces is provisionally set as Vientiane capital, Vientiane province, Bolikhamxay, Khammouane, and 
+
+Xayabury. The Provinces will be confirmed and districts within identified before pre-appraisal mission.   
+ 
+Component A (Enhancing Productivity of Farming Systems) would include production promotion of the use of good 
+
+quality seeds, research and extension to improve farming practices and farm machinery to promote sustainable 
+agricultural production, diversification and commercialization, upgrades of existing irrigation infrastructure and 
+improvement of water management practices. Component B (Support for Improved Value Chains) would strengthen and 
+leverage private sector investments in selected food chains. Component (Project Management) would support project 
+management including monitoring and evaluation, financial management and procurement to ensure compliance with 
+the fiduciary safeguards requirements. 
+ 
+The project’s overall impacts are expected to be positive. Some negative impacts are envisaged to be limited, localized, 
+
+manageable and reversible. It is anticipated that the following World Bank safeguard policies will be triggered: 
+Environmental Assessment (OP/BP 4.01), Pest Management (OP 4.09), Indigenous Peoples (OP/BP 4.10), Involuntary 
+Resettlement (OP/BP 4.12), Safety of Dams (OP/BP 4.37), and International Water Ways (for irrigation rehabilitation). At 
+present, there is insufficient information to determined if Natural Habitats (OP/BP 4.04) and Physical Culture Resources 
+(OP/BP 4.11) are triggered, hence it is classed as TBD. Mapping, demarcation, and registration of irrigation land/systems 
+are not expected to cause changes in land use types and land ownership as they will be carried out a block basis (not for 
+individual plots). Forced child labor and labor influx are not anticipated from the project. The project would comply with 
+the three gender tags proposed by the World Bank Standards. This is to ensure that the project will address gender in 
+terms of (i) analysis; (ii) action; and (iii) monitoring and evaluation framework. During project preparation, the project will 
+develop specific/tailored measures to enhance equal access/opportunities for women to benefit from the matching 
+grants and other project activities. 
+ 
+
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The project will be executed though the Ministry of Agriculture and Forestry (MAF) with its provincial and district offices 
+
+(PAFOS and DAFOs) in collaboration with Provincial Industry and Commerce Offices (PICOs) to be responsible for actual 
+implementation of day-to-day activities. The capacity of MAF is assessed to be adequate as they had extensive experience 
+in managing and implementing donor-funding projects, including those from the WBG namely Agriculture Development 
+Project (ADP), 2004-2008, Rice Productivity Improvement Project (RPIP), 2009-2012 and Lao Upland Food Security 
+Improvement Project (LUFSIP), 2010-2014. Some of PAFOs and DAFO staff had have previous experience with the World 
+Bank-financed projects but some are new especially to safeguard policies. To mitigate residual risks, technical assistance 
+will be recruited and in place to provide specific technical capacity for the implementing agencies involved in safeguard 
+preparation and implementation. A staff from MAF and each of PAFOs and DAFOs will be appointed as focal points for 
+safeguards. These safeguard focal staff will be responsible for impact assessment, consultation, and preparation of 
+safeguard instruments, implementation and compliance monitoring and reporting with technical support from the 
+consultants. Safeguard training and assistance will be also provided by the Bank safeguard specialists and the National 
+
+University of Laos which delivers a safeguard training program supported through the ongoing Bank-financed Lao 
+Environmental and Social Project II (LENSII). 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+ 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project will finance irrigation and drainage 
+refurbishment and upgrades and water management 
+practices. Investments in harvested machines and 
+storage and training, and equipment provision.  
+ 
+The envisaged investments are typical to similar 
+agriculture development projects and are not 
+expected to have adverse and unprecedented 
+environmental and social impacts. Implementation of 
+irrigation and drainage infrastructure and land 
+improvements investments on farmer fields under 
+Component 1 are mainly rehabilitation by their nature 
+and not expected to have significant negative 
+environment and social impacts.  
+ 
+Given that the scope and targets of the project are still 
+to be determined during the project preparation, an 
+Environmental and Social Management Framework 
+(ESMF) will be developed and applied by the project. 
+ESMF will provide policy provisions, principles and 
+process to address the environmental and social 
+impacts. The policy framework will describe 
+procedures for impact assessment, consultation, 
+preparation of subsequent safeguard instruments and 
+implementation arrangement. 
+
+Natural Habitats OP/BP 4.04 TBD 
+
+It is expected that the project is only limited to areas 
+of land already utilized for agriculture. NH will not 
+likely be triggered as it is not anticipated at this stage. 
+The project will have a ‘chance finds’ mechanism built 
+into the ESMF to address the potential issues on NH. 
+
+Forests OP/BP 4.36 No 
+
+Forestry is not triggered as it is envisage that no 
+project activities will take place on forest areas. The 
+project would apply a screening process to eliminate 
+subprojects which will impact on forests or involve 
+forests in the early planning stage. 
+
+Pest Management OP 4.09 Yes 
+
+The project will develop a Pest Management Plan in 
+line with Lao legal regulations and World Bank Policies 
+on pesticide uses. A negative list of chemicals will form 
+be included. The Pest Management Plan will be the 
+part of the ESMF. 
+
+Physical Cultural Resources OP/BP 4.11 TBD 
+
+The project may impact on physical cultural resources 
+although it is expected to be limited to areas of land 
+already utilized for agriculture. The project will have a 
+‘chance finds’ mechanism built into the ESMF to 
+address the potential issues on PCR. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+Target beneficiaries and project areas will be identified 
+during project preparation. It is likely that the project 
+will operate in areas where there is a presence of 
+ethnic groups, belonging to Mon-Khmer and Hmong- 
+Hmong – lu Mien ethno-linguistic families, that meet 
+the four characteristics specified as defining criteria 
+for indigenous people in the World Bank Policy on 
+Indigenous Peoples (OP/BP4.10). The project would 
+conduct a Social Assessment to inform the preparation 
+of the Ethnic Group Policy Framework (EGPF) to 
+ensure that free, prior and informed consultations 
+would be conducted with affected ethnic groups 
+leading to their broad community support, and that 
+they receive project benefits in a culturally 
+appropriate manner. The EGPF will be prepared as a 
+standalone document in line with OP 4.10 
+requirements, and will be finalized before the project 
+appraisal. 
+ 
+Due attention will be given to ensure that ethnic 
+groups do not suffer adverse impacts and that they 
+receive culturally compatible social and economic 
+benefits. Necessary steps and procedures will be 
+included to ensure that the cultures of the multi-
+ethnic society are respected and that gender 
+dimension are integrated at all levels and cycles of 
+project implementation. A feedback and grievance 
+resolution mechanism will be developed and applied 
+under the project to provide affected ethnic groups a 
+legitimate platform for monitoring and reporting on 
+the safeguard policy compliance as well as on project 
+implementation. 
+ 
+The project will provide training to its staff, 
+consultants and their partners on the EGPF to ensure 
+that they are aware of and able to comply the policy 
+
+requirements. Details of due diligence procedures will 
+be described in the EGPF. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Under Component A of the project: Enhancing 
+Productivity of Farming Systems aiming at enhancing 
+productivity of farming systems, minor land 
+acquisition are envisaged from the rehabilitation of 
+existing irrigation schemes. The civil works may 
+involve expansion of intake, local reservoirs and 
+irrigation canals.  These potential impacts can be 
+avoided or minimized through proper design, impact 
+assessment, consultation and application of mitigation 
+measures. Given that the irrigation subprojects and 
+areas to be covered are still unknown and to be 
+identified during the project preparation, a 
+Compensation and Resettlement Policy Framework 
+(CRPF) will be developed and applied by the project 
+which is in compliance with OP/BP 4.12 requirements.  
+The CRPF will complement the EGPF and ESMF, 
+especially in terms of implementation arrangements.  
+If land or asset loss are unavoidable, the principles and 
+procedures described in the RPF will be applied to 
+address negative impacts.  Project staff, consultants 
+and its partners will be provided with training and 
+support to enable them to comply the policy 
+requirements. 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+Although the project does not plan to include 
+construction/rehabilitation of dams, it may include 
+small scale irrigations which use or rely on dams. The 
+project will prepare safeguard documents to comply 
+with OP/BP 4.37 requirements. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+The policy is triggered as the proposed project 
+investments are located in areas that are part of the 
+Mekong River Basin. However, the project targets 
+rehabilitation and improvements of existing irrigation 
+systems and the rehabilitation works will not involve 
+any adverse impacts on the quality and quantity of 
+waters in the Mekong River. The team will prepare for 
+a notification process for downstream riparian nation 
+states. 
+
+Projects in Disputed Areas OP/BP 7.60 No The project will not be active in disputed areas. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Oct 31, 2017 
+
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+The safeguard consultants will be recruited in April 2017. Draft safeguard documents will be available for review in June 
+
+2017. Final safeguard documents will be available for disclosure in August 2017. 
+ 
+ 

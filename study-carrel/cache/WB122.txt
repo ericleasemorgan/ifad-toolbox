@@ -1,0 +1,538 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+NIGERIA: COVID-19 Action Recovery and Economic Stimulus (P174114) 
+
+ 
+ 
+
+  
+May 15, 2020 Page 1 of 11  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Program Information Document 
+ (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 08-Jun-2020 | Report No: PIDC223395 
+
+BASIC INFORMATION 
+
+ 
+
+A. Basic Program Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Program Name 
+
+Nigeria P174114  NIGERIA: COVID-19 
+Action Recovery and 
+Economic Stimulus 
+
+Region Estimated Appraisal Date Estimated Board Date 
+Does this operation 
+have an IPF 
+component? 
+
+AFRICA WEST 14-Sep-2020 15-Oct-2020 Yes 
+
+Financing Instrument Borrower(s) Implementing Agency Practice Area (Lead) 
+
+Program-for-Results 
+Financing 
+
+International Economic 
+Relations Department of 
+Federal Ministry of Finance 
+
+Federal Project Support Unit Social Protection & 
+Jobs 
+
+ 
+
+Proposed Program Development Objective(s)  
+   
+
+To protect livelihoods and food security of poor and vulnerable families and facilitate recovery of local economic 
+activity in all participating states across Nigeria 
+
+  
+
+COST & FINANCING 
+   
+FIN_SRC_TABLE1 
+SUMMARY (USD Millions) 
+ 
+
+Government program Cost 770.00 
+
+Total Operation Cost 770.00 
+
+Total Program Cost 750.00 
+
+IPF Component 20.00 
+
+Total Financing 750.00 
+
+Financing Gap 20.00 
+
+ 
+  
+FINANCING (USD Millions) 
+
+Total World Bank Group Financing 750.00 
+
+     World Bank Lending 750.00 
+ 
+
+
+Concept Review Decision 
+The review did authorize the preparation to continue 
+
+     
+ 
+ 
+ 
+
+B. Introduction and Context 
+ 
+1. This program document outlines a proposed Program-for-Results (PforR) operation in the amount of US$750 
+million to support the States of the Federal Government of Nigeria in their efforts to mitigate the impact of the COVID-
+19 pandemic on the livelihoods of poor and vulnerable households and microenterprises in the country. The proposed 
+PforR is an emergency operation designed to support budgeted program of expenditures and interventions at the State 
+level targeting existing and newly vulnerable and poor households, agricultural value chains, and micro and small 
+enterprises affected by the economic crisis. The operation provides financial support to the States to fulfill program 
+objectives in four key results areas: (i) strengthening institutional support for coordination and delivery; (ii) increasing 
+cash transfers and livelihood support to poor and vulnerable households; (iii) increasing food security and safe 
+functioning of food supply chains for poor households; and (iv) preventing collapse and facilitating recovery of 
+household/micro enterprises. It is fully aligned with the forthcoming World Bank 2020–24 Country Partnership 
+Framework for Nigeria, as well as Nigeria’s Economic Reform and Growth Plan for 2017–20 and the National Economic 
+Council’s COVID-19 action plan.1   
+ 
+Country Context 
+ 
+
+2. Even before the COVID-19 pandemic, poverty and vulnerability levels were already high in Nigeria. Measured 
+
+using the national poverty line, the poverty rate in 2018/19 was 40 percent nationally, with poverty rates significantly 
+
+higher in rural areas (52 percent) compared to urban areas (18 percent).2 Geographically, all three Northern regions have 
+
+higher poverty rates compared to the Southern regions. The poverty rate in the North East (70.2 percent) is more than 
+
+seven times higher than in the South West (9.7 percent). In addition to 40 percent of the population who fall below the 
+
+poverty line, additional 25 percent of Nigerians are vulnerable to falling back into poverty in 2018/19.3 In the North East 
+
+and North West, most individuals are either poor or vulnerable. Besides monetary poverty, Nigeria ranked sixth lowest 
+
+globally in the World Bank’s Human Capital Index in 2018, with one in every three children under the age of five suffering 
+
+from chronic malnutrition. In 2018, 63 percent of children in the poorest quintile were stunted compared to 18 percent 
+
+in the richest quintile and only 29 percent of primary school age children from the poorest quintile were in school 
+
+(adjusting for attendance) compared to 89 percent from the richest quintile, starkly highlighting the fact that the human 
+
+capital indicators were far worse for the poorest segment of the population compared to the averages. The COVID-19 
+
+crisis strikes at a time when Nigerian youth were already facing severe lack of job opportunities, with overall 
+
+unemployment increasing from 8 percent in 2015 to 23 percent in 2018.4  
+
+ 
+
+3. COVID-19 is expected to negatively affect economic growth in Nigeria, primarily due to the steep fall in global 
+oil prices. Nigeria enjoyed relatively high and stable economic growth from 2000-2014, before the country went into a 
+recession following the oil-price shock in late-2014. Growth averaged 6.1 percent between 2000-2014 before dropping 
+below 3 percent in 2015 and turning negative in 2016. Nigerian economy has been recovering slowly since with the uptick 
+in oil prices, but growth has stayed below 3 percent in subsequent years. As Nigeria’s economy and the government’s 
+finances are highly dependent on revenues from sales of crude oil, current projections estimate the Nigerian economy to 
+contract by at least 3 percent in 2020, due to the fall in oil prices caused by COVID-19.5  It is further expected that 
+consolidated government revenues will fall by US$ 12 billion (3 percent of GDP) or more, severely constraining the 
+government’s ability to respond to the crisis and at a time when fiscal resources are urgently needed to protect the poor 
+and vulnerable from the negative impact of COVID-19. 
+ 
+4. While the number of confirmed COVID-19 cases have grown slowly in Nigeria compared to the West, it is already 
+having a severe impact on the lives and livelihoods of Nigerians. To prevent the spread of COVID-19, the Nigerian 
+government had previously announced total lockdowns in urban centers in Lagos, Ogun, and Abuja. The prolonged month-
+long lockdown severely impacted informal firms and workers in urban areas first before impacting rural areas, where many 
+of Nigeria’s poor reside. An economic crisis such as the one caused by COVID-19 could push large segments of non-poor 
+households back into poverty. With economic growth expected to decline by at least 3 percent in 2020, the poverty 
+headcount rate is estimated to increase from 40.1 percent in 2019 to 42.5 percent in 2020 and will continue to rise absent 
+any change in government policy. By 2022, the forecasts suggest that almost 100 million Nigerians will be below the 
+poverty line, an additional 16.4 million poor people compared with today, which arises from both the rising poverty rate 
+and natural population growth. While only 15.9 percent of the current poor are urban dwellers, 29.9 percent of the new 
+poor in 2020 are predicted to be in urban areas. It is expected that consumption will fall across the distribution, leading 
+to a rise in the poverty headcount rate and increase in the poverty gap index.  
+ 
+5. The Government of Nigeria has taken important measures to stop the spread of COVID-19 and has put in place 
+measures to cushion the poor and vulnerable against the negative impact of the crisis. A fiscal stimulus package in the 
+form of a COVID-19 intervention fund of N500 billion (US$1.4 billion), has been approved by the President to support 
+healthcare facilities, provide relief for taxpayers, and incentivize employers to retain and recruit staff during the downturn. 
+Regulated fuel prices have been reduced, and an automatic fuel price formula introduced to ensure fuel subsidies are 
+eliminated. The President also ordered an increase of the social register by 1 million households to 3.6 million to help 
+cushion the effect of the lockdown. The Central Bank has instituted a N50 billion targeted credit facility for households 
+and Micro and Small Enterprises (MSEs) that have been affected by COVID-19. The president also approved the 
+establishment of a N500 billion COVID-19 crisis intervention fund while the restructuring of the Treasury Single Account 
+(‘TSA’) is in progress to better mobilize cash donations from people and corporate bodies across the country. 
+ 
+
+Sectoral (or multi-sectoral) and Institutional Context of the Program 
+ 
+
+ 
+6. The proposed PforR is part of a broader emergency package offered by the World Bank Group, which is 
+
+anchored by the key measures taken by the government, and complemented by support from other development 
+
+partners, to put in place measures to respond to the pandemic. The Government of Nigeria is establishing a multi-
+
+faceted economic, fiscal and health response to COVID-19 at the federal and state level and has requested a significant 
+
+package of support from the World Bank. Based on request from the Federal Ministry of Finance, Budget and Planning, 
+
+the World Bank is preparing a multi-pronged package of support of between USD 2.5 billion and USD 3 billion over the 
+
+ 
+
+next six months, which includes the Nigeria CARES PforR. The broader support package includes programs designed to: 
+
+(i) Contain the COVID-19 outbreak and prepare for a more severe outbreak (REDISSE); (ii) Immediate fiscal relief for the 
+
+federal government (CoFFER) and funding to protect core government functions to the State level (SFTAS); and (iii) 
+
+Support for protecting livelihoods, local economic activity, and enabling recovery (CARES and NAASP).  
+
+ 
+ 
+7. Existing social safety nets programs can be leveraged to mitigate the effect of COVID-19 on vulnerable groups 
+but the targeting mechanisms needs to be expanded and adapted to capture the people who will be vulnerable due to 
+the COVID-19.  A total of more than 5.4 million Nigerians (adults and children) have benefited from existing social safety 
+net interventions (Cash Transfer, Public Workfare, Special Grants to Vulnerable and Skills for Job). However, identification 
+of the poor in Nigeria remains challenging due to the inadequacy of data. Multiple definitions of poverty and vulnerability 
+and lack of clarity on welfare measures adds to existing challenges. In recent times, the State Social Registry and the 
+National Social Registry of poor and vulnerable households have been established under the World Bank financed Youth 
+Employment and Social Support Operation6 and National Social Safety Nets Project (NASSP)7 using a combined 
+geographical and community-based identification and targeting system verified through proxy means testing to rank 
+households. The state level registry that started in 2016 has limited coverage in many of the urban locations. There is a 
+renewed effort to rapidly expand the coverage of the registries and use other objective criteria of vulnerability to capture 
+the new poor especially in urban areas.  The newly created Ministry of Humanitarian Affairs, Disaster Management and 
+Social Development is planning to provide the appropriate platform for interagency collaboration. The new National Living 
+Standard Survey 2018/19, provides an opportunity to validate and strengthen the social registries at State and National 
+level and to ensure harmonization with other existing beneficiary registries.  
+ 
+8. The Community and Social Development Project supports the empowerment of communities and vulnerable 
+groups within communities to develop, implement, and monitor social infrastructure service micro-projects (such as in 
+basic services – health, education, water, roads, skills centers, among others) and natural resource management 
+interventions. It also strengthens the capacity of local government authorities, LGAs and sectoral public agencies to 
+support communities and build a partnership between them. The CSDP is currently managed at the State level by State 
+Agencies established by Law of the States. 30 States of the Federation and the Federal Capital Territory are participating 
+in the project. Kaduna State has just established its own Community and Social Development Agencies CSDA. Delta and 
+Rivers has CDD/PIUs imbedded in relevant Ministries that operates like CSDAs and supported by SEEFOR -a World Bank 
+assisted project in the Niger Delta.  Only Lagos, Kano and Jigawa are not participating in CSDP but do have community 
+engagement agencies and departments. There is a Federal Project Support unit responsible for coordination, technical 
+support, monitoring and evaluation and finance resources mobilization and management. A total of 4,600 Community 
+Development plans and over 600 Group Development Plans are now approved and funded as of December 2019.  The 
+North East States continued to improve on the number of CDPs and GDPs. Over 2 million people are benefiting from the 
+CSDP interventions in the North East while across all the participating state, well over 7 million individuals are benefiting 
+from CSDP as of December 2019.  
+ 
+
+ 
+6 YESSO a State level Social Safety Net Operation started the State Social Registry in 2015 from a USD 400m IDA credit. It also supports 3 major 
+interventions at the State level- Pubic workfare, Special Grants to the Internally Displaced persons in North East and the Aged and physically 
+challenged, and Skills for Job. It is closing in June 2020. 
+7 NASSP, through its exiting budget available from the IDA of USD 500 million and USD 321 million from the government through Abacha Restituted 
+Fund, will be scaled up horizontally and vertically to support the existing 1 million poor and vulnerable households (over 5 million people) currently 
+benefiting from CCT and will enroll additional 1 million poor and vulnerable households (5 million people) from the National Social Registry to 
+receive Cash Transfer support for at least 1 year to cushion the impact of COVID-19 on poor and vulnerable households.  
+
+
+
+ 
+The World Bank  
+NIGERIA: COVID-19 Action Recovery and Economic Stimulus (P174114) 
+
+ 
+ 
+
+  
+May 15, 2020 Page 6 of 11  
+
+     
+
+9. The National Fadama Development Project is a state-level intervention coordinated by the Federal 
+Government. Beginning in 1990 with a pilot agricultural project (Fadama I) designed to bring basic irrigation and 
+productive support to farmers in selected Nigerian states, the Fadama series have evolved through two subsequent 
+innovative and adaptive pro-jects (Fadama II and III) that are now well established nationally. Fadama II, launched in 2003, 
+introduced a groundbreaking Community-Driven Development (CDD) model to Nigeria’s rural areas and helped 
+institutionalized local stakeholder engagement in community decision making. Since 2009 when Fadama III series 
+commenced, it has contributed to the Government of Nigeria’s development objectives and policy in terms of gross 
+domestic product, food security, rural development, and employment generation. Cassava farmers under Fadama III, and 
+it’s two additional Financing Facilities realized more than N20.6 billion as revenue and a gross margin of N13 billion in 
+2019. Similarly, rice, sorghum and tomato farmers realized gross margin of N104.4 billion, N60.9 billion and N19.2 billion 
+respectively during the project’s life span. The project performance evaluation report showed that 100 percent of the 
+beneficiaries have increased their real income by at least 40%. Yield rose from a baseline of 5.27t/ha to 25.34t/ha for 
+cassava (380.83%), 2.83t/ha to 4.93t/ha for rice (74.2%), 1.54t/ha to 2.4t/ha for sorghum (55.84%), and 1.6t/ha to 
+30.44t/ha for tomato (1,802.5%).  
+ 
+10. The Fadama structure has been successfully deployed to provide solutions to national challenges, including 
+delivering inputs and services to farmers, investing in various types of productive agricultural infrastructure and assets, 
+improving food supply chains in underserved areas, and supporting programs to increase employment of graduate 
+youths. Specifically, the project had, in 2017 competitively empowered 6,916 unemployed youth and women graduates 
+who indicated interest in becoming agricultural entrepreneurs. Fadama project has proved to be a reliable platform for 
+implementing rural based intervention and activities that could target the poor and the vulnerable with sufficient national 
+spread and capacity. There is a National Fadama Coordinating Unit responsible for coordination, technical support, 
+monitoring and evaluation to the State Level operation.  A total of 18,650 Business Plans have been prepared and over 
+220,551 farmers across 19,469 production groups in 3,051 Production Clusters have received various trainings.  In the 
+Conflict affected North East region, Fadama has helped to restore the livelihoods (crops, livestock, fisheries, and non-
+agricultural enterprises) of 32,480 farming households with 950,400 man-days of work provided to the beneficiaries. Over 
+1,218,824 people have benefited from the Fadama interventions across the country.  
+ 
+11. In many of the States there are SME support Agencies of the State Government and also Ministries of Commerce 
+and Industry as well as Ministries of Cooperatives with programs and initiatives on promotion and facilitation of 
+household enterprises (micro and small). Some of the Ministry, Departments and Agencies (MDAs) provide small loans 
+and grants to registered businesses. Registration and regulations of local firms and enterprises are also managed by the 
+MDAs. At the Federal level there is the Government Enterprise and Empowerment Program (GEEP) initiative administered 
+by the Bank of Industry exist in all 36 States of the Federation and FCT. The GEEP provides loans of between ₦10,000 ($28) 
+and ₦300,000 ($835) to traders, artisans, enterprising youth, and farmers. The program commenced in 2016 and has 
+empowered 2.2 million such micro-enterprises with interest-free loans to grow their businesses up to date, making it the 
+largest public microcredit program. The majority of these micro-enterprises are in over 2,100 clusters and markets across 
+all 36 states of Nigeria, and the capital. As of today, about 5 million GEEP candidates are connected to the Consolidated 
+Beneficiary Register for the National Social Investment Program. The number is growing. Candidates can also be served 
+on other programs i.e. school feeding, cash transfers, etc. The GEEP program has over 4,300 local agents nationwide to 
+verify beneficiaries and perform credit check before loans are disbursed to the beneficiaries’ mobile wallet. Funds can be 
+cashed out with minimal intermediation to reduce transaction costs and fraud. The program, in addition to provide quick 
+financial intermediation to the needed enterprises, can also serve in more data capture.  Partnership between state MDAs 
+supporting household enterprises (micro and small) and GEEP can be a veritable mechanism especially at this time when 
+local economy is at the mercy of the health crisis and the economic downturn. 
+ 
+
+
+
+Relationship to CAS/CPF 
+ 
+12. The proposed PforR supports the World Bank Group’s Nigeria CPF for 2020-24 and is aligned with the framework 
+of support proposed by the World Bank Africa region and the WBG Social Response Framework. The CPF reflects 
+Nigeria’s aspiration for faster, more inclusive, and sustained economic growth in the next decade to help the government 
+in its ambition to lift 100 million people out of poverty. This PforR directly supports the CPF’s Pillars on “Investing in human 
+capital and social inclusion”, “Fostering Jobs and Economic Transformation”, and “Reducing fragility and building 
+resilience”. More specifically, the PFORR: (i) enables the States to continue to build and expand their social protection 
+systems to strengthen safety nets and basic services; (ii) prevents disruptions and job losses in agricultural supply chains 
+by supporting linkages between farmers and markets; and (iii) helps micro and small enterprises wither the impact of the 
+economic crisis by providing support in the form of credits and grants. The PFORR also addresses priorities outlined in the 
+2019 Systematic Country Diagnostic for Nigeria by averting further erosion of human capital, supporting private firms and 
+microenterprises to stay afloat, and continuing the provision of basic services to the most vulnerable groups. The PFORR 
+is also fully aligned with the Africa region’s framework of protecting lives, livelihoods, and the future to address the 
+pandemic and the multifaceted action plan proposed in the WBG Social Response Framework of saving lives, protecting 
+the poor and vulnerable, securing jobs and the economy, and accelerating a resilient recovery. 
+ 
+Rationale for Bank Engagement and Choice of Financing Instrument 
+ 
+
+13. The PforR instrument allows the States to access funds for budgeted programs of expenditures and comes at a 
+time when the decline in revenues threatens the ability of the government to respond to the crisis. Unprecedented 
+decline in oil prices (70 percent since the start of the crisis) has constrained the government’s ability to respond to the 
+crisis. 80 percent of Nigeria’s exports, 30 percent of banking-sector credit, and 50 percent of general government revenues 
+rely on sales of crude oil. Much of the nonoil industrial and services sectors also rely on foreign-exchange inflows 
+generated by the oil industry. With the Nigerian economy expected to contract 5 percentage points below the pre-COVID 
+19 economic growth forecast, States will require substantial funds to quickly and effectively respond to the crisis. Some 
+of the ₦500 billion funds allocated as the federal government’s fiscal stimulus package will be implemented at the State 
+level and would need to be reflected in the State government’s budget. As the PforR is designed for a 2-year emergency 
+response, using and strengthening existing programs and platforms also has the added benefit of building capacity of 
+those platforms to ensure sustainability beyond the duration of the program. The PforR aims to build strong coordination 
+mechanisms between the Federal and State level of the government. Strong level of Federal oversight and support could 
+help States lagging in capacity to implement programs to protect livelihoods and food security of poor and vulnerable 
+households and facilitate recovery of local economic activities.  The PforR instrument also allows states to quickly access 
+funds using existing government programs and systems, reducing the transaction processes. Finally, the program is 
+designed to disburse against tangible results and provides flexibility to the States to achieve the results that are best suited 
+to their needs.  
+ 
+C. Program Development Objective(s) (PDO) and PDO Level Results Indicators 
+ 
+Program Development Objective(s) 
+
+ 
+To protect livelihoods and food security of poor and vulnerable families and facilitate recovery of local economic activity 
+in all participating states across Nigeria 
+ 
+PDO Level Results Indicators 
+ 
+
+
+
+14. To achieve the development objective, the proposed Program would include the following four result areas: 
+  
+
+a. Increased social transfers, basic services, and livelihood support to poor and vulnerable households; 
+b. Increasing food security and safe functioning of food supply chains for poor households; 
+c. Facilitating recovery and enhancing capabilities of micro and small enterprises (MSEs); 
+d. Strengthened institutional support for coordination and delivery; 
+
+ 
+Figure 1: Proposed Project Development Objective and Program Results Areas for CARES 
+
+ 
+ 
+D. Program Description 
+
+ 
+PforR Program Boundary 
+
+ 
+15. Results Area 1 aims to address the immediate needs of poor and vulnerable households by providing income 
+
+and consumption support and access to basic services.  Through this results area, the program will support existing 
+platforms that provide social transfers to vulnerable groups including the aged, disabled, and chronically ill and support 
+income generating opportunities of economically active poor and vulnerable households through cash transfers and labor-
+intensive public works. Existing programs that provide services to poor and vulnerable communities through funding of 
+basic social and economic infrastructure microprojects will also be eligible for funding support. Selected programs must 
+provide clear and measurable criteria to evaluate results that contribute to improved consumption and welfare of poor 
+and vulnerable households. 
+
+ 
+results area, the P4R will support existing platforms that support poor and vulnerable households to increase production 
+of food, maintain economic activities along food value chains, and enable safe access to food markets as buyers or sellers. 
+The immediate needs to support agricultural livelihoods could include distribution of inputs, provision of services 
+(extension, mechanization, animal services), farm agricultural assets, replacement of small ruminants, etc. Similarly, the 
+future capacity to produce food could be supported through small-scale irrigation infrastructure, on-farm soil conservation 
+measures, etc. Investments to increase food accessibility in future could be supported through sanitary infrastructure in 
+wet markets, feeder roads to enable access to markets, increased capacity for small-scale processing, among others. The 
+selected program areas must provide clear and measurable results that contribute to increasing food availability, 
+accessibility and utilization and can be generated within the 18-24 months’ timeframe. 
+
+ 
+17. Results Area 3 will support Micro and Small Enterprises (MSEs) intervention programs and initiatives at Sub-
+
+National level in Nigeria. Leveraging existing State-level MSE platforms, the program will support initiatives that eases 
+financial constraints on MSEs, provide financing to support operational expenses of existing MSEs to cover a portion of its 
+operational cost including salaries of permanent staff and rental expenses, and invest in MSEs’ infrastructure and IT 
+(digital) development. Existing platforms that support both formal and informal firms will be eligible. However, targeting 
+mechanisms will be supported to identify vulnerable and viable firms with clear timeline to phase out in order to maximize 
+the fungibility of the financing resources. 
+ 
+E. Initial Environmental and Social Screening 
+ 
+
+18. Based on current available information in terms of the scope of the Program, no high Environmental and Social 
+risks are anticipated due to proposed program activities. In terms of potential environmental impacts, there could be 
+risk of waste management, soil and ground water contamination, pest management, construction related risk and impacts 
+including capacity to manage the grant component for MSMEs. There could be moderate risks and impacts posed due to 
+small scale land acquisition causing resettlement during rehabilitation / construction of secondary / tertiary irrigation 
+canals; rehabilitation of tertiary roads; rehabilitation / construction of agricultural warehouse; upgrading of sanitary 
+infrastructures in wet markets. These infrastructure activities could also pose labor risks, GBV and community health risks 
+when contractors/labor force are brought into remote areas for certain project activities including potential cumulative 
+impacts. These will be further reviewed and assessed during the Environmental and Social Systems Assessment (ESSA) 
+that would be prepared prior to appraisal. This current rating would be adjusted accordingly as additional information 
+becomes available and based on the outcomes of the ESSA assessment.   
+ 
+ . . 
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50  
+
+Projects in Disputed Areas OP 7.60  
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component 
+ 
+
+

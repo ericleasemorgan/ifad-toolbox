@@ -1,0 +1,769 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Integrated Project for Source Sustainability and climate Resilient Rain-fed Agriculture in Himachal Pradesh 
+(P165129) 
+
+ 
+ 
+
+  
+Jun 04, 2019 Page 1 of 16  
+
+     
+
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 07-Jun-2019 | Report No: PIDISDSC23122 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+India P165129  Integrated Project for 
+Source Sustainability 
+and climate Resilient 
+Rain-fed Agriculture in 
+Himachal Pradesh 
+(P165129) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA Nov 25, 2019 Feb 27, 2020 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Department of Economic 
+Affairs 
+
+Department of Forest, 
+Government of Himachal 
+Pradesh 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+To increase the sustainable use of water resources in Himachal Pradesh by improving upstream watershed 
+management and increasing agricultural water productivity in selected Gram Panchayats 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 100.00 
+
+Total Financing 100.00 
+
+of which IBRD/IDA 80.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 80.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 20.00 
+
+
+
+          Borrower/Recipient 20.00 
+
+   
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+Moderate  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+
+Other Decision (as needed) 
+ 
+Not applicable. 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. India’s growth remains robust but has moderated from prior high levels in the past fiscal year (FY18/19).  After 
+growing at 7.2 percent in FY17/18, economic growth slowed to 6.8 percent in FY 18/19, with quarterly growth falling to 
+5.8 percent (y-o-y) in Q4. Growth remains broad-based, but the impact of accelerating industrial growth was 
+counterbalanced by decelerations in services and agriculture growth, on the production side. On the demand side, 
+consumption has been bolstered by public spending, but investment growth has decelerated.  In FY18/19, the current 
+account deficit is estimated to have reached 2.6 percent of GDP but a strong rebound in foreign investment over the 
+second half of the year allowed foreign reserves to remain at a comfortable level of US$411.9 billion, as of end-March 
+2019 (equivalent to about 9.7 months of imports). Going forward, output growth is projected to recover and stabilize at 
+around 7.5 percent, thanks primarily to resilient private consumption, but also to a rise in exports of goods and services 
+and a gradual recovery in investment. The current account deficit is projected to narrow to 1.9 percent of GDP in 
+FY19/20 but external headwinds—in the form of re-escalating trade tensions and elevated oil prices – could put pressure 
+on the balance of payments. 
+ 
+2. Since the 2000s, India has made remarkable progress in reducing absolute poverty. Between FY2011/12 and 
+2015, poverty declined from 21.6 to an estimated 13.4 percent at the international poverty line (2011 PPP US$ 1.90 per 
+person per day), continuing the earlier trend of robust reduction in poverty. Aided by robust economic growth, more 
+than 90 million people escaped extreme poverty and improved their living standards during this period. Despite this 
+success, poverty remains widespread in India. In 2015, with the latest estimates, 176 million Indians were living in 
+extreme poverty while 659 million, or half the population, were below the higher poverty line commonly used for lower 
+middle-income countries (2011 PPP US$ 3.20 per person per day). Recent trends in the construction sector and rural 
+wages, a major source of employment for the poorer households, suggest that the pace of poverty eradication may have 
+moderated. 
+ 
+3. India is the world’s third largest emitter of greenhouse gasses (GHGs) and is highly vulnerable to climate 
+change. It has ratified the Paris Agreement (COP21) and is committed to “enhancing adaptive capacity, strengthening 
+resilience, and reducing vulnerability to climate change”. India’s federal intended national determined contributions 
+
+(INDC) commits to reduce the energy intensity of GDP from one-third and to increase the share of renewable energy 
+(including from hydro generation). It also commits India to expand its existing carbon sink by 2.5 – 3.0 billion mt of 
+carbon dioxide. Large areas of India are likely to be under water stress: 54 percent of the country’s area is subject to 
+high or extremely high water stress, and almost 600 million face disruptions from surface water supply disruptions. 
+Punjab and Haryana – major rice and wheat producing states – are particularly affected. More than half of the country’s 
+groundwater wells are dropping, 16 percent by more than one meter per year.1 With shared water resources and given 
+the region’s complex history, the region could see escalating tensions over water use in the future. 
+ 
+
+Sectoral and Institutional Context 
+ 
+4. Himachal Pradesh (HP) is a Special Category state in the Himalayan mountains. Special Category status is 
+afforded due to inter alia: (i) mountainous terrain; (ii) low population density (123 per km2); (iii) significant population of 
+scheduled tribes; (iv) HP’s strategic location bordering neighboring countries; (v) it’s ‘backward’ status in terms of 
+economic development and infrastructure; and (v) non-viable nature of the state’s financial situation (the fiscal deficit for 
+FY2019/20 is projected to be 4.4 percent of the state’s GDP). With an altitude ranging from 350 meters above mean sea 
+level [msl] to 6,975 msl, much of the state’s area is sloping, with inclines of between 0.5 – 70 percent. Land with a slope 
+of up to 40 percent is already typically under agricultural production; in some areas farming is practiced on even steeper 
+gradients of 60 – 70 percent. Of a total of 3,243 Gram Panchayats (GPs) in HP, 551 (or 17 percent) have been declared 
+‘backward’ status and therefore subject to special programs from the Government. Scheduled tribes are scattered 
+throughout the state with concentrations in Kinnaur and Lahaul and Spiti, and parts of Chamba amounting to 6 percent of 
+the total population of which 32 percent are located in Scheduled Areas of the State; there is also a considerable scheduled 
+caste population of 25 percent. Himachal Pradesh is among India’s leading States on gender equality and social 
+development. It has the highest female labor force participation rate in the country2, even though it has declined since 
+2005. Much of the state’s female workforce participation is driven by women’s self-employment in agriculture, still the 
+mainstay of the state’s largely rural economy. Women’s higher participation in agriculture, horticulture, and livestock 
+sectors is socially and culturally embedded in the state, largely due to traditional out-migration of men for jobs that leaves 
+the women behind to provide labor and supervisory inputs to pre-harvest and post-harvest activities. However, their 
+access to ag-tech & climate resilient technologies, markets and finance, as well as to skills and entrepreneurship 
+opportunities remains limited. Non-farm jobs for rural women remain limited. New opportunities in agribusiness are 
+important to reverse the decline in women’s participation in agriculture.  
+ 
+5. HP has a particular role to play in contributing to India’s INDC commitments. Its topography and available water 
+resources are well suited to hydro generation with an installed capacity of 3,421 MW controlled jointly by the GoHP (8 
+percent) and GoI (92 percent), against an estimated potential of over 27,000 MW. Only 14 percent of India’s total 
+generation is from hydro, of which 8 percent is from HP.3 Meeting the INDC commitments on reducing the carbon intensity 
+of India’s energy generation will depend on further exploitation of hydro in states like HP.  Improved watershed and 
+catchment area management upstream of hydro reservoirs can reduce operational costs from siltation and water turbidity  
+. Similarly, HP enjoys around 1.126 million ha of forest cover, representing 25 percent of the land area in the state and 1.5 
+percent of India’s total forest cover of 70.827 million ha.4 Although currently a small share of the overall area, HP has 
+substantial potential to further expand forest cover (including through increased density) and therefore will play a major 
+role in contributing to the national commitments on carbon sequestration.  
+
+         
+
+ 
+6. The Government of Himachal Pradesh (GoHP) is already well experienced in management of its natural 
+resources as a driver for development but recognizes the need to increase the quality and sustainable use of these 
+resources. Over two-thirds of the total land area in the state is formally categorized as forest land, of which, 46 percent 
+supports coniferous and broadleaved forests while the remaining 54 percent includes high altitude areas above the tree 
+line, snow peaks, alpine pastures, and river beds. The state has zoned 23 percent of the legally classified forest area as 
+protected areas (5 national parks, 26 wildlife sanctuaries and 3 conservation reserves) and HPFD manages these to protect 
+biodiversity and promote ecotourism. These forests provide catchment areas for 5 major river basins. Despite 
+considerable investments to date in catchment treatment and afforestation, forest quality (measured as canopy density) 
+remains poor in HP. The gross area of forests is increasing due to better law enforcement, afforestation to offset forests 
+cleared for development, and the partial lifting of the felling ban in 2018, which allowed for selective felling of older trees 
+and subsequent regeneration. However, the quality of forests has not improved over the past six decades due to several 
+factors, including poor afforestation techniques, lack of maintenance, incorrect site/plant selection, and uncontrolled 
+grazing and fires.  The state has enjoyed significant success in agricultural development in particular fruit production and 
+as a major source of off-season vegetables exported to other parts of India. Fruit production exceeds 600,000mt of which 
+three-quarters is apples) while over 1.8 million mt of vegetables are produced annually. However, the majority of 
+agricultural land (85 percent) remains under rain-fed agriculture and the land under irrigation reports a low intensity of 
+137 percent (i.e. only one-third is used for more than one crops a year). Given changing weather patterns already observed 
+(annual and monsoon rains declining by 2.26mm and 2.85mm per year respectively; mean annual temperature increasing 
+on 0.02 degrees Celsius per year) progress could be easily reversed unless the state invests in adaptation strategies to 
+increase resilience. 
+
+ 
+7. Natural resource management (NRM) therefore remains pivotal to the state’s long-term economic and social 
+development, especially in the context of climate change. A profile of climate smart agriculture (CSA) in the state, 
+commissioned as part of project preparatory tasks highlighted critical aspects of both the mitigation and adaptation 
+agenda in the state: 
+
+ 
+
+• Mitigation: Agriculture is a minor source of the state’s GHG emissions, constituting only 1.8 percent (164,000mt 
+of CO2 equivalent) of the total. Of these, 90 percent are attributable to rice cultivation over 43,450 ha of area; 
+crop residue burning adds a further 8 percent and enteric fermentation contributes less than 2 percent. 
+ 
+
+• Adaptation: There are many examples of CSA technologies already being deployed in cereals, horticulture, 
+vegetable and livestock sectors. However, observed adoption rates are typically less than 30 percent, meaning 
+there is considerable scope for scaling these up throughout the state. Adoption rates in the horticulture and 
+higher-value vegetable sectors are typically higher. This is because the financial incentives are stronger but also 
+because the farmer endowments that drive past diversification out of cereals are the same as those that make 
+adoption easier. CSA technologies are not scale neutral, they are risky, and there are significant up-front 
+investment costs. Integrating CSA technologies more thoroughly into the existing Krishi Vigyan Kendra (KVK; i.e. 
+research and extension) system is essential.  
+ 
+
+simultaneously both the direct cause and the victims of degradation. Supporting GPs to lead community-based 
+development has and will continue to be a key tenet of the GoHP’s approach moving forward. 
+ 
+9. GoHP has a clear and relevant vision for its NRM sector. First, it seeks to continue its impressive trajectory of 
+rural transformation by raising agricultural productivity, strengthening market linkages and diversifying production 
+patterns to increase agricultural value addition, while maintaining biodiversity and ensuring sustainable land and water 
+use. Second, GoHP recognizes its role as custodian of a unique landscape with a special set of critical natural resource 
+endowments that provide critical environmental services not only for its own population but for other states and indeed 
+globally. Therefore, it recognizes the importance of reconciling the imperative of delivering results in terms of continued 
+development for its population without undermining its natural resource base.  
+ 
+10. The project addresses several elements of outstanding agendas in the realm of NRM, forestry and agriculture. 
+A review of ex poste assessments (implementation completion reports and project or thematic evaluations) reports a 
+positive track record of past interventions that have delivered on their project objectives, although considerable effort is 
+required to achieve the necessary outcomes. This is in part a question of scale – past interventions have been necessarily 
+focused – whereas in other aspects additional transformation and innovation is required. Notable innovations include the 
+greater role of GPs in taking responsibility for, and managing investments in, sustainable landscape management and the 
+development of CSA practices and their integration into existing farmer extension systems. Other innovations include the 
+successful application for climate change financing and achievements in diversification into higher value market-oriented 
+fruit and vegetable production, leveraging HP’s position as a major off-season producer serving distant Indian markets. 
+The major challenges moving forward are to further scale-up these successes by utilizing Bank support to address specific 
+institutional and technical constraints for doing so – i.e. not just the financing of scale-up which can in principle be deferred 
+to GoHP’s own resources. 
+
+
+
+ 
+The World Bank  
+Integrated Project for Source Sustainability and climate Resilient Rain-fed Agriculture in Himachal Pradesh 
+(P165129) 
+
+ 
+ 
+
+Relationship to CPF 
+
+ 
+11. The World Bank Group’s Country Partnership Framework (CPF) juxtaposed: (i) India’s development priorities as 
+outlined in its FY2017-19 action agenda as well as national missions and programs; (ii) the assessment of India’s challenges 
+in sustaining progress towards the twin goals as set out in the Bank’s Strategic Country Diagnostic (SCD); (iii) the WBG’s 
+comparative advantage in the country; and (iv) lessons derived from decades of WBG engagement in India. The CPF 
+identified three substantive areas: (i) promoting resource efficient growth; (ii) enhancing competitiveness and enabling 
+job creation, and (iii) investing in human capital. In addition to these focus areas, the CPF also set out four operating 
+modalities. These are: (i) leveraging the private sector; (ii) strengthening public sector institutions; (iii) engaging a Federal 
+India; and (iv) promoting a “Lighthouse India” that connects practical know-how for the benefit of India and the wider 
+world. 
+
+ 
+12. The project is consistent with the CPF by delivering outcomes for resource efficient growth in targeted GPs in HP 
+and in enhancing competitiveness of farmers and related agribusinesses in selected value chains. It also seeks to 
+strengthen public sector institutions while leveraging the private sector and will contribute significantly to Lighthouse 
+India by demonstrating approaches in challenging agro-ecological conditions of wider interest across the Himalayan range. 
+
+ 
+
+
+     
+
+C. Proposed Development Objective(s)  
+ 
+13. To increase the sustainable use of water resources in Himachal Pradesh by improving upstream watershed 
+management and increasing agricultural water productivity in selected Gram Panchayats 
+ 
+Key Results (From PCN) 
+
+ 
+14. Proposed PDO-level indicators are as follows: 
+
+• Increased sustainability of perennial water sources in targeted watersheds 
+
+• Selected upland areas managed in accordance with site-specific management plans 
+
+• Increased agricultural water productivity among participating farmers 
+
+• A more institutionally integrated approach to multi-sectoral watershed-level decision making 
+
+• Increased adoption of climate-smart technologies among participating farmers 
+ 
+ 
+D. Concept Description 
+
+ 
+15. The overarching problem statement the project seeks to address is that HP is facing increased demand for, and 
+reduced supply of, water resources and therefore needs to manage these better if it is to maintain its economic growth 
+without jeopardizing continued downstream supply to the grain basket of Punjab.  HP’s population increased 13 percent 
+over the decade 2001 – 2011 with an ever-greater share now residing in urban areas. Niti Aayog reports5 that half of all 
+springs are now dry or seasonal. Addressing this challenge requires progress under three pillars: 
+
+ 
+
+• Sustainable land and water resource management; 
+ 
+
+• Improved agricultural productivity and value addition; and 
+ 
+
+• Institutional capacity of GoHP to sustainably manage watersheds and resource use trade-offs and to effectively 
+deliver environmental services. 
+
+ 
+16. Each element contributes to the overall theory of change that underpins the proposed project design, as follows 
+and summarized in the Figure below: 
+
+ 
+
+• Land and water management: Current land use practices in upstream watersheds is resulting in excessive soil 
+erosion and degradation, rain-water run-off and depleted rates of recharge of critical aquifers. Soil run-off results 
+in reduced natural soil fertility (with a resulting loss on productivity or additional costs for replacement of 
+inorganic fertilizers) and reservoir and intake sedimentation with the consequent loss of hydro generation 
+capacity and damage to turbines, and/ or reduced availability of stored water for drinking or irrigation. This is 
+compounded by retreating glacial sources and changes in rainfall patterns linked with climate change. 
+ 
+
+• Existing agricultural productivity remains low – both in terms of physical yields (mt/ha) and value (Rs/ha). The 
+use of irrigation is extremely limited across the state, with surface irrigation predominating and more limited use 
+of the drop or sprinkler systems required for higher value crops, which can lead to substantial increases in water 
+
+                                            
+5 Niti Aayog (2018) Report of Working Group 1: Inventory and Revival of Springs in the Himalayas for Water Security  
+
+
+
+productivity. The absence of irrigation remains a binding constraint on farmers’ ability to increase incomes (and 
+therefore undermines the policy objective of doubling farmer incomes) and renders them vulnerable to climatic 
+shocks; a situation that is becoming increasingly precarious with climate change. 
+ 
+
+• The GoHP lacks robust institutional mechanisms for making trade-offs and investments to ensure sustainability 
+of environmental services into the future. It cannot properly evaluate relative values of competing uses for the 
+states’ natural resources, especially in terms of the states’ overall management of environmental services. There 
+is an absence of underlying analytical foundation for such trade-offs to be evaluated, and no formal structures to 
+facilitate integrated decision-making. Moreover, fragmentation amongst ministries and agencies means that any 
+investments in upstream watersheds are typically insufficient and/ or inconsistent and therefore not adequate or 
+efficiently delivered. 
+
+ 
+Figure 2: Summary of the Theory of Change 
+ 
+
+ 
+ 
+17. The project will deploy institutional and technical solutions to address these challenges. These are explained in 
+more detail below with each proposed project component corresponding to the constraints thereby completing the 
+project’s theory of change. 
+ 
+Component 1: Sustainable Land and Water Resource Management 
+
+ 
+18. This component promotes participatory and sustainable land and water management through financing the 
+planning and implementation of investments in selected catchments based on the Sutlej Basin Comprehensive CAT 
+(CCAT) plan, and micro-catchment plans in other river basins. For each of these, range-level site-specific management 
+plans (SSMP) will be prepared to specify detailed activities by location. The main implementers and beneficiaries will be 
+
+
+
+HP Forest Department (HPFD) staff and relevant community organizations, particularly Joint Forest Management 
+Committees (JFMCs). The component will include a combination of TA, investments, and partnerships with other agencies 
+and will lead to improved forest cover (and hence carbon capture), increased water and sediment regulation, reduced 
+erosion, and improved community participation in and benefits from forest management.  
+
+ 
+Subcomponent 1A: Improved planning for participatory and sustainable land and water management 
+ 
+19. Subcomponent 1A will strengthen landscape planning. Specifically, it will: (a) review progress and revise the 
+existing Sutlej Basin CCAT plan; (b) prepare micro-catchment plans in other project river basins; (c) support additional 
+diagnostic studies, designs, and assessments; and (d) develop SSMPs through a participatory process led jointly by the 
+HPDD and JFMCs. The CCAT plan review will identify the most cost-effective interventions implemented to date and 
+propose revisions to plan investments and locations based on new hydrological and sediment load modeling. The CCAT 
+plan review will include the design and implementation of a comprehensive M&E system for CCAT plan investments 
+initially across the Sutlej Basin and later replicated in other project catchment areas and will include measurement of 
+water flows and sediment loads to refine the hydrological models and ensure that investments maximize silt retention 
+and surface water absorption. 
+
+ 
+Subcomponent 1B: Implementation of participatory and sustainable land and water management investments 
+ 
+20. This subcomponent will finance the implementation of activities identified in the SSMPs will contribute to 
+improved forest cover and quality (including carbon emission reductions and sequestration), as well as improved water 
+and sediment regulation. Activities supported by this subcomponent include, but are not limited to, the following areas: 
+
+ 
+
+• Soil and water conservation measures. Vegetative measures, such as af/re-forestation, grass seeding, grass turfs, 
+brushwood, live hedges, and spurs, as well as mechanical measures, such as check dams, drop structures, crate 
+wire spur structures, bunds and water harvesting, and drainage line treatments, like gully plugging.  
+ 
+
+• Development of high-quality seed stands. Establishment of a geo-referenced seed production system; 
+construction of a centralized seed center to process, treat, store, and test seed; and construction of a climate-
+controlled seed bank.  
+ 
+
+• Nursery development. Provision of machinery and equipment to produce the additional seedlings. 
+ 
+
+• Forest management. Planting and management of trees in open and medium density forests and slopes vulnerable 
+to soil erosion and protection of plantations 
+ 
+
+• Pasture management. Introduction of rotational grazing, delineation of forest areas for the supply of fodder, and 
+the introduction of voluntary systems to prevent livestock from grazing in young forest. 
+ 
+
+• Forest fire prevention and suppression. Organization of community fire protection groups; provision of locally-
+appropriate firefighting equipment to the HPFD offices and participating communities; and training of 
+communities on controlled burning, and the collection and use of pine needles. 
+
+ 
+ 
+ 
+
+
+     
+
+Component 2: Improved Agricultural Productivity and Value Addition 
+ 
+21. This component would support interventions in downstream areas where the primary (existing or potential) 
+water use is for irrigation in agriculture. It would seek to augment the use of irrigation as a principle strategy for shifting 
+from low-value cereal production to higher-value fruit and vegetable production but would do so with a focus on 
+increasing water productivity so as to maximize the financial returns to water use. Key interventions include infrastructure 
+to increase high-productivity water utilization (drip and sprinkler irrigation plus the necessary primary and secondary 
+distribution systems) 
+ 
+Subcomponent 2A: Increasing value addition through improving water productivity  
+ 
+22. Subcomponent 2A will support investments in the provision of water by investing in primary and secondary 
+distribution infrastructure and matching grants for the purchase of on-farm equipment for drip and sprinkler (i.e. high-
+tech) irrigation technology. It will support decentralized water infrastructure development under the Pradhan Mantri 
+Krishi Sinchai Yojana (PMKSY) based on robust micro-watershed plans across clusters of GPs in locations. By focusing on 
+water productivity rather than water availability it will only invest in increasing water utilization in GPs where: (i) upstream 
+investments in source sustainability are being implemented under Component 1; and (ii) where productivity of subsequent 
+use will be maximized thereby ensuring ‘more crop for the (incremental) drop’. 
+ 
+Subcomponent 2B: Adoption of Climate Smart Technologies and Diversification into High-Value Crops 
+ 
+23. This component supports the adoption of climate smart agriculture (CSA) practices for existing cropping 
+patterns in beneficiary GPs and also facilitates farmers to diversify into high-value crops, either in conjunction with 
+high-tech irrigation equipment. The project will leverage HP’s agricultural research and extension system and existing 
+Government-backed interventions to expand the adoption of contemporary CSA practices among participating farmers. 
+CSA practices will apply to both existing cropping patterns and to new higher-value crops. Where the evidence of what 
+constitutes CSA practices in these new crops is limited, the project will collaborate with the research institutions to 
+strengthen the evidence base. This component will leverage and support the Government’s own KVK farmer extension 
+system and their Rashtriya Krishi Vikas Yojana (RKVY; now known as the Remunerative Approach for Agriculture and Allied 
+Sector Rejuvenation). By focusing on the market, and in conjunction with Subcomponent 2C, the approach adopted here 
+will take a value chain perspective with competitiveness at the fore.  
+ 
+24. This sub-component will also support greater use of Non-Timber Forest Products (NTFPs) as part of the 
+diversification agenda, and as a mechanism for incentivizing community participation in sustainable land and water 
+management. This will create alternative livelihood opportunities, by removing barriers to investment in NTFP value 
+chains, and increase local incomes from sustainable production and increased value addition. This sub-component targets 
+NTFP collectors, often women, and producers interested in cultivation of NTFPs (medicinal, aromatic plants) and other 
+high-value commodities identified for value chain development. Alignment with the relevant line departments (e.g., 
+agriculture, horticulture, and animal husbandry) will be ensured. In addition to improving local livelihoods, the proposed 
+activities will reduce pressure on watersheds and contribute to increased carbon sequestration and storage and reduced 
+erosion. Strengthening NTFP value chains and institutions with a focus on women, will enhance livelihood diversification 
+and improve communities’ resilience to climate change. 
+
+ 
+25. There is potential for securing climate change finance for on-farm and/ or community investments in 
+reforestation and/ or economic trees. HP successfully secured the first ever Clean Development Mechanism subproject 
+
+
+
+in project under the Kyoto Protocol was registered with the UNFCCC in March, 2011. This was implemented in 11 
+watershed divisions and covering 140 GPs it generated carbon credits trough reforestation activities supported under the 
+MHWDP. A scoping assessment supported by the World Bank has identified significant potential for similar carbon 
+financing via Indian private sector conglomerates seeking to invest in carbon offsets for their industrial enterprises as well 
+as for corporate social responsibility (CSR) motivations.  
+ 
+Subcomponent 2C: Support to farmer groups linked to agri-business clusters 
+ 
+26. This component will promote agribusiness clusters among several GPs in high-potential areas already 
+benefitting from project interventions under Component 2. Fostering value addition, agribusiness and agro-industry 
+clusters requires coordinated planning and investments by a range of departments. The key objective is typically to 
+aggregate production to internalize economies of scale and provide sufficient volume to meet the minimum efficient scale 
+of agro-processors hereby stimulating private investment by agribusinesses and promoting value addition. There may be 
+other efficiencies for instance in waste treatment and the clustering of ancillary businesses. The project will seek to 
+aggregate via clusters in collaboration with farmer organizations (which will also be strengthen under the project). This 
+component will coordinate such investments to promote clusters which will connect groups of beneficiary farmers, via 
+their respective farmers’ associations, to agribusiness to facilitate processing and value addition.  
+ 
+27. Interventions will include technical assistance to farmers’ groups and prospective agribusinesses as well as 
+some (likely modest) infrastructure provision to locate participating agribusinesses. This will fall short of ‘agro-business 
+park’ models but could include specific locations for the establishment of agro-businesses close to the producing areas 
+and including last-mile infrastructure as well as facilities for storage, packaging and waste management. 
+ 
+Component 3: Institutional capacity building for integrated watershed management and making policy trade-offs. 
+ 
+28. The objective of this component is two-fold: first, is to support a more comprehensive and holist approach to 
+managing the state’s water resources recognizing competing uses both within HP and downstream in other states in 
+particular Punjab; second to facilitate a better alignment of institutional mandates for IWM and strengthen the HPFD’s 
+institutional structure and capacity for improved forest service delivery. It will be implemented through a combination of 
+TA and investments.  
+ 
+Subcomponent 3A: Improving the governance structure for integrated watershed management 
+ 
+29. Through the convening power of the HPFD and its role in managing watersheds, this subcomponent will provide 
+TA to support improving integrated watershed management (IWM). The subcomponent will support an IWM 
+institutional assessment to (a) identify the institutions that affect water supply, quality, use, and management and their 
+roles, responsibilities, and mandates; (b) conduct a strengths, weaknesses, opportunities, and threats analysis of the 
+current institutional framework and highlight any overlaps and/or gaps that undermine IWM; (c) identify opportunities 
+for institutional coordination and synergy; and (d) build consensus on the need for reform and develop the goals and 
+vision for institutional collaboration, a time-bound action plan, and an implementation road map. The results of this 
+assessment are expected to inform the GoHP on the necessary longer-term reforms to the relevant state institutions that 
+will result in effective interagency cooperation and, ultimately, IWM.  
+ 
+Subcomponent 3B: Institutional reform and strengthening of the Himachal Pradesh Forest Department 
+ 
+
+
+30. This subcomponent will support the institutional development of HPFD. It will provide TA and investments to (a) 
+conduct a functional review of forest institutions (FRFI) that will produce a vision, goal, and time-bound action plan for 
+change; (b) implement an initial set of prioritized HPFD institutional reforms; and (c) strengthen the HPFD’s capacity to 
+deliver its core mandates. This subcomponent will also support an initial set of prioritized institutional governance reforms 
+through TA and investments. These reforms include the (a) development and implementation of a comprehensive HPFD 
+IT and knowledge strategy that integrates all relevant applications on a common geospatial platform and allows for 
+watershed-level planning;6 (b) development and implementation of a comprehensive HPFD monitoring and evaluation 
+(M&E) system; (c) establishment of a centralized staff performance monitoring system; and (d) development of regulatory 
+and management standards for pastures. Finally, this subcomponent will finance training and capacity-building activities 
+based on a comprehensive training plan. The trainings will cover diverse subjects and will be designed with a climate 
+change lens to build climate resilience.7 Training will include all project participants. 
+ 
+Subcomponent 3C: Improve water resource coordination and decision making at the macro-level 
+
+ 
+31. This subcomponent will operationalize some of the opportunities for institutional coordination and increasing 
+synergy between the different institutions involved with water resource management, identified in subcomponent 3A. 
+Coordination. Successfully managing watersheds and water supply/use, both the upland and downstream areas, will 
+require managing tradeoffs between the different treatments, uses and beneficiaries. There are a great number of 
+stakeholders involved, including numerous state departments (e.g. HPFD, Agriculture, Animal Husbandry, Horticulture, 
+Irrigation and Public Health etc.), individuals and the private sector, donor supported projects, NGOs, local governments, 
+and local communities. This component will set up a high-level decision-making process (based on improved data collected 
+by the project), in a transparent and participatory process to provide strategic guidance and to manage the trade-offs 
+necessary to ensure sustainability.  
+ 
+Component 4: Project Management. 
+
+ 
+32. This component would support the project management function including key staff and operational costs. The 
+precise nature of the project management entity is to be determined (see below) although at least in the medium-term 
+financing will be required for staff on secondment from other Departments and externally recruited staff in areas with 
+skillsets outside the current bureaucratic endowment. A key example is agribusiness for which few existing staff of 
+Departments have the required expertise. It would also support the project monitoring and evaluation functions as well 
+as grievance redress apparatus, and project communications and outreach including the contribution to Lighthouse India 
+by which project lessons can be shared with other states. 
+ 
+33. The component would also support a robust evaluation of impact. The team will consider options for statistically 
+robust evaluative techniques (randomized control treatment GPs; discontinuity methodologies utilizing similar treatment 
+and control GPs etc.) as a foundation for project evaluation. 
+
+ 
+Information and Communication Technology 
+
+ 
+34. The project would specifically seek innovations in information and communication technology (ICT) in all 
+aspects of the project (building on experience in other agricultural projects in HP and across India). ICT and geospatial 
+
+                                            
+6 The preparation of the IT strategy will include the analysis of the most appropriate disruptive technologies. 
+7 The subjects will include management of seed stands, nursery management, range management, forest protection, community 
+mobilization, and institutional development. 
+
+
+analysis would be utilized to inform project planning and implementation and a web-based GIS platform will be established 
+to report progress, and to allow stakeholders to report implementation concerns. Furthermore, there are opportunities 
+for ICT-based tools to quickly assess soil type (for optimum fertilizer application) which when used offer direct benefits to 
+farmers while also helping construct a detailed soil map of the state. Remote monitoring systems can provide real-time 
+data on weather, water flows and turbidity and can play important roles in weather-related risk mitigation, irrigation 
+scheme-level and farm management decision-making and in project monitoring. The use of blockchain technology is 
+increasingly being deployed to facilitate traceability of fresh produce in agricultural value chains and will be encouraged 
+by the project. Greater use of cell phone-based market information systems can increase market efficiency and empower 
+farmers to supply more remunerative markets and to negotiate higher prices. 
+ 
+Proposed Project Locations 
+
+ 
+35. Project locations will be identified based on a robust and objective set of criteria. The primary criteria will be to 
+identify (i) high priority micro-watersheds that are in urgent need of remedial steps to maintain their perennial water 
+sources and then to overlay these with (ii) locations with high potential as agricultural and agribusiness clusters. Once 
+these areas are identified, further criteria will be to select specific GPs recognizing the need for a qualitative approach. It 
+is expected that in total around 900 GPs will be included. 
+ 
+36. The project will be applied in all districts of HP with the exception of the two high mountain districts of Kinnaur 
+and Lahul and Spiti. There are seven main river basins in HP and in principle the project could select micro-watersheds 
+within any basin. However, a modified approach will reflect those basins for which activities similar to those proposed in 
+Component 1 are already being supported by other Development Partners (DPs) (for instance, KfW supported HP Forest 
+Eco-System Climate Proofing Project in Kangra and Chamba Districts and the JICA supported Project for Improvement of 
+Himachal Pradesh Forest Ecosystems Management and Livelihoods in Bilaspur, Shimla, Mandi, Kullu, Kinnaur and Lahul 
+and Spiti Districts). In such cases, this project would collaborate closely with those interventions, gap-filling Component 1 
+where necessary and focusing more on delivery of Component 2. 
+
+ 
+37. The project will also consider the merits of structured phasing. For instance, one option would be to defer 
+interventions in Sutlej basin until the Comprehensive Catchment Area Treatment (CCAT) plan revision is completed as this 
+would help better target the resulting investments under Components 1 and 2. Conversely, there may be proposed project 
+areas which are already high priority with an underlying analytical foundation for the rapid delivery of interventions under 
+Components 1 and 2 (perhaps those in areas supported by KfW and/ or JICA projects). 
+ 
+ 
+    
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 TBD 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+
+ 
+The project will undertake measures to improve the state of water resources in Himachal Pradesh towards ensuring 
+sustainability and climate resilience in the agriculture sector. It will achieve this through interventions across the areas of 
+
+
+
+natural resource management, forestry and agriculture. In particular the project will: i) promote participatory and 
+sustainable land and water management through strengthened landscape planning and ii) implement NRM activities 
+from the plans such as soil and water conservation measures like check dams, bio-engineering structures, etc, 
+development of high quality seed stands, nursery development, forest and pasture management and forest fire 
+prevention and suppression; iii) provide water through primary and secondary distribution infrastructure and matching 
+grants for the purchase of on-farm equipment for drip and sprinkler irrigation technology; iv) support the adoption of 
+Climate Smart Agriculture (CSA) practices for existing cropping patterns and facilitate diversification into high value 
+crops; v) strengthen NTFP value chains; vi) promote agribusiness clusters including technical assistance to farmers groups 
+and infrastructure provision to facilitate storage, packaging, waste management as well as last-mile linkages and vii) 
+undertake institutional capacity building for integrated watershed management and making policy trade-offs focusing on 
+the Himachal Pradesh Forest Department (HPFD). 
+The environmental risk rating of the project is ‘Moderate’. Overall, the impacts of the project financed activities on forest 
+cover and quality, water and sediment regulation, water use efficiency and carbon sequestration are expected to be 
+positive.keeping in view the proposed activities envisaged at this stage of the project, it is understood that “no adverse 
+impacts to critical habitats are expected.” Because activities will be outside critical natural habitats or any activities that 
+would impacts on critical habitats will not be financed. No adverse impacts to critical habitats or cultural heritage are 
+expected. The risk seems to be moderate. 
+Potential for adverse social impacts come from i) infrastructure (aggregation, processing, soil and water conservation, 
+water distribution, pasture and nursery development); and ii) access and use restrictions related to natural resource 
+management, NTFP value chains and forest fire prevention interventions. Other potential social risks are exclusion of 
+small and marginal farmers, nomadic tribes, scheduled castes and scheduled tribes from project institutions and benefits 
+that relate to on farm irrigation inputs, seeds and other improved farming inputs and training. Community level conflicts 
+could also arise from water sharing infrastructure and systems, any land use restrictions mentioned above.While most 
+interventions are likely to be small scale, and the impacts are not expected to be significant, the capacity of the borrower 
+to implement and manage the above social risks as well as those related to labor, community health and safety and 
+sustained stakeholder engagement raises the risk profile to moderate. 
+
+ 
+
+ 

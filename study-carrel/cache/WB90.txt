@@ -1,0 +1,797 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Odisha Integrated Irrigation Project for Climate Resilient Agriculture (P163533) 
+
+ 
+ 
+
+  
+Sep 11, 2018 Page 1 of 14  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 03-Oct-2018 | Report No: PIDISDSC23298 
+
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+India P163533  Odisha Integrated 
+Irrigation Project for 
+Climate Resilient 
+Agriculture (P163533) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA Nov 13, 2018 Jan 28, 2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of India Odisha Community Tank 
+Development and 
+Management Society 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Project Development Objective is to intensify and diversify agricultural production, enhance climate resilience and 
+improve water productivity in selected cascades of Odisha. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 235.74 
+
+Total Financing 235.74 
+
+of which IBRD/IDA 164.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 164.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 71.74 
+
+          Borrower 71.74 
+
+   
+
+
+ 
+
+Environmental Assessment Category Concept Review Decision 
+
+B - Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+ 
+ 
+
+Other Decision (as needed) 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+1. Over the past ten years, India has seen strong economic growth - exceeding 7 percent per annum - driven primarily 
+by robust private consumption, a resilient services sector, and a revival in some industrial activities. The reduced 
+momentum in investment and exports notwithstanding, annual growth rates are still projected to average 7.5 percent per 
+annum in coming years because of the diversity in the country’s drivers of growth and the vast scope for improvement in 
+many areas.   
+
+2. Alongside this growth, India has achieved significant progress in reducing extreme poverty - from 46 percent in 1993 
+to 21 percent in 2011 (using the international poverty line of $1.90 per person per day in 2011 purchasing power parity). 
+World Bank estimates point to continued reduction in poverty in more recent years, indicating that the country is on track 
+to eliminating extreme poverty by 2030. Urban growth and rising labor earnings due to movement of labor from agriculture 
+to non-farm work, an unprecedented rise in wages for unskilled labor, and demographic changes (e.g. a declining 
+dependency ratio), underlie the rapid poverty decline.  
+
+3. Over the past three decades, the economy has undergone a structural shift from agriculture as the dominant sector, 
+to services and industry. Even then, agriculture continues to be essential for achieving India’s development goals, as the 
+sector employs about 59 percent of the country’s total workforce, is a source of livelihood for 70 percent of India’s rural 
+households, and is the main source of economic linkages in rural areas. In 2017, the sector contributed about 17 percent 
+to the national Gross Domestic Product (GDP). While its contribution to the economy is likely to keep declining, agriculture 
+will continue being the single largest contributor to employment and income of the rural population in the foreseeable 
+future. 
+
+4. Because of a complex web of policies and institutions that limit the performance of agricultural markets, diminishing 
+returns to technologies that once sparked the green revolution, and suboptimal diversification among others, the 
+agriculture sector continues to perform below its potential. Long-term agricultural growth has averaged about 3 percent 
+per year1 and generally lags the growth rate for the larger economy. Sector growth is subject to large annual shocks, which 
+as projected, are expected to be exacerbated by climate change. In addition, India’s agriculture has, for long, been based 
+on an unsustainable resource-intensive model, predominantly characterized by inefficient use of water and land 
+resources, and as an imperative, will have to shift to higher levels of resource use efficiency, given the country’s low per 
+capita natural resource endowments2 and the projected impacts of climate change.  
+
+                                            
+1 With decelerating productivity growth of food grains. 
+2 With annual per capita water availability of only about 1,000 m3, India is one of the most water-stressed countries in the world. 
+
+
+
+     
+
+5. Moving away from its long-running policy focus on raising agricultural output and improving food security, the 
+Government of India has now prioritized the doubling of farmers’ incomes by 2022 and through a number of interventions 
+e.g. the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is also committed to accord high priority to improving water use 
+efficiency - more crop per drop - in a focused manner3. 
+
+ 
+
+Sectoral and Institutional Context 
+ 
+6.  Odisha ranks among the fastest growing economies in India, consistently growing at rates higher than the national 
+average. Mirroring the national level, Odisha’s economic growth has been mainly driven by services (43.5 percent of GDP) 
+and industry (36.6 percent of GDP). Between 2012 and 2017, per capita incomes in the State increased by 30 percent 
+(from Rs. 47,632 to Rs. 61,678) and poverty reduced at an annual rate of 3.5 percent. Despite this good progress, Odisha’s 
+per capita income still stands at only 75 percent of the national average.  
+
+7. While Odisha’s economy has transformed from a predominantly agro-based economy, agriculture remains a key 
+sector, providing employment and livelihoods to more than 62 percent of the State’s workforce, and contributing close to 
+20 percent to its GDP. Indeed, a strong correlation exists between agriculture sector performance and overall state GDP, 
+pointing to strong linkages between agriculture and other sectors. 
+
+8. Like much of India, Odisha’s agriculture sector performance, relative to potential, is low. The officially reported 
+compound annual average growth rate of 2.8 percent for the sector for the period 2011-17, is below the national average, 
+and masks the highly volatile sector performance, which in reality is characterized by significant negative growth every 
+alternative year. Consequently, because of low sector performance, Odisha ranks at the bottom in terms of annual farmer 
+income (i.e. Rs. 16,884 per family), only outperforming West Bengal, where the average farmer income stands at Rs. 
+11,748 per annum.4 
+
+9. Among others, key constraints to the improved performance of Odisha’s agriculture sector include: (i) low 
+productivity; (ii) limited diversification; (iii) high exposure and vulnerability to extreme weather events; (iv) access to 
+reliable irrigation; and (v) dysfunctional or non-existing value chains for important crops. First off, average yields for major 
+crops in Odisha still lag both those in neighboring states with comparable factor endowments and the national averages 
+(Table 1), and are far below their potential5.   
+
+ Table 1. Average Yields, 2016-2017 
+
+Crop  
+
+------------------------------Crop Yields (ton/ha)------------------------------ 
+
+Odisha 
+Andra 
+
+Pradesh 
+Madhya 
+Pradesh 
+
+Telangana West Bengal 
+India 
+
+Paddy 1.49 3.47 1.75 2.91 2.89 2.40 
+Pulses 0.55 0.30 0.94 0.77 0.97 0.79 
+Wheat 1.33 na 2.98 1.40 2.68 3.20 
+Potato 12.00 14.92 20.07 25.96 26.16 21.51 
+
+10. According to the findings of a State-level NITI Aayog Task Force on Agriculture6, these low farm-level yields are 
+largely due to limited adoption of productivity enhancing technologies (including the use of improved germplasm), a 
+
+                                            
+3 PMKSY seeks to achieve convergence of investments in irrigation at the field level, expand cultivable area under assured irrigation, improve 
+on-farm water use efficiency, enhance adoption of precision-irrigation and other water saving technologies (more crop per drop), etc. 
+4 National Sample Survey Organization, 2013.  Situation Assessment Survey of Agricultural Households, All India Debt and Investment & Land 
+and Livestock Holdings in India (January – December 2013) 
+5 World Bank. 2014. Republic of India: Accelerating Agricultural Productivity Growth. Washington, DC.   
+6 Government of Odisha, 2016. Rejuvenation of Agriculture: Recommendations of State NITI Aayog Task Force. 
+
+
+
+ 
+The World Bank  
+Odisha Integrated Irrigation Project for Climate Resilient Agriculture (P163533) 
+
+ 
+ 
+
+  
+Sep 11, 2018 Page 5 of 14  
+
+     
+
+degrading natural resource base, inadequate and mostly unreliable irrigation7,8, and weaknesses in the extension system.  
+
+11. Due to several factors9, Odisha’s progress with respect to diversification – an important vehicle for agricultural 
+growth - has been mixed at best, even against a backdrop of real shifts in consumer demand towards more diversified 
+food baskets. While the net area devoted to rice showed some reduction between 2006 and 2015, the latest year for 
+which comprehensive data sets exist, the total area devoted to food grains has been increasing. In fact, according to the 
+Odisha Economic Survey of 2017-18 example, the areas under spices, vegetables, fruits, and floriculture - a proxy for 
+diversification - declined by 20 percent, 6 percent, 9 percent and 12 percent, respectively, between 2014 and 201710. 
+
+12. In addition, extreme weather events, largely droughts, and to a lesser extent, floods and cyclones, also continue to 
+undermine Odisha’s agriculture performance and have been the principal driver of the volatility in sector growth. Figure 
+1 for example, shows percent annual growth in rice production-the major crop - over five decades, and attests to the 
+vulnerability of the State’s agriculture to the debilitating impacts of extreme weather events, which seem to occur with 
+almost predictable periodicity.   
+
+Figure 1: Percent annual  growth in rice production, 1962-201411 
+
+ 
+
+ 
+
+13. While Odisha has a long history with the menace of drought – going all the way to the drought of 186612 - recent 
+trends point to an increasing frequency13 as well as more agricultural areas coming under the ambit of droughts. As 
+pointed out in the Odisha Climate Change Action Plan, this trend will be further amplified in the future due to climate 
+
+                                            
+7 About 2/3 of the State’s gross cropped area is rain-fed and depends on monsoon – a vast reliance on nature in an environment with highly 
+skewed annual rainfall availability.  
+8 Of the total cultivable area of 8.7 million ha in the State, irrigation potential has been developed for 2.96 million ha in Kharif and 1.48 million 
+ha in Rabi season.  
+9 A comprehensive understanding of which will be developed during preparation. 
+10 Government of Odisha, 2018: Odisha Economic Survey of 2017-18. 
+11 Data source: Government of Odisha, Status of Agriculture in Odisha, 2014-2015.  
+12 Reputed to have caused the death of one third of Odisha’s population due to famine. 
+13 From 1 in 5 years to 1 in 2 years since 2009. 
+
+
+change14. With 2/3 of its gross cropped area under rainfed production and an insignificant use of groundwater, the State 
+has few and inadequate instruments to mitigate against climate change-induced weather vagaries.  
+
+14. Moreover, even when Odisha has relatively more water resources than many States in India, Irrigation 
+development is low and below the national average.  Of the total cultivated area of 8.7 million ha, only 1.9 million ha (21 
+percent) is under irrigation. Only 34 percent of the total irrigation potential of 5.5 million ha has been developed and 
+groundwater use is negligible. With limited irrigation development and seasonally skewed rainfall, Odisha is not making 
+the most out of every drop of water. In fact, estimates indicate that about 40-50 percent of available rainfall is lost as non-
+beneficial evapotranspiration, a loss higher than the neighboring states. In addition, many of the irrigation systems have 
+become victim to a vicious cycle of the build-neglect-rebuild. Operation and Maintenance (O&M) is not conduced 
+systematically as a result of insufficient funds, the quality of irrigation services degrades and further undermines farmers’ 
+willingness and capacity to pay for services. Arrangements for irrigation management have not been adapted to the 
+requirements of recent developments, including the use of groundwater, adoption of more individual irrigation 
+technologies, and the need to adopt a cascade perspective on irrigation management. 
+
+15. Furthermore, remunerative and reliable markets in Odisha, a precondition for sustained agricultural growth are 
+limited, mainly due to poorly functioning value chains. For example, supply chains for otherwise high-value commodities 
+(e.g. spices, vegetables) are fragmented and uncoordinated, often involving multiple layers of intermediaries in some 
+places, and completely no players in many other places. 
+
+16. The Government of Odisha (GoO) has identified increasing production and productivity, reducing the vulnerability 
+of agriculture to climate change, diversification towards high-value crops, rainwater harvesting and improving efficiency 
+of water use, improved produce marketing, and addressing absentee landlordism inter alia, as important issues to be 
+addressed to improve the performance of the agricultural sector and raise farmer incomes. The proposed project 
+contributes to these efforts. The proposal is to support higher agriculture growth, more efficient water use, better quality 
+and reliability of irrigation service delivery, and strengthen the resilience to climate change of production systems in six 
+districts (see Table 2) in Odisha.  
+
+17. Characterized by highly skewed and variable rainfall patterns15, a lack of perennial rivers, these districts depend on 
+a cycle of dry seasons alternating with increasingly uneven and erratic monsoons for water. On average, they suffer from 
+marginal drought one in three to five years, moderate drought in six to eight years, and severe drought one in thirty years. 
+Among other reasons, the undulating physiography and the predominantly small-sized land holdings limit the technically 
+and economically efficient development of centralized major and medium irrigation systems (reservoirs and canals) to 
+serve these areas and, they therefore, generally have comparatively lower irrigation coverage than other parts of the State 
+(Table 2).  
+
+    Table 2. Irrigation potential created as a ratio of cultivated land 
+
+Project District Ratio of irrigation potential created to total cultivated area 
+Kharif Rabi 
+
+Ganjam 0.74 0.29 
+Kandhamal 0.30 0.38 
+Kalahandi 0.55 0.70 
+Nuapada 0.42 0.58 
+Mayurbhanji 0.55 1.15 
+Keonjhar 0.37 0.51 
+
+                                            
+14 Climate projections indicate that drier areas will become drier and flood prone areas will be subject to more flooding. Other problems such 
+as pest and disease outbreaks are also likely to increase due to climate change. 
+15 When it rains, eighty six percent of the rains fall in the monsoon period (June-October), while the remaining 14 percent occurs during the 
+other 7 months of the year, from November to May. 
+
+
+
+State average 0.62 0.72 
+
+ 
+18. The districts therefore, have historically relied on water, stored in cascades of impoundments (tanks) for agricultural 
+production and as a buffer against droughts. The tanks support livelihoods of over 300,000 households, most of whom 
+are in the poorest quintile. Besides sustaining agricultural livelihoods, the network of tanks in these areas also serves other 
+important purposes such as controlling and reducing the impacts of floods - when they occur-and recharging the 
+groundwater table. Investing in these districts will also help meet a key policy objective of the GoO to more evenly spread 
+the benefits of irrigation - currently confined to a few districts in the form of major and medium irrigation projects16.   
+
+19. Specifically, the project will support sustainable and resilient intensification, judicious diversification17 to high-value 
+commodities (especially during the Rabi season and for some areas under upland rice in Kharif), improved produce 
+marketing and also incentivize and improve the quality of irrigation service delivery and the reliability of water supply to 
+ensure a more efficient, productive and equitable distribution of water to beneficiary farmers throughout the year that is 
+more responsive to the more demanding higher value crops. The project builds on the successes of an earlier Bank-
+financed Odisha Community Tanks Management Project in bridging the gap between the then existing irrigation potential 
+and actual irrigation coverage of selected tanks and expands the engagement further into institutional reforms and 
+capacity strengthening for improved system performance, diversification and marketing of farmer produce. 
+
+ 
+
+Relationship to CPF 
+ 
+
+20. The India CPF (2018-2022) argues that for the country to maintain its trajectory of high growth and poverty 
+reduction, it must: (i) embrace much more efficient use of the country’s resources, particularly water and land and address 
+the impacts of climate change; (ii) foster inclusiveness both for poverty reduction and as a key condition for sustaining 
+high rates of economic growth; and (iii) strengthen the agility, performance and responsiveness of public sector 
+institutions. One of the three CPF focus areas (Focus Area 1) proposed for Bank engagement is “resource efficient growth” 
+where one of the Objectives is promotion of a more resource-efficient, inclusive and diversified growth in the rural sector. 
+The proposed project dovetails and is consistent with Bank support (to include inter alia, support to sustainable 
+productivity gains, CSA practices, diversification, investments in irrigation and drainage for improved water use efficiency, 
+value chains etc.) that is envisaged under this Objective.  
+
+C. Proposed Development Objective(s)  
+ 
+21. The Project Development Objective is to intensify and diversify agricultural production, enhance climate resilience 
+and improve water productivity in selected cascades of Odisha. Project beneficiaries include small and marginal farmers, 
+Water Users’ Associations (Pani Panchayats), farmer producer organizations, and other agro-entrepreneurs. Targeted 
+investments will be undertaken to address any gender gaps as well as benefit other vulnerable groups. 
+
+Key Results (From PCN) 
+ 
+
+22. The project is expected to lead to increased average yields, increases in the range, volume and value of marketed 
+agricultural output, more productive and efficient use of scarce water resources, a more reliable supply and a better 
+quality of irrigation service delivery, and improvements in farmers’ capacity to adapt to climate change. Proposed key 
+outcome level performance indicators include the following: (i) increase in productivity of selected agricultural 
+
+                                            
+16 Government of Odisha, 2013. State Agriculture Policy, Department of Agriculture, Bhubaneswar. 
+17 Diversification in this context is defined as reducing the emphasis on food grains and increasing the share of high-value 
+agriculture. This would be done taking cognizance of the overall country policy intent to shift rice production towards relatively 
+more water abundant states like Odisha. 
+
+
+commodities supported by the project (t/ha); (ii) farmers adopting improved agricultural technology (number); (iii) share 
+of non-rice products in total production in project areas(percent); (iv) water users provided with new/improved irrigation 
+and drainage services (number); (v) acreage under crops that are less water demanding (ha); (vi) productivity of water use 
+(kg/m3), and (vii) number of direct project beneficiaries (disaggregated by gender).  
+
+ 
+D. Concept Description 
+
+ 
+23. Agricultural production system improvements (e.g. improving productivity, system resilience to climate change and 
+resource use efficiency) and market development are known to reinforce each other and are therefore better pursued 
+and accomplished together. The proposed project primarily seeks to improve and diversify farmer yields and production, 
+improve water productivity and efficiency, build resilience to climate change risks, and improve market access for farmers 
+who can generate a marketable surplus in selected districts in Odisha. Producing higher value and more diverse crops puts 
+a high premium on the quality and reliability of irrigation service delivery, as they leave no room for water supply errors 
+and the higher use of farm inputs significantly increases the stakes. Higher value horticulture crops generally use less 
+water as compared to wheat, paddy, sugarcane and cotton. The conceptual framework underlying the proposed design 
+therefore links efforts to promote adoption of CSA practices18, diversification and productivity increases, with 
+improvements in incentives for technology adoption, quality of water service delivery and water resource management. 
+The project will comprise three components as described below: 
+
+Component 1: Climate-Smart Intensification and Diversification of Agriculture 
+
+24. The objective of this component is to increase agricultural productivity, strengthen the capacity of organized farmer 
+groups to cope or adapt to climate change stresses affecting crop production, and diversify production in Rabi in response 
+to effective demand as expressed by pre-identified commercial off-takers or gleaned from other reliable market signals. 
+Support under this component is proposed to be organized around two mutually inclusive, overlapping and reinforcing 
+subcomponents. 
+
+Subcomponent 1.1: Support to Improved Productivity and Resilience 
+
+25. This subcomponent aims at supporting and incentivizing farmer adoption of technologies and practices that 
+demonstrably deliver the triple-wins of increased productivity, improved resilience to climate shocks and reduced GHG 
+emissions, as a co-benefit. The exact nature of technology support will be: (i) a function of the specificities of production 
+environments and unique climate vulnerabilities19 in individual cascade; (ii) scaled to farmer capacities and endowments 
+and (iii) based on the principles of response to market demand, good choice of improved germplasm, adequate plant 
+nutrition, and effective pest and disease management. 
+
+26. In this respect, project support is envisaged to go towards organizing farmers for technology transfer purposes (e.g. 
+through farmer field schools), technology sourcing and demonstration, farmer training, improving availability and access 
+to productivity enhancing and resilient germplasm by strengthening key segments in the State’s seed production and 
+distribution system, and strengthening advisory service provision, currently plagued by weaknesses in the extension 
+system - such as inadequate manpower and limited knowledge and skills.   
+
+Subcomponent 1.2: Support to Diversification and Produce Marketing 
+
+27. The objective of this subcomponent is twofold: (i) support farmers to reduce the current emphasis on food grains 
+
+                                            
+18 In this context, CSA practices are defined as practices that sustainably increase productivity and farmers’ income and build resilience to 
+climate change, while reducing GHG emissions where possible and appropriate 
+19 To be mapped for the target districts following approaches developed through a World Bank Non- Lending Technical Assistance to Support 
+Implementation of Odisha State Climate Change Action Plan. 
+
+
+(especially rice and wheat) while increasing the share of high-value agriculture (e.g. fruits, spices and vegetables) in their 
+overall production structure; and (ii) improve produce marketing to increase incomes and reduce price risks associated 
+with diversification. A successful shift in favor of more diversified production would not only generate faster productivity 
+and superior incomes for targeted farmers, but will also result into improved nutrition security, help reduce the water 
+footprint of paddy, foster biodiversity, and strengthen resilience of the production systems to climate change.  
+
+28. Project support to diversification and improved marketing is proposed to follow productive alliance approaches, 
+which bring together organized farmers, produce buyers, technical service providers and leverage private sector financing 
+to address market imperfections and build competitive value chains for select commodities. In this respect, the project 
+could provide funding for several activities, including but not limited to: (i) awareness creation of diversification among 
+farmers; (ii) identification of competitive value chains; (iii) farmer experimentation with new crops and 
+training/demonstration of relevant production technology; (iv) strengthening of farmers for collective action (including in 
+production, aggregation, technology transfer, among others); (v) business plan development; and (vi) selected productive 
+investments - as would be identified in the business plans. Project support to crop diversification will be based on 
+agronomic/agro-ecological suitability, comparative advantage of specific cascades, and local, national or international 
+market opportunities. To further diversify farmer income streams (a key adaptation strategy) and maximize the utility and 
+productivity of water stored in the tanks, during preparation, the project will explore the feasibility of using the tanks for 
+seasonal aquaculture.  
+
+Component 2: Improving Access to Irrigation and Water Productivity  
+
+29. Access to reliable irrigation is generally critical to enhancing crop productivity, building resilience to climate change, 
+promoting diversification and access to markets. It is doubly important in the targeted project areas that are characterized 
+by frequent droughts and highly variable rainfall availability. Bridging increasingly longer dry spells during Kharif and 
+producing more demanding higher value and more diverse crops during Rabi when the stakes are higher and when there 
+is no margin for water supply errors, puts a high premium on the quality of irrigation services.   
+
+30. Among others, reliability of irrigation services and a more productive use of water resources in the project areas is 
+weighed down by: (i) the poor condition of hydraulic assets- mainly due to deferred maintenance; (ii) limited knowledge 
+and skills in water management - often inadequate to provide supplemental irrigation during Kharif season, and to cover 
+water-stress conditions during Rabi; and (iii) weak arrangements for O&M. Additionally, most of the tank irrigation 
+systems have been developed for rice cultivation and need to be adapted for a more diversified and more demanding 
+cropping system.  
+
+31. The proposed project aims to improve the performance of irrigation throughout the year and across cascades of 
+selected tank irrigation systems through modernization of hydraulic assets, institutional reforms, and capacity 
+strengthening. The objective is to use water more efficiently, reduce water losses and save water during Kharif season, 
+and transfer these savings to Rabi season. Capacities for irrigation management (including the introduction of asset 
+management) will be strengthened to provide higher quality services. In addition, the project will promote sustainable 
+groundwater use to supplement scanty rainfall and mitigate increasing rainfall variability. Key outcome indicators include 
+the productivity of water use ($/m3) and the number of water users provided with new/improved irrigation and drainage 
+services (number). 
+
+Subcomponent 2.1: Irrigation Modernization 
+
+32. The project will invest in the modernization of hydraulic assets. To that end, a comprehensive water assessment will 
+be conducted in the Project cascades to identify opportunities for reducing water losses and for transferring the savings 
+to Rabi season. For each of these opportunities, the implications on downstream water use will be identified through 
+preparation of a pre- and post-project cascade-wide water balance. Investments include strengthening of canal bunds, 
+modernizing hydraulic canal structures, installation of field channels and sub-surface pressurized pipes, and developing 
+
+groundwater extraction. The project will also help farmers access subsidies at central and state level for the promotion of 
+pressurized irrigation at chak level. In line with GoO’s intention, where feasible, the project will finance investments 
+through DBOTs on a Hybrid Annuity Basis. 
+
+Subcomponent 2.2: Irrigation Management 
+
+33. Crop diversification and intensification require a higher quality of irrigation service delivery to meet the 
+requirements of more demanding crops. Traditional arrangements for irrigation management often lack the capacities 
+and incentives to deliver these improved services. The project will pursue institutional reforms and pilot the use of private 
+(publicly funded) operators that will be incentivized to deliver high performing irrigation and O&M services through DBOT 
+contracts on a Hybrid Annuity basis – in conformity with GoO’s intentions.  
+
+34. The Project will promote conjunctive management and sustainable use of both ground- and surface water resources 
+by improving groundwater monitoring linking these with irrigation scheduling decisions. The Project will also establish a 
+surface and groundwater monitoring and benchmarking system and will (i) link these data to decision making on irrigation 
+scheduling, and (ii) significantly improve citizen engagement in the management of irrigation systems.  
+
+35. The project will strengthen capacities of farmers and Pani Panchayats through Farmers’ Field Schools and 
+demonstrations, among others in modern irrigation technologies, improving irrigation efficiency and rational hydraulic 
+asset management. The project will also introduce the allocation of investment resources on the basis of scheme 
+performance (including abidance by agreed water allocation, meeting efficiency targets and cost recovery). Capacities will 
+also be strengthened to improve the management and maintenance of hydraulic assets. 
+
+Component 3: Project Management 
+
+36. This component will strengthen capacities for project management, monitoring and evaluation (M&E) (including, 
+inter alia, the areas of procurement and financial management) through the provision of goods, consultant services, 
+training, and financing of incremental operating costs. This component will also develop a comprehensive management 
+information and data collection and reporting system on key performance outputs and impact indicators through baseline 
+surveys, participatory assessments, mid-term reviews and final evaluations. Staffing of the PMU will include a number of 
+technical, financial management, M&E and safeguards (social and environmental) experts. Detailed implementation 
+arrangements will be spelled out in the Project Operational Manual. (POM). Regular training of PMU staff will be organized 
+to strengthen their capacities to implement the project. 
+
+ 
+    
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+Odisha is located on the east coast of India along the Bay of the Bengal. The state has coastal line of about 450 km, and a 
+
+geographical area of 155,707 sq. km which accounts for 4.87% of the total area of India. The state of Odisha can be 
+divided into five agro-ecological zones: (1) The coastal plains, (2) The middle mountainous range – part of Eastern Ghats 
+mountain range, (3) The rolling uplands, (4) river valleys, and (5) subdued plateaus. While the state has a wide network of 
+river basins and sub-basins, it is mainly associated with 3 major river basins; Brahamani, Mahanadi and Vansadhara. 
+Despite such diverse natural resource base, it’s agriculture sector has been performing well below its potential. Among 
+key constraints to the improved performance of Odisha’s agriculture sector include: (i) low productivity; (ii) limited 
+diversification; (iii) high exposure and vulnerability to extreme weather events; and (iv) dysfunctional or non-existing 
+value chains for important crops. 
+  
+
+
+To address these concerns, the project will invest on repair and rehabilitation of about 600 tanks spread across the state 
+to revive small holder farming. The interventions will include: improving the efficiency of water assets, modernizing the 
+irrigation systems, enhancing agriculture productivity, promoting adaptive agriculture practices, enhancing fishery 
+production,  and promotion of climate friendly agri-business practices. 
+  
+ 
+ 
+
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+Government of Odisha has recently completed a project of this nature, reflecting that the implementation capacity has 
+
+already been established to address environment and social safeguard implications. The PMU is already in place, and the 
+consultancy services for conducting ESMF, IPNM and TDP are already in place. Safeguard compliance tools needed are 
+already available with the Government of Odisha to be used during the proposed project. 
+ 
+
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Gopalaswamy Srihari, Social Specialist 
+Anupam Joshi, Environmental Specialist 
+Sharlene Jehanbux Chichgar, Environmental Specialist 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The physical investments under the project would 
+include rehabilitation of existing water assets such as 
+strengthening of canal bunds, modernizing hydraulic 
+canal structures, installation of field channels, etc. 
+where improper construction could result in adverse 
+impacts. The investments under the climate resilient 
+agriculture practices could result in positive impacts 
+on the environment with effective planning and 
+implementation. The project has been categorized as 
+category B. There is no large scale, significant and/or 
+irreversible impacts envisaged due to the proposed 
+project interventions. An Environmental and Social 
+Assessment (ESA) will be undertaken to identify 
+environment and social issues of significance. Based 
+on ESA, an Environmental and Social and Management 
+Framework (ESMF) will be prepared toadress the 
+requirements of a category B project, to manage risks 
+and maximize environmental and social opportunities. 
+Both the ESA and ESMF will take into account 
+experiences and lessons from the previous project. 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No No impact is expected due to project interventions. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+The rehabilitation and modernization of the tank 
+system is likely to improve the water storage capacity 
+and wetlands in the upper catchment. As the 
+rehabilitation of tanks may impact natural resources 
+including wetlands (if any). The ESA that  will help 
+ascertain such impacts, and will develop a screening 
+mechanisms that will help identify and avoid impacts 
+on sensitive environmental habitats and important 
+ecosystems. As details of the exact sites of the 
+proposed investments are yet to be finalized, the 
+ESMF would include all adequate measures for any 
+negative effects on natural habitats. 
+
+Forests OP/BP 4.36 No No activities impacting on forests will be undertaken 
+
+Pest Management OP 4.09 Yes 
+
+The project will not directly finance pesticides, but 
+improved irrigation efficiency and subsequent increase 
+in crop productivity and diversification may induce 
+pesticide use. The project will strictly use IPNM 
+(Integrated Pest and Nutrition Management) 
+approach. In addition, the ESMF will have a detailed 
+local specific IPNM strategy for the project. This will 
+reduce the reliance on chemical pesticides, include all 
+measure for labour health and safety for pesticide 
+application and usage, and guidance on training and 
+demonstrations, that will be provided so that there is 
+no significant adverse impact on the environment and 
+public health. 
+
+Physical Cultural Resources OP/BP 4.11 No No impact is expected due to project interventions. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+The state has a sizeable tribal population - 22.5% of 
+the total population. In fact, Odisha is unique in having 
+distinct tribal areas enshrined under the 5th Schedule 
+of the Indian Constitution. At this stage, investment 
+plans and locations are not known, and therefore, a 
+Tribal Peoples Planning Framework (TPPF) will be 
+prepared. Subsequently, sub-project specific Tribal 
+Development Plans will be developed as and when 
+sub-project locations are finalized. 
+
+Involuntary Resettlement OP/BP 4.12 No 
+
+The project does not anticipate any form of land 
+acquisition or involuntary resettlement impacts as it 
+would cover the existing  tank with a focus on repair 
+and rehabilitation only. 
+
+Safety of Dams OP/BP 4.37 Yes 
+No new dam construction will be  supported under the 
+project. The project will rehabilitate and modernize 
+the existing rainwater harvesting structures (known as 
+
+Tanks and each having more than 40 Ha of command 
+areas). Some of them would be having earthen 
+embankments above 10 meters high, hence the 
+project is triggered. 
+This policy was triggered during the previous project, 
+and a Dam Safety panel was put in place. The same 
+Dam Safety panel will continue for this project under 
+the technical guidance from the Chief Engineer, 
+Central Designs Organization. The project will seek 
+better coordination with the Dam Safety panel and 
+support safety enhancement of the tank system as 
+part of the tank rehabilitation. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+There is no evidence that the project would impact on 
+any international water ways 
+
+Projects in Disputed Areas OP/BP 7.60 No Project areas do not fall in any disputed areas. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Mar 31, 2019 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+The Borrower has already engaged consultants who shall commence preparation of the safeguards instruments soon. 
+
+They shall undertake ESA to prepare Environment and Social Management Framework (ESMF), Tribal Peoples Planning 
+Framework (TPPF), Integrated Pest Management Plan (IPMP) / Integrated Nutrient Management Plan (IPNM). These 
+instruments are expected to be ready by March 31, 2019, or before appraisal and will be publically disclosed.  
+The ESMF will provide essential baseline data, confirm policies that are triggered, assess likely impacts of the project 
+
+interventions. The ESMF will also propose mitigation measures for any adverse impacts that may be envisaged through 
+the design and construction phases of various interventions. Recommendations for strengthening institutional capacity, 
+and estimate the budget required for the implementation will also be included. Assessments will be participatory with 
+extensive consultations with all the stakeholders. 
+ 
+ 

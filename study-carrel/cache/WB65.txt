@@ -1,0 +1,816 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Kenya Marine Fisheries and Socio-Economic Development Project (MAFIDEV) (P163980) 
+
+ 
+ 
+
+  
+Jun 06, 2017 Page 1 of 13  
+
+     
+
+ 
+
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 13-Sep-2017 | Report No: PIDISDSC22230 
+
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Kenya P163980  Kenya Marine Fisheries 
+and Socio-Economic 
+Development Project 
+(MAFIDEV) (P163980) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Jul 16, 2018 Nov 20, 2018 Environment & Natural 
+Resources 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing The Republic of Kenya Ministry of Agriculture, 
+Livestock and Fisheries 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Project Development Objective is to improve management and increase value-addition of priority fisheries and 
+aquaculture, and to strengthen access to livelihoods for coastal communities in Kenya. 
+
+ 
+
+ Financing (in USD Million)      
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+International Development Association (IDA)  100.00  
+
+Total Project Cost  100.00  
+
+    
+ 
+ 
+
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+ 
+
+
+B. Introduction and Context 
+ 
+Country Context 
+ 
+
+1. Kenya’s economic growth has been robust over the past years. For the third consecutive year, economic activity has 
+increased, reaching an estimated 5-year high of 5.9 percent in 2016, and once again placing Kenya among the fastest 
+growing economies in Sub-Saharan Africa.
+
+1
+ Projections indicate continued growth with a rate of around 6 percent in 
+
+2018 and 2019. Kenya’s population is estimated to grow equally fast, with an annual increase of 1 million.
+2
+ In 2015, the 
+
+country’s population stood at around 46 million.
+3
+ Natural resources are the basis for livelihood and economic 
+
+development. Agriculture, including forestry and fishery,
+4
+ represents a major economic driver and a dominant source of 
+
+employment, having accounted for more than 30 percent of GDP in 2015.
+5
+  
+
+2. The effects of sustained macroeconomic growth are translating into improved quality of life and poverty reduction, 
+but inequality remains high. Between 2006 and 2016, poverty measured against the official national poverty line is 
+projected to have dropped from 46 percent to 36 percent.
+
+6
+ Inequality, however, remains high. Kenya’s Gini coefficient 
+
+stood at 48.5 in 2005.
+7 
+
+In remote and sparsely populated areas such as the north-eastern parts or the coastal areas, 
+poverty rates can be as high as 80 and 60 percent, respectively. There is a growing rural-urban split, and the richest 10 
+percent of the population receive 40 percent of the nation’s income.
+
+ 
+ 
+
+3. In 2008, the Government prepared a long-term development strategy, Vision 2030, which aims to transform Kenya 
+into a globally competitive middle-income country by 2030.
+
+8
+ The strategy has three pillars: an economic pillar that 
+
+aims to achieve GDP growth of 10 percent per annum; a social and environmental pillar that aims to build a just society 
+enjoying equitable social development in a clean and secure environment; and a political pillar that aims to build a 
+people-centered, results-oriented, accountable democratic political system. Promoting equal opportunities across the 
+entire Kenyan territory is key to realizing this vision.  
+
+4. In an effort to narrow long-term, deeply entrenched regional disparities and to increase the responsiveness of the 
+government, Kenya adopted a new Constitution in 2010. County governments now play the primary on-the-ground 
+role in delivering services (in the agriculture, water, environment, urban, and health sectors), while the national 
+government retains a policy-making, regulatory, and research role.  
+
+ 
+Sectoral and Institutional Context 
+ 
+
+5. While the fisheries sector contributes less than one percent to GDP, it plays a significant role in employment 
+generation, food security, and rural development. Fish production from inland fisheries, marine artisanal fisheries, and 
+aquaculture, increased from 150,000 metric tons in 2010, to about 190,000 in 2014, with a market value of more than 
+
+                                            
+1
+ World Bank (2017). Kenya Economic Update – Housing Unavailable and Unaffordable. April 2017, Edition No. 15 
+
+2
+ Ibid 
+
+3
+ World Bank (2017). World Development Indicators Database 
+
+4
+ Agriculture includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. 
+
+5
+ World Bank (2017). World Development Indicators Database 
+
+6
+ An updated national poverty line and measures will be published in 2017 based on the second Kenya Integrated Household Budget Survey 
+
+completed in September 2016. Poverty incidence measured using the international extreme poverty line of US$1.90 per day (2011 PPP terms) was 
+33 percent in 2006 and is projected to have dropped to 24 percent in 2016. 
+7
+ World Bank (2017). World Development Indicators Database 
+
+8
+ Government of the Republic of Kenya (2007). Kenya Vision 2030.  
+
+US$250 million.
+9
+ Fish production from marine resources only, amounts to around 9,000 metric tons of catch annually.
+
+10 
+
+Imports and exports of fish products have also been increasing. Fish products were being imported and exported in the 
+amount of US$15.5 million and US$39 respectively in 2013, compared to US$4.6 million and US$38.9 million, 
+respectively, in 2010.
+
+11
+ The sector employs more than 2 million people directly and indirectly, working as fishers, 
+
+traders, processors, suppliers, and merchants of fishing accessories, and thus serves the development and stabilization 
+of Kenya’s rural communities, both coastal and riparian.
+
+12
+  
+
+6. The artisanal marine fishery is recognized as one of the most important contributors to the food security of coastal 
+villages, however, weak governance, particularly an unregulated fishing regime, has led to overexploitation and 
+degradation. Fishing effort in Kenya’s marine waters is primarily directed inside territorial waters (i.e., 12 nautical 
+miles), is largely artisanal and characterized by small crafts propelled by wind and paddles, and thus almost entirely 
+restricted to the fringing reef and near-shore areas. The coastal region is among the least developed in the country, 
+with more than 60 percent of the population living below the poverty line, and most relying on coastal and marine 
+ecosystems for employment, livelihood and nutrition. On the other hand, Kenya’s Exclusive Economic Zone (EEZ), which 
+broadly extends 200 nautical miles from the coastline and covers a total area of 142,400 km
+
+2
+, is exploited mostly by 
+
+distant-water fishing fleets, comprised mainly of purse-seiners and long-liners.
+13 
+
+Unrestricted access to fisheries in near-
+shore waters, increased fishing effort driven by a growing population, and destructive fishing gear are destroying 
+critical marine habitats and seriously affecting the state of fish stocks. Most nearshore fish stocks are considered fully 
+exploited, and in many instances at levels that exceed Maximum Sustainable Yield (MSY), thereby contributing to 
+economic overfishing. The World Bank and the Global Environment Facility (GEF)-financed Kenya Coastal Development 
+Project (KCDP) has been supporting the development of Fishery Management Plans (FMPs) as well as stock 
+assessments to improve the management of these inshore fisheries. However, the management plans are yet to be 
+implemented and used by decision makers and other key stakeholders.  
+
+7. Poor market access and lack of basic infrastructure are causing post-harvest losses, thereby reducing economic 
+returns. Lack of appropriate post-harvest fish handling and preservation facilities increase transport time and thus the 
+risk of spoilage, ultimately leading to low fish prices or wastage. In 2014, post-harvest losses were estimated at 2,700 
+metric tons, representing about 30 percent of total landings for marine fisheries.  
+
+8. The impacts of climate change further compound the challenges coastal communities are facing not only due to 
+shoreline erosion, floods, and extreme weather events, but also because of their limited ability to adapt as a result of 
+insufficient income and lack of basic infrastructure. In Kenya, 2.8 million people are estimated to live within 25 km of 
+the coast, and this number is expected to increase to nearly 4 million by 2030. While the impacts of climate change on 
+Kenya’s coast are not yet fully measured, or analyzed, marine and coastal ecosystems are expected to be affected as a 
+result of rising ocean temperature, irregular rainfall, sea level rise, ocean acidification, changes in ocean current 
+patterns, and more frequent and severe extreme weather events. 
+
+9. With improved management and control, Kenya aims to increase the contribution from offshore fisheries to its 
+economic development. Kenya is increasingly engaged in regional initiatives aimed at controlling Illegal, Unreported, 
+and Unregulated (IUU) fishing, and in managing regional fishing efforts through its involvement in the IOTC, the 
+Southwest Indian Ocean Fisheries Commission (SWIOFC), the African Union-Interafrican Bureau for Animal Resources 
+
+                                            
+9
+ Food and Agriculture Organization of the United Nations (2016). Fishery and Aquaculture Country Profiles: The Republic of Kenya 
+
+10
+ Ibid 
+
+11
+ Food and Agriculture Organization of the United Nations (2016). Fishery and Aquaculture Country Profiles: The Republic of Kenya 
+
+12
+ Republic of Kenya (2014). Fisheries Annual Statistical Bulletin 2014. Ministry of Agriculture, Livestock, and Fisheries – State Department of 
+
+Fisheries 2014.  
+13
+
+ Food and Agriculture Organization of the United Nations (2016). Fishery and Aquaculture Country Profiles: The Republic of Kenya 
+
+
+(AU-Ibar), and FISH-I Africa.
+14 
+
+ With support from the KCDP, Kenya has recently established an advanced Vessel 
+Monitoring System (VMS) in Mombasa, which will become fully operational once licensed vessels deploy the required 
+on-board beacons to link with the base station at the State Department of Fisheries and Blue Economy (SDF-BE).  
+
+10. More broadly, and driven by a growing population and the need for sustainable growth in ocean-related economic 
+activities, the Government of Kenya (GoK) has made a strong commitment towards improving the management of its 
+marine fisheries by embarking on a new approach – the Blue Economy. The blue economy approach aims to increase 
+the number of livelihoods and level of income linked to the oceans, while concurrently conserving its resources and 
+ecological integrity to ensure sustainability of the coastal/marine fisheries sub-sector.
+
+15
+ Sustainable management of 
+
+fisheries stock, enhancing economic returns including through development of local semi-industrial fisheries, and 
+improving coastal livelihoods are key focus areas of the GoK. Several State Departments were established through 
+Executive Order No.1/2016, with the SDF-BE being tasked with coordinating economic ocean activity, which includes a 
+comprehensive mandate to protect marine ecosystems. In addition, a new Fisheries Management and Development 
+Act is currently under implementation, and a new national fisheries agency to bolster management of the fisheries 
+sector, the Kenya Fisheries Service (KeFS), was established in September 2016. KeFS is in the early stages of becoming 
+operational.  
+
+11. The proposed project would support the GoK in implementing its blue economy agenda. MAFIDEV would scale up 
+some of the successes of the KCDP. Furthermore, MAFIDEV would support the GoK in the operationalizing the KeFS, 
+and help strengthening the marine fisheries and aquaculture-based livelihoods in coastal communities, by building on 
+the benefits derived from the Hazina Ya  Maendeleo ya  Pwani (HMP), a coastal development fund providing grant 
+support to demand driven community sub-projects which was established under KCDP. 
+
+ 
+Relationship to CPF 
+ 
+
+12. The proposed project is aligned with the Kenya Country Partnership Strategy (CPS) FY2014-2018
+16
+
+ as updated during 
+the Performance and Learning Review in 2017, whose overarching goal is sustainable reduction in poverty and 
+increased shared prosperity. Aligned both with Kenya’s Vision 2030 and its Medium-Term Plan, the CPS highlights three 
+priority areas of engagement: (i) competitiveness and sustainability – growth to eradicate poverty; (ii) protection and 
+potential – human resource development for shared prosperity; and (iii) building consistency and equity – delivering a 
+devolution dividend. The project would directly contribute to the competitiveness and sustainability pillar of the CPS 
+through development of a robust marine and coastal fishery economy, thereby addressing the government’s growth 
+and poverty reduction strategies. By focusing on the coastal region, the project is expected to contribute to economic 
+prosperity, employment, and livelihood of the coastal communities, where deep-rooted poverty and inequality are still 
+a major concern for the government. 
+
+ 
+ 
+
+                                            
+14
+
+ FISH-I is a regional Task Force to stop illegal fishing in the western Indian Ocean region 
+15
+
+ World Bank and United Nations Department of Economic and Social Affairs (2017). The Potential of the Blue Economy: Increasing Long-term 
+Benefits of the Sustainable Use of Marine Resources for Small Island Developing States and Coastal Least Developed Countries. World Bank, 
+Washington DC 
+16
+
+ World Bank. 2014. Country Partnership Strategy for the Republic of Kenya, FY2014–2018 (Report No. 87024-KE).  
+
+
+
+
+C. Proposed Development Objective(s)  
+ 
+
+ 
+ 
+The Project Development Objective is to improve management and increase value-addition of priority fisheries and 
+aquaculture, and to strengthen access to livelihoods for coastal communities in Kenya. 
+
+ 
+Key Results (From PCN) 
+
+ 
+13. The key project outcomes are: 
+
+ Index of captured indicator species (size, volume and fishing effort) (tbd) 
+
+ Number of fishing vessels in Exclusive Economic Zone with valid licenses (#)  
+
+ Total production of aquaculture in coastal areas (disaggregated by type of aquaculture) (metric tons) 
+
+ Coastal communities with access to livelihood activities (number) 
+
+ Increase value addition of catch of indicator species (tbd)  
+
+ Share of targeted beneficiaries with rating ‘Satisfied’ or above on project interventions (disaggregated by 
+gender)  
+
+ 
+ 
+D. Concept Description 
+
+ 
+14. The project objective will be achieved through targeted interventions grouped under the following proposed 
+
+components. 
+
+1) Component 1 – Governance and Management of Marine Fisheries and Aquatic Resources: Strengthening of 
+
+marine fisheries and aquaculture governance is a critical element to increasing economic benefits from marine 
+
+fisheries. This includes regulating fishing effort to enhance stock productivity and ensuring availability of reliable 
+
+fisheries information for management decision-making. The proposed component would: (i) strengthen marine 
+
+fisheries and coastal aquaculture governance; and (ii) minimize overfishing and destructive fishing practices, 
+
+maintain or improve stock productivity, and enhance the integrity of associated ecosystems. The expected 
+outcomes are: (i) improved institutional capacity of KeFS; (ii) improved FIS that supports management decision-
+
+making; (iii) fisheries management measures implemented for four priority nearshore fisheries; (iv) functional (at 
+
+least seven) joint Co-Management Areas (CMAs); (v) effective surveillance of Kenya’s EEZ; (vi) improved 
+
+understanding of the status of stocks and fishing effort in priority fisheries; and (vii) regulatory framework for 
+
+coastal aquaculture in place.  
+
+2) Component 2 – Promote Investment in Marine Fisheries and Coastal Aquaculture: Most of Kenya's marine 
+
+fisheries resources are close to, and in some cases beyond, maximum sustainable harvesting levels. Thus, in the 
+
+context of enhancing overall economic benefits, there are limited options to increasing production sustainably. 
+
+However, there is a greater scope to improve value addition of existing production, in particular through 
+
+improved post-harvest handling, product development and better access to markets, as well as through 
+
+aquaculture development. This potentially creates a space for private sector investment, which in turn will 
+
+generate opportunities for community-level income generation. The objective of this proposed component is to 
+
+Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your convenience. 
+Please keep it up to date whenever it is changed in the datasheet. 
+
+ 
+
+
+promote efficient utilization and value-addition of the resources by increasing investment in the marine fisheries 
+
+and aquaculture sector. The component objective will be achieved through facilitating sectoral value chain 
+
+analysis and identifying opportunities for investment in upgrading and/or new processing facilities and marketing 
+
+initiatives, targeting the full range of nearshore resources, industrial offshore tuna fisheries and aquaculture. Such 
+
+facilitation of private sector investment may include enhancing the business-operating environment, potentially 
+
+including relevant infrastructure improvements. The expected outcomes are: (i) improved fisheries-related 
+
+infrastructure; (ii) stable growth in the total economic value generated by sustainable use of the fishery and 
+
+aquaculture resources; and (iii) improved business environment for investments in the fishery and aquaculture 
+
+sector.  
+
+3) Component 3 – Strengthening Marine Fisheries and Aquaculture-based Livelihoods in Coastal Communities: 
+
+Outside Mombasa and tourism centers such as Malindi-Watamu, Diani and Lamu Island, rural coastal 
+
+communities in Kenya remain relatively poor, and would thus be a main target beneficiary group under the 
+
+proposed project. Even the coastal tourism economy is highly vulnerable to fluctuating global economics and 
+
+security challenges in East Africa; therefore, fisheries resources remain the critical livelihood resource for rural 
+
+coastal households in Kenya. Since nearshore capture fisheries resources are already at, or in some cases beyond, 
+
+maximum sustainable harvesting levels, as with private sector development under Component 2, opportunities to 
+
+strengthen coastal households lie more in fisheries value addition, aquaculture production and other enterprise 
+
+development, than in increasing effort on capture fisheries. Accessing these opportunities requires information 
+
+and knowledge sharing, skills development and better access to credit. Strengthening coastal livelihoods is an end 
+
+in itself. However, it also supports a positive feedback loop in terms of strengthening nearshore fisheries 
+
+management. Fishers with more secure livelihoods are better able to engage in fisheries co-management 
+
+initiatives, which, although in the short-term might involve reducing fishing effort and catches, in the medium to 
+
+longer-term allow stock recovery, improved fisheries productivity and further improvements to coastal 
+
+livelihoods. This proposed component would enhance the social and economic benefits that coastal communities 
+
+derive from sustainable use of living marine resources. Expected outcomes are: (i) increased income of coastal 
+
+households from project-supported enterprise development and value-addition initiatives; (ii) increased access to 
+
+and repayment of credit among coastal communities; and (iii) project beneficiaries are distributed by gender and 
+
+age in accordance with stated targets.  
+
+4) Component 4 – Project Management: This proposed component would ensure efficient and effective 
+
+implementation of project activities and fiduciary management. Project management including monitoring and 
+
+evaluation, and safeguards management activities are supported under this component.  
+
+ 
+ 
+
+ 
+ 
+    
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The Project investments will be located in the coastal counties of Kenya, including Mombasa, Kwale, Kilifi, Taita Taveta, 
+
+Lamu and Tana River. While the exact location of project interventions is not known at this stage, it is known that Kwale, 
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+ 
+
+     
+
+Kilifi, Taita Taveta, Lamu and Tana River counties are home to Vulnerable and Marginalized Groups (VMGs) who meet the 
+OP 4.10 criteria in terms of their language, culture, attachment to given lands and being subordinate to the more 
+dominant communities among whom they live. The livelihood strategies of the VMGs within these counties range from 
+nearshore fishing – the closer a community is located to the sea – to subsistence farming, livestock keeping and small 
+scale businesses, the farther a community is from the sea. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The overall project implementation would be carried out by a Project Coordination Unit (PCU) in the State Department of 
+
+Fisheries and Blue Economy (SDF-BE), Ministry of Agriculture, Livestock, and Fisheries. The SDF-BE has been newly 
+established, however, previously it existed as State Department of Fisheries and represented one of the implementing 
+agencies of the KCDP. The PCU would hire environmental and social safeguards staff to be responsible for overseeing the 
+implementation of safeguards instruments. The initial assessment finds the safeguards capacity of the future PCU to be 
+rather limited, therefore a technical assistance, capacity building and monitoring environmental and social risks and their 
+mitigation will be included as part of Component 4 design. 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Svetlana Khvostova, Environmental Safeguards Specialist 
+Lilian Wambui Kahindo, Social Safeguards Specialist 
+Ben Okindo Ayako Miranga, Environmental Safeguards Specialist 
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The initial screening revealed that the project is likely 
+to have negative environmental and social impacts, 
+taking into account that the project activities include 
+small and rehabilitation of large infrastructure, such as 
+reconstruction of fishing port facilities in Mombasa, 
+improvement of landing sites infrastructure, upgrading 
+fish markets, small scale fish-handling and processing; 
+and product development and packaging facilities. It is 
+proposed that the project is assigned EA Category B. 
+Given that the nature of the proposed project 
+activities, including their design and location are not 
+known at this point in time, the project would follow a 
+framework approach to managing safeguards. An 
+Environmental and Social Management Framework 
+would be prepared and publicly disclosed before 
+project appraisal. During project preparation, the 
+team will identify initial investments ready for 
+financing, for which subproject specific ESIAs (and if 
+necessary RAPs) will be developed and also disclosed 
+prior to project appraisal. Throughout the project 
+implementation, each subproject will be screened for 
+
+
+
+
+environmental risk and ESIA/ESMP will be prepared by 
+the PCU. The preparation of the ESMF and ESIAs will 
+be accompanied by a set of public consultations with 
+the project stakeholders, which will be documented in 
+the assessments. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Most of the marine coastal area is classified with some 
+form of protection, including several national parks. 
+Some of the marine protected areas are under 
+effective management as they were supported under 
+Kenya Coastal Development Project (KCDP).  However, 
+others are at various stage of degradation and in need 
+for targeted activities to enhance management 
+effectiveness including an active monitoring system. 
+The project will design its investments to avoid 
+negative impacts on environmentally sensitive areas 
+and will work with relevant stakeholders, such as 
+Kenya Wildlife Service, to enhance the management 
+effectiveness of protected areas including the 
+establishment of buffer zones and providing capacity 
+building to the communities. The ESMF will include 
+identification of risks and description of mitigation 
+measures specific to avoidance and minimization of 
+impacts on natural habitats. 
+
+Forests OP/BP 4.36 Yes 
+
+The Project may include some investments in some 
+areas with potential negative impacts on mangroves 
+while in other areas may benefits from restoration of 
+mangroves. The ESMF will include specific provisions, 
+including a TOR for a mangroves management plan, 
+for cases where such impact is unavoidable. Project 
+preparation will determine the potential impacts on 
+mangroves, however the large scale impact is not 
+anticipated. 
+
+Pest Management OP 4.09 TBD 
+ 
+
+Physical Cultural Resources OP/BP 4.11 TBD 
+
+It is unlikely that cultural resources will be impacted, 
+however, the presence of objects of cultural heritage 
+will be identified during screening as part of project 
+preparation. The ESMF will include a sample chance 
+find procedure to be adopted by the contractors. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+Five of the six coastal counties targeted under the 
+proposed MAFIDEV (i.e., Tana River, Lamu, Kilifi, Kwale 
+and Taita Taveta) are home to Vulnerable and 
+Marginalized Groups (VMGs) who meet the OP 4.10 
+criteria in terms of language, culture, attachment to 
+given lands and being subordinate to the more 
+dominant communities among whom they live, as well 
+as other Vulnerable Groups. Under the Kenya Coastal 
+
+
+
+ 
+The World Bank  
+Kenya Marine Fisheries and Socio-Economic Development Project (MAFIDEV) (P163980) 
+
+ 
+ 
+
+  
+Jun 06, 2017 Page 10 of 13  
+
+     
+
+Development Project (KCDP), a VMG Framework was 
+prepared followed by a comprehensive Social 
+Assessment (SA), which found that the livelihood 
+strategies of the VMGs within these counties ranged 
+from nearshore fishing, the closer a community is to 
+the sea – to subsistence farming, livestock keeping and 
+small scale trades, the farther a community is from the 
+sea. The findings of the SA resulted in the 
+development of a VMG Plan (VMGP) to mitigate risks, 
+which was disclosed in December 2015.  
+Activities under Component 1 of the proposed 
+MAFIDEV will include regulating fishing effort to 
+enhance stock productivity and ensure availability of 
+reliable fisheries information for management 
+decision-making. While this may result in medium- to 
+long-term benefits, in the short term, it might 
+negatively affect the livelihood strategies of the fishing 
+VMG communities. Since the exact location of project 
+interventions is unknown at this point in time and in 
+order to continue addressing the livelihood needs, 
+strategies and aspirations of the VMGs, the project will 
+prepare a VMG Framework. The VMG Framework will 
+build on the VMG Framework and SA developed under 
+KCDP, accommodate lessons learnt, and be publicly 
+disclosed in Kenya and in the World Bank Info Shop. 
+Furthermore, the proposed MAFIDEV will build on the 
+KCDP best practices and engage the VMGs at all stages 
+of the project including at the project design stage.    
+ 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Large scale involuntary resettlement and land 
+acquisition are not expected to be required for the 
+proposed types of investments, as the project expects 
+to include rehabilitation of existing infrastructure or 
+expansion of existing facilities. While resettlement of 
+households can be avoided, in most cases, some 
+economic displacement and restriction of access to 
+resources is expected to be an impact for the project. 
+Since the exact locations of project interventions are 
+unknown at this stage, a framework approach would 
+be adopted through which the project will develop a 
+Resettlement Policy Framework to outline the types of 
+compensation required for the project activities and 
+guide preparation of the Resettlement Action Plans 
+during project implementation. The project will also 
+develop a Process Framework (PF) to establish the 
+mechanism for compensation, participation, and 
+
+
+
+implementation of improved management of 
+nearshore and offshore fisheries. During project 
+preparation, the PCU will identify initial investments 
+ready for financing, for which subproject specific RAPs 
+will be developed (if necessary) and disclosed prior to 
+project appraisal. Throughout the project 
+implementation, each subproject will be screened for 
+resettlement risks and a RAP prepared by the PCU as 
+necessary. The preparation of the RPF, PF and RAPs 
+will be accompanied by a set of public consultations 
+with the project stakeholders, which will be 
+documented in these documents. Particular attention 
+will be paid to the identification of vulnerable groups 
+among the Project Affected Persons (PAPs), who may 
+require special resettlement assistance during project 
+implementation. Such PAPs and the nature of their 
+vulnerabilities as well as the necessary support to 
+them will be clearly documented in the RAP. 
+
+Safety of Dams OP/BP 4.37 No 
+ 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+TBD 
+The policy may need to be triggered, which will be 
+determined during project preparation. 
+
+Projects in Disputed Areas OP/BP 7.60 TBD 
+The policy may need to be triggered due to Kenya’s 
+maritime dispute with Somalia. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+May 31, 2018 
+ 
+
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+The safeguards related studies are expected to be carried out from October 2017 through January 2018.  More details 
+
+will be available after the first preparation mission which is likely carried out in Oct 2017. 
+ 
+ 

@@ -1,0 +1,1045 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Khyber Pakhthunkhwa Irrigated Agriculture Improvement Project (P163474) 
+
+ 
+ 
+
+  
+Jul 31, 2017 Page 1 of 21  
+
+     
+
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 30-Apr-2018 | Report No: PIDISDSC21925 
+
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Pakistan P163474  Khyber Pakhthunkhwa 
+Irrigated Agriculture 
+Improvement Project 
+(P163474) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA Oct 31, 2018 Feb 20, 2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing The Islamic Republic of 
+Pakistan 
+
+Department of Agriculture, 
+Government of Khyber 
+Pukhthukhwa, Department 
+of Irrigation, Government of 
+Khyber Pukhthunkhwa 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+To enhance water management, productivity and climate resilience of irrigated agriculture in project areas 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-NewFin1 
+ 
+
+Total Project Cost 183.00 
+
+Total Financing 183.00 
+
+of which IBRD/IDA 165.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 165.00 
+
+          IDA Credit 165.00 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 18.00 
+
+
+
+ 
+The World Bank  
+Khyber Pakhthunkhwa Irrigated Agriculture Improvement Project (P163474) 
+
+ 
+ 
+
+  
+Jul 31, 2017 Page 3 of 21  
+
+     
+
+          LOCAL: BENEFICIARIES 18.00 
+
+   
+ 
+
+Environmental Assessment Category Concept Review Decision 
+
+A - Full Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+ 
+
+  Other Decision (as needed) 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+1. Pakistan, the world’s sixth most populous country, is a lower-middle-income country 
+which has made significant progress towards macroeconomic and financial stability. Pakistan’s 
+per capita income has almost doubled and the share of the population living in poverty has 
+decreased by two-thirds over the last decade. Gross domestic product (GDP) growth reached 4.7 
+percent in 2016 and is expected to reach 5 percent in 2017, supported by construction and 
+manufacturing activities, increased private sector credit growth, increased reserves, low 
+inflation, continuing strong remittances, and an upturn in foreign direct investment related to 
+the China-Pakistan Economic Corridor.  
+
+2. Nevertheless, Pakistan faces serious development challenges, mostly in rural areas. 
+GDP growth has been slower than needed to provide for the level of jobs required for a young 
+and growing population. Inadequacy in the private sector environment, public sector 
+management, and implementation capacity will continue to hamper service delivery 
+performance. Thus, human development indicators continue to lag. In fact, Pakistan did not meet 
+the targets of most of the Millennium Development Goals (MDGs) by 2015. Rural poverty remains 
+about double the urban poverty (35 percent versus 18 percent in 2014) and decreases less 
+rapidly, given low growth of the agriculture sector, inadequate rural infrastructure and 
+connectivity to markets, weak governance and institutions, and limited access to finance. 
+
+3. Khyber Pakhtunkhwa (KP) has faced a number of crises in the past decade. With 
+geographical proximity and community-level ties to Afghanistan, KP has suffered from the fallout 
+of the conflict in Afghanistan, which has given rise to a precarious security situation as well as 
+prolonged political and social instability. Related hostilities and extremist violence have caused 
+far-reaching disruption to economic activity and inflicted extensive damage on private property, 
+livelihoods, and public infrastructure.  
+
+
+4. KP is also one of Pakistan’s less developed regions, with some economic and social 
+development indicators lagging behind the national averages. The province of KP accounts for 
+an estimated 10.5 percent of the country’s GDP and about 14.6 percent of the population 
+(approximately 30.5 million). The per capita income in KP is estimated to be 33 percent below 
+the national average, and despite a sharp and consistent decline in poverty, 27 percent of 
+households are estimated to be living below the national poverty line. Another relevant indicator 
+is the household size, which is strongly correlated with poverty in Pakistan. KP households 
+comprise 7.2 members on average, well above the national average of 6.3 members. Most of 
+KP’s population (85 percent) also lives in rural areas, where access to public services and income 
+generation opportunities is lower than in urban centers. 
+
+5. Climate change is expected to exacerbate extreme weather events in KP, thereby 
+increasing the vulnerability of people and assets to climate induced disasters. Since 2010 
+extreme events such as cloudburst over the catchment areas of Indus and its tributaries, have 
+frequently occurred during the annual monsoon season. This often leads to flash floods and 
+landslides, causing damages across several sectors, including agriculture, livelihoods, 
+infrastructure, transport and communications, and housing. Since 2010, KP has been facing 
+extreme precipitation events, in the Indus catchment areas, particularly during the annual 
+monsoon season. This results in swelling of rivers, causing localized and major floods in low-lying 
+areas. KP is also facing an increased number of glacial lake outburst floods (GLOF) due to 
+increased temperatures and intense precipitation. Being an upper riparian province in Pakistan, 
+KP receives the shortest lead times for early warnings on climate induced hydro-meteorological 
+disasters. As a result of the 2010 floods, KP suffered US$ 1.1 billion in damages, which included 
+damages and losses of US$ 96 million1 to the agriculture sector in the province. 
+
+B. Sectoral and Institutional Context 
+
+6. Agriculture is important for Pakistan and the Government has placed agriculture 
+development and water efficiency at the forefront of its development agenda. Agriculture2 
+remains the second largest economic sector in Pakistan, contributing about 21 percent to the 
+national GDP and employing approximately 42 percent of the labor force. The sector is also the 
+largest contributor to export revenues with about 75 percent share from exports of primary and 
+processed (mostly cotton textile) goods. The Government acknowledges that sustaining an 
+annual GDP growth rate of 6 percent or more will require greater focus on agriculture and 
+improved water resources planning, governance, and resilience. The Government is pursuing 
+multiple initiatives to boost efforts to increase agricultural and water productivity, promote 
+efficient use of its scarce water and precious land resources, and incentivize private sector 
+investment in these areas for economic growth and shared prosperity.  
+
+7. The contribution of agriculture in the KP economy, however, is less prominent, although 
+it employs a high percentage of its labor force. KP’s contribution to the country agriculture GDP 
+
+ 
+
+is the smallest of all provinces at 7 percent, compared to its share in total GDP of 11 percent. Also 
+within KP, agriculture accounts for only 14 percent of the provincial GDP, representing the 
+smallest share of all provinces. The sector accounts for 37 percent of labor force employment3 
+and 11 percent of the total household income. The total cultivated area of the province is 1.6 
+million ha (7 percent of the country’s total), half of which is rain fed. It produces about 5 percent 
+of the country’s total wheat, 2 percent of rice, 17 percent of maize, 8 percent of sugarcane, 16 
+percent of barley, 4 percent of gram, 3 percent of rapeseed and mustard, and 75 percent of 
+tobacco. Its share in the country’s total livestock population is about 6 percent in cattle, 2.5 
+percent in buffalo, 2 percent in sheep, and 8 percent in goats. KP is currently facing a food deficit 
+and depends heavily on imports from other provinces, especially from Punjab, for important 
+commodities like wheat (64 percent), rice (74 percent), milk, meat, sugar (80 percent), and 
+vegetables (90 percent) to complement its production. The answer to this conundrum of 
+agriculture may lie in the under exploitation of its natural resources, as the sector grew at a 
+decent rate of 3.1 percent to 7.3 percent in the 2010–2015 five-year period, especially after the 
+active insurgency period ended. 
+
+8. KP’s land and water resources are under exploited. Of the total culturable4 land of 2 m 
+ha., 1/3rd is irrigated, 1/3rd is rainfed and 1/3rd is culturable waste. Water allocated to KP under 
+the National Water Apportionment Accord (WAA) of 1991 is 8.78 million acre feet (MAF) but due 
+to current carrying capacity of the aging infrastructure and lack of new infrastructure the 
+province is only able to withdraw about 68 percent (5.97 MAF) of its share. Also, 14 percent in 
+floodwater, under the accord, is not fully used. Additionally, all water resources freed up from 
+the WAA’s ambit, for the province, are not yet fully used. These include waters from schemes not 
+exceeding 5,000 acres above elevation of 1200 ft. (Survey of Pakistan Datum [SPD]) and waters 
+from Kurum/Gomal/kohat basins located in the highly-underserved areas of Kohat, Hangu, Karak, 
+Bannu, Lakki Marwat, and D.I. Khan Districts. Thus, one-third of KP’s arable land depends on 
+rainfall in a climate that is semiarid to arid. Another one-third (1.08 million ha) of KP’s arable 
+land, called culturable waste land, is out of cultivation due either to water logging, non-
+availability of irrigation water, salinity, unlevel land, lack of manpower, funds shortages, and so 
+on. Thus, more land and water resource development is desperately needed for KP’s food 
+security, import substitution, and economic development especially of the lagging areas. That’s 
+why feasibility studies are included in the project design to prepare future investments in water 
+resources development. 
+
+9. The irrigation infrastructure in KP suffers from deferred maintenance5. KP canals are 
+aging. Some are older than 100 years. As an upper riparian province with hilly terrains and steep 
+slopes, KP’s canals suffer from frequent bank breaches, bed erosion and scouring due to floods, 
+
+ 
+3 28 percent of male and 77 percent of female (mostly rural); 44 percent of rural and 6 percent of urban labor force is engaged 
+in agriculture. The labor force participation is 80 percent male and 20 percent female (21 percent in rural and 12 percent in 
+urban areas). 
+4 According to bureau of statistics-Pakistan, culturable land includes cultivated and culturable waste lands and 
+
+cultivated area includes rainfed and irrigated lands. 
+5 De-siltation; oiling & greasing; repairing leakages, damaged sections of canal prism, cross drainage structure and outlets 
+
+
+
+sliding and high velocities in addition to the normal wear and tear of a canal. Due to the poor 
+condition of the canals, the system’s delivery performance is poor and the leakages/wastages 
+(estimated at 25%) are causing water logging. Unlike Punjab, the reliance on ground water is 
+minimal in irrigated areas, therefore water lost would be wasted and even would cause water 
+logging and salinity. The silt deposition raises the level of the command area for which canal bed 
+needs to be raised to continue providing the required volumes of water. 
+
+Besides the canals, there are some 4,000-km long surface and subsurface drainage system in KP 
+that was built to flush out the excess water to keep the fertile land in production in the central 
+districts. However due to lack of funds, this infrastructure is also suffering and, the carrying 
+capacity of the drainage system has diminished and large tracts of precious fertile lands are 
+becoming water logged and saline again.  
+
+To keep pace with the exceptional level of O & M needs of the KP irrigation and drainage system, 
+larger amounts of funds are needed. However, according to the KP Irrigation Department, only 
+1/3rd (PkR 500 m vs PkR. 12,00 m for the last 10 years) of the needs are provided. Water charges 
+(Abiana) collections in the province has been low at 30% of the total assessed, mainly because of 
+the limited paying capacity of the large number of small landholders and low flat rates - PKR 
+300/year/acre. Besides, its own system, the department also must, at times, shoulder the 
+rehabilitation of civil canals which are community owned and do not pay any water charges. 
+
+This practice of ‘build neglect rebuild’ costs the exchequer dearly6 which are oftentimes met from 
+the development budget. 
+
+Removing this backlog of rehabilitation as well as modernization is important to improve the 
+system service capability, reduce water wastages/leakages and water logging and safeguard the 
+system sustainability.  
+
+10. In KP, as reported by the Irrigation Department, 10-15 percent of the canal outlets are 
+tampered and /or illegal. This creates in-equity among growers in the system and affects the 
+productivity of the farmers mainly at the tail end. An understanding has been reached with the 
+Department to resolve such in-equities during the rehabilitation of the system. 
+
+11. Historically, the collaboration between Irrigation and Agriculture Departments, in KP, is 
+weak. Irrigation Department is responsible for development of dams, canals and drains, its 
+functionality and O&M; delivering water to farmers at the outlet/farmgate (in watercourses); and 
+assessment and collections of water charges. The Agriculture Department is responsible for 
+development and rehabilitation of watercourses, promoting water conservation technologies 
+and training farmers in good agriculture practices. Due to poor coordination, the benefits of up 
+and down stream investment do not consolidate at the farm level. The Baizai Irrigation scheme 
+is a good example. The Irrigation Department constructed the upstream delivery system with 
+capacity for 25,000 acres but since no provision was made in the scheme budget for the 
+
+ 
+6 According to a global estimate, a dollar deferred maintenance costs US$7 in repair/rehabilitation 
+
+
+construction of watercourses, the agriculture department could not do so and after more than 2 
+years the farmers are unable to utilize the water fully. This collaboration has started to improve 
+in some very new schemes and this project will contribute to improving this collaboration further. 
+
+12. In KP, as in the rest of the country, O & M of the watercourses, that brings water from 
+canals to the farms, is a challenge on the daily basis. These are earthen structures owned and 
+managed by farmers. The average length of a watercourse (including branches) is about 3 km, 
+serving an average area of 150 acres with an average number of 75 shareholder farmers. Every 
+farmer has a turn, once a week, to take his share in proportion to his landholding from the 
+watercourse. Every time a farmer diverts his/her share, loose earth/mud and stone mixture are 
+gathered from the surrounding fields to plug and unplug the farm gate and watercourse at the 
+turnouts. Preventing leakage from these structure is a continuous battle for the farmer. Since 
+this channel must pass near each farm, there are many turns and branches through which water 
+passes. This is an important cause of spillage and leakage for water. Being earthen, many 
+different weeds/shrubs/trees start growing on the banks of the watercourse. These often 
+become a source of blockage due to its own biomass and capturing silt load causing the water to 
+overflow and causing ponding near the watercourse-sometimes becoming mosquito breading 
+points. Another source of damage are rodents and grazing animals. This necessitates recurrent 
+seasonal cleaning by farmers. Since farmers are poor and cannot afford to hire labour, they do it 
+mostly themselves. This O & M of the watercourse draws heavily on the farmers’ time and labour 
+-and also cause wastage of his precious water estimated up to 40%. Being earthen, it is easier to 
+cut and steal other farmer’s share that can become source of heavy rifts in relations. Therefore, 
+it is important to support farmer with watercourse improvement i.e. lining of 507% length, 
+installing all turnout structures, construction of crossing culverts, washing pads, and animal 
+drinking wallows. It is estimated that this investment helps the farmer save 75% labour time, 15 
+percentage point of water wastage, water travel time by 50%, in-equity, theft control which 
+results in 15-20% crop yield increase, 30% cropping intensity and ultimately increased net 
+incomes. In addition to these benefits it also helps in saving energy costs and precious ground 
+water on tube-well water courses. 
+
+13. Field application of water is highly in-efficient in KP as in other parts of the country. Due 
+to the widespread practice of flood irrigation and insufficient knowledge of good irrigation 
+agronomy practices, water losses are highest at the field level where application efficiency is as 
+low as 65–70 percent. Resultantly, crop yields and cropping intensities are low. Investments to 
+promote water conservation technologies such as high-efficiency irrigation systems (HEIS) and 
+laser-based precision land leveling (PLL) on-farm are of paramount importance for saving losses 
+on-farm. HEIS is estimated to increase field application efficiency by 25 percentage points to 95% 
+and PLL helps save water by about 30% resulting in increased yields and incomes. 
+
+14. In KP, farmers’ productivity is generally low. Most crop yields in KP are low compared to 
+other provinces and progressive growers. This could be attributed to large number of (80%) small 
+
+ 
+7 So far the department lined 30% but the new findings and demand from the farmers suggest to increase it to 50% 
+
+
+
+landholdings lacking scale and purchasing power; labour shortage due to out migration to cities 
+and abroad and insufficient mechanization to off-set this shortage; shortage of skilled labour; 
+insufficient private sector participation and services; lack of financial services; weak public sector 
+research and extension services. 
+
+15. KP has pockets with unique agro-climatic conditions, ideal for horticulture production. 
+These include, among others, citrus, dates, pome fruits, potato, tomato, and onions. However, 
+the current share of the subsector in the total cropped area is only 6 percent. With improved 
+access roads to the main domestic markets and neighboring Afghanistan and air links to the Gulf 
+and Central Asian countries, KP could potentially further capitalize on this comparative 
+advantage.  
+
+16. Postharvest losses are high. Lack of postharvest technology and management and 
+modern cool chain infrastructure and inappropriate storage, packaging, and transportation 
+facilities are major bottlenecks specially for perishable commodities in KP. Postharvest losses of 
+35 percent to 40 percent for fruits and vegetables remain one of the most pressing problems, 
+mostly given the lack of farmer’s awareness about scientific handling of farm produce. 
+Inappropriate storage facilities, both in the public and private sector, register the highest losses 
+during handling operations. Horticulture products are mostly stored in shallow pits covered with 
+farm wastes without ventilation, without proper sanitation, and without preventive measures for 
+insect and disease control. The concept of a cool chain network is in its infancy and integrated 
+cool chain networks are mostly lacking. The existing cold storage facilities are unevenly 
+distributed across the country with Punjab dominating with 512 units, while KP only had 16 units 
+in 2009 (Planning Commission 2009). The cold storage facilities are based on old technology that 
+do not differentiate for unique temperature requirements of crop species. Moreover, most of 
+the existing packing facilities do not measure up to international standards. The types of 
+containers used for transporting and storing products vary from place to place, but a common 
+practice is to use whatever container is available. This causes the produce to be pressed hard in 
+the crates or carried in oversized containers, causing huge loss.  
+
+17. In addition, the agricultural marketing infrastructure and system is inadequate and 
+lacks market responsiveness. Many wholesale markets (mandis) were built years ago, and are 
+unable to cope efficiently with increased transactions. Serious traffic congestion, insufficient 
+space for efficient movement of products in and out, inadequate storage, and improper 
+management are some of the major factors for increased marketing costs and physical losses of 
+farm products. Hygiene conditions, particularly in the case of fruits, vegetables, and livestock, are 
+quite dismal. Excessive domination of commission agents, lack of physical and allied facilities, 
+non-involvement of growers and consumers in market committees, and an ineffective market 
+information system are some of the inherent problems of these markets and are putting farmers 
+at a disadvantageous situation while selling their produce. In addition, the lack of planning and 
+communication between demand and supply result in gluts at one time and shortages at other 
+times, causing severe price fluctuations and loss of farmer incomes.  
+
+
+
+18. The level of processing and value addition of agricultural products is very low in 
+Pakistan. Only 3 percent of the total production of fruits and vegetable and less than 10 percent 
+of milk are processed in the country (Planning Commission 2009). There exists enormous 
+potential of adding value to various fruits and vegetable, such as freezing, drying, dehydrating, 
+or crushing into powder, juice, pulp, oil, paste, sauce, chips, pickles, chutney, and jam. The culture 
+of value addition through processing and diversification is still at infant stages in Pakistan. This 
+small amount of processing leaves large opportunities and could also absorb some of the 
+seasonal glut and extend the life of the raw material. 
+
+19. The new government has increased the budget allocation to the sector and shifted its 
+policy from higher productivity to higher profitability for smallholder farmers. The KP 
+Government increased the budget for its annual development plans to US$62 million for 
+agriculture and US$71 million for irrigation in FY17, which is still well below the needs. Key 
+priority areas of the new government, as highlighted in the KP Integrated Development Strategy 
+of 2014–18 and the KP Agriculture Policy and Strategy—a ten-year perspective (2014–24), are 
+improving, among others, production, processing, and marketing, thus improving extension 
+services; diversification into high-value agriculture (horticulture, livestock, dairy, and 
+aquaculture); adaptation to climate change; on-farm water management (OFWM); development 
+of new water resources; rehabilitation/modernization of the existing irrigation and drainage 
+infrastructure; and governance. 
+
+20. The World Bank’s last engagement with KP in the sector was for about six years from 
+2001 to 2007 for a total of US$21 million made mainly in restoration/rehabilitation of the 
+irrigation network from the secondary to the tertiary level. Major efforts were also made, in 
+support of the national drainage program (NDP), in devolving the management to farmers, with 
+powers to collect water charges and keep 40 percent for managing the operation and 
+maintenance of the system from the secondary level downward. However, this outcome could 
+not be sustained for long and has been rolled back by the Government. 
+
+C. Proposed Development Objective(s)  
+
+21. To enhance water management, productivity and climate resilience of irrigated 
+agriculture in project areas. 
+
+Key Results (From PCN) 
+
+22. The project outcomes will be measured with the following indicators: 
+
+a) Area provided with improved irrigation and drainage services; 
+
+b) Increase in agriculture productivity (yield); 
+
+c) Increase in areas cultivated for High-Value Agriculture; 
+
+d) Area under climate-resilient technologies and practices (resilience); 
+
+e) Total number of project beneficiaries (including number of female beneficiaries) 
+
+
+D. Concept Description 
+
+23. The project will contribute to the development of the agriculture sector by working on (a) 
+water as an important input and limiting factor to productivity and overall production (b) training 
+and technology for improving productivity, post-harvest management and value addition. More 
+specifically, it will support six key priority areas of the government strategy for the sector, that 
+is, improving performance/functionality of the delivery system and reducing water wastages; 
+making water allocation/distribution equitable; increasing financial sustainability of the irrigation 
+system management; increasing climate resilience; increasing productivity and promoting high 
+value agriculture (production, processing and marketing); and strengthening the department for 
+improved service delivery and governance.  
+
+24. To consolidate the benefits of the project, priority will be given to schemes where all the 
+three components’ interventions can happen together. In this way, the two departments of 
+agriculture and irrigation will work in close collaboration, hitherto weak.  
+
+25. The project will provide climate change co-benefits derived from: (a) adaptation, by changing 
+irrigation management systems and practices to reduce vulnerability to climate change, by 
+reducing water wastages and its negative externalities during delivery and by reducing losses 
+during field application and crop growth stages; and by promoting innovative resource 
+management practices to increase resilience, expanding the use of crops and crop 
+mixes/rotations less vulnerable to climate variability, and expanding the use of protected 
+agriculture and drought/heat resistant varieties; and (b) mitigation, by promoting sustainable 
+water management practices that promote water use efficiency and by promoting agricultural 
+intensification using higher yielding varieties, carbon sequestration species and cropping 
+patterns, and replacing traditional sources of energy. 
+
+26. Woman will be particularly encouraged and targeted to derive maximum benefits of the 
+project and play role in the implementation of the project. The project will also ensure to 
+safeguard the interest and needs of woman and marginalized groups e.g. providing for protected 
+washing pads and animal drinking willows, and avoiding technologies and practices that increases 
+drudgery for woman. Further, contractors, consulting firms and implementing partners of the 
+project will be sensitized on gender issues and encouraged to achieve gender balance in their 
+teams. The operational manual will spell out gender aspects and protocols for mainstreaming 
+gender within project interventions.  
+
+27. The project will be open to the entire province and will be completed in six years. The 
+project will have the following components: 
+
+Component A: Irrigation System Management (IDA $52 m US) 
+
+This component will have the following three sub-components. 
+
+
+
+28. Sub-compoenent-A1: Rehabilitation and reduction in in-equities: This sub-component 
+would support the Irrigation Department to overcome the backlog of rehabilitation to fully 
+restore the functionality/performance of the irrigation system; reduce the excessive and wasteful 
+losses estimated at 25% by 7 percentage points; and increase economic/service life by at least 
+10-15 years. This will include support to both the government and civil (community owned) 
+canals systems. The government has prepared a prioritized list of 22 schemes, costing about 
+USD140 million, for rehabilitation. The project, during the preparation, will conduct a diagnosis 
+of the KP irrigation system, including the list provided by the government to, identify the schemes 
+to be support by the project. The criteria for selection would include: vulnerability to climate 
+change impacts; acreage and number of beneficiaries; potential for high value agriculture; 
+poverty levels in the area served; and cost effectiveness (cost per unit area served). A Project 
+Preparation Facility (PPF) has been discussed with the client for preparing detail designs and 
+bidding documents for the selected schemes. The rehabilitation works would, usually, include 
+flood eroded beds and banks; sunken earth filled sections; and damaged hydraulic structures like 
+100ft up and down stream of the fall structures, off-taking points of minors and sub-minors, 
+footings of overhead bridges; passages through settlements and deep cut areas; and catchwater 
+drains for flushing flood water. Before rehabilitation work begins, any outlets tampered and/or 
+illegally installed will be removed. 
+
+29. Sub-component-A2: Institutional strengthening & Reform: To avoid buildup of further 
+backlog, an understanding with the GoKP will be developed to increase allocation of recurrent 
+budget for the O&M of the system by lifting the current cap that is in place for the last 10 years. 
+This could be informed by conducting a study on the cost of neglecting (under funding) the O&M 
+of the system. However, to make it sustainable in the long run, support will be provided to the 
+department to improve its revenue generation capacity by improving collection of the water 
+charges. The investments of component C, should help increase the farmers’ capacity to pay 
+water charges by improving their crop productivity and switching to high value crops.  
+
+Further support will be provided for training of staff; developing asset management plan; and 
+developing water budgets and water balances estimates for the six-major government canal 
+systems.  
+
+The KP government has planned to develop the Provincial Integrated Water Resources 
+Management Policy with support from the Bank managed MDTF funded Governance and Policy 
+Support project. Support under this sub-component will be re-aligned with the directives of this 
+policy.  
+
+30. Sub-compoenent-A3: Future investments preparation: To increase availability of water for 
+irrigation, households and livestock; support ground water recharge; reduce intensity of floods, 
+siltation downstream by tapping hill torrents and splash floods in the rainfed areas, the project 
+will finance preparation of feasibilities, detailed designs, and bidding documents for selected 
+dams and irrigation schemes. The scheme selection will be based on criteria of number of farmers 
+and acreage benefiting and cost effectiveness and poverty levels in the area served. 
+
+
+Component B: On-farm Water Management (IDA $51 m US) 
+This component will enable the Agriculture Department to support farmers including woman, to 
+rehabilitate/improve existing and construct new watercourses; adopt water conservation 
+technologies on their farms; and in training its staff. The component design benefits from lessons 
+drawn from Sindh and Punjab Irrigated Agriculture Improvement projects. These include a) 
+developing good database of watercourses with information for length, no. of shareholders, legal 
+status; inclusion of tube-well watercourse; lining 50% length and all turnouts; seasonal work 
+windows; monitoring dashboards; estimation of average costs; openness to the entire province 
+b) empowerment of the farmers to select and negotiate price of the HEIS and PLL equipements 
+with suppliers; training of farmers in crop agronomy; fixing maximum cap on project support per 
+unit, c) ensuring geographical spread for laser land leveling promotion etc. The component will 
+also finance the extended presence of consultants/firm for engineering supervision of activities 
+to be implemented by the field teams of the Department. This component will have the four sub-
+components, as follows; 
+31. Sub-component-B1: Rehabilitation of existing watercourses: The rehabilitation/improvement 
+works will be done on existing watercourses on government and civil canals; springs and tube-
+well irrigated areas. This work will include lining of 50% length from the offtake point including 
+selected critical sections; alignment; desilting; re-sectioning; installing all turn out structures; 
+crossing culverts, washing pads and animal drinking willows. Farmers will contribute 20% of the 
+total cost in the shape of skilled and unskilled labour and form themselves into water users’ 
+associations with at least 70% farmers’ representation.  
+
+32. Sub-component-B2: Construction of watercourses network: Construction of new 
+watercourses network will be done in some new schemes areas where the Irrigation Department 
+has already completed the upstream irrigation infrastructure but not the watercourses due to 
+which farmers are unable to utilize water. The project support will include farmer’s mobilization 
+and their formation of WUAs; engineering design, BOQ & cost estimates for construction of the 
+full length of earthen watercourse; lining of 50% length preferably from the off-taking point and 
+other critical sections; construction of all turn out structures, crossing culverts, washing pads and 
+animal drinking points. Here again farmers will contribute 20% of the total cost in the shape of 
+skilled and unskilled labour and form themselves into a water users’ association where at least 
+70% farmers become members. 
+
+33. Sub-component-B3: Promote water conservation technologies: To promote on-farm 
+water conservation, technologies like HEIS and precision laser land leveling (PLL) will be 
+supported on a cost sharing basis. These technologies will particularly suit at the tail end and 
+tube-well irrigated areas. Farmers will be trained in growing high value crops under HEIS to make 
+the use of technology economically viable. 
+
+34. Sub-component-B4: Capacity building & institutional strengthening: The project will 
+finance training of staff in new improved methods of on-farm water management and data and 
+studies on the watercourses network. 
+
+
+Component C: Agriculture Productivity Enhancement and Value-Addition (IDA 
+$50 m US)  
+The objective of this component is to improve the productivity, diversification, harvest and post- 
+harvest management and processing & value addition in agriculture (crops, horticulture, fisheries 
+and livestock sub-sectors). This objective will be achieved by i) strengthening public sector 
+institutions (e.g., research and extension institutions) to solidify the foundation for sustained 
+sectoral growth; i) investing in capacity building and iii) introducing modern technologies to 
+farmers; and iv) support agribusinesses/ag-entrepreneurs for higher value addition through agro-
+processing and commercialization services. This component addresses the climate change 
+vulnerabilities to the agriculture sector, as set out in the project’s vulnerability context. All the 
+activities under the Component will adequately reflect important CSA areas of productivity, 
+adaptation and mitigation as highlighted in Pakistan CSA profile important for agriculture in 
+Northern Pakistan. Considering that more than 70% of Pakistan’s female workforce is employed 
+in agriculture, there is a special need to ensure all services provided by the Component will be 
+more gender sensitive. The lessons drawn from similar projects, for example, the Sindh 
+Agriculture Growth Project, have been incorporated to the Component design. The component 
+will also finance the extended presence of technical consultants/firm to assist with planning and 
+management of the Component. 
+
+35. Subcomponent C.1: Modernizing public extension service and agricultural research (US$14 m). 
+The sub-component will finance modernizing and rehabilitating extension and research facilities 
+which have been identified as critical for the KP agriculture sector, such as the agricultural 
+research centers, training centers and laboratory facilities etc. The subcomponent will also 
+finance information and communication (ICT)-based technologies and services for delivery of 
+agricultural extension and marketing for farmers and value chains, such as developing mobile 
+phone APPs and other ICT tools (e.g., 24/7 call center, interactive websites, mobile training and 
+demonstration centers etc.). The subcomponent will also support studies and data on the sector 
+and training of staff. 
+
+36. Subcomponent C.2: Capacity building of farmers (US$6 million).  The project will finance 
+training and capacity building for famers, which will be based on training needs assessment 
+carried out by the departments and their technical assistance providers. Training topics will 
+include, but not limited to, good agricultural practices (including those specifically related to 
+CSA), agribusiness management, negotiating in the market, basic accounting, and business plan 
+development skills, etc. This will be done through demonstration plots, public information 
+campaign, face-to-face training (farmers field school), domestic study tours and exposure visits 
+etc.  Special attention will be given to climate smart agriculture related knowledge.    
+
+37. Subcomponent C.3: Introducing modern technologies to farmers (US$20 million).  The project 
+will finance investments to increase productivity, climate resilience and on-farm pre-and post-
+harvest management of crops, horticulture, fisheries and livestock sub-sectors through 
+technology (e.g., farm machinery, equipements, seeds, breeds, and infrastructure etc.).  This 
+
+
+
+support will be provided on a cost sharing basis with 70% paid by the Project and 30% by 
+beneficiaries on a first come first serve basis, with ensuring regional equity. 
+
+38. Subcomponent C.4: Support agribusinesses (US$10 million). This sub-component will support 
+agribusinesses (SMEs)/agro-entrepreneurs for improved services, commercialization and 
+processing & value addition. This will include businesses like seed companies, nursery growers, 
+fish hatcheries, animal semen producers, farm machinery & equipements providers; reefer 
+transporters, chillers, ventilated & cold storages, pack-houses including graders, sorter; slaughter 
+houses, pulpers, oil extractors, de-hydrators, tanners; trading centers like rehabilitation of fruit, 
+vegetable, livestock and grain wholesale markets; introducing digital trading platforms and 
+contract growing etc. The project will provide a competitive grant program with a transparent 
+and efficient review and selection process. The grant size will be up to US$100,000, with 30% 
+matching fund from applicants. The grant will be released in three tranches based on verified 
+progress of proposal implementation. 
+
+39. The component will provide climate change co-benefits derived from: (a) adaptation, by 
+promoting innovative resource management practices to increase resilience, expanding the use 
+of crops and crop mixes/rotations less vulnerable to climate variability, and expanding the use of 
+protected agriculture and drought/heat resistant varieties; and (b) mitigation, by promoting 
+agricultural intensification using higher yielding varieties, carbon sequestration species and 
+cropping patterns, and replacing traditional sources of energy.. 
+
+Component D: Project Management and Implementation Support (IDA US$12 
+million) 
+
+40. This component will support the establishment of the project management structure. This 
+will include project administration, human resources including woman staff, procurement, and 
+financial management; monitoring and evaluation (M&E); communications management; social 
+and environmental safeguards management; and grievance redress and community feedback 
+mechanisms particularly channeling the voices of woman beneficiaries.  
+
+41. Citizen Engagement (CE): The populations targeted in the citizen engagement mechanism 
+of the proposed project will be farmers and agribusiness owners receiving support to increase 
+their yield/productivity and the commercialization of their products. The CE mechanism will 
+assist the extension service and government officials in making more informed decisions about 
+resource allocations, training and technology needs of farmers and agribusiness owners. Overall, 
+the CE mechanism will enhance the successful implementation of the project, and guide the 
+government in preparing better programs for farmers. A detailed citizen engagement mechanism 
+and grievance redressal mechanism will be elaborated during the preparation phase of the 
+project, and will be included in the project implementation manual. 
+
+42. Gender. The project design and approach will reflect the need for taking account of the 
+gender dimension and risks associated with knowledge and technology transfer. Project will be 
+designed to ensure that it provides equal opportunities for women to participate in project 
+
+
+
+activities. Climate-resilient agricultural technologies will be screened to ensure that they are 
+gender-neutral. A comprehensive social assessment has been initiated as part of project 
+preparation and is expected to result, among others, in a Gender Action Plan. 
+
+   
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The project will be implemented in various districts of KP. The land cover of KP changes from north to south. The 
+
+Province sits primarily on the Iranian plateau and comprises the junction where the slopes of the Hindu Kush mountains 
+on the Eurasian plate give way to the Indus-watered hills approaching South Asia. Geographically, the province could be 
+divided into four agro-ecological zones on the basis climatic conditions covering temperature, rainfall, altitude and 
+topography as developed by Environmental Protection Agency of KP:  
+(a) Zone A – Northern Mountains covering districts of Buner, Shangla, Upper and Lower Dir, Swat and Chitral.  
+(b) Zone B – Sub Humid Mountain covering districts of Haripur, Batagram, Mansehra, Abbottabad, Kohistan and 
+
+Torghar.    
+(c) Zone C – Central Valley Plains covering districts of Peshawar, Mardan, Charshada and Nowshera. 
+(d) Zone D – Piedmont Plains (including Suleiman) covering districts of Bannu, karak, Lakki Marwat, Tank and DI Khan.  
+The snowcapped mountains of Chitral and Swat have low vegetative cover above 4,000 meters. Mountains having 
+
+altitude less than 4,000 meters have alpine forests (up to 3,300 meters). Altitudes between 3,000 meters to 1,500 meters 
+have conifer and between 1,500 up to 900 meters have sub-tropical forests. These forests and plains provide habitat to 
+98 species of mammals and birds including endangered species of snow leopard, brown bear, ibex, etc. The protected 
+areas notified in KP includes 6 national parks, three wildlife sanctuaries, 38 game reserves, 90 community game reserves, 
+16 private game reserves, 2 wildlife refuges and 8 wildlife parks. The combined area of all protected areas is 666,340 ha. 
+The project activities are located in parts of Zone C valley plains and Zone D piedmont plains, which are are mostly used 
+
+for agriculture and livestock grazing. Indus River and its tributaries are the main source of water for agriculture in the 
+Province. Other major rivers that crisscross the province are  Kabul, Swat, Kunar, Siran, Panjkora, Bara, Kurram, Dor, Haro, 
+Gomal and Zhob. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The KP Government will be the implementing agency. The last time these two departments, Agriculture Department and 
+
+Irrigation Department  implemented a World Bank project was in 2001-2007, and there the Irrigation Department had a 
+secondary role. This leaves much desire for familiarity with and improvement in the understanding of the Bank safeguard 
+policies. Therefore, safeguards capacity support, handholding and training will be provided throughout the project 
+implementation to ensure that they have adequate capacity to respond to project safeguard issues. 
+ 
+A Project Coordination & Management Unit (PCMU)—led by the Agriculture Department, will be established to manage 
+
+implementation and coordination. Project Implementation Units one each in Agriculture (or two in its sub departments) 
+and Irrigation Departments will be established to supervise technical implementation in the field. The PCMU will have a 
+senior Safeguards Specialist as part of the PCMU Team. PIUs  at the two departments level will be supported by individual 
+environment & social safeguards consultants. These consultants will work closely with the engineering supervision 
+consultants, and will provide input into the project design as per safeguards instruments (such as ESMF, RPF, RAP, etc.). 
+The senior Safeguards Specialist at the PCMU level will be responsible for the overall implementation and performance of 
+the safeguards documents, while the day-to-day screening, monitoring and implementation will be the responsibility of 
+
+d specialists at the PIU levels. The project will have a Project Implementation Committee (PIC) co-chaired by 
+Secretary Agriculture and Secretary Irrigation and membered by heads of the PIUs, Chiefs of Water, Agriculture & 
+Livestock from P & D, to review the progress of project components. The senior Safeguards Specialist at the PCMU level 
+will be a part of the PIC. All project implementation and supervision consultant firms will be required to have adequate 
+social and environmental safeguards specialists. The contractors for civil works will implement Contractor ESMP, including 
+all necessary guidelines on labor health, safety and environment.  
+ 
+Project launch workshop will be organized by the task team once the project becomes effective and will include a 
+
+detailed session on safeguard implementation arrangements. 
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project activities involve irrigation infrastructure 
+improvement, on farm water management schemes 
+and production and post-production support to 
+farmers and market actors. These activities are 
+expected to cause some adverse environmental and 
+social impacts. Overall, most of the impacts are 
+expected to be during the construction phase and are 
+likely to be temporary and reversible. Consequently, 
+the policy has been triggered. Since project will also 
+finance feasibility studies for dams, the scale and 
+capacity of which is currently unknown. Based on 
+existing information, the project has been categorized 
+as Category A.   
+ 
+The irrigation infrastructure improvement will overall 
+improve irrigation efficiencies and help in ensuring 
+availability of designed water flows at the tail-end of 
+watercourses. However, improved infrastructure will 
+not change the designed water allocations.Typical 
+negative impacts associated with civil works financed 
+by the project include land acquisition and 
+resettlement; noise, air, soil and water pollution due 
+to dust and exhaust emission and other wastes; 
+vegetation clearance; damage to the existing 
+infrastructures such as rural road, temporary water 
+stoppages for irrigation, community and worker health 
+and safety risks, etc. During operation, some potential 
+
+
+
+ 
+The World Bank  
+Khyber Pakhthunkhwa Irrigated Agriculture Improvement Project (P163474) 
+
+ 
+ 
+
+  
+Jul 31, 2017 Page 17 of 21  
+
+     
+
+adverse impacts are forecasted such as water 
+pollution and spreading diseases by human and animal 
+wastes, pesticides use potentially causing water and 
+soil pollution, excessive application of irrigation water 
+causing leaching of soil nutrients and changes in soil 
+characteristics, etc.  
+Since the exact location of subprojects are not known 
+at present and will be identified during project 
+preparation and implementation, framework 
+approach has been adopted.  Environmental and 
+Social Management Framework (ESMF) along with 
+Environmental and Social Management Plans (ESMPs) 
+for the known priority projects will be developed by 
+project appraisal. The ESMF will also include 
+assessment of regional impacts on water quality, 
+analysis of any possible changes in groundwater and 
+downstream surface water availability. The ESMF will 
+also include Terms of Reference for environmental 
+and social impact assessment (ESIA) for the feasibility 
+studies of small dams and environmental and social 
+screening checklists/procedures for competitive grant 
+program (project component C). 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 No 
+
+Most of physical infrastructure investments financed 
+by the project are rehabilitation and improvement of 
+the existing infrastructures. Some new construction 
+activities such as construction of watercourses in new 
+command areas and small-water storage tanks will 
+take place on the existing agricultural lands. These 
+activities are not expected to convert or degrade 
+natural habitat. Therefore, the policy is not triggered.   
+It is important to mention here that the project is 
+supporting preparation of feasibility studies for 5 small 
+dams or irrigation schemes. The studies will include 
+EIAs. 
+
+Forests OP/BP 4.36 No 
+The project is not expected to impact forests and 
+associated ecosystems as envisaged in the policy. 
+Therefore, the policy is not triggered. 
+
+Pest Management OP 4.09 Yes 
+
+The project will not support purchase of pesticides. 
+However, the policy is triggered because the project 
+interventions may lead to substantially increased use 
+of pesticides and subsequent environmental 
+problems. Thus, to mitigate this impact the project will 
+apply an IPM approach with an IPMP prepared. 
+
+
+     
+
+Physical Cultural Resources OP/BP 4.11 TBD 
+
+At this stage, it is not possible to identify potential 
+impacts on physical cultural resources (PCRs). 
+However, final determination would be made by QER.  
+Chance find procedures will be included in ESMF. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+The project area extends across KP, including Chitral 
+district which is home to the Kalash who are 
+recognized as Indigenous People (IP); hence, OP 4.10 is 
+triggered. An Indigenous Peoples Planning Framework 
+(IPPF) for interventions in Chitral district will be 
+prepared, consulted upon, and disclosed publicly on 
+the client’s website (in-country) and by the Bank prior 
+to appraisal. Indigenous Peoples Plans (IPPs), if 
+required, will be prepared for specific project 
+locations. 
+Given the cultural sensitivity and tribal nature of the 
+area, the social assessment will carefully assess 
+potential project impacts on IPs and mitigation 
+measures including grievance redress mechanism will 
+be developed through free prior and informed 
+consultation as required under OP4.10. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Small parcels of land will be required for project 
+interventions. In most cases land needs will be met 
+through Community or Voluntary Land Donations 
+(VLD), the procedures for which will be laid out in the 
+ESMF. In few cases small parcels may need to be 
+acquired e.g. watercourses construction in new 
+command areas (e.g. Bazai etc.). Certain interventions 
+e.g. rehabilitation of existing water courses, may 
+involve minor temporary impacts on livelihoods (due 
+to restricted access; temporary dislocation) which 
+could require small scale compensation. However, the 
+impacts are not expected to be large scale. Hence OP 
+4.12 on Involuntary Resettlement has been triggered. 
+A Resettlement Policy Framework (RPF), and 
+Resettlement Action Plans (RAPs) for actual sites that 
+may have been identified, will be prepared, consulted 
+upon, and disclosed publicly on the client’s website 
+(in-country) and by the Bank prior to appraisal. 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+The project will not directly finance rehabilitation of 
+existing dams or construction of new dams. The 
+project activities especially investments for 
+improvements in irrigation infrastructure may rely on 
+performance of the existing dams such as Warsak Dam 
+on Kabul River or Munda dam on Swat River. However, 
+the exact location of schemes are not known at 
+present. The project will also finance feasibility studies 
+
+
+
+     
+
+for dams, scale and capacity of which is currently 
+unknown. The policy is therefore triggered to ensure 
+due diligence and for adequate coverage of 
+environmental and social aspects/impacts. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+The proposed project activities are located in the 
+command area of tributaries of Indus river, which is an 
+international water way (river). The proposed project 
+activities under component 1 and 2 qualify to trigger 
+this policy. The task team will consult LEGEN to 
+determine whether waiver to notification to riparian is 
+applicable. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+There are no disputed areas as defined in the Policy 
+where project interventions are to be undertaken and 
+therefore this policy is not triggered. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Sep 17, 2018 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+1. ESMF by 30 August, 2018 
+2. ESMP for first year schemes by 30 August, 2018 
+3. IPMP by 30 August, 2018 
+4. A Resettlement Policy Framework (RPF) will be prepared to provide guidelines for project interventions that could 
+
+require land acquisition, and which may lead to resettlement and impact on livelihood. RPF will be completed by 30 
+August, 2018. 
+5. RAP for first year schemes by 30 August, 2018 
+6. Ingenious Peoples Planning Framework (IPPF) will be prepared by 30 August, 2018. IPPs (Indigenous Peoples Plans) for 
+
+the first year schemes will be prepared by 30 August, 2018, where required.  
+7. Assessment of regional impacts on water quality, groundwater availability and downstream water availability will be a 
+
+part of the overall ESMF, as well as the social assessment. Moreover, given the cultural sensitivity and tribal nature of the 
+area, all assessments will carefully assess consultations/GRM/FPIC requirements.  
+8. All feasibility studies will include a TOR on E&S screening and social and environmental impacts analyses.   
+ 
+ 
+ 

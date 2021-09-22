@@ -1,6 +1,5 @@
 id	keyword
-IF16	MIFA
 IF16	IFAD
-IF16	LOT
-IF16	des
-IF16	Projet
+IF16	MIFA
+IF16	support
+IF16	financial

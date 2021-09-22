@@ -1,0 +1,758 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Regional and Local Roads Connectivity (P163239) 
+
+ 
+ 
+
+  
+Jan 05, 2018 Page 1 of 17  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 22-Jan-2018 | Report No: PIDISDSA22919 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Albania P163239 Regional and Local Roads 
+Connectivity 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EUROPE AND CENTRAL ASIA 23-Jan-2018 25-Apr-2018 Transport & Digital 
+Development 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance and 
+Economy 
+
+Albania Development 
+Fund 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The Project Development Objective is to improve access to selected agricultural and tourism centers, and to 
+strengthen selected project municipalities’ capacity to manage their road assets 
+
+ 
+Components 
+
+Component 1 - Accessibility Improvement 
+Component 2 - Capacity Building for Municipalities 
+Component 3 - Implementation Management Support 
+front end fee 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Finance OLD 
+
+Financing Source Amount  
+
+International Bank for Reconstruction and Development   50.00  
+
+Total Project Cost   50.00  
+    
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+ 
+Albania has experienced rapid growth since 1990, rising into the ranks of middle-income countries in 2008. 
+It emerged from the collapse of isolationist communism in the early 1990s as one of the poorest countries in 
+Europe but since then has experienced a growth of nearly 6 percent per year. The rapid pace of growth helped 
+the country narrow the per capita income gap with the rest of Europe from 18 percent of average European 
+Union (EU) incomes in 1998 to 30 percent by 2012, and this fueled aspirations to join the EU. Growth 
+successfully halved poverty from 25.2 percent in 2002 to 12.5 percent in 2008. However, the global and euro 
+area crises in 2008 brought Albania's growth to a near standstill by 2012, and the country is struggling to 
+recover, particularly given its historic ties to Europe’s poorer performing economies. The aftermath of the 
+crisis presented an increase of the poverty rate, to around 14 percent in 2015, particularly in urban and coastal 
+areas, along with rising unemployment affecting mostly youth and women. 
+
+Recently, economic activity has picked up and the near-term economic outlook for Albania is positive. 
+Economic growth is expected to accelerate to 3.8 percent in 2017 (from 3.4 percent in 2016 and 2.2 in 2015), 
+supported by private investment and consumption. Investment is mostly linked to two large foreign direct 
+investment-financed energy projects (the Trans Adriatic Pipeline and the Devoll hydropower plant), and 
+consumption is supported by job creation and the easing of credit conditions. Net exports were helped by 
+tourism and a recovering commodity market. Growth is projected to moderate to an average of 3.6 percent 
+for 2018–2019 with completion of the two large energy projects and no other large projects planned.  
+
+The Government remains committed to making deep structural reforms. Over the past years, the 
+Government implemented a range of reforms, including improvements in Public Financial Management (PFM) 
+(clearance of arrears, tax reforms), mitigation of fiscal risks from pensions and the energy sector, reduction of 
+nonperforming loans, and improvements in doing business. Results were positive: growth picked up, the fiscal 
+deficit declined, and the public debt started to fall. This provided a window of opportunity for advancing 
+ongoing structural and fiscal reforms, to reduce macroeconomic risks and better support long-term growth. 
+
+Albania applied for EU membership in 2009 and became an official candidate for accession in June 2014. 
+This entails strong commitments in the transport sector, which manifest themselves in signing, with the 
+European Commission, the Memorandum of Understanding for the Core Network creating the South East 
+Europe Transport Observatory (SEETO)1 and in signing the Transport Community Treaty in July of this year. 
+The treaty will help the Western Balkan countries align their national transport laws with those of the EU. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+Roads and highways are the predominant mode of land transport in Albania and provide essential 
+connectivity for freight and personal mobility. Roads are one of the highest value public assets, estimated at 
+about US$6 billion. The overall length of Albania’s road network is about 15,000 km; 4,000 km of national 
+
+                                                           
+1 The main aim of SEETO is “to promote cooperation on the development of the main and ancillary infrastructure on the South East 
+Europe Core Regional Transport Network and to promote and enhance local capacity.” 
+
+
+roads; and 11,000 km of regional, local, and urban roads.2 The Ministry of Infrastructure and Energy (MoIE), 
+formerly the Ministry of Transport and Infrastructure, is responsible for the policy and regulatory framework 
+and technical standards. The Albania Road Authority (ARA) is responsible for managing the national road 
+network and the municipalities are responsible for managing the regional and local roads. The Albania 
+Development Fund (ADF) was established in 1993 with support from the World Bank, to implement regional 
+and local roads projects mainly financed by international development partners.   
+
+In 2015, Albania implemented significant administrative and territorial reforms consolidating 372 
+communes and municipalities into 61 municipalities to increase the cost efficiency of local units so that they 
+can provide better services. The new municipalities consolidated the responsibilities from the previous levels 
+of local government—municipalities, communes, and regional councils—each of which was administering 
+road networks within their jurisdiction, respectively, within city/town boundaries, within commune 
+boundaries, and regional roads in regional council areas. Within the current regional and local road network, 
+the function comprises (a) regional roads that connect groups of villages to the national road network or with 
+main administrative centers of a municipality and (b) local roads that provide transport links between villages 
+and farms. 
+
+The infrastructure planning and prioritization process still has some way to go to provide transparent and 
+economically efficient outcomes. With support from the World Bank, progress has been made by the 
+Government in developing Medium-term Budget Plans (MTBPs) 2015–2017 to prioritize higher impact new 
+investments. A framework that is more aligned with the budget realities is slowly emerging and more fiscal 
+discipline is applied at all levels to avoid accumulation of arrears in the road sector. Under the proposed 
+Regional and Local Roads Connectivity Project (RLRCP), a rigorous prioritization approach has been formulated 
+for the selection of project roads which target investments that complement productive sectors of the 
+economy and particularly in agriculture and tourism. This process provides an example for investment 
+prioritization, transparency, and governance at a local level. 
+
+Maintenance of the road network has been systematically underfunded, undermining the sustainability of 
+the sector. The ongoing Results-based Road Maintenance and Safety Project (RRMSP) is addressing highest 
+priority maintenance needs of 4,000 km of national roads while the proposed RLRCP will support the asset 
+management of regional and local roads under the control of municipalities. 
+
+The regional and local network is in bad condition overall, with more than 50 percent of network 
+categorized in poor condition, 30 percent in fair condition, and less than 20 percent in good and very good 
+condition. Some sections are impassable for parts of the year, thus restricting access to essential public 
+services of health and education, as well as to economic centers. As of 2016, the maintenance expenditures 
+for regional and local roads was allocated at approximately 300 Euro per km per year,3 which is extremely 
+low and can only cover the routine maintenance, with no allowance for periodic maintenance or 
+improvements. Investments and maintenance of regional and local roads are financed by local taxes 
+combined with unconditional grant transfer from the central government. The poor condition of roads is a 
+manifestation of the weaknesses in the municipalities planning, implementation and/or monitoring 
+capacities.    
+
+The Government of Albania (GoA) has taken large strides in improving conditions of the regional and local 
+         
+
+road network in the past decade but more work is necessary. ADF implemented a Rural Road Program, during 
+the period 2008–2016, with World Bank support which crowded in US$386 million in financing from IFIs. The 
+program improved1,200 km of rural roads in 12 regions and 61 municipalities which improved the mobility of 
+over 2 million people. The World Bank’s engagement through the Secondary and Local Roads Project (SLRP), 
+from 2008 to 2013, was evaluated as highly satisfactory which is an important milestone. The program was 
+indeed highly successful, exceeding its developmental and implementation outcomes while recognizing there 
+is still room to consolidate the e network improvements in a sustainable manner to enable growth in the 
+agricultural and tourism sectors. 
+
+The existing condition of regional and local road network is not able to serve the emerging tourism industry4 
+and hinders the development of the agricultural sector.5 Over the past few years, the GoA has developed key 
+strategic instruments including the National Territorial Development Strategy and the Coastal Management 
+Strategy that provide a vision for the development of Albania over the next 15 years (2015–2030). These 
+strategies highlighted a number of challenges which include improved road connectivity and the need to 
+invest in municipal capacity to improve tourism destination management. The on-going Integrated Urban and 
+Tourism Development Project is addressing these issues in the South of Albania while the proposed RLRCP will 
+support improved access to tourism development areas in the project road areas of Albania. 
+
+In October 2014, the GoA approved the five-year Strategy for Rural and Agriculture Development, drawing 
+upon the strategic planning approach used by the EU under its Common Agriculture Policy 2014–2020. One 
+of the obstacles pointed out by the strategy is lack of market access for agricultural products through an 
+appropriate network of national, regional, and local roads. Considering that in Albania the agri-food industry 
+is responsible (directly and indirectly) for almost half the economy-wide jobs, improving market access 
+through better road connectivity is critical for the development of the country. It is also important for 
+productive inclusion of women, who represent half of those employed in the sector (the highest share of 
+participation of women in agriculture in the Western Balkans) and 80 percent of informal employment in the 
+sector.  
+
+Road safety remains a major social and public health issue in Albania. Although the number of accidents has 
+dropped in recent years, Albania still compares unfavorably with countries in the region or EU member states, 
+with the World Health Organization estimated 15.1 fatalities per 100,000 population—while it is 11.9 in 
+Montenegro, 9.1 in Greece, 7.7 in Serbia, 4.3 in Germany, 5.1 in France, and 2.9 in the United Kingdom.6 In 
+response, the GoA aims to reduce the number of fatalities by 50 percent in 2020, in comparison to 2009.7 The 
+GoA has increased its attention to road safety reforms, including the adoption of the Road Safety Strategy and 
+Action Plan in 2011 and adoption of mandatory Road Safety audit8 for all new roads. The RRMSP is 
+strengthening the capacity of the Inter-Ministerial Road Safety Council, introducing road safety audit training 
+
+                                                           
+4 Tourism is a significant contributor to the Albanian economy, with 8.4 percent of total GDP in 2016, and is forecasted to rise to 10.8 
+percent by 2027. Its contribution to employment is also significant, directly supporting 85,500 jobs (7.7 percent of total 
+employment) in 2016, and is estimated to grow to 120,000 jobs (10.1 percent of total employment) by 2025.  
+5 Agriculture is the single largest contributor to GDP in the country (22 percent in 2015) and the largest employer (41 percent in 
+2015). Agricultural productivity and the competitiveness of the sector are adversely affected by the fragmented and subsistence-
+oriented supply base, poor enforcement of food safety standards, infrastructure deficiencies, including poor transport networks and 
+access to markets and tourism hubs, among others.  
+
+ 
+6 World Health Organization. 2015 “Global Status Report on Road Safety 2015.” 
+7 Government Decision No. 125, February 23,  2011, on “Implementing Objectives for Improving Road Safety.” 
+8 By Amendment to Article 71/, introducing “Road Safety Audit” to the Highway Code. Decision 815 in November  2011. 
+
+accreditation courses, supporting media campaigns, and enhancing the Accident Information System. The 
+RLRCP will build on these reforms and address road safety through improvements to regional and local road 
+infrastructure. 
+
+Better links from the regional and local road network to the national road network will complement 
+envisioned improvements in the country’s trade and transport facilitation competitiveness which are being 
+supported under the separate proposed Regional Trade and Transport Facilitation Project. Improved feeder 
+and distribution links from the regional and local road network to the national network together will reduce 
+cost of trade and transport, lower the cost of importing and exporting for goods and services including 
+agriculture and tourism.  These two areas will be the focus of the proposed RLRCP. 
+
+A major emergent issue affecting sustainability of the road sector is the road network vulnerability to 
+climate changes and natural disasters. Floods in recent years have increasingly affected the infrastructure 
+and consequently the access of population and farmers to markets which have been substantially disrupted. 
+A World Bank-executed Technical Assistance (TA) funded by the Global Facility for Disaster Reduction and 
+Recovery (GFDRR) is starting to address the issue of vulnerability of the road network and how to improve 
+road asset management. Implementation of the TA outcome will be implemented as one of the components 
+of the proposed RLRCP. 
+
+In recent years, several IFIs have supported road sector investments and reforms in Albania. Several IFIs 
+including the World Bank, European Commission, European Bank for Reconstruction and Development 
+(EBRD), European Investment Bank (EIB), and Kreditanstalt für Wiederaufbau (KfW) are the main partners 
+supporting the GoA including: (i) improvement of planning and budgeting process, (ii) introducing better 
+management practices to avoid future arrears, (iii) deepening ARA reforms , and (iv) providing financing for 
+priority projects. Bilateral partners including the U.S. Agency for International Development (USAID), Deutsche 
+Gesellschaft für Internationale Zusammenarbeit (GIZ), Agence Francaise de Developpement (AFD) and the 
+Swiss Agency for Development and Cooperation (SDC) are involved in supporting the new municipalities to 
+capacity building, asset and resource management under their administration with a focus on water supply 
+and sanitation, solid waste, and municipal financing. The proposed RLRCP presents an opportunity to develop 
+an overall investment and policy framework for the regional and local roads sector that can be supported 
+through the joint efforts of different development partners. In this context, the EBRD is currently in discussions 
+with GoA to match the World Bank financing with a further US$50 million loan for a parallel operation. 
+
+Gender gap. Gender gaps in construction and transport sectors, where less than 5 percent and 17 percent of 
+all employed respectively, are women, are very substantial. Therefore, promoting women’s economic 
+opportunities as part of the efforts to reverse poverty trends and boost shared prosperity are part of the 
+project objectives. A separate TA funded by the State and Peace Building Fund (SPBF) administered by the 
+World Bank will be looking into opportunities in this regard. The results from this TA will be implemented 
+through the proposed RLRCP. 
+
+C. Proposed Development Objective(s)  
+ 
+ 
+Development Objective(s) (From PAD)  
+The Project Development Objective is to improve access to selected agricultural and tourism centers and to strengthen 
+selected project municipalities’ capacity to manage their road assets
+ 
+
+Key Results 
+ 
+
+• Number of agricultural and tourism centers connected by improved project roads 
+ 
+
+• Reduced travel time on project roads 
+ 
+
+• Demonstrated better asset management capacity by selected municipalities through adoption of 
+Municipal Transport Investment and Maintenance Plan. 
+
+ 
+D. Project Description  
+
+ 
+The Albania RLRCP is expected to be financed by an IBRD loan of US$50 million. The RLRCP will focus on the 
+role that improved roads can play in enabling connectivity driven economic gains, particularly in the 
+agricultural and tourism sectors, both key drivers of growth and employment in Albania. More specifically, 
+the proposed RLRCP will support tourism development through improving road access to existing and 
+potential tourism destinations and providing quality tourism-friendly amenities (for example, parking lot for 
+tourist bus, viewpoints) and signage along the roads in the project areas. It will also support the integration 
+of agricultural producers to agri-food value chains and market participation, particularly for women who make 
+up the majority of the workforce in agriculture. 
+
+To achieve these overarching goals and set an example for investment prioritization at the municipal level, 
+a rigorous prioritization approach has been formulated in the RLRCP road selection. The selection of project 
+roads was done through a two-step prioritization process including the development of a long list of 1,400 km 
+candidate roads based on consultations between the ADF and 61 municipalities and a short list of 200 km 
+candidate roads using multi-criteria analysis, considering tourism destinations, agriculture potential, 
+beneficiary population, and economic efficiency indicators. The selection process reflects the priority from 
+the municipalities as well as the GoA’s vision on rural roads investments that support tourism and agriculture. 
+This approach also allows for easy scale-up to a program for the GoA, municipalities, and other developmental 
+partners to implement. 
+
+The RLRCP will include capacity building TA in support of the municipalities to improve management of road 
+assets and strengthen links between roads, improved agricultural market access, and tourism development 
+plans where they exist. The RLRCP is designed to address the sustainability of road maintenance at the 
+municipal level which is a significant challenge following the transfer of local and regional road assets to the 
+municipal level. The RLRCP is also designed to address road safety issues in regional and secondary roads in 
+the selected municipalities to provide safer and sustainable infrastructure. 
+
+In addition, the project will implement action plans on ways to promote climate resilience and women’s 
+economic opportunities in regional and local roads in Albania as follows:  
+
+• Climate Resilient Road Assets for Albania: Albania’s vulnerability to climate change and natural 
+disasters, for example, flooding, landslides, and earthquakes, within the road sector, is being analyzed 
+under a separate Technical Assistance and its outcome will inform the prioritization of investment to 
+
+
+
+provide more sustainable and resilient road assets. The TA outcomes will be incorporated into the 
+RLRCP designs of specific road sections.  Improved regional and local roads at time provide an 
+alternative to the national road network critical links during extreme weather events. The TA will also 
+include recommendations to adjust the design standards for regional and local roads and apply them 
+to the project roads. 
+
+• Promoting Woman’s Employment in Road Sector in Albania: the capacity of local stakeholders to 
+reach out and increase women’s inclusion and participation in road maintenance programs is being 
+analyzed under a separate TA. The outcome will consider policy options to provide support to 
+contractors that explore opportunities to promote women’s employment in high skilled jobs in their 
+respective workforce.  The focus will be on more and better jobs.  
+ 
+
+The project will finance the following components. 
+
+Component 1. Accessibility Improvement (Total cost US$47.03 million; IBRD US$47.03 million) 
+
+This component will finance the rehabilitation of regional and local roads; consultancy service for designs, civil 
+works supervision, and technical and road safety audits; and road safety initiatives.  
+
+• Subcomponent 1.1. Climate resilient road rehabilitation works (Total cost US$45.83 million). This 
+subcomponent will finance the rehabilitation of about 50 km of regional and local roads within 5 to 6 
+municipalities. The roads will be designed according to Albanian standards with particular attention to their 
+climate resilience (such as to flooding and landslides) given the vulnerability of the network. As a first-year 
+program, three project roads in three municipalities, totaling 40 km, have been selected based on further 
+surveys and a rigorous multi-criteria analysis on the short-listed 200 km of roads. The remaining roads will be 
+identified and prioritized during implementation. Where roads serve tourism areas or pass through urban 
+areas, attention will be given to footpaths, bicycle paths, safety improvements, orientation signage, and 
+aesthetic considerations. In addition, new bike lanes and sidewalks will be build, to encourage the shift to 
+cleaner modes of transport. This subcomponent will also finance all necessary designs, civil works supervision, 
+and technical and road safety audits, although the designs of the first-year program were already financed by 
+the GoA.  
+
+• Subcomponent 1.2. Road Safety Initiatives (Total cost US$1.2 million). This subcomponent will 
+consist of identification of potential road safety interventions on regional and local roads that are not included 
+in Subcomponent 1.1 but within the project municipalities. Identification efforts shall include both road risk 
+mapping using available crash data and a road safety inspection of sections linked to Component 1.1 roads. 
+These interventions will address accident blackspots and include traffic calming measures, footpaths, crash 
+barriers and junction design. 
+
+Component 2. Capacity Building for Municipalities (Total cost US$0.85 million; IBRD: US$0.85 million) 
+
+This component will build capacity in the project municipalities’ to manage their transport system and road 
+assets in a sustainable way and to maximize the impacts of improved accessibility on agricultural production 
+and tourism potential. It will develop standard approaches that will be implemented in a few municipalities 
+in this project but can subsequently be rolled out more widely. The following activities are envisaged: 
+
+• Subcomponent 2.1. Municipal Transport Capacity Development for all Participating Municipalities 
+(Total cost US$0.45 million). This subcomponent will focus on developing municipal systems for road 
+maintenance and road planning following the recent transfer of road assets to the municipal level. It will: (i) 
+assess municipalities capacity, local planning instruments and processes for road planning and maintenance 
+and public transport planning, (ii) develop recommendations for addressing weaknesses, and (iii) provide 
+training based on the recommendations. The focus will be on road maintenance and will include support on 
+programming, budgeting, sustainable financing for road rehabilitation and maintenance priorities, asset 
+management and maintenance execution. Public transport planning will extend to public parking and bus 
+terminals, and safety measures. The subcomponent will also finance the preparation of a standard service 
+level agreement contract for maintenance between the municipalities and the service provider and will 
+provide training to the municipalities on its use.  
+
+• Subcomponent 2.2. Linking Farmers to Markets (Total cost US$0.20 million). This subcomponent will 
+support implementation of the recently approved 100 villages program. It will provide technical support for 
+linking agricultural producers to local demand, including through local markets and tourism centers. The focus 
+will be on production areas adjacent to the road infrastructure supported by the project. The subcomponent 
+will provide an assessment of potential activities that could be financed through the grants available under 
+the 100 villages program or other development partner programs. Potential activities include  supply chain 
+activities for key agricultural products; recommendations for alleviating impediments in connecting roads, 
+warehouses, harvesting facilities, regulations; developing collection zones; and promoting “Eat Albania” 
+restaurants. This subcomponent will also increase the World Bank’s evidence base for supporting women 
+smallholder farmers and women-led agriculture small and medium enterprises (SMEs) to start and/or enhance 
+their participation in agri-food value chains in Albania; analyze the barriers that women face in accessing 
+markets, in general, but particularly in light of the new business opportunities that the project is hoped to 
+deliver; and recommend the ways to address them.9 
+
+• Subcomponent 2.3. Managing for Tourism Growth (Total cost US$0.20 million). As above this 
+subcomponent will support implementation of the recently approved 100 villages program. It will provide 
+technical support to promote agro-tourism in the project municipalities. The subcomponent will provide an 
+assessment of potential activities that could be financed through the grants available under the 100 villages 
+program or other development partner programs. The subcomponent will also provide technical support to 
+concerned municipalities to plan for this growth and mitigate any possible environmental and social impacts. 
+Where appropriate support may also be given to steer public and private investments in tourism related 
+infrastructure and services.        
+
+Component 3. Implementation Management Support (Total cost US$2.0 million; IBRD: US$2.0 million) 
+
+This component includes incremental operational cost of the ADF, development and maintenance of 
+Geographic Information System (GIS) and prioritization database for regional and local roads, midterm 
+evaluation, and capacity-building initiatives for the ADF. It will also include the implementation of a Project 
+Impact Assessment to assess the project’s impacts on key social, transport, agriculture, and tourism indicators. 
+This is similar to the approach used by ADF in the previous Rural Road Program using financing from the 
+development partners and outsourced expertise.    
+
+                                                           
+9 The project scope and available budget will likely not allow for addressing most of the recommendations resulting from the gender 
+analysis of this subcomponent. Still, in light of the large gender gaps in agriculture and the focus that the CPF rightly puts on them, 
+the team considered it important to integrate gender analysis as part of the envisaged study. The recommendations will be provided 
+to the client and will also be used to inform the World Bank’s future activities.  
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements 
+
+The project will be implemented over four years and seven months by the ADF, which has strong experience 
+and track record as an implementing agency of road projects financed by the World Bank and other 
+development partners since its inception in 1993. A Project Management Team (PMT) will be established 
+within the ADF, staffed by its own personnel, which will also coordinate with representatives of the respective 
+municipalities. The PMT will manage project activities, such as procurement, social impact assessments, 
+safeguard functions, monitoring and evaluation, and so on. When necessary, the project management 
+function will be supported by consultants. A budget for such operating costs has been allocated in Component 
+3. 
+
+It is recognized that the participation of municipalities is critical during both project preparation and 
+implementation. During the project preparation, the ADF has worked very closely with municipalities in the 
+prioritization exercise, and several consultations with municipalities and local communities have taken place 
+during the preliminary designs of the project roads. Before starting the civil works, an Investment Agreement 
+and a Function and Maintenance Agreement will be signed by the municipalities, defining duties that 
+municipalities must carry, e.g. maintenance requirement, after the project roads are handed over. The ADF 
+will monitor the compliance of these agreements. When procuring and implementing capacity building 
+activities, municipalities will provide ADF with inputs to TOR and sign off outputs.  
+
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project has been classified as Category B.  Under Component 1, the project will finance the rehabilitation and/or 
+reconstruction within the right-of-way of regional and local roads in selected municipalities. This Component will also 
+finance and implement safety works on improving signage, pedestrian crossings, line-marking, etc. of regional and 
+local road network.  
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Additional impacts might be expected due to increased traffic on rehabilitated roads, however the project will under 
+Component 1 finance and implement safety works on improving signage, pedestrian crossings, line-marking, etc. of 
+regional and local road network. In addition, the rehabilitation works itself financed under the same component will 
+also support improving the road safety aspects in project roads, and as such are expected to have long-term positive 
+social impacts. 
+ 
+ 
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project will finance rehabilitation of priority regional roads across the municipalities. Construction will 
+mainly occur within the existing right-of-way, and the estimated cumulative length of project road segments 
+
+
+is 50 km. Three project roads were selected for implementation in the first year, and are located in Shkoder, 
+Pogradec and Fier municipalities. There is no geographical focus for the remaining roads to be financed. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Bekim Imeri, Social Safeguards Specialist 
+Natasa Vetma, Environmental Safeguards Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project is categorized as category B and not 
+expected to have significant or irreversible 
+environmental impacts given the rehabilitative 
+nature of works to be financed.  Anticipated civil 
+works will primarily entail rehabilitation and 
+reconstruction of rural roads.  Potential negative 
+environmental impacts may include, but not limited 
+to: (i) temporary construction -related effects on 
+noise, dust, and air quality; (ii) temporary localized 
+water quality impacts resulting from possible 
+drainage and sewage pollution; and (iii) temporary 
+changes in access to, and the use of, public spaces 
+during construction. The exact project locations are 
+still not known as the prioritization of rural roads is 
+still ongoing. For that reason, preparation of 
+Environmental and Social Framework (ESMF) is 
+proposed prior to appraisal. ESMF is prepared to 
+facilitate screening, assessment, and management of 
+environmental and social issues for activities to be 
+taken up by the project in subsequent years. The 
+ESMF ensures preparation of appropriate and World 
+Bank safeguard policy-compliant safeguard 
+instruments during project implementation. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Some of the rehabilitation works are envisaged in 
+nature protected areas and natural habitats. For that 
+reason, the ESMF defines procedures for identifying 
+and managing subprojects affecting natural habitats. 
+No new construction will be allowed in nature 
+
+
+protected sites, or significant natural habitats, but 
+only rehabilitation of the existing roads. In addition, 
+no activities will be allowed in or in proximity of 
+critical habitats. 
+
+Forests OP/BP 4.36 No The project will not have any impacts on forests 
+
+Pest Management OP 4.09 No 
+
+The project is not expected to trigger pest 
+management policy. The investments will not 
+promote or increase the use of the pesticide. 
+Although the project will finance solely roads 
+rehabilitation, the ESMF provides guidance for use of 
+herbicides for roads maintenance. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+
+The project is not expected to trigger OP 4.11. The 
+investments will be focused on rehabilitation of 
+existing roads. Nevertheless, due to the countries 
+cultural richness, during the earthworks chance finds 
+might be possible. For that reason, ESMF includes 
+provisions on chance finds and required 
+practices.For each such subproject, the ESIA and 
+ESMP will be prepared, prior reviewed by the World 
+Bank environmental specialist, and 
+cleared/consulted with the Albanian Agency for 
+Protected areas (or relevant environmental 
+authorities). 
+
+Indigenous Peoples OP/BP 4.10 No Not relevant 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project will finance rehabilitation and 
+reconstruction of rural roads. Roads connecting 
+villages with the regional centers, touristic/cultural 
+sites and agricultural fields. Given the linear nature 
+of the works the land-take impacts will be minor and 
+linear, adjacent to the existing road. Thus there will 
+be small land taken. Displacement of households or 
+businesses is not expected either, nor any impact on 
+livelihoods. Given that the project is a rehabilitation 
+of existing roads, there will be no need for access 
+roads, thus it is not expected to address associated 
+land-take cases. To address the social safeguards 
+instrument, the borrower will prepare Resettlement 
+Policy Framework (RPF) that will guide the land take 
+activities during the whole cycle of the project 
+implementation. If for any sub-project it is expected 
+that the footprint will be known during the 
+preparation phase of the project then the borrower 
+will prepare site specific abbreviated or full fledge 
+(depending of the impact) Resettlement Action Plan. 
+
+ 
+
+Safety of Dams OP/BP 4.37 No Not relevant 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project activities will not have impact on 
+international waterways 
+
+Projects in Disputed Areas OP/BP 7.60 No Not relevant 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project has been classified as Category B.  Under Component 1, the project will finance the rehabilitation and/or 
+reconstruction within the right-of-way of regional and local roads in selected municipalities and short new segments 
+only where they present natural continuation / connection. Under the same component, the project will also finance 
+and implement safety works on improving signage, pedestrian crossings, line-marking, etc. of regional and local road 
+network. This implies that the project will possibly have some adverse environmental impacts; however, these would 
+be site specific and would not be significant nor long-term. For the project to remain category B, ESMF defines 
+following environmental criteria for eligible subprojects: a) category A sub projects will not be financed; b) for sub 
+projects in nature protected sites, or significant natural habitats, only rehabilitation of the roads would be allowed and 
+no new construction. No activities would be allowed in or in proximity of critical habitats; c) New construction should 
+be limited and allowed only in some specific cases for example where segments are missing or alignment of a section 
+that is currently particularly difficult of dangerous; d) The construction, reconstruction or rehabilitation of roads on 
+existing right of way would be allowed only in form of one or two lane roads. 
+Some of the rehabilitation works are envisaged in the nature protected areas and natural habitats. For that reason, 
+the ESMF defines procedures for identification and managing subprojects affecting natural habitats. No new 
+construction would be allowed in nature protected sites, or significant natural habitats, but only rehabilitation of the 
+existing roads. In addition, no activities would be allowed in or in proximity of critical habitats. For each of such sub 
+projects ESIA and ESMP would be prepared, priory reviewed by WB environmental specialist and cleared / consulted 
+with the Albanian Agency for Protected areas (or relevant Environmental Authorities). For all supported TA activities, 
+the TORs for these activities should include environmental and social considerations in line with the triggered 
+safeguards operational policies. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Additional impacts might be expected due to increased traffic on rehabilitated roads, however the project will under 
+Component 1 finance and implement safety works on improving signage, pedestrian crossings, line-marking, etc. of 
+regional and local road network. In addition, the rehabilitation works itself will also support improving the road safety 
+aspects in project roads, and as such are expected to have long-term positive social impacts. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+As the project will finance mainly rehabilitation of existing roads, no major alternatives were, nor will be considered. 
+Some alternatives will be taken in consideration during design when considering roads width and possible new 
+connections. All those alternatives will be examined in site specific environmental due diligence documents prepared 
+during project implementation. The ESMF screening procedure will help guide the Client in ensuring that the site-
+
+specific impacts are mitigated, that no additional safeguards policies are triggered and that no category-A works are 
+financed 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The Albanian Development Fund (ADF) will be implementing the project. ADF has experience in managing 
+environmental and social impacts of World Bank-financed infrastructure investments and other infrastructure projects 
+financed by international finance institutions. The ADF project team includes experienced environmental and social 
+specialists.  
+To comply, the ADF prepared an Environmental and Social Management Framework (ESMF) as well as Resettlement 
+Policy Framework, satisfactory to the Bank, to guide the overall project as the exact subproject locations are still not 
+known or are currently being assessed. The purpose of this ESMF is to guide the Environmental and Social Assessment 
+process, i.e. to facilitate screening, assessment, and management of environmental and social issues for activities to 
+be taken up by the project in subsequent years. Environmental due diligence documents envisaged by ESMF include: 
+ESIA, ESMPs and ESMP checklists. In addition to ESMF, the Borrower prepared a sample Environmental and Social 
+Impact Assessment (ESIA) for Fier-Seman road rehabilitation. 
+The Resettlement Policy Framework (RPF) was prepared parallel with the Environmental and Social Framework 
+(ESMF)/ The documents were disclosed on the December 22th and the consultation held on January 4th . 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+Major stakeholders are ADF and municipalities in which the projects will be implemented. ESMF documents was 
+disclosed and publicly consulted prior to appraisal. ESMF with the call for public consultation was disclosed on the ADF 
+website on December 22, 2017 and major municipalities participating in a project (paper or electronic) for two weeks. 
+The ESIA for Fier-Seman road was disclosed on ADF website and in Fier municipality on January 5, 2018. In addition to 
+the public call, the government and relevant non-governmental organizations were invited through official invitations 
+sent out by the ADF. Public consultation meetings were held in Tirana (January 4, 2018r) and Fier (January 15, 2018). 
+The Resettlement Policy Framework (RPF) was disclosed and consulted parallel with the Environmental and Social 
+Framework (ESMF) 
+The similar procedure will be followed for site specific ESMPs during project implementation as defined by the ESMF. 
+All due diligence documents will be disclosed on the ADF websites respectively, and hardcopy will be available at their 
+premises as well in participating municipalities for at least two weeks following public consultation as per ESMF. 
+ 
+ 

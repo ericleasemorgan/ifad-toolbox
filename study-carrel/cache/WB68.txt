@@ -1,0 +1,937 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+NIGER - AGRICULTURAL AND LIVESTOCK TRANSFORMATION PROJECT (P164509) 
+
+ 
+ 
+
+  
+Mar 04, 2018 Page 1 of 18  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 06-Mar-2018 | Report No: PIDISDSC23726 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Niger P164509  NIGER - AGRICULTURAL 
+AND LIVESTOCK 
+TRANSFORMATION 
+PROJECT (P164509) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Aug 13, 2018 Nov 15, 2018 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Plan Ministry of Agriculture and 
+Livestock 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The Development Objective (PDO) is “to increase productivity and commercialization for selected agriculture and 
+livestock value chains and strengthen the country’s capacity to respond to eligible crisis or emergency”. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 100.00 
+
+Total Financing 100.00 
+
+of which IBRD/IDA 100.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 100.00 
+
+          IDA Credit 100.00 
+
+   
+ 
+
+Environmental Assessment Category Concept Review Decision 
+
+
+
+B - Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+ 
+
+1. Niger is a large, landlocked country in the arid and semi-arid Sahel region. The country’s 
+population is estimated at over 22 million, half of it less than 15 years old and growing rapidly at about 
+3.9 percent per year.. Two-thirds of the country is inhospitable desert, and more than 84 percent of the 
+population is concentrated in the areas along the Niger River in the southwestern part of the country 
+and along its long southern border with Nigeria. The climate is mostly arid; annual rainfall in 85 percent 
+of the country’s area is less than 350 mm.  However, some areas in the south and along the Niger river 
+get some 600 mm of rain, making rainfed agriculture with dryland crops possible. 
+  
+2. Niger’s political institutions have been strengthened since the restoration of constitutional 
+order in 2011. The Government of Niger (GoN) is pursuing important measures to combat organized 
+crime and terrorism and to promote the safety and property rights of its citizens. Military and law 
+enforcement agencies have created new crisis response units, and border security has been 
+strengthened in close collaboration with regional and international partners. As a result, both unrest in 
+various zones of Niger and insecurity in the border zone with Mali have diminished. Nevertheless, the 
+country continues to face significant risks related to domestic and regional instability, as well as 
+organized crime and transnational terrorism. The rise of Boko Haram in Nigeria and the recent expansion 
+of its operations to neighboring countries, including Niger, is cause for concern.  Further, there are now 
+over 100,000 refugees from Nigeria in the Diffa region.   
+
+ 
+3. Niger is a founding member of the Sahel Alliance, an organization that committed its members 
+and development partners to combine their efforts and better coordinate their actions to create the 
+conditions for sustainable growth and lasting peace.  It aims to achieve more effective aid coordination 
+and enhance the support from development partners to the region, in order to more generally 
+contribute to stabilizing the security situation and eradicating poverty, by developing solutions for rural 
+areas, creating employment for young people, improving energy infrastructure and the fight against 
+climate change, and strengthening governance. 
+
+ 
+4. Since 2000 Niger has had a good track record for macroeconomic stability. It has embarked with 
+some success on reforms to foster private sector-led economic growth, reduce its debt, and improve 
+social indicators. Niger has significant mineral wealth, including uranium and gold, and has started 
+exporting refined oil products. These three commodities account for approximately 70 percent of the 
+
+
+country’s exports. However, despite improvements, Niger continues to face persistent, long-term 
+development challenges linked to its large geographical size, home to a largely rural population often 
+beyond the reaches of public services, where the bulk of the poor reside. 
+
+ 
+5. Although poverty incidence is declining, Niger remains among the poorest countries in Africa, 
+with an estimated average per capita gross domestic product (GDP) in current prices of US$420 in 2014, 
+well below the average GDP of US$1,600 for Sub-Saharan Africa (IMF, 2017).  In the 2016 Human 
+Development Index, Niger was ranked second to last out of 188 countries.  Despite a decline in overall 
+poverty incidence, the rural poor became poorer relative to their urban counterparts during the 2005-
+14 period. Their per capita consumption relative to that of the urban poor declined from 60 percent to 
+43 percent. Lack of economic diversification, volatile agricultural growth, low access to physical and 
+institutional infrastructure, and weak human capital base limits economic opportunities, especially in 
+rural area. 
+
+ 
+6. Food insecurity and malnutrition remain a challenge. Overall, growth of major food production 
+was slightly less than the population growth over the period 1980-2011, with the increase in the food 
+deficit being filled by imports. Malnutrition is a big challenge with. An estimated 2.5 million people in 
+Niger are chronically food-insecure and unable to meet their basic food requirements even during years 
+of average agricultural production. During periods of constrained access to food, millions more can 
+quickly fall into acute transitory food insecurity. Over the past years, Niger made some progress on 
+nutrition indicators, but the country still lags substantially behind other low-income countries and Sub-
+Saharan African counterparts. Malnutrition accounts for more than one-third of child mortality in the 
+country and 43 percent of children under five years old suffers from stunting and wasting. Malnutrition 
+remains high due to a host of health, sanitation, and behavioral factors, worsened by recurrent food 
+shortages.    
+
+ 
+7. Niger is vulnerable to climate shocks, with drought being the most important risk in terms of 
+frequency and impacts. A strong correlation exists between changes in gross domestic product (GDP) 
+and the meteorological conditions, demonstrating the fragility of the economy to weather-related 
+events, particularly in the agriculture sector.1 The food crisis resulting from the 2011 drought affected 
+almost half of the country’s population. While uncertainty remains regarding longer-term climate change 
+projections (2050-2100), short- and medium-term rainfall deficits will most likely continue to plague 
+Niger’s agriculture sector, and the frequency and severity of droughts may remain the same or increase. 
+The agriculture, forestry, and other land uses (AFOLU) sector accounts for 89 percent of total greenhouse 
+gas (GHG) emissions, while the energy sector accounts for 9 percent. The national priority for the AFOLU 
+sector in Niger’s Intended Nationally Determined Contribution (INDC) relates to improving the resilience 
+of the agriculture, animal husbandry, and forestry subsectors. For Niger, the adaptation options 
+considered as top priority are those that will permit higher co-benefits with respect to climate change 
+mitigation, particularly those good adaptation practices and techniques that will permit carbon 
+sequestration and reduction of GHG emissions while improving productivity. Niger’s climate change 
+strategy is based on the vision of climate-smart agriculture (CSA) and access to modern energy services 
+for everyone in 2030.    
+
+ 
+
+                                            
+1 The 2013 World Bank agriculture sector risk assessment report indicated that Niger’s GDP growth rate dipped into 
+negative territory eight times between 1984 and 2010, and drought was largely responsible. 
+
+
+8. Women and young people are marginalized. The main factors that significantly impede the 
+economic empowerment of rural women in the agricultural sector include: difficulties in accessing 
+natural and productive resources, the overwork of rural women as they are in charge of both productive 
+and reproductive/ household tasks, lack of women's leadership and decision-making, and limited access 
+to information and education/ training.  Similarly, rural youth are mostly un-educated and lack 
+professional qualifications. Their low social status and the difficulties they encounter to access economic 
+opportunities limit their participation in decision-making at community and family level. 
+
+ 
+Sectoral and Institutional Context 
+ 
+
+9. Agriculture (crops, livestock, and fisheries) is very important for the economy and employment. 
+It represents more than 40 percent of the national GDP and occupies nearly 90 percent of the active 
+population. The performance of the sector is unstable from one year to another because of its high 
+exposure to agronomic, climatic, health, and more recently security risks.  The shocks that follow 
+agricultural and livestock crises have a strong impact on household incomes,  the general budget  of the 
+State and the growth rate at the overall Nigerien economy.  
+ 
+
+10. Crop subsector.  Crop production is only possible in the relatively humid areas in the south-west 
+of the country (an area of some 12 million hectares; about 10 percent of the national territory). 
+Additionally, there are some 19 million hectares mainly pasture lands. Most crops are produced under 
+rainfed conditions with low yields, including millet, sorghum, and other cereals (including coarse/feed 
+grains), as well as legumes (cowpeas, groundnuts) in more modest amounts. The remainder of crop 
+production grown by irrigated conditions, including rice and vegetables.  The yields of irrigated crops, 
+however, are still below potential. The average size of a family farm unit is about 5 hectares, producing 
+mostly for household consumption and little marketable surplus.  The production of food/feed grains, of 
+which by-products are used for animal feeding (e.g. shredded millet/corn stalks) as extensive livestock 
+production, is common to each farm and remains the customary production model. Agricultural 
+productivity remains low largely because of a highly variable agro-climate from year to year with a 
+constrained access to inputs such as certified seeds and fertilizers.  More entrepreneurial farmers are 
+facing a weak financial market, limiting access to credit, and suffering from poor access to quality 
+phytosanitary products, limited familiarity with modern production practices, and the difficulty of 
+accessing urban markets due to lack of aggregation, and a lack of adequate transport infrastructure and 
+transport means.  
+ 
+
+11. Livestock subsector. It is a key sector of the Nigerien economy that contributes 13 percent to the 
+national GDP and provides 7 percent of the country's export earnings. The national herd is estimated at 
+more than 10 million cattle, 24 million small ruminants, and a little over a million and a half camels.2 
+Three main types of livestock farming co-exist in Niger: (i) the "pastoral systems" characterized by animal 
+mobility (extensive breeding systems for camels, small ruminants, and cattle), (ii) the traditional livestock 
+farming systems practiced by villagers throughout the country, for ruminants and poultry, and (iii) 
+
+                                            
+2 Despite the mortality associated with successive pastoral crises, livestock numbers have been steadily increasing 
+over the past ten years, rising from 11.5 TLUs in 2005 to 14.5 TLUs in 2012. [Tropical Livestock Units/Unités de bétail 
+tropical (TLUs/UBT); a TLU implies a live weight of 250 kg]. The most significant increase involved cattle (+ 38 
+percent) and goats (+ 22 percent). Equines and camels had the lowest rates of increase (4 and 7 percent, 
+respectively). While the increase represents a larger potential food reserve, these animals also need to be fed in 
+what is often a fodder-constrained environment. 
+
+
+
+"improved livestock systems" (mainly semi-intensive and intensive peri-urban poultry and ruminant 
+fattening). Other types of farming (quite marginal, but diversified) include beekeeping, rabbit breeding, 
+etc. 
+ 
+
+12. Fisheries subsector. National consumption of fish is only in the order of about 2 kg per inhabitant 
+per year, implying a total demand of about 44,000 tons per year.  Production between 2012 and 2017 
+fluctuated within a range of 27,000 to 47,000 tons.  Most of the catches from Lake Chad are exported to 
+Nigeria (in smoked form).  Some fish are imported fresh or frozen from Mali, Nigeria, Senegal, Benin, and 
+Côte d'Ivoire.  Potential for import substitution exists. There are currently about 70,000 people employed 
+in this subsector, involving fishermen, processors, and traders, and the estimated contribution to GDP is 
+about 0.7 percent. Previous projects financed by other donors have demonstrated that there can be 
+relatively high fish productivity in ponds (more than 200 kg/ha/year in many ponds particularly for 
+catfish, Carp, and Lake Chad perch).  Also, there exist some successful local initiatives for community 
+management of fisheries. Fish output could be increased, including particularly with an expansion of 
+aquaculture, while conserving fishery resources and the natural resources on which these are based.  Key 
+actions would include investments in water management, particularly of excess water during the rainy 
+season (continuing investments or similar to some of those under PRODEX) along with improved 
+extension and transfer of technology.  
+ 
+13. Extension and advisory services, support to processing and marketing, and availability of 
+financing are weak. These constrain agriculture development.  Some of the factors explaining the weak 
+status of extension are: weak human resources, limited research along with limited research and 
+extension linkages, unclear extension messages, limited specialized services to support crop quality, 
+animal health, and food safety; limited transport resources and operational budgets to visit farmers and 
+their fields/livestock, and low use of information and communication technology (ICT). The above factors 
+combine to limit effective coverage of crop and livestock extension to support production.  Similarly, 
+bottlenecks in the various value chains limit support to value addition on production, such as with 
+processing or packaging units of products of animal and vegetable origin, and the weakness of the inter-
+professions.  However, opportunities exist as proven by private or professional initiatives regarding milk, 
+dried meat, hides and skins, cowpeas, onions, sesame, nut-grass, etc. Finally, financing for the sector is 
+lacking. Banks are reluctant to take risks to finance the agriculture and livestock operations, and micro-
+finance institutions are weak. 
+ 
+
+14. Significant water resources exist but are insufficiently used. The limited use of water is a major 
+constraint for crop production.  It is estimated that only 1 percent of surface runoff and 15 percent of 
+renewable groundwater are currently used, and that less than 30 percent of potentially irrigable land is 
+currently irrigated.  Water resources consist of large surface water networks as well as large renewable 
+groundwater reserves of around 2.5 billion m3, and 2,000 billion m3 of non-renewable water reserves. 
+This water potential is underutilized. Only the Niger River flows permanently throughout the year, while 
+five other large rivers feeding the Niger river flow only part of the year. There are also about a thousand 
+ponds, including 175 permanent ones that are mostly used by livestock herders for watering their cattle.  
+
+ 
+15. Other constraints for agriculture development include: (i) institutional, legislative and regulatory 
+deficiencies (means and capacity of intervention of the State services, including some of its laboratories 
+for analysis and diagnosis, unsuitable texts and/or not-applied data and unused monitoring/evaluation 
+systems); (ii) low level of organization of sector actors (POs, unstructured IPs and other cooperatives 
+
+without economic organization capacity); (iii) lack of technical and economic benchmarks on the 
+intensification of farming and livestock systems; (iv) difficult access to advisory support (low coverage 
+and weak messages of the extension network and local veterinary services) and quality production inputs 
+(low access to improved seeds, livestock/poultry feed capacity limited and uncontrolled); (v) low genetic 
+potential of the most common plant varieties and animal breeds or under-valued potential; (vi) 
+inadequate investment and support for the sector (lack of industrial-scale infrastructure and outdated 
+equipment for production, processing, storage, transport and marketing, low value of by-products); (vii) 
+overexploitation and non-sustainable use of land resources; (viii) limited decentralization and land 
+insecurity; and (ix) national system for preventing and managing crises (of climatic, sanitary, and 
+commercial origin) that is not well adapted or developed.  
+
+ 
+16. Main assets of the agriculture sector. These include: (i) a substantial potential for irrigated 
+farming, (ii) the presence of a numerically large and diversified herd with untapped potential for 
+increased productivity through animal health, feed, genetic improvements, and better husbandry 
+practices; (iii) the presence of plant varieties and animal breeds recognized for their adaptive and 
+productive potential in their agro-climatic environment; (iv) traditional know-how and good experience 
+of producers in certain areas (flood recession cultivation, livestock fattening, artisanal milk production, 
+poultry); (v) competitiveness of certain export sectors (onions, cattle/meat); and (vi) important sectoral 
+contribution to the fight against poverty (the main source of household income), and to food and 
+nutrition security. 
+
+ 
+ 
+
+Relationship to CPF 
+ 
+
+17. The proposed project is fully aligned with the Niger Country Partnership Framework (CPF) and 
+the Systematic Country Diagnostic (SCD). The proposed project is aligned with the CPF and SCD as it 
+would contribute to poverty alleviation and improved food security through increased farm productivity 
+and value addition in selected agricultural value chains, thus improving rural livelihoods. It would 
+generate employment in general and in particular for women and young people in the targeted areas. 
+The SCD underlines that “improving the productivity in agriculture remains a first priority for poverty 
+reduction.”  The CPF has an overarching goal of empowering women, while engaging with men as allies, 
+to bring down the unsustainable population growth rate in Niger and to enable development policies to 
+succeed. In the medium term, reduced demographic pressures are expected to free up scarce public 
+resources to fund services, such as health and education and enable further empowerment of women 
+and girls in a self-sustaining virtuous circle. Within this overarching logic, the FY18-21 CPF, approved by 
+the Board on April 10th, 2018, focuses on the importance of boosting agricultural productivity, 
+diversifying exports, and raising incomes in the rural sector where 80 percent of the population live. 
+Investments in the agricultural sector, including livestock and fisheries, are therefore essential, such as 
+through the proposed project. Specifically, yields can and should be increased, including, for example, 
+via use of more productive varieties, small-scale irrigation, agroforestry and intercropping, which the 
+project would emphasize, while increasing the involvement of youth and women.  
+ 
+18. The proposed project is also aligned with the Government’s sector strategy in support of 
+agriculture and livestock.  The strategy is described in the Plan for Economic and Social Development II 
+(PDES II), focused on "food security and sustainable agricultural development," implemented in 
+particular through the 3N (“Nigeriens feed Nigeriens") Initiative. The Initiative aims to contribute to the 
+
+overall overarching goal of eradicating hunger, while helping to improve the productivity and income of 
+farming households, especially the most vulnerable. The approach is also intended to operationalize the 
+Rural Transformation Program of the Sustainable Development and Inclusive Growth Strategy (SDDIC). 
+It contributes to the achievement of the Sustainable Development Goals (SDGs) adopted in 2015 by the 
+United Nations World Assembly, including SDGs 2 and 1. The general orientation of the proposed project 
+is also in line with the Comprehensive Africa Agriculture Development Plan (CAADP), the ECOWAS 
+Common Agricultural Policy (ECOWAP), and the Agricultural Policy of Africa (PAU; UEMOA). 
+
+ 
+C. Proposed Development Objective(s)  
+ 
+
+19. The Development Objective (PDO) is “to increase productivity and commercialization for selected 
+agriculture and livestock value chains and strengthen the country’s capacity to respond to eligible crisis 
+or emergency”. This objective is fully aligned with the Government's vision for agricultural and livestock 
+development. 
+
+ 
+Key Results (From PCN) 
+
+ 
+20. Key performance indicators include: (i) increased productivity of project-targeted agriculture and 
+livestock systems: this would be measured based on area irrigated and increased yields (kg per hectare 
+or per head), including the reduction of losses due to the most prevalent animal diseases; (ii) incremental 
+sales in targeted value chains, including for dairy/milk, cattle/meat, fish, poultry, onions, and niébé 
+(aggregated over all the targeted value chains); and (iii) reduction in the Government’s response time to 
+agriculture and livestock sector-related emergencies including sanitary crises. In addition, the following 
+two core indicators regarding direct beneficiaries would be measured: (i) number of small-scale 
+agriculture producers and sedentary livestock rearing and fish farming households benefiting from 
+project interventions in the project-targeted production basins, particularly the vulnerable groups (e.g., 
+women and youths); and (ii) beneficiary satisfaction rate with the quality of project-supported services, 
+as a partial measure of citizens’ engagement in the Project. The detailed results framework would be 
+developed during the course of preparation. Adequate provision would be made in terms of human and 
+financial resources for the design of thorough M&E activities as part of project preparation. A baseline 
+survey would be conducted to inform indicators regarding the reference situation at project inception. 
+ 
+
+D. Concept Description 
+ 
+
+21. The World Bank's Agriculture and Livestock Portfolio in Niger currently includes the following 
+projects: (i) Export Promotion Project (PRODEX) which ended in October 2017 and for which an 
+Implementation Completion Report is currently being  prepared; (ii) Additional Financing for the West 
+Africa Agricultural Productivity Project, approved in 2017; (iii) Regional Support Project to the Sahel 
+Irrigation Initiative/Project d’Appui Regional à l’Initiative pour l’irrigation au Sahel (SIIP/PARIIS) approved 
+in December 2017; (iv) Climate-Smart Agriculture Project/Projet d’Appui à l’Agriculture Sensible aux 
+risques Climatiques (CSA/PASEC) approved in 2016; (v) Sahel Regional Pastoral Support Project (PRAPS-
+Niger) in operation since fiscal year 2016 to support pastoral livestock production; (vi) Phase 3 of the 
+Community Action Program/Programme d’Actions Communautaires (CAP3/PAC3), with its recently 
+approved additional funding in 2017 and scheduled to close  in December 2019; (vii) the Regional Disease 
+Surveillance Systems Enhancement Project (REDISSE) is strengthening the national cross-sectoral 
+capacity for disease surveillance and epidemic preparedness,;  (viii) a rural development policy operation 
+
+being disbursed over 2017-2018 under IDA 18. This project will provide financial support for the 
+implementation of the PDES II whose  objectives include “increasing rural productivity growth” and 
+“supporting growth enabling sectors.” It has numerous actions planned, including in energy, mineral 
+exploitation, financial sector, etc.; it also seeks to provide input subsidies and improve agricultural 
+extension in pilot communes; and (ix) The Competitive and Growth Support Project, which is closing on 
+March 31, 2019 and  includes the rehabilitation and upgrading of slaughterhouses and their respective 
+environments for developing meat production. In spite of the above projects/investments, there still 
+remains a significant gap in terms of the overall performance of the agriculture and livestock sectors.  
+ 
+22. Scope of intervention and complementarity with other projects. The PIMELAN would capitalize 
+on the lessons learnt and best practices by past and on-going Bank projects. The targeted production 
+systems and activities would be complementary to those supported by other Bank-financed projects. On 
+the crop production side, the project would focus on increasing irrigated production with a focus on 
+onions, and horticulture production (tomatoes in particular); it would also focus on fodder production as 
+a link to the livestock production. It would capitalize on the results of the Small Irrigation Project (SMP; 
+closed in FY 2009) and PRODEX (closed in October 2017, which already built on SMP) as well as PASEC 
+that focuses on climate-smart agriculture (CSA) and PARIIS that focuses on irrigation. Regarding livestock, 
+the project would focus on sedentary livestock systems to enhance cattle and small ruminant production 
+and meat processing, the milk and poultry value chains (meat and eggs), and fish farming and processing; 
+it would complement PRAPS-Niger which focuses on pastoral systems. The PIMELAN would deal with 
+value chains in an integrated manner; it would focus on processing and marketing activities downstream 
+of production. It would also address as a major thrust the financing constraints of the sector through TA 
+support to partner financial institutions (PFIs) and funding for matching grants to producers and other 
+V/C participants, following mechanisms already used by other projects. It would also coordinate with IFC 
+and complement on-going or planned IFC work on agri-business development. 
+
+ 
+23. The proposed Project would be structured as an Investment Project Financing (IPF), funded by 
+an IDA credit in the amount of US$100 million over a six-year period. The Project would have three 
+interrelated components: (i) improving the quality of public and private services in support of agriculture 
+and livestock; (ii) support to public and private investments for improved production, processing, and 
+market access for selected agriculture and livestock value chains; and (iii) crisis prevention & 
+management, and project coordination. The project would be complementary to the ongoing agriculture 
+and livestock projects. 
+ 
+
+24. Integrated value chain approach. The rationale for the proposed project is to boost productivity 
+in the selected agriculture and livestock value chains (V/Cs). The selected V/Cs would be: (i) Crop 
+production: irrigated onions and vegetables; and (ii) Animal production: cattle and small ruminant meat, 
+cows, poultry, goat and camel milk, hides and skins, as well as fish farming. This project would adopt an 
+integrated value chain approach for the selected V/Cs from production to marketing on the domestic 
+and regional markets or export to international markets. It would support financing through small credits 
+or grants for services and activities of entrepreneurs who are ready to engage in intensification of their 
+production, development of value-added activities to primary production through diversification of 
+processing activities, and the logistics between agricultural production and the market (including 
+processing, storage, and transport). This would require the close involvement of Partner financial 
+institutions. 
+
+25. The project would address cross-cutting priorities.  The main cross-cutting priorities proposed to 
+be addressed under the project are: (i) capacity-building of extension and advisory support for crop and 
+animal production; of input supply services (including seeds, feed supplements, and genetics); and of 
+veterinary services; (ii) land restoration and sustainable land management; (iii) empowerment of women 
+and youth; (iv) climate change mitigation and adaptation; (v) public health and nutrition; and (vi) 
+environmental and social safeguards. 
+ 
+26. Preparatory activities. Before making a final choice of actions to be selected, preparation work 
+would identify the difficulties and constraints to be considered to guarantee the success of the project 
+through a detailed mapping of the sectors and locations already covered by other IDA projects and those 
+of other partners. The authorities would determine whether the priority actions should relate to sectors 
+and/or locations not supported so far, or the promotion and scaling up of sectors already supported and 
+promising in terms of supply of the domestic and export market. Due to the diversity of beneficiaries, 
+and therefore the needs that would ultimately be identified (in terms of production sectors but also of 
+typology of actors), a selective approach would be preferred, with a preferential focus on women and 
+young people (see below). 
+
+ 
+27. There have been recent developments in the Agriculture Sector in Niger, such as the reform of 
+agriculture extension services and facilitation of the policy environment for investing in the sector.  On 
+August 2, 2017, three important decrees were issued. These created: (a) the National System of 
+Agricultural Extension/Système National de Conseil Agricole (NSAE/SNCA); (b) the Promotion Agency for 
+Agricultural Extension/l’Agence de Promotion du Conseil Agricole (PAAC/APCA); and (c) the Investment 
+Fund for Food Security and Nutrition/Fonds d’Investissement pour la Sécurité Alimentaire et 
+Nutritionnelle (IFFSN/FISAN). A Committee has been set up to help with the operationalization of these 
+bodies and to develop a roadmap, including the preparation of procedural manuals, the recruitment of 
+the DGs and the technical directorates, etc.  PIMELAN would provide support to make them fully 
+operational and effective. 
+
+ 
+28. The preliminary project description is presented below.  
+ 
+
+Component 1: Improving the quality of services in support of agriculture and livestock--US$ 25 million  
+ 
+
+29. The objective of this Component would be to increase the productivity of agriculture and 
+sedentary livestock farming systems for selected crops and non-pastoral value chains (milk, meat, fish, 
+poultry, onions, and niébé) through the strengthening of the capacity and efficiency of services which 
+would provide more and effective support and advice to producers. In doing so, it would build sustainable 
+human, institutional, and policy capacity for key public and private actors in the agriculture and livestock 
+(including aquaculture) sectors, in order to improve crop and animal husbandry practices (and therefore 
+output), including climate-smart agriculture (CSA) practices, as well as improved access and delivery of 
+quality extension services (crop production, animal health, feed, and breeding), which would also help 
+farmers to strengthen their resilience and adaptive capacity to climate-related hazards.  Activities would 
+include:  
+ 
+
+(a) Support to crop and livestock extension and advisory services in order to increase 
+producers' knowledge and capacities to facilitate increased productivity. Knowledge 
+developed under the West Africa Agricultural Productivity Programme (WAAP) would 
+
+
+be disseminated to help reduce crop and livestock losses and contribute to improved 
+public health; and involvement of extension services would help in finding synergies 
+and complementarities with PRAPS-Niger, PASEC, and the SIIP. Support would include 
+knowledge development for the selected crop and livestock value chains through 
+increased transfer of Good Agriculture Practices (GAPs) by rolling out innovative 
+extension models, such as livestock Farmer Field Schools (FFSs) and e-extension, 
+diffusion of innovative technologies (including CSA, such as climate-resilient feed 
+production and mitigation options), developing technical references, and providing the 
+related training; provision of improved access to quality agricultural and zootechnical 
+inputs (fertilizers, seeds, phytosanitary and sanitary products, food, genetics). 
+Improved extension services are expected to increase producers’ awareness about 
+climate change and improve their capacity to mainstream climate action; 
+
+ 
+(b) Productivity and food safety enhancement via provision of specialized services to 
+
+support crop quality, animal health, and food safety. The aim would be to increase the 
+availability of and access to high-quality services and inputs for crop and livestock 
+producers (including aquaculture). It would include crop and animal disease 
+surveillance in order to improve the quality and hygiene of food of plant and animal 
+origins, strengthening programs of animal prophylaxis (animal health/vaccinations) 
+and fight against major pests and diseases, including prevention and management, 
+weather monitoring, veterinary services enhancements and vaccination campaigns, 
+quality control of crop and animal products, and seed and input certification.3 It would 
+seek synergies and complementarities with PRAPS and REDISSE. Pest and animal 
+health surveillance, together with weather monitoring, is expected to improve herd 
+and crop resilience to climate-induced risks; and 
+
+ 
+(c) Strengthening the policy planning and regulatory framework. This activity would aim 
+
+at strengthening MoA&L’s efficiency and effectiveness by supporting policy 
+formulation and developing the attendant legislation/regulations for improving the 
+agriculture, livestock, and fisheries regulatory environment, and reducing distortions.  
+This would include supporting the preparation of sector master plans, public 
+investment plans, public expenditure reviews, support the establishment of 
+agricultural and livestock infrastructures (establishment of service platforms at the 
+level of the eight regions, according to approaches adapted to the target sectors, 
+which would also include CSA options), and definition of food standards (quality and 
+safety).  In order to support women’s empowerment and enhance agricultural 
+productivity, the project would support policy development to expand women’s land 
+rights and formally document their land claims to improve land access and tenure 
+security for women.4 
+
+                                            
+3 This could involve the development of registers for plant and livestock varieties to help standardize food 
+production and processing methods.  A livestock identification and registration system would help with disease 
+mitigation and management from getting a handle on animal movements within the country.  It might be useful also 
+to develop a phyto register to catalogue locally-developed seeds but also help with controls of invasive species (bugs 
+and weeds). 
+4  These proposed actions are fully in line with World Bank Policy Research Working Paper No.7199 by Prospere 
+Backiny-Yetna and Kevin McGee, entitled: “Gender Differentials and Agricultural Productivity in Niger.” The paper
+     
+
+ 
+Component 2: Support to public and private investments for improved production, processing, and 
+market access for selected agriculture and livestock value chains—US$ 60 million  
+
+ 
+30. The Component would promote public and private investment at all levels of the selected value 
+chains of milk, red meat, fish, poultry, onions, and niébé (production, processing, storage, transport, and 
+marketing) for the development of production, market access, and competitiveness. The objective would 
+be to increase productivity (while adapting to climate change and allowing for reduction in GHG 
+emissions) and to strengthen the competitiveness of the targeted sectors (including through processed 
+product diversification) and facilitate market access for producers and breeders, and agro-industry. 
+These activities would be aimed at supporting the intensification and modernization of cropping and 
+sedentary livestock systems, as well as processing units in the selected value chains, with a view to 
+reaching operators' critical sizes to increase profitability and generate jobs.  
+
+31. The intervention principles would be the following: (i) supporting the enhancement of capacities 
+of farmer, cooperative, and inter-professional organizations in the targeted sectors in order to allow the 
+emergence of an improved, more competitive economic fabric; (ii) identifying pre-investment activities 
+(commercial viability studies, capacity building of service providers) to prepare viable business plans for 
+economic operators and improve access for project promoters to financing by partner financial 
+institutions (PFI); (iii) improving market access by removing distortions and supporting aggregation and 
+packaging/processing points for agricultural and livestock products; and (iv) financing public and private 
+investments in all segments of the sectors targeted by the project (production, processing, upstream, 
+and downstream) within the framework of Productive Partnerships, i.e. economic partnerships between 
+producers and other operators of the value chains. 
+
+ 
+32. Activities envisaged to strengthen value chains (VCs) could be as follows: strengthen the 
+economic organization of operators (support for professional structures); facilitate the linking of supply 
+and demand (structuring of supply, identification of markets, linking, and contracting prospects); conduct 
+pre-investment and training activities for economic operators and private service providers, in order to 
+identify viable business plans, and improve operators' access to PFI financing (development of financial 
+products for livestock farming, training of PFIs in the agriculture and livestock sector, negotiation of 
+agreements with PFIs to partially finance project promoters); and finance investment subprojects within 
+the framework of Productive Partnerships in all segments of the targeted sectors (upstream, production, 
+downstream) in the form of cost-shared grants that could finance inputs, services, training, equipment, 
+and infrastructure. 
+
+ 
+33. Possible windows for investment funding. Funding and co-financing of investments in the 
+targeted VCs would likely be conducted through separate windows, such as: (i) Productive Partnership 
+(PP) window: for larger investment sub-projects, requiring individual contributions in cash and PFI 
+funding; these sub-projects could involve, inter alia, scaling up of small-scale irrigation with the use of 
+solar energy instead of diesel pumps; (ii) medium-scale microproject (MP) window: for medium 
+investments with combination of cash, PFI funding, and in-kind contributions; and (iii) small-scale 
+microproject (MP) window: for small investments with in-kind contributions and no external funding 
+
+                                            
+explicitly recommended enhancing women’s tenure rights in order to improve agricultural productivity. It further 
+recommended facilitating women’s access to and use of hired farm labor and facilitating its supervision, incl. by 
+facilitating community-based child care. 
+
+requirements. Under these three windows, women and youth would receive preferential treatment.  The 
+most appropriate financing modalities, including lower and upper thresholds for different windows, 
+would be determined during project preparation. 
+
+ 
+34. Women and Youth. Possible types of investments, favoring women and youth where feasible, 
+may include: (i) promotion of small-scale irrigation facilities and equipment in order to properly manage 
+water for agriculture purposes. This would be done according to the National Small-Scale Irrigation 
+Strategy developed (SPIN) in Niger. The activities to be carried may also include structures to 
+manage/store excess water during rainy season; (ii) land tenure rights recognition/documentation in 
+order to preserve existing assets and use rights and to avoid conflicts; (iii) land reclamation, upgrading of 
+soil fertility and improving existing carbon pools (such as through rangeland management, agro-forestry, 
+reduced tillage techniques, etc.); (iv) development of storage facilities (including cold chain and adapted 
+to climate risks); and (v) marketing structures. 
+
+ 
+Component 3: Crisis prevention & management, and project coordination--US$ 15 million  
+
+ 
+35. The objective of this component is to develop mechanisms for preventing and responding to 
+severe crises and emergencies in the agriculture and livestock sectors, including future extreme weather 
+events and other climate risks, as well as to strengthen project coordination capacities within MoA&L. 
+Accordingly, its proposed activities relate to: (i) crisis prevention and management, and (ii) institutional 
+support and project management: 
+
+(a) Crisis prevention and management: (i) support MoA&L’s capacity to deal with crises by 
+providing equipment (computer hardware and software, office furniture, vehicles, etc.), 
+training and resources for specialized studies and communication campaigns, and vaccines; 
+(ii) develop and operationalize crisis prevention and management tools, including the 
+organization of forums for crisis management at local and national levels (as well as 
+participation in international crisis management forums in West Africa and the Sahel); and 
+(iii) funding of an Contingency Emergency Response Component (CERC). In doing so, the 
+project would help establish a Crisis Management Unit at MoA&L with the capacity to 
+intervene quickly when needed through the provision of emergency funds for severe crises 
+and institutional support.  
+ 
+
+(b) Project coordination. This activity would support all PCU activities required to manage IDA 
+funds, procure IDA-funded goods and services, conduct project M&E including Iterative 
+Beneficiary Monitoring (IBM),5 and comply with safeguard mitigation measures.  It would 
+provide training and equipment to modernize MoA&L operations (computer hardware and 
+software, office furniture, vehicles, and so on) at the central level and in the field as needed 
+for project activities. It would also support general awareness and sensitization campaigns 
+about project activities.  
+
+    
+
+                                            
+5 This activity would monitor beneficiaries of the project starting at the beginning of the implementation with the 
+objective to improve project efficiency and increase beneficiary satisfaction and beneficiary engagement. IBM collects 
+information on project implementation, even in insecure settings. It is light, low-cost, and rapidly complements 
+project supervision. The approach is problem-oriented and provides feedback to project teams through different 
+iterations with the aim of catalyzing improvements in project implementation. IBM collects data directly from 
+beneficiaries but keeps data collection efforts to a minimum by relying on few research questions and small samples. 
+
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The Project will be nationwide. However, during preparation it will be determined whether the focus will be on selected 
+
+Communes in the eight regions, depending on the selection of value chains and the complementarity with other ongoing 
+projects. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The Ministry of Agriculture and Livestock (Recipient) has considerable experience in implementing IDA-funded 
+
+Agricultural sector development projects. This collaboration with the Bank has obviously provided the Ministry with some 
+technical capacity with regards to the application of World Bank environmental and social safeguards policies; the 
+development of appropriate safeguards mitigation instruments and their implementation and monitoring.  Staff of the 
+Ministry have shown a great deal of understanding and implementing social and environmental safeguards measures on 
+the ground. More recently, the Recipient successfully carried out the CAP3 microprojects in accordance with the WB 
+environmental and social safeguard policies and the national environmental and social compliance requirements. This 
+good standing trend will be continued and further mainstreamed as the Recipient will continue to receive guidance from 
+the Bank’s Environmental and Social Safeguards Specialists in the project team through supervision missions and virtual 
+support to the Social and Environmental Focal Point. 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Cheikh A. T. Sagna, Social Safeguards Specialist 
+Bougadare Kone, Environmental Safeguards Specialist 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The proposed project is categorized as B under this OP 
+policy because its potential social and environmental 
+risks are expected to be moderate and mostly site-
+specific, with no significant or long-term negative risks 
+and impacts. The potential environmental and social 
+risks and impacts are mostly related to the use of 
+fertilizers, pesticides and the increased GHG emissions 
+due to the land-use change during agriculture cycles.   
+Since the project physical footprint is presently 
+unknown prior to appraisal, and in compliance with 
+OP/BP 4.01 core requirements, the Borrower will 
+prepare an Environmental and Social Management 
+Framework (ESMF), consult upon and disclose it prior 
+to appraisal.  The ESMF will be mostly building upon 
+the existing PAC3 ESMF to guide the way that 
+potential negative environmental and social risks and 
+
+
+
+impacts of future sub-projects (following the positive 
+list) will be identified and mitigated during project 
+implementation. The ESMF will include social and 
+environmental clauses to be observed by the farmers 
+and herders, especially during project implementation, 
+by which time most project activities footprints will be 
+known.  If, during project preparation, any specific site 
+is known before appraisal, Environmental and Social 
+Impact Assessments (ESIA)/Environmental and Social 
+Management Plans (ESMP) will be also be prepared 
+and publicly disclosed, both in-country and at the WB 
+prior to appraisal. 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 No 
+The policy is not triggered as the project will not 
+support activities in areas where critical habitats may 
+be threatened. 
+
+Forests OP/BP 4.36 No 
+
+The policy is not triggered because the project will not 
+support activities related to forest exploitation or 
+management or that might have potential adverse 
+impacts on forested areas. 
+
+Pest Management OP 4.09 Yes 
+
+The project is not expected to finance acquisition, 
+transport, distribution, disposal, storage or use of 
+pesticides or similar chemicals that could threaten 
+environmental and human health.  Nevertheless, OP 
+4.09 is triggered because of the following related to 
+the project: (i) livestock productivity enhancement via 
+animal health, animal disease surveillance, animal 
+health/vaccinations, and fight against pests, 
+prevention and management; and (ii) farmers, for the 
+agricultural productivity purpose, may use fertilizers 
+and pesticides.  An Integrated Pest Management Plan 
+(IPMP) will be prepared, consulted upon and publicly 
+disclosed prior to appraisal. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+This policy is triggered because of the nature of 
+possible civil works to be financed under component B 
+which might lead to the unearthing of such PCR.  
+Nevertheless, it is highly unlikely that any physical 
+cultural resources will be impacted; nonetheless, the 
+existing “Chance finds procedures” will be embedded 
+in the ESMF to ensure that these aspects will be taken 
+into account during project preparation and 
+implementation. 
+
+Indigenous Peoples OP/BP 4.10 No 
+The policy is not triggered as there are no Indigenous 
+Peoples in the project areas. 
+
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The Policy is triggered as the proposed project 
+activities will require acquisition of land that could 
+lead to some losses of assets, losses or restriction of 
+access to some sources of livelihoods, resulting in 
+either a temporary or permanent involuntary 
+resettlement of project affected persons (PAP). 
+However, since the physical footprint of project 
+activities areas are mostly unknown at this juncture 
+and will very likely be unknown prior to appraisal, the 
+Borrower will prepare, consult upon, and publicly 
+disclose prior to appraisal a Resettlement Policy 
+Framework (RPF). During project implementation, the 
+screening process will further determine whether land 
+will be acquired and whether a subproject-specific 
+Resettlement Action Plan (RAP) will be required. If so, 
+such a RAP would be duly consulted upon and publicly 
+disclosed both in-country and on the World Bank 
+website at the InfoShop prior to the physical start of 
+project civil works. 
+
+Safety of Dams OP/BP 4.37 TBD 
+
+The project may finance some water retention 
+structures for excess water during the rainy season. 
+This matter will be reviewed during the project 
+preparation stage and pre-appraisal to assess whether 
+or not OP/BP 4.37 should be triggered. The Policy of 
+for now is to TBD until then. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project will not finance activities that will interfere 
+with international watercourses; either in terms of 
+water withdrawal or discharge of pollutants. 
+
+Projects in Disputed Areas OP/BP 7.60 No The project intervention areas are not under dispute. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+May 31, 2018 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+The safeguard-related studies will be launched in early March 2018 and will be completed by May 14, 2018. 
+ 

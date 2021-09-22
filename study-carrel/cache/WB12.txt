@@ -1,0 +1,793 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Zambia Integrated Forest Landscape Project (P161490) 
+
+ 
+ 
+
+  
+Dec 22, 2016 Page 1 of 18  
+
+     
+
+ 
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 24-Feb-2017 | Report No: PIDISDSA20573 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Zambia P161490 Zambia Integrated Forest 
+Landscape Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 16-Jan-2017 04-May-2017 Agriculture 
+
+Lending Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Interim Climate Change 
+Secretariat 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+To improve landscape management and increase environmental and economic benefits for targeted rural 
+communities in the Eastern Province and to provide an immediate and effective response to an eligible crisis or 
+emergency. 
+ 
+Components 
+
+1. Enabling environment 
+2. Livelihood investments 
+3. Project management 
+4. Contingent emergency response 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Financing Source Amount  
+
+BioCarbon Technical Assistance Trust Fund    8.00  
+
+Borrower    0.00  
+
+Global Environment Facility (GEF)    8.05  
+
+International Development Association (IDA)   17.00  
+
+Total Project Cost   33.05  
+
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+
+
+
+ 
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+
+1. Zambia is a lower-middle-income country with close to 16 million inhabitants. It had a Gross Domestic 
+Product (GDP) of US$27.1 billion in 2015, equating to a per capita income of about US$1,300. Zambia 
+has made significant socio-economic progress over the past two decades and achieved average growth 
+of 7.4 percent between 2004 and 2014. However, since mid-2015 economic growth has slowed down 
+considerably to 2.9% in 2015 and a forecasted 3.0 percent in 2016, as external headwinds and domestic 
+pressures have intensified.  
+
+2. In 2015, global economic conditions for growth deteriorated and the price of copper (typically 77 
+percent of Zambia’s exports) fell further from its 2011 peak. This has put downward pressure on 
+revenues, widening the fiscal deficit and reduced the value of exports, opening up a trade deficit. In 
+addition, Zambia experienced domestic pressures in the form of: (i) repeat fiscal deficits (reducing 
+confidence in the economy); (ii) reduced and delayed rainfall in 2015 (undermining agricultural incomes 
+and lowering the water level in reservoirs); and (iii) increased power outages. Further, the strengthening 
+of the US$ in 2015 put pressure on the Zambian Kwacha that combined with lower confidence so that 
+the local currency lost 41% of its value against the US$. 
+
+3. Close to the end of 2015 the government acted vigorously to contain the impact of ebbing confidence 
+with monetary policy measures. These measures restored stability of the Kwacha, which appreciated by 
+11.2 percent in the first 9 months of 2016, and helped curb inflation from its peak of 22.9 percent in 
+February 2016 to 8.8 percent in November 2016. However, fiscal policy remained loose in 2016 and 
+monetary policy has had to remain very tight, reducing liquidity, putting pressure on the financial sector, 
+and causing a drag on growth.  
+
+4. The August 2016 elections went in favor of the incumbent President and political party. After five 
+elections in ten years the constitutional changes mean that a full five-year term is expected to be served, 
+raising cautious optimism about the political space for reform in 2017 and over the medium-term. The 
+Government has presented its economic recovery plan: “Zambia Plus” that provides a framework for 
+restoring fiscal sustainability, closing the twin deficits and ensuring that structural reforms are carried 
+out to boost the non-copper economy. The Government has requested the support of the World Bank, 
+IMF and other partners to make it a success. Accordingly, GDP growth is forecast to rise to 4.0 percent in 
+2017 and 4.2 percent in 2018. The forecasts are subject to upside and downside risks, but the return of 
+investor confidence in the fourth quarter of 2016 (evidenced by over-subscribed bond auctions), bold 
+measures by government (including the removal of fuel subsidies), and a rally in copper prices 
+(November 2016), suggest that economic circumstances are improving.  
+
+Note to Task Teams: End of system generated content, document is editable from here. 
+
+
+5. The rapid and sustained growth achieved from the early 2000s to 2014 was insufficiently inclusive and 
+despite the economy doubling in size, poverty remains widespread. As based on the 2015 Living 
+Conditions Monitoring Survey Report of the Government’s Central Statistical Office, an estimated 54.4 
+percent of Zambians live in extreme poverty (below US$1.90 per day, purchasing power parity terms) 
+and poverty is higher among women. Rural poverty (at 76.6 percent) is more than three times the 23.4 
+percent rate of urban poverty. The benefits of growth have accrued mainly to those already above the 
+poverty line, inequality has remained high, and efforts are needed not only to restore the economy to 
+faster growth, but ensure planned pro-poor policies are implemented and more inclusive growth 
+follows. 
+
+Sectoral and Institutional Context 
+ 
+
+6. In Zambia’s Eastern Province (EP), the majority of the province’s 1.7 million people live in rural areas 
+with livelihoods dependent on natural resources. As in Zambia as a whole, this rural population is 
+characterized by high levels of poverty and addressing this challenge is the highest priority of the 
+provincial administration. According to the World Bank’s Mapping Subnational Poverty in Zambia report, 
+the Eastern Province is one of three poorest provinces in Zambia
+
+1
+. In addition, according to the Living 
+
+Conditions and Monitoring Survey (2015), at 70 percent, the Eastern Province had the fourth highest 
+proportion of population that was poor. The Zambian diet is mainly composed of cereals, predominantly 
+maize, starchy roots and, to a lesser extent, fruit and vegetables. Cereals provide almost two-thirds of 
+the dietary energy supply. According to the 2013-14 Zambia Demographic and Health Survey, the 
+nutrition indicators for Eastern province stand at 43 percent for children under five who are stunted and 
+20 percent of the women are overweight or obese (ZDHS, 2013-14).  Women and children are the most 
+vulnerable to the problems related to nutrition because of their socioeconomic characteristics.  
+
+7. Compounding the challenges of rural development in the EP is a changing climate, which models suggest 
+will continue to change dramatically over the coming decades. The country is already experiencing 
+climate-induced hazards. Droughts and floods have increased in frequency and intensity over the past 
+few decades and have adversely impacted food and water security, water quality, energy generation, 
+and livelihoods of people, especially in rural communities. Recent climate trends based on records from 
+1960 to 2003 indicate that the mean annual temperature increased by 1.3 degrees Celsius, an average 
+rate of 0.34 degrees Celsius per decade. Mean rainfall in Zambia has decreased by an average rate of 1.9 
+mm/month (2.3 percent) per decade since 1960. The future trends in the country are towards a higher 
+average temperature, a possible decrease in total rainfall, and some indication of more intense rainfall 
+events. Zambia’s Nationally Determined Contribution (NDC) report to the UNFCCC has estimated 
+national GDP loss due to climate change over a 10-20 year mid-term planning horizon will be in the 
+range of US$4,330-5,440 million with the following sector GDP losses: agriculture (US$2,200 – 3,130), 
+energy-related (US$270 – 450), health (US$460), and natural resources (US$1,400).  
+ 
+
+8. In addition to being subject to the impacts of climate change, Zambia contributes to global carbon 
+emissions. According to the Second National Communication (SNC), the latest data available from the 
+UNFCCC, annual greenhouse gas (GHG) emissions in Zambia have increased by 6.2 percent from 51.52 
+million tons carbon dioxide equivalent (CO2e) in 1994 to 54.72 million tons CO2e in 2000. The largest 
+contribution to GHG emissions in 2000 came from land use change and forestry, which accounted for 
+
+                                                           
+1
+ World Bank Group (2015), Mapping Subnational Poverty in Zambia. 
+
+7 percent followed by agriculture at 18.9 percent. 
+ 
+
+9. Addressing rural poverty and improving livelihoods, helping rural communities adapt to major impacts 
+to be expected from climate change, and reducing national carbon emissions from the forest and land 
+sector all require a carefully integrated landscape approach. Major sources of rural livelihoods in the EP 
+are in agriculture, forestry, and wildlife, but all of these are inter-dependent and all are intertwined with 
+climate change adaptation and mitigation. 
+
+ 
+10. The Government of the Eastern Province is in the process of preparing a development vision in 
+
+consultation with provincial stakeholders. The vision statement is “to improve rural livelihoods in Eastern 
+Province by reducing deforestation and forest degradation using a low emission pathway through local 
+community participation by 2030”. In order to address the challenges associated with the drivers of 
+deforestation, local communities’ participation and commitments as well as private sector involvement 
+will be critical in optimizing natural resources management at both communal and individual farmer 
+levels. According to the vision, the targets for reducing drivers of deforestation include reducing the 
+total annual area burnt from 16.7 percent to 5.0 percent by 2036 through forest fire management; 
+establishment of a minimum of 3,000 hectares of plantations on deforested land by 2037; promoting 
+ecotourism with community participation to combat poaching; and promoting soil fertility 
+improvement, good agricultural practices, and land use planning among 40 percent of the farmers in the 
+province to tackle food security and poverty at local level. The estimated financing investment to 
+achieve these goals is US$140 million, part of which will be leveraging private sector investments and a 
+significant part of which will be mobilization of additional financing for institutional strengthening and 
+implementation of activities. The ZIFLP will contribute towards supporting activities for addressing the 
+drivers of deforestation as stated in the vision. 
+ 
+
+11. Institutionally, responsibilities for coordination of the national climate agenda falls to the Interim 
+Climate Change Secretariat (ICCS), under the Ministry of National Development Planning (MNDP). The 
+ICCS ensures coordination with the many other ministries and organizations which need to be engaged 
+in a landscape-level livelihoods/climate change initiative such as this project. Responsibility for 
+implementing projects is often with the line ministries. At the provincial level, the provincial 
+administration of the Eastern Province exercises considerable control over activities in its jurisdiction, 
+consistent with the recently adopted decentralization law of Zambia. 
+
+ 
+C. Proposed Development Objective  
+ 
+
+ 
+ 
+Development Objective 
+ 
+
+12. The PDO is “to improve landscape management and increase environmental and economic benefits 
+for targeted rural communities in the Eastern Province and to provide an immediate and effective 
+response to an eligible crisis or emergency”.  
+
+ 
+
+Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your 
+
+convenience. Please keep it up to date whenever it is changed in the datasheet. 
+
+
+Key Results 
+ 
+
+13. The achievement of the PDO will be measured using the following indicators i) Forest area brought 
+under sustainable management practices as a result of the project (ha); ii) Land area under climate-
+smart agricultural practices (ha); iii) Yield change for selected crops (%); and iv) People in targeted 
+communities with increased monetary and non-monetary benefits (% share of which women). The 
+project outcome and intermediate indicators are presented below in the Results Framework. 
+
+ 
+D. Project Description  
+ 
+
+14. The project aims to provide support to rural communities in the EP to allow them to better manage the 
+resources of their landscapes so as to reduce deforestation and unsustainable agricultural expansion; 
+enhance benefits they receive from forestry, agriculture, and wildlife; and reduce their vulnerability to 
+climate change. The project must also invest in ensuring that enabling conditions are in place for these 
+changes to happen – conditions such as tenure security, planning at different spatial scales, and capacity 
+development. Simultaneously the project will create the enabling environment for emission reduction 
+purchases to be made in a subsequent project. 
+
+ 
+15. ZIFLP will promote the adoption of sustainable landscape management practices and climate-smart 
+
+agriculture (CSA) as an alternative. Community empowerment, strengthening local and traditional 
+governance and land use planning are the key to integrating, optimizing multiple land uses within the 
+landscape. However, collective action is unlikely in the absence of rights to use, benefit from, and 
+protect natural resources. Leverage for transforming the system will include village land use plans, 
+improved governance, matching land use with land characteristics, and poverty reduction outcomes 
+including emission reduction payments. This will require strong monitoring systems for 
+livelihoods/economics, governance, the implementation of land use plans, and resources monitoring 
+and protection. 
+
+ 
+16. ZIFLP would finance activities under four components over a five-year period using funds from the 
+
+BioCFplus-ISFL (US$8.0 million), GEF (US$8.05 million) and IDA (US$17.0 million). The project 
+components include 1) Enabling Environment, 2) Livelihood and Low Carbon Investments, and 3) Project 
+Management. A fourth component, with a zero budget, is included in the event funds need to be 
+reallocated for an emergency response. 
+ 
+
+17. Component 1: Enabling Environment. This first component is intended to help create conditions that 
+will allow the livelihood investment of Component 2 to be successfully implemented. This entails 
+supporting plans, partnerships, and regulatory conditions to help rural communities in the project area 
+to have the capacity to adopt sustainable and low-carbon land management practices. The component 
+would include support for (i) Developing integrated district development and local planning; and (ii) 
+Establishing emissions reduction framework leading to an Emission Reduction Payment Agreement 
+(ERPA) (for future results-based emissions reduction payments). Enabling environment interventions will 
+be financed through grant support from the BioCarbon Fundplus-ISFL. 
+ 
+
+18. Component 2: Livelihood and Low-Carbon Investments. Component 2 will finance on-the-ground 
+activities that improve rural livelihoods, conserve ecosystems and reduce GHG emissions. It has 2 
+
+
+
+subcomponents: Agriculture and forestry management and Wildlife management. These activities will 
+be financed by IDA, BioCFplus-ISFL and GEF resources. Although the subcomponents are sectoral in 
+nature, the cross-sectoral and landscape approach of the planning activities that will underlie the 
+activities will ensure a landscape approach is retained.  
+
+ 
+19. Agriculture and forestry management. The objective of this subcomponent is to provide financing for 
+
+interventions that increase agricultural productivity, enhance agro- and forest ecosystem resilience, 
+reduce GHG emissions, and sequester carbon using a landscape approach. This subcomponent will cover 
+the following activities: (i) scaling up of climate-smart agricultural practices; (ii) community forestry 
+management; and (iii) land tenure and resource rights regularization, a pre-condition for the adoption of 
+improved agriculture and forestry management. 
+
+ 
+20. Climate smart agriculture. Interventions under climate smart agriculture will apply a train the trainers 
+
+approach to introduce (i) conservation agriculture (CA) practices and integrated soil fertility 
+management, (ii) agroforestry, and (iii) enhanced market access for smallholders and private sector 
+engagement. In addition, the project supports community matching grants which can support livelihood 
+interventions including climate-smart agriculture interventions, introducing small ruminants or poultry, 
+supporting market access through agro-processing. Interventions will aim at enhancing the income and 
+livelihood of the communities and farmer families through income generating and value added activities 
+in the Eastern Province.  
+
+ 
+21. Community forestry management. The objective of forestry management is to assist local communities 
+
+and their organizations to improve the management and conservation of their natural resources, create 
+income opportunities, and generate carbon benefits. This will be accomplished by developing and 
+implementing participatory land and resource use planning and management–including fire control and 
+prevention–and providing specialized technical assistance and training to identify viable investments 
+from the sustainable production of timber and not-timber forest products. Activities to be supported 
+will be consistent with the land and resource use plans developed at the village and district levels. The 
+sub-component would finance specialized technical and extensions services, small works and 
+equipment, operational costs and non-consultant services (e.g. workshops and study tours).  
+ 
+
+22. Land tenure and resource rights regularization. The sub-component will provide analytical and 
+technical assistance support to expand past and ongoing efforts at documenting land rights that could 
+underpin adoption of sustainable low-carbon land management practices and private sector 
+engagement.  Activities will feed into the National Land Titling Program, and will comprise (i) developing 
+cost-effective systems to sustainably manage information on land rights and linking it to land use; (ii) 
+identifying new possibilities of private sector engagement based on an assessment of the extent and 
+impact of existing arrangements; (iii) documenting different types of land rights in ways that are 
+supported by local stakeholders, and provide incentives for adoption of CSA, sustainable land use and 
+intensification; and (iv) linking land rights to key parameters of land use (crop cover, soil moisture, soil 
+carbon) using remotely sensed imagery.  
+
+ 
+23. Wildlife management. This sub-component will have two major focus areas: i) improved management of 
+
+the complex of protected areas centered on Lukusuzi National Park in the Eastern Province; and ii) 
+adoption of improved management practices of wildlife at the community level, which can contribute to 
+
+improved livelihoods of targeted communities. The project will support (i) preparation of park 
+management plans; (ii) investments in infrastructure such as guard houses or other park buildings, 
+upgrading of existing roads and tracks to facilitate park management and ecotourism, provision of water 
+holes, fencing (only in limited areas where judged necessary to minimize human-wildlife conflict, HWC); 
+(iii) purchase of equipment such as radios for communication, park guard equipment, patrol equipment, 
+etc.; and (iv) support to park patrols, with a particular focus on management of poaching. 
+
+ 
+24. Component 3: Project management. This third component will finance activities related to national and 
+
+provincial-level project coordination and management, including annual work planning and budgeting; 
+fiduciary aspects (financial management and procurement); human resource management; safeguards 
+compliance monitoring; M&E and impact assessment studies; and communication strategy and citizen 
+engagement).   
+
+ 
+25. Component 4: Contingent emergency response. This is a zero budget component which is included to 
+
+facilitate the use of IDA funds in the event of a disaster and to be able to respond quickly to a potential 
+government request to reallocate some funding from existing World Bank projects to provide 
+emergency relief.  
+
+ 
+E. Implementation 
+ 
+Institutional and Implementation Arrangements 
+ 
+
+26. The major investments of the ZIFLP will take place in the Eastern Province. However, there are activities 
+such as those related to REDD+ policy, MRV, safeguards, etc. which are national in scope. 
+Implementation of ZIFLP will therefore be at both the national and at the Eastern Province level. A 
+National Project Unit (NPU) will be responsible for activities at the national level, and will be located 
+within the Ministry of National Development Planning. At the provincial level, the Provincial 
+Administration of the Eastern Province will be the executing agency of the project. This implementation 
+arrangement aims to: (a) ensure sectoral mainstreaming of investment; (b) lessen the approval layers 
+for faster decision-making, enabling more efficient project implementation; and (c) respect the 
+constitutionally mandated decentralization process and governance structures at the national and 
+provincial levels, to the extent possible.  
+
+ 
+ 
+
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+Project location is the Eastern Province of Zambia. Wildlife conservation activities will focus on improved 
+management of Lukusuzi National Park (and surrounding areas). The land planning, agriculture, and forestry 
+investments will take place throughout the Province. 
+
+ 
+
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Kenneth M. Green,Majbritt Fiil-Flynn,Nicholas Meitiaki Soikan 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The policy is triggered as this is an integrated forest 
+landscape project that will involve afforestation, 
+reforestation, promotion of sustainable conservation 
+farming methods as well as preservation of wildlife 
+habitat in national parks and adjacent GMAs, all of 
+which could have environmental or social impacts 
+which must be assessed and managed. As a 
+landscape management project its impacts are 
+nonetheless expected to be overwhelmingly 
+positive. 
+ 
+The positive impacts of the program will be a 
+reduction in greenhouse gas emissions with 
+improved forest cover, rural livelihoods 
+improvement, and wildlife conservation. The 
+potential negative environmental impacts will be 
+known with more specificity as project activities are 
+identified during project implementation but are 
+expected to be limited, localized, small-scale and not 
+significant given that many of the on-the-ground 
+project activities will be from community-driven 
+development initiatives. An Environmental and 
+Social Management Framework (ESMF) has been 
+prepared to assess and guide the screening and 
+mitigation of any negative impacts of the program. 
+The project will monitor possible cumulative 
+negative impacts and take action as needed. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+The policy is triggered given the potential impacts on 
+natural habitats either directly or indirectly, through 
+REDD+ activities, conservation farming, and the 
+management of wildlife habitats. The expected 
+impact on habitats is overall positive. Changes in 
+livelihoods of rural farmers, due to increased 
+agriculture activities and the introduction of new 
+
+
+agricultural technologies, are likely to have limited 
+negative impacts on natural habitats. The proposed 
+avoidance and mitigation measures for these 
+impacts are included in the project's ESMF. 
+
+Forests OP/BP 4.36 Yes 
+
+The policy is triggered as the project forestry 
+management activities seek to assist local 
+communities and their organizations to improve the 
+management and conservation of their forests. The 
+project will have impacts on the health and quality 
+of forests, will affect the rights and welfare of people 
+and their level of dependence upon and interaction 
+with forests, and aims to bring about changes in the 
+management, protection, and utilization of natural 
+forests. However, the project will not lead to 
+significant conversion or degradation of critical 
+forest areas or related critical natural habitats. There 
+may be continuing intrusion of smallholder farming 
+into natural forests in the project area but the 
+overall purpose of the project investments is to limit 
+such intrusions and never to promote them. The 
+project's Environmental and Social Management 
+Framework (ESMF) and Process Framework (PF) 
+address the potential impact of the project on 
+forests and/or the rights and welfare of local 
+communities. 
+Since the project potentially finances harvesting 
+activities carried out by local communities under 
+community or even possibly joint forest 
+management, such communities will adhere to a 
+time-bound phased action plan to achieve a 
+standard of forest management developed with the 
+meaningful participation of locally affected 
+communities, consistent with the principles and 
+criteria of responsible forest management as 
+outlined in paragraph 10 of OP 4.36. 
+
+Pest Management OP 4.09 Yes 
+
+The policy is triggered as increased agriculture 
+activities and the adoption of new climate smart 
+agriculture technologies could conceivably result in 
+increased usage of agrochemicals by farmer 
+beneficiaries. The project additionally will procure 
+supplies and equipment for nurseries which may 
+include pesticides. While a stand-alone Pest 
+Management Plan (PMP) is not required for this 
+project, the ESMF contains an abbreviated PMP to 
+avoid usage of restricted pesticides, promote use of 
+
+
+
+personal protective equipment (PPE), training of 
+producers in proper handling of agrochemicals, and 
+to promote integrated pest management. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The policy is triggered as a preventative measure in 
+the event of potential impacts on the known and 
+currently unknown physical cultural resources (PCR) 
+of the area. The ESMF contains measures for 
+avoiding and managing impacts on known PCR in the 
+project area as well as chance-find procedures in the 
+event new resources are discovered in the course of 
+project implementation. 
+
+Indigenous Peoples OP/BP 4.10 No 
+
+The policy is not triggered as the proposed program 
+activities in the Eastern Province of Zambia are in 
+areas that do not include indigenous groups as 
+defined by the policy. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+OP 4.12 is triggered and applies mainly to certain 
+activities relating to project interventions in 
+protected areas. A Resettlement Policy Framework 
+(RPF) was prepared in consultation with key 
+stakeholders, consulted, and publicly disclosed. A 
+Process Framework (PF) will also be required given 
+that the project will support improved management 
+of Lukusuzi National Park, adjacent GMAs and 
+possibly other protected areas, thus potentially 
+limiting access to resources. 
+ 
+The PF is intended to avoid or minimize any adverse 
+impacts upon local livelihoods and to support the 
+development of alternative livelihoods as needed, 
+on the lands already available to the affected 
+households or communities. The project will support 
+the preparation and implementation of follow-up 
+action plans to provide livelihoods support where 
+needed, following the criteria and procedures 
+specified in the PF.  
+ 
+The Zambian Government has recently resettled 
+communities who encroached into Lukusuzi National 
+park in the recent past. The Government has 
+prepared and sent to the Bank a review of how the 
+resettlements were carried out and an action plan to 
+cover any remaining gaps that might remain. 
+ 
+During the project, the Government could be 
+required to continue to deal with those who have 
+
+dy encroached into the park, or with new 
+encroachers. If the project will in any way be 
+associated with new resettlements, this would have 
+to be done in strict accordance with the RFP. 
+Additionally, the PF outlines the process of dealing 
+with such situations following the Zambian laws, the 
+provisions of the PF in accordance with OP 4.12, as 
+well as international best practices.  
+ 
+The Land tenure and resource rights regularization 
+activities will be informed by and will be 
+complementary to the PF and RPF as appropriate. 
+ 
+All project-supported civil works (such as 
+construction of office space, staff accommodations, 
+and ranger posts) will be on government, public, or 
+voluntarily donated community lands. This will be 
+verified through the environmental and social 
+screening mechanism specified in the ESMF, before 
+any civil works commence. 
+ 
+
+Safety of Dams OP/BP 4.37 No 
+
+The policy on the Safety of Dams is not triggered as 
+the project will not involve the construction of water 
+retention structures that are likely to pose potential 
+hazards to human or animal health and safety. The 
+project will not fund any dams as defined in OP 4.37 
+that would trigger the requirements of the policy. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+
+The policy for Projects on International Waterways is 
+not triggered as the proposed activities will not 
+potentially impact any shared international 
+waterway. Any conceivable increase in water use 
+and direct abstraction of water resources in the 
+Luangwa watershed will be of low significance and of 
+local impact only. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The Bank policy on Projects in Disputed Areas is not 
+triggered by the project, as it is not located in any 
+disputed territory of the country. 
+
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+While there are environmental and social safeguard issues associated with the proposed project, no large-scale, 
+significant, or irreversible negative impacts are foreseen. In general, the project is expected to generate positive, 
+environmentally friendly land management practices including climate-smart agriculture and implementation of 
+national park management plans. However, the project takes place in and could conceivably negatively impact natural 
+habitats, protected areas, and forests. Additionally, as a project with an agricultural component, there are safeguard 
+issues related to pesticide use. In all these cases, activities are largely community and demand-driven, and potential 
+impacts are small-scale and localized. There may be cumulative impacts from these small-scale activities which will 
+need monitoring. 
+ 
+Zambia in the past has resettled persons illegally encroaching into national parks, including from Lukusuzi National 
+Park, to be supported under the project. There could be possibilities of dealing with encroachment in the life of this 
+project. The Government has conducted a review of how resettlement was carried out in the past in Lukusuzi NP as 
+well as a gap analysis to identify any additional measures that may be needed to ensure compliance with both 
+Zambian law and World Bank requirements. Any resettlement carried out during the project will be subject to the 
+project's Resettlement Policy Framework. Additionally, the Process Framework (PF) outlines the process of dealing 
+with limiting access to resources, following Zambian laws and the provisions of the PF in accordance with OP 4.12, as 
+well as international best practices. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+No negative long-term impacts are expected. As mentioned, a potentially indirect impact due to increased or new 
+agricultural practices may be increased pesticide use but since such activities are largely community and demand-
+driven, these issues are small scale and localized. The project will also support livelihood restoration activities and 
+sustainable community forestry, which in turn is expected to be beneficial to the local communities. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+In order to achieve the project objectives of promoting landscape management in the Eastern Province, in agricultural, 
+forestry, and wildlife sectors, no project alternatives were identified that would further minimize environmental or 
+social impacts and still allow for achievement of project objectives. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The borrower has developed an Environmental and Social Management Framework (ESMF), a Resettlement Policy 
+Framework (RPF), and a Process Framework (PF) in order to address safeguard policy issues. Specifically for issues 
+related to the resettlement of encroachers out of Lukusuzi National Park, the Government has prepared a review and 
+action plan. Although not related to potential impacts of the project activities, it should also be noted that the project 
+includes significant funding to support the preparation of the safeguard instruments that will be needed to advance 
+toward signature of an Emissions Reduction Purchase Agreement, in the context of REDD+. 
+ 
+The Interim Climate Change Secretariat, under the Ministry of National Development Planning is currently 
+
+
+implementing the Pilot Program for Climate Resilience (PPCR) in the Western Province of Zambia. Hence, the 
+implementation unit has good knowledge of safeguards and of implementation requirements. At present there is a 
+knowledgeable Environmental and Social Safeguards Officer with proven experience with implementing management 
+measures in line with World Bank safeguard policies. Safeguards capacity is much more limited or absent in the 
+provincial administration unit; staff will need to be hired or training will need to be provided. Safeguards training 
+needs have been identified in the ESMF, which would be provided through the technical assistance component of this 
+project. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+Citizen engagement and participation for the project’s implementation will build on the various multi-stakeholder 
+consultations that have taken place in the Eastern province during project preparation, and will take account of 
+existing communication structures.  
+ 
+Specifically, the project collaborates with stakeholders regularly through the following channels: project preparation 
+missions, Monthly REDD+ Working Group meetings organized by the Interim Climate Change Secretariat and Forestry 
+Department and Chipata Round Table meetings. The Chipata Roundtable was established to provide a forum for 
+government and non-governmental stakeholders to discuss major environmental threats to the Luangwa Valley 
+ecosystem, and is chaired by the Permanent Secretary, with active participation of chiefs and civil society. The 
+Roundtable will likely be expanded to cover the entire Eastern Province. The ICCS will also develop a clear consultation 
+and participation plan and protocols to be operationalized during implementation of this project, to ensure that all 
+relevant stakeholders are targeted by the project.  
+ 
+ 
+ 
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission to InfoShop 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+20-Jan-2017 15-Feb-2017 
+ 
+
+   

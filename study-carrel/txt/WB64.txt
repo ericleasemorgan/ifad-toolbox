@@ -45,6 +45,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 World Bank Document
 
 
@@ -105,8 +114,6 @@ May 10, 2017 Page 1 of 16
  
  
   
-
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
  
 
 Project Information Document/  
@@ -116,116 +123,6 @@ Integrated Safeguards Data Sheet (PID/ISDS)
  
 
 Concept Stage | Date Prepared/Updated: 20-Mar-2018 | Report No: PIDISDSC22113 
-
-P
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 2 of 16  
-
-     
 
 BASIC INFORMATION 
 
@@ -291,22 +188,6 @@ Other Decision (as needed)
  
  
  
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 3 of 16  
-
-     
 
 B. Introduction and Context 
  
@@ -395,18 +276,6 @@ restored through landscape restoration and improved legal resource rights. Many 
 
 
 
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 4 of 16  
-
-     
-
 ready to migrate remained in their birthplace. Afterwards, they could send their children to school. They could 
 
 increase nutrition by combining forage and livestock management, produce vegetables and fruits using small-
@@ -481,24 +350,6 @@ insecurity, and accumulating at least 20 million tons of CO2e per year after res
 PDO level indicators: 
 
  
-
-Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your convenience. 
-Please keep it up to date whenever it is changed in the datasheet. 
-
- 
-
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 5 of 16  
-
      
 
 1. Land area with sustainable landscape management practices (Ha)  
@@ -583,18 +434,6 @@ and sustain impact. For example:
 
 
  
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 6 of 16  
-
-     
-
- 
 
 • Improved technologies are critical to reduce variability of crop productivity in the face of more extreme and 
 
@@ -667,19 +506,6 @@ decreased fuel collection time by 1/3. Women also started to produce injera (bre
 hundreds of thousands -- and solar lighting could also be included which has very high demand -- if a focused 
 
 
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 7 of 16  
-
-     
-
 effort were made to bridge the last mile of distribution via women-managed local enterprise development. A shift 
 
 to ethanol stoves could be prioritized. 
@@ -751,21 +577,6 @@ additional GCF resources or other significant financial resources materialize;
 Project Components 
 
  
-
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 8 of 16  
-
-     
-
 Component 1. Investment in Green Infrastructure for Resilient Watersheds ($70 million IDA, others TBD).  
 
 This component would scale-up proven sustainable land and water management practices by rural smallholders and 
@@ -842,20 +653,6 @@ reduction at the levels of major watersheds, community watersheds, and farms. La
 
 Component 3) would be informed by vulnerability mapping and climate profiling, which would in turn be used to develop 
 
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 9 of 16  
-
-     
-
 or update watershed plans and farm planning (under Component 1) by incorporating climate smart agricultural techniques 
 
 financed under Component 1.  Component 2 would also support rigorous independent impact evaluations through a 
@@ -923,25 +720,6 @@ becomes more concrete during preparation, and pending formal site selection by t
 mapping of the specific project intervention area with provision of shape files for each major watershed and community 
 watershed targeted for project intervention.  
 
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 10 of 16  
-
-     
-
- 
- 
 B. Borrower’s Institutional Capacity for Safeguard Policies 
 
  
@@ -1000,18 +778,6 @@ planning , reforestation and afforestation, etc. The
 
 
 
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 11 of 16  
-
-     
-
 RLLP project may have range of activities such as 
 construction of small scale irrigation schemes, 
 community access road construction, water harvesting 
@@ -1066,18 +832,6 @@ or protection. Under RLLP, the forest related activities
 will have positive impacts because of reforestation, 
 
 
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 12 of 16  
-
-     
 
 rehabilitation of degraded forests land and communal 
 lands. Community infrastructure such as access roads 
@@ -1137,18 +891,6 @@ process with project beneficiaries and project affected
 
 
 
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 13 of 16  
-
-     
-
 peoples and prepared a Social Assessment in regions 
 having the characteristics associated with the 
 populations defined under OP4.10 criteria, to seek 
@@ -1199,19 +941,6 @@ recommendations based on experience in
 implementation of the SLMP-2 RPF. Experience from 
 SLMP-2 implementation indicates that the scope of 
 
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 14 of 16  
-
-     
 
 land take has been small and the nature of land take is 
 voluntary. The restriction of access to degraded lands 
@@ -1268,20 +997,6 @@ Projects in Disputed Areas OP/BP 7.60 No
 
  
 
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 15 of 16  
-
-     
-
 E. Safeguard Preparation Plan  
  
 Tentative target date for preparing the Appraisal Stage PID/ISDS 
@@ -1296,100 +1011,4 @@ ESMF, SA, and RPF prepared for SLMP-2 will be updated. This activity will be lau
 of each document will take 45 days. 
  
  
-
-CONTACT POINT 
-
- 
-
-World Bank 
-
-Paul Jonathan Martin 
-
-Lead Natural Resources Management Specialist 
- 
-
- 
-
-Borrower/Client/Recipient 
- 
-
-Ministry of Finance and Economic Cooperation 
-
-Fisseha Aberra 
-
-Director, International Financial Institutions Cooperation D 
-
-faberra@mofed.gov.et 
- 
-
- 
-
-Implementing Agencies 
- 
-
-Ministry of Agriculture and Natural Resources 
-
-Habtamu Hailu 
-
-Project Coordinator 
-
-habtamuhailu@yahoo.com 
- 
- 
-
-FOR MORE INFORMATION CONTACT 
-
-The World Bank 
-
-1818 H Street, NW 
-
-Washington, D.C. 20433 
-
-Telephone: (202) 473-1000 
-
-Web: http://www.worldbank.org/projects  
-
- 
-
- 
-
-http://www.worldbank.org/projects
-
-
- 
-The World Bank  
-Ethiopia Resilient Landscapes and Livelihoods Project (P163383) 
-
- 
- 
-
-  
-May 10, 2017 Page 16 of 16  
-
-     
-
-APPROVAL 
-
-Task Team Leader(s): Paul Jonathan Martin 
- 
-
-  Approved By 
-APPROVALTBL 
-
-Safeguards Advisor: Nathalie S. Munzberg 27-Mar-2018 
-
-Practice Manager/Manager: Magda Lovei 28-Mar-2018 
-
-Country Director: Nicole Klingen 25-Apr-2018 
-    
- 
- 
-
- 
- 
- 
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-
 

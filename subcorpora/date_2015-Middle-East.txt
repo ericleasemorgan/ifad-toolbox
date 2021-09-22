@@ -1,0 +1,1547 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+PROJECT INFORMATION DOCUMENT (PID) 
+APPRAISAL STAGE
+
+Report No.:  PIDA21451
+
+Project Name Lake Qaraoun Pollution Prevention Project (P147854)
+Region MIDDLE EAST AND NORTH AFRICA
+Country Lebanon
+Sector(s) Agricultural extension and research (10%), General water, 
+
+sanitation and flood protection sector (90%)
+Theme(s) Water resource management (100%)
+Lending Instrument Investment Project Financing
+Project ID P147854
+Borrower(s) Ministry of Finance
+Implementing Agency Council for Development and Reconstruction
+Environmental Category B-Partial Assessment
+Date PID Prepared/Updated 23-Feb-2015
+Date PID Approved/Disclosed 23-Feb-2015
+Estimated Date of Appraisal 
+Completion
+
+03-Apr-2015
+
+Estimated Date of Board 
+Approval
+
+22-Jul-2015
+
+Decision
+
+I. Project Context
+Country Context
+Lebanon is an upper-middle-income country, with a population of 4.5 million people and a gross 
+domestic product (GDP) of US$9,930 per capita in 2013.  The country is highly urbanized, with 
+more than 85 percent of its population living in cities.  It has an open economy in which services 
+and trade account for 60 percent of GDP and 73 percent of jobs.  The economy is driven by a 
+dynamic private sector and is dependent on financial flows from Arab Gulf countries. The country 
+is well-known for the high quality of its education system, ranking 13th out of 122 countries.   
+ 
+The Lebanese economy expanded at a moderate pace (3.6 percent annually) during the past five 
+decades. However, political instability, terrorism activities and the spillovers from regional conflicts 
+made this growth erratic and unstable. Moreover, the ongoing conflict in Syria has resulted in a 
+large inflow of refugees (estimated at 1.4 million  in January 2015), accounting for 30 percent of 
+the country’s population. This complex political, social, and security environment put additional 
+strain on the economy and public services. In fact, the GDP growth decreased from 8 percent in 
+2010 to just 0.9 percent in 2013.   
+ 
+Poverty affects nearly 28 percent of the Lebanese population (living on US$4 per day) and extreme 
+poverty touches 8 percent (living on US$2.4 per day).  The highest concentration of poor is found 
+in the North, followed by the South and the Beqaa. In addition, most refugees are concentrated in 
+the already impoverished area of the Beqaa (35 percent) and North Lebanon (35 percent). The 
+Syrian crisis is expected to have increased poverty among 170,000 Lebanese by 2014, with the 
+existing poor becoming even poorer.  In light of these challenges, job creation and social protection 
+are among the main development priorities in the country.  
+ 
+Lebanon made considerable progress in shaping the legal and institutional framework and restoring 
+infrastructure after the civil war (1975-89) and the more recent war with Israel (2006). However, 
+the country is still at an early stage of transition to environmental sustainability. The cost of 
+environmental degradation in Lebanon has been estimated at 3.2 percent of the country’s GDP in 
+2005.  Water pollution stands out as the country’s major environmental problem, costing more than 
+1 percent of the GDP per year. This accounts for the damages caused by the discharge of untreated 
+sewage, industrial effluent, and agricultural runoff into valleys, rivers, and the Mediterranean Sea.
+
+  
+
+Sectoral and institutional Context
+THE LITANI RIVER AND LAKE QARAOUN 
+ 
+The Litani River is the principal artery of Lebanon. Rising from the Olleiq springs close to the city 
+of Baalbeck, it flows 170 km through the Beqaa valley and the Qaraoun Lake, before it reaches the 
+Mediterranean Sea. The upper Litani River catchment extends over an area of 1,500 km2 (10 
+percent of the Lebanese territory) and comprises 99 towns distributed into 4 administrative districts: 
+Baalbeck, Zahlé, West Beqaa, and Rachayya. The major water structure along the Litani River is 
+the Qaraoun Dam, which forms the Qaraoun Lake (or resevoir).  
+ 
+POLLUTION OF WATER RESOURCES  
+ 
+Large stretches of the Litani River and of the Qaraoun Lake are polluted due to four sources of 
+pollution.   
+• Municipal wastewater. In 2013, the volume of wastewater generated in the Beqaa was 
+estimated at 63 million m3 with an annual load of 21,300 tons of Biochemical Oxygen Demand 
+(BOD). Most wastewater is currently discharged untreated into the Litani River.  
+• Industrial wastewater. This is estimated at about 4 million m3 in the Beqaa. There are 
+factories producing effluents that are conveyed to surface water through nearby tributaries. Out of 
+294 industrial establishments in the region, 120 are large-scale industries located within 400 m of 
+the Litani River, its tributaries, or the Qaraoun Lake. 
+• Municipal solid waste. Waste generated in the upper catchment of the Qaraoun Lake is 
+estimated at 650 tons per day. Because of the lack of sanitary landfills, most garbage is dumped in 
+open dumps and in the Litani River along the Qaraoun catchment. Water pollution comes from 
+littering and surface water runoff of solid waste. This is acute when the waste site is close to surface 
+water streams. The main dump sites exerting pressure on the Litani River are Temnin El Tahta, 
+Saadnayel old dump, Qabb Elias, Barr Elias, Hawch El Harimi, El Khiyara, Ghazzé, and Jeb 
+Jennine.  
+• Agriculture. The largest use of land in the Litani River basin is for agriculture. In 2010, 
+irrigated agriculture in the Beqaa covered about 54,000 ha, primarily concentrated in three districts: 
+Baalbeck (24,000 ha); Zahlé (16,000 ha); and West Beqaa (10,000 ha). Vegetables, fruit trees, and 
+industrial crops are the main irrigated crops in these areas.  Agricultural water pollution originates 
+
+
+
+mainly from irrigation overflows and seepage. A field survey conducted in 2010  concluded that 
+farmers in Beqaa are over-fertilizing their crops and many pesticides are being applied at almost 
+twice the recommended rates. As a result, agricultural chemicals and non-degradable pesticides end 
+up in waterways with irrigation overflows.  
+ 
+BUSINESS PLAN TO COMBAT POLLUTION IN LAKE QARAOUN   
+ 
+The Ministry of Environment (MoE) commissioned in 2010 a Business Plan to help the government 
+of Lebanon (GoL) identify the major sources of pollution in the Qaraoun Lake and to recommend 
+appropriate solutions to mitigate them (detailed information is provided in annex 2). The Business 
+Plan was completed in 2011 and endorsed by the Presidency of the Council of Ministers in 2012. 
+The plan includes detailed prioritized investments for each polluting sector, with a financing 
+requirement estimated at about US$255 million. In February 2013, the GoL requested World Bank 
+assistance to fund priority activities of the Business Plan. 
+ 
+The Business Plan identifies the largest two pressures as agriculture and municipal wastewater. 
+Action on agriculture sources of pollution is needed to improve the overall surface water while 
+continuing to contribute to the agriculture sector, a key sector, in the Bekaa. On municipal 
+wastewater priority actions identified relate to continue to increase the volume of wastewater 
+treated in Zahle, Iaat, Temninm El Tahta, Anjar, Jeb Jannine where the population and economic 
+activity are most dense. 
+ 
+INSITUTIONAL CONTEXT  
+ 
+The Ministry of Environment. The MoE is empowered to study, propose, and implement national 
+environmental policies. It is considered the only regulatory environmental agency in the country. 
+The MoE is primarily responsible for environmental policy planning; setting laws, regulations, and 
+environmental standards; imposing the application of the Environmental Impact Assessment (EIA) 
+on development projects; monitoring environmental quality; and identifying permitting conditions 
+for new industry, agriculture, quarrying, and mining. In relation to the proposed project, the MoE is 
+responsible for regulating the collection and disposal of solid waste. 
+ 
+The Ministry of Energy and Water (MoEW) is responsible for the strategic planning and 
+management of water resources. Prior to 2000, there were 21 regional water utilities. Water Law 
+221 of year 2000 and its amendments merged them into four Water and Wastewater Establishments 
+and one pre-existing river authority: North Lebanon, Beirut/Mount Lebanon, Beqaa, South 
+Lebanon, and the Litani River Authority (LRA). This was a major step towards consolidating the 
+responsibility of these establishmen ts and clarifying their mandate as public agencies empowering 
+them to better manage water and wastewater services. The ultimate role of the water establishment 
+is to have full administrative and financial autonomy over the service provision of water and 
+wastewater services and irrigation. The Beqaa Water and Wastewater Establishment (BWE) is the 
+one responsible for the project area. The BWE inherited distribution networks in poor conditions, 
+with very high levels of illegal connections and very low collection rates from those legally 
+connected. LRA is a public establishment under the MoEW is primarily responsible to (a) exploit 
+hydro electrical power plants; (b) construct irrigation scheme, (c) conduct preliminary studies and 
+construct dams, and (d) monitor the quality of the Litani River. 
+ 
+The Ministry of Agriculture (MoA). The MoA has overall responsibility for the development of the 
+
+
+
+agriculture sector. While the MoEW has the overall mandate for water resources, including 
+irrigation, the MoA has the prime responsibility for irrigation at the farm level. Sustainable 
+management and conservation of natural resources is considered an important pillar of the MoA’s 
+strategy for 2010�2014. The strategy gives high priority to enhancing the efficient use of irrigation, 
+expanding the use of treated wastewater for irrigation, and reducing water pollution from 
+agricultural chemicals. The MoA is also responsible for the regulation of pesticide and fertilizer 
+imports, marketing, and use, and it has launched a series of measures to enhance enforcement of 
+these regulations and promote awareness about the proper use, handling, and disposal of pesticides. 
+ 
+The Council for Development and Reconstruction (CDR). The CDR, established through Decree 
+no.5 of 1977 is responsible for preparing national development plans, implementing infrastructure 
+project, and mobilizing external financing to lead the reconstruction and development of the 
+country. The CDR is accountable to the Council of Ministers.  
+ 
+The Qaraoun Committee. In June 2012, a committee was established  to study the pollution 
+problems of the Litani River and Qaraoun Lake and to propose remedial measures. The committee 
+included representation of all key stakeholders and was active in the preparation and review of the 
+Business Plan for Combating Pollution of the Qaraoun Lake. Once the Business Plan and 
+subsequent roadmap were agreed upon, the study committee was dissolved. In May 2014, the 
+Qaraoun Committee was established  to follow up on the implementation of the roadmap to combat 
+pollution in Lake Qaraoun. The committee includes 16 members representing key stakeholders and 
+has assigned the secretariat responsibility to the Litani River Authority.
+
+II. Proposed Development Objectives
+The development objectives of the project are to reduce the quantity of untreated municipal sewage 
+discharged into the Litani river and to improve pollution management around Qaraoun Lake.
+
+III. Project Description
+Component Name
+Component 1: Improve the collection of municipal sewage
+Comments (optional)
+This component will finance activities that increase sewerage collection in areas where wastewater 
+treatment plants have been constructed (or planned to be constructed), to maximize the use of these 
+investments. The criteria used for the selection of the investments on the expansion of the network 
+are the following: (i) network for a currently underserved WWTP; and (ii) network for WWTP 
+completed or expected to be completed within the project implementation period.
+
+Component Name
+Component 2. Promotion of good agricultural practices including integrated pest management to 
+reduce agrochemical pollution in upper Litani basin
+Comments (optional)
+This component will promote adoption of sustainable production systems among farmers in the 
+upper Litani basin, by introducing selected IPM (for example, reduced pesticides application) and 
+GAP (for example, reduced fertilizer application and other conservation practices). These practices 
+are expected to provide increased quality of agricultural products (without reducing yields); farmers’ 
+savings (through decreased cost of production); and reduced pollution of the Litani River.
+
+Component Name
+
+
+
+Component 3. Technical Studies in Solid Waste, Water Quality Monitoring, Capacity Building and 
+Project ManagementComments (optional)
+This component will fund technical, environmental and social studies in solid waste. It will 
+strengthen LRA capacity in water quality and water resources modeling and fund awareness /clean 
+up campaign around the Litan river. It will improve BWE capacity in the supervision of wastewater 
+infrastructure, the improvement in water fee collection and financial administration.
+
+IV. Financing (in USD Million)
+Total Project Cost: 50.00 Total Bank Financing: 50.00
+Financing Gap: 0.00
+For Loans/Credits/Others Amount
+Borrower 0.00
+International Bank for Reconstruction and Development 50.00
+Total 50.00
+
+V. Implementation
+The Qaraoun Committee -formally established by COM decision 32 of May 2014—already includes 
+a representative from each institution involved in pollution management along the Qaraoun.  The 
+committee will have an oversight role in the implementation of the proposedproject. Its main role is 
+to ensure coherence and consistency between the proposed project and all other ongoing and 
+planned investment in the upper Litani watershed area.  
+ 
+Given the multisectoral aspects of the project, the CDR will be the implementing agency. CDR has 
+wide experience with Bank operations, and is familiar with fiduciary and safeguards aspects. A 
+Project Management Unit (PMU) will be headed by a project coordinator under the CDR’s 
+responsibility. The PMU will be responsible for contract management, fiduciary and safeguards 
+oversight, auditing, monitoring and reporting, coordination, and so on. Line ministries will be 
+associated in the preparation and implementation of the project from the onset. As such, technical 
+experts will be recruited by the CDR as part of the PMU but will be assigned to the line ministries/
+agencies and will report to the PMU project coordinator at the CDR and their respective sectors. 
+This arrangement will facilitate and bridge the gap between the CDR and the line ministries. It will 
+also contribute to raising capacity in the different sectors involved.
+
+VI. Safeguard Policies (including public consultation)
+Safeguard Policies Triggered by the Project Yes No
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+
+
+Projects in Disputed Areas OP/BP 7.60 ✖
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+President’s report
+
+Proposed loan and grant to the
+Republic of Turkey for the Göksu Taşeli
+Watershed Development Project
+
+Republic of Turkey
+
+Göksu Taşeli Watershed Development Project
+
+Financing summary
+
+Initiating institution: IFAD
+
+Borrower: Republic of Turkey
+
+Executing agency: Ministry of Food, Agriculture and Livestock
+
+Total project cost: US$25 million
+
+Amount of IFAD loan: EUR 15.95 million (equivalent to approximately
+US$17.89 million)
+
+Amount of IFAD grant: EUR 0.35 million (equivalent to approximately
+US$0.4 million)
+
+Terms of IFAD loan: Ordinary: Maturity period of 18 years, including a grace
+period of 5 years, with an interest rate per annum equal
+to 100 per cent of the IFAD reference interest rate
+
+Contribution of borrower: US$3.85 million
+
+Contribution of beneficiaries: US$2.86 million
+
+Appraising institution: IFAD
+
+Cooperating institution: IFAD
+
+
+
+
+1
+
+Recommendation for approval
+
+The Executive Board is invited to approve the recommendation for the proposed
+financing to Republic of Turkey for the Göksu Taşeli Watershed Development
+Project, as contained in paragraph 32.
+
+Proposed loan and grant to the Republic of Turkey for
+the Göksu Taşeli Watershed Development Project
+
+I. Strategic context and rationale
+A. Country and rural development, and poverty context
+1. Socioeconomic background. Turkey is an upper-middle-income country with a
+
+population of 74.9 million and a GDP of US$822 billion in 2013 (according to the
+World Bank). It is a European Union accession candidate and a member of the
+Organisation for Economic Co-operation and Development (OECD) and the G20.
+Turkey is an increasingly important donor of bilateral official development
+assistance and has a functioning market economy.
+
+2. Poverty has declined in Turkey. In the last decade alone, the poverty rate was
+halved, from 44 per cent in 2002 to 21 per cent in 2011; however, regional income
+disparities remain. Imbalances persist in socioeconomic structures and income
+levels across both rural and urban settlements, and across regions. Since 2000, the
+regional development policy of Turkey has evolved to include enhancing the
+competitiveness of regions, strengthening economic and social cohesion, and
+reducing regional disparities. The Tenth Development Plan (2014-2018) aims at
+directing public investments to areas that prioritize reducing regional development
+disparities and utilizing their potential for regional development, particularly within
+the Anatolia region.
+
+3. Agriculture is no longer Turkey’s main driver of economic growth: in 2012, it
+contributed only 9 per cent of the country’s GDP. Yet it is still important for rural
+development, employment (particularly for women, who account for 44 per cent of
+the labour force), export and manufacturing. In Turkey, farmers fall into two
+categories: (i) commercialized farmers who use the latest technologies, have links
+to a wide range of domestic and international information sources, are acutely
+aware of global trends and consumer preferences, are interested in innovation and
+are integrated into national and international markets; and (ii) resource-poor
+farmers who practise subsistence or semi-subsistence farming, and are not
+business-oriented. The major constraints facing smallholder agriculture are land
+fragmentation, a lack of input technology, weak producers’ organizations and
+limited access to markets.
+
+B. Rationale and alignment with government priorities and
+results-based country strategic opportunities programme
+(RB-COSOP)
+
+4. Turkey’s transition to upper-middle-income country status has not ended poverty in
+the country. In fact, even in relatively prosperous provinces, pockets of poverty
+remain, particularly in the uplands. For years, the public and private sectors have
+neither been interested nor able to address the constraints facing smallholder
+agriculture in upland areas. The proposed project aims to support the Government’s
+efforts to reduce degradation in the upland areas of the Göksu sub-catchment and
+improve the natural resource base as a means of improving income and livelihoods
+in upland villages. The project area has suffered from low investment in all sectors,
+
+
+
+
+2
+
+and continuing low standards of living have resulted in rural outmigration. IFAD’s
+focus on poor and vulnerable farmers in less advantaged areas is therefore highly
+relevant.
+
+II. Project description
+A. Project area and target group
+5. The proposed project will be implemented in selected villages within 9 districts in
+
+the Konya and Karaman provinces of central Anatolia. These districts are located in
+the Göksu sub-catchment, one of the four sub-catchment areas in the east
+Mediterranean watershed. There are 32,000 households living in the project area’s
+202 villages, with a total population of 114,151 situated in the mountainous zones
+of these 9 districts. The elevation in this area varies from 600 to 1,800 metres. The
+majority of the population is engaged in producing fruit and field crops on
+166,536 hectares. On average, these farmers each cultivate about 3.5 hectares of
+fragmented cropland and keep goats (between 30 and 50 heads each). Cultivation
+is either totally rainfed (the most prevalent) or mostly rainfed, with some irrigated
+patches (about 15 per cent).
+
+6. The target group. The project will target 32,000 households consisting of
+productive smallholder farming households, poor households and nomadic
+households. Productive smallholders include men and women who reside
+permanently in the uplands and who practise mixed farming, with a marginal to
+adequate surplus for marketing. Poor households consist of youth and women in
+search of livelihood opportunities to avoid migration. This group will benefit from
+direct targeting mechanisms guided by quotas for livelihood support to women in
+participating in farmers’ organizations (FOs) and value chains. The poorest
+households are nearly landless, not engaged in agricultural production and rely on
+social assistance. The approximately 120 nomadic households in the project area
+live on rangelands and engage in small ruminant production and small-scale milk
+processing for household consumption and sale.
+
+B. Project development objective
+7. The overall goal of the project is to reduce rural poverty by supporting economic
+
+diversification. The development objective is to increase farmers’ incomes through
+improved agricultural production and marketing activities, and strengthen resilience
+to climate shocks. The project will also improve the living standards of the nomadic
+tribes in the Taurus Mountains by improving natural resource management.
+Outcomes will include: (i) sustainably increased farm productivity; (ii) higher
+product prices received by smallholder producers; and (iii) climate-resilient natural
+resource management practices adopted.
+
+C. Components/outcomes
+8. The project has three components:
+
+(a) Component 1. Agricultural productivity and natural resource
+management will improve overall agricultural productivity and profitability by
+sustainably managing land and water resources in upland areas through good
+agricultural practices and climate-smart investments that reduce external
+shocks.
+
+Subcomponent 1.1. Improved agricultural productivity and quality will
+focus on promising crops upstream in the value chains to bridge critical gaps
+in order to improve the productivity and quality of cherries, grapes,
+strawberries and medicinal and aromatic plants (MAPs). Crop selection is
+based on: (i) local production capacities; (ii) comparative advantages; (iii) the
+seasonality of supply and demand; (iv) market access and productive
+potential in different locations; and (v) indigenous knowledge and traditions.
+Project support will include the introduction of: (i) new crop varieties;
+
+
+
+
+3
+
+(ii) modern growing techniques (e.g. production in plastic tunnels and a
+high-wire training system for vineyards); (iii) water-saving irrigation
+techniques supported by solar energy use (e.g. on-farm drip irrigation); and
+(iv) agronomic practices that increase production and improve quality.
+On-farm investments will be provided through the matching grant
+programme.
+
+Subcomponent 1.2. Natural resource management will promote best
+practices and introduce adaptation measures for climate-resilient investments
+in agricultural and grazing lands. The project will assist beneficiaries in
+developing participatory grazing plans that integrate input from herders. It
+will also support investments in overnight shelters to protect shepherds from
+wild animals and inclement weather, scratch posts, salt licks and portable
+mobile solar panels to provide energy in highland rangelands.
+
+(b) Component 2. Market access enhancement will: increase farmers'
+incomes through higher farm-gate prices; improve market knowledge and
+linkages; reduce post-harvest losses; and enhance farmers’ ability to meet
+market demand for quality, volume, regularity, homogeneity, packaging and
+branding.
+
+Subcomponent 2.1. Capacity-building for marketing will improve the
+knowledge and skills of small farmers and FOs such as development
+cooperatives and producers’ associations, and raise awareness of the
+importance of post-harvest activities. Training will be provided on food
+hygiene and safety, drying and sorting practices to reduce waste and improve
+quality, and accounting and marketing. Producers' access to commercial
+extension will be facilitated.
+
+Subcomponent 2.2. Value chain development will finance downstream
+investments by beneficiaries to support marketing of improved produce under
+component 1 through the matching grant programme. Enterprises that add
+value to farm produce and service providers in the value chains will be eligible
+for project support. With the participation of the beneficiaries and their
+associations, strategic investment plans (SIPs) will be prepared for each value
+chain. These plans will serve as an investment framework that guides support
+to beneficiaries at different stages in the value chain. The SIPs will be
+developed in full collaboration with farmers, FOs and small and
+microenterprises for cherries, grapes, strawberries and MAPs. SIPs will guide
+investments – on- and off-farm – in the following: (i) post-harvest treatments
+for hygiene and food safety of all value chain products; (ii) drying, grading,
+sorting and packaging of dried grapes and MAPs; (iii) labelling and branding of
+newly introduced value chain crops such strawberries and MAPs; and
+(iv) re-cooling for cherries and cooling for strawberries.
+
+(c) Component 3. Project management.
+
+III. Project implementation
+ApproachA.
+
+9. The project will be implemented over seven years. As part of a programmatic
+approach, the project will be the first of two phased over two overlapping cycles of
+the performance-based allocation system cycles. The approach is also in line with
+multi-year government plans and programmes. The value chain approach will be
+adopted as a means of strengthening the long-neglected links between productive
+poor farmers and markets (given the focus of both the public and the private sector
+on more prosperous, resource-endowed and less ecologically challenging areas).
+The project will use the SIP approach, which was introduced in the 2005
+Sivas-Erzincan Development Project and has since been used in the Diyarbakir,
+Batman and Siirt Development Project and the Ardahan-Kars-Artvin Development
+
+
+
+4
+
+Project. The proposed project will enhance the SIP approach by selecting pro-poor
+value chains with strong potential to benefit from upstream and downstream
+investments and become replicable and scalable models.
+
+Organizational frameworkB.
+10. The Ministry of Food, Agriculture and Livestock will be the lead implementing
+
+agency. The overall management responsibility will rest with this ministry’s General
+Directorate of Agricultural Reform in Ankara, where a central project management
+unit (CPMU) will be established. Two provincial project management units (PPMUs)
+will be set up within the ministry’s provincial directorates in Konya and Karaman,
+and will be responsible for day-to-day project management and implementation.
+
+Planning, monitoring and evaluation, and learning andC.
+knowledge management
+
+11. The investments will be implemented on the basis of annual workplans and budgets
+(AWPBs) prepared in consultation with beneficiaries, with inputs from SIPs for the
+identified value chains. Each farmer support team will prepare an annual workplan
+in collaboration with project beneficiaries in their villages. The PPMUs will review
+implementation and develop consolidated provincial-level AWPBs. The consolidated
+provincial AWPBs will be reviewed and incorporated into a project-level AWPB by
+the CPMU. The AWPBs will be finalized according to procedures agreed upon with
+IFAD and detailed in the project implementation manual. The AWPBs will be
+submitted to the General Directorate of Agricultural Reform by the project manager
+for review and approval by the steering committee, and presented to IFAD on a
+no-objection basis.
+
+12. Continuous learning and knowledge management will be integrated into the project
+and mainstreamed into implementation at all levels. The project’s knowledge
+management framework will inform the project learning agenda, including the
+outputs, outcomes and impacts defined in the logical framework. The Ministry of
+Food, Agriculture and Livestock already has a computerized management
+information system in place for tracking the inputs, beneficiaries and productivity of
+the Government’s agricultural support programme; this system will be linked with
+the project’s monitoring and evaluation system. Thematic knowledge products
+generated through the project – and knowledge management tools such
+as capacity-building activities, communities of practice and South-South
+Cooperation initiatives – will be developed and disseminated.
+
+Financial management, procurement and governanceD.
+13. Financial management. The CPMU will be responsible for financial management,
+
+with support from the PPMUs in Konya and Karaman. The project will adopt
+accounting procedures and policies consistent with international accounting
+standards and with IFAD and government requirements. The Government of
+Turkey’s Public Expenditures System, developed by the Ministry of Finance, will be
+used to execute all payments from government counterpart contributions and IFAD
+loan and grant.
+
+14. Disbursement arrangements and flow of funds. Separate designated accounts
+denominated in euro will be opened at the Central Bank of the Republic of Turkey
+for the IFAD loan and grant with an authorized allocation of approximately
+12 months of project expenditure. The designated accounts will be replenished
+using the imprest modality. Withdrawal applications will be prepared by the CPMU
+every three months or when 30 per cent of the advance has been depleted –
+whichever occurs first. Details of the disbursement arrangements, including the
+amounts advanced to the designated accounts, will be specified in the project
+implementation manual and stated in the letter to the borrower/recipient.
+
+15. Audit. Annual project financial statements will be audited by the Treasury
+Controller, who currently carries out external audits for all externally financed
+
+
+
+
+5
+
+projects in accordance with International Standards on Auditing and under terms of
+reference cleared by IFAD.
+
+16. Governance and financial management risks. A financial management risk
+assessment of the proposed project and its fiduciary arrangements has concluded
+that the project’s financial management arrangements and internal control systems
+satisfy IFAD’s minimum requirements to: (i) provide accurate and timely
+information on the progress of project implementation; and (ii) guarantee the
+separation of functions through multiple independent controls. The assessment
+rated the residual control risk after the implementation of appropriate risk
+mitigation measures as low. Fiduciary risk might arise from an initial lack of
+financial management capacity within the CPMU and the geographical spread of
+project activities. Mitigation measures include strengthening the internal audit
+function to include reviews of the use of funds at the village level, recruitment of an
+experienced senior accountant in the CPMU and finalization of the project
+implementation manual. The latter two are conditions for disbursement of project
+funds.
+
+17. Grace period. As per the Government’s request, the grace period is five years
+instead of the standard three-year grace period for loans on ordinary terms.
+
+SupervisionE.
+18. The project will be supervised directly by IFAD. Supervision and implementation
+
+support will be based on IFAD’s operational modalities and practices, including
+those for loan and grant administration, and project implementation support.
+
+IV. Project costs, financing and benefits
+A. Project costs
+19. The project cost is estimated at US$25 million, of which US$18.21 million
+
+(or 72.8 per cent of the total) will be used to finance component 1: agricultural
+productivity and natural resource management; US$4.74 million (or 18.9 per cent
+of the total) will finance component 2: market access enhancement; and
+US$2.05 million (or 8.2 per cent) will finance component 3: project management.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+
+IFAD loan IFAD grant Beneficiaries Borrower/ counterpart Total
+
+Component Amount % Amount % Amount % Amount % Amount
+1. Agricultural
+
+productivity and
+natural resource
+management 12 474.17 68.5 83.62 0.5 2 226.23 12.2 3 427.53 18.9 18 211.55
+
+2. Market access
+enhancement 3 962.47 83.7 41.22 0.9 632.64 13.4 100.50 2.1 4 736.83
+
+3. Project
+management 1 453.36 70.8 275.16 13.4 323.11 15.7 2 051.62
+
+Total 17 890 71.6 400 1.6 2 859 11.4 3 851 15.4 25 000
+
+B. Project financing
+20. The total investment and incremental recurrent costs, including physical and price
+
+contingencies, will be financed over a seven-year period as follows: IFAD financing
+will comprise a loan amounting to US$17.89 million and a grant of US$400,000.
+The Government’s contribution will be in the form of a budgetary allocation of
+US$3.24 million and US$0.61 million in foregone taxes. Project beneficiaries will
+contribute an estimated US$2.86 million in cash.
+
+
+
+
+6
+
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+
+Expenditure category
+
+IFAD loan IFAD grant Beneficiaries
+Borrower/
+
+counterpart Total
+
+Amount % Amount % Amount % Amount % Amount
+
+1. Civil works 977.30 37.8 220.55 8.5 1 386.65 53.6 2 584.49
+
+2. Equipment and
+materials 1 067.30 33.5 467.68 14.7 1 653.86 51.9 3 188.84
+
+3. Goods, services and
+inputs 7 100.91 79.6 1 538.00 17.2 280.35 3.1 8 919.26
+
+4. Consultancies 397.39 63.8 124.84 34.8 100.50 16.1 622.73
+
+5. Training 3 410.76 92.5 275.16 7.5 3 685.93
+6. Workshops 126.85 84.8 22.83 15.3 149.68
+7. Grants and subsidies 3 742.78 84.1 632.64 14.2 75.83 1.7 4 451.25
+
+8. Salaries and
+allowances 709.40 70.8 292.85 29.2 1 001.90
+
+9. Vehicles 89.79 84.8 16.60 15.3 105.95
+
+10. Other operating Costs 267.87 92.4 22.11 7.6 289.98
+
+Total 17 890 71.6 400 1.6 2 859 11.4 3 851 15.4 25 000
+
+C. Summary benefit and economic analysis
+21. The overall project analysis resulted in an economic internal rate of return of
+
+17 per cent over 20 years. The project’s contribution to economic welfare is derived
+from: the increased quantity and quality of market-oriented production; better
+market access; and higher prices resulting from investments in branding and
+employment along the value chains. The sensitivity analysis shows that the
+economic internal rate of return remains robust at 10 per cent in the event of a
+10 per cent reduction in benefits or a two-year delay in benefits.
+
+D. Sustainability
+22. The project is designed to ensure producers’ sustainable access to markets through
+
+integration into existing and new value chains while maintaining the focus on good
+agricultural practices and natural resource management. This includes enhancing
+the quantity and quality of target crops, and providing assistance with modern
+marketing (including branding) and market information. The introduction of farming
+as a business for the producers will result in the optimization of land, water and
+labour resources in the project area. Strengthening FOs through training and
+capacity-building will enable longer-term and more stable contractual relationships
+with collectors, processors and exporters. These impacts are expected to last
+beyond the seven-year project period. Partnerships between producers’ groups and
+the private sector will also be strengthened as a result of improved knowledge
+management.
+
+E. Risk identification and mitigation
+23. At the macro level, the main risks relate to a reduced emphasis on poverty in
+
+Turkey and macroeconomic instability. All of the Government’s development
+priorities as outlined in the national and regional development plans and its
+programmes are aimed at reducing income disparity over the long term. The
+project area particularly suffers from such disparities; however as a politically
+stable upper-middle-income country, the prospects for continuing economic growth
+in the country are sound. Turkey continues to move towards European Union
+accession and measures to meet standards for trade are being adopted along with
+stringent environmental protection protocols. The project team has mitigated any
+risk that the implementing agencies will lack capacity to provide market-oriented
+information and build capacity by planning for the long-term contracting of a
+
+
+
+7
+
+marketing consultant. The consultant will be tasked with enhancing the
+private-sector orientation of all stakeholders, including government staff at the
+central and provincial levels.
+
+V. Corporate considerations
+Compliance with IFAD policiesA.
+
+24. The project was designed in line with the IFAD Strategic Framework (2011-2015)
+and IFAD’s policies on targeting, gender and environment, and natural resource
+management. In addition, the 2012 Technical Note on Matching Grants and the
+Private-Sector Strategy have been utilized to ensure that the project makes the
+best use of all financial, technical and knowledge products available to IFAD.
+
+Alignment and harmonizationB.
+25. Turkey is a member of OECD and is chairing the G20 in 2015. The country is an
+
+increasingly important donor of bilateral official development assistance. In a large
+upper-middle-income country like Turkey, IFAD’s overall development contribution
+could seem marginal, particularly considering the size of its considerable
+development assistance as a donor. There has been demand for IFAD to
+demonstrate new models, approaches, knowledge products and services, and global
+reach to mobilize required expertise. New models and approaches used by previous
+IFAD projects are being mainstreamed by the Ministry of Food, Agriculture and
+Livestock, including SIPs, which were introduced by the Sivas-Erzincan
+Development Project in 2005, and also used in the Diyarbakir, Batman and Siirt
+Development Project and the Ardahan-Kars-Artvin Development Project. The
+matching grant programme, originally developed by the World Bank for the Village
+Based Participatory Investments Program in 2004 and mainstreamed by the
+Ministry of Food, Agriculture and Livestock in 2006, was enhanced by IFAD to make
+it a pro-poor instrument. Through its knowledge management agenda, this project’s
+CPMU will contribute to better harmonization of donor-funded and government
+programmes for rural development.
+
+Innovations and scaling upC.
+26. IFAD’s recent focus on value chains is being integrated into the project as a means
+
+to strengthen the links between poor farmers and markets (as a consequence of
+both the public and private sectors’ focus on more prosperous, resource-endowed
+farmers in less ecologically challenging areas). The project further develops the SIP
+approach in rural Turkey with the selection of pro-poor value chains. Given the low
+level of investment in the agricultural sector, the project will promote private-sector
+investment through the matching grant programme, which facilitates public-private
+partnerships though a service provider for marketing. It is expected that the
+business models and innovations proven to be successful through this project will
+be scaled up with government or other donor support.
+
+27. Producers' climate adaptation capacity will be improved by training in agronomic
+practices and awareness-raising on natural resource management geared to
+maximize their incomes within the prevailing climate. Innovations such as
+integrated pest management, vegetable production under cover, drip irrigation,
+solar energy, efficient methods for water harvesting and training in natural resource
+management will improve climate resilience.
+
+Policy engagementD.
+28. Turkey does not have a significant bilateral donor presence and IFAD’s relatively
+
+limited investment does not entail strong policy engagement at the macro level.
+IFAD’s investment has been strategically applied to engage in policy dialogue aimed
+at influencing the Government's allocation of resources in impoverished areas.
+Greater strategic focus is needed on the links between poverty reduction and the
+sustainable management of fragile ecosystems. The establishment of IFAD’s
+
+
+
+
+8
+
+country office in Ankara will be an opportunity to enhance its role in aid
+effectiveness.
+
+VI. Legal instruments and authority
+29. A project financing agreement between the Republic of Turkey and IFAD will
+
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+
+30. The Republic of Turkey is empowered under its laws to receive financing from IFAD.
+
+31. I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+
+VII. Recommendation
+32. I recommend that the Executive Board approve the proposed financing in terms of
+
+the following resolution:
+
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the
+Republic of Turkey in an amount equivalent to fifteen million nine hundred
+and fifty thousand euros (EUR 15,950,000) (equivalent to approximately
+US$17.89 million), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+Turkey in an amount equivalent to three hundred and fifty thousand euros
+(EUR 350,000) (equivalent to approximately US$0.4 million) and upon such
+terms and conditions as shall be substantially in accordance with the terms
+and conditions presented herein.
+
+Kanayo F. Nwanze
+President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+President’s report
+
+Proposed grant to the Islamic Republic of
+Afghanistan for the Support to National
+Priority Programme 2
+
+
+
+Islamic Republic of Afghanistan
+
+Support to National Priority Programme 2
+
+Financing summary
+
+Initiating institution: IFAD
+
+Recipient: Ministry of Finance
+
+Executing agency: Ministry of Agriculture, Irrigation and Livestock
+
+Total programme cost: US$54.8 million
+
+Amount of IFAD grant: SDR 34.5 million (equivalent to approximately
+US$48.5 million)
+
+Cofinancier(s):1 Microfinance Investment Support Facility for
+Afghanistan (MISFA)
+
+Amount of cofinancing: US$2.5 million
+
+Terms of cofinancing: To be confirmed
+
+Contribution of recipient: US$1.7 million
+
+Contribution of beneficiaries: US$2.1 million
+
+Appraising institution: IFAD
+
+Cooperating institution: Directly supervised by IFAD
+
+1 The National Priority Programme 2 is tentatively being financed by the Government of the Islamic Republic of Afghanistan and
+a group of financiers including the European Union, the World Bank and the Department for International Development of the
+United Kingdom.
+
+
+
+EB 2015/115/R.10
+
+1
+
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+grant to the Islamic Republic of Afghanistan for the Support to National Priority
+Programme 2, as contained in paragraph 52.
+
+Proposed grant to the Islamic Republic of Afghanistan
+for the Support to National Priority Programme 2
+
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1. Afghanistan is currently undergoing a major security, political and economic
+
+transition that will fundamentally shape its future. In late 2014 and early 2015,
+Afghanistan assumed responsibility for its own security and a new Government was
+established. With the transition, development assistance is being transformed from
+off-budget operations executed by external service providers to on-budget
+operations managed and implemented by national institutions, with capacity-
+building support as required. The present programme is fully aligned with these
+changes.
+
+2. Afghanistan’s population was estimated at 30.6 million in 2013, with an annual
+growth rate of 2.4 per cent. The population is relatively young, with 64 per cent
+under 25 years of age, and a median age of 17. Approximately 76 per cent of the
+population lives in rural areas. Afghanistan is ethnically diverse, with some 25
+distinct ethnic groups.
+
+3. Following almost four decades of conflict, Afghanistan remains one of the poorest
+nations in the world. An estimated 36 per cent of the population lives below the
+poverty line. The Human Development Report ranked the country 169th out of 187
+countries in 2013, with a human development index of 0.468. Its gender inequality
+index was 0.712 in 2012, ranking it 147th out of 148 countries.
+
+4. Afghanistan has received a substantial level of development aid since 2003. Public
+institutions have been strengthened, health care and education significantly
+improved, and road infrastructure constructed. There are indications that these
+activities have generated positive development outcomes in terms of life
+expectancy, health status, education levels and living conditions. In recent years,
+external assistance has fuelled high economic growth, with the annual GDP growth
+rate (constant prices) averaging 10.4 per cent for the 2009-2013 period.
+
+5. Despite these improvements, most Afghans continue to endure conditions of
+hardship and insecurity. Infrastructure has been ravaged by conflicts and internal
+markets remain largely disrupted. Limited arable land per capita, low precipitation
+and harsh climate conditions in many areas contribute to the hardship and resource
+poverty endured by farmers. Poverty is multidimensional, involving a complex
+interplay among a lack of assets, years of conflict and insecurity, disasters,
+inadequate infrastructure, weak public services and traditional roles.
+
+6. The agriculture sector contributes 24 per cent of GDP and employs approximately
+70 per cent of the rural labour force. Afghanistan produces food and cash crops,
+some export and industrial crops, and livestock products. At present, there is
+increasing potential to overcome the devastation wrought by years of conflict and
+develop the crop and livestock subsectors to increase output, food security and
+rural incomes.
+
+
+
+EB 2015/115/R.10
+
+2
+
+B. Rationale and alignment with government priorities and RB-
+COSOP
+
+7. IFAD has historically been responsive to the specific needs of fragile states in terms
+of policies, strategies and investments. Indeed, a substantial portion of the 2013-
+2015 resource allocation cycle has been allocated to fragile states. This focus is
+becoming increasingly structured and articulated, as requested by IFAD's governing
+bodies. Two recent documents addressed the scaling up of engagement in fragile
+States: A Strategic Vision for IFAD 2016-2025 (IFAD10/2/R.2), which prescribed
+increased attention to the specific context and needs of fragile states, with
+emphasis on building national capacities; and Enhancing IFAD’s business model for
+inclusive and sustainable rural transformation (IFAD10/2/R.3), which outlined ways
+to better engage in fragile situations and promoted the capacity-building of
+community organizations and public institutions.
+
+8. The present programme builds on this emerging strategic vision and adapts
+relevant elements of the business model to the Afghan context. It focuses on
+building national capacities and linkages across the agriculture sector – working
+with community organizations, public agriculture services and the private sector –
+to enhance community resilience and improve food security. It supports national
+programmes, in complementarity and synergy with partners, in particular the
+European Union. Consistent with the IFAD Guidelines for Disaster Early Recovery of
+May 2011, it invests in high-impact crop and livestock activities with comparative
+advantages, market demand and growth potential. Consistent with the Afghanistan
+country strategic opportunities programme, it provides strategic and programmatic
+support to the Government in agricultural sector transformation, rural economic
+growth and poverty reduction.
+
+9. The programme is fully aligned with the Government’s request to partners to
+progressively align with the newly prepared national priority programmes, moving
+from fragmented, project-based support to a sector-wide, programmatic approach
+in support of coordinated development. It will enable IFAD to contribute to
+sustainable, nationally driven development; to build the capacities of public and
+private institutions and community organizations; to modernize the agricultural
+sector; and to support the transition of smallholders from subsistence to
+commercialized farming. It will also position IFAD to help the Government tackle
+systemic sector challenges, particularly policymaking and public investment
+programming.
+
+II. Programme description
+A. Programme area and target group
+10. IFAD’s support for National Priority Programme 2 (NPP2) aims to achieve national
+
+coverage over a three-phase implementation period of 15 years. The Support to
+National Priority Programme 2 (SNaPP2) constitutes the first phase of IFAD support.
+It will be implemented in three selected pilot provinces, namely Balkh, Herat and
+Nangarhar, with planned geographical expansion to additional provinces over the
+second and third phases. In the three pilot provinces, the programme will primarily
+focus on six districts: Nahri Shahi and Dih Dadai in Balkh; Karukh and Zendhajan in
+Herat; Darah e Noor and Khewa/Kuzkunar in Nangarhar. However, it will also invest
+in other districts to the extent required by relevant agricultural backward and
+forward linkages, value chain linkages, relevance of activities, synergy with other
+development operations, and security considerations. Within the six identified
+districts, the programme will cover about 589 community development councils
+(CDCs) consisting of 57,000 households (427,500 people); it will also cover
+additional CDCs and households in the other districts as required. Should security
+deteriorate substantially in any selected district or province, the programme will
+formally shift to another district or another province subject to consultations
+between the Government and IFAD.
+
+
+
+EB 2015/115/R.10
+
+3
+
+11. The programme has a three-tier target group: (i) at the subnational institutional
+level, it will target provincial and district extension staff of the Ministry of
+Agriculture, Irrigation and Livestock (MAIL), community mobilizers of the Ministry of
+Rural Rehabilitation and Development (MRRD), and farmers’ resource centres
+(FRCs); (ii) at the local institutional level, CDCs, NGOs and relevant private sector
+entities will be strengthened and serve as interlocutors; and (iii) at the grass-roots
+level, target groups will include poor rural women and men, kuchis (nomadic
+herders), small farmers and herders, producers’ groups and women’s groups.
+Woman-headed households and rural youth will be the object of specific
+programme targeting.
+
+B. Programme development objective
+12. The goal of IFAD financing will be to contribute to improving the food security and
+
+economic status of poor rural households in the three selected provinces. The
+programme has two objectives: (i) institutional development and capacity-building
+of community organizations, public extension services and relevant private sector
+entities; and (ii) sustained increased incomes for small farmers and herders
+fostered by improvements in productivity and output, infrastructure and market
+linkages.
+
+C. Components/outcomes
+13. The programme has two components. Component 1: Institutional
+
+development – approximately US$14.0 million, 26 per cent of total programme
+cost.
+
+14. Subcomponent 1.1: Extension services. The programme will strengthen the
+extension directorate’s structures by: (i) establishing a women’s extension
+department in MAIL to coordinate a cadre of female extension workers across the
+target areas; (ii) strengthening the male extension worker cadre at the district
+level; (iii) targeting young graduates from local agricultural faculties for recruitment
+as extension assistants; and (iv) incorporating updated techniques and approaches
+into the agricultural curricula.
+
+15. Subcomponent 1.2: Farmers’ organizations. MAIL and development partners are
+establishing a national network of FRCs across Afghanistan. The capacities of FRCs
+and other relevant community organizations will be upgraded to enable them to
+broker business relationships among stakeholders, bringing together decentralized
+MAIL and MRRD services, input suppliers, market integrators and small farmers.
+
+16. Subcomponent 1.3: Private sector. Private sector linkages, contract farming and
+value chain upgrading will be integrated with district extension services and
+community groups. Market linkages among producers and private companies will be
+promoted, as a range of agricultural products can be processed to increase shelf
+life, year-round availability and output price. Business service packages will be
+developed to address the needs of typical enterprises. The capacities of
+entrepreneurs will be upgraded and their links with producers’ groups enhanced.
+
+17. Subcomponent 1.4: Policy and implementation support facility. This facility will
+provide technical assistance (TA) to MAIL for agricultural development
+programmes; provide TA and capacity-building to other relevant ministries; and
+strengthen MAIL and MRRD knowledge management and communication products.
+
+18. Component 2: Strategic investments – approximately US$35.8 million, 65 per
+cent of total programme cost.
+
+19. Subcomponent 2.1: Infrastructure. The programme will invest in irrigation
+infrastructure and other community productive infrastructure, in line with
+government policy and priorities.
+
+20. Subcomponent 2.2: Productive investments. The programme will help to improve
+the productivity of rainfed wheat, horticulture and livestock production to improve
+
+
+
+EB 2015/115/R.10
+
+4
+
+food security and increase household incomes in the target communities. Farmers
+and herders will be trained in improved technologies, post-harvest activities and
+information sharing.
+
+21. Subcomponent 2.3: Rural financial services. The programme will invest in a range
+of financial products and delivery mechanisms to improve target group access to
+financial services. These will include: (i) targeting the ultra-poor; (ii) developing
+value chain financing products; (iii) promoting sharia-compliant financial products;
+(iv) offering TA and incentives to participating financial institutions; and (v) possibly
+competitive grant schemes for agribusinesses in due course.
+
+III. Programme implementation
+ApproachA.
+
+22. The MAIL will be the lead implementing agency and the MRRD an additional
+implementing agency. Relevant programme approaches and activities will be
+mainstreamed into their operations. However, in the light of MAIL’s current capacity
+gaps at decentralized levels, specific activities will initially be implemented by other
+contracted ministries, projects and service providers (national entities, as far as
+possible). The capacity-building of relevant national public and private organizations
+will be a key responsibility of all contracted service providers, and the programme
+will seek full implementation by reputable national institutions as soon as possible.
+
+B. Organizational framework
+23. The programme’s governance framework consists of the programme steering
+
+committee (PSC), a provincial coordination committee (PCC) in each province, and
+the existing MAIL programme support team (PST).
+
+24. At the national level, the PSC will be responsible for policy and strategic guidance,
+overseeing management and implementation, approving annual workplans and
+budgets (AWPBs) and reviewing progress. It will consist of senior representatives of
+MAIL, the Ministry of Finance (MOF) and MRRD.
+
+25. Each PCC will be convened by MRRD’s National Solidarity Programme (NSP)
+management and chaired by a MAIL district representative. Their membership will
+consist of representatives of provincial entities, contracted service providers and
+PST personnel. PCCs will be responsible for coordinating the implementation of
+activities and sharing information and knowledge.
+
+26. The PST will be responsible for managing and coordinating the programme. It will
+be expanded with the addition of a programme manager and technical specialists to
+carry out relevant activities. Programme staff will be recruited on a competitive
+basis in line with IFAD guidelines and subject to IFAD prior review.
+
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+
+27. AWPBs and activity calendars, based on the design report and informed by
+operational experiences and supervision missions, will constitute the programme
+planning framework. The PST will prepare AWPBs through a consultative approach
+involving community organizations, FRCs, MAIL, MRRD and other stakeholders.
+Following PCC approval, provincial-level plans and budgets will be consolidated by
+the PST into a programme AWPB and submitted to the PSC for approval and to
+IFAD for concurrence at least two months prior to the start of each fiscal year. The
+consolidated programme AWPB will contain a procurement plan, in compliance with
+IFAD requirements. All plans will be disaggregated by gender.
+
+28. The programme’s monitoring and evaluation (M&E) system will collect data and
+information to measure performance and progress towards objectives, and serve as
+a learning tool by providing information for reflection on programme strategy and
+operations. It will support decision-making at various levels and facilitate results-
+
+
+
+EB 2015/115/R.10
+
+5
+
+based management. Where feasible, the programme will help to strengthen MAIL
+M&E capacity.
+
+29. Learning and knowledge management. The programme will formulate a
+knowledge management strategy, in line with IFAD policy. Its website will be
+completed within the first year of implementation and used as a knowledge-sharing
+tool, hosted on IFADAsia. Information from M&E studies, reviews and study tours,
+lessons and best practices will be shared through knowledge products such as
+newsletters, publications, case studies and audio-visual reports. Knowledge-sharing
+events will be organized at the community level and visits carried out to exchange
+knowledge and learning by observing.
+
+D. Financial management, procurement and governance
+30. Financial management. MAIL has extensive experience in managing IFAD-
+
+financed projects. Current arrangements are efficient. Procedures are based on a
+solid programme implementation manual (PIM) approved by IFAD in early 2014.
+The PST finance unit has qualified and experienced staff confident in applying IFAD
+procedures. For SNaPP2, the current PST staffing will be strengthened to enable it
+to manage an additional programme. The IFAD contribution to SNaPP2 will be on-
+budget and will rely on government systems. The PST will use, in addition to the
+MOF public financial management system, its own accounting system to monitor
+budget execution, control financial transactions, produce financial reports and
+increase staff accountability. To ensure effective financial control, internal control
+procedures applied under ongoing IFAD-financed operations, included in the PIM,
+will be updated and applied to SNaPP2. An auditor will be contracted to undertake
+internal audit activities in support of PST efficiencies.
+
+31. Flow of funds. The flow of funds will be based on standard arrangements
+applicable to on-budget externally financed projects. Funds from the Debt
+Sustainability Framework (DSF) grant account will be transferred to a designated
+account in United States dollars opened for this purpose in Da Afghanistan Bank or
+another bank acceptable to IFAD. The designated account will be maintained and
+operated by the MOF. IFAD will advance funds to the designated account, in
+accordance with imprest account modalities.
+
+32. Procurement. Programme works, goods and services will be procured by the PST
+in compliance with IFAD Procurement Guidelines and the IFAD Procurement
+Handbook.
+
+33. Audit. Annual external audit of project accounts will be carried out by a
+competitively selected, reputable auditor. The audit terms of reference will include
+visits to contracted implementing partners and service providers, as well as field
+visits, where appropriate. MRRD and all contracted service providers will submit
+audited financial statements covering SNaPP2 activities to the PST within four
+months following the end of each fiscal year. Where United Nations agencies are
+exempt from such a requirement, they will submit unaudited annual financial
+statements of expenditures to the PST.
+
+E. Supervision
+34. The programme will be directly supervised by IFAD. The supervision process will
+
+guide the programme towards the achievement of its strategic objectives and broad
+poverty reduction outcomes, while ensuring fiduciary compliance. A midterm review
+and a programme completion mission will be undertaken, in programme year three
+and at closure, respectively.
+
+35. In the light of the prevailing security situation, the country team will assess
+alternative methods to complement IFAD supervision and implementation support
+processes, such as contracting and/or otherwise involving local organizations.
+
+
+
+EB 2015/115/R.10
+
+6
+
+IV. Programme costs, financing and benefits
+A. Programme costs
+36. The total programme cost is estimated at US$54.8 million over a six-year
+
+implementation period. This is inclusive of contingencies, cofinancing, beneficiary
+contributions and counterpart funding. Programme costs are organized in three
+components: (i) institutional development (26 per cent); (ii) strategic investments
+(65 per cent); and (iii) programme management (9 per cent).
+
+Table 1
+Programme costs by component and financier
+(Thousands of United States dollars)
+
+IFAD MISFA Beneficiaries Government Total
+amount % amount % amount % amount % amount %
+
+A. Institutional
+development 12 862 92 - 0 - 0 1 134 8 13 996 26
+
+B. Strategic and productive
+investments 30 838 86 2 500 7 2 123 6 289 1 35 750 65
+
+B. Programme financing
+37. The programme is expected to be financed by: (i) an IFAD DSF grant in the amount
+
+of US$48.5 million; (ii) Microfinance Investment Support Facility for Afghanistan
+(MISFA) cofinancing in the amount of US$2.5 million; (iii) a Government
+contribution equivalent to US$1.7 million; and (iv) a beneficiary contribution
+equivalent to US$2.1 million.
+
+Table 2
+Programme costs by expenditure category and financier
+(Thousands of United States dollars)
+
+Expenditure category
+IFAD MISFA Beneficiaries Government Total
+amount % amount % amount % amount % amount
+
+1. Civil works 12 752 88 - - 1 417 10 289 2 14 458
+2. Vehicles 132 41 - - - - 189 59 321
+3. Equipment and materials 181 100 - - - - - - 181
+4. Consultancies 538 100 - - - - - - 538
+5. Goods, services and inputs 4 934 95 - - 241 5 - - 5 175
+6. Grants 2 376 100 - - - - - - 2 376
+7. Credit 9 000 78 2 500 22 - - - - 11 500
+8. Capacity-building/training 11 872 100 - - - - - - 11 872
+9. Salaries and allowances 4 956 94 - - - - 302 6 5 258
+10. Operating costs 1 721 55 - - 465 15 922 30 3 108
+Total Programme Costs 48 462 88 2 500 5 2 123 4 1 702 3 54 787
+
+C. Summary benefit and economic analysis
+38. The programme will provide benefits to approximately 57,000 poor rural households
+
+(427,500 women and men) represented by 589 CDCs. The immediate expected
+benefits are increased productivity resulting from improved extension services,
+farming and management practices, and access to markets and financial services.
+These benefits will be expressed in terms of improved food security and increased
+household incomes. In addition, participating households will have access to
+training and capacity-building benefits. A number of other beneficiaries, such as
+producers accessing rural financial services, woman-headed households adding
+value to production, and youth receiving vocational training, have not been
+quantified.
+
+C. Programme management 4 762 94 - 0 - 0 279 6 5 041 9
+
+Total programme costs 48 462 88 2 500 5 2 123 4 1 702 3 54 787 100
+
+
+
+EB 2015/115/R.10
+
+7
+
+39. Additional benefits will accrue from capacity-building interventions. Participating
+farmers will be able to access improved services from their CDCs, which will be
+strengthened and supported. Women from the poor and very poor groups will be
+empowered to manage their own social and economic development, with better
+access to markets and inputs. The improvement of rural markets, rural access
+roads and extension services will lead to higher output prices for farmers.
+
+40. The programme’s economic internal rate of return is estimated at 24 per cent.
+Sensitivity analysis shows the programme would be robust in the event of increases
+in costs, decreases in benefits and delays.
+
+D. Sustainability
+41. The programme concept itself – support to a national priority programme rather
+
+than a stand-alone project – directly addresses sustainability. Programme
+management will be mainstreamed within existing ministerial structures and
+financing will be on-budget rather than off-budget. Programme implementation will
+utilize existing structures and arrangements to the maximum extent possible,
+without creating new ones. The existing CDCs nurtured by the MRRD/NSP will serve
+as the instrument for community engagement at all stages. Existing producers’
+groups, such as farmers’ cooperatives and dairy unions, will be supported. District-
+level capacities of extension services will be strengthened, with clear benefits for
+sustainability. Similarly, FRCs will broker linkages between producers and the
+private sector, which may be sustained, depending on the strength of the relevant
+business relationships.
+
+42. The programme exit strategy is to: strengthen public institutions at provincial and
+district levels; gradually transfer full implementation responsibilities to ministries
+and CDCs; foster profitable business relations between producers and markets; and
+improve the capacities of poor rural women and men.
+
+E. Risk identification and mitigation
+43. The overarching risk relates to the recent political and security transition in
+
+Afghanistan. Three post-transition scenarios, and the implications for the
+programme, have been projected: (i) a best-case scenario, with a smooth political
+transition, relative security, empowered institutions and economic growth; (ii) an
+intermediate scenario, with a fragile political context, conflict confined to remote
+areas and moderate economic growth; and (iii) a worst-case scenario, with political
+instability, factionalism and continued conflict, and economic stagnation.
+
+44. Many key elements related to the risk scenarios, such as a conflict-sensitive
+approach to site selection, are already embedded in programme design. Other
+elements, such as the configuration of TA, will be fine-tuned depending on the
+prevailing scenario. During the initial stage of implementation, IFAD and the
+Government will jointly reassess post-transition developments, update the
+opportunities and risks under each scenario, and fine-tune the mitigation measures
+and trigger points.
+
+V. Corporate considerations
+Compliance with IFAD policiesA.
+
+45. As indicated earlier, the programme is consistent with policies, strategies and
+investments relevant to fragile states, in particular A Strategic Vision for IFAD
+2016-2025 and Enhancing IFAD’s business model for inclusive and sustainable rural
+transformation. It is fully aligned with corporate policies on private sector
+engagement, environmental impact and climate change mitigation and adaptation,
+and gender mainstreaming. The programme’s environmental impact assessment
+places it in category "B".
+
+
+
+EB 2015/115/R.10
+
+8
+
+Alignment and harmonizationB.
+46. The programme’s rationale is anchored in IFAD’s mandate of poverty reduction and
+
+the Government’s priority to increase agricultural productivity. It is consistent with
+national efforts to enhance development impact, reduce the duplication of aid
+programmes and introduce programmatic approaches. It is aligned with the multi-
+donor framework for agriculture production and market development, and in
+particular with the assistance provided by partners such as the European Union,
+World Bank, Food and Agriculture Organization of the United Nations, Department
+for International Development of the United Kingdom, German Agency for
+International Cooperation and United States Agency for International Development.
+
+Innovations and scaling upC.
+47. The Government considers the programme a model for partner participation in the
+
+NPP approach, which will be scaled up by MAIL when other partners provide funding
+for NPP2. The programme is designed to expand, replicate, adapt and sustain
+successful investments. Through its investment tools and forward-looking policy
+support, the programme will create the pathways, drivers and spaces for scaling
+up. Investments will be unbundled to facilitate operation of the core activities at
+scale.
+
+Policy engagementD.
+48. The programme will inform agricultural sector policy through its implementation of
+
+key NPP2 components and its structuring of the NPP2 governance and management
+framework. The programme design process has already influenced overall
+government policy as represented by NPP2. The programme’s policy and
+implementation support facility will offer TA to all national institutions involved in
+NPP2, in particular MAIL and MRRD.
+
+VI. Legal instruments and authority
+49. A programme financing agreement between the Islamic Republic of Afghanistan and
+
+IFAD will constitute the legal instrument for extending the proposed financing to the
+recipient. A copy of the negotiated financing agreement is attached as an appendix.
+
+50. The Islamic Republic of Afghanistan is empowered under its laws to receive
+financing from IFAD.
+
+51. I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+
+VII. Recommendation
+52. I recommend that the Executive Board approve the proposed financing in terms of
+
+the following resolution:
+
+RESOLVED: that the Fund shall provide a grant to the Islamic Republic of
+Afghanistan in an amount equivalent to thirty-four million four hundred fifty
+thousand special drawing rights (SDR 34,450,000) and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+
+Kanayo F. Nwanze
+President
+
+
+
+
+

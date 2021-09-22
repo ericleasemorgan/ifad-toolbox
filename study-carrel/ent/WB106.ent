@@ -6,8 +6,6 @@ WB106	1	4	11 Project	MONEY
 WB106	1	5	PID/ISDS	ORG
 WB106	1	6	Concept Stage	ORG
 WB106	1	7	| Report	WORK_OF_ART
-WB106	1	8	2	CARDINAL
-WB106	1	9	11	CARDINAL
 WB106	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
 WB106	2	2	India P168310 State	ORG
 WB106	2	3	Maharashtra	ORG
@@ -25,11 +23,7 @@ WB106	4	7	h1 World Bank Group Financing International Bank for Reconstruction an
 WB106	4	8	210.00	CARDINAL
 WB106	4	9	80.00	CARDINAL
 WB106	4	10	80.00	CARDINAL
-WB106	4	11	The World Bank State of Maharashtra's	ORG
-WB106	4	12	18, 2018	DATE
-WB106	4	13	3	CARDINAL
-WB106	4	14	11	CARDINAL
-WB106	4	15	10.00	CARDINAL
+WB106	4	11	10.00	CARDINAL
 WB106	6	1	India	GPE
 WB106	7	1	Indian	NORP
 WB106	7	2	5.5 per cent	MONEY
@@ -69,11 +63,7 @@ WB106	21	3	the 1990s	DATE
 WB106	21	4	2000s	DATE
 WB106	21	5	3below 2	CARDINAL
 WB106	21	6	2013- 15	DATE
-WB106	22	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	22	2	18, 2018	DATE
-WB106	22	3	4	CARDINAL
-WB106	22	4	11	CARDINAL
-WB106	22	5	agrarian	NORP
+WB106	22	1	agrarian	NORP
 WB106	23	1	3	CARDINAL
 WB106	24	1	India	GPE
 WB106	25	1	needs2	PRODUCT
@@ -133,12 +123,8 @@ WB106	52	3	2010-11	DATE
 WB106	52	4	GOM	ORG
 WB106	53	1	5	CARDINAL
 WB106	53	2	1.44	CARDINAL
-WB106	54	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	54	2	18, 2018	DATE
-WB106	54	3	5	CARDINAL
-WB106	54	4	11	CARDINAL
-WB106	54	5	Maharashtra	ORG
-WB106	54	6	India	GPE
+WB106	54	1	Maharashtra	ORG
+WB106	54	2	India	GPE
 WB106	56	1	7	CARDINAL
 WB106	57	1	the Government of India	ORG
 WB106	57	2	GOI	ORG
@@ -180,12 +166,8 @@ WB106	77	7	the National Groundwater Management Improvement Program	ORG
 WB106	77	8	P158119	NORP
 WB106	77	9	Agriculture Risk Resilience Insurance Access Project	ORG
 WB106	79	1	Bank	ORG
-WB106	79	2	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	79	3	18, 2018	DATE
-WB106	79	4	6	CARDINAL
-WB106	79	5	11	CARDINAL
-WB106	79	6	National Rural Economic Transformation Project	ORG
-WB106	79	7	Food Processing and Value Addition Pilot Program	ORG
+WB106	79	2	National Rural Economic Transformation Project	ORG
+WB106	79	3	Food Processing and Value Addition Pilot Program	ORG
 WB106	80	1	CPF 11	LAW
 WB106	81	1	two	CARDINAL
 WB106	81	2	the India CPF	ORG
@@ -210,10 +192,7 @@ WB106	99	1	15	CARDINAL
 WB106	100	1	Farmer Producer Organisations	ORG
 WB106	100	2	Primary Agriculture Credit Cooperative Societies	ORG
 WB106	101	1	D. Concept Description	PERSON
-WB106	102	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	102	2	18, 2018	DATE
-WB106	102	3	7	CARDINAL
-WB106	102	4	11 16	DATE
+WB106	102	1	16	CARDINAL
 WB106	103	1	Maharashtra	ORG
 WB106	105	1	third	ORDINAL
 WB106	105	2	Maharashtra	ORG
@@ -234,10 +213,6 @@ WB106	121	5	106	CARDINAL
 WB106	124	1	only 30.77 million	MONEY
 WB106	124	2	about 16%	PERCENT
 WB106	125	1	Maharashtra	ORG
-WB106	125	2	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	125	3	18, 2018	DATE
-WB106	125	4	8	CARDINAL
-WB106	125	5	11	CARDINAL
 WB106	126	1	recent years	DATE
 WB106	127	1	Sahyadri	ORG
 WB106	127	2	Satpura	ORG
@@ -269,10 +244,6 @@ WB106	142	1	C. Environmental	PERSON
 WB106	142	2	Environmental Specialist Gitanjali Chaturvedi	ORG
 WB106	142	3	Social Specialist D. Policies	ORG
 WB106	142	4	Safeguard Policies Triggered	ORG
-WB106	148	1	The World Bank State of Maharashtra's	ORG
-WB106	148	2	18, 2018	DATE
-WB106	148	3	9	CARDINAL
-WB106	148	4	11	CARDINAL
 WB106	150	1	4.03	CARDINAL
 WB106	150	2	TBD	ORG
 WB106	154	1	4.04	CARDINAL
@@ -290,28 +261,9 @@ WB106	163	3	OP	PERSON
 WB106	163	4	TBD	ORG
 WB106	166	1	International Waterways OP/BP	ORG
 WB106	167	1	Disputed Areas OP/BP	ORG
-WB106	168	1	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	168	2	18, 2018	DATE
-WB106	168	3	10	CARDINAL
+WB106	168	1	E. Safeguard Preparation Plan Tentative	ORG
+WB106	168	2	Appraisal Stage PID/ISDS Apr 08, 2019	ORG
 WB106	169	1	Appraisal Stage PID/ISDS	ORG
 WB106	169	2	Environment Assessment	ORG
 WB106	171	1	an Indigenous People's Planning Framework (IPPF	ORG
 WB106	171	2	Scheduled Tribes	PERSON
-WB106	172	1	Manivannan Pathy	PERSON
-WB106	172	2	Adarsh Kumar Sr Agricultural Spec	PERSON
-WB106	173	1	Borrower/Client/Recipient Republic of India	ORG
-WB106	173	2	Ministry of Finance	ORG
-WB106	173	3	Government of India bandana.preyashi@gov.in	ORG
-WB106	173	4	NW	GPE
-WB106	173	5	Washington	GPE
-WB106	173	6	202	CARDINAL
-WB106	173	7	473-1000	CARDINAL
-WB106	173	8	The World Bank State of Maharashtra's Agribusiness and Rural Transformation Project	ORG
-WB106	173	9	18, 2018	DATE
-WB106	173	10	11	CARDINAL
-WB106	173	11	11	CARDINAL
-WB106	173	12	APPROVAL	ORG
-WB106	173	13	Manivannan Pathy	PERSON
-WB106	173	14	Adarsh Kumar	PERSON
-WB106	173	15	Mary Kathryn Hollifield	PERSON
-WB106	173	16	Luc Lecuit	PERSON

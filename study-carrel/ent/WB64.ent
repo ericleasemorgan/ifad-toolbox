@@ -3,370 +3,287 @@ WB64	1	1	World Bank Document	ORG
 WB64	1	2	Ethiopia Resilient Landscapes	ORG
 WB64	1	3	Livelihoods Project (P163383	ORG
 WB64	1	4	May 10, 2017 Page 1	DATE
-WB64	1	5	16	CARDINAL
-WB64	1	6	Portal	ORG
-WB64	2	1	PID/ISDS	ORG
-WB64	2	2	Concept Stage	ORG
+WB64	1	5	16 Project Information	CARDINAL
+WB64	1	6	PID/ISDS	ORG
+WB64	1	7	Concept Stage	ORG
+WB64	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
+WB64	2	2	Ethiopia P163383	ORG
 WB64	2	3	Ethiopia Resilient Landscapes	ORG
-WB64	2	4	Livelihoods Project (	ORG
-WB64	2	5	May 10, 2017	DATE
-WB64	2	6	2	CARDINAL
-WB64	2	7	16	CARDINAL
-WB64	3	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
-WB64	3	2	Ethiopia P163383	ORG
-WB64	3	3	Ethiopia Resilient Landscapes	ORG
-WB64	3	4	Livelihoods Project (P163383)	ORG
-WB64	4	1	USD Million	CARDINAL
-WB64	4	2	Finance OLD Financing Source Amount International Development Association	ORG
-WB64	4	3	IDA	ORG
-WB64	4	4	100.00	CARDINAL
-WB64	5	1	May 10, 2017	DATE
-WB64	5	2	3	CARDINAL
-WB64	5	3	16	CARDINAL
-WB64	6	1	millions	CARDINAL
-WB64	6	2	Ethiopians	NORP
-WB64	7	1	Ethiopia	GPE
-WB64	8	1	Ethiopia	GPE
-WB64	8	2	2-3%	PERCENT
-WB64	11	1	thousands	CARDINAL
-WB64	11	2	the World Bank	ORG
-WB64	12	1	less than 10 years	DATE
-WB64	13	1	The World Bank	ORG
-WB64	13	2	Ethiopia	GPE
-WB64	13	3	Federal Ministry of Agriculture and Natural Resources	ORG
-WB64	13	4	six	CARDINAL
-WB64	13	5	IDA	ORG
-WB64	13	6	Norway	GPE
-WB64	13	7	Canada	GPE
-WB64	13	8	Germany	GPE
-WB64	13	9	GEF	ORG
-WB64	13	10	LDCF	ORG
-WB64	14	1	IDA	ORG
-WB64	14	2	the Second Sustainable Land Management Project	ORG
-WB64	14	3	over 1.3 million hectares	QUANTITY
-WB64	14	4	one million	CARDINAL
-WB64	15	1	135	CARDINAL
-WB64	15	2	135	CARDINAL
-WB64	15	3	six	CARDINAL
-WB64	17	1	Approximately 9 million tons	QUANTITY
-WB64	17	2	CO2e	PERSON
-WB64	17	3	4-5 years	DATE
-WB64	23	1	The World Bank	ORG
-WB64	23	2	Ethiopia Resilient Landscapes	ORG
-WB64	23	3	Livelihoods Project (	ORG
-WB64	23	4	May 10, 2017	DATE
-WB64	23	5	4	CARDINAL
-WB64	23	6	16	CARDINAL
-WB64	27	1	the Climate Resilient Green Economy	ORG
-WB64	27	2	2015	DATE
-WB64	27	3	Ethiopia	GPE
-WB64	27	4	INDC	ORG
-WB64	27	5	the Ethiopia SLM Investment Framework	ORG
-WB64	27	6	National Forest Sector Strategy	ORG
-WB64	27	7	National REDD+ Strategy	ORG
-WB64	28	1	the Pilot Program for Climate Resilience	ORG
-WB64	28	2	the BioCarbon Fund	ORG
-WB64	28	3	Bank	ORG
-WB64	28	4	four	CARDINAL
-WB64	28	5	the finance ministry	ORG
-WB64	28	6	Multi-Sector Investment Plan	ORG
-WB64	28	7	MSIP	ORG
-WB64	29	1	FY 17-21	DATE
-WB64	29	2	CPF	ORG
-WB64	29	3	US$100 million	MONEY
-WB64	30	1	Sustainable Land Management Program	ORG
-WB64	30	2	GTP-3	PRODUCT
-WB64	31	1	C. Proposed Development	PERSON
-WB64	32	1	PCN	ORG
-WB64	32	2	10 million hectares	QUANTITY
-WB64	32	3	at least 20 million	CARDINAL
-WB64	32	4	at least 20 million tons	QUANTITY
-WB64	32	5	CO2e	PERSON
-WB64	33	1	Task Teams:	WORK_OF_ART
-WB64	33	2	first	ORDINAL
-WB64	35	1	May 10, 2017	DATE
-WB64	35	2	5	CARDINAL
-WB64	35	3	16 1	CARDINAL
-WB64	36	1	1a	CARDINAL
-WB64	37	1	PFM	ORG
-WB64	37	2	1b	CARDINAL
-WB64	38	1	2	CARDINAL
-WB64	39	1	3	CARDINAL
-WB64	40	1	metric tons	QUANTITY
-WB64	40	2	3a	CARDINAL
-WB64	41	1	Tons/Ha	ORG
-WB64	41	2	4	DATE
-WB64	42	1	at least 4%	PERCENT
-WB64	42	2	40	CARDINAL
-WB64	42	3	Ethiopia	GPE
-WB64	43	1	300	CARDINAL
-WB64	43	2	135	CARDINAL
+WB64	2	4	Livelihoods Project (P163383)	ORG
+WB64	3	1	USD Million	CARDINAL
+WB64	3	2	Finance OLD Financing Source Amount International Development Association	ORG
+WB64	3	3	IDA	ORG
+WB64	3	4	100.00	CARDINAL
+WB64	4	1	millions	CARDINAL
+WB64	4	2	Ethiopians	NORP
+WB64	5	1	Ethiopia	GPE
+WB64	6	1	Ethiopia	GPE
+WB64	6	2	2-3%	PERCENT
+WB64	9	1	thousands	CARDINAL
+WB64	9	2	the World Bank	ORG
+WB64	10	1	less than 10 years	DATE
+WB64	11	1	The World Bank	ORG
+WB64	11	2	Ethiopia	GPE
+WB64	11	3	Federal Ministry of Agriculture and Natural Resources	ORG
+WB64	11	4	six	CARDINAL
+WB64	11	5	IDA	ORG
+WB64	11	6	Norway	GPE
+WB64	11	7	Canada	GPE
+WB64	11	8	Germany	GPE
+WB64	11	9	GEF	ORG
+WB64	11	10	LDCF	ORG
+WB64	12	1	IDA	ORG
+WB64	12	2	the Second Sustainable Land Management Project	ORG
+WB64	12	3	over 1.3 million hectares	QUANTITY
+WB64	12	4	one million	CARDINAL
+WB64	13	1	135	CARDINAL
+WB64	13	2	135	CARDINAL
+WB64	13	3	six	CARDINAL
+WB64	15	1	Approximately 9 million tons	QUANTITY
+WB64	15	2	CO2e	PERSON
+WB64	15	3	4-5 years	DATE
+WB64	25	1	the Climate Resilient Green Economy	ORG
+WB64	25	2	2015	DATE
+WB64	25	3	Ethiopia	GPE
+WB64	25	4	INDC	ORG
+WB64	25	5	the Ethiopia SLM Investment Framework	ORG
+WB64	25	6	National Forest Sector Strategy	ORG
+WB64	25	7	National REDD+ Strategy	ORG
+WB64	26	1	the Pilot Program for Climate Resilience	ORG
+WB64	26	2	the BioCarbon Fund	ORG
+WB64	26	3	Bank	ORG
+WB64	26	4	four	CARDINAL
+WB64	26	5	the finance ministry	ORG
+WB64	26	6	Multi-Sector Investment Plan	ORG
+WB64	26	7	MSIP	ORG
+WB64	27	1	FY 17-21	DATE
+WB64	27	2	CPF	ORG
+WB64	27	3	US$100 million	MONEY
+WB64	28	1	Sustainable Land Management Program	ORG
+WB64	28	2	GTP-3	PRODUCT
+WB64	29	1	C. Proposed Development	PERSON
+WB64	30	1	PCN	ORG
+WB64	30	2	10 million hectares	QUANTITY
+WB64	30	3	at least 20 million	CARDINAL
+WB64	30	4	at least 20 million tons	QUANTITY
+WB64	30	5	CO2e	PERSON
+WB64	31	1	1	CARDINAL
+WB64	32	1	1a	CARDINAL
+WB64	33	1	PFM	ORG
+WB64	33	2	1b	CARDINAL
+WB64	34	1	2	CARDINAL
+WB64	35	1	3	CARDINAL
+WB64	36	1	metric tons	QUANTITY
+WB64	36	2	3a	CARDINAL
+WB64	37	1	Tons/Ha	ORG
+WB64	37	2	4	DATE
+WB64	38	1	at least 4%	PERCENT
+WB64	38	2	40	CARDINAL
+WB64	38	3	Ethiopia	GPE
+WB64	39	1	300	CARDINAL
+WB64	39	2	135	CARDINAL
+WB64	39	3	Bank	ORG
+WB64	39	4	just over 100	CARDINAL
+WB64	40	1	1000	CARDINAL
+WB64	40	2	approximately $250m	MONEY
+WB64	40	3	SLM Program	ORG
+WB64	40	4	approximately $883	MONEY
+WB64	40	5	approximately $800,000	MONEY
+WB64	41	1	IDA	ORG
+WB64	42	1	D. Concept Description	PERSON
+WB64	43	1	MOFEC	PERSON
+WB64	43	2	the Sustainable Land Management Program	ORG
 WB64	43	3	Bank	ORG
-WB64	43	4	just over 100	CARDINAL
-WB64	44	1	1000	CARDINAL
-WB64	44	2	approximately $250m	MONEY
-WB64	44	3	SLM Program	ORG
-WB64	44	4	approximately $883	MONEY
-WB64	44	5	approximately $800,000	MONEY
-WB64	45	1	IDA	ORG
-WB64	46	1	D. Concept Description	PERSON
-WB64	47	1	MOFEC	PERSON
-WB64	47	2	the Sustainable Land Management Program	ORG
-WB64	47	3	Bank	ORG
-WB64	48	1	the World Bank	ORG
-WB64	49	1	$100m	MONEY
-WB64	49	2	IDA	ORG
-WB64	49	3	Green Climate Fund	ORG
-WB64	49	4	Global Environment Facility	ORG
-WB64	49	5	GEF	ORG
-WB64	49	6	Ethiopia	GPE
-WB64	49	7	Sustainable Land Management Program	ORG
-WB64	49	8	10 million	CARDINAL
-WB64	49	9	an estimated 20 million	CARDINAL
-WB64	49	10	an estimated 20 million tons	QUANTITY
-WB64	49	11	CO2e	PERSON
-WB64	51	1	the years	DATE
-WB64	54	1	The World Bank	ORG
-WB64	54	2	May 10, 2017	DATE
-WB64	54	3	6	CARDINAL
-WB64	54	4	16 •	QUANTITY
-WB64	54	5	Improved	NORP
-WB64	55	1	Ethiopian	NORP
-WB64	56	1	Ethiopian	NORP
-WB64	56	2	approximately 60%	PERCENT
-WB64	57	1	Ethiopia	GPE
-WB64	59	1	PV	ORG
-WB64	62	1	Bank	ORG
-WB64	63	1	15,000	CARDINAL
-WB64	63	2	100,000	CARDINAL
-WB64	64	1	Bank	ORG
-WB64	64	2	Performance for Results (P4R)	WORK_OF_ART
-WB64	64	3	Ethiopia	GPE
-WB64	64	4	IPF	ORG
-WB64	65	1	Smart	PERSON
-WB64	68	1	the World Bank	ORG
-WB64	68	2	DEC	ORG
-WB64	68	3	the Ethiopia Development Research Institute	ORG
-WB64	69	1	3.5 hours to half an hour	TIME
-WB64	69	2	up to 3h	CARDINAL
-WB64	69	3	1/3	CARDINAL
-WB64	71	1	• More than 33,000	CARDINAL
-WB64	72	1	the hundreds of thousands --	MONEY
-WB64	72	2	The World Bank	ORG
-WB64	72	3	Ethiopia Resilient Landscapes	ORG
-WB64	72	4	Livelihoods Project (	ORG
-WB64	72	5	May 10, 2017	DATE
-WB64	72	6	7	CARDINAL
-WB64	72	7	16	CARDINAL
-WB64	74	1	World Bank	ORG
-WB64	74	2	Resilient Landscapes	ORG
-WB64	74	3	IDA	ORG
-WB64	74	4	the Ministry of Agriculture and Natural Resources	ORG
-WB64	74	5	Sustainable Land Management Program	ORG
-WB64	75	1	Mechanisms	ORG
-WB64	76	1	1	CARDINAL
-WB64	77	1	135	CARDINAL
-WB64	77	2	18	CARDINAL
-WB64	77	3	Canada	GPE
-WB64	77	4	2	CARDINAL
-WB64	78	1	3	CARDINAL
-WB64	79	1	4	CARDINAL
-WB64	80	1	Somali	NORP
-WB64	80	2	5	CARDINAL
-WB64	82	1	Ethiopia Resilient Landscapes	ORG
-WB64	82	2	Livelihoods Project (	ORG
-WB64	82	3	May 10, 2017	DATE
-WB64	82	4	8	CARDINAL
-WB64	82	5	16	CARDINAL
-WB64	83	1	$70 million	MONEY
-WB64	83	2	IDA	ORG
-WB64	83	3	TBD	ORG
-WB64	84	1	10,000	CARDINAL
-WB64	87	1	Government Development Agents	ORG
-WB64	87	2	the Bureaus of Agriculture	ORG
-WB64	89	1	three	CARDINAL
-WB64	89	2	1.1	CARDINAL
-WB64	90	1	$40 million	MONEY
-WB64	90	2	IDA	ORG
-WB64	90	3	TBD	ORG
-WB64	92	1	1.2	CARDINAL
-WB64	93	1	$20 million	MONEY
-WB64	93	2	IDA	ORG
-WB64	93	3	TBD	ORG
-WB64	95	1	1.3	CARDINAL
-WB64	96	1	$10 million	MONEY
-WB64	96	2	IDA	ORG
-WB64	96	3	TBD	ORG
-WB64	99	1	cooperatives	ORG
-WB64	99	2	• Organization of related consultation	ORG
-WB64	99	3	Facilitate	WORK_OF_ART
-WB64	101	1	US$ 10 million	MONEY
-WB64	101	2	IDA	ORG
-WB64	101	3	TBD	ORG
-WB64	103	1	The World Bank	ORG
-WB64	103	2	May 10, 2017	DATE
-WB64	103	3	9	CARDINAL
-WB64	103	4	16	CARDINAL
-WB64	104	1	the Ethiopia Development Research Institute’s Environment and Climate Research Center	ORG
-WB64	104	2	the World Bank’s Development Research Group	ORG
-WB64	104	3	the Africa Gender Lab for Impact Evaluation	ORG
-WB64	106	1	US$ 10 million	MONEY
-WB64	106	2	IDA	ORG
-WB64	106	3	TBD	ORG
-WB64	107	1	1	CARDINAL
-WB64	108	1	approximately 100,000	CARDINAL
-WB64	109	1	2,000,000	CARDINAL
-WB64	110	1	Half	CARDINAL
-WB64	114	1	Project Management and Monitoring	ORG
-WB64	114	2	$10 million	MONEY
-WB64	114	3	IDA	ORG
-WB64	114	4	TBD	ORG
-WB64	115	1	Regional State Bureaus of Agriculture	ORG
-WB64	117	1	SAFEGUARDS A.	PERSON
-WB64	118	1	135	CARDINAL
-WB64	118	2	the Sustainable Land Management Project II	ORG
-WB64	118	3	P133133	GPE
-WB64	118	4	18	CARDINAL
-WB64	118	5	Canada	GPE
-WB64	119	1	$100m IDA	MONEY
-WB64	120	1	Somali	NORP
-WB64	120	2	Woredas	PERSON
-WB64	122	1	Portal	ORG
-WB64	123	1	May 10, 2017	DATE
-WB64	123	2	10	CARDINAL
-WB64	123	3	16	CARDINAL
-WB64	123	4	B. Borrower’s	PERSON
+WB64	44	1	the World Bank	ORG
+WB64	45	1	$100m	MONEY
+WB64	45	2	IDA	ORG
+WB64	45	3	Green Climate Fund	ORG
+WB64	45	4	Global Environment Facility	ORG
+WB64	45	5	GEF	ORG
+WB64	45	6	Ethiopia	GPE
+WB64	45	7	Sustainable Land Management Program	ORG
+WB64	45	8	10 million	CARDINAL
+WB64	45	9	an estimated 20 million	CARDINAL
+WB64	45	10	an estimated 20 million tons	QUANTITY
+WB64	45	11	CO2e	PERSON
+WB64	47	1	the years	DATE
+WB64	50	1	Improved	NORP
+WB64	51	1	Ethiopian	NORP
+WB64	52	1	Ethiopian	NORP
+WB64	52	2	approximately 60%	PERCENT
+WB64	53	1	Ethiopia	GPE
+WB64	55	1	PV	ORG
+WB64	58	1	Bank	ORG
+WB64	59	1	15,000	CARDINAL
+WB64	59	2	100,000	CARDINAL
+WB64	60	1	Bank	ORG
+WB64	60	2	Performance for Results (P4R)	WORK_OF_ART
+WB64	60	3	Ethiopia	GPE
+WB64	60	4	IPF	ORG
+WB64	61	1	Smart	PERSON
+WB64	64	1	the World Bank	ORG
+WB64	64	2	DEC	ORG
+WB64	64	3	the Ethiopia Development Research Institute	ORG
+WB64	65	1	3.5 hours to half an hour	TIME
+WB64	65	2	up to 3h	CARDINAL
+WB64	65	3	1/3	CARDINAL
+WB64	67	1	• More than 33,000	CARDINAL
+WB64	68	1	the hundreds of thousands --	MONEY
+WB64	70	1	World Bank	ORG
+WB64	70	2	Resilient Landscapes	ORG
+WB64	70	3	IDA	ORG
+WB64	70	4	the Ministry of Agriculture and Natural Resources	ORG
+WB64	70	5	Sustainable Land Management Program	ORG
+WB64	71	1	Mechanisms	ORG
+WB64	72	1	1	CARDINAL
+WB64	73	1	135	CARDINAL
+WB64	73	2	18	CARDINAL
+WB64	73	3	Canada	GPE
+WB64	73	4	2	CARDINAL
+WB64	74	1	3	CARDINAL
+WB64	75	1	4	CARDINAL
+WB64	76	1	Somali	NORP
+WB64	76	2	5	CARDINAL
+WB64	79	1	$70 million	MONEY
+WB64	79	2	IDA	ORG
+WB64	79	3	TBD	ORG
+WB64	80	1	10,000	CARDINAL
+WB64	83	1	Government Development Agents	ORG
+WB64	83	2	the Bureaus of Agriculture	ORG
+WB64	85	1	three	CARDINAL
+WB64	85	2	1.1	CARDINAL
+WB64	86	1	$40 million	MONEY
+WB64	86	2	IDA	ORG
+WB64	86	3	TBD	ORG
+WB64	88	1	1.2	CARDINAL
+WB64	89	1	$20 million	MONEY
+WB64	89	2	IDA	ORG
+WB64	89	3	TBD	ORG
+WB64	91	1	1.3	CARDINAL
+WB64	92	1	$10 million	MONEY
+WB64	92	2	IDA	ORG
+WB64	92	3	TBD	ORG
+WB64	95	1	cooperatives	ORG
+WB64	95	2	• Organization of related consultation	ORG
+WB64	95	3	Facilitate	WORK_OF_ART
+WB64	97	1	US$ 10 million	MONEY
+WB64	97	2	IDA	ORG
+WB64	97	3	TBD	ORG
+WB64	100	1	the Ethiopia Development Research Institute’s Environment and Climate Research Center	ORG
+WB64	100	2	the World Bank’s Development Research Group	ORG
+WB64	100	3	the Africa Gender Lab for Impact Evaluation	ORG
+WB64	102	1	US$ 10 million	MONEY
+WB64	102	2	IDA	ORG
+WB64	102	3	TBD	ORG
+WB64	103	1	1	CARDINAL
+WB64	104	1	approximately 100,000	CARDINAL
+WB64	105	1	2,000,000	CARDINAL
+WB64	106	1	Half	CARDINAL
+WB64	110	1	Project Management and Monitoring	ORG
+WB64	110	2	$10 million	MONEY
+WB64	110	3	IDA	ORG
+WB64	110	4	TBD	ORG
+WB64	111	1	Regional State Bureaus of Agriculture	ORG
+WB64	113	1	SAFEGUARDS A.	PERSON
+WB64	114	1	135	CARDINAL
+WB64	114	2	the Sustainable Land Management Project II	ORG
+WB64	114	3	P133133	GPE
+WB64	114	4	18	CARDINAL
+WB64	114	5	Canada	GPE
+WB64	115	1	$100m IDA	MONEY
+WB64	116	1	Somali	NORP
+WB64	116	2	Woredas	PERSON
+WB64	118	1	B. Borrower’s	PERSON
+WB64	119	1	RLLP	ORG
+WB64	120	1	Sustainable Land Management Program	ORG
+WB64	120	2	Regional State	GPE
+WB64	120	3	Zone	GPE
+WB64	120	4	Woreda	GPE
+WB64	120	5	Kebele	PERSON
+WB64	121	1	135	CARDINAL
+WB64	121	2	Oromia	GPE
+WB64	121	3	Amhara	GPE
+WB64	121	4	SNNP	GPE
+WB64	121	5	Tigray	ORG
+WB64	121	6	Benishangul Gumuz	PERSON
+WB64	121	7	Gambella	PERSON
+WB64	123	1	RLLP	ORG
+WB64	123	2	Social Assessment	ORG
 WB64	124	1	RLLP	ORG
-WB64	125	1	Sustainable Land Management Program	ORG
-WB64	125	2	Regional State	GPE
-WB64	125	3	Zone	GPE
-WB64	125	4	Woreda	GPE
-WB64	125	5	Kebele	PERSON
-WB64	126	1	135	CARDINAL
-WB64	126	2	Oromia	GPE
-WB64	126	3	Amhara	GPE
-WB64	126	4	SNNP	GPE
-WB64	126	5	Tigray	ORG
-WB64	126	6	Benishangul Gumuz	PERSON
-WB64	126	7	Gambella	PERSON
-WB64	128	1	RLLP	ORG
-WB64	128	2	Social Assessment	ORG
+WB64	125	1	18	CARDINAL
+WB64	125	2	Canada	GPE
+WB64	125	3	Environmental	GPE
+WB64	125	4	Social	NORP
+WB64	125	5	RLLP	ORG
+WB64	126	1	C. Environmental	PERSON
+WB64	126	2	Social Safeguards Specialist	ORG
+WB64	126	3	Dereje Agonafir Habtewold	PERSON
+WB64	126	4	Yacob Wondimkun Endaylalu	PERSON
+WB64	126	5	Safeguard Policies Triggered	ORG
+WB64	127	1	RLLP	ORG
+WB64	128	1	EA	ORG
 WB64	129	1	RLLP	ORG
-WB64	130	1	18	CARDINAL
-WB64	130	2	Canada	GPE
-WB64	130	3	Environmental	GPE
-WB64	130	4	Social	NORP
-WB64	130	5	RLLP	ORG
-WB64	131	1	C. Environmental	PERSON
-WB64	131	2	Social Safeguards Specialist	ORG
-WB64	131	3	Dereje Agonafir Habtewold	PERSON
-WB64	131	4	Yacob Wondimkun Endaylalu	PERSON
-WB64	131	5	Safeguard Policies Triggered	ORG
 WB64	132	1	RLLP	ORG
-WB64	133	1	EA	ORG
-WB64	134	1	May 10, 2017	DATE
-WB64	134	2	11	CARDINAL
-WB64	134	3	16	CARDINAL
+WB64	133	1	18	CARDINAL
+WB64	133	2	Canada	GPE
+WB64	133	3	Bank	ORG
+WB64	133	4	Environmental	NORP
+WB64	133	5	Social	NORP
+WB64	133	6	RLLP	ORG
+WB64	135	1	OP	PERSON
+WB64	135	2	OP	PERSON
 WB64	137	1	RLLP	ORG
-WB64	138	1	18	CARDINAL
-WB64	138	2	Canada	GPE
-WB64	138	3	Bank	ORG
-WB64	138	4	Environmental	NORP
-WB64	138	5	Social	NORP
-WB64	138	6	RLLP	ORG
-WB64	140	1	OP	PERSON
-WB64	140	2	OP	PERSON
+WB64	138	1	OP	PERSON
+WB64	139	1	RLLP	ORG
 WB64	142	1	RLLP	ORG
 WB64	143	1	OP	PERSON
-WB64	144	1	RLLP	ORG
-WB64	144	2	The World Bank	ORG
-WB64	144	3	Ethiopia Resilient Landscapes	ORG
-WB64	144	4	Livelihoods Project (	ORG
-WB64	144	5	May 10, 2017	DATE
-WB64	144	6	12	CARDINAL
-WB64	144	7	16	CARDINAL
-WB64	147	1	RLLP	ORG
-WB64	148	1	OP	PERSON
-WB64	149	1	4.09	CARDINAL
-WB64	149	2	OP	PERSON
-WB64	150	1	ESMF	ORG
-WB64	150	2	Integrated Pest Management	ORG
-WB64	150	3	IPM	ORG
-WB64	154	1	Peoples OP/BP	ORG
-WB64	154	2	RLLP	ORG
-WB64	155	1	The World Bank	ORG
-WB64	155	2	May 10, 2017 Page 13	DATE
-WB64	155	3	16	CARDINAL
-WB64	155	4	a Social Assessment	ORG
-WB64	155	5	OP4.10	ORG
-WB64	156	1	the Social Assessment	ORG
-WB64	157	1	RLLP	ORG
-WB64	157	2	the Social Assessment and Social Development Plan	ORG
-WB64	157	3	Somali	NORP
-WB64	158	1	18	CARDINAL
-WB64	158	2	Canada	GPE
-WB64	158	3	Environmental	NORP
-WB64	158	4	Social	NORP
-WB64	158	5	RLLP	ORG
-WB64	159	1	The Social Assessment and Social Development Plan	ORG
-WB64	159	2	18	CARDINAL
-WB64	159	3	Canada	GPE
-WB64	159	4	RLLP	ORG
-WB64	159	5	SLMP II	ORG
-WB64	160	1	Social Assessment	ORG
-WB64	160	2	SDP	ORG
-WB64	160	3	RLLP	ORG
-WB64	161	1	OP	PERSON
-WB64	161	2	RLLP	ORG
-WB64	162	1	ESMF	ORG
-WB64	162	2	Social Assessment	ORG
-WB64	162	3	the Resettlement Policy Framework	ORG
-WB64	162	4	RPF	ORG
-WB64	163	1	The World Bank	ORG
-WB64	163	2	Ethiopia Resilient Landscapes	ORG
-WB64	163	3	Livelihoods Project (	ORG
-WB64	163	4	May 10, 2017	DATE
-WB64	163	5	14	CARDINAL
-WB64	163	6	16	CARDINAL
-WB64	165	1	Bank	ORG
-WB64	165	2	RPF	ORG
-WB64	166	1	4.37	CARDINAL
-WB64	167	1	RLLP	ORG
-WB64	167	2	more than 4.5 meters	QUANTITY
-WB64	168	1	less than 4.5 meters	QUANTITY
-WB64	168	2	Manual on Small Earth Dams	WORK_OF_ART
-WB64	170	1	International Waterways OP/BP	ORG
-WB64	170	2	Abay	ORG
-WB64	170	3	Tekeze, Baro	ORG
-WB64	174	1	RLLP	ORG
-WB64	176	1	Disputed Areas OP/BP	ORG
-WB64	176	2	The World Bank	ORG
-WB64	176	3	Ethiopia Resilient Landscapes	ORG
-WB64	176	4	Livelihoods Project (	ORG
-WB64	176	5	May 10, 2017	DATE
-WB64	176	6	15	CARDINAL
-WB64	176	7	16	CARDINAL
-WB64	176	8	Appraisal Stage PID/ISDS Feb 13, 2018 Time	ORG
-WB64	177	1	Appraisal Stage PID/ISDS ESMF	ORG
-WB64	177	2	SA	ORG
-WB64	177	3	RPF	ORG
-WB64	178	1	January 1, 2018	DATE
-WB64	178	2	45 days	DATE
-WB64	179	1	Paul Jonathan Martin	PERSON
-WB64	179	2	International Financial Institutions Cooperation D	ORG
-WB64	179	3	Habtamu Hailu	PERSON
-WB64	179	4	NW	GPE
-WB64	179	5	Washington	GPE
-WB64	179	6	202	CARDINAL
-WB64	179	7	473-1000	CARDINAL
-WB64	179	8	The World Bank	ORG
-WB64	179	9	Ethiopia Resilient Landscapes	ORG
-WB64	179	10	Livelihoods Project (	ORG
-WB64	179	11	May 10, 2017	DATE
-WB64	179	12	16	CARDINAL
-WB64	179	13	16	CARDINAL
-WB64	179	14	APPROVAL	ORG
-WB64	179	15	Paul Jonathan Martin	PERSON
-WB64	179	16	Nathalie S. Munzberg 27-Mar-2018	PERSON
-WB64	179	17	Magda Lovei 28-Mar-2018	PERSON
-WB64	179	18	Nicole Klingen 25-Apr-2018	PERSON
+WB64	144	1	4.09	CARDINAL
+WB64	144	2	OP	PERSON
+WB64	145	1	ESMF	ORG
+WB64	145	2	Integrated Pest Management	ORG
+WB64	145	3	IPM	ORG
+WB64	149	1	Peoples OP/BP	ORG
+WB64	149	2	RLLP	ORG
+WB64	150	1	Social Assessment	ORG
+WB64	150	2	OP4.10	ORG
+WB64	151	1	the Social Assessment	ORG
+WB64	152	1	RLLP	ORG
+WB64	152	2	the Social Assessment and Social Development Plan	ORG
+WB64	152	3	Somali	NORP
+WB64	153	1	18	CARDINAL
+WB64	153	2	Canada	GPE
+WB64	153	3	Environmental	NORP
+WB64	153	4	Social	NORP
+WB64	153	5	RLLP	ORG
+WB64	154	1	The Social Assessment and Social Development Plan	ORG
+WB64	154	2	18	CARDINAL
+WB64	154	3	Canada	GPE
+WB64	154	4	RLLP	ORG
+WB64	154	5	SLMP II	ORG
+WB64	155	1	Social Assessment	ORG
+WB64	155	2	SDP	ORG
+WB64	155	3	RLLP	ORG
+WB64	156	1	OP	PERSON
+WB64	156	2	RLLP	ORG
+WB64	157	1	ESMF	ORG
+WB64	157	2	Social Assessment	ORG
+WB64	157	3	the Resettlement Policy Framework	ORG
+WB64	157	4	RPF	ORG
+WB64	160	1	Bank	ORG
+WB64	160	2	RPF	ORG
+WB64	161	1	4.37	CARDINAL
+WB64	162	1	RLLP	ORG
+WB64	162	2	more than 4.5 meters	QUANTITY
+WB64	163	1	less than 4.5 meters	QUANTITY
+WB64	163	2	Manual on Small Earth Dams	WORK_OF_ART
+WB64	165	1	International Waterways OP/BP	ORG
+WB64	165	2	Abay	ORG
+WB64	165	3	Tekeze, Baro	ORG
+WB64	169	1	RLLP	ORG
+WB64	171	1	Disputed Areas OP/BP	ORG
+WB64	171	2	Appraisal Stage PID/ISDS Feb 13, 2018 Time	ORG
+WB64	172	1	Appraisal Stage PID/ISDS ESMF	ORG
+WB64	172	2	SA	ORG
+WB64	172	3	RPF	ORG
+WB64	173	1	January 1, 2018	DATE
+WB64	173	2	45 days	DATE

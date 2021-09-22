@@ -1,8 +1,6 @@
 id	sid	eid	entity	type
-WB2	1	1	1	CARDINAL
-WB2	1	2	8	CARDINAL
-WB2	1	3	PID/ISDS	ORG
-WB2	1	4	ADDITIONAL FINANCING Report No	ORG
+WB2	1	1	PID/ISDS	ORG
+WB2	1	2	ADDITIONAL FINANCING Report No	ORG
 WB2	2	1	PIDISDSA16622 Date Prepared/Updated:	PERSON
 WB2	2	2	17-Mar-2016	CARDINAL
 WB2	4	1	Basic Project Data Country	ORG
@@ -135,45 +133,3 @@ WB2	79	2	16-Mar-2016	DATE
 WB2	79	3	Disclosure Comments: If the project triggers the Pest Management and/or Physical Cultural Resources	WORK_OF_ART
 WB2	79	4	the Environmental Assessment/ Audit	ORG
 WB2	79	5	EMP	ORG
-WB2	80	1	EMP	WORK_OF_ART
-WB2	81	1	NA	ORG
-WB2	81	2	the Regional Environment Unit	ORG
-WB2	81	3	EA	PERSON
-WB2	82	1	NA	ORG
-WB2	82	2	EMP	ORG
-WB2	83	1	NA	ORG
-WB2	83	2	The World Bank Policy on Disclosure of Information	ORG
-WB2	83	3	the World Bank's	ORG
-WB2	84	1	NA	ORG
-WB2	84	2	7	CARDINAL
-WB2	84	3	8	CARDINAL
-WB2	85	1	NA	ORG
-WB2	85	2	All Safeguard Policies	WORK_OF_ART
-WB2	86	1	NA	ORG
-WB2	87	1	NA	ORG
-WB2	88	1	NA	ORG
-WB2	89	1	NA	ORG
-WB2	89	2	V. Contact	PERSON
-WB2	89	3	World Bank Contact	ORG
-WB2	89	4	Mohamed Medouar	PERSON
-WB2	89	5	Sr Agricultural Spec	ORG
-WB2	90	1	Borrower/Client/Recipient Name	ORG
-WB2	90	2	Ministry of Economy and Finance in Charge of Planning and Industry Contact	ORG
-WB2	90	3	H. E. Mr.	PERSON
-WB2	90	4	Ilyas Moussa Dawaleh Title	PERSON
-WB2	90	5	Email	PERSON
-WB2	90	6	Ministry of Agriculture Water, Fisheries	ORG
-WB2	91	1	The InfoShop The World Bank 1818 H Street	ORG
-WB2	91	2	NW	GPE
-WB2	91	3	Washington	GPE
-WB2	91	4	202	CARDINAL
-WB2	91	5	458	CARDINAL
-WB2	91	6	202	CARDINAL
-WB2	91	7	522-1500	CARDINAL
-WB2	92	1	Mohamed Medouar	PERSON
-WB2	92	2	Nina Chee	PERSON
-WB2	92	3	SA	ORG
-WB2	92	4	18-Mar-2016 Page 8	DATE
-WB2	92	5	8	CARDINAL
-WB2	92	6	Steven N. Schonberger	PERSON
-WB2	92	7	18-Mar-2016	DATE

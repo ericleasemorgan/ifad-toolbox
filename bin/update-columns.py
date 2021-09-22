@@ -12,6 +12,7 @@
 METADATA = './study-carrel/metadata.csv'
 DB       = './study-carrel/etc/reader.db'
 UPDATE   = "UPDATE bib SET country='%s', region='%s', amount=%s WHERE id='%s';"
+UPPER    = 'UPDATE bib SET author = UPPER( author );'
 
 # require
 from   sys     import stderr
@@ -28,14 +29,14 @@ for index, row in metadata.iterrows() :
 	# parse
 	country = row[ 'country' ]
 	region  = row[ 'region' ]
-	finance  = row[ 'finance' ]
+	finance = row[ 'finance' ]
 	file    = row[ 'file' ]
 	
 	# normalize, escape quotes, create key, and create sql
-	finance  = str( finance )
+	finance = str( finance )
 	country = country.replace( "'", "''" )
 	region  = region.replace( "'", "''" )
-	key     = file.replace( '.pdf', '' )
+	key     = file.replace( '.txt', '' )
 	sql     = ( UPDATE % ( country, region, finance, key ) )
 		
 	# debug
@@ -45,8 +46,12 @@ for index, row in metadata.iterrows() :
 	# do the work
 	connection.execute( sql )
 	connection.commit()
+	
+# normalize case of authors
+connection.execute( UPPER )
+connection.commit()
 
-# done; straight-forward
+# done
 exit
 
 	

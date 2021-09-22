@@ -1,0 +1,1119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Afghanistan Strategic Grain Reserve ( SGR Project ) (P160606) 
+
+ 
+ 
+
+  
+Feb 13, 2017 Page 1 of 21  
+
+     
+
+ 
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 25-Apr-2017 | Report No: PIDISDSA21211 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Afghanistan P160606 Afghanistan Strategic 
+Grain Reserve ( SGR 
+Project ) 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA 10-Apr-2017 13-Jun-2017 Agriculture 
+
+Lending Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Islamic Republic of 
+Afghanistan - Ministry of 
+Finance 
+
+MAIL  
+
+ 
+Proposed Development Objective(s) 
+ 
+The development objective of the project is “To establish a wheat strategic reserve to be available to Afghan 
+households to meet their needs following emergency situations and improve the efficiency of the grain storage 
+management.” 
+ 
+Components 
+
+Component A: Institutional Infrastructure and Capacity Building 
+Component B: Physical Infrastructure 
+Component C: Project Management: 
+
+ 
+ 
+
+Financing (in USD Million) 
+
+ 
+
+Financing Source Amount  
+
+IDA Grant   18.00  
+
+Japan Policy and Human Resources Development Fund   11.45  
+
+Total Project Cost   29.45  
+
+ 
+
+Environmental Assessment Category 
+
+B - Partial Assessment 
+   
+Decision 
+
+The review did authorize the preparation to continue     
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+
+Afghanistan is a landlocked country, surrounded by Tajikistan, Uzbekistan, and Turkmenistan in the north, 
+Iran in the west, Pakistan in the south and southwest, and China in the northeast. The country is divided 
+into thirty four provinces, each province consists of a number of districts. Within these districts, most 
+families live in villages. Rural households make up around 80 percent of the population, which is estimated 
+to be 32.5 million (World Bank, 2015), with one of the highest growth rates of population worldwide (3 
+percent / year). The Gross Domestic Product (GDP) of Afghanistan is around $ 19.2 billion (World Bank, 
+2015).  
+
+ 
+Over the last several decades, the country went through wars, and internal conflicts, resulting in weak 
+economy, and absence of some of the basic services in parts of the country. All economic activities, and the 
+potential for economic growth in Afghanistan have been badly affected by the deteriorating security 
+situation, and the uncertainty about its political future, with around 39 percent of the Afghans falling under 
+the poverty line (World Bank, 2013). Recently, Statistics showed negative levels of consumers’ prices index 
+reflecting the high unemployment rates, and the weak economic conditions. The security situation remains 
+a serious challenge, it has even deteriorated recently in some areas of the country, with limited presence or 
+control from the government. 
+ 
+Agriculture is the main pillar of the Afghan economy, being the second contributor to the GDP, following 
+the services sector, which primarily depends on the presence of the international community in 
+Afghanistan. The agriculture sector employs around 40 percent of the working force of the country
+
+1
+, and 
+
+provides support to approximately 80 percent of the population in their livelihood. Direct agriculture 
+activities contribute 25 percent to the GDP of the country. The number would be much higher if other 
+related activities such as food processing, logistic, and trade of food items, are included. Wheat and its 
+related activities such as logistics, and milling represents around 6.5 percent of the national GDP on the 
+country.  
+
+ 
+Agriculture productivity per unit of land in Afghanistan is low compared to world standards and some of its 
+neighboring countries for most of the crops. Arable land in Afghanistan is around 12 percent of its total 
+area, with less than half of the cultivated land is irrigated, while the larger portion of crops is rain-fed. 
+Along with the high annual growth rate of population, this makes the country import-dependent for a large 
+number of major food products, including wheat.  
+ 
+Malnutrition is another chronic challenge in Afghanistan. It is estimated that 33 percent of Afghans are 
+food insecure. Access to basic food items is limited for many Afghans, with around 34.7 percent of rural 
+
+  
+households suffering from caloric deficiency in normal condition. This become even worse during times of 
+shortages of supply. 
+ 
+Given the fact that the agriculture sector in Afghanistan is not yet developed, in terms of adopting modern 
+technologies, especially those related to climate resilient seeds, water management, and improved farming 
+practices, this makes its agriculture production highly volatile, and vulnerable to sudden shocks, resulting 
+from any unforeseen situation. 
+ 
+Agricultural production in Afghanistan consists mainly of wheat, horticulture, nuts, and poppy
+
+2
+. Due to the 
+
+very high level of consumption per capita, and being major part of the Afghan diet, wheat accounts for 
+more than 60 percent of total areas cultivated, with a total area of around 2.4 million hectares
+
+3
+, almost 
+
+equally split between irrigated and rain-fed cultivation, which creates high level of volatility in production 
+every year. This has resulted in a fluctuating supply of wheat for households’ consumption on annual basis. 
+This deficit of supply is mainly addressed by imports.  
+ 
+Additionally, the political relations between Afghanistan and its neighbors, affects to a large extent the flow 
+of goods to the country, bearing in mind its position as a landlocked country, with limited access to 
+international trade and supply routes.  
+ 
+By nature, Afghanistan is also prone to other natural disasters such as earthquakes, which adds to the 
+already weak situation in the country. When such incidents occur, supply of wheat through the regular 
+channels become more challenging, and many Afghans especially the poor lack access to wheat for their 
+daily diet.   
+ 
+Altogether, these factors puts Afghanistan in a very fragile situation with regard to its ability to secure basic 
+food requirements specially wheat, for the need of its citizens especially at times of shortages of supply due 
+to unforeseen situations, and emphasizes the need to establish a strategic reserve of wheat to be utilized 
+during possible deficits of supply.     
+
+ 
+Sectoral and Institutional Context 
+ 
+
+Wheat is the largest crop grown in Afghanistan, covering nearly 60 percent of all cultivated lands. 
+
+Production of wheat in Afghanistan comes mainly from the northern regions, which is mostly rain-fed 
+
+cultivations, this increases the risk of volatility of production on annual basis. Over the last ten years (2005 
+
+– 2015), annual production of wheat fluctuated between 2.1 million tons in 2008, to slightly above 5 million 
+
+tons in 2014. There are several factors resulting in this large variability, mainly adverse climate conditions- 
+
+specifically drought. Afghanistan is affected by global climate change, which is resulting in less rains, and 
+
+increase in temperature, which accordingly have negative impact on its agricultural production in terms of 
+
+areas cultivated and productivity per unit of land, bearing in mind that more than half of its cultivated lands 
+
+are rain-fed. Additionally, the poor quality of seeds, and the limited adoption of modern farming practices 
+
+adds to the situation.  
+
+The recent significant shortages of local production were observed in 2004, 2006, 2008, and 2011, with 
+
+ 
+the unfavorable weather conditions being
+4
+ the main reason.  During these years, supply of wheat for 
+
+household consumption dropped sharply, it was also accompanied with ban on exports of wheat from 
+some of the neighboring supplying countries facing the same unfavorable climate conditions. This 
+resulted in limiting the access of many Afghans to wheat for their daily consumption.  
+ 
+In Afghanistan, bread constitutes around 70 percent of the daily caloric intake
+
+5
+. Globally, the country 
+
+has the highest annual rate of wheat consumption per capita (160kg)
+6
+. This makes the availability of the 
+
+crop a significantly important factor for the social stability of Afghanistan. Each year large quantities of 
+
+wheat are imported primarily by the private sector, which mainly serve the urban community, along 
+
+with donations from other countries.  With the limited availability of data in Afghanistan, different 
+
+sources have different estimates for the annual imports of wheat ranging between one to two million 
+
+tons every year, which roughly represents 20 – 40 percent of the overall consumption of the country, 
+
+depending on the size of domestic production. For the 2016 / 2017 crop season, MAIL estimates that 
+
+import requirements will be around 1.25 million tons.  
+
+Regularly, the government of Afghanistan receives grain donations from other countries (mainly India), 
+
+over the period 2011 – 2014 the government received 250,000 tons from India, and in 2016 – 2017 
+
+season only, India is planning to provide around 100,000 tons to Afghanistan. All these quantities are 
+
+stored and distributed to the poorest in Afghanistan. Irregularly, the government purchases much 
+
+smaller quantities from farmers for the same purpose, in 2015 MAIL purchased only 900 tons from 
+
+Afghan farmers. 
+
+ Imports of wheats by the private sector usually offsets the deficit of domestic production, however in 
+
+some years, and due to various reasons including market forces, political issues, and the impact of 
+
+climate conditions, the availability of wheat in neighboring exporting countries becomes quite limited. 
+
+Coupled with the shortfalls of local production of wheat in the country, this results in strong shocks to 
+
+the supply for Afghan households’ consumption, especially the poorest in the country. In 2008 with the 
+
+global hike in price of commodities, along with the decline in production is many countries, Pakistan 
+
+which is the main supplier of wheat and wheat flour to Afghanistan banned exports of wheat, although 
+
+some quantities of wheat were illegally exported, Afghanistan witnessed a serious situation in this 
+
+regard.  
+
+In 2008, and as per the historical data from MAIL, price of one ton of wheat reached around $750 in 
+
+Afghanistan, compared to around $250 in 2007, and around $350 in 2009, the situation was similar 
+
+earlier in 2004, 2006, and then later again in 2011, however it was not as severe as it was in 2008. These 
+
+hikes in wheat prices make it very hard for average households in Afghanistan to secure their needs of 
+
+bread, considering the poverty rates in the country, and the high level of wheat consumption per capita. 
+
+During all these circumstances the government of Afghanistan was not able to respond to these 
+
+unforeseen situations, by providing support to its people, especially poor households, which were 
+
+already struggling to earn their living. 
+
+ 
+
+Productivity levels per unit of land for both irrigated and rain-fed wheat in Afghanistan remains low, 
+
+compared to neighboring countries. Additionally, the weak post-harvest practices, and value addition 
+
+activities, such as threshing, handling, and milling, and also the poor condition of the storage facilities, 
+
+results in losses in the harvested crop, and deterioration of quality.  
+
+ The World Bank through other agriculture projects in Afghanistan, specifically the ARTF funded project; 
+
+Afghanistan Agriculture Inputs Project (AAIP) is already providing support in areas of wheat productivity 
+
+enhancement, through introducing high quality seeds, and providing support to farmers on the adoption 
+
+of improved agricultural practices. The government of Afghanistan have an ambitious goal to be self-
+
+sufficient of wheat by 2020 through increased productivity, and expansion of irrigated wheat 
+
+cultivations. This represents a real challenge at least on the medium term, considering the limited 
+
+resources of water, arable land, and the need to 
+
+expand beyond the high growth rate of the 
+
+population. However, the challenge is even 
+
+higher with the supporting activities such as 
+
+storage and handling, which are currently weak, 
+
+and have large impact on the quality of wheat, 
+
+and is a direct result for high post-harvest 
+
+losses.  
+
+ 
+
+The government owns five large silos located in 
+
+the provinces of Kabul, Kandahar, Heart, 
+
+Baghlan, and Balkh as spotted on the map of Afghanistan. These silos operate as State Owned 
+
+Enterprises (SOEs), operating under supervision of MAIL, and they charge the government for the 
+
+quanities of wheat stored. The five silos are concrete constructions, and were built during the Soviet 
+
+presence in Afghanistan during the 1970’s. Combined together, the silos have a total theoretical storage 
+
+capacity of 170,000 tons. There are a number of warehouses owned by the Ministry of Agriculture, 
+
+Irrigation, and Livestock (MAIL), adjacent to the silos with a total storage capacity of approximately 
+
+65,000 tons, additionally, fifty two small scale warehouses are owned and operated by MAIL, and are 
+
+distributed over 17 provinces, and all facilities are used for the storage and distribution of wheat. 
+
+However, none of five large silos are operating at capacity, it is estimated that the utilization of the silos 
+
+storage capacities is around 25 percent of its original capacity. This is mainly due to the lack of 
+
+maintenance, human skills, and spare parts, accordingly the actual available storage capacity is much 
+
+less. More importantly, the poor condition of these storage facilities, and its outdated operating 
+
+procedures negatively affects the quality of the wheat stored. Generally, skills of the technical team 
+
+operating these facilities are weak, and their knowledge on modern practices in managing grain stocks 
+
+are quite limited. Although there is no specific assessment, some officials and donors estimates storage 
+
+losses to be around 20 percent.  
+
+Although, there is a directorate under MAIL responsible for the management of the grain reserve of the 
+
+country. However, this directorate has limited capacities, and lacks the required set of skills to engage in 
+
+managing such program, and due to the implementation of the standard governmental procedures and 
+
+regulations, their ability to directly engage in the wheat market is limited. While operating in such a 
+
+dynamic market requires certain level of flexibility, to make decisions and engage in the procurement 
+
+process when there is a good market opportunity.  
+
+ 
+
+These factors altogether, from the importance that wheat represents in the afghan diet, and the fact 
+
+that the country is wheat import-dependency, along with the volatile ties with its main suppliers, make 
+
+it significantly important to build up wheat reserve, that can be used in responding to any unforeseen 
+
+situations that may occur similar to those which the country witnessed several times, over the last 
+
+twelve years. This wheat reserve can also be utilized in addressing the malnutrition situation in 
+
+Afghanistan, through including a fortification program to the wheat stored.  
+
+However, building up such a reserve requires solid storage structures, by which wheat can be stored in 
+
+compliance with international standards in storing, handling, and quality control of wheat. More 
+
+importantly, there is a need to establish an entity to be responsible for managing this reserve, with the 
+
+required highly skilled human capital. 
+
+The government of Afghanistan represented by MAIL, have been prioritizing the establishment of a 
+
+Strategic Grain Reserve, and have been engaged in discussion with the World Bank seeking support in 
+
+this regard. Initially, the government was interested in developing the grain reserve to serve two 
+
+purposes, firstly, responding to emergency situations, and secondly to be utilized in stabilizing the wheat 
+
+market in Afghanistan for the benefit of the farmers, through setting up minimum guaranteed price. The 
+
+Bank advice on this regard was that such a practice would result in crowding out the private sector from 
+
+the market, and eventually harm the farmers themselves, as this would limit the market opportunities 
+
+for them, especially that it would require the allocation of significantly large financial resources from the 
+
+government side, which is not available. 
+
+Recently, and following extensive discussions between the World Bank and the Government of 
+
+Afghanistan (GoA), an agreement was reached that the objective of establishing a strategic grain reserve 
+
+should only be to efficiently respond to emergency situations, enabling the government to be able to 
+
+secure basic food supplies of wheat for at least two million people for one year.  
+
+In preparation for the proposed engagement in building a grain reserve, the World Bank conducted an 
+engineering assessment for the five silos and the warehouses adjacent to it. The findings of the 
+assessment covered the condition of building, machinery, other equipment and supportive activities on 
+site. All five facilities were found in need for extensive rehabilitation, with different level of work 
+required according to the condition on each site, and accordingly different cost estimate for each 
+location. The study also provided a brief cost estimate for establishing Greenfield silos using modern 
+storage technologies. In parallel, MAIL, reached out to a number of international suppliers, and obtained 
+tentative cost estimations for Greenfield silos.  
+
+ 
+
+Also, during the preparation for this project, a vulnerability assessment was conducted to study the 
+current status of the food security in Afghanistan, and access to basic food supplies, based on trends in 
+wheat production and to identify the areas within the country that are highly vulnerable in case an 
+
+
+emergency situation occurs, based on previous incidents, and the current storage capacities. The 
+objective of the assessment was to advise on the suitability of the locations of the existing storage 
+facilities, and provide recommendation on other locations (if any), to ensure efficient coverage, and 
+ability to respond to sudden shocks.  
+
+ 
+
+The vulnerability assessment reviewed a range of food insecurity assessments undertaken by the Bank, 
+the government of Afghanistan, World Food Program, and others.  The assessment used to the most in 
+depth degree was the 2013/14 Afghanistan Living Conditions Survey (ALCS) as this data resource had the 
+most in depth data set on food insecurity which could be effectively used to evaluate the spatial 
+distribution of vulnerability in the country.   Two of the main findings of the vulnerability assessment 
+were; a) food insecurity in the country is generally widely distributed around the country, and b) the 
+existing placement of the silos infrastructure, in most cases, if improved can be relatively well placed to 
+address problems of food insecurity for most of the population, with one exception for a specific region 
+that showed a deficit on food security in relation to the available storage capacity. 
+ 
+The table below uses data on populations of severely and moderately food insecure populations from 
+the 2013/14 ALCS survey disaggregated by region to develop an estimate of potential grain storage 
+needs to respond to problems of food insecurity.  The evaluation makes the assumption that severely 
+food insecure populations would be provided a 100 percent ration of wheat though the three month 
+winter lean season.  On a per capita consumption rate of 170kg/annum, this would be a ration of 42kg 
+of wheat grain for the period per person.  For moderately food insecure populations, a ratio of 50 
+percent of consumption would be provided for the same three month lean season.  This would be 
+equivalent to 21kg of wheat grain per person
+
+7
+.   
+
+The analysis revealed that those regions near already planned large storage facilities; Kabul, Mazar-e-
+Sharif, and Herat, do not have wheat requirements larger than the scale of the existing storage facilities 
+if improved.  Similarly, a centralized facility in Kandahar would be able to serve the southwest of the 
+
+                                                           
+7
+ Equivalent to 170kg/capita/annum x 0.25 years (3 months) x 50% 
+
+Region 
+
+Severe Food 
+Insecurity 
+Wheat 
+Requirement 
+(MT) 
+
+Moderate 
+Food 
+Insecurity 
+Wheat 
+Requirement 
+(MT) 
+
+Total Est. 
+Req. (MT) 
+
+Service Point and Comments 
+
+Central 27,058 18,920 45,977    Area effectively serviced from Kabul 
+
+Central Region 12,168 17,950 30,118 
+   Decentralized facility or met from Kabul or Herat  
+(jointly) 
+
+Eastern 4,191 4,757 8,948 Area could be serviced from Kabul 
+
+North 17,488 21,736 39,224 Area effectively serviced from Mazar Sharif 
+
+North-east 28,970 24,334 53,304 
+Capacity in Mazar Sharif not sufficient for need.  
+Would also need decentralized facility 
+
+South-east 10,045 5,523 15,568 Serviced from Kandahar or from Kabul 
+
+South-west 21,204 16,034 37,238 Kandahar or serviced from Heart 
+
+West 21,490 16,046 37,536 Area effectively serviced from Herat 
+
+     
+
+National 142,613 125,301 267,914 
+ 
+
+country, or feasibly this region could also potentially be served from Herat.  The ALCS data show 
+relatively low rates of food insecurity in the east of the country (estimated food requirement in this 
+region is less than 10,000MT), this region could very likely be served out of Kabul.  In the Southeast 
+region total estimated food requirements are also relatively modest, estimated at roughly 15,000MT.  
+This region might also be served out of Kabul or if need be, the facility in Kandahar could also contribute 
+to address needs in this area.      
+ 
+The areas that present the most substantial challenges are the Central region and the Northeast regions 
+of the country.  The Northeast, according to this analysis, has a wheat requirement of 53,000MT.  At this 
+requirement level it is not likely that it would be feasible to service this area from the facility in Mazar-e-
+Sharif.  In addition, the facility in Pul-e-Khumri is potentially too distant to be able to effectively address 
+needs in this area.  As such it seems that it would be a reasonable approach to develop smaller 
+decentralized facilities in this region able to address food insecurity problems in this area.  Government 
+data show that there is an estimated storage capacity of 6,000MT in Badakhshan province.  This 
+infrastructure could be built on and further developed.  ALCS data by province show that in the 
+northeast the large bulk of food insecure populations are in Badakhshan more so than Kunduz or 
+Takhar.  As such, infrastructure would need to be developed to respond to the structure of current 
+needs.   
+
+ 
+The Central region are also an area where the quantity needed is relatively substantial (30,118 MT).  
+According to government data, there are 5,000MT facilities in each of Central region provinces of 
+Bamyan, Ghor, and Daykundi that were built in the last 10 years.  This total storage level of 15,000 MT 
+for this region would be a very good start in terms of having available local storage capacity in these 
+provinces.  For needs over and above this, it is likely that the balance of required foods could be 
+supplied from Mazar-e Sharif and Herat.   
+
+ 
+
+Ultimately, the assessment confirmed that the enhancement of the current storage facilities or the 
+
+consideration of a greenfield silos at the same locations, along with the sufficient stock of wheat 
+
+available, can help the Government of Afghanistan be in a good position to respond to emergency 
+
+situations, and be able to supply Afghans with wheat as the basic and main food item consumed, of 
+
+course with the presence of other factors such as solid logistics, and distribution mechanism. However, 
+
+the study also revealed that a need exists for an additional large storage facility in the northeast region 
+
+of the country, where productivity rates of wheat are very low since wheat cultivations in this area are 
+
+mainly rain-fed, in addition to the absence of large storage facilities for wheat, and the fact that this 
+
+region is generally prone to natural disasters such as earthquakes, plus the difficulty in reaching out to 
+
+some of the areas of the region especially during winter time. 
+
+ 
+ 
+C. Proposed Development Objective(s)  
+ 
+
+ 
+ 
+Development Objective(s) (From PAD)  
+The development objective of the project is “To establish a wheat strategic reserve to be available to Afghan 
+households to meet their post-disaster needs and improve the efficiency of the grain storage management”.  
+
+Key Results 
+The achievement of the PDO would be measured by the following PDO results indicators:  
+ 
+Increased availability of wheat stocks.  
+
+Increased number of households whose wheat needs can be met immediately after the occurrence of 
+
+an emergency situation affecting their access to wheat, and  
+
+Reduced losses in wheat stored, as a result of the upgrade of the storage facilities, relative to pre-
+
+project intervention.  
+
+ 
+D. Project Description  
+ 
+
+The project aims to support the Government of Afghanistan, in building up a reserve of wheat that can 
+
+be utilized in responding to any emergency situation the country may face, which usually leads to 
+
+shortages of supply of wheat, which is considered the most important food item for household 
+
+consumption in the country.    
+
+Emergency situations occurring in Afghanistan are generally due to unforeseen weather conditions such 
+
+as severe drought resulting in share decline in the local wheat crop, natural disaster such as 
+
+earthquakes, which is frequent in the country, and usually results in limiting people’s access to wheat.  
+
+Declaration of an emergency situation is assigned to a ministerial committee. The entity that will be 
+
+established by the project to manage the reserve will coordinate with this committee as part of its tasks 
+
+in working closely with relevant stakeholders.  In this regard, the entity will be prepared to act on up the 
+
+declaration of an emergency situation in the country, to do so, the new entity will have its own 
+
+operational procedures for actions to be taken to respond accordingly.    
+
+The objective of the project will be achieved through the establishment of an autonomous entity to 
+
+manage the grain reserve. This entity will be responsible for obtaining and receiving wheat 
+
+internationally and locally, from aid provided by other countries, and also the purchase of wheat from 
+
+local and international markets, and managing the handling, storage, and distribution operations of 
+
+wheat, while ensuring that quality is maintained through the adoption of global best practices in this 
+
+regard. In order to enable the new entity in becoming well-positioned to help in responding to 
+
+emergency situations, the project will work on building existing capacities under MAIL, and benefit from 
+
+those have gained the required knowledge in the activities of the new entity, in addition to adding 
+
+additional calibers as needed.  
+
+The objective of the project will also be achieved through the improvement of the existing storage 
+
+capacities through rehabilitation process, and also the establishment of Greenfield facilities. On this 
+
+regard, the project will decide on the selection between different options of silos rehabilitation versus 
+
+the establishment of Greenfield facilities. Currently, the proposed activities includes the rehabilitation of 
+
+the two silos located in Mazar-e-Sharif, and Pul-e-Khumri, considering that both are in relatively good 
+
+condition, while establishing three greenfield silos in Kabul, Kandahar, and Herat considering the level of 
+
+work required for rehabilitation is significant, and also the fact that one of these silos (Kabul), is now 
+
+being in the center of the city, which may have negative impact on the surroundings if rehabilitated.   
+
+The objective of establishing the grain reserve will remain only to respond to emergency situations in 
+
+the country. However, in order to maintain the quality of the wheat stored, and as a common practices 
+
+in managing grain stocks, a portion of the wheat will be offered for sale annually on basis of stock 
+
+replenishment. The sale of wheat will be at the prevailing market prices, and will be in a manner that 
+
+has no impact on market dynamics, and will not engage in price setting.  
+
+The project will utilize new technologies in developing a wheat crop estimation tool, which will provide 
+
+accurate forecasts for the locally grown wheat in Afghanistan, to assess the needs for imports based on 
+
+local supply, and annual consumptions rates.  
+
+The project will also seek to partially address the malnutrition situation in Afghanistan through the 
+
+introduction of a fortification program for the wheat / wheat flour distributed under the project.  The 
+
+fortification of wheat flour will be achieved in collaboration with the World Food Program, which enjoys 
+
+solid on ground presence in Afghanistan, and have already established large network with hundreds of 
+
+local wheat millers to ensure implementation of the fortification program during wheat milling.  
+
+Both activities of the development of the crop estimation, and the nutrition support, will be 
+
+subcomponents under the first component, which covers the establishment of the grain reserve 
+
+management entity, and the related intuitional infrastructure development.  
+
+Implementation will of project activities will be carried out by a transit Project Implementation Unit 
+(PIU), until the entity that will be in charge of managing the grain reserve is established, then it will take 
+over from the transit PIU.   
+
+ 
+The project will be implemented over five years, and will consist of the following three main 
+
+components: 
+
+Component A: Institutional Infrastructure and Capacity Building: (US$ 3.9 million) 
+
+This component will be focused on the establishment, and support the start-up activities of the 
+
+proposed entity to be in charge of managing the grain reserve. Activities of the component will also 
+
+include the development of the crop estimation system, and also include activities related to the 
+
+nutrition, and wheat fortification.  
+
+Component B: Physical Infrastructure: (US$ 23.1 million) 
+
+The silos are located mostly in urban centers, except Kandahar. Kabul silo is located in a growing urban 
+
+center, surrounded mostly by residential and commercial development. Pul-e-Khumri silo is also 
+
+surrounded by residential areas on the north and south side of the facility and lies directly on the main 
+
+road running through the town. Mazar Sharif silo is approximately 4 km from the city center, surrounded 
+
+by residential and commercial development. Herat silo is also located in an urban area on a valuable 
+
+land site. Kandahar silo is located on the outskirts of the city, but this silo is in a very poor condition.   
+
+
+This component will finance the required physical engineering work including the rehabilitation of the 
+
+existing 2 silos, and also the establishment of 3 Greenfield Silos and a new warehouse facility in the 
+
+northeast region of the country considering its high vulnerability.  Activities of the component are based 
+
+on the outcome of the field assessment conducted during the project preparation process.  
+
+Activities under this component will be implemented through a gradual work approach, so that the 
+
+timeframe for the rehabilitation of the existing facilities, and the construction of new facilities allows the 
+
+utilization of each of the storage facilities once completed, while maintaining sufficient storage capacity 
+
+available at other facilities prior undergoing an upgrading process. The work schedule will be designed 
+
+to ensure that by end of the fourth year of the project all five silos are fully operational, and the new 
+
+warehouse facility in the north east region is fully functioning.  
+
+Both the physical assessment of the silos which was undertaken recently as part of project preparation, 
+
+and also the vulnerability assessment will guide the work under this component. From the results of the 
+
+assessment and the cost effectiveness analysis, three new Greenfield silos will be constructed in Kabul, 
+
+Kandahar and Herat as the cost of rehabilitating these facilities is more than new Greenfield 
+
+construction.  The facilities on Mazar Sharif and Pul-e-Khumri will be rehabilitated as this is the most 
+
+economical way to restore these facilities to full operational capacity, and considering that both are in 
+
+relatively good condition.  For rehabilitation, substantial repairs will need to be made to the actual 
+
+concrete silos as these have deteriorated over time.  In most cases the grounds around the facilities also 
+
+need to be upgraded and rehabilitated to facilitate the movement of trucks into and around the facility.  
+
+Truck weigh scales will also have to be replaced.  The mechanical equipment such as elevators, conveyor 
+
+belts, cleaning and drying equipment, scales, and other machinery will need to be replaced in full as it 
+
+has deteriorated from a long period of disuse.  In most instances, replacement of this mechanical 
+
+equipment comprises roughly 50 percent or more of the total rehabilitation expenses.  In the cases of 
+
+new Greenfield construction, new steel silos will be constructed on the grounds of the existing storage 
+
+facilities.  The location of the existing facilities are sufficiently large that there should be more than 
+
+sufficient room for this new construction.  .  Finally, a new laboratory along with testing equipment will 
+
+be installed in all storage facilities.   
+
+In addition, as recommended a new flat warehouse will be built in Badakhshan province to address food 
+
+insecurity problems in this region of the country as was identified by the vulnerability assessment.  The 
+
+activities of this subcomponent will commence by assessing different plots of land owned by MAIL in 
+
+Badakhshan province, preferably close to the capital city of Faizabad. Criteria for land selection will 
+
+include the topography of the land being flat, with no signs of elevation or slopes, with an area of 
+
+around 5 - 6 hectares, and are connected to main roads for ease of access.  
+
+Design and preparation work will be carried out to establish a modern warehouse, with steel 
+
+construction, suitable for the storage of bagged and bulk wheat. The site should include a weight bridge 
+
+scale, ventilation system, quality control laboratory, and pest and dust control systems. The site will 
+
+include area for trucks’ movement and maneuvering.  
+
+Component C: Project Management: (US$ 2.46 million) 
+
+
+This component will finance activities related to the establishment and operations of a Project 
+
+Implementation Unit (PIU), to be in charge of managing all project activities. The PIU will be located at 
+
+MAIL in Kabul, and will be responsible for all implementation activities including the finalization and 
+
+development of the required institutional structure which will eventually be responsible for managing 
+
+the grain reserve.  
+
+The PIU will be transitional, so that once the new entity in charge of managing the strategic grain 
+
+reserve is established and fully functioning, the PIU will be handing over all of its assignments and 
+
+activities to it. It is anticipated that this step will take place by the end of the third year of the lifetime of 
+
+the project. However, prior to the establishment of the grain reserve managing entity, the PIU will be in 
+
+charge, and will coordinate all its activities with the SGR directorate and other units under MAIL.   
+
+The PIU will be responsible from the start of the project for the rehabilitation of the 2 silos, and 
+establishment of 3 Greenfield Silos, in addition to construction of a warehouse in the north east region, 
+and in hiring of consultants, advisors, and carrying our all related procurement work. The PIU will be also 
+responsible for coordination with other governmental agencies, and carrying our all related 
+procurement work. The PIU will be also responsible for coordination with other governmental agencies.  
+The PIU will include managerial, technical, and fiduciary staff, and will be also responsible identifying the 
+
+areas where it will require international expertise, and will carry out all their hiring process in line with 
+
+the World Bank guidelines.    
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements 
+ 
+
+The implementing agency for this project will be the Ministry of Agriculture, Irrigation, and Livestock (MAIL). 
+Implementation of all project activities will be carried out by the Project Implementation Unit (PIU), which will 
+be established under MAIL, and will be located at the ministry’s premises in Kabul.    
+ 
+The PIU will be responsible for the managerial, financial, operational, and technical aspects related to the 
+implementation of all components, and will be reporting regularly on progress of project activities to MAIL and 
+the World Bank in relation to all project activities. The PIU will develop the project procurement plans, identify 
+requirements for international expertise, and obtain the required resources accordingly.  
+ 
+
+The PIU will coordinate its activities with relevant partners, and stakeholders including donors, governmental 
+agencies, consultants, and private sector.  
+ 
+
+With the establishment of the proposed entity that will be dedicated to manage the grain reserve, this new 
+entity will take over the full responsibility of activities, and will seek to coordinate the work with the relevant 
+stakeholders. The entity will be overseen by an inter-ministerial committee chaired by MAIL.  
+ 
+ A Project Steering Committee (PSC) chaired by H.E. Minister of MAIL (or his delegates), will oversee project 
+activities, and the implementation process carried out by the PIU, the committee will provide guidance and 
+support, and will facilitate the interaction with other stakeholders. 
+
+ 
+ 
+ 
+
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project is rehabilitating two silos in the cities of Mazar-e-Sharif, and Pul-e-Khumri, in addition to the 
+construction of three new Silos in the cities of Kabul, Kandahar, and Herat, and also constructing an 
+additional Greenfield warehouse in the northeast region of the country. This may have minor potential 
+environmental, health and safety issues/impacts during construction and operation on site. Therefore, the 
+World Bank OP 4.01 is triggered and MAIL has prepared an ESMF to be applied during the whole project 
+cycle. Site specific ESMPs were prepared for the current two sites of rehabilitation operation, similar site 
+specific ESMPs will be prepared based on guidelines and check lists provided by the project ESMF. The site 
+specific ESMPs will be properly implemented by the Ministry and the relevant contractors. An 
+implementation level Pest Management Plan (PMP) will also be prepared to for any environment health and 
+safety issues that may raise from the fumigation process for preserving the quality of the wheat stored in 
+the silos. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Mohammad Arif Rasuli,Qais Agah 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The WB OP/BP 4.01 is triggered because the project 
+will rehabilitate two silos, and construct three new 
+silos, and also a new storage facility at the northeast 
+region. The rehabilitation and operation of the old 
+facilities as well as selection, construction and 
+operation of three new storage facilities may have 
+minor potential environmental, health and safety 
+issues and impacts on the operators and the labors 
+as well as on the local environment.  Therefore, in 
+order to mitigate such potential impacts an ESMF 
+was prepared by MAIL and found acceptable by the 
+Bank. Based on the direction and guidelines as well 
+as check lists of the ESMF, two site specific ESMPs 
+were also prepared for the existing silos that will 
+undergo rehabilitation and will be implemented to 
+avoid, minimize, and mitigate any potential impact. 
+Once the location of the three new sites are 
+identified, site specific ESMPs will also be prepared 
+during implementation stage and will be applied on 
+the new sites of the remaining three new silos. 
+ 
+
+Natural Habitats OP/BP 4.04 No 
+ 
+
+Forests OP/BP 4.36 No 
+ 
+
+Pest Management OP 4.09 Yes 
+
+The WB Pest Management Policy (OP/BP 4.09) is 
+triggered as the silos will be using fumigation for 
+maintaining the quality of wheat stored as a general 
+practice in managing grain reserves. Use of 
+fumigants should be according to the USEPA and 
+WHO guidelines . Health and Safety measures should 
+strictly be followed for Operation and Maintenance 
+of silos to ensure the safety of the workers at the 
+site of the silos . MAIL and the project with the help 
+of WB safeguards team will prepare a Pest 
+
+
+Management Plan during the project 
+implementation much in advance before the 
+facilities are used for storing wheat which is not 
+expected to be before the second year of the 
+project. The plan will consider the current practices 
+and knowledge about the issue, e.g., what 
+technology is used for preservation of wheat and 
+availability of fumigants in the market. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+ 
+
+Indigenous Peoples OP/BP 4.10 No 
+ 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+OP/BP 4.12 is applicable since the project will 
+support the construction of new three Silos, which 
+may require land acquisition and involuntary 
+resettlement. 
+Since the scope and other details of all proposed 
+activities, including the exact locations of the new 
+silos are not yet determined, an ESMF and a 
+Resettlement Policy Framework (RPF) have been 
+prepared by the client and the executive summary 
+was disclosed both in-country and at the Bank’s 
+external website prior to project appraisal on 
+4/11/2017. 
+The ESMF and RPF will guide preparation of the 
+social safeguards studies, such as limited Social 
+Impact Assessment (SIA), ESMPs and RAPs (where 
+needed). The RPF includes the requisite Terms of 
+Reference (TORs) for the RAP.  
+ESMF and RPF consultations with stakeholders have 
+been conducted and minutes from public 
+consultation have been included. 
+ 
+ 
+
+Safety of Dams OP/BP 4.37 No 
+ 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+ 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+ 
+
+ 
+ 
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project will not have significant and/or irreversible impacts and might only have minor reversible impacts as the 
+civil works would only be either rehabilitation of two existing silos, and construction of three new silos. When the 
+ESMF tools and the ESMPs for the two locations under rehabilitation are properly applied during the implementation, 
+this potential impact will be mitigated. ESMPs will carefully chalk out the sanitation and drinking water needs and their 
+interaction and will give specific mitigation measures, and will also provide directions in sites of labor camps if any, 
+selection and rehabilitation of specific areas, transportation routes, and the occupational health and safety measures 
+for the labors and the local relevant communities. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+The sub-projects will include rehabilitation of two silos in Mazar-e-Sharif, and Pul-e-Khumri and construction of three 
+new silos in Kabul, Herat, and Kandahar in addition to the establishment of a new warehouse facility in Badakhsan. 
+The project ESMF, the subprojects site specific ESMPs have been prepared, and an outline for the  Pest Management 
+Plan (PMP) is also included in the project ESMF, and during project implementation, a full PMP will be developed. With 
+these instruments, the project will be positioned to reduce and mitigate any potential impact. However, due to the 
+nature of the Project compoentnts there will be no indirect and /or long term impacts due to anticipated future 
+activities 
+The project triggers OP 4.12 on Involuntary Resettlement, because the physical infrastructure activities under 
+component B may  involve implications that could impact individuals and/or communities in different ways. Therefore, 
+the preparation of the ESMF and the Resettlement Policy Framework (RPF) will guide the preparation of any Social 
+Impact Assessments (SIA) or Resettlement Action Plans (RAPs) that may be needed. However, it is expected that all 
+new constructions will be all on lands owned by MAIL, and free from any settlers.  
+ 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+The project aimed to use government owned land and environmental friendly technologies for establishing and/or 
+renovating the Silos, and also for the construction of the new warehouse in the northeast region. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The borrower will address all safeguards related issues under a framework approach. A project Environmental and 
+Social Management Framework(ESMF) has been developed by the borrower and a safeguards specialist will be hired 
+by the project in order to implement the ESMF and to comply with the world bank safeguard policies. The borrower, 
+the implementing agency, MAIL has experience with the WB safeguards implementation and will hopefully implement 
+the relevant project safeguards at a satisfactory level.  
+For each of the subprojects a site specific Environmental and Social Safeguards Action Plan (ESMP) would be prepared 
+based on the project ESMF. Already two ESMPs for the two locations that will undergo rehabilitation have been 
+developed. The borrower will mainstream relevant clauses in the relevant contract documents and will follow the 
+Occupational Health and Safety as well as sanitation issues in project sites as well as in the project labor camps. During 
+the implementation stage a PMP would be prepared and the outline of the proposed PMP is included as an Annex to 
+
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The main stakeholders are government agencies, local populations residing close to the silos facilities, donors, 
+consultants, and private sector. Relevant citizen engagement tools  were used during preparation of the ESMF, and 
+the ESMPs for the two already identified sites (the two silos which will be rehabilitated), once the other four locations 
+have been identified during project implementation, site specific ESMPs will be developed. The ESMF and the site 
+specific ESMPs as well as the PMP will all be disclosed on the Ministry Website as well as in the Bank Intranet system. 
+Consultation and disclosure procedure is also illustrated in the ESMF. Already the executive summary of the ESMF 
+have been translated to local language, and published. 
+ 
+ 

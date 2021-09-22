@@ -1,0 +1,1234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+BOLIVIA 
+
+ 
+
+ 
+
+ 
+
+RURAL LAND REGULARIZATION AND TITLING PROGRAM 
+
+(BO-L1113) 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PROJECT SUMMARY 
+
+BOLIVIA 
+RURAL LAND REGULARIZATION AND TITLING PROGRAM 
+
+(BO-L1113) 
+ 
+
+Financial Terms and Conditions 
+
+Borrower: Plurinational State of Bolivia  OC FSO 
+
+Amortization period: 30 years 40 years 
+Executing Agency: National Agrarian Reform Institute (INRA) 
+
+Disbursement period: 5 years 5 years 
+
+Source Amount (US$) % Grace period: 6 years 40 years 
+
+IDB (OC): 51,000,000 51 
+Inspection and supervision 
+fee: 
+
+(a) 
+N/A 
+
+IDB (FSO): 9,000,000 9 Interest rate: SCF fixed
+(b) 
+
+0.25% 
+
+Local cofinancing: 40,000,000 40 
+Credit fee: 
+
+(a) 
+N/A 
+
+Approval currency: US$ US$ 
+
+Total: 100,000,000 100 
+
+Project at a Glance 
+
+Program objective/description: To increase legal certainty over rural property. 
+
+Special contractual conditions precedent to the first disbursement of the loan: (i) the borrower, through the Ministry of 
+
+Economy and Public Finance, the Ministry of Development Planning, and the National Agrarian Reform Institute (INRA) will sign a 
+subsidiary agreement defining the following matters, among others: (a) the method to be used to transfer the loan proceeds to INRA; 
+and (b) INRA’s commitment to conduct program activities in accordance with the terms of the loan contract (paragraph 3.2); 
+(ii) appointment of the Director of INRA’s Planning Bureau (DGP) as the program’s general coordinator and of the program 
+component coordinators, in accordance with the terms previously agreed upon with the Bank; and the contracting of the following 
+specialists: financial, procurement, planning, environmental management, and social management, through a competitive process, in 
+accordance with terms previously agreed upon with the Bank (paragraph 3.4); and (iii) the entry into force of the program’s Operating 
+Regulations, under terms previously agreed upon with the Bank (paragraph 3.7). 
+
+Special contractual conditions by component: Evidence of the signing and entry into force of the following interagency 
+
+cooperation agreements: (i) between INRA and the Real Property Rights Registry prior to the disbursement to finance activities 
+related to public registries under Component 2 (paragraph 3.5); (ii) between INRA and the Forest and Land Social Control and 
+Oversight Authority, the Madre Tierra [Mother Earth] Plurinational Authority, and the Office of the Deputy Minister for Land, prior to 
+disbursement to finance activities related to the program’s Environmental and Social Management Plan in Component 2 (paragraph 
+3.5); and (iii) between INRA and the National Statistics Institute, prior to disbursement to finance activities related to the baseline of 
+the program’s monitoring and evaluation plan (paragraph 3.5). 
+
+Exceptions to Bank policies: None 
+
+Strategic Alignment 
+
+Challenges
+(b)
+
+: SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Cross-cutting issues
+(c)
+
+: GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+(a)
+ The credit fee and the inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the 
+
+Bank’s lending charges, in accordance with relevant policies. 
+(b)
+
+ The borrower will pay interest on the outstanding balances of the Ordinary Capital portion of the loan at a LIBOR-based rate. Once the outstanding 
+balance reaches 25% of the net amount approved or US$3 million, whichever is greater, the rate will be set for this balance. 
+
+(c)
+ SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+
+(d)
+ GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and the Rule of Law). 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problems addressed, and rationale 
+
+1.1 Property rights over land and agricultural competitiveness. The agriculture 
+sector is one of the most important sectors of the Bolivian economy. Between 2002 
+and 2014, average annual growth in the sector was 4.16%, accounting for close to 
+13.4% of gross domestic product. It employs 30% of the total labor force nationally 
+and is even more significant in rural areas where it employs 62% of the labor force. 
+The agriculture sector also makes a significant contribution to Bolivian exports; 
+between 1999 and 2014, exports grew at an average annual rate of 13%, leaping 
+from US$247 million to US$1.29 billion. Over this period, the agriculture sector 
+accounted for between 14% and 18% of the total value of the country’s exports.1 
+Considering that the economy of rural households is closely tied to agricultural 
+activities, growth in the sector contributed to a 21 percentage point reduction in 
+rural poverty levels, with poverty falling from 62% to 39% (Castellani and Zenteno, 
+2015).  
+
+1.2 Despite the importance of the agriculture sector, a detailed examination shows low 
+productivity levels. According to the United Nations’ Food and Agricultural 
+Organization (FAO), agricultural yield from grain production is 57% of the average 
+for South America and 39% in the case of starchy root crops. In addition, a Bank 
+analysis shows that growth in Bolivia’s total factor productivity has been lower than 
+the regional average, with a decline in efficiency but increases in technological 
+change (Nin-Pratt et al., 2015). Data from the Social and Economic Policy Analysis 
+Unit indicate that the area under cultivation increased by 460,000 hectares 
+between 2006 and 2014. This means that sector growth has been due more to 
+expansion of the area under cultivation than to increased productivity. Sector 
+growth was concentrated in a small group of items intended for export in the 
+eastern part of the country, where producers have benefited from the region’s 
+natural characteristics (soils, topography, and water), a good level of public 
+spending on sector public goods, and private investments in intensive systems of 
+production with access to financing and the latest technologies. 
+
+1.3 The agriculture sector’s potential contribution to economic growth and rural poverty 
+reduction depends on farmers’ increased productivity, particularly among small and 
+medium-sized producers (World Bank, 2008; Escobal, J., 2012). In Bolivia, most 
+small and medium-sized producers are located in the valleys and highlands. The 
+main items of those agricultural producers are crops such as potato, corn, and 
+grains. More than 80% of the parcels with pending regularization and titling belong 
+to the small farmer category, which includes rural producers with fewer than two 
+hectares in the highlands and up to 50 hectares in the lowlands. These agricultural 
+producers are estimated to represent 83% of the country’s rural households.2 
+
+1.4 Improving agriculture sector productivity and thus efficiency and sustainability in 
+the use of land in Bolivia requires investments in sector public goods to promote 
+farmers’ private productive investments (Lopez, 2004, Blackman et al. 2014, 
+Quisumbing and Kumar, 2014; Ali, et al., 2014). A requirement for achieving this 
+
+                                                
+1
+ The Observatory of Economic Complexity (OEC). What Does Bolivia Export? 
+
+(http://atlas.media.mit.edu/en/profile/country/bol/) and National Statistics Institute (INE, 2012). 
+2
+  http://bolivia.um.dk/es/danida-es/programas-sectoriales/agricultura 
+
+http://atlas.media.mit.edu/en/profile/country/bol/
+http://bolivia.um.dk/es/danida-es/programas-sectoriales/agricultura
+
+
+- 2 - 
+
+objective is to establish secure property rights over land. According to the available 
+empirical evidence, such rights reduce the risk of expropriation and give farmers 
+the incentive to make investments that increase productivity and the sustainability 
+of rural properties. In the Bolivian case, the empirical evidence is limited because 
+no rigorous assessments of the impacts of titling on the productivity and 
+sustainable management of agricultural producers’ natural resources have been 
+done. Nonetheless, empirical evidence in the region shows the positive impact of 
+titling on the use of inputs, increased productive investments, stimulation of the 
+land market, reduced deforestation, and farmers’ income (Aldana and Fort, 2001, 
+Ghatak and Besley, 2010; Deininger and Chamorro, 2004; Hernández and 
+Reardon, 2012; Foltz, Larson and Lopez, 2000, Torrero and Field, 2005; Zegarra, 
+2008, Gignoux, J. et al. 2013; Lawry et al. 2014; and Rockson et al., 2013). 
+
+1.5 Property rights, sustainability, and conflicts. Property rights in and of 
+themselves do not guarantee the sustainable use of natural resources. In 
+Nicaragua, the assignment of property rights improved agricultural productivity and 
+also increased the rate of deforestation (Liscow, 2013). The preliminary data for 
+Bolivia (Santa Cruz) indicate that land titling, particularly for ranchers, increases 
+deforestation (Murguia, 2016). Thus, if the regularization of rural property rights is 
+not accompanied by a legal framework and the corresponding environmental 
+management instruments, the results of rural titling tend to generate environmental 
+degradation. In this regard, the evidence shows that a requirement for ensuring the 
+positive impacts of rural land titling on environmental management is the ability to 
+monitor and penalize violations (OECD, 2009). With respect to social conflicts, 
+10% of the last 25 million hectares subject to intervention are paralyzed by social 
+conflicts. This problem is estimated to be significant in the area where property 
+
+rights are yet to be regularized, covering 15 million hectares (paragraph 1.6), in that 
+small landholdings (minifundios) are involved (Carrasco, 2016). Under this 
+scenario, dispute resolution is important to remove barriers to titling. 
+
+1.6 Status of regularization and titling. The Bolivian government has made 
+significant strides in the regularization of rural property and the regularization, 
+cadastre, titling, and registration of rural lands is reaching its final stage. Table 1 
+indicates that the regularization and titling target was approximately 106 million 
+hectares. Between 1996 and 2014, the National Agrarian Reform Institute (INRA) 
+has been involved in interventions covering approximately 93 million hectares as 
+follows: (i) it regularized and titled approximately 41 million private hectares, which 
+included collective properties (Territorios Indígenas Comunitarios Campesinos 
+[Rural Community Indigenous Territories] (TIOCs) and Comunidades 
+Interculturales Originarias [Native Intercultural Communities (CIOCs)) and 
+individual properties; (ii) it regularized approximately 25 million hectares of public 
+lands; and (iii) it made headway with the regularization of rural lands that did not 
+yet comply with all the legal and technical requirements, involving 27 million 
+hectares. The work of regularization, titling, and registration of rural lands that is 
+pending for the next few years is to continue in the areas not yet subject to 
+intervention, amounting to 15 million hectares, and to finalize the regularization 
+process in 25 million hectares that were already subject to intervention but have 
+not yet complied with all the requirements of the regularization process. 
+
+1.7 The indigenous peoples and intercultural communities were the primary 
+beneficiaries of INRA’s interventions, for a total of approximately 32 million titled 
+hectares, which represents 78% of the total titled area in the country (Table 1). 
+
+pcdocs://IDBDOCS/40320821/R
+
+
+- 3 - 
+
+This is the result of the effect of Law 3,545, which gave priority to the regularization 
+and titling of TIOCs and CIOCs. Small and medium-sized properties occupy 
+second place in terms of titled area, with 5.6 million hectares, which represents 
+14% of the country’s titled area. According to INRA, this individual titling progress 
+occurs in settlement areas, Andean-Amazonian transition areas, and integrated 
+management areas of the Amboró National Park (Cochabamba and Santa Cruz). 
+Lastly, three million hectares held by agricultural companies were dealt with in the 
+regularization process, representing 8% of the country’s titled area. The company-
+held properties are located in Santa Cruz, Pando, and Beni. 
+
+Table 1. Status of Regularization and Titling between 1996 and 2014. 
+
+Categories 
+Titles 
+
+(Number) 
+
+Area 
+
+(Hectares) 
+% 
+
+A. Regularization and titling target  - 106,751,722 100 
+
+B. Titled Area 391,685 40,786,475 38.2 
+
+B1. Small property  377,802 3,852,050 9.4 
+
+B2. Medium-sized property 3,148 1,667,651 4.1 
+
+B3. Agricultural company 1,374 3,091,530 7.6 
+
+B4. Community properties (CIOCs)    8,921 9,176,971 22.5 
+
+B5. Rural Community Indigenous Territories (TIOCs) 440 22,998,273 56.4 
+
+C. Regularized public lands - 24,542,520 23.0 
+
+D. Area in the process of being regularized - 26,867,679 25.2 
+
+E. Area without regularization and titling - 14,555,048 13.6 
+
+Source: INRA, 2016 and Colque et al. 2016. 
+
+ 
+
+1.8 According to data from INRA (Andrade, 2016), the areas still not covered by the 
+titling policy are distributed throughout the country. Nonetheless, the demand for 
+titling of rural lands is concentrated primarily in La Paz, Potosí, Oruro, 
+Cochabamba, Beni, and Santa Cruz. In terms of the number of titles to be 
+delivered, La Paz (48%) has the highest percentage, followed by Potosí (15%) and 
+Cochabamba (14%). The departments with the largest areas to be titled are: 
+Santa Cruz (30%), La Paz (22%), and Beni (22%). 
+
+1.9 Institutional framework of property rights.  The institutional structure for 
+establishing property rights over rural land was developed under the Agrarian Law 
+of 1953. That law created the National Agrarian Reform Service, which is headed 
+by the President and implemented through the National Agrarian Reform Council. 
+The Council controlled the operational aspects of the work of titling rural lands at 
+that time. This institutional framework was redesigned in 1996 with the enactment 
+of Law 1,715/96. With the new law, the Council was replaced by INRA, identified 
+under Law 1,715/96 as a technical and legal institution with operational 
+responsibilities for defining rural land ownership rights. In 2006, Law 3,545/06, 
+which reinstituted the agrarian reform on a community basis, amended Law 
+1,715/96 by facilitating the titling of collective lands and establishing that all 
+available public lands would preferably be assigned to indigenous or campesino 
+peoples or communities that had limited land. It also established that private lands 
+(medium-sized property owners and companies) would revert to the State if they 
+failed to serve an economic and social function (Endo, 2016; Colque et al., 2016). 
+
+1.10 Laws 1,715/96 and 3,545/06 retained the National Agrarian Reform Service as the 
+body responsible for planning, executing, and consolidating the agrarian reform 
+process. The Service is made up of: (i) the President, the supreme authority 
+
+
+
+- 4 - 
+
+responsible for signing title deeds, among other duties; (ii) the Ministry of Rural 
+Development and Land (MDRyT), which is responsible for implementing policies 
+and other strategic activities in the sector; (iii) the National Agrarian Commission, a 
+mixed government/civil society agency charged with community oversight and the 
+strategic course of the agrarian reform process; (iv) the Agrarian Judicatura [bench 
+of judges], a specialized body for the administration of agrarian justice, made up of 
+the Agri-Environmental Tribunal and the Agri-Environmental Courts, for the 
+resolution of disputes arising from land ownership and property rights, which was 
+conceived as an independent institution and is thus not part of the Service; and 
+(v) INRA, an autonomous decentralized public agency under the MDRyT 
+responsible, among other things, for steering, coordinating, and executing agrarian 
+property regularization policies (Endo, 2016; Colque, et al., 2016). 
+
+1.11 Law 1,715/96 kept unchanged the rural property types previously defined by the 
+Agrarian Law of 1953. Rural property types include: campesino site, small 
+property, medium-sized property, and agricultural enterprise. However, Law 
+1,715/96 added a new type of collective property, the Native Community Land, and 
+recognized equal property rights for men and women, defining parity criteria in land 
+distribution, management, tenure, and use. Another important change introduced 
+by Law 1,715/96 was the development of new instruments recognizing rural 
+property rights. The regularization instruments were developed to implement the 
+multiple objectives of Law 1,715/96: to regularize property rights, consolidate 
+indigenous territories, recover idle lands, certify public lands and distribute them to 
+those who need them, resolve disputes, and develop the rural cadastre (Endo, 
+2016). 
+
+1.12 The Real Property Rights Registry (DDRR) supplements the institutional 
+framework of property rights mentioned above. The DDRR is the Judicial Council 
+entity responsible for recording all entries and annotations covering real property 
+rights, including real estate and real estate rights, in Bolivia. It was created by the 
+Law on the Registration of Real Property Rights of 1887; its operational rules are 
+defined in the Civil Code and the regulations approved by Supreme Decree 29,757 
+of 2004. For a large-scale rural land regularization and titling operation like that 
+proposed in this program, the technical, operational, and technological link 
+between INRA and the DDRR is very important for expediting the registration of 
+rural properties that have been regularized and surveyed. The workloads 
+generated by INRA exceed the existing capacities of the DDRR, which sometimes 
+receives packets of more than 10,000 property titles in files and titling data maps 
+all at once. 
+
+1.13 Bank actions and other sources of financing. Various funding agencies have 
+supported the activities involved in regularizing rural land property rights. The 
+World Bank granted a loan of US$24.7 million; the Nordic Development Fund 
+financed US$7.5 million; the Kingdom of the Netherlands provided support through 
+a nonreimbursable fund of US$8.8 million; the European Union contributed 
+US$4 million to the process. The Bank began its support for land titling in Bolivia 
+through the “Environmental and Social Protection Project in the Santa Cruz – 
+Puerto Suárez Corridor” (1099/SF-BO), through which it financed a titling 
+subcomponent amounting to US$2.4 million. The Bank consolidated its 
+participation in this area with a land titling operation for US$22 million called the 
+“Land Regularization and Legal Cadastre Program” (1512/SF-BO). These funds 
+totaled US$70 million and were executed between 1996 and 2012. 
+
+
+
+- 5 - 
+
+1.14 The advances made in the area of land regularization are part of a series of 
+reforms in the country’s legal framework. Since the National Agrarian Reform 
+Council was replaced by INRA, a series of rules was developed to expedite the 
+process of regularizing rural lands. Although an institutional structure was created, 
+INRA still lacked the capacity to implement the new legal framework for land 
+regularization. To overcome the institutional constraints, the decision was made to 
+contract land regularization companies, which transferred regularization 
+technologies and trained local specialists during contract implementation. With the 
+entry into force of Law 3,545/06, the method whereby companies were contracted 
+for land regularization became obsolete and INRA assumed the direct execution of 
+land regularization. The existing financial resources were thus reallocated to 
+finance INRA’s specialized brigades (equipment, vehicles, and specialists). The 
+Bank also supported the development, implementation, and linkage of the initial 
+versions of the rural property cadastre and registration systems.3 
+
+1.15 Problems in land regularization, cadastre, titling, and registration. The 
+diagnostic assessments of the process of regularization, titling, and registration of 
+rural land indicate that the following issues need to be addressed:  
+
+1.16 Limitations of the regulatory framework. According to the diagnostic 
+assessment of the existing legal framework (Endo, 2016), the latter permits 
+program execution to start. Nonetheless, the following problems must be 
+overcome during program execution: (i) the regularization, titling, and cadastre 
+manuals are outdated; (ii) the rural land regularization procedures are not entirely 
+suited to the new areas of intervention; (iii) the rural land regularization procedures 
+do not incorporate technological changes that will have a positive impact on titling; 
+(iv) the current dispute resolution mechanism needs to be reformulated to reduce 
+the burden of pending litigation in titling processes; (v) the ability to use land as a 
+guarantee for obtaining credit is restricted to medium-sized property and 
+agricultural enterprises; and (vi) the costs for maintaining the formal status of rural 
+properties are high and the incentives for maintaining the rural cadastre are 
+insufficient. 
+
+1.17 Limitations of the regularization process. The cadastral sweep (barrido 
+catastral)4 is the most efficient methodology for large-scale regularization of land 
+tenure in rural areas with large numbers of producers and low titling levels. The 
+cadastral sweep takes advantage of economies of scale; per title costs are thus 
+lower than regularization based on individual demand. Operation 1512/SF-BO 
+helped the government to implement the cadastral sweep method. Operation 
+1512/SF-BO financed the basic inputs for implementing the sweep, including: 
+(i) the formation of regularization specialist brigades – contracting of specialists; 
+(ii) the purchase of equipment for the field work; and (iii) logistical support. 
+According to the regularization diagnostic assessment (Andrade, 2016), in order to 
+achieve the program targets, it is essential that: (i) brigade staff members working 
+in INRA under contingent contracts be retained throughout program execution; 
+(ii) equipment for the field work be modernized; and (iii) the logistical support 
+infrastructure be replaced. An estimated 150 to 200 field brigades will need to be 
+
+                                                
+3
+  The project completion reports (PCR) for project 1099/SF-BO and program 1512/SF-BO detail the efforts 
+
+made by the Bank and the government to overcome the challenges of regularization work in Bolivia. 
+4
+  The cadastral sweep is a methodology for systemic surveying of each and every one of the rural parcels 
+
+in an area to gather the technical and legal information on the property and its owner for the mass 
+regularization of rural property tenure.  
+
+pcdocs://IDBDOCS/40323309/R
+pcdocs://IDBDOCS/40319504/R
+pcdocs://IDBDOCS/37382628/R
+pcdocs://IDBDOCS/36662436/R
+
+
+- 6 - 
+
+financed each year. These brigades are made up of seven regularization 
+specialists. Each brigade’s field operations require a minimum infrastructure of 
+GPS equipment, portable computers, complete stations, and vehicles. 
+
+1.18 Deficiencies of the technological platform. According to the diagnostic 
+assessment of the technological platform (Solíz, 2016), the current technology is 
+capable of continuing the rural land regularization, cadastre, titling, and registration 
+process. However, the following problems must be overcome: (i) consolidating the 
+Land Maintenance and Management System (SIMAT) and the Integrated Cadastre 
+System (SIC) as technical tools; (ii) migrating data from the Integrated 
+Regularization and Titling System (SIST) to the SIMAT/SIC systems; (iii) replacing 
+the use of the SIST with the SIMAT/SIC in all INRA offices; (iv) improving the 
+electronic link between INRA and the DDRR for the large-scale property tilting and 
+registration process; (v) reorganizing the data centers and updating the data 
+servers; (vi) updating the equipment (computers); (vii) developing the INRA nexus 
+with GeoBolivia; (viii) reviewing and consolidating administrative systems; 
+(ix) cleaning spatial data; (x) completing the process of digitization and indexation 
+of the INRA documentary collection; and (xi) developing the INRA platform. 
+
+1.19 Limitations of environmental and social management tools. According to the 
+results from the program’s Strategic Environmental and Social Assessment 
+(SESA) (see Carrasco, 2016), the current legal framework is sufficiently developed 
+for the environmental and social management of the rural property regularization 
+process. However, the management tools for handling potential environmental and 
+social problems stemming from rural property regularization are not fully 
+developed. The main conclusion of the SESA indicates that the above weaknesses 
+produce a situation in which current regulations are not fully enforced and/or 
+compliance with them is not verified. Accordingly, the following problems must be 
+overcome during program execution: (i) forest coverage monitoring does not 
+generate information in real time for monitoring and controlling deforestation; 
+(ii) the rural cadastre does not include the environmental information needed to 
+facilitate monitoring and control at each rural property; and (iii) the tools that INRA 
+has for managing social conflicts are inadequate for addressing the complexity of 
+the conflicts and the processes for resolving them.  
+
+1.20 Lessons learned. The proposed project has taken into account lessons learned 
+from loans 1099/SF-BO and 1512/SF-BO and other similar Bank-financed 
+operations in the region (see Table 2).  
+
+  
+
+pcdocs://IDBDOCS/40323300/R
+pcdocs://IDBDOCS/40320821/R
+
+
+- 7 - 
+
+Table 2. Lessons learned from the Bank’s experience in the sector 
+
+Problem by work area Reflected in project design 
+
+Legal framework. It is necessary to 
+
+ensure that the legal framework 
+allows rural titling to be carried out. 
+
+While the current legal framework allows for moving 
+forward with the regularization, titling, and registration of 
+rural lands, the program will finance activities to improve 
+the regulatory framework. 
+
+Institutional organization. Titling 
+
+requires the participation of various 
+public agencies that neither share 
+information nor coordinate activities 
+well. 
+
+The project will finance the strengthening of key 
+institutions involved in the process of regularizing rural 
+property.  
+
+Information safeguards. The rural 
+
+cadastre information must be 
+protected.  
+
+The working methodology for the cadastral survey will be 
+100% digital with backup systems.  
+
+Cadastral survey. The cadastral 
+
+sweep methodology has yielded good 
+results. 
+
+The sweep methodology will be improved for working in 
+highland areas with small landholdings, through the use 
+of unmanned aerial vehicles, for example. 
+
+Monitoring and quality control 
+system. The lack of monitoring 
+
+systems makes it difficult to manage 
+progress made in rural titling. 
+
+The project will develop an integrated system for 
+monitoring progress, including the reactivation of 
+participatory monitoring mechanisms. 
+
+Community participation. The 
+
+communities’ participation in the 
+titling process was a key factor in the 
+success of the operation. 
+
+The program will reinstall the interagency titling 
+committees with the participation of authorities from 
+indigenous communities and territories. 
+
+Support for permanent institutions. 
+
+It is important to focus efforts on 
+supporting permanent institutions. 
+
+The project will support INRA, the DDRR, the Forest and 
+Land Social Control and Oversight Authority (ABT), and 
+the Mother Earth Plurinational Authority (APMT), which 
+are permanent government institutions, in the work of 
+regularization and environmental and social 
+management of rural property.  
+
+Management of the regularization 
+brigades. It is critical to design a 
+
+cadastral sweep methodology with 
+incentives and penalties. 
+
+In the first year of program execution, funds will be 
+earmarked for the design of a system to monitor the field 
+brigades, taking into account incentives for achieving 
+goals and penalties. 
+
+Source: OVE, 2014. Comparative Evaluation: Land Regularization and Management, PCRs for the following 
+projects: 906/OC-PE, 1340/OC-PE, 1099/SF-BO, and 1512/SF-BO. 
+
+ 
+
+1.21 Conceptual overview of the operation. The project is conceived as an operation 
+that continues the rural property regularization process initiated by the Government 
+of Bolivia through loans 1099/SF-BO and 1512/SF-BO. The project design 
+emphasizes the key aspects identified in the diagnostic assessment of the current 
+situation: (i) the strengthening of integrated mass sweep campaigns for the 
+regularization of rural property, which will make it possible to proceed with rural 
+titling on a cost-effective basis; (ii) modernization of the cadastre and public 
+registry system, which will help to strengthen the integration of titling entities and 
+public registries, as well as the efficient and secure management of cadastral 
+information; (iii) strengthening of environmental and social management tools, 
+which will help to reduce the environmental and social problems identified; and 
+(iv) maintenance of the cadastre and public registry of rural properties, which will 
+help to reduce transaction costs for the end user. 
+
+1.22 Strategic alignment with the Update to the Institutional Strategy 2010-2020, 
+the Corporate Results Framework (CRF) 2016-2019, and the Bank’s strategy 
+with Bolivia 2016-2020. The program is consistent with the Update to the 
+Institutional Strategy 2010-2020 (document AB-3008). Specifically, the program is 
+
+
+
+- 8 - 
+
+in line with the challenge of low productivity and innovation, by increasing farmers’ 
+productivity related to the establishment of secure land ownership rights. The 
+program is aligned with the Bank’s country strategy with Bolivia 2016-2020 
+(document GN-2843) in that it contributes to the priority area of increasing 
+productivity and diversification in the economy as well as with its strategic 
+objectives: (i) promotion of innovation and (ii) provision of quality public goods and 
+services. The operation is included in the 2016 Country Programming Document  
+and the 2016 Operational Program Report (document GN-2849). Lastly, the 
+program is consistent with the Agriculture and Natural Resources Management 
+Sector Framework (document GN-2709-5), which identifies security of land tenure 
+as a key activity for improving productivity and the sustainable use of natural 
+resources. 
+
+B. Objectives, components, and cost. The objective of the program is to increase 
+legal certainty over rural property. 
+
+1.23 Target population. The program beneficiaries are small and medium-sized 
+agricultural producers and indigenous communities. Small and medium-sized 
+producers characteristically have small family farming operations, primarily for their 
+own consumption and with low levels of access to financing and productive 
+technologies. The livelihood of the indigenous communities is based on the use of 
+natural resources, along with small-scale farming usually occupying less than one 
+hectare.  
+
+1.24 Component 1: Land regularization, titling, and registration (US$74.9 million). 
+This component will support rural land regularization, titling, and registration. In this 
+respect, the following stages in the process need to be financed: (i) preparatory 
+stage, which will support: evaluations of the areas of intervention, preparation of 
+the technical and legal diagnostic assessment, increased density of geodetic 
+points; (ii) field survey, which will support: dissemination of regularization, signage 
+of vertices and boundaries, signing of records of agreement, survey of the rural 
+property file, verification of the social function and/or social and economic function, 
+dispute resolution, and development of the cadastral database; and (iii) titling and 
+registration, which will finance: the preparation of draft resolutions, the signing of 
+resolutions, the issuance of property titles, and registration of the titles in the 
+DDRR. This component will also support management of social conflicts and the 
+activities to be financed include: dispute resolution training for INRA staff; 
+implementation of dispute resolution brigades; strengthening of the 
+Agri-Environmental Tribunal for dispute resolution, development and 
+implementation of customer service protocols and mechanisms, and strengthening 
+of INRA’s Transparency Unit. 
+
+1.25 Component 1 will use loan proceeds to finance key inputs for continuing with rural 
+land regularization (paragraph 1.17). The key inputs for carrying out the 
+regularization work include: (i) retention of INRA temporary staff; (ii) purchase of 
+computer equipment, navigation and measuring equipment, and furniture; and 
+(iii)  purchase of logistical support vehicles. Up to US$47 million in loan proceeds 
+will be used to finance staffing requirements, to hire technical personnel to perform 
+land regularization work. The “service delivery contractor” model indicated in 
+paragraph 3.21 of the Policies for the selection and contracting of consultants 
+financed by the IDB (document GN-2350-9) was identified as being suited to 
+INRA’s needs. According to this Bank policy, this model is recommended when 
+
+
+
+- 9 - 
+
+project execution requires the hiring of large numbers of individuals who deliver 
+services on a contract basis. 
+
+1.26 Component 2: Land management (US$14.04 million). This component will 
+finance: (i) modernization of INRA’s rural cadastre technological platform and the 
+DDRR’s rural land registration platform to facilitate the administration of mass rural 
+land cadastre, titling, and registration processes; and (ii) the program’s 
+Environmental and Social Management Plan (ESMP), which will contribute to the 
+social and environmental management of titled land. 
+
+1.27 To modernize INRA’s cadastral system, the component will finance: the 
+consolidation of the SIMAT and SIC as technical tools for rural land administration, 
+the development and implementation of the INRA–GeoBolivia nexus, the design 
+and implementation of the INRA services platform, and the digitization and 
+indexation of the INRA documentary collection. To modernize the DDRR 
+registration system, the component includes: the development of the DDRR 
+services platform; training for DDRR office staff in the use of the platform 
+developed; and the implementation of the cadastral maintenance campaigns. To 
+implement the ESMP, the component will finance: the strengthening of the national 
+forest coverage monitoring system; the development of the environmental 
+dimension of the rural cadastre; indigenous land management measures; and 
+measures to strengthen the gender focus and interculturality in the titling process.5 
+
+C. Results matrix and key indicators 
+
+1.28 The program has a results matrix (see Annex II) agreed upon with INRA; it shows 
+impact, outcome, and output indicators with their respective baselines, targets, and 
+means of verification. The program’s main outcomes are: (i) to regularize and title 
+approximately 24.5 million hectares; (ii) to record property rights in the DDRR for 
+approximately 1,340,000 parcels of small and medium-sized rural producers, 
+benefiting approximately 490,000 families; (iii) to regularize and title the pending 
+indigenous territories; (iv) to modernize the cadastral and registration information 
+systems; and (v) to institutionally strengthen the Bolivian government in order to 
+improve the environmental and social management of land. Over the long-term, 
+the impact of the program will be reflected in increased agricultural income for 
+small and medium-sized agricultural producers.  
+
+Table 3. Main Results Matrix Indicators 
+
+Impact Indicators 
+Frequency of 
+measurement 
+
+Rationale for selection 
+
+Per household agricultural 
+income (US$) 
+
+Baseline and final 
+evaluation of the program 
+
+See paragraph 1.3. Increased productivity 
+results in higher income.  
+
+Gross value of agricultural 
+production per hectare 
+(US$/ha) 
+
+Baseline and final 
+evaluation of the program 
+
+See paragraphs 1.3 and 1.4. Greater 
+certainty regarding land tenure increases 
+productive investment; and this investment 
+increases agricultural productivity. 
+
+ 
+
+                                                
+5
+  In the final stage of the design of the Rural Land Regularization Program, the Ministry of the 
+
+Environment and Water, the technical focal point for the Global Environment Facility (GEF), asked the 
+IDB for an additional project to be financed by the GEF Fund to implement the environmental dimension 
+of the rural cadastre in the amount of approximately US$6 million. This additional project will 
+complement the activities envisaged in the program (ESMP). 
+
+
+
+- 10 - 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 The total cost of the program is US$100 million, which will be financed by the Bank 
+through a blended loan as follows: US$51 million from Ordinary Capital funds and 
+US$9 million from the Fund for Special Operations (FSO). The local counterpart is 
+US$40 million. The distribution of the financing by source is shown in Table 4 
+below: 
+
+Table 4. Program costs and financing (in millions of U.S. dollars) 
+
+Investment category IDB Local Total % 
+
+I. Administration 2.80 4.44 7.24 7.24 
+
+Execution unit 2.80 4.44 7.24 7.24 
+
+II. Direct costs 56.32 35.56 91.88 91.88 
+
+Component 1. Regularization, titling, and 
+
+registration 
+46.92 28.01 74.93 74.93 
+
+Component 2. Land management 9.40 7.55 16.95 16.95 
+
+III. Monitoring and evaluation 0.58 - 0.58 0.58 
+
+IV. Audit 0.30 - 0.30 0.30 
+
+Total 60.00 40.00 100.00 100.00 
+
+ 
+
+2.2 The program is structured as a specific investment operation, to be executed over 
+five years according to the following disbursement schedule and the preliminary 
+financial plan: 
+
+Table 5. Program costs and financing (in millions of U.S. dollars) 
+
+Source Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+IDB Total  20.95  19.11 9.07  6.95 3.92 60.00 
+
+% 34.9% 31.8% 15.1% 11.6% 6.5% 100% 
+
+ 
+
+B. Economic viability 
+
+2.3 The ex ante economic analysis of the program uses a cost-benefit methodology. 
+The analysis is based on the program’s expected incremental costs and benefits 
+using a time horizon of 15 years and a discount rate of 12%. Program costs 
+include investment, operation, and maintenance. The benefits stem from an 
+estimate of marginal changes in agricultural income as a result of improvements in 
+land tenure certainty and reduced processing time for registering property. Data 
+from the 2008 Agricultural Survey, the 2013 Agricultural Census, and INRA titling 
+databases were used to quantify the direct benefits associated with an 
+improvement in the land tenure situation. The results indicate that the families that 
+obtained title to their land increased their annual agricultural income by US$336 
+and the gross value of agricultural production by US$216/household. Surveys and 
+process analyses at both INRA and the DDRR office were used to estimate the 
+benefits of reduced costs and processing time at the DDRR office. The results 
+show benefits amounting to US$22.1 million due to a 16% reduction in processing 
+times. The cost-benefit analysis indicates that the program has a positive net 
+present value and an internal rate of return (IRR) of 51%. An analysis was done of 
+the sensitivity to variations in the speed with which the benefits of titling were 
+generated. In the worst case, in which the benefits increase gradually, the IRR is 
+36%. The benefits of reduced processing time for registration exceed the expected 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40319553
+
+
+- 11 - 
+
+costs of maintaining the cadastre, which increases system sustainability by 
+transferring these benefits to the users. 
+
+C. Environmental and social risks 
+
+2.4 This program has been classified as a Category B operation in accordance with 
+the Bank’s Environment and Safeguards Compliance Policy (OP-703). During the 
+preparation of the program a Strategic Environmental and Social Assessment 
+(SESA) was developed; it determined that the program would have significant 
+positive impacts and negative risks and impacts. The principal risks identified in the 
+SESA were summarized in the program’s environmental and social management 
+report (ESMR). They include: (i) failure to meet the indigenous peoples’ demand 
+for titling due to conflicts already existing in the area of intervention; (ii) weakening 
+of campesino communities’ organizations due to the demand for individual titling; 
+(iii) maintenance of gender inequality in terms of access to and use of the land; 
+(iv) exacerbation of existing social conflicts and creation of new conflicts due to 
+land titling; and (v) loss of biodiversity and ecosystem services in lowlands due to 
+the deforestation of titled properties. A program environmental and social 
+management plan (ESMP) was developed to mitigate these risks and negative 
+impacts. Table 6 summarizes the main risks and mitigation measures proposed in 
+the ESMP. Thus, the requirements of the Bank’s safeguard policies have been 
+fulfilled, especially those of the Indigenous Peoples Policy (OP-765). The ESMR 
+presents compliance with the safeguards policies in detail (paragraph 3.18 of the 
+ESMR). Lastly, consultation processes have been carried out, resulting in records 
+of agreement with the program signed by the principal national organizations 
+representing the program’s beneficiaries (paragraphs 3.22 and 3.23 of the ESMR). 
+
+Table 6. Main Risks and Mitigation measures  
+
+Problem and risks (ESMR) Main Mitigation Measures (ESMP) 
+
+Problem: Remaining demand from indigenous 
+
+people in lowlands consists of lands where 
+third parties are present.  
+Risk: Failure to provide titling for indigenous 
+
+populations and potential fragmentation of 
+their territories. 
+
+(i) Participatory mechanisms will be implemented for the 
+titling of the remaining areas; 
+(ii) The extent to which the territorial demand of the 
+indigenous populations is met will be evaluated; 
+(iii) INRA will be trained to incorporate the intercultural 
+approach in rural land titling activities.  
+
+Problem: Parceling of collective lands in 
+
+peasant communities. 
+Risk: Weakening of community organizations. 
+
+(i) Will contribute to making decisions that are appropriate 
+for communities by providing information on the 
+advantages and disadvantages of collective and individual 
+titling. 
+
+Problem: Gender inequality in access to and 
+
+use of land. 
+Risk: Continued gender inequality in access to 
+
+and use of land through rural titling. 
+ 
+
+(i) INRA’s Gender Unit will be strengthened; 
+(ii) INRA will be trained to implement a gender approach 
+in titling and registration; 
+(iii) Women’s knowledge/exercise of their rights over the 
+land will be promoted.  
+
+Problem: Exacerbation of existing conflicts 
+
+and emergence of new social conflicts; 
+Risk: Delay in the regularization of property 
+
+rights.  
+
+(i) A comprehensive strategy for resolving disputes over 
+rural land will be implemented; 
+(ii) INRA staff will be trained in dispute resolution; 
+(iii) Specialized dispute resolution brigades will be formed 
+in INRA; 
+(iv) The dispute resolution capacity of the Agri-
+environmental Tribunal will be strengthened. 
+
+Problem: Increased deforestation of titled 
+
+properties; 
+Risk: Loss of biodiversity and ecosystem 
+
+services.  
+
+(i) The national plant cover monitoring system will be 
+strengthened; 
+(ii) The environmental dimension of the rural cadastre will 
+be developed; 
+(iii) Soil use plans will be updated. 
+
+Source: Program’s Environmental and Social Management Report and Environmental and Social 
+
+Management Plan, 2016. 
+
+pcdocs://IDBDOCS/40320821/R
+pcdocs://IDBDOCS/40319558/R
+
+
+- 12 - 
+
+D. Fiduciary risks 
+
+2.5 Based on the results of the institutional assessment, INRA has the institutional 
+capacity needed to assume responsibilities as the executing agency for the 
+proposed operation. The results indicate that programming and organizational 
+capacity, execution capacity, and control capacity are at a satisfactory level of 
+development and present a low level of risk. However, based on the risk analysis, 
+some institutional weaknesses affecting the institution’s fiduciary capacity have 
+been identified. Accordingly, an institutional development plan was drawn up to 
+mitigate the risks identified. The main actions include: (i) contracting procurement 
+and financing specialists to strengthen execution capacities; (ii) deepening and 
+institutionalizing an operational framework for risk management; and 
+(iii) developing a framework of internal procedures for accounting and cash flow, as 
+well as updating internal administrative management documents. 
+
+E. Other project risks 
+
+2.6 The SESA has identified the risk that the presence of third parties with legitimate 
+rights within the lowland TIOCs may become an obstacle for completing the titling 
+of all the territory claimed by these TIOCs. This could turn into a reputational risk 
+for the Bank. To mitigate this risk, Component 1 includes participatory titling 
+mechanisms6 that involve the authorities of the TIOCs, to reach consensus on 
+titling processes and results. In addition, the ESMP includes a diagnostic 
+assessment of the extent to which the territorial demand of lowland indigenous 
+peoples is met, as well as the formulation of new public policies in the event that 
+this demand has not been addressed. An extensive process of consultation with 
+the principal organizations representing those benefiting from and affected by land 
+titling was carried out during the preparation of the program. These consultations 
+have resulted in the signing of records of agreement with the program by the 
+participants, beyond what is required for projects with the identified level of risk and 
+impacts (see paragraphs 3.20 to 3.24 of the ESMR for more details on the 
+consultations). 
+
+2.7 As indicated earlier, the Bolivian government has been financially supporting the 
+regularization of rural property for the last 20 years. The proposed program, with a 
+total cost of US$100 million, will complete the work of regularizing rural lands 
+throughout the country, involving 106 million hectares. Once the investment for 
+regularizing rural properties is completed, long-term sustainability will depend on 
+the ability of the key stakeholders to keep the information on rural properties up to 
+date, both in the rural cadastre system (INRA) and in the Real Property Rights 
+Registry (DDRR) system, as identified in the report on the legal framework for the 
+regularization of rural property (Endo, 2016). The program seeks to improve, 
+simplify, and reduce the costs of rural cadastre and property registration services, 
+as well as to generate information on obligations and benefits so that owners will 
+have incentives and will report to the official entities the existence of changes in 
+property rights (through market transfers or inheritance) or through cadastral 
+conservation processes (subdivisions or consolidations). 
+
+                                                
+6
+  The Interagency Titling Committees are the main mechanism of participation. The participants in these 
+
+committees are the authorities of indigenous and campesino organizations and the representatives of 
+the program’s beneficiaries. The role of the committee is to reach agreement with INRA on the work 
+plans for the titling of beneficiary communities and TIOCs and to promote the beneficiary population’s 
+participation in and monitoring of the execution of these plans. The role of the committees will be duly 
+clarified in the program’s Operating Regulations. 
+
+pcdocs://IDBDOCS/40323309/R
+
+
+- 13 - 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements 
+
+3.1 The borrower will be the Plurinational State of Bolivia and the executing agency will 
+be INRA, legally established under Law 1,715/96 as a decentralized public entity of 
+the MDRyT with national jurisdiction and legal status.  
+
+3.2 INRA’s responsibilities as executing agency include: (i) maintaining consolidated 
+accounting records that make it possible to identify the sources and uses of 
+program funds by component; (ii) preparing and submitting disbursement requests 
+and supporting documentation to the Bank, together with the financial statements 
+for the components under its responsibility; (iii) contracting the program’s annual 
+external audits and submitting the respective reports to the Bank; (iv) preparing 
+open calls for proposals and bid processes, processing contracts and payments, 
+and providing technical supervision of the contracts for activities under its 
+responsibility; (v) preparing the consolidated monitoring and evaluation reports 
+required, submitting them to the Bank, and making them publicly available; and 
+(vi) ensuring compliance with the contractual clauses established in the loan 
+contract, the program’s Operating Regulations, and the agreements signed for 
+program implementation. A condition precedent to the first disbursement will 
+be the signing of a subsidiary agreement between the Ministry of Economy 
+and Public Finance, the Ministry of Development Planning, and INRA 
+defining the following aspects among others: (i) the method to be used to 
+transfer the loan proceeds to INRA; and (ii) INRA’s commitment to conduct 
+program activities in accordance with the terms of the loan contract.  
+
+3.3 Program execution will use INRA’s existing organizational structure, in both 
+technical and fiduciary (procurement and finances) and legal matters. In this 
+respect, the Planning Bureau (DGP) will be designated as the entity responsible for 
+the general coordination of the program and the ESMP; the Regularization and 
+Titling Bureau will be designated as the entity responsible for the execution of 
+Component 1; the Land Management Bureau will be designated as the entity 
+responsible for the execution of Component 2; and, lastly, the Administration and 
+Finances Bureau will manage the program’s budget, procurement, legal analysis, 
+and financial control. 
+
+3.4 The Director of INRA’s DGP will serve as the general coordinator of the program 
+with sufficient autonomy to make operational decisions, prepare all documents, 
+program actions, and coordinate with the participating entities and the IDB. A 
+condition precedent to the first disbursement will be the appointment of the 
+Director of INRA’s DGP as the general coordinator of the program, 
+appointment of the program component coordinators, in accordance with 
+the terms previously agreed upon with the Bank, and the contracting of 
+financial, procurement, planning, environmental management, and social 
+management specialists through a competitive process, in accordance with 
+the terms previously agreed upon with the Bank.  
+
+3.5 During program preparation, provision was made for the signing of interagency 
+collaboration agreements between INRA and the DDRR Office, the APMT, INE, 
+and the ABT. These agreements will lay the foundation for cooperation among 
+those involved and will describe the activities covered under the agreement, the 
+parties’ commitments, including the operation and maintenance of investments, 
+
+
+
+- 14 - 
+
+and other conditions necessary for execution. Evidence of the signing and entry 
+into force of the following interagency cooperation agreements: (i) between INRA 
+and the DDRR, will be a special condition for the disbursement of financing for 
+activities related to public registries under Component 2; (ii) between INRA, the 
+ABT, the APMT, and the Office of the Deputy Minister for Land, will be a special 
+condition for the disbursement of financing for activities related to the program’s 
+ESMP under Component 2; and (iii) between INRA and INE, will be a special 
+condition for the disbursement of financing for activities related to the baseline of 
+the program’s monitoring and evaluation plan. 
+
+3.6 To facilitate implementation of the ESMP, in the context of the program, INRA may 
+provide cooperation and technical coordination to the relevant public institutions 
+that assist in achieving the program’s objective. 
+
+3.7 Program Operating Regulations. Execution of the program will be governed by 
+the program’s Operating Regulations. These regulations establish guidelines and 
+operational procedures related to: (i) the responsibilities of the entities participating 
+in the program; (ii) operational procedures for the planning and programming of the 
+activities to be financed; (iii) financial and procurement instructions; (iv) procedures 
+for the program’s environmental and social management; and (v) operational 
+instructions for the implementation of activities to monitor and evaluate the 
+program’s impact. The entry into force of the program’s Operating 
+Regulations, under terms previously agreed upon with the Bank, will be a 
+contractual condition precedent to the first disbursement.  
+
+3.8 Procurement. The procurement of works, goods, and consulting services funded 
+with program resources will be carried out in accordance with the Bank’s policies 
+as set forth in documents GN-2349-9 and GN-2350-9 and the provisions of the 
+loan contract and the program’s Fiduciary Agreements and Requirements (see 
+Annex III), including the procurement plan for the first 18 months. That plan 
+includes the purchase of vehicles, operations and computer equipment, furniture, 
+the contracting of individual consultants and consulting firms, and other items. In 
+addition, the procurement plan includes the contracting of “service delivery 
+contractors” corresponding to the staff engaged in the regularization and titling 
+process (paragraph 1.25). The contracting procedures currently used by INRA for 
+annual or multiyear periods will continue to be used for these individual 
+consultants. The procurement plan will be updated each year or whenever there 
+are substantial changes, subject to the Bank’s approval. Procurement may be 
+made using the ex post review method as established in Annex II. 
+
+3.9 Recognition of retroactive expenses. The Bank may recognize and charge 
+against the local contribution up to US$6,000,000 (15% of the local contribution) in 
+eligible expenses incurred by INRA prior to the loan approval date for operational 
+and temporary staffing expenses, provided that requirements substantially similar 
+to those established in the loan contract have been met. Said expenses must have 
+been incurred on or after 6 January 2016, the program profile approval date, but in 
+no case may they include expenses incurred more than 18 months prior to the loan 
+approval date. 
+
+3.10 Audit. During the loan disbursement period, within 120 days following the end of 
+INRA’s fiscal year, the program’s annual audited financial statements will be 
+submitted to the Bank. The audit will be performed by a firm of independent 
+auditors acceptable to the Bank. The determination of the scope and other related 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40320765
+
+
+- 15 - 
+
+aspects will be governed by the Guide to Financial Management for Projects 
+Financed by the IDB (OP-273-6) and the guide on financial statements and 
+external audit.  
+
+B. Summary of results monitoring arrangements 
+
+3.11 Monitoring. The program has a monitoring and evaluation plan. INRA will prepare 
+and send a monitoring report to the Bank no later than 60 days following the end of 
+each six-month period during project execution. These reports will focus on the 
+achievement of the output indicators and progress made in terms of outcomes, the 
+identification of problems encountered and corrective measures adopted. INRA will 
+submit to the Bank’s satisfaction the annual work plan (AWP) corresponding to the 
+upcoming year, no later than within the final quarter of each year during project 
+execution. INRA will perform two independent evaluations financed using loan 
+proceeds: (i) the midterm evaluation will be submitted to the Bank no later than 
+90 days after 50% of the loan proceeds have been executed; and (ii) the final 
+evaluation will be conducted no later than 90 days after 90% of the project’s funds 
+have been executed. These reports will include an evaluation of the quality of the 
+data in the monitoring system, the degree to which the expected outputs, 
+outcomes, and impacts established in the Results Matrix have been achieved, as 
+well as the level of compliance with the ESMP, including progress made in the 
+social and environmental indicators. 
+
+3.12 Evaluation. The impact estimates will be based on the differences-in-differences 
+method applied to a panel of households that includes a treatment group and two 
+control groups. To this end, provision has been made for two surveys, a baseline 
+and the final evaluation. The proposed sample includes the non-random 
+identification of a group of municipios with a high percentage of titling in the first 
+two years of the program. Later, through a propensity score matching process, a 
+control group of municipios with a high percentage of titling prior to 2016 (control 
+group 1) and another control group of municipios that will be titled at the end of the 
+program (control group 2) will be identified. The municipios in control group 1 will 
+serve to verify the proportion of attributable marginal change over time, while the 
+municipios in control group 2 will be used to measure the program’s impact in the 
+execution period. The sample for the baseline study is estimated to include 3,500 
+farmers distributed in 50 municipios (20 treated and 30 in the two control groups; 
+households will be selected at random within each municipio). A similar sample will 
+be used for the final evaluation. The data collection budget has been included in 
+the project. The design of the operation provides a good opportunity for generating 
+empirical evidence on the impact of rural land titling on productivity, income, and 
+the sustainable use of natural resources. 
+
+ 
+
+
+
+
+

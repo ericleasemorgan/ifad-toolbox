@@ -1,0 +1,1157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+BOLIVIA 
+
+ 
+
+ 
+
+ 
+
+AGRICULTURAL HEALTH AND FOOD SAFETY PROGRAM II 
+
+(BO-L1179) 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+ 
+PROJECT SUMMARY 
+
+BOLIVIA 
+
+AGRICULTURAL HEALTH AND FOOD SAFETY PROGRAM II 
+(BO-L1179) 
+
+Financial Terms and Conditions 
+
+Borrower: Plurinational State of Bolivia 
+ OC FSO 
+
+Amortization period: 30 years 40 years 
+
+Executing agency: Servicio Nacional de Sanidad 
+
+Agropecuaria e Inocuidad Alimentaria [National Service 
+for Agricultural Health and Food Safety] (SENASAG) 
+
+Disbursement period: 5 years 5 years 
+
+Source Amount (US$) % Grace period: 6 years 40 years 
+
+IDB (OC): 21,250,000 85 
+Inspection and 
+supervision fee: 
+
+(a) N/A 
+
+IDB (FSO): 3,750,000 15 
+Interest rate: SCF – fixed(b) 0.25% 
+
+Credit fee: (a) N/A 
+
+Total: 25,000,000 100 
+Currency of approval: US$ US$ 
+
+Project at a Glance 
+
+Project objective/description: The general objective of the program is to help increase productivity in the agriculture 
+
+sector. The specific objectives are: (i) to reduce production losses from pests and diseases; (ii) to facilitate access to 
+international markets; and (iii) to enhance service to users. 
+
+Special contractual conditions precedent to the first disbursement of the loan: (i) the borrower will sign a subsidiary 
+
+agreement with the executing agency establishing the following and other elements: (a) the mechanism for transferring the 
+loan proceeds; and (b) the commitment of the executing agency to conduct program activities in accordance with the terms 
+of the loan contract (paragraph 3.2); (ii) the executing agency: (a) will create the program execution unit in accordance with 
+terms and conditions previously agreed upon with the Bank; and (b) will contract specialists, through a competitive process, 
+in at least the following areas: general coordination, planning, financial management, procurement, and environmental and 
+social management (paragraph 3.2); (iii) the program technical board will be created and its members appointed 
+(paragraph 3.2); and (iv) the program Operating Regulations will be approved by the executing agency and will be in force, 
+under terms previously agreed upon with the Bank (paragraph 3.4). 
+
+Special contractual conditions of execution: Prior to startup of the activities for the fruit fly control program in 
+
+Component 3, agreements will be signed between SENASAG, the Municipio of El Torno, the Municipio of Luribay, and 
+local producers’ associations (paragraph 3.3). 
+
+Exceptions to Bank policies: None. 
+
+Strategic Alignment 
+
+Challenges:(c) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting topics:(d) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+(a) The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its 
+review of the Bank’s lending charges, in accordance with applicable policies. 
+
+(b)  The borrower will pay interest on outstanding balances on this portion of the Ordinary Capital loan at a LIBOR-based rate. The rate on 
+the outstanding balance will be set whenever such balance reaches 25% of the approved net amount or US$3 million, whichever is 
+greater. 
+
+(c) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(d) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule 
+
+of Law). 
+
+ 
+
+
+
+ 
+ 
+
+I. DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problem addressed, and rationale 
+
+1.1 Overview of the agriculture sector. The agriculture sector is of crucial 
+importance to the Bolivian economy. It accounts for more than 13% of the country’s 
+GDP, contributes more than US$1.3 billion in exports (18% of the total), and 
+employs 35% of the economically active population (INE, 2015). The sector’s GDP 
+has been growing at an average annual rate of 4.16% (2002-2014), and its 
+composition has undergone no substantive change over the last decade. Crop 
+products represent 70% of agricultural GDP, livestock products account for 21%, 
+and forestry, hunting, and fisheries products make up the remaining 9% (UDAPE, 
+2015). The sector is fairly diversified, with the largest areas under cultivation 
+corresponding to industrial crops (45%)—soybeans, sunflowers, sugarcane, and 
+sesame—followed by nonindustrial crops such as grains (30%), fruits and 
+vegetables (8%), and tubers (7%). The livestock sector is dominated by beef and 
+milk production and by poultry farming. Agricultural exports have grown at an 
+average annual rate of 13% over the past decade, with soybeans, Brazil nuts, 
+quinoa, beans, and fruits as the main agricultural exports. The main destination 
+markets are Latin America (47%), Europe (30%), and the United States (23%). 
+
+1.2 Despite the recent growth and relative importance of the agriculture sector, an 
+in-depth examination reveals low levels of productivity. According to a recent 
+study, total factor productivity in Bolivia’s agriculture sector showed an annual 
+growth rate of 1.4% over the period 2000-2012, below the average for the region 
+(1.7%) and far short of Brazil (3.0%), Peru (2.6%), Chile (2.3%), and Paraguay 
+(3.2%) (Nin-Pratt et al., 2015). Among the factors contributing to the poor 
+performance of productivity in the sector (which include lack of market information, 
+inadequate infrastructure, scarce access to financing, and low levels of innovation 
+and technology transfer1), losses due to pests and diseases are especially 
+significant. Estimates suggest that fruit growers in Bolivia lose approximately 
+US$113 million per year2 due to the impact of the fruit fly, and it is estimated that 
+the beef sector would lose around US$57 million3 in the event of another outbreak 
+of foot and mouth disease (FMD). These estimates reflect a situation in which the 
+intensity of spending on agricultural health4 in Bolivia (6.7% in 2009) is much lower 
+than in Brazil (26.1%), Uruguay (22.9%), Chile (19.8%), and Argentina (37%) 
+(Agrimonitor, 2015). 
+
+1.3 Recent empirical evidence shows that progress in controlling pests and diseases 
+is key to improving the country’s productivity. In this respect, a comparative 
+evaluation of six agricultural health and food safety projects conducted by the 
+Office of Evaluation and Supervision (OVE, 2015) indicates that campaigns for 
+controlling and eradicating pests and diseases carried out by agricultural health 
+agencies have been effective in boosting productivity. Noteworthy here is the case 
+of farmers participating in the fruit fly control program in Peru (loans 1025/OC-PE, 
+
+                                                
+1 Kay, C. (2011); and Hameleers, Antezana, and Paz (2011). 
+2  SENASAG – TESA PROMOSCA (2013). 
+3  Due to source control costs and the closing of export markets, Mascitelli (2016). 
+4  In this case, the intensity of spending on agricultural health refers to the proportion of supports for general 
+
+services (or sector public goods) that go to agricultural health services. 
+
+http://agrimonitor.iadb.org/es
+https://publications.iadb.org/bitstream/handle/11319/7146/Evaluacion_comparativa_de_proyectos_de_sanidad_agropecuaria_e_inocuidad_alimentaria_Anexo_3.pdf?sequence=7
+
+
+ - 2 - 
+ 
+ 
+ 
+
+1647/OC-PE, and 2015/OC-PE), which increased fruit yields by 65%, and 
+enhanced the value of production by 15% (Salazar et al., 2016). At the same time, 
+Peru’s exports of fruits and vegetables rose at an average annual rate of 22.5% 
+(1998-2014), outpacing other exports in the sector, for which the annual growth 
+rate was 7.4% (SUNAT, Peru). The case of Uruguay also demonstrates the 
+international trade benefits of animal disease control. Specifically, once the country 
+was declared FMD-free without vaccination in 1996, the value of beef exports rose 
+by more than 50%, generating additional annual earnings on the order of 
+US$110 million from exports to the United States, while trade with Pacific Rim 
+countries increased, and savings in vaccination costs came to US$8 million per 
+year (Knight-Jones and Rushton, 2013; Otte et al., 2004). An important point to 
+consider in connection with the foregoing empirical evidence is that the impacts 
+have been felt by small and medium-sized farmers. 
+
+1.4 To address the country’s phyto-zoosanitary and food safety risks, the National 
+Service for Agricultural Health and Food Safety (SENASAG) was created by 
+Law 2061 in 2000, with the mandate to protect health and the safety of food.5 In 
+2016, Law 830/2016 ratified SENASAG as the competent national authority in this 
+area. For technical and operational purposes, SENASAG has organized its 
+functions into two broad areas: (i) agricultural health; and (ii) food safety, the 
+challenges of which are described below. 
+
+1.5 Agricultural health. In Bolivia, the fruit fly is one of the most destructive 
+agricultural pests, damaging more than 260 crops and causing losses in the range 
+of 20% to 60% of yields (SENASAG, Fruit Fly Control Program 2012). The area 
+under cultivation in fruits and vegetables in the country exceeds 250,000 hectares, 
+with citrus accounting for the greatest portion of that area (INE-CAN, 2013). The 
+fruit fly reduces product yield, quality, and value; it increases production costs; and 
+it diminishes opportunities for market access in light of phytosanitary restrictions in 
+importing countries. To manage this pest, which has the potential to spread far and 
+wide, a coordinated public-private effort is needed in which SENASAG plays a key 
+role, defining intervention and inspection protocols, among other activities (IICA, 
+2009). In order for importing countries to accept Bolivian fruits, fruit-fly-free zones 
+must be established and maintained.6 Experience with control in one area can 
+contribute to the design of a strategy for eradicating the pest in other areas, or in 
+the entire country. Another threat to fruit production, especially citrus fruit, is 
+Huanglongbing disease, which can devastate citrus orchards.7 This disease has 
+not yet been detected in Bolivia, but the vector insect is known to be present. The 
+
+                                                
+5  The responsibilities of SENASAG include: (i) preservation of the health of agricultural and forestry 
+
+resources; (ii) product certification for domestic consumption, imports and exports; (iii) accreditation of 
+individuals and companies as service providers; (iv) control, prevention, and eradication of pests and 
+diseases in animals and plants; (v) control and guarantee of food safety in the production and processing 
+chains; and (vi) control of inputs used for agricultural, agroindustrial, and forestry production. 
+
+6  An area free from fruit fly is one in which the fruit fly is not present, as demonstrated by scientific evidence, 
+and in which, as appropriate, that status is being officially maintained (CIPF-NIMF 26 and NIMF 5). 
+
+7  Huanglongbing is a bacterial disease that affects all commercial citrus species, as well as others. It is 
+currently considered the most devastating citrus disease worldwide, given the damage it causes, the 
+difficulty of diagnosing it, and the speed at which it spreads (Food and Agriculture Organization). The 
+arrival of Huanglongbing in Brazil is estimated to have caused annual losses of 6% in the area under 
+cultivation, cost increases of 10% to 20%, and an annual exit of 18% of small producers (1-4 hectares, 
+2015-2016) (IICA, 2015, Evaluation of the Potential Impact of Huanglongbing in Argentina). 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40691814
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652374
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652374
+
+
+ - 3 - 
+ 
+ 
+ 
+
+presence of the vector combined with reports of the disease in neighboring 
+countries makes it all the more urgent to take steps for its prevention and control. 
+
+1.6 In zoosanitary aspects, Bolivia has been officially recognized by the World 
+Organisation for Animal Health (OIE) as an FMD-free country since 2014. This has 
+been the first step in opening dialogue between the country and potential meat 
+export markets. Since that declaration, several countries have shown interest in 
+Bolivian beef. The next challenge in terms of gaining access to potential markets 
+is to identify the risk of diseases of the nervous system, primarily bovine 
+spongiform encephalopathy (BSE), for which Bolivia needs to run analyses that 
+show a negligible risk of the disease in the country.8 Neighboring countries have 
+already been recognized by the OIE as countries with a negligible BSE risk. Once 
+these zoosanitary requirements have been met, potential buyers will give priority 
+to those countries with the highest levels of food safety, particularly those with little 
+or no presence of biological, physical, or chemical contaminants (including 
+residues of pesticides and veterinary drugs) (Garzón, 2009). 
+
+1.7 Another fast-growing sector that has been affected by health concerns is poultry 
+farming, with production having increased over the last 10 years by 135% 
+(www.udape.gob.bo). This sector is an important source of employment, 
+generating some 60,000 direct jobs and 135,000 indirect jobs, owing primarily to 
+its multiplier effect on the production of corn, sorghum, and soybeans. Among the 
+diseases that cause losses in poultry production, the most important is Newcastle 
+disease (the mortality rate from respiratory infections, of which this disease is a 
+leading cause, is 9%). Declaring areas free from this disease would help open 
+markets for poultry products.9 At this time, there is no evidence in Bolivia of avian 
+flu, which could cause major losses in production and risks to human health (OIE, 
+2007). Drawing on data from animal health services in 12 countries, Swayne 
+(2011) found that the increase in the capacities of veterinary services, such as 
+laboratory analysis, trained personnel, development of biological products, and the 
+responsiveness of the surveillance system, are correlated with improvements in 
+the control of avian flu. In this respect, Bolivia needs to conduct surveillance for 
+the disease and demonstrate its absence with scientific evidence, so that it cannot 
+be used as a sanitary barrier preventing access for the country’s poultry products 
+to international markets. 
+
+1.8 Food safety. The benefits of stronger and more effective food safety systems are 
+increasingly important for meeting the growing demand for healthier, cleaner food. 
+However, the country has little information on the level of contaminants in its food 
+products. The government’s network of food safety laboratories—still without 
+ISO 17025 accreditation—are limited in their diagnostic capacities to testing for 
+biological contaminants (e.g. salmonella) and are unable to test for chemical 
+contaminants (metals, pesticide residues, etc.). Data on the growth of pesticide 
+imports, rejections of exports of agricultural products, and cases or outbreaks of 
+
+                                                
+8  BSE (known as mad cow disease) is a disease for which the OIE has established official recognition of the 
+
+health status of countries and zones, based on a general risk analysis. The categories for BSE are: 
+negligible risk, controlled risk, and undetermined risk. Bolivia is included in this last category.  
+
+9  The Newcastle disease status of a country, zone or division can be determined on the basis of specific 
+criteria established by the OIE. 
+
+http://www.oie.int/en/animal-health-in-the-world/official-disease-status/fmd/list-of-fmd-free-members/
+http://www.udape.gob.bo/
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652369
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652369
+
+
+ - 4 - 
+ 
+ 
+ 
+
+foodborne diseases10 highlight the problem. Between 2005 and 2013, pesticide 
+imports grew 75% by volume (IBCE).11 With respect to the rejection of food 
+products in foreign markets, the European market notified four rejections (RASFF, 
+2016) during the period 2009-2013,12 while over that same period Peru reported 
+no cases of rejection. The cases of foodborne disease recorded between 2010 
+and 2015 totaled 35,850 (Ministry of Health of Bolivia, 2016). Meanwhile, the World 
+Health Organization estimates a value of 315 disability-adjusted life years (DALY)13 
+per 100,000 inhabitants caused by foodborne illnesses in Bolivia, higher than the 
+estimate for most Latin American countries, which is 140 DALY, and for the United 
+States and Canada, at 35 DALY. Thus, contaminant surveillance programs and 
+awareness-raising for all links in the country’s supply chains are increasingly 
+important for providing safer food to the Bolivian population and facilitating access 
+to international markets. 
+
+1.9 Beyond the technical and operational areas described above, SENASAG has a 
+user services office covering all units. A survey conducted of users (producers, 
+companies, exporters, and importers) of SENASAG services in 2016 revealed a 
+satisfaction index of 6.13, measured on a scale of 0 to 10. The areas in which 
+users reported dissatisfaction included transactions times, the number of 
+requirements imposed, and the costs. In order to improve the delivery of services 
+to users, SENASAG has embarked on a process to systematize its transactions, 
+and at present four of the services in greatest demand can be done by users online. 
+These efforts by SENASAG are part of a larger process to implement 
+e-government that the country is pursuing in accordance with the General 
+Telecommunications, Information Technologies, and Communications Act 
+(164/2011). Meanwhile, indicators such as the United Nations e-Government 
+Development Index (EGDI) show that the country has much room for improving 
+the management of its public services. According to EGDI 2016, Bolivia ranks 
+101st of 193 countries (behind most of the countries in the region), and the Doing 
+Business report places it 137th of 198 countries worldwide, and 30th of 
+32 countries in Latin America and the Caribbean (World Bank, 2015). 
+
+1.10 For purposes of international comparison of agricultural health and food safety 
+services, countries’ national services are subject to evaluations by the World 
+Organisation for Animal Health (OIE) and the Inter-American Institute for 
+Cooperation on Agriculture (IICA). In the case of Bolivia, those evaluations identified 
+improvements in the delivery of services between 2008 and 2014 but recognized the 
+need to strengthen them further. The evaluation of animal health and animal-source 
+
+                                                
+10  Date on foodborne diseases are merely indicative of the problem, as contamination may originate at 
+
+different points in the chain, not only in production. These data represent a low estimate of the real situation 
+in the country, as only about 10% of persons who suffer a bout of gastrointestinal illness will seek medical 
+attention (Food and Agriculture Organization, 2002). 
+
+11  The Action Network on Pesticides and their Alternatives in Latin America (www.RAP-AL.com) estimates 
+annual use of agrochemicals in Bolivia at 9.03 kg per capita, higher than in Brazil (5.2 kg) and three times 
+higher than in Costa Rica and Panama. 
+
+12 Of total rejections in RASFF, 63% are due to the presence of aflatoxins in Brazil nuts, 21% to 
+microbiological problems, and 16% to unsuitable organoleptic characteristics. The ratio of rejections per 
+tons of exports for Bolivia is 1 rejection for every 4,907 tons, where for Peru the figure is 0 rejections for 
+every 4,172 tons.  
+
+13  A disability-adjusted life year (DALY) is equivalent to one year of healthy life lost. 
+
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652366
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652539
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652539
+http://www.rap-al.com/
+
+
+ - 5 - 
+ 
+ 
+ 
+
+food safety services by the OIE14 showed improvements in 22 of the 
+39 competencies assessed (the others were unchanged). The average value of the 
+competency performance indicators for SENASAG in 2014 was 62%, below the 
+averages achieved by Chile (2010, 82%), Uruguay (2014, 83%), and Colombia 
+(2015, 70%).15 The plant health services evaluation conducted by IICA in 2014, using 
+a similar methodology, found performance levels averaging 47%16 in the various 
+competencies and identified the need for improvement in all areas of plant health 
+services. Both evaluations recommend, among other steps, improving: (i) the 
+surveillance, inspection, and control system; (ii) the control of agricultural inputs and 
+medications; (iii) the capacity and management of laboratories for diagnostics and 
+analysis of residues, with proper biosafety conditions; and (iv) improvement in the 
+services offered to users. 
+
+1.11 Bank’s strategy in the agriculture sector of Bolivia. The Bolivian government, 
+with Bank support, is implementing efforts to boost productivity. This year, it has 
+approved: (i) the National Irrigation Program with a Watershed Approach III 
+(3699/BL-BO) for US$158.4 million, which will help to increase or improve areas 
+under irrigation and will benefit more than 20,000 farmers directly; (ii) Direct 
+Supports for the Creation of Rural Agrifood Initiatives II (3536/BL-BO) for 
+US$62 million, to help small-scale farmers adopt technologies that will boost 
+agricultural yields, the value of output, and productive efficiency; and (iii) the Rural 
+Land Regularization and Titling Program (3722/BL-BO) for US$60 million, which 
+will support the regularization and titling of 24.5 million hectares and the 
+registration of more than one million rural landholdings of small and medium-sized 
+farmers. The proposed agricultural health and food safety program will supplement 
+these operations with support targeted at general agricultural services designed to 
+improve productivity levels in the sector. 
+
+1.12 The proposed operation will help to consolidate Bank support in the area of health 
+and safety, recognizing that SENASAG has been supported from its inception with 
+funds from the Agricultural Services Program (1057/SF-BO), which called for 
+investments to establish the institutional structure and set up the planning and 
+administration systems, as well as services in the technical areas of food safety, 
+animal health, and plant health. Achievements under that operation include: 
+(i) central headquarters and nine district offices (one for each department) set up 
+and open for service; (ii) coverage of 37% of the operating budget with own 
+resources; (iii) Institutional Strategic Plan approved; (iv) website with information 
+from the institution published; (v) national food safety unit created and providing 
+services through a reliable management system (ISO-9000 certification); 
+(vi) network of food safety laboratories established and running tests to identify 
+
+                                                
+14 The OIE Tool for the Evaluation of Performance of Veterinary Services (PVS) measures the effectiveness 
+
+of veterinary services, identifies gaps and weaknesses, and provides recommendations for 
+40 competencies in four groups: (i) human, technical, and financial resources; (ii) technical authority and 
+capability; (iii) interaction with stakeholders; and (iv) access to markets. Each competency is rated on a 
+scale from 1 to 5, with 5 being the highest score. The resulting values can be expressed as percentages. 
+The tool used by IICA to evaluate plant health services, known as “Performance, Vision and Strategy,” is 
+similar to the PVS tool developed by the OIE.  
+
+15  http://www.oie.int/support-to-oie-members/pvs-evaluations/. 
+16  This is lower than some other countries of the region, which have values above 50%, and far short of the 
+
+ideal 100%. PVS country results are not publicly available. 
+
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652545
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652552
+http://www.oie.int/support-to-oie-members/pvs-evaluations/
+
+
+ - 6 - 
+ 
+ 
+ 
+
+biological contaminants in foods; and (vii) two areas of the country (Chiquitanía in 
+the department of Santa Cruz and the entire department of Oruro) have been 
+declared FMD-free by the OIE. 
+
+1.13 As well, in 2008 the Bank approved the Agricultural Health and Food Safety 
+Program (2061/BL-BO) designed to strengthen systems for: (i) the administration 
+of human, physical, and financial resources; (ii) cost recovery; (iii) integrated 
+management of planning and monitoring; and (iv) information and management of 
+services provided to users. In technical areas, the most pressing consideration 
+was identified as the need to eradicate foot and mouth disease so the country 
+could be declared FMD-free by the OIE. 
+
+1.14 At the close of the operation, in 2014, SENASAG had achieved the following: (i) the 
+system for the administration of human, physical, and financial resources had been 
+implemented; (ii) own revenue from fees for services covered 90% of the total 
+budget; (iii) the planning and monitoring system (Planea), part of the Institutional 
+Strategic Plan, had been installed in the central and district offices; (iv) a user 
+services management information system (Gran Paitití)17 was in operation with 
+78 services systematized and 4 services available online through the institutional 
+portal; and (v) the central office and district offices had been refurbished and 
+improved. Lastly, the operation helped the country obtain an “FMD-free with 
+vaccination” declaration by the OIE in 2014. 
+
+1.15 Lessons learned. Between 2002 and 2014, the Bank approved 17 investment 
+loans to strengthen agricultural health and food safety systems in the region, for a 
+total amount of US$359 million, or approximately 10% of the total sector portfolio 
+(OVE, 2015). As noted earlier, SENASAG has been supported since its creation, 
+first with funds from the Agricultural Services Program (1057/SF-BO) and 
+subsequently, in 2008, through the Agricultural Health and Food Safety Program 
+(2061/BL-BO). The latter operation was selected as part of a sample of six projects 
+(Argentina (1950/OC-AR, 2008-2015); Nicaragua (1500/SF-NI, 2003-2011); 
+Peru (1647/OC-PE, 2005-2009, and 2045/OC-PE, 2008-2014); and Uruguay 
+(2182/OC-UR)) that were analyzed by OVE for purposes of evaluating the 
+interventions and identifying recommendations for the design of new operations. 
+On the basis of the previous operations, as well as the conclusions and 
+recommendations from the Comparative Project Evaluation of Agriculture Health 
+and Food Safety, 2002-2014 (OVE), Table 1 below describes the main lessons 
+learned and how these have been incorporated into the design of the proposed 
+operation. 
+
+ 
+
+                                                
+17  Gran Paitití is an information technology system developed to manage each of the services that SENASAG 
+
+provides nationwide. It administers information on animal health, plant health, food safety, as well as 
+information from the administrative, planning and legal areas. The system is of national scope and is used 
+in the departmental, local and frontier offices of SENASAG. 
+
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?DOCNUM=40652556
+
+
+ - 7 - 
+ 
+ 
+ 
+
+Table 1. Recommendations incorporated into program design 
+
+Recommendations Incorporation into program design 
+
+Involve the private sector 
+through joint work and the 
+incorporation of new 
+information and 
+communication technologies. 
+
+The program gives priority to incorporating a greater number of 
+online services for users, in order to make their delivery more 
+prompt and efficient.18 The phytosanitary and zoosanitary 
+programs will be implemented in coordination with farmers. 
+
+Make the laboratories 
+sustainable. 
+
+The laboratories operated by SENASAG are self-funded but do 
+not have the necessary capacity to run public programs for pest 
+and disease control. The program will provide financing to 
+enhance the capacity of the laboratories, which will remain 
+self-funded. 
+
+Strengthen the food safety 
+area. 
+
+The program will strengthen the capacity of the laboratories for 
+analyzing contaminants, surveillance plans, and training for 
+farmers in good agricultural practices, thereby helping to 
+improve food safety levels in Bolivia 
+
+Evaluation and results in 
+relation to direct beneficiaries 
+
+The program includes a monitoring and evaluation component 
+and an impact evaluation plan that will analyze the impacts of 
+program activities on the direct beneficiaries. 
+
+ 
+
+1.16 Program design. The design of the program addresses the need to protect Bolivia’s 
+agricultural resources from health risks and provide the safety assurances sought 
+by domestic consumers and foreign markets, especially high-value markets, as part 
+of the government’s bid to position Bolivia as a reliable and safe supplier of quality 
+food products. To this end, the program will continue the work of strengthening the 
+country’s health services, which the Bank has supported (loans 1057/SF-BO and 
+2061/BL-BO) since the creation of SENASAG. The design of the operation takes 
+into account achievements to date, lessons learned, and the results of evaluations 
+by the Bank and leading international agencies working in this area. Thus, the 
+operation focuses on: (i) strengthening the technical capacity of SENASAG to act 
+independently and objectively, basing its decisions on scientific principles; 
+(ii) enhancing the analytical capacity in fully equipped, internationally accredited 
+laboratories for the diagnosis of diseases and pests, control of agricultural inputs, 
+and detection of contaminants in agricultural and food products; (iii) implementing 
+disease and pest prevention and control programs that will help lay the groundwork 
+for expanding those programs to other regions or for implementing innovative work 
+solutions (coordination mechanisms with the private sector, accreditation of 
+professionals, etc.) that will facilitate surveillance and control of other health 
+threats; and (iv) improving the management and increasing the efficiency of 
+service delivery to users throughout the country. 
+
+1.17 Country strategy for the sector. The program is part of the Patriotic Agenda 2025 
+and the Productive Economic Development Plan 2016-2020. The program will 
+contribute primarily to Pillar 6, Productive Sovereignty with Diversification, which 
+sets the objective for the agriculture sector of boosting productivity and enhancing 
+market access for Bolivian products. The program will also contribute to Pillar 8, 
+Food Sovereignty, with respect to the promotion of good agricultural practices and 
+
+                                                
+18  The program is helping to enforce the supreme decree on e-government in Bolivia (Supreme Decree 1874 
+
+of 23 January 2014), as well as the 2016-2020 e-Government Plan. 
+
+
+
+ - 8 - 
+ 
+ 
+ 
+
+ecologically sound production. Lastly, the program is aligned with the Institutional 
+Strategic Plan of SENASAG 2014-2018. 
+
+1.18 Bank’s country strategy with Bolivia. The operation is consistent with the Bank’s 
+country strategy with Bolivia 2016-2020 (document GN-2843), inasmuch as it will 
+contribute to the objective of increasing productivity in the economy through the 
+delivery of quality public goods and services. 
+
+1.19 Strategic alignment with the Update to the Institutional Strategy 2010-2020 
+and the Corporate Results Framework 2016-2019. The program is consistent 
+with the Update to the Institutional Strategy 2010-2020 (document AB-3008) and 
+is aligned with the development challenges of productivity and innovation 
+inasmuch as it will increase the agricultural productivity of small farmers and 
+thereby contribute to the indicators in the Corporate Results Framework 
+corresponding to the number of beneficiaries of improved management and 
+sustainable use of natural capital and to the number of government agencies 
+benefitted to improve public service delivery. The program is also aligned with the 
+challenge of economic integration, inasmuch as it will support food safety 
+mechanisms facilitating the participation of Bolivian producers in value chains 
+integrated into international trade and will promote the alignment of trade 
+integration instruments (Integration Annex). The program is aligned, as well, with 
+the crosscutting area of institutional capacity, as it will strengthen the technological 
+and management instruments for improving the delivery of SENASAG services, as 
+reflected in the results indicators mentioned above. 
+
+1.20 In addition, with respect to the Corporate Results Framework 2016-2019 (document 
+GN-2727-6), the program is aligned with the regional context indicators of 
+(7) intraregional trade in goods and (12) government effectiveness, as reflected in 
+the program impact indicator in the results matrix (i) increased exports of agricultural 
+products and the program outcome indicators (i) fewer sanitary barriers that restrict 
+access to export markets for agricultural and agrifood products and (ii) improved 
+service to users with incorporation of the virtual office and electronic signature. The 
+program will further contribute to the Corporate Results Framework by aligning itself 
+with the country development results indicator (5) corresponding to public agencies’ 
+processing times of international trade of goods and services, as reflected in the 
+outcome indicators mentioned above. 
+
+1.21 The program is also consistent with the Agriculture and Natural Resources 
+Management Sector Framework Document (document GN-2709-5), which 
+emphasizes the need to strengthen the provision of agricultural public goods, as well 
+as with the Food Security Sector Framework Document (document GN-2825-3) in 
+the dimension of access to safe and nutritious food, and also with the Integration 
+and Trade Sector Framework Document (document GN-2715-6), which addresses 
+the problem of logistics costs and the facilitation of international trade. 
+
+B. Objectives, components and cost 
+
+1.22 Objective. The general objective of the program is to help increase productivity in 
+the agriculture sector. The specific objectives are: (i) to reduce production losses 
+from pests and diseases; (ii) to facilitate access to international markets; and (iii) to 
+enhance service to users. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40691878
+
+
+ - 9 - 
+ 
+ 
+ 
+
+1.23 Components and cost. To achieve the program’s objective, investments will be 
+made in four components, as described below. The total cost of the program will 
+be US$25 million. 
+
+1.24 Component 1. User services system (US$2.70 million). This component will 
+improve the delivery of agricultural health and food safety services to users. To 
+this end, it will provide financing for: (i) computer equipment and the development 
+of applications to expand the capacity of the Gran Paitití information technology 
+system, incorporating a greater number of online services and enabling digital 
+signature; (ii) renovation of the building housing the Santa Cruz district 
+headquarters19 (which serves roughly 50% of the country’s users), in order to 
+incorporate new offices and refurbish public reception areas; and (iii) training for 
+staff of SENASAG in public management and customer service. 
+
+1.25 Component 2. Animal health system (US$7.80 million). This component will 
+improve the zoosanitary status of the country by implementing national programs 
+for disease prevention and control and strengthening laboratory capacity for the 
+diagnosis of diseases and the control of veterinary inputs. It will provide financing 
+for: (i) the program to maintain the country’s FMD-free status; (ii) the BSE 
+prevention program; (iii) the program to control Newcastle disease in poultry, with 
+a view to declaring two zones free of the disease, in the department of 
+Cochabamba and the department of Santa Cruz, the country’s main poultry 
+production areas; (iv) the national avian flu prevention program; and (v) the 
+construction and equipping of a national laboratory for animal health diagnostics 
+and control of veterinary inputs in the department of Santa Cruz.20 For the four 
+zoosanitary programs, the component will finance epidemiological surveillance, 
+emergency simulations, and training for technical staff.  
+
+1.26 Component 3. Plant health system (US$8.10 million). This component will 
+improve the country’s phytosanitary status through pest control programs and the 
+creation of capacity for diagnosing agricultural diseases and pests and controlling 
+agricultural inputs. It will provide financing for: (i) the pilot program for fruit fly 
+control, so as to have two areas declared “low prevalence” zones, the municipio of 
+El Torno (department of Santa Cruz) and the municipio of Luribay (department of 
+La Paz). These two municipios have a total land area of 9,000 hectares, with 
+2,500 farmers producing a large share of the country’s fruit supply; (ii) the 
+prevention and control program for Huanglongbing disease that affects citrus 
+crops; and (iii) construction and equipping of the national laboratory for diagnostics 
+and control of agricultural inputs in the department of Santa Cruz. 
+
+1.27 Component 4. Food safety system (US$5 million). This component will focus 
+on training and awareness-raising for farmers and the general public with respect 
+to greater food safety, and it will also determine the baselines for the presence of 
+contaminants, as a way of facilitating surveillance decisions in line with scientific 
+criteria. It will provide financing for: (i) training and certification in good agricultural 
+
+                                                
+19  The department of Santa Cruz accounts for the largest share (29%) of national GDP (INE, 2006) and 
+
+produces 70% of the country’s food (CAO, 2014). SENASAG district headquarters in Santa Cruz serves 
+approximately 50% of the country’s users. 
+
+20  Before awarding contracts for the works in question, the executing agency will present to the Bank 
+evidence that it has legal possession of the properties. This is a required condition for all works contracts, 
+such as those mentioned in the following paragraphs. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40691924
+
+
+ - 10 - 
+ 
+ 
+ 
+
+practices and ecological production for producers of priority farm products for local 
+and export markets;21 (ii) renovation and equipping of the Cochabamba laboratory 
+and construction and equipping of the main national laboratory, in the department 
+of Santa Cruz, to expand its analytical capacity for identifying residues in 
+agricultural and food products; and (iii) installation and operation of the 
+surveillance system for chemical residues and contaminants in food, in accordance 
+with Codex standards. 
+
+C. Key results indicators 
+
+1.28 The program has a results matrix (Annex II) agreed upon with SENASAG that 
+presents impact, outcome, and output indicators with their respective baselines, 
+targets and means of verification. The main expected outcomes are: (i) reduced 
+losses in agricultural production caused by pests and diseases; (ii) fewer sanitary 
+barriers that restrict access to export markets; (iii) improved zoosanitary and 
+phytosanitary conditions in the country; and (iv) shorter processing times. The 
+operation will generally benefit rural producers in the country (880,000 farms), the 
+members of the main agrifood chains, and consumers of food products in the country 
+(11.4 million) by lowering transaction costs and helping to preserve health and safety 
+conditions while facilitating access to markets. The fruit fly pilot program is expected 
+to benefit 2,300 producers, and 2,500 producers will receive training in best 
+agricultural practices. 
+
+1.29 Economic evaluation. The cost-benefit methodology was used to estimate the 
+economic benefits to be generated among the target population of beneficiaries 
+(see link). These benefits will be seen in the reduction of production losses caused 
+by pests and diseases, better access to external markets (due to improved sanitary 
+conditions), and improvements in terms of internal savings and time savings for 
+users of services owing to modernization of the processing system (e.g. electronic 
+signature).22 Based on the incremental economic effect and considering an impact 
+horizon of 20 years, the planned investments yield a net present value (NPV) of 
+US$21.1 million (at a discount rate of 12%) and an internal rate of return (IRR) of 
+23.5%. Under these assumptions, the benefit/cost ratio is US$1.58 per unit 
+invested. The indicators were subjected to a sensitivity analysis, which showed 
+that even under pessimistic hypotheses concerning certain execution risks 
+(a 20% increase in investment and recurrent costs combined with a 25% decrease 
+in the rate of application of techniques, a 25% decrease in market access, and a 
+25% decrease in users of the virtual office system), the program would still reach 
+the breakeven point (NPV of 0 and IRR of 12%). 
+
+                                                
+21  This activity will provide training and certification for producers of priority products for the local and export 
+
+markets, in accordance with the Economic and Social Development Plan 2016-2020. This includes the 
+production of bananas, pineapples, quinoa, tomatoes, coffee, cocoa, chia, soybeans, sesame, wheat, 
+potatoes, and corn. Beneficiary producers will be selected at random from each association. 
+
+22  Benefits in the form of fewer export rejections and less foodborne disease in the population due to 
+improvements in safety were also identified but were not included in the calculations because there was 
+no attribution mechanism or precise baseline information available. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40691924
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670749
+
+
+ - 11 - 
+ 
+ 
+ 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 The total cost of the program is estimated at US$25 million, which the Bank will 
+finance with a blend of US$21.25 million from the Ordinary Capital (OC) and 
+US$3.75 million from the Fund for Special Operations (FSO). The distribution by 
+source of financing is shown in Table 2. 
+
+ 
+
+Table 2. Program cost and financing (US$ millions) 
+
+Investment category IDB Total % 
+
+I. Direct costs 23.60 23.60 94.4 
+
+Component 1. User services system  2.70 2.70 10.8 
+
+Component 2. Animal health system 7.80 7.80 31.2 
+
+Component 3. Plant health system 8.10 8.10 32.4 
+
+Component 4. Food safety system 5.00 5.00 20.0 
+
+II.  Administration 0.80 0.80 3.20 
+
+III.  Monitoring and evaluation 0.30 0.30 1.20 
+
+IV.  External audits 0.30 0.30 1.20 
+
+Total 25.00 25.00 100.00 
+
+ 
+
+2.2 The program is structured as a specific investment operation, to be executed over 
+five years, with the following disbursement schedule, in accordance with 
+preliminary financial plan: 
+
+ 
+Table 3. Program costs and financing (US$ millions) 
+
+Source Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+Total IDB 1.46 8.94 6.03 6.24 2.33 25.00 
+
+% 5.9% 35.8% 24.1% 24.9% 9.3% 100% 
+
+ 
+
+B. Environmental and social risks 
+
+2.3 In accordance with the Environment and Safeguards Compliance Policy (OP-703), 
+the program has been classified as a category “B” operation. During program 
+preparation, an Environmental and Social Analysis found that the program will 
+primarily have positive social and environmental impacts. The program will 
+contribute to the following and other positive impacts: (i) more rational use of 
+pesticides through implementation of integrated pest management and plant 
+protection activities and training in good agricultural practices and ecological 
+production; (ii) control of animal diseases that can affect human health; and (iii) a 
+safer food supply. Potential adverse environmental impacts will be isolated and of 
+limited scope. They will be linked to the construction and remodeling of 
+infrastructure (4,000 square meters of new construction and refurbished space at 
+two locations), the operation of laboratories (with a marginal increase in the use of 
+toxic and biological substances as test reagents, samples of pesticides and 
+veterinary products, and biological samples), and pest and disease control 
+activities. To mitigate these adverse risks and impacts, an Environmental and 
+Social Management Plan (ESMP) has been prepared that includes procedures for 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670747
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670747
+
+
+ - 12 - 
+ 
+ 
+ 
+
+handling toxic substances in the laboratories, steps for disposing of waste in 
+accordance with national and international standards for the management, control, 
+and disposal of biological and hazardous solid and liquid wastes, measures to 
+ensure hygiene and safety in the workplace, and a monitoring plan that includes 
+environmental indicators. The program also calls for activities to communicate with 
+the general public and disclose information on the objectives and scope of the 
+investments, through the publication and dissemination of information. The ESMP 
+has been incorporated into the program Operating Regulations. 
+
+C. Fiduciary risks 
+
+2.4 Based on the results of the institutional assessment, SENASAG has the 
+institutional capacity needed to properly carry out the responsibilities of the 
+executing agency for the program. The results of the Institutional Capacity 
+Assessment System (ICAS) exercise show strengths in organization, execution, 
+and control capacities, and thus a weighted satisfactory development level and a 
+low level of risk. Nevertheless, the risk analysis indicated the possibility of delays 
+in procurement and contracting processes and hence the need to mitigate that risk 
+by strengthening the institution’s team with fiduciary consultants in financial 
+management and procurement, working exclusively on program implementation. 
+This is due to the large number of financial and procurement transactions involved 
+in the program, compared with the current levels of administrative and accounting 
+activity at SENASAG. 
+
+D. Other project risks 
+
+2.5 The principal challenges facing SENASAG, as revealed by the risk analysis, lie in 
+building and modernizing the laboratory infrastructure for animal health, plant 
+health, and food safety, as well as in running and managing it. To mitigate those 
+risks, the program includes specialized consulting assignments for infrastructure 
+design, equipment and outfitting, and specialized technical training for laboratory 
+personnel and for the technical areas responsible for running the laboratories. The 
+investments financed by the program, both for infrastructure construction and for 
+equipping SENASAG laboratories, entail a series of medium- and long-term 
+institutional challenges involving the maintenance and sustainability of those 
+assets. In this context, the project team analyzed a series of factors that will 
+contribute directly to mitigating this risk. First, with enactment of the new 
+Agricultural Health and Food Safety Act, there will be an estimated 22% annual 
+increase in the current fee-based revenues of SENASAG, and this will contribute 
+directly to the institution’s budgetary capacity, including the coverage of 
+incremental operating costs associated with the operation and maintenance of 
+those assets. Second, with respect to laboratory services, SENASAG will introduce 
+fees directly associated with the costs of providing technical services, including the 
+cost of maintenance and asset depreciation or replacement. Third, the program 
+includes specific training activities for personnel, including aspects directly related 
+to operation of the new infrastructure, equipment, and other assets. Lastly, 
+SENASAG will be able to reinforce its human resources with respect to 
+management of goods, services, and assets, thanks to the new legal and 
+budgetary framework contained in the new law, as well as enhancing cost recovery 
+management, among other aspects. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670745
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670745
+
+
+ - 13 - 
+ 
+ 
+ 
+
+2.6 Another risk is that SENASAG services will not meet the expectations generated 
+by the program. To mitigate this risk, the program will implement a monitoring and 
+evaluation plan covering the activities of the program execution unit as well as 
+external evaluations, training, and instruction in institutional management by 
+results. Risks have also been identified with respect to the contractual status of 
+SENASAG staff, who now carry out their functions as temporary employees under 
+short-term contracts. On this point, SENASAG has initiated a structural process 
+with the Ministry of Rural Development and Lands and the Ministry of Economy 
+and Public Finance for the gradual institutionalization of positions and their 
+corresponding conversion to permanent positions financed from the General 
+Treasury of the Nation. As well, with enactment of the new Agricultural Health and 
+Food Safety Act and the anticipated growth in SENASAG’s own revenues, the 
+institution will have greater financial capacity that will allow sound management of 
+the conversion of staff contracts and thereby mitigate the risks associated with 
+labor conditions. Lastly, risks have been identified in relation to the interest of 
+potential beneficiaries and their participation in the program’s planned activities 
+and services. To mitigate these risks, the program includes specific institutional 
+strengthening measures designed to improve the quality of services provided by 
+SENASAG and its capacity to respond to its clients, as well as training in good 
+agricultural practices and other activities that will yield private benefits for 
+producers. 
+
+2.7 Finally, with respect to sustainability and scalability of the fruit fly project, this pilot 
+project constitutes a learning phase in the framework of a national strategy for 
+attacking the pest. Priority has been given to two zones (in the departments of 
+Santa Cruz and La Paz), which have the largest concentration of farmers, a major 
+share in the total production of the sector, the presence of producers’ organizations 
+and associations, large markets in close proximity, and high incidences of the pest. 
+The two zones together cover a total of 9,000 hectares (12% of the total area—
+currently 75,000 hectares—planted in orchards that are susceptible to the fruit fly), 
+and they have different geographic, ecological, and productive characteristics, 
+which will provide detailed information, now lacking, in order to design a national 
+program that will ultimately serve all areas of production in the country. 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements 
+
+3.1 The borrower will be the Plurinational State of Bolivia, and the executing agency 
+will be the National Service for Agricultural Health and Food Safety (SENASAG). 
+SENASAG was created by Law 2061 of 16 March 2000 as a deconcentrated 
+agency of what is now the Ministry of Rural Development and Lands, with its own 
+structure and legal, technical, and administrative capacity. It has nationwide 
+responsibility for administering the agricultural health and food safety regime. It will 
+handle coordination, planning and monitoring, technical and administrative 
+management, procurements and contracting, and financial administration of the 
+program. It will also implement the environmental and social safeguards for the 
+program, contained in the ESMP. 
+
+3.2 To implement the program, a program execution unit will be created; it will report 
+directly to the national director of SENASAG, as the senior executive authority. 
+
+
+
+ - 14 - 
+ 
+ 
+ 
+
+Staffing of the program execution unit will consist of a general coordinator and 
+personnel responsible for legal, planning, accounting and financial, procurement, 
+and environmental matters. These personnel will work in direct coordination with 
+the support and control areas of SENASAG with respect to fiduciary management 
+and with the national head offices for plant health, animal health, and food safety, 
+which will be responsible for technical management of activities in each of these 
+areas. SENASAG will also establish a technical board for program coordination, 
+comprising the national technical directors of SENASAG, and it will serve as a 
+mechanism for ongoing monitoring and evaluation of program implementation. As 
+special contractual conditions precedent to the first disbursement of the 
+loan: (i) the borrower will sign a subsidiary agreement with the executing 
+agency establishing the following and other elements: (a) the mechanism for 
+transferring the loan proceeds; and (b) the commitment of the executing 
+agency to conduct program activities in accordance with the terms of the 
+loan contract; (ii) the executing agency: (a) will create the program execution 
+unit in accordance with terms and conditions previously agreed upon with 
+the Bank; and (b) will contract specialists, through a competitive process, in 
+at least the following areas: general coordination, planning, financial 
+management, procurement, and environmental and social management; and 
+(iii) the program technical board will be created and its members appointed. 
+
+3.3 During program preparation, plans were made for SENASAG to be able to sign 
+agreements with autonomous territorial entities23 and producers’ associations. 
+Those agreements will lay the basis for mutual cooperation among those involved 
+and will spell out the activities covered by the agreements, the commitments of the 
+parties, including mechanisms for cooperation between them, and other terms and 
+conditions necessary for execution. Among other matters, the agreements will 
+define: (i) the number of producers and land area to be covered or 
+incorporated/used in the program technical activities; (ii) the times to be spent on 
+specific areas and producers; (iii) the geographic location of farms and of 
+agricultural activities; (iv) the inputs and the scope of technical assistance and 
+training to be provided by the program; and (v) the dissemination of practices and 
+results. As a special condition of execution, prior to startup of the activities for the 
+fruit fly control program in Component 3, agreements will be signed between 
+SENASAG, the Municipio of El Torno, the Municipio of Luribay, and local 
+producers’ associations. 
+
+3.4 Program Operating Regulations. Program execution will be governed by 
+program Operating Regulations, which will establish guidelines and operating 
+procedures relating to: (i) the execution structure of the program and the 
+responsibilities of the program executing agency; (ii) the responsibilities of other 
+entities involved in program implementation; (iii) the procedures for planning and 
+programming the activities to be financed; (iv) the procedures and processes for 
+technical management and financial and procurement administration; (v) the 
+procedures for environmental and social management of the program; and 
+(vi) operating instructions for monitoring and evaluation of the program’s impact. 
+As a special contractual condition precedent to the first disbursement of the 
+loan, the program Operating Regulations will be approved by the executing 
+
+                                                
+23  This encompasses departmental, municipal, regional, and rural indigenous autonomous governments. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670743
+
+
+ - 15 - 
+ 
+ 
+ 
+
+agency and will be in force, under terms previously agreed upon with the 
+Bank.  
+
+3.5 Procurement. Works, goods, and consulting services financed with program 
+resources will be procured in accordance with the Bank policies established in 
+documents GN-2349-9 and GN-2350-9 and with the provisions of the loan contract 
+and the program’s fiduciary agreements and requirements (see Annex III), 
+including the procurement plan for the first 18 months. The procurement plan 
+includes the purchase of vehicles, operating and information processing 
+equipment, furniture, individual consultants, consulting firms, and other items. It 
+will be updated annually or when there are substantial changes, subject to the 
+Bank’s approval. Procurement processes may be reviewed ex post, in accordance 
+with the provisions of Annex III. 
+
+3.6 Audits. During the loan disbursement period, within 120 days following the close 
+of SENASAG’s fiscal year, audited annual financial statements for the program will 
+be presented to the Bank. Audits will be conducted by a firm of independent 
+auditors acceptable to the Bank. The scope and other aspects of the audit will be 
+governed by the Financial Management Policy for IDB-financed Projects 
+(document OP-273-6) and the Guide for the Preparation of Financial Statements 
+and External Audits. 
+
+B. Summary of arrangements for monitoring results 
+
+3.7 Monitoring. The program has a monitoring and evaluation plan. SENASAG will 
+prepare and send the following reports to the Bank on a regular basis: (i) no later 
+than 60 days after the end of each six-month period during program execution, a 
+monitoring report, focused on achievement of the output indicators and progress 
+towards outcomes, identification of problems encountered, and the corrective 
+measures taken; and (ii) no later than the last quarter of each year during program 
+execution, the multiyear execution plan, the program risk matrix, and the annual 
+work plan for the following year. In addition, SENASAG will conduct two 
+independent evaluations financed from the loan: (i) the midterm evaluation will be 
+presented to the Bank no later than 90 days after 50% of the loan has been 
+disbursed (or at the end of the third year of execution, whichever occurs first); and 
+(ii) the final evaluation, no later than 90 days after 90% of the program resources 
+have been disbursed. These reports will include an evaluation of the quality of data 
+from the monitoring system, the degree of achievement of the outputs, outcomes 
+and impacts established in the results matrix, as well as the level of compliance 
+with the ESMP. 
+
+3.8 Evaluation. The impact evaluation is designed primarily to measure the effects of 
+the pilot program for fruit fly control, given its potential expansion at the national 
+level. The estimates will be based on the method of differences in a panel of 
+producers encouraged to participate randomly in a treatment group and a control 
+group. For this purpose, two surveys are planned: a baseline survey (in two 
+phases) and a final evaluation. The proposed sample covers two municipios 
+located in the department of Santa Cruz: El Torno, one of the pilot areas of the 
+intervention, and La Guardia, serving as a counterfactual (control) benchmark 
+within the same geographical zone, where the agroecological characteristics, 
+productive orientation, degree of organization among producers, and prevalence 
+of the pest are very similar (70% correlation). The sample for the baseline study 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=40670734
+
+
+ - 16 - 
+ 
+ 
+ 
+
+comprises 386 farmers (with 248 in the treatment group and 138 in the control 
+group), and a similar sample will be used for the final evaluation. The budget for 
+data collection has been included in the program. The operation provides an 
+opportunity to generate empirical evidence on the impact of pest management and 
+control efforts on production, productivity, and incomes for individual farms and for 
+the total area, as well as changes in land use, application of insecticides and/or 
+fertilizers, incorporation of new technologies, and/or reorientation of crops. 
+
+
+

@@ -1,12 +1,5 @@
 id	sid	eid	entity	type
 WB119	1	1	World Bank Document	ORG
-WB119	1	2	Dec 20, 2018 Page 1	DATE
-WB119	1	3	PID	ORG
-WB119	1	4	05-Feb-2019	WORK_OF_ART
-WB119	1	5	The World Bank Agriculture Modernization	ORG
-WB119	1	6	20, 2018	DATE
-WB119	1	7	2	CARDINAL
-WB119	1	8	12	CARDINAL
 WB119	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
 WB119	2	2	Competitiveness Project (	ORG
 WB119	2	3	Agriculture Financing Instrument Borrower(s)	ORG
@@ -26,9 +19,6 @@ WB119	4	10	International Development Association	ORG
 WB119	4	11	IDA	ORG
 WB119	4	12	5.00	CARDINAL
 WB119	4	13	5.00	CARDINAL
-WB119	4	14	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	4	15	3	CARDINAL
-WB119	4	16	12	CARDINAL
 WB119	6	1	2017	DATE
 WB119	6	2	2018	DATE
 WB119	6	3	the Government of Uzbekistan	ORG
@@ -58,312 +48,251 @@ WB119	16	1	Uzbekistan	GPE
 WB119	17	1	WB	ORG
 WB119	17	2	ILO	ORG
 WB119	19	1	4	CARDINAL
-WB119	20	1	1 World Bank	ORG
-WB119	21	1	2018	DATE
-WB119	22	1	Cotton Taxation	ORG
-WB119	22	2	Uzbekistan	GPE
-WB119	24	1	Washington	GPE
-WB119	25	1	2	CARDINAL
-WB119	25	2	World Bank	ORG
-WB119	26	1	2018	DATE
-WB119	27	1	Maintaining Uzbekistan’s Reform Momentum	ORG
-WB119	28	1	Washington	GPE
-WB119	29	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	29	2	4	CARDINAL
-WB119	29	3	12	CARDINAL
-WB119	33	1	generates3	PRODUCT
-WB119	36	1	6	CARDINAL
-WB119	36	2	the Concept/Strategy for Agricultural Development	ORG
-WB119	36	3	Uzbekistan	GPE
-WB119	36	4	2030	DATE
-WB119	36	5	September-December 2018	DATE
-WB119	36	6	October 2019	DATE
-WB119	36	7	Decree4	PERSON
-WB119	37	1	recent years	DATE
-WB119	37	2	1)5	CARDINAL
-WB119	38	1	cooperatives	ORG
-WB119	40	1	7	CARDINAL
-WB119	41	1	2017	DATE
-WB119	41	2	about 80 percent	PERCENT
-WB119	42	1	the remaining 20 percent	PERCENT
-WB119	42	2	130,000	CARDINAL
-WB119	42	3	about 3 million	CARDINAL
-WB119	42	4	70 percent	PERCENT
-WB119	43	1	just 0.01 percent	PERCENT
-WB119	43	2	1.5 percent	PERCENT
-WB119	43	3	above 2 percent	PERCENT
-WB119	45	1	SPS	ORG
-WB119	45	2	Uzbek	ORG
-WB119	46	1	TA	ORG
-WB119	47	1	8	CARDINAL
-WB119	48	1	4.7 million	CARDINAL
-WB119	48	2	481,000	CARDINAL
-WB119	48	3	13 percent	PERCENT
-WB119	49	1	more than 75 percent	PERCENT
-WB119	49	2	more than 90 percent	PERCENT
-WB119	49	3	the Ministry of Agriculture	ORG
-WB119	52	1	TA	ORG
-WB119	53	1	3	CARDINAL
-WB119	53	2	2017	DATE
-WB119	53	3	19 percent	PERCENT
-WB119	53	4	20 percent	PERCENT
-WB119	53	5	27 percent	PERCENT
-WB119	54	1	5 percent	PERCENT
-WB119	54	2	2 percent	PERCENT
-WB119	55	1	4	CARDINAL
-WB119	56	1	On Additional Measures to Ensure Further Development of Economy and Increase Efficiency of Economic Policy	WORK_OF_ART
-WB119	56	2	January 8, 2019	DATE
-WB119	57	1	5	CARDINAL
-WB119	57	2	recent years	DATE
-WB119	58	1	6	CARDINAL
-WB119	59	1	On Additional Measures to Improve Functioning of Farmers	WORK_OF_ART
-WB119	59	2	Dehkans	NORP
-WB119	59	3	April 26, 2018	DATE
-WB119	59	4	the Council of Farmers	ORG
-WB119	59	5	Dehkans	NORP
-WB119	60	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	60	2	5	CARDINAL
-WB119	60	3	12	CARDINAL
-WB119	61	1	WB	ORG
-WB119	62	1	9	CARDINAL
-WB119	63	1	TA	ORG
-WB119	64	1	recent years	DATE
-WB119	65	1	10	CARDINAL
-WB119	65	2	Uzbekistan	GPE
-WB119	67	1	Uzbekistan	GPE
-WB119	67	2	weak8	PRODUCT
-WB119	69	1	11	CARDINAL
-WB119	70	1	2018	DATE
-WB119	70	2	the Ministry of Agriculture and Water Resources	ORG
-WB119	70	3	the Ministry of Agriculture	ORG
-WB119	70	4	the Ministry of Water Resources	ORG
-WB119	71	1	the State Plant Quarantine Inspection	ORG
-WB119	71	2	the State Veterinary Inspection	ORG
-WB119	71	3	the Cabinet of Ministers	ORG
-WB119	72	1	the Ministry of Agriculture	ORG
-WB119	72	2	the Ministry of Health	ORG
-WB119	73	1	Ministry of Innovations	ORG
-WB119	75	1	CPF 12	LAW
-WB119	75	2	the Country Performance Framework	ORG
-WB119	75	3	CPF	ORG
-WB119	75	4	FY19-21	PRODUCT
-WB119	75	5	Uzbekistan	ORG
-WB119	76	1	the Focus Area	LOC
-WB119	76	2	CPF	ORG
-WB119	77	1	the WB Livestock Sector Development Project	ORG
-WB119	77	2	US$150 million	MONEY
-WB119	77	3	June 2017	DATE
-WB119	77	4	the WB Horticulture Development Project	ORG
-WB119	77	5	US$500 million	MONEY
-WB119	77	6	January 2018	DATE
-WB119	77	7	the WB Fergana Region Entrepreneurship Project	ORG
-WB119	77	8	US$200 million	MONEY
-WB119	77	9	March 2019	DATE
-WB119	77	10	US$14 million	MONEY
-WB119	77	11	the European Union	ORG
-WB119	77	12	WB	ORG
-WB119	77	13	IFC	ORG
-WB119	77	14	the Asian Development Bank	ORG
-WB119	77	15	the European Union	ORG
-WB119	77	16	the French Development Agency	ORG
-WB119	77	17	the UN Food and Agriculture Organization	ORG
-WB119	78	1	13	CARDINAL
-WB119	78	2	WB	ORG
-WB119	79	1	WB	ORG
-WB119	79	2	7	CARDINAL
+WB119	24	1	generates3	PRODUCT
+WB119	27	1	6	CARDINAL
+WB119	27	2	the Concept/Strategy for Agricultural Development	ORG
+WB119	27	3	Uzbekistan	GPE
+WB119	27	4	2030	DATE
+WB119	27	5	September-December 2018	DATE
+WB119	27	6	October 2019	DATE
+WB119	27	7	Decree4	PERSON
+WB119	28	1	recent years	DATE
+WB119	28	2	1)5	CARDINAL
+WB119	29	1	cooperatives	ORG
+WB119	31	1	7	CARDINAL
+WB119	32	1	2017	DATE
+WB119	32	2	about 80 percent	PERCENT
+WB119	33	1	the remaining 20 percent	PERCENT
+WB119	33	2	130,000	CARDINAL
+WB119	33	3	about 3 million	CARDINAL
+WB119	33	4	70 percent	PERCENT
+WB119	34	1	just 0.01 percent	PERCENT
+WB119	34	2	1.5 percent	PERCENT
+WB119	34	3	above 2 percent	PERCENT
+WB119	36	1	SPS	ORG
+WB119	36	2	Uzbek	ORG
+WB119	37	1	TA	ORG
+WB119	38	1	8	CARDINAL
+WB119	39	1	4.7 million	CARDINAL
+WB119	39	2	481,000	CARDINAL
+WB119	39	3	13 percent	PERCENT
+WB119	40	1	more than 75 percent	PERCENT
+WB119	40	2	more than 90 percent	PERCENT
+WB119	40	3	the Ministry of Agriculture	ORG
+WB119	43	1	TA	ORG
+WB119	44	1	3	CARDINAL
+WB119	44	2	2017	DATE
+WB119	44	3	19 percent	PERCENT
+WB119	44	4	20 percent	PERCENT
+WB119	44	5	27 percent	PERCENT
+WB119	45	1	5 percent	PERCENT
+WB119	45	2	2 percent	PERCENT
+WB119	46	1	4	CARDINAL
+WB119	47	1	On Additional Measures to Ensure Further Development of Economy and Increase Efficiency of Economic Policy	WORK_OF_ART
+WB119	47	2	January 8, 2019	DATE
+WB119	48	1	5	CARDINAL
+WB119	48	2	recent years	DATE
+WB119	49	1	6	CARDINAL
+WB119	50	1	On Additional Measures to Improve Functioning of Farmers	WORK_OF_ART
+WB119	50	2	Dehkans	NORP
+WB119	50	3	April 26, 2018	DATE
+WB119	50	4	the Council of Farmers	ORG
+WB119	50	5	Dehkans	NORP
+WB119	52	1	WB	ORG
+WB119	53	1	9	CARDINAL
+WB119	54	1	TA	ORG
+WB119	55	1	recent years	DATE
+WB119	56	1	10	CARDINAL
+WB119	56	2	Uzbekistan	GPE
+WB119	58	1	Uzbekistan	GPE
+WB119	58	2	weak8	PRODUCT
+WB119	60	1	11	CARDINAL
+WB119	61	1	2018	DATE
+WB119	61	2	the Ministry of Agriculture and Water Resources	ORG
+WB119	61	3	the Ministry of Agriculture	ORG
+WB119	61	4	the Ministry of Water Resources	ORG
+WB119	62	1	the State Plant Quarantine Inspection	ORG
+WB119	62	2	the State Veterinary Inspection	ORG
+WB119	62	3	the Cabinet of Ministers	ORG
+WB119	63	1	the Ministry of Agriculture	ORG
+WB119	63	2	the Ministry of Health	ORG
+WB119	64	1	Ministry of Innovations	ORG
+WB119	66	1	CPF 12	LAW
+WB119	66	2	the Country Performance Framework	ORG
+WB119	66	3	CPF	ORG
+WB119	66	4	FY19-21	PRODUCT
+WB119	66	5	Uzbekistan	ORG
+WB119	67	1	the Focus Area	LOC
+WB119	67	2	CPF	ORG
+WB119	68	1	the WB Livestock Sector Development Project	ORG
+WB119	68	2	US$150 million	MONEY
+WB119	68	3	June 2017	DATE
+WB119	68	4	the WB Horticulture Development Project	ORG
+WB119	68	5	US$500 million	MONEY
+WB119	68	6	January 2018	DATE
+WB119	68	7	the WB Fergana Region Entrepreneurship Project	ORG
+WB119	68	8	US$200 million	MONEY
+WB119	68	9	March 2019	DATE
+WB119	68	10	US$14 million	MONEY
+WB119	68	11	the European Union	ORG
+WB119	68	12	WB	ORG
+WB119	68	13	IFC	ORG
+WB119	68	14	the Asian Development Bank	ORG
+WB119	68	15	the European Union	ORG
+WB119	68	16	the French Development Agency	ORG
+WB119	68	17	the UN Food and Agriculture Organization	ORG
+WB119	69	1	13	CARDINAL
+WB119	69	2	WB	ORG
+WB119	70	1	WB	ORG
+WB119	70	2	7	CARDINAL
+WB119	70	3	Uzbekistan	GPE
+WB119	70	4	0.03	CARDINAL
+WB119	70	5	0.5	CARDINAL
+WB119	70	6	1.5	CARDINAL
+WB119	71	1	8	CARDINAL
+WB119	71	2	World Bank	ORG
+WB119	72	1	2013	DATE
+WB119	73	1	the Vulnerability of Uzbekistan’s Agricultural Systems to Climate Change	ORG
+WB119	74	1	World Bank Study	ORG
+WB119	74	2	Washington	GPE
+WB119	74	3	D.C.	GPE
+WB119	76	1	US$2.5 billion	MONEY
+WB119	76	2	the next two years	DATE
+WB119	76	3	US$0.8 billion	MONEY
+WB119	79	1	C. Proposed Development Objective(s	PERSON
+WB119	79	2	14	DATE
 WB119	79	3	Uzbekistan	GPE
-WB119	79	4	0.03	CARDINAL
-WB119	79	5	0.5	CARDINAL
-WB119	79	6	1.5	CARDINAL
-WB119	80	1	8	CARDINAL
-WB119	80	2	World Bank	ORG
-WB119	81	1	2013	DATE
-WB119	82	1	the Vulnerability of Uzbekistan’s Agricultural Systems to Climate Change	ORG
-WB119	83	1	World Bank Study	ORG
-WB119	83	2	Washington	GPE
-WB119	84	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	84	2	6	CARDINAL
-WB119	84	3	12	CARDINAL
-WB119	86	1	US$2.5 billion	MONEY
-WB119	86	2	the next two years	DATE
-WB119	86	3	US$0.8 billion	MONEY
-WB119	89	1	C. Proposed Development Objective(s	PERSON
-WB119	89	2	14	DATE
-WB119	89	3	Uzbekistan	GPE
-WB119	90	1	15	CARDINAL
-WB119	91	1	PCN	ORG
-WB119	91	2	16	CARDINAL
-WB119	91	3	SPS	ORG
-WB119	92	1	D. Concept Description 17	PERSON
-WB119	92	2	Uzbekistan	GPE
-WB119	92	3	the recent years	DATE
-WB119	93	1	80-90 percent	PERCENT
-WB119	93	2	TA	PERSON
-WB119	95	1	two	CARDINAL
-WB119	95	2	WB	ORG
-WB119	95	3	TA	ORG
-WB119	95	4	EU	ORG
-WB119	96	1	18	CARDINAL
-WB119	99	1	19	CARDINAL
-WB119	101	1	the WB Development Policy Operation(s	ORG
-WB119	101	2	EU	ORG
-WB119	103	1	SPS	ORG
-WB119	104	1	The World Bank Agriculture Modernization	ORG
-WB119	104	2	Competitiveness Project (P158372	ORG
-WB119	104	3	7	CARDINAL
-WB119	104	4	12	CARDINAL
-WB119	104	5	Uzbekistan	GPE
-WB119	104	6	TA	ORG
-WB119	105	1	c. Selection of	PERSON
-WB119	107	1	d. Maximizing Finance for Development	ORG
-WB119	107	2	IFC	ORG
-WB119	108	1	the World Bank Group	ORG
-WB119	109	1	e. Complementary	ORG
-WB119	109	2	WB	ORG
-WB119	111	1	20	CARDINAL
-WB119	113	1	21	CARDINAL
-WB119	114	1	GAP	ORG
-WB119	115	1	the Ministry of Innovations	ORG
-WB119	115	2	the Ministry of Agriculture	ORG
-WB119	116	1	22	CARDINAL
+WB119	80	1	15	CARDINAL
+WB119	81	1	PCN	ORG
+WB119	81	2	16	CARDINAL
+WB119	81	3	SPS	ORG
+WB119	82	1	D. Concept Description 17	PERSON
+WB119	82	2	Uzbekistan	GPE
+WB119	82	3	the recent years	DATE
+WB119	83	1	80-90 percent	PERCENT
+WB119	83	2	TA	PERSON
+WB119	85	1	two	CARDINAL
+WB119	85	2	WB	ORG
+WB119	85	3	TA	ORG
+WB119	85	4	EU	ORG
+WB119	86	1	18	CARDINAL
+WB119	89	1	19	CARDINAL
+WB119	91	1	the WB Development Policy Operation(s	ORG
+WB119	91	2	EU	ORG
+WB119	93	1	SPS	ORG
+WB119	94	1	Uzbekistan	GPE
+WB119	94	2	TA	ORG
+WB119	95	1	c. Selection of	PERSON
+WB119	97	1	d. Maximizing Finance for Development	ORG
+WB119	97	2	IFC	ORG
+WB119	98	1	the World Bank Group	ORG
+WB119	99	1	e. Complementary	ORG
+WB119	99	2	WB	ORG
+WB119	101	1	20	CARDINAL
+WB119	103	1	21	CARDINAL
+WB119	104	1	GAP	ORG
+WB119	105	1	the Ministry of Innovations	ORG
+WB119	105	2	the Ministry of Agriculture	ORG
+WB119	106	1	22	CARDINAL
+WB119	106	2	Uzbekistan	GPE
+WB119	107	1	the recent decade	DATE
+WB119	110	1	Uzbekistan	GPE
+WB119	110	2	the International Seed Quality Control Agency	ORG
+WB119	110	3	ISTA	ORG
+WB119	112	1	23	CARDINAL
+WB119	113	1	60-70 percent	PERCENT
+WB119	114	1	Uzbekistan	GPE
+WB119	114	2	at least ten	CARDINAL
+WB119	114	3	9	CARDINAL
+WB119	115	1	On Measures to Create Additional Incentives for Greenhouse’s Development”	WORK_OF_ART
+WB119	115	2	November 20, 2018	DATE
+WB119	116	1	10	CARDINAL
 WB119	116	2	Uzbekistan	GPE
-WB119	117	1	the recent decade	DATE
+WB119	116	3	0.03	CARDINAL
+WB119	116	4	0.5	CARDINAL
+WB119	116	5	1.5	CARDINAL
+WB119	117	1	24	CARDINAL
+WB119	117	2	Uzbekistan	LOC
+WB119	117	3	Good Agricultural Practices	ORG
+WB119	117	4	GAP	ORG
+WB119	118	1	GAP	ORG
 WB119	120	1	Uzbekistan	GPE
-WB119	120	2	the International Seed Quality Control Agency	ORG
-WB119	120	3	ISTA	ORG
-WB119	122	1	23	CARDINAL
-WB119	123	1	60-70 percent	PERCENT
-WB119	124	1	Uzbekistan	GPE
-WB119	124	2	at least ten	CARDINAL
-WB119	124	3	9	CARDINAL
-WB119	125	1	On Measures to Create Additional Incentives for Greenhouse’s Development”	WORK_OF_ART
-WB119	125	2	November 20, 2018	DATE
-WB119	126	1	10	CARDINAL
-WB119	126	2	Uzbekistan	GPE
-WB119	126	3	0.03	CARDINAL
-WB119	126	4	0.5	CARDINAL
-WB119	126	5	1.5	CARDINAL
-WB119	126	6	The World Bank Agriculture Modernization and Competitiveness Project	ORG
-WB119	126	7	Dec 20, 2018	DATE
-WB119	126	8	8	CARDINAL
-WB119	126	9	12	CARDINAL
-WB119	127	1	24	CARDINAL
-WB119	127	2	Uzbekistan	LOC
-WB119	127	3	Good Agricultural Practices	ORG
-WB119	127	4	GAP	ORG
-WB119	128	1	GAP	ORG
-WB119	130	1	Uzbekistan	GPE
-WB119	130	2	one	CARDINAL
-WB119	131	1	GAP	ORG
-WB119	132	1	25	CARDINAL
-WB119	132	2	GAP	ORG
-WB119	134	1	26	CARDINAL
-WB119	134	2	the Ministry of Innovations	ORG
-WB119	134	3	Ministry of Agriculture	ORG
-WB119	135	1	Netherlands	GPE
-WB119	136	1	Uzbekistan	GPE
-WB119	137	1	27	CARDINAL
-WB119	138	1	the Ministry of Innovations	ORG
-WB119	138	2	the Ministry of Agriculture	ORG
-WB119	138	3	the Council of Farmers	ORG
-WB119	138	4	Dehkans	NORP
-WB119	138	5	Farmers Council	ORG
-WB119	139	1	28	CARDINAL
-WB119	140	1	the Ministry of Innovations	ORG
-WB119	142	1	29	CARDINAL
-WB119	143	1	11	CARDINAL
-WB119	144	1	On Measures to Create Additional Incentives for Greenhouse’s Development”	WORK_OF_ART
-WB119	144	2	November 20, 2018	DATE
-WB119	145	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	145	2	9	CARDINAL
-WB119	145	3	12	CARDINAL
-WB119	147	1	WB	ORG
-WB119	148	1	the Farmers Council	ORG
-WB119	148	2	the Ministry of Agriculture	ORG
-WB119	149	1	30	CARDINAL
-WB119	149	2	GAP	ORG
-WB119	151	1	IFC	ORG
-WB119	151	2	ILO	ORG
-WB119	152	1	3	CARDINAL
-WB119	152	2	31	CARDINAL
-WB119	152	3	SPS	ORG
-WB119	154	1	the Ministry of Agriculture, Ministry of Health	ORG
-WB119	154	2	the State Plant Quarantine Inspection	ORG
-WB119	154	3	the State Veterinary Committee	ORG
-WB119	155	1	32	CARDINAL
-WB119	157	1	The World Animal Health Organization	ORG
-WB119	157	2	OIE	ORG
-WB119	157	3	WB	ORG
-WB119	157	4	the State Veterinary Service	ORG
-WB119	158	1	The Gap Analysis	ORG
-WB119	158	2	the next five years	DATE
-WB119	161	1	33	CARDINAL
-WB119	161	2	Phytosanitary	ORG
-WB119	161	3	SPS	ORG
-WB119	162	1	Uzbekistan	ORG
-WB119	162	2	EU	ORG
-WB119	162	3	EU	ORG
-WB119	163	1	the State Plant Quarantine Inspection	ORG
-WB119	163	2	GAP	ORG
-WB119	164	1	12	CARDINAL
-WB119	164	2	Uzbekistan	GPE
-WB119	164	3	the State Center for Animal Diseases and Food Safety	ORG
-WB119	164	4	the State Research Center on Quality Control	ORG
-WB119	164	5	13	CARDINAL
-WB119	164	6	130	CARDINAL
-WB119	164	7	Local Veterinary Laboratories	ORG
-WB119	164	8	1,411	CARDINAL
-WB119	164	9	Veterinary Stations	PERSON
-WB119	164	10	265	CARDINAL
-WB119	164	11	27	CARDINAL
-WB119	165	1	2,600	CARDINAL
-WB119	165	2	veterinarians	NORP
-WB119	166	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	166	2	2018	DATE
-WB119	166	3	10	CARDINAL
-WB119	166	4	12	CARDINAL
-WB119	166	5	the International Plant Protection Convention	ORG
-WB119	166	6	SPS	ORG
-WB119	167	1	34	CARDINAL
-WB119	167	2	WB	ORG
-WB119	167	3	GOST	ORG
-WB119	167	4	Soviet Union	GPE
-WB119	167	5	Kazakhstan	GPE
-WB119	167	6	Russia	GPE
-WB119	169	1	TA	ORG
-WB119	170	1	35	CARDINAL
-WB119	173	1	International Waterways OP 7.50	ORG
-WB119	173	2	7.60	CARDINAL
-WB119	173	3	Social Risks	ORG
-WB119	174	1	GoU	ORG
-WB119	174	2	CFL	ORG
-WB119	174	3	Soviet	NORP
-WB119	175	1	GoU	ORG
-WB119	176	1	Third	ORDINAL
-WB119	176	2	ILO	ORG
-WB119	179	1	CFL	ORG
-WB119	180	1	CONTACT POINT World Bank	ORG
-WB119	180	2	Sergiy Zorya	PERSON
-WB119	180	3	David Tuchschneider	PERSON
-WB119	180	4	Environmental	NORP
-WB119	180	5	Impacts	ORG
-WB119	180	6	the Concept Stage ESRS Document	LAW
-WB119	181	1	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
-WB119	181	2	11	CARDINAL
-WB119	181	3	12	CARDINAL
-WB119	181	4	Borrower/Client/Recipient Ministry of Finance	ORG
-WB119	181	5	Anvar Karimov	PERSON
-WB119	181	6	ankarimov@mf.uz Tulkin	PERSON
-WB119	181	7	Mirzaev Head	PERSON
-WB119	181	8	the Department of Agroindustrial Complex Finance tmirzaev@mf.uz	ORG
-WB119	181	9	Shurkat Vafaev	PERSON
-WB119	181	10	s.vafaev@invest.gov.uz Feruz Juraev Deputy Head	PERSON
-WB119	181	11	Agriculture and Water Resource Department f.juraev@invest.gov.uz	ORG
-WB119	181	12	sh.shoakhmedov@rra.uz	CARDINAL
-WB119	181	13	NW	GPE
-WB119	181	14	Washington	GPE
-WB119	181	15	202	CARDINAL
-WB119	181	16	473-1000	CARDINAL
-WB119	181	17	Sergiy Zorya	PERSON
-WB119	181	18	David Tuchschneider	PERSON
-WB119	181	19	The World Bank Agriculture Modernization and Competitiveness Project (P158372	ORG
+WB119	120	2	one	CARDINAL
+WB119	121	1	GAP	ORG
+WB119	122	1	25	CARDINAL
+WB119	122	2	GAP	ORG
+WB119	124	1	26	CARDINAL
+WB119	124	2	the Ministry of Innovations	ORG
+WB119	124	3	Ministry of Agriculture	ORG
+WB119	125	1	Netherlands	GPE
+WB119	126	1	Uzbekistan	GPE
+WB119	127	1	27	CARDINAL
+WB119	128	1	the Ministry of Innovations	ORG
+WB119	128	2	the Ministry of Agriculture	ORG
+WB119	128	3	the Council of Farmers	ORG
+WB119	128	4	Dehkans	NORP
+WB119	128	5	Farmers Council	ORG
+WB119	129	1	28	CARDINAL
+WB119	130	1	the Ministry of Innovations	ORG
+WB119	132	1	29	CARDINAL
+WB119	134	1	WB	ORG
+WB119	135	1	the Farmers Council	ORG
+WB119	135	2	the Ministry of Agriculture	ORG
+WB119	136	1	30	CARDINAL
+WB119	136	2	GAP	ORG
+WB119	138	1	IFC	ORG
+WB119	138	2	ILO	ORG
+WB119	139	1	3	CARDINAL
+WB119	139	2	31	CARDINAL
+WB119	139	3	SPS	ORG
+WB119	141	1	the Ministry of Agriculture, Ministry of Health	ORG
+WB119	141	2	the State Plant Quarantine Inspection	ORG
+WB119	141	3	the State Veterinary Committee	ORG
+WB119	142	1	32	CARDINAL
+WB119	144	1	The World Animal Health Organization	ORG
+WB119	144	2	OIE	ORG
+WB119	144	3	WB	ORG
+WB119	144	4	the State Veterinary Service	ORG
+WB119	145	1	The Gap Analysis	ORG
+WB119	145	2	the next five years	DATE
+WB119	148	1	33	CARDINAL
+WB119	148	2	Phytosanitary	ORG
+WB119	148	3	SPS	ORG
+WB119	149	1	Uzbekistan	ORG
+WB119	149	2	EU	ORG
+WB119	149	3	EU	ORG
+WB119	150	1	the State Plant Quarantine Inspection	ORG
+WB119	150	2	GAP	ORG
+WB119	151	1	12	CARDINAL
+WB119	151	2	Uzbekistan	GPE
+WB119	151	3	the State Center for Animal Diseases and Food Safety	ORG
+WB119	151	4	the State Research Center on Quality Control	ORG
+WB119	151	5	13	CARDINAL
+WB119	151	6	130	CARDINAL
+WB119	151	7	Local Veterinary Laboratories	ORG
+WB119	151	8	1,411	CARDINAL
+WB119	151	9	Veterinary Stations	PERSON
+WB119	151	10	265	CARDINAL
+WB119	151	11	27	CARDINAL
+WB119	152	1	2,600	CARDINAL
+WB119	152	2	veterinarians	NORP
+WB119	153	1	the International Plant Protection Convention	ORG
+WB119	153	2	SPS	ORG
+WB119	154	1	34	CARDINAL
+WB119	154	2	WB	ORG
+WB119	154	3	GOST	ORG
+WB119	154	4	Soviet Union	GPE
+WB119	154	5	Kazakhstan	GPE
+WB119	154	6	Russia	GPE
+WB119	156	1	TA	ORG
+WB119	157	1	35	CARDINAL
+WB119	160	1	International Waterways OP 7.50	ORG
+WB119	160	2	7.60	CARDINAL
+WB119	160	3	Social Risks	ORG
+WB119	161	1	GoU	ORG
+WB119	161	2	CFL	ORG
+WB119	161	3	Soviet	NORP
+WB119	162	1	GoU	ORG
+WB119	163	1	Third	ORDINAL
+WB119	163	2	ILO	ORG
+WB119	166	1	CFL	ORG

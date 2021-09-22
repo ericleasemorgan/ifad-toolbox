@@ -1,0 +1,948 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Liberia: Rural Economic Transformation Project (P175263) 
+
+ 
+ 
+
+  
+Nov 25, 2020 Page 1 of 18  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 26-Nov-2020 | Report No: PIDC30434 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Liberia P175263  Liberia: Rural Economic 
+Transformation Project 
+(P175263) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA WEST Mar 16, 2021 May 25, 2021 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Liberia Jeanine Milly Cooper  
+
+ 
+
+Proposed Development Objective(s)  
+ 
+The project development objective (PDO) is to improve agriculture productivity and access to markets for selected  
+value chains in the Project targeted areas. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-NewFin1 
+ 
+
+Total Project Cost 55.00 
+
+Total Financing 55.00 
+
+of which IBRD/IDA 55.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 55.00 
+
+          IDA Credit 55.00 
+
+   
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+Substantial  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+ 
+
+Other Decision (as needed) 
+ 
+ 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+1. Liberia is a fragile and conflict-affected country with a high vulnerability to external shocks. Two civil wars 
+between 1989 and 2003 destroyed the country’s economy, basic infrastructure, and institutional framework 
+resulting in poor living conditions for most of the population. Following over twenty-five years of economic 
+contraction, Liberia’s economy began to recover in 2004 with the 
+Gross Domestic Product (GDP) growing rate at an average annual 
+rate of 7.4 percent from 2004-2013. However, the outbreak of the 
+Ebola Virus Disease (EVD) in 2014 and a sharp decline in global prices 
+for two of the country’s main export commodities (iron ore and 
+rubber) disrupted Liberia’s economic recovery, resulting in a 
+stagnant real GDP growth in 2015. An incipient recovery began 
+around 2017/18 but was short-lived and the GDP contracted again 
+by 2.3 percent in 2019.  
+
+2. The COVID-19 pandemic has further exerted increased pressure on 
+the economy. Real GDP is expected to contract again by 2.9 percent 
+in 2020. During the first half of 2020, output declined in multiple sectors of the economy, including cement 
+(45 percent), gold (33 percent), rubber (19 percent), and services (12 percent), reflecting the restriction 
+measures implemented to slow the progression of COVID-19 and the weak global environment. A general 
+lockdown aimed at containing the spread of the virus was imposed on April 10, 2020 and lifted on July 22, 
+2020. Inflationary pressures moderated to 13 percent in June 2020, compared to 29.9 percent in June 2019, 
+due to lower fuel prices and tight macroeconomic policy. The depreciation of the Liberian dollar slowed to 
+1.5 percent in June 2020 compared to 30.2 percent in June 2019, reflecting an improvement by US$21.1 
+million in the trade deficit in Jan-June 2020 period. According to the Central Bank of Liberia (CBL), export 
+receipts declined by 4.8 percent in January-June 2020 while the value of imports decreased by 7.4 percent. 
+Fiscal policy was also tightened despite the COVID-19 pandemic with the fiscal deficit expected to be 
+reduced to 3.7 percent in 2020, down from 6.1 percent in 2019. Nevertheless, the level of the public debt is 
+expected to increase in 2020, reflecting mainly the economic contraction and the continued negative trade 
+balance. 
+
+3. Poverty remains widespread in Liberia. With a Gross National Income (GNI) per capita of just US$600 in 
+2018, Liberia is among the ten poorest countries in the world. It also has high income inequality levels with 
+an estimated Gini coefficient of 35.5 in 2016. From 2007 to 2014, Liberia’s per capita GDP growth rate 
+
+Box 1. Liberia key socio-economic data 
+
+(2019) 
+
+Population, total (millions) 
+
+GDP (current US$, billions) 
+
+GNI per capita US$ 
+
+GDP growth (annual %) 
+
+Inequality - Gini Coefficient 
+
+Merchandise imports (% of 
+
+GDP)a 
+
+External debt, total (% of GDP)b 
+
+5.0 
+
+3.07 
+
+580 
+
+-2.3 
+
+35.3 
+
+33.9 
+
+38.5 
+
+Source: WDI, Macro Poverty Outlook & 
+Official Data 
+Notes 
+a Most Recent WDI Value (2016) 
+bMost Recent WDI Value (2018) 
+
+ 
+
+averaged 3.3 percent per year, which helped reduce the poverty rate1 from 68.6 percent in 2007 to 38.6 
+percent in 2014. However, from 2014 through 2019 per capita GDP contracted causing the poverty rate to 
+rise again to 43.4 percent by 2019. In addition, there are acute rural-urban and gender disparities (urban 
+population constitutes around 54 percent), driven by unequal access to land and productive assets, 
+infrastructure and public services, and markets for both goods and labor. Liberia ranks 176th out of 189 
+countries in the 2019 United Nations Development Program (UNDP) Human Development Index. In the 2020 
+Doing Business report, Liberia ranked 175th out of 190 economies on the overall ease of doing business2. In 
+terms of gender equality, Liberia ranks 97th out 153 countries in the World Economic Forum’s gender 
+equality index and 17th out of 34 countries in Sub-Saharan Africa. 
+
+4. Liberia’s development and poverty reduction programs are severely constrained by lack of road access. 
+With only 750 km of paved roads, Liberia is below SSA average road density. The 2018 World Bank Logistics 
+Performance Index ranked the country 143rd out of 160 countries.  Nearly 60 percent of rural Liberians lack 
+access to an all-weather road, limiting their ability to participate in economic activities and access vital 
+services such as health and education.  Regional trade accounts for only one percent of the total 
+merchandise trade, in part because of the poor condition of the key regional corridor in Liberia’s, Trans-
+African Highway Seven (TAH7).  Therefore, improving road access is imperative to promote national 
+integration and economic growth.  Despite abundant arable land and a hospitable climate for agriculture, 
+Liberia faces chronic food insecurity in part because lack of road access and underdeveloped agro-logistic 
+services hinder agricultural productivity and depress farm incomes. 
+
+ 
+Sectoral and Institutional Context 
+
+ 
+
+5. Agriculture is the foundation of Liberia’s economy and the key to food security and poverty reduction. 
+Agricultural production constitutes the most important livelihood for the average Liberian, involving more 
+than 70 percent of the population. The sector accounted for 27.3 percent of real GDP in 2019 (a decline from 
+38.8 percent in 2010) and 43.3 percent of total employment (down from 57.4 percent in 1995). Majority of 
+farmers grow cereals/staples, including rice (64 percent) and cassava (60 percent), followed by a variety of 
+vegetables, such as a peppers (50 percent), bitter balls (44 percent), okra and green leaves (30 percent). 
+Most of these famers cultivate an average of 0.7 hectares under rain-fed conditions generating small 
+marketable surpluses. Tree crops, especially rubber, oil palm, cocoa and coffee, make an important cash 
+crops to smallholder farmers and contribute significantly to the economy. Rubber is the most important cash 
+crop in Liberia and accounts for almost 65 percent of total export earnings3. But Liberia imports 50-60 
+percent of its staple food requirements, making it vulnerable to global food price volatility.  
+ 
+
+6. The Government of Liberia (GoL) considers agricultural growth to be critical for reducing poverty. The GoL 
+has developed a five-year National Development Plan referred to as the Pro-Poor Agenda for Prosperity and 
+Development (PAPD). As stated in the PAPD, the government recognizes the need for inclusive and 
+sustainable economic diversification to achieve structural transformation and growth, the urgency of 
+
+ 
+1 Liberia’s poverty rate is measured as percentage of population below the international poverty line of US$1.9/ day in 2011 purchasing-power-parity 
+(PPP) terms. 
+2 World Bank report on Doing Business: Measuring Business Regulations: 2020. www.doingbusiness.org 
+3 Rubber production increased from 46,819 mt in 2018 to 65,743 mt in 2019 (40.4 percent. Annual Report, CBL, 2019. 
+
+
+facilitating private sector participation in the economy, and the importance of the agri-food sector as an 
+important engine of growth. It has also prioritized the agriculture sector in their commitment to diversify 
+the economy and has identified eight priority value chains requiring support under the PAPD 2018–23. These 
+include rice, oil palm, horticulture, cocoa, rubber, cassava, poultry, and pig husbandry. 
+ 
+
+7. Liberia’s agriculture is characterized by a diversified structure of agriculture production. Forest-based and 
+tree crop farming systems cover the largest proportion of the land area in Liberia. They include tree crop-
+based systems in which vegetables and other food crops are produced on a minor scale, mostly in the central 
+belt of the country; root crop-based systems (with cereals) concentrated in the northern region; and fishing 
+and land-based mixed cropping enterprises along the coastal belt. The three main structures of production 
+are: (i) large plantations that produce major export crops such as rubber, oil palm, and to a lesser, degree 
+coffee and cocoa; (ii) domestically owned, medium-sized commercial farms that cultivate industrial crops 
+for export and livestock for the local market; and (iii) small household farms that use traditional production 
+techniques and limited improved inputs with relatively low levels of productivity and limited access to 
+markets. 
+ 
+
+8. Liberia’s agriculture is characterized by low productivity. The long-lasting conflicts in Liberia have destroyed 
+agricultural capital and disrupted food production, further compounding structural impediments and past 
+policy failures. Since the end of hostilities, food production has increased, but smallholder yields remain low; 
+e.g., in lowland rice production systems, estimated average farm paddy yield is 1.7 tons per hectare, while 
+on-farm research produces up to 5 tons per hectare using improved variety and good production practices4. 
+Globally, average rice yields in recent years have been at 4.2 kg/ha for paddy rice. Food value chains are also 
+undeveloped, and institutions that provide advisory and support services are weak. Despite Liberia’s large 
+arable land, it has been estimated that at least 15 percent of the population was severely food insecure. 
+
+ 
+9. Significant challenges are limiting increased agriculture productivity and value chains development in 
+
+Liberia. These include: (i) limited access to improved inputs and modern practices;  (ii) limited extension 
+services; apart from agricultural extension provided by non-governmental organization, government 
+agricultural extension services are practically non-existent5; (iii) impaired market access due to limited 
+network of roads and lack of compliance with evolving market demands; (iv) weak integration of value chains 
+due to insufficient aggregation of agriculture production, and lack of storage, processing, and marketing 
+channels; (v) non-existent sanitary and quality controls for agricultural products; and (vi) high levels of post-
+harvest losses. In addition, extremely high cost of electricity impedes the development of functioning and 
+cost-efficient cold chains, which constraints competitiveness of Liberian fresh exports. Liberia will require 
+critical facilities for managing sanitary and phytosanitary (SPS) requirements and support to private sector 
+players to improve quality management through the adoption of (and certification in) good agricultural and 
+agro-industrial practices Data collected for the Enabling Business in Agriculture 2019 Report (EBA) has 
+identified significant weaknesses in all areas covered by the report, and Liberia’s performance is found to be 
+below the regional average in most areas, most notably in use of quality seeds, application of fertilizers, 
+secure use of water, using adequate machinery, application of plant protection measures, sustainable 
+
+
+livestock management, and access to finance.  
+ 
+
+10. Liberia’s Agricultural Sector Investment Plan (LASIP II).  According to LASIP II, covering the period 2018-
+2022, the current strategic long-term vision for the agricultural sector is generally to promote an inclusive 
+and sustainable agricultural transformation through catalytic investment in agricultural value chains and 
+industrialization and resilience to ensure food and nutrition security, environmental health, job and wealth 
+creation and inclusive growth. The challenges to this agricultural transformation are:  (i) weak private sector 
+and entrepreneurial skill;  (ii) inefficient production systems;  (iii) weak policy and business environment;  
+(iv)  significant human resource challenges;  (v) inadequate infrastructure; (vi) insufficient agricultural 
+funding;  (vii) low productivity subsistence farming;  (viii) inadequate natural resource management; and 
+(ix) very limited agricultural research and development programs constraining adoption of modern practices 
+and resulting in stagnant productivity. 
+ 
+
+11. Poor road infrastructure has significantly hindered the growth of the agricultural sector. Farmers’ ability 
+to access valuable markets and improved inputs to increase production is limited by the poor quality of the 
+country’s network of roads. During the May–September rainy season, movement from rural areas is 
+significantly restrained due to heavy rainfall, especially in lowland swamp areas. As a result, smallholders 
+tend to sell produce in local markets where prices are relatively lower. Despite the government’s current 
+initiative to rehabilitate main roadways and some key feeder roads in productive areas, more work is needed 
+to improve road and bridge infrastructure in remote rural areas. In recent years the GoL promoted a 
+comprehensive road network to increase country’s competitiveness including road in southeastern Liberia 
+and the development of a coastal road link joining the capital, Monrovia, with Harper, capital city of 
+Maryland County.  
+ 
+
+12. Small and medium-size farmers trying to establish linkages with buyers have limited ability to deliver the 
+required quantity and quality of produce in a timely and consistent schedule. International experience 
+shows that, even in the segment of emerging commercially-oriented farmers, it has been challenging for 
+them to meet the demands and requirements of buyers, including supplying consistent quantities and 
+quality of goods complying with sanitary and phytosanitary standards and delivered them on time. These 
+small and medium-sized farmers are less capitalized than the larger individual commercial farmers or 
+producing firms/corporations, have low technology adoption and limited access to information. They are 
+also lacking the equipment, infrastructure, and farm management skills to diversify into new products and 
+to become reliable suppliers to buyers and industry, in a modern market with increasing demands.  Also, the 
+limited size and weaknesses of their organizations creates uncertainties for the prospective buyers and 
+constraints the flow of information, thus reducing possibilities for gaining access to remunerative markets.  
+ 
+
+13. Access to adequate financial services, necessary for supporting investments and increasing farm 
+productivity and agribusiness competitiveness, are quite limited. The small number of financial institutions 
+provide a limited array of products and services to the agri-food sector (credit extended to agricultural sector 
+is estimated at 5.4 percent of total lending in the economy).  Financing for agriculture is mainly limited to 
+export crops such as rubber and cocoa, for which foreign investors provide finance for plantation 
+development and donor-supported projects channel small amounts of financing through financial 
+
+
+institutions.  The main obstacles for small and medium size farmers, are:  (i) unsecure land tenure and limited 
+availability of collateral due to absence of other forms of capital accepted as collateral (ii) low levels of 
+financial literacy and credit background; (iii) common perception in the financial sector that agricultural is 
+too risky and returns are uncertain; (iv) small farm size and low level of organization do not ensure adequate 
+volume of supply with consistent quality; (v) limited experience by financial agencies in lending to the sector; 
+(vi) financial intermediaries normally lend at short-term and are reluctant to lend for medium- and long-
+term investments. 
+ 
+
+14. Women are major players in the agriculture sector, although facing substantial gender inequalities. They 
+comprise approximately 60 percent of the rural agricultural labor force and carry out 80 percent of 
+agricultural activities throughout the planting season, including land clearing, planting, harvesting, and 
+marketing. Although they play a dominant role in agricultural production, few women are able to own land, 
+access loans, or control the income they earn from their labor. Moreover, women have less access to 
+productive inputs than men, including skills training, basic tools, and technology. Women’s workloads are 
+also increased during less productive periods, when many men migrate to seek work in mines, plantations, 
+and urban areas, leaving women to care for their families and farms.  
+ 
+
+15. Climate change and shifting cultivation are the most significant environmental threats in Liberia. Liberia’s 
+susceptibility to negative climate impacts has significantly increased due to a combination of low agriculture 
+productivity, climate vulnerability risks, population pressure and unsustainable natural resource 
+management. According to data of the climate change vulnerability index, Liberia is among the top 20 most 
+vulnerable countries in Africa. Major climate related changes including an average temperature rise (1-2 
+degrees Celsius), modified rainfall patterns, and more frequent extreme weather events (such as flooding 
+and drought) are predicted to occur over the next decades. These changes may result in heat stress, 
+reduction of food crops and fodder crop production both in quality and quantity, and higher susceptibility 
+to pests and diseases. Given the climate sensitivities of multiple engines of growth, agriculture, natural 
+capital, and infrastructure, the urgency for Liberia to ramp up climate-smart development at scale and across 
+the growth spectrum is an imperative. Moreover, due to the availability of land and forests, farmers tend to 
+shift cultivation to new plots annually to increase production rather than implementing improved 
+agricultural management techniques, which contributes to deforestation.  Low income populations struggle 
+more than others to cope with and adapt to climate change and natural hazards, increasing their risk to fall 
+deeper into poverty. 
+ 
+
+16. GoL recognizes that transformation is required in the food and agriculture sector to maximize its 
+contribution to economic growth and poverty reduction. Within the framework of its Pro-Poor Agenda for 
+Prosperity and Development, the GoL is focusing on three fundamental issues: (i) improved national food 
+and nutrition security with the objective to increase food availability and production in order to spur local 
+economic development and food security; (ii) enhanced agricultural productivity, competitiveness, and 
+linkages to markets; focusing on strengthening efficiency, promoting innovation, fostering sustainability, 
+and leveraging opportunities in national and external markets; broadening and strengthen private sector 
+participation; increasing public investments (mainly in rural infrastructure); and creating an enabling 
+macroeconomic environment; and (iii) strengthened human and institutional capacities with the thrust to 
+
+
+establish effective and efficient public sector frameworks in agricultural planning and coordination; reduce 
+risks and improve coping mechanisms; mainstream gender and youth in agriculture and rural development 
+and ensure sustainable use of natural resources. 
+ 
+
+17. The proposed Rural Economic Transformation Project (RETRAP) supports the GoL Pro-Poor Agenda for 
+Prosperity and Development and the MoA three-year strategy plan for the Agriculture sector with a focus 
+on: (i) institutional development and the promotion of inclusive and competitive value chains (cassava, 
+rubber, poultry, and piggery). It also supports the GoL achieve its commitments under the Comprehensive 
+African Agricultural Development Program (CAADP), which commits the country’s government to investing 
+more in the agriculture sector. 
+
+ 
+Relationship to CPF 
+
+ 
+
+18. Country Partnership Framework (CPF) Pillars.  The proposed Project is in consonant with the three pillars 
+of the CPF (FY19-FY24) for Liberia, including (i) strengthening institutions and creating an enabling 
+environment for inclusive and sustainable growth; (ii) building human capital to seize new economic 
+opportunities; and (iii) narrowing the infrastructure gap to foster more equitable nationwide development. 
+It is also contributing to achieving the country’s UN Sustainable Development Goals, in particular Goal 1 (End 
+poverty in all its forms everywhere), Goal 2 (End hunger, achieve food security and improved nutrition, and 
+promote sustainable agriculture); Goal 9 (Develop quality, reliable, sustainable and resilient infrastructure, 
+including regional and trans-border infrastructure, to support economic development and human well-
+being, with a focus on affordable and equitable access for all); and Goal 13 (Take urgent action to combat 
+climate change and its impact: by enhancing productivity that implies the efficient use of inputs, including 
+water and land; enhancing awareness and promoting climate smart agriculture measures).  
+ 
+
+19. The proposed project supports IDA19 policy priorities (Gender, Climate, Governance, Jobs, FCV). The 
+project will support the following key agendas: (i) Economic transformation and job creation: by supporting 
+sustained increases in agricultural productivity and a shift to commercial enterprises, the strengthening of 
+efficient value chains and the development of a thriving rural economy which will in turn create quality 
+employment in upstream and downstream activities servicing agriculture; (ii) resilience building and food 
+security: by enhancing resilience of domestic agricultural production systems through the promotion of 
+climate smart technologies6; and (iv) Gender inclusion: by helping removing the constraints in access and 
+ownership of productive resources faced by women as well as support their access to information, financial 
+services and technologies (for production, processing and marketing).  
+
+ 
+ 
+C. Proposed Development Objective(s)  
+
+ 
+The project development objective (PDO) is to improve agriculture productivity and access to markets for selected  
+value chains in the Project targeted areas. 
+
+ 
+6 The project will also contribute to the WBG’s Africa Climate Change Business Plan and to reaching CIV’s climate change mitigation and adaptation targets articulated 
+in the Intended National Determined Contribution (INDC). 
+
+ 
+Key Results (From PCN) 
+
+ 
+
+20. The following key performance indicators are proposed to measure the project outcomes: 
+a) Farmers reached with agricultural assets or services, disaggregated by gender (Number) - Core 
+
+Results Indicator (CRI); 
+b) Farmers adopting improved agricultural technology; disaggregated by gender (Number). 
+c) Increase in yield among project beneficiaries, disaggregated by key targeted commodity (Metric 
+
+tons per hectare).  
+d) Increase in volume of annual sales (Metric tons) for the target commodities produced by the 
+
+beneficiary farmers’ groups;   
+e) Number of direct project beneficiaries (Number); disaggregated by type and gender 
+
+(Percentage). 
+ 
+ 
+D. Concept Description 
+
+ 
+
+21. The project addresses important challenges to developing agri-food value chains in Liberia. 
+These include:  (i) weak capacity of support institutions for delivery of agribusiness services; (ii) poor 
+organization of smallholder farmers; (ii) low agriculture productivity due to limited access to 
+improved technologies, modern inputs, and advisory services; (iii) weak access to markets due to 
+inadequate post-harvest, transport, and marketing infrastructure; and (iv) limited private sector 
+investment in production, processing capacity and value-added activities.  To address these 
+challenges, the project will contribute to creating long-term economic opportunities for value chain 
+actors by applying a three-fold approach: (i) strengthen critical institutions overseeing the 
+development of the sector; (ii) intervene at various level of the supply chain via capacity building 
+and investment subprojects focused on improving agriculture productivity and resilience of the food 
+system to climate change, thus enhancing market access; and (iii) improvement of rural access and 
+agricultural marketing through the upgrading of roads, construction of short-span critical cross-
+drainage structures, and improvement of agro-logistics centers.  
+ 
+
+22. Targeted priority value chains. Cassava, rubber, poultry, piggery and vegetable value chains where 
+selected for Project support.  These value chains will complement the value chains which are already 
+supported under the World Bank-funded Smallholder Agriculture Transformation and Agribusiness 
+Revitalization Project (STAR-P – P160945): rice, oil palm, and horticulture. The selection was based on two 
+sector scans7, 8  which assessed a range of development impact criteria; including: (i) evidence-based 
+market demand for selected commodities; (ii) high growth potential, demonstrated by positive 
+growth trends of the value chains, scope for expanding production and increasing sales, and scope 
+for value addition through processing; (iii) potential for poverty reduction9; and (iv) project-related 
+aspects, including existing infrastructure and complementarities with other projects in the country. 
+
+ 
+7 Netherlands Enterprise Agency, 2017. Sector Scan-Liberia Agriculture Sector. 
+8 World Bank, International Finance Corporation, and GoL. 2017. Agricultural Commercialization and Agribusiness Development Project: Sector Scan 
+
+Report. 
+9 Potential for poverty reduction is based on locally available raw materials and skills, new job opportunities created, low entry barriers for small-scale 
+
+entrepreneurs, and prospects for women and youth. 
+
+
+
+Vegetables production (home gardens) will also be supported because of its importance in 
+generating incomes for women and for nutrition diversification at the household level (See Annex 1 for 
+further details). 
+ 
+
+23. Geographical focus and phased approach. The Project is expected to operate in 10 out of the 15 Counties 
+of Liberia (see Annex 2): (i) Group 1: covering the Bong, Lofa, Nimba, Grand Bassa, Bomi, Grand Cape Mount, 
+Grand Gedeh and Maryland counties, which offer comparative advantage for the production of cassava; (ii) 
+Group 2: covering the Counties of Montserrado, Nimba, Bong, Margibi, Bomi, Sinoe and Maryland counties, 
+with advantages for rubber production;  (iii) Group 3:  covering the Regions of Grand Cape Mount, Bomi, 
+Montserrado, Bong and Margibi for poultry/piggery production.  The Project would give priority to counties 
+where farmers organizations already exist, and where there are market opportunities (processing factories, 
+close to urban areas, border-outlets, etc.), before moving to counties without any existing farmers 
+organizations. The final selection of the project’s intervention location for the selected value chains will be 
+determined during project preparation in consultation with key value chain stakeholders.  
+ 
+
+24. The project builds on the design features of the Smallholder Agriculture Transformation and Agribusiness 
+Revitalization Project (STAR-P, P160945). The proposed project builds on the experience gained under the 
+STAR-P Project, expanding the “Productive Alliance” approach to promote new selected value chains. This 
+approach support producer organizations by bringing together: (i) a group of  farmers producing a particular 
+product; (ii) one or more (potential) buyers for that product; and (iii) other partners involved along the value 
+chain providing services or undertaking some processing required by the final buyer/s (e.g., aggregation, 
+handling, storage, processing). These entities, or participating members of the “alliance” are connected 
+through a business proposition, or “business plan”, which assesses the capital and service needs of the 
+producer association, and proposes improvements that would allow them to upgrade their production 
+capacities and skills to strengthen their linkage with the markets.  The public sector is normally engaged in 
+providing an enabling environment and, in many occasions, supporting the participating member preparing 
+investment proposals, as well as providing adequate financing for implementing the proposal. Global 
+experience has shown that the approach help solving multiple constraints by providing integrated solutions 
+adapted to local conditions and explores the existence of significant motivations perceived by partners in 
+the alliance and significantly contributes to increasing stability in prices, assured sales, as well as 
+improvements in product quality and, hence, have resulted in increased revenues.   
+ 
+
+25. In addressing identified value chain constraints and in partnership with IFC, the Project will include a 
+spectrum of actions for Maximizing Finance for Development (MFD). These actions, to be further 
+developed during preparation, may include: (i) increasing the space for private sector activity; (ii) improving 
+the policy and regulatory environment; for instance through establishing partnerships between operators 
+within the value chains, and improving farmers – buyers contractual arrangements; (ii) facilitating access to 
+finance for agribusiness development (provision of matching grants) and supporting agri-entrepreneurs to 
+develop “bankable” and viable business plans;  (iii) supporting essential public goods and services such as 
+strengthening human capital, agricultural research/extension services, and public infrastructure (roads and 
+market information) contributing to enhance market access; and (iv) technical assistance to financial 
+institutions to strengthen their capacity for diversifying their financial products and expanding their 
+outreach, as well as to address the lack of financial literacy in the group of potential beneficiaries.  
+
+ 
+26. Scaling-up and disseminate innovative agricultural technologies:  Farmers’ access to localized, relevant and 
+
+timely information on crop management and market intelligence is critical to achieve project objective. In 
+this context, mobile-based rural advisory services (RAS), has potential to drive greater productivity gains 
+than traditional methods of extension and reduce information asymmetry on market prices etc. The project 
+will identify and assess existing examples10 of relevant modern and innovative solutions implemented in the 
+country and provide financial support to customize such products for the project-supported producer 
+organizations.  
+
+ 
+27. The Project will also focus on other cross-cutting priorities.  These are; especially: (i) taking gender issues 
+
+and empowerment of vulnerable groups (women and youth) into account in the context of broad  social 
+safeguards measures (ii) promoting mitigation and adaptation to climate change and adherence to 
+environmental sound actions as well as giving priority to climate smart technologies enhancing resilience; 
+and (iii) promoting inclusion of products for improving nutrition at household level; and (iv) giving priority 
+to adoption of technologies reducing GHG emissions. The project will set targets for participation by women 
+and youth and will prioritize subprojects that have the potential to generate full-time rural employment 
+opportunities. When selecting subprojects for investment, the project will mainstream resilient and low 
+carbon activities to help address agricultural vulnerability and reduce agricultural emissions of greenhouse 
+gases (GHGs). The project will also promote climate-smart agriculture (CSA) approaches as well as best 
+practices and technologies for water resource management to improve climate resilience. With regards to 
+nutrition, the project will promote home gardening and simultaneously support the dissemination of 
+information on sound nutritional practices among beneficiaries, particularly for women and children.  
+
+ 
+ 
+
+1. Description 
+ 
+Project Components 
+
+ 
+
+28. Component 1: Improving the enabling environment, enhancing support services for agribusiness 
+development and strengthening producer organizations (IDA US$3.5 million). The objective of Component 
+1 is to improve the enabling policy and regulatory environment necessary for private businesses to increase 
+investment and commercial activities and enhancing delivery of quality support services that can foster an 
+inclusive and competitive development of this sector. The project will invest in development and 
+maintenance of an Integrated Agriculture Business Information and Intelligence Information System (IABIIS) 
+to improve service delivery capabilities of MoA.  At the same time, the project will be supporting farmers in 
+the formation of producer organizations (in areas where they are not present and assessed as feasible), as 
+well as in developing their skills in technical, administrative/managerial and marketing activities. The 
+
+ 
+10 Examples such as a) partnership between The Cookshop (a Liberian online food delivery startup) and GROW Liberia Program (agri-business and 
+investment advisory program) to operate a Market Information System for agricultural commodity prices for farmers to post and review products and prices. 
+The partnership leverages GROWs existing partnerships with the Monrovia Vegetable Sellers Association and the Farmers Union Network (FUN), and 
+Cookshop’s existing relationships with over 40 food retailers including restaurants, hotels and supermarkets; b) Power Gari, a nutritionally fortified cassava-
+based porridge, produced with R&D support of a Silicon-Valley based food-tech company, developing plant-based food products; https://nextbillion.net/low-
+tech-high-impact-food-production-africa/  
+ 
+
+component will finance combinations of specialized technical assistance, training, works, goods, consulting 
+and non-consulting services, and operational expenses, as detailed below.  
+ 
+
+30. Subcomponent 1.1: Improving public agribusiness services. This intervention aims at enhancing the 
+capacity of selected public services that are critical for enabling agribusiness; principally, Ministry of 
+Agriculture (MoA), Cooperative Development Agency (CDA), Central Agricultural Research Institute (CARI), 
+Soil and Crop laboratory, and the National Standard Laboratory (NSL, with national responsibility for testing 
+food quality). The project will undertake a functional review of these entities and recommend solutions for 
+improving the quality of their services. The focus will be on strategies and solutions for enhanced growth 
+and entrepreneurship in the agribusiness sector; formulating interactive and demand driven knowledge, 
+innovation and extension system with a focus on climate-smart technologies; promotion of investments in 
+the sector (encouraging women and youth entrepreneurship); enhanced governance and partnerships 
+across the value chains, and management of agribusiness development programs/projects. In principle, it 
+will also support MoA to operationalize the sector’s approved acts on seeds, food safety, pesticide, fertilizer 
+and the national rice development strategy, updating and enforcement of standards in the agriculture 
+sector; this will include the provision of technical assistance, training, and equipment; and (ii) establishing 
+an agriculture database to support monitoring, research, policy-making and allocation of resources by 
+counties. The system shall ensure that farmers, allied institutions of MoA (such as CARI, NSL) and private 
+sector partners have a shared platform for data access, knowledge sharing and to avail advisory/financial 
+benefits. The component will finance system design and maintenance, purchase of IT infrastructure, on-
+boarding of competent human resources and requisite IT service providers.  
+ 
+
+31. Subcomponent 1.2: Enhancing value chain coordination and public-private dialogue-(PPD). The Project 
+will: (i) conduct a stakeholder mapping exercise as the basis to put in place a representative and inclusive 
+Private Public Dialogue (PPD) mechanism; (ii) support the establishment and operation of this mechanism, 
+including training of main stakeholders on its effective use to improve the performance of targeted value 
+chains; and (iii) support increased consultations among the value chain stakeholders (especially women), 
+through  regular forums to discuss the various constraints of the sector, review and update the government 
+sector strategy, develop a shared vision and harmonized approach to minimize potential conflict, 
+mainstream climate change in the programs, devise mechanisms for coordinating donor assistance and 
+creating an enabling environment for private and public investments. It will also support establishing an 
+Agribusiness Growth Delivery Unit (AGDU) as an agribusiness strategy incubator and strategic advisory arm 
+of MoA.  
+ 
+
+32. Subcomponent 1.3:  Strengthening Producer Organizations.  This subcomponent will address the need to 
+enhance capacities of targeted Farmers-Based Organizations (FBOs) to be able to address critical limiting 
+factors to facilitate effective access to markets and sustainable integration with formal and lucrative value 
+chains and providing support for taking advantage of investment opportunities. It will comprise financing of 
+technical assistance, training and capacity building of beneficiaries and their organizations, as well as 
+services for facilitating complementary services (financial, specialized technical assistance, inputs, 
+certification services, etc.).  Assistance will cover assistance to establish new organizations in areas where 
+they are absent (but it is feasible and there are clear competitive advantages) and legal assistance to their 
+formal registration. 
+ 
+
+33. Component 2: Enhancing Competitiveness and Market Access through Productive Alliances (IDA US$15 
+million). The objective of this component is to promote the development of organizations of small and 
+medium-sized agricultural producers participating in “productive alliances” with selected partners with the 
+aim to be able to operate competitively in selected value chains, with strengthened and more reliable 
+linkages with buyers and markets and increased capacity to manage climate risks. The basic approach is to 
+promote investments and collective actions, with the aim of gaining economies of scale, enhancing 
+bargaining power, facilitating knowledge sharing, and reducing costs of production and service delivery.  The 
+activities included in these subprojects could comprise eligible works, goods, and services required by 
+different partners participating in the subproject to achieve measurable targets in terms of product/service 
+specifications (such as quality, quantity, and delivery conditions) agreed with their respective prospective 
+buyer or customers, within the framework of a joint business plan. 
+ 
+
+34. Subcomponent 2.1:  Pre-Investment Activities.  This subcomponent will support pre-investment activities 
+to: (i) promote the project concept and increase outreach to potential FBO beneficiaries, commercial 
+partners, and private financing entities, as well as identify productive alliances among FBOs and commercial 
+partners; (ii) identify potential business opportunities on the part of the productive alliance; (iii) prepare 
+business plans and proposals for Investment Subprojects reflecting the identified opportunity; (iv) build 
+capacity among technical service providers to enhance the quality of the services provided to the productive 
+alliances;  (v) support project-related studies to promote specific, prioritized value chains and evaluate the 
+potential for business plan investments to contribute to climate change mitigation and resilience and to the 
+economic inclusion of otherwise marginalized groups.  These investment initiatives (Subproject proposals) 
+will be demand-driven and with clearly demonstrated benefits.  Facilitators and Community Development 
+Officers (CDOs) will be engaged for a maximum of 2 years of the project period to facilitate the preparation 
+of Subproject proposals for farmers’ groups and their participating partners. Capacity building will be 
+provided for Facilitators, Services Providers, Farmers Groups and other Producer Associations. 
+ 
+
+35. Subcomponent 2.2:  Investment Subprojects Supporting Productive Alliances.  This subcomponent will 
+provide technical and financial support (matching grants) for the implementation of technically feasible, 
+financially viable, economically profitable, socially responsible, climate resilient and environmentally 
+sustainable investment Subprojects, which will help producing a consistent and timely supply of quality 
+produce to buyers, while helping to provide a reliable income to allied producers organizations and their 
+partners participating in the “alliance”. The implementation of these investment subprojects will make 
+possible sustainable increases in productivity and improvements in quality of the products offered in 
+accordance to market demands.  The Subprojects will be prepared in a participatory fashion with support 
+by the Project together with the potential beneficiaries (farmer organizations and their allied partners, such 
+as aggregators, processors, technical service providers, lenders, etc.).  Sub-projects with a clear impact on 
+agricultural production resilience, using climate-smart technologies e.g. zero tillage, the use of soil and water 
+conservation techniques such as tied-ridging, and of integrated soil fertility management options such as 
+composting, and efficient use of mineral fertilizers would be particularly targeted and prioritized. 
+
+
+ 
+36. Eligible expenditure under these Subprojects include: (i) civil works (for example, lowland rehabilitation; 
+
+clearing of bushland; construction of post-harvest, storage, and processing facilities; and small-scale, 
+efficient irrigation systems); (ii) goods, such as productive equipment (for example, farm machinery, 
+processing equipment, storage units, and transport vehicles); (iii) incremental working capital (for example, 
+for improved inputs); (iv) technical assistance and business advisory services supporting the implementation 
+of the subprojects and enhancing organizations’ administrative and managerial capacities.  Investment 
+proposals by farmers’ organizations and agribusinesses that integrate climate-smart approaches throughout 
+the value chain, such as intercropping and conservation agriculture (which will increase crop diversification); 
+use of climate-resilient seeds and varieties; methods to retain soil nutrients and prevent soil erosion; 
+improved water management for extreme warm weather; flood-resilient design of production; and efficient 
+pest and disease management; alternative sources of energy;  water and wastage re-use systems, saving 
+energy of implementing mitigating approaches reduce GHG emissions, will receive priority and may qualify 
+for additional bonus financing. 
+
+ 
+37. These Investment Subprojects will qualify for receiving matching grant through three dedicated windows to 
+
+support the development of value chains in selected commodities and supporting different types of 
+beneficiaries, but all integrated into a single Subproject.  The matching grant from the Project will cover a 
+part of the overall cost of implementing the Subproject, making necessary for the beneficiaries to come up 
+with their counterpart contribution (in cash).  The level of required counterpart financing will depend on the 
+type of beneficiary and the amount of the investment to be undertaken (ranges will be fully determined 
+during preparation and included in detail in the Project Operational Manual).  These windows are: 
+
+ 
+(a)  Window A, which will support to smallholder farmers organizations, targeting organized smallholder 
+
+farmers organizations that are eligible to receive matching grant funds as co-financing.  In areas where 
+the targeted beneficiaries are not organized, jointly with the Ministry of Agriculture, other government 
+agencies and NGOs active in project areas, the project will support the formation of producer and agro-
+based organizations.  The main beneficiaries of this window are small producers and other organized 
+vulnerable groups, such as women entrepreneurs and women-led producer organizations and youth, 
+who will be encouraged to participate through a targeted information campaign. 
+
+(b) Window B, supporting commercially oriented farmers that are also service providers.  This window will 
+contribute directly to boost agricultural production that will ensure there is a reliable supply of produce 
+along the supply chain.  Priority will be given to those commercially oriented farmers that (a) work with 
+smallholder farmers by transferring new technologies and provision of technical assistance; (b) adapt 
+technologies that address binding constraints and risks in agriculture, such as climate change; (c) create 
+formal partnership with value chains to ensure access to markets and research organizations to ensure 
+the transfer of new technologies; (d) create jobs; and (e) contribute to food security.   In cases where it 
+is not possible to work with organized farmers, these larger commercially-oriented farmer or service 
+providers may be the vehicle to channel funding for investments to be made at the producing level, as 
+well as to channel the technical assistance and the improved inputs. 
+
+(c) Window C, supporting all other partners or participating members of an alliance (integrated in a single 
+Subproject), such as private business and enterprises providing any aggregation, processing or service 
+that is essential to the success of the Subproject according to the demands of the buyer/s and, at the 
+same time, requiring a new investment to adapt its operations in order to comply with the buyer/s 
+demands. 
+ 
+
+38. Component 3: Agro-logistics and Infrastructure Investments (IDA US$31.5 million). The objective of this 
+component is to improve access to markets through the rehabilitation of existing roads, construction of 
+short-span critical cross-drainage structures, and improvement of agro-logistics centers. Expected outcomes 
+from such investments are improved quality of products and reduced post-harvest losses, reduced 
+marketing costs and better connection between producers and buyers, and improved competitiveness of 
+the domestic production in supplying of food products to major consumption centers and export points. 
+
+ 
+39. Subcomponent 3.1: Roads.  Complementing the planned road works works financed as part of  the South 
+
+Eastern Corridor Road Asset Management Project (SECRAMP; P149279) under which a total of 100km length 
+of road between Ganta and Tappita is to be rehabilitated, the Project will support the rehabilitation of 40 
+km section of the 112 km long Tappita - Zwedru road11. The project will use Output- and Performance-Based 
+Road Contracts (OPRC) under Design, Build and Transfer (DBT) methodology and will also finance the 
+associated consultant services.  According to a conceptual design carried out, the proposed design includes 
+a full construction of the road to a two-lane carriageway with bituminous surfacing along the existing right-
+of-way, with a 20-year design life.  The conceptual design study anticipates reduced vehicle operating costs 
+and reliable year-round access resulting in significant increases in additional traffic generated. As part of the 
+road design, the project will also incentivize contractors to choose materials and implement processes that 
+generate less emissions, adopt engineering and structural measures and bioengineering involving the use of 
+vegetation either alone or in conjunction with other civil engineering structures. Once rehabilitated, it is 
+expected that the road will play a key role in improving market access for farmers, businesses, traders and 
+agro-processors and transport service companies and unlocking the agricultural potential of the entire 
+south-eastern region. 
+ 
+
+40. Subcomponent 3.2: Agro-logistics.  With regards agro-logistics interventions, the project will facilitate the 
+preparation of a national agro-logistics program to outline the policy framework and identify the main 
+infrastructure networks required to enable proper transport and distribution of agricultural/agro-industrial 
+products. It will also finance investments including: (i) construction of a number of open market sheds and 
+small storage facilities; (ii) construction of selected infrastructure that require specialized handling agri-
+produce; and (iii) construction of market internal path-ways, drainage infrastructure, toilets and clean water 
+facilities. The infrastructure to be rehabilitated or established under the Project would incorporate design 
+standards ensuring their resilience to the main local risk factors (geophysical conditions and climate change) 
+and their potential for climate co-benefits (e.g. improved energy efficiency, use of renewable energy, etc.). 
+Detailed locations of these infrastructures and their operation and management would be identified and 
+discussed during project preparation. 
+
+ 
+
+ 
+11 Currently, the Ganta -Tappita stretch, almost halfway to Zwedru, is under financing from from GoL, World Bank and Liberia Reconstruction Trust 
+Fund (LRTF) sources (Ganta-Saglepie, 39km financed by GOL, and Saglepie-Tappita, 61km financed by WB/LRTF) under the South Eastern Corridor 
+Road Asset Management Project (SECRAMP).  The AfDB is also financing the paving of the stretch from Zwedru to the Ivorian Border in the South. A 
+gap of about 85km is still under discussion for financing by donors in the next round of allocations. 
+
+41. Component 4: Project coordination and Management (IDA US$5 million). The aim of this component is 
+twofold: (i) ensuring that GoL is better equipped to respond to crises and emergencies; and (ii) establishing 
+appropriate coordination, Monitoring and Evaluation (M&E), and communication regarding Project 
+implementation. The Project will finance the creation and operation of a National Coordination Office (NCO) 
+within MoA, through provision of appropriate staffing and operating resources. The NCO will be responsible 
+for: (i) ensuring effective planning, implementation and monitoring of the Project activities; (ii) fiduciary 
+management and environmental and social safeguard compliance; (iii) effective coordination with 
+participating stakeholders and partners; (iii) evaluating the Project’s final results, outcomes, and impacts on 
+value chain actors; and (iv) ensuring efficient knowledge management and effective communication on 
+project activities. 
+ 
+
+42. Component 5: Contingency Emergency Response Component – CERC (IDA: US$0.0 million). The objective 
+of this component is to provide immediate response to an Eligible Crisis or Emergency, as may be presented 
+in the future. The CERC is one of the Bank’s contingent financing mechanisms available to Borrowers to gain 
+rapid access to Bank financing to respond to a crisis or emergency. It is included as a Project component that 
+is designed to provide swift response in the event of an eligible crisis or emergency, defined as “an event 
+that has caused, or is likely to imminently cause, a major adverse economic and/or social impact associated 
+with natural or man-made crises or disasters.” The mechanism for the triggering of the CERC will be included 
+in the Credit Agreement, which will require (inter-alia), the preparation of a CERC Manual detailing the 
+applicable fiduciary, environmental and social, monitoring, reporting, and any other implementation 
+arrangements necessary.  Provided the World Bank Group agrees with the emergency assessment, this 
+component would allow the government to request the World Bank to reallocate uncommitted resources 
+from other project components to this component in order to cover emergency response and recovery costs 
+or, eventually, to channel additional financing that may become available because of the emergency. 
+
+ 
+    
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 No 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+.  
+ 
+ 
+ 
+
+Environmental Risk Rating 
+ 
+The environmental risk rating for the proposed project is substantial. The classification is based on the potential 
+environmental risks and impacts, the sensitivity of the recipient environment and the capacity of the implementing 
+agencies to manage the risks. The project’s adverse environmental risks and impacts will mainly emanate from 
+interventions under Components 2 and 3. The Matching Grant (MG) scheme under Component 2 might trigger 
+agricultural commercialization, expansion of farmlands, expansion and/or renovation of agricultural infrastructure such 
+
+
+as warehouses, processing facilities, electricity connectivity etc. Land clearing associated with farming and provision of 
+infrastructure could contribute to deforestation, forest degradation, destruction of natural habitats, soil erosion and 
+depletion of biodiversity. Agricultural intensification could trigger extensive use of pesticides with adverse repercussions 
+on human health and biodiversity. The proposed support to poultry and piggery industry will produce animal waste 
+(manure) which could contaminate ground and surface water as well as contribute to green-house gas emissions if 
+poorly managed. Similarly, effluents from processing facilities e.g. cassava processing under the MG scheme could 
+contribute to water contamination, eutrophication and unsightly scenes in communities. The risks associated with 
+surface water contamination from pesticides and effluents from processing facilities could transcend communities and 
+may have far reaching consequences, if not properly managed. These potential risks will be further assessed along with 
+appropriate mitigation measures in the Environmental and Social Management Framework (ESMF) to be prepared for 
+the project prior to appraisal. The proposed road improvement of 40 km under Component 3 might result in 
+environmental, occupational, and community health and safety risks. The risks and impacts will generally range from 
+minor to substantial but mainly localized. The Ministry of Agriculture will implement the project in collaboration with 
+other ministries. Environmental safeguard capacity varies among ministries with no experience in the implementation of 
+the ESS.  
+ 
+Social Risk Rating 
+ 
+The social risk rating for the proposed project is substantial. The classification is based on the potential project social risks 
+and impacts, the country context social sensitivity issues and the capacity of the implementing agencies to manage the 
+risks. The project social risks include risk of conflicts within communities, agribusiness service providers and project if 
+selection of beneficiaries is not transparent. Risk of exclusion of poor households and vulnerable groups and elite capture 
+of project benefits (e.g. the Matching Grants, provision of farm inputs, access to information on crop management and 
+market intelligence), poses substantial risk. Similarly, risks and impacts associated with temporary and permanent land 
+acquisition for rural agribusiness infrastructure (e.g. warehousing, processing facilities etc.) and road rehabilitation are 
+anticipated. In particular, economic or physical displacement is anticipated under the proposed rehabilitation of a 40km 
+section of the 112km long Tappita - Zwedru Road. Other social risks include potential legacy issues related to impacts of 
+previous road construction activities on Project Affected People (PAP) and communities along the proposed road corridor 
+to be rehabilitated. While use of local labor is anticipated, use of migrant workers and risk of use of child labor and/ or 
+forced labor cannot be ignored. The risk of Sexual Exploitation and Abuse and Sexual Harassments (SEA/SH) is possible 
+given the country context and social sensitivity issues and focus of project interventions in rural areas with possibility of 
+men and women working in unsupervised conditions. Risks of spread of communicable diseases including spread of 
+COVID-19 are anticipated given the project interventions will be implemented in counties where potential for spread of 
+infectious diseases cannot be ignored. 
+ 
+  

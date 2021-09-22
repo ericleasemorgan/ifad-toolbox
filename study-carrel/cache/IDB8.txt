@@ -1,0 +1,1481 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+ 
+ 
+ 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+HAITI 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AGRICULTURAL AND AGROFORESTRY TECHNOLOGICAL INNOVATION 
+PROGRAM - PITAG 
+
+ 
+ 
+
+(HA-L1107, HA-G1038) 
+ 
+ 
+ 
+
+GRANT PROPOSAL 
+ 
+ 
+ 
+
+ 
+ 
+  
+
+ 
+
+PROJECT SUMMARY  
+
+HAITI  
+
+AGRICULTURAL AND AGROFORESTRY TECHNOLOGICAL INNOVATION PROGRAM - PITAG 
+
+(HA-L1107, HA-G1038) 
+
+Financial Terms and Conditions 
+
+Beneficiary: Republic of Haiti Amortization Period: N/A 
+
+Executing Agency (EA): Ministry of Agriculture, Natural Resources 
+and Rural Development (MARNDR) 
+
+Disbursement Period: 60 months 
+
+Source Amount (US$) % Grace Period: N/A 
+
+IDB (Grant Facility – HA-L1107):     55,000,000 
+ 
+
+71.6 
+Supervision and 
+Inspection Fee: 
+
+N/A 
+
+Other/Co-financing (GAFSP – HA-G1038): 10,000,000 13 
+Interest rate: N/A 
+
+Credit Fee: N/A 
+Other/Co-financing (IFAD)(a): 10,859,305 14.1 
+
+Local: 1,000,000 1.3 
+
+Currency of Approval: US Dollars  
+Total: 76,859,305 100 
+
+Project at a Glance 
+
+Project Objective/Description: The general objectives of the program are to increase agricultural income and 
+food security for smallholder farmers in selected areas of Haiti. The specific objectives are to increase agricultural 
+productivity and improve the use of natural capital through the adoption of sustainable technologies. 
+
+Special Contractual Clauses prior to the first disbursement of the financing: (i) the approval by the Executing 
+Agency and entry into effect of the Program Operating Manual (POM) according to the terms and conditions 
+previously agreed with the Bank (¶3.1); (ii) see Annex III that includes a special disbursement; and (iii) see 
+Environmental and Social Management Report (ESMR) (REL-3). 
+
+Special Contractual Clauses of execution: see (i) ESMR (REL-3); and (ii) special execution requirements 
+contained in Annex III. 
+
+Exceptions to Bank Policies:  None. 
+
+Strategic Alignment 
+
+Challenges(b): SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Cross-Cutting Themes(c): GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+(a) International Fund for Agricultural Development (IFAD) contribution is, as of today, parallel (co-financing) but might be 
+received by the Bank as a Project Specific Grant (PSG), subject to IFAD’s Board approval.  
+
+(b) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(c) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity 
+
+and Rule of Law). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-6
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-6
+
+
+- 2 - 
+
+ 
+
+I. DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, Problem Addressed, and Justification 
+
+1.1 The agricultural sector and food security in Haiti. With a per capita annual 
+Gross Domestic Product (GDP) of US$818 (2015) and 59% of the population living 
+in poverty (World Bank, 2012),1 Haiti stands among the poorest countries in the 
+world. The United Nations Development Program (UNDP) Human Development 
+Index’s socio-economic indicators for 2014 placed Haiti 163rd out of 188 countries.2 
+According to the World Bank Group,3 in rural areas, the poverty rate is even higher 
+(75%), and more than 80% of Haitians who live in extreme poverty live in rural 
+areas, where access to basic services remains very limited. In fact, it is estimated 
+that only 10% of the rural population has access to electricity and less than 8% to 
+drinkable water. 
+
+1.2 Food insecurity is widespread in Haiti. The country is ranked 115th out of 
+118 countries in the 2016 Global Hunger Index (GHI). Results of a recent World 
+Food Program (WFP) analysis (2015) indicate that approximately 47% of the 
+households are moderately or severely food insecure. In addition, households with 
+children of less than five years of age are much more exposed to frequent food 
+shortages.4 Therefore, one fifth of children less than five years old are chronically 
+malnourished (DHS, 2012).5 
+
+1.3 In this setting, the performance of the agricultural sector is strategic to help raise 
+rural households’ incomes and improve their food security.  The sector contributes 
+25% of GDP and 85% of employment in rural areas (UNDP, 2015). Haitian 
+agriculture, though, presents very low levels of productivity, even when compared 
+to other countries in the region (Table I-1 shows yields for the main crops grown in 
+Haiti as a proxy for productivity), and per capita income in the Haitian agricultural 
+sector has stagnated in recent years. Annual agricultural GDP per capita is 
+currently estimated at US$400 per year. 
+
+Table I-1. Yields for main Haitian crops compared to regional yields* 
+
+Product Haiti's yields as % average yields in Central America and the Caribbean 
+
+Cocoa 99% 
+
+Mango 91% 
+
+Sorghum 39% 
+
+Avocado 47% 
+
+Banana 25% 
+
+* Countries considered for this comparison are Central American and Caribbean countries included 
+in the FAOSTAT database, years 2010-2014.  
+
+1.4 Agricultural productivity can be influenced by a wide range of factors such as land 
+tenure status, human capital level, availability of agricultural inputs, access to 
+finance, agricultural services provision (such as information, agricultural research 
+
+                                                 
+1  Please see OEL-5 for complete Technical References.  
+2  UNDP Human Development Index. 
+3  Haiti: Des opportunités pour tous-Diagnostic-Pays Systématique, May 2015. 
+4  World Bank and ONPES, 2014. 
+5  Haiti Demographic and Health Surveys. 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 3 - 
+
+ 
+
+and technology transfer, irrigation, agricultural health and food safety) and 
+macroeconomic and trade policies. Some of the main factors that exacerbate low 
+productivity include: 
+
+a. Low level of investment and access to technologies. Most producers in 
+Haiti are still using basic techniques predominantly for subsistence agriculture 
+and lack of access to certified high-quality seeds, appropriate soil conservation 
+techniques, inputs for production (i.e. pesticides and fertilizers)6 as well as 
+basic tools and equipment. The General Agricultural Census (RGA) shows that 
+only 7% of the farmers used mechanical equipment. Also, the baseline data 
+collected for Technology Transfer to Small Farmers Program (PTTA) show that 
+only 9% of the farmers had used improved seeds and only 22% have 
+knowledge of certified seeds. The number of providers is limited in the country 
+and their geographical locations do not allow to serve the vaste majority of 
+smallholder farmers.7 In addition, a constrained access to factors of production 
+(capital, land, labor, water availability)8 greatly limits the capability of farmers 
+to increase productivity. This is explained in part by the significant financial 
+constraints faced by farmers, due notably to the lack of agricultural credit, 
+particularly in rural areas, where financial markets are thin or non-existent. 
+Data collected for the evaluation of the agroforestry technology provided by 
+PTTA in the North Department show that 28% of the farmers have a bank 
+account and 19% have received a credit for agricultural purposes. Lack of 
+information about existing technologies, farming techniques, access to 
+markets, natural risks and climate change is also a contributing factor.  
+
+b. Lack of financial and human resources to develop agricultural 
+innovation. Agricultural research and extension has been virtually 
+non-existent in Haiti for nearly three decades, (Cirad, 2015). Aggregate 
+numbers show that over the last three decades technical efficiency in the 
+Haitian agricultural sector has fallen drastically, at a -1.8% average yearly rate 
+(Nin-Pratt, A. et al. 2015). Factors that contribute to explain these findings are 
+the outdated institutional research framework, and the lack of technology 
+transfer and extension systems. The lack of local expertise in applied and 
+adaptive agricultural research as well as technology transfer is in turn partially 
+explained by the very limited training and educational opportunities in these 
+areas (some universities, such as FAMV, offer academic courses, but the 
+quality of their curriculum remains low).9 The institution in charge of agricultural 
+research is the Innovation Directorate of the MARNDR, which has 
+71 employees distributed across the country, with only 6% of them having an 
+education sufficient to conduct research activities. The 2009 RGA reports that 
+43% of the farmers identified weak agricultural research and extension 
+services as a constraint for the development of the sector. Moreover, only 
+2.6% of farmers mentioned receiving some type of technical assistance. 
+
+                                                 
+6  In a study conducted by USAID in the North of Haiti in 2017, it is estimated that 28% of farmers use pesticide. 
+
+Fertilizers is used by 4% of cacao producers, 13% of banana producers and 95% of rice producers. 
+7     See Technical Document for Component II (Bellande, 2016). 
+8  Only 13% of agricultural land has access to water, according to the 2009 General Agricultural Census. 
+9   Cirad, 2015. 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 4 - 
+
+ 
+
+c. Climate risks. Haiti is one of the countries with the highest Climate Risk Index 
+(CRI Germanwatch, 2016) and natural disaster risk index in the world 
+(WB, 2005; UNDP, 2004), including climate hazards (Kreft et al., 2015). The 
+climatic risks faced by farmers and their ability to cope with them also limit the 
+long-term growth of the productivity of the agricultural sector in Haiti, especially 
+in a context where watersheds are characterized by severe soil erosion risk 
+and, on average, 50% of the upper watersheds is deforested.10 For instance, 
+hurricane Matthew caused severe economic damages and estimated losses 
+that amounted to US$1.9 billion. The damages and losses in perennial crops 
+(coffee, cocoa, breadfruit, coconut, avocado, citrus and other fruit), which are 
+extremely important for food security and rural income, were particularly high 
+and represented US$433 million, further decreasing capital assets and 
+sources of income for Haitian farmers. For the future, climate models predict 
+temperatures to increase up to 0.8°C for the 2020s; and precipitation scenarios 
+a drying trend in the mid-2020s with 3 to 4% less rainfall in the annual mean 
+(IDB, 2016), translating into losses of 25% in average key crops such as 
+banana, manioc and beans (UNDP, 2015). The limited access of farmers to 
+agricultural technologies (¶1.4a) reduces their ability to cope with these natural 
+and climate risks. 
+
+1.5 The agricultural sector policy context. According to the Inter-American 
+Development Bank (IDB) Agrimonitor database, total public support to the 
+agricultural sector represented, on average, 5.3% of GDP in the period 2006-2012, 
+but only 3.2% of the resources are allocated to finance public goods (the lowest 
+level in Latin America and the Caribbean (LAC), with funding to research basically 
+inexistent), although, in LAC, such public spending has proven higher economic 
+return rates than expenditures directed to the financing of private goods 
+(Anriquez et al., 2016). 
+
+1.6 Recent reforms. In recent years, the Government of Haiti, with the support of the 
+IDB through Policy Grants 2731/GR-HA and 2945/GR-HA, has progressed in key 
+areas of agricultural policy that would improve agricultural productivity and 
+competitiveness in Haiti, as summarized below. 
+
+a. Agricultural Research.  In 2013 the Ministry of Agriculture, Natural Resources 
+and Rural Development (MARNDR) and other agricultural research 
+stakeholders, with the support of the IDB: (i) reviewed and analyzed the 
+agricultural research programs and activities implemented in the last three 
+decades; (ii) worked on the strategic issues on which research financing should 
+focus; and (iii) reviewed different research financing instruments. This work 
+resulted in the drafting of a new research institutional framework and a 
+financing mechanism (Fonds National de Recherche pour un Développement 
+Durable, FONRED), which is expected to be implemented in 2017. 
+
+                                                 
+10  Agricultural exploitation stressed the environment and have led to soil erosion and deforestation to be endemic 
+
+problems in Haiti (McClintock, 2003). The great deforestation of the country began during the colonial period 
+and was intensified in 1730 with coffee introduction, then other agricultural practices as monoculture and 
+clean-cultivation caused rapid erosion and exhausted soil nutrients (Paskett and Philoctete, 1990). Most 
+hillsides are eroded and a third of the land is severely degraded (White and Jickling, 1995). Also, gully erosion 
+is chronic, which compromises soil fertility, infrastructure quality, and productivity (Wahab et al., 1986). 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 5 - 
+
+ 
+
+b. Farmers’ access to technologies. A two-fold strategic approach was 
+proposed to address the limited access of farmers to improved technologies: 
+(i) create a legal and policy framework for a modern agricultural research 
+system in the country (see above); and (ii) expand progressively the incipient 
+market-friendly system of “smart subsidies” for promoting the adoption of 
+agricultural technologies, reducing the supply-driven distribution of subsidized 
+inputs and avoiding the crowding out of private suppliers. 
+
+c. Institutional reform of the Ministry of Agriculture. In 2013, the MARDNR 
+created a procurement unit (UPMP, Unité de Passation des Marchés Publics) 
+to improve its capacity to absorb and administer financial resources. The 
+Studies and Planning Unit (UEP) was staffed with high-level professionals, and 
+launched the preparation of programmatic plans, with the objective of 
+rationalizing budget preparation. 
+
+1.7 In Haiti, the Bank is already financing investments for the provision of several 
+agricultural public goods (agricultural health and food safety, land administration, 
+fisheries management, rural infrastructure) through the following operations: 
+Natural Disaster Mitigation Program II (3622/GR-HA), Artisanal Fisheries 
+Development Program (3492/GR-HA), Modernization of Public Agricultural Health 
+Services (3260/GR-HA) and Land Tenure Security Program in Rural Areas 
+(2720/GR-HA). Investments in agricultural research and technology transfer 
+complement the existing portfolio. 
+
+1.8 Synergies with other initiatives. Several national and international institutions 
+are partnering with the MARNDR on the provision of incentives to smallholder 
+farmers and on applied agricultural research and training in Haiti: (i) the World 
+Bank, USAID and the French Development Agency for the agricultural incentives 
+program; and (ii) FAO, the Embassy of France in Haiti, USAID, IICA, the University 
+of Quisqueya, the Faculty of Agronomy and Veterinary Medicine (FAMV), and 
+NGOs for applied agricultural research and training. 
+
+1.9 On the Bank side, the second phase of the Natural Disaster Mitigation Program 
+(PMDN II - HA-L1097/HA-G1031), implemented by the MARNDR since 2016, 
+offers possible synergies, notably related to watershed protection (combination of 
+infrastructure provided by PMDN and sustainable farming practices promoted by 
+PITAG), and to the strengthening of the FAMV curriculum. Other synergies (both 
+on content and geographical areas) are envisaged with the Land Tenure Security 
+Program in Rural Areas (2720/GR-HA), Water Management Program in the 
+Artibonite Basin (3089/GR-HA), the Program to Establish a Partial Credit 
+Guarantee Fund for Enterprise Development (2416/GR-HA), and MIF 
+interventions in all suitable intervention areas. Collaboration with the last two 
+programs will be particularly useful to facilitate the integration of farmers into the 
+value chain and their access to broader markets. 
+
+1.10 In order to maximize synergies, avoid duplication and adequately define the 
+activities of PITAG, a coordination process was conducted with the various 
+initiatives of the institutions listed above and will be continued during program 
+execution through regular meetings and especially through the Agricultural 
+Sectorial Group (a donor coordination mechanisms) that the Bank’s chairs in Haiti. 
+
+
+
+- 6 - 
+
+ 
+
+1.11 Lessons Learned. During the period 2011-2016, the MARNDR implemented the 
+PTTA (2562/GR-HA), through funding provided by the Bank and the Global 
+Agriculture and Food Security Program (GAFSP), and the Natural Disaster 
+Mitigation Program (PMDN – 2187/GR-HA). These programs covered a total area 
+of 20,240 hectares across the South, North and Northeast departments. They 
+benefitted a total of 43,956 small agricultural producers: 9,043 for PMDN and 
+34,913 for PTTA 1. While PMDN focused on the promotion of agroforestry 
+technological packages, PTTA promoted technological packages for irrigation, 
+sisal, annual crops (rice, sweet potato, peanuts and vegetables), and agroforestry 
+(coffee, cocoa, diversified crop systems). Qualitative and quantitative evaluations 
+assessed that with an average adoption rate of 80%, and with average incentive 
+values of US$595/farmer for PMDN and US$700/farmer for PTTA, agroforestry 
+technological packages have generated positive results, since they contributed to 
+the reforestation of about 13,082 hectares in the country, and led to significant 
+increases in gross value added per plot ranging from 10% to 109%. The 
+evaluations also found that results have been more limited for the annual crops 
+(rice and vegetables), with no significant improvement of gross value added, since 
+farmers did not modify their agricultural production practices. However, the 
+subsidies contributed to reduce farmer decapitalization, as farmers used the 
+vouchers to avoid selling cattle (an average effect of US$227) or contract informal 
+and expensive credit to buy agricultural inputs (a 10% points difference between 
+treatment and control groups).  
+
+1.12 From a conceptual and operational standpoint, the proposed operation has been 
+therefore designed on the basis of the lessons learned through PTTA and several 
+other programs that implemented similar incentive mechanisms in Haiti: (i) the 
+Agricultural Services Strengthening Program I and II (RESEPAG), financed by the 
+World Bank and GAFSP; (ii) the Natural Disaster Mitigation Program II (PMDN 
+II- 3622/GR-HA), financed by Bank; and (iii) the Food Security Support Program 
+(SECAL), financed by the European Union and the French Development Agency. 
+Other similar programs have been financed by the IDB in other countries, such as: 
+(i) the Direct Supports for the Creation of Rural Agrifood Initiatives II (CRIAR) in 
+Bolivia (3536/BL-BO); (ii) the Agroalimentary Productive Support Program 
+(APAGRO) in Nicaragua (2055/BL-NI); and (iii) the Technological Innovation 
+Program II (PATCA) in the Dominican Republic (2443/OC-DR). In addition to the 
+lessons learned through the aforementioned operations, the design of the 
+proposed operation takes into account: (i) the Review of the Bank's Support to 
+Agriculture, 2002-2014, published (OVE, 2015); and (ii) the analysis of the 
+performance of the incentive mechanism of the programs implemented in Haiti 
+(IRAM, 2015). The main lessons learned and their inclusion in the design of the 
+program are summarized in Table I-2.
+
+
+
+- 7 - 
+
+ 
+
+Table I-2. Incorporation of Lessons Learned in the Design of the Proposed Program  
+
+Lesson Learned Source of the 
+Lesson 
+
+How the lesson shaped the 
+design of the program 
+
+(i) PTTA provided vouchers to rice and vegetable 
+producers in order to purchase inputs such as labor, 
+fertilizer, and pesticides. The results of the evaluation show 
+that while the vouchers led to some adjustments in crop 
+choices and input use, these changes did not translate into 
+increased agricultural productivity or income. 
+
+A randomized 
+control trial impact 
+evaluation of PTTA 
+(rice and vegetable 
+vouchers) (Gignoux 
+et al., 2016). 
+
+Agricultural and Agroforestry 
+Technological Innovation 
+Program (PITAG) shifts its focus 
+from subsidies to inputs that are 
+widely known and used by 
+farmers (i.e. most rice-growers 
+reported to have applied urea 
+(88%), other chemical fertilizer 
+(71%), and pesticide (79%) in the 
+baseline survey), towards the 
+promotion of more suitable 
+technologies and agroforestry 
+systems, which enhance soil 
+conservation and generate 
+positive environmental 
+externalities.  
+
+ 
+
+(ii) Agroforestry vouchers could be used for services such 
+as pruning and grafting, or inputs such as seedlings and 
+pesticides. The evaluation shows that, compared to the 
+control group, beneficiary farmers increased the total 
+number of plots planted and specifically the number of plots 
+with annual crops. The project also had a positive impact 
+on the use of labor and increased the expenditure in 
+permanent seedlings. In addition, the program determined 
+a 23% increase in farmers’ expected production, 38% in 
+expected income and 78% in expected profits. 
+
+An impact evaluation 
+using a propensity 
+score matching on 
+agroforestry 
+vouchers provided 
+by PTTA 
+(Fahsbender et al., 
+2017) 
+
+(iii) Include robust monitoring and evaluation arrangements 
+in project design that will establish with certainty which 
+elements of the program are effective. 
+
+OVE, 2015 PITAG is built on the lessons 
+learned through rigorous impact 
+evaluations, and will measure its 
+impacts through a rigorous 
+monitoring and evaluation 
+strategy. 
+
+(iv) In designing projects, place as much emphasis on 
+technical assistance as on the productive capital goods to 
+be offered to beneficiaries. 
+
+OVE, 2015 Technical assistance to farmers 
+and technology providers has 
+been strengthened in PITAG, 
+through specific activities 
+included in Component II. 
+
+(v) The design of new technological packages must be 
+directly related to the results of applied agricultural 
+research, while considering the diversity of climates and 
+social contexts in which they will be implemented. 
+
+IRAM, 2015; PMDN I 
+Mid-Term and Final 
+Evaluations 
+
+PITAG includes applied research 
+component (Component I). 
+
+(vi) The menu of technologies should be designed as to 
+enhance agricultural productivity and contribute to climate 
+change adaptation, without damaging the environment. 
+Also, the promotion of technologies and practices should 
+be avoided if certain conditions related to access to factors 
+of production (especially water) are not fulfilled. 
+
+IRAM, 2015; PMDN I 
+Mid-Term and Final 
+Evaluations 
+
+PITAG makes a particular effort 
+at identifying specific 
+technologies that will facilitate 
+climate change adaptation. 
+
+(vii) It is necessary to develop synergies and 
+complementarities among projects at local level (i.e., 
+watershed protection through the combination of 
+infrastructure, adoption of sustainable cropping practices 
+and land tenure security; value chain development through 
+support to agribusiness and Small and Medium Enterprises 
+(SME) and adoption of sustainable cropping practices) to 
+maximize impacts. 
+
+PMDN I Mid-Term 
+and Final 
+Evaluations 
+
+PITAG is designed in 
+coordination with other 
+complementary initiatives (see 
+par. 2.7-2.9). 
+
+
+
+- 8 - 
+
+ 
+
+1.13 Justification for public intervention. From an economic perspective, several 
+reasons justify public investment in agricultural research and training, as well as 
+technology transfer services to farmers. Public investment in agricultural research 
+and technology transfer schemes show high rates of social and economic returns 
+(Alston et al., 2000). In addition, the proposed program will focus its support in 
+promoting technologies (mainly agroforestry) that will generate positive 
+environmental externalities. Moreover, with regards to technology transfer 
+interventions, the literature also recognizes the existence of several market failures 
+that hinder the process of agricultural technology adoption in developing countries, 
+including: (i) lack of access to information and/or asymmetric information; (ii) input 
+and output market inefficiencies (Feder, Just and Zilberman, 1985; Jack, 2013); 
+(iii) liquidity constraints and insufficient access to credit; and (iv) risk aversion. 
+
+1.14 The lack of information limits technology adoption not only because agricultural 
+producers lack knowledge on the effective use of these technologies, but also 
+because they lack information regarding location of private providers or costs of 
+production. For instance, in the case of Nepal, Joshi and Pandey (2005) show that 
+farmers’ perceptions regarding different rice varieties influence adoption decisions. 
+Therefore, the authors conclude that it is important to disseminate information 
+broadly using different methods to form accurate perceptions of the technologies 
+to be promoted among farmers. Similarly, Conley and Udry (2004) demonstrate 
+the importance of learning and information effects on the technological adoption in 
+Ghana. Specifically, the authors show that pineapple producers changed their 
+input use patterns only when they gained access to information regarding 
+production yields from neighboring farmers. Finally, Bentley et. al (2011) measured 
+the effect of farmers´ field schools where free information regarding plant health 
+and agricultural practices is provided to farmers in Bolivia. The authors found that 
+adoption rates are higher (about 82%) for producers who received the information, 
+in comparison with the control group. 
+
+1.15 As for the presence of thin markets for technology providers in rural regions, this 
+is mainly caused by the small population density spread in remote and large areas 
+without accessible roads and high transaction costs (IFAD, 2003). Therefore, it is 
+not profitable for technology providers to be located in areas under these 
+conditions without certainty of a demand for their technologies. On the other hand, 
+it is difficult for farmers to reach technology providers as these are primarily located 
+in urban or suburban areas. The presence of liquidity constraints and credit 
+restrictions is one of the principal factors that limit smallholder farmers’ technology 
+adoption, as mentioned in ¶1.4.  
+
+1.16 Finally, the fourth obstacle that limits technology adoption is risk aversion. This 
+factor limits technology adoption because producers prefer certainty regarding the 
+future yields that will be obtained with new technologies before incurring the initial 
+cost. Thus, producers tend to postpone technology investments until they can 
+confirm the benefits associated with the adoption of such technologies through 
+experience from other farmers (Feder, 1980). Several studies provide evidence on 
+the negative impact of risk aversion on technology adoption such as Abadi 
+Ghadim, Pannell y Burton (2005) and Besley and Case (1994), which in the case 
+of Haiti could be further accentuated by climate uncertainty.  
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 9 - 
+
+ 
+
+1.17 The Agricultural and Agroforestry Technological Innovation Program (PITAG) aims 
+to improve technology adoption by reducing the aforementioned market failures. 
+Specifically, the provision of a matching grant that partially covers the cost of an 
+agricultural technology aims to ease liquidity and credit constraints faced by 
+smallholder farmers. Secondly, the provision of technical assistance to farmers 
+aims to reduce the barriers related to risk aversion and information asymmetry. 
+Lastly, the implementation of technology fairs aims to reduce the lack of 
+information and eliminate problems related to shortage of supply and thin markets 
+by bringing together demand (small farmers) and supply (technology private 
+providers). Given the ability of the program to mitigate these three market failures, 
+together with high social returns of agricultural research and technology transfer 
+and the positive environmental externalities the program would produce, public 
+intervention is justified. 
+
+1.18 Evidence of the relevance of the selected thematic areas of intervention. 
+Agricultural productivity can be influenced by a wide range of factors such as land 
+tenure status, human capital level, availability of agricultural inputs, climate 
+change, access to finance, the provision of agricultural services (such as 
+information, agricultural innovation, irrigation, agricultural health and food safety) 
+and macroeconomic and trade policies. A strategy to improve the agricultural 
+sector’s performance requires a set of well-defined policies geared towards 
+promoting efficient factor and product markets.  
+
+1.19 The economic literature presents ample evidence of the linkage between 
+agricultural services and agricultural productivity, which is a main driver of 
+competitiveness. Research and technology transfer have been shown to be among 
+the key determining factors of improvements in agricultural productivity over the 
+past 50 years (Pardey et al., 2012). Food and Agriculture Organization of the 
+United Nations (FAO, 2012) reports that research and technology transfers are 
+priorities in order to meet the growing demand for food because of their high 
+returns. Specific studies obtain rates of return ranging from 43% to 67% for 
+investments in research and technology transfer (Alston et al, 2014; Jin and 
+Huffman, 2015).  
+
+1.20 In addition to the PTTA impact evaluations (mentioned above), other studies have 
+analyzed the impact of similar programs in Latin America and the Caribbean. 
+Gonzalez et. al. (2009) evaluate the impact of an agricultural technology transfer 
+program, Technological Support in the Agricultural Sector, that aims to reduce the 
+barriers that limit technology adoption among farmers in the Dominican Republic. 
+The study presents evidence that the adoption of the promoted technologies 
+increases productivity levels for beneficiary producers of rice and livestock. As for 
+technologies that aim to increase agricultural productivity through the promotion of 
+environmentally friendly technologies, there is evidence of their impact on income 
+and productivity. Specifically, different studies of the Environmental Program of El 
+Salvador (PAES), which promoted the adoption of conservation technologies and 
+product diversification show that the project had positive effect on household 
+income (Cocchi and Bravo-Ureta, 2007; Bravo-Ureta, 2006). Also, (Bravo-Ureta et 
+al. (2010) analyze the impact of the Natural Resources and Water Basins 
+Management Program (MARENA) in Honduras, which promoted agroforestry and 
+soil conservation technologies with the goal to increase diversified farming and 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 10 - 
+
+ 
+
+enhance soil, water and forest management. They find positive results of the 
+project on the total value of agricultural production. 
+
+1.21 The adoption of sustainable practices can increase the resilience of crop yields, 
+which are expected to drop between 5-10% by 2060 because of temperature 
+increase and shift in precipitation patterns,11 and improve watershed management 
+and soil conservation. The promotion of resilient crops, through the adoption and 
+multiplication of agroforestry, and the dissemination of climate change awareness 
+has proven to increase system resilience and, therefore, enhance livelihoods. For 
+example, use of cover crops in Brazil over maize increased its production by 
+198-246% (Altieri, 2001), and intercropping can enhance soil fertility, reduce 
+reliance on chemical fertilizers, and therefore reduce the carbon footprint of the 
+agricultural sector (Conant, 2010). 
+
+1.22 Finally, with regards to food security, (Salazar et. aAl., 2016) assesses the impact 
+of the CRIAR program in Bolivia that aims to improve access to agricultural 
+technologies through a voucher-based subsidy scheme. The results show that 
+beneficiary households are 20–30% more likely to be food secure than the control 
+group and 22% less likely to be concerned about lack of food. This increase was 
+driven both by food availability and food access. The annual value of production 
+per hectare increased by 92% and the value of production sold by 360%, and the 
+results also show that participation in CRIAR increased net annual agricultural 
+household income by 36% and per capita household income by 19%.  Also, an 
+ongoing study of the PATCA II, that provides voucher-based subsidies to farmers 
+to improve agricultural technology adoption, shows that beneficiary farmers 
+increased food security by 27% (Salazar et. al., 2016). 
+
+1.23 Consistency with national priorities. The proposed program is consistent with 
+the 2010-2025 Agriculture Policy Document, the 2010-2016 and 
+2016-2021 National Agriculture Investment Plan (NAIP), the 2011-2016 
+Agricultural Extension Plan, and Haiti’s Intended National Determined Contribution 
+(INDC, 2015). These documents envision to build-up and strengthen a modern 
+agricultural sector based on the efficiency and effectiveness of family agriculture 
+and agribusiness. 
+
+1.24 Strategic alignment. The program is consistent with the Update to the Institutional 
+Strategy (UIS) 2010-2020 (AB-3008) and is strategically aligned with the 
+development challenges of: (i) productivity and innovation, through the generation 
+of sustainable agricultural technologies and improving access to those 
+technologies, as reflected by the impact indicator “Annual household value of 
+agricultural production.” The program is also aligned to the cross-cutting themes 
+of: (i) climate change and environmental sustainability, through the generation and 
+promotion of climate change adaptation and sustainable technologies, as reflected 
+in the result indicators “Beneficiaries who adopted soil protection and restoration 
+
+                                                 
+11  According to a vulnerability study for the agricultural sector in Haiti’s National Adaptation Plan of Action (PANA), 
+
+the temperature increase is estimated to vary between 1°C by 2030 and up to 1.7°C by 2060 and precipitation 
+patterns are expected to decrease between 20% by 2030 and up to 35.8% by 2060, with a specific impact on 
+irrigated crops. Corn projection scenarios foresee a decrease of 4% by 2030 and 7.7% by 2060; b) for rice 
+decreases will attain 9% by 2030 and 15% by 2060 and potato will reach a 5% decrease by 2030 and 10% by 
+2060. 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-40
+
+
+- 11 - 
+
+ 
+
+technologies,” “Additional hectares of land applying agroforestry technologies,” 
+and (ii) gender equality and diversity, through the reduction of gender inequalities 
+and the promotion of women’s participation, as reflected in the result indicator 
+“Women beneficiaries of economic empowerment initiatives.” The program 
+contributes to the Corporate Results Framework (CRF) 2016-2019 (GN-2727-6) 
+through the indicators of: “beneficiaries of improved management and sustainable 
+use of natural capital,” “women beneficiaries of economic empowerment 
+initiatives,” “farmers with improved access to agricultural services and 
+investments” and “beneficiaries of IDBG projects that contribute to at least one key 
+dimension of food security. The program is aligned with the Bank’s Country 
+Strategy with Haiti 2011-201512 (GN-2646), which sets agriculture as a priority 
+sector of intervention. The program is also included in the 2017 Operational 
+Program Report (GN-2884) and is aligned with the Country Strategic Objective 
+“Protect the environment, respond to climate change and enhance food security”. 
+The program is also consistent with the “Agriculture and Natural Resources 
+Management Sector Framework Document” (GN-2709-5) as it focuses on the 
+provision of public agricultural goods and promotes access to technology, with the 
+“Food Security Sector Framework” (GN-2825-3), as it will increase agricultural 
+productivity and therefore contribute to food security, and the “Climate Change 
+Sector Framework” (GN-2835-3) as the program enhances resiliency of vulnerable 
+farmer communities through adaptation measures. According to the joint MDB 
+approach on climate finance tracking, an estimated 64.56% of total IDB funding for 
+this project result in climate change mitigation and adaptation activities. This 
+contributes to the IDBG’s climate finance goal of 30% of combined IDB and IIC 
+operational approvals by year’s end 2020.  
+
+1.25 Gender mainstreaming. In the context of PTTA, a gender gap analysis was 
+conducted. This study combined qualitative data from focus groups and 
+quantitative data from the baseline survey. The main conclusions are the following: 
+(i) women heads of household have less time to allocate to agricultural activities 
+and therefore, have higher labor expenditures than men (310 Gdes vs. 280 Gdes); 
+(ii) women heads of household have smaller plots and less access to land; 
+(iii) women sell a lower proportion of their production and allocate more to home 
+consumption compared to men (52% vs. 64% in the case of rice); (iv) more 
+female-headed households face severe food insecurity (86% vs 71%); 
+(v) female-head of households are less educated than men (55% never attended 
+school vs. 30%); and (vi) female-headed households have lower annual income 
+(US$176 vs. US$347) (Coelho, 2015). 
+
+1.26 As a result of the gender gap assessment the following activities will be included 
+as part of PITAG, with the objective of reducing gender inequalities and promoting 
+women’s participation. First, PITAG will include an information campaign that 
+targets women directly. Second, Component I will allocate financial resources to 
+five applied research projects with the objective of developing new agricultural 
+technologies that are directly targeted towards women’s needs or crops usually 
+grown by women. Third, Component II will promote post-harvest technologies that 
+are targeted towards agricultural activities usually conducted by women (i.e. mills 
+and moisture meters). Fourth, the agroforestry packages will include crop varieties 
+that aim to reduce food insecurity such as moringa and mirlinton, which are usually 
+
+                                                 
+12  Currently in effect until December 2017 (GN-2646-2). 
+
+https://publications.iadb.org/handle/11319/7807
+https://publications.iadb.org/handle/11319/7807
+
+
+- 12 - 
+
+ 
+
+grown by female farmers. Fifth, the program will be monitored and evaluated using 
+sex-disaggregated indicators. 
+
+1.27 Climate change. The National Determined Contribution of Haiti defines a 
+conditional target of 31% GHG emissions reduction, and includes key agricultural 
+adaptation and mitigation actions such as development of crops resilient to climate 
+change, sustainable practices and conservation of agricultural genetic resources, 
+soils and water resources to attain its commitment. The program contributes to the 
+NDC target through the development and promotion of sustainable and climate 
+resilient technologies (mainly focusing on agroforestry packages), which will also 
+contribute to the reforestation of the country and the reduction of net emissions.13 
+
+B. Objective, Components and Cost 
+
+1.28 The general objectives of the program are to increase agricultural income and food 
+security for smallholder farmers in selected areas of Haiti. The specific objectives 
+are to increase agricultural productivity and improve the use of natural capital 
+through the adoption of sustainable technologies. The channels through which 
+increases in agricultural productivity are expected to increase food security are 
+twofold. First, higher agricultural productivity will translate into higher agricultural 
+yields, increasing food production for home-consumption. Second, higher 
+agricultural productivity will increase agricultural income from increased production 
+sales which, in turn, will improve household’s purchasing power for, amongst other 
+goods, foodstuffs. To achieve its objectives, the program will be structured in two 
+components. 
+
+1.29 Component I. Applied research and training (US$14,600,000). The objective of 
+this component is to generate and disseminate applied agricultural research and it 
+will finance the following activities: (i) applied and adaptive agricultural research 
+projects developed and implemented by national and/or international institutions. 
+These research projects will create, improve and/or adapt sustainable agricultural 
+technologies that will enhance the supply of technological options available to 
+farmers. Eight main projects (total budget: US$9,318,000) were identified through 
+a prioritization exercise based on an index that summarized economic, social, and 
+environmental indicators as well as the yield gap vis-à-vis other countries in the 
+region. All research projects will include climate considerations and foster 
+adaptation and mitigation measures. Seven additional smaller projects will be 
+demand-driven (total budget: US$3,080,000) and will be selected through a similar 
+prioritization exercise; (ii) the strengthening of the higher education curriculum 
+through activities conducted within the research projects (scholarships, among 
+others), in order to improve applied and adaptive research and technology transfer 
+capabilities in Haiti; and (iii) the institutional strengthening of the MARNDR 
+Innovation Directorate (ID), through: (a) technical and scientific support; 
+(b) materials and equipment; (c) strengthening of the technical and scientific profile 
+of its professionals; and (d) an innovation information system. The component will 
+be executed by the ID of the MARNDR. The selection of the various proposals will 
+be conducted by a panel composed by Ministry staff and external experts (faculty 
+
+                                                 
+13  According to the Intergovernmental Panel on Climate Change (IPCC), agroforestry is a climate smart practice, 
+
+as it has a mitigation potential of 1.1–2.2 Pg carbon over the next 50 years and also provides proven resiliency 
+assets. 
+
+
+
+- 13 - 
+
+ 
+
+members from Haiti and abroad). The results of Component I will progressively 
+provide inputs for the technology menu promoted by Component II, including 
+climate considerations. A behavioral study will be also conducted to determine 
+farmers’ willingness to pay for the new technologies (resulting from the adaptive 
+research) to be introduced in the menu. The activities of the component are 
+consistent with the recent reforms supported by the IDB as represents a first 
+opportunity of application of the FONRED guidelines, whose development was 
+supported by the IDB. 
+
+1.30 Component II: Promotion of sustainable agricultural technologies 
+(US$55,909,305). This component will finance the adoption of profitable, climate 
+smart, and sustainable agricultural technologies that will improve farm profitability, 
+generate positive environmental externalities, and facilitate the mitigation of and 
+adaptation to climate change. The component will be implemented through the 
+agricultural incentives mechanism implemented by the MARNDR. A preliminary 
+technology menu has been selected through a prioritization exercise based on the 
+relative importance of the different crops, their socio-economic relevance and their 
+environmental sustainability. This menu will include: pre-harvest, harvest and 
+post-harvest technologies, as well as sustainable soil recovery and conservation 
+practices (i.e. agro-forestry systems, sustainable soil management techniques).14 
+This menu will be updated each year, taking into consideration the results of 
+Component I. To become beneficiaries of this component, interested farmers will 
+participate in a series of fairs that will be organized to match demand and supply 
+for the various technologies. The component will cover 90%15 of the costs of the 
+technologies through a matching grant, and farmers will cover, in cash, the 
+remaining 10%. The maximum amount of subsidy will depend on the specific 
+technology chosen by farmers and will go up to US$2,000, with a weighted 
+average of US$950. Given the damages experienced by farmers in the areas 
+affected by hurricane Matthew (South and Grand’Anse Departments), the 
+component will finance the total cost of the technologies in these regions. The 
+demonstrated results of the selected technologies ensure the sustainability of the 
+intervention (see Table I-2). The component will also finance: an information 
+system for program implementation, technical assistance for farmers (specific 
+assistance on how to choose and apply the technologies and general, strategic 
+assistance on farm management and commercialization), and technical assistance 
+for technology providers (mainly focused on quality control and environmental 
+management). Technical operators will facilitate the implementation of the 
+Program in the different intervention areas. 
+
+1.31 Other project costs (US$6,350,000). Other activities to be financed include: 
+(i) administration (e.g., consultants, travel, equipment, operational costs, audits); 
+(ii) mid-term, final, and impact evaluations; and (iii) contingencies. 
+
+C. Key Results Indicators 
+
+1.32 The Results Framework (Annex II) has been agreed with the Government of Haiti 
+and includes the program’s objectives, impacts, results and products, as well as 
+
+                                                 
+14  The initial list of technologies includes: motor-pompes, animal traction, cane mills, threshers, stocking 
+
+equipment, different types of agroforestry packages, different types of forestry packages, forages. 
+15  This percentage is meant to represent an average across technologies, and was determined on the basis of 
+
+previous experiences, income data, and indicators collected during the evaluation of related programs. 
+
+
+
+- 14 - 
+
+ 
+
+their respective indicators. Table I-3 summarizes the program’s key impact 
+indicators, measurement period and selection rationale. 
+
+Table I-3. Key Indicators 
+
+Impact/ Results indicator Measurement 
+period 
+
+Selection rationale 
+
+(i) Percentage of male-headed 
+households who are severely 
+food insecure using the Food 
+Insecurity Experience Scale 
+(FIES) 
+
+Y1 and Y5 This indicator measures the degree of food 
+insecurity faced by the household, and it will 
+be measured separately for male and 
+female headed households, and compared 
+with a control group. 
+
+(ii) Annual value of agricultural 
+production (US$/household) 
+
+Y1 and Y5 This indicator is a proxy for agricultural 
+productivity. 
+
+(iii) Additional hectares of land 
+applying agroforestry 
+technologies 
+
+Y1 and Y5 This indicator will measure the adoption of 
+agroforestry technologies and monitor forest 
+coverage, and will be measured separately 
+for male and female farmers. 
+
+1.33 Economic analysis. The program’s ex-ante economic analysis is based on a cost 
+benefit methodology that examines the economic viability for each of the 
+technologies selected as well as for the program as a whole. The costs considered 
+include the investment (i.e., asset cost, technical assistance and private 
+investment), operation, maintenance and reposition of the technologies as well as 
+additional production costs and opportunity costs. The net benefits attributed to the 
+adoption of the technologies were estimated using technical coefficients for labor 
+and inputs obtained from the impact evaluation of agroforestry technologies 
+provided with PTTA as well as from the technical report for Component II. The 
+results of the analysis, using efficiency prices, an adoption rate of 75%, a 12-year 
+horizon, and a discount rate of 12%, confirm that the program is economically 
+viable with a net present value of US$28,000,000 and Internal Rate of Return (IRR) 
+of 27%. Table I-4 shows the expected effects from each of the options offered in 
+
+the technological menu with their respective IRR. 
+
+Table I-4. Expected Effects and Internal Rates of Returns for the Technologies 
+
+Technology Direct Effects IRR 
+
+Agroforestry Increase productivity and improve soil quality 41.7% 
+
+Irrigation Increase productivity and crop diversification 67.9% 
+
+Animal traction Increase production 22.7% 
+
+Post-Harvest equipment Increase income due to food processing 49.3% 
+
+1.34 Beneficiaries. The program will have the following beneficiaries: (i) 3,000 direct 
+beneficiaries of the agricultural applied research and training projects 
+(Component I); and (ii) 65,048 farmers that will directly benefit from the matching 
+grant mechanism promoting the adoption of technologies (Component II). It is 
+expected that women would represent at least 40% of these beneficiaries. The 
+departments targeted by the program are: North, North-East, Artibonite, South, 
+and Grand’Anse. The first three departments have been selected because of the 
+foreseen synergies with other complementary programs and the South and 
+Grand’Anse were included to re-capitalize these departments after the damages 
+caused by hurricane Matthew. Based on information obtained through PTTA, the 
+expected beneficiaries will be farmers who, on average, have access to 
+
+
+
+- 15 - 
+
+ 
+
+1.4 hectares of land and plant 0.7 hectares; have low levels of income 
+(US$248 annual household agricultural income and US$208 income from 
+livestock); and low levels of schooling (53% are illiterate, 26% have incomplete 
+primary school, 9% finished primary school and 2% have a high school degree). 
+Given the program’s limited resources, the proposed targeting will help to: 
+(i) ensure the coordination with other rural development programs financed by the 
+Bank and other partners (see ¶2.6); and (ii) focus attention on farmers who are in 
+most need of the proposed technological changes.
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing Instruments 
+
+2.1 The total program amount is US$76,859,305. The Grant Facility will finance 
+US$55,000,000, the GAFSP16 will finance US$10,000,000, and International Fund 
+for Agricultural Development (IFAD)17 will finance the remaining US$10,859,305. 
+The local counterpart will finance US$1,000,000 to cover recurrent costs. IFAD 
+might elect, by the end of 2017, to contribute to the project through a Project 
+Specific Grant (PSG) administered by the Bank, in place of a parallel cofinancing, 
+for the budgeted amount. Such additional non-reimbursable funding will contribute 
+to the project according to Table II-1. In this case, the Bank would establish a 
+commitment from IFAD through an administrative agreement without the 
+requirement of preparing or approving a separate project proposal. Under such 
+administrative agreement, the resources provided by the donor will be 
+administered by the Bank. The Bank will not charge an administrative fee for donor 
+contributions to projects in Haiti.  The Board is therefore requested to authorize the 
+President, or such representative as he shall designate, to enter into such 
+agreements as may be necessary with IFAD and with the Republic of Haiti to 
+receive, administer, and allocate to this operation the PSG resources aimed at 
+supporting and executing the components of this operation. Table II-1 provides the 
+cost summary by investment categories and components. The budget includes all 
+costs associated with risks mitigation measures identified in the ESMP and the risk 
+analysis.
+
+                                                 
+16  This co-financing is subject to the entry into effect of a specific agreement for the financing of this program to 
+
+be signed between the IDB and GAFSP. 
+17  This parallel financing is subject to IFAD´s approval. 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-6
+
+
+- 16 - 
+
+ 
+
+Table II-1. Costs and Sources of Financing (US$) 
+
+Investment categories IDB GAFSP IFAD Local Total 
+
+Components 
+
+Component I. Applied 
+research and training 14,600,000  
+
+ 
+
+ 14,600,000 
+
+Component II. Promotion 
+of sustainable 
+agricultural technologies 35,050,000 10,000,000 
+
+ 
+ 
+
+10,859,305  55,909,305 
+
+Other project costs 
+
+Administration 4,000,000  
+ 
+
+1,000,000 5,000,000 
+
+Audits 150,000  
+ 
+
+ 150,000 
+
+Monitoring & Evaluation 700,000  
+ 
+
+ 700,000 
+
+Contingencies 500,000  
+ 
+
+ 500,000 
+
+TOTAL 55,000,000 10,000,000 
+ 
+
+10,859,305 1,000,000 76,859,305 
+
+• IFAD contribution is, as of today, parallel (co-financing) but might be received by the Bank as 
+a PSG, subject to IFAD’s Board approval. 
+
+ 
+
+2.2 The program is an investment grant operation and it is designed to be disbursed 
+in 60 months. The disbursement calendar is presented in Table II-2 and is based 
+on the Pluriannual Execution Plan (PEP) (see REL-1).  
+
+ 
+
+Table II-2. Disbursement Projections (US$) 
+
+Source Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+IDB 3,123,865 4,150,926 14,565,837 16,471,691 16,687,681 55,000,000 
+
+GAFSP 1,000,000 2,000,000 3,000,000 3,000,000 1,000,000 10,000,000 
+
+IFAD 1,000,000 2,859,305 3,000,000 2,000,000 2,000,000 10,859,305 
+
+Local 200,000 200,000 200,000 200,000 200,000 1,000,000 
+
+TOTAL 5,323,865 9,210,231 20,765,837 21,671,691 19,887,681 76,859,305 
+
+% 6.9 12.0 27.0 28.2 25.9 100 
+
+A. Environmental and Social Safeguard Risks 
+
+2.3 According to OP-703, the program was classified as Category “B.” The expected 
+negative impacts are considered to be low, and avoidable through adequate 
+mitigation measures. During project preparation, an Environmental Assessment 
+and an Environmental and Social Management Plan (ESMP) were prepared and 
+consulted.18 Key project impacts and risks include: (i) water resource exploitation 
+by the introduction of water pumps for irrigation purposes. This risk will present a 
+negligible negative impact, based on an ex-ante hydrological assessment of the 
+accumulated pumping capacity of the small number of water pumps (450 over all 
+
+                                                 
+18  The preliminary draft of the Environmental Assessment (and ESMP) was posted on the Ministry of Agriculture’s 
+
+website (http://agriculture.gouv.ht/view/01/) on January 13, 2017 for public view, as well as on the IDB website 
+on January 17, 2017. An updated version, integrating the results of the first consultations, was posted on 
+February 16, 2017, prior to QRR. No further update was needed after last consultation events in 
+September 2017. 
+
+https://idbg.sharepoint.com/teams/EZ-HA-LON/HA-L1107/_layouts/15/DocIdRedir.aspx?ID=EZSHARE-2047280280-3
+http://agriculture.gouv.ht/view/01/
+http://www.iadb.org/en/projects/project-description-title,1303.html?id=HA-L1107
+http://www.iadb.org/en/projects/project-description-title,1303.html?id=HA-L1107
+
+
+- 17 - 
+
+ 
+
+intervention zones) to be financed throughout the life of the program. Moreover, a 
+Water Resource Assessment will be completed prior to project execution to allow 
+for a better understanding of the present state of water resources in the proposed 
+intervention zones. The use of these water pumps will also be monitored; 
+(ii) possible conflicts generated by program activities regarding agricultural use of 
+land in protected areas/Key Biodiversity Areas (KBA).19 To mitigate this risk, the 
+program will only take place in areas where management plans exist and are in 
+effect, and will be implemented in accordance with the respective protected area 
+management plan, including abiding by existing sustainable development zoning 
+regulations; (iii) possible promotion of the use of invasive species. To address this 
+concern, during the first year of the program’s implementation, a study on invasive 
+and non-invasive species will be completed to identify alternatives. If no alternative 
+is found, a management plan relating to the use of the invasive species will be 
+prepared and implemented. The beneficiary shall comply with the environmental, 
+social, health and safety and labor requirements set forth in the Environmental and 
+Social Management Report (ESMR); and (iv) emissions associated with energy 
+forests. To address this risk, for the first years of the PITAG project, energy forest 
+packages will not be offered. Rather, during this time more research will be 
+completed to determine the emissions (particularly of carbon dioxide and black 
+carbon) that may be released due to energy forests. This research will examine 
+the relationship between carbon emissions and sequestration, and the possible 
+contribution to climate change, as well as potential human health impacts from 
+burning biomass (in the form of charcoal or fuelwood). 
+
+B. Fiduciary Risk 
+
+2.4 An update of PTTA/RESEPAG institutional assessment related to its financial 
+management and internal control processes was completed in January 2017. 
+Based on its results, the Bank considers PTTA/RESEPAG overall risk rating to be 
+medium due to following weaknesses: (i) financial reports are prepared manually, 
+which increases the possibility of errors in financial reporting as SYSCOMPTE 
+does not automatically generate financial reports; (ii) limitations identified in the 
+Système Intégré de Gestion des Informations (SIGI), system used for the 
+management of subsidies to farmers; and (iii) absence of a code of ethics. To 
+mitigate those risks the EA: (i) has launched an evaluation of the functionality and 
+the design of the SIGI information system which will advise on the best option to 
+choose for the implementation of PITAG; (ii) will need to set up SYSCOMPTE 
+parameters to allow the automatic generation of financial reports and the 
+monitoring and execution of budget; and (iii) includes a code of ethics and 
+professional conduct in the POM. The fiduciary risk related to procurement delays 
+is classified as medium and its mitigation measures include: (i) anticipation and 
+good planning for complex procurement processes; (ii) strengthening of the UPMP; 
+and (iii) support to the MARNDR to simplify the procedures for contract approval 
+and signature. 
+
+C. Other Key Issues and Risks 
+
+2.5 The design of the program used the methodology “Program Risk Analysis for 
+Sovereign Guaranteed Loans.” A risk identification and management workshop 
+
+                                                 
+19  Sites contributing significantly to the global persistence of biodiversity.  
+
+
+
+- 18 - 
+
+ 
+
+was conducted during program preparation, to identify program risks and 
+mitigation measures. All main counterparts (IDB, MARNDR, private sector, 
+development partners) have been consulted as part of the definition of the risk 
+matrix and its mitigation measures. The high risk identified is the insufficient quality 
+and quantity of technology providers. Several mitigation measures were identified 
+for this risk, namely: (i) strengthened selection process of potential providers, 
+including quality and quantity control; (ii) trainings; (iii) updated quality standards 
+for technologies; (iv) possibility to exclude providers who do not follow the rules; 
+and (v) technology transfer to providers through Component I. The development 
+risk related to the cash constraints of suppliers is medium, and its mitigation 
+measures include: (i) strengthened selection process of potential providers, 
+including quality and quantity control; (ii) promotion of link with microfinance 
+institutions, including programs financed by IDB and Ministry of Commerce; and 
+(iii) good planning of the campaigns in terms of areas and quantities of subsidies. 
+The development risk linked to the lack of local financial counterpart is medium 
+and its mitigation measure is the preliminary planning and communication with the 
+Ministry of Finance. Extreme climatic events have been identified as a medium 
+development risk and the related mitigation measures are: (i) promotion of 
+technologies that are resilient to climate change; (ii) research on climate resilience; 
+and (iii) good planning of the campaigns in terms of areas and seasons. The 
+complexity of the subsidy management process is a medium development risk and 
+its mitigations measures include: (i) updated operational procedure, based on 
+PTTA experience; and (ii) improvement of information system (SIGI). The limited 
+number of actors that can execute quality research in the country is a medium 
+development risk, whose mitigation measures are: (i) promotion of consortia with 
+national and international research centers; and (ii) efforts to give maximum 
+visibility to calls for proposals. The limited transfer of research outputs to producers 
+is a medium development risk and its mitigation measures include: 
+(i) strengthening of coordination between the two Components, the Innovation 
+Directory of the MARNDR; (ii) inclusion of dissemination activities in Component I; 
+and (iii) monitoring of research activities in the country. The difficulty to access 
+intervention areas has been identified as a medium governance risk, whose 
+mitigation measure is the timely preparation of providers and the selection of 
+providers that will have access to difficult areas. Finally, a medium sustainability 
+risk was identified: value added by the technological packages absorbed by 
+household consumption expenses. Its mitigation measures include: (i) promotion 
+of synergies with microfinance initiatives; and (ii) introduction of the matching grant 
+mechanism. 
+
+2.6 The Government of Haiti and the MARNDR expressed high interest in this program 
+and are committed to the sustainability of the activities supported by the Program 
+beyond its execution period, since the program is aligned with the Road Map of 
+the current administration, the 2010-2025 Agriculture Policy Document, the 
+2010-2016 and 2016-2021 National Agriculture Investment Plan (NAIP), the 
+2011-2016 Agricultural Extension Plan, and Haiti’s Intended National Determined 
+Contribution (INDC, 2015). 
+
+
+
+- 19 - 
+
+ 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of Implementation Arrangements 
+
+3.1 The beneficiary of the program will be the Republic of Haiti, and the EA will be the 
+MARNDR, which has been in charge of the execution of most Bank-financed 
+operations in the sector, and currently manages an active portfolio totaling 
+approximately US$140 million. The EA will manage the program through: (i) the 
+technical and administrative team of PTTA/RESEPAG executing unit (PEU); and 
+(ii) the UPMP, which have demonstrated their capacity to execute similar programs 
+in the past. The EA will be responsible for the overall administration of the program, 
+including: planning and reporting technical and fiduciary aspects; execution of 
+procurement activities; supervision of firms and service providers; financial and 
+accounting management; risk management; monitoring and evaluation; 
+supervision and execution of the environmental and social management plan. The 
+Innovation Directorate will be responsible for the planning and technical 
+supervision of Component I. The approval by the Executing Agency and entry 
+into effect of the Program Operating Manual (POM) according to the terms 
+and conditions previously agreed with the Bank constitutes a Special 
+Contractual Clause prior to the first disbursement of the financing, justified 
+by the need to have designated personnel for the execution of the program and 
+clear procedures that will guide its implementation. 
+
+3.2 Program Operating Manual (POM). The POM, which establishes standards and 
+procedures for the MARNDR with regard to programming activities, procurement 
+audits, and monitoring and evaluation, among others, will govern program 
+execution. The POM will include, among others, the following: (i) a detailed 
+description of the implementation agreement of each component; (ii) roles and 
+responsibilities of the agencies involved in the implementation of the program; 
+(iii) criteria and procedures to select and contract goods and services; (iv) criteria 
+and procedures for management and financial control of the program; 
+(v) monitoring and evaluation arrangements; (vi) specific environmental and social 
+measures of the program, as described in the ESMR (annexed to the POM); 
+(vii) presentation of evidence that the MARNDR has selected a program 
+coordinator and a financial officer according to the terms and conditions previously 
+agreed with the Bank; and (viii) a provision according to which a technical 
+verification of the use of agricultural subsidy funds by the beneficiary will be 
+performed on a quarterly basis by an individual consultant who will be hired 
+according to the terms and conditions previously agreed with the Bank. A 
+preliminary manual of procedures was prepared during program preparation.  
+
+3.3 The following are some salient elements that will be included in the POM regarding 
+the execution of Component II. The main selection criteria for beneficiaries are the 
+following: (i) to be registered in the MARNDR farmers’ registry; (ii) to be domiciled 
+in the area of intervention; (iii) to work on an area equal to or greater than 0.25 Ha; 
+(iv) not having received a previous MARNDR technology subsidy; and (v) to meet 
+the specific criteria for the desired technical package. The selected farmers will 
+pay their contribution to a financial institution and technology providers will provide 
+the technology to the farmers. The program will pay the remaining part of the cost 
+of the technology to technology providers once it has been verified that they have 
+
+
+
+- 20 - 
+
+ 
+
+delivered the technology to the farmers. All the transactions and validation will be 
+tracked by an updated version of the SIGI. 
+
+3.4 Procurement. All program-related procurement activities will be performed 
+following Bank’s Procurement Policies: Policies for the Procurement of Goods and 
+Works financed by the Bank (GN-2349-9) and Policies for the Selection and 
+Contracting of Consultants financed by the Bank (GN-2350-9) as applicable.  
+
+3.5 Financial and Auditing reports. The program will submit to the Bank the following 
+documents: (i) semi-annual financial reports of the program included in the 
+semi-annual progress report; (ii) annual financial statements of the program, 
+audited by an independent auditor are to be submitted to the Bank within 120 days 
+at the end of each fiscal year, beginning with the fiscal year in which the first 
+expenditures are incurred; and (iii) a final financial audit report of the program is to 
+be submitted by the MARNDR within 120 days after the date of the last 
+disbursement.  
+
+B. Summary of Arrangements for Monitoring Results 
+
+3.6 It will be the PEU´s responsibility to put in place a monitoring system to collect data 
+related to all the indicators in the Results Framework. This system will be 
+instrumental for the PEU to be able to submit to the Bank semi-annual progress 
+reports that will describe, among others: (i) the physical progress of the program 
+(i.e., in terms of output indicators); (ii) the progress made in terms of outcomes and 
+impacts, as stipulated in the Results Framework; and (iii) the status of applicable 
+environmental and social mitigation measures. 
+
+3.7 An impact evaluation will be conducted to measure the program’s impact and 
+results. Specifically, the impact evaluation will be a combination of experimental 
+and quasi-experimental techniques. Component I will be evaluated using a before 
+and after calculation. On the other hand, Component II will use a randomization 
+methodology to analyze the impact of the adoption of those technologies that will 
+experience a demand higher than project’s capacity to supply it (i.e., irrigation), 
+and combine it with a quasi-experimental approach of difference-in-difference for 
+technologies such as agroforestry and post-harvest. For this purpose, a sample of 
+2,000 farmers (1,000 beneficiaries and 1,000 control, representative by gender) 
+will be surveyed for baseline and a follow-up surveys. The data collection will be 
+representative of female-headed households and separate analysis will be 
+performed in order to measure impact by gender. The total budget for the impact 
+evaluation amounts to US$550,000 that will be covered with resources from this 
+grant. Details on the monitoring and evaluation activities are provided in the 
+Monitoring and Evaluation Plan prepared for the program. 
+
+C.  Significant Design Activities Post Approval  
+
+3.8 There will be no significant design activities post approval.  
+
+ 
+
+
+
+
+b. Selection and Contracting of Consultants: The consulting services contracts 
+generated under this program will be executed through the use of the Standard 
+Request for Proposals (SRFPs) issued or agreed to by the Bank. Research entities, 
+Firms or Universities will be selected to develop research programs using Selection 
+Based on Quality as procurement method. Approximately eight contracts will be 
+signed for a total amount of US$13,000,000.  
+
+B. Recurring Expenses 
+
+5.3 Certain recurring expenses will be procured using program funds. These procurement 
+activities will be carried out in accordance with the administrative procedures of the EA 
+with the prior approval of the Bank who will assess and approve the use of these 
+procedures.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

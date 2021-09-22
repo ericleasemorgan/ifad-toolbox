@@ -6,500 +6,391 @@ WB22	1	4	1	CARDINAL
 WB22	1	5	18	CARDINAL
 WB22	1	6	PID/ISDS	ORG
 WB22	1	7	20-Nov-2017	CARDINAL
-WB22	1	8	Portal	LOC
-WB22	3	1	Nov 15, 2017	DATE
-WB22	3	2	2	CARDINAL
-WB22	3	3	18	CARDINAL
-WB22	4	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
-WB22	4	2	Montenegro	GPE
-WB22	4	3	Montenegro Second Institutional Development and Agriculture Strengthening Project Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
-WB22	4	4	EUROPE	LAW
-WB22	4	5	17-Nov-2017	DATE
-WB22	4	6	The Project Development Objective	ORG
-WB22	4	7	Montenegro	GPE
-WB22	4	8	EU	ORG
-WB22	5	1	the Food Safety	ORG
-WB22	5	2	the Fisheries Sector Project Management Financing	ORG
-WB22	5	3	USD Million	CARDINAL
-WB22	5	4	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	5	5	Nov 15, 2017	DATE
-WB22	5	6	3	CARDINAL
-WB22	5	7	18	CARDINAL
-WB22	6	1	2006	DATE
-WB22	6	2	the European Union	ORG
-WB22	6	3	EU	ORG
-WB22	7	1	only 0.6 million	CARDINAL
-WB22	7	2	GNI	ORG
-WB22	7	3	US$7,320	MONEY
-WB22	7	4	Montenegro	GPE
-WB22	7	5	the Western Balkans	LOC
+WB22	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
+WB22	2	2	Montenegro	GPE
+WB22	2	3	Montenegro Second Institutional Development and Agriculture Strengthening Project Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
+WB22	2	4	EUROPE	LAW
+WB22	2	5	17-Nov-2017	DATE
+WB22	2	6	The Project Development Objective	ORG
+WB22	2	7	Montenegro	GPE
+WB22	2	8	EU	ORG
+WB22	3	1	the Food Safety	ORG
+WB22	3	2	the Fisheries Sector Project Management Financing	ORG
+WB22	3	3	USD Million	CARDINAL
+WB22	4	1	2006	DATE
+WB22	4	2	the European Union	ORG
+WB22	4	3	EU	ORG
+WB22	5	1	only 0.6 million	CARDINAL
+WB22	5	2	GNI	ORG
+WB22	5	3	US$7,320	MONEY
+WB22	5	4	Montenegro	GPE
+WB22	5	5	the Western Balkans	LOC
+WB22	6	1	EU	ORG
+WB22	6	2	June 2012	DATE
+WB22	6	3	2020	DATE
+WB22	6	4	the Western Balkans	LOC
+WB22	7	1	35	CARDINAL
+WB22	7	2	three	CARDINAL
+WB22	7	3	twenty-four	CARDINAL
 WB22	8	1	EU	ORG
-WB22	8	2	June 2012	DATE
-WB22	8	3	2020	DATE
-WB22	8	4	the Western Balkans	LOC
-WB22	9	1	35	CARDINAL
-WB22	9	2	three	CARDINAL
-WB22	9	3	twenty-four	CARDINAL
-WB22	10	1	EU	ORG
-WB22	11	1	Progress Report on Montenegro	WORK_OF_ART
-WB22	11	2	November 2016	DATE
-WB22	11	3	the European Commission	ORG
-WB22	11	4	EC	ORG
-WB22	12	1	Montenegro	GPE
-WB22	13	1	Montenegro	GPE
-WB22	14	1	2000 to 2008	DATE
-WB22	15	1	40 percent	PERCENT
-WB22	16	1	2008	DATE
-WB22	16	2	2012	DATE
-WB22	16	3	Montenegro	GPE
-WB22	16	4	1.8 percent	PERCENT
-WB22	16	5	2014	DATE
-WB22	16	6	2.5 percent	PERCENT
-WB22	16	7	2016	DATE
-WB22	16	8	3.2 percent	PERCENT
-WB22	16	9	2017	DATE
-WB22	17	1	17.3 percent	PERCENT
-WB22	17	2	early 2017	DATE
+WB22	9	1	Progress Report on Montenegro	WORK_OF_ART
+WB22	9	2	November 2016	DATE
+WB22	9	3	the European Commission	ORG
+WB22	9	4	EC	ORG
+WB22	10	1	Montenegro	GPE
+WB22	11	1	Montenegro	GPE
+WB22	12	1	2000 to 2008	DATE
+WB22	13	1	40 percent	PERCENT
+WB22	14	1	2008	DATE
+WB22	14	2	2012	DATE
+WB22	14	3	Montenegro	GPE
+WB22	14	4	1.8 percent	PERCENT
+WB22	14	5	2014	DATE
+WB22	14	6	2.5 percent	PERCENT
+WB22	14	7	2016	DATE
+WB22	14	8	3.2 percent	PERCENT
+WB22	14	9	2017	DATE
+WB22	15	1	17.3 percent	PERCENT
+WB22	15	2	early 2017	DATE
+WB22	17	1	Montenegro	GPE
+WB22	18	1	Montenegro	GPE
+WB22	18	2	three	CARDINAL
+WB22	18	3	2014-2018	DATE
+WB22	18	4	the Montenegro Development Directions	ORG
+WB22	18	5	MDD	ORG
+WB22	18	6	2015-2018	DATE
+WB22	18	7	the Montenegro Economic Reform Program	ORG
+WB22	18	8	2016-2018	DATE
 WB22	19	1	Montenegro	GPE
-WB22	20	1	Montenegro	GPE
-WB22	20	2	three	CARDINAL
-WB22	20	3	2014-2018	DATE
-WB22	20	4	the Montenegro Development Directions	ORG
-WB22	20	5	MDD	ORG
-WB22	20	6	2015-2018	DATE
-WB22	20	7	the Montenegro Economic Reform Program	ORG
-WB22	20	8	2016-2018	DATE
-WB22	21	1	Montenegro	GPE
-WB22	21	2	EU Accession Program	ORG
-WB22	21	3	December 2013	DATE
-WB22	21	4	European	NORP
-WB22	23	1	MDD	ORG
-WB22	23	2	Europe	LOC
-WB22	23	3	Government	ORG
-WB22	23	4	July 2015	DATE
-WB22	24	1	MDD	ORG
-WB22	24	2	four	CARDINAL
-WB22	26	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	26	2	Nov 15, 2017	DATE
-WB22	26	3	4	CARDINAL
-WB22	26	4	18	CARDINAL
-WB22	26	5	ERP	ORG
-WB22	27	1	Montenegro	GPE
-WB22	28	1	38 percent	PERCENT
-WB22	28	2	two thirds	CARDINAL
-WB22	29	1	12 percent	PERCENT
-WB22	29	2	10 percent	PERCENT
-WB22	29	3	contributing around two percent	PERCENT
-WB22	30	1	around four percent	PERCENT
-WB22	30	2	annually	DATE
-WB22	30	3	the last eight years	DATE
-WB22	30	4	around 16 percent	PERCENT
-WB22	30	5	annually	DATE
-WB22	30	6	US$166 million	MONEY
-WB22	30	7	2005	DATE
-WB22	30	8	2014	DATE
-WB22	32	1	Montenegro	GPE
-WB22	32	2	50,000	CARDINAL
-WB22	32	3	roughly a quarter	CARDINAL
-WB22	32	4	4.5 hectares	QUANTITY
-WB22	33	1	Montenegro	GPE
-WB22	34	1	Nikšić	GPE
-WB22	34	2	Podgorica	GPE
-WB22	35	1	MONSTAT	ORG
-WB22	35	2	2010	DATE
-WB22	35	3	2,347	CARDINAL
-WB22	36	1	2010	DATE
-WB22	36	2	Agricultural Census	EVENT
-WB22	36	3	46,473	CARDINAL
-WB22	36	4	only around five percent	PERCENT
+WB22	19	2	EU Accession Program	ORG
+WB22	19	3	December 2013	DATE
+WB22	19	4	European	NORP
+WB22	21	1	MDD	ORG
+WB22	21	2	Europe	LOC
+WB22	21	3	Government	ORG
+WB22	21	4	July 2015	DATE
+WB22	22	1	MDD	ORG
+WB22	22	2	four	CARDINAL
+WB22	24	1	ERP	ORG
+WB22	25	1	Montenegro	GPE
+WB22	26	1	38 percent	PERCENT
+WB22	26	2	two thirds	CARDINAL
+WB22	27	1	12 percent	PERCENT
+WB22	27	2	10 percent	PERCENT
+WB22	27	3	contributing around two percent	PERCENT
+WB22	28	1	around four percent	PERCENT
+WB22	28	2	annually	DATE
+WB22	28	3	the last eight years	DATE
+WB22	28	4	around 16 percent	PERCENT
+WB22	28	5	annually	DATE
+WB22	28	6	US$166 million	MONEY
+WB22	28	7	2005	DATE
+WB22	28	8	2014	DATE
+WB22	30	1	Montenegro	GPE
+WB22	30	2	50,000	CARDINAL
+WB22	30	3	roughly a quarter	CARDINAL
+WB22	30	4	4.5 hectares	QUANTITY
+WB22	31	1	Montenegro	GPE
+WB22	32	1	Nikšić	GPE
+WB22	32	2	Podgorica	GPE
+WB22	33	1	MONSTAT	ORG
+WB22	33	2	2010	DATE
+WB22	33	3	2,347	CARDINAL
+WB22	34	1	2010	DATE
+WB22	34	2	Agricultural Census	EVENT
+WB22	34	3	46,473	CARDINAL
+WB22	34	4	only around five percent	PERCENT
+WB22	35	1	Montenegro	GPE
+WB22	35	2	Southeast Europe	LOC
 WB22	37	1	Montenegro	GPE
-WB22	37	2	Southeast Europe	LOC
-WB22	39	1	Montenegro	GPE
-WB22	42	1	Today	DATE
+WB22	40	1	Today	DATE
+WB22	40	2	Montenegro	GPE
+WB22	41	1	2014	DATE
+WB22	41	2	3,316 tons	QUANTITY
+WB22	41	3	Montenegro	GPE
+WB22	41	4	2,000 tons	QUANTITY
+WB22	41	5	a mere 11 tons	QUANTITY
+WB22	42	1	around 900 tons	QUANTITY
 WB22	42	2	Montenegro	GPE
-WB22	43	1	2014	DATE
-WB22	43	2	3,316 tons	QUANTITY
-WB22	43	3	Montenegro	GPE
-WB22	43	4	2,000 tons	QUANTITY
-WB22	43	5	a mere 11 tons	QUANTITY
-WB22	44	1	around 900 tons	QUANTITY
-WB22	44	2	Montenegro	GPE
-WB22	46	1	The Ministry of Agriculture and Rural Development	ORG
-WB22	47	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	47	2	Nov 15, 2017	DATE
-WB22	47	3	5	CARDINAL
-WB22	47	4	18	CARDINAL
-WB22	47	5	the past 10 years	DATE
-WB22	47	6	the Ministry	ORG
-WB22	49	1	MARD	ORG
-WB22	49	2	the Administration for Food Safety, Veterinary and Phytosanitary Affairs	ORG
-WB22	49	3	AFSVPA	ORG
-WB22	50	1	the Directorate for Agriculture and Fisheries	ORG
-WB22	50	2	two	CARDINAL
-WB22	51	1	EU	ORG
-WB22	51	2	Montenegro	GPE
-WB22	52	1	Montenegro	GPE
-WB22	52	2	the EU Instrument for Pre-Accession	ORG
-WB22	52	3	IPARD	ORG
-WB22	53	1	the Common Agricultural Policy (CAP	ORG
-WB22	53	2	EU	ORG
+WB22	44	1	The Ministry of Agriculture and Rural Development	ORG
+WB22	45	1	the past 10 years	DATE
+WB22	45	2	the Ministry	ORG
+WB22	47	1	MARD	ORG
+WB22	47	2	the Administration for Food Safety, Veterinary and Phytosanitary Affairs	ORG
+WB22	47	3	AFSVPA	ORG
+WB22	48	1	the Directorate for Agriculture and Fisheries	ORG
+WB22	48	2	two	CARDINAL
+WB22	49	1	EU	ORG
+WB22	49	2	Montenegro	GPE
+WB22	50	1	Montenegro	GPE
+WB22	50	2	the EU Instrument for Pre-Accession	ORG
+WB22	50	3	IPARD	ORG
+WB22	51	1	the Common Agricultural Policy (CAP	ORG
+WB22	51	2	EU	ORG
+WB22	52	1	EU	ORG
+WB22	52	2	Montenegrin	NORP
+WB22	52	3	EU	ORG
+WB22	53	1	Integrated Administration	ORG
+WB22	53	2	Control System	ORG
+WB22	53	3	EU	ORG
 WB22	54	1	EU	ORG
-WB22	54	2	Montenegrin	NORP
-WB22	54	3	EU	ORG
-WB22	55	1	Integrated Administration	ORG
-WB22	55	2	Control System	ORG
-WB22	55	3	EU	ORG
-WB22	56	1	EU	ORG
-WB22	57	1	approximately 12 percent	PERCENT
-WB22	59	1	EU	ORG
-WB22	59	2	EU	ORG
-WB22	59	3	CAP	ORG
-WB22	60	1	Montenegro	GPE
-WB22	60	2	EU	ORG
-WB22	62	1	AFSVPA	ORG
-WB22	62	2	MARD	ORG
-WB22	64	1	The Animal Identification and Registration	ORG
-WB22	67	1	EU	ORG
-WB22	67	2	MARD	ORG
+WB22	55	1	approximately 12 percent	PERCENT
+WB22	57	1	EU	ORG
+WB22	57	2	EU	ORG
+WB22	57	3	CAP	ORG
+WB22	58	1	Montenegro	GPE
+WB22	58	2	EU	ORG
+WB22	60	1	AFSVPA	ORG
+WB22	60	2	MARD	ORG
+WB22	62	1	The Animal Identification and Registration	ORG
+WB22	65	1	EU	ORG
+WB22	65	2	MARD	ORG
+WB22	66	1	Montenegro	GPE
+WB22	67	1	2015	DATE
+WB22	67	2	Montenegrin	NORP
+WB22	67	3	the Common Fisheries Policy	ORG
+WB22	67	4	EU	ORG
 WB22	68	1	Montenegro	GPE
-WB22	69	1	2015	DATE
-WB22	69	2	Montenegrin	NORP
-WB22	69	3	the Common Fisheries Policy	ORG
-WB22	69	4	EU	ORG
-WB22	70	1	Montenegro	GPE
-WB22	70	2	EU	ORG
-WB22	72	1	IUU	ORG
-WB22	73	1	EU	ORG
-WB22	73	2	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	73	3	Nov 15, 2017	DATE
-WB22	73	4	6	CARDINAL
-WB22	73	5	18	CARDINAL
-WB22	73	6	EU	ORG
-WB22	74	1	EU	ORG
-WB22	74	2	Montenegro	GPE
-WB22	75	1	Montenegro	GPE
-WB22	75	2	EU	ORG
-WB22	75	3	EC	ORG
-WB22	75	4	the World Bank (WB	ORG
-WB22	75	5	Montenegro	GPE
-WB22	75	6	IPARD	ORG
-WB22	76	1	the International Bank for Reconstruction and Development	ORG
-WB22	76	2	the Global Environment Facility	ORG
-WB22	76	3	GEF	ORG
-WB22	76	4	the Montenegro Institutional Development and Agriculture Strengthening Project	ORG
-WB22	76	5	July 2009 1	DATE
-WB22	76	6	IPARD	ORG
-WB22	77	1	EU	ORG
-WB22	78	1	MIDAS	ORG
-WB22	78	2	the Directorate for Rural Development	ORG
-WB22	78	3	Managing Authority	ORG
-WB22	78	4	IPARD	ORG
-WB22	78	5	the Code of Good Agricultural Practices	LAW
-WB22	78	6	the Directorate for Payments	ORG
-WB22	78	7	the Farm Registry	ORG
-WB22	78	8	Montenegrin	NORP
-WB22	78	9	IPARD	ORG
-WB22	78	10	Veterinary Lab	ORG
-WB22	78	11	Institute of Marine Biology	ORG
-WB22	78	12	first	ORDINAL
-WB22	78	13	Border Inspection Post	ORG
-WB22	78	14	BIP	ORG
+WB22	68	2	EU	ORG
+WB22	70	1	IUU	ORG
+WB22	71	1	EU	ORG
+WB22	71	2	EU	ORG
+WB22	72	1	EU	ORG
+WB22	72	2	Montenegro	GPE
+WB22	73	1	Montenegro	GPE
+WB22	73	2	EU	ORG
+WB22	73	3	EC	ORG
+WB22	73	4	the World Bank (WB	ORG
+WB22	73	5	Montenegro	GPE
+WB22	73	6	IPARD	ORG
+WB22	74	1	the International Bank for Reconstruction and Development	ORG
+WB22	74	2	the Global Environment Facility	ORG
+WB22	74	3	GEF	ORG
+WB22	74	4	the Montenegro Institutional Development and Agriculture Strengthening Project	ORG
+WB22	74	5	July 2009 1	DATE
+WB22	74	6	IPARD	ORG
+WB22	75	1	EU	ORG
+WB22	76	1	MIDAS	ORG
+WB22	76	2	the Directorate for Rural Development	ORG
+WB22	76	3	Managing Authority	ORG
+WB22	76	4	IPARD	ORG
+WB22	76	5	the Code of Good Agricultural Practices	LAW
+WB22	76	6	the Directorate for Payments	ORG
+WB22	76	7	the Farm Registry	ORG
+WB22	76	8	Montenegrin	NORP
+WB22	76	9	IPARD	ORG
+WB22	76	10	Veterinary Lab	ORG
+WB22	76	11	Institute of Marine Biology	ORG
+WB22	76	12	first	ORDINAL
+WB22	76	13	Border Inspection Post	ORG
+WB22	76	14	BIP	ORG
+WB22	77	1	Montenegro	GPE
+WB22	77	2	EU	ORG
+WB22	77	3	EU	ORG
+WB22	77	4	October 2017	DATE
+WB22	77	5	Measure 1 (Investments	ORG
+WB22	77	6	Measure 3 (Investments	WORK_OF_ART
+WB22	78	1	Montenegro	GPE
+WB22	78	2	IPARD II Program	ORG
+WB22	78	3	2020	DATE
+WB22	78	4	EU	ORG
+WB22	78	5	the Government of Montenegro	ORG
+WB22	78	6	September 2015	DATE
+WB22	78	7	annual	DATE
+WB22	78	8	seven	CARDINAL
+WB22	78	9	EU	ORG
+WB22	78	10	the Sectoral Agreement	ORG
+WB22	78	11	Montenegro	GPE
+WB22	78	12	EU	ORG
 WB22	79	1	Montenegro	GPE
 WB22	79	2	EU	ORG
-WB22	79	3	EU	ORG
-WB22	79	4	October 2017	DATE
-WB22	79	5	Measure 1 (Investments	ORG
-WB22	79	6	Measure 3 (Investments	WORK_OF_ART
-WB22	80	1	Montenegro	GPE
-WB22	80	2	IPARD II Program	ORG
-WB22	80	3	2020	DATE
-WB22	80	4	EU	ORG
-WB22	80	5	the Government of Montenegro	ORG
-WB22	80	6	September 2015	DATE
-WB22	80	7	annual	DATE
-WB22	80	8	seven	CARDINAL
-WB22	80	9	EU	ORG
-WB22	80	10	the Sectoral Agreement	ORG
-WB22	80	11	Montenegro	GPE
-WB22	80	12	EU	ORG
-WB22	81	1	Montenegro	GPE
-WB22	81	2	EU	ORG
-WB22	81	3	Chapter 11	LAW
-WB22	81	4	(Agriculture and Rural Development	ORG
-WB22	81	5	December 2016	DATE
-WB22	81	6	Chapter 12	LAW
-WB22	81	7	Chapter 13	LAW
-WB22	81	8	June 2016	DATE
-WB22	82	1	the Montenegrin Government	ORG
-WB22	83	1	EU	ORG
-WB22	83	2	Chapters 11 and 12	LAW
-WB22	84	1	MARD	ORG
-WB22	84	2	Bank	ORG
-WB22	84	3	two	CARDINAL
-WB22	84	4	Chapter 13	LAW
-WB22	85	1	C. Proposed Development	PERSON
-WB22	85	2	PAD	ORG
-WB22	85	3	The Project Development Objective	ORG
-WB22	85	4	Montenegro	GPE
-WB22	85	5	EU	ORG
-WB22	86	1	1	CARDINAL
-WB22	86	2	MIDAS	ORG
-WB22	86	3	March 30, 2019	DATE
-WB22	86	4	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	86	5	Nov 15, 2017	DATE
-WB22	86	6	7	CARDINAL
-WB22	86	7	18	CARDINAL
-WB22	86	8	1	CARDINAL
-WB22	86	9	EUR20 million	CARDINAL
-WB22	87	1	Montenegro	GPE
-WB22	87	2	Chapter 11	LAW
-WB22	89	1	1.1	CARDINAL
+WB22	79	3	Chapter 11	LAW
+WB22	79	4	(Agriculture and Rural Development	ORG
+WB22	79	5	December 2016	DATE
+WB22	79	6	Chapter 12	LAW
+WB22	79	7	Chapter 13	LAW
+WB22	79	8	June 2016	DATE
+WB22	80	1	the Montenegrin Government	ORG
+WB22	81	1	EU	ORG
+WB22	81	2	Chapters 11 and 12	LAW
+WB22	82	1	MARD	ORG
+WB22	82	2	Bank	ORG
+WB22	82	3	two	CARDINAL
+WB22	82	4	Chapter 13	LAW
+WB22	83	1	C. Proposed Development	PERSON
+WB22	83	2	PAD	ORG
+WB22	83	3	The Project Development Objective	ORG
+WB22	83	4	Montenegro	GPE
+WB22	83	5	EU	ORG
+WB22	84	1	1	CARDINAL
+WB22	84	2	MIDAS	ORG
+WB22	84	3	March 30, 2019	DATE
+WB22	85	1	Montenegro	GPE
+WB22	85	2	Chapter 11	LAW
+WB22	87	1	1.1	CARDINAL
+WB22	89	1	IPARD	ORG
+WB22	90	1	between 50 and 65 percent	CARDINAL
+WB22	90	2	four	CARDINAL
+WB22	90	3	Technical Bodies	ORG
 WB22	91	1	IPARD	ORG
-WB22	92	1	between 50 and 65 percent	CARDINAL
-WB22	92	2	four	CARDINAL
-WB22	92	3	Technical Bodies	ORG
-WB22	93	1	IPARD	ORG
-WB22	93	2	MARD	ORG
-WB22	93	3	CAP	PERSON
-WB22	94	1	the European Maritime Fisheries Fund	ORG
-WB22	95	1	Component 3	DATE
-WB22	96	1	GOM	ORG
-WB22	96	2	Bank	ORG
-WB22	97	1	1.2	CARDINAL
-WB22	97	2	EU	ORG
-WB22	98	1	Paying Agency	WORK_OF_ART
-WB22	98	2	IACS	ORG
-WB22	98	3	the European Agriculture Guarantee Fund	ORG
-WB22	98	4	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	98	5	Nov 15, 2017	DATE
-WB22	98	6	8	CARDINAL
-WB22	98	7	18	CARDINAL
-WB22	98	8	one	CARDINAL
-WB22	98	9	Chapter 11	LAW
-WB22	99	1	Advisory Services	ORG
-WB22	100	1	two	CARDINAL
-WB22	100	2	the Advisory Services and Paying Agency	ORG
-WB22	102	1	DfA	ORG
-WB22	102	2	DfP	WORK_OF_ART
-WB22	102	3	TA	ORG
-WB22	102	4	EU	ORG
-WB22	102	5	IACS	ORG
-WB22	103	1	2	CARDINAL
-WB22	103	2	the Food Safety	ORG
-WB22	104	1	EU	ORG
-WB22	105	1	Montenegro	GPE
-WB22	106	1	IPARD	ORG
-WB22	108	1	2.1	CARDINAL
-WB22	109	1	the National Strategy and Action Plan	ORG
-WB22	109	2	MARD	ORG
-WB22	109	3	late-2017	DATE
-WB22	109	4	early-2018	PRODUCT
-WB22	110	1	TA	ORG
-WB22	112	1	EU	ORG
-WB22	113	1	2.2	CARDINAL
-WB22	114	1	NRL	ORG
-WB22	114	2	the Bio-Technical Faculty of	FAC
-WB22	114	3	the University of Montenegro	ORG
-WB22	115	1	TA	ORG
-WB22	115	2	AFSVPA	ORG
-WB22	115	3	NRL	ORG
-WB22	115	4	ISO	ORG
-WB22	115	5	17025	DATE
-WB22	116	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	116	2	Nov 15, 2017	DATE
-WB22	116	3	9	CARDINAL
-WB22	116	4	18	CARDINAL
-WB22	116	5	2.3	CARDINAL
-WB22	117	1	AFSVPA	ORG
-WB22	117	2	EU	ORG
-WB22	117	3	annual	DATE
-WB22	118	1	3	CARDINAL
-WB22	118	2	million	CARDINAL
-WB22	119	1	two	CARDINAL
-WB22	119	2	CFP	ORG
-WB22	119	3	EU	ORG
-WB22	120	1	3.1	CARDINAL
-WB22	122	1	2019	DATE
-WB22	123	1	six	CARDINAL
-WB22	124	1	Herceg Novi	PERSON
-WB22	124	2	Government	ORG
-WB22	126	1	World Bank	ORG
-WB22	128	1	3.2	CARDINAL
-WB22	128	2	the Directorate for Fisheries	ORG
-WB22	128	3	Associations of Fishermen	ORG
-WB22	129	1	The MARD Directorate for Fisheries	ORG
-WB22	130	1	the Institute of Marine Biology	ORG
-WB22	130	2	Kotor	GPE
-WB22	130	3	Directorate	ORG
-WB22	130	4	CFP	ORG
-WB22	131	1	EU	ORG
-WB22	132	1	Associations of Fishermen	ORG
-WB22	132	2	the European Maritime Fisheries Fund	ORG
-WB22	132	3	CFP	ORG
-WB22	133	1	million	CARDINAL
-WB22	134	1	the Environmental and Social Management Framework	ORG
-WB22	134	2	the Results Framework	FAC
-WB22	134	3	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	134	4	Nov 15, 2017	DATE
-WB22	134	5	10	CARDINAL
-WB22	134	6	18	CARDINAL
-WB22	135	1	E. Implementation Institutional and Implementation Arrangements	ORG
-WB22	135	2	Implementing Agency	ORG
-WB22	136	1	MARD	ORG
-WB22	139	1	the Directorate for Payments (DfP	ORG
-WB22	140	1	AFSVPA	ORG
-WB22	140	2	the Directorate for Fisheries	ORG
-WB22	141	1	Project Management Team	ORG
-WB22	141	2	PMT	ORG
-WB22	142	1	PMT	ORG
-WB22	142	2	DfP	DATE
-WB22	144	1	March 30, 2019	DATE
-WB22	144	2	PMT	ORG
-WB22	146	1	ESMF	ORG
-WB22	147	1	the World Bank	ORG
-WB22	147	2	Montenegrin	NORP
-WB22	149	1	the Project Operational Manual (POM	LAW
-WB22	150	1	Project Steering Committee	ORG
-WB22	150	2	PSC	ORG
-WB22	151	1	PSC	ORG
-WB22	151	2	Directorate for Agriculture (DfA	ORG
-WB22	151	3	Directorate for Fisheries	ORG
-WB22	151	4	the Administration for Food Safety, Veterinary and Phytosanitary Affairs, Advisory Services	ORG
-WB22	151	5	Ministry of Finance	ORG
-WB22	151	6	Ministry of Transport and Maritime Affairs	ORG
-WB22	151	7	Morsko Dobro	PERSON
-WB22	151	8	Biotechnical Faculty/Phytosanitary Laboratory Director	ORG
-WB22	152	1	Technical Services Unit	ORG
-WB22	152	2	TSU	ORG
-WB22	152	3	the Ministry of Finance	ORG
-WB22	153	1	TSU	ORG
-WB22	153	2	quarterly	DATE
-WB22	153	3	annual	DATE
-WB22	154	1	TSU	ORG
-WB22	154	2	World Bank	ORG
+WB22	91	2	MARD	ORG
+WB22	91	3	CAP	PERSON
+WB22	92	1	the European Maritime Fisheries Fund	ORG
+WB22	93	1	Component 3	DATE
+WB22	94	1	GOM	ORG
+WB22	94	2	Bank	ORG
+WB22	95	1	1.2	CARDINAL
+WB22	95	2	EU	ORG
+WB22	96	1	Paying Agency	WORK_OF_ART
+WB22	96	2	IACS	ORG
+WB22	96	3	the European Agriculture Guarantee Fund	ORG
+WB22	96	4	Chapter 11	LAW
+WB22	97	1	Advisory Services	ORG
+WB22	98	1	two	CARDINAL
+WB22	98	2	the Advisory Services and Paying Agency	ORG
+WB22	100	1	DfA	ORG
+WB22	100	2	DfP	WORK_OF_ART
+WB22	100	3	TA	ORG
+WB22	100	4	EU	ORG
+WB22	100	5	IACS	ORG
+WB22	101	1	2	CARDINAL
+WB22	101	2	the Food Safety	ORG
+WB22	102	1	EU	ORG
+WB22	103	1	Montenegro	GPE
+WB22	104	1	IPARD	ORG
+WB22	106	1	2.1	CARDINAL
+WB22	107	1	the National Strategy and Action Plan	ORG
+WB22	107	2	MARD	ORG
+WB22	107	3	late-2017	DATE
+WB22	107	4	early-2018	PRODUCT
+WB22	108	1	TA	ORG
+WB22	110	1	EU	ORG
+WB22	111	1	2.2	CARDINAL
+WB22	112	1	NRL	ORG
+WB22	112	2	the Bio-Technical Faculty of	FAC
+WB22	112	3	the University of Montenegro	ORG
+WB22	113	1	TA	ORG
+WB22	113	2	AFSVPA	ORG
+WB22	113	3	NRL	ORG
+WB22	113	4	ISO	ORG
+WB22	113	5	17025	DATE
+WB22	114	1	2.3	CARDINAL
+WB22	115	1	AFSVPA	ORG
+WB22	115	2	EU	ORG
+WB22	115	3	annual	DATE
+WB22	116	1	3	CARDINAL
+WB22	116	2	million	CARDINAL
+WB22	117	1	two	CARDINAL
+WB22	117	2	CFP	ORG
+WB22	117	3	EU	ORG
+WB22	118	1	3.1	CARDINAL
+WB22	120	1	2019	DATE
+WB22	121	1	six	CARDINAL
+WB22	122	1	Herceg Novi	PERSON
+WB22	122	2	Government	ORG
+WB22	124	1	World Bank	ORG
+WB22	126	1	3.2	CARDINAL
+WB22	126	2	the Directorate for Fisheries	ORG
+WB22	126	3	Associations of Fishermen	ORG
+WB22	127	1	The MARD Directorate for Fisheries	ORG
+WB22	128	1	the Institute of Marine Biology	ORG
+WB22	128	2	Kotor	GPE
+WB22	128	3	Directorate	ORG
+WB22	128	4	CFP	ORG
+WB22	129	1	EU	ORG
+WB22	130	1	Associations of Fishermen	ORG
+WB22	130	2	the European Maritime Fisheries Fund	ORG
+WB22	130	3	CFP	ORG
+WB22	131	1	million	CARDINAL
+WB22	132	1	the Environmental and Social Management Framework	ORG
+WB22	132	2	the Results Framework	FAC
+WB22	133	1	E. Implementation Institutional and Implementation Arrangements	ORG
+WB22	133	2	Implementing Agency	ORG
+WB22	134	1	MARD	ORG
+WB22	137	1	the Directorate for Payments (DfP	ORG
+WB22	138	1	AFSVPA	ORG
+WB22	138	2	the Directorate for Fisheries	ORG
+WB22	139	1	Project Management Team	ORG
+WB22	139	2	PMT	ORG
+WB22	140	1	PMT	ORG
+WB22	140	2	DfP	DATE
+WB22	142	1	March 30, 2019	DATE
+WB22	142	2	PMT	ORG
+WB22	144	1	ESMF	ORG
+WB22	145	1	the World Bank	ORG
+WB22	145	2	Montenegrin	NORP
+WB22	147	1	the Project Operational Manual (POM	LAW
+WB22	148	1	Project Steering Committee	ORG
+WB22	148	2	PSC	ORG
+WB22	149	1	PSC	ORG
+WB22	149	2	Directorate for Agriculture (DfA	ORG
+WB22	149	3	Directorate for Fisheries	ORG
+WB22	149	4	the Administration for Food Safety, Veterinary and Phytosanitary Affairs, Advisory Services	ORG
+WB22	149	5	Ministry of Finance	ORG
+WB22	149	6	Ministry of Transport and Maritime Affairs	ORG
+WB22	149	7	Morsko Dobro	PERSON
+WB22	149	8	Biotechnical Faculty/Phytosanitary Laboratory Director	ORG
+WB22	150	1	Technical Services Unit	ORG
+WB22	150	2	TSU	ORG
+WB22	150	3	the Ministry of Finance	ORG
+WB22	151	1	TSU	ORG
+WB22	151	2	quarterly	DATE
+WB22	151	3	annual	DATE
+WB22	152	1	TSU	ORG
+WB22	152	2	World Bank	ORG
+WB22	152	3	Montenegro	GPE
+WB22	154	1	F. Project	ORG
+WB22	154	2	Montenegro	GPE
 WB22	154	3	Montenegro	GPE
-WB22	155	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	155	2	Nov 15, 2017	DATE
-WB22	155	3	11	CARDINAL
-WB22	155	4	18	CARDINAL
-WB22	156	1	F. Project	ORG
-WB22	156	2	Montenegro	GPE
-WB22	156	3	Montenegro	GPE
-WB22	158	1	G. Environmental	PERSON
-WB22	158	2	Vera Dugandzic	PERSON
-WB22	161	1	katuni huts	PERSON
-WB22	163	1	ESMF	ORG
-WB22	163	2	Portal	ORG
-WB22	165	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	165	2	Nov 15, 2017	DATE
-WB22	165	3	12	CARDINAL
-WB22	165	4	18	CARDINAL
-WB22	166	1	Components 1	FAC
-WB22	166	2	3	DATE
-WB22	167	1	Component 2	DATE
-WB22	167	2	the end of 2017	DATE
-WB22	170	1	OP	PERSON
-WB22	171	1	4.09	CARDINAL
-WB22	172	1	PMP	ORG
-WB22	174	1	Peoples OP/BP	ORG
-WB22	175	1	OP	PERSON
-WB22	175	2	Paying Agency	ORG
-WB22	176	1	November 2008	DATE
-WB22	177	1	Ministry of Agriculture and Rural Development	ORG
-WB22	178	1	MIDAS	ORG
-WB22	178	2	IPARD	ORG
-WB22	179	1	GOM	ORG
-WB22	179	2	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	179	3	Nov 15, 2017	DATE
-WB22	179	4	13	CARDINAL
-WB22	179	5	18	CARDINAL
-WB22	179	6	Bank	ORG
-WB22	179	7	4.12	CARDINAL
-WB22	179	8	Involuntary Resettlement	ORG
-WB22	180	1	third	ORDINAL
-WB22	182	1	Bar	ORG
-WB22	182	2	Herceg Novi	PERSON
-WB22	183	1	third	ORDINAL
-WB22	185	1	International Waterways OP/BP	ORG
-WB22	186	1	the Adriatic Sea	LOC
-WB22	187	1	LEGEN	ORG
-WB22	188	1	Disputed Areas OP/BP	ORG
-WB22	192	1	three	CARDINAL
-WB22	192	2	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424	ORG
-WB22	192	3	14	CARDINAL
-WB22	192	4	18	CARDINAL
-WB22	195	1	World Bank	ORG
-WB22	196	1	ESMF	ORG
-WB22	196	2	PMT	ORG
-WB22	198	1	Technical Assistance	WORK_OF_ART
-WB22	199	1	2	CARDINAL
-WB22	202	1	3	CARDINAL
-WB22	205	1	ESMF	ORG
-WB22	206	1	4	CARDINAL
-WB22	209	1	PMT	ORG
-WB22	210	1	World Bank	ORG
-WB22	211	1	PMT	ORG
-WB22	212	1	Integrated Pest Management Plan	ORG
-WB22	212	2	November 10, 2017	DATE
-WB22	212	3	Podgorica	GPE
-WB22	213	1	5	CARDINAL
-WB22	217	1	November 10, 2017	DATE
-WB22	217	2	Podgorica	GPE
-WB22	218	1	ESMF	ORG
-WB22	218	2	ESMF	ORG
-WB22	218	3	Checklist	NORP
-WB22	220	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	220	2	Nov 15, 2017	DATE
-WB22	220	3	15	CARDINAL
-WB22	220	4	18	CARDINAL
-WB22	221	1	the Bank Date	ORG
-WB22	221	2	Executive Directors	ORG
-WB22	221	3	14-Nov-2017 14-Nov-2017	TIME
-WB22	221	4	Disclosure Montenegro	WORK_OF_ART
-WB22	221	5	the Ministry of Agriculture and Rural Development	ORG
-WB22	222	1	PM_D	PERSON
-WB22	222	2	ISCL	ORG
-WB22	223	1	the Bank Date	ORG
-WB22	223	2	14-Nov-2017	DATE
-WB22	223	3	14-Nov-2017	TIME
-WB22	223	4	Disclosure Montenegro	WORK_OF_ART
-WB22	223	5	IPMP	ORG
-WB22	223	6	the Ministry of Agriculture and Rural Development	ORG
-WB22	224	1	Physical Cultural Resources	ORG
-WB22	224	2	the Environmental Assessment/Audit	ORG
-WB22	224	3	EMP	ORG
-WB22	225	1	C. Compliance Monitoring Indicators	PERSON
-WB22	225	2	the Corporate Level	ORG
-WB22	225	3	ISDS	ORG
-WB22	225	4	EMP	ORG
-WB22	226	1	The World Bank Montenegro Second Institutional Development and Agriculture Strengthening Project (P164424)	ORG
-WB22	226	2	Nov 15, 2017	DATE
-WB22	226	3	16	CARDINAL
-WB22	226	4	18	CARDINAL
-WB22	226	5	the Regional Environment Unit	ORG
-WB22	226	6	EA	PERSON
-WB22	227	1	EMP	ORG
-WB22	228	1	PM_C	PERSON
-WB22	228	2	4.09 - Pest Management	PERCENT
-WB22	230	1	NA	ORG
-WB22	233	1	NA	ORG
-WB22	233	2	the World Bank	ORG
-WB22	239	1	Nov 15, 2017	DATE
-WB22	239	2	17	CARDINAL
-WB22	239	3	18	CARDINAL
-WB22	239	4	World	ORG
-WB22	239	5	Jeren Kabayeva	PERSON
-WB22	240	1	Svetlana Edmeades Senior Agriculture Economist Borrower/Client/Recipient Ministry of Finance Implementing Agencies Ministry of Agriculture and Rural Development Blagota	ORG
-WB22	240	2	Milos Stunarovic	PERSON
-WB22	240	3	milos.sturanovic@t-com.me	FAC
-WB22	240	4	NW Washington	GPE
-WB22	240	5	202	CARDINAL
-WB22	240	6	473-1000	CARDINAL
-WB22	240	7	Jeren Kabayeva	PERSON
-WB22	240	8	18	CARDINAL
-WB22	240	9	18	CARDINAL
-WB22	240	10	Nina Chee	PERSON
-WB22	240	11	21-Nov-2017	DATE
-WB22	240	12	Julian A. Lampietti	PERSON
-WB22	240	13	Emanuel Salinas Munoz	PERSON
-WB22	240	14	22-Nov-2017	DATE
+WB22	156	1	G. Environmental	PERSON
+WB22	156	2	Vera Dugandzic	PERSON
+WB22	159	1	katuni huts	PERSON
+WB22	161	1	ESMF	ORG
+WB22	161	2	Component 3	DATE
+WB22	162	1	Components 1	FAC
+WB22	162	2	3	DATE
+WB22	163	1	Component 2	DATE
+WB22	163	2	the end of 2017	DATE
+WB22	166	1	OP	PERSON
+WB22	167	1	4.09	CARDINAL
+WB22	168	1	PMP	ORG
+WB22	170	1	Peoples OP/BP	ORG
+WB22	171	1	OP	PERSON
+WB22	171	2	Paying Agency	ORG
+WB22	172	1	November 2008	DATE
+WB22	173	1	Ministry of Agriculture and Rural Development	ORG
+WB22	174	1	MIDAS	ORG
+WB22	174	2	IPARD	ORG
+WB22	175	1	GOM	ORG
+WB22	175	2	Bank	ORG
+WB22	175	3	4.12	CARDINAL
+WB22	175	4	Involuntary Resettlement	ORG
+WB22	176	1	third	ORDINAL
+WB22	178	1	Bar	ORG
+WB22	178	2	Herceg Novi	PERSON
+WB22	179	1	third	ORDINAL
+WB22	181	1	International Waterways OP/BP	ORG
+WB22	182	1	the Adriatic Sea	LOC
+WB22	183	1	LEGEN	ORG
+WB22	184	1	Disputed Areas OP/BP	ORG
+WB22	188	1	three	CARDINAL
+WB22	191	1	World Bank	ORG
+WB22	192	1	ESMF	ORG
+WB22	192	2	PMT	ORG
+WB22	194	1	Technical Assistance	WORK_OF_ART
+WB22	195	1	2	CARDINAL
+WB22	198	1	3	CARDINAL
+WB22	201	1	ESMF	ORG
+WB22	202	1	4	CARDINAL
+WB22	205	1	PMT	ORG
+WB22	206	1	World Bank	ORG
+WB22	207	1	PMT	ORG
+WB22	208	1	Integrated Pest Management Plan	ORG
+WB22	208	2	November 10, 2017	DATE
+WB22	208	3	Podgorica	GPE
+WB22	209	1	5	CARDINAL
+WB22	213	1	November 10, 2017	DATE
+WB22	213	2	Podgorica	GPE
+WB22	214	1	ESMF	ORG
+WB22	214	2	ESMF	ORG
+WB22	214	3	Checklist	NORP

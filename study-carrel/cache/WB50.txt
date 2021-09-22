@@ -1,0 +1,860 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Benin: Gazetted Forests Management Project (P167678) 
+
+ 
+ 
+
+  
+Feb 28, 2019 Page 1 of 13  
+
+     
+
+ 
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 04-Apr-2019 | Report No: PIDISDSA26271 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Benin P167678 Benin: Gazetted Forests 
+Management Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 02-Apr-2019 31-May-2019 Environment & Natural 
+Resources 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Economy of the 
+Republic of Benin 
+
+Ministry of Environment 
+and Sustainable 
+Development 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+To improve the integrated management of targeted GFs, to increase access of the main consumption cities to 
+fuelwood produced sustainably, and to strengthen selected NTFP value chains for forest-dependent communities 
+
+ 
+Components 
+
+ 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 75.00 
+
+Total Financing 75.00 
+
+of which IBRD/IDA 75.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 75.00 
+
+          IDA Grant 75.00 
+
+    
+
+
+
+ 
+
+The World Bank  
+Benin: Gazetted Forests Management Project (P167678) 
+
+ 
+
+ 
+
+  
+Feb 28, 2019 Page 3 of 13  
+
+ 
+
+Environmental Assessment Category 
+
+B-Partial Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+
+ 
+ 
+
+Other Decision (as needed) 
+ 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+Benin is a coastal State in West Africa located in the tropical zone with a total surface area of 114,763 km². It is bordered 
+
+by Togo (West), Nigeria (East), Burkina Faso and Niger (North), and the Atlantic Ocean (South).  In a politically stable 
+
+and democratic regime for nearly 30 years, the Government of Benin (GoB) maintains a decentralized territorial 
+
+administration comprising 77 municipalities (elected) in 12 departments. The population was estimated at 11.2 million in 
+
+2017, of which 51 percent are women, 52 percent are 18 or younger, and 55 percent live in rural areas (national census, 
+
+RGPH4). If the current growth rate of 3.2 percent per year is maintained, the population could reach 17.6 million by 2030. 
+
+With a per capita income of just US$820 in 2016, Benin is among the poorest countries in the World.  The share of the 
+
+population living below the national poverty rate was estimated at 40% in 2015, of which 63.5% earn less than a dollar/day 
+
+(EMICov 2015).  Poverty rate is higher in rural areas (42%) than in urban areas (32%).  In 2014, youth (15-29 years old) 
+
+unemployment rate was at 14.3% and the percentage of youth in the informal sector was 89.6% (ETVA 2014).  The 
+
+country ranks 163 out of 189 on the UNDP Human Development Index (HDI) 2017. 
+
+In addition to transit trade with neighboring countries, especially Nigeria, Benin’s economy relies heavily on agriculture 
+
+(cotton, in particular). The agriculture sector is the second largest contributor to GDP (25 percent) and employs around 
+
+70 percent of the labor force (15-64 years old)1. Benin's agriculture—primarily extensive, slash-and-burn—is one of the 
+
+major drivers of deforestation and forest degradation.  
+
+ 
+ 
+
+Sectoral and Institutional Context 
+
+The Benin's forest areas are divided into two categories: 
+
+                                                           
+1 The informal economy represents 65 percent of GDP, engaging 90 percent of the labor force and more than 95 percent of the female labor 
+force. Services and agriculture, accounting for approximately 50 and 25 percent respectively of total value added, are both dominated by the 
+
+informal sector. The large share of services reflects Benin’s role as a transit and trade hub for landlocked countries in the north, primarily Niger 
+
+and Burkina Faso, but also the large amount of informal re-export trade and commerce with Nigeria, which amounts to some 20 percent of GDP 
+
+and 25 percent of government revenue. (Source: Benin CPF 2018) 
+
+ 
+
+ 
+
+a) the Classified Estate Domain (CED), a national heritage belonging to the Central State, is managed 
+by the Directorate General of Water, Forests and Hunting (DGEFC: Direction Générale des Eaux 
+
+et Forêts et Chasse), the National Office for Wood (ONAB: Office National du Bois), and the 
+
+National Center for the Management of Wildlife (CENAGREF), all three entities being under the 
+
+authority of the Ministry of Environment and Sustainable Development (MCVDD: Ministère du 
+
+Cadre de Vie et du Développement Durable). The CED includes: (i) 46 Gazetted Forests (GFs), of 
+
+which 39 (as well as seven Reforestation Perimeters) are managed by the DGEFC and seven 
+
+managed by ONAB mainly for timber production for export; and (ii) two National Parks (Pendjari 
+
+and W) with three hunting zones managed by the CENAGREF. 
+
+b) the Protected Estate Domain (PED), which comprises the rest of the forest areas in the Rural 
+Domain. The PED forests, authorized for multiple usages, including agriculture, are under the 
+
+territorial jurisdiction of the municipalities and managed by the mayors under the supervision of the 
+
+DGEFC. 
+
+ 
+
+The forest policy (law 93-009 of July 1993) that governs the forest regime in the Republic of Benin was 
+
+revised in 2012.  It is currently being updated with funding from the European Union to incorporate new 
+
+guidelines for sustainable forests management and is expected to be submitted to Parliament approval by 
+
+mid-2019. A number of policy and strategy documents have also been produced to improve the 
+
+management of forest and natural resources, including the: (i) National Program for Sustainable 
+
+Management of Natural Resources (2008); (ii) National Strategy for Rural Wood Markets (2008); (iii) 
+
+National Strategy and Action Plan on Biodiversity 2011-2020 (2011) and (iv) National Strategy for Climate 
+
+Change mitigation and adaption (2018). In addition, Benin has also ratified several international 
+
+conventions relating to the management and conservation of forest resources. 
+
+Despite this institutional context for management of the sector, the decrease of Beninese forest cover, 
+
+particularly over the decade from 2007-2016, is concerning:  Benin’s national forest cover, estimated at 
+
+8.12 million hectares in 2007 (70.4% of the national territory), fell to 7.9 million hectares in 2016 (68.5% 
+
+of the territory), a loss of over 215,000 ha. If the current deforestation rate is maintained, the per capita 
+
+forest area, which more than halved from 1.63 ha in 1980 to 0.87 ha in 1995, will fall even further, to 0.29 
+
+ha by 2025 (MEHU/DGFRN 2012).  
+
+The root cause of deforestation and forest degradation in Benin is the weak capacity of the Forest 
+
+Administration to ensure management operations in Gazetted Forests. The Administration has personnel in 
+
+the field who, although technically competent, lack adequate operational means to monitor the GFs. This 
+
+presence in the field is limited by serious shortcomings in physical assets, most glaringly in forest rangers 
+
+living quarters, which are in poor condition (lacking in access to water, electricity, means of 
+
+communication). With surveillance being carried out sporadically and in half-measure, Gazetted Forests 
+
+have become the theater of: (i) expansion of clandestine farms, which rely on extensive slash-and-burn 
+
+agriculture; (ii) transhumance or the settling of herds in GFs; (iii) unregulated removals of fuelwood; and 
+
+(iv) establishment of human settlements in GFs. 
+
+The indirect causes of deforestation include increasing demographic pressure and climate change, the latter 
+
+of which is slowing down the forest cover regeneration process and reducing biomass in the GFs through 
+
+faster drying up and silting of streams, more frequent flooding, and increased soil erosion. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD)  
+
+
+To improve the integrated management of targeted gazette forests, to increase access of the main consumption cities 
+to fuelwood produced sustainably, and to strengthen selected NTFP value chains for forest-dependent communities. 
+ 
+
+Key Results 
+
+PDO Level Indicators 
+(i) Forest areas under sustainable management (ha); 
+(ii) Sequestration of CO2 in target areas (in metric tons/CO2 eq.);  
+(iii) Wood energy plantations established for supply to the three major consumption hubs (ha); 
+(iv) Communities adjacent to targeted GFs with increased access to income sources through NTFP 
+
+value chains (number). 
+
+(v) Direct beneficiaries (of which women); 
+(vi) Satisfaction of beneficiaries (level of engagement, by gender and age per target area). 
+
+ 
+ 
+D. Project Description  
+
+The project will consist of four components: 
+1) Support to Forests Governance; 
+2) Integretaed Management of Gazetted Forests; 
+3) Development of Selected Non-Timber Forests Products Value Chains; 
+4) Project Management. 
+ 
+E. Implementation 
+
+ 
+Institutional and Implementation Arrangements 
+
+An Integrated Projects Management Unit (IPMU) will be responsible for the implementation of all WB-
+
+financed environment, forestry and NRM projects, under the responsibility of the Ministry of Environment, 
+
+and Sustainable Development, including West Africa Coast Areas (WACA), the GFM project and the 
+
+upcoming Green Climate Fund (GCF) project.   
+
+The current WACA PIU will be upgraded to an IPMU.  It will be composed of the following shared units 
+
+by all projects under its responsibility: (i) Financial Management, (ii) Procurement, (iii) Safeguards, (iv) 
+
+Monitoring & Evaluation, (v) Communication and (vi) administrative support, as well as a shared Steering 
+
+Committee.  The shared Steering Committed will be in place before project effectiveness. These units will 
+
+be strengthened as needed with fiduciary, safeguards, M&E and Communication staff to support the GFM 
+
+project implementation.   
+
+Each project under the IPMU will have a dedicated project coordinator and a Technical Assistant depending 
+
+on the project workload. For the GFMP, the dedicated coordinator will be supported by an international 
+
+top-notch forestry specialist. Both will be recruited competitively before project effectiveness.  
+
+The Director General of DGEFC in his role as National Coordinator of the Government Forestry Program, 
+
+will be the Director of the GFMP to mainly ensure synergies with that Program. The decentralized 
+
+Technical Forests Management Units (CTAF) in the field will ensure technical execution of project 
+
+activities.  The CTAF will report to the GFM project coordinator, who will in turn report to the General 
+
+Director of DGEFC.  The headcount of CTAF employees has been increased by the Government to include 
+
+personnel fully dedicated to project implementation, especially for timely implementation of production 
+
+forests activities. 
+
+
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project will be nationwide. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Abdoulaye Gadiere, Environmental Specialist 
+Gertrude Marie Mathilda Coulibaly Zombre, Social Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The project will finance works for the physical 
+demarcation of conservation areas, the restoration 
+of selected urban GFs in major cities as urban parks. 
+The operation under preparation will also support 
+the development of timber production, fuelwood 
+production as well as the Income Generating 
+Activities(IGA)such as animal husbandry, vegetable 
+gardening and Non Timber Forest Products(NTFP) as 
+well. Such activities are most of the time, associated 
+with potential adverse impacts on environment even 
+though these impacts are considered as being 
+moderate. However, the locations of specific 
+investments will not be known with certainty prior 
+to board approval. Consequently, an Environmental 
+and Social Management Framework (ESMF) was 
+developed ,reviewed, consulted upon and disclosed 
+both in Benin and on the Bank’s website on March 
+12, 2019. 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No This policy is not triggered under this project. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Activities related to the physical demarcation of 
+conservation areas, the restoration of selected 
+urban GFs in major cities as urban parks, the 
+development of timber production, fuelwood 
+production as well as the Income Generating 
+Activities could impact negatively Natural Habitats if 
+
+
+
+ 
+
+The World Bank  
+Benin: Gazetted Forests Management Project (P167678) 
+
+ 
+
+ 
+
+  
+Feb 28, 2019 Page 7 of 13  
+
+ 
+
+not well managed. The ESMF developed in line with 
+OP4.01, includes a chapter related to Natural 
+habitats  proper management during physical works. 
+
+Forests OP/BP 4.36 Yes 
+
+Some activities such as the agro-forestry, the 
+physical demarcation of conservation areas, could 
+also impact forests. In addition, the objective of the 
+Government objective to increase the volume of 
+timber produced annually from the current 65,000 
+to 250 000 m3 through large-scale plantations in 
+selected GFs (Alibori Supérieur, Ouémé Superieur, 
+Dogo and Lama) in order to increase the sector 
+contribution to the economy could lead to some 
+forests overexploitation. A specific section focused 
+on forest resources protection was developed and 
+included in the ESMF. 
+
+Pest Management OP 4.09 Yes 
+
+The project will support adoption of agricultural 
+intensification and agroforestry methods through a 
+stocktaking of existing successful national and 
+regionally employed agroforestry methods and 
+agricultural intensification techniques in order to 
+recommend those practices most suitable to the 
+project target zones. For that reason the O4.09 is 
+triggered. Consequently, a Pest Management 
+Plan(PMP) was developed and included in the ESMF 
+to guide any potential use of chemical products as 
+part of the project. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The project intends to support the physical 
+demarcation of conservation areas as well as IGA 
+such  vegetable gardening. Such activities could 
+induce excavations with potential cultural properties 
+discoveries. In order to anticipate and to be sure 
+that all the precautions were taken to protect and 
+safeguard physical cultural resources, the ESMF 
+includes a section on how to handle in a proper way 
+chance finds of cultural assets within the project 
+area. 
+
+Indigenous Peoples OP/BP 4.10 No 
+There are no Indigenous People as per the definition 
+of the policy in the project areas. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+No involuntary resettlement is anticipated. 
+However, the demarcation of conservation areas 
+could lead to the limitation of access of resources. 
+To anticipate any issue related to these aspects,  the 
+project has prepared a Process Framework. Once 
+prepared, that document was reviewed, consulted 
+
+
+
+ 
+
+The World Bank  
+Benin: Gazetted Forests Management Project (P167678) 
+
+ 
+
+ 
+
+  
+Feb 28, 2019 Page 8 of 13  
+
+ 
+
+upon and disclosed in Benin and on the Bank's 
+website on March 13, 2019. 
+
+Safety of Dams OP/BP 4.37 No The project will not finance dams nor rely on dams. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project is not expected to affect international 
+waterways. 
+
+Projects in Disputed Areas OP/BP 7.60 No The project will not be located in a Disputed Area. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+Overall, the Benin-gazetted forests management project aims at safeguarding gazetted Forests as well as restoring 
+degraded areas. Based on that, it will induce essentially positive impacts. However, some activities such as the physical 
+demarcation of conservation areas, the restoration of selected urban GFs in major cities as urban parks, the 
+development of timber production, the fuelwood production as well as the Income Generating Activities(IGA)such as 
+animal husbandry, vegetable gardening and Non Timber Forest Products(NTFP) might produce potential adverse 
+impacts. However,such adverse impacts are expected to be moderate, site specific and manageable at an acceptable 
+level. That is why the project is rated as a category B. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+The Benin-gazetted forests management project aims to protect the forests by limiting significantly their degradation. 
+This measure could involve  a reduction of the agricultural productions' yield by stopping the itinerant agriculture. The 
+impossibility to expand henceforth farming areas in conjunction with demographic explosion could exacerbate land 
+disputes.  
+However, the project will support adoption of agricultural intensification and agroforestry methods through a 
+stocktaking of existing successful national and regionally employed agroforestry methods and agricultural 
+intensification techniques in order to recommend those practices most suitable to the project target zones.  
+ 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+N/A 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+As the exact geographic locations of project specific interventions are not yet determined with certainty, the Borrower 
+has developed two environmental and social safeguards instruments, namely an Environmental and Social 
+Management Framework (ESMF) including a Pest Management Plan,  in compliance with the triggering of  OP/BP 4.01 
+(Environmental Assessment) and OP 4.09 (Pest Management)  and a Process Framework(PF) as per OP/BP 4.12 
+(Involuntary Resettlement) triggering. 
+Further to that, the ESMF includes two chapters focusing on Natural Habitats and Forests safeguarding. Both chapters 
+make the project fully in compliance with the OP4.04 and OP4.36. Additionally, a section related to a procedure of 
+
+
+ 
+
+“chance find” was also included in the ESMF in line with the triggering of the OP4.11. 
+The ESMF lays out procedures for screening and mitigating impacts from construction and operation of the irrigation 
+schemes, and includes the following: (a) checklists of potential environmental and social impacts and their sources; (b) 
+procedures for participatory screening of proposed sites and activities and the environmental and social 
+considerations; (c) procedures for assessing potential environmental and social impacts of the planned project 
+activities; (d) institutional arrangements for mitigating, preventing, and managing the identified impacts; (e) typical 
+environmental management planning process for addressing negative externalities in the course of project 
+implementation; (f) a system for monitoring the implementation of mitigation measures; and (g) recommended 
+capacity building measures for environmental planning and monitoring of project activities.  
+ 
+The Pest management’s section deals with safeguard measures to be taken in the case of the use of pesticide to fight 
+against agriculture predators. However, organic fertilizers and biological technics are supplies recommended to be use 
+first. Moreover, that section sets up guidance and guidelines with the aim of protecting population health and 
+environment integrity in promoting best practices. 
+ 
+Specific ESIAs will be prepared for relevant activities before project implementation along with Environmental and 
+Social Management Plans (ESMPs). The ESIAs will provide mitigation measures for all the potential impacts as a result 
+of the triggering of the above-mentioned safeguard policies. 
+The Process Framework will guide new modalities of gazetted forest as well as restored areas access and use of their 
+resources. 
+Responsibility and oversight of the Project’s overall compliance with national legislation and Bank safeguard policies 
+will rest with the environmental and social specialists in the PIU, as the main persons in charge of project 
+implementation and monitoring of safeguard aspects. They will be working in close collaboration with the national 
+entity responsible for ensuring the compliance of the project’s activities with the national legislation namely 
+ABE(Beninese Environment Agency). That government’s body will conduct periodic monitoring of project’s compliance 
+with proposed mitigation. It also receive guidance and technical support from bank’s environmental and social 
+safeguard specialist during implementation support missions or through sessions of training. 
+ 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The populations who will be impacted by the project activities are mainly the rural communities. They are the forest 
+owners, the farmers, the hunters, the coalmen and forest loggers. During the  project preparation, these various socio-
+professional layers have been consulted. In addition, these consultations have concerned the Civil Society 
+Organizations (CSO) such as  the NGOs opening in the environmental management and the natural resources fields , 
+producers organizations, associations, private operators, deputies, etc. These meetings are held in the form of 
+workshops, of meetings, meetings of work.  
+After the preparation of safeguard instruments, a validation workshop with the participation of the ABE  and all the 
+above-mentioned stakeholders was held on February,2019. At this occasion, comments and suggestions from 
+participants were taken in both documents. 
+ 
+ 
+
+B. Disclosure Requirements  
+
+ 
+OPS_EA_DISCLOSURE_TABLE Environmental Assessment/Audit/Management Plan/Other 
+
+Date of receipt by the Bank Date of submission for disclosure 
+For category A projects, date of 
+distributing the Executive Summary of 
+the EA to the Executive Directors 
+
+20-Feb-2019 08-Mar-2019  
+
+   
+
+"In country" Disclosure   
+ 
+
+  
+OPS_RA_D ISCL OSURE_T ABLE  
+
+ 
+
+Resettlement Action Plan/Framework/Policy Process 
+
+   
+
+Date of receipt by the Bank Date of submission for disclosure  
+
+20-Feb-2019 08-Mar-2019  
+
+   
+
+"In country" Disclosure   
+   Benin 
+  12-Mar-2019 
+
+Comments 
+ 
+
+     
+OPS_ PM_D ISCL OSURE_TA BLE  
+
+ 
+
+Pest Management Plan 
+ 
+Was the document disclosed prior to 
+appraisal? Date of receipt by the Bank Date of submission for disclosure 
+
+Yes 20-Feb-2019 08-Mar-2019 
+
+   
+"In country" Disclosure   
+ 
+
+ 
+OPS_PM_ PC R_TAB LE  
+
+ 
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to 
+be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.  
+
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+
+N/A 
+
+ 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project 
+decision meeting)  
+
+ 
+OPS_EA_COMP_TABLE OP/BP/GP 4.01 - Environment Assessment 
+  
+Does the project require a stand-alone EA (including EMP) report? 
+Yes   
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report? 
+Yes   
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan? 
+Yes   
+
+OPS_ NH_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.04 - Natural Habitats 
+  
+Would the project result in any significant conversion or degradation of critical natural habitats? 
+No   
+If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the 
+project include mitigation measures acceptable to the Bank? 
+No   
+
+OPS_ PM_C OM P_TA BLE  
+
+ 
+
+OP 4.09 - Pest Management 
+  
+Does the EA adequately address the pest management issues? 
+Yes   
+Is a separate PMP required? 
+No   
+If yes, has the PMP been reviewed and approved by a safeguards specialist or PM?  Are PMP requirements included in 
+project design?  If yes, does the project team include a Pest Management Specialist? 
+NA   
+
+OPS_ PCR_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.11 - Physical Cultural Resources  
+Does the EA include adequate measures related to cultural property? 
+Yes   
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property? 
+Yes    
+
+OPS_IR_ CO MP_TA BLE  
+
+ 
+
+OP/BP 4.12 - Involuntary Resettlement 
+
+ 
+ 
+
+Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared? 
+Yes  
+ 
+
+ 
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan? 
+
+ 
+
+ 
+
+  
+OPS_F O_C OM P_TA BLE  
+
+ 
+
+OP/BP 4.36 - Forests 
+  
+Has the sector-wide analysis of policy and institutional issues and constraints been carried out? 
+NA   
+Does the project design include satisfactory measures to overcome these constraints? 
+NA   
+Does the project finance commercial harvesting, and if so, does it include provisions for certification system? 
+NA      
+
+OPS_ PDI_ CO MP_TA BLE  
+
+ 
+
+The World Bank Policy on Disclosure of Information 
+
+ 
+ 
+Have relevant safeguard policies documents been sent to the World Bank for disclosure? 
+Yes   
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+Yes  
+
+ 
+ 
+All Safeguard Policies 
+
+ 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes 
+
+  
+Have costs related to safeguard policy measures been included in the project cost? 
+Yes 
+
+  
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures 
+related to safeguard policies? 
+Yes 
+
+  
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Yes 
+
+ 
+ 

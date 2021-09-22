@@ -1,9 +1,7 @@
 id	keyword
 IDB9	SENACSA
-IDB9	Bank
 IDB9	Paraguay
+IDB9	Bank
 IDB9	Health
-IDB9	Animal
-IDB9	OIE
-IDB9	PEU
-IDB9	project
+IDB9	program
+IDB9	service

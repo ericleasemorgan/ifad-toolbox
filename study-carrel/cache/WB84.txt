@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT INFORMATION DOCUMENT (PID) 
+CONCEPT STAGE
+
+Report No.: PIDC33685
+
+Project Name Poyang Lake Basin Town Water Environment Management Project 
+(P153604)
+
+Region EAST ASIA AND PACIFIC
+Country China
+Sector(s) Wastewater Collection and Transportation (40%), Solid waste management 
+
+(20%), Wastewater Treatment and Disposal (20%), Animal produc tion 
+(20%)
+
+Theme(s) Rural services and infrastructure (30%), Pollution management and 
+environmental health (30%), Water resource management (30%), Parti 
+cipation and civic engagement (10%)
+
+Lending Instrument Investment Project Financing
+Project ID P153604
+Borrower(s) People's Republic of China
+Implementing Agency Jiangxi Provincial Development and Reform Commission
+Environmental 
+Category
+
+A-Full Assessment
+
+Date PID Prepared/
+Updated
+
+27-Dec-2015
+
+Date PID Approved/
+Disclosed
+
+10-Jan-2016
+
+Estimated Date of 
+Appraisal Completion
+
+02-Nov-2016
+
+Estimated Date of 
+Board Approval
+
+31-Mar-2017
+
+Concept Review 
+Decision
+
+Track II - The review did authorize the preparation to continue
+
+I. Introduction and Context
+Country Context
+China's rapid urbanization over the past three decades has facilitated impressive economic and 
+social gains. The country became the second largest economy in the world in 2010, with over half of 
+its population now living in cities. About 500 million people have been pulled out of poverty in the 
+process. Further transition is projected to add another 300 million to China's urban population by 
+2030 and continue boosting the economic growth. Unfortunately, China's economic gains came at a 
+significant cost to its environment, with serious implications on health and quality of life, as 
+environmental depletion and degradation were overlooked during China's impressive economic 
+growth period. The cost of environmental degradation and resource depletion in China is estimated 
+
+
+to approach 10 percent of GDP, of which water pollution accounts for 2.1 percent, based on China 
+2030 Study estimates. The Government of China has recognized that it cannot continue on this road 
+and has put in place plans to ensure the environmental sustainability of its economic development 
+pathways.
+
+Sectoral and Institutional Context
+The Chinese water sector suffers from both water quantity and quality challenges. In terms of water 
+quantity, with 20 percent of the world's population but only 7 percent of its freshwater, water 
+scarcity is a major problem for sustainable urban development in China. Moreover, there is also a 
+strong disparity in spatial distribution of its water resources, as only 19 percent of China's water 
+resources are available to 40 percent of the population in the north, where most of the major grain 
+production is located, and in the west. In terms of water quality, due to environmentally 
+unsustainable development trajectory pursued over the last three decades, a significant portion of 
+China's freshwater sources are polluted. According to 2010 data, about 40 percent of rivers in China 
+were seriously polluted and unfit for drinking water. Similarly, the groundwater quality in more 
+than half of 200 cities surveyed was classified as 'bad' (in 40.3 percent of cities) or 'extremely 
+bad' (14.7 percent). Similar figures are reported for the quality of other water bodies in the country, 
+including lakes. 
+ 
+Poyang Lake is the largest freshwater lake in China with a maximum surface area reaching 5,050 
+km2 and a storage capacity - 30 billion m3. The basin area of the lake is about 162,200 km2 
+covering over 97 percent of the land area of Jiangxi Province. The lake plays many vital functions, 
+such as hydro-morphologic, environmental, social, cultural and economic; the livelihood of more 
+than 40 million people is closely linked to the water and environment of Poyang Lake. Poyang Lake 
+connects to Yangtze River in the middle reach at Hukou, Jiujiang County. The dynamics of the lake 
+water movement is governed by both the stages of the Yangtze River and the discharges from its 
+five major tributaries (Gan, Xin, Fu, Rao and Xin Rivers). While the annual water level in the 
+Poyang Lake has remained stable in the recent years, the area of the lake fluctuates dramatically 
+between the wet and dry seasons. In normal years, the average lake area is about 3,200 km2. The 
+fluctuations are also affected by severe climate events, e.g., in early 2002, due to serious drought, 
+the area of the lake reached a low of 200 km2.   
+  
+Poyang Lake is also a wetland of national and global importance, which provides a key habitat for 
+half a million migratory birds. It is a house for over 95% of world's white crane, 60% of world??s 
+white-napped cranes, 55% of world's hooded crane, 60% of world's white storks, and 96% of 
+world's swan goose population. Poyang Lake is also a species gene pool with 156 kinds of aquatic 
+plants, 136 planktons, 230 kinds of benthic animals, 58 kinds of fishes, 89 kinds of water birds, etc. 
+It also plays a significant role in the seasonal flow regulation of the Yangtze River. The average 
+amount of lake water entering the Yangtze River is about 150 billion m3, amounting to 15.6% of the 
+mean annual runoff of the river.  
+ 
+The water quality of the Lake has been comparatively good (with 83% falling under Class I ~ III, 
+13% under Class IV, and 4% under Class V ). However, research results of the World Bank 
+supported TCC5 project and the available monitoring data of Ministry of Environmental Protection 
+show a concerning trend of water quality deterioration, with chemical oxygen demand (COD) and 
+ammonia-nitrogen (NH3-N) gradually increasing and dissolved oxygen (DO) gradually decreasing. 
+The existing data on COD discharge collected by the local governments in the lake basin show that 
+domestic wastewater (about 60%) and solid waste disposal (about 30%) produce the major water 
+
+pollution. While industrial pollution remains an issue, discharges from industries are gradually 
+decreasing. Site visit also found uncontrolled solid waste disposal and insufficient treatment, and 
+improper fish feeding and improper habit of farm land fertilizing also lead to severe water pollution. 
+By provincial environmental statistics, only 79% of domestic wastewater is treated in urban areas of 
+Jiangxi province, which is much lower than the national average of 85%. Similarly, solid waste 
+collection and treatment rate in the province is 69% compared to the national average of 80%.   
+ 
+Conclusions from recent studies and discussions with Provincial governments identify the following 
+key causes for increase of pollution levels in the waterbodies feeding into Poyang Lake: (a) lack of 
+basin wide integrated water/environment management; (b) weak water quality and pollution source 
+pollution monitoring and disclosure system; (c) lack of public awareness and incentives in the 
+communities on environmental protection; (d) weak enforcement of regulations related to disposal 
+of untreated industrial and domestic wastewater directly into water bodies; (e) lack of investment in 
+infrastructure for wastewater collection and treatment systems in urban and rural areas as well as for 
+solid waste management in the small cities and towns and rural areas; and (f) lack of use of good 
+practices on proper domestic solid waste disposal and agriculture practices. 
+ 
+Government of China and Jiangxi Provincial government recognize the needs to protect the Lake. 
+Series of measures have been triggered at national, provincial, and county levels to protect the value 
+the Poyang Lake as a unique resource and a national heritage, and to control the lake's pollution and 
+to restore the vital water quality and its associa ted functions. The Government of China issued the 
+Poyang Lake Ecological Economic Zone Development Plan (PLEDP) in 2009 focusing on 
+ecological development of Poyang Lake. Under the PLEDP, there is an implementation plan and 18 
+specific sector plans, including water environment management, water resources, five river 
+management plan, etc. In 2014, Jiangxi government also issued a plan for establishment of 
+ecological and civilization demonstration areas, stating actions and targets for industrial, domestic 
+wastewater and solid waste management. Based on the plan, by 2020, COD would be decreased by 
+5% compared to the 2015 baseline, wastewater treatment ratio would reach 90% and urban solid 
+waste treatment ratio - 85%. The PLEDP together with other relevant sector plans foresee 
+significant increase in size of population and economic activity by 2020, with the focus on tourism 
+industry. This, together with unresolved improvements in infrastructure, is expected to result in big 
+pressure on water quality in the lake basin. 
+ 
+Following the series government plans, the government of Jiangxi has been conducting six major 
+ecological environment protection group projects: (a) Poyang Lake wetland and biodiversity 
+protection projects; (b) Poyang Lake-rim green belt projects; (c) pollution prevention and control 
+projects including wastewater, solid waste and non-point agricultural pollution control; (d) blue sky 
+action demonstration projects; (e) circular economy, energy conservation, and emission reduction 
+projects; and (f) ecological cultural projects. 
+ 
+In 2013, the World Bank approved the Jiangxi Poyang Lake Basin and Ecological Economic Zone 
+Small Town Development Project with the objective to improve key public services in participating 
+small towns of Jiangxi Province through improvements to priority infrastructure. Though overall 
+project implementation has been satisfactory, there are a number of challenges including the rapid 
+urbanization rendering some of the sub-projects irrelevant/unviable, capacity constraints and issues 
+related to O&M for wetland, solid waste and wastewater facilities. The proposed project would 
+expand the coverage to include seven additional counties, particularly focusing on water 
+environment management and solid waste management infrastructure while taking into account 
+
+lessons from the Small Town Development Project and incorporating in its design best international 
+practices.  
+ 
+Note : Chinese surface water quality standards: Class I is good quality water which with simple 
+purification is drinkable (DO>7.5mg/l; COD<15; BOD5<3; NH3-N<0.15; P<0.02); Class II is good 
+quality water which is slightly contaminated, drinkable after normal purification (DO>6mg/l; 
+COD<15; BOD5<3; NH3-N<0.5; P<0.1); Class III contaminated water which could be drinkable 
+after treatment (DO>5mg/l; COD<20; BOD5<4; NH3-N<1; P<0.2); Class IV water is not drinkable 
+(DO>3mg/l; COD<30; BOD5<6; NH3-N<1.5; P<0.3); and Class V is bad quality water (DO>2mg/
+l; COD<40; BOD5<10; NH3-N<2; P<0.4).
+
+Relationship to CAS
+The project is aligned with the Country Partnership Strategy (CPS) for 2013-2016, specifically the 
+objectives set under focus area I --"Supporting greener growth", including Enhancing Urban 
+Environmental Services; Promoting Sustainable Agriculture Practices; and Demonstrating 
+Sustainable Natural Resource Management. The project design is in line with the national strategic 
+development plan of China, as envisioned in the Poyang Lake Ecological Economic Zone 
+Development Plan (2009) and Jiangxi Province implementation plan for establishment of ecological 
+and civilization demonstration areas (2014). The project is also in line with 12th Five-year Plans 
+and draft 13th Five-year plan at Jiangxi provincial and county levels. 
+  
+The project is expected to contribute to both China??s national strategy on water security agenda 
+and to the World Bank Group twin goals of ending extreme poverty and boosting shared prosperity. 
+Water security has become a high priority at highest for decision makers at all levels (central and 
+local government). The strategy focuses on applying systematic treatment and combination of 
+structural and non-structural measures in water sector to promote ecological safety, economic 
+security and the safety of human health and lives. The project would contribute to, through 
+integrated and participatory approaches, sustainable water/environment management, improvement 
+of ecological condition, promotion of social and economic environment of Poyang Lake Basin, as 
+one of the key areas of Chinese water system. 
+ 
+For the contribution to the twin goals, as the poor are known to live relatively closer to degraded 
+and polluted areas, and have less access to water and solid waste disposal infrastructure, they are 
+expected to directly benefit from the project. The project will aim at addressing specific challenges 
+that the poor, vulnerable and women face, as identified through social assessment. The project is 
+also expected to boost shared prosperity, as improved water quality and local living conditions will 
+likely result in such benefits as increase in land value, access to income earning opportunities etc.     
+ 
+To achieve maximum impact and to address the higher strategic objectives indicated above, the 
+project will incorporate an "integrated" approach in the design of the activities in selected counties, 
+and focus on enhancement of ecological and institutional sustainability of water/environment and 
+strengthening of domestic wastewater and solid waste management system. This will involve 
+participation of communities during project preparation and implementation as well as in designing 
+long-term operation & maintenance mechanisms to ensure sustainability of the investments. 
+Ultimately, successful implementation of the project will help to facilitate the improvement and 
+restoration of water quality and ecological environment of the Poyang Lake basin. It would also 
+contribute towards the enhancement of water regime in the Yangtze River. 
+ 
+
+Note :   "Integrated approach" refers to a mechanism whereby structural and non-structural 
+measures are fully utilized, as well as whereby management of environmental protection is done in 
+a collaborative and coordinated way throughout the project cycle involving all stakeholders (from 
+different sectors and disciplines) and based on consensus building to ensure sustainability.
+
+II. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+The project development objective is to reduce the pollutant discharge into key selected waterways 
+in the Poyang Lake basin and to improve management of water environment.
+
+Key Results (From PCN)
+The proposed PDO level results indicators include: (a) Direct project beneficiaries (core sector 
+indicator), of which female beneficiaries; (b) Nutrient load reduction (nitrogen (N) and Phosphorus 
+(P)) achieved under the project (core sector indicator, tons/year); (c) Volume (mass) of COD 
+pollution load reduction achieved under the project (core sector indicator, tons/year); (d) domestic 
+solid waste reduced or recycled under the project (core sector indicator; tons/year); (e) Increased 
+number of counties in full compliance with Provincial Water and Environmental Protection 
+Guidelines . 
+ 
+Note :   The guidelines broadly include elements such as citizen participatory engagement and 
+institutional capacity to undertake regular water monitoring, reporting and enforcement.
+
+III. Preliminary Description
+Concept Description
+a. Overview.  
+ 
+The Jiangxi Provincial Government proposes to utilize the World Bank loan in managing the water 
+environment in the key towns of Poyang Lake Basin. Seven counties - Duchang, Poyang, Yugan, 
+Jishui, Fengxin, Jingan, Shangli, have been selected for project planning and implementation; total 
+population of the seven counties are about 5 million. These seven counties represent a mixed pattern 
+of geographic distribution across the basin: three sites are in close proximity to the main Lake, one 
+site along the mid-stream of a main river draining into the Lake, two sites adjacent to the tributary 
+streams of a main river, and one site at the remotest distance from the Lake. The water quality of 
+Poyang Lake is closely associated with the quality and environment of the water and land bodies in 
+these contributing catchments, and vice versa.  
+ 
+The project is designed to integrate different ways of environmental protection to improve the water 
+quality of Poyang Lake basin, including by means of wastewater treatment and solid waste 
+management, as well non-structural measures. As such, the project will focus not only on 
+engineering aspects but also on enhancing institutional mechanisms, improving operation and 
+maintenance (O&M) and monitoring systems to help the selected counties in Jiangxi Province to 
+enhance water environmental services, including wastewater collection and treatment systems, 
+urban storm water management, river and lake environment restoration, solid waste collection and 
+transportation system, and participatory integrated environment management system.  
+ 
+b. Proposed Project components.  
+ 
+
+
+The proposed project activities consist of four main components as below:  
+ 
+Component 1: Strengthening Institutional Capacity for Managing Water Environment in Poyang 
+Lake Basin (US$15 million): This component will finance capacity building and awareness raising 
+activities to improve participatory wastewater and solid waste management, enforcement of 
+environmental regulations and creating pre-conditions for sustainability of project results. The 
+component will be structured in two key sub-components: (a) institutional capacity building and 
+enforcement and (b) sustainable Poyang Lake basin management.  
+ 
+Sub-component 1.1: Institutional Capacity Building and Enforcement (USD11 million): This sub-
+component will finance activities related to: (a) strengthening of the current integrated Poyang Lake 
+Basin management institutional architecture (River manager as leader of the party - River 
+implementer as the mayor of the county - high level leading group for strategic orientation and 
+guidance, and Poyang Lake water/environment financial and investment mechanism study; (b) 
+strengthen Basin-wide water/environment management planning: (i) support an integrated 
+vulnerability and sensitivity assessment of Poyang Lake (water quality improvement and protection- 
+water quantity control - land uses change -biodiversity conservation- urbanization and demographic 
+changes- tourism impact and industrialization-basin pollution, and providing comments on 
+integrated action plan leading to series of projects with implementation sequencing and synergies in 
+line with the long-term commitment) along with resilience and adaptation measures; (ii) promotion 
+of integrated basin plans for the five tributaries of the Poyang Lake; (c) strengthening knowledge 
+sharing of integrated lake management and establish Lake management advisory platform - with the 
+continuous pressure on water resources, the lakes under environmental stress are evidenced across 
+China; and (d) strengthening the water/environment monitoring system through upgrade/newly 
+installation of water/environment monitoring facilities, enhancement of the integrated monitoring 
+information system, early warning system, real-time data disclosure etc. 
+ 
+Sub-component 1.2: Sustainable Poyang Lake Basin Management (USD4 million): This sub-
+component will finance activities related to enhancing conditions for lake basin environmental 
+management sustainability, including: (a) enhancement of citizen participation and information 
+disclosure - translating the high level ownership of the Poyang protection to grassroots level could 
+contribute to the rapid and broader success of the Poyang Lake conservation. Building on the 
+institutional structure and ecological compensation mechanism, the citizen participation could 
+involve labor corporations (fishermen, farmers, factory workers and industries etc.) in having a 
+voice in Poyang Lake protection; and (b) ensuring soundness of infrastructure design and its O&M 
+sustainability¡ª the project will aim to increment the quality of innovation and appropriate 
+technology with the economics of their financing for sustainable operation and maintenance 
+implementation; and strengthening of incentive mechanisms, i.e., the compensation scheme for 
+ecological protection of the Poyang Lake that could be further strengthened building on proven 
+incentive mechanisms; 
+ 
+Component 2: Improvement of Lake and River Environmental Restoration and Enhancement of 
+Domestic Wastewater Management System (US$ 140 million). This component will finance 
+activities related to protection and restoration of the water environment of selected rural and urban 
+water environments in Poyang Lake basin through collection and treatment of urban and rural 
+wastewater; collection and safe disposal of stormwater from both rural and urban watersheds; and 
+implementation of integrated engineering and biological as well as Low Impact Development (LID) 
+interventions in selected rural and urban waterways.  The aim of the component is to demonstrate an 
+
+
+Integrated water
+shed management approach by focusing on key areas for protection, improving 
+water quality and environmental protection caused by the municipal wastewater and aquaculture 
+sources, and establishing ecological pollution-control zones along the course of pollutant movement.
+ 
+Sub-component 2.1: Improvement of Lake and River Environmental Restoration (USD66 million): 
+This sub-component will finance implementation of integrated engineering and biological 
+mitigation measures and Low Impact Development (LID) in selected small lakes, rivers, and 
+catchments in Poyang Lake basin. This will include restoration of water environment in Zhuhu Lake 
+in Poyang county, Pipa Lake (river) in Yugan county, and ecological restoration of stream corridor 
+of Zoujiazui River in Duchang county. Key activities will include construction of stormwater 
+collection and diversion systems from upland watersheds, rural wastewater treatment facilities, 
+distributed wastewater collection along lake banks, introduction of good aquaculture practices (for 
+fishing farming and pearl culture) and water environment monitoring system.  
+ 
+Sub-component 2.2: Enhancement of Domestic Wastewater Management System (USD74 million): 
+This sub-component will finance rehabilitation and expansion of urban wastewater collection and 
+treatment systems to improve capacity of wastewater collection and treatment of selected counties. 
+Main project activities include: construction of wastewater collection networks (including 
+household connections); and construction and/or rehabilitation of wastewater treatment plants in 
+Duchang, Jiang'an, and Jishui counties.  
+ 
+Component 3: Construction of solid waste collection and transportation system (USD75 million): 
+This component is to improve solid waste collection and transportation system in rural and urban 
+areas to reduce solid waste disposal to river system of Poyang Lak Basin. This component will 
+finance setting up solid waste separation system, construction of solid waste collection stations and 
+transportation stations, and establishment of sustainable solid waste collection and transportation 
+system, and establishment of monitoring and management systems in Shangli, Duchang, Poyang, 
+Yugan, and Jing'an Counties. 
+ 
+Component 4: Project Implementation Support (USD15 million). This component is to support the 
+effective and efficient implementation of the project activities. This component will finance project 
+management, project implementation supervision, project social, resettlement and environmental 
+monitoring, domestic and international training and study tours, and relevant project management 
+equipment and facilities. Main project activities will include procurement of office equipment, 
+domestic and international training and study tours, procurement of project implementation 
+supervisors, procurement of social and resettlement and environmental monitoring services, etc. 
+ 
+d. Gender. 
+ 
+There is strong evidence that gender inequalities contribute to poverty and reduce human well-
+being, and that gender issues are an important dimension of the fight against poverty. In water 
+supply operations specifically, there has long been an understanding of importance of incorporating 
+a gender perspective, because women and girls are most often the primary users, providers and 
+managers of water in their households and are the guardians of household hygiene. Limited access 
+to water and poor water quality have direct impact on household welfare and health. If a water 
+system falls into disrepair, women are the ones forced to travel long distances over many hours to 
+meet their families' water needs. Therefore, women and girls benefit most when services are 
+improved. Given women's household roles and responsibilities, they are also more likely to impact 
+
+
+decisions related to ways to collect and dispose the domestic waste. Finally, women can greatly 
+contribute to oversight of a well-functioning community enforcement of environmental reg  ulations 
+and also such aspects as decisions related to water and solid waste collection fee levels.  
+ 
+Worldwide good performance on gender mainstreaming in projects requires: (a) carrying out a 
+gender analysis as part of the project's social assessment; (b) introducing relevant design elements; 
+and (c) tracking project performance through the inclusion of gender disaggregated indicators. The 
+project will conduct a standalone social assessment, in which a close attention to gender aspects will 
+be paid. This will include investigating on and consulting with female beneficiaries in the project 
+areas in order to clearly identify their needs and concerns, as well as possible project impacts, and 
+explore both mitigation measures of such impacts and opportunities for women targeted activities to 
+achieve project objectives. The project design will particularly emphasize female participation in 
+project activities, capacity building and M&E activities. Specific indicator(s) related to women's 
+participation will be included in the Results Framework and will be closely monitored during 
+project implementation. 
+ 
+e. Lessons learned from Jiangxi Poyang Lake Basin and Ecological Economic Zone Small 
+Town Project 
+ 
+There are valuable lessons of Jiangxi Poyang Lake Basin and Ecological Zone Small Town Project 
+implementation that will be taken into account during further design of the proposed project. The 
+on-going project faces challenges in terms of institutional capacity and inter-departmental 
+coordination, issue that is also observed in other provinces in China. Collaboration in controlling 
+and reducing substances at their source is the most effective way of keeping pollutants out of the 
+lake. This requires clarity of responsibilities of each authority, as well as full collaboration to meet 
+the joint objective. While industrial pollution control is under the responsibility of provincial 
+Environmental Protection Department (EPD), agricultural land and aquaculture pollution control is 
+managed by the provincial Agriculture Department (AD).   
+ 
+To address these problems, it is critical that county Government maintains ownership of the 
+proposed sub-projects, even with the change of the county leadership to ensure continued focus on 
+initially agreed project activities and development objectives. Similarly, continuity and retention of 
+project staff at the county level (including PMOs, PLGs and Expert Groups) is important to ensure 
+good capacity developed under the project is maintained. Finally, the project will also raise 
+awareness among communities and farmers.  
+ 
+Equally important is to considerably strengthen institutional coordination mechanisms, not just for 
+project purposes, but also for future management of the Lake. It would be important to assign a 
+function of responsibility to review development proposals in the basin with a view on their 
+implications on the Lake water quality to one of the institutions that is currently managing Poyang 
+Lake, or to establish a Poyang Lake Management Commission. The institution would also be 
+responsible to spearhead the improvement/ restoration of the Lake water quality over the long run. 
+This entity could include representatives of relevant provincial and county governments, as well as 
+concerned citizens and academic or research agencies.  
+ 
+f. Global Lessons Learned and World Bank's Value Added 
+ 
+World Bank participation has the added benefit of introducing and replicating, where possible, 
+
+
+international best practices in the management of water body pollution control and environmental/
+ecological improvement. Lessons learned from World Bank-financed pollution control and 
+ecological restoration projects (such as Danube Water Program; Iran Northern Cities Water Supply 
+and Sanitation Project to reduce pollutant loads to the Caspian Sea; Lake Victoria Environmental 
+Protection Project; Aral Sea Restoration Project; Integrated Water Management in Metropolitan Sao 
+Paulo Project) as well as lessons from other countries' experiences (such as the Great Lakes and 
+Chesapeake Bay restoration programs in the US) are being used to inform the key concept of the 
+project, and include: (a) investments in infrastructure upgrading needs to be matched consistently 
+with required institutional support for appropriate maintenance and management competencies, to 
+ensure sustainability of investment; (b) the needs within the basin exceed the current scale of 
+investments and therefore (i) investments need to be modelled, targeted and monitored to establish 
+the most cost-effective interventions to improve basin health and green resilient growth that 
+supports livelihood and maintains the sustainability of economic development; (ii) capacity and 
+investments need to be leveraged from a variety of public and private partners; (c) problems related 
+to water quality management, pollution control and urban upgrading are complex and require multi-
+sectoral and integrated approaches; (d) both the institutional and environmental objectives 
+associated with addressing such complex issues should be treated as long-term program goals rather 
+than short-to medium-term project objectives; (e) integrated approaches to water quality 
+management can enhance additional benefits and contribute to poverty alleviation; (f) participatory 
+approach, though time-consuming, is essential for sustainability of project results as it ensures 
+consensus building between all stakeholders in reaching agreement on project design and achieving 
+institutional and policy reform and public support; and (g) ex-post monitoring of activities to collect 
+evidence of costs and benefits help to enhance chances for successful replication. 
+ 
+Specific best practices that will be examined for application of proposed project activities include: 
+(a) strengthening of the current institutional architecture - River manager as leader of the party - 
+River implementer as the mayor of the county - high level leading group for strategic orientation 
+and guidance (the Great Lakes National Program Office (GLNPO in the USA); the Office of the 
+Prime Minister Program for the Lake Balaton (Hungary); and the creation of the Commission and 
+Secretariat of the Lake Balaton from above mentioned office); (b) strengthening of incentive 
+mechanisms (direct and indirect payment fee mechanism in Biwa Lake (Japan); environmental fee 
+on net revenue from chemical factories around Lake Toba (Indonesia); fee grid for water 
+consumption in Lake Constance (Germany-Switzerland and Austria) and; the revolving polluter-
+payer fee/subsidy mechanism of the Seine Normandy River Basin Agency (France)); (c) citizen 
+participation and information disclosure - (Women Association for the Lake Balaton which 
+pioneered the lake's protection in earlier 1990; the Lake Naivasha (home of Kenya??s flowers 
+export) Riparian Association (LNRA) and Lake Naivasha Growers Group (LNGG)); (d) ensuring 
+soundness of infrastructure design and its O&M sustainability (the Chesapeake Bay restoration 
+program (USA); Lake Champlain basin program (USA/Canada); the Lake Balaton water quality and 
+tourism program; and Danube Water Program); (e) integrated action plan to maximize impact of 
+interventions (the Great Lakes restoration program; the lake Ponchartrain restoration plan 
+(Louisiana); the Lake Balaton program). 
+ 
+Note:   Proposed project activities have been selected based on the following criteria: (a) cost 
+effectiveness - each sub-project should have economic/financial return; (b) sub-projects should not 
+cause any negative social and environmental impacts that cannot be mitigated through proper design 
+and contract execution; (c) sub-projects must be in compliance with government development plans; 
+(d) all land used for construction purposes shall conform to general land utilization plans of the 
+
+
+cities and / or townships and their annual land use plans; (e) proposed interventions should solve 
+existing problems systematically rather than only solve part of the problem; and (f) sub-projects 
+should have demonstration value.
+
+IV. Safeguard Policies that might apply
+Safeguard Policies Triggered by the Project Yes No TBD
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+Projects in Disputed Areas OP/BP 7.60 ✖
+
+V. Financing (in USD Million)
+Total Project Cost: 263.80 Total Bank Financing: 150.00
+Financing Gap: 0.00
+Financing Source Amount
+ Borrower 113.80
+ International Bank for Reconstruction and Development 150.00
+ Total 263.80

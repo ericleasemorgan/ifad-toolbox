@@ -1,0 +1,825 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+APPRAISAL STAGE
+Report No.: PIDISDSA17494
+
+Date Prepared/Updated: 26-Apr-2016
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Sri Lanka Project ID: P156019
+Parent 
+Project ID 
+(if any):
+
+Project Name: Sri Lanka Agriculture Sector Modernization Project (P156019)
+Region: SOUTH ASIA
+Estimated 
+Appraisal Date:
+
+25-Apr-2016 Estimated 
+Board Date:
+
+15-Jun-2016
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Sector(s): Agricultural extension and research (20%), Crops (20%), Agro-industry, 
+marketing, and trade (20%), Irrigation and drainage (20%), Ge neral agriculture, 
+fishing and forestry sector (20%)
+
+Theme(s): Rural markets (20%), Water resource management (20%), Rural policies and 
+institutions (20%), Rural services and infrastructure (20%) , Nutrition and food 
+security (20%)
+
+Borrower(s): Ministry of Finance
+Implementing 
+Agency:
+
+Ministry of Agriculture, Ministry Primary Industries, Provincial Councils of 
+Northern, Eastern, North-Central,  Central and Uva Provinces
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 0.74
+International Development Association (IDA) 125.00
+Local Communities 0.00
+Local Farmer Organizations 44.10
+Financing Gap 0.00
+Total Project Cost 169.84
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Appraisal 
+Review 
+Decision (from 
+
+The review did authorize the team to appraise and negotiate
+
+
+Decision Note):
+Other Decision: .
+Is this a 
+Repeater 
+project?
+
+No
+
+B.   Introduction and Context
+
+Country Context
+Sri Lanka is a lower-middle-income country of 20.5 million people and a per capita GDP of US$ 
+3,811 (2014).  Growth over the past decade has been strong, averaging 6-7% per year.  Absolute 
+poverty declined from 22.7 to 6.7% from 2002 to 2012.  Despite this progress, roughly one 
+quarter of the Sri Lankans remain nearly poor, as defined by living above the national poverty line 
+(about US$ 1.5 but below US$ 2.50 per day (2005 PPP terms).  Sri Lanka has comfortably 
+surpassed most of the Millennium Development Goals. Primary school enrollment is near 
+universal, while secondary and tertiary enrollment has substantially increased.  Maternal and 
+infant mortality rates are at very low levels, and life expectancy at 74 years has been above its 
+regional peers for over a decade. 
+ 
+With the end of the civil war in 2009, reconstruction, infrastructure investment, and increased 
+consumption have delivered a strong economic peace dividend, driven by the non-tradable sectors 
+and public sector investments.  Sri Lanka is also undergoing a structural transformation away 
+from agriculture, which now accounts for 10% of GDP towards industry (32.5%) and services 
+(57.5%) with associated productivity growth and accelerating urbanization.  However, this 
+transformation is progressing relatively slowly with 30% of the labor force remaining in 
+agriculture.  Notwithstanding the post-conflict environment, Sri Lanka’s economic policies over 
+last ten years have been inward-looking with an increasing degree of protectionism and anti-
+export bias.  This has prevented the country from capitalizing on comparative advantage and 
+exports; attracting domestic and foreign investments to foster technology transfer; and generating 
+new sources of innovation driven growth and employment. 
+ 
+The country’s fiscal landscape is challenging.  In 2014, a widened deficit and a slowdown in 
+growth increased the fiscal deficit to 5.7% and the public debt 71.8%, as share of GDP, marking a 
+slight reversal of the fiscal consolidation path of the post-conflict period.  The fiscal budget for 
+2016 presented to Parliament projected a deficit of 6.0% of GDP for the years 2015 and 2016.  
+The government presented its economic policy in November 2015 that includes as priorities the 
+generation of one million job opportunities, enhancing income levels, developing the rural 
+economy, and creating a wide and a strong middle class.  It proposed fiscal consolidation through 
+increasing revenue collection, reforms of state owned enterprises, and enhanced trade and foreign 
+investment.
+Sectoral and institutional Context
+Sri Lanka’s agriculture is characterized by a non-plantation sector and a plantation sector.  Of the 
+country’s approximately 2.3 million hectares of agricultural land, 80% are used for non-plantation 
+foods crops, comprising rice, maize, fruits, vegetables, and other crops that are primarily grown in 
+small-holdings.  About 1.65 million smallholder farmers operate on average less than 2 hectares 
+and contribute 80% of the total annual food production.  Commercial crops (minor export crops) 
+include cinnamon, pepper, cocoa, and coffee and are grown on small and medium land holdings 
+
+as well.  Plantation crops—coconut, rubber and tea—are cultivated in large estates and small and 
+medium land holdings.  Typically, non-plantation crops are grown under irrigated conditions 
+while plantation and minor export crops are grown in the rain-fed areas.  Monsoonal rainfall 
+patterns shape the agricultural seasons and irrigation patterns.  Two thirds of the agricultural area 
+are located in the dry zone where the bulk of the country’s irrigation infrastructure is located. 
+ 
+Sri Lanka’s has successfully attained self-sufficiency in rice and recently also in maize 
+production. Rice production has increased steadily from 2.9 million tons (2002) to 4.8 million 
+tons in 2015, in part because previously inaccessible land was reopened for cultivation after the 
+end of the war but also through introducing high-yielding varieties, expanding irrigation capacity, 
+fertilizer subsidies, restrictions on crop choices, and import substitution.  Achieving self-
+sufficiency has meant that the production structure has remained concentrated in the low value 
+food crops. In 2013, about 45% of the cultivated area was under rice cultivation (up from 37% in 
+1980) but the share of rice in the overall value of crop production was only 18%.  Furthermore, 
+average rice yields of 4.06 tons/hectare are relatively low and agricultural productivity, as 
+measured by total factor productivity, has only grown by an average of 0.6 percent per year since 
+1980, lagging behind other South and East Asian countries. 
+ 
+With rice self-sufficiency secured, there is a need to diversify the production structure out of the 
+lower value food crops towards high-value agriculture.  Sector policy to date, however, has 
+neglected the domestic fruits and vegetable sectors, despite growing domestic demand and 
+potential for export growth.  Demand has instead been met by increased imports.  A broad 
+recognition has however emerged recently that the modernization of agriculture is needed if 
+agriculture is to realize its potential for greater value generation and as a renewed source of rural 
+growth for poverty reduction and job creation. Such modernization will require a structural shift 
+towards a more high-value oriented agriculture production structure, agro-processing and value 
+addition activities, and increased competitiveness.  It will also involve aligning trade policies to 
+become more consistent and conducive for high-value export agriculture; realigning and better 
+targeting of public sector support, especially fertilizer subsidies; greater attention to R&D; and 
+relaxing the rice self-sufficiency policy and allowing for more demand-driven and market 
+oriented production.  This will require differentiated strategies for different parts and production 
+arrangements across the country.  In the northern and eastern parts of the country, comprising 
+primarily the dry zone, there is significant scope for agricultural productivity growth and potential 
+for better linkages to domestic and export markets, including value-added production.  In other 
+parts of the country, more robust and scaled-up private commercial investment and innovation 
+through agri-enterprises and agri-enterprise-farmer partnerships is needed for value addition and 
+farmer integration into high value chains through scaling up and diversification into more 
+commercial crops.   
+ 
+The proposed project provides a broad framework for Sri Lanka to experiment with innovative 
+approaches to address the above mentioned sector issues, overcome the low productivity 
+equilibrium, and strengthen agriculture’s contribution to the economy and employment creation.  
+The strategic thrust reflected in the project design is to support overall agriculture sector 
+development and addressing the longstanding constraints through: (a) developing an incentive 
+structure for small, medium, and large enterprises, including farmer producer organizations, to 
+invest in commercial agriculture and value chains; (b) promoting partnership arrangements 
+between private sector partners and smallholder pro ducers for better linkages; (c) demonstrating 
+new agriculture technologies and innovations at sufficient scale to enhance productivity, 
+
+resilience, and diversification in selected prioritized lagging regions; (d) promoting technology 
+diffusion through capacity building and training and new models for extension service delivery; 
+and (e) supporting sector policy analysis and research for reform.
+
+C.  Proposed Development Objective(s)
+
+Development Objective(s)
+The Project Development Objective (PDO) is to support increasing agriculture productivity, 
+improving market access, and enhancing value addition of smallholder farmers and agribusinesses 
+in the project areas.
+
+Key Results 
+The achievement of the PDO will be measured using the following results indicators: (a) number 
+of direct project beneficiaries, disaggregated by gender; (b) number and share of participating 
+farm households adopting improved technology packages and production practices supported 
+under the project; (c) number and share of project-supported farmer producer organizations and 
+farmer – agribusiness partnerships making a profit; (d) percentage increase in average value of 
+sales of agriculture products due to project interventions; and (e) the number of new jobs created 
+through small and medium enterprise investments under the project.
+
+D.  Project Description
+
+The project comprises four components, as follows: 
+ 
+Component 1: Agriculture Value Chain Development (Total US$102.7 million; IDA US$58.6 
+million). The component would promote commercial and export-oriented agriculture through 
+attracting and leveraging investments from farmer producer organizations and agribusinesses for 
+high value agriculture production and value addition. Component 1 comprises the following sub-
+components: 
+ 
+Sub-component 1.1: Investment Preparation Support, supporting: a training program on principles 
+and procedures of the Matching Grants Program under sub-component 2; public advertisements 
+and information workshops at national, provincial and district levels for prospective grant 
+applicants; support to the project’s Technical Review Group and Board; international advisory 
+support to operationalize the Matching Grants Program; staffing support and equipment and 
+operation cost for the Matching Grants Secretariat and three regional support offices; technical 
+assistance support to assist applicants in the preparation of quality investment proposals; and 
+technical assistance support to support the environmental and social safeguards requirements 
+within the Matching Grants Program. 
+ 
+Sub-component 1.2: Matching Grants to Producer Organizations and Agribusinesses, supporting a 
+Matching Grants Program to support investments from farmer producer organizations and 
+agribusinesses in agriculture. Matching Grants would be provided under two windows.  Matching 
+Grants of US$5,000 up to US$75,000 would be provided for investments to be developed and 
+implemented by farmer producer organizations.  Eligibility criteria for farmer producer 
+organizations to participate in the program would include: formal registration; appointment of an 
+accountant; a cash contribution of 10 percent of the total investment; and availability of 
+commercial financing of 40 percent of the total investment.  Matching Grants of US$75,000 up to 
+US$500,000 would be provided to agribusiness for agriculture value chain investments. 
+
+
+Applications for grant support would be evaluated on criteria, such as outreach and capacity 
+building to smallholder farmers, including women headed producer groups; focus on lagging 
+regions; as well as technical quality, innovation, business rationale and others. 
+ 
+Sub-component 1.3: Partial Credit Guarantee (PCG), supporting a PCG to share financial risk 
+with participating financial institutions that have expressed interest in lending to beneficiaries of 
+the Matching Grant Program.  The PCG would be administered by the Central Bank of Sri Lanka 
+(CBSL) and operate on the basis of the World Bank Group Principles on Partial Credit Guarantee 
+Schemes, published in December 2014, covering the governance, management, administration, 
+sustainability, and monitoring of PCG. 
+ 
+Component 2: Productivity Enhancement and Diversification Demonstrations (US$ 58.63 million, 
+IDA US$ 58.63 million).  The component would support smallholder farmers to produce 
+competitive and marketable commodities, improve their ability to respond to market 
+requirements, and move towards increased commercialization.  Component 2 comprises three 
+sub-components: 
+ 
+Sub-component 2.1:  Farmer Training and Capacity Building, supporting knowledge building and 
+capability improvements of smallholder farmers and the establishment of farmer organizations to 
+help them to respond better to market opportunities.  Individual farmer capacity building and 
+farmer producer organization training will be implemented through training programs reaching 
+out to approximately 600 villages and approximately 500 farmer producers groups.  The trained 
+and established farmer producer organizations would become eligible for participation in the 
+Matching Grants Program under Component 1. 
+ 
+Sub-component 2.2:  Modern Agriculture Technology Parks, supporting the introduction, 
+demonstration, and scale-up of innovative agriculture technology packages to support 
+productivity improvements, diversification, commercialization, more sustainable and climate 
+resilient production patterns.  The sub-component would support 7 agriculture technology 
+demonstration parks in the selected districts of Jaffna, Mullaitivu, Anuradhapura (Northern 
+Province), Batticaloa, (Eastern Province), Matale (North-Central Province), Moneragala (Uva 
+Province), and Polonnaruwa (Central Province) which have been identified based on high poverty 
+headcounts and agriculture potential.  The agriculture parks would be established to demonstrate 
+entire value chain approaches, involving farmer mobilization and training, production, post-
+harvest handling and/or processing, and marketing. 
+ 
+Sub-component 2.3: Up-grading Production and Marketing Infrastructure, supporting: (i) the up-
+grading and rehabilitation of small-scale irrigation infrastructure and existing water tanks in 
+selected areas and linked to the agriculture technology demonstrations parks; (ii) the improvement 
+of existing production and market access roads and construction of new field access tracks to 
+improve transportation, access to markets and accessibility for agricultural machinery; and (iii) 
+village level storage and product handling facilities, including drying platforms and sheds, 
+composting facilities of crop residues, storage facilities and others. Infrastructure investment 
+would focus on public infrastructure and would be linked to gaps identified under the technology 
+parks development (sub-component 2.2). 
+ 
+Sub-component 2.4:  Analytical and Policy Advisory Support, supporting the CPCU, MOPI and 
+MOA in addressing knowledge gaps; developing an evidence-based policy, legal and regulatory 
+framework; and formulating sector and sub-sectoral strategies to provide an enabling environment 
+for a sustainable and competitive modern agriculture and food system.  The component would 
+provide support to evaluate policies and regulations and recommend adjustments, reforms or new 
+policies to promote competitiveness, responsiveness to market demand, sustainability, and 
+resilience; undertake market analyses for new exports, and analyze policy, regulatory and 
+institutional constraints, and identify public investments to address these constraints; and evaluate 
+the social and economic impact of policies and public expenditures and make recommendations to 
+improve the efficiency and effectiveness of public expenditures.  The sub-component would also 
+provide some technical support the MOA, including the design of a National Agriculture 
+Information System and others. 
+ 
+Component 3: Project Management, Monitoring and Evaluation (Total Cost US$ 7.74 million, US
+$ 7.7 million IDA).  The component would support the PMOs at MOPI and MOA at the central, 
+provincial and district levels in project management and coordination, technical supervision, 
+financial management, procurement, social and environmental safeguards, and monitoring and 
+evaluation (M&E).
+
+Component Name
+Agriculture Value Chain Development
+Comments (optional)
+
+Component Name
+Productivity Enhancement and Diversification Demonstrations
+Comments (optional)
+
+Component Name
+Project Management, Monitoring and Evaluation
+Comments (optional)
+
+E.  Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+
+The project is national in scope and designed as framework approach.  Specific project locations 
+and their characteristics are not yet known and would be identified during implementation as part 
+of the project’s demand-driven Matching Grants Program approach. Itis expected that project sites 
+would be located in all three major agro-ecological zones, including the wet zone (average annual 
+rainfall above 2500 mm); the intermediate zone (annual rainfall between 1750-2500 mm); and the 
+dry zone (annual rainfall less than 1750 mm).  The dry and intermediate zones cover about 66% 
+of the agriculture land area and receive about 30% of the country’s annual surface water yield.  
+They are extensively used for agriculture and require irrigation water to be productive.  The bulk 
+of the country’s irrigation infrastructure is hence located in the dry zone.   The wet zone, on the 
+other hand, comprises 34% of the agricultural land area and receives 70% of the country’s annual 
+surface water yield.  The three major plantation crops, most other export crops and various types 
+of fruits are grown here under rain-fed conditions. 
+ 
+The project’s proposed agriculture technology demonstrations parks included under Component 2 
+and the complementing production infrastructure investments will be located in the 7 priority 
+districts of Jaffna, Mullaitivu, Anuradhapura, Batticaloa, Matale, Polonnaruwa, and Moneragala.  
+While exact project sites are not yet known and will be determined as part of a detailed feasibility 
+study process during implementation, the districts are located in the dry zone (except for 
+Moneragala, which is located in the intermediate zone) and have been identified based on high 
+poverty rates and high absolute numbers of poor.  The majority of these districts are located in the 
+former conflict affected areas and are characterized by poor or dilapidated public infrastructure, 
+lack of productive infrastructure at the farm level, and poor access to markets, as well as limited 
+livelihood and employment opportunities.
+
+F.  Environmental and Social Safeguards Specialists
+
+Mohamed Ghani Razaak (GSU06)
+
+Mokshana Nerandika Wijeyeratne (GEN06)
+
+II. Implementation
+Institutional and Implementation Arrangements
+Institutional responsibilities and arrangements for project implementation will be established, as 
+follows: 
+ 
+A Central Project Coordination Unit (CPCU) will be set up in the Ministry of National Policies and 
+Economic Affairs with representation from other government stakeholders.  The CPCU has the 
+mandate to ensure effective coordination and communication between the Ministry of National 
+Policies and Economic Affairs, Ministry of Finance, Central Bank, Ministry of Primary Industries, 
+Ministry of Agriculture, and Provincial Councils; provide overall policy guidance and support to the 
+implementing ministries; mobilize and ensure coordination with public and private sector 
+stakeholders; and oversee the project’s regular internal auditing/ third party-monitoring of the two 
+main investment components to ensure adherence to project principles and transparency. 
+ 
+Ministry of Primary Industries (MOPI).  MOPI will be responsible for implementing Component 1, 
+sub-components 1.1 and 1.2, and will oversee the following project-relevant units and entities: 
+ 
+A Project Management Unit (PMU) in MOPI is responsible for the management of Component 1, 
+sub-components 1.1 and 1.2, including annual work and budget planning, coordination of the 
+Department of Export Agriculture in Kandy and the three regional offices (Kilinochchi, Ampara, 
+Matara); coordination with the three Provincial Councils and Provincial Ministries of Agriculture; 
+procurement; fund withdrawal and financial reporting; technical and institutional aspects of 
+implementation; general oversight, field supervision and acceptance checks; and training and 
+capacity building, and the periodic progress reporting to the Bank.  A separate Secretariat would be 
+set up in the PMU of MOPI to manage the day-to-day implementation of the matching grants 
+program. 
+ 
+A Board of Directors will be set up to oversee and govern the application process and approval of 
+matching grants under sub-component 1.2.  The Board will be chaired by the Secretary of MOPI and 
+include representatives from MOF, Board of Investment, Ceylon Export Board, Central Bank, 
+Chamber of Commerce, Ministry of Agriculture, Ministry of Fisheries and the Provincial Councils 
+
+and Provincial Ministries of Agriculture.  The Board would be responsible for reviewing and 
+approving applications for matching grants that have passed the technical, institutional and business 
+reviews, ensuring that proposals are in accordance with government policy directions and objectives, 
+especially outreach and integration of farmers and female entrepreneurs; make good business sense; 
+and are in compliance with project regulations, including safeguards. 
+ 
+A Technical Review Group (TRG) will be appointed, comprising representatives from government 
+technical departments, academia/ research, industry-related enterprises, and other stakeholders.  The 
+TRG would provide guidance to farmer producer organizations and agribusinesses that have 
+expressed interest in applying to the matching grants program on technical and business-related 
+aspects of investment proposals, such as crop/ product selection, technology innovation, production 
+organization and processing, marketing research, partnership arrangements, investment costing, and 
+other elements of investment planning process.  The TRG would review finalized investment plans 
+for farmer producer organizations and agribusinesses for technical and economic soundness and 
+compliance with project regulations and recommend such proposals for approval to the Board.  
+ 
+The Regional Development Department of the Central Bank of Sri Lanka would be responsible for 
+administering the Partial Credit Guarantee (PCG) under Component 1, sub-components 1.3.  The 
+Department would also maintain the PCG Operational Manual, develop a business plan and pricing 
+model, continuously review the eligibility criteria for loans, establish a registration system for loans 
+to be covered under the PCG, and manage the claims processing system under the project. 
+ 
+Under the Ministry of Agriculture (MOA)  the following project-relevant units and entities would be 
+set up or would be set up for the management of Component 2.  
+ 
+A Coordinating Committee will be set up in MOA to be responsible for the regular coordination 
+between MOA and the Provincial Councils of the participating provinces, based on the principles of 
+the Wadduwa Declaration of the National and Provincial Ministers of Agriculture, signed on 
+September 30, 2015. The Coordinating Committee would ensure that project’s sub-components 2.2 
+(Agriculture Technology Demonstration Parks) and 2.3 (Upgrading Production and Marketing 
+Infrastructure) are fully coordinated with the Provincial Councils based on the devolved provincial 
+mandates for agriculture and rural development 
+ 
+A Project Management Unit (PMU) in MOA will be responsible for overall day-to-day coordination 
+and management of Component 2 in coordination with the five Provincial Councils and Provincial 
+Ministries of Agriculture.  The PMU would be responsible for annual work and budget planning; 
+coordination with provinces/ districts in public outreach and community mobilization, procurement 
+and contract management, fund withdrawal and financial management, including and financial 
+reporting; technical and institutional implementation aspects, field supervision and acceptance 
+checks; and training and capacity building.  It would also be responsible for reporting on project 
+progress and implementation issues to the Bank, including the relevant project M&E indicators and 
+safeguards implementation performance. 
+ 
+The Sri Lanka Council for Agriculture Research Policy (CARP) under MOA, would be responsible 
+for implementation of sub-component 2.4. Day to day activities under the component will be 
+managed by a small Policy Analysis Unit, housed in CARP with project support and reporting to the 
+Chairman of CARP.  The primary responsibility of the Unit would be to support policy level 
+discussions of the CPCU, Ministry Finance, MOPI and MOA; monitor consistency of economic 
+
+
+policies across various parts of the government; develop an annual program of studies and analytical 
+work, and monitor implementation during the year through periodic activity progress updates.
+
+III. Safeguard Policies that might apply
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental Assessment 
+OP/BP 4.01
+
+Yes To mitigate potential environmental and social 
+impacts that may be caused due to physical project 
+interventions and ensure all negative impacts 
+associated with project investments are avoided and/
+or mitigated, an Environmental Assessment and 
+Management Framework (EAMF) and a 
+Resettlement Policy Framework (RPF) have been 
+prepared.  These will provide detailed guidance on 
+the specific due diligence requirements as well as on 
+the specific environmental and social safeguards 
+instruments required for sub-projects, including 
+screening, environmental management plans, 
+resettlement action plans etc.) to mitigate any 
+potential negative project impacts.
+
+Natural Habitats OP/BP 4.04 Yes The project will support agriculture activities on 
+existing farmland.  Expansion of farmland into 
+fragile habitats is not foreseen. The project will 
+improve agricultural practices and is expected to 
+reduce the pressure on farmland and surrounding 
+natural habitats.  Some activities might impact 
+natural habitats because of their proximity to such 
+habitats (construction and/or upgrading of rural 
+infrastructure).  The EAMF prescribes a due 
+diligence mechanism under OP 4.01 to ensure 
+impacts are mitigated.  Preventive and mitigation 
+measures will be included in sub-project EMPs, as 
+needed.
+
+Forests OP/BP 4.36 No Project-supported agricultural activities will take 
+place on existing agricultural areas and there will be 
+no expansion into forest areas.  No activities in 
+commercial forests or in close proximity to forest 
+areas are expected.
+
+Pest Management OP 4.09 Yes The project promotes Integrated Pest Management as 
+a key thematic area,  however, the intensification and 
+diversification of agriculture could to lead to changes 
+in the application of pesticides for pest and disease 
+control.  A Pest Management Plans (PMP) has been 
+prepared based on Integrated Pest Management 
+(IPM) principles, describing the national regulatory 
+framework, current status of pest and disease control, 
+monitoring and supervision mechanism, major 
+
+
+experience and problems, and lessons learned from 
+past projects.  It specifies a range of actions to 
+strengthen integrated pest management practices and 
+awareness and includes capacity building and 
+monitoring program to facilitate implementation.
+
+Physical Cultural Resources 
+OP/BP 4.11
+
+No No project-support activities are expected in the 
+vicinity of or to affect physical cultural resources, as 
+defined by OP/BP4.11. Measures on safeguard 
+chance finds are  included as part of mitigation 
+measures defined in EAMF OP/BP 4.01.
+
+Indigenous Peoples OP/BP 
+4.10
+
+No No conclusive evidence or data exist yet on the 
+possible presence of indigenous peoples 
+communities in the country.  In general, "forest 
+dwellers" who live in remote locations and close to 
+commercial forests and national forest reserves are 
+considered native communities.  Their livelihood is 
+dependent on forest resources.  Project supported 
+agricultural activities will take place on existing 
+agricultural areas and there will be no expansion into 
+forest areas.  No activities in commercial forests or in 
+close proximity to forest areas are expected and 
+therefore forest dweller communities will not be 
+affected through proposed investments under the 
+project.
+
+Involuntary Resettlement OP/
+BP 4.12
+
+Yes The project will not involve involuntary resettlement 
+or physical displacement.  Small-scale land 
+alignment or acquisition for village-level civil works 
+may be necessary.  Where the need for land 
+acquisition may arise, the project’s RPF will apply.  
+The RPF provides the guidelines and procedures for 
+land acquisition; describes provisions for 
+compensation and mitigation measures, includes a 
+grievance redress mechanism, and set up safeguards 
+monitoring and institutional arrangements in the 
+event of land acquisition and livelihood losses.
+
+Safety of Dams OP/BP 4.37 Yes The project may include the up-grading and 
+rehabilitation of small-scale irrigation facilities   and 
+water tanks.  OP/BP4.37 applies because of the 
+dependence on water conveyance and control via 
+irrigation systems and the links of smaller tanks with 
+the storage and operation of upstream medium/ large 
+dams, which is typical for Sri Lanka’s cascading tank 
+and irrigation infrastructure.  The rehabilitation of 
+small irrigation schemes and tanks will not include 
+dams and embankments more than 15 meters high 
+and will not include medium to large scale dams.  
+
+The EAMF includes generic dam safety measures to 
+be adopted in the design and implementation of 
+rehabilitation/ improvement of irrigation structures.  
+It also includes guidance on the preparation of 
+operation and maintenance (O&M) plans and dam 
+safety plans in accordance with OP/BP4.37.
+
+Projects on International 
+Waterways OP/BP 7.50
+
+No The proposed project activities do not have any 
+impacts to the international waterways and therefore 
+this policy is not triggered.
+
+Projects in Disputed Areas OP/
+BP 7.60
+
+No There are no disputed areas where project 
+interventions are undertaken and therefore this policy 
+is not triggered.
+
+IV. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify 
+
+and describe any potential large scale,  significant and/or irreversible impacts:
+The project is expected to bring positive environmental benefits to the project areas through the 
+introduction and expansion of modern technology applications that help improve current cropping 
+patterns and farming methods, increase efficiency in the management of water resources, protect 
+agriculture soils, and roll out integrated pest management. However, two components under the 
+project may involve activities that could have significant environmental impacts if not mitigated 
+properly, especially during the construction phase.   Component 1 will support commercial 
+agriculture and agro-products processing. Component 2 would finance the establishment of 
+agriculture technology demonstration parks and improvements of rural infrastructure, including 
+access roads and tracks, rehabilitation of small irrigation schemes, land preparation, market 
+facilities, and others. The project’s process-oriented and demand-driven framework approach does 
+not allow to determine project investments and specific project locations for investments under 
+these components at appraisal. However it is known that these will be conducted in existing 
+agricultural areas. 
+ 
+Sub-component 1.2: Matching Grants to Producer Organizations and Agribusinesses:  
+ 
+The agricultural sector faces a number of challenges in managing land productivity which often 
+results in encroachment of forest areas for search of new land for cultivation. Soil erosion, crop 
+disease management, water use efficiency, water pollution from excessive use of chemicals, and 
+cultivation of unsuitable crop varieties are among the key areas where focus in terms of 
+environmental management are a priority.   
+ 
+Supporting the commercial agriculture and agro-products processing will require that stringent 
+environmental screening, identification of potential environmental and impacts and management 
+in terms of set up and operations of the activity. Among other best practices would be organic 
+cultivation and at the same time careful soil management needs to be taken care of to prevent soil 
+erosion and top soil degradation.  As specific sites and nature of the agro-business activities are 
+not yet known, best practices that need to be employed and general recommendations cannot be 
+employed as the nature of the activity varies and depend upon the soil type, area of cultivation ,i.e. 
+dry zone or wet zone, and topography, crop type and the specific agriculture sector.  A site-
+
+
+specific Environmental Management Planning approach plays a key role and has been 
+incorporated in to the Matching Grants Program.  In addition, via strengthening technical 
+knowledge and extension services focusing on the careful and minimal use of chemical fertilizer 
+and pesticides/herbicides through good practices such as Integrated Pest Management and 
+Integrated Plant Nutrition Management via the project’s Pest Management Plan, activities that 
+facilitate sustainable agricultural development should be essentially promoted. 
+ 
+Sub-component 2.2: Establishment of Modern Agriculture Technology Parks: The sub-component 
+would support 7 agriculture technology demonstration parks in selected districts in the Northern, 
+Eastern, Central, North-Central and Uva Provinces, which have been identified based on high 
+poverty headcounts and agriculture potential. The exact location of where these interventions will 
+be taking places will only be deduced during the project implementation stage. Environmental 
+screening will be an essential part of the site selection process in order to ensure project-supported 
+agriculture-related activities would take place on existing farmland and no expansion or creation 
+of new farmland into fragile habitats is foreseen. The project will bring improvements to 
+agricultural practices that are expected to reduce the pressure on these areas and the likelihood of 
+encroachment into sensitive natural habitats. 
+ 
+Sub-component 2.3: Up-grading Production and Marketing Infrastructure:  This component will 
+entail physical interventions under the following purview; (i) the up-grading and rehabilitation of 
+small-scale irrigation infrastructure and existing water tanks and irrigation systems in selected 
+priority areas, linked to the agriculture technology demonstrations parks; (ii) the improvement of 
+existing production and market access roads and construction of new field access tracks to 
+improve transportation, access to markets and accessibility for agricultural machinery; and (iii) 
+village level storage and product handling facilities, including drying platforms and sheds, 
+composting facilities of crop residues, storage facilities and others. Infrastructure investment 
+would focus on public infrastructure and would be linked to gaps identified under the technology 
+parks development.  Impacts to physical and ecological environments during the construction 
+phase of physical interventions outlined under Sub-component will be predominantly during the 
+construction phase and consist of impacts such as the stress of natural resources such as sand, 
+water and spil, removal of productive topsoil, solid waste generation in the form of construction 
+waste, localized dust and noise and safety and occupational health to laborers. These impacts will 
+be management via mitigation measures that will be implements via sub-project specific 
+environmental management plans. 
+ 
+The project is expected to generate positive social benefits and provide sustainable poverty 
+reduction opportunities into lagging rural areas. Improved agriculture productivity and value chain 
+development are expected to create additional economic returns for farmer households.  Expected 
+benefits include employment opportunities for poorer households, individual and collective 
+empowerment through membership in formal farmer producer organizations and in partnership 
+arrangements with agribusinesses, improved access to finance, technology, and markets, as well as 
+technical and management skills. Attention to more equitable sharing of economic gains from 
+investments in commercial agriculture modernized value chains will be paid during the process of 
+farmer producer organization establishment. Investments in local infrastructure will have positive 
+impacts if infrastructure is targeted to serve both agricultural production needs and the needs of 
+local communities.  A mandatory social screening is specified in the Operations Manual and RPF 
+and will allow for the detailed assessment of potential social impacts and risks and relevant 
+mitigation measures of all sub-projects.  Land acquisition is expected to be small-scale and to be 
+manageable through the RPF and Resettlement Action Plans.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities 
+in the project area:
+No potential indirect negative environmental or social impacts are expected under the project.  It is 
+worthwhile to note that women producer organizations will receive priority in the matching grant 
+facility and other project-supported activities. However, a number of issues deserve attention and 
+monitoring from a social development perspective during implementation:  Women-headed and 
+poor households may be especially vulnerable and their participation in project activities might be 
+limited resulting in inequitable production arrangements within farmer producer organizations or 
+in partnership arrangements with agribusinesses. Market risks will remain substantial, and timely 
+access to market information will remain challenging.  This may result in producer organizations 
+not being able to assess market and demand conditions adequately.   Modern agriculture requires 
+more investment while some of the proposed commodities may provide returns only with some 
+time lags.  Poorer households may therefore face increased risk of indebtedness because of their 
+motivation to participate in the project.  Producer arrangements will require the organization and 
+streamlining of large numbers of smallholder producers under unified production and land 
+management arrangements, requiring special attention to ensuring voluntary and fully informed 
+participation.  Complex land tenure and land ownership patterns in Sri Lanka’s smallholder 
+agriculture might hinder the introduction of modern agriculture practices and new technologies.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse 
+impacts.
+Alternative design consideration included a three pronged approach that included major 
+investment components on climate smart agriculture, value chain development for higher value 
+agricultural products, and on reforms to the country’s research and development and extension 
+systems.   This scope was considered to broad and complex, including from an environmental and 
+social safeguards perspective and the project design was simplified as described above.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described.
+An Environmental Assessment and Management Framework (EAMF) in lieu of an overall project-
+specific Environmental Assessment (EA) and a Resettlement Policy Framework (RPF) have been 
+prepared as details of specific sites and related activities and interventions are not yet available. 
+The EAMF primarily includes an assessment of generic issues that are typically associated with 
+anticipated interventions under the project, measures for environmental risk mitigation and 
+institutional arrangements for conducting environmental assessment, instruction to the preparation 
+of Environmental Management Plans (EMPs), implementation and monitoring. The RPF provides 
+guidance on the land acquisition process and  the preparation of site-specific Resettlement Action 
+Plans where needed. 
+ 
+To ensure that project interventions supported under the Matching Grant Program are 
+environmentally sound, the EAMF includes environmental screening and evaluation criteria which 
+will be part of the screening process for matching grant applications under Component 1.   MOPI 
+will be responsible for ensuring the environmental screening of all project concept notes and full 
+proposals submitted by applicants to the matching grant program.  The environmental screening 
+process and evaluation criteria presented in the EAMF are reflected in the Operational Manuel of 
+the Matching Grant Program as well and built in to the eligibility assessment criteria of matching 
+grant applications.  
+ 
+All interventions (excepting those that obviously are environmentally benign or low impact) under 
+
+Component 2 will be subject to an environmental screening with the objective to: (a) determine the 
+anticipated environmental impacts, risks and opportunities of sub-project; and (ii) determine if the 
+anticipated impacts and public concern warrant further environmental analysis, and if so to 
+recommend the appropriate type and extent of Environmental Assessment needed as per the set 
+criteria in the EAMF.   
+ 
+The EAMF is taking the applicable safeguard policies into account as well as the national 
+environmental requirements and will serve as a guide to the level of environmental analysis and 
+mitigation required for all interventions supported by the project which will have the potential to 
+trigger negative environmental impacts and thereby ensure compliance with the World Bank’s 
+environmental safeguard policies and the relevant national Environmental regulations during 
+implementation. As a category B project, all physical activities financed under the project in 
+general will be required to prepare an EMP and follow the World Banks Environmental Health 
+and Safety Guidelines and agriculture sector guidelines as defined in the EAMF. 
+ 
+Interventions under Component 2, sub-component 2.3 may include the rehabilitation and up-
+grading of small-scale irrigation infrastructure and existing water tanks (managed by the Agrarian 
+Services Departments) linked to the agriculture technology demonstrations parks under sub-
+component 2.2.  OP/BP4.37 applies because of the dependence on water conveyance and control 
+via the irrigation systems and the links of smaller tanks with the water storage and operation of 
+upstream medium/large dams, which is typical for Sri Lanka’s historical cascading tank and 
+irrigation infrastructure.  There is an ongoing and effective dam safety program in Sri Lanka 
+targeting all large to medium scale dams (upstream of small irrigation structures) and smaller 
+dams along cascading irrigation systems.  Full-level inspections, dam safety assessments, and 
+safety remedial measures have already been conducted and details are documented by the 
+Government satisfactorily to the Bank and in compliance with the provisions of OP/BP4.37 on 
+Dam Safety.   
+ 
+Typical interventions under this project would include repairs and improvements, such as 
+protection of downstream slopes of dam embankments, providing toe-filters and toe drains to 
+improve downstream drainage and arresting excessive seepage flows, upstream slope protection 
+strengthening of the structural stability of  spillways and sluice structures etc.  The anticipated 
+project activities will result in an overall enhancement of the safety of dams (tank bunds) against 
+the risk of failure.  The project, however, will not finance construction of new tanks (new dams/
+tank bunds).  Small dams i ncluded under the project would be less than 5 meters in height. 
+ 
+All irrigation infrastructure related interventions will require a screening, as per the EAMF to 
+verify whether upstream medium to large scale dams are present and connected hydrologically, 
+and to assess their dam safety status and, if needed outline follow-up actions.  If the presence of 
+upstream and hydrologically connected dams is confirmed and these have not been rehabilitated or 
+strengthened and thus have Dam Safety implications, the following will be conducted: an 
+inspection and evaluation of the safety status of the dam, its appurtenances, and its performance 
+history; and a review and evaluation of the mandated dam owners operation and maintenance 
+procedures.  A report will be provided on the findings of the review, including recommendations 
+for any remedial work or safety-related measures necessary to upgrade the existing dam to an 
+acceptable standard of safety.  Necessary additional dam safety measures or remedial work may be 
+financed under the project. When substantial remedial work is needed, these will be undertaken 
+using the following procedures: a competent professional will be recruited to design and supervise 
+the work.  Because the size of dams would be less than 5 meters in height, qualified professionals 
+
+
+will be hired by MOA to design and supervise the work. 
+ 
+The MOA and MOPI have limited prior experience with Bank-funded projects respectively and 
+the capacity to manage environmental and social safeguards in project implementation is limited 
+as well.  MOPI is a new entity.  MOA has been long established, however, does not partake in the 
+implementation of national level environmental regulations and institutional capacity is weak.  
+MOA has however sufficient capacity and technical expertise in pest management because MOA 
+is implementing national programs in pest control and pesticide management.  To address capacity 
+weaknesses, the PMUs under MOA and MOPI will both recruit full-time qualified environmental 
+and social specialists prior to the commencement of field implementation to be responsible for the 
+implementation of the project’s environmental and social regulations, including the EAMF, PMP, 
+EMPs, and RPF and RAPs.  In addition, the project will provide training in environmental 
+management and on environmental and social management to improve institutional capacity. The 
+cost for monitoring and supervising the implementation of environmental and social project 
+regulations have been integrated into the overall project investment cost.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure 
+on safeguard policies, with an emphasis on potentially affected people.
+Consultations with direct and indirect project beneficiaries, government stakeholders at various 
+administrative levels and farmers will be conducted as part of the participatory process for 
+designing and implementing sub-projects.  Consultation will aim at: sharing information, listening 
+to feedback, engaging citizens in decision making, and involving stakeholders in participation in 
+the implementation process.  Consultations will also enable the project team to hold joint 
+discussions with the beneficiary communities, share ideas about planning and implementation, and 
+benefit from local knowledge to take more informed decisions. Consultation will take place inform 
+of public meetings, focus group discussions, sub-project specific community consultations as part 
+of the social screening process and direct one-to-one consultations.  A Public Information Booklet 
+will be used as an information dissemination technique to promote competition and innovation in 
+technology development and advocate for poor framer groups, including women farmer groups, to 
+take part in project activities.  Following review by the Bank, the safeguards instruments including 
+RAPs, EMPs have been disclosed through the Infoshop and locally on the ministries’ websites, 
+and through the PMUs and at Divisional Secretariats of project areas. 
+ 
+The project will adopt following as citizen engagement mechanisms: (a) continuous community 
+consultations as social preparation and screening of  subprojects; (b) social audit committees at 
+local level to monitor subproject implementation; and (c) third party monitoring of project 
+implementation to ensure projects benefits are distributed  equally and efficiently across different 
+social groups and geographical regions.  The outcome of the citizen engagement exercises will be 
+documented and reviewed during implementation support missions.

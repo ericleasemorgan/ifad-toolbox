@@ -1,11 +1,7 @@
 id	sid	eid	entity	type
 WB120	1	1	World Bank Document	ORG
-WB120	1	2	P164226	GPE
-WB120	1	3	Oct 09, 2017	DATE
-WB120	1	4	15	CARDINAL
-WB120	1	5	PID/ISDS	ORG
-WB120	1	6	| Report	WORK_OF_ART
-WB120	1	7	15	CARDINAL
+WB120	1	2	PID/ISDS	ORG
+WB120	1	3	| Report	WORK_OF_ART
 WB120	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
 WB120	2	2	Uzbekistan P164226	FAC
 WB120	2	3	25-Jan-2018	DATE
@@ -16,11 +12,6 @@ WB120	3	4	Cofinancing Trust Fund 25.00 International Bank for Reconstruction and
 WB120	3	5	500.00	CARDINAL
 WB120	3	6	98.14	CARDINAL
 WB120	3	7	641.12	CARDINAL
-WB120	3	8	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	3	9	P164226	PERSON
-WB120	3	10	Oct 09, 2017	DATE
-WB120	3	11	3	CARDINAL
-WB120	3	12	15	CARDINAL
 WB120	5	1	the past year	DATE
 WB120	5	2	September 2017	DATE
 WB120	7	1	Uzbekistan	GPE
@@ -37,11 +28,6 @@ WB120	12	1	50 percent	PERCENT
 WB120	12	2	over 35 percent	PERCENT
 WB120	15	1	Uzbekistan	GPE
 WB120	21	1	HDP	ORG
-WB120	21	2	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	21	3	P164226	PERSON
-WB120	21	4	Oct 09, 2017	DATE
-WB120	21	5	4	CARDINAL
-WB120	21	6	15	CARDINAL
 WB120	22	1	June 2014	DATE
 WB120	22	2	HDP	ORG
 WB120	23	1	HDP	ORG
@@ -72,9 +58,6 @@ WB120	35	1	RESP	ORG
 WB120	36	1	the HDP Credit Guidelines	ORG
 WB120	37	1	the World Bank	ORG
 WB120	38	1	C. Proposed Development	PERSON
-WB120	39	1	Oct 09, 2017	DATE
-WB120	39	2	5	CARDINAL
-WB120	39	3	15	CARDINAL
 WB120	40	1	thirteen	CARDINAL
 WB120	40	2	two years to 2023	DATE
 WB120	45	1	July	DATE
@@ -97,13 +80,8 @@ WB120	50	6	Turkmenistan	GPE
 WB120	50	7	15 percent	PERCENT
 WB120	50	8	HDP	ORG
 WB120	51	1	three	CARDINAL
-WB120	55	1	E. Implementation	ORG
-WB120	55	2	P164226	GPE
-WB120	55	3	Oct 09, 2017	DATE
-WB120	55	4	6	CARDINAL
-WB120	55	5	15	CARDINAL
-WB120	55	6	Institutional and Implementation Arrangements	ORG
-WB120	55	7	the Rural Restructuring Agency	ORG
+WB120	55	1	E. Implementation Institutional and Implementation Arrangements	ORG
+WB120	55	2	the Rural Restructuring Agency	ORG
 WB120	57	1	HDP	ORG
 WB120	58	1	HDP	ORG
 WB120	58	2	nine	CARDINAL
@@ -145,14 +123,9 @@ WB120	79	4	north	LOC
 WB120	79	5	west	LOC
 WB120	79	6	north-west	GPE
 WB120	80	1	Uzun	ORG
-WB120	82	1	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	82	2	P164226	GPE
-WB120	82	3	Oct 09, 2017	DATE
-WB120	82	4	7	CARDINAL
-WB120	82	5	15	CARDINAL
-WB120	82	6	G. Environmental	ORG
-WB120	82	7	Nina Kolybashkina	PERSON
-WB120	82	8	Social Safeguards Specialist SAFEGUARD	ORG
+WB120	82	1	G. Environmental	PERSON
+WB120	82	2	Nina Kolybashkina	PERSON
+WB120	82	3	Social Safeguards Specialist SAFEGUARD	ORG
 WB120	83	1	OP	PERSON
 WB120	85	1	Environment and	ORG
 WB120	85	2	Social Management	ORG
@@ -166,12 +139,7 @@ WB120	92	1	ESMF	ORG
 WB120	93	1	Peoples OP/BP	ORG
 WB120	93	2	4.10	CARDINAL
 WB120	93	3	OP	PERSON
-WB120	93	4	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	93	5	P164226	PERSON
-WB120	93	6	Oct 09, 2017	DATE
-WB120	93	7	8	CARDINAL
-WB120	93	8	15	CARDINAL
-WB120	93	9	OP	PERSON
+WB120	93	4	Involuntary Resettlement OP/BP	ORG
 WB120	97	1	International Waterways OP/BP	ORG
 WB120	101	1	Disputed Areas OP/BP	ORG
 WB120	107	1	the HDP Environment and	ORG
@@ -179,13 +147,7 @@ WB120	107	2	Social Management Framework	ORG
 WB120	107	3	ESMF	ORG
 WB120	107	4	Environmental and Social Management	ORG
 WB120	111	1	HDP	ORG
-WB120	111	2	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	111	3	P164226	PERSON
-WB120	111	4	Oct 09, 2017	DATE
-WB120	111	5	9	CARDINAL
-WB120	111	6	15	CARDINAL
-WB120	111	7	Environmental Impact Assessment	ORG
-WB120	111	8	EIA	ORG
+WB120	111	2	Environmental Impact Assessment (EIA	ORG
 WB120	113	1	Bank OP/BP	ORG
 WB120	113	2	4.01	CARDINAL
 WB120	117	1	the Credit Line	ORG
@@ -204,11 +166,7 @@ WB120	130	1	Physical Cultural Resources	WORK_OF_ART
 WB120	133	1	Bank	ORG
 WB120	134	1	OP	PERSON
 WB120	134	2	Involuntary Resettlement	WORK_OF_ART
-WB120	135	1	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	135	2	P164226	GPE
-WB120	135	3	Oct 09, 2017	DATE
-WB120	135	4	10	CARDINAL
-WB120	135	5	15 2	CARDINAL
+WB120	135	1	2	CARDINAL
 WB120	136	1	Uzbekistan	GPE
 WB120	138	1	3	CARDINAL
 WB120	142	1	the Women’s Committee of Uzbekistan	ORG
@@ -224,11 +182,6 @@ WB120	153	3	Credit Line	FAC
 WB120	154	1	Environmental Guidelines and Best Practices	ORG
 WB120	155	1	ESMF	ORG
 WB120	157	1	2014	DATE
-WB120	157	2	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	157	3	P164226	PERSON
-WB120	157	4	Oct 09, 2017	DATE
-WB120	157	5	11	CARDINAL
-WB120	157	6	15	CARDINAL
 WB120	159	1	ILO	ORG
 WB120	159	2	the Farmers Council	ORG
 WB120	159	3	the Association of Business Women	ORG
@@ -260,15 +213,10 @@ WB120	175	1	quarterly	DATE
 WB120	178	1	ILO	ORG
 WB120	178	2	Uzbekistan	ORG
 WB120	178	3	Integrated Pest Management	ORG
-WB120	178	4	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	178	5	P164226	PERSON
-WB120	178	6	Oct 09, 2017	DATE
-WB120	178	7	12	CARDINAL
-WB120	178	8	15	CARDINAL
-WB120	178	9	State Ecological Expertise	ORG
-WB120	178	10	WB	ORG
-WB120	178	11	National EA	ORG
-WB120	178	12	WB	ORG
+WB120	178	4	State Ecological Expertise	ORG
+WB120	178	5	WB	ORG
+WB120	178	6	National EA	ORG
+WB120	178	7	WB	ORG
 WB120	179	1	5	CARDINAL
 WB120	182	1	ESMF	ORG
 WB120	182	2	the Ministry of Agriculture and Water Resources	ORG
@@ -286,49 +234,3 @@ WB120	188	2	October 2017	DATE
 WB120	190	1	EA	ORG
 WB120	191	1	minutes	TIME
 WB120	191	2	Bank	ORG
-WB120	194	1	the Bank Date	ORG
-WB120	194	2	Disclosure Uzbekistan 03-Oct-2017 Comments Initial	WORK_OF_ART
-WB120	194	3	October	DATE
-WB120	194	4	December	DATE
-WB120	194	5	Bank	ORG
-WB120	196	1	the Bank Date	ORG
-WB120	196	2	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	196	3	P164226	PERSON
-WB120	196	4	Oct 09, 2017	DATE
-WB120	196	5	13	CARDINAL
-WB120	196	6	15	CARDINAL
-WB120	196	7	NA	ORG
-WB120	196	8	Disclosure OPS_PM_ PC R_TAB LE	WORK_OF_ART
-WB120	196	9	the Environmental Assessment/Audit	ORG
-WB120	196	10	EMP	ORG
-WB120	197	1	ISDS	ORG
-WB120	197	2	N.B.	GPE
-WB120	198	1	EMP	ORG
-WB120	199	1	the Regional Environment Unit	ORG
-WB120	199	2	EA	PERSON
-WB120	200	1	EMP	ORG
-WB120	201	1	PM_C	PERSON
-WB120	201	2	4.09 - Pest Management	PERCENT
-WB120	206	1	NA	ORG
-WB120	206	2	the World Bank	ORG
-WB120	207	1	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	207	2	P164226	PERSON
-WB120	207	3	Oct 09, 2017	DATE
-WB120	207	4	14	CARDINAL
-WB120	207	5	15	CARDINAL
-WB120	213	1	Melissa Brown	PERSON
-WB120	213	2	Jamshid Kuchkarov	PERSON
-WB120	213	3	Nasriddin Najimov	PERSON
-WB120	213	4	The World Bank Additional Financing - Horticulture Development Project	ORG
-WB120	213	5	P164226	GPE
-WB120	213	6	Oct 09, 2017	DATE
-WB120	213	7	15	CARDINAL
-WB120	213	8	15	CARDINAL
-WB120	213	9	NW	GPE
-WB120	213	10	Washington	GPE
-WB120	213	11	202	CARDINAL
-WB120	213	12	473-1000	CARDINAL
-WB120	213	13	Khidirov Melissa Brown	PERSON
-WB120	213	14	Nina Chee	PERSON
-WB120	213	15	Julian A. Lampietti 05-Dec-2017	PERSON
-WB120	213	16	Jepbarov	PERSON

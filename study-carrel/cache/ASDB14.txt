@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOAN NUMBER 3724-MYA(COL)
+
+LOAN AGREEMENT 
+(Ordinary Operations [Concessional])
+
+(Climate-Friendly Agribusiness Value Chains Sector Project)
+
+/■
+I
+
+between
+
+THE REPUBLIC OF THE UNION OF MYANMAR
+
+and
+
+ASIAN DEVELOPMENT BANK
+
+DATED 6 NOVEMBER 2018
+
+MYA 48409
+
+
+
+LOAN AGREEMENT 
+(Ordinary Operations [Concessional])
+
+LOAN AGREEMENT dated 6 November 2018 between THE REPUBLIC OF 
+THE UNION OF MYANMAR (“Borrower”) and ASIAN DEVELOPMENT BANK (“ADB”).
+
+WHEREAS
+
+(A) the Borrower has applied to ADB for a loan for the purposes of the 
+Project described in Schedule 1 to this Loan Agreement;
+
+(B) the Borrower has also applied to the Global Agriculture and Food 
+Security Program (“GAFSP”) for a grant (“GAFSP Grant”) and GAFSP has agreed to provide 
+the Borrower a grant in the amount of twenty-two million Dollars ($22,000,000) to assist in 
+financing a part of the Project; and
+
+(C) ADB has agreed to make a concessional loan to the Borrower from 
+ADB’s ordinary capital resources upon the terms and conditions set forth herein;
+
+NOW THEREFORE the parties agree as follows:
+
+ARTICLE I
+
+Loan Regulations; Definitions
+
+Section 1.01. All provisions of ADB’s Ordinary Operations 
+(Concessional) Loan Regulations, dated 1 January 2017 (“Loan Regulations”), are hereby 
+made applicable to this Loan Agreement with the same force and effect as if they were fully 
+set forth herein.
+
+Section 1.02. Wherever used in this Loan Agreement, the several 
+terms defined in the Loan Regulations have the respective meanings therein set forth unless 
+modified herein or the context otherwise requires. Additional terms used in this Loan 
+Agreement have the following meanings:
+
+(a) “Consulting Guidelines” means the Guidelines on the Use of 
+Consultants by Asian Development Bank and its Borrowers (2013, as 
+amended from time to time);
+
+(b) “Consulting Services” means the services to be financed out of the 
+proceeds of the Loan as described in paragraph 3 of Schedule 1 to this 
+Loan Agreement;
+
+(c) “CSA" means climate smart agriculture;
+
+
+
+2
+
+(d) “Environmental Assessment and Review Framework” or “EARF” means 
+the environmental assessment and review framework for the Project, 
+including any update thereto, prepared and submitted by the Borrower 
+and cleared by ADB;
+
+(e) “Environmental Management Plan” or “EMP" means each 
+environmental management plan for a Subproject, including any update 
+thereto, incorporated in the IEE;
+
+(f) “Environmental Safeguards” means the principles and requirements set 
+forth in Chapter V, Appendix 1, and Appendix 4 (as applicable) of the 
+SPS;
+
+(g) “GAFSP Grant Agreement” means the grant agreement between ADB 
+and the Borrower in relation to the GAFSP Grant;
+
+(h) “GAP" means the gender action plan prepared for the Project, including 
+any update thereto, and agreed to between the Borrower and ADB;
+
+(i) “Goods” means equipment and materials to be financed out of 
+the proceeds of the Loan, including related services such as 
+transportation, insurance, installation, commissioning, training, and 
+initial maintenance, but excluding Consulting Services;
+
+(j) “Implementing Agencies” means (i) Department of Agriculture; (ii) 
+Department of Planning; (iii) Department of Rural Development; (iv) 
+Irrigation and Water Utilization Management Department; (v) 
+Department of Agricultural Land Management and Statistics, each of 
+MOALI; and (vi) Myanmar Trade Promotion Organization (MyanTrade) 
+and Department of Consumer Affairs of the Ministry of Commerce, or 
+any successor thereto acceptable to ADB, which are responsible for the 
+implementation of the Project;
+
+(k) “Indigenous Peoples Plan” or “IPP" means each indigenous peoples 
+plan for a Subproject, including any update thereto, prepared and 
+submitted by the Borrower pursuant to the requirements set forth in the 
+IPPF;
+
+(I) “Indigenous Peoples Planning Framework” or “IPPF” means the 
+indigenous peoples planning framework for the Project, including any 
+update thereto, prepared and submitted by the Borrower and cleared by 
+ADB;
+
+(m) "Indigenous Peoples Safeguards” means the principles and 
+requirements set forth in Chapter V, Appendix 3, and Appendix 4 (as 
+applicable) of the SPS;
+
+(n) "Initial Environmental Examination” or “IEE” means each initial 
+environmental examination for a Subproject, including any update 
+
+
+
+thereto, prepared and submitted by the Borrower pursuant to the 
+requirements set forth in the EARF and cleared by ADB;
+
+“Involuntary Resettlement Safeguards” means the principles and 
+requirements set forth in Chapter V, Appendix 2, and Appendix 4 (as 
+applicable) of the SPS;
+
+“Land Acquisition and Resettlement Framework” or “LARF” means the 
+land acquisition and resettlement framework for the Project, including 
+any update thereto, prepared and submitted by the Borrower and 
+cleared by ADB;
+
+“Loan Disbursement Handbook” means ADB’s Loan Disbursement 
+Handbook (2017, as amended from time to time);
+
+“MOALi” means the Borrower's Ministry of Agriculture, Livestock and 
+Irrigation or any successor thereto;
+
+“PAM” means the project administration manual for the Project dated 
+8 August 2018 and agreed between the Borrower and ADB, as updated 
+from time to time in accordance with the respective administrative 
+procedures of the Borrower and ADB;
+
+“Procurement Guidelines” means ADB’s Procurement Guidelines 
+(2015, as amended from time to time);
+
+"Procurement Plan” means the procurement plan for the Project dated 
+8 August 2018 and agreed between the Borrower and ADB, as updated 
+from time to time in accordance with the Procurement Guidelines, the 
+Consulting Guidelines, and other arrangements agreed with ADB;
+
+“Project Executing Agency" or “EA" for the purposes of, and within the 
+meaning of the Loan Regulations means MOALi or any successor 
+thereto acceptable to ADB, which is responsible for the carrying out of 
+the Project;
+
+“Resettlement Plan" or “RP” means each resettlement plan for a 
+Subproject, including any update thereto, prepared and submitted by 
+the Borrower pursuant to the requirements set forth in the LARF and 
+cleared by ADB;
+
+“Safeguard Policy Statement” or “SPS" means ADB’s Safeguard Policy 
+Statement (2009);
+
+“Safeguards Monitoring Report” means each report prepared and 
+submitted by the Borrower to ADB that describes progress with 
+implementation of, and compliance with, the EMP, the RP and the IPP 
+(as applicable), including any corrective and preventative actions;
+
+
+
+4
+
+(z) “Subproject” means a subproject under the Project that meets the 
+subproject eligibility criteria set forth in the PAM; and
+
+(aa) “Works” means construction or civil works to be financed out of the 
+proceeds of the Loan, including services such as drilling or mapping, 
+and project related services that are provided as part of a single 
+responsibility or turnkey contract, but excluding Consulting Services.
+
+ARTICLE II
+
+The Loan
+
+Section 2.01. (a) ADB agrees to lend to the Borrower from ADB's
+ordinary capital resources an amount of forty million five hundred thousand Dollars 
+($40,500,000).
+
+(b) The Loan has a principal repayment period of 24 years, and a grace 
+period as defined in subsection (c) hereinafter.
+
+(c) The term “grace period” as used in subsection (b) hereinabove means 
+the period prior to the first Principal Payment Date in accordance with the amortization 
+schedule set forth in Schedule 2 to this Loan Agreement.
+
+Section 2.02. The Borrower shall pay to ADB an interest charge at the 
+rate of 1 % per annum during the grace period, and 1.5% per annum thereafter on the amount 
+of the Loan withdrawn from the Loan Account and outstanding from time to time.
+
+Section 2.03. The interest charge and any other charge on the Loan 
+shall be payable semiannually on 15 January and 15 July in each year.
+
+Section 2.04. The Borrower shall repay the principal amount of the 
+Loan withdrawn from the Loan Account in accordance with the amortization schedule set forth 
+in Schedule 2 to this Loan Agreement.
+
+Section 2.05. The currency of repayment of the principal amount of the
+Loan and the currency of payment of the interest charge for the purposes of Sections 4.03(a) 
+and 4.04 of the Loan Regulations shall be the Dollar.
+
+
+
+5
+
+ARTICLE III
+
+Use of Proceeds of the Loan
+
+Section 3.01. The Borrower shall cause the proceeds of the Loan to be 
+applied exclusively to the financing of expenditures on the Project in accordance with the 
+provisions of this Loan Agreement
+
+Section 3.02. The proceeds of the Loan shall be allocated and 
+withdrawn in accordance with the provisions of Schedule 3 to this Loan Agreement, as such 
+Schedule may be amended from time to time by agreement between the Borrower and ADB.
+
+Section 3.03. Except as ADB may otherwise agree, the Borrower shall 
+procure, or cause to be procured, the items of expenditure to be financed out of the proceeds 
+of the Loan in accordance with the provisions of Schedule 4 to this Loan Agreement.
+
+Section 3.04. The Loan Closing Date for the purposes of Section 8.02 
+of the Loan Regulations shall be 30 June 2026 or such other date as may from time to time be 
+agreed between the Borrower and ADB.
+
+ARTICLE IV
+
+Particular Covenants
+
+Section 4.01. In the carrying out of the Project and operation of the 
+Project facilities, the Borrower shall perform, or cause to be performed, all obligations set forth 
+in Schedule 5 to this Loan Agreement.
+
+Section 4.02. (a) The Borrower shall (I) maintain separate
+accounts and records for the Project; (ii) prepare annual financial statements for the Project in 
+accordance with financial reporting standards acceptable to ADB; (iii) have such financial 
+statements audited annually by independent auditors whose qualifications, experience and 
+terms of reference are acceptable to ADB, in accordance with auditing standards acceptable 
+to ADB; (iv) as part of each such audit, have the auditors prepare a report, which includes the 
+auditors1 opinion(s) on the financial statements and the use of the Loan proceeds, and a 
+management letter (which sets out the deficiencies in the internal control of the Project that 
+were identified in the course of the audit, if any); and (v) furnish to ADB, no later than 6 months 
+after the end of each related fiscal year, copies of such audited financial statements, audit 
+report and management letter, all in the English language, and such other information 
+concerning these documents and the audit thereof as ADB shall from time to time reasonably 
+request.
+
+(b) ADB shall disclose the annual audited financial statements for the 
+Project and the opinion of the auditors on the financial statements within 14 days of the date 
+of ADB’s confirmation of their acceptability by posting them on ADB’s website.
+
+
+
+6
+
+(c) The Borrower shall enable ADB, upon ADB’s request, to discuss the 
+financial statements for the Project and the Borrower’s financial affairs where they relate to the 
+Project with the auditors appointed pursuant to subsection (a)(iii) hereinabove, and shall 
+authorize and require any representative of such auditors to participate in any such discussions 
+requested by ADB. This is provided that such discussions shall be conducted only in the 
+presence of an authorized officer of the Borrower, unless the Borrower shall otherwise agree.
+
+Sec tion 4.03. The Borrower shall enable ADB’s representatives to 
+inspect the Project, the Goods and Works, and any relevant records and documents.
+
+ARTICLE V
+
+Suspension; Acceleration of Maturity
+
+Section 5.01. The following are specified as an additional event for 
+suspension of the right of the Borrower to make withdrawals from the Loan Account for the 
+purposes of Section 8.01 (m) of the Loan Regulations: the GAFSP Grant Agreement shall have 
+become liable for suspension or cancellation.
+
+Section 5.02. The following is specified as an additional event for 
+acceleration of maturity for the purposes of Section 8.07(d) of the Loan Regulations: the event 
+specified in Section 5.01 of this Loan Agreement shall have occurred.
+
+ARTICLE VI
+
+Effectiveness
+
+Section 6.01. The following is specified as an additional condition to the 
+effectiveness of this Loan Agreement for the purposes of Section 9.01(f) of the Loan 
+Regulations: the GAFSP Grant Agreement shall have been duly executed and delivered on 
+behalf of the Borrower, and all conditions precedent to its effectiveness (other than the 
+condition requiring the effectiveness of this Loan Agreement) shall have been fulfilled.
+
+Section 6.02. The following is specified as an additional matter, for the 
+purposes of Section 9.02(d) of the Loan Regulations, to be included in the opinion or opinions 
+to be furnished to ADB: the GAFSP Grant Agreement has been duly executed and delivered 
+on behalf of the Borrower, and all conditions precedent to their effectiveness (other than the 
+condition requiring the effectiveness of this Loan Agreement) have been fulfilled.
+
+Section 6.03. A date 90 days after the date of this Loan Agreement is 
+specified for the effectiveness of this Loan Agreement for the purposes of Section 9.04 of the 
+Loan Regulations.
+
+
+
+7
+
+ARTICLE VII
+
+Miscellaneous
+
+Section 7.01. The Union Minister of Planning and Finance of the 
+Borrower is designated as representative of the Borrower for the purposes of Section 11.02 of 
+the Loan Regulations.
+
+Section 7.02. The following addresses are specified for the purposes 
+of Section 11.01 of the Loan Regulations:
+
+For the Borrower
+
+Ministry of Planning and Finance
+Building No. 26 Nay Pyi Taw
+The Republic of the Union of Myanmar
+
+Facsimile Number:
+
++95 67 410-198
+
+For APB
+
+Asian Development Bank
+6 ADB Avenue
+Mandaluyong City
+1550 Metro Manila
+Philippines
+
+Facsimile Numbers:
+
++632 636-2444
++632 636-2231.
+
+
+
+8
+
+IN WITNESS WHEREOF the parties hereto, acting through their 
+representatives thereunto duly authorized, have caused this Loan Agreement to be signed in 
+their respective names as of the day and year first above written and to be delivered at the 
+principal office of ADB.
+
+THE REPUBLIC OF THE UNION OF 
+MYANMAR
+
+By______________________________
+DAW SI SI PYONE 
+
+Director General 
+Treasury Department, Ministry of 
+
+Planning and Finance
+
+ASIAN DEVELOPMENT BANK
+
+Country Director 
+Myanmar Resident Mission
+
+
+
+9
+
+SCHEDULE 1
+
+Description of the Project
+
+1. The objective of the Project is to develop productive and resource efficient
+agribusiness value chains.
+
+2. The Project shall comprise Subprojects to achieve the following outputs:
+
+Output 1: Critical agribusiness value chain infrastructure improved and 
+made climate resilient - This includes (a) upgrading irrigation, farm roads, 
+buildings, farm machinery, post-harvest equipment, seed testing equipment and 
+agrometeorologicai stations, in seed farms; (b) rehabilitating tertiary canals and 
+community reservoirs, and constructing shallow tube wells with some linked to 
+drip and sprinkler technologies; (c) rehabilitating farm roads to climate resilient 
+condition; and (d) upgrading the safety and quality testing equipment.
+
+Output 2: Climate smart agriculture and agribusiness promoted - This 
+includes (a) deploying climate resilient varieties of rice, beans, pulses and 
+oilseeds; (b) strengthening capacity of seed growers, agro-dealers, and 
+regional government staff on CSA technologies and production practices, 
+certified seed production, farm mechanization and agribusiness plan 
+development, and manufacturing practices; and (c) facilitating access to inputs, 
+farm mechanization services and off farm rural livelihood opportunities.
+
+Output 3: Enabling environment for climate friendly agribusiness 
+enhanced - This includes (a) establishing an agribusiness policy cell within 
+MOALl’s Department of Planning; (b) raising awareness and capacity of 
+financial institutions to support climate friendly agribusiness; and (c) enhancing 
+weather, market and credit information networks, and delivery of land 
+administration services.
+
+3. The Project will support Consulting Services to implement the above.
+
+4. The Project is expected to be completed by 31 December 2025.
+
+SCHEDULE 3
+
+Allocation and Withdrawal of Loan Proceeds
+
+General
+
+1. The table attached to this Schedule sets forth the Categories of items of
+expenditure to be financed out of the proceeds of the Loan and the allocation of the Loan 
+proceeds to each such Category (“Table"). (Reference to “Category” in this Schedule is to a 
+Category or Subcategory of the Table.)
+
+Basis for Withdrawal from the Loan Account
+
+2. Except as ADB may otherwise agree, the proceeds of the Loan shall be
+allocated to items of expenditure, and disbursed on the basis of the withdrawal percentage for 
+each item of expenditure set forth in the Table.
+
+Interest Charge
+
+3. The amount allocated to Category “Interest Charge" is for financing the interest
+charge on the Loan during the implementation period of the Project. ADB shall be entitled to 
+withdraw from the Loan Account and pay to itself, on behalf of the Borrower, the amounts 
+required to meet payments, when due, of such interest charge.
+
+Reallocation
+
+4. Notwithstanding the allocation of Loan proceeds and the withdrawal
+percentages set forth in the Table,
+
+(a) if the amount of the Loan allocated to any Category appears to be 
+insufficient to finance all agreed expenditures in that Category, ADB 
+may, by notice to the Borrower, (i) reallocate to such Category, to the 
+extent required to meet the estimated shortfall, amounts of the Loan 
+which have been allocated to another Category but, in the opinion of 
+ADB, are not needed to meet other expenditures, and (ii) if such 
+reallocation cannot fully meet the estimated shortfall, reduce the 
+withdrawal percentage applicable to such expenditures in order that 
+further withdrawals under such Category may continue until all 
+expenditures thereunder shall have been made; and
+
+(b) if the amount of the Loan allocated to any Category appears to exceed 
+all agreed expenditures in that Category, ADB may, by notice to the 
+Borrower, reallocate such excess amount to any other Category.
+
+Disbursement Procedures
+
+5. Except as ADB may otherwise agree, the Loan proceeds shall be disbursed in
+accordance with the Loan Disbursement Handbook.
+
+
+
+13
+Attachment to Schedule 3
+
+TABLE
+
+ALLOCATION AND WITHDRAWAL OF LOAN PROCEEDS
+
+Number Item
+Total Amount Allocated 
+
+for ADB Financing 
+($) 
+
+Category
+
+Basis for Withdrawal from the 
+Loan Account
+
+1
+
+Civil Works, Machinery and 
+Equipment, Feasibility and 
+Design, and Project 
+Implementation Support
+
+34,490,000 100% of total expenditure claimed
+
+2 Training, Workshops and Studies 2,010,000 45% of total expenditure claimed
+
+3 Weather, Credit and Market Information Support 620,000 45% of total expenditure claimed
+
+3 Consultants 2,020,000 36% of total expenditure claimed
+
+4 Interest Charge 1,360,000 100% total amount due
+
+TOTAL 40,500,000
+
+
+
+14
+
+SCHEDULE 4
+
+Procurement of Goods, Works and Consulting Services
+
+General
+
+1. The procurement of Goods, Works and Consulting Services shall be subject to
+and governed by the Procurement Guidelines, and the Consulting Guidelines, respectively.
+
+2. Except as ADB may otherwise agree, Goods and Works shall be procured and
+Consulting Services shall be selected and engaged only on the basis of the procurement 
+methods and the selection methods set forth below. These methods are subject to, among 
+other things, the detailed arrangements and threshold values set forth in the Procurement Plan. 
+The Borrower may only modify the procurement methods and the selection methods or 
+threshold values with the prior agreement of ADB, and modifications must be set out in updates 
+to the Procurement Plan.
+
+Eligible Source of Procurement
+
+3. Goods, Works and Consulting Services may also be procured under the Project
+from non-member countries of ADB.
+
+4. All terms used in this Schedule and not otherwise defined in this Loan
+Agreement have the meanings provided in the Procurement Guidelines and/or the Consulting 
+Guidelines, as applicable.
+
+Goods and Works
+
+5. Goods and Works shall be procured on the basis of the procurement methods
+set forth below:
+
+(a) International Competitive Bidding;
+(b) National Competitive Bidding; and
+(c) Shopping.
+
+National Competitive Bidding
+
+6. The Borrower and ADB shall ensure that, prior to the commencement of any
+procurement activity under national competitive bidding, the Borrower's national competitive 
+bidding procedures are consistent with the Procurement Guidelines. Any modifications or 
+clarifications to such procedures agreed between the Borrower and ADB shall be set out in the 
+Procurement Plan. Any subsequent change to the agreed modifications and clarifications shall 
+become effective only after approval of such change by the Borrower and ADB.
+
+
+
+15
+Schedule 4
+
+Conditions for Award of Contract
+
+7. The Borrower shall not award any Works contracts for a Subproject which
+involves environmental impacts until the Project Executing Agency has:
+
+(a) obtained the final approval of the IEE/EMP, as relevant, from the 
+Borrower’s Ministry of Natural Resources and Environmental 
+Conservation; and
+
+(b) incorporated the relevant provisions from the EMP into the Works 
+contract.
+
+8. The Borrower shall not award any Works contract involving involuntary
+resettlement impacts for a Subproject until the Borrower has prepared and submitted to ADB 
+the final RP for such Subproject based on the Subproject’s detailed design and obtained ADB’s 
+clearance of such RP.
+
+9. The Borrower shall not award any Works contract for a Subproject which
+involves impacts on indigenous peoples until the Borrower has prepared and submitted to ADB 
+the final IPP, as relevant, and obtained ADB's clearance of such IPP.
+
+Consulting Services
+
+10. Except as set forth in the paragraph below, the Borrower shall apply Quality-
+and Cost-Based Selection for Consulting Services.
+
+11. The Borrower shall apply the following selection methods for the specified
+Consulting Services, in accordance with, among other things, the procedures set forth in the 
+Procurement Plan:
+
+(a) Qualification Based Selection for monitoring and evaluation and land 
+administration technical services; and
+
+(b) Single Source Selection for variety development and dissemination 
+services.
+
+12. The Borrower shall recruit the individual consultants as needed in accordance
+with procedures acceptable to ADB for recruiting individual consultants.
+
+Industrial or Intellectual Property Rights
+
+13. (a) The Borrower shall ensure that all Goods and Works procured (including
+without limitation all computer hardware, software and systems, whether separately procured 
+or incorporated within other goods and services procured) do not violate or infringe any 
+industrial property or intellectual property right or claim of any third party.
+
+(b) The Borrower shall ensure that all contracts for the procurement of 
+Goods and Works contain appropriate representations, warranties and, if appropriate, 
+indemnities from the contractor or supplier with respect to the matters referred to in 
+subparagraph (a) of this paragraph.
+
+
+
+16
+Schedule 4
+
+14. The Borrower shall ensure that all ADB-financed contracts with consultants
+contain appropriate representations, warranties and, if appropriate, indemnities from the 
+consultants to ensure that the Consulting Services provided do not violate or infringe any 
+industrial property or intellectual property right or claim of any third party.
+
+ADB’s Review of Procurement Decisions
+
+15. Contracts procured under international competitive bidding procedures and
+contracts for Consulting Services shall be subject to prior review by ADB, unless otherwise 
+agreed between the Borrower and ADB and set forth in the Procurement Plan.
+
+
+
+17
+
+SCHEDULE 5
+
+Execution of Project; Financial Matters
+
+Implementation Arrangements
+
+1. The Borrower, the Project Executing Agency and the Implementing Agencies
+shall ensure that the Project is implemented in accordance with the detailed arrangements set 
+forth in the PAM. Any subsequent change to the PAM shall become effective only after 
+approval of such change by the Borrower and ADB. In the event of any discrepancy between 
+the PAM and this Loan Agreement, the provisions of this Loan Agreement shall prevail.
+
+Environment
+
+2. The Borrower shall ensure that the preparation, design, construction,
+implementation, operation and decommissioning of the Project, each Subproject and all 
+Project facilities comply with (a) all applicable laws and regulations of the Borrower relating to 
+environment, health and safety; (b) the Environmental Safeguards; and (c) all measures and 
+requirements set forth in the EARF, each IEE, EMP, and any corrective or preventative actions 
+set forth in a Safeguards Monitoring Report. The Borrower shall ensure that no Subproject 
+categorized as Category A under the SPS is financed under the Project.
+
+involuntary Resettlement
+
+3. The Borrower shall ensure that all land and all rights-of-way required for the
+Project, each Subproject and all Project facilities are made available to the Works contractor 
+in accordance with the schedule agreed under the related Works contract and all land 
+acquisition and resettlement activities are implemented in compliance with (a) all applicable 
+laws and regulations of the Borrower relating to land acquisition and involuntary resettlement; 
+(b) Involuntary Resettlement Safeguards; and (c) all measures and requirements set forth in 
+the LARF, RP and any corrective or preventative actions set forth in a Safeguards Monitoring 
+Report. The Borrower shall ensure that no Subproject categorized as Category A under the 
+SPS is financed under the Project
+
+4. Without limiting the application of the Involuntary Resettlement Safeguards, the
+LARF or the RP, the Borrower shall ensure that no physical or economic displacement takes 
+place in connection with the Project until: (a) compensation and other entitlements, as relevant, 
+have been provided to affected people in accordance with the RP; and (b) a comprehensive 
+income and livelihood restoration program has been established in accordance with the RP.
+
+Indigenous Peoples
+
+5. The Borrower shall ensure that the preparation, design, construction,
+implementation and operation of the Project, each Subproject and all Project facilities comply 
+with (a) all applicable laws and regulations of the Borrower relating to indigenous people; (b) 
+the Indigenous Peoples Safeguards; (c) all measures and requirements set forth in the IPPF 
+and any IPP, and any corrective or preventative actions set forth in a Safeguards Monitoring 
+Report. The Borrower shall ensure that no Subproject categorized as Category A under the 
+SPS is financed under the Project.
+
+
+
+18
+Schedule 5
+
+Human and Financial Resources to Implement Safeguards Requirements
+
+6. The Borrower shall make available necessary budgetary and human resources
+to fully implement any EMP, RP and IPP.
+
+Safeguards - Related Provisions in Bidding Documents and Works Contracts
+
+7. The Borrower shall ensure that all bidding documents and contracts for Works
+contain provisions that require contractors to:
+
+(a) comply with the measures relevant to the contractor set forth in the I EE, 
+the EMP, the RP and any IPP (to the extent they concern impacts on 
+affected people during construction), and any corrective or preventative 
+actions set forth in a Safeguards Monitoring Report;
+
+(b) make available a budget for all such environmental and social 
+measures;
+
+(c) provide the Borrower with a written notice of any unanticipated 
+environmental, resettlement or indigenous peoples risks or impacts that 
+arise during construction, implementation or operation of the Project that 
+were not considered in the IEE, the EMP, the RP and the IPP;
+
+(d) adequately record the condition of roads, agricultural land and other 
+infrastructure prior to starting to transport materials and construction; 
+and
+
+(e) fully reinstate pathways, other local infrastructure, and agricultural land 
+to at least their pre-project condition upon the completion of construction.
+
+Safeguards Monitoring and Reporting
+
+8. The Borrower, through the Project Executing Agency, shall do the following:
+
+(a) submit semiannual Safeguards Monitoring Reports to ADB and disclose 
+relevant information from such reports to affected persons promptly 
+upon submission;
+
+(b) if any unanticipated environmental and/or social risks and impacts arise 
+during construction, implementation or operation of the Project that were 
+not considered in the IEE, the EMP, the RP, and the IPP, promptly 
+inform ADB of the occurrence of such risks or impacts, with detailed 
+description of the event and proposed corrective action plan in 
+accordance with the SPS; and
+
+(c) report any actual or potential breach of compliance with the measures 
+and requirements set forth in the EMP, the RP or the IPP promptly after 
+becoming aware of the breach.
+
+
+
+19
+Schedule 5
+
+Prohibited List of Investments
+
+9. The Borrower shall ensure that no proceeds of the Loan are used to finance
+any activity included in the list of prohibited investment activities provided in Appendix 5 of the 
+SPS.
+
+Governance and Anticorruption
+
+10. The Borrower shall (a) comply with ADB’s Anti corruption Policy (1998, as
+amended to date) and acknowledge that ADB reserves the right to investigate directly, or 
+through its agents, any alleged corrupt, fraudulent, collusive or coercive practice relating to the 
+Project; and (b) cooperate with any such investigation and extend all necessary assistance for 
+satisfactory completion of such investigation.
+
+11. The Borrower shall ensure that the anticorruption provisions acceptable to ADB
+are included in all bidding documents and contracts, including provisions specifying the right 
+of ADB to audit and examine the records and accounts of the executing agency and all 
+contractors, suppliers, consultants, and other service providers as they relate to the Project. 
+Individuals/entities on ADB’s anticorruption debarment lists are ineligible to participate in 
+ADB-financed activity and may not be awarded any contracts under the Project. If the Borrower 
+becomes aware or has a reasonable suspicion that any member of the Borrower or executing 
+agency has engaged in corrupt or fraudulent practices (as defined in ADB’s Anticorruption 
+Policy) under or in connection with the Project or the loan, the Borrower shall take such timely 
+and appropriate action satisfactory to ADB to investigate and/or remedy the situation.
+
+12. In addition to these requirements, to deter corruption and increase
+transparency, the Borrower shall ensure that the Project Executing Agency shall make use of 
+its existing website or create a Project website within 3 months from Effective Date, accessible 
+by the public, to disclose various information concerning the Project including general 
+information about the Project, public procurement related to the Project, Project progress and 
+contact details in English and Myanmar language. The website shall also provide a link to 
+ADB’s Integrity Unit for reporting to ADB any grievances or allegations or corrupt practices 
+arising out of the Project and Project activities. For each contract, the website shall include 
+information on, among others, (a) the list of participating bidders; (b) name of the winning 
+bidder; (c) basic details on bidding procedures adopted; (d) amount of contract awarded; and 
+(e) list of Goods, Works and Consulting Services. The Project Executing Agency shall permit 
+any bidder to request an explanation as to why a bid was unsuccessful and the Project 
+Executing Agency shall respond promptly. The website shall be updated regularly. In addition 
+to the web-based disclosure, the stakeholders shall be provided by the Project Executing 
+Agency with detailed information on procurement on public notice boards in their respective 
+areas.
+
+Labor Standards, Health and Safety
+
+13. The Borrower shall ensure that the core labor standards and the Borrower’s
+applicable laws and regulations are complied with during Project implementation. The 
+Borrower shall include specific provisions in the bidding documents and contracts financed by 
+ADB under the Project requiring that the contractors, among others, (a) comply with all 
+applicable labor laws and regulations of the Borrower; (b) do not use child labor; (c) do not 
+discriminate workers in respect of employment and occupation on the basis of age, gender, 
+
+
+
+20
+Schedule 5
+
+ethnicity, religion or caste; (d) do not use forced labor; (e) do not restrict the workers from 
+developing a legally permissible means of expressing their grievances and protecting their 
+rights regarding working conditions and terms of employment; (f) advertise labor requirements 
+in a timely manner prior to recruitment, in a venue that can reasonably be expected to be seen 
+by interested men and women; (g) provide workers with written contract, adequate on-the-job 
+training and safety training; (h) not restrict freedom of association of workers; and 
+(i) disseminate, or engage appropriate service providers to disseminate, information on the 
+risks of sexually transmitted diseases, including HIV/AIDS, to the employees of contractors 
+engaged under the Project and to members of the local communities surrounding the Project 
+areas, particularly women. The Borrower shall strictly monitor compliance with the 
+requirements set forth in this paragraph and provide ADB with regular reports.
+
+Gender Action Plan
+
+14. The Borrower shall ensure that the (a) GAP is implemented in accordance with
+its terms; (b) the bidding documents and contracts include relevant provisions for contractors 
+to comply with the measures set forth in the GAP; (c) adequate resources are allocated for 
+implementation of the GAP; and (d) progress on implementation of the GAP, including progress 
+toward achieving key gender outcome and output targets are regularly monitored and reported 
+to ADB.
+
+Counterpart Support
+
+15. The Borrower shall ensure that counterpart funds for the Project are provided
+on a timely basis, including personnel cost. In addition to the foregoing, the Borrower shall 
+ensure that the Project Executing Agency has sufficient funds to satisfy its liabilities arising 
+from any Works, Goods and Consulting Services contract.
+
+16. The Borrower shall ensure that all completed Subprojects have adequate
+counterpart funds for operation and maintenance of infrastructure allocated to them on a yearly 
+basis and made available on a timely basis. The Project Executing Agency shall further ensure 
+that the farmer water user communities and water user groups collect adequate irrigation 
+service fees to sustain the operation and maintenance of distribution canals in accordance with 
+the Borrower's decree on farmer water user communities.
+
+Subproject selection
+
+17. The Borrower shall ensure or cause the Project Executing Agency to ensure
+that all Subprojects selected for financing under the Project meet the screening and eligibility 
+criteria as agreed between the Borrower and ADB and documented in the PAM.
+
+
+

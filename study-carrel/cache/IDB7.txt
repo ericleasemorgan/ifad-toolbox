@@ -1,0 +1,1222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK 
+
+URUGUAY 
+
+RURAL PRODUCTIVE DEVELOPMENT PROGRAM II 
+
+(UR-L1147) 
+
+LOAN PROPOSAL 
+
+
+
+PROJECT SUMMARY 
+
+URUGUAY 
+RURAL PRODUCTIVE DEVELOPMENT PROGRAM II 
+
+(UR-L1147) 
+ 
+
+Financial Terms and Conditions 
+
+Borrower: Eastern Republic of Uruguay 
+Flexible Financing Facility(a) 
+
+Amortization period: 24 years 
+
+Executing agency: The borrower, through the Ministry of Livestock, 
+Agriculture, and Fisheries (MGAP) 
+
+Disbursement period: 6 years 
+
+Grace period: 6.5 years(b) 
+
+Interest rate: LIBOR-based 
+
+Source Amount (US$) % Credit fee: (c) 
+
+IDB (Ordinary Capital) 24,232,000 89 Inspection and supervision fee: (c) 
+
+Local 2,889,000 11 Weighted average life: 15.25 years(d) 
+
+Total 27,121,000 100 Approval currency: United States dollars 
+
+Project at a Glance 
+
+Project objective/description: To help improve the sustainability of small and medium-sized family-owned agricultural production units. 
+The specific objectives are to increase the adoption of climate-smart technologies and to build capacities for technology generation and 
+transfer, technical assistance, and rural extension. 
+
+Special contractual conditions precedent to the first loan disbursement: Submission, to the Bank’s satisfaction, of evidence of the 
+entry into force of the program Operating Regulations, including the environmental and social management plan (ESMP), in accordance 
+with the terms previously agreed with the Bank (paragraph 3.1). 
+
+For contractual conditions of a socioenvironmental nature, see Annex B of the environmental and social management report (ESMR). 
+
+Special contractual conditions for execution: For the use of resources allocated to subcomponents (i), (iii), and (iv) of Component II, 
+the signing and entry into force of Standard Framework Agreements between the MGAP (through the Rural Development Bureau 
+(DGDR)), and the National Agricultural Research Institute (INIA) and Nonstate Public Institutes (IPNEs) (paragraph 3.2). 
+
+Exceptions to Bank policies: None 
+
+Strategic Alignment 
+
+Challenges:(e) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting themes:(f) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+ 
+(a) Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization schedule, 
+
+as well as currency and interest rate conversions. The Bank will take operational and risk management considerations into account when reviewing such 
+requests. 
+
+(b) Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail any 
+extension of the original weighted average life of the loan or the last payment date as documented in the loan contract. 
+
+(c) The credit fee and the inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the Bank’s 
+lending charges, in accordance with applicable policies. 
+
+(d) The original weighted average life of the loan may be shorter, depending on the signature date of the loan contract. 
+
+(e) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(f) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of Law). 
+
+ 
+ 
+
+ 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-39
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-41
+
+
+ 
+ 
+
+I. PROJECT DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problem addressed, and rationale1 
+
+1.1 The agriculture sector: importance, features, and challenges. The agricultural 
+sector2 is of critical importance for Uruguay’s economy. In 2016, it accounted for 7% 
+of GDP, or 12% of GDP when associated food industries are included (Ackermann 
+et al., 2018). It represented 15% of employment and more than 75% of total exports, 
+the main categories being beef, agricultural produce, dairy products, and forestry 
+products (Uruguay XXI, 2016). Compared with other productive activities, the sector 
+has the greatest multiplier effect on the economy (6.22, versus 5.47 for the 
+manufacturing industry and 6.08 for services) and the greatest impact on 
+employment (0.42, versus 0.33 for the services sector) (Terra et al., 2009). The 
+sector received annual support equivalent to 0.58% of GDP over the 2014-2016 
+period, of which 63% was for general services and 37% consisted of producer 
+support (direct or price support) (Ackermann et al., 2018).3 
+
+1.2 Between 1981 and 2012, total agricultural productivity in Uruguay grew at a higher 
+average rate than in the region as a whole (1.5%, compared to 1.2%) (Nin-Pratt, 
+Falconi, Ludena, & Martel, 2015). This growth has been uneven, however, with small 
+and medium-sized family producers left behind (Instituto National de Investigación 
+Agropecuaria [National Agricultural Research Institute] (INIA), 2016). Family 
+systems account for more than 70% of farm enterprises and contribute around 25% 
+of gross agricultural product. They are characterized by low levels of technology 
+adoption and production efficiency, with high levels of variation from one year to the 
+next (Albin, 2017); they are also focused primarily (60%) on livestock (Dirección 
+General de Desarrollo Rural [Rural Development Bureau] (DGDR) and the Ministry 
+of Livestock, Agriculture, and Fisheries (MGAP), 2018c). Climate variability and 
+change have a particular impact on small and medium-sized producers (MGAP, 
+2017a), as it is reported that family-owned livestock farms tend to be located in areas 
+of greater climate vulnerability (de Torres Álvarez et al., 2014). 
+
+1.3 Against this backdrop, the sustainability of smaller-scale production units faces 
+challenges across two main dimensions: 
+
+1.4 Dimension 1 – Productive. The productivity of smaller-scale units could be 
+enhanced by technical assistance and technology adoption. The results of the 2014 
+dairy survey show that the level of productivity is, in general, directly related to farm 
+size (Instituto Nacional de la Leche [National Dairy Institute] (INALE), 2017). Based 
+on the same survey, Pérez-Quesada and García-Suárez (2016) report that 
+productivity can be increased among smaller producers because their level of 
+technical efficiency stands at 74%. This indicates that they can use available inputs 
+and technologies more efficiently in order to increase production (by 26% on 
+average). These authors also indicate that agronomic, veterinary, or accounting 
+technical assistance is associated with higher production efficiency. Nonetheless, 
+knowledge management difficulties and limited access to extension services are 
+barriers that have a particularly marked impact on smaller-scale producers (INIA, 
+2016). In 2011, only 46% of farms received technical assistance (Hegedus, 2013), 
+
+                                                
+1  See bibliographical references. 
+2  Includes forestry and agroindustrial activities. 
+3  Estimate based on the methodology of the Organization for Economic Cooperation and Development (OECD). 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-8
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-8
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-27
+
+
+ - 2 - 
+ 
+ 
+ 
+
+while it has been observed that technical assistance coverage increases in tandem 
+with farm size (Arboleya, 2018). 
+
+1.5 This production gap may also be narrowed through technology adoption, including 
+improved management practices. In the case of cattle ranching, for example, 
+producers that have not received technical assistance report average annual beef 
+yields of 50-70 kg per hectare, versus 250 kg per hectare in specialized 
+establishments (World Bank and the International Center for Tropical Agriculture, 
+2015). A recent project demonstrated the potential for increasing beef productivity 
+levels from 70 kg per hectare to 100 kg by using existing technologies and 
+implementing practices based on the improved the use of available resources 
+(Gómez Miller, 2017). In the case of family-owned dairy producers, a project aimed 
+at improving production practices—coordinated by INALE in partnership with dairy 
+cooperatives—indicates that 70% of beneficiaries either maintained or increased 
+production over the 2013-2017 period, even under extreme climatic conditions 
+(Arboleya, 2018). 
+
+1.6 Despite the potential for increased productivity, there are significant barriers to the 
+adoption of agricultural technologies. In Uruguay, this is influenced by farm size, 
+access to information, technical and managerial capacities, costs, risk, and the 
+availability of appropriate technologies (Gómez Miller, 2017; Saravia and Gómez, 
+2013). Technology adoption is also directly linked to technical assistance and rural 
+extension services (Saravia and Gómez, 2013), and technological change requires 
+the identification, validation, and dissemination of technologies that are appropriate 
+for family agriculture (Comisión Nacional de Fomento Rural [National Rural 
+Development Commission], 2009). 
+
+1.7 Social factors. Knowledge and adoption of technologies is influenced by social 
+networks, which are an important source of information and learning that strengthen 
+producers’ capabilities (Aramburu et al., 2014; Doss, 2006). Rural associations 
+provide positive externalities and produce public and semi-public goods, in addition 
+to serving as a tool for economic and social inclusion (Bijman et al., 2012). The 
+experience in Latin America indicates that membership of such associations among 
+rural extension users helps to overcome scale constraints, as it allows them to 
+access the services offered by rural organizations (Escobar, 2012). Collective 
+processes are therefore important for family agriculture, and support is needed to 
+strengthen these organizations (de Torres Álvarez et al., 2014). 
+
+1.8 In Uruguay, rural associations (cooperatives, rural development enterprises, and 
+agricultural trade associations) have sought to meet the diverse needs of producers, 
+with the existence of around 200 such organizations with the potential for 
+implementing rural technical assistance and extension (RTAE) services (Arboleya, 
+2018). In family agriculture, collective approaches have proven effective in 
+supporting technological changes, reduced price variability, integration into value 
+chains, lower transaction costs, and access to goods and services (Programa Fida 
+Mercosur Claeh and Centro Cooperativista Uruguayo, 2014), as well as participation 
+in programs to support technology adoption (DGDR/MGAP, 2018a). There is 
+evidence of the effectiveness of collective strategies for supporting production: 
+increased implementation of such strategies is correlated with economic and 
+production improvements (66% increase in per capita farm earnings and 39% in 
+liters per hectare) (García Ferreira et al., 2011). Collective approaches also help to 
+
+
+
+ - 3 - 
+ 
+ 
+ 
+
+ensure that producers continue to implement activities once an intervention has 
+been completed (Universidad de la República, 2006). Nonetheless, collective 
+activities aimed at facilitating access to technology face difficulties in terms of access 
+to capital; minimum scales for achieving economic and organizational viability; 
+visualization of the benefits from an activity (particularly where the impact is long 
+term); and a scarcity of the skills necessary for collective work (INIA & DGDR, 2016). 
+With respect to RTAE, the critical factors for improving these services include the 
+training of technical staff, interagency coordination, and the availability of suitable 
+technologies (Hegedus, 2013). 
+
+1.9 At the same time, there are gender and age gaps in access to government rural 
+development policies, technical assistance, access to land, assets, own revenues, 
+independent work, and farm titles (DGDR, 2018). For example, women account 
+for just one in four beneficiaries of policies to improve the productivity and income 
+of family producers (compared to 44% of potential beneficiaries), while data from 
+the 2011 Agricultural Census indicate that women producers receive less technical 
+assistance (38% versus 43% for producers) (Mascheroni, 2016). Likewise, the 
+advancing age of producers in the sector (MGAP, 2017b) is a barrier to increased 
+productivity, as producer age is inversely correlated with the use of new 
+technologies (INIA, 2016). 
+
+1.10 Dimension 2 – Environmental. Climate change magnifies the aforementioned 
+problems, as the country is vulnerable to extreme events. For example, preliminary 
+estimates by the MGAP indicate that the immediate impact of the 2017-2018 drought 
+caused agricultural sector losses equivalent to US$560 million. This amount rises 
+by more than US$600 million if delayed impacts are taken into account, relating to a 
+decline in the number of calves born and the consequent impact on future exports. 
+The sector is also the main source of greenhouse gas (GHG) emissions (74% of the 
+total in 2012). Within this, beef production accounts for more than 66% of emissions 
+(Eastern Republic of Uruguay, 2017). This underscores the importance of 
+implementing adaptation and mitigation measures. In fact, Uruguay’s production 
+strategy is to rely on technological innovation and inclusion in value chains to double 
+output by 2050 in a sustainable and inclusive manner, with greater climate resilience 
+and lower rates of emissions (MGAP, 2017b). In addition, the objectives of the First 
+Nationally Determined Contribution include reducing the rate of emissions from food 
+production, while also indicating the priority given to adaptation in the agricultural 
+sector (Eastern Republic of Uruguay, 2017). 
+
+1.11 To achieve these proposals, climate-smart agricultural technologies warrant 
+particular consideration, as these either maintain or enhance productivity while 
+reducing emissions and/or contributing to climate resilience (World Bank and the 
+International Center for Tropical Agriculture, 2015). Accordingly, the 2010 
+“Agrointelligent Uruguay” policy has promoted the incorporation of climate-smart 
+measures to enhance productivity in an environmentally sustainable manner 
+(Ministry of Housing, Land Management, and the Environment, 2016). For example, 
+implementation of the policy has facilitated a reduction in emissions rates for beef 
+production through the use of feed management technologies and animal husbandry 
+methods that help to boost productivity (Eastern Republic of Uruguay, 2017). In 
+family-based livestock farming, specifically, estimates indicate that climate-smart 
+practices (focused on adjustments in the number of animals per hectare, the use of 
+rotational grazing systems, and herd optimization) can increase productivity by 25% 
+
+
+
+ - 4 - 
+ 
+ 
+ 
+
+and reduce emission rates by 30%, while simultaneously improving drought 
+resilience (Ministry of Housing, Land Management, and the Environment, 2017). 
+This reduction in GHG emissions through the implementation of climate-smart 
+technologies tends to increase over time, reaching up to 40% in the third year in 
+some cases (INIA, 2018). 
+
+1.12 Previous experience. The Food and Agriculture Organization (2009) identifies the 
+central elements of agricultural policy that agricultural institutions should focus their 
+efforts on. These include government policies to protect and support weaker 
+economic sectors; strengthening of the institutional framework for agriculture; and 
+the provision of technology transfer and rural extension services. 
+
+1.13 In this sphere, with respect to the implementation of differentiated policies for family 
+agriculture in Uruguay, the following issues have been identified as important: 
+(i) ensuring strong interagency coordination; (ii) creating synergies with other policy 
+instruments (e.g., the promotion of collective endeavors and support for investments 
+to enhance resilience); (iii) establishing a technical assistance network consisting of 
+professionals committed to the programs and involved in them; (iv) working with 
+producers that are nonbeneficiaries of public programs, as well as with those already 
+served to incorporate more complex technologies or processes; and (v) leveraging 
+the potential of rural organizations to facilitate the promotion and implementation of 
+activities (Arboleya, 2018). The importance of addressing these factors is consistent 
+with the findings of the Rural Productive Development Program (RPDP) (loan 
+2595/OC-UR), whose impact evaluation showed a significant effect on beneficiaries’ 
+productivity, with an increase of at least 10% in milk and beef yields per hectare 
+(Aguirre et al., 2018). This study also reports that the impact is generally greater 
+among those benefiting from MGAP support for the first time, and it indicates that 
+the program has helped to strengthen beneficiary organizations, with an 
+improvement in their collective processes. Nonetheless, data on program 
+participation (DGDR/MGAP, 2018a) show that there is potential for improving the 
+inclusion of women and young people as beneficiaries (44% of potential 
+beneficiaries are women, yet only 25% benefited, while in the case of young people4 
+4% of the total benefited, compared to a potential of 12%) (Beneficiaries of RPDP 
+requests for proposals). 
+
+1.14 An analysis carried out for Latin America (Food and Agriculture Organization and 
+the IDB, 2016) indicates the need for government funding to ensure that the most 
+vulnerable producers are able to access RTAE. It also reports that for these services 
+to be effective, they should have a territorial approach, involve the participation of 
+public and private stakeholders, provide continuous training for their human 
+resources, and be linked to the research. Cumulative experience points to the 
+following good practices: emphasizing the inclusion of smaller-scale producers that 
+face greater hurdles to increased productivity; the participation of producers in 
+determining their needs and prioritizing their problems; the provision of information 
+and alternatives based on local agroecological and socioeconomic conditions; the 
+simultaneous provision of public and private services at the regional level; and the 
+incorporation of information and communication technologies (ICTs) to help reach 
+producers and provide information and services to them (Escobar, 2012). ICTs can 
+help foster the adoption of technologies to optimize production and increase farmer 
+
+                                                
+4  Individuals 15 to 29 years of age, according to the National Youth Institute. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-48
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-32
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-33
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-33
+
+
+ - 5 - 
+ 
+ 
+ 
+
+incomes (Jack & Tobias, 2017). Evidence from small-scale farmers in India indicates 
+that cellphone-based technical assistance helped to increase yields (28% for cumin 
+and 9% for cotton), with an estimated private return of US$10 for each dollar 
+invested in the service (Cole & Fernando, 2016). 
+
+1.15 Recent Bank experience. The RPDP, which was approved in 2011 with a final 
+disbursement date of 31 December 2018, is executed by the MGAP through its Rural 
+Development Bureau (DGDR). Its objective is to help improve the incomes of small- 
+and medium-scale farmers, by increasing their productivity through the adoption of 
+new technologies. To this end, the program focused on providing financing for: 
+(i) production support for technology transfer; (ii) the promotion of research into 
+adaptive technologies; and (iii) institutional strengthening of the DGDR. The 
+operation’s intervention mechanism was based on requests for proposals for group 
+management plans, and this serves as the foundation for this program. Its 
+outcomes—some of which were measured in the aforementioned impact evaluation 
+(paragraph 1.13)—include the following: (i) increases in average agricultural and 
+livestock yields; (ii) the incorporation of new technologies validated under family 
+agriculture condition; (iii) increases in the number of family producers belonging to 
+rural organizations; and (iv) strategic territorial plans approved. 
+
+1.16 Lessons learned. Lessons learned during execution of the RPDP, in particular, 
+have been taken into account in the proposed program, together with experiences 
+from similar operations (lons 1463/OC-UR, 2443/OC-DR, 1800/OC-PR, 2055/BL-NI, 
+and 2223/BL-BO) and the Office of Evaluation and Oversight’s (OVE) Review of the 
+Bank’s Support to Agriculture, 2002-2014. These lessons and way in which they 
+have been incorporated into the program are presented in Table 1. 
+
+ 
+Table 1. Lessons learned and their incorporation into program design 
+
+Lessons learned Incorporation into program design 
+
+In the RPDP5 
+
+Coverage  
+
+- Include incentives aimed at incorporating 
+RPDP non-beneficiary producers. 
+
+- The lack of information is an obstacle to 
+producers’ participation in DGDR programs. 
+
+- Lower proportion of women and young people 
+among beneficiaries.  
+
+- Creation and/or strengthening of synergies 
+with rural organizations or public 
+institutions. 
+
+- Strengthening of program dissemination. 
+
+- Requests for proposals targeting 
+exclusively women and young people.  
+
+Technical assistance  
+
+- Assistance provided by individual technicians 
+has posed limitations for: (i) the 
+comprehensive, multidisciplinary 
+consideration of technological options; 
+(ii) reaching producers in remote or isolated 
+areas; and (iii) high turnover.  
+
+- Introduction of comprehensive technical 
+assistance arrangements provided by 
+multidisciplinary teams linked to rural 
+organizations and/or public institutions. 
+
+                                                
+5  See Aguirre et al. (2018), DGDR/MGAP (2018) (Encuesta a Productores/as Familiares No Beneficiarios 
+
+de Convocatorias de la DGDR), DGDR/MGAP (2018a) and Mendoza (2018) (Evaluación del PDPR). 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-34
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-34
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-35
+
+
+ - 6 - 
+ 
+ 
+ 
+
+Lessons learned Incorporation into program design 
+
+Monitoring and evaluation  
+
+- Monitoring and evaluation require the 
+availability and implementation of instruments 
+for gathering and analyzing information. 
+
+- The detailed prior design of the impact 
+evaluation is essential for the robust analysis 
+of program effectiveness. 
+
+- A good practice yet to be implemented 
+involves the categorization of technologies 
+financed by the program, with a view to 
+facilitating the monitoring and evaluation of 
+expected outcomes and impacts.  
+
+- Incorporation of instruments that facilitate 
+dynamic monitoring and allow evaluation of 
+the effectiveness of execution processes.  
+
+- Design of the impact evaluation, and the 
+identification and planning of the 
+instruments to be used for information 
+gathering.  
+
+- Inclusion of typologies of technologies and 
+technology packages.  
+
+In similar operations 
+
+Provision of technical assistance and 
+technology linkage 
+
+ 
+
+- The limited scale, high number, and scattered 
+nature of smaller-scale producers lead to high 
+costs in providing technical assistance and 
+technology adoption on an individual basis. In 
+addition, the development and/or adaptation 
+of technologies for these producers is limited 
+by a disconnect with researchers.  
+
+- Promotion of the creation of groups of 
+producers and linkages with rural 
+organizations and public institutions to 
+provide technical assistance more 
+efficiently. 
+
+- Activities that foster interaction between 
+producers and technology 
+researchers/developers. 
+
+Sustainability of technology adoption  
+
+- Projects frequently provide one-off 
+improvements without altering the structural 
+barriers experienced by beneficiaries; this 
+reduces the sustainability of benefits over 
+time. 
+
+- Long-term sustainability is sought through 
+the work with rural organizations, 
+complementary multidisciplinary technical 
+assistance offered by the private and public 
+sectors, and technologies designed and 
+adapted for the target population.  
+
+ 
+
+1.17 Intervention strategy. The proposed program is based on the evidence presented 
+above, and it seeks to continue improving the productive and environmental 
+sustainability of small-scale agricultural units. To this end, it focuses on technology 
+adoption, with particular attention devoted to market failures casued by: information 
+asymmetries (paragraphs 1.4 and 1.6), human capital (paragraphs 1.7 and 1.9), and 
+coordination (paragraphs 1.10 and 1.11). Using the RPDP as a foundation, the 
+lessons learned and good practices identified through the experiences of the MGAP, 
+the Bank, and the region were incorporated into the program’s design in order to 
+amplify its reach and impact (paragraphs 1.10 to 1.14). These elements are 
+summarized in Table 2. 
+
+ 
+
+
+
+ - 7 - 
+ 
+ 
+ 
+
+Table 2. Summary of key elements of program design 
+
+Targeting 
+
+- Emphasis on new beneficiaries. 
+
+- Previous producers may benefit, but with more complex technologies. 
+
+- Producers determine their needs and priorities, but solutions focus on climate-smart technologies 
+(inputs and processes, including ICTs). 
+
+- Special consideration for women and young people. 
+
+Structure 
+
+- Strengthening of interagency coordination and synergies. 
+
+- A territorial approach with the participation of rural organizations and key institutions that 
+contribute to promotion and implementation of the program. 
+
+- Comprehensive technical assistance provided by multidisciplinary teams that are committed to 
+the program and involved in it. 
+
+- Public and private sector participation. 
+
+ 
+
+1.18 Strategic alignment. The program is consistent with the Update to the Institutional 
+Strategy 2010-2020 (document AB-3008) and is expected to contribute to the 
+Corporate Results Framework 2016-2019 (document GN-2727-6) through the 
+development challenge of productivity and innovation, as it fosters increased 
+productivity through the adoption of new technologies. It also contributes to the 
+indicator of government agencies benefited by projects that strengthen technological 
+and managerial tools to improve public service delivery. It is also aligned with the 
+crosscutting themes of: (i) gender equity, with a special focus on women’s 
+participation, thus contributing to the indicator of women beneficiaries of economic 
+empowerment initiatives; and (ii) climate change and environmental sustainability, 
+as it includes climate-smart technologies that contribute to resilient, low-carbon, 
+sustainable development and thus supports farmers through access to improved 
+agricultural services and investments (see Table 3 for specific indicators). It also 
+contributes to the Sector Framework Documents on Agriculture and Natural 
+Resources Management (document GN-2709-5), Food Security (document 
+GN-2825-8); Climate Change (document GN-2835-5); and Innovation, Science, and 
+Technology (document GN-2791-8). This is a result of its focus on the following 
+dimensions of success, respectively: high levels of agricultural productivity and the 
+management of climate impacts in the sector; reducing the vulnerability of food 
+systems to climate change and natural disasters; progress in the countries on 
+including climate considerations in the sectors; and investment in innovation, 
+science, and technology. In addition, it supports the results matrix for the IDB 
+Country Strategy with Uruguay 2016-2020 (document GN-2836), as it is linked to 
+the strategic pillar of productivity and competitiveness through its support for 
+innovation. It is also included in the Update of Annex III of the 2018 Operational 
+Program Report for Uruguay (document GN-2915-2). 
+
+1.19 It is estimated that 100% of the operation’s funds will be invested in climate change 
+adaptation and mitigation activities, based on the multilateral development banks’ 
+joint methodology for estimating climate finance (Climate Change). These funds 
+contribute to the IDB Group’s target of increasing financing for climate-change 
+related projects to 30% of all approved operations by the end of 2020. 
+
+B. Objectives, components, and cost 
+
+1.20 Objective. To help improve the sustainability of small and medium-sized family-
+owned agricultural production units. The specific objectives are to increase the 
+
+https://publications.iadb.org/handle/11319/8505
+https://publications.iadb.org/handle/11319/8505
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-36
+
+
+ - 8 - 
+ 
+ 
+ 
+
+adoption of climate-smart technologies and to build capacities for technology 
+generation and transfer, technical assistance, and rural extension. 
+
+1.21 Climate-smart technologies help to strengthen climate resilience and/or reduce 
+GHG emissions while also improving performance in terms of yield or return. Based 
+on this criterion, priority will be given to those aligned with the actions identified in 
+the First Nationally Determined Contribution. 
+
+1.22 Component I. Improved productivity through technology adoption and 
+alliance-building (IDB: US$17.94 million; local: US$380,000). This component 
+focuses on financing the implementation of plans to improve productivity while 
+taking climate considerations into account. It will provide direct support to 
+producers who, as a group and in response to open and competitive requests for 
+proposals organized by the MGAP, submit management plans that propose the 
+use of climate-smart technologies to address their challenges. Groups of at least 
+three producers (family, small, and medium-sized) will be eligible, the majority 
+being family producers and not necessarily members of rural organizations. 
+Support for the implementation of these plans will comprise financing for: 
+(i) investments in technology, providing up to 50% of the total cost of materials, 
+inputs, and specialized technical assistance for technology adoption (with a 
+maximum value of US$8,000 per producer); and (ii) comprehensive technical 
+assistance. The comprehensive technical assistance will consist of support and 
+training in the areas of production, marketing/value added, and administration, 
+provided by teams set up in either rural organizations or public institutions. 
+
+1.23 Support will be differentiated, emphasizing the participation of beneficiaries who 
+have not previously received support from the DGDR. In the case of beneficiaries 
+who have already received DGDR assistance, the management plans will need to 
+include more advanced technologies (as defined in the Technology evaluation). In 
+no case will support be provided for practices that have already received 
+cofinancing. New beneficiaries will also have the option of receiving greater 
+comprehensive technical assistance as determined by the management plan and 
+the technology selected (this support will be determined, in due time, in the 
+documentation for the request for proposals). To encourage greater participation by 
+women and young people, requests for proposals will be issued exclsuively for these 
+groups, offering them up to 80% financing for technology adoption and alliance-
+building processes. 
+
+1.24 Component II. Capacity-building in technology generation and transfer, 
+technical assistance, and rural extension (IDB: US$5.2 million; local: 
+US$1.97 million). This componenent involves financing for activities aimed at 
+generating and transferring technologies, as well as strengthening the delivery of 
+rural technical assistance and extension (RTAE). To this end, strategic partnerships 
+will be established with key rural organizations and/or nonstate public institutes 
+(IPNEs) that have a local presence and work directly with producers. The component 
+encompasses the following subcomponents: 
+
+a. Generation and adaptation of climate-smart technology for family 
+agriculture. This seeks to spark the development of new technologies or 
+adjustments to existing ones through farm-based research and 
+experimentation, based on strategic partnerships between producers’ 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-8
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-37
+
+
+ - 9 - 
+ 
+ 
+ 
+
+associations and public and/or private research entities. This will allow newly 
+developed or adapted technologies to meet to the needs of producers. 
+
+b. Strengthening of private sector RTAE capacities. This focuses on 
+strengthening the ability of rural organizations to provide services to producers. 
+It includes the creation of multidisciplinary teams to provide comprehensive 
+technical assistance, training, as well as programs to disseminate and build 
+awareness of the requests for proposals. 
+
+c. Strengthening of public sector RTAE capacities. This is focused on 
+improving capacities and coordination between the MGAP and IPNEs to 
+support the delivery of RTAE to producers. 
+
+d. Promotion and adoption of ICTs in family agriculture. This encompasses 
+support for the use, dissemination, and development of ICTs for family 
+agriculture through strategic partnerships with key entities. 
+
+1.25 Monitoring and administrative costs (IDB: US$1.09 million; local: 
+US$540,000). This includes the costs of administration, monitoring, audit, 
+determination of baselines and final targets, and the midterm and final evaluations. 
+
+C. Key results indicators 
+
+1.26 A total of 3,100 producers are expected to benefit directly from the program, of 
+which 50% have not previously benefited from DGDR support. Of this total number 
+of beneficiaries, 32% are expected to be women (see Gender annex), with young 
+people accounting for 11%. The expected impacts are increased productivity and 
+reduced GHG emissions. The following intermediate outcomes are expected: 
+(i) increased adoption and availability of climate-smart technologies; (ii) increased 
+participation of new beneficiaries, women, and young people; and (iii) greater use 
+of agricultural services, including technical assistance. Key indicators are 
+presented in Table 3. 
+
+ 
+
+Table 3. Main indicators in the results matrix 
+
+Impact indicators 
+Timing of 
+
+measurement 
+Rationale for selection 
+
+Increase in partial land productivity (kg of 
+meat/hectare, liters of milk/hectare) 
+
+Impact 
+evaluation 
+
+Measures the contribution to the 
+production dimension of sustainability 
+
+Reduction in emissions per unit of output 
+(kgs CO2 equivalent/kg of meat) 
+
+Years 1 and 6 Measures the contribution to the 
+environmental dimension of 
+sustainability 
+
+Increase in the rate of adoption of 
+climate-smart technologies by 
+beneficiaries  
+
+Years 1 and 6 These measure the use of climate-
+smart technologies, a proxy that 
+indicates that producers have improved 
+their climate resilience and reduced 
+emissions  
+
+Increase in the percentage of 
+beneficiary producers that manage their 
+lands with a safe carrying capacity 
+
+Years 1 and 6 
+
+Increase in the percentage of beneficiary 
+family producers that continue to receive 
+comprehensive technical assistance once 
+the plan has been completed  
+
+Years 1 and 6 Indicator of the intervention’s 
+sustainability 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-52
+
+
+ - 10 - 
+ 
+ 
+ 
+
+Impact indicators 
+Timing of 
+
+measurement 
+Rationale for selection 
+
+Increase in the percentage of users of 
+services provided by rural organizations.  
+
+Years 1 and 6 The supply of services provided by rural 
+organizations is a proxy that indicates 
+whether producers are better able to 
+buy inputs, sell their products, and/or 
+purchase services on a group basis, 
+thus favoring productivity levels 
+
+Increase in new technologies validated 
+for family production 
+
+Years 1 and 6 Measures the availability of new 
+technologies for family agriculture 
+
+Increase in the rate of adoption of ICTs 
+by family production units  
+
+Years 1 and 6 Measures the effectiveness of training 
+and other efforts to promote the use of 
+ICTs by family producers 
+
+Increase in the percentage of new 
+beneficiaries 
+
+Years 1 and 6 Indicates whether targeting and 
+promotion efforts were effective in 
+encouraging the participation of new 
+
+beneficiaries 
+
+Increase in the percentage of women 
+beneficiaries  
+
+Years 1 and 6 Indicates whether targeting and 
+promotion efforts were effective in 
+encouraging women’s participation 
+
+Increase in the percentage of young 
+beneficiaries  
+
+Years 1 and 6 Indicates whether targeting and 
+promotion efforts were effective in 
+encouraging youth participation  
+
+ 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 Program cost and financing. Total program cost is US$27.12 million, of which 
+US$24.23 million (89%) will be financed through a specific investment loan from the 
+Bank’s Ordinary Capital. Table 4 presents the costs broken down by component. 
+
+ 
+
+Table 4. Program cost and financing (US$ million) 
+
+Investment component IDB 
+Local 
+
+counterpart 
+Total % 
+
+I.  Improved productivity through technology 
+adoption and alliance-building 
+
+17.94 0.38 18.32 68 
+
+i. Individual plans 17.09 0.38 17.47 64 
+
+ii. Plans, women and young people  0.85 0.00 0.85 3 
+
+II. Capacity-building in technology generation 
+and transfer, technical assistance, and 
+rural extension 
+
+5.20 1.97 7.17 26 
+
+i. Generation and adaptation pf climate-
+smart technologies 
+
+0.42 0.13 0.55 2 
+
+ii. Strengthening of private RTAE 4.26 0.96 5.22 19 
+
+iii. Strengthening of public RTAE 0.19 0.79 0.98 4 
+
+iv. Promotion and use of ICTs 0.33 0.09 0.42 2 
+
+Administration and monitoring 1.09 0.54 1.63 6 
+
+Total (US$) 24.23 2.89 27.12 100 
+
+% 89.00 11.00 100.00  
+
+ 
+
+
+
+ - 11 - 
+ 
+ 
+ 
+
+2.2 The disbursement period will be six years, based on the expected annual budgetary 
+space in the national budget, and also to allow the impacts in the producers’ 
+management plans to materialize. See Table 5 for disbursement details. 
+
+ 
+Table 5. Disbursement schedule (US$ million) 
+
+Year 2019 2020 2021 2022 2023 2024 Total 
+
+Amount 4.0 5.9 4.9 4.4 3.5 1.5 24.2 
+
+% 16.5 24.4 20.2 18.2 14.5 6.2 100 
+
+ 
+
+2.3 Economic viability. Based on the experience and evaluation of the RPDP, the level 
+of support for technology implementation is maintained at up to 50% of total costs, 
+with a maximum of US$8,000 per producer. Analyses of the ex ante economic 
+evaluation show that subsidies of 50% are sufficient to ensure that investments yield 
+a return over that time period (Mendoza, 2018). In camparative terms, a similar 
+World Bank program currently under way in Uruguay provides maximum support of 
+80% of an investment of up to US$16,000 per producer. However, financing is 
+limited to activities with substantial positive environmental externalities (reductions 
+in pollution in tributaries and improvements in the efficiency of water usage). 
+
+2.4 The program’s economic viability is based on the cost-benefit analyses carried out 
+using a model of the support for climate-smart technology adoption by producers. 
+Economic benefits were estimated by calculating the value of increased productivity 
+in the targeted farms. Support to producers will be concentrated mainly in the 
+segments of livestock farming for beef and wool (65%) and dairy (16%), which will 
+be offered incentives for a wide variety of climate-smart technologies. For the 
+program as a whole (including both administration, supervision, and monitoring 
+costs and investments to strengthen the rural organizations supporting adoption by 
+the producers), an internal rate of return of 15.4% was obtained, with a net present 
+value of US$5.0 million (based on a 10-year time horizon and a discount rate of 
+12%). In light of these results, the benefit/cost ratio is 1.11 for each unit invested. 
+The results were subject to a sensitivity analysis indicating that even under more 
+conservative assumptions (relating to the technology adoption process, higher 
+costs, limitations in access to technical assistance once the intervention has been 
+completed), program returns remain above 12%. The program also offers parallel 
+benefits in terms of the reduction in GHG emissions, which are accounted for 
+separately (Program economic evaluation). 
+
+B. Environmental and social risks 
+
+2.5 This program has been classified as Category B operation in accordance with the 
+Environment and Safeguards Compliance Policy (Operational Policy OP-703), as its 
+potential direct and indirect impacts are reversible and temporary, of low magnitude, 
+and localized in nature. Well-known measures are readily available to mitigate and 
+compensate for them, and the implementation thereof is viable. It has also been 
+determined that the level of natural disaster risk is low to moderate, taking into 
+account the focus on climate-smart technologies. At the same time, highly positive 
+effects are expected from the delivery of agricultural extension services, training, 
+and climate-smart technology packages that will impact producers and the different 
+beneficiaries throughout the entire production chain, as well as consumers across 
+the country. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-38
+
+
+ - 12 - 
+ 
+ 
+ 
+
+2.6 An environmentaland social analysis was prepared for the program, and its 
+corresponding environmental and social management plan (ESMP) sets out 
+procedures, responsibilities, guidelines, and criteria for identifying, evaluating, 
+avoiding, mitigating, and monitoring the environmental and social impacts of the 
+specific actions financed. A significant consultation process was implemented during 
+preparation of the operation, and there is no evidence of any environmental or social 
+liabilities or compliance failures that could affect the future performance of this new 
+initiative. 
+
+2.7 The ESMP will be included as an annex to the program Operating Regulations, and 
+both documents will establish environmental and social requirements to ensure that 
+the project is executed in compliance with the Bank’s safeguards and the conditions 
+included in Annex B of the environmental and social management report (ESMR). 
+
+2.8 Environmental and social sustainability risks. Adverse climate conditions 
+represent a medium risk to the program. In order to mitigate this, the program will 
+focus on climate-smart technologies; requests for proposals that support the 
+development and adaptation of climate-smart technologies; the development of 
+ICTs that contribute to adaptation to climate change and variability; and the inclusion 
+of climate risk management in training for associations, technical staff, and 
+producers. 
+
+C. Fiduciary risks 
+
+2.9 Based on the MGAP’s prior experience in executing similar operations, no specific 
+weaknesses have been identified in its institutional capacity. Neither the fiduciary 
+activities included in the Procurement Plan nor the financial management activities 
+are regarded as complex, thus confirming—together with the executing agency’s 
+track record of performance and compliance—the low level of risk for this project 
+(see Annex III). 
+
+D. Other project risks 
+
+2.10 Development risks. There is a medium level of risk associated with farm 
+management plans lacking a comprehensive approach and difficulties in attracting 
+new beneficiaries. To mitigate the former, the following activities are planned: 
+training for each request for proposals, with specific training regarding the 
+comprehensive approach; periodic monitoring and territorial coordination meetings; 
+and preparation of a dissemination plan. In the case of the second risk, in addition 
+to a dissemination plan, adjustments are planned to the requirements in the requests 
+for proposals, as well as the signing of agreements with other public institutions. 
+
+2.11 Macroeconomic risk. The new regional context poses a medium level of 
+macroeconomic risk over the next few years for growth in Uruguay, trends in the 
+dollar, and the resulting impact on inflation. Nonetheless, country risk remains low 
+and stable (172 basis points in September 2018). At the same time, the increase in 
+the dollar exchange rate may favor the competitiveness of the export-oriented 
+agricultural sector. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-621703441-9
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-41
+
+
+ - 13 - 
+ 
+ 
+ 
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of execution arrangements 
+
+3.1 The borrower will be responsible for program execution, through the Ministry of 
+Livestock, Agriculture, and Fisheries (MGAP). The MGAP, in turn, will act through 
+the Rural Development Bureau (DGDR) with support from the Project Management 
+Unit (PMU). The DGDR will be responsible for technical execution and the direction 
+of the program, while the PMU will be responsible for fiduciary and administrative 
+matters (see Organizational chart). The guidelines and procedures for program 
+execution are set out in the program Operating Regulations. As a special 
+contractual condition precedent to the first loan disbursement, evidence will 
+be provided to the Bank’s satisfaction that that the program Operating 
+Regulations (including the ESMP) have entered into force, in accordance with 
+the terms previously agreed with the Bank. The aim of this is to establish the 
+guidelines and procedures to be followed for successful program execution. 
+
+3.2 Special contractual conditions for execution. Standard Framework Agreements 
+are expected to be signed with the National Agricultural Research Institute (INIA) 
+and other Nonstate Public Institutes (IPNEs) that are considered key to the execution 
+of certain program activities. For the use of resources allocated to subcomponents 
+(i), (iii), and (iv) of Component II, the signing and entry into force of Standard 
+Framework Agreements between the MGAP (through the DGDR) and the INIA and 
+IPNEs will be a special contractual condition for execution. The signing of these 
+agreements is essential for implementation of the activities financed under each of 
+the subcomponents. 
+
+3.3 Execution arrangements are based on those used during implementation of the 
+RPDP, with adjustments aimed at incorporating lessons learned. Details of the 
+arrangements are provided in the draft program Operating Regulations, and Table 6 
+provides a summary of their key features. 
+
+ 
+
+Table 6. Key implementation features 
+
+Technologies financed. These will be determined based on the producers’ needs, taking into 
+account local conditions, technical viability, and contribution to climate change mitigation and/or 
+adaptation. Multidisciplinary technical teams—the formation of which is supported under 
+Component II—will prepare the management plans. 
+
+Management plans. A management plan is considered implemented once at least 60% of the 
+activities included in the approved plan have been fulfilled and an evaluation of technology adoption 
+has been completed. 
+
+Rural organizations. As part of execution, rural organizations interested in becoming Regional 
+Rural Development Agents (ATDRs) will be convened and selected. The ATDRs are rural 
+organizations authorized by the DGDR to provide support for the following activities: (i) raising 
+awareness among producers; (ii) training for technical staff and producers; (iii) dissemination of the 
+requests for proposals; (iv) provision of comprehensive technical assistance; (v) preparation of 
+management plans; and (vi) monitoring of the implementation of approved plans. The program will 
+finance institutional strengthening of the ATDRs, training of their human resources, and the services 
+of promotion, extension, and technical assistance that they provide. 
+
+Program dissemination. The requests for proposals will be widely publicized, using communication 
+and awareness-building strategies by the DGDR and the ATDRs. 
+
+ 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-64
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1345538185-39
+
+
+ - 14 - 
+ 
+ 
+ 
+
+3.4 Procurement of goods, works, and consulting and nonconsulting services. 
+Procurement financed in whole or in part with Bank resources will be conducted in 
+accordance with the Policies for the Procurement of Goods and Works Financed by 
+the IDB (document GN-2349-9) and Policies for the Selection and Contracting of 
+Consultants Financed by the IDB (document GN-2350-9). The Procurement Plan 
+contains details of the procurement processes that will be implemented during 
+execution, as well as the procedures used by the Bank for their review. 
+
+3.5 Direct contracting. Direct contracts totaling US$6,048,153 are envisaged, of which 
+US$4,025,963 will be financed with Bank resources and the rest with local 
+counterpart funds. The Bank-financed amount will be used to renew the contracts of 
+consultants belonging to the RPDP team (US$3,885,736) and for fuel purchases 
+(US$140,227). 
+
+3.6 Single-source selection of consultants is permitted under sections 3.10(a) and 3.11 
+of the Policies for the Selection and Contracting of Consultants Financed by the IDB 
+(document GN-2350-9), which establish the principle of continuity of service where 
+such continuity is more efficient than a new competition. In this case: (i) initial 
+selection of the consultants was done on a competitive basis in 2012 and received 
+the Bank’s prior no objection; (ii) the consultants whose contracts are to be renewed 
+are subject to an annual performance evaluation; and (iii) in the event of 
+unsatisfactory results, a consultant’s contract will not be renewed and alternative 
+human resources will be sought through a competitive process. With regard to the 
+direct purchase of fuel from the state-run Administración Nacional de Combustibles, 
+Alcohol y Pórtland [National Fuel, Alcohol, and Cement Administration] (ANCAP), 
+this is based, first, on the requirements of section 3.6(c) of the Policies for the 
+Procurement of Goods and Works Financed by the IDB (document GN-2349-9), 
+which allow direct contracting in cases where a product may only be obtained from 
+one source, and, second, on section 33.C.1 of the Texto Ordenado de Contabilidad 
+y Administración Financiera [Consolidated Text on Accounting and Financial 
+Administration] (TOCAF), which indicates that government bodies or departments 
+may engage in direct contracting with each other. 
+
+3.7 The fiduciary agreements and requirements (Annex III) establish the framework for 
+financial management and planning, as well as the supervision and execution of 
+procurement applicable to program execution. 
+
+3.8 Disbursements. The primary disbursement modality will be advances of funds 
+based on actual liquidity needs. These advances will preferably be made every six 
+months, once reporting has been filed for at least 70% of the amount advanced. As 
+documentary support, the accounting forms will need to be presented along with the 
+financial planning spreadsheet. Documentation will be subject to ex post review. 
+
+3.9 Audit. For the duration of program execution, the PMU will submit the program’s 
+audited financial statements on an annual basis in accordance with Bank 
+requirements. As agreed with the executing agency, audits will be performed by the 
+Tribunal de Cuentas de la República [National Audit Office] (TCR). The audited 
+annual financial statements will be submitted within 120 days after the end of each 
+fiscal year or, in the case of the final statements, within 120 days following the date 
+of final disbursement. 
+
+
+
+ - 15 - 
+ 
+ 
+ 
+
+B. Summary of arrangements for monitoring results 
+
+3.10 Throughout program execution, the DGDR, in coordination with the PMU, will 
+prepare semiannual progress reports and submit them to the Bank within 60 days 
+after the end of each six-month period. These reports will indicate the level of 
+physical and financial progress toward the indicators and activities included in the 
+results matrix, the annual work plan, and the procurement plan, analyzing any 
+problems encountered and describing the corrective measures adopted to resolve 
+them. The monitoring reports for the second half of each year will include the annual 
+work plan for the following year, the updated procurement plan, the status and 
+maintenance plan for the executed works, as well as the status of compliance with 
+the environmental and social requirements established for the program in the ESMP. 
+
+3.11 The DGDR, in coordination with the PMU, will also submit two evaluation reports: 
+(i) midterm, within 90 days after the date on which 50% of resources have been 
+committed, or after 50% of the execution period has elapsed, whichever occurs first; 
+and (ii) final, within 90 days after the date on which 95% of resources have been 
+disbursed. These reports, which will be prepared independently using loan 
+resources, will include (i) financial execution by subcomponent and source of 
+financing; (ii) progress toward attainment of the outputs, outcomes, and impacts 
+contained in the results matrix; (iii) fulfillment of the ESMP; and (iv) a summary of 
+the financial accounts, procurement, disbursements, and internal control. 
+
+3.12 The monitoring and evaluation plan agreed with the MGAP and considered in the 
+budget includes detailed information on indicators and means of verification; the 
+critical path for activities and outputs; monitoring instruments; responsible parties; 
+and the methodology and budget for implementation of the plan. 
+
+C. Impact evaluation 
+
+3.13 A quasi-experimental impact evaluation will be conducted that makes use of 
+producers’ voluntary registration for the requests for proposals, implementing a 
+random promotion to increase the participation rate in a randomly selected treatment 
+group. This promotion will be used as an instrumental variable for evaluating the 
+program’s impact on beneficiary productivity. A pilot test will be carried out at the 
+end of 2018 with a view to selecting an effective promotion tool. Once this tool has 
+been fine-tuned, the evaluation will be conducted for the meat and dairy segments 
+at a minimum, given that these are representative of the majority of program 
+beneficiaries. The source of information for this analysis will consist of surveys 
+administered before and after the intervention (in 2019 and 2024), with a total 
+sample of approximately 1,000 producers. 
+
+
+
+
+ 
+
+
+ 
+ 

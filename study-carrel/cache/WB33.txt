@@ -1,0 +1,1114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+CHAD Skills Development for Youth Employment and Competitiveness Project (P164297) 
+
+ 
+ 
+
+  
+Apr 12, 2019 Page 1 of 23  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 21-May-2019 | Report No: PIDISDSA24795 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Chad P164297 CHAD Skills Development 
+for Youth Employability 
+Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 15-May-2019 20-Jun-2019 Education 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of Chad Ministere de l'Education 
+Nationale et de la 
+Promotion Civique, 
+Ministere de la Formation 
+Professionnelle et des 
+Petits Metiers, Ministere 
+de l'Economie et de la 
+Planificatin du 
+Developpement 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The project development objective (PDO) is to (i) improve access to skills training and labor market outcomes for 
+project beneficiaries; and (ii) strengthen the technical and vocational education and training (TVET) system in Chad 
+
+ 
+Components 
+
+Expanding Access to Skills through Improved Technical and Vocational Education 
+Employment Support for Youth and Improved Entrepreneurship Opportunities 
+Improving TVET System Governance and Institutional Capacity Building 
+Project Management and Monitoring and Evaluation 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 50.00 
+
+Total Financing 50.00 
+
+of which IBRD/IDA 50.00 
+
+Financing Gap 0.00 
+
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 50.00 
+
+          IDA Grant 50.00 
+
+    
+
+Environmental Assessment Category 
+
+B-Partial Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+ 
+1. Chad is sparsely populated, with only 13 million people, and vast in size (being more than 1 million km²). 
+It is a low-income country, with a gross domestic product (GDP) per capita of about US$823 in 2018, and, has 
+among the lowest human development indicators in the world. The country is divided into 23 regions located in 
+three main geographical zones: a desert zone in the north, an arid Sahelian belt in the center, and a more fertile 
+Sudanese savanna zone in the south. It faces adverse climate conditions including prolonged droughts in some 
+areas and yearly flows in others, as well as wind erosion, and desertification, leading to recurrent food crises, as 
+well as population displacement. Combined with security risks due to political instability and transit through Chad 
+by terrorist groups such as Boko Haram, and al Qaida in the Islamic Maghreb (AQIM), as well as an uptick in 
+migration, urban populations are projected to reach nearly 6 million by 2030, or 27 percent of the total population. 
+Chad is home to an estimated 450,000 displaced people, the large majority of which are refugees1.  
+ 
+
+2. The economy is largely dominated by agriculture and extractive industries, mainly oil. However, the 
+recent fall in oil prices has had a dramatic impact on an economy in which oil accounted for 30 percent of total 
+GDP and 70 percent of Government revenues in 2017. Almost half (47 percent) of the population was living under 
+the national poverty line in 2011, the most recent year for which poverty numbers are available. The high level of 
+poverty is accompanied by low human development, and Chad currently ranks 157 out of 157 in the recent World 
+Bank Human Capital Index (HCI) with an index estimated at 0.29 meaning that Chad is losing 71 percent of its 
+potential productivity. Life expectancy at birth is 51.9 years, expected years of schooling is 7.3 years, and mean 
+
+                                                           
+1 Based on the UNHCR definition refugees are people who are recognized as refugees under the 1951 Convention Relating to the 
+Status of Refugees or its 1967 Protocol, the 1969 Organization of African Unity Convention Governing the Specific Aspects of 
+Refugee Problems in Africa, people recognized as refugees in accordance with the UNHCR statute, people granted refugee-like 
+humanitarian status, and people provided temporary protection. Asylum seekers--people who have applied for asylum or refugee 
+status and who have not yet received a decision or who are registered as asylum seekers--are excluded. Country of asylum is the 
+country where an asylum claim was filed and granted. 
+
+
+
+years of schooling stands at just 2.3 years. Education attainment is highly unequal with people in the wealthiest 
+quintile having an average of 6.7 years of schooling, compared with 1.0 for those in the poorest quintile. 
+
+ 
+
+3. Two thirds of the population are less than 25 years old and the proportion of young people will continue 
+to increase dramatically in the coming years. Those under the age of 24 will continue to grow faster than the rest 
+of the population through 2050 creating an even bigger “youth bulge.” The growing population and increasing 
+dependency ratios are challenging for increasing employment, improving productivity, and adequately providing 
+public services. The high population growth rate alone will result in extreme pressure on the health and education 
+sectors, requiring a continuous increase in expenditures just to maintain coverage. The “youth bulge” will lead to 
+a sharp rise in the number of young people seeking employment, and urbanization will push and increasing 
+proportion of these youth to seek employment outside of the agricultural sector, though this increase is slow, and 
+the majority will remain in informal work in agriculture.  
+
+Sectoral and Institutional Context 
+ 
+
+Sector Context  
+
+4. Low education and literacy levels are severe constraints to a productive labor force. The education 
+system in Chad is subdivided into early childhood education (almost inexistent, gross enrolment rate (GER) of 2%), 
+six years of primary education, four years of lower secondary education, three years of upper secondary 
+education, and higher education. However, according to the DHS 2014-15, almost half (46 percent) of primary-
+school-age children in Chad did not attend school. Stark gender and regional inequalities remain, with a gender 
+parity rate at 0.75. For those who do attend school, low learning outcomes are a perennial challenge, with only 
+15.7 percent of sixth graders equipped with sufficient competency in reading according to the 2014 PASEC results. 
+The low supply of science and technology skills is particularly acute, with just 67 girls nationally enrolled in 
+mathematics and science tracks in the last year of upper secondary – or 0.1 percent of the total baccalaureate 
+candidates.  
+ 
+
+5. While the unemployment rate for the working age population is low in Chad (as in other parts of SSA), 
+the youth unemployment rate is notably higher. It was estimated at around 9 percent for both 2016 and 2017 
+with young women more likely to be unemployed (at a rate of 10.6 percent). Comparatively, the working age 
+population unemployment rate is estimated at 5.8 percent in 2017 up from 5.7 percent in 20162. Educated youth 
+and youth in urban areas appear to be more likely to be unemployed, and if Chadians are working, the quality of 
+their jobs tends to be low.  According to ECOSIT 3 data, more than 35 percent of the working age population is 
+underemployed, especially in rural areas (36.4 percent, compared to 27.2 percent in urban areas). 
+
+ 
+
+6. A high concentration of the labor force in self-employed informal and low-productivity operations. Most 
+of the workers are in the informal sector which represents 95 percent of the workforce. Jobs in the informal sector 
+are highly vulnerable, with low earnings, and low dependability. Even outside of agriculture, 60 percent of jobs 
+are in the informal sector. Of the 400,000 informal establishments outside of agriculture, most are engaged in 
+trade and repair of vehicles or equipment, followed by manufacturing of food and beverages.  As above, 
+underemployment remains a major challenge. Within the informal sector 39.2 percent of the workers in the non-
+agricultural sector are estimated to be underemployed vs. 40.2 percent for agricultural workers.  
+
+ 
+
+                                                           
+2 See World Development Indicators 2018.  
+
+7. The agriculture sector employs 80 percent of the Chadian workforce and accounts for 52 percent of 
+GDP. It is also the second largest source of export income for the country after oil. The Government has, among 
+other actions, prioritized the industrialization of agriculture with the aim of boosting exports to diversify the 
+economy, but the sector is struggling to modernize and remains largely dependent on weather conditions3. Family 
+farming often has low productivity and profitability and lacks resilience to shocks. While lack of equipment and 
+technology contribute to low productivity and profitability, low education levels and lack of skills are also key 
+determinants. Support for more productive self-employment and diversification of rural livelihoods is critical to 
+supporting the high proportion of vulnerable rural Chadians.  
+
+ 
+
+8. A multi-tier system of technical and vocational education and training (TVET) exists, with several 
+institutions that focus on providing differing levels of skills but is complex and poorly coordinated. Students at 
+the lower secondary level can seek a DFFTP (Diplôme de Fin de Formation Technique et Professionnelle) which is 
+awarded after two years of vocational study at a technical college. Students who pass the exit examination at the 
+end of the lower secondary cycle can also enroll in a three-year program taught in a lycée technique, leading to 
+the degree of BT. Students who successfully complete middle school can also seek a BEP degree which can be 
+obtained with two years of technical or vocational training in a college technique following successful completion 
+of middle school. The technical and vocational education sector includes two industrial technical high schools, 
+four industrial technical secondary schools, twenty-one high schools specialized in commerce. In addition to these 
+institutions there are eighteen apprenticeship and training centers with varying levels of capacity, which tend to 
+focus on shorter term training.  
+ 
+
+9. Although TVET and skills development efforts are a critical pathway for improving the stock of skilled 
+workers for market relevant jobs, the subsector has suffered from numerous challenges which undermine their 
+potential. These include the following:    
+
+ 
+
+(a) Unsustainable Funding.   Public technical and vocational training institutes receive funding from 
+multiple resources, including a payroll tax on private businesses and a tax on foreign workers, but little 
+coordination exists among these groups, and allocations do not rely on formal criteria related to needs or 
+priorities. In many cases equipment, basic inputs such as electricity, raw materials, and ventilation are 
+outdated or non-existent within centers. Further, centers lack autonomy, have no way to generate 
+additional revenue, and lack basic governing procedures at the institutional level.  
+(b) Low enrollment. TVET centers have extremely low absorptive capacity despite demand and do 
+not make use of efficiency measures in scheduling and shifting to maximize space and enrollment. In the 
+school year 2014 - 157,042 students were enrolled in technical colleges, and 1,039 in vocational schools. 
+The majority of students (5,563 students or 78.3 percent) chose the technical commercial schools while 
+the remaining 21.7 percent enrolled in the technical and industrial streams. Private institutions account 
+for 27 percent of total enrollment. 
+(c) Lack of diversity and access. Access is particularly limited for Chadians living in rural areas, as well 
+as women both in rural and urban areas. Furthermore, inclusion measures for participants with 
+disabilities, even very basic ones, do not exist within the centers. Just 1.5 percent of enrollment at the 
+secondary level is occupied by rural Chadians, given that the centers are concentrated in major cities and 
+there are few offerings focused on key sectors such as agriculture,4 and the female imbalance is acute 
+
+                                                           
+3 Agriculture Sector Review Report (ASRR) 2017.  
+4 N’Djamena is home to 37 percent of the TVET institutions and 48 percent of the sector’s students. In Moundou, the country’s 
+second largest city, these numbers stand at 9 percent and 18 percent respectively. 
+
+(except for the commercial streams5. Girls accounted for only 5 percent of the total 2,518 enrollees in the 
+industrial streams of the TVET institutions and there are extremely small numbers of female teachers and 
+no female directors in any of the TVET institutions.6  
+(d) Limited relevance and low quality. The key factors driving low quality are (i) program offerings 
+do not appear to be driven by employment offerings and do not result in required skills for employment7; 
+(ii) equipment is outdated or nonexistent, and hands-on application is often not possible; and (iii) poorly 
+trained trainers and staff as well as outdated heavily theoretical curricula diminish the quality of training 
+to students.   
+(e) Lack of industry involvement. AFD is supporting development of standards which were previously 
+non-existent or defunct, however there remains very little input from industry on training design. Further, 
+for entrepreneurship and self-employment, even though these remain the main sources of employment. 
+
+ 
+
+Institutional Context and Government Strategy  
+
+ 
+
+10. The technical and vocational training sector is highly fragmented in terms of both service delivery and 
+financing. At least seven ministries intervene in one way or another in the training sector. The three main 
+ministries are (i) the Ministry of Vocational Training and Micro Commerce (Ministère de la Formation 
+Professionnelle et des Petits Métiers, MFPPM); (ii) the Ministry of National Education and Civics Promotion 
+(Ministère de l’Education Nationale et de la Promotion Civique, MENPC); and (iii) the Ministry of Higher Education, 
+Research and Innovation (Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation, MESRI). Each 
+of these ministries manages training centers or schools which deliver diplomas or certificates to its graduates. 
+However, many other ministries also manage training schools and centers in their specific sector without any 
+relationship to the three major ministries. The Ministry of Civil Service, Labor, and Social Dialogue manages eight 
+training centers and the Ministry of Agriculture has 35 centers. The Ministries of Health, Justice, Livestock, Post 
+and Telecommunications, and Youth to name a few all manage technical and vocational centers.   
+ 
+
+11. The National Development Plan (2017-2021), aims at developing Chad into an emerging regional 
+country by 2030. It champions the four strategic objectives of (i) strengthening of national unity; (ii) strengthening 
+good governance and the rule of law; (iii) the development of a diversified and competitive economy; and (iv) 
+improving the quality of life of the Chadian population. As part of this approach, there is an emphasis on improved 
+human capacity development and specifically improvement of technical and vocational education through 
+Outcome 4.2.2 which stipulates that the actions planned to improve the sector are: (i) building the human and 
+material capacities of institutes of technical education; (ii) improving governance of the sector; (iii) improving 
+access to, and the fairness and quality of, technical training centers; and (iv) vocational training centers; and (v) 
+building the capacities of human resources.  
+
+ 
+
+12. President Idriss Deby, reiterated the importance of education and youth employment, following the 
+new constitution, in a speech in May 2018, in which he presented the country’s commitment to human capital 
+development. This includes significant education reforms which aim to connect education to the world of work, 
+
+                                                           
+5 Technical commercial streams graduate students in fields such as management, commerce, or business. 
+6 According to 2017-18 institutional annual reports there was one female out of 26 teachers (or 3.8 percent) and 10 females out 
+
+of 70 teachers (or 14.3 percent) in the TVET school of Moundou (CETIM) and N’Djamena (LETIN) respectively 
+
+7 Opportunities in areas such as agriculture, forestry, and fishing, even though they are the main sub-sectors of employment are 
+rarely offered.  
+
+ensure that skills development of young people is responsive to the most pressing needs of the country especially 
+in the critical sector of agriculture, and ensuring more and better job opportunities for young women and men.  
+
+ 
+
+13. The specific policy objectives for Technical and Vocational training are further outlined in the 2017 
+National Employment and Training Policy, and the 2014 Interim Strategy for TVET which is not yet validated. 
+These strategic documents main objectives are to equip young and adult Chadians with the necessary skills to find 
+decent jobs or create their own jobs in the growth sectors. To that end, the Government is cognizant of the 
+necessity to reform the technical and vocational training sectors by improving its quality and creating stronger 
+links with the private sector. The system will also need to improve its absorptive capacity to be able to train even 
+a small share of the massive number of youths that will enter the labor market during the next decade, estimated 
+at 2.5 million. Without comprehensive and profound reforms, the sector is very unlikely to be able to deliver the 
+expected results. 
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+Development Objective(s) (From PAD)  
+The project development objective (PDO) is to improve access to quality skills training; and labor market outcomes for 
+project beneficiaries and to strengthen the technical and vocational education and training (TVET) system in Chad 
+ 
+
+Key Results 
+ 
+
+Type Objective Indicator  
+
+PDO Indicator 1 (core) Improve access to skills training for project 
+beneficiaries  
+
+Total beneficiaries of job focused 
+intervetions (gender disaggregated)  
+
+PDO Indicator 2  Improve labor market outcomes for project 
+beneficiaries 
+
+Share of beneficiaries of skills 
+development programs who are 
+employed within 6 months of 
+completion 
+
+PDO Indicator 3 Strengthen the technical and vocational 
+education and training (TVET) system  
+
+Number of CFTPs and TVET centers 
+that have a functioning board of 
+directors 
+
+ 
+ 
+D. Project Description  
+
+ 
+14. To improve skills, employability, employment prospects, and labor market outcomes for its youth Chad 
+will need to adopt a multi-pronged strategy: (i) improve the quality of its general education especially the pre-
+primary and primary cycles (PARSET2 is focused on primary education); (ii) improve the quality and relevance of 
+its formal technical and professional skills formation system which will lead to higher quantity and better 
+employability; and (iii) support the skills acquisition system for those in the informal sector or out-of-school. The 
+project is designed to support these through four components. Component 1 will support the expansion of 
+quality training opportunities by strengthening the public sector system, while Component 2 aims at improving 
+the school to work transition for those in secondary technical or post-secondary education and bringing training 
+opportunities to out-of-school youth and those living in rural areas. The main objective of Component 3 is to 
+
+
+strengthen the governance of the TVET public system which will have medium to long term impacts on the 
+system’s ability to deliver quality training and make quality improvements implemented by the project self-
+sustaining. Lastly, component 4 will focus on the project management and instilling a culture of monitoring and 
+evaluation.  
+
+ 
+
+Component 1. Expanding Access to Skills through Improved Technical and Vocational Education 
+
+(US$14.7 million) 
+
+ 
+
+15. This component aims to improve access to training and improve the overall quality of vocational 
+training to meet the needs of the of the Chadian economy in sectors with high labor potential. This objective 
+will be achieved through two sub-components: i) creation of a new model Centre de Formation Technique et 
+Professionnelle (Center of Technical and Professional Training -CFTP), including the construction of the CFTP and 
+the development of new management and training methods; and (ii) the improvement of the quality and 
+upgrading of existing technical and vocational secondary schools in the industrial stream (Collèges and Lycèes 
+d’Enseignement Technique et Industriel, CETIN and LETIN). Youth aged 14-29 will be targeted who meet the 
+qualifications for entry into the newly created and restructured institutions and will benefit at least 30 percent 
+females.  
+ 
+
+16. Component 1 will roll out a new institutional management and operations model which utilizes industry 
+linkages and reorientation of the programs around labor insertion for graduates. This includes adopting sector 
+specific curricula currently under development with support from AFD and in-depth training of school managers 
+and trainers to upgrade quality of teaching and institutional management. To this end multi-year performance-
+based contracts (PBCs) will be signed between the government and targeted institutions which incentivize 
+improved relevance, quality, access, and employment outcomes. Greater autonomy of training institutions and 
+several sector reforms are required to create an enabling environment for this results-based management and 
+operations model, which will be supported under Component 3.  
+
+ 
+
+Sub-component 1.1 Improving Access to Quality Skills through the Creation of a new CFTP and 
+
+Expanded Opportunities through preexisting CFTPs (US$5.3 million) 
+
+ 
+
+17. The construction of a new CFTP will be funded by the project. The new institution will incorporate the 
+new pedagogical and management models including participation from the private sector. The site for the center 
+will be X.  
+ 
+
+18. The project will finance development of the PBC between the CFTP and Ministry which elaborate clear 
+targets namely: (i) the establishment of a Board of Directors; (ii) a minimum private sector and civil society 
+participation of 40 percent in the Board of Directors; (iii) number young people registered by specialty area; (iv) 
+the share of girls enrolled; (v) the share of enrollees participating in dual-training programs; (vi) number of 
+graduates certified ; (vii) monitoring of graduates’ insertion in the labor market; (viii) effective in-service training 
+of trainers; and (ix) the implementation of a new financing model. The performance contracts will be monitored 
+by the MFPPM and each CFTP through their own monitoring and evaluation systems. They will also be supported 
+by PARSET2 monitoring and evaluation specialist. 
+
+19. Main activities: this sub-component will finance the construction of a new CFTP and the following 
+activities through the PBCs: (i) the development and implementation of new pedagogical models and curricula; 
+(ii) new administrative management involving the private sector; (iii) strengthening of the professional and 
+teaching competencies of trainers; (iv) the provision of relevant equipment; (v) the purchasing of adapted 
+textbooks; (vi) rehabilitation of existing infrastructures and equipment; (vii) information and sensitization 
+campaigns to attract more female students; and (viii) governance reform and institutional financing. 
+
+ 
+
+Sub-component 1.2 Rehabilitation and upgrading of Lycees Techniques et Industriels (US$9.4 million) 
+
+ 
+
+20. The project will support the reform and upgrading (modernization) of two to four collèges and lycées 
+techniques et industriels through performance-based contracts to improve the quality of service delivery and 
+the efficiency and effectiveness of the LETINs. These institutions currently offer courses in construction, 
+electricity, and automotive, among others. The institutions are characterized by outdated equipment, limited 
+hands-on and relevant training, heavily theory based teaching, and weak links with the private sector. The aim is 
+to focus the course offerings, improve the management of the schools, strengthen practicum-based teaching and 
+learning, introduce entrepreneurship and non-cognitive (socio-emotional) skills development8, and improve 
+linkages with related industry to better prepare graduates for employability, in addition to upgrading of hardware. 
+
+ 
+
+21. The project will provide support for the preparation of operational manuals regarding the management 
+of TVET schools, performance monitoring, relationship with the private sector relations and the preparation of 
+regulatory texts. Technical assistance will be recruited to support the teams responsible for the management of 
+TVET schools and the ministerial directorates in charge of technical education and vocational training.  
+
+ 
+
+22. Technical auditors will be recruited to conduct an external evaluation of each performance contract and 
+certify the level of achievement of the expected results. The technical audit report will be used to determine the 
+amount of funds to be allocated for the following year. 
+
+ 
+
+23. Main activities: this sub-component will finance the following activities through the PBCs: (i) the 
+development and implementation of new pedagogical models and curricula (in coordination with AFD programs); 
+(ii) new administrative management involving the private sector; (iii) strengthening of the professional and 
+teaching competencies of trainers; (iv) the provision of relevant equipment including for ICT; (v) the purchasing of 
+adapted textbooks; (vi) rehabilitation of existing infrastructures and equipment; (vii) information and sensitization 
+campaigns to attract more female students; (viii) governance reform and institutional financing; and (ix) study 
+tours for all relevant actors especially at the central level, directors, and a select number of teachers. The sub-
+component will also finance technical assistance to the TVET school to help them navigate through the 
+institutional changes envisioned in the project and improve their financial management capacity. 
+
+ 
+
+Component 2. Employment Support for Youth and Improved Entrepreneurship Opportunities (US$24.4 
+
+million) 
+
+     
+24. This component seeks to provide first work experiences, and skills relevant to labor market demands, 
+including entrepreneurship training, to youth. Targeted young people may have completed the full education 
+cycle or dropped out of the school system prior to completion. The objective is to provide quality hands-on job 
+training and entrepreneurship training, to improve employability, employment prospects, and ultimately 
+livelihoods. This would include (a) internships for skilled graduates in their prospective professions; (b) 
+apprenticeships; and (c) entrepreneurship for agricultural development. Apprenticeships and entrepreneurship 
+approaches focus heavily on unskilled workers given that they are the most promising approaches to helping the 
+large scale of low-skilled individuals within Chad transition into employment/self-employment.  
+
+ 
+
+Table 1: Summary Overview of Sub-components 
+Sub-component Beneficiaries Duration of Program Implementing Agency 
+
+2.1 Internships to improve 
+school-to-work 
+transition 
+
+6,000 youth aged 15 to 29 
+registered in CFTPs, LETINs, 
+or university 
+
+6 to 12 months ONAPE and CNPT 
+
+2.2 Expanding 
+opportunities for 
+apprenticeships 
+
+7,500 out-of-school youth 
+aged 15 to 39 with limited 
+education and who are not 
+in a wage job 
+
+6 to 24 months 
+depending on the trade 
+
+FONAP, MFPDS 
+
+2.3 Agricultural 
+entrepreneurship 
+
+8,000 out-of-school youth 
+aged 15 to 39 living in rural 
+areas and mostly engaged 
+in the agriculture sector 
+either wage worker or self-
+employed 
+
+Up to 6 months ONAPE and local NGOs 
+
+ 
+
+Sub-component 2.1 Internships to Improve School-to-Work Transition (US$6.8 million) 
+
+ 
+
+25. The internship program aims to improve the employment outcomes of graduates transitioning from 
+secondary or post-secondary general education and TVET institutions into the labor market. Chad’s educational 
+system does not have sufficiently strong linkages with the private sector to facilitate the immersion of young 
+graduates in enterprises during their time at school or following their graduation. The subcomponent aims to 
+address this practical skills gap of current graduates, while simultaneously reorienting the TVET institutional 
+approach to focus on employment.  
+
+ 
+
+26. Internships will last 6 months during which the internships are funded fully by the project. After the first 
+6 months, the contract will be renewable for another 6 months, at which point the intern would be partially funded 
+(50 percent) by the enterprise. Internships could for example include placements in hotels, healthcare, other 
+service sectors, and construction firms which have been shown through data from ONAPE to recruit the highest 
+numbers of workers. After one year, the intern then becomes eligible for recruitment, at which point the company 
+would be wholly responsible for funding. The number of interns a company can hire over the course of the project 
+and at any point in time will be limited (with optimal limit to be determined) to avoid abuse of the system by 
+companies, as well as limits on the number of trainees a company can take without hiring any. The monthly 
+
+
+
+ 
+
+The World Bank  
+CHAD Skills Development for Youth Employment and Competitiveness Project (P164297) 
+
+ 
+
+ 
+
+  
+Apr 12, 2019 Page 11 of 23  
+
+ 
+
+internship stipend amount will not exceed 60,000 XOF with girls receiving a higher stipend to cover for potential 
+day care cost. 
+
+ 
+
+27. Main activities: The sub-component will finance (i) employment and internships recruiting camps in 
+technical schools, training centers, and universities jointly hosted by ONAPE and the private sector, (ii) 
+communications campaigns and partnership building in private companies; (iii) internship payments that include 
+stipends, accident and medical insurance coverage, and (iv) technical assistance to ONAPE to implement the 
+program and setup a website and the support to its decentralized branches outside of the capital city. 
+
+ 
+
+Sub-component 2.2 Expanding Opportunities for Apprenticeships (US$9.2 million).  
+
+ 
+
+28. An apprenticeship scheme will be developed to facilitate improved labor market integration for youth 
+through a dual apprenticeship program which combines adapted training programs with on-the job training 
+opportunities with craftspeople and professionals. Dual training refers to a combination of practical, on the job 
+training, and theoretical education to ensure an optimal blend of theory and practice. Training programs will 
+combine practical training and theory with an emphasis on hands-on experiences in various types of workshops. 
+Training in training institutions will constitute 25 percent of the program, with 75 percent focused on hands-on 
+practical application, and will be targeting to youth with a minimum level of education. Additionally, training in 
+functional literacy, numeracy and life skills will be coupled with the job specific training to improve employability. 
+ 
+29. To encourage female participation the project will pay a higher stipend to girls especially those with 
+children who need to pay for day care costs. The payment of the stipend will depend on attendance. The project 
+will also encourage girls to join male-dominated trades which provide better employment prospects and higher 
+earnings in the labor market through a targeted sensitization campaign. 
+
+ 
+
+30. Main Activities: the sub-component will finance (i) training fees for the training providers and master 
+craftsmen; (ii) stipends for the trainees paid via mobile money; (iii) training in functional literacy and numeracy 
+and life skills by qualified training providers; (iv) a defined package of materials and equipment including all 
+necessary protections, (v) accident and medical insurance coverage for apprentices; (vi) costs associated with 
+training of trainers, upgrading of skills of apprentice instructors, (vii) costs associated with selection and placement 
+of apprentices; (viii) development of new training guidelines and the design and implementation of the regulatory 
+and operational framework for the apprenticeship program; and (ix) an institutional and organizational audit of 
+FONAP as well as monitoring and evaluation. 
+
+ 
+
+Sub-component 2.3 Development of Agricultural Entrepreneurship (US$9.0 million) 
+
+ 
+
+31. The sub-component will aim to provide entrepreneurship training to youth in rural communities to 
+improve livelihoods. The goal is to provide necessary skills for addressing constraints related to (i) lack of 
+entrepreneurship know-how (equipping small scale farmers with knowledge to diversify options and ideally 
+transition out of subsistence farming); ii) community organizing along agro-value chains (i.e. building the value 
+chain so that it is possible to grow, harvest, transform products, and get them to markets) and (iii) limited means 
+
+of food processing (i.e. loss of mangos during mango season due to limited technical skills and small scale 
+equipment which result in not being able to transform/conserve them).  The approach is consistent with the large 
+numbers of youth who remain in rural communities in Chad, and the majority of workers who are engaged in 
+informal employment in the agriculture sector.  
+
+ 
+
+32. Linkages between producers and sources of financing will be critically important and will be facilitated 
+by connecting promising small-scale agriculture entrepreneurs with micro-loans via ONAPE. ONAPE has prior 
+experience providing micro-lending to agriculture entrepreneurs, thus the program will build on the current 
+mechanism, improve capacity and scale the approach. 
+
+ 
+
+33. Main Activities: The sub-component will finance (i) a campaign to promote training activities and 
+agriculture as a viable livelihood; (ii) the development of the training modules; (iii) delivery of training sessions via 
+contracted local NGOs; (iv) training of trainers; (v) agriculture micro-loans through the existing ONAPE financing 
+mechanism; and (vi) monitoring and evaluation. 
+
+ 
+
+Component 3. Improving TVET System Governance and Institutional Capacity Building (US$5.9 million) 
+
+ 
+
+34. This component is designed to strengthen the TVET system which suffers from weak governance and 
+chronic underfunding.  Given the relative neglect of the sub-sector, the sustainability of the project depends on 
+the capacity of the collèges, lycées, and CFPT to self-finance their activities.  It is critical that the status of these 
+schools is revised to provide them with more autonomy and allow them to generate revenue, and flexibility to 
+spend it.  Thus, a new regulatory framework will be necessary as is improved institutional and management 
+capacities of the ministries and institutions involved in project implementation and project execution.  
+ 
+
+35. This component will also build the leadership and management capacity of CFTP and TVET school 
+directors to improve service delivery and implement a new finance model. TVET schools have often very low 
+teacher-student ratios and teachers are underutilized - working less than 12 hours per week on average. Re-
+organizing school calendars, better planning the use of classrooms and workshops, and organizing dual-training 
+could substantially increase the number of students the institutions receive without jeopardizing its quality. To 
+provide more training opportunities to the youth restructuring the current  financing model which currently 
+operates using several uncoordinated sources of funding is critical. Rethinking the highly fragmented nature the 
+training fund and address the financing challenges and the fractured nature of the skills development sector in 
+Chad in terms of both service delivery and financing is also necessary.  
+
+ 
+
+36. Because the reforms envisioned in this component are necessary for the public sector TVET to perform, 
+their effective implementation will condition disbursement for the activities in Component 1. As noted earlier, 
+if the CETIN, LETIN, and CFTP continue to operate under the current model i.e. with no public financing, no 
+possibility to generate own funds, no cooperation with the private sector, and an outdated governance structure 
+with little accountability it is very unlikely that any investment in this system will be sustainable. New equipment 
+will become old and rusty because of lack of maintenance funds, teachers will quickly revert to theory-only 
+teaching because they would lack the necessary material for labs. 
+
+
+37. Main Activities: this component will finance (i) TA to revisit the TVET national strategy and the national 
+employment policy; (ii) roundtable and national consultations around the revised strategy; (iii) training of CFTP 
+and TVET institutions’ staff; (iv) capacity building activities of selected training institutions, government 
+departments, private sector associations, and employment agencies; (v) south-south exchanges through study 
+tours; (vi) the revision of the national strategy of technical and vocational education and training, (vii) revision of 
+the national employment policy; (viii) ONAPE’s capacity building to manage a website and generate databases to 
+match supply and demand sides; (ix) national awareness campaigns that promote TVET and especially girls in 
+TVET; (x) a study on the supply of training in Chad; and (xi) organizational and institutional audits of ONAPE, 
+FONAP, and other important institutions. 
+
+ 
+
+Component 4. Project Management and Monitoring and Evaluation (US$5.0 million) 
+
+ 
+
+38. This component will support the Project Coordination Unit (PCU), M&E activities, and capacity building 
+activities associated with the implementation of the project. PARSET2’s PCU which has successfully managed 
+several projects is retained to manage the project. The PCU will be responsible for overall coordination and 
+implementation of project activities, as well as financial management (FM) and procurement. The project would 
+finance the salaries of PCU staff, operational costs and the cost of equipment. Additionally, this component would 
+cover specific technical assistance (TA) and capacity building needs for project implementation, and M&E 
+(including third party validation, surveys, and impact evaluations). The proposed capacity building activities under 
+this component could include: (i) trainings, study tours, and other initiatives to enhance the capacity of relevant 
+ministry or agency staff to implement, coordinate, and monitor their programs; and (ii) capacity building of TVET 
+institution administrators to increase their capacity to design surveys, conduct tracer studies and utilize the data 
+for analysis and action.  
+
+ 
+
+39. Assessment activities – including, impact evaluations and beneficiary surveys of interventions under 
+component 2, as well as support to the Gender Innovation Lab which will work with local institutions to carry out 
+statistical analysis/employment surveys/labor studies/etc. monitoring of youth and follow-up activities during 
+internships, survey of youth after the completion of the internships, apprenticeships, and entrepreneurships. 
+There will also be at least two impact evaluations embedded in the project. This includes working with the Gender 
+Innovation Lab to evaluate the impact of the inclusion of socio-emotional in the skills training program on labor 
+market outcomes such as likelihood of wage employment, self-employment, or net income. There will be a special 
+focus on rural areas and girls. 
+
+ 
+
+ 
+
+Project cost and financing  
+
+Table 3: Project cost per component and financing source 
+
+Components/Sub-components Project cost 
+US$ million 
+
+Percent IDA 
+Financing 
+
+Component 1 Expanding Skills Development through Improved Technical and 
+Vocational Education 
+
+14.7 100 
+
+Sub-component 1.1: Creation of new CFTPs and Expanded Opportunities through 
+preexisting centers 
+
+5.3 100 
+
+Sub-component 1.2: Rehabilitation and upgrading of Lycées Techniques et Industriels 9.4 100 
+
+Component 2: Employment support for Youth and Improved Entrepreneurship 
+Opportunites 
+
+24.4 100 
+
+Sub-component 2.1: Internships for improved school-to-work transition 6.8 100 
+
+Sub-component 2.2: Expanding Opportunities for Apprenticeships 9.2 100 
+
+Sub-component 2.3: Development of Agricultural Entrepreneurship 9.0 100 
+ 
+
+  
+
+Component 3: Improving TVET System Governance and Institutional Capacity Building 5.9 100 
+   
+
+Component 4: Project Management and Monitoring and Evaluation 5.0 100 
+   
+
+Overall Project 50.0 100 
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements 
+ 
+40. The project will be implemented over a five-year period. The proposed closing date is October 31, 2024. 
+The Ministry of National Education and the Promotion of Civics (Ministère de l’Education Nationale et de la 
+Promotion Civique, MENPC) and the Ministry of Vocational Training and Micro Works (Ministère de la Formation 
+Professionnelle et des Petits Métiers, MFPPM) will be the main implementing agencies for the project. 
+ 
+41. Steering Committee (SC). A system-wide Steering Committee (SC) will be established to provide 
+guidance to the project on an annual basis. The representative of the MFPPM will be the President of the SC and 
+the representative of the MENPC will assume the Vice-Presidency. The SC will have representatives of MEPD, the 
+Ministry of Higher Education, Research, and Innovation (Ministère de l’Enseignement Supérieur, de la Recherche 
+et de l’Innovation, MESRI), the Ministry of Finance and Budget (Ministère des Finances et du Budget, MFB), the 
+Ministry of Civil Service, Work, and Social Dialogue (Ministère de la Fonction Publique, du Travail et du Dialogue 
+Social, MFPTDS), the Ministry of Youth Promotion, Sports, and Employment (Ministère de la Promotion des 
+Jeunes, des Sports, et de l’Emploi, MPJSE), the Ministry of Production, Irrigation, and Agricultural Equipment 
+(Ministère de la Production, de l’Irrigation et des Equipements Agricoles, MPIEA). It should also include 
+representatives of civil society and private sector. 
+
+ 
+
+42. At the annual meeting, the MENPC and MFPPM with support from the PCU will provide results for the 
+year and will set out its intended results and necessary resources for the following year. The annual meeting 
+will be done before the end of September of each year to ensure that the decisions taken by the Steering 
+Committee are reflected in the budget submission for the following year. The first meeting of the Steering 
+Committee is expected to take place in November 2019 (the second in September 2020) while the first annual 
+work plan will be devised by the preparation team with the support of PARSET2. 
+
+ 
+
+43. The PCU will be responsible for daily project coordination, as well as the administration of the financing: 
+procurement, financial management, disbursement, monitoring, reporting and evaluation, environmental and 
+social safeguards. The PCU is already staffed with a qualified Project Coordinator, Procurement Specialist, 
+Financial Management Specialist, Monitoring and Evaluation (M&E) Specialist, and Accountant. PARSET will be 
+required to hire a team of engineers who will help oversee the CFTP construction and the rehabilitation program 
+of the lycées and collèges d’enseignement technique et industriel. In addition, the DPEF will add a full-time 
+Safeguards Specialist to ensure that the environmental and social safeguards requirements are met. Technical 
+implementation of the Project will be the responsibility of each concerned department within the MENPC, 
+
+
+MFPPM, MFPTDS, and MEPD. Detailed project implementation mechanisms will be provided in the Project 
+Implementation Manual (PIM), which will be completed by effectiveness. 
+
+ 
+
+44. The role of the Steering Committee is to provide guidance and advice for strategic direction of the 
+project and approve annual budget and action plan. In those cases where specific action is needed to address 
+issues that go beyond the scope of any single ministry, the president of the Steering Committee can bring together 
+the relevant parties to find solutions to problems that are inter-ministerial in nature, which may be presented to 
+the Steering Committee, if necessary. 
+
+ 
+
+45. The following implementation arrangements will be established. No more than three months after 
+project effectiveness, each relevant MENPC and MFPPM director will nominate focal points who will be heads of 
+components and sub-components who will work with the PARSET2 coordinator and the M&E specialist to convene 
+the appropriate Government officials to finalize the work plan for each component. These will be key contributions 
+to the overall project work plan to be developed by the project coordinator under the guidance of the Steering 
+Committee which will be discussed with MENPC and MFPPM and communicated to the Bank. Thereafter, once a 
+quarter, the PCU will report on progress to the MENPC and MFPPM as well as key development partners within 
+the LEG and will share the work plan for the following three months. 
+
+ 
+
+46. Annual reviews will be held in November/December of each year, bringing together all key stakeholders 
+in the system. At those reviews, the MENPC and MFPPM officials will provide updates on the status of the technical 
+and vocational education and training sector, including information regarding the start of the school year 
+(enrollments, recruitments, trainings, and so on). Each functional/central directorate will present its results, and 
+each regional directorate will do the same. The arrangements will be formalized in the project implementation 
+manual. More details on the project implementation arrangements can be found in Annex 1. 
+ 
+ 
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+ 
+
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Kristyna Bishop, Social Specialist 
+Bougadare Kone, Environmental Specialist 
+Mamadou Diedhiou, Social Specialist 
+Aurelie Marie Simone Monique Rossignol, Environmental Specialist 
+
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+Due to the civil works inherent to constructions 
+and/or rehabilitation civil works activities of 
+schools/centers, the potential social and 
+environmental risks of the proposed project are 
+expected to be moderate and mostly site-specific, 
+with no significant or long-term negative risks and 
+impacts, which are foreseen to be easily 
+manageable; typical of category B projects. 
+  
+Since project’s physical footprint is presently 
+unknown and would so be prior to appraisal, in 
+compliance with OP/BP 4.01 (Environmental 
+Assessment) core requirements, the Borrower will 
+prepare, consult upon and publicly disclose – both 
+in-country and on the world Bank’s website, prior to 
+appraisal, an environmental and Social Management 
+Framework (ESMF) to guide the way that potential 
+negative environmental and social risks and impacts 
+of future sub-projects will be identified and 
+mitigated during project implementation.  If, during 
+project preparation/implementation, any project 
+specific site is known before appraisal, a site-specific 
+an Environmental and Social Impact Assessments 
+(ESIA)/Environmental and Social Management Plans 
+(ESMP) will also be prepared, amply consulted upon 
+and publicly disclosed, both in-country and on the 
+World Bank website prior to appraisal the physical 
+start of civil works  
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 No  
+
+Forests OP/BP 4.36 No  
+
+Pest Management OP 4.09 No 
+
+The project comprises no activity which may induce 
+the purchase and/or the use of pesticides or related 
+chemicals. The project will not finance pesticides 
+acquisition or distribution. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+This policy is triggered because of the nature of 
+possible civil works to be financed under component 
+1 – more precisely under sub-component 1.2 which 
+might lead to the unearthing of such potential 
+physical cultural resources (PCR).  Nevertheless, it is 
+
+
+highly unlikely that any physical cultural resources 
+will be impacted; nonetheless, the existing a  
+“Chance finds procedures” will be embedded in the 
+ESMF to ensure that these aspects will be taken into 
+account an adequate management of PSRs during 
+project preparation and implementation. 
+
+Indigenous Peoples OP/BP 4.10 No 
+The policy is not triggered as there are no 
+Indigenous People in project targeted areas. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project has triggered OP/BP 4.12 (Involuntary 
+Resettlement) to enable the project to better tackle 
+issues related to land acquisition, including 
+economic and physical displacement. Since the 
+project footprint is yet to be known, the Borrower 
+will prepare project has updated the a Resettlement 
+Policy Framework  (RPF) for each participating 
+country. The RPF sets out the policies, principles, 
+institutional arrangements, likely categories of 
+affected people, eligibility criteria and categories, 
+compensation rates, methods of valuing affected 
+assets, community participation and information 
+dissemination, Grievance Redress Mechanism and 
+effective monitoring and evaluation. The RPF will be 
+amply consulted upon, and once cleared by the Bank 
+it will be publicly disclosed both in-country and at 
+the WB’s external website prior to appraisal.  
+ 
+ Further, when investment sites lead to land take 
+that causes economic and/or physical displacement, 
+the borrower will prepare a site-specific 
+Resettlement Action Plan (RAP). Since the 
+resettlement process is meant to be inclusive to 
+encompass vulnerable social groups and guarantee 
+that they receive fair and equitable treatment, the 
+corresponding site-specific RAPs, wherever deemed 
+necessary, will be consulted upon, cleared by the 
+World Bank, and publicly disclosed both in-country 
+and at the external WB’s website prior to the 
+physical start of civil works  
+
+Safety of Dams OP/BP 4.37 No 
+The project will not finance any activities related to 
+the construction of dams nor affect operations of 
+existing dams or affiliated reservoirs 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No The project will not affect international waterways. 
+
+Projects in Disputed Areas OP/BP 7.60 No No activities are planned in any disputed areas. 
+
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The project is focused on improving skills of the Chadian youth, with an emphasis on improving the public TVET 
+system, instituting performance-based contracts, building capacity, improving the governance of TVET institutions, 
+creating linkages with the private sector, improving monitoring and evaluation, etc. As such, these activities have little 
+to no environmental impact. However, civil works will also be financed, such as the construction of technical and 
+vocational training centers, and the extension and rehabilitation of secondary technical schools, within existing 
+schools, the provision of fencing, access to clean water, adequate sanitation, and electricity for which the most cost-
+effective and environment-friendly options (such as solar panels) will be given preference. Impacts from these 
+activities could include work-related health and safety impacts; noise, dust, reduction of air and water quality; loss of 
+tree/vegetation cover; etc. The short, medium- and long-term socio-economic impact of the proposed project is 
+expected to be largely beneficial. The project has a low probability of inducing physical or economic displacement. Its 
+intervention is mainly focused on existing secondary schools and vocational training centers except for the 
+construction of one new model center. As there may be some unforeseen resettlement. Therefore, the project will 
+prepare a Resettlement Policy Framework (RPF). The influx of male workers may increase the demand for sex. As a 
+result, women in the project community may be subject to higher rates of violence. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Not applicable 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+Not applicable 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+As the impacts from Project activities on the environment are expected to be moderate, the Borrower will prepare an 
+Environmental and Social Management Framework (ESMF). The ESMF will be used by the implementing agency as a 
+defined procedure and guidelines to screen each activity as it is proposed for financing. The ESMF will be used to 
+prepare site-specific Environmental and Social Management Plans (ESMPs) which will include impacts, mitigation 
+measures, a responsible entity and a budget for each mitigation activity. Given the Recipient’s limited but growing 
+experience with implementation of environmental and social safeguards instruments, close safeguards supervision 
+and implementation support will be carried out during the early stage of project implementation until adequate 
+safeguards experience is developed. The PARSET2 engineer, in collaboration with the relevant directorate and regional 
+office of the MFPPM, will supervise the implementation of the safeguards instruments discussed above. IDA 
+supervision will focus on: (i) providing regular implementation support; (ii) carrying out field reviews of safeguards 
+implementation; and (iii) monitoring safeguards implementation based on periodic progress reports.  
+ 
+The short, medium- and long-term socio-economic impact of the proposed project is expected to be largely beneficial. 
+The project has a low probability of inducing physical or economic displacement. Its intervention is mainly focused on 
+existing technical secondary schools and vocational training centers. However, the construction of a new vocational 
+training center is planned in Sahr region. As there may be some unforeseen resettlement. Therefore, the project will 
+prepare a Resettlement Policy Framework (RPF). The construction to be realized in this project are not large and the 
+works will be realized by the local companies. Thus, the influx of foreign labor will be very limited, or-existent. 
+Nevertheless, the project will also set in place mechanisms to prevent Sexual Exploitation and Abuse and sexual based 
+violence. The project will emphasize the importance of having internal prevention and response systems and policies 
+(sexual harassment policies, anonymous reporting mechanisms) in place and building staff capacity to recognize and 
+address these issues at the project level during implementation. Finally, a The GRM will be prepared, in consultation 
+with stakeholders, including communities. A project level GRM is outlined in the RPF and ESMF. It is designed to be a 
+mechanism that is trusted by all relevant partners including the project affected persons (PAPs), if it turns out that 
+impacts happened in the implementation stage. It will facilitate the redress of any grievance and conflict that may 
+arise from the Project. The PIU will be notified of any disputes in the project zone. Project field staff should work 
+closely with the communities and the community leaders to clarify and resolve any misunderstanding that could give 
+rise to conflicts. The PIU will develop a clear plan and procedures for the GRM, including complaint collection and 
+processing procedures, reporting format, database/records specifications, and committee membership using 
+guidelines provided in the RPF and ESMF. Public participation and consultation will be a key part of the process at all 
+times to promote understanding and prevent unnecessary complaints and disputes.  
+ 
+IDA supervision will be carried out by field-based Bank technical staff, complemented by specialist consultants as 
+necessary, during regular biannual supervision missions and during interim technical safeguards missions that will 
+respond to emerging issues. Monitoring will be based on ESMF activities. It will also be an occasion to discuss the 
+project safeguard requirements with the Recipient, including management plan and reporting requirements. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+During the preparation of the ESMF and RPF, the Borrower held consultation with several public TVET institutions and 
+communities located in the regions that will be targeted by the project such as Moyen-Chari, Sahr, and Moundou as 
+well as in N'Djamena. The Borrower met with TVET schools directors, teachers, and students. Further consultations 
+will be held before appraisal and will specifically ensure that vulnerable groups, like women, refugees, etc. are 
+included 
+ 

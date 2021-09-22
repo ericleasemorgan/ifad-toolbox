@@ -1,518 +1,375 @@
 id	sid	eid	entity	type
 WB4	1	1	World Bank Document	ORG
-WB4	1	2	P158958	NORP
-WB4	1	3	23 Combined Project Information Documents / Integrated Safeguards Datasheet	ORG
-WB4	1	4	PID/ISDS	ORG
-WB4	1	5	25-Apr-2017	CARDINAL
-WB4	1	6	Portal	LOC
-WB4	2	1	2	CARDINAL
-WB4	2	2	23	CARDINAL
-WB4	3	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
-WB4	3	2	LATIN AMERICA	LOC
-WB4	3	3	Agriculture Lending Instrument Borrower(s)	ORG
-WB4	3	4	Implementing Agency Investment Project Financing St. Vincent & the Grenadines	ORG
-WB4	3	5	Grenada SVG - Ministry of Economic Planning, Sustainable Development, Industry, Information	ORG
-WB4	3	6	Labour	ORG
-WB4	3	7	Grenada - Ministry of Finance & Energy	ORG
-WB4	3	8	SVG - Ministry of Agriculture, Forestry, Fisheries	ORG
-WB4	3	9	Rural Transformation	ORG
-WB4	3	10	Grenada - Ministry of Agriculture, Lands	ORG
-WB4	3	11	Forestry and Fisheries	ORG
-WB4	4	1	Grenada	GPE
-WB4	4	2	St. Vincent and the Grenadines	GPE
-WB4	5	1	Enabling Environment Project Management	ORG
-WB4	5	2	USD Million	CARDINAL
-WB4	5	3	International Development Association	ORG
-WB4	5	4	IDA	ORG
-WB4	5	5	6.50	CARDINAL
-WB4	5	6	The World Bank	ORG
-WB4	5	7	3	CARDINAL
-WB4	5	8	23	CARDINAL
-WB4	5	9	1.36	CARDINAL
-WB4	6	1	the Organisation of Eastern Caribbean States	ORG
+WB4	1	2	PID/ISDS	ORG
+WB4	1	3	25-Apr-2017	CARDINAL
+WB4	1	4	PIDISDSA21792	CARDINAL
+WB4	1	5	The World Bank	ORG
+WB4	1	6	2	CARDINAL
+WB4	1	7	23	CARDINAL
+WB4	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
+WB4	2	2	LATIN AMERICA	LOC
+WB4	2	3	Agriculture Lending Instrument Borrower(s)	ORG
+WB4	2	4	Implementing Agency Investment Project Financing St. Vincent & the Grenadines	ORG
+WB4	2	5	Grenada SVG - Ministry of Economic Planning, Sustainable Development, Industry, Information	ORG
+WB4	2	6	Labour	ORG
+WB4	2	7	Grenada - Ministry of Finance & Energy	ORG
+WB4	2	8	SVG - Ministry of Agriculture, Forestry, Fisheries	ORG
+WB4	2	9	Rural Transformation	ORG
+WB4	2	10	Grenada - Ministry of Agriculture, Lands	ORG
+WB4	2	11	Forestry and Fisheries	ORG
+WB4	3	1	Grenada	GPE
+WB4	3	2	St. Vincent and the Grenadines	GPE
+WB4	4	1	Enabling Environment Project Management	ORG
+WB4	4	2	USD Million	CARDINAL
+WB4	4	3	International Development Association	ORG
+WB4	4	4	IDA	ORG
+WB4	4	5	6.50	CARDINAL
+WB4	4	6	The World Bank	ORG
+WB4	4	7	1.36	CARDINAL
+WB4	5	1	the Organisation of Eastern Caribbean States	ORG
+WB4	5	2	OECS	ORG
+WB4	5	3	1	CARDINAL
+WB4	6	1	roughly 6 percent	PERCENT
 WB4	6	2	OECS	ORG
-WB4	6	3	1	CARDINAL
-WB4	7	1	roughly 6 percent	PERCENT
-WB4	7	2	OECS	ORG
-WB4	7	3	the 1980s	DATE
-WB4	7	4	the late 1990s	DATE
-WB4	7	5	the European Union	ORG
-WB4	7	6	EU	ORG
-WB4	7	7	OECS	ORG
-WB4	8	1	2	CARDINAL
-WB4	9	1	2008	DATE
+WB4	6	3	the 1980s	DATE
+WB4	6	4	the late 1990s	DATE
+WB4	6	5	the European Union	ORG
+WB4	6	6	EU	ORG
+WB4	6	7	OECS	ORG
+WB4	7	1	2	CARDINAL
+WB4	8	1	2008	DATE
+WB4	9	1	OECS	ORG
+WB4	9	2	6 percent	PERCENT
 WB4	10	1	OECS	ORG
-WB4	10	2	6 percent	PERCENT
-WB4	11	1	OECS	ORG
-WB4	11	2	United States	GPE
-WB4	12	1	2017	DATE
-WB4	13	1	about 2.5 percent	PERCENT
-WB4	14	1	OECS	ORG
-WB4	15	1	30.2 percent	PERCENT
-WB4	15	2	Saint Vincent & the Grenadines	ORG
-WB4	15	3	SVG	ORG
-WB4	15	4	37.7 percent	PERCENT
-WB4	15	5	Grenada	GPE
-WB4	16	1	3	CARDINAL
-WB4	16	2	OECS	ORG
-WB4	17	1	10.2 percent	PERCENT
-WB4	17	2	Grenada	GPE
-WB4	17	3	18.8 percent	PERCENT
-WB4	17	4	SVG	ORG
-WB4	17	5	30 percent	PERCENT
-WB4	18	1	two-thirds	CARDINAL
-WB4	18	2	OECS	ORG
-WB4	19	1	1	CARDINAL
-WB4	19	2	1981	DATE
-WB4	20	1	seven	CARDINAL
-WB4	20	2	Dominica	GPE
-WB4	20	3	Grenada	GPE
-WB4	20	4	Montserrat	GPE
-WB4	20	5	St. Kitts and Nevis	GPE
-WB4	20	6	St. Lucia	GPE
-WB4	20	7	St. Vincent & the Grenadines	ORG
-WB4	20	8	two	CARDINAL
-WB4	20	9	Anguilla	ORG
-WB4	20	10	the British Virgin Islands	GPE
-WB4	20	11	British Overseas Territories	GPE
-WB4	21	1	Martinique	GPE
-WB4	21	2	France	GPE
-WB4	21	3	2015	DATE
-WB4	21	4	OECS	ORG
-WB4	22	1	2	CARDINAL
-WB4	22	2	1975	DATE
-WB4	22	3	the Cotonou Agreement	LAW
-WB4	22	4	EU	ORG
-WB4	23	1	EU	ORG
-WB4	23	2	1999	DATE
-WB4	23	3	2006	DATE
-WB4	24	1	3	CARDINAL
-WB4	24	2	OECS	ORG
-WB4	25	1	The World Bank OECS Regional Agriculture Competitiveness Project	ORG
-WB4	25	2	4	CARDINAL
-WB4	25	3	23	CARDINAL
-WB4	25	4	OECS	ORG
-WB4	26	1	SVG	ORG
-WB4	26	2	Grenada	ORG
-WB4	26	3	Hurricanes Ivan	PERSON
-WB4	26	4	September 2004	DATE
-WB4	26	5	Emily	PERSON
-WB4	26	6	July 2005	DATE
-WB4	27	1	13.4 percent	PERCENT
+WB4	10	2	United States	GPE
+WB4	11	1	2017	DATE
+WB4	12	1	about 2.5 percent	PERCENT
+WB4	13	1	OECS	ORG
+WB4	14	1	30.2 percent	PERCENT
+WB4	14	2	Saint Vincent & the Grenadines	ORG
+WB4	14	3	SVG	ORG
+WB4	14	4	37.7 percent	PERCENT
+WB4	14	5	Grenada	GPE
+WB4	15	1	3	CARDINAL
+WB4	15	2	OECS	ORG
+WB4	16	1	10.2 percent	PERCENT
+WB4	16	2	Grenada	GPE
+WB4	16	3	18.8 percent	PERCENT
+WB4	16	4	SVG	ORG
+WB4	16	5	30 percent	PERCENT
+WB4	17	1	two-thirds	CARDINAL
+WB4	17	2	OECS	ORG
+WB4	18	1	1	CARDINAL
+WB4	18	2	1981	DATE
+WB4	19	1	seven	CARDINAL
+WB4	19	2	Dominica	GPE
+WB4	19	3	Grenada	GPE
+WB4	19	4	Montserrat	GPE
+WB4	19	5	St. Kitts and Nevis	GPE
+WB4	19	6	St. Lucia	GPE
+WB4	19	7	St. Vincent & the Grenadines	ORG
+WB4	19	8	two	CARDINAL
+WB4	19	9	Anguilla	ORG
+WB4	19	10	the British Virgin Islands	GPE
+WB4	19	11	British Overseas Territories	GPE
+WB4	20	1	Martinique	GPE
+WB4	20	2	France	GPE
+WB4	20	3	2015	DATE
+WB4	20	4	OECS	ORG
+WB4	21	1	2	CARDINAL
+WB4	21	2	1975	DATE
+WB4	21	3	the Cotonou Agreement	LAW
+WB4	21	4	EU	ORG
+WB4	22	1	EU	ORG
+WB4	22	2	1999	DATE
+WB4	22	3	2006	DATE
+WB4	23	1	3	CARDINAL
+WB4	23	2	OECS	ORG
+WB4	24	1	OECS	ORG
+WB4	25	1	SVG	ORG
+WB4	25	2	Grenada	ORG
+WB4	25	3	Hurricanes Ivan	PERSON
+WB4	25	4	September 2004	DATE
+WB4	25	5	Emily	PERSON
+WB4	25	6	July 2005	DATE
+WB4	26	1	13.4 percent	PERCENT
+WB4	26	2	Grenada	GPE
+WB4	26	3	21.2 percent	PERCENT
+WB4	26	4	SVG	ORG
+WB4	26	5	1990	DATE
+WB4	26	6	5.4 percent	PERCENT
+WB4	26	7	Grenada	GPE
+WB4	26	8	7.5 percent	PERCENT
+WB4	26	9	SVG	ORG
+WB4	26	10	two decades later	DATE
+WB4	27	1	about 11 percent	PERCENT
 WB4	27	2	Grenada	GPE
-WB4	27	3	21.2 percent	PERCENT
+WB4	27	3	26 percent	PERCENT
 WB4	27	4	SVG	ORG
-WB4	27	5	1990	DATE
-WB4	27	6	5.4 percent	PERCENT
-WB4	27	7	Grenada	GPE
-WB4	27	8	7.5 percent	PERCENT
-WB4	27	9	SVG	ORG
-WB4	27	10	two decades later	DATE
-WB4	28	1	about 11 percent	PERCENT
-WB4	28	2	Grenada	GPE
-WB4	28	3	26 percent	PERCENT
-WB4	28	4	SVG	ORG
-WB4	29	1	OECS	ORG
-WB4	30	1	two	CARDINAL
-WB4	31	1	Grenada	GPE
-WB4	32	1	only one	CARDINAL
-WB4	32	2	the Grenada Cooperative Nutmeg Association	ORG
-WB4	32	3	Grenada Cocoa Association	ORG
-WB4	32	4	Grenada	ORG
-WB4	32	5	two	CARDINAL
-WB4	32	6	nutmeg	GPE
-WB4	33	1	Grenada	ORG
-WB4	34	1	SVG	ORG
-WB4	34	2	the United Kingdom	GPE
-WB4	34	3	UK	GPE
-WB4	38	1	OECS	ORG
-WB4	38	2	about four	CARDINAL
-WB4	39	1	The World Bank	ORG
-WB4	39	2	68 percent	PERCENT
-WB4	39	3	around 20 percent	PERCENT
-WB4	39	4	OECS	ORG
-WB4	40	1	OECS	ORG
-WB4	42	1	hotels	ORG
-WB4	44	1	4	CARDINAL
-WB4	45	1	mid-December	DATE
-WB4	45	2	mid-April	DATE
-WB4	45	3	Caribbean	LOC
-WB4	46	1	the wet season	DATE
-WB4	46	2	June	DATE
-WB4	46	3	4	CARDINAL
-WB4	46	4	Jansen	PERSON
-WB4	46	5	Hans	NORP
-WB4	46	6	Adam Stern	PERSON
-WB4	46	7	Eli Weiss	PERSON
-WB4	46	8	2015	DATE
-WB4	46	9	Linking Farmers and Agro-processors to the Tourism Industry in the Eastern Caribbean	WORK_OF_ART
-WB4	47	1	World Bank	ORG
-WB4	47	2	Washington, DC	GPE
-WB4	48	1	The World Bank	ORG
-WB4	48	2	5	CARDINAL
-WB4	48	3	23	CARDINAL
-WB4	48	4	November	DATE
-WB4	49	1	December	DATE
-WB4	51	1	the year	DATE
-WB4	54	1	Hotels	ORG
-WB4	54	2	Miami	GPE
-WB4	57	1	the same day	DATE
+WB4	28	1	OECS	ORG
+WB4	29	1	two	CARDINAL
+WB4	30	1	Grenada	GPE
+WB4	31	1	only one	CARDINAL
+WB4	31	2	the Grenada Cooperative Nutmeg Association	ORG
+WB4	31	3	Grenada Cocoa Association	ORG
+WB4	31	4	Grenada	ORG
+WB4	31	5	two	CARDINAL
+WB4	31	6	nutmeg	GPE
+WB4	32	1	Grenada	ORG
+WB4	33	1	SVG	ORG
+WB4	33	2	the United Kingdom	GPE
+WB4	33	3	UK	GPE
+WB4	37	1	OECS	ORG
+WB4	37	2	about four	CARDINAL
+WB4	38	1	The World Bank	ORG
+WB4	38	2	68 percent	PERCENT
+WB4	38	3	around 20 percent	PERCENT
+WB4	38	4	OECS	ORG
+WB4	39	1	OECS	ORG
+WB4	41	1	hotels	ORG
+WB4	43	1	4	CARDINAL
+WB4	44	1	mid-December	DATE
+WB4	44	2	mid-April	DATE
+WB4	44	3	Caribbean	LOC
+WB4	45	1	the wet season	DATE
+WB4	45	2	June	DATE
+WB4	45	3	4	CARDINAL
+WB4	45	4	Jansen	PERSON
+WB4	45	5	Hans	NORP
+WB4	45	6	Adam Stern	PERSON
+WB4	45	7	Eli Weiss	PERSON
+WB4	45	8	2015	DATE
+WB4	45	9	Linking Farmers and Agro-processors to the Tourism Industry in the Eastern Caribbean	WORK_OF_ART
+WB4	46	1	World Bank	ORG
+WB4	46	2	Washington, DC	GPE
+WB4	47	1	November	DATE
+WB4	48	1	December	DATE
+WB4	50	1	the year	DATE
+WB4	53	1	Hotels	ORG
+WB4	53	2	Miami	GPE
+WB4	56	1	the same day	DATE
+WB4	59	1	OECS	ORG
 WB4	60	1	OECS	ORG
-WB4	61	1	OECS	ORG
-WB4	70	1	The World Bank	ORG
-WB4	70	2	P158958	NORP
-WB4	70	3	6	CARDINAL
-WB4	70	4	23	CARDINAL
-WB4	73	1	Grenada	GPE
-WB4	73	2	SVG	ORG
-WB4	76	1	The Productive Alliance	ORG
-WB4	76	2	LAC	ORG
-WB4	77	1	the early 2000s	DATE
-WB4	77	2	Latin America	LOC
-WB4	78	1	PA	ORG
-WB4	78	2	three	CARDINAL
-WB4	78	3	one	CARDINAL
-WB4	79	1	TA	ORG
-WB4	80	1	PA	ORG
-WB4	81	1	2012–2022	CARDINAL
-WB4	82	1	the Regional Plan of Action	LAW
-WB4	84	1	the National Economic and Social Development Plan	ORG
-WB4	84	2	2013–2025	CARDINAL
-WB4	84	3	SVG	ORG
-WB4	84	4	the National Agricultural Plan	ORG
-WB4	84	5	2015-2030	DATE
-WB4	84	6	Grenada	GPE
-WB4	85	1	Grenada	GPE
-WB4	85	2	SVG	ORG
-WB4	87	1	INDC	ORG
-WB4	89	1	C. Proposed Development	PERSON
-WB4	89	2	PAD	ORG
-WB4	89	3	The World Bank	ORG
-WB4	89	4	23	CARDINAL
-WB4	89	5	Grenada	GPE
-WB4	89	6	St. Vincent and the Grenadines	GPE
-WB4	91	1	cooperatives	ORG
-WB4	93	1	the Project Operational Manual (POM	LAW
-WB4	95	1	1,700	CARDINAL
-WB4	95	2	at least 25 percent	PERCENT
-WB4	95	3	25 percent	PERCENT
-WB4	95	4	the age of 40 years	DATE
-WB4	98	1	annual	DATE
-WB4	98	2	FFs	PRODUCT
-WB4	101	1	the World Bank	ORG
-WB4	101	2	Grenada	GPE
-WB4	101	3	SVG	ORG
-WB4	102	1	PA	ORG
-WB4	102	2	The World Bank	ORG
-WB4	102	3	8	CARDINAL
-WB4	102	4	23	CARDINAL
-WB4	104	1	US$ 0.38m	MONEY
-WB4	104	2	SVG IDA	ORG
-WB4	104	3	US$0.40m	MONEY
-WB4	105	1	FF	WORK_OF_ART
-WB4	105	2	Subproject Agreements	ORG
-WB4	105	3	Component 2	PRODUCT
-WB4	106	1	the Food and Agriculture Organization	ORG
-WB4	106	2	FAO	ORG
-WB4	106	3	the United Nations	ORG
-WB4	106	4	TA	ORG
-WB4	107	1	2	CARDINAL
-WB4	107	2	IDA	ORG
-WB4	107	3	US$2.2m	MONEY
-WB4	107	4	US$ 0.22m	MONEY
-WB4	107	5	US$ 0.64m	MONEY
-WB4	107	6	IDA	ORG
-WB4	107	7	US$2.95m	MONEY
-WB4	107	8	US$ 0.72m	MONEY
-WB4	107	9	FFs	ORG
-WB4	109	1	Component 2	DATE
-WB4	109	2	The World Bank	ORG
-WB4	109	3	9	CARDINAL
-WB4	109	4	23	CARDINAL
-WB4	109	5	Annex 4	ORG
-WB4	110	1	Plans	NORP
-WB4	111	1	FFs	ORG
-WB4	111	2	Component 1	PRODUCT
-WB4	111	3	Matching Grants	PERSON
-WB4	112	1	FAO	ORG
-WB4	113	1	at least 20 percent	PERCENT
-WB4	113	2	at least 50 percent	PERCENT
-WB4	114	1	At least 10 percent	PERCENT
-WB4	115	1	The World Bank	ORG
-WB4	115	2	10	CARDINAL
-WB4	115	3	23	CARDINAL
-WB4	118	1	TA	ORG
-WB4	119	1	Subproject	ORG
-WB4	119	2	POM	ORG
-WB4	121	1	TA	ORG
-WB4	123	1	the Subproject Agreement	LAW
-WB4	123	2	the Subproject Procurement Plan	LAW
-WB4	124	1	AAs	ORG
-WB4	124	2	120,000	MONEY
-WB4	124	3	20,000	MONEY
-WB4	126	1	Subproject Agreement	LAW
-WB4	127	1	FFs	ORG
-WB4	128	1	FF	ORG
-WB4	128	2	8,000	MONEY
-WB4	128	3	120,000	MONEY
-WB4	128	4	Subproject Agreement	ORG
-WB4	129	1	FFs	ORG
-WB4	129	2	FAO	ORG
-WB4	129	3	each Ministry of Agriculture	ORG
-WB4	129	4	TA	ORG
-WB4	129	5	3	CARDINAL
-WB4	129	6	General Agricultural Services	ORG
-WB4	129	7	US$0.54m	MONEY
-WB4	129	8	SVG IDA	ORG
-WB4	129	9	US$0.25m	MONEY
-WB4	129	10	Component 2	DATE
-WB4	133	1	two	CARDINAL
-WB4	133	2	The World Bank	ORG
-WB4	133	3	11	CARDINAL
-WB4	133	4	23	CARDINAL
-WB4	133	5	GHG	ORG
-WB4	133	6	Annex 4	ORG
-WB4	134	1	FAO	ORG
-WB4	136	1	US$0.66m	MONEY
-WB4	136	2	SVG IDA	ORG
-WB4	136	3	US$0.70m	MONEY
-WB4	138	1	E. Implementation Institutional and Implementation	ORG
-WB4	139	1	Steering Committee (SC	ORG
-WB4	140	1	annual	DATE
-WB4	141	1	SC	LOC
-WB4	142	1	The World Bank OECS Regional Agriculture Competitiveness Project	ORG
-WB4	142	2	12	CARDINAL
-WB4	142	3	23	CARDINAL
-WB4	143	1	Grenada	GPE
-WB4	143	2	the Ministry of Finance and Energy	ORG
-WB4	143	3	MoFE	GPE
-WB4	143	4	Bank	ORG
-WB4	143	5	several years	DATE
-WB4	144	1	SVG	ORG
-WB4	144	2	the Public Sector Investment Program Management Unit	ORG
-WB4	144	3	the Ministry of Economic Planning, Sustainable Development, Industry, Information	ORG
-WB4	144	4	MoEP	PERSON
-WB4	144	5	Bank	ORG
-WB4	144	6	several years	DATE
-WB4	146	1	Grenada	GPE
-WB4	146	2	MoAFFRT	ORG
-WB4	146	3	SVG	ORG
-WB4	146	4	PIU	ORG
+WB4	72	1	Grenada	GPE
+WB4	72	2	SVG	ORG
+WB4	75	1	The Productive Alliance	ORG
+WB4	75	2	LAC	ORG
+WB4	76	1	the early 2000s	DATE
+WB4	76	2	Latin America	LOC
+WB4	77	1	PA	ORG
+WB4	77	2	three	CARDINAL
+WB4	77	3	one	CARDINAL
+WB4	78	1	TA	ORG
+WB4	79	1	PA	ORG
+WB4	80	1	2012–2022	CARDINAL
+WB4	81	1	the Regional Plan of Action	LAW
+WB4	83	1	the National Economic and Social Development Plan	ORG
+WB4	83	2	2013–2025	CARDINAL
+WB4	83	3	SVG	ORG
+WB4	83	4	the National Agricultural Plan	ORG
+WB4	83	5	2015-2030	DATE
+WB4	83	6	Grenada	GPE
+WB4	84	1	Grenada	GPE
+WB4	84	2	SVG	ORG
+WB4	86	1	INDC	ORG
+WB4	88	1	C. Proposed Development	PERSON
+WB4	88	2	PAD	ORG
+WB4	88	3	The World Bank	ORG
+WB4	88	4	23	CARDINAL
+WB4	88	5	Grenada	GPE
+WB4	88	6	St. Vincent and the Grenadines	GPE
+WB4	90	1	cooperatives	ORG
+WB4	92	1	the Project Operational Manual (POM	LAW
+WB4	94	1	1,700	CARDINAL
+WB4	94	2	at least 25 percent	PERCENT
+WB4	94	3	25 percent	PERCENT
+WB4	94	4	the age of 40 years	DATE
+WB4	97	1	annual	DATE
+WB4	97	2	FFs	PRODUCT
+WB4	100	1	the World Bank	ORG
+WB4	100	2	Grenada	GPE
+WB4	100	3	SVG	ORG
+WB4	101	1	PA	ORG
+WB4	103	1	US$ 0.38m	MONEY
+WB4	103	2	SVG IDA	ORG
+WB4	103	3	US$0.40m	MONEY
+WB4	104	1	FF	WORK_OF_ART
+WB4	104	2	Subproject Agreements	ORG
+WB4	104	3	Component 2	PRODUCT
+WB4	105	1	the Food and Agriculture Organization	ORG
+WB4	105	2	FAO	ORG
+WB4	105	3	the United Nations	ORG
+WB4	105	4	TA	ORG
+WB4	106	1	2	CARDINAL
+WB4	106	2	IDA	ORG
+WB4	106	3	US$2.2m	MONEY
+WB4	106	4	US$ 0.22m	MONEY
+WB4	106	5	US$ 0.64m	MONEY
+WB4	106	6	IDA	ORG
+WB4	106	7	US$2.95m	MONEY
+WB4	106	8	US$ 0.72m	MONEY
+WB4	106	9	FFs	ORG
+WB4	108	1	Component 2	DATE
+WB4	108	2	Annex 4	ORG
+WB4	109	1	Plans	NORP
+WB4	110	1	FFs	ORG
+WB4	110	2	Component 1	PRODUCT
+WB4	110	3	Matching Grants	PERSON
+WB4	111	1	FAO	ORG
+WB4	112	1	at least 20 percent	PERCENT
+WB4	112	2	at least 50 percent	PERCENT
+WB4	113	1	At least 10 percent	PERCENT
+WB4	117	1	TA	ORG
+WB4	118	1	Subproject	ORG
+WB4	118	2	POM	ORG
+WB4	120	1	TA	ORG
+WB4	122	1	the Subproject Agreement	LAW
+WB4	122	2	the Subproject Procurement Plan	LAW
+WB4	123	1	AAs	ORG
+WB4	123	2	120,000	MONEY
+WB4	123	3	20,000	MONEY
+WB4	125	1	Subproject Agreement	LAW
+WB4	126	1	FFs	ORG
+WB4	127	1	FF	ORG
+WB4	127	2	8,000	MONEY
+WB4	127	3	120,000	MONEY
+WB4	127	4	Subproject Agreement	ORG
+WB4	128	1	FFs	ORG
+WB4	128	2	FAO	ORG
+WB4	128	3	each Ministry of Agriculture	ORG
+WB4	128	4	TA	ORG
+WB4	128	5	3	CARDINAL
+WB4	128	6	General Agricultural Services	ORG
+WB4	128	7	US$0.54m	MONEY
+WB4	128	8	SVG IDA	ORG
+WB4	128	9	US$0.25m	MONEY
+WB4	128	10	Component 2	DATE
+WB4	132	1	two	CARDINAL
+WB4	132	2	GHG	ORG
+WB4	132	3	Annex 4	ORG
+WB4	133	1	FAO	ORG
+WB4	135	1	US$0.66m	MONEY
+WB4	135	2	SVG IDA	ORG
+WB4	135	3	US$0.70m	MONEY
+WB4	137	1	E. Implementation Institutional and Implementation	ORG
+WB4	138	1	Steering Committee (SC	ORG
+WB4	139	1	annual	DATE
+WB4	140	1	SC	LOC
+WB4	142	1	Grenada	GPE
+WB4	142	2	the Ministry of Finance and Energy	ORG
+WB4	142	3	MoFE	GPE
+WB4	142	4	Bank	ORG
+WB4	142	5	several years	DATE
+WB4	143	1	SVG	ORG
+WB4	143	2	the Public Sector Investment Program Management Unit	ORG
+WB4	143	3	the Ministry of Economic Planning, Sustainable Development, Industry, Information	ORG
+WB4	143	4	MoEP	PERSON
+WB4	143	5	Bank	ORG
+WB4	143	6	several years	DATE
+WB4	145	1	Grenada	GPE
+WB4	145	2	MoAFFRT	ORG
+WB4	145	3	SVG	ORG
+WB4	145	4	PIU	ORG
+WB4	147	1	PIU	ORG
+WB4	147	2	POM	ORG
 WB4	148	1	PIU	ORG
-WB4	148	2	POM	ORG
-WB4	149	1	PIU	ORG
+WB4	149	1	TA	ORG
 WB4	150	1	TA	ORG
+WB4	150	2	FF	LOC
 WB4	151	1	TA	ORG
-WB4	151	2	FF	LOC
-WB4	152	1	TA	ORG
-WB4	152	2	two	CARDINAL
-WB4	153	1	Grenada/SVG	ORG
+WB4	151	2	two	CARDINAL
+WB4	152	1	Grenada/SVG	ORG
+WB4	153	1	two	CARDINAL
 WB4	154	1	two	CARDINAL
-WB4	155	1	two	CARDINAL
-WB4	155	2	FAO	ORG
-WB4	157	1	F. Project	ORG
-WB4	157	2	Environment Under Component 2	PRODUCT
-WB4	158	1	The World Bank	ORG
-WB4	158	2	13	CARDINAL
-WB4	158	3	23	CARDINAL
-WB4	159	1	Grenada	GPE
-WB4	159	2	Saint Vincent and the Grenadines	FAC
-WB4	161	1	World Bank	ORG
-WB4	166	1	RPF	GPE
-WB4	166	2	the Operational Policy (OP	ORG
-WB4	166	3	4.12	CARDINAL
-WB4	167	1	RPF	ORG
-WB4	168	1	G. Environmental	PERSON
-WB4	168	2	Larreamendy Ricardo	PERSON
-WB4	168	3	Michael J. Darr SAFEGUARD	PERSON
-WB4	169	1	4.01	CARDINAL
-WB4	170	1	Grenada	GPE
-WB4	170	2	SVG	ORG
-WB4	170	3	World Bank	ORG
-WB4	170	4	OECS	ORG
-WB4	171	1	The World Bank	ORG
-WB4	171	2	14 of 23	DATE
-WB4	171	3	late October	DATE
-WB4	171	4	early November	DATE
-WB4	171	5	ESMF	ORG
-WB4	172	1	the World Bank's	ORG
-WB4	172	2	January 24, 2017	DATE
-WB4	172	3	February 22, 2017	DATE
-WB4	172	4	Grenada	GPE
-WB4	172	5	March 2, 2017	DATE
-WB4	172	6	SVG	ORG
-WB4	173	1	World Bank	ORG
-WB4	173	2	April 18, 2017	DATE
+WB4	154	2	FAO	ORG
+WB4	156	1	F. Project	ORG
+WB4	156	2	Environment Under Component 2	PRODUCT
+WB4	158	1	Grenada	GPE
+WB4	158	2	Saint Vincent and the Grenadines	FAC
+WB4	160	1	World Bank	ORG
+WB4	165	1	RPF	GPE
+WB4	165	2	the Operational Policy (OP	ORG
+WB4	165	3	4.12	CARDINAL
+WB4	166	1	RPF	ORG
+WB4	167	1	G. Environmental	PERSON
+WB4	167	2	Larreamendy Ricardo	PERSON
+WB4	167	3	Michael J. Darr SAFEGUARD	PERSON
+WB4	168	1	4.01	CARDINAL
+WB4	169	1	Grenada	GPE
+WB4	169	2	SVG	ORG
+WB4	169	3	World Bank	ORG
+WB4	169	4	OECS	ORG
+WB4	170	1	late October	DATE
+WB4	170	2	early November	DATE
+WB4	170	3	ESMF	ORG
+WB4	171	1	the World Bank's	ORG
+WB4	171	2	January 24, 2017	DATE
+WB4	171	3	February 22, 2017	DATE
+WB4	171	4	Grenada	GPE
+WB4	171	5	March 2, 2017	DATE
+WB4	171	6	SVG	ORG
+WB4	172	1	World Bank	ORG
+WB4	172	2	April 18, 2017	DATE
+WB4	173	1	ESMF	ORG
+WB4	173	2	ESMF	ORG
 WB4	174	1	ESMF	ORG
-WB4	174	2	ESMF	ORG
-WB4	175	1	ESMF	ORG
-WB4	175	2	World Bank Group Environment Health and Safety	ORG
-WB4	176	1	OECS	ORG
-WB4	179	1	OP	PERSON
-WB4	180	1	4.09	CARDINAL
-WB4	180	2	4.09	CARDINAL
-WB4	180	3	The World Bank	ORG
-WB4	180	4	15	CARDINAL
-WB4	180	5	23	CARDINAL
-WB4	181	1	ESMF	ORG
-WB4	181	2	Integrated Pest Management	ORG
-WB4	181	3	ESMF	ORG
-WB4	181	4	Pest Management Plan	LAW
-WB4	183	1	Peoples OP/BP	ORG
-WB4	183	2	4.10	CARDINAL
-WB4	183	3	4.10	CARDINAL
+WB4	174	2	World Bank Group Environment Health and Safety	ORG
+WB4	175	1	OECS	ORG
+WB4	178	1	OP	PERSON
+WB4	179	1	4.09	CARDINAL
+WB4	179	2	4.09	CARDINAL
+WB4	180	1	ESMF	ORG
+WB4	180	2	Integrated Pest Management	ORG
+WB4	180	3	ESMF	ORG
+WB4	180	4	Pest Management Plan	LAW
+WB4	182	1	Peoples OP/BP	ORG
+WB4	182	2	4.10	CARDINAL
+WB4	182	3	4.10	CARDINAL
+WB4	183	1	OECS	ORG
+WB4	183	2	Saint Vincent	GPE
+WB4	183	3	Grenada	GPE
+WB4	183	4	the World Bank	ORG
+WB4	183	5	Indigenous Populations	ORG
 WB4	184	1	OECS	ORG
-WB4	184	2	Saint Vincent	GPE
-WB4	184	3	Grenada	GPE
-WB4	184	4	the World Bank	ORG
-WB4	184	5	Indigenous Populations	ORG
-WB4	185	1	OECS	ORG
-WB4	185	2	Sandy Bay	LOC
-WB4	185	3	Saint Vincent	PERSON
-WB4	186	1	Saint Vincent	PERSON
-WB4	186	2	English	LANGUAGE
-WB4	187	1	4.10	CARDINAL
-WB4	188	1	OP	PERSON
-WB4	189	1	4.12	CARDINAL
-WB4	189	2	RPF	ORG
-WB4	189	3	OP	PERSON
-WB4	192	1	The World Bank	ORG
-WB4	192	2	16	CARDINAL
-WB4	192	3	23	CARDINAL
-WB4	192	4	RPF	GPE
-WB4	193	1	RPF	ORG
-WB4	195	1	RPF	ORG
-WB4	196	1	World Bank	ORG
-WB4	196	2	April 18, 2017	DATE
-WB4	197	1	EMF	ORG
-WB4	198	1	International Waterways OP/BP	ORG
-WB4	199	1	Disputed Areas OP/BP	ORG
-WB4	203	1	Two	CARDINAL
-WB4	204	1	the Environmental and Social Management Framework	ORG
-WB4	205	1	ESMF	ORG
-WB4	208	1	ESMF	ORG
-WB4	210	1	ESMF	ORG
-WB4	210	2	The World Bank	ORG
-WB4	210	3	P158958	NORP
-WB4	210	4	17	CARDINAL
-WB4	210	5	23	CARDINAL
-WB4	211	1	the age of 40	DATE
-WB4	215	1	RPF	ORG
-WB4	217	1	2	CARDINAL
-WB4	220	1	3	CARDINAL
-WB4	222	1	ESMF	ORG
-WB4	224	1	RPF	GPE
-WB4	227	1	PA	ORG
-WB4	227	2	OECS	ORG
-WB4	230	1	4	CARDINAL
-WB4	233	1	The Project Coordination Units	ORG
-WB4	233	2	The World Bank	ORG
-WB4	233	3	2017	DATE
-WB4	233	4	18	CARDINAL
-WB4	233	5	23	CARDINAL
-WB4	233	6	World Bank	ORG
-WB4	234	1	The Ministries of Agriculture	ORG
-WB4	234	2	Project Implementation Units(PIU)s	ORG
-WB4	235	1	Program	ORG
-WB4	237	1	5	CARDINAL
-WB4	239	1	cooperatives	ORG
-WB4	239	2	AAs	ORG
-WB4	241	1	2016	DATE
-WB4	241	2	the Ministries of Agriculture	ORG
-WB4	245	1	the Social Specialists	ORG
-WB4	248	1	the Bank Date	ORG
-WB4	248	2	InfoShop	NORP
-WB4	248	3	Executive Directors	ORG
-WB4	248	4	20-Jan-2017	DATE
-WB4	248	5	Disclosure Grenada	WORK_OF_ART
-WB4	248	6	31-Oct-2016	DATE
-WB4	248	7	ESMF	ORG
-WB4	248	8	the Physical Cultural Resources	ORG
-WB4	248	9	OP/BP 4.11	ORG
-WB4	248	10	The World Bank	ORG
-WB4	248	11	19	CARDINAL
-WB4	248	12	23 February 22, 2017	DATE
-WB4	249	1	ESMF	ORG
-WB4	249	2	third	ORDINAL
-WB4	249	3	IBRD/IDA	ORG
-WB4	250	1	third	ORDINAL
-WB4	250	2	April 18, 2017	DATE
-WB4	251	1	http://www.gov.gd/egov/docs/publications/esmf_agricom_final.pdf St. Vincent	PERSON
-WB4	251	2	ESMF	ORG
-WB4	251	3	the Physical Cultural Resources	ORG
-WB4	251	4	OP/BP 4.11	ORG
-WB4	251	5	March 2, 2017	DATE
-WB4	252	1	ESMF	ORG
-WB4	252	2	third	ORDINAL
-WB4	253	1	third	ORDINAL
-WB4	253	2	April 18, 2017	DATE
-WB4	254	1	the Bank Date	ORG
-WB4	254	2	InfoShop	ORG
-WB4	254	3	20-Jan-2017 24-Jan-2017	DATE
-WB4	254	4	Disclosure Grenada 20-Jan-2017 Comments The	WORK_OF_ART
-WB4	254	5	January 20, 2017	DATE
-WB4	254	6	IBRD/IDA	ORG
-WB4	254	7	April 18, 2017	DATE
-WB4	255	1	January 20, 2017	DATE
-WB4	255	2	April 18, 2017	DATE
-WB4	256	1	http://planning.gov.vc/planning/index.php?option=com_content&view=article&id=217&Itemid=252	GPE
-WB4	256	2	PM_D	PERSON
-WB4	256	3	ISCL	ORG
-WB4	257	1	the Bank Date	ORG
-WB4	257	2	InfoShop NA	ORG
-WB4	257	3	20 of 23	CARDINAL
-WB4	257	4	the Environmental Assessment/Audit	ORG
-WB4	257	5	EMP	ORG
-WB4	260	1	Grievance Redress Mechanisms	FAC
-WB4	263	1	C. Compliance Monitoring Indicators	PERSON
-WB4	263	2	the Corporate Level	ORG
-WB4	263	3	ISDS	ORG
-WB4	263	4	EMP	ORG
-WB4	264	1	the Regional Environment Unit	ORG
-WB4	264	2	EA	PERSON
-WB4	265	1	EMP	ORG
-WB4	266	1	NH_C	PERSON
-WB4	266	2	BLE OP/BP	ORG
-WB4	267	1	Bank	ORG
-WB4	268	1	NA	ORG
-WB4	268	2	PM_C	PERSON
-WB4	268	3	4.09 - Pest Management	PERCENT
-WB4	270	1	The World Bank OECS Regional Agriculture Competitiveness Project	ORG
-WB4	270	2	21	CARDINAL
-WB4	270	3	23	CARDINAL
-WB4	270	4	NA	ORG
-WB4	273	1	NA	ORG
-WB4	273	2	PCR_C OM	ORG
-WB4	273	3	OP	PERSON
-WB4	275	1	BP	ORG
-WB4	276	1	Regional	ORG
-WB4	277	1	the World Bank's	ORG
-WB4	282	1	NA	ORG
-WB4	283	1	The World Bank	ORG
-WB4	283	2	P158958	NORP
-WB4	283	3	22	CARDINAL
-WB4	283	4	23	CARDINAL
-WB4	283	5	CONTACT POINT World Bank	ORG
-WB4	283	6	Eli Weiss	PERSON
-WB4	283	7	Information	ORG
-WB4	283	8	Labour	ORG
-WB4	283	9	Laura Anthony-Browne	PERSON
-WB4	283	10	Grenada - Ministry of Finance & Energy	ORG
-WB4	283	11	Kim Frederick Permanent	PERSON
-WB4	283	12	Kim.Frederick@gov.gd SVG - Ministry	PERSON
-WB4	283	13	Fisheries	ORG
-WB4	283	14	Rural Transformation	ORG
-WB4	283	15	Raymond Rayan Permanent	ORG
-WB4	283	16	Grenada - Ministry of Agriculture, Lands,	ORG
-WB4	283	17	Forestry and Fisheries	ORG
-WB4	284	1	Merina Jessamy	PERSON
-WB4	284	2	The World Bank	ORG
-WB4	284	3	23	CARDINAL
-WB4	284	4	23	CARDINAL
-WB4	284	5	NW	GPE
-WB4	284	6	Washington	GPE
-WB4	284	7	202	CARDINAL
-WB4	284	8	473-1000	CARDINAL
-WB4	284	9	Garry Charlier	PERSON
-WB4	284	10	23-Apr-2017	CARDINAL
-WB4	284	11	25-Apr-2017	DATE
+WB4	184	2	Sandy Bay	LOC
+WB4	184	3	Saint Vincent	PERSON
+WB4	185	1	Saint Vincent	PERSON
+WB4	185	2	English	LANGUAGE
+WB4	186	1	4.10	CARDINAL
+WB4	187	1	OP	PERSON
+WB4	188	1	4.12	CARDINAL
+WB4	188	2	RPF	ORG
+WB4	188	3	OP	PERSON
+WB4	191	1	RPF	GPE
+WB4	192	1	RPF	ORG
+WB4	194	1	RPF	ORG
+WB4	195	1	World Bank	ORG
+WB4	195	2	April 18, 2017	DATE
+WB4	196	1	EMF	ORG
+WB4	197	1	International Waterways OP/BP	ORG
+WB4	198	1	Disputed Areas OP/BP	ORG
+WB4	202	1	Two	CARDINAL
+WB4	203	1	the Environmental and Social Management Framework	ORG
+WB4	204	1	ESMF	ORG
+WB4	207	1	ESMF	ORG
+WB4	209	1	ESMF	ORG
+WB4	210	1	the age of 40	DATE
+WB4	214	1	RPF	ORG
+WB4	216	1	2	CARDINAL
+WB4	219	1	3	CARDINAL
+WB4	221	1	ESMF	ORG
+WB4	223	1	RPF	GPE
+WB4	226	1	PA	ORG
+WB4	226	2	OECS	ORG
+WB4	229	1	4	CARDINAL
+WB4	232	1	The Project Coordination Units	ORG
+WB4	232	2	World Bank	ORG
+WB4	233	1	The Ministries of Agriculture	ORG
+WB4	233	2	Project Implementation Units(PIU)s	ORG
+WB4	234	1	Program	ORG
+WB4	236	1	5	CARDINAL
+WB4	238	1	cooperatives	ORG
+WB4	238	2	AAs	ORG
+WB4	240	1	2016	DATE
+WB4	240	2	the Ministries of Agriculture	ORG
+WB4	244	1	the Social Specialists	ORG

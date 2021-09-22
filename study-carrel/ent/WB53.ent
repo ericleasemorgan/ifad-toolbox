@@ -1,12 +1,8 @@
 id	sid	eid	entity	type
 WB53	1	1	World Bank Document	ORG
-WB53	1	2	1	CARDINAL
-WB53	1	3	12	CARDINAL
-WB53	1	4	PID/ISDS	ORG
-WB53	1	5	Concept Stage	ORG
-WB53	1	6	22-Feb-2018	TIME
-WB53	1	7	2	CARDINAL
-WB53	1	8	12	CARDINAL
+WB53	1	2	PID/ISDS	ORG
+WB53	1	3	Concept Stage	ORG
+WB53	1	4	22-Feb-2018	TIME
 WB53	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
 WB53	2	2	12, 2018	DATE
 WB53	2	3	Social, Urban	ORG
@@ -26,12 +22,9 @@ WB53	3	6	0.00	CARDINAL
 WB53	3	7	h1 World Bank Group Financing International Development Association	ORG
 WB53	3	8	IDA	ORG
 WB53	3	9	80.00	CARDINAL
-WB53	3	10	3	CARDINAL
-WB53	3	11	12	CARDINAL
-WB53	3	12	IDA	ORG
-WB53	3	13	47.50	CARDINAL
-WB53	3	14	IDA	ORG
-WB53	3	15	Other Decision	ORG
+WB53	3	10	47.50	CARDINAL
+WB53	3	11	IDA	ORG
+WB53	3	12	Other Decision	ORG
 WB53	4	1	Niger	PERSON
 WB53	4	2	390	MONEY
 WB53	4	3	2015	DATE
@@ -65,11 +58,8 @@ WB53	17	1	two	CARDINAL
 WB53	17	2	Mali	PERSON
 WB53	17	3	22 percent	PERCENT
 WB53	17	4	78 percent	PERCENT
-WB53	18	1	2017	DATE
-WB53	18	2	4	CARDINAL
-WB53	18	3	12	CARDINAL
-WB53	18	4	2011	DATE
-WB53	18	5	Niger	PERSON
+WB53	18	1	2011	DATE
+WB53	18	2	Niger	PERSON
 WB53	19	1	March 2016	DATE
 WB53	20	1	Boko Haram	PERSON
 WB53	20	2	the Joint Multi National Force	ORG
@@ -105,13 +95,10 @@ WB53	39	1	Niger	ORG
 WB53	39	2	CERD	ORG
 WB53	39	3	CERD	ORG
 WB53	40	1	Article 10 of the 1997 law ensures	LAW
-WB53	41	1	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
-WB53	41	2	5	CARDINAL
-WB53	41	3	12	CARDINAL
-WB53	41	4	Décret n°	ORG
-WB53	41	5	PCMS/MI/MAE/C	ORG
-WB53	41	6	June 18, 1987	DATE
-WB53	41	7	the Ministry of Labor	ORG
+WB53	41	1	Décret n°	ORG
+WB53	41	2	PCMS/MI/MAE/C	ORG
+WB53	41	3	June 18, 1987	DATE
+WB53	41	4	the Ministry of Labor	ORG
 WB53	42	1	the African Union Convention for the Protection and Assistance of Internally Displaced Persons	ORG
 WB53	42	2	Africa	LOC
 WB53	42	3	Kampala Convention	FAC
@@ -153,12 +140,9 @@ WB53	58	1	CPF	ORG
 WB53	58	2	Result Matrix	PERSON
 WB53	59	1	the Disaster Risk Management and Urban Development	ORG
 WB53	59	2	the Safety Net Project	ORG
-WB53	59	3	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
-WB53	59	4	6	CARDINAL
-WB53	59	5	12	CARDINAL
-WB53	59	6	the Skills Development for Growth	ORG
-WB53	59	7	the Community Action Project	ORG
-WB53	59	8	3	CARDINAL
+WB53	59	3	the Skills Development for Growth	ORG
+WB53	59	4	the Community Action Project	ORG
+WB53	59	5	3	CARDINAL
 WB53	60	1	four	CARDINAL
 WB53	61	1	C. Proposed Development	PERSON
 WB53	62	1	PCN	GPE
@@ -185,9 +169,6 @@ WB53	94	1	1	CARDINAL
 WB53	96	1	2	CARDINAL
 WB53	98	1	3	CARDINAL
 WB53	100	1	two	CARDINAL
-WB53	101	1	The World Bank Niger Forcibly Displaced Support Project (P164563	ORG
-WB53	101	2	8	CARDINAL
-WB53	101	3	12	CARDINAL
 WB53	102	1	1	CARDINAL
 WB53	104	1	Business Development and Individual Skill Building	ORG
 WB53	107	1	two	CARDINAL
@@ -204,16 +185,12 @@ WB53	119	2	Malian	NORP
 WB53	119	3	Tillaberi	GPE
 WB53	119	4	Tahoua	PERSON
 WB53	119	5	Agadez	PERSON
-WB53	120	1	2017	DATE
-WB53	120	2	9	CARDINAL
-WB53	120	3	12	CARDINAL
-WB53	120	4	B. Borrower’s	PERSON
-WB53	120	5	Bank	ORG
-WB53	120	6	Environmental	ORG
-WB53	120	7	Environmental and	ORG
-WB53	120	8	Social Management Frameworks	ORG
-WB53	120	9	ESMF	ORG
-WB53	120	10	Bank	ORG
+WB53	120	1	B. Borrower’s	PERSON
+WB53	120	2	Environmental and Social Impact Assessments	ORG
+WB53	120	3	Environmental and	ORG
+WB53	120	4	Social Management Frameworks	ORG
+WB53	120	5	ESMF	ORG
+WB53	120	6	Bank	ORG
 WB53	121	1	The Bureau des Evaluations	ORG
 WB53	121	2	BEEEI	ORG
 WB53	121	3	the National Environmental Agency	ORG
@@ -235,10 +212,7 @@ WB53	126	2	Social Management	ORG
 WB53	127	1	World Bank Website	ORG
 WB53	128	1	Social Assessment	ORG
 WB53	130	1	OP	PERSON
-WB53	131	1	2017	DATE
-WB53	131	2	10	CARDINAL
-WB53	131	3	12	CARDINAL
-WB53	131	4	4.09	CARDINAL
+WB53	131	1	4.09	CARDINAL
 WB53	132	1	Pest Management Plan	LAW
 WB53	132	2	Bank	ORG
 WB53	132	3	World Bank	ORG
@@ -259,10 +233,8 @@ WB53	143	3	Niger	PERSON
 WB53	143	4	Komadougou	PERSON
 WB53	144	1	Disputed Areas OP/BP	ORG
 WB53	144	2	7.60	CARDINAL
-WB53	145	1	2017	DATE
-WB53	145	2	11	CARDINAL
-WB53	145	3	12	CARDINAL
-WB53	145	4	Appraisal Stage PID/ISDS Feb 13, 2018 Time	ORG
+WB53	145	1	E. Safeguard Preparation Plan Tentative	ORG
+WB53	145	2	Appraisal Stage PID/ISDS Feb 13, 2018 Time	ORG
 WB53	146	1	Appraisal Stage PID/ISDS An Environmental and	ORG
 WB53	146	2	Social Management Framework	ORG
 WB53	146	3	ESMF	ORG
@@ -272,21 +244,3 @@ WB53	146	6	PMP	ORG
 WB53	147	1	three	CARDINAL
 WB53	147	2	Bank	ORG
 WB53	147	3	World Bank	ORG
-WB53	148	1	CONTACT POINT World Bank Sabine W. Beddies Sr Urban Spec	ORG
-WB53	149	1	Borrower/Client/Recipient Ministère du Plan	ORG
-WB53	149	2	Boulama Kané Ministre du Plan	PERSON
-WB53	149	3	Gouverneur de la Banque	PERSON
-WB53	149	4	Ministre Mahamadou	PERSON
-WB53	149	5	Directeur de Cabinet	FAC
-WB53	149	6	The World Bank	ORG
-WB53	149	7	12	CARDINAL
-WB53	149	8	12	CARDINAL
-WB53	149	9	Stratégie de Développement et de Sécurité	ORG
-WB53	149	10	SDS	ORG
-WB53	149	11	Ada Laoualy Secrétaire	PERSON
-WB53	149	12	NW	GPE
-WB53	149	13	Washington	GPE
-WB53	149	14	202	CARDINAL
-WB53	149	15	473-1000	CARDINAL
-WB53	149	16	Sabine W. Beddies Approved	PERSON
-WB53	149	17	Michael Hamaide 29-May-2018	PERSON

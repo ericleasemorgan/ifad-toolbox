@@ -1,0 +1,700 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Jamaica Rural Economic Development Initiative-Second Phase (P166279) 
+
+ 
+ 
+
+  
+Oct 05, 2018 Page 1 of 16  
+
+     
+
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 29-Nov-2018 | Report No: PIDISDSA24700 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Jamaica P166279 Jamaica Rural Economic 
+Development Initiative-
+Second Phase 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+LATIN AMERICA AND CARIBBEAN 12-Nov-2018 26-Feb-2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Jamaica Jamaica Social Investment 
+Fund (JSIF), Ministry of 
+Finance and Public Sector 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+
+To enhance access to markets and to climate resilient approaches for targeted beneficiaries. 
+
+ 
+Components 
+
+Climate Resilient Agriculture and Community Tourism Investment Subprojects for Rural Enterprises 
+Institutional Strengthening and Capacity Building of Public Sector Entities 
+Project Management, Monitoring and Evaluation 
+Contingent Emergency Response 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 42.00 
+
+Total Financing 42.00 
+
+of which IBRD/IDA 40.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 40.00 
+
+
+
+ 
+
+The World Bank  
+Jamaica Rural Economic Development Initiative-Second Phase (P166279) 
+
+ 
+
+ 
+
+  
+Oct 05, 2018 Page 3 of 16  
+
+ 
+
+Non-World Bank Group Financing 
+
+     Counterpart Funding 2.00 
+
+          LOCAL: BENEFICIARIES 2.00 
+
+    
+
+Environmental Assessment Category 
+
+B-Partial Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+
+Other Decision (as needed) 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+1. The Jamaican economy has historically been characterized by low growth and high public debt, but 
+fiscal and structural reforms launched in 2013 are helping to reverse the trend. Real gross domestic product 
+(GDP) per capita grew by only 0.5 percent on average per year between 1990 and 2016. Fiscal restraints, higher 
+tax revenue, and well-timed liability management operations have reduced the debt-to-GDP ratio by around 25 
+percentage points. GDP growth has seen a modest acceleration since the start of reforms, rising to 1.4 percent 
+in 2016. The informal sector continues to be large in relative terms, accounting for 43% of official GDP according 
+to an ILO 2014 study. The economy remains vulnerable to external shocks.  
+
+2. Rural poverty has remained consistently higher than urban poverty, with an increasing urban-rural gap. 
+The national incidence of poverty for 2015 was 21.2 percent, with an urban-rural gap of 14 percentage points 
+(28.5 percent in rural areas1 compared to 14.3 percent in the Kingston Metropolitan Area). Socio-economic 
+disparities for women and youth continue to contribute to the higher level of rural poverty. If Jamaica is to 
+achieve “Developed World” status, as is the goal of the GOJ’s Vision 2030 plan, development of rural areas needs 
+to keep pace with development in urban areas. The tourism and food/agriculture sectors hold significant 
+potential for rural growth and development because of their importance to the economy overall as well as their 
+potential reach into rural areas. 
+
+3. Jamaica is highly vulnerable to climate change and faces significant environmental threats due to its 
+geographical location. Between 2004 and 2008, five major storm events caused damages and losses estimated 
+at US$1.2 billion. Evidence suggests that Jamaica will likely see increases in severe weather events, such as 
+droughts, extreme precipitation, flooding, and increases in the intensity and frequency of hurricanes2. 
+Additionally, Jamaica’s vulnerability to sea level rise is more pronounced than in other regions due to the 
+potential impact of storm surges from tropical storms and hurricanes on the coast. 
+
+            
+Sectoral and Institutional Context 
+
+Agricultural Sector 
+
+4. The agricultural sector is an important contributor to the country’s economic development and is 
+recognized as a priority in the GOJ’s mid-term plans. The agricultural sector accounts for 8.0 percent of Jamaica’s 
+GDP, and employs 18.7 percent of the active population (of which 44.7 lives in rural areas). Agriculture and agro-
+processing in Jamaica are characterized by a few sub-sectors with relatively tight value chains and high-quality 
+standards serving export markets and the tourism industry, along with domestic production sub-sectors serving 
+local parish markets and supermarkets. Traditional export crops (sugar, bananas, coffee, and citrus) are in 
+decline. The “non-traditional” export sector showing strong growth and market potential includes agricultural 
+products such as preserved fruits (e.g. ackee) and sauces, condiments, and mixed seasonings (e.g. jerk sauces). 
+Jamaica is a net importer of livestock commodities (dairy and meat products). 
+
+5. The small-scale agricultural and food products sector exhibits significant potential for growth, but 
+significant challenges remain to be addressed.  Small-scale agriculture has ample potential for serving domestic 
+markets but needs to become more competitive with respect to imports by increasing land and labor 
+productivity, the quality and reliability of distribution, and climate resiliency.  Small-farmers and micro and small-
+sized agri-businesses enterprises tend to be at a comparative disadvantage in accessing higher value markets due 
+to lack of market information, inefficient production practice, outdated technologies, lack of value addition, 
+diseconomies of scale, and high logistics costs. Limited access to financing is among the key challenges to 
+agriculture competitiveness and related MSMEs. Weaknesses in the connectivity of rural areas is also limiting 
+marketing opportunities and access to potentially attractive inland tourism sites.   
+
+6. The natural environment exposes the agriculture and food sector to frequent weather shocks and high 
+levels of climatic variability – further exacerbated by climate change.  Climate change has caused a trend of 
+rising temperatures, worsening rainfall variability, and droughts, and here the frequency and intensity of extreme 
+events is likely to rise in the future.  This will make soil and crop management more difficult, especially in coastal 
+areas, which are threatened by a decline in fertility or being washed away. Crops need to be able to withstand a 
+more extreme and diverse set of environmental challenges, including worsening of pests and disease occurrence. 
+In the livestock sub-sector, these weather trends may put additional strains on cattle, adding to the vulnerability 
+of livestock facilities.    
+
+Tourism Sector 
+
+7. Tourism is also a critical driver of the Jamaican economy.  The tourism sector accounted for 9.3 percent 
+of the national GDP in 20163.  This sector is considered mature, with international arrivals still growing more 
+rapidly than elsewhere in the region. Jamaica’s tourism strategy4 sets a target of 5 percent annual growth for the 
+sector for the years 2017 to 2022, as well as 5 million visitors with US$3.5 billion in total earnings annually from 
+visitor spending. The goal is also to reduce significantly the amount of leakage that results from the large amount 
+of imports used in the sector. Jamaica retains about 30 percent of every dollar spent by tourists, while the target 
+set by The Ministry of Tourism (MOT) is 50 percent. As such, Tourism has the potential to be strongly linked to 
+agriculture and small-scale production: Sandals Resorts in Jamaica reports that 90 percent of produce purchased 
+in Jamaica annually are locally produced by a network of around 180 farmers5.   
+
+        
+
+8. Jamaica’s tourism market has traditionally focused on the “sun, sea and sand” concept model but more 
+diversification is being pursued. Attempts are being made by the GOJ and the private sector to provide a more 
+diversified visitor experience through new product offerings targeted to wider groups of visitors.  The MOT 
+intends to move towards a more inclusive tourism model to spread the benefits of tourism, provide more 
+entrepreneurship opportunities, and deepen economic linkages in rural areas. This policy is laid out in the 
+National Community Tourism Policy and Strategy, which was funded under the previous REDI project. Many 
+challenges to the further development of community tourism in rural areas remains They include: (a) excessive 
+licensing and standards that are too complex for small NGOs and Community Tourism Enterprises (CTEs) to 
+manage; (b) low levels of available capacity and resources for expanding community tourism operations; and 
+(c) poor marketing support and inadequate connections to the tourism supply chain, operators, and hotels.  
+
+9. Climate resilience is also important for the tourism sector. More severe storms and hurricanes, rising sea 
+levels, droughts, and heatwaves can degrade tourism assets such as coral reefs, shorelines, freshwater supply, 
+and ecosystems, and can damage tourism infrastructure and destination communities with potentially 
+significant losses to GDP and employment.  Changing weather conditions and milder winters in various parts of 
+the world may also affect tourist demand, underscoring the need for sun, sea, and sand destinations to diversify 
+their offerings.  
+
+C. Proposed Development Objective(s)  
+ 
+Development Objective(s) (From PAD)  
+To enhance access to markets and to climate resilient approaches for targeted beneficiaries. 
+ 
+
+Key Results 
+10. The results of the proposed Project will be measured through the following set of outcome indicators: 
+
+• Percentage of participating rural enterprises that have accessed new markets;  
+
+• Percentage of participating rural enterprises operating on or above the projections (gross sales value) 
+of their corresponding business plan; and 
+
+• Number of targeted beneficiaries reached with climate resilient approaches supported by the project 
+(of which number of rural enterprises and public institutions). 
+
+ 
+D. Project Description  
+
+ 
+11. Enhancement to the REDI I approaches. Building on the experience and results of REDI, the new Project 
+will focus on strengthening value chains6  and tourism clusters development, placing emphasis on the linkages 
+between producers/service providers and buyers, to improve economies of scale for small agricultural and 
+tourism enterprises and to mainstream climate resilience.  
+
+A. Project Components 
+
+12. Component 1. Climate Resilient Agricultural and Community Tourism Investments Subprojects for Rural 
+Enterprises (Total US$ 28.0 million, IBRD US$26.0 million).  The objective of this component is to promote the 
+development of agricultural/community tourism enterprises that are better integrated in productive 
+
+         
+ liances" and operate more competitively in selected value chains, with more reliable linkages 
+with buyers and markets and increased capacity to manage climate risks.  
+
+13. This component will finance consulting and non-consulting services, good, works and operating costs 
+(through matching grants) for demand-driven and competitively selected agriculture/fisheries or community 
+tourism subprojects presented and implemented by participating rural enterprises to increase their production 
+and to capture and/or increase their market share and level of profits.  Financed activities will support the 
+promotion, identification, design, feasibility, and implementation of competitive and climate resilient 
+investment subprojects for business ventures established by beneficiary enterprises (small farmer/fisher 
+associations – cooperatives, friendly or benevolent societies, or any formal form of legally established 
+associations – as well as, agribusinesses, community tourism operators, and related entrepreneurs such as craft 
+makers).  
+
+14. Investments proposals will be prepared in response to calls for proposal and submitted by the beneficiary 
+rural enterprises. They will be appraised and competitively selected for project support and funding considering 
+pre-established criteria assessing, inter-alia: market demand, product quality, technical and financial feasibility, 
+environmental and social sustainability; approaches to enhance climate resiliency and the potential for local 
+impact; and the level of participation by women and youth.  It is estimated that a total of 90 investment 
+subprojects will be supported through this component, benefitting directly around 200 rural enterprises. As 
+such, around 20,000 individual members of these rural enterprises will benefit directly from these investments 
+(of which 40 percent will be females and 30 percent youth).  
+
+15. Component 2.  Institutional Strengthening and Capacity Building for Relevant Public Entities (IBRD 
+US$8.0 million).  This component aims to strengthen the capacity of relevant public-sector institutions (MICAF, 
+MOT, and JSIF) and associated entities (RADA, TPDCo, and others) to provide public infrastructure and quality 
+services needed to promote inclusive rural development (based on the agriculture and tourism nexus) and to 
+ensure the sustainability of the rural enterprises and productive partnerships supported by the project. It is 
+organized in the following two subcomponents: (i) 2.1 –Public Infrastructure Investments (IBRD US$ 6,0 million) 
+will finance civil works, goods, and consulting services for priority public infrastructure investments (new or 
+rehabilitated) that are needed for improving the efficiency and climate resilience of targeted agri-food and 
+tourism value chains; and (ii) 2.2: Technical Assistance and Capacity Building (IBRD US$2.0 million. will finance 
+technical assistance (consultant and non-consultant services, goods, training, workshops, and study tours) to 
+strengthen the capacity of relevant national organizations and other relevant partner entities responsible for 
+assisting the agricultural and community tourism enterprises.  
+
+16. Component 3. Project Management (IBRD US$6.0 million).  This component will finance incremental 
+costs associated with the management, supervision, and monitoring and evaluation of project implementation 
+by JSIF and its technical Project Management Team (PMT) for REDI II. Cost to be financed include technical 
+expertise (agriculture, tourism, business development, monitoring and evaluation, etc.), staff training, annual 
+audits, vehicles, office equipment, and other operating costs. This component will also ensure that effective 
+safeguards, fiduciary, and M&E arrangements are in place during implementation.   
+
+17. Component 4.  Contingent Emergency Response (US$ 0).  This component will allow for a reallocation of 
+loan proceeds from other components to provide emergency recovery and reconstruction support following an 
+eligible crisis or emergency at the national or sub-national level. Considering the Project design, the CERC is 
+expected to be operationalized through a reallocation from component 1 to provide emergency recovery and 
+reconstruction support.  To ensure that there is capacity, the Project Operations Manual includes a CERC annex 
+applicable to eligible disasters, detailing fiduciary, safeguards, monitoring and reporting, and any other 
+
+necessary implementation arrangements. 
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements 
+
+18. Implementing Agency for REDI II.  Building on the REDI I experience, the Jamaica Social Investment Fund 
+(JSIF) will be the lead implementing agency for REDI II and will work in close coordination and under the technical 
+leadership of the Ministry of Industry, Commerce, Agriculture and Fisheries (MICAF), ,the Ministry of Tourism 
+(MOT), and their respective operational agencies RADA and TPDCo. JSIF will have overall responsibility for the 
+coordination and management of project implementation. JSIF will establish a Project Management Team (PMT) 
+that will be responsible for overall technical implementation and will coordinate with all relevant national 
+institutions on component implementation. The implementation period is expected to be six years. 
+
+19. Project Oversight: Inter-Ministerial Project Steering Committee. This committee will be responsible for 
+ensuring that the Project is in line with national development priorities.  The Committee will be chaired by the 
+Planning Institute of Jamaica (PIOJ) with membership to include representatives from MICAF and MOT and other 
+relevant agencies i.e. Office of the Prime Minister, Rural Agricultural Development Authority (RADA), Tourism 
+Product Development Company (TPDCo), JSIF, and Ministry of Finance and Public Service (MOF&PS). 
+
+20. Beneficiary Rural Enterprises in the agriculture and community tourism sectors will be eligible for 
+subproject financing and responsible for the operating, maintenance, and sustainability of the corresponding 
+investments. 
+
+ .    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+The project will take place nationally in Jamaica and specifically in rural agricultural and tourism landscapes. 
+Specific location details are unknown at this time because the sub-projects will be demand driven. 
+
+ 
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+The project is rated as a Category B in terms of its 
+risk profile.  
+ 
+
+
+
+ 
+
+The World Bank  
+Jamaica Rural Economic Development Initiative-Second Phase (P166279) 
+
+ 
+
+ 
+
+  
+Oct 05, 2018 Page 8 of 16  
+
+ 
+
+Component 1 will finance rural agricultural and 
+tourism subprojects that support revenue 
+generating activities including support to rural 
+producers (inputs, equipment, seeds, water access, 
+drip irrigation, greenhouses etc.) as well as support 
+to tourism operators and enterprises (marketing, 
+small renovations such as painting and refurbishing 
+guest housing, equipment for craft making, etc.). 
+Component 2 finances small scale public 
+investments aimed at improving the efficiency of 
+priority value chains for selected products (e.g., 
+storage facilities, cold chain supply infrastructure 
+equipment at the regional level as well as at 
+airports/ports, fresh products grading, clearing hubs, 
+agricultural research and development, 
+seeds/seedling production and certification 
+activities}.    Most of the impacts related to the 
+implementation of Component 1 and 2 are minor, 
+short-term and highly localized and thus easily 
+mitigated. No cumulative impacts are expected. Any 
+impacts are therefore easily mitigated through 
+standard mitigation measures. .    
+ 
+Subcomponent  2.2:  Technical Assistance and 
+Capacity Building will finance TA and capacity 
+building for key organizations and agencies that 
+deliver support services in agriculture and rural 
+tourism at the local level. While the TA activities 
+themselves do not have direct adverse 
+environmental or social impacts, the Bank team will 
+integrate environmental and social principles and 
+objectives as an integral part of the terms of 
+reference and supervision of the TA.   
+ 
+JSIF has prepared an Environmental and Social 
+Management Framework (ESMF) that outlines 
+potential risks and guidelines to mitigate potential 
+impacts, outlines roles and responsibilities of key 
+actors, provides budget and costs for mitigation and 
+training (where needed) and gives guidance to 
+contractors and PIU environmental specialists in 
+terms of managing contracts with firms.  The ESMF 
+also serves as the guiding document for any site-
+specific Environmental and Social Management 
+Plans (ESMPs).  This document has been reviewed 
+and cleared by the bank and was recently disclosed 
+
+
+
+to stakeholders in Jamaica and on the Bank's 
+website. A separate integrated pest management 
+plan was prepared and also disclosed similarly under 
+the project. Institutional arrangements outlined 
+within the document will guide the use of pesticides 
+according to OP 4:09.  During implementation, each 
+subproject will be screened to determine its risk 
+profile and, accordingly, it will be determined 
+whether further documents (ESMPs) will need to be 
+developed to manage these risks.  Any activity that is 
+rated Category A will be screened out.  
+The ESMF points to additional guidance, as 
+applicable, in the General EHS Guidelines and the 
+Industry Sector Guidelines specifically guidelines for 
+AGRIBUSINESS/FOOD PRODUCTION and FORESTRY 
+http://www.ifc.org/ehsguidelines.  
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No This is not a private sector activity. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Given the scale of the activities, it is unlikely that 
+natural habitats will be impacted.  However, the 
+locations are unknown and are in the rural areas of 
+Jamaica, which has significant natural resources. For 
+this reason, the OP is triggered as a precaution.  
+However, every effort will be made to avoid working 
+in or impacting critical natural habitats. The ESMF  
+includes measures to avoid/mitigate the alteration 
+of critical or sensitive areas. 
+
+Forests OP/BP 4.36 Yes 
+
+The project activities are highly localized and are 
+unlikely to impact forests but the project will 
+operate in a rural landscape and therefore it is 
+possible that some activities may impact tree 
+clusters. For this reason, OP 4.36 is triggered as a 
+precaution.  All subprojects will  be screened and 
+any impacts on forests, or tree clusters, quantified.  
+Alternatives will be considered as a means to avoid 
+negative impacts on any forests or significant tree 
+clusters. The ESMF includes specific screening tools 
+to identify any potential negative impacts on forests 
+or tree clusters. 
+
+Pest Management OP 4.09 Yes 
+
+Given that support is provided to producer 
+organizers, pesticides may be supported.  However, 
+World Bank guidance regarding the use of pesticides 
+and  IPM will be observed, and a pesticide 
+management plan has been prepared. 
+
+
+
+ 
+
+Physical Cultural Resources OP/BP 4.11 No 
+
+This OP is not triggered because the project will not 
+operate in culturally sensitive areas.  However, 
+during implementation, small rehabilitation works 
+and minor mitigation works may result in the chance 
+find of culturally significant objects. The ESMF 
+includes procedures to address chance findings of 
+archeological and cultural resources during 
+construction works. 
+  
+
+Indigenous Peoples OP/BP 4.10 No 
+The policy is not triggered because there are no 
+groups in Jamaica who meet the definition of IPs 
+under OP 4.10. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The policy will be triggered for activities under 
+Component 2. The activities under Component 1 are 
+small in scale and scope and therefore unlikely to 
+have long-term or cumulative impacts. The JSIF 
+evaluation found no sub-project activity financed 
+under the REDI I that required physical involuntary 
+resettlement. The CDD-type of activities/sub-
+projects proposed under Component 1 will exclude 
+Involuntary Resettlement as a result of land take 
+and/or the physical relocation of households as the 
+costs and complexity could easily outweigh the 
+benefits and costs of the sub-projects project.  
+Under Component 1 a negative list will be developed 
+in the ESMF including clear criteria for excluding 
+Category A high-risk activities. 
+ 
+While OP 4.12 Involuntary Resettlement was not 
+triggered for REDI I there may be investments under 
+REDI II Component 2: Support to Critical Public 
+Infrastructure that could result in involuntary 
+resettlement through land acquisition. Component 2 
+finances medium scale public investments aimed at 
+improving the efficiency of priority value chains for 
+selected products. There is scope within the project 
+to also finance other public investments that are 
+outside the scope of agriculture or tourism yet are 
+needed to improve competitiveness and enhance 
+access to markets in the two sectors.  Specific 
+location details are unknown at this time and sub-
+projects will be demand driven. As a result, a 
+Resettlement Policy Framework (RPF) has been 
+prepared to guide the selection and compensation 
+aspects under Component 2 which will be disclosed 
+
+
+
+
+prior to appraisal. The project has also prepared 
+guidelines for Voluntary Land Donation.  Upon 
+identification of cases of involuntary resettlement, 
+resettlement action plans (RAPs) will be prepared, 
+consulted on, and disclosed in accordance with the 
+policy. 
+
+Safety of Dams OP/BP 4.37 No 
+
+This policy will not be triggered because the project 
+will not support the construction or rehabilitation of 
+dams nor will it support other investments which 
+rely on the services of existing dams. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+This policy will not be triggered because the project 
+will not affect international waterways as defined 
+under the policy. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+This policy will not be triggered because the 
+proposed project will not intervene in disputed areas 
+as defined under the policy. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The possible activities to be financed are small in scale and scope and therefore unlikely to have long-term or 
+cumulative impacts. Any impacts would be short-term, highly localized, and therefore easily mitigated through 
+standard mitigation measures.  The ESMF prepared by the Government has been reviewed by the Bank and has been 
+found satisfactory.  That document outlines the procedure for minimizing risks within the project.  For Component 1 
+which has many subprojects (e.g. greenhouses, water harvesting, expansion of efficient irrigation methods, integrated 
+pest management, introduction of new crop varieties, development of integrated landscape models, improvement in 
+stock breeding, and small group marketing infrastructure) the ESMF outlines a screening mechanism to categorize 
+each subproject according to its risk profile.  ESMPs will also be developed for certain higher risk subprojects (cleared 
+by the Bank and disclosed publicly) prior to implementation of the subcomponent.  For Component 2 which supports 
+critical public infrastructure negative impacts will include construction related impacts such as   noise, occupational 
+health and safety risks, waste management issues and so on.  In terms of safeguard however, these impacts are all 
+small scale and reversible.  None of the project's activities in Component 1 are likely to result in large scale, significant 
+or irreversible  impacts. 
+ 
+There may be investments under REDI II Component 2: Support to Critical Public Infrastructure that could result in 
+involuntary resettlement through land acquisition. Component 2 finances medium scale public investments aimed at 
+improving the efficiency of priority value chains for selected products. These could include building storage facilities, 
+processing areas, cold chain supply infrastructure equipment at the regional level as well as at airports/ports, fresh 
+products grading, clearing hubs, agricultural research and development, seeds/seedling production and certification 
+activities. There is scope within the project to also finance other public investments that are outside the scope of 
+agriculture or tourism yet are needed to improve competitiveness and enhance access to markets in the two sectors.  
+
+
+Specific location details are unknown at this time and sub-projects will be demand driven. As a result, a Resettlement 
+Policy Framework (RPF) has been prepared to guide the selection and compensation aspects under Component 2 and 
+has been consulted upon and disclosed. Upon identification of cases of involuntary resettlement, resettlement action 
+plans (RAPs) will be prepared, consulted on, and disclosed in accordance with the policy. 
+ 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Most of the impacts related to the implementation of the project are anticipated to be minor, short-term and highly 
+localized and thus easily mitigated through standard mitigation measures.    
+ 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+The project has already been able to examine alternatives through lessons learnt from REDI which was the previous 
+project that supported similar activities.  The successful aspects of the first project have become a core aspect of the 
+current project. Safeguard implementation under the first project was deemed very successful due, in part, to a 
+trained PIU- the same PIU that will manage this current project. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+Borrower capacity is relatively high.  The JSIF will establish a Project Management Team (PMT) that will be responsible 
+for overall implementation and will coordinate all the actors involved in the Project’s execution. The JSIF will be 
+responsible for financial management, procurement and compliance with safeguards. The JSIF managed the recently 
+closed project (Jamaica REDI (P10522)) and the ICR noted that its management of safeguards was highly satisfactory.  
+In terms of social implementation, some activities may be undertaken on land that has been donated voluntarily from 
+the state (through a lease and nominal peppercorn rent) or though private individual (s). Voluntary Land Donation 
+(VLD) will be applied according to good global practice and in line with the World  Bank guidelines on VLD including 
+that VLD applies directly to project beneficiaries and that impacts are minor.  The protocols and guidelines to be 
+applied to the Voluntary Land Donation (VLD) are included in the RPF. The project has also prepared a Worker's Code 
+of Conduct for all workers and contractors working on the project and a Grievance Redress Mechanism.  
+ 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The ESMF has been completed, reviewed by the Bank and disclosed in Jamaica (November 12th, 2018) and on the 
+Bank's website (November 15th, 2018).  Consultations were held with the relevant Government officials and Ministries 
+and a with a subset of the project's estimated 50,000 beneficiaries.  Disclosures in Jamaica have occurred on relevant 
+websites including JSIFs and further disclosures will occur through discussions during the launch meetings and follow 
+up meetings with project beneficiaries. The Ministry of Tourism (MOT) and TPDCo will be a lead partner with JSIF.  
+The RPF has been completed, consulted upon and disclosed in country on November 12, 2018 and on the Bank's 
+website on November 20, 2018. 
+ 
+
+ 

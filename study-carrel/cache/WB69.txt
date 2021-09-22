@@ -1,0 +1,1093 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Transforming landscapes for resilience and development in Zambia (P164764) 
+
+ 
+ 
+
+  
+July 12, 2018 Page 1 of 16  
+
+     
+
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 09-Aug-2018 | Report No: PIDISDSC23065 
+
+     
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Zambia P164764  Transforming 
+landscapes for 
+resilience and 
+development in Zambia 
+(P164764) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Oct 08, 2018 Mar 18, 2019 Environment & Natural 
+Resources 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of National 
+Devleopment Planning 
+
+Luapula Provincial 
+Administrative office 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+To improve natural resource management in the northern region of Zambia to support sustainable livelihoods, and in 
+the event of an eligible crisis or emergency, to provide immediate and effective response to the eligible crisis or 
+emergency. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 75.00 
+
+Total Financing 75.00 
+
+of which IBRD/IDA 75.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 75.00 
+
+          IDA Credit 75.00 
+
+   
+Environmental Assessment Category Concept Review Decision 
+
+B - Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+
+Other Decision (as needed) 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+1. Zambia is a landlocked country in Southern Africa, surrounded by Malawi, Tanzania, Democratic Republic of Congo, 
+
+Namibia, Angola, Botswana, Zimbabwe and Mozambique. It has a surface area of 752,614 km2 and population 
+
+estimated at 17.6 million people that is growing at an annual rate of 3.2%. The country is endowed with rich natural 
+
+resources including minerals, freshwater, forests, wildlife and fertile land. Nearly 56% or 42 million hectares of the 
+
+total land area is arable. The country is also home to globally significant ecosystems and biodiversity. About 40% of 
+
+freshwater resources in the southern African region are found in Zambia alone. Zambia is characterized as a service-
+
+oriented economy with the tertiary sector at 53.7%; Mining (principally copper, emeralds, zinc, lead and cobalt) at 
+
+12.9%; Agriculture; Forestry and Fisheries at 9.9%; and Manufacturing at 7.9%. The 2017 World Bank Zambia 
+
+Economic Brief indicates that Zambia’s national economy experienced domestic pressures in 2015. Economic growth 
+
+fell to 2.9 percent in 2015 and contributed to increased poverty in rural communities. Among the main factors are 
+
+the reduction in the price of copper, El Nino induced lower seasonal harvest, political uncertainty and the power 
+
+crisis which impacted local business operations of all sectors. Economic growth increased to 3.8 percent in 2016 and 
+
+to 3.5 percent in 2017. Economic growth is expected to continue rising with a projected GDP growth of 4.1 percent 
+
+in 2018 and 4.7 percent in 2019. 
+
+ 
+
+2. Zambia's economy is heavily dependent on natural resources, particularly mining and increasingly forestry 
+
+resources. Agriculture is largely rain-fed. Rural economies and livelihoods depend almost entirely on renewable 
+
+natural resources i.e. biodiversity, forests, wetlands, fisheries, water, etc. The productive capacity of landscapes 
+
+nation-wide is compromised by various drivers across agriculture, infrastructure development, unsustainable use of 
+
+forest resources, land use, energy and mining activities. These drivers solely or in combination reduce productive 
+
+capacity and resilience of landscapes and undermine ecosystem services, particularly due to the impacts of climate 
+
+variability and climate change.  
+
+ 
+
+3. Zambia is endowed with vast forests. These productive landscapes support rural livelihoods and investment 
+
+opportunities that hold potential for national socio-economic development. About 65% of land is covered by 
+
+forests, of which 40% constitutes miombo woodland. The country has an array of protected areas that include 20 
+
+National Parks; 39 Game Management Areas; 432 Forest Reserve; 59 Botanical Reserves; 42 Important Bird Areas; 
+
+and 2 Bird Sanctuaries. The forest lands, therefore, represent the life-line of rural economies and daily subsistence. 
+
+For example, the forest sector currently contributes about 5.2% to the nation’s GDP, and provides formal and 
+
+informal employment to about 1.1 million people in the country. The forest sector is also the greatest contributor to 
+
+carbon emissions (61% of total emissions in 2011). It is a sector, therefore, that holds opportunity to contribute to 
+
+national reductions in greenhouse gas emissions and for equitable sharing of both carbon and non-carbon benefits 
+
+among stakeholders. However, the forest sector is under increasing pressure. From 2001 to 2017, Zambia lost 2.5 
+
+million hectares or about 6% of total tree cover. This led to the release of 252Mt of carbon into the atmosphere1. 
+
+According to FAO, current annual deforestation in Zambia is 160 000 hectares, which is approximately twice the size 
+
+of New York City. Zambia is among the top ten deforested country’s in the world.  
+
+ 
+
+Sectoral and Institutional Context 
+
+4. Zambia has been implementing the World Bank led Pilot Program for Climate Resilience (PPCR) aimed at 
+
+strengthening Zambia 's institutional framework for climate resilience (while) improving the adaptive capacity of 
+
+vulnerable communities in selected sub-basins. Investments supported by the Zambia PPCR on the ground include 
+
+participatory adaptation, climate-resilient infrastructure and strategic program support in agriculture, water, 
+
+livestock, fisheries and natural resources and climate information services. Adaptation to climate change is one of 
+
+the nation’s development priorities because the Zambian economy, particularly the rural economy, is highly 
+
+vulnerable to the impacts and effects of climate change. This has become very important because the country has 
+
+already been experiencing frequent droughts, extreme temperatures and dry spells in some parts, and seasonal and 
+
+flash floods in others. Floods and droughts have increased in frequency over the past three decades, costing the 
+
+nation an estimated 0.4% in annual economic growth. These trends are expected to intensify in the future. Based on 
+
+records from 1960 to 2003, the mean annual temperature has increased by 1.3oC. This gives an average of 0.3oC per 
+
+decade. Within the same period, mean rainfall has decreased by an average of 1.9mm/month (2.3%) per decade 
+
+since 1960.  
+
+ 
+
+5. Through different land and forest-related policies, the Government seeks to manage productive landscapes to 
+
+enhance forest products and services for improved income generation, poverty reduction, job creation and 
+
+protection and maintenance of biodiversity, and contribute to mitigation of climate change. In the Forest Act 2015, 
+
+the Government has given direction on the new configurations of forests to increase people’s participation in the 
+
+management of forests and forest resources and in their ownership of forest benefits at micro-level. This therefore, 
+
+forms basis for a firm socio-economic and legal engagement in the collective management, including the private 
+
+sector to transform landscapes for resilience and development in Zambia.  
+
+ 
+
+6. Zambia is a Party to a number of global Multilateral Environmental Agreements. It is a Party to the three Rio 
+
+Conventions: the UN Framework Convention on Climate Change; the UN Convention on Biological Diversity (UNCBD); 
+
+and the UN Convention to Combat Desertification (UNCCD). In 2015, Zambia joined the Paris Agreement and 
+
+submitted its Intended Nationally Determined Contribution (INDC). As a Party, Zambia is mandated to respond to the 
+
+policy directions and obligations of these Conventions. In this regard, the Government continues to pursue 
+
+development goals that complement efforts from other development partners for socio-economic and 
+
+environmental benefits. To realize the international as well as national development priorities, the Government has 
+
+continued to pursue efforts to establish conducive policy and legislative instruments as well as strategic plans to 
+
+address climate change and other sectoral development challenges. Among the pieces of legislation, the following 
+
+
+constitute a set of important policies that can anchor the development objective of TRALARD to increase the 
+
+ecosystem resilience and productivity within vulnerable landscapes and enhance the disaster related preparedness 
+
+of Zambia: Vision 2030; Seventh National Development Plan (7NDP, 2017); Second National Biodiversity Strategy and 
+
+Action Plan (NBSAP2, 2015); National Policy on Environment (NPE, 2007); National Policy on Climate Change (NPCC, 
+
+2017); National Climate Change Response Strategy (NCCRS, 2012); Zambia National Forest Policy (ZNFP, 2014) and 
+
+Forest Act (2015); National Agriculture Policy (NAP, 2016); Environmental Management Act (EMA, 2011); and the 
+
+National Energy Policy (NEP, 2008) 
+
+ 
+
+Relationship to CPF 
+
+ 
+
+7. The proposed TRALARD project is aligned with the draft Zambia Country Partnership Framework (CPF) for the period 
+
+FY18-FY21 which puts forward an integrated World Bank, IFC, and MIGA strategy to support Zambia’s development 
+
+through the Seventh National Development Plan (7NDP). The project contributes to the CPF Objective Two on 
+
+Increased resilience to hydrological, climate and environmental shocks and to associated outcomes: a) Local level 
+
+community infrastructure and natural resources management practices reduce impact of hydrological shocks 
+
+(droughts, floods) on livelihoods; b) Climate adaptation support to communities harmonized, institutionalized and 
+
+decentralized; and c) Institutions for environmental governance strengthened. 
+
+ 
+
+8. The Government has embraced an integrated approach to development investments at landscape level. This project 
+
+builds on this vision, the CPF and Bank’s experience on climate resilience, particularly through the implementation 
+
+of projects on resilience and adaptation priorities, including i) Zambia Strengthening Climate Resilience (PPCR Phase 
+
+II); ii) Livestock Development Animal and Health Project (LDAHP); iii) Zambia Water Resources Development Project; 
+
+iv) Irrigation Sector Development Project (ISDP); and v) Zambia Integrated Forest Landscape Project (ZIFLP). 
+
+ 
+
+C. Proposed Development Objective(s)  
+
+ 
+
+9. To improve natural resource management in the northern region of Zambia to support sustainable livelihoods, and 
+in the event of an eligible crisis or emergency, to provide immediate and effective response to the eligible crisis or 
+emergency. 
+
+ 
+10. The PDO will be achieved through activities under the following components: (a) Institutional Development and 
+
+Capacity Building for Landscape Restoration and Resilience, (b) Sustainable Landscape Management Practices, (c) 
+
+Infrastructure for Resilience and Market Access, and (d) Project Management, Coordination, and Monitoring. 
+
+Through these components, TRALARD will offer a selection of interrelated activities that can be tailored to the needs 
+
+of participating areas. The project also includes standard Contingency Emergency Response component. 
+
+ 
+Project beneficiaries and expected outcomes 
+
+ 
+
+11. Project beneficiaries include communities increasingly reliant on the exploitation of natural resources due to the 
+
+absence of alternative sources of livelihoods and energy, partially resulting from the lack of sound management and 
+
+planning. Rural communities, including women and children, will have an opportunity to take advantage of diversified 
+     
+
+selection of livelihood options based on prudent, environmentally sound natural resource management. Local 
+
+authorities will gain from strengthened institutions and policies and capacity to manage, plan, operate, and enforce 
+
+regulations to achieve both environmental improvement and poverty reduction. Rural and urban communities will 
+
+benefit from reliable and environmentally sound infrastructure that will improve market access and in a broader 
+
+context will promote the creation of new economic opportunities for the region. 
+
+ 
+
+Key Results (From PCN) 
+
+ 
+
+12. Project activities will be designed to advance and develop three dimensions of the resilience capacity of the 
+
+vulnerable communities: absorptive capacity, adaptive capacity, and transformative capacity. This approach will 
+
+facilitate measuring resilience at project level with Results Framework (RF) indicators being connected to these three 
+
+capacities. In addition, RF will include Predictive Proxy Indicators (PPI) to evaluate the effectiveness of forest related 
+
+interventions, as suggested in the Forest Action Plan2.  
+
+ 
+13. Key outcome indicators 
+
+ 
+
+1. Land area under sustainable landscape management practices (CRI) (ha) 
+
+2. Forest area brought under management plans (CRI) (ha) (intermediate) 
+
+3. Fisheries management plans implemented (CRI) (count of water bodies and/or area) 
+
+4. Diversified livelihoods activities adopted by households (count), of which households headed by women (percent) 
+
+5. Number of households using resilience infrastructure supported by the project (count) 
+
+6. Small scale farmers/producers with improved market access (count), of which households headed by women 
+
+(percent) 
+
+7. Protected Areas approved management plans (count) (intermediate) 
+
+ 
+
+Project level and intermediate indicators will be defined in the Project Appraisal Document. 
+
+ 
+
+D. Concept Description 
+
+ 
+
+14. In the 7th National Development Plan of Zambia for 2017-2021, the Government of Zambia recognizes the need to 
+
+implement measures to reduce poverty through harnessing the potential of Luapula, Muchinga and Northern 
+
+Province in agriculture, forestry, and tourism among other areas, and addressing the challenge of poor infrastructure. 
+
+ 
+
+15. Given the complexity of socio-economic, environmental and climate change induced challenges facing the NRZ, 
+
+TRALARD is proposed to bring the northern region to a new level of sustainable management of natural resources 
+
+with expanded options for non natural resource based livelihoods and improved market access. The implementation 
+
+of the program aims to trasform the region into a vibrant ecological and socio-economic system preserving the 
+
+environment, resilient to climate change consequences, and offering communities broader development 
+
+opportunities. 
+
+       
+
+16. TRALARD is focused on addressing the main drivers of environmental degradation, natural resource exploitation and 
+
+persistent poverty. The project aims to contribute to improving the sustainability of poor rural community livelihoods 
+
+in an environment already stressed by climate change impacts and rapid population growth. TRALARD will build on 
+
+the lessons learnt from the successful PPCR currently under implementation in Zambia. For example, PPCR has 
+
+worked with local structures and implementation partners to improve and mainstream climate risk into livelihood 
+
+option decisions, local development planning, and implementation capacity and has gained experience in conducting 
+
+microprojects in the intervention area. This experience informs the design of TRALARD.  
+
+ 
+
+17. The examination of economic realities during the fact-finding mission to the NRZ reveals closely interconnected and 
+
+mutually determined processes of natural resources degradation and deepening poverty. For example, declining fish 
+
+stock in Lake Tanganyika and other water bodies forced some fisherman to switch to charcoal burning as an 
+
+alternative source of income. While fish stock still continues to decline due to climate change impacts and increasing 
+
+consumption by the growing population, forests are under increased pressure from the population whose economic 
+
+options are severely limited and alternative sources of energy are absent. Unchecked access to natural resources and 
+
+the lack of enforcement to protect them by authorities invite their unsustainable expolitation. As a result, the poverty 
+
+level in the region is increasing while the natural resource base that those communities rely on is being destroyed.  
+
+ 
+
+18. Funding and implementation capacity constraints mean that not all 26 districts will participate in TRALARD in the first 
+
+phase. The selection criteria for districts that will be included in the first phase will include: (i) most vulnerable 
+
+districts based on assessment of poverty and vulnerability maps; (ii) proximity to protected areas; (iii) districts 
+
+bordering Lake Tanganyika; (iv) preparedness and commitment of districts and capacity of implementing 
+
+stakeholders. The number of districts will be determined during preparation.  
+
+ 
+
+19. TRALARD aims to improve value chains through greater community and private sector engagement, better market 
+
+information and priority infrastructure. Sustainable resource management requires that environmental benefits are 
+
+strongly linked to improved livelihoods and poverty reduction. The project design promotes greater community and 
+
+private sector participation in sustainable natural resources management as the most direct path to fostering this 
+
+linkage.  
+
+ 
+
+20. Contributing to the sustainability aspect of the project, TRALARD intends to facilitate establishing robust mechanisms 
+
+to monitor key environmental, climate and weather parameters, model longer-term challenges, including climate 
+
+change and population growth, and develop measures to address issues in a long-term perspective. 
+
+ 
+
+21. The project places emphasis on the adoption of advanced technologies in the natural resource management practices 
+
+and in the measurement, monitoring, and reporting of project impacts. The application of innovative and disruptive 
+
+technologies such as remote sensing, drones, mobile phone and online apps, biotech, water and energy saving 
+
+technologies, will be examined during the preparation stage.  
+
+ 
+22. The following areas of activities have been determined at the initial preparation stage of the project. These 
+
+components are defined with a view of (a), (b) tackling immediate tasks of reversing degradation through adaptation 
+
+and alternative livelihoods measures, and (c) improving infrastructure for resilience and facilitating creation of new 
+
+opportunities through more developed market access. 
+
+ 
+
+23. Component 1. Institutional Development and Capacity Building for Landscape Restoration and Resilience 
+
+(indicative amount US$8 million) 
+
+The aim of this component is to strengthen government institutions at the national, local and community level to 
+
+develop and implement new approaches for sustainable natural resource management This will be achieved by 
+
+reviewing and updating certain policies, providing better information, and improving the development planning and 
+
+budget process by mainstreaming climate risk and environmental considerations into development plans. This 
+
+component will finance policy and regulatory reviews, province, district and ward level development planning, 
+
+technical assistance (TA), workshops, and trainings.  
+
+ 
+
+1.1. Policy and Institutional strengthening and capacity building: This component will support the review of key 
+
+natural resource policies and regulations relating to the forestry and fisheries sector. It will support the 
+
+government to implement the Statutory Instrument NO 11 of 2018 which allows for community management 
+
+for forests. In addition, this component will support policy analysis on the options and alternatives for charcoal 
+
+production, enforcement, and government regulation to license charcoal production. The activities will also 
+
+help development and disseminate a manual on community participatory co-management; as well as the 
+
+establishment of effective interdepartmental structures to organize collaboration at the ecosystem level to 
+
+enhance integrated approaches to natural resource management and coordinated land use planning and 
+
+management. The outputs will focus on: integrated approaches for community mobilization, partnerships for 
+
+sustainable forest landscape restoration (FLR), and targeted studies, for example, on models, resource 
+
+mobilization for sustainable PA management. This will enhance the ability of the government to determine 
+
+sectors that hold greater promise to transform landscapes for resilience and development and scale up 
+
+interventions. 
+
+ 
+
+1.2.  Advance the beneficial use of hydro-meteorological information: The project will finance the improvement of 
+
+early warning systems and related institutional systems to improve the resilience of communities to climate 
+
+change impacts. This will include technical assistance to develop a long term strategic plan to strengthen the 
+
+institutions i.e. Zambia Meteorology Department (ZMD), Disaster Management and Mitigation unit(DMMU), 
+
+Water Resources Management Authority (WARMA) etc. responsible for delivering meteorological and 
+
+hydrological information, data management and forecasting systems. This sub-component will introduce the 
+
+concept of using hydro-met information for better decision making and delivery that information to local 
+
+governments and primary producers: (for water resources, landscape management, disaster management, 
+
+agriculture, environment, hydropower utilities, PAs.); (c) priority infrastructure rehabilitation identified in the 
+
+Hydromet Master Plan developed under the World Bank Water Resource project (including hydromet 
+
+infrastructure and related office refurbishment and equipment); and (d) community training, awareness 
+
+campaigns, knowledge on improved climate information use and disseminationto end-users nationaly, with 
+
+specific focus in the Chambeshi-Luapula catchment area. 
+
+24. Component 2. Sustainable Landscape Management Practices (indicative amount US$32.5 million) 
+
+The component aims to improve the livelihoods and resilience of rural communities by improving the management 
+
+of the rich natural resources base that rural communities are dependent upon through: (a) ecosystem based 
+
+integrated natural resource management planning; (b) improved management of protected areas and protection of 
+
+environmental services; and (c) diversification and increased sustainability of rural livelihoods.  
+
+ 
+
+2.1. Invesment in ecosystem based Integrated Natural Resource Management Planning (INRMP): This activity will 
+
+support the preparation and implementation of INRMP plans in the project targeted area. These plans will be 
+
+based on the assessment of the available natural resources and their conditions, as well as the sustainable 
+
+levels of production. The plans will be done in year one. They will be developed and implemented with the 
+
+involvement of relevant stakeholders, including communities, cooperatives, and local government, and will 
+
+be based on physical, ecological, and socio-economic baseline data. 
+
+ 
+
+2.2. Improved Management of Protected Areas (PA) and Reserves: This activity will support the effective and 
+
+sustainable development of the three PA systems in the northern region of Zambia – Lavushi Manda National 
+
+Park, Lusenga Plain National Park and Nsumbu National Park – to preserve the biodiversity and ecosystem 
+
+services for the well-being of people with focus on forest dependent communities and potenital to develop 
+
+tourism opportunities. This support will include: (1) preparation of protected areas management plans; (2) 
+
+capacity assessment of the staff and analysis of the financial resources required to fully protect the protected 
+
+areas; (3) priority park infrastructure such as staff offices and housing nearer to the park; (4) equipment 
+
+including vehicles, GPS, computers; disruptive technology for monitoring animal populations, poaching 
+
+activities; (5) training.  
+
+ 
+
+2.3 Strengthen opportunities for primary producers to transform their livelihoods into market based enterprises: 
+
+The main aim of the activity is to identify key challenges, risks and opportunities for transforming livelihoods 
+
+of producers into market based enterprises. The project will provide resources to conduct value chain studies 
+
+(including secondary sources of information) to identify key challenges to market entry and design 
+
+interventions to incentivize smallholder producers to initiate viable enterprises for increasing productivity, 
+
+incomes and resilience to climate change. This component will draw from the lessons learnt during the pilot 
+
+to support primary producers and small business operaters under the Zambia PPCR private sector approcah. 
+
+ 
+2.4. Sustainable livelihoods: Rural populations in the north are dependent on subsistence agriculture and fishing, 
+
+both of which have seen severe declines in productivity and have increased risk due to climate variablility. 
+
+This activity aims to: increase smallholder production and productivity of diversified value chains; reduce 
+
+farmers risk through insurance and prudent and informed risk taking strategies; improving access to markets; 
+
+and diversifying into alternative livelihoods that are non resource based enterprises. This will be done through 
+
+a program of support which encourages farmers to adopt conservation agriculture practices, promotes 
+
+savings, provides technologies to reduce post harvest loss, establishes rural aggregation centers and linkages 
+
+to buyers and advanced purchase contracts, and persue alternative livelihoods that are non natural resource 
+
+based businesses. The alternative livelihood activities will target women and youths to lifting up the socio-
+
+economic situation particularly of women who use natural resources with inferior financial value compared 
+
+
+to men. The roster of alternative livelihoods will include increased rearing of livestock, agroforestry, 
+
+agroprocessing, aqua culture, fingerlings production, fish processing, feed making for fisheries, bee keeping, 
+
+caterpillars and mushrooms production, and other service industries such as tailoring, hair dressing etc.  
+
+ 
+
+25. Component 3: Infrastructure for Resilience and Market Access (indicative amount US$27 million IDA) 
+
+Activities under this component aim at supporting and improving NRZ infrastructure in vulnerable areas that suffers 
+
+from the lack of investments and is additionally adversely impacted by climatic changes. Such impacts include drastic 
+
+changes in rain patterns resulting in floods and droughts, shortages in water, changes in wind patterns, lack of 
+
+passable roads and damaged bridges leaving entire communities cut off from the basic services and goods during 
+
+floods where durations are becoming extended. This increases the likelihood of lack of water and nutrition, diseases, 
+
+livestock loss etc. In addition, this component will help identify ways to improve market access for primary producers 
+
+who often lack opportunities and/or knowledge on the ways to make their produce accessible to the market. 
+
+ 
+
+3.1.  Investments in resilience strengthening infrastructure: identify in concert with stakeholders the most sensitive 
+
+pieces of small-scale infrastructure in the most vulnerable areas that require prompt investments. 
+
+Infrastructure is the backbone of well-being and safety of people and its reliability and even presence in such 
+
+poorly serviced regions is central to communities’ resilience. Potentially, they include (a) feeder roads, 
+
+bridges, culverts, (b) water harvesting structures (check and sand dams, earthen bunds, solar-powered 
+
+irrigation), and (c) traditional and alternative energy sources.  
+
+ 
+
+3.2. Examining opportunities for restoration of traditional canals: conduct feasibility study on possible restoration 
+
+of traditional canals in the North. Traditional canals in Zambia play multiple roles: transportation, water body, 
+
+fish harvesting, and traditional ceremonies. The canals in the North are in a state of disrepair after decades of 
+
+no investment or maintenance, yet their potential for transportation and commerce remains high. This sub-
+
+component will draw from the experience acquired from similar successful operations under the PPCR in the 
+
+Barotse sub-region.  
+
+ 
+3.3. Facilitated access to markets: determine ways and forms to support producers in establishing access to 
+
+markets. Jointly with stakeholders, including producers, authorities, private companies and consumers, the 
+
+project will examine constraints and bottlenecks in establishing connection between products and markets 
+
+and suggest measures to address them. It is not an uncommon situation when farmers’ produce – mangos, 
+
+oranges – goes to waste because farmers have no ability to deliver their products to potential consumers. This 
+
+inability undermines income and negatively affects resilience of producers.  
+
+ 
+
+26. Component 4: Contingency Emergency Response Component (CERC) (Standardized)  
+
+This contingency component can be triggered by a joint Government and World Bank agreement in case of an 
+
+emergency. This component had been embedded in the project to finance early recovery and/or specific emergency 
+
+works, goods, and services, in case of eligible emergencies/crises/disaster caused by natural or man-made hazard 
+
+including public health crisis. The mechanism is designed to support enhancement of preparedness, early recovery 
+
+activities, and provision of rapid response to disaster that can be implemented in a relatively short period. This 
+
+component was considered necessary because of the inherent in Zambia’s current socioeconomic and climate related 
+hazards (unexpected flooding or drought, an aggravation of the state of fragility, as a result of influx of large groups 
+
+of displaced people ( cross boarder and internal displacements) could potentially shift priorities. Reallocation of funds 
+
+to CERC can only be done when there is a serious disruption of the functioning of a community or society causing 
+
+widespread human, economic, or environmental losses that exceed the ability of the affected community or society 
+
+to cope using its own resources. Following such a disaster event where both the region and national resources cannot 
+
+sufficiently and adequately address the situation, the Government of the Republic of Zambia (GRZ) may trigger 
+
+activation of CERC according to national law and subject to the World Bank’s activation policy.  
+
+ 
+
+27. Component 5: Project Management, Coordination, and Monitoring (US$7.5 million IDA) 
+
+This component will finance TA, works, goods, workshops, and operational costs to support the project’s day-to-day 
+
+implementation and management, including procurement, FM, environmental and social safeguards, and 
+
+preparation of annual work plans and organization of audit reports. The component also includes the design and 
+
+implementation of a communication strategy to report on the project results and to raise awareness about land 
+
+degradation, restoration and climate change impacts, vulnerability, and adaptation. It also supports the M&E system 
+
+to report on the expected project’s results (disaggregating by gender, where appropriate) and systematizes the 
+
+project’s lessons learned. The component also finances impact evaluation to assess project’s impacts on specific 
+
+elements such as adopted livelihoods.  
+
+  
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The project covers the Northern region of Zambia (NRZ), which includes Luapula, Northern, and Muchinga provinces. This 
+
+area has vast coverage of pristine Miombo forest, four national parks, four lakes, water falls and many rivers. They lie in 
+the third agro ecological zone with the annual rainfall of about 1200 mm. NRZ encompasses over 35% of managed lands 
+which contribute to protecting and maintaining large intact natural landscapes. The region is endowed with natural 
+resources that include rich biodiversity and half of the wetlands of international importance listed under the Ramsar 
+Convention. These wetlands contain habitats for several important fauna and flora species, are a natural flood controller 
+and important for groundwater recharge. The natural resources in the area also represent a life-line for rural economies 
+and daily subsistence.  
+ 
+The provinces are home to over 3.5 million people with record high levels of poverty 81% (Luapula), 79% (Northern) and 
+
+69% (Muchinga). The main economic stay for the people of this area is agriculture due to the availability of arable land, 
+abundant water bodies and good annual rainfall. The area has experienced vulnerabilities due to climate variability and 
+human related activities posing a challenge to conserving natural resources. Factors contributing to vulnerabilities include 
+forest lands under threat from human encroachment for settlement and growing food insecurities due to population 
+growth. Increased mining activities result in growing demand for energy met through heightened production of charcoal 
+and logging. An estimated 16,000,000 hectares out of 21,423,600 hectares total land (75%) is under threat of degradation 
+from these activities.. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+The PPCR PIU under Ministry of National Planning and Development has implemented and monitored safeguard 
+compliance in accordance with Bank policies. The project performance has been rated satisfactory, while the risk has 
+been moderate. The PIU has a dedicated Safeguard Specialist who is supported by Community Adaptation Specialists in 
+each district. The PIU has gained substantial experience with Bank funded projects through their active participation in 
+the design and preparation of the Forest Investment Project, Displaced Person's and Border Communities, and the 
+Zambia Integrated Forest Landscape Project (ZIFLP). The PIU played a pivotal role in setting up the ZIFLP PIU which is now 
+operational. 
+  
+Given the PIU's involvement in design, preparation and implementation of climate resilient projects, the PIU is being 
+
+transformed into a national coordinating unit that will assume a supervisory role in monitoring implementation of the 
+TRALARD project at the national level.To fulfill  this new role, more experts (including Environmental and Social) will be 
+recruited to strengthen their capacity to manage environmental and social risks.  
+ 
+For the implementation of the TRALARD project, three PIUs will be established at provincial level (i.e. one for each target 
+
+province). The staffing structure will include Environmental and Social experts as key personnel. These will collaborate 
+with District officials that will be assigned to the project. Working through existing district structures will enhance project 
+ownership and contribute to sustaining project investment. However, this being the initial engagement with Provincial 
+and District counterparts in the 3 provinces, a capacity assessment will be undertaken as part of project preparation. 
+Results on the assessment will feed into the a capacity building plan that will be developed for the project. 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Tito Joel Kodiaga, Environmental Safeguards Specialist 
+Njavwa Namposya Chilufya, Social Safeguards Specialist 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The  policy on environmental assessment has been 
+triggered as the proposed  TRALARD project will 
+involve infrastructural works. The  infrastructural 
+works are envisaged to be undertaken under 
+component  2 and 3 of the project. Component 2: of 
+the project will involve the promotion of sustainable 
+landscape management practices and this will 
+incorporate the improved management of protected 
+areas  and reserves. Lavushi Manda , Lusenga Plain 
+and Nsumbu National Parks and their buffer Game 
+Management Areas (GMA's) have been identified as 
+potential beneficiary parks. The project will support 
+the construction and rehabilitation of  infrastructure 
+such as, park structures, staff offices and their housing 
+in the vicinity  of the parks. Component 3: of the 
+project will involve the investment in infrastructure for 
+resilience and market access. Investments will focus 
+on the  sensitive pieces of small-scale infrastructure in 
+the most vulnerable areas that require urgent 
+
+
+attention. These will include  the periodic 
+maintenance of  feeder roads (existing dirt or gravel 
+roads) and support structures such as small access 
+bridges and placement of culvert,  water harvesting 
+structures (check and sand dams, earthen bunds, 
+solar-powered irrigation), and the restoration of 
+existing traditional canals.  
+ 
+Since the project is at concept stage,  the scope and 
+beneficiary areas have not yet been fully defined, an 
+ESMF and  associated RPF is currently under 
+preparation to assess potential safeguards 
+risks/impacts associated with project activities and 
+subprojects.In addition, line with the Bank's guidance 
+on Contingent Emergency Response 
+Components(CERC); Component 4 (CERC): This 
+Component requires that the ESMF includes specific 
+section (or a CERC-specific ESMF) describing the 
+potential emergencies and the types of activities likely 
+to be financed, and provide a preliminary evaluation 
+of potential risks and mitigation measures associated 
+with them. The ESMF will ensure to include a section 
+addressing the CERC guideline. Once finalized, ESMF 
+will be formally cleared by the Bank and disclosed at 
+national level and on the Bank’s website.   
+ 
+ 
+Furthermore, a Strategic Environmental and Social 
+Assessment (SESA) covering 4 out of 10 provinces was 
+conducted under a similar project,  PPCR in 2013. 
+Since the  proposed TRALARD beneficiary areas were 
+excluded in the initial assessment. The SESA will be 
+updated to include Northern, Luapula and Muchinga 
+provinces. For the benefit of future project, expanding 
+the scope to cover the entire country will be 
+considered. It is anticipated that TRALARD project will 
+benefit from the findings of the SESA which will be 
+incorporated in the development of INRM Plans and 
+PA Management Plan.  
+ 
+ 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 Yes 
+The policy on natural habitat has been triggered as the 
+project will be implemented in ecologically sensitive 
+
+areas and  habitats such as wetlands and national 
+parks. 
+
+Forests OP/BP 4.36 Yes 
+
+The Bank policy on forest has been triggered as the 
+TRALARD will involve afforestation activities to 
+improve forest health.  The project will provide 
+incentives to communities in beneficiary areas to 
+protect vegetation cover in  the existing  forests and  
+regenerate deforested areas 
+
+Pest Management OP 4.09 Yes 
+
+The policy on pest management has been triggered as 
+the project will involve livelihood activities that may 
+directly or indirectly support the use of pesticides. A 
+Pest Management Plan (PMP) will be included in the 
+ESMF. 
+ 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+The policy on physical culture resources has been 
+precautionary triggered as the project will be 
+implemented across three provinces and the works 
+may unearth artefacts of cultural and heritage value. A 
+chance find procedure will be included in the ESMF to 
+guide, should a chance find occur. It will further layout 
+the process for notifying the National Heritage 
+Conservation Commission (NHCC) in case of an 
+occurrence.  
+ 
+
+Indigenous Peoples OP/BP 4.10 No 
+
+The policy on Indigenous Peoples has not been 
+triggered as the project will be implemented in 
+Luapula, Northern and Muchinga Provinces where 
+there is no presence of Indigenous Peoples as defined 
+by Bank Policy. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+Policy on Involuntary Resettlement has been 
+triggered. This will apply to selected project activities 
+which may result in land acquisition for the 
+establishment of priority infrastructure to support 
+local tourist operators. A RPF will be prepared in 
+consultation with key stakeholders. The RPF will guide 
+preparation of the RAP to address physical and 
+economic impacts that may arise from project 
+implementation. 
+Luapula, Muchinga and Northern provinces are 
+endowed with forests and national parks where 
+communities derive natural resources for livelihood 
+activities. Possible restrictions to natural resources 
+arising from project implementation will be managed 
+through preparation of a Process Framework. 
+
+Safety of Dams OP/BP 4.37 Yes 
+The policy on dam safety has been triggered as the 
+project will  support the construction of small water 
+
+
+harvesting structures such as check and sand dams 
+and earthen bunds. These will be small dams as 
+defined by Bank policy and a generic safety guidelines 
+for small dams will be incorporated in the ESMF.  
+ 
+In compliance with the requirements of the policy, 
+generic dam safety measures designed by qualified 
+engineers will be included in the design and 
+implementation/rehabilitation of small dams; with 
+respective requirements outlined in the ESMF.”. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+The policy has been triggered as it will be 
+implemented in a catchment area that feeds into the 
+Luapula River which falls within an international 
+waterway. This will require the notification of riparian 
+states in which the waterways falls. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The policy has not been triggered as it will not be 
+implemented in any disputed area as defined  by Bank 
+policy. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Oct 01, 2018 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+Studies launched September 30, 2017. Draft ESMF is currently being finalized. An RPF and PF are under preparation as 
+
+part of the safeguards requirement. 
+ 
+ 

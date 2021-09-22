@@ -44,6 +44,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 World Bank Document
 
 
@@ -116,116 +125,6 @@ Integrated Safeguards Data Sheet (PID/ISDS)
 
 Concept Stage | Date Prepared/Updated: 11-May-2017 | Report No: PIDISDSC20468 
 
-P
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 2 of 19  
-
-     
-
 BASIC INFORMATION 
 
  
@@ -295,20 +194,6 @@ Note to Task Teams: End of system generated content, document is editable from h
 
 
 
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 3 of 19  
-
-     
-
-Other Decision (as needed) 
- 
  
  
 B. Introduction and Context 
@@ -444,40 +329,6 @@ to be in the range of 1 to 8 percent of GDP
 
                                             
 4
- Its Executive summary is available at: http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-
-
-Comunicacion-Nacional.pdf  
-5
- Caprioli (2010): Extreme Hydrologic Events in North Area of Buenos Aires Province (Argentina)  
-
-6
-  ‘Staying afloat: Flood Risk in Argentina’, Swiss-Re, 2016, 
-
-http://media.swissre.com/documents/Swiss_Re_Argentina_Flood_Risk_Publ_long.PDF.  
-7
- Country Environmental Analysis: https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-
-
-ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y  
-
-http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-Comunicacion-Nacional.pdf
-http://ambiente.gob.ar/wp-content/uploads/3Com.-Resumen-Ejecutivo-de-la-Tercera-Comunicacion-Nacional.pdf
-http://media.swissre.com/documents/Swiss_Re_Argentina_Flood_Risk_Publ_long.PDF
-https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y
-https://openknowledge.worldbank.org/bitstream/handle/10986/25775/109527-ENGLISH-PUBLIC-ARG-CEA-Country-Environmental-Analysis-English.pdf?sequence=1&isAllowed=y
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 5 of 19  
-
-     
-
 product diversification equivalents fell from 2.1 to 1.7 from 1995 to 2009. Going forward, a key role for public policy will 
 be to enable a conducive business environment (both for investments and cost competitiveness) as the private sector 
 shifts gears from extensive to intensive production systems, and promote diversification towards higher price and value 
@@ -526,30 +377,7 @@ it concentrates the main industrial (including agroindustrial) investments of th
 2000, for example, approximately 1.85 million hectares (4.5% of total cultivated area) were flooded due to extreme 
 rainfall.  Losses to the sector amounted to US$187 million.  In 2001, a similar area was affected, producing losses of up 
 
-                                            
-8
- Agriculture Risk Management Policy Note for Argentina, World Bank, 2016. 
-
-9
- By extreme we refer to deviations in yields of more than one standard deviation. 
-
-10
- EM-DAT, 2016. 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 6 of 19  
-
-     
-
+           
 to 70 percent of pastureland, a 15 percent drop in milk production, and between 50 and 60 percent drop in maize and 
 wheat production, respectively
 
@@ -630,19 +458,6 @@ areas: “Reducing exposure to extreme flooding in the Province of Buenos Aires�
 (Report No. 11546-AR). 
 
 
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 7 of 19  
-
-     
-
 forest cover in the Chaco Eco Region” through the development of an agriculture and climate change information 
 system that facilitates producers’ access to climate-related data.  
 
@@ -705,25 +520,7 @@ http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector
 for-practitioners  
 18
 
- World Bank, Argentina, Cambio climático proyectado y su impacto en la agricultura 2050-2100, Policy Note, 2016. 
-
-http://ambiente.gob.ar/tercera-comunicacion-nacional/
-http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector-risk-assessment-methodological-guidance-for-practitioners
-http://documents.worldbank.org/curated/en/586561467994685817/Agricultural-sector-risk-assessment-methodological-guidance-for-practitioners
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 8 of 19  
-
-     
-
+ World Bank, Argentina, Cambio climático proyectado y su impacto en la agricultura 2050-2100, Policy Not
 C. Proposed Development Objective(s)  
  
 
@@ -794,19 +591,6 @@ Note to Task Teams: The PDO has been pre-populated from the datasheet for the fi
 Please keep it up to date whenever it is changed in the datasheet. 
 
  
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 9 of 19  
-
      
 
 23. Indirect beneficiaries. Contractors (firms and employees) who provide services to farmers and whose income 
@@ -844,20 +628,6 @@ agriculture risks at the farm level, addressing different agriculture risk layer
 information and commodity prices for agriculture risk management purposes, there remain important limitations – 
 technical and financial – that hinder sustained cooperation among government institutions, and the use of data by the 
 private sector and the public. For instance and despite the existence of cooperation agreements among institutions that 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 10 of 19  
-
-     
 
 generate data, heterogeneity of IT infrastructure and information systems still impedes coordination and cooperation. 
 These constraints make it difficult to carry out risk monitoring and risk analyses in a timely manner. 
@@ -926,22 +696,6 @@ Argentina Adaptation Fund: Increasing Climate Resilience & Enhancing Sustainable
 Buenos Aires Province (P125804) and coordinated between National Agriculture Technology Institute (INTA) and the National 
 Meteorological Service (SMN). 
 
-http://www.siogranos.com.ar/
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 11 of 19  
-
-     
-
- 
  
 29. Subcomponent 1.2. Institutional Capacity Development. This subcomponent aims at building the capacity of 
 selected national and provincial government institutions for the operation of the supported information systems.  It 
@@ -1064,19 +818,6 @@ technical assistance for their validation and adoption; and
 
 c. Payment of premiums and related costs of agriculture risk financing instruments to be piloted under the 
 framework of the system of agricultural emergency, on the basis of national and/or provincial demands. 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 13 of 19  
-
      
 
 38. The component may also include support for the design of instruments for price risk transfer for agricultural 
@@ -1135,21 +876,6 @@ C. Environmental and Social Safeguards Specialists on the Team
 Lilian Pedersen, Tuuli Johanna Bernardini, Claudio Luis Daniele, German Nicolas Freire 
 
 Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 14 of 19  
-
-     
 
  
 D. Policies that might apply 
@@ -1204,19 +930,6 @@ infrastructure and services. The ESMF will reference
 the relevant sections of the World Bank Group General 
 
 
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 15 of 19  
-
-     
-
 Environmental, Health and Safety (EHS) Guidelines e.g. 
 on annual crop production, perennial crops and 
 related water consumption and management. 
@@ -1269,18 +982,6 @@ value chain. As component 2 will promote
 diversification of agricultural production and finance 
 climate-smart technologies (e.g. agroforestry systems 
 and agro-silvo-pastoral models), the project is 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 16 of 19  
 
      
 
@@ -1339,20 +1040,6 @@ agriculture. As part of the preparation of the social
 assessment, UCAR will prepare an Indigenous Peoples 
 Planning Framework (IPPF) to ensure that: (i) 
 indigenous peoples' groups are afforded opportunities 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 17 of 19  
-
-     
 
 to participate in planning of project activities that 
 affects them; (ii) opportunities to provide such groups 
@@ -1454,100 +1141,5 @@ well as the mechanisms to be used for project related consultations and grievanc
 project preparation proceeds. 
  
  
- 
-
-CONTACT POINT 
-
- 
-
-World Bank 
-
-David Tuchschneider, Diego Arias Carballo 
-
-Senior Rural Development Specialist 
- 
-
- 
-
-Borrower/Client/Recipient 
- 
-
-Argentine Republic, Ministry of Finance 
-
- 
-
- 
-
- 
- 
-
- 
-
-Implementing Agencies 
- 
-
-Ministry of Agroindustry 
-
-Alejandro Gennari 
-
-Director of UCAR 
-
-agennari@ucar.gob.ar 
- 
- 
-
-
-
- 
-The World Bank  
-Integrated Management of Agricultural Risk (P162316) 
-
- 
- 
-
-  
-Apr 02, 2017 Page 19 of 19  
-
-     
-
-FOR MORE INFORMATION CONTACT 
-
-The World Bank 
-
-1818 H Street, NW 
-
-Washington, D.C. 20433 
-
-Telephone: (202) 473-1000 
-
-Web: http://www.worldbank.org/projects  
-
- 
-
- 
-
-APPROVAL 
-
-Task Team Leader(s): David Tuchschneider, Diego Arias Carballo 
- 
-
-  Approved By 
-APPROVALTBL 
-
-Practice Manager/Manager: Garry Charlier 30-Apr-2017 
-
-Country Director: Renato Nardello 12-May-2017 
-    
-
- 
- 
-
- 
- 
- 
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-http://www.worldbank.org/projects
 
 

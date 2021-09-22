@@ -5,8 +5,6 @@ WB87	1	3	1	CARDINAL
 WB87	1	4	15	CARDINAL
 WB87	1	5	PID	ORG
 WB87	1	6	15-Sep-2018 | Report	TIME
-WB87	1	7	2	CARDINAL
-WB87	1	8	15	CARDINAL
 WB87	2	1	Basic Program Data OPS TABLE Country Project ID Parent Project ID	ORG
 WB87	2	2	P164967 Groundnut Competitiveness	PERSON
 WB87	2	3	IPF	ORG
@@ -19,12 +17,8 @@ WB87	4	3	225.00	CARDINAL
 WB87	4	4	225.00	CARDINAL
 WB87	4	5	Total World Bank Group	ORG
 WB87	4	6	150.00	CARDINAL
-WB87	4	7	World Bank	ORG
-WB87	4	8	150.00	CARDINAL
-WB87	4	9	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	4	10	3	CARDINAL
-WB87	4	11	15	CARDINAL
-WB87	4	12	75.00	CARDINAL
+WB87	4	7	World Bank Lending 150.00 Total Government	ORG
+WB87	4	8	75.00	CARDINAL
 WB87	6	1	decades	DATE
 WB87	6	2	Senegal	PERSON
 WB87	6	3	Sub-Saharan Africa	GPE
@@ -83,9 +77,6 @@ WB87	25	2	years	DATE
 WB87	25	3	2015	DATE
 WB87	25	4	2016	DATE
 WB87	27	1	more than a decade	DATE
-WB87	27	2	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	27	3	4	CARDINAL
-WB87	27	4	15	CARDINAL
 WB87	29	1	5	CARDINAL
 WB87	30	1	the Groundnut Basin	LOC
 WB87	31	1	2011	DATE
@@ -130,9 +121,6 @@ WB87	49	2	one	CARDINAL
 WB87	49	3	West Africa	GPE
 WB87	51	1	PSE	ORG
 WB87	53	1	1	CARDINAL
-WB87	54	1	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	54	2	5	CARDINAL
-WB87	54	3	15	CARDINAL
 WB87	55	1	8	CARDINAL
 WB87	56	1	Senegalese	NORP
 WB87	57	1	3.2 percent	PERCENT
@@ -169,18 +157,15 @@ WB87	80	4	between 1960 and 2006	DATE
 WB87	80	5	500 mm	QUANTITY
 WB87	80	6	about 100 kilometers	QUANTITY
 WB87	80	7	annual	DATE
-WB87	80	8	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	80	9	6	CARDINAL
-WB87	80	10	15	CARDINAL
-WB87	80	11	the early 1960s	DATE
-WB87	80	12	the early 1980s	DATE
-WB87	80	13	very recent years	DATE
-WB87	80	14	2000-2006	DATE
-WB87	80	15	annual	DATE
-WB87	80	16	0.9	CARDINAL
-WB87	80	17	°	PRODUCT
-WB87	80	18	1960	DATE
-WB87	80	19	0.20	CARDINAL
+WB87	80	8	the early 1960s	DATE
+WB87	80	9	the early 1980s	DATE
+WB87	80	10	very recent years	DATE
+WB87	80	11	2000-2006	DATE
+WB87	80	12	annual	DATE
+WB87	80	13	0.9	CARDINAL
+WB87	80	14	°	PRODUCT
+WB87	80	15	1960	DATE
+WB87	80	16	0.20	CARDINAL
 WB87	81	1	annual	DATE
 WB87	81	2	1.1 to 3.1	CARDINAL
 WB87	81	3	the 2060s	DATE
@@ -228,274 +213,232 @@ WB87	101	3	13%	PERCENT
 WB87	101	4	around 50%	PERCENT
 WB87	101	5	Senegal Groundnut Competitiveness Report	PERSON
 WB87	101	6	2017	DATE
-WB87	102	1	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	102	2	7	CARDINAL
-WB87	102	3	15	CARDINAL
-WB87	104	1	Asian	NORP
-WB87	106	1	15	CARDINAL
-WB87	114	1	Economic Interest Group	ORG
-WB87	114	2	EIG	ORG
-WB87	117	1	16	CARDINAL
-WB87	118	1	2010-2035	DATE
-WB87	118	2	Agriculture Chapters	ORG
-WB87	118	3	the Accelerated Agricultural Growth Program-	ORG
-WB87	118	4	the National Livestock Development Plan- PNDE7	ORG
+WB87	103	1	Asian	NORP
+WB87	105	1	15	CARDINAL
+WB87	113	1	Economic Interest Group	ORG
+WB87	113	2	EIG	ORG
+WB87	116	1	16	CARDINAL
+WB87	117	1	2010-2035	DATE
+WB87	117	2	Agriculture Chapters	ORG
+WB87	117	3	the Accelerated Agricultural Growth Program-	ORG
+WB87	117	4	the National Livestock Development Plan- PNDE7	ORG
+WB87	118	1	PSE	ORG
 WB87	119	1	PSE	ORG
-WB87	120	1	PSE	ORG
-WB87	123	1	17	CARDINAL
-WB87	124	1	first	ORDINAL
-WB87	124	2	2014-2017	DATE
-WB87	125	1	Government	ORG
-WB87	125	2	PRACAS	ORG
-WB87	125	3	2016	DATE
-WB87	125	4	55,000 metric tons	QUANTITY
-WB87	125	5	40,000	CARDINAL
-WB87	125	6	1,050,000 metric tons	QUANTITY
-WB87	125	7	1,000,000	CARDINAL
-WB87	125	8	2017	DATE
-WB87	126	1	3	CARDINAL
-WB87	126	2	Deborah Robin	PERSON
-WB87	126	3	Oumoul Khairy Niang-Mbodj	PERSON
-WB87	126	4	Senegal Gender Assessment	PERSON
-WB87	127	1	2010 4	DATE
-WB87	127	2	The World Bank	ORG
-WB87	128	1	Senegal Strategic Country Diagnostic	ORG
-WB87	128	2	January 2018 5	DATE
-WB87	128	3	World Food Program	ORG
-WB87	129	1	Agricultural Organizations	ORG
-WB87	129	2	Senegal	GPE
-WB87	130	1	VAM Gender & Markets Study	ORG
-WB87	130	2	6	MONEY
-WB87	131	1	WFP	ORG
-WB87	131	2	USAID	GPE
-WB87	131	3	2016-2017	DATE
-WB87	132	1	6 Programme	PERCENT
-WB87	132	2	first	ORDINAL
-WB87	132	3	2014-2017	DATE
-WB87	132	4	second	ORDINAL
-WB87	133	1	7	CARDINAL
-WB87	133	2	Senegal Ministère de l’Elevage	PERSON
-WB87	133	3	Ressources Animales - Programme National de Développement de l’Elevage	ORG
-WB87	133	4	PNDE	ORG
-WB87	133	5	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	133	6	8	CARDINAL
-WB87	133	7	15	CARDINAL
-WB87	136	1	18	CARDINAL
-WB87	137	1	the Groundnut Basin	LOC
-WB87	137	2	GNB	ORG
-WB87	138	1	2014	DATE
-WB87	144	1	19	CARDINAL
-WB87	145	1	Program	ORG
-WB87	145	2	the Groundnut Basin	LOC
-WB87	146	1	Senegal	PERSON
-WB87	146	2	60%	PERCENT
-WB87	146	3	200%	PERCENT
-WB87	146	4	China	GPE
-WB87	148	1	bush	PERSON
-WB87	148	2	the West Africa	LOC
-WB87	149	1	The World Bank Group’s Strategic Country Diagnostic	ORG
-WB87	149	2	SCD	ORG
-WB87	149	3	Senegal	PERSON
-WB87	149	4	four	CARDINAL
-WB87	149	5	three	CARDINAL
-WB87	149	6	two	CARDINAL
-WB87	150	1	SCD	ORG
-WB87	150	2	three	CARDINAL
-WB87	150	3	Senegal	GPE
-WB87	151	1	Boosting Senegal’s	PERSON
-WB87	152	1	• Enhancing Equity	PERSON
-WB87	152	2	Resilience	PERSON
-WB87	153	1	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	153	2	9	CARDINAL
-WB87	153	3	15	CARDINAL
-WB87	153	4	Natural Resources	ORG
-WB87	153	5	years	DATE
-WB87	154	1	21	CARDINAL
-WB87	155	1	three	CARDINAL
-WB87	155	2	SCD	ORG
-WB87	155	3	the World Bank Groups’	ORG
-WB87	155	4	Enhancing Equity and Resilience	WORK_OF_ART
-WB87	156	1	the Country Partnership Framework	ORG
-WB87	157	1	Program	ORG
-WB87	158	1	C. Program Development Objective(s	ORG
-WB87	158	2	22	DATE
-WB87	159	1	the Groundnut Basin	LOC
-WB87	160	1	23	CARDINAL
-WB87	161	1	Program	ORG
-WB87	163	1	D. Program Description PforR Program Boundary 1	ORG
-WB87	164	1	24	CARDINAL
-WB87	165	1	Government	ORG
-WB87	165	2	LPDSA	ORG
-WB87	166	1	four	CARDINAL
-WB87	166	2	five	CARDINAL
-WB87	166	3	15	CARDINAL
-WB87	169	1	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	169	2	10	CARDINAL
-WB87	169	3	15	CARDINAL
-WB87	169	4	2	CARDINAL
-WB87	170	1	25	CARDINAL
-WB87	171	1	Program	ORG
-WB87	171	2	the Groundnut Basin	LOC
-WB87	171	3	PSE	ORG
-WB87	172	1	GoS	GPE
-WB87	172	2	Program	ORG
-WB87	172	3	the Groundnut Basin	LOC
-WB87	173	1	Program	ORG
-WB87	173	2	Senegal	PERSON
-WB87	174	1	26	CARDINAL
-WB87	175	1	Program	ORG
-WB87	176	1	Two	CARDINAL
-WB87	177	1	27	CARDINAL
-WB87	178	1	sector8	PRODUCT
-WB87	178	2	Program	ORG
-WB87	179	1	Program	ORG
-WB87	179	2	GoS	GPE
-WB87	181	1	28	CARDINAL
-WB87	182	1	Groundnut Basin	PERSON
-WB87	182	2	Program	ORG
-WB87	182	3	Co-Benefits	PERSON
-WB87	185	1	Program	ORG
-WB87	185	2	Co-Benefits	PERSON
-WB87	185	3	GHG	ORG
-WB87	187	1	29	CARDINAL
-WB87	188	1	Program	ORG
-WB87	188	2	three	CARDINAL
-WB87	190	1	30	CARDINAL
-WB87	191	1	1	CARDINAL
-WB87	192	1	Program	ORG
-WB87	192	2	Program	ORG
-WB87	193	1	the Groundnut Basin	LOC
-WB87	194	1	Program	ORG
-WB87	195	1	the Ministry of Agriculture 8	ORG
-WB87	195	2	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	195	3	11	CARDINAL
-WB87	195	4	15	CARDINAL
-WB87	195	5	Rural Equipment	ORG
-WB87	195	6	MAER	ORG
-WB87	195	7	the Ministry of Livestock and Animal Resources	ORG
-WB87	195	8	the Ministry of Water	ORG
-WB87	195	9	the Groundnut Basin	LOC
-WB87	196	1	the Groundnut Basin	LOC
-WB87	197	1	Program	ORG
-WB87	197	2	the Groundnut Basin	LOC
-WB87	199	1	Program	ORG
-WB87	200	1	the Groundnut Basin	LOC
-WB87	200	2	all year long	DATE
-WB87	202	1	the Groundnut Basin	LOC
-WB87	202	2	MAER	ORG
-WB87	202	3	MERA	ORG
-WB87	202	4	Program	ORG
-WB87	202	5	Program	ORG
-WB87	206	1	Program	ORG
-WB87	206	2	Senegal	GPE
-WB87	206	3	West Africa	GPE
-WB87	206	4	the West Africa Productivity Program	ORG
-WB87	206	5	WAAPP	ORG
-WB87	207	1	The national agronomic research institute	ORG
-WB87	208	1	MAER	ORG
-WB87	208	2	Division of Seed	ORG
-WB87	209	1	Insuring	GPE
-WB87	210	1	Program	ORG
-WB87	210	2	scheme9	PRODUCT
-WB87	212	1	Program	ORG
-WB87	212	2	World Bank Social Protection	ORG
-WB87	212	3	the Groundnut Basin	LOC
-WB87	213	1	31	CARDINAL
-WB87	214	1	2	CARDINAL
-WB87	216	1	9	CARDINAL
-WB87	216	2	Senegal	GPE
-WB87	216	3	WBG	ORG
-WB87	216	4	2009	DATE
-WB87	217	1	The World Bank : Index-based Crop Insurance in Senegal – Promoting Access of Agricultural Insurance for Small Farmers	WORK_OF_ART
-WB87	218	1	Sustainable Department-Africa Region	ORG
-WB87	218	2	March 2009	DATE
-WB87	218	3	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	218	4	12	CARDINAL
-WB87	218	5	15	CARDINAL
+WB87	122	1	17	CARDINAL
+WB87	123	1	first	ORDINAL
+WB87	123	2	2014-2017	DATE
+WB87	124	1	Government	ORG
+WB87	124	2	PRACAS	ORG
+WB87	124	3	2016	DATE
+WB87	124	4	55,000 metric tons	QUANTITY
+WB87	124	5	40,000	CARDINAL
+WB87	124	6	1,050,000 metric tons	QUANTITY
+WB87	124	7	1,000,000	CARDINAL
+WB87	124	8	2017	DATE
+WB87	125	1	3	CARDINAL
+WB87	125	2	Deborah Robin	PERSON
+WB87	125	3	Oumoul Khairy Niang-Mbodj	PERSON
+WB87	125	4	Senegal Gender Assessment	PERSON
+WB87	126	1	2010 4	DATE
+WB87	126	2	The World Bank	ORG
+WB87	127	1	Senegal Strategic Country Diagnostic	ORG
+WB87	127	2	January 2018 5	DATE
+WB87	127	3	World Food Program	ORG
+WB87	128	1	Agricultural Organizations	ORG
+WB87	128	2	Senegal	GPE
+WB87	129	1	VAM Gender & Markets Study	ORG
+WB87	129	2	6	MONEY
+WB87	130	1	WFP	ORG
+WB87	130	2	USAID	GPE
+WB87	130	3	2016-2017	DATE
+WB87	131	1	6 Programme	PERCENT
+WB87	131	2	first	ORDINAL
+WB87	131	3	2014-2017	DATE
+WB87	131	4	second	ORDINAL
+WB87	132	1	7	CARDINAL
+WB87	132	2	Senegal Ministère de l’Elevage	PERSON
+WB87	132	3	Ressources Animales - Programme National de Développement de l’Elevage	ORG
+WB87	132	4	PNDE	ORG
+WB87	135	1	18	CARDINAL
+WB87	136	1	the Groundnut Basin	LOC
+WB87	136	2	GNB	ORG
+WB87	137	1	2014	DATE
+WB87	143	1	19	CARDINAL
+WB87	144	1	Program	ORG
+WB87	144	2	the Groundnut Basin	LOC
+WB87	145	1	Senegal	PERSON
+WB87	145	2	60%	PERCENT
+WB87	145	3	200%	PERCENT
+WB87	145	4	China	GPE
+WB87	147	1	bush	PERSON
+WB87	147	2	the West Africa	LOC
+WB87	148	1	The World Bank Group’s Strategic Country Diagnostic	ORG
+WB87	148	2	SCD	ORG
+WB87	148	3	Senegal	PERSON
+WB87	148	4	four	CARDINAL
+WB87	148	5	three	CARDINAL
+WB87	148	6	two	CARDINAL
+WB87	149	1	SCD	ORG
+WB87	149	2	three	CARDINAL
+WB87	149	3	Senegal	GPE
+WB87	150	1	Boosting Senegal’s	PERSON
+WB87	151	1	• Enhancing Equity	PERSON
+WB87	151	2	Resilience	PERSON
+WB87	152	1	Natural Resources	ORG
+WB87	152	2	years	DATE
+WB87	153	1	21	CARDINAL
+WB87	154	1	three	CARDINAL
+WB87	154	2	SCD	ORG
+WB87	154	3	the World Bank Groups’	ORG
+WB87	154	4	Enhancing Equity and Resilience	WORK_OF_ART
+WB87	155	1	the Country Partnership Framework	ORG
+WB87	156	1	Program	ORG
+WB87	157	1	C. Program Development Objective(s	ORG
+WB87	157	2	22	DATE
+WB87	158	1	the Groundnut Basin	LOC
+WB87	159	1	23	CARDINAL
+WB87	160	1	Program	ORG
+WB87	162	1	D. Program Description PforR Program Boundary 1	ORG
+WB87	163	1	24	CARDINAL
+WB87	164	1	Government	ORG
+WB87	164	2	LPDSA	ORG
+WB87	165	1	four	CARDINAL
+WB87	165	2	five	CARDINAL
+WB87	165	3	15	CARDINAL
+WB87	168	1	2	CARDINAL
+WB87	169	1	25	CARDINAL
+WB87	170	1	Program	ORG
+WB87	170	2	the Groundnut Basin	LOC
+WB87	170	3	PSE	ORG
+WB87	171	1	GoS	GPE
+WB87	171	2	Program	ORG
+WB87	171	3	the Groundnut Basin	LOC
+WB87	172	1	Program	ORG
+WB87	172	2	Senegal	PERSON
+WB87	173	1	26	CARDINAL
+WB87	174	1	Program	ORG
+WB87	175	1	Two	CARDINAL
+WB87	176	1	27	CARDINAL
+WB87	177	1	sector8	PRODUCT
+WB87	177	2	Program	ORG
+WB87	178	1	Program	ORG
+WB87	178	2	GoS	GPE
+WB87	180	1	28	CARDINAL
+WB87	181	1	Groundnut Basin	PERSON
+WB87	181	2	Program	ORG
+WB87	181	3	Co-Benefits	PERSON
+WB87	184	1	Program	ORG
+WB87	184	2	Co-Benefits	PERSON
+WB87	184	3	GHG	ORG
+WB87	186	1	29	CARDINAL
+WB87	187	1	Program	ORG
+WB87	187	2	three	CARDINAL
+WB87	189	1	30	CARDINAL
+WB87	190	1	1	CARDINAL
+WB87	191	1	Program	ORG
+WB87	191	2	Program	ORG
+WB87	192	1	the Groundnut Basin	LOC
+WB87	193	1	Program	ORG
+WB87	194	1	the Ministry of Agriculture 8	ORG
+WB87	194	2	Rural Equipment	ORG
+WB87	194	3	MAER	ORG
+WB87	194	4	the Ministry of Livestock and Animal Resources	ORG
+WB87	194	5	the Ministry of Water	ORG
+WB87	194	6	the Groundnut Basin	LOC
+WB87	195	1	the Groundnut Basin	LOC
+WB87	196	1	Program	ORG
+WB87	196	2	the Groundnut Basin	LOC
+WB87	198	1	Program	ORG
+WB87	199	1	the Groundnut Basin	LOC
+WB87	199	2	all year long	DATE
+WB87	201	1	the Groundnut Basin	LOC
+WB87	201	2	MAER	ORG
+WB87	201	3	MERA	ORG
+WB87	201	4	Program	ORG
+WB87	201	5	Program	ORG
+WB87	205	1	Program	ORG
+WB87	205	2	Senegal	GPE
+WB87	205	3	West Africa	GPE
+WB87	205	4	the West Africa Productivity Program	ORG
+WB87	205	5	WAAPP	ORG
+WB87	206	1	The national agronomic research institute	ORG
+WB87	207	1	MAER	ORG
+WB87	207	2	Division of Seed	ORG
+WB87	208	1	Insuring	GPE
+WB87	209	1	Program	ORG
+WB87	209	2	scheme9	PRODUCT
+WB87	211	1	Program	ORG
+WB87	211	2	World Bank Social Protection	ORG
+WB87	211	3	the Groundnut Basin	LOC
+WB87	212	1	31	CARDINAL
+WB87	213	1	2	CARDINAL
+WB87	215	1	9	CARDINAL
+WB87	215	2	Senegal	GPE
+WB87	215	3	WBG	ORG
+WB87	215	4	2009	DATE
+WB87	216	1	The World Bank : Index-based Crop Insurance in Senegal – Promoting Access of Agricultural Insurance for Small Farmers	WORK_OF_ART
+WB87	217	1	Sustainable Department-Africa Region	ORG
+WB87	217	2	March 2009	DATE
+WB87	219	1	Program	ORG
 WB87	220	1	Program	ORG
+WB87	220	2	Groundnut	PERSON
 WB87	221	1	Program	ORG
-WB87	221	2	Groundnut	PERSON
-WB87	222	1	Program	ORG
-WB87	222	2	the Department of Plant	ORG
-WB87	222	3	DPV	ORG
-WB87	223	1	Agropole-Centre	ORG
+WB87	221	2	the Department of Plant	ORG
+WB87	221	3	DPV	ORG
+WB87	222	1	Agropole-Centre	ORG
+WB87	223	1	Program	ORG
+WB87	223	2	the Agropole Centre	ORG
 WB87	224	1	Program	ORG
-WB87	224	2	the Agropole Centre	ORG
 WB87	225	1	Program	ORG
-WB87	226	1	Program	ORG
-WB87	227	1	32	CARDINAL
-WB87	228	1	The World Bank	ORG
-WB87	228	2	IFC	ORG
-WB87	228	3	Program	ORG
-WB87	230	1	33	CARDINAL
-WB87	231	1	3	CARDINAL
+WB87	226	1	32	CARDINAL
+WB87	227	1	The World Bank	ORG
+WB87	227	2	IFC	ORG
+WB87	227	3	Program	ORG
+WB87	229	1	33	CARDINAL
+WB87	230	1	3	CARDINAL
+WB87	231	1	Program	ORG
 WB87	232	1	Program	ORG
-WB87	233	1	Program	ORG
-WB87	235	1	Program	ORG
-WB87	236	1	Groundnut	ORG
-WB87	236	2	May 2018	DATE
-WB87	236	3	vii	ORG
-WB87	237	1	10	CARDINAL
-WB87	237	2	Senegal	PERSON
-WB87	237	3	24	CARDINAL
-WB87	237	4	EU	ORG
-WB87	237	5	2017	DATE
-WB87	237	6	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	237	7	13	CARDINAL
-WB87	237	8	15	CARDINAL
-WB87	237	9	Sector	PRODUCT
-WB87	239	1	Program	ORG
-WB87	239	2	ii	PRODUCT
-WB87	239	3	the Ministry of Agriculture	ORG
-WB87	239	4	MAER	ORG
-WB87	239	5	second	ORDINAL
-WB87	239	6	MAER-DAPSA	ORG
-WB87	239	7	DRD	ORG
-WB87	239	8	MEFP-ANSD	ORG
-WB87	239	9	PM-BPE	PERSON
-WB87	239	10	DPV	ORG
-WB87	239	11	CERES-Locustox	ORG
-WB87	239	12	ITA	ORG
-WB87	239	13	LCI	ORG
-WB87	240	1	E. Initial Environmental	ORG
-WB87	240	2	Social Screening 34	ORG
+WB87	234	1	Program	ORG
+WB87	235	1	Groundnut	ORG
+WB87	235	2	May 2018	DATE
+WB87	235	3	vii	ORG
+WB87	236	1	10	CARDINAL
+WB87	236	2	Senegal	PERSON
+WB87	236	3	24	CARDINAL
+WB87	236	4	EU	ORG
+WB87	236	5	2017	DATE
+WB87	238	1	Program	ORG
+WB87	238	2	ii	PRODUCT
+WB87	238	3	the Ministry of Agriculture	ORG
+WB87	238	4	MAER	ORG
+WB87	238	5	second	ORDINAL
+WB87	238	6	MAER-DAPSA	ORG
+WB87	238	7	DRD	ORG
+WB87	238	8	MEFP-ANSD	ORG
+WB87	238	9	PM-BPE	PERSON
+WB87	238	10	DPV	ORG
+WB87	238	11	CERES-Locustox	ORG
+WB87	238	12	ITA	ORG
+WB87	238	13	LCI	ORG
+WB87	239	1	E. Initial Environmental	ORG
+WB87	239	2	Social Screening 34	ORG
+WB87	240	1	Program	ORG
+WB87	240	2	PRACAS	ORG
+WB87	240	3	PNDE	ORG
 WB87	241	1	Program	ORG
-WB87	241	2	PRACAS	ORG
-WB87	241	3	PNDE	ORG
-WB87	242	1	Program	ORG
-WB87	242	2	Category A under Investment Financing Projects	ORG
-WB87	243	1	Results	PERSON
-WB87	243	2	Agropole	PRODUCT
-WB87	247	1	the Groundnut Basin	LOC
-WB87	248	1	Program	ORG
-WB87	249	1	35	CARDINAL
-WB87	250	1	Program	ORG
-WB87	252	1	36	CARDINAL
-WB87	253	1	World Bank	ORG
+WB87	241	2	Category A under Investment Financing Projects	ORG
+WB87	242	1	Results	PERSON
+WB87	242	2	Agropole	PRODUCT
+WB87	246	1	the Groundnut Basin	LOC
+WB87	247	1	Program	ORG
+WB87	248	1	35	CARDINAL
+WB87	249	1	Program	ORG
+WB87	251	1	36	CARDINAL
+WB87	252	1	World Bank	ORG
+WB87	252	2	Bank	ORG
+WB87	253	1	Program	ORG
 WB87	253	2	Bank	ORG
-WB87	254	1	Program	ORG
-WB87	254	2	Bank	ORG
-WB87	254	3	ESSA	ORG
+WB87	253	3	ESSA	ORG
+WB87	254	1	ESSA	ORG
+WB87	254	2	GoS	GPE
 WB87	255	1	ESSA	ORG
-WB87	255	2	GoS	GPE
-WB87	256	1	ESSA	ORG
-WB87	257	1	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	257	2	14	CARDINAL
-WB87	257	3	15	CARDINAL
-WB87	259	1	CONTACT POINT World Bank	ORG
-WB87	259	2	El Hadj Adama Toure Designation	ORG
-WB87	259	3	5331	CARDINAL
-WB87	259	4	Aifa Fatimata	PERSON
-WB87	259	5	5352	CARDINAL
-WB87	259	6	David Ivanovic Designation	PERSON
-WB87	259	7	5241	CARDINAL
-WB87	259	8	Ministry of Finance, Economy and Planning Contact :	ORG
-WB87	259	9	Ministry of Agriculture and Rural Equipment Contact	ORG
-WB87	259	10	221338640227	CARDINAL
-WB87	259	11	The World Bank Groundnut Competitiveness and Agriculture Diversification Project	ORG
-WB87	259	12	15	CARDINAL
-WB87	259	13	15	CARDINAL
-WB87	259	14	NW	GPE
-WB87	259	15	Washington	GPE
-WB87	259	16	202	CARDINAL
-WB87	259	17	473-1000	CARDINAL

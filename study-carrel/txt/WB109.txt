@@ -45,6 +45,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 World Bank Document
 
 
@@ -112,116 +121,6 @@ Program Information Document
  
 
 Concept Stage | Date Prepared/Updated: 28-Jul-2019 | Report No: PIDC190843 
-
-P
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-
-
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 2 of 10  
-
-     
 
 BASIC INFORMATION 
 
@@ -293,25 +192,6 @@ Total World Bank Group Financing 200.00
  
 
      
-
-
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 3 of 10  
-
-     
-
- 
- 
- 
-
 B. Introduction and Context 
  
 Country Context 
@@ -361,18 +241,6 @@ on increasing human capital and ensuring the sustainable management of natural r
  
 
 
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 4 of 10  
-
-     
 
 Sectoral (or multi-sectoral) and Institutional Context of the Program 
 5. Morocco’s agri-food sector can contribute to economic growth, boost shared prosperity, and increase jobs, 
@@ -428,21 +296,6 @@ on a GIS platform accessible online.
 4 Provides information on daily, time series and analyses on agricultural prices according to regions, type of market (wholesale, retail, souk, Ramadan) and type of 
 
 product (horticulture, fruit and livestock). See: http://www.prixagriculture.org/ 
-
-http://www.prixagriculture.org/
-
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 5 of 10  
-
-     
 
 Registry)5, and ARDNA6; (ii) digital farm management services delivered to large cooperatives or producers/exporter 
 associations7; (iii) a dynamic banking sector within which digital solutions (FinTech) are catching on8;  and (iv) E-commerce 
@@ -500,21 +353,6 @@ mitigate the growing risks of the digital era including cybersecurity, data priv
 
 of rural inhabitants in Morocco. 
 
-http://www.ardna.org/accueil%23
-http://agridata-consulting.com/en/
-
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 6 of 10  
-
-     
 
 use of new digital technologies like IoT, Drones, Artificial intelligence key to the modernization and improvement of 
 efficiency in the agriculture sector.11 
@@ -575,18 +413,6 @@ individuals, enterprises, and entrepreneurs.
 
 
 
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 7 of 10  
-
-     
-
 technologies and increase in agricultural water productivity. Furthermore, a PforR supporting the PMV (2018-2022, US$ 
 200 million IBRD) aims to increase the volume of added-value products commercialized in the olive and citrus agri-food 
 value chains. In addition, sustainability of the agricultural sector in rainfed marginal areas has been addressed through 
@@ -643,16 +469,6 @@ youth and women); and ii) Managing natural resources in a sustainable and climat
 
 
 
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 8 of 10  
-
      
 
  
@@ -706,18 +522,6 @@ safeguards standards and procedures across a number of agencies executing progra
 
 
 
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 9 of 10  
-
-     
-
 attention. Any specific weaknesses pertaining to the execution of the project’s activities will be the subject of corrective 
 actions recommended in the Program Action Plan; 
  
@@ -732,90 +536,4 @@ cause the program to somehow become associated with broader social or political 
  
  
  
- . . 
- 
-
-CONTACT POINT 
-
- 
-
-World Bank 
- 
-
-Name : David Olivier Treguer   
-
-Designation : Senior Agriculture Economist Role : Team Leader(ADM Responsible) 
-
-Telephone No : 5220+30384 / Email : dtreguer@worldbank.org 
-
-  
-Name : Maria Claudia Pachon   
-
-Designation : Senior Digital Development Specialist Role : Team Leader 
-
-Telephone No : 5220+85206 / Email : mpachon@worldbank.org 
- 
-
- 
-
-Borrower/Client/Recipient 
-
- 
-
-Borrower : Ministry of Finance    
-
-Contact :  Title :   
-
-Telephone No :  Email :   
- 
-
- 
-
-Implementing Agencies 
-
- 
-
-Implementing 
-Agency : 
-
-Ministry of Agriculture, Fisheries, 
-Rural Development, Water and 
-Forestry 
-
-   
-
-Contact : Redouane Arrach Title : Director of Strategy and Statistics  
-
-Telephone No : 212657831993 Email : r.arrach@gmail.com  
- 
- 
-
-
-
- 
-The World Bank  
-Morocco Digital and Climate Smart Agriculture Program (P170419) 
-
- 
- 
-
-  
-Jul 30, 2019 Page 10 of 10  
-
-     
-
-FOR MORE INFORMATION CONTACT 
-
-The World Bank 
-1818 H Street, NW 
-Washington, D.C. 20433 
-Telephone: (202) 473-1000 
-Web: http://www.worldbank.org/projects  
- 
-
-    
- 
-
-http://www.worldbank.org/projects
-
 

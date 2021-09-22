@@ -1,0 +1,1380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PUBLIC 
+SIMULTANEOUS DISCLOSURE 
+
+DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK  
+ 
+
+ 
+
+ 
+
+ 
+
+BRAZIL 
+
+ 
+
+ 
+
+ 
+
+PROGRAM TO MODERNIZE AND STRENGTHEN AGRICULTURAL HEALTH AND 
+FOOD SAFETY SERVICES (PRODEFESA) 
+
+(BR-L1496) 
+
+LOAN PROPOSAL 
+ 
+ 
+ 
+
+PROJECT SUMMARY 
+
+BRAZIL 
+PROGRAM TO MODERNIZE AND STRENGTHEN  
+
+AGRICULTURAL HEALTH AND FOOD SAFETY SERVICES (PRODEFESA) 
+(BR-L1496) 
+
+ 
+
+Financial Terms and Conditions 
+
+Borrower: Federative Republic of Brazil 
+Flexible Financing Facility(a) 
+
+Amortization period: 25 years 
+
+Executing agency: Federative Republic of Brazil, through the 
+Ministry of Agriculture, Livestock and Supply (MAPA) 
+
+Disbursement period: 5 years 
+
+Grace period: 5.5 years(b) 
+
+Interest rate: LIBOR-based 
+
+Source Amount (US$) % Credit fee: (c) 
+
+IDB (Ordinary Capital)(e) 195,000,000 97.5 Inspection and supervision fee: (c) 
+
+Local 5,000,000 2.5 Weighted average life (WAL): 15.25 years(d) 
+
+Total 200,000,000 100.0 Approval currency: United States Dollars 
+
+Project at a Glance 
+
+Project objectives/description: The overall objective of the operation is to help increase agricultural productivity and improve 
+access to domestic and international markets by strengthening the country’s agricultural health services. 
+
+Special contractual conditions precedent to the first disbursement of the loan based on results (Components 1 and 2): 
+(i) approval and entry into force of the program Operating Regulations, under the terms agreed with the Bank (paragraph 3.9); 
+(ii) creation of the program coordinating unit (PCU) and appointment of its members (paragraph 3.4); and (iii) contracting of the 
+consulting services responsible for external results verification, in accordance with the terms of reference agreed beforehand with 
+the Bank (paragraph 3.6). 
+
+Special contractual conditions precedent to the first disbursement of the technical cooperation loan (Component 3): 
+(i) approval and entry into force of the program Operating Regulations, under the terms agreed with the Bank (paragraph 3.9); and 
+(ii) creation of the PCU and appointment of its members (paragraph 3.4). 
+
+Special contractual condition for execution of the technical cooperation loan (Component 3): signing and entry into force of 
+the technical cooperation agreement between the MAPA and the National Council for Scientific and Technological Development 
+(CNPq) to conduct research activities and award postgraduate grants (paragraph 3.12).  
+
+Exceptions to Bank policies: None 
+
+Strategic Alignment 
+
+Challenges:(f) SI 
+ 
+
+PI 
+ 
+
+EI 
+ 
+
+Crosscutting themes:(g) GD 
+ 
+
+CC 
+ 
+
+IC 
+ 
+
+ 
+(a) Under the terms of the Flexible Financing Facility (FN-655-1), the borrower has the option of requesting changes to the amortization schedule as well 
+
+as currency and interest rate conversions. The Bank will take operational and risk management considerations into account when reviewing such 
+requests. 
+
+(b) Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail any 
+extension of the original weighted average life of the loan or the last payment date as documented in the loan contract. 
+
+(c) The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the Bank’s 
+lending charges, in accordance with applicable policies. 
+
+(d) The original weighted average life may be shorter, depending on the signature date of the loan contract. 
+
+(e) The total Bank loan proceeds will be used to finance program implementation through the two investment loan instruments, namely: (i) results based 
+(Components 1 and 2); and (ii) technical cooperation loan (Component 3), in accordance with this document. Component 4 will be funded by the local 
+counterpart. Funding will be formalized through a single loan contract to be entered into between the borrower and the IDB, in accordance with the 
+financial terms and conditions and the special contractual conditions envisaged in the project summary. 
+
+(f) SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration). 
+(g) GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of Law). 
+
+ 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-31
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-31
+
+
+ 
+ 
+
+I. DESCRIPTION AND RESULTS MONITORING 
+
+A. Background, problems to be addressed, and rationale 
+
+1.1 The Government of Brazil has asked for support to finance a program to strengthen 
+the Agricultural Health Services of the Ministry of Agriculture, Livestock, and 
+Supply (MAPA) combining a loan based on results (LBR) and a technical 
+cooperation loan.  
+
+1.2 Sector context. Brazil’s agricultural sector is extremely important to its economy, 
+representing 22% of gross domestic product (Ribeiro et al., 2015),1 44% of exports, 
+and 37% of employment. According to the 2006 Agricultural Census, agricultural 
+activities take place on 5 million farms covering 850 million hectares. The sector has 
+grown significantly in recent decades. From 1976 to 2011 the area under cultivation, 
+output, and yield of cereals and oilseeds grew by 32%, 240%, and 257%, 
+respectively (Pereira et al., 2012). Output also rose in the case of sugar (369%), 
+chicken (from 1 million to 13 million tons), pork (from 1 million to 2.1 million tons), 
+and beef (2.1 million to 9.1 million tons). This growth has continued in recent years, 
+with an annual increase in value of output of 3.8% in 2001-2014 (USDA, 2018), and 
+has been associated with significant improvements in productivity. Between 1986 
+and 2016, the area devoted to cereal production shrank by 10%, while output rose 
+by 95% (FAOStat, 2018). Beef farming productivity reached 49 kg per hectare, 
+compared with 40 kg in Uruguay, 34 kg in Argentina, and 28 kg in Paraguay. The 
+Brazilian agricultural sector’s total factor productivity growth is one of the highest in 
+Latin America (Nin-Pratt, A. et al., 2015). 
+
+1.3 Trade in agricultural products has benefited from the sector’s growth. Brazil went 
+from importing 30% of food consumed in the 1960s to being the world’s third largest 
+exporter of agricultural produce. It is the top producer of soy, coffee, sugar, orange 
+juice, chicken, and ethanol, and the second largest producer of beef, maize, 
+soybean oil and soybean flour, third largest producer of cotton, and fourth largest of 
+pork. Agricultural exports in 2017 came to a value of US$96 billion. Meat exports 
+between 2015 and 2017 were worth US$5.9 billion a year (Brazilian Association of 
+Meat Exporters (ABIEC), 2018). 
+
+1.4 Agricultural health. Protecting animal health is a public good and is one of the main 
+functions of the public bodies concerned with agriculture (OVE, 2015). Their main 
+functions are: epidemiological and plant health oversight; health barrier and 
+quarantine controls; and control and eradication of diseases and pests. 
+
+1.5 Empirical evidence shows that agricultural health has significant effects on 
+agricultural productivity and market access, and in the case of zoonoses, can affect 
+consumers’ health (IDB, 2016). Agricultural health system failures cause enormous 
+economic losses through reduced productivity caused by pests and diseases, as 
+well as restrictions on market access. For example, outbreaks of foot-and-mouth 
+disease (FMD) in 2001 in the United Kingdom and Uruguay caused losses of over 
+US$10 billion (Bates, 2016) and US$80 million (FAO, 2002), respectively; an 
+outbreak of classical swine fever (CSF) in the Netherlands in 1997 caused losses of 
+US$2.3 billion (Terpstra and de Smit, 2000); the epidemic of highly pathogenic avian 
+influenza (HPAI) in the United States caused losses of US$500 million in 2013 
+
+                                                
+1  See Technical References. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-27
+
+
+ - 2 - 
+ 
+ 
+
+ 
+(USDA, 2016). The detection of the Mediterranean fruit fly in New Zealand led to a 
+two-year stop on exports of kiwifruit to China (Kiwifruitvine, 2014). The United States 
+has imposed restrictions on the import of agricultural produce from countries in which 
+certain pests are present (such as a ban on citrus fruit and peppers from Guyana to 
+avoid introducing the carambola fruit fly (Aphis 2015 and 2018)). 
+
+1.6 Faced with these risks, there are two main reasons for investments in agricultural 
+health services: (i) maintaining and raising productivity, respectively, by avoiding 
+losses caused by new diseases and pests, and reducing the impact of existing ones; 
+and (ii) facilitating foreign trade by complying with health and safety standards that 
+enable access to external markets, which often offer higher prices than domestic 
+markets.  
+
+1.7 Although investments in agricultural health services do not entirely eliminate the risk 
+of impacts on output from disease and pests, they are highly cost-effective. An 
+evaluation by OVE (2015) of six agricultural health projects shows that disease 
+control and eradication campaigns by agricultural health organizations were 
+successful at reducing the impacts of disease and pests on output. Peru’s fruit-fly 
+eradication program increased fruit production by 65% (Salazar et al., 2016). In 
+1995, the USDA estimated the net benefit of controlling the carambola fruit fly in 
+South America at US$800 million. 
+
+1.8 International evidence also shows benefits for trade. In Uruguay, obtaining FMD-free 
+status without vaccination in 1996 increased the value of meat exports to the 
+United States by more than 50% and saved US$8 million a year in vaccines (Knight-
+Jones and Rushton, 2013; Otte et al., 2004). On losing this status in 2001, exports 
+fell by 40% from 2000 levels (Ilundain et al., 2004). The price of beef exports from 
+FMD-free countries is 93% higher than those from countries affected by the disease 
+(ICA and CID, 2008). 
+
+1.9 Agricultural health in Brazil. The agricultural health situation in Brazil has made 
+significant progress over the last decade, opening up access to new international 
+markets, particularly for meat and fruit. For example, the World Organisation for 
+Animal Health (OIE) declared Brazil FMD-free (with and without vaccination) in 
+2018. However, the size of the country, its diversity of ecosystems, and the length 
+of its land borders (17,000 kilometers) with ten countries, and the scale of its 
+agricultural trade, result in major health risks and challenges. The emergence of 
+outbreaks of diseases such as FMD or the spread of pests such as fruit flies to other 
+regions could have immediate impacts on costs, exports, and jobs. For example, the 
+appearance of FMD in the State of Mato Grosso do Sul in 2005 resulted in the death 
+of 78,000 head of cattle, a 15% drop in meat prices, closure of access to markets in 
+over 30 countries, and a 40% reduction in exports. Between 2012 and 2013 the 
+appearance in Mato Grosso and Bahía of Helicoverpa armigera, a pest affecting 
+cotton and soy, raised spending on pesticides by 10% and resulted in losses of 
+US$800 million in 2013 alone (Pomari-Fernandes et al., 2015). 
+
+1.10 Agricultural health services in Brazil. The country has a long history of agricultural 
+health, with an old and fragmented legal framework, including 12 laws and over 
+150 regulations. The decrees enacting the agricultural health services date back to 
+1934. More recently, the Unified Agricultural Health System (SUASA) was created2 
+
+                                                
+2  Law 8,171 of 17 January 1991, regulated by Decree 5,741 of 30 March 2006. 
+
+
+
+ - 3 - 
+ 
+ 
+
+ 
+as a mechanism for involving the Federal government (MAPA), State governments 
+(Agriculture Secretariats) and Municípios (Agriculture Secretariats). 
+
+1.11 Within the MAPA, the Secretariat for Agricultural Protection (SDA) is responsible for 
+agricultural health and food (and beverage) safety measures and for the quality of 
+agricultural inputs. Its main responsibilities are: (i) agricultural oversight at airports 
+and borders; (ii) issuing regulations on the control and eradication of pests and 
+diseases; (iii) approval of diagnostic methods; (iv) drafting health regulations for the 
+import and export of animals and plants, and their products and byproducts; 
+(v) registration of plants and products; (vi) inspection of products of animal and plant 
+origin and agricultural inputs; and (vii) auditing, supervision, evaluation, and 
+coordination of state and municipio agricultural health activities. 
+
+1.12 In 2016 the government drafted the Agricultural Protection Plan (PDA) (MAPA, 
+2016) defining the priorities for agricultural health policies. It has a ten-year horizon 
+and six strategic pillars: (i) modernization and cutting red-tape, (ii) regulatory 
+framework; (iii) knowledge and strategic intelligence; (iv) technical programs and 
+projects; (v) sustainability of agricultural protection; and (vi) monitoring and 
+evaluation. This operation aims to support implementation of the PDA over the next 
+five years, focusing on the challenges in five of the six strategic pillars. 
+
+1.13 “Modernization and cutting red tape” and “strengthening and modernizing the 
+regulatory framework” strategic pillars. Their objective is to turn the Secretariat 
+for Agricultural Protection (SDA) into an effective, efficient results-oriented 
+organization by strengthening its main services. The program will support the 
+following services:  
+
+a. National Agricultural Laboratories (LANAGRO). This comprises a network 
+of six laboratories performing the diagnostic tests necessary to monitor 
+compliance with health standards, verify product quality, and identify disease 
+outbreaks. Assessments of the Lanagro show that they face various problems, 
+operate in an uncoordinated way, lack standardization of processes and 
+procedures for important tasks such as receiving samples or purchasing 
+supplies, lack planning of demand for laboratory tests, and have little or no 
+process automation. Thirty percent of diagnostic tests take longer than 
+standard times and the sample rejection rate is high. For example, 17% of 
+physical-chemical tests and products of animal origin and 11% of wastes and 
+food contaminants are rejected (optional link 7).  
+
+b. International health monitoring. The International Agricultural Monitoring 
+System (Vigiagro) is responsible for controlling and monitoring imports, 
+exports, and international transit of persons and goods through ports, airports, 
+and border crossings. It is of strategic importance for the country: in 2017, 
+1.5 million import and export cargo inspections were carried out. Inspections 
+are characterized by a low level of computerization, automation, or process 
+standardization, and the failure to apply risk analysis. This results in 
+shortcomings in inspections (Furlan, 2013), and long wait times for cargo at 
+ports and airports, generating costs for importers and exporters. Cargo release 
+takes an average of 4.5 days, against a target of 3 days (European Union 
+average) (optional link 8).  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-33
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-34
+
+
+ - 4 - 
+ 
+ 
+
+ 
+c. Inspection, registration, and authorization. Health inspection and the 
+
+issuance of authorizations for the import of live animals and animal products, 
+inspection and authorization of beverage exports, and the registration of 
+products of animal origin, are all performed manually or in a semiautomated 
+manner and in the presence of the interested parties. This results in processes 
+that are slow and costly for the Agricultural Protection Secretariat (SDA) and 
+for users. For example, registration of products of animal origin takes an 
+average of 120 days, and inspection and authorization of beverage exports 
+45 days (optional link 9). 
+
+d. Regulatory good practices. The SDA is responsible for drafting and 
+publishing regulatory acts concerning the management of agricultural health 
+and the regulation of agricultural inputs and services, as well as products of 
+animal and plant origin. Many of the regulations are out of date, do not conform 
+to current technologies, and do not set clear limits of action and competencies 
+(optional link 10). As a first step towards improving the management of 
+standards, in 2015 the Manual of Regulatory Good Practices was approved, 
+with a view to harmonizing regulatory activities. 
+
+1.14 “Implementation and strengthening of priority technical programs and 
+projects” strategic pillar. This includes 18 projects and programs, prioritizing six: 
+(i) fruit fly control; (ii) border monitoring and protection; (iii) FMD eradication and 
+prevention; (iv) eradication and control of brucellosis and tuberculosis; 
+(v) eradication of classical swine fever (CSF); and (vi) modernization of laboratories. 
+This operation will support three of these programs (FMD, CSF and carambola fruit 
+fly) considering that: (i) FMD and CSF are the most critical livestock diseases for 
+exports, as their mere presence prevents access to overseas markets, and their 
+spread to other areas could have serious impacts on producers’ costs; (ii) there are 
+synergies in the implementation of FMD and CSF control, as they are carried out by 
+the same veterinary services; (iii) the carambola fruit fly may significantly reduce fruit 
+exports if it spreads to fruit producing areas; and (iv) tuberculosis and brucellosis do 
+not affect exports and are not considered endemic in Brazil, such that their 
+eradication is not envisaged in the medium term. 
+
+a. Foot-and-mouth disease (FMD). In May 2018, the OIE declared Brazil 
+FMD-free with vaccination (the state of Santa Catarina is free without 
+vaccination). Brazil currently has a Strategic Plan under the National FMD 
+Eradication Program (PNEFA), covering the period 2017-2026, which 
+envisages the entire country being free of the disease without vaccination as 
+of 2023 (optional link 11). This change would allow the country to access new 
+export markets and command better prices (Alves and Martins, 2014). Brazil 
+has not had access to the highest paying meat markets for several decades 
+(Japan, South Korea, Canada, and the United States) as they do not import 
+from countries with FMD (Miranda, 2001). FMD is one of the most frequent 
+causes of non-tariff barriers to exports of beef and pork (Junqueira et al., 2007). 
+It has a direct negative impact on production and results in high control and 
+eradication costs (US$220 million a year). Over the past ten years, FMD 
+outbreaks caused losses of animals and falling prices (paragraph 1.9). 
+Vaccination also results in lower productivity: 70% of livestock develops 
+abscesses with an average of loss of 1.3 kg of meat in the affected area (Moura 
+and Junqueira, 1999). 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-35
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-36
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-37
+
+
+ - 5 - 
+ 
+ 
+
+ 
+b. Classical swine fever (CSF). In 2016, the OIE declared approximately half of 
+
+the country by area, 84% of livestock, and almost the entire industry to be free 
+of CSF. The CSF program aims to obtain a declaration of CSF-free status for 
+the entire country (optional link 11). The presence of the disease is limited to 
+the states in the north and north-east regions, where output is low and 
+subsistence-oriented. Nevertheless, it affects the reliability of disease-free 
+areas, and consequently their market access, as well as representing a risk of 
+spread to states from which it has been eradicated (Freitas et al., 2007). It also 
+affects productivity through a reduction in the number of piglets born and higher 
+mortality rates (Zuge, 2018; ADAPEC, 2018). During an outbreak in 
+Rio Grande do Sul in 1987 a mortality rate of 20% of live births was recorded, 
+and mortality was also higher at other stages of production (Barcellos, 1992). 
+
+c. Carambola fruit fly. The Carambola fruit fly (Bactrocera carambolae) was 
+reported in Suriname in 1975 (Sauers-Muller, 1991), subsequently spreading 
+to Guyana, French Guiana, and Brazil. It is currently present in three states in 
+the north of Brazil (Amapá, Roraima, and Pará). The Carambola fruit fly can 
+attack 75 species of plant, including mango, avocado, papaya, citrus fruit, 
+guava, and carambola (star fruit). In Brazil it has been detected in a smaller 
+number of species (Lemos et al., 2014) and it is the only fruit fly not currently 
+affecting export production zones. The risk of spread by movements of people 
+and goods is high, with potential losses estimated at $150 million a year due 
+to export restrictions on the affected areas (optional link 12). The country is 
+implementing an oversight and control program, with 7,774 fruit fly detection 
+traps across the country, concentrated in the three states affected (7,284). In 
+recent years the fly capture index in these three states has been brought down 
+from 0.18 in 2013 to 0.02 in 2017.3 
+
+1.15 Knowledge strengthening and strategic support strategic pillar. The 
+Agricultural Protection Plan (PDA) and MAPA studies (optional link 13) show that 
+the effectiveness of agricultural health services is affected by shortcomings in 
+employee competencies, lack of intelligence tools to support decision-making, and 
+inadequate research and knowledge generation. The PDA therefore proposes: 
+(i) skills development; (ii) application of strategic intelligence; (iii) support for 
+research and development; (iv) building and strengthening of the network of partner 
+entities; (v) implementing an international exchange program; (vi) building a 
+technology park; and (vii) harmonization and standardization of how risk analysis is 
+used. The program will support six (items (i) to (vi)) of these seven lines of action. 
+
+1.16 Monitoring and evaluation strategic pillar. This addresses the lack of automation 
+in the monitoring and evaluation of agricultural health services and managing for 
+results. According to MAPA reports (optional link 14), the use of inappropriate tools 
+and the failure to set targets undermines activities focused on results and processes 
+that need improvement. 
+
+1.17 Climate change. There is a link between climate change and agricultural health, 
+and interventions in this area are an important adaptation (Forman et al., 2008) and 
+mitigation strategy (Stoot et al., 2010). Increases in temperature and changes in 
+relative humidity cause changes in habitat that influence the emergence and spread 
+
+                                                
+3  The flies per trap per day (FTD) index measures the density of captured flies and is revised twice monthly. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-37
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-38
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-40
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-41
+
+
+ - 6 - 
+ 
+ 
+
+ 
+of plant and animal pathogens, requiring control strategies under changing 
+environmental conditions (INIA, 2018). The main concern is the spread of pests and 
+diseases to new areas (Cifuentes and Meza, 2008), with possible effects on access 
+to international markets and increased inspection and treatment costs. The 
+greenhouse-gas (GHG) emissions reduction achievable through reduced and more 
+efficient use of pesticides stands out, given that those used to tackle the carambola 
+fruit fly are particularly carbon intensive (Lal, 2004). Moreover, evidence shows that 
+improved animal health raises productivity and reduces livestock’s carbon footprint 
+(Kenyon et al., 2013; Stott et al., 2010). The expansion of agricultural activities into 
+forest areas has been the main source of GHG emissions in Brazil (FAO, 2016; 
+Gouvello, 2010, Rivero et al., 2009). Increased productivity associated with lower 
+rates of diseases such as FMD and CSF therefore helps reduce GHG emissions 
+and ease the pressure on forest areas (MAPA, 2010; Embrapa, 2018, Arias et al., 
+2017). 
+
+1.18 In short, the operation is aligned with the MAPA’s strategic priorities, as formulated 
+in its PDA. It will contribute via its five strategic pillars, which seek to modernize the 
+SDA, cut red tape, strengthen the regulatory framework, generate knowledge and 
+strategic intelligence, and implement priority technical projects, ensuring agricultural 
+health services are sustainable by means of strong monitoring and evaluation 
+systems. The aim of focusing on these priorities is to strengthen agricultural health 
+to increase access to international markets and raise agricultural productivity 
+(paragraph 1.12). 
+
+1.19 Theory of change. The program’s theory of change is based on the same 
+challenges identified by the MAPA, including restrictions on access to external 
+markets and the potential loss of productivity caused by the existence of high 
+economic impact diseases and pests (which also give rise to high control and 
+eradication costs) and the low efficiency of the services monitoring and controlling 
+the health of imports and exports. Institutional shortcomings in these services, such 
+as low professional specialization and high turnover of technical staff, scant 
+investment in research, and failure to use risk analysis in its operations, makes the 
+MAPA unable to perform its agricultural health responsibilities effectively. 
+
+1.20 Against this backdrop, Components 1 and 2 support the expansion of existing animal 
+and plant health programs and initiatives to improve the efficiency of the main 
+agricultural health services. For Component 1, the automation of agricultural health 
+service processes (laboratories, Vigiagro, inspection, records and authorizations, 
+good practices) will reduce processing times and increase service efficiency. For 
+Component 2, priority disease and pest (carambola fruit fly, FMD, and CSF) control 
+and eradication measures will enable current health status to be maintained and 
+expanded. Component 3 will support institutional changes in the management of 
+agricultural health, strengthening human resource capacities, and funding research 
+into agricultural health. By means of studies and research, training in priority 
+competencies, and studies to evaluate a technology park as a means of scientific 
+integration between various institutions, it is anticipated that the availability and 
+dissemination of relevant information and competencies for more efficient 
+agricultural health services will be enhanced. Lastly, Component 4 supports the 
+continuous monitoring of activities and managing for results. Over the long term, 
+these improvements aim to raise the quality, reliability, and efficiency of international 
+trade in Brazilian agricultural produce.  
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-26
+
+
+ - 7 - 
+ 
+ 
+
+ 
+1.21 The Bank’s experience. Between 2002 and 2014 the IDB approved 17 investment 
+
+loans to strengthen agricultural health and food safety systems in the region for 
+US$359 million, approximately 10% of the total sector portfolio (OVE, 2015). 
+Drawing on these operations, those recently approved (Peru 4457/OC-PE, Uruguay 
+3800/OC-UR, Bolivia 3797/BL-BO, Guyana 3798/BL-GY, and Mexico 3864/OC-ME, 
+totaling US$292 million), and the conclusions and recommendations of OVE (2015), 
+the main lessons learned and how they have been incorporated into the design of 
+the proposed operation are included in Table 1. 
+
+ 
+
+Table 1. Incorporation of lessons learned 
+
+Lesson learned Reflected in program design 
+
+1. The decisions of the health services should be 
+independent and based on purely scientific 
+grounds, due to the nature of the threats they 
+have to respond to and the need for credibility, 
+locally and internationally. 
+
+The program aims to enhance the scientific 
+basis of the SDA to improve its management 
+
+and decision-making capacity. 
+
+2. Health control institutions require ongoing 
+programs to update and train their officials. 
+
+Measures are envisaged to improve the 
+technical competencies of SDA staff. 
+
+3. The private sector’s participation is essential to 
+bolster the success of health programs. 
+
+The private sector will be involved in the design 
+of automation processes, disease control, and 
+research and development. No private goods 
+will be financed.  
+
+4. Use of results indicators more readily 
+attributable to projects.  
+
+The results matrix incorporates this lesson, 
+particularly for the indicators linked to 
+disbursements. 
+
+5. It is important to focus efforts to avoid diluting 
+resources.  
+
+The program: (i) focuses on results and 
+(ii) supports specific activities within a broad 
+government program (the PDA). 
+
+ 
+
+1.22 Strategic alignment. The operation is consistent with the Update to the Institutional 
+Strategy (UIS) 2010-2020 (document AB-3008) and will contribute to the Corporate 
+Results Framework 2016-2019 (CRF) (document GN-2727-6) through the 
+development challenges of: (i) productivity and innovation, contributing to the 
+indicator of government agencies benefited by projects that strengthen technological 
+and managerial tools to improve public service delivery; and (ii) economic 
+integration, through the indicator of instruments contributing to regional and extra-
+regional trade. It is also aligned with the following crosscutting themes: (i) climate 
+change and environmental sustainability through the development, transfer, and 
+adoption of innovative technologies and approaches to implement adaptation 
+measures; and (ii) institutional capacity and the rule of law through the strengthening 
+of public agricultural health services. Approximately 17.44% of the operation’s 
+resources are invested in climate change adaptation activities, according to the 
+multilateral development banks’ joint methodology for tracking climate finance. 
+These resources contribute to the IDB Group’s target of increasing the financing of 
+climate-change-related projects to 30% of all operational approvals by the end of 
+2020. 
+
+1.23 The operation is consistent with the IDB Country Strategy with Brazil (2016-2018) 
+(document GN-2850), in the dialogue on policies and sustainable development of 
+
+https://publications.iadb.org/handle/11319/8505
+
+
+ - 8 - 
+ 
+ 
+
+ 
+agriculture and contributes to the implementation approach to reducing regional 
+socioeconomic inequalities, given that the poorest regions (Northeast and North) are 
+those hardest hit by the diseases and pests this program will address. The operation 
+is included in the Update of Annex III of the 2018 Operational Program Report for 
+Brazil (document GN-2915-2). It is also consistent with: the Agriculture and Natural 
+Resources Management Sector Framework Document (document GN-2709-5), 
+which gives priority to increasing the region’s agricultural productivity and 
+strengthening the provision of public goods; the Food Security Sector Framework 
+Document (document GN-2825-8), which aims to promote food security by 
+increasing production and productivity; the Integration and Trade Sector Framework 
+Document (document GN-2715-6), which gives priority to integration and foreign 
+trade through improvements to security and dispatch times, and reducing the cost 
+of foreign trade; and with the Integrated Strategy for Climate Change Adaptation and 
+Mitigation, and Sustainable and Renewable Energy (document GN-2609-1) and the 
+Climate Change Sector Framework Document (document GN-2835-3) by promoting 
+increased agricultural productivity by adopting climate change adaptation practices. 
+
+B. Objectives, components, and cost 
+
+1.24 The overall objective of the operation is to help increase agricultural productivity and 
+improve access to domestic and international markets by strengthening the 
+country’s agricultural health services. To this end the operation plans to contribute 
+to the implementation of the Government of Brazil’s PDA through the components 
+detailed below. The first and second of these components will be financed by the 
+LBR, the third by the technical cooperation loan, and the fourth by the local 
+counterpart. The main beneficiaries are the approximately 14 million agricultural 
+producers and other participants in the production chains supported, together with 
+the country’s 210 million consumers. 
+
+1.25 Component 1. Improving the efficiency of agricultural health services 
+(IDB: US$23 million). The outcome of this component will be improvements in the 
+performance of the SDA’s services, as detailed in its subcomponents: 
+
+a. National Agricultural Laboratories (LANAGRO). The outcome will be a 
+reduction in: (i) laboratory test times; and (ii) rejection of samples on receipt at 
+the LANAGRO laboratories. Automation of the following key processes will be 
+financed: (i) receipt of samples, laboratory analyses, and delivery of results; 
+(ii) procurement and contracts; (iii) laboratory accreditation; (iv) demand 
+management; and (v) inventory control. The initial focus will be on processes 
+relating to antiparasitic and salmonella tests. In addition, demand for laboratory 
+tests will be organized and prioritized, and the technical/administrative 
+management will be modernized using harmonized quality management 
+systems. 
+
+b. International Agricultural Oversight System (Vigiagro). The outcome will 
+be to shorten average export and import cargo release times at ports. The 
+implementation of a harmonized management system for the international 
+transit of agricultural products (termed the “SIGVIG”) will be financed. In 
+particular, work will focus on exports of soybeans and frozen and chilled meat, 
+and imports of fruits (apples) and agricultural inputs (mineral fertilizer and 
+pesticides). 
+
+
+
+ - 9 - 
+ 
+ 
+
+ 
+c. Improvements to inspection, registration, and authorization services. 
+
+This will aim to reduce the average time taken by product inspection, 
+registration, and authorization services by financing the design and automation 
+of services that are currently performed manually or in a semiautomated 
+manner in person. It includes systems for: (i) beverage exports; (ii) imports of 
+animal genetic material and live animals; and (iii) registration of products of 
+animal origin. 
+
+d. Implementation of regulatory good practices. The outcome will be a 
+reduction in the average time taken by the SDA to draft and publish regulations 
+and ordinances. The cost of developing and implementing a system for the 
+real-time monitoring of the entire process of drafting, analysis, publication, and 
+implementation of regulatory instruments will be financed. 
+
+1.26 Component 2. Control and eradication of pests and diseases (IDB: 
+US$137 million). The objective is to improve the control of high economic impact 
+diseases and pests subject to quarantine, focusing on controlling FMD, CSF, and 
+the carambola fruit fly. A description of the subcomponents and their outcomes is 
+provided below. 
+
+a. Carambola fruit fly. The outcome will be to keep the 24 states in which this 
+pest is not currently present free of the carambola fruit fly.4 It will finance the 
+costs associated with continuing implementation of the SDA program to control 
+and eradicate the carambola fruit fly and expanding it to strengthen control 
+stations on the border and inside the state of Amapá (the state most affected 
+by the fly). It includes monitoring of traps throughout the country and measures 
+to control and eradicate the fly in areas where it is detected. This 
+subcomponent also includes training technical staff of the institutions involved, 
+and health education campaigns for producers. 
+
+b. Foot-and-mouth disease (FMD). The outcome will be to maintain the 
+27 states of the country free of FMD, with or without vaccination, funding the 
+implementation of the PNEFA, which has a scaled strategy, dividing the 
+country into five groups of states in which achieving FMD-free status without 
+vaccination will be pursued by group. The PNEFA includes: regulation, 
+capacity building at federal and state levels, audits of state veterinary services, 
+and development of action plans for states. These actions are defined by an 
+Action Plan, which is monitored semiannually by the MAPA. 
+
+c. Classical swine fever (CSF). The outcome will be an increase in the number 
+of states recognized by the MAPA as CSF-free from 16 at present to 23 in 
+2023. State-level actions will be financed (incorporated in the action plans 
+indicated in the preceding paragraph), including: (i) activities reports on the 
+state action plans; (ii) approved Quali-SV audit reports on state veterinary 
+services in areas that are both CSF-free and not CSF-free; (iii) approved 
+epidemiological study proposal; (iv) reports on epidemiological studies 
+conducted in states with areas that are not CSF-free; (v) declaration of new 
+
+                                                
+4   Eradication in the states of Amapá, Roraima, and Pará is not feasible within the program execution period, 
+
+particularly as it would require actions in neighboring countries (Guyana and Suriname). 
+
+
+
+ - 10 - 
+ 
+ 
+
+ 
+CSF-free areas; (vi) stepping up controls on pig movements; (vii) training of 
+official state veterinary services; and (viii) health education for rural producers. 
+
+1.27 Component 3. Knowledge and innovation for the agricultural health of the 
+future (IDB: US$35 million). The objective of this component is to support the 
+implementation of the PDA’s Knowledge and Intelligence pillar (paragraph 1.15). 
+The component’s strategic and innovation actions will support and complement the 
+activities of Components 1 and 2, including development of technical assistance, 
+capabilities, knowledge and innovation in the agricultural health system, and 
+definition of strategies for agricultural health services to address the future 
+challenges, including the impacts of climate change. Accordingly, the component 
+includes the following subcomponents: 
+
+a. Modernization of federal agricultural protection. This will support the 
+process of modernizing the SDA by financing studies to support the following 
+strategic actions: (i) implement a new model of institutional management, with 
+a redefinition of procedure manuals, adjustment or redesign of computerized 
+systems, and training and consulting; (ii) strengthen coordinated joint action by 
+federal, state, and municipal agencies and between these agencies and the 
+sector; and (iii) update and adapt legal and regulatory instruments, matching 
+procedures and teams. 
+
+b. Competency building. This will finance: (i) short courses developed with 
+Brazilian and foreign universities; (ii) the “Excellentia” program, with grants for 
+practitioners to undertake specific work at universities, research centers or 
+agricultural heath institutions in Brazil or abroad; and (iii) a strictly postgraduate 
+grant program for studies on critical issues for agricultural heath. 
+
+c. Knowledge and intelligence. This has the aim of aggregating information and 
+knowledge on an ongoing basis by financing the implementation of an 
+integrated plant-health monitoring and information system (Strategic 
+Agricultural Defense Intelligence System (IEDA)) that will manage strategic 
+information to support decision-making, centralizing all the data existing in 
+other automated systems. 
+
+d. Agricultural health research. The objective of this subcomponent is to close 
+research gaps related to agricultural health, supporting the development of at 
+least 10 research projects selected on a competitive basis in line with the 
+thematic priorities defined by the SDA. It also includes the financing of grants 
+for strategic agricultural health projects.  
+
+e. Technology park. As part of its modernization strategy, the SDA is seeking to 
+promote a model of technology research and development that facilitates an 
+exchange of experience between different sectors (public, private, and 
+academic) and scientific integration to promote innovation in agricultural 
+health. This subcomponent will finance studies to evaluate the viability of 
+promoting the creation of a technology park on the Lanagro campus in Minas 
+Gerais. 
+
+1.28 Component 4. Monitoring, evaluation, and learning (Local: US$5 million). This 
+component will generate a monitoring and evaluation system for the program and 
+will build the MAPA’s capacity to monitor and evaluate its agricultural health 
+services, contributing to managing for results. 
+
+
+
+ - 11 - 
+ 
+ 
+
+ 
+C. Key results indicators 
+
+1.29 The program’s impact will be measured using the following indicators: (i) increase in 
+the number of health agreements with importer countries; and (ii) increased value of 
+meat at the farm. 
+
+1.30 The outcome indicators to be used for disbursements are: Component 1: 
+(i) processing speed of Lanagro laboratories (in days); (ii) decrease in average 
+import and export cargo release times in ports (in days); (iii) promptness of 
+inspection, registration, and authorization services, which will include: average 
+processing time for beverage exports (in days); and (iv) average time to draft and 
+publish regulatory instructions and ordinances (in days). Component 2: (i) number 
+of states kept without occurrence of Carambola fruit fly; (ii) number of states 
+recognized as being FMD-free with or without vaccination; and (iii) number of states 
+recognized as being CSF-free. The indicators and amounts associated with each 
+are specified in the disbursement matrix (optional link 5). Additional indicators not 
+associated with disbursements in the Results Matrix (see Annex II) are: (i) average 
+sample rejection by Lanagro; (ii) recognition of states as FMD-free without 
+vaccination; (iii) average processing time for imports of animal genetic material and 
+live animals (in days); (iv) average time to register products of animal origin (in days); 
+(v) improved agricultural protection competencies (level of training in priority 
+competencies), (vi) legal establishment of a Technology Park; (vii) the number of 
+accesses to the intelligence system; and (viii) number of technical studies with 
+results of research projects published or available online.  
+
+1.31 Economic analysis. An ex ante economic analysis was performed to evaluate the 
+economic viability of the program. The benefits stem from more efficient agricultural 
+health service processes and pest and disease control and are estimated to be: 
+(i) avoided losses in exports of beef and pork products by preserving the country’s 
+status as free of high impact diseases such as FMD and CSF; (ii) avoided losses in 
+fruit exports by preventing the expansion of the Carambola fruit fly; and (iii) more 
+efficient agricultural health services. The analysis considered a horizon of 20 years 
+and a discount rate of 12%. The program is considered economically viable with an 
+economic internal rate of return (EIRR) of 32.37% and net present value of 
+US$223 million. Based on the worst-case scenarios for the subcomponents 
+analyzed, the sensitivity analysis yielded an EIRR of 21%. 
+
+II. FINANCING STRUCTURE AND MAIN RISKS 
+
+A. Financing instruments 
+
+2.1 Rationale for the use of the financing instruments. This operation will be 
+financed by two investment loan instruments: an LBR and reimbursable technical 
+cooperation funding. The operation meets the requirements for an LBR 
+(document GN-2869-1) as Components 1 and 2: (i) support state programs 
+delivering results through the financing of their expenditure framework (paragraph 
+1.26); (ii) support changes to government practices incorporating good practices 
+(paragraph 1.25); (iii) promote improved performance of existing government 
+programs by emphasizing their achievement of results (paragraph 1.25); and 
+(iv) promote the use of the executing agency’s fiduciary systems (paragraphs 2.7 
+and 3.10). Moreover, the institutional capacity assessment showed that the MAPA 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=%09EZSHARE-1211145217-30
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-28
+
+
+ - 12 - 
+ 
+ 
+
+ 
+has appropriate legal powers, governance, and institutional environment, and the 
+necessary institutional, management, technical, and fiduciary (procurement and 
+financial) capacity to ensure the delivery of the results and execute and monitor an 
+LBR (see Annex III). Integrity risk is medium/low, and program actions reduce it by 
+adopting transparent procedures and automating health permit issuance and other 
+agricultural health services. 
+
+2.2 Component 3 fulfills the requirements for the use of the reimbursable technical 
+cooperation instrument (document GN-2470-2), as it will be focused on supporting 
+institutional changes in the management of agricultural health in Brazil, building the 
+MAPA’s institutional capacities and financing research studies into agricultural 
+health. These technical assistance activities are essential to achieving the 
+envisaged outcomes of the LBR in the framework of Components 1 and 2. The LBR 
+instrument is not suited to these investments as they are not related to the 
+simultaneous completion of an outcome but require a substantial flow of finance from 
+the early stages of execution. The proposed financing structure enables the 
+comprehensive financing of the interventions, permitting the achievement of the 
+program objectives. 
+
+2.3 Cost. The total cost of the operation is US$200 million, of which $195 million will be 
+financed from the Bank’s Ordinary Capital and US$5 million by the local counterpart. 
+The planned disbursement period is five years. Table 2 itemizes the cost per 
+component. 
+
+ 
+
+Table 2. Program costs and financing (US$ million) 
+
+Investment component IDB Local Total % 
+
+C1. Improving the efficiency of agricultural health 
+services 
+
+23.00 0.00 23.00 11.50 
+
+C2. Control and eradication of pests and diseases 137.00 0.00 137.00 68.50 
+
+C3. Knowledge and innovation for the agricultural 
+health of the future 
+
+35.00 0.00 35.00 17.50 
+
+C4. Monitoring, evaluation, and learning 0.00 5.00 5.00 2.50 
+
+Total 195.00 5.00 200.00 100.00 
+
+ 
+
+2.4 Table 3 presents the disbursement schedule for the Bank financing. 
+
+ 
+Table 3. Disbursement schedule (as %) 
+
+Component Year 1 Year 2 Year 3 Year 4 Year 5 Total 
+
+C1. Improving the efficiency of 
+agricultural health services 3.0 2.8 2.1 2.0 1.9 11.8 
+
+C2. Control and eradication of 
+pests and diseases 13.5 14.1 14.2 14.2 14.2 70.3 
+
+C3. Knowledge and innovation for 
+the agricultural health of the future 1.2 4.6 4.9 4.0 3.3 17.9 
+
+Total 17.7 21.5 21.2 20.2 19.4 100.0 
+
+ 
+
+B. Environmental and social risks 
+
+2.5 Pursuant to Directive B.13 of the Environment and Safeguards Compliance Policy 
+(Operational Policy OP-703) this operation does not require classification, as it is 
+
+
+
+ - 13 - 
+ 
+ 
+
+ 
+a loan based on results and its impacts cannot be subject to “ex ante” evaluation. 
+However, no negative environmental or social impacts are envisaged from the 
+implementation of Components 1 and 2, or Component 3, and no physical 
+infrastructure or physical changes to the environment are involved. Lanagro 
+laboratories have an environmental and social management system based on best 
+practices and standards, accredited under ISO standard 17025, which establishes 
+guidelines for documented operating procedures (SOPs) for the management of 
+laboratory and environmental waste. Moreover, depending on its level of 
+biosecurity (BSL3AG), each laboratory has more specific manuals, covering the 
+management of materials, wastes, and rules for hygiene, safety, and employees’ 
+working conditions. The pest and disease eradication and control programs will 
+apply internationally recognized good practices, including the use of integrated 
+control techniques. 
+
+2.6 In addition, the independent consulting services contracted to verify the results will 
+review the ISO-17025 accreditation, make visits to laboratories to verify that the 
+biosecurity manuals are being applied, and that good practices are being followed 
+in the disease and pest control programs. 
+
+C. Fiduciary risks 
+
+2.7 The results of the ICAP and Program Risk Management (PRM) analysis 
+demonstrated that the executing agency has a low level of fiduciary risk for the 
+execution of the results-driven components (Annex III). The evaluations indicate 
+that the MAPA’s fiduciary systems are backed by a legal framework providing the 
+foundations for sound management of administrative, financial, control, and 
+procurement procedures, in accordance with the principles of transparency, 
+economy, and efficiency.  
+
+2.8 The medium-level risks identified are: (i) limited experience of the executing 
+agency with IDB policies; and (ii) possible delay in purchase of the software 
+needed for activities in Components 1 and 3. To mitigate the first of these risks, 
+the Inter-American Institute for Cooperation on Agriculture (IICA) will be contracted 
+directly as a specialized executing agency to manage part of the consulting 
+services under Component 3. The IICA offers technical advantages on account of 
+its experience and effective capacity to select and hire consultants familiar with 
+Bank policies and with topics linked to the agrifood sector. This has been 
+demonstrated in the execution of a number of MAPA initiatives and in loans with 
+external resources, including those of the IDB (paragraph 3.11). To mitigate the 
+second risk, the results-based disbursement mechanism will create an incentive 
+to speed up processes, and the IDB will support preparation of the terms of 
+reference.  
+
+
+
+ - 14 - 
+ 
+ 
+
+ 
+D. Other project risks and key issues 
+
+Table 4. Other identified risks 
+
+Taxonomy Risk Level Mitigation 
+
+1.  Public 
+management and 
+governance 
+
+Changes in authorities 
+and technical areas in the 
+MAPA and changes in 
+staff could result in delays 
+in execution of actions, 
+outcomes, and 
+disbursements.  
+
+Medium 
+High 
+
+Inclusion in the loan contract 
+of the condition precedent to 
+the first disbursement 
+(creation of the program 
+coordinating unit (PCU) and 
+appointment of its 
+members). 
+
+Dialogue with authorities on 
+key aspects of the program. 
+
+Training of new authorities 
+and technical staff. 
+
+2. Macroeconomic 
+and fiscal 
+sustainability 
+
+Continuity of the fiscal 
+situation of the Federal 
+Government and the 
+states, and limitations on 
+the use of the allocated 
+budget may reduce the 
+resources available for 
+agricultural health 
+services, delay execution, 
+achievement of outcomes, 
+and disbursements.  
+
+Medium 
+High 
+
+Audit of expenses linked to 
+outcomes and return of 
+amounts not applied to 
+outcomes constitute an 
+incentive to avoid budgetary 
+limitations.  
+
+Dialogue with authorities on 
+key aspects of the program 
+and functioning of the LBR. 
+
+3. Macroeconomic 
+and fiscal 
+sustainability 
+
+The Brazilian economy is 
+recovering slowly and 
+strong growth is not 
+expected. A drop in 
+economic activity would 
+reduce tax revenues and 
+the budget allocated to 
+agricultural health 
+services.  
+
+Medium 
+Low 
+
+Audit of expenses linked to 
+outcomes and return of 
+amounts not applied to 
+outcomes constitute an 
+incentive to avoid budgetary 
+limitations.  
+
+Dialogue with authorities on 
+key aspects of the program 
+and functioning of the LBR. 
+
+4. Development Failures in border checks 
+or an increase in the 
+epidemiological risk from 
+neighboring countries 
+could result in the 
+reintroduction of FMD, 
+delaying achievement of 
+the outcomes.  
+
+Medium 
+Low 
+
+Component 1 includes 
+measures to strengthen 
+health checks at the 
+borders. 
+
+Subcomponent 2.2 includes 
+measures to strengthen 
+controls and barriers.  
+
+5. Reputation, 
+monitoring, and 
+accountability 
+
+Private sector pressures 
+may affect health 
+monitoring and the 
+credibility of health 
+services and the program, 
+resulting in temporary 
+closure of export markets, 
+and delays in achieving 
+outcomes, and in 
+disbursements. 
+
+Medium 
+Low 
+
+The program includes 
+measures to automate and 
+standardize processes and 
+move formalities online, 
+reducing face-to-face 
+interactions and the scope 
+for discretionary decisions. 
+Studies will support 
+institutional changes in 
+agricultural health services 
+to reduce these problems. 
+
+ 
+
+
+
+ - 15 - 
+ 
+ 
+
+ 
+2.9 Sustainability. The Government of Brazil has been financing its pest and disease 
+
+control programs for many years. Even in times of deep recession and public 
+spending constraints, these programs have not been affected. Moreover, one of 
+the aims of the institutional reforms being undertaken by the MAPA and of various 
+program activities is to increase efficiency and reduce costs. In addition, the salary 
+costs of technical staff, who are important for the sustainability of all the 
+components, given that they are knowledge intensive, are fixed costs that cannot 
+be subject to budget cuts.  
+
+III. IMPLEMENTATION AND MANAGEMENT PLAN 
+
+A. Summary of implementation arrangements 
+
+3.1 The borrower for the operation will be the Federative Republic of Brazil. The 
+program executing agency will be the MAPA through its Agricultural Protection 
+Secretariat (SDA). A PCU will be created within the SDA’s structure, which will be 
+the MAPA’s point of contact for the IDB. It will also be responsible for coordinating 
+with all the MAPA areas executing program activities, giving them guidance on the 
+program’s operational, administrative, and financial standards and procedures, 
+preparing the reports envisaged under the contract, and proposing measures for 
+improving execution and achievement of the outcomes, etc. The actions in 
+Components 1 and 2 will be the responsibility of six SDA divisions or general 
+coordination units, while the CGOP will be responsible for Components 3 and 4. 
+The program Operating Regulations set out the details of the roles of the PCU and 
+the various SDA areas. 
+
+3.2 For execution of Component 3, the PCU will be supported by the services of the 
+IICA, as a specialized agency, for the contracting of consulting services, and it will 
+have the technical cooperation of the CNPq for the funding of strategic research 
+projects and postgraduate grants (paragraph 3.12). The eligibility criteria for the 
+research projects and grants will be set out in the program’s Operating Regulations. 
+The remainder of the component, which includes improving the SDA’s information 
+systems, will be executed directly by the MAPA. 
+
+3.3 The SDA’s Executive Management Committee, comprising its departmental heads, 
+will act as the program’s Steering Committee, providing strategic guidance, 
+facilitating coordination between the PCU and the various MAPA units, approving 
+the annual work plan (AWP), monitoring progress of execution and achievement of 
+program targets, and proposing measures to streamline execution. 
+
+3.4 The PCU will have a core team comprising a coordinator and an executive manager, 
+together with the technical and administrative staff necessary for execution 
+coordination tasks. It will be supported by other MAPA units on administrative, 
+financial, accounting, procurement, and auditing matters. Setting up the PCU and 
+appointing its members will be a special contractual condition precedent to 
+the first disbursement of the proceeds of the loan based on results 
+(Components 1 and 2) and to the first disbursement of the technical 
+cooperation loan (Component 3). This condition is considered essential for 
+guaranteeing to the Bank that the executing agency will be ready with an appropriate 
+team to start execution. 
+
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=EZSHARE-1211145217-31
+
+
+ - 16 - 
+ 
+ 
+
+ 
+3.5 External results verification. The loan based on results envisages verification 
+
+independent of the IDB and the MAPA/SDA to evaluate fulfillment of the outcomes 
+as a requirement for processing disbursements. 
+
+3.6 The MAPA will contract individual consulting services for this purpose. Optional 
+link 5 presents the protocol for verification of each disbursement indicator. The 
+consultant’s report should: (i) provide an opinion on the accuracy, reliability, validity, 
+and consistency of the information on the outcomes; (ii) determine the value of the 
+outcome indicators; (iii) make recommendations to enhance program execution and 
+address deviations from achievement of results in advance. Under the terms of 
+reference agreed in advance with the Bank, the contracting of consulting 
+services for external results verification will be a special condition precedent 
+to the first disbursement of loan proceeds for Components 1 and 2, as is 
+envisaged in the policy on loans based on results (document GN-2869-1). 
+
+3.7 Disbursement mechanism. For Components 1 and 2, the MAPA will prepare a 
+progress report on program execution and achievement of the results indicators 
+used for annual disbursements (paragraph 1.30), and this report will be sent for 
+external results verification. The independent external evaluator will verify that the 
+results have been achieved in accordance with the objectives mentioned 
+(paragraph 3.6) and by the deadlines set in the terms of reference. Once 
+achievement of the disbursement results has been verified, the MAPA will send the 
+disbursement request to the IDB, which will make the corresponding disbursement 
+when the results of the external verification show that the value of the indicator in 
+question is equal to or greater than the established target. If below the target, the 
+disbursement will be proportional to the extent to which the target has been met. 
+Unused balances may be rescheduled for subsequent disbursements. 
+
+3.8 For Component 3, disbursements will take the form of advances of funds based on 
+semiannual financing plans. For the disbursement of advances subsequent to the 
+first, the IDB will require justification of at least 80% of the cumulative balance 
+pending justification. 
+
+3.9 Program Operating Regulations. The program Operating Regulations will 
+describe the execution arrangements for the operation, including: (i) the program’s 
+organizational structure; (ii) technical and operational arrangements for program 
+execution; (iii) arrangements for scheduling, monitoring, and evaluation of results; 
+(iv) operating procedures; and (v) a detailed description of the results indicators, 
+particularly those relating to disbursements and verification protocols. The 
+approval and entry into force of the program Operating Regulations, under 
+the terms agreed with the Bank, will be a special contractual condition 
+precedent to the first disbursement of the loan based on results 
+(Components 1 and 2) and the first disbursement of the technical 
+cooperation loan (Component 3). The Bank’s experience in the region has 
+shown that approval of the program Operating Regulations before the first 
+disbursement contributes to the internal organization of the executing agency for 
+program execution. 
+
+3.10 Procurement of works, goods and nonconsulting services, and consulting 
+services. The execution of Components 1 and 2 envisages the use of executing 
+agency systems for procurement, in accordance with requirements for loans based 
+on results (document GN-2869-1). For Component 3, procurement financed with 
+
+
+ 
+IDB funds will comply with the “Policies for the Procurement of Works and Goods 
+Financed by the IDB” (document GN-2349-9) and “Policies for the Selection and 
+Contracting of Consultants Financed by the IDB” (document GN-2350-9). The 
+Procurement Plan contains details of procurement during program execution in 
+relation to Component 3 and the procedures applied by the IDB for its review. The 
+independent verification entity will be selected in accordance with the Policies for the 
+Selection and Contracting of Consultants Financed by the IDB (document 
+GN-2350-9). 
+
+3.11 Direct contracting. The IICA will be contracted directly as a specialized agency 
+to manage procurement and contracting of approximately US$20 million under 
+Component 3. The main functions of the IICA will be: (i) supporting consultant 
+selection; and (ii) contract management. This contracting is justified under 
+paragraph 3.10(d) of the Policies for the Selection and Contracting of Consultants 
+(document GN-2350-9), which provides for direct contracting “when only one firm 
+is qualified or has experience of exceptional worth for the assignment” (see 
+Annex III, paragraph 5.4). 
+
+3.12 Funding of grants and research projects. Component 3 envisages the funding of 
+strategic research projects and postgraduate grants (US$6 million). These activities 
+will be carried out through the CNPq, an agency with its own legal status that is 
+linked to the Ministry of Science, Technology, Innovation, and Communication 
+(MCTIC). The CNPq’s main duties are to promote scientific and technology research 
+and promote the training of Brazilian researchers (see Annex III). The MAPA and 
+the CNPq will sign a cooperation agreement to establish the institutions’ roles and 
+responsibilities. The eligibility and selection criteria for research projects and grants 
+will be set out in the program’s Operating Regulations. To formalize the roles of both 
+parties and minimize risks in financial and technical management, the signing and 
+entry into force of the technical cooperation agreement between the MAPA and the 
+CNPq for the execution of research activities and the award of postgraduate grants 
+will be a special contractual condition for execution of the financing under 
+Component 3. 
+
+3.13 Retroactive financing and recognition of expenditures. The Bank may 
+retroactively finance, as a charge against the loan proceeds, eligible expenses 
+incurred by the borrower prior to the loan approval date, for the procurement of 
+consulting services and studies directly related to Component 3 up to the amount of 
+US$7 million (20%), provided that requirements substantially analogous to those set 
+forth in the loan contract have been fulfilled. Similarly, under Component 4, the Bank 
+may recognize expenses against the local contribution up to US$500,000 (10%) for 
+consultants and the purchase of software. These expenses must have been incurred 
+no earlier than 6 June 2018 (project profile approval date), and under no 
+circumstances may expenses incurred more than 18 months before the date of loan 
+approval by the Bank’s Board of Executive Directors be included. 
+
+3.14 Audited financial statements (AFSs). During program execution, AFSs will be 
+submitted annually no later than 120 days after the end of each fiscal period, or the 
+date of the last disbursement in the case of final AFSs. The program’s external audit 
+will be carried out by the Office of the Comptroller General (CGU), as the body 
+responsible for the external oversight of federal government projects executed with 
+
+
+
+ - 18 - 
+ 
+ 
+
+ 
+external financing. For Components 1 and 2, the final AFSs will include an analysis 
+of possible differences between the actual program costs and the sums disbursed. 
+
+B. Summary of arrangements for monitoring results 
+
+3.15 Monitoring and Evaluation Plan. The Results Matrix indicators will be used for 
+monitoring, with the following instruments: AWP, multiyear execution plan, 
+procurement plan, semiannual progress reports, and supervision visits. The MAPA 
+will prepare and send monitoring reports to the Bank no later than 60 days after 
+the end of each six-month period. These reports will focus on the fulfillment of 
+results and output indicators, identify issues encountered, and describe corrective 
+measures adopted. Additionally, for Component 3 the MAPA will submit, to the 
+Bank’s satisfaction, the AWP for the following year, no later than the fourth quarter 
+of each year. 
+
+3.16 The executing agency will submit the following evaluations to the Bank, in 
+accordance with the scope agreed with the Bank: (i) midterm evaluation, once 50% 
+of the loan proceeds are disbursed and justified or after 30 months of execution, 
+whichever occurs first; and (ii) final evaluation, no later than 90 days after the date 
+of the last disbursement. 
+
+3.17 The Monitoring and Evaluation Plan includes the description of the impact evaluation 
+methodology, together with the indicators to be evaluated, the parties responsible 
+for gathering the information, the schedule, and budget. The plan proposes a 
+quasiexperimental evaluation utilizing the gradual expansion of PNEFA activities 
+funded by the program, in order to measure increases in the value of annual 
+agricultural output at farm level. The methodology that will be used for this purpose 
+is a combination of statistical pairing and differences in differences. 
+
+
+

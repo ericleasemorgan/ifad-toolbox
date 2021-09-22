@@ -3,9 +3,6 @@ WB116	1	1	World Bank Document	ORG
 WB116	1	2	1	CARDINAL
 WB116	1	3	5	CARDINAL
 WB116	1	4	PID	ORG
-WB116	1	5	The World Bank Colombia Institutional Strengthening for Territorial Development	ORG
-WB116	1	6	2	CARDINAL
-WB116	1	7	5	CARDINAL
 WB116	2	1	Basic Project Data OPS TABLE Country Project ID Project Name Parent Project	ORG
 WB116	2	2	Colombia P170728 Colombia Institutional Strengthening for Territorial Development	ORG
 WB116	2	3	P170728) Region Estimated Board Date Practice Area	ORG
@@ -16,10 +13,6 @@ WB116	3	3	400.00	CARDINAL
 WB116	3	4	Total World Bank Group	ORG
 WB116	3	5	400.00	CARDINAL
 WB116	3	6	World Bank	ORG
-WB116	3	7	The World Bank Colombia Institutional Strengthening for Territorial Development	ORG
-WB116	3	8	P170728	NORP
-WB116	3	9	3	CARDINAL
-WB116	3	10	5	CARDINAL
 WB116	4	1	Colombia	GPE
 WB116	4	2	National Development Plan	ORG
 WB116	4	3	2018-2022	DATE
@@ -38,13 +31,10 @@ WB116	12	2	three	CARDINAL
 WB116	13	1	two	CARDINAL
 WB116	14	1	1	CARDINAL
 WB116	14	2	Colombia	GPE
-WB116	17	1	The World Bank Colombia Institutional Strengthening for Territorial Development	ORG
-WB116	17	2	4	CARDINAL
-WB116	17	3	5	CARDINAL
-WB116	17	4	2	CARDINAL
-WB116	17	5	Fostering Efficient Urban	ORG
-WB116	17	6	Rural Land Markets - Rural	ORG
-WB116	17	7	Colombia	GPE
+WB116	17	1	2	CARDINAL
+WB116	17	2	Fostering Efficient Urban	ORG
+WB116	17	3	Rural Land Markets - Rural	ORG
+WB116	17	4	Colombia	GPE
 WB116	20	1	3	CARDINAL
 WB116	20	2	2022	DATE
 WB116	22	1	E. Poverty	PERSON
@@ -57,15 +47,3 @@ WB116	22	7	DPF	ORG
 WB116	23	1	Pillar 1	PRODUCT
 WB116	26	1	Pillar 3	PRODUCT
 WB116	31	1	DPF	ORG
-WB116	32	1	The World Bank Colombia Institutional Strengthening for Territorial Development	ORG
-WB116	32	2	5	CARDINAL
-WB116	32	3	5	CARDINAL
-WB116	33	1	Alberto Leyton	PERSON
-WB116	33	2	Alexandra Ortiz Lead	PERSON
-WB116	33	3	Monica Penuela	PERSON
-WB116	33	4	Subdirectora de Credito	PERSON
-WB116	33	5	Washington	GPE
-WB116	33	6	202	CARDINAL
-WB116	33	7	473-1000	CARDINAL
-WB116	33	8	Alberto Leyton	PERSON
-WB116	33	9	Alexandra Ortiz	PERSON

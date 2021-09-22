@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+PROJECT INFORMATION DOCUMENT (PID) 
+APPRAISAL STAGE
+
+Report No.:  PIDA19698
+
+Project Name Second Agricultural Growth Project (P148591)
+Region AFRICA
+Country Ethiopia
+Sector(s) General agriculture, fishing and forestry sector (30%), Irrigation 
+
+and drainage (30%), Agricultural extension and research (20%), 
+Ag ro-industry, marketing, and trade (20%)
+
+Theme(s) Rural services and infrastructure (50%), Water resource 
+management (20%), Micro, Small and Medium Enterprise support 
+(10%), Gender ( 10%), Nutrition and food security (10%)
+
+Lending Instrument Investment Project Financing
+Project ID P148591
+Borrower(s) Federal Democratic Republic of Ethiopia
+Implementing Agency Ministry of Agriculture
+Environmental Category B-Partial Assessment
+Date PID Prepared/Updated 07-Feb-2015
+Date PID Approved/Disclosed 09-Feb-2015
+Estimated Date of Appraisal 
+Completion
+
+09-Feb-2015
+
+Estimated Date of Board 
+Approval
+
+26-Mar-2015
+
+Decision
+
+I. Project Context
+Country Context
+Ethiopia is a large and diverse country. It is land-locked and located in the Horn of Africa, with an 
+area of 1.1 million km2. Its bio-physical environment includes a variety of ecosystems, with 
+significant differences in climate, soil properties, vegetation types, and agricultural potential, 
+biodiversity and water resources. Ethiopia is a country of many nations, nationalities and peoples, 
+with a total population of 91.7 million (2012).  Only 17 percent of the population lives in urban 
+centres, the great majority of them in Addis Ababa. At a current annual growth rate of 2.6 percent, 
+Ethiopia’s population is estimated to reach 130 million by 2025, and is projected by the UN to be 
+among the world’s ten largest countries by 2050. Ethiopia is vulnerable to terms of trade shocks 
+from international food and fuel prices, and to large domestic weather-related shocks as 
+demonstrated by the 2011/12 East Africa drought. 
+ 
+Ethiopia has a federal, democratic government system, established in the early 1990s, with nine 
+autonomous states (‘regions’) and two chartered cities. Decentralization of governance to the 
+
+regional and district (woreda) levels has been actively pursued since 2003. The Ethiopian People’s 
+Revolutionary Democratic Front (EPRDF) has been in power in Ethiopia since 1991. EPRDF 
+comprises four regionally-based parties from the four major regions (Amhara, Oromia, Southern 
+Nations, Nationalities and Peoples (SNNPR), and Tigray). The long-serving Prime Minister, Meles 
+Zenawi, (from Tigray) died in August 2012 and was succeeded by Hailemariam Desalegn (from 
+SNNPR) who has pursued largely the same policies. The next national elections are scheduled for 
+2015. 
+ 
+Ethiopia has experienced strong economic growth over the past decade. Economic growth averaged 
+10.7 percent per year in 2003/04 to 2011/12, compared to the regional average of 5.0 percent. 
+Growth reflected a mix of factors, including agricultural modernization, the development of new 
+export sectors, strong global commodity demand, and government-led development investments. 
+Private consumption and public investment have driven demand side growth, with the latter 
+assuming an increasingly important role in recent years. On the supply side, growth was driven by 
+an expansion of the services and agricultural sectors, while the role of the industrial sector was 
+relatively modest. Recently, annual growth rates have declined slightly, but still remain at high 
+single-digit levels. Growth in the export of goods has also moderated in recent years and a decline 
+was observed in 2012/13 for the first time since 2008/09. There have been bouts of high inflation in 
+recent years and, while inflation is currently much lower, keeping it down remains a major 
+objective for monetary policy. 
+ 
+Ethiopia is one of the world's poorest countries, but has made substantial progress on social and 
+human development over the past decade. The country’s per capita income of US$470  is 
+substantially lower than the regional average of US$1,257 and among the ten lowest worldwide. 
+Ethiopia is ranked 173 out of 187 countries in the Human Development Index (HDI) of the United 
+Nations Development Program (UNDP). High economic growth, however, has helped reduce 
+poverty in both urban and rural areas. Since 2005, 2.5 million people have been lifted out of 
+poverty, and the share of the population below the poverty line has fallen from 38.7 percent in 
+2004/05 to 29.6 percent in 2010/11  (using a poverty line of close to US$1.25/day). However, 
+because of high population growth, the absolute number of poor (about 25 million) has remained 
+unchanged over the past fifteen years. Ethiopia is among the countries that have made the fastest 
+progress on the Millennium Development Goals (MDGs) and HDI ranking over the past decade. It 
+is on track to achieve the MDGs for gender parity in education, child mortality, HIV/AIDS, and 
+malaria. Good progress has been made in universal primary education, although the MDG target 
+may not be met. Reduction of maternal mortality remains a key challenge. 
+ 
+GoE is currently implementing its ambitious Growth and Transformation Plan (GTP; 
+2010/11-2014/15), which sets a long-term goal of becoming a middle-income country by 2025, 
+with growth rates of at least 11.2 percent per annum during the plan period. To achieve the GTP 
+goals and objectives, GoE has followed a “developmental state” model with a strong role for the 
+government in many aspects of the economy. It has prioritized key sectors such as industry and 
+agriculture as drivers of sustained economic growth and job creation. The GTP also reaffirms 
+GoE’s commitment to human development. Development partners have programs that are broadly 
+aligned with GTP priorities. 
+ 
+The World Bank Group’s Country Partnership Strategy (CPS, FY13-16) builds on the progress 
+achieved by Ethiopia in recent years and aims to help GoE address structural transformation and 
+assist in the implementation of the GTP. The CPS framework includes two pillars. Pillar One, 
+
+
+“Fostering competitiveness and employment”, aims to support Ethiopia in achieving: (i) a stable 
+macroeconomic environment; (ii) increased competitiveness and productivity; (iii) increased and 
+improved delivery of infrastructure; and (iv) enhanced regional integration.  Pillar Two, “Enhancing 
+resilience and reducing vulnerabilities”, aims to support Ethiopia in improving the delivery of social 
+services and developing a comprehensive approach to social protection and risk management. Good 
+governance and state building form the foundation of the CPS. In line with the GTP, gender and 
+climate change have been included as cross-cutting issues to strengthen their mainstreaming across 
+the portfolio. The programs of IFC and MIGA are well aligned with the CPS framework, 
+contributing mainly to the strategic objectives under Pillar One.
+
+  
+
+Sectoral and institutional Context
+The agricultural sector remains a dominant sector in the Ethiopian economy and an important 
+source of economic growth. Although there is an on-going structural transformation in the 
+Ethiopian economy, predominantly from agriculture to services and manufacturing, agriculture still 
+comprises 45 percent of total output and continues to dominate employment (78 percent). The 
+sector is also a major contributor to export earnings, with over 80 percent of goods exports. Despite 
+its declining share in the economy, the agriculture sector is growing rapidly. Over the past 15 years 
+the average rate of growth has been around seven percent per year according to official statistics. 
+Sources of growth have come from an increased area under cultivation and from increased 
+productivity, the latter driven by large public investment in the sector, including agricultural 
+extension, rural roads, and advances in public policy such as improvements in land tenure security. 
+In addition to contributing to economic output and exports, agricultural growth is correlated with 
+poverty reduction, for smallholder farmers and also through positive impacts on non-farm rural 
+economies. 
+ 
+Although Ethiopia has a trend of negative overall balance of trade, the country has consistently had 
+a positive balance of trade in the agriculture sector. The agriculture imports per capita and exports 
+per capita stood at $13.28 and $18.27 respectively in 2011. The top three agriculture exports have 
+been coffee, oil seeds and pulses while the largest imports have been cereals, edible oils and sugar. 
+In spite of the positive trade balances in the sector, marketing (including intra-regional trade) in the 
+sector is constrained by mixed and often unfavorable policies for input and output markets and poor 
+infrastructure leading to high transportation costs. There remains considerable potential for both 
+increased exports from the sector and further import substitution, especially for cereals 
+(predominantly wheat) and sugar.   
+ 
+The further growth of the agriculture sector is expected to feature prominently in the second phase 
+of the GTP (GTP-II), currently under preparation.  Maintaining the current growth rate in the sector 
+will be challenging as recent gains from land expansion may be exhausted, and further increases 
+will need to come from increased agricultural productivity. Progress requires both investment and 
+policy reform.  The general thrust on policy reform is to pursue agricultural transformation by 
+increasing private sector investment and value added in the country to increase the value of exports. 
+In 2012, the Government agreed a G8 New Alliance framework for Ethiopia with a number of 
+commitments for policy actions to facilitate the expansion of private investment.  Under this 
+framework, the Government intends to focus its efforts in particular on: i) increasing stability and 
+transparency in trade policy; ii) improving incentives for the private sector investment; iii) 
+developing and implementing a transparent land tenure policy; and iv) developing and 
+implementing domestic seed policies that encourage increased private sector involvement in this 
+
+area. To support the transformation agenda, the Government established the Agricultural 
+Transformation Agency (ATA) in 2011 to support the Ministry of Agriculture to advance policy 
+and build capacity.  Notable achievements include the new Agricultural Cooperatives Development 
+Strategy and the passing of the Seeds Proclamation. 
+ 
+The Government’s agricultural development strategy focuses on both encouraging large scale 
+investment in commercial agriculture and support to smallholder farmers, who in 2012/13 
+contributed 96 percent of the total agricultural production according to official statistics. To 
+increase agricultural productivity of smallholders and their transformation to commercial farmers 
+requires a strengthening and focusing of support services and infrastructure, and greater private 
+investment to support input and output value chains.  To drive this transformation, the Government 
+is moving towards focused support to specific commercialization clusters targeting areas with the 
+highest potential for the production of commodities for which Ethiopia has a comparative 
+advantage and can stimulate agro-processing and value addition.   
+ 
+Despite the large investment into public agricultural services, especially into extension, which has 
+seen a rapid rise in the number of extension workers and beneficiaries served year on year, there are 
+capacity weaknesses which continue to inhibit the identification and dissemination of technologies 
+to support increased productivity.  Strengthening research and extension linkages, further expansion 
+and capacity of the extension service and enhancing farmer access to inputs are required to support 
+investments in extension workers.  Improving agriculture research has been prioritized in GTP and 
+the same is expected in GTP II because of the pivotal role it plays to improve agricultural 
+productivity and production and recognizing that in recent years it has been underfunded.  Animal 
+health and production services also suffer from capacity limitations and low outreach, leading to 
+low productivity and quality across a range of animal products.  
+ 
+Access to and application of agricultural inputs is a decisive factor to improve agricultural 
+productivity and production.  In addition to improved seeds, animal breeds and fertilizers, there is 
+considerable opportunity to promote the use of machinery for production and post-harvest 
+activities.  Innovations such as row planters for teff have had a considerable impact on productivity. 
+However, input markets in Ethiopia are typically overly dependent on cooperative unions and the 
+agro-dealer market is small and underdeveloped.  While cooperatives can play an important role in 
+linking smallholder farmers to input and output markets, they are often hampered by weak 
+management and facilities, and currently only handle a small percentage of agricultural output.  
+There is potential for strengthening cooperatives while also enabling greater private engagement in 
+both input and output markets.  
+ 
+Output marketing system and infrastructure in Ethiopia are dominated by traditional, informal 
+exchanges. For a large part of the country, this means trading with limited infrastructure. There are 
+few market structures, storage, loading and unloading facilities, quality checking and banking 
+services in or around most of the market centers. This has resulted in the cost of trading being very 
+high due to cumbersome conditions for transaction, low product qualities and post-harvest losses.  
+Value chains (other than for coffee which has a relatively efficient market structures) are therefore 
+characterized by an absence of market participants, market inefficiencies and limited value addition. 
+With increasing agricultural surpluses, rapid urbanization and increased opportunities for agro-
+industrial investment, there are gaps in the current functioning in a number of value chains which 
+are prioritized under the commercialization cluster approach to achieving transformation.  
+ 
+
+
+Agricultural water development is crucial to improve smallholders’ livelihood and income in 
+Ethiopia, since irrigation can help farmers increase their crop production, increase crop varieties, 
+and lengthen their agricultural seasons. From a very low base, over the next five years there are 
+targets to increase the total area of irrigated land from the current 640,000 hectares (about 4 percent 
+of currently cultivated land) to about 1.8 million hectares. Small Scale Irrigation (SSI) and Rain 
+Water Harvesting (RWH) will account for about two-thirds of this expansion, as these technologies 
+require lower capital and technical investments and they are possible on small plain areas. Beyond 
+the next five years, plans are to reach the full irrigable potential of the country of over 5 million 
+hectares. Household irrigation as well as medium- and large-scale schemes will be an important 
+strategy to achieve this goal, in combination with exploring and developing groundwater potential, 
+especially given that an estimated 85 percent of Ethiopia’s total surface water irrigation potential is 
+estimated to be in large-scale schemes.  
+ 
+Future agricultural growth needs t o be sensitive to gender.  On average, female farm managers in 
+Ethiopia produce 23 percent less (in terms of gross value of output) per hectare than their male 
+counterparts. Differences in both the levels of productive factors used and the returns that these 
+factors generate drive this gender gap. Future inclusive agricultural growth should consider: (i) the 
+promotion of labor-saving technologies for women; (ii) the provision of relevant information to 
+female farmers, customized to the needs of female farmers; and (iii) the easing of the time burden 
+of household responsibilities, by providing services to reduce the time that female farmers need to 
+perform household duties to enable them to devote more time to productive farm activities. Recent 
+research demonstrates the potential of women to contribute to agricultural growth and improve 
+outcomes, including improved nutrition.   
+ 
+In Ethiopia, forty percent of children under the age of five suffer from stunting as a consequence of 
+chronic and cyclical malnutrition. The National Nutrition Program (NNP) was revised in 2013 to 
+strategically address the nutrition problem in the country to include initiatives that have emerged 
+since the 2008 NNP, including taking into account the multisectoral and multidimensional nature of 
+nutrition and the linkages among key implementing sectors, one being agriculture.  This program, 
+endorsed by the Ministry of Agriculture, the Ministry of Health and another eight line Ministers, 
+includes a strategic objective to strengthen implementation of nutrition sensitive interventions in the 
+agriculture sector. The initiatives focus on improving the consumption of diversified diets at the 
+household level through: (i) diversification of crop, fruits and livestock production; (ii) promotion 
+of appropriate technologies for food production and processing through the handling, preparation 
+and preservation for food diversification to ensure nutritious food utilization;  (iii) building the 
+capacity of Development Agents (DAs) at community level and agriculture program managers at all 
+levels to implement nutrition sensitive agriculture;  (iv) supporting local complementary food 
+production and creating economic opportunities for women through development groups and 
+cooperatives; and, (v) supporting agricultural research centers to develop seeds of high nutritional 
+value.  Thus, it calls for aligning the agricultural growth programs to improve nutritional status. 
+ 
+With the limits of bringing uncultivated land under production being met, the likelihood of climatic 
+variability and the potential degradation arising from more intensive production practices increases, 
+and thus there is an urgent need for agriculture to conserve resources and reduce degradation. In 
+recent years, considerable amount of work in natural resource conservation and development work 
+has been undertaken. In 2013/14 alone, the communities undertook natural resources conservations 
+work on 20.15 million hectares of land throughout the country, according to official statistics.  This 
+current momentum of community mobilization in natural resource conservation by pursuing 
+
+
+
+
+activities such as slope stabilization, watershed approaches to water management and reduction of 
+tillage should be sustained to make the sector more resilient and sustainable. 
+ 
+The opportunities for inclusive and sustainable growth in the sector are strong as is the 
+Government’s commitment to achieving ambitious growth and transformation targets.  The 
+Agricultural Sector Policy and Investment Framework (PIF), 2010 – 2020, provides an investment 
+framework to align the investment and policy priorities with higher level goals to transform the 
+sector and is designed to operationalize the CAADP Compact signed by the Government and its 
+development partners. Under the PIF, there have been concerted efforts to collaborate and partner 
+on investments and the Agricultural Growth Project (AGP I – P113032) was a clear output of this. 
+The first phase of the program was financed to around US$350 million, including US$150 million 
+from IDA, US$50 million from the Global Agriculture and Food Security Program (GAFSP), a US
+$50 million Multi-donor Trust Fund with contributions from the Netherlands, Canada and Spain, 
+and parallel financing from USAID and Italy.  Currently, AGPI operates at  kebele levels (the 
+lowest administrative unit) in 96 woredas of the four regions of Amhara, Oromia, SNNPR and 
+Tigray and has provided support for improved public agricultural service provision, technology 
+transfer, improved market access and marketing, infrastructure (household and small-scale 
+irrigation, feeder roads and market centers) and capacity building.  The project further explicitly 
+aims to increase the participation of women and youth in the sector.  The proposed project therefore 
+aims to build on AGP1, to scale up the geographical extent, consolidate the investments, and meet 
+the emerging challenges of the sector outlines above. 
+ 
+Under AGPI, the project has been operating in 4 regions (Amhara, Oromia, SNNP and Tigray), 96 
+woredas and 2,423 kebeles, targeting 1.57 million direct beneficiaries.  The AGP2 project would 
+cover 157 woredas, which would include all woredas targeted under AGP1 plus an additional 61. 
+The woredas are distributed among the following regions: Amhara, Oromia, SNNPR, Tigray, 
+Benshangul-Gumuz, Gambella, Harari and Dire Dawa Administrative Council. The expansion into 
+the new regions and Dire Dawa would be on a limited scale, with two woredas in each of 
+Benshangul-Gumuz and Gambella, and one in each of Harari and Dire Dawa.
+
+II. Proposed Development Objectives
+The Project Development Objective is to increase agricultural productivity and commercialization 
+of small holder farmers targeted by the project.
+
+III. Project Description
+Component Name
+Agricultural Public Support Services.
+Comments (optional)
+To increase access to public agricultural services for smallholder farmers, the project will support 
+the strengthening of public services delivery, including for agricultural extension services;  animal 
+production and animal health services; crop production and plant health services; natural resource 
+management services; soil fertility management services; and agricultural mechanization.
+
+Component Name
+Agricultural Research
+Comments (optional)
+To increase the supply of demand driven agricultural technologies which directly link to the other 
+components, the project will support technology adaptation and generation and the release of 
+
+
+technologies to the agricultural extension system; pre-extension demonstration and participatory 
+research for recommended agricultural technologies; and source technology production, including 
+the production of breeder and pre-basic seeds for major crop varieties.
+
+Component Name
+Small-scale Irrigation
+Comments (optional)
+To increase the access to and efficient utilization of irrigation water of small holder farmers, the 
+project will support the increased availability of irrigated water through: i) the rehabilitation, 
+upgrading and/or improvement of existing Small-scale Irrigation Schemes; ii) establishment of new 
+SSI systems integrated with access roads where necessary; and iii) household irrigation systems. 
+The project would also support improved water management services through establishing and/or 
+strengthening Irrigation Water Users Organizations and the introduction of improved irrigation 
+agricultural management.
+
+Component Name
+Agricultural Marketing and Value Chains
+Comments (optional)
+To commercialize small holder farmers through market access and efficiency of input and output 
+markets, the project would support: the promotion and distribution of agricultural inputs, 
+specifically seed multiplication and distribution; the strengthening of formal and informal farmer 
+organizations, including formal farmer organizations and informal, commercially oriented farmer 
+groups; the strengthening of selected livestock and crop value chains; and market infrastructure 
+development and management.
+
+Component Name
+Project Management, Capacity Building and Monitoring and Evaluation.
+Comments (optional)
+To ensure project implementation, the effective monitoring and evaluation of results and a 
+consistent and effective approach to capacity development, the project would support: project 
+management and coordination; monitoring, evaluation and learning; and the Capacity Building 
+Support Facility.
+
+IV. Financing (in USD Million)
+Total Project Cost: 581.80 Total Bank Financing: 350.00
+Financing Gap: 216.20
+For Loans/Credits/Others Amount
+BORROWER/RECIPIENT 15.60
+International Development Association (IDA) 350.00
+Total 365.60
+
+V. Implementation
+The AGP 2 will build on institutional arrangements and implementation mechanisms established for 
+th AGPI.  As in the first phase, the implementation of the project will rely on existing GoE 
+structures, with the exception of parallel funding through the USAID and Canadian DFATD that 
+will be channeled through specific implementation arrangements. The Ministry of Agriculture will 
+have the overall responsibility of the coordination and implementation of the project. To fulfill its 
+
+
+bilities, the MoA will use - or will establish in the new targeted regions - the institutional 
+mechanisms already established for AGP 1 at Federal, Regional, and Woreda levels, i.e: (i) the 
+Steering Committees (SCs), (ii) the Technical Committees (TCs), and (iii) the Project’s 
+Coordination Units (CUs). The existing composition of these Committees will be reviewed in order 
+to include new implementing agencies such as the Ethiopian Institute for Agricultural Research 
+(EIAR). At the Zonal level, the Zonal Agriculture Office (ZAO) will provide technical support, 
+extension services and M&E to the group of woredas under its authority. The ZAOs will coordinate 
+with the Woreda Offices of Agriculture (WOA). 
+ 
+Implementation of the project will be decentralized. Federal implementing agencies will provide 
+guidance and support to regions, spearhead most institutional capacity building activities and 
+undertake monitoring, evaluation and communication activities. At regional and woreda levels, the 
+Bureaus/Offices of Agriculture will assume primary responsibility for execution of the project.  
+Implementation of AGP at the regional level will also be supported by relevant service providers 
+and institutions.  
+ 
+The annual planning process will follow a two-pronged approach associating: (i) a demand-driven 
+approach based on the Community Level Participatory Planning (CLPP) approach adopted for AGP-
+I in which communities are assuming primary responsibility for identifying and executing the 
+community-based investment of the project, and (ii) a strategic-based approach in which 
+investments are pre-identified through the Kebele, Woreda and Regional development plan or 
+through specific feasibility studies, and implemented in close collaboration with the community 
+after a consultation process. At the woreda and kebele levels, the implementation of the project 
+would be undertaken jointly by Woreda Office of Agriculture through the Woreda Development 
+Committee (WDC), the Kebele Development Committee (KDC), and the communities. The WDC 
+and the KDC will be guided by their respective SCs and TCs.
+
+VI. Safeguard Policies (including public consultation)
+Safeguard Policies Triggered by the Project Yes No
+Environmental Assessment OP/BP 4.01 ✖
+Natural Habitats OP/BP 4.04 ✖
+Forests OP/BP 4.36 ✖
+Pest Management OP 4.09 ✖
+Physical Cultural Resources OP/BP 4.11 ✖
+Indigenous Peoples OP/BP 4.10 ✖
+Involuntary Resettlement OP/BP 4.12 ✖
+Safety of Dams OP/BP 4.37 ✖
+Projects on International Waterways OP/BP 7.50 ✖
+Projects in Disputed Areas OP/BP 7.60 ✖

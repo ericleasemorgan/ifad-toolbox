@@ -1,0 +1,1207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Burkina Faso Agriculture Resilience and Competitiveness Project (P167945) 
+
+ 
+ 
+
+  
+Apr 22, 2019 Page 1 of 27  
+
+     
+
+ 
+ 
+ 
+      
+
+ 
+
+Combined Project Information Documents /  
+Integrated Safeguards Datasheet (PID/ISDS) 
+
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 29-Jul-2019 | Report No: PIDISDSA26219 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Burkina Faso P167945 Burkina Faso Agriculture 
+Resilience and 
+Competitiveness Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA 30-May-2019 30-Aug-2019 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing MInistry of Economy and 
+Finance 
+
+Ministry of Agriculture 
+and Irrigation 
+Development 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+The objective of the Project is to increase agricultural productivity and market access for small producers and small 
+and medium agribusiness entrepreneurs for selected values chains in Project Areas. 
+
+ 
+Components 
+
+Enhancing Agriculture Productivity 
+Improving Competitiviness and Fostering Market Access 
+Promoting Private Sector-Led Agribusiness Development 
+Project Coordination, Institutional Strengthening and Contigent Emergency Response Component 
+
+ 
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 200.00 
+
+Total Financing 200.00 
+
+of which IBRD/IDA 200.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+
+     International Development Association (IDA) 200.00 
+
+          IDA Credit 200.00 
+
+    
+
+Environmental Assessment Category 
+
+A-Full Assessment 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+
+
+
+ 
+
+A. Introduction and Context 
+ 
+1. Burkina Faso (274,000 km2) is a landlocked, low-income country with high demographic growth and poverty 
+levels. With a Gross National Income (GNI) per capita of US$610 in 2017, Burkina Faso is amongst the 20 poorest 
+countries in the world. The population of about 19.6 million (2017) is young (46 percent under 15), with high growth 
+rate (3 percent) and the majority (70 percent) lives in rural areas. Poverty continues to be overwhelmingly concentrated 
+in rural areas, which are home to 90 percent of the poor. The country was ranked 185 out of 188 countries on the 2015 
+overall UN Human Development Index (HDI). Non-income indicators of poverty and welfare, particularly in the areas of 
+education and health, are among the lowest in the world, and most of the Sustainable Development Goals (SDGs) 
+appear out of reach.   
+ 
+2. Economic performance has been relatively strong in the past decade; but growth has levelled off recently. 
+Over the past fifteen years, economic growth has averaged about 5.5 percent per year (IMF, 2018). Burkina Faso’s 
+economy is still heavily reliant on agriculture (especially cotton) and mining (especially gold), which contribute the bulk 
+of its export revenues. The recent fluctuation in gold and cotton prices, combined with drops in grain production and 
+political instability, have contributed to the slowdown in economic growth. The country has made progress in 
+implementing structural reforms, sound economic policies, increased cotton and mining production, steady 
+investments, and a stable macroeconomic environment. Monetary and exchange rate policy has been well-managed, 
+and inflation has been kept at a low level (less than 3 percent over the past decade and 0.4 percent in 2017).  Burkina 
+Faso has a relatively healthy banking sector. The country is also working toward an integrated and open regional 
+economic space through the West African Economic and Monetary Union (WAEMU), the Economic Community of West 
+African States (ECOWAS), and other African cooperation initiatives notably the Africa Food Security Leadership Dialogue 
+on Adapting African Agriculture to Climate Change in support of the Comprehensive African Agriculture Development 
+Program (CAADP) Food Security Commitment.  In 2017, the country was ranked 74 in the world, one of the best rankings 
+in Sub-Saharan Africa, according to the Corruption Perception Index. 
+ 
+3. The country faces many socio-political and security challenges which have impeded a full economic recovery; 
+the harsh climate and environment degradation are making these challenges even more acute. Burkina Faso has 
+recently experienced internal unrest fueled by the unequal distribution of resources and a perceived lack of 
+accountability in the management of public resources. This situation has been exacerbated by insecurity in neighboring 
+Mali, and the Sahel region in general. Burkina Faso hosts more than 25,000 Malian refugees. The security situation has 
+worsened significantly since June 2018 due to an upsurge in violent attacks by terrorists and criminal groups in the 
+Eastern and Northern regions. If not addressed adequately, security challenges are expected to continue to impact the 
+country's socioeconomic prospects in the years to come.  The harsh climatic conditions which hinder efforts to reduce 
+vulnerability and extreme poverty are compounding the security challenges. 
+ 
+4. To confront these challenges, the Government is implementing the National Program for Economic and Social 
+Development (Plan National de Développement Economique et Social – PNDES). The PNDES lays out the Government’s 
+vision and action plan for the period 2016-2020. It emphasizes the structural transformation of the economy with 
+agriculture playing the key role as a driver of growth. Its priority interventions are to increase productivity, improve the 
+management of water resources for agriculture, develop market infrastructure and support institutional 
+transformation. It also highlights the challenges related to climate change and the degradation of soils, with the 
+objective to support a transition towards a green economy and the sustainable management of natural resources. 
+
+
+
+B. Sectoral and Institutional Context 
+ 
+5. Burkina Faso’s agriculture sector is still one of the main pillars of the national economy, although its 
+contribution to the Gross Domestic Product (GDP) has decreased recently. Farming and livestock activities still occupy 
+about 86 percent of Burkina Faso’s workforce and constitute the main source of income for the poorest populations. 
+The sector’s contribution to GDP, however, has declined from 35 percent in 1999 to 32.6 percent in 2013 (FAOSTAT, 
+2014), due to the diversification of the economy into areas such as mining. Most crops including cereals (millet, 
+sorghum, maize and other cereals including coarse/feed grains), and commercial crops (mainly cotton), as well as 
+legumes (cowpeas, groundnuts) are produced under rainfed conditions with low yields, with high vulnerability to 
+climate change. As part of the traditional Sahelian parkland landscape, those crops often are produced in systems that 
+also include useful trees, such as shea, baobab, locust-bean trees and others. Other crops, including rice, onions, 
+tomatoes, and other horticultural crops, are cultivated under full irrigated (full water control) or semi-irrigated 
+(bottomland) conditions. The yields of irrigated crops are also still below potential. An extended household may farm 
+around 9.6 hectares (24 acres) in total, but plot sizes are small, with each plot averaging only 0.4 hectares, producing 
+mostly for household consumption with little marketable surplus1. The production of food/ feed grains, of which by-
+products are used for animal feeding (e.g., shredded millet/corn stalks), is common and remains the customary crop-
+livestock mixed production model.  
+ 
+6. Agriculture faces difficult agro-ecological conditions which are getting harsher due to climate change and 
+increasing human pressure, leading to a situation where vulnerability and food insecurity remain key issues.  Along 
+the Southern edge of the Sahelian band, the country faces the arid to semi-arid climate typical of the region. The rainfall 
+is low overall (400 mm per year average in the Sahelian zone and 800-1000 mm in the Sudano-Sahelian zone), irregular 
+and poorly distributed; and it is experiencing a downward trend. Some estimates indicate that more than 3.5 million 
+people, roughly 20 percent of the population, are food insecure and/or suffer from inadequate nutrition. Like in much 
+of the Sahel region, the increase of the population is both an asset and a challenge for agriculture, as demand for food 
+increases and the needs for proper nutrition and food security must be addressed. The country’s rural areas are 
+experiencing changes in land occupation patterns, with many former pastoralists becoming sedentary farmers and 
+growing crops but also retaining roaming livestock herds. Therefore, pressure on land has increased, and there are 
+increasing conflicts between pastoralists and farmers.  As a result, improved land management practices are 
+increasingly required to secure land tenure, to optimize crop yields and to conserve land as a viable resource for the 
+long run, including maintaining the carbon sequestered in the soil and landscape. 
+ 
+7. The transport sector in Burkina Faso suffers from numerous constraints which hinder economic development, 
+reducing the competitiveness of the tradable sectors of the economy including agriculture production. The state of 
+transport infrastructure is poor, and the provision of transport services, hampered by road blocks and poor 
+management, remains inefficient. The rural roads network is not sufficiently dense to permit access to all potential 
+agriculture production areas. Key production areas remain enclaved, especially since many roads are not passable by 
+regular vehicles during the rainy season. This is a major constraint to both providing the required production inputs at 
+farm-gate and accessing market outlets to dispose of marketable production.   
+ 
+8. Burkina Faso has substantial assets to develop its agriculture, both on the supply and demand side: 
+
+i. On the supply side: (i) substantial land and agro-ecological potential, yet unexploited, offers opportunities to develop 
+diversified agriculture systems; the country is endowed with 9 million ha of farmland, of which less than one-half (46 
+percent) is currently under cultivation; (ii) traditional know-how and good experience of producers in certain 
+production systems (flood recession cultivation, livestock fattening, poultry production, collection of agroforestry 
+
+ 
+
+products) and existence of many technological packages ready to be disseminated and applied; and (iii) substantial 
+potential for irrigated farming using ponds and rivers, as well as underground water; and 
+
+ii. On the demand side, agriculture development is spurred by: (i) a sizable and increasing domestic demand for food, 
+particularly processed food, in tune with the nutrition needs of a rapidly increasing population overall, and with 
+changing consumer preferences shifting towards greater diversification of diets and more value being attributed to 
+convenience and quality; and (ii) the increasing demand for key export commodities (horticultural crops, shea nuts, 
+cattle/meat) on regional and international markets. 
+
+9. To transform its agriculture, Burkina Faso needs to address key constraints: 
+a. Regulatory and institutional constraints: the legal texts governing the sector’s regulatory 
+
+framework are not always adequate, and those existing are often insufficiently used or 
+enforced2, and the means and capacity of intervention of the State services are limited, 
+including planning and programming, statistical services, monitoring and evaluation, and 
+information systems; 
+
+b. Weakness of extension services: there are limited agriculture extension and outreach 
+services to disseminate innovations, with consequent low expertise of producers and other 
+operators in the value chains;  
+
+c. Limited access to irrigation water resources and improved inputs: There is insufficient access 
+to irrigation water resources (both through gravity and pumping) and improved inputs 
+(fertilizers, phytosanitary inputs, mechanized implements, feed supplies, certified seeds, 
+etc.); 
+
+d. Poor management of natural resources: both climate change and anthropic pressure are 
+leading to widespread land degradation. About 170,000 hectares per year of natural 
+vegetation are lost because of land degradation and deforestation. At the current pace, 
+Burkina Faso will lose approximately 15 percent of its agricultural land within 10 years; 
+
+e. Limited competitiveness and weak connection to markets: poor public infrastructure, and 
+insufficient private investment for production, processing, storage, transport and 
+marketing, as well as the low valorization of by-products, insufficient market information 
+and capacity to adhere to commercial norms and standards, and the low degree of 
+organization of sector actors, all contribute to marketing inefficiencies; and 
+
+f. Limited access to financing: commercial banks and micro-finance institutions, are reluctant 
+to lend to agriculture given the high level of risk involved in the sector. 
+
+ 
+ 
+
+10. Despite a large potential, irrigation remains underdeveloped and underexploited; tapping irrigation water 
+resources is crucial to improve agricultural performance. Despite low and erratic rainfall, Burkina Faso enjoys relatively 
+abundant water resources, with current agricultural withdrawals for irrigation representing a fraction of total renewable 
+water resources and annual recharge. Irrigation development, in the context of erratic weather conditions currently 
+amplified by climate change, has the potential to increase the resilience and productivity of the agriculture sector. 
+Moving from rainfed crops to irrigated crops, as possibly feasible, is the strategy emphasized by PNDES for the 
+agriculture sector. The irrigation sector in Burkina Faso, like in most Sahelian countries has experienced different stages 
+of development. Following the limited success of the large-scale public irrigation schemes in the 1980s, institutional 
+reforms refocused the role of public irrigation companies on irrigation development, with partial management transfer 
+to water users’ associations. This has required that the management (operation and maintenance) of the irrigation 
+
+       
+
+systems be carried out by institutions equipped with the necessary technical/ managerial capacity, with enough 
+autonomy and flexibility, and with accountability to both the Government and users. In this respect, the project will 
+provide support to Water User Associations (WUAs) so that they play an effective role in water management. 
+ 
+11. There is large untapped potential for the development of Burkina Faso´s agro-industrial sector; but currently 
+the country’s agro-processing base is weak. Only about 12 percent of agriculture commodities are processed before 
+being sold on the market3. Many bottlenecks in the various value chains limit value addition, such as lack of conditioning 
+or processing units. Linkages between farmers and downstream industrial and market operators are weak. Despite 
+these constraints, agri-food systems are quickly changing in Burkina Faso like many other Sub-Saharan Africa countries, 
+in response to changing demographic patterns coupled with economic growth. Fast-increasing population, urbanization 
+trends and income growth are changing food demand in unprecedented ways, with large increases in total quantities 
+demanded, growing preference for convenience, diversification of diets towards more fresh products, and an increased 
+demand for product quality4. Food demand is growing particularly for items that are more processed, increasingly 
+purchased on the market (instead of grown for self-consumption) and perishable (i.e., meat, dairy and fresh produce). 
+A small but growing middle class already spends a significant fraction of its income on processed food. Demand for 
+processed foods is thus expected to grow in Burkina Faso and neighboring countries, leading to sizable market 
+opportunities for increased value addition through agro-processing. 
+ 
+12. The weak enabling environment and limited access to commercial credit are major constraints for agriculture 
+and agribusiness development. The 2017 World Bank Group Enabling the Business of Agriculture (EBA) report shows 
+that Burkina Faso’s regulatory framework is impeding private investment in agriculture and agribusiness, all along the 
+value chain. Significant weaknesses have been identified in regulations related to seed, fertilizer, agricultural machinery, 
+water and market access. Public services, as well as professional organizations, need to be strengthened to address 
+these weaknesses. Regarding credit, the agriculture sector receives only eight percent of commercial bank lending (of 
+which 4.2 percent is for financing cotton) and fifteen percent of lending by Micro-Finance Institutions (MFIs). Access to 
+finance by smallholder farmers is constrained by the following factors: low degree of organization of the value chains 
+(except cotton), lack of bankable projects, limited exposure to financial entities, and lack of acceptable collateral. In 
+addition, there are very few financial products whose terms and conditions would be adapted to the seasonal 
+production cycles. Credit is mainly earmarked for production and trading of agricultural products, but very limited for 
+agro-processing activities. The fact that agriculture is exposed to significant weather shocks increases the volatility of 
+revenues and the risk due to drought, and hence the attendant risk faced by banks. The development of irrigation under 
+the project, with provision of irrigation water year-round, will lessen this risk. This is important in the context of Burkina 
+Faso where the use of suitable risk management instruments is lacking. 
+ 
+13. Agriculture institutions exhibit major weaknesses. The primary institution in charge of crop production and 
+irrigation development in Burkina Faso is the Ministry of Agriculture and Rural Hydraulics (MAAH). MAAH carries out its 
+operations through five core directorates dedicated to irrigation (Direction Générale des Aménagements of Hydo-
+Agricoles et du Development de l ’Irrigation - DGAHDI), agricultural extension (DGPV), rural economy and sanitary & 
+phyto-sanitary control (DGPER), land tenure and producer organizations (DGFOMR), and Monitoring & Evaluation and 
+statistics (DGESS).  MAAH field operations are implemented through a network of decentralized branches including 
+regional and provincial directorates, and regional technical support units. MAAH’s other decentralized institutions of 
+
+MAAH include seed production units, rural promotion centers, and regional laboratories for seed quality control. The 
+following other ministries share responsibilities for agriculture in different areas: (i) the Ministry of Infrastructure (MI) 
+for rural roads and tracks, (ii) the Ministry of Environment, Green Economy and Climate Change (MEEVCC) for 
+environmental matters, including management of non-timber forest products and productive parklands such as shea 
+parks, and (iii) the Ministry of Commerce, Industry and Handicrafts for the promotion of Small and Medium Enterprises 
+(SMEs), agro-processing and trade. There are other specialized semi-autonomous structures attached to MAAH with 
+responsibility for specific interventions, as well as several private, consular or non-profit institutions active in agriculture 
+such as the network of chambers of agriculture (Reseau des Chambres Agricoles - RECA) which provides general support 
+to its private membership, the Maison de l’Entreprise which supports SMEs. The above institutions represent a fairly 
+comprehensive set-up with good potential as framework to support agriculture development. However, as a general 
+rule, most of these institutions display major weaknesses which prevent them from being fully effective, including 
+insufficiently skilled staff and weak managerial and technical capabilities. This situation is compounded by limited 
+operating budgets and/ or insufficient financial support from stakeholders and membership, lack of office and technical 
+equipment, poor working conditions including office buildings which need renovation or upgrade. 
+ 
+14. Gender gaps persist in Burkina Faso, particularly in farming activities. In the 2016 Human Development Report, 
+the country ranked 146th out of 149 countries in gender inequality owing to gender disparities in a number of socio-
+economic aspects. Female-headed households have 14 percent lower per capita food consumption and are more food 
+insecure than male-headed households.5 Women's access to agricultural extension services, credit and productive 
+resources such as agricultural inputs and equipment remains limited. Agriculture plots managed by women produce 
+less per hectare than plots managed by men. The primary factors that contribute to the gender productivity gap in 
+agriculture in Burkina Faso are essentially three fold: (i) women face constraints because of their duties in two economic 
+spheres: the productive and the reproductive tasks in the household; (ii) women have limited access to farm labor, 
+particularly male farm labor; and (iii) their productivity is limited by weak access to credit for agricultural inputs, 
+improved farming equipment and labor.  
+
+ 
+15. Youth unemployment is acute; it undermines the political and economic stability of the country. Rural youth 
+(18 to 35 years) face challenges similar to those faced by women producers. They are mostly un-educated and lack 
+professional qualifications. Their low social status and the difficulties they encounter to access economic resources limit 
+their participation in productive activities.  In Burkina Faso, 68 percent of the population is under 24 years of age6. The 
+problem of youth unemployment is severe: in 2014, 25.2 percent of youth were unemployed7. Given the lack of job 
+opportunities, particularly in rural areas, youth unemployment threatens to undermine the country’s political stability, 
+particularly within the present context of the influence of religious and other forms of extremism8. Hence, to avoid the 
+instability and violence currently experienced by Burkina Faso, the focus should be on providing economic opportunities 
+for young people. The focus on youth requires a gender perspective to develop effective and well targeted programs. 
+Unless young women receive adequate training and have prospects of steady employment, the possibility of higher 
+birth rates will undermine the country’s economic gains. Similarly, technical training and the creation of viable jobs for 
+young men, in the agriculture sector particularly, is a precondition for sustainable development and peace. Ensuring 
+that Burkina Faso’s youth are directly empowered with income earning activities, have access to education and training 
+opportunities, and a voice in local decision-making is critical for the country’s stability and sustainable development. 
+ 
+  
+C. Proposed Development Objective(s)  
+
+ 
+16. The PDO is to increase agricultural productivity and market access for small producers and Small and Medium 
+agribusiness Entrepreneurs (SMEs)9 for selected value chains in project areas.  
+
+PDO Level Indicators 
+
+17. Key Performance Indicators (KPIs) include: 
+
+(i) Increase in yield of targeted crop achieved by primary project beneficiaries (disaggregated by 
+commodities); and 
+
+(ii) Increase in the volume of market sales of targeted crop commodities produced by primary project 
+beneficiaries (disaggregated by commodities). 
+
+18. In addition, the project M&E system will measure the following four Core Results Indicators (CRIs):  
+
+(i) Number of farmers reached with project agricultural assets or services (including women and youth 
+targeted at 30 percent); 
+
+(ii) Beneficiary satisfaction rate with the quality of project-supported services (disaggregated by gender and 
+age); 
+
+(iii) Area provided with new/improved irrigation or drainage services; and 
+
+(iv) Number of km of roads and tracks constructed or rehabilitated. 
+a)  
+
+ 
+D. Project Description  
+
+ 
+19. The proposed project with a total cost of US$259.6 million will be structured as an Investment 
+Project Financing (IPF) implemented over a period of six years. It will be funded by (i) two IDA credits for 
+a total amount of US$200 million - a regular IDA credit of US$50 million and a Scale Up Facility (SUF) of 
+US$150 million, (ii) a GoBF contribution of US$13.0 million, (iii) beneficiary contributions for US$29.4 
+million, and (iv) Partner Financial Institutions (PFIs) credit of US$17.2 million. The project has three 
+technical components structured around three core activity clusters: raising productivity in irrigated 
+production systems; improving competitiveness and linking farmers to markets; and promoting private 
+sector-led agribusiness development. A fourth component will cover project coordination activities 
+capacity strengthening as well as establishment of a Contingent Emergency Response Component (CERC).  
+
+COMPONENT 1 – ENHANCING AGRICULTURE PRODUCTIVITY (US$108.9 million of which US$97.2 million 
+
+IDA and US$11.7 million GoBF) 
+
+20. Component 1 aims to remove constraints to farm productivity, mainly in irrigated production 
+systems. It will have three sub-components: (i) irrigation development, including attendant land-tenure 
+arrangements and support to the input supply chain; (ii) agriculture advisory services; and (iii) support to 
+producer groups. The project will mainstream gender and youth dimensions in all its activities, giving them 
+preferential treatment particularly in project-provided agriculture training and services, as well as funding 
+
+                                                           
+9 Agribusiness entrepreneurs are defined as economic operators intervening both at production level as well as downstream of 
+production, i.e. post-harvest, storage, processing and marketing including input suppliers and service providers. 
+
+
+
+ 
+of investment initiatives. This will be achieved by targeting economic activities in which women and youth 
+predominate.  
+
+21. Sub-Component 1.1: Irrigation infrastructure and land tenure (US$86.7 million of which US$75.0 
+million IDA and US$11.7 million GoBF). Sub-Component 1.1 aims at supporting productive land 
+development by increasing the provision of irrigation water and securing land tenure on project sites. 
+Irrigation infrastructure will focus on both rehabilitation and development of irrigated perimeters. 
+Emphasis will be placed on climate-proof design and construction to ensure efficiency and climate 
+resilience. Sub Component (SC)1.1 will be implemented in close liaison with the Bank-financed PARIIS 
+project (FY17). 
+
+22. Irrigation development and rehabilitation. This activity will consist in rehabilitating and 
+developing the irrigation and drainage infrastructure on five selected sites the project area (see annex 2, 
+appendix 1), and supporting the attendant collective institutional and organization arrangements. 
+Irrigation infrastructure works will cover a total of 4,497 ha over five collective irrigation schemes to be 
+either fully developed (2,947 ha) or upgraded/ rehabilitated (1,550 ha), for both smallholders and 
+agriculture entrepreneurs10. The project will not finance activities related to construction and/or 
+rehabilitation of dams.   
+
+23. Land tenure. The project will support arrangements to ensure proper rights to cultivate for 
+farmers benefiting from irrigated land allocation, and due compensation (to be funded by the GoBF) for 
+those who will lose their lands or income losses in the process of land reallocation. It will support MAAH’s 
+dedicated land tenure services (DGFOMR) at the central level and in the seven communes adjacent to the 
+project irrigated perimeters. Secure land tenure will also incentivize the adoption of new technology to 
+increase productivity and climate-smart practices to provide adaptation and mitigation co-benefits.  
+
+24. Sub-Component (SC) 1.2: Agriculture advisory services (US$4.1 million IDA). Sub-Component 1.2 
+aims to improve the delivery of advisory and outreach services, with a focus on extension activities 
+regarding more productive and sustainable agricultural practices under irrigation conditions. This will be 
+achieved by providing catalytic support towards strengthening the capacity of MAAH’s services 
+(Directorate General for Agricultural Extension, DGPV) and other relevant institutions dedicated to 
+delivering demand-driven agri-food-oriented extension and outreach services. In doing so, the project will 
+scale up results achieved by the WAAPP project to enable a wider adoption of Good Agriculture Practices 
+(GAPs). This Sub-Component will provide funding for the following activities inter alia: (i) preparation of 
+specialized extension guides and provision of training regarding different Good Agriculture Practices GAP), 
+e.g., the use of the Farmer Field School (FFS) approach, Climate Smart Agriculture (CSA) techniques 
+(including bio-compost), Integrated Pest Management (IPM), System of Rice Intensification (SRI) and/or 
+gender-oriented practices; (ii) capacity building and dissemination of the related knowledge regarding 
+production and certification of improved seeds and planting material; (iii) development of an e-extension 
+platform, using digital solutions and applications to modernize and increase the outreach of advisory 
+services; (iv) training for DGPV staff through participation in specialized forums, provision of scholarships 
+for diploma courses in selected fields, organization of exchange trips, etc. SC1.2 will also finance 
+investments to support extension services such as office rehabilitation and equipment (including 
+computer equipment), technical equipment and vehicles for DGPV and its communal offices in the project 
+
+                                                           
+10 Smallholders will be allocated plots of 0.5 or 1.0 ha each for a total of 3,497 ha, and agricultural entrepreneurs tracks of land of at 
+least 10 to a maximum of 50 ha each for a total of 1000 ha.  NB. The project will also develop, in the form of individual investment sub-
+projects under Component 3 private sites intended for arboriculture, for a total of 1,000 ha under small irrigation systems (pumping, 
+Californian, drip, and solar powered irrigation systems that reduce energy use, etc.) 
+
+
+areas. 
+
+25. Sub-Component (SC) 1.3: Support to producer organizations and input supply (US$18.1 million 
+IDA). Sub-Component 1.3 has a two-pronged objective: (i) to strengthen and/or facilitate the creation of 
+Agricultural Producer Organizations (OPAs), including economic interest groups, and cooperative societies 
+of different types, and (ii) to facilitate the supply of inputs required for targeted crops. Objective (i) will 
+be achieved through MAAH’s dedicated services (DGFOMR)11, as well as the assistance of specialized non-
+government organizations (NGOs) or service providers. SC1.3 will place special emphasis on developing 
+Water Users Associations (WUAs) to strengthen water management. Strengthened institutional and 
+organizational arrangements will allow farmers to have greater participation in decisions, leading to more 
+sustainable water use and more equitable sharing of the benefits. This will also contribute to enhance 
+resilience through promoting a stronger sense of ownership, and greater efficiency and accountability, in 
+water use and land development. Under objective (ii), input supply to farmers will include the provision 
+of the required means of production to develop cropping systems on irrigated land. This will follow the 
+technical guidance of extension services received under Sub-Component 1.2. The project will make 
+available to smallholder farmers the package of inputs, improved seeds and small implements through 
+the current national programs for a period of two years under the same subsidy conditions as those 
+granted under these programs.   
+
+COMPONENT 2 – IMPROVING COMPETITIVENESS AND FOSTERING MARKET ACCESS (US$34.6 million of 
+
+which US$33.7 million IDA and US$0.9 million GoBF) 
+
+26. Component 2 aims to improve competitiveness and foster access to markets through three sub-
+components aimed at (i) capacity building of MAAH central directorates regarding sanitary and phyto-
+sanitary control, development of quality norms and standards, and support to market knowledge; (ii) the 
+provision of marketing facilities; and (iii) construction/ rehabilitation of rural road infrastructure. 
+
+27. Sub-Component (SC) 2.1: Sanitary and phyto-sanitary control, development of quality norms 
+and standards, and support to market knowledge (US$5.2 million IDA). Sub Component 2.1 will focus, 
+firstly, with regard to sanitary and phyto-sanitary control, on the regulatory framework to ensure that 
+appropriate food safety regulations and means are in place to enable the country to serve the needs of 
+the agriculture domestic and export markets. To that end, it will provide support to MAAH’s dedicated 
+services (DGPV), including its decentralized phyto-sanitary control posts in the project area. Capacity 
+building will focus on specialized areas such as food safety analysis and control. The project will also 
+provide funding for logistical support and equipment of the Laboratory for Agri-food Analysis (LAPA) (e.g. 
+for control of aflatoxin in maize, pesticide content in agricultural products, herbicide control, etc.) and for 
+the rehabilitation of the two regional laboratories for seed control in the project area. Concerning the 
+shea sector, the project will support the Institute for Research in Applied Science and Technology (IRSAT) 
+for the definition of semi-industrial technological packages to reduce energy (fuelwood) consumption. 
+Secondly, with regard to the promotion of the quality of agricultural products, the project will focus on 
+the technical norms and trading labels so that they conform to international standards (HACCP, ISO and 
+others).  To this end, it will provide training and technical assistance to MAAH’s dedicated services 
+(DGPER). For the shea butter value chain, the support will aim at developing a national standard of 
+production to ensure quality consistency along the chain. Thirdly, in terms of market knowledge, the 
+
+                                                           
+11 Regarding the shea nut value chain and other carbon-related activities, support to producer organizations (TFK) and biodigester 
+compost suppliers will be done through the dedicated services of the Ministry of Environment, Green Economy and Climate Change 
+(DGEVCC) 
+
+ 
+
+project will finance the collection of market information regarding the project-supported commodities. It 
+will support the strengthening of MAAH’s Agricultural Market Information System (SIMA), including data 
+collection on specific targeted markets. Information and awareness workshops on SIMA will be organized 
+throughout the project area, including radio broadcasts, so that potential users are aware of SIMA 
+existence and know how to access it. MAAH’s dedicated services (DGPER), as well as the Network of 
+Chambers of Agriculture (RECA) will be supported so that they can contribute to SIMA data collection and 
+diffusion efforts.  
+
+28. Sub-Component (SC)2.2: Marketing infrastructure (US$7.2 million IDA). SC2.2 aims to strengthen 
+the link between producers, off-takers and processors to ease access to market outlets. The project will 
+support marketing and storage infrastructure, essentially the construction/ rehabilitation of sixteen 
+purchasing counters (PCs), as well as 117 small storage facilities in strategic areas in the four regions 
+covered by the project.  PCs are marketing platforms, the purpose of which is to avoid direct field 
+purchases from farmers and reduce asymmetric information that expose producers to buyer pressures. 
+PCs will meet the required criteria of relevance, viability, cost-effectiveness, as well as job creation, 
+especially for women and youth. Attention will be paid to the management and maintenance of these 
+counters in collaboration with the end-users and local authorities (see Annex 2, Appendix 3). 
+
+29. Sub-Component (SC)2.3: Rural tracks and roads (US$22.2 million of which US$21.3 million IDA 
+and US$0.9 million GoBF). SC2.3 aims to reinforce the connection of producing areas targeted by the 
+project with the supply sources for productive inputs and market outlets for commodities produced. It 
+will include the construction and rehabilitation of rural roads and tracks to ensure all-weather access 
+throughout the year to all the project-targeted irrigated areas. A total length of about 344 km of tracks 
+and road sections have been selected in concert between MAAH and the Ministry of Infrastructure (MI). 
+SC2.3 will finance the technical, socio-economic and environmental studies, road works, as well as 
+maintenance over a period of two years. The implementation of SC2.3 will be carried out under MI’s 
+supervision through its Directorate General of Rural Tracks (DGPR). The execution of road works will be 
+entrusted to private civil engineering companies, and/ or projects as part of their interventions in the 
+producing areas targeted. Attention will be paid to the planning and maintenance of tracks and roads 
+using national norms.  SC2.3 will provide technical assistance and training to DGPR, its decentralized 
+structures and local communities involved in the project area as required to oversee the construction and 
+maintenance of the project rural roads and tracks. 
+
+COMPONENT 3: PROMOTING PRIVATE SECTOR-LED AGRIBUSINESS DEVELOPMENT (US$89.5 million of 
+
+which US$42.9 million IDA, US$29.4 million beneficiaries and US$17.2 million PFIs) 
+
+30. Private sector development is the major thrust of the project strategy for developing value chain 
+activities. Accordingly, Component 3’s objective is to enable the country’s private agriculture and agro-
+processing sector to become more competitive on domestic and external markets, by helping producers, 
+processors and off-takers/ traders develop and finance their investment initiatives. Component 3’s 
+activities will have a two-pronged focus on: (i) the development of business plans; and (ii) the provision 
+of investment financing under the project’s Cost-Sharing Facility (CSF) for project-supported crop 
+production, value addition and commercialization.  
+
+31. Sub-Component (SC)3.1: Development of business plans (US$4.5 million IDA). The objective of 
+this sub-component is to support eligible beneficiaries in developing business plans which can be eligible 
+for funding under the project Cost Sharing Facility (CSF). It will assist eligible value chain operators to (i) 
+identify potential investment activities aligned with the project’s objectives, (ii) select potential partners 
+  
+
+ 
+
+with whom they can establish partnerships; and (iii) develop viable business plans to secure access to 
+project funding; these business plans will include the required specifications to conform to the eligibility 
+criteria for the CSF, including the fiduciary and safeguards aspects. The above support will be provided 
+through technical assistance (TA). The TA providers terms of reference will include organization of 
+sensitization campaigns to inform potentially interested operators, support for the development of 
+investment sub-projects eligible for CSF funding, training as needed and assistance for the beneficiaries’ 
+selection process and subsequent implementation of the selected sub-projects. 
+
+32. Sub-Component (SC)3.2: Private investment financing (US$85.0 million of which US$38.4 million 
+IDA, US$29.4 million beneficiaries and US$17.2 million PFIs). This sub-component will address the 
+financing constraints of the agribusiness sector by improving access to finance. It will fund a Cost Sharing 
+Facility (CSF) to provide partial support to agriculture and agri-business operators in the form of Matching 
+Grants (MGs) to finance their investment Sub-Projects (SPs). The MG mechanism will target (i) individual 
+smallholder producers, Agriculture Producer Organizations (OPAs), cooperatives, and Small and Medium 
+Enterprises (SMEs) that need financing to create, upgrade and/ or modernize their production, storage 
+and processing facilities, as well as (ii) all other private sector players and entrepreneurs involved in the 
+targeted agriculture value chain (e.g. traders, transporters, equipment manufacturers, service providers, 
+compost providers) with similar needs. MGs will be provided under two windows, for micro and medium/ 
+large sub-projects respectively, under different terms and conditions with the MG representing between 
+30 to 80 percent of eligible costs. PFIs will provide a minimum of 15 to 35 percent of sub-project funding, 
+except for micro sub-projects which will not require supplementary PFI funding.  In partnership with the 
+DGEVCC, all MG proposals will be assessed through an ex-ante calculation on the carbon impact and the 
+most effective projects may be supported to access carbon finance12. Women and youth (18 to 35 years)13, 
+will receive special treatment, especially as regard their very small and/ or start-up enterprises; their 
+personal contribution requirement to the funding of sub-projects will be lower than for their male and 
+adult counterparts. The initial permanent working capital requirements will be eligible for MG funding. 
+The funds will be disbursed directly on behalf of the beneficiary from the project account to a dedicated 
+account for SP implementation opened with the PFI. The beneficiary will have the fiduciary responsibility 
+regarding the use of the funds. The eligibility and selection criteria of the beneficiaries, as well as 
+procedures to be followed all along the investment cycle, will be detailed in the specific project 
+implementation manual (PIM) of the CSF. Goods to be funded under sub grants will be procured in 
+accordance with the provisions of Financing Agreement, the PIM, the Procurement Guidelines and the 
+Anti-Corruption Guidelines, and should not include any expenditures on the negative list set forth in the 
+ESMF or the IPMP. 
+
+COMPONENT 4: PROJECT COORDINATION, INSTITUTIONAL CAPACITY STRENGTHENING AND 
+
+CONTINGENT EMERGENCY RESPONSE COMPONENT (CERC) (US$26.6 million of which US26.2 million IDA 
+
+and US$0.4 million, GoBF) 
+
+33. Component 4 will (i) support project coordination and institutional strengthening of MAAH; and 
+(ii) include a CERC.  
+
+34. Sub-Component (SC)4.1: Project coordination and institutional capacity strengthening (US$26.6 
+
+                                                           
+12 DGEVCC in currently working on carbon projects regarding (i) soil carbon increase through the use of agroforestry technics and bio-
+compost (from biodigesters) and (ii) the decarbonization of the shea butter production chain. This is part of the collaboration with the 
+REDD+ Program (P149827) and Biodigester carbon project (P156413). 
+13 The MG target for women and youth is 30 percent. 
+
+
+
+ 
+
+million of which US26.2 million IDA and US$0.4 million GoBF). The Project will be managed by a Project 
+Management Unit (PMU), housed within the Coordinating Unit of the Budget Program for Hydro-
+Agriculture and Irrigation Development which is one of the six MAAH budget programs. Hence, the PMU 
+will be integrated into the MAAH administrative structure as part of the sector-wide approach recently 
+adopted by the Government under the budget programs. SC4.1 will fund (i) the establishment and 
+operation of the PMU through provision of appropriate staffing and operating resources to take charge 
+of project management including resources for fiduciary management, safeguard compliance, Monitoring 
+and Evaluation (M&E), knowledge management and communications, and (ii) institutional capacity 
+strengthening (training, equipment, office rehabilitation, etc.) for the key MAAH directorates and services, 
+including their decentralized services, and the National Council for Food Security (NCFS); this will also 
+include construction of an office building to host all projects under the Budget Program for Hydro-
+Agriculture and Irrigation Development. To promote consultations at the grassroots, the sub-component 
+will also fund a full set of Citizen Engagement activities. The general intervention principle under SC4.1 
+will be to harmonize and/or pool resources with other similar externally-funded projects. In this respect, 
+the PMU may share staff and operating resources with other units whenever possible to economize 
+resources and take advantage of economies of scale14. 
+
+35. Sub-Component (SC)4.2: Contingent Emergency Response Component (CERC) (US$0.0 million). 
+Component 4 includes the creation of a project CERC under the oversight of the NCFS at MAAH. The CERC 
+will be a mechanism to provide funding for emergencies. It will have a zero initial funding allocation. In 
+the event of a crisis, the Government will be able to request the World Bank to reallocate project funds 
+to the CERC to cover the costs of the emergency response and recovery. Detailed operational guidelines 
+acceptable to the World Bank for implementing the project CERC activities will be prepared during the 
+first six months of project implementation. All expenditures under the project’s specific CERC will be in 
+accordance with World Bank OP 10 (Investment Project Financing). They will be appraised and reviewed 
+in order to be acceptable to the World Bank before any disbursement is made. Disbursements will be 
+made against an approved list of goods, works and services, required to support crisis mitigation, 
+response, recovery and re-construction. 
+ 
+Project Beneficiaries 
+ 
+
+36. The project is expected to benefit directly and indirectly all economic agents in the project areas 
+operating along the targeted value chains from production to market, including at the processing, storage, 
+transport and trading stages. The total number of project beneficiaries is estimated in the order of 150,000 
+individuals (see Annex 2, Appendix 4). 
+
+37. Direct project beneficiaries are first and foremost all the smallholder crop farmers, processors, 
+traders and marketers who will be involved in project-supported activities at farm-gate level and 
+downstream of production. These include prominently the smallholders and entrepreneurs who will 
+benefit from irrigation development, extension and subsidy for the new technology packages, and the 
+project matching grants as part of project financing windows. Other direct beneficiaries will include: (i) 
+the staff of MAAH agricultural extension support services and other services directly targeted by project 
+activities who will receive technical support and training, and (ii) the off-takers and transporters who will 
+
+                                                           
+14 A collaboration with DGEVCC is expected for the screening of the carbon impact of the matching grants as well as the valorization of 
+the project activities on the carbon market whenever they fit under one of the existing or future carbon projects developed in the 
+country. 
+
+
+use the purchasing counters, and tracks and roads. The project will mainstream gender and youth 
+dimensions in all its activities, giving them preferential treatment particularly in project-provided 
+agriculture training and services, as well as funding of investment initiatives. This will be achieved by 
+targeting economic activities in which women and youth predominate. These include small-scale agro-
+processing activities such as mango drying, and activities in value chains dominated by women such as 
+shea nut collection and processing. Youth will be targeted for any project activities focused on training to 
+upgrade their skills, and activities generating jobs such as high labor intensity methods.  
+
+38. Indirect project beneficiaries include all stakeholders who will benefit from project spillover 
+effects both at national and local level, i.e., (i) at farmgate level regarding production: other crop farmers 
+neither directly involved in project-supported irrigation perimeters, nor targeted by the project extension 
+activities being outside the production basins; they will benefit particularly from project spillover effects 
+regarding improved crop management, higher quality crop inputs and services, better defined market 
+norms and standards and improved financing conditions as a result of the project; (ii) at post-harvest and 
+market level: buyers and processors, value chain service providers, including private inputs providers 
+(seeds, fertilizers, feed, equipment suppliers) who will benefit from overall increased supply of 
+commodities produced and traded due to better roads and tracks; and (iii) on the consumption side: 
+domestic consumers in Burkina Faso who will benefit from increased quantity of food and attendant 
+nutritional benefits at household level. 
+ 
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements  
+. 
+
+39. The MAAH will have overall responsibility for project implementation, including management of 
+environmental and social risks; it will liaise closely with the MI for implementation of rural tracks and roads 
+activities, MEEVCC for the shea nut value chain development and with the Ministry in charge of Commerce, 
+Industry and Handicraft (MCIA) for private sector development and agro-processing. The project’s governance 
+structure will be modeled after the PARIIS project arrangements, including a Review Committee15 (RC) and a 
+Project Management Unit (PMU) at the central level as well as three regional units based at MAAH’s regional 
+offices and one regional unit hosted by AMVS. The RC will meet at regular intervals, at least once a year. It will be 
+chaired by MAAH’s Secretary General and serve as guidance body. It will approve the Annual Work Plans and 
+Budgets and progress reports. The PMU, based in Ouagadougou, will be fully mainstreamed into MAAH’s structure 
+as advocated by authorities alongside other national project implementation units. It will come under MAAH’s 
+Budget Program for Hydro-Agriculture and Irrigation Development which is one of the six MAAH budget programs.  
+
+40. Details regarding PReCA’s organizational arrangements are presented in Annex 1. The PMU will sign 
+partnerships or technical agreements with MAAH’s and other ministries’ directorates to carry out project activities 
+within their respective mandates. The National Coordinator of the project will be de facto the head of Budget 
+Program for Hydro-Agriculture and Irrigation Development as per the new decree organizing the budget 
+programs16.. The National Coordinator will delegate the management function of the project to a Project Manager 
+
+                                                           
+15 The RC will include representatives of the MAAH (General Secretary-SG, Cabinet, General Directorate of Studies and Sector Statistics-
+DGESS, DGPV, DGFOMR, DGPER); the Ministry of Economy and Finance (DGCOOP, DGEP, DGB); National Agriculture Chamber; Coordinators 
+of projects and programs in the agriculture sector; representatives of financing partners, DCMEF/MAAH, DAF/MAAH, DGEVCC/MEEVCC  
+and DMP/MAAH will also be invited to participate as observers. 
+16 Decree no. 2018-092/PRES/PM/MINEFID dated Jan. 17, 2018 regulating development projects and programs.   
+
+ 
+
+who might be competitively recruited or appointed following the World Bank non-objection. His/her signature 
+will be required to commit project financing. S/he will be assisted by a team of high caliber who might be 
+competitively recruited or appointed, covering technical, fiduciary, social and environmental safeguard functions 
+deemed critical for proper project implementation and management. As needed, some staff may be shared with 
+other projects under the budget program. 
+
+41. MAAH has been responsible over the past decade, and is still responsible currently, for implementing 
+several important World Bank-funded projects. It has acquired capacity to support the different PMUs from 
+technical, financial management, safeguards and M&E viewpoints. Similarly, the other ministries which will be 
+involved have enough capacity to implement project activities. This is the case of MI which has managed several 
+externally-funded projects related to road infrastructure. Detailed implementation arrangements will be worked 
+out as part of the PIM to ensure that MAAH and other ministries maintain enough implementation capacity, 
+promote complementarity and avoid overlap between the different projects under their watch. The PIM will 
+compile all procedures for PReCA’s operational implementation, encompassing the administrative, fiduciary, 
+M&E, procurement and social and environmental safeguards procedures. It will include detailed TORs for all PMU 
+staff. Drawing on the experience of other World Bank-financed projects, specific sections of the PIM will be 
+prepared for (i) the Cost Sharing Facility (CSF) and (ii) the Contingent Emergency Response Component (CERC). 
+
+ 
+    
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known) 
+ 
+
+Four administrative regions have been selected for project implementation in the Western part of the 
+country: Douna in Léraba province, Banzon in Kénédougou Province), Dourou in Passoré province and Bissan 
+and Dangoumana Mouhoun in Mouhoun province. 
+
+ 
+ 
+G. Environmental and Social Safeguards Specialists on the Team 
+ 
+
+Abdoulaye Gadiere, Environmental Specialist 
+Leandre Yameogo, Environmental Specialist 
+Gertrude Marie Mathilda Coulibaly Zombre, Social Specialist 
+
+ 
+ 
+ 
+
+SAFEGUARD POLICIES THAT MIGHT APPLY 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The operation will finance the rehabilitation and 
+development of irrigated perimeters. It is also 
+expected the construction or rehabilitation of all-
+weather rural roads to fully opening up throughout 
+the year all the project-targeted producing basins. In 
+addition, the project will fund the construction of 
+
+
+ 
+
+market facilities of public interest at national and/ or 
+regional level. Furthermore, the Banzon's irrigation 
+scheme will be rehabilitated. Consequently, an 
+Environmental and Social Impact Assessment (ESIA) 
+was developed for that irrigated perimeter and an 
+Environmental and Social Management 
+Framework(ESMF) was produced for investments 
+that detailed studies are not available and locations 
+unknown to date. Thereafter, both instruments were 
+reviewed, consulted upon and disclosed publicly. 
+The ESIA was disclosed in Burkina Faso on April 4 
+and at the World bank website on April 5, 2019 
+while the ESMF was disclosed in Burkina on March 7 
+and at the bank's website on March 27, 2019. 
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No This policy is not triggered by the project. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Irrigation schemes are potentially known for hosting 
+natural habitats, more specifically aquatic species 
+habitats. However, it is not anticipated that planned 
+investments will impact negatively natural 
+habitats.This policy is  triggered to draw the 
+attention of the Project Management Unit (PMU) 
+when civil works are going to be undertaken in 
+irrigation schemes areas. The ESMF prepared in line 
+with the OP4.01  includes a section for a proper 
+management of Natural habitats that might be 
+located irrigation schemes areas. 
+
+Forests OP/BP 4.36 No 
+
+This policy is not triggered since the Project will not 
+affect forests nor forest-dependent communities, 
+and the Project will also not involve or support 
+changes in the management of forests. 
+
+Pest Management OP 4.09 Yes 
+
+The project intends to support agricultural 
+intensification. That may lead the producers to the 
+use of chemical products such as pesticides. To 
+anticipate and prevent any wrong use of pesticides 
+with their adverse impacts on environment and 
+communities, an Integrated Pest Management Plan 
+(IPMP) was developed as a separate instrument. Like 
+the ESMF, this safeguard tool once prepared, was 
+reviewed, consulted upon and disclosed in Burkina 
+Faso on March 7 and at the World bank website on 
+March 27, 2019. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+In order to anticipate and to be sure that all the 
+precautions have been taken to protect and 
+safeguard physical cultural resources, a section 
+
+
+
+ 
+
+addressing these concerns has been included in the 
+ESMF. This section will show how to handle chance 
+finds of cultural assets within the project area. This, 
+because activities related to the construction and 
+rehabilitation of irrigated perimeters, feeder roads, 
+markets facilities and other infrastructure works will 
+induce excavations with potential discoveries of 
+physical cultural resources. 
+
+Indigenous Peoples OP/BP 4.10 No 
+There are no Indigenous People as defined by the 
+policy in Burkina 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project will finance activities that could induce 
+potential adverse social impacts that may lead to 
+land acquisition and/or restrictions on access to 
+resources and sources of income or livelihoods: 
+rehabilitation and development of irrigated 
+perimeters, construction or rehabilitation of all-
+weather rural roads to fully opening up throughout 
+the year all the project-targeted producing basins, 
+construction of market facilities of public interest at 
+national and/ or regional level. Furthermore, the 
+Banzon's irrigation scheme will be rehabilitated. 
+Consequently, a Resettlement Action Plan (RAP) was 
+developed for that irrigated perimeter and 
+Resettlement Policy Framework (RPF) was produced 
+for investments whose detailed studies are not 
+available and locations unknown to date. Thereafter, 
+both instruments were reviewed, consulted upon 
+and disclosed publicly. The RPF was disclosed in 
+Burkina on March 22 and at the Bank's website on 
+March 27, 2019. As for the RAP, it was disclosed in-
+country and at the bank's website on April 5, 2019.  
+
+Safety of Dams OP/BP 4.37 Yes 
+
+The policy is triggered because the project will 
+intervene in irrigation schemes that rely on existing 
+dams. The project will not have direct intervention 
+on dams. The situation of existing dams is described 
+as follows: 
+ 
+Dourou dam: This dam is located upstream of 
+Dourou irrigation scheme and has a capacity of 83 
+Hm3 and a 10.5 m height. A review of Dourou dam 
+safety conditions was commissioned by the Ministry 
+of Agriculture and financed by the WBG project 
+PARIIS in 2017. The report was approved by the 
+Ministry and the World Bank in February 2017.  The 
+remedial works related to the structural stability of 
+
+
+ 
+
+the dam identified in this study were carried out in 
+2018 under the State budget as evidenced during a 
+WBG mission in November 2018. Further studies 
+shall be carried out to assess the suitable  option for 
+increasing the discharge capacities of the spillways. 
+The hydrological risk has been identified as one of 
+the most critical dam safety risks by the independent 
+dam safety assessment in 2017. 
+ 
+Mouhoun / Léry dam: Regarding the Sourou Valley 
+where the project will finance the construction of 
+Dangoumana and Bissan schemes, the 
+Mouhoun/Léry dam (580 Hm3 / 8 m) was 
+rehabilitated in 2014 through the project “Projet de 
+Développement de l ’Agriculture (PDA)” financed by 
+the Millennium Challenge Account (MCA) with 
+complementary works financed by the Government 
+in 2017 and 2019. The MCA project also financed, in 
+2014, a review of the Operation and Maintenance of 
+the Mouhoun /Léry dam and recommended 
+procedures for the O&M during the different 
+seasons and in case of extreme events (floods); 
+these recommendations are currently followed by 
+the entity in charge of the dam operation, the 
+Mouhoun Water Agency (Agence de l’Eau du 
+Mouhoun). The O&M Plan should be updated along 
+with a comprehensive dam safety assessment  taking 
+into account the reservoir operation of the recently 
+constructed  Samendéni dam in the upstream of the 
+river 
+ 
+Samendéni dam: Two hundred kilometers upstream 
+Mouhoun/Léry dam, on the Mouhoun river, the 
+Government of Burkina Faso has built in 2017 
+another large dam, with a capacity of 1,050 Hm3 and 
+a height of 23.9 m. The reservoir has been filled for 
+the first time in 2018. The overall impacts of this 
+dam on the WBG investments in Bissan and 
+Dangoumana would be positive: (i) the dam will 
+contribute to better control flood during the rainy 
+season which will reduce the risks downstream and; 
+(ii) the Samendéni dam will increase the flow on the 
+dry season, which will increase the water availability 
+for irrigation in the Sourou Valley. The independent 
+dam safety assessment and preparation of dam 
+safety plans; i.e.  O&M Plan covering  
+
+
+ 
+
+Instrumentation Plan, and Emergency Preparedness 
+Plans, shall be undertaken in an expeditious manner.  
+ 
+During project implementation, dam safety risk 
+assessments and dam safety plans (including O&M 
+plans, Instrumentation plans and Emergency 
+Preparedness Plans) will be carried out as well as 
+periodic dam’s safety inspections for the Dourou 
+dam, the Mouhoun/Léry dam and the Samendéni 
+dam and have been included in the Financing 
+Agreement as Disbursement Conditions before the 
+start of irrigation schemes’s construction. If some 
+additional remedial works are identified for the 
+dams, the Government will finance such 
+complementary remedial works or safety-related 
+measures. 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+The proposed project finances the rehabilitation and 
+development of irrigation schemes that will draw on 
+an international waterway and its tributaries. In 
+accordance with the policy, riparian countries and 
+the Volta Basin Authority were notified in April 2019. 
+The Volta Basin authorities and riparian countries 
+expressed their no-objection to the project. 
+
+Projects in Disputed Areas OP/BP 7.60 No 
+The project coverage is not located in a Disputed 
+Area. 
+
+ 
+ 
+
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT 
+
+ 
+A. Summary of Key Safeguard Issues 
+ 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential 
+large scale, significant and/or irreversible impacts: 
+The operation will finance the rehabilitation and development of irrigation schemes. It is also expected the 
+construction or rehabilitation of all-weather rural roads to fully opening up throughout the year all the project-
+targeted producing basins. In addition, the project will fund the construction of market facilities of public interest at 
+national and/ or regional level. Some of these infrastructures may have major environmental and social impacts. 
+Irrigation investments may have adverse but limited environmental impacts on water resources, for the most part, 
+and will require the resettlement of some local communities. The main environmental safeguards issues for the 
+project relate to water pollution, construction waste management, water abstraction and changes to water outflows 
+from the rivers and associated impacts on downstream human needs and aquatic habitats, and biodiversity. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area: 
+Irrigation investments in the project area may have a medium to long term impact on water cumulative off-takes from 
+the waterways. The long-term social impact is also of importance, as agricultural development may lead to intense 
+
+ 
+
+migration within the Project intervention area. Among the more beneficial potential indirect long-term impacts are 
+the use of more water-saving irrigation systems and technologies. This will be further supported by sustained dialogue 
+on water management in the project area and the proposed measures aimed at reducing water consumption for 
+irrigation. This will include different measures and incentives to facilitate the adoption of water saving techniques, as 
+well as a more transparent planning of public and private investments in the coming years. Lastly, in compliance with 
+the triggering of OP7.50, a notification letter was sent to each of the other five riparian countries and the Volta Basin 
+Authority (VBA).  The countries and the VBA expressed their no-objection to the project 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts. 
+The rehabilitation of the irrigated perimeters and of the access roads are crucial to the achievement of the project 
+objectives and they will be done with minimal effect to the environment and all precautionary measures will be taken 
+to avoid causing any irreversible damage to the environment. 
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower 
+capacity to plan and implement the measures described. 
+The project is rated as Environmental Assessment Category “A”, requiring a full environmental assessment. The 
+following environmental safeguard policies are triggered: Environmental Assessment (OP/ BP 4.01); Natural habitats 
+(OP/ BP.04); Dam Safety (OP/ BP 4.37); Pest Management (OP 4.09); Involuntary Resettlement (OP/BP 4.12); Physical 
+Cultural Resources (OP/ BP4.11) and Projects on International Waterways (OP/ BP 7.50). 
+ 
+The project has adopted a framework approach to deal with environmental matters. This is justified since exact 
+locations for a substantial number of program activities, particularly those of the sub-projects, which may have 
+environmental potential adverse impact, have not yet been determined with certainty. Therefore, an Environmental 
+and Social Management Framework (ESMF) has been prepared in line with OP/BP4.01. This ESMF includes specific 
+chapters on Natural Habitats and Physical Cultural Resources in compliance with OP4.04, OP4.37 and OP/BP4.11 
+respectively. With respect to Pest Management in line with the OP4.09 triggering, a Pest Management Plan has been 
+developed as a stand-alone document. In addition to the above-mentioned documents, the Borrower has prepared an 
+Environmental and Social Impact Assessment (ESIA) for developing and expanding the Banzon irrigation scheme as 
+part of project investments. Lastly, with the aim of being in full compliance with the triggering of OP7.50, a notification 
+letter was sent to each of the five other members countries of Volta Authority Basin that replied positively, granting 
+their agreement for the project approval. 
+ 
+The ESMF lays out procedures for screening and mitigating impacts from construction and operation of the irrigation 
+schemes, and includes the following: (a) checklists of potential environmental and social impacts and their sources; (b) 
+procedures for participatory screening of proposed sites and activities and the environmental and social 
+considerations; (c) procedures for assessing potential environmental and social impacts of the planned project 
+activities; (d) institutional arrangements for mitigating, preventing, and managing the identified impacts; (e) typical 
+environmental management planning process for addressing negative externalities in the course of project 
+implementation; (f) a system for monitoring the implementation of mitigation measures; and (g) recommended 
+capacity building measures for environmental planning and monitoring of project activities.  
+ 
+The PMP encourages the use of organic fertilizers and biological technics to fight against agriculture predators. In 
+addition to that, it sets up guidance and guidelines with the aim to protect population health and environment 
+integrity in promoting best practices in the case of use of chemical products. 
+ 
+The RPF document outlines the principles and procedures for resettlement and or compensation of subproject-
+ 
+
+affected people, and establishes standards for identifying, assessing and mitigating negative impacts of program 
+supported activities. In addition, the RPF will guide the preparation and implementation of RAPs for each individual 
+sub project that triggers the involuntary resettlement policy. Specific ESIAs and RAPs will be prepared for relevant 
+activities before project implementation along with Environmental and Social Management Plans (ESMPs). The ESIAs 
+will provide mitigation measures for all the potential impacts as a result of the triggering of the above-mentioned 
+safeguard policies. 
+ 
+In addition to these above mentioned 03 documents, the borrower has also prepared 01 ESIA and 01 RAP for Banzon’s 
+irrigation scheme that was clearly identified as being part of futures investments. 
+ 
+All of these 05 safeguard instruments have been reviewed by the banks’ specialists, consulted upon and disclosed in 
+Burkina Faso and at the Bank’s website as follows. 
+ 
+-ESMF, disclosed in Burkina Faso on March 7 and at the World bank website, on March 27, 2019.   
+-PMP disclosed in Burkina Faso, on March 7 and at the World bank website on March 27, 2019.  
+-RPF disclosed in Burkina Faso, on March 22 and at the World bank website on March 27, 2019.    
+-ESIA disclosed in Burkina Faso on April 4, and at the World bank website, on April 5, 2019.   
+-RAP disclosed in Burkina Faso and at the World bank website on April 5, 2019.   
+ 
+The Project Management Unit (PMU) carry out the screening for all investments will determine the actions necessary 
+to comply with environmental and social safeguard policies and national legislation. It will determine whether an ESIA 
+and/or RAP, or both, will be required and will prepare appropriate safeguards instruments for each of the sub-
+projects.  The PMU will commission the preparation of detailed ESIAs and RAPs to be carried out by independent 
+consultants, based on terms of reference (TORs) to be reviewed by BUNEE and the Bank. The PMU will be responsible 
+not only for the overall implementation of the PMP, ESMF, RPF and specific safeguard instruments required for 
+specific Project activities (i.e. ESIAs and/or RAPs), but also for the internal monitoring of proposed mitigation 
+measures. All site-specific safeguard instruments will be submitted to BUNEE for decision before submission to the 
+Bank for review, clearance and disclosure in-country and on the Bank’s website. 
+ 
+Responsibility and oversight of the Project’s overall compliance with national and Bank safeguard policies will be 
+devolved to the environmental Safeguards Specialist and social Safeguards specialists within the PMU, as the main 
+persons in charge of project implementation and monitoring of safeguard aspects. They will be working in close 
+collaboration with BUNEE. BUNEE will not only conduct periodic monitoring of project’s compliance with proposed 
+mitigation of changes, but also changes in environmental resources (i.e., water and soil quality, flora and fauna, vector 
+ecology, soil erosion etc.) from the baseline. 
+ 
+Further, all civil works, for developing or expanding irrigation schemes; construction and rehabilitation activities of 
+other types of infrastructure, will be contingent on broad-based and sustained consultation with local communities in 
+project’s intervention area. Mitigation measures for identified environmental and social impacts, including avoiding or 
+sparing cultural and historical resources and other environmental clauses, will be properly implemented by 
+contractors and sub-contractors, as specified in the safeguard instruments and bidding documents. Selected 
+contractors and their Resident Engineering Teams will be required, each, to hire an environmental and social experts 
+with strong skills in Occupational Health and Safety issues for the environmental specialist and Labor influx and 
+Gender Based Violence (GBV) for the social specialist, whose roles are to ensure specific Environmental, Safety, Health 
+and Social clauses are fully and adequately implemented and reported on. 
+ 
+
+
+The BUNEE will be responsible for ensuring the Project activities are implemented in accordance with national laws 
+while the World Bank’s specialists will make sure that all investments that may have potential adverse impacts are in 
+full compliance with environmental and social safeguard policies triggered by the project. 
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, 
+with an emphasis on potentially affected people. 
+The preparation of the safeguard documents (i.e. ESMF, PMP, RPF, ESIA and RAP) followed a broad-based and in-
+depth consultation approach with and interviews of relevant stakeholder groups in the public and private sectors and 
+civil society. These consultations include Producer Organizations, particularly those within or in the vicinity of the 
+Project intervention area, key Ministries and Government agencies, in particular Ministries of Agriculture, Water 
+resources, Environment, Health, the Plant Protection Agency, pesticides wholesalers and retailers; BUNEE, the 
+national agency in charge of review and enforcement of environmental legislation and regulations; health care 
+personnel and NGOs.  
+ 
+While local populations were enthusiastic about and confirmed their interest in the proposed investments, they 
+nonetheless raised a few issues that prevail in current exploitation and management practices in the project area. 
+Producers and local Government representatives have requested to be fully involved in the design and 
+implementation of land allocation process; fostering marketing and commercialization of agricultural produce 
+domestically, as well as in the sub-region; Fostering a dynamic framework for dialogue and consensus building 
+between crop producers and livestock producers, strengthened by binding laws and regulations designed to 
+avoid/minimize conflicts between them; concerted efforts and synergy among sectoral agencies for environmental 
+sustainability in the project intervention area. In particular, participants wished close involvement of the forestry and 
+nature conservation departments in the project implementation, in order to minimize deforestation, river banks 
+degradation; proliferation of water borne diseases; existence of prohibited pesticides, inadequate storage and misuse 
+of pesticides; lack of opportunities of women in productive agriculture. These concerns have all been reflected in the 
+safeguards documents and appropriate recommendations have been formulated. 
+ 

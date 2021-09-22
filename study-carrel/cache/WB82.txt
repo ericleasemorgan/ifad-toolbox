@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+Page 1 of 9
+
+.
+
+PROJECT INFORMATION DOCUMENT (PID)
+CONCEPT STAGE
+
+Report No.: PIDC18482
+.
+
+Project Name Tanzania: Resilient Natural Resource Management for Tourism and 
+Growth (P150523)
+
+Region AFRICA
+Country Tanzania
+Project ID P150523
+Borrower(s) United Republic of Tanzania
+Implementing Agency Ministry of Natural Resources and Tourism
+Environmental Category B-Partial Assessment
+Date PID Prepared/Updated 30-Jan-2017
+Date PID Approved/Disclosed 11-Jul-2017
+Estimated Date of Board 
+Approval
+
+21-Sep-2017
+
+.
+
+I. Introduction and Context
+Country Context
+
+1. Tanzania has experienced strong and rapid economic growth, with its annual GDP growth averaging 
+around seven percent in the last decade. Despite the strong economic growth, Tanzania is one of the 
+poorest countries in Africa with approximately 13 million people (28 percent of the population) still 
+living below the basic needs poverty line.
+
+2. A rapidly expanding population will require continued growth, translating into the creation of 
+employment opportunities and household wealth, just to keep pace. The population is growing at an 
+average rate of 2.9 percent, one of the fastest in the world, with about 1.3 million people being added 
+to the population annually (NBS, 2009). Economic expansion must be accompanied by creation of 
+quality jobs if poverty rates are to continue to drop.
+
+3. Tanzania's growth and economy depend heavily on its renewable natural assets such as water, 
+forests, and wildlife. Almost half of GDP is harnessed from natural resources in agriculture, energy, 
+and tourism.  An estimated 89 percent of the country's water withdrawals are for irrigation, which 
+contributes to 20 percent of agricultural production from 6 percent of the land. An estimated 90 
+percent of Tanzania's energy needs are satisfied by water and wood fuels: hydropower generates 39 
+percent of the installed 1,438MW electricity generation capacity, while charcoal and fuel wood serve 
+as the overwhelming source of energy for urban and rural households. Tanzania's tourism industry - 
+which is largely based on the country's unique natural resources and wildlife - is an important driver of 
+the national economy, generating $1.88 billion in revenues in 2013, or 13 percent of GDP, in 2013. 
+Tourism contributes approximately 28% the total export earnings in 2013.
+
+4. The majority of the population lives in rural areas, and is dependent on natural resources in the form 
+of food, fuel, and fodder. In 2010, an estimated 73.6 percent of Tanzanians were rural residents. These 
+
+
+people largely comprise 80 percent of Tanzanian households who depend on agriculture, the majority 
+of which is rain fed, as their primary economic activity. Food security is often supplemented by bush 
+meat protein. They depend overwhelmingly on forests for their energy; only 3 percent of rural 
+populations have access to electricity, with most households being dependent on charcoal or fuel 
+wood.
+
+5. Rural poverty remains pervasive and deep. All data sources suggest that Tanzania has not made 
+adequate progress in raising incomes in rural areas, where the majority of the poor live. Lack of access 
+to technology, credit, water, and power resulted in stagnant productivity and high vulnerability to 
+shocks, leaving many rural households in the same or weaker position as at the beginning of the 
+century.
+
+6. Slowing agricultural growth is a challenge in the rural space. The agricultural sector has seen its 
+share of the economy decline from 48 percent in 1990 to 28 percent in 2010. Agricultural GDP grew at 
+around 4 percent per year since 2000, or only around 1 percent in per capita terms, with acute droughts 
+in 2004 and 2006. Yields of staple crops, which are the livelihood of small farmers, appear to have 
+been flat or declining, with agricultural growth primarily driven by extension of cultivated areas, along 
+with modest shifts in the composition of crop production.
+
+7. Addressing rural poverty will require the creation of new off-farm jobs. The share of goods and 
+services exports of GDP has grown from 13.4 percent in 2000 to 23.2 in 2009. In 1998, minerals and 
+non-factor services, mainly tourism, accounted for 47 percent of exports, while they rose to 66 percent 
+by 2010. In 2013, tourism represented the largest source of foreign exchange. At the same time, the 
+share of traditional agricultural exports declined from 60 percent of total exports in 1998 to 12 percent 
+in 2009, replaced mostly by tourism and minerals such as gold. Manufacturing exports have grown by 
+about 17 percent annually since 2005, but account for less than 5 percent of GDP and 25 percent of 
+total merchandise trade. Efforts to promote rural development must look to expanding off-farm 
+employment opportunities. Tanzania's tourism industry, which is predominantly wildlife-based, 
+provides an important potential source of new rural jobs and household revenues, provided linkages 
+with local communities are in place.
+
+Sectoral and Institutional Context
+
+8. Tanzania's natural resource-based economic sectors such as wildlife-based tourism have strong 
+potential for generating economic growth, creating jobs, and improving livelihoods. Tanzania is one of 
+the world's mega diverse countries with its outstanding wildlife, ecosystems, and other natural assets, 
+and represents a prime global tourist destination with significant potential for growth. It is the 
+abundance of wildlife and unique ecosystems that have made Tanzania a prime African tourist 
+destination, generating significant revenues. In fact, Tanzania is very successful in attracting high-
+expenditure tourists; Tanzania earns more money per tourist than any other country in Sub-Saharan 
+Africa. Notably, despite significantly fewer tourist arrivals, its tourism sector earned as much as 
+neighboring Kenya before the recent decline of tourism in the latter due to security concerns. 
+Tanzania's "low-volume high-value" approach has significant economic, social and environmental 
+benefits, particularly in ecologically sensitive areas such as the greater Serengeti eco-system and other 
+areas.
+
+9. Tourism today is largely concentrated on a few areas, in and around the Serengeti, Ngorogoro 
+Crater, and Mount Kilimanjaro (i.e., the "Northern Circuit") and Zanzibar. While there are many high-
+potential tourism sites, ranging from high mountains to spectacular landscapes and coral-fringed 
+beaches, there are signs of over-crowding. Pressures on the carrying capacity of key ecosystems such 
+as the greater Serengeti lead to concerns that future expansion of visitors in some of Tanzania's key 
+
+
+
+Page 3 of 9
+
+attractions may soon undermine the quality of the tourism experience. As highlighted in a recent 
+World Bank study (in draft), the expansion of the tourism sector must consider options to ensure that 
+growth in tourism does not compromise the natural asset base; that is, efforts to increase tourism 
+numbers and revenues must not undermine the quality of the very resource base that tourists are 
+attracted and paying to see.
+
+10. The Government of Tanzania (GOT) is keen to develop new tourism products to expand the 
+tourism sector while in core areas maintaining the low-volume high-value approach that has been 
+successful in capturing the highest per capita revenue in the region. Specifically, it is interested in 
+developing a more diversified tourism sector that balances the focus on the "Northern Circuit" with 
+developing the "Southern Circuit", which includes a number of parks (i.e., Ruaha, Katavi, Mahale, 
+Kitulo), game reserves (Selous being the largest), two Rift Valley lakes (Nyasa and Tanganyika), and 
+other areas of cultural interest. Such elements would be a core part of an updated tourism policy.
+
+11. The sustainable management of natural resources is fundamental to Tanzania's economic growth. 
+Natural resources are among the few assets that Tanzania's poor access and utilize. Sustainable 
+management of natural resources is therefore an integral part of development, poverty alleviation and 
+growth. This suggests that depletion of the natural resource base will inevitably compromise poverty 
+alleviation efforts unless there is rapid and exponential growth in employment to absorb labor 
+surpluses and provide high quality jobs. Already, poor land use and watershed management practices, 
+which lead to degradation of forests and watercourses, are threatening the very natural resource base 
+upon which Tanzania's economy and poor depend on, while rampant wildlife poaching threatens to 
+reduce the assets that are key to current and future tourism potential. Recent GOT studies point to the 
+need to ensure that decisions on development initiatives are supported by robust data and information 
+in order to avoid unintentional externalities, which can in turn lead to constrained future development 
+opportunities. Given the strong links with poverty, livelihoods, and food security, particular care 
+should be taken to ensure sound management of land, water, and wildlife are a core focus of any rural 
+intervention.
+
+12. Water is at the heart of the sustainable natural resource management imperative. Tanzania, long 
+considered a water-rich nation, is increasingly struggling with local incidences of water insecurity, 
+driven by unsustainable levels of agricultural abstraction and poor watershed and land management. In 
+some areas, such as the Pangani, Rufiji, Wami-Ruvu and the Internal Drainage Basins, conflicts over 
+water among different users - farmers, hydropower plants, wildlife - are already undermining 
+economic potential of sectoral investments in agriculture, energy and tourism, and may curtail 
+Tanzania's ambitious growth plans. Notably, some of the areas targeted for increased irrigation under 
+various government programs are already known to suffer from some degree of water conflict.
+
+13. For example, the Great Ruaha River provides about 56 percent of flow to the Mtera and Kidatu 
+power plants, which together are responsible for 50 percent of the country's total hydropower capacity. 
+Within the Great Ruaha basin, expansion of (mainly rice) agriculture in the Usangu Plains from about 
+14,500 ha in 1986, to 24,000 ha in 1998, to 115,000 ha in 2013, 87 percent of which is small-scale 
+informal irrigation farms. As a result of this irrigation expansion, the Great Ruaha River has since 
+2005 gone from a perennial river, serving as the lifeblood of Ruaha National Park, and a key input to 
+the Mtera/Kidatu power system, to a seasonal river, leading to impacts on tourism and wildlife, power 
+production and Tanzania's economy.
+
+14. The sustainable management of natural resources across users at the watershed, landscape and 
+ecosystem levels is a key condition to the success of the government's plans. Responding to this 
+challenge requires strong cross-sectoral coordination and action. Improved watershed management, 
+
+
+
+Page 4 of 9
+
+including promoting sound landscape management and conservation practices, is needed to ensure the 
+long-term productivity of key basins. Recent studies by the GOT suggest that while achieving 
+important short-term goals in target sectors, these programs may unintentionally lead to negative 
+consequences in other sectors and over the longer term.
+
+15. Specifically, the impact of unplanned irrigation expansion in the Great Ruaha sub basin on 
+downstream flow, has led to significant negative impacts on tourism (in Ruaha National Park) and 
+energy generation (at Mtera and Kidatu dams) as noted in the Ministry of Water's Integrated Water 
+Resources Management and Development Plan for Rufiji Basin. Likewise the Strategic Regional 
+Environmental and Social Assessment undertaken for the Southern Agricultural Growth Corridor 
+points to the need for careful planning of agricultural development in order to avoid unintended 
+downstream impact on water quantity and quality.
+
+16. Climate change represents an additional important risk for Tanzania's natural asset-based growth. 
+Tanzania is already experiencing changes in its climate: the average temperature rose by 1°C between 
+1960 and 2006, and models indicate future increases in average annual temperatures between 1°C to 
+3°C by the 2050s. Likewise, precipitation is increasingly unpredictable with studies showing a shift in 
+the onset of the rainy season(s). Changes in timing and quantity of rainfall are also predicted, with 10 
+percent annual precipitation decreases possible in the south, decreases up to 26 percent in the north, 
+and heavier, more concentrated rain events along the coast.  Water security, which is already under 
+threat from current climate variability and social, economic and environmental change, is likely to be 
+under greater threat from future changes in the climate. Increasing temperatures and changing rainfall 
+patterns will have multi-dimensional effects on the Tanzanian economy, affecting agricultural 
+productivity, energy use, water dynamics, and the wildlife upon which tourism depends. Efforts to 
+promote climate resilience in these key natural asset-based sectors will have important longer-term 
+effects on food security and livelihoods.
+
+17. To achieve the GOT's goal to expand broad-based tourism in a sustainable way, a long-term 
+concerted effort is needed.  The following deserve special attention:
+- Managing water resources. Water is an increasingly scarce resource in many areas critical for 
+wildlife and tou rism, including the Rufiji Basin, which is dominated by the Great Ruaha River. This 
+has far reaching consequences for the ecology of parks, such as Ruaha.
+- Developing the value proposition and strategy for tourism, with a focus on the "Southern Circuit". 
+Market research, positioning, planning, and focused development are needed to utilize and 
+commercialize the area's tourism potential. Strong public and private sector partnership would be 
+important to leverage respective roles.
+- Providing an enabling environment for the private sector. There are many obstacles for private 
+operators to enter and operate in the tourism sector in Tanzania, particularly for local operators. The 
+policy and regulatory environment, including a comprehensive look at the licensing requirements, 
+would need to be reformed.
+- Developing visitor infrastructure. Infrastructure, such as air strips, visitor services, logistics, 
+hospitality, and park management investments, are essential elements of enhancing accessibility and 
+the overall quality of the tourism product.
+- Curbing wildlife poaching. One of the key threats to the management of existing and potential 
+tourism assets is the recent unprecedented increase in wildlife poaching. Elephant populations in 
+Tanzania have declined precipitously: between 2009 and 2013, populations in the Selous -Mikumi 
+Ecosystem declined by 66 percent, while in the Ruaha-Rungwa ecosystem, populations declined by 
+36.5 percent. The crisis has been fueled by the rising price of ivory in the illegal destination markets, 
+which provides a strong incentive to local populations who do not otherwise see direct benefits from 
+wildlife.
+
+
+
+Page 5 of 9
+
+- Linking tourism with local economies and communities. Despite the national economic importance 
+of tourism, at the local level communities in and around protected areas are some of the poorest in the 
+country. While in other African countries (such as Namibia, Mozambique and parts of Kenya), tourism 
+is providing an important source of revenue and employment to local communities, Tanzania's current 
+policies, which aim to promote local benefit from tourism, have not been as effective. Rather, local 
+populations, which are highly dependent on natural resources for food, fodder and fuel, generally 
+consider wildlife to be worth more dead than alive. Sustainable tourism development would need to 
+rely on stronger connection with local economies through training and job creation, supply chain 
+development, and other forms of benefit sharing.
+
+Relationship to CAS
+
+18. The proposed Project is consistent with the Bank's Country Partnership Strategy Progress Report 
+(CPSPR) FY12-15 (Report No. 80313-TZ) for the United Republic of Tanzania that was discussed by 
+the Board on July 3, 2014. The CPSPR has two strategic clusters: (i) Productive investments for 
+growth of labor-intensive industries and job creation; and (ii) Programs that target reduction of 
+extreme poverty and improvements in quality of social services and six strategic objectives. The 
+proposed project contributes to CPSPR strategic cluster one - Productive investments for growth of 
+labor-intensive industries and job creation. The proposed project contributes to the CPSPR's second set 
+of activities under cluster one which addresses key infrastructure gaps and promotes sustainable 
+management of natural resources. In particular, the proposed project enhances ecosystem resilience 
+and improves the environmental services of natural resources through development of infrastructure to 
+better protect environmental assets. The project would also enhance capacities of government 
+institutions at the national, districts and village levels as well as park and wildlife management 
+authorities.
+
+19. The proposed Project is one of the initiatives which contribute to the TerrAfrica Platform for 
+Sustainable Land and Water Management (SLWM). It also supports the African Wildlife for 
+Development Program in support of the Elephant Protection Initiative supported by the Bank and the 
+Global Environment Facility (GEF) along with other development partners.
+
+20. The proposed project also contributes to the GOT's strategies and plans, in particular current jobs 
+creation initiatives, tourism development and tourism growth, and rural economic development.
+
+.
+
+II. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+
+21. The Project Development Objective (PDO) and the Global Environment Objective (GEO) of the 
+proposed project are to improve natural resources management in priority areas of Southern Tanzania. 
+By achieving the proposed PDO, the Project will assist the GOT in addressing rural poverty which has 
+been persistent in and around the country?s parks and game reserves, home to globally significant 
+biodiversity. The objective would be achieved through the provision of capital investments, technical 
+assistance and capacity building for communities living in and around the priority areas, and 
+government institutions at the national, sub-national and local levels.
+Key Results (From PCN)
+22. The achievement of the PDO and key results will be measured by a set of key outcome indicators. 
+Proposed key outcome indicators are listed below.
+
+a. Land area brought under an improved and climate resilient catchment system (ha).
+b. Protected area management effectiveness enhanced (%);
+c. Number of visitor bed nights in targeted areas with tourism potential (%); and
+
+
+
+Page 6 of 9
+
+d. Direct project beneficiaries (#), of which XX% are female.
+.
+
+III. Preliminary Description
+Concept Description
+
+23. The PDO will be achieved through the following four project components.
+
+24. Component 1 - Improving management and development of priority tourism assets (Total Cost 
+US$50m). This component will focus on investments that aim at improving the management of natural 
+resources inside priority protected areas in southern Tanzania to increase tourism. The expected 
+outcome of this component is an increased number of tourists and bed nights in priority tourism sites. 
+Expected outputs include (i) an adopted tourism strategy for Southern Tanzania; (ii) an adopted 
+tourism master plan for southern Tanzania; (iii) number of roads, enhanced airstrips, viewing 
+platforms, and visitor centers built; (v) a strengthened monitoring system in place to improve wildlife 
+protection; (vi) number of trainings conducted; and (vii) strengthened policy and institutional 
+framework.
+
+Sub-Component 1.1: Improve the knowledge base at (i) the sub-national level by assessing tourism 
+potential and investment needs, developing a new tourism strategy, and a tourism master plan for 
+southern Tanzania; and (ii) the site level through ecological monitoring and conservation planning and 
+integrated planning for key tourism aspects.
+
+Sub-Component 1.2: Improve tourism infrastructure to enhance accessibility and the overall quality of 
+the tourism product, including through, e.g., building unpaved roads inside protected areas to provide 
+improved access to viewing areas, enhancing airstrips to allow for planes to safely land, and building 
+viewing platforms and visitor centers. Develop Public Private Partnership (PPP) model to help 
+enhance tourism asset management and accessibility.
+
+Sub-Component 1.3: Improve the capacity for management of tourism assets. Improve the capacity for 
+management and development of tourism assets through training and supplying of goods including for 
+wildlife monitoring.
+
+Sub-Component 1.4: Strengthen policy and institutional framework including through private-public 
+dialogue.
+
+25. Component 2 - Enhancing local economic benefits from tourism (Total Costs US$20m). This 
+component will support investments that ensure local communities in vicinity to the protected areas 
+benefit from tourism. The expected outcomes of this component are increased community employment 
+levels in tourism and wildlife related sectors, while expected outputs include: (i) creation of PPP 
+ventures in priority areas; (ii) number of micro-finance groups operational; (iii) number of tourism 
+infrastructure outputs to promote local benefits built; and (iv) an adopted policy and institutional 
+framework.
+
+Sub-Component 2.1: Strengthen supply value chains for local communities and businesses that are 
+linked to tourism (e.g., vocational training to enhance skills in communities to better participate in 
+improved labor market such as hospitality industry and guide services), and infrastructure to promote 
+local benefits may be supported (e.g., building schools).
+
+Sub-Component 2.2: Build awareness and capacity to engage with the private sector including through 
+nurturing SMEs and enabling PPPs. Develop model and associated processes to help ensure local 
+
+
+
+Page 7 of 9
+
+economic benefits when using PPP to enhance tourism asset management and accessibility.
+
+Sub-Component 2.3: Build capacity for communities to manage wildlife and tourism (e.g., 
+investments in community co-management initiatives).
+
+Sub-Component 2.4: Provide access to finance (e.g., piloting targeted support in the form of micro-
+finance or grants to support alternative livelihood development including activities linked with tourism 
+supply and support).
+
+Sub-Component 2.5: The policy and institutional framework will be strengthened.
+
+26. Component 3 - Improving landscape management (Total Cost US$20m). This component will 
+support investments and technical assistance to promote the integrated management of landscapes with 
+an aim to securing environmental services within priority sub-basins in Southern Tanzania.  The 
+expected outcomes for this component are improved land management in watersheds that are critical 
+for agricultural productivity and/or priority tourism assets. Expected outputs include (i) number of 
+watershed management plans prepared, (ii) number of improved soil and water management measures 
+in place; and (iii) number of incentive programs established.
+
+Sub-Component 3.1: Support activities to sustainably manage watersheds through a participatory 
+process.  Depending on the size of the watershed, a planning unit will be micro-watershed of XX ha.  
+The key activities include inter alia (i) planning, implementation of micro-watershed plans, and related 
+capacity building (e.g., link village land use planning with watershed planning, studies), and (ii) 
+communication and awareness raising activities.
+
+Sub-Component 3.2: Strengthen small-scale water and land management through (i) implementation 
+of measures developed in planning process referred to in component 1.1 above; (ii) check dams, 
+control gates, and erosion control measures to reduce run-off and improve water use efficiency; (iii) 
+reforestation and reduced deforestation; and (iv) sustainable incentive programs such as payment for 
+environment services to promote water use efficiency and upper watershed management for protecting 
+water sources.
+
+Sub-Component 3.3: Strengthen policy and decision-making capabilities to support the protection of 
+key natural assets. Activities will include (i) an inventory of key wetland, wildlife and tourism areas; 
+(ii) improved monitoring; and (iii) capacity building for analytics to inform decision-making.
+
+27. Component 4: Project management (Total cost: $10m). This Component will focus on project 
+management arrangements and mechanisms including monitoring and evaluation (M&E) and 
+implementation. In addition, funds under this Component will be used to support the procurement of 
+essential goods and equipment such as vehicles, office equipment and furniture, imagery, software and 
+other accessories, etc. To strengthen project management, funds would be available to finance selected 
+technical assistance such as for safeguards, fiduciary management, and monitoring and evaluation. The 
+expected outcome of this component would be the effective implementation of the project activities 
+with due diligence and efficiency.
+
+IV. Safeguard Policies that Might Apply
+Safeguard Policies Triggered by the Project Yes No TBD
+
+Environmental Assessment OP/BP 4.01 X
+
+
+
+Page 8 of 9
+
+Natural Habitats OP/BP 4.04 X
+
+Forests OP/BP 4.36 X
+
+Pest Management OP 4.09 X
+
+Physical Cultural Resources OP/BP 4.11 X
+
+Indigenous Peoples OP/BP 4.10 X
+
+Involuntary Resettlement OP/BP 4.12 X
+
+Safety of Dams OP/BP 4.37 X
+
+Projects on International Waterways OP/BP 7.50 X
+
+Projects in Disputed Areas OP/BP 7.60 X
+.
+
+.
+
+V. Financing (in USD Million)
+Total Project Cost: 150.00 Total Bank Financing: 150.00
+
+Financing Gap: 0.00
+Financing Source Amount
+
+International Development Association (IDA) 150.00
+
+Total 150.00
+.

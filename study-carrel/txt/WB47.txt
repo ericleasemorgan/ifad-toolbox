@@ -44,6 +44,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 World Bank Document
 
 
@@ -103,128 +112,11 @@ Mar 31, 2017 Page 1 of 17
  
  
  
-  
-
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
 Project Information Document/  
 Integrated Safeguards Data Sheet (PID/ISDS) 
 
  
  
-
-Concept Stage | Date Prepared/Updated: 19-Oct-2017 | Report No: PIDISDSC19875 
-
-P
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 2 of 17  
-
-     
 
 BASIC INFORMATION 
 
@@ -282,25 +174,6 @@ Total Project Cost   50.00
 
  
  
-Other Decision (as needed) 
- 
- 
- 
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 3 of 17  
-
      
 
 B. Introduction and Context 
@@ -365,41 +238,6 @@ households in urban areas has access to the internet compared to only 2% in rura
 4. Unstable revenues and poor productivity of the rural economy, especially for agriculture, hinders poverty 
 reduction – The agriculture sector is an important driver of Côte d’Ivoire’s economy, accounting for 22% of GDP 
 and more than 75% of exports. Three out of four working adults living in rural areas are employed by the 
-
-                                            
-1
- World Bank, Côte d’Ivoire SCD – From Crisis to Sustained Growth, 2015 (pp.ix-x); IFAD, Rural poverty in the Republic of Côte d'Ivoire. 
-
-2
- “Good governance encompasses, inter alia, concrete measures against corruption, an improved public administration, and – as emphasized by 
-
-stakeholders – enhanced access to justice, and more transparent and predictable relations between government and the private sector.” (World 
-Bank, Côte d’Ivoire SCD – From Crisis to Sustained Growth, 2015, p.xvii). 
-
-3
- World Bank, Côte d’Ivoire SCD – From Crisis to Sustained Growth, 2015 (p.x). 
-
-4
- World Bank, World Development Indicators (most recent year is 2015 for sanitations facilities – cf. Table 3.12 – and 2012 for electricity). 
-
-5
- Gallup Survey, 2015. 
-
-http://www.ruralpovertyportal.org/country/home/tags/cote_divoire
-http://wdi.worldbank.org/table/3.12
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 4 of 17  
-
-     
 
 agriculture sector
 6
@@ -471,29 +309,7 @@ South. Rural poverty has traditionally been significantly higher in the North �
 agriculture has not yet been realized – whereas the South benefits from higher and more reliable rainfall and 
 better soils and produces most of the export crops. However, both the North and South suffer from low 
 
-                                            
-6
- World Bank, Côte d’Ivoire SCD – From Crisis to Sustained Growth, 2015 (p.xiii); at a national level (urban and rural population), half of the 
-
-population is employed by the Agriculture sector. 
-7
- World Bank, Ease of Doing Business in Côte d'Ivoire, 2016. 
-
-http://www.doingbusiness.org/data/exploreeconomies/c%C3%B4te-divoire/
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 5 of 17  
-
-     
-
+        
 agricultural productivity, high cost of inputs, considerable post-harvest losses, inadequate use of modern 
 farming techniques, lack of modernization and mechanization, all contributing to a decline in agricultural 
 production.
@@ -570,22 +386,6 @@ in the export tax would boost net revenue by 22 percent, which in turn would imp
 labor. Data from the most recent Agricultural Census (2001) estimated that there are 8.3 million farmers nationwide, of whom 49 percent are 
 women. The average cultivated area for each household is about 3.89 hectares, but 80 percent of households cultivate less than 2 hectares.” (). 
 
-12
- ECOWAS-UEMOA-CILSS, Alliance Globale pour l’Initiative Résilience AGIR, Rapport des Priorités Resilience Pays (PRP) Côte d’Ivoire, 2014. 
-
-http://www.ruralpovertyportal.org/country/home/tags/cote_divoire
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 6 of 17  
-
      
 
 by the agriculture sector in Cote d’Ivoire is thus similar to the rest of SSA: only about 1% of commercial 
@@ -654,42 +454,7 @@ sometimes at a significantly low price – before it rots.
 negatively affecting the efficiency of the government’s action on the sector; the sector would thus strongly 
 benefit from a stronger coordination for data and knowledge gathering, sharing, and dissemination – The 
 
-                                            
-13
-
- UNCTAD, Commodities & Development Report, 2015 (p.21). 
-14
-
- African Development Bank, Cote d’Ivoire Economic Outlook, 2015 (p.14). 
-15
-
- UNCTAD, Commodities & Development Report, 2015 (p.19). 
-16
-
- In Cote d’Ivoire transactions in local urban markets for staple foods represented about $1.1 billion compared with revenue of $0.63 billion from 
-exports in 2009 (cf. UNCTAD, Commodities & Development Report, 2015, p.22). 
-
-17
- African Development Bank, Cote d’Ivoire Economic Outlook, 2015 (p.14). 
-
-18
- World Bank, Côte d’Ivoire SCD – From Crisis to Sustained Growth, 2015 (pp.58-59). 
-
-19
- African Development Bank, Cote d’Ivoire Economic Outlook, 2015 (p.14). 
-
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 7 of 17  
-
+            
      
 
 agriculture sector is jointly supervised by the Ministère de l’Agriculture et du Développement Rural (MINADER) 
@@ -748,18 +513,6 @@ nd
 of 139 countries) in 2016 for the ‘ICT Environment sub-index’ (on the overall Network Readiness Index, Côte 
 
 
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 8 of 17  
-
-     
 
 d’Ivoire has risen from 122
 nd
@@ -842,28 +595,6 @@ charge inter alia of monitoring the market competition dynamics, ensuring the co
 to implement ICT solutions in all government activities, including finance, health care, and education, with the goal of providing, by the year 
 2020, all government services available online in developed countries (cf. IDAL, ICT Ivory Coast market, 2015, p.6). 
 
-24
- Cf. Journal du Net, Les TIC en Côte d’Ivoire, December 2014 ; BizTech Africa, Ivory Coast moves to close digital divide, February 2015. 
-
-http://news.abidjan.net/h/574080.html
-http://news.abidjan.net/h/574080.html
-https://investinlebanon.gov.lb/Content/uploads/ICT_Ivory_Coast_Market_2015.pdf
-http://www.journaldunet.com/ebusiness/expert/59377/les-tic-en-cote-d-ivoire---un-levier-de-developpement-pour-un-pays-en-pleine-reconstruction.shtml
-http://www.biztechafrica.com/article/ivory-coast-moves-close-digital-divide/9770/
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 9 of 17  
-
-     
-
 (Figure 3). In a similar fashion, only 1% of those having achieved at most primary education level use internet 
 on a weekly basis compared to 19% for those having reached at least a secondary education level (Figure 4). 
 
@@ -907,26 +638,6 @@ regulator calculated that 6,000 sites were required to cover 99% of the populati
 
 
  
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 10 of 17  
-
-     
-
- 
-
-Figure 5: 2G coverage by département (% pop., 2016) 
-
- 
-
-Figure 6: 3G coverage by département (% pop., 2016) 
-
- 
 
  
 Map source: ICT Unit, based on ARTCI data and base maps from United Nations OHCA-CI and CNTIG. 
@@ -954,20 +665,6 @@ extending ICT connectivity in rural areas, the project will directly enhance dig
 workarounds to inadequate logistics services. This will positively impact rural agriculture and economy by 
 enabling easier access to consumer markets at competitive costs. 
 
-https://data.humdata.org/dataset/cote-d-ivoire-administrative-boundaries
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 11 of 17  
-
-     
 
 17. The project will also indirectly contribute to two objectives of the CPF regarding (i) business environment and 
 (ii) access to land – (i) ‘Objective #3: Improve Business Regulatory Framework and Access to Finance’ will be 
@@ -1027,18 +724,6 @@ Please keep it up to date whenever it is changed in the datasheet.
 
 
 
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 12 of 17  
-
-     
-
 20. The Project will assess the number of ‘beneficiaries’ with a breakdown between both individuals (disaggregated 
 by gender) and establishments (disaggregated by central public administrations, local government and public 
 administrations, and local businesses). The project will use the following PDO indicators: 
@@ -1093,19 +778,6 @@ productivity issues (see Figure 5 & Figure 6 above).
 two sub-components: 
 
 
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 13 of 17  
-
-     
-
 a. Sub-component 2.1 – Help improve the performance of the rural development public institutions in Côte 
 d’Ivoire in gathering relevant, detailed, and recent data to monitor the rural economy and assist in shaping 
 public policy; 
@@ -1135,24 +807,6 @@ Figure 7: Regions identified as a priority for Component 1 & Component 2
 Map source: ICT Unit, base maps from United Nations OHCA-CI and CNTIG. 
 
  
-
-26. Component #3 Project implementation – This Component will support the setting up of a dedicated Project 
-Implementation Unit (PIU) and will also cover training, office equipment, operating costs, audits and 
-
-https://data.humdata.org/dataset/cote-d-ivoire-administrative-boundaries
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 14 of 17  
-
-     
 
 communications as well as Monitoring & Evaluation (M&E), environmental and social studies, their 
 implementation and/or the monitoring of their implementation. 
@@ -1196,13 +850,7 @@ With regard to the PIU, capacity building efforts to support project implementat
 recommendations contained in the safeguards instruments prepared for the project. The project will also receive 
 guidance from the Bank’s environmental and social specialists in the Project team. 
  
-C. Environmental and Social Safeguards Specialists on the Team 
 
- 
-Abdoul Wahabi Seini, Social Safeguards Specialist 
-Fatoumata Diallo, Social Safeguards Specialist 
-Abdoulaye Gadiere, Environmental Safeguards Specialist 
- 
 D. Policies that might apply 
 
  
@@ -1211,20 +859,6 @@ Safeguard Policies Triggered? Explanation (Optional)
 
 Environmental Assessment OP/BP 4.01 Yes The project will fund the construction of towers, ICT 
 
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 15 of 17  
 
      
 
@@ -1288,19 +922,6 @@ compensation measures to minimize negative impacts
 on Project Affected People (PAPs). 
 
 
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 16 of 17  
-
-     
-
 Safety of Dams OP/BP 4.37 No The project will not finance dams, not rely on dams. 
 
 Projects on International Waterways 
@@ -1330,101 +951,4 @@ will be reviewed consulted upon and disclosed by the Government of the Republic 
 Bank’s Website prior to the Decision Meeting. 
  
  
-
-CONTACT POINT 
-
- 
-
-World Bank 
-
-Marc Jean Yves Lixi, Jean-Philippe Tre 
-
-Senior Operations Officer 
- 
-
- 
-
-Borrower/Client/Recipient 
- 
-
-Republic of Cote d'Ivoire 
-
- 
-
- 
-
- 
- 
-
- 
-
-Implementing Agencies 
- 
-
-Ministry of Digital Economy and Post 
-
-Henri Danon 
-
-COORDONNATEUR PROGRAMME E-AGRICULTURE 
-
-henri.danon@egouv.ci 
- 
- 
-
-
-
- 
-The World Bank  
-Digital Solutions for Sustainable Development (P160418) 
-
- 
- 
-
-  
-Mar 31, 2017 Page 17 of 17  
-
-     
-
-FOR MORE INFORMATION CONTACT 
-
-The World Bank 
-
-1818 H Street, NW 
-
-Washington, D.C. 20433 
-
-Telephone: (202) 473-1000 
-
-Web: http://www.worldbank.org/projects  
-
- 
-
- 
-
-APPROVAL 
-
-Task Team Leader(s): Marc Jean Yves Lixi, Jean-Philippe Tre 
- 
-
-  Approved By 
-APPROVALTBL 
-
-Safeguards Advisor: Maman-Sani Issa 06-Oct-2017 
-
-Practice Manager/Manager: Boutheina Guermazi 15-Oct-2017 
-
-Country Director: Pierre Frank Laporte 24-Oct-2017 
-    
-
- 
- 
-
- 
- 
- 
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-http://www.worldbank.org/projects
-
 

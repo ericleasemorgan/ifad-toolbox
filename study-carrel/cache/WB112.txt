@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+CONCEPT STAGE
+Report No.: PIDISDSC17964
+
+Date Prepared/Updated: 18-Jul-2016
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: India Project ID: P158522
+Parent 
+Project ID 
+(if any):
+
+Project Name: Tamil Nadu Irrigated Agriculture Modernization Project (P158522)
+Region: SOUTH ASIA
+Estimated 
+Appraisal Date:
+
+15-Feb-2017 Estimated 
+Board Date:
+
+15-Mar-2017
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): Republic of India
+Implementing 
+Agency:
+
+Water Resources Organization, Public Works Department, GoTN
+
+Financing (in USD Million)
+Financing Source Amount
+Borrower 136.00
+International Bank for Reconstruction and Development 318.00
+Total Project Cost 454.00
+
+Environmental 
+Category:
+
+A - Full Assessment
+
+Concept 
+Review 
+Decision:
+
+Track II - The review did authorize the preparation to continue
+
+Is this a 
+Repeater 
+project?
+
+No
+
+Other Decision 
+(as needed):
+
+The Decision Review Meeting discussed the risk ratings of the project and 
+agreed to the proposed overall project risk rating of Moderate.  The review 
+meeting discussed project safeguard issues and agreed with the 
+proposed classification as Category A in view of potential issues related to dam 
+safety, increased pesticides and fertilizer usage. The safeguard responsibility will 
+remain with RSA.
+
+B. Introduction and Context
+
+Country Context
+India in recent years witnessed impressive economic growth and poverty alleviation. During the 
+past decade, India's Gross Domestic Product (GDP) grew at 7.6% annually and poverty incidence 
+reduced on average by 1.5 percentage points per year during 2005-10. Also,improvements in key 
+development indicators have been remarkable: life expectancy increased from 31 years in 1947 to 
+68 years in 2015 and adult literacy increased from 18% in 1951 to 71% in 2015. 
+ 
+Despite such impressive progress in economic growth, poverty alleviation, and improved human 
+development indicators, India remains home to 263 million poor people (80% of whom reside in 
+rural areas) living on less than US$1.90/day and the country is still at the bottom of the group of 
+middle-income countries. To address these challenges, the Government of India (GoI) through its 
+12th Five-Year Plan (FY2013-17) put forward an ambitious goal for economic growth, poverty 
+reduction, job creation, and environmental management. The plan foresees during this period an 
+annual GDP growth of 8.2%, a reduction in poverty rate by 10 percentage points, and 50 million 
+of new jobs.
+Sectoral and Institutional Context
+Tamil Nadu is the second largest state economy in India with one of fastest growth rates: over the 
+past three years its Gross State Domestic Product (GSDP) grew at 9.2% per annum.  The average 
+annual per capita income of the state is around INR 61,500 (at 2010/2011constant prices), which 
+is around 42% higher than the national average. Tamil Nadu is also the most urbanized state in 
+India with around 48% of population living in cities. 
+ 
+Agriculture and allied sectors in Tamil Nadu account for 12% of the state's GSDP. About 40% of 
+state's population is dependent on agriculture for their employment and more than two thirds of 
+state's poor people live in rural areas and are engaged in predominately in agriculture activities. 
+The majority of farmers are small and marginal with average family landholdings of 0.83 ha. The 
+main crops are rice, maize, pulses, groundnut, sugar cane, vegetables, and banana. Rice dominates 
+both consumption and agriculture production accounting for 34% of total gross cropped area and 
+60% of irrigated area. Due to seasonality and scarcity of water supply, cultivation is mostly 
+limited to only one crop per plot per year. 
+ 
+Tamil Nadu is one of the driest and most water stressed states of India with average annual 
+rainfall of 925 millimeters, which is well below the national average of 1,200 millimeters. Per 
+capita availability of water in the state is around 900 cubic meters a year compared with the 
+national average of 2,100 cubic meters.  The agriculture sector in Tamil Nadu is highly exposed 
+to climatic risks, especially droughts, floods, cyclones, and erratic rainfall, which have frequently 
+affected the performance of agricultural sector in the past. The dry season lasts five months 
+(January through May) even in good years, and droughts occur in three out of ten years.  Climate 
+change is likely to exacerbate the vulnerability of agricultural sector with increasing erratic 
+weather patterns and climatic shifts.  A clear example is the consequence of devastating floods 
+that occurred in November-December 2015, which severely damaged irrigation infrastructures in 
+three districts and affected Chennai, the capital city of Tamil Nadu as well. 
+ 
+The state is heavily dependent on irrigated agriculture and over the years an impressive inventory 
+of irrigation and water infrastructure was built in the state. There are 89 major reservoirs, 39,000 
+tanks (traditional water harvesting structures) and 3 million wells. Irrigated agriculture is the 
+
+
+largest consumer of water in the State accounting for 75% of total water usage. About 3 million 
+ha of land (54% of total crop land) is under irrigation with different sources of water: 30% of total 
+irrigated area is under canal irrigation, 21% is under tank irrigation, and 49% is irrigated by wells. 
+ 
+In recent years the state's agriculture sector has grown modestly at less than 3% per annum 
+compared with 6-9% growth of the state's economy. The productivity of major crops has largely 
+stagnated:  the current average yields of rice and maize are slightly higher than the national 
+average, the average yields of vegetables, cotton, and pulses are lower than the national average. 
+To unlock the full potential of agriculture sector growth, there is a strong need for policies and 
+programs to focus on: (i) improvement of water use efficiency; (ii) intensification of cropping 
+systems and diversification into high value crops; (iii) enhancement of post-harvest management 
+and value addition; and (iv) improvement of the resilience of agriculture system in order to deal 
+with increasing threats of climate change. 
+ 
+The Bank-supported Tamil Nadu Irrigated Agriculture Modernization and Water-Bodies 
+Restoration and Management Project (TN IAMWARMP), which was concluded in 2015, has had 
+a significant development impact in the state by modernizing irrigation infrastructure, improving 
+water use efficiency, enhancing yields and productivity of agriculture, livestock and fisheries, and 
+promoting diversification to high value crops. It also supported the introduction of participatory 
+irrigation management in the state and the establishment of water users associations (WUAs). 
+Under the project 5,300 tanks and irrigation supply canals were rehabilitated and modernized, and 
+2,800 WUAs were established resulting in increases of fully irrigated areas by 39% and water 
+conveyance efficiency by more than 30%. The total area under high value crop was also doubled. 
+Moreover, the project helped the state improve its water resource planning and implementation 
+capacities.  These achievements and lessons learned during implementation of TN IAMWARMP 
+serve as a good base for further enhancing the performance of irrigated agriculture in the state 
+through the proposed project.
+Relationship to CAS/CPS/CPF
+The proposed project is fully consistent with the India Country Partnership Strategy (CPS) for 
+FY2013-17 to support poverty reduction and shared prosperity in India. In line with the pillar for 
+Transformation, the project promotes inclusive rural growth, development and dissemination of 
+new agricultural technologies, climate-resilient agriculture, enhanced market linkages for small 
+and marginal farmers, and improved water and natural resource management. Further the 
+proposed project will have a positive impact in terms of environmental protection, and reduced 
+greenhouse gas emissions by disseminating high efficiency irrigation systems, and promoting 
+diversification into high value crops, which significantly reduce water consumption. 
+ 
+The proposed project will contribute to the Inclusion pillar of CSP by enhancing the livelihoods 
+of small and marginal farmers through crop diversification, enhanced market access, and also by 
+improving disaster management abilities of GoTN and the local communities through the 
+enhanced design and restoration of irrigation infrastructure with better flood protection features.
+
+C.  Proposed Development Objective(s)
+
+Proposed Development Objective(s) (From PCN)
+To enhance agriculture productivity, water use efficiency, climate resilience of irrigated 
+agriculture and increase post-harvest value-addition for smallholder farmers and agro-
+entrepreneurs in Tamil Nadu. 
+
+The project beneficiaries are farmers, including small and marginal, water users associations, 
+farmer producer organizations, and other entrepreneurs.
+
+Key Results (From PCN)
+The key project indicators (KPI) will be: 
+ 
+(i) Increase in water use efficiency (resilience, water use efficiency); 
+(ii) Increase in agricultural productivity (productivity); 
+(iii) Increase in areas cultivated by non-paddy crops (diversification and value added);  
+(iv) Adoption of resilient technologies and practices (resilience); and  
+(v) Total number of project beneficiaries (including number of female beneficiaries).
+
+D.  Concept Description
+
+The design of the proposed project will include innovative aspects that build on lessons learned 
+from TN IAMWARMP and also reflect the evolving needs of the state when it comes to 
+modernization of irrigated agriculture. These include improved designs of irrigation 
+infrastructure, stronger focus on the demand-side of irrigation with aim to improve water-use 
+efficiency, further advances in agricultural diversification, agri-entrepreneurship, and movement 
+toward climate resilient agriculture with relevant agriculture-water related investments and 
+substantial improvements of participatory irrigation management practices by beneficiaries.  
+Improved resilience of agriculture production systems is expected to be achieved under the 
+project through e.g. higher water use efficiency, increased adoption of sustainable technologies 
+and practices, and enhanced diversification of production systems. Activities under the project 
+will be duly complimented by use of innovative ICT and new media technologies for enhanced 
+efficiencies and faster turnaround time for delivering services to project beneficiaries.  As 
+requested by GoTN, the project is also expected to finance on-retroactive basis, rehabilitation and 
+modernization of tanks and other irrigation infrastructures damaged by the flooding of 
+November/-December 2015 floods in three districts of Tamil Nadu. 
+ 
+The total project cost is expected to be around US$454 million, of which the Bank will finance 
+$318 million (70% of total project cost) and the GoTN will finance US$ 136 million (30% of total 
+project cost). The project activities will cover the entire state of Tamil Nadu (its individual 
+components will cover different geographic areas) and will be implemented over seven year 
+period.    The project activities would be grouped into three main components: (i) Agriculture 
+Water Management; (ii) Agriculture Productivity Enhancement, Diversification, and Value 
+Addition; and (iii) Project Management Support. The individual components are summarized 
+below: 
+ 
+Component A: Irrigation and Water Management 
+ 
+This component addresses irrigation and water management in a holistic fashion by covering both 
+supply and demand simultaneously.  It consists of four inter-related sub-components, including: 
+(i) institutional strengthening and capacity building of water management; (ii) irrigation systems 
+modernization; (iii) participatory irrigation management;   and (iv) converged service delivery at 
+the grass-root level.     
+ 
+Sub-component A.1: Institutional Strengthening and Capacity Building of Water Management 
+ 
+
+
+This subcomponent aims to assist the GoTN in addressing the pressing water sector issues, 
+including: (i) need for integrated water resources planning, bulk water allocations  and 
+management in a basin context, involving all water using sub-sectors to improve the efficiency 
+and productivity of limited water resources; (ii) need to improve the knowledge base and 
+instruments; (iii) need to improve the financial sustainability of water sector assets, and cost 
+effective reliable service delivery; and (iv) need to promote participatory irrigation service 
+management. These will be done through strengthening of capacities for enhancing policy 
+analysis and implementation, knowledge base, analytical capacity, staff mobility, filling of subject 
+matter specialists/experts gap, technology induction, office facilities, and related technical/
+logistical support.  
+ 
+Sub-component A.2: Irrigation Systems Modernization 
+ 
+This sub-component will modernize irrigation infrastructures, including tanks, and irrigation 
+canals.  The modernization of irrigation infrastructure will focus on improving the bulk water 
+delivery to irrigation systems through rehabilitation and modernization of approximately 4,800 
+tanks, and 477 anicuts in 66 sub-basins out of total 127 sub-basins.  Activities under this sub-
+component will be carried out based on individual sub-basin development plans specifically 
+developed and tailored to local conditions, and will aim to revive traditional water bodies (tanks) 
+that are either part of or outside the state➢❨ s irrigation systems network.  The sub-component 
+will finance civil works, equipment, consultancies, training and incremental operational costs 
+associated with modernization of the schemes, and the work will be carried out by WRD, and as 
+required  with direct involvements of WUAs.  
+ 
+Sub-component A.3:Participatory irrigation Management 
+ 
+This sub-component aims to integrate participatory irrigation management (PIM) practices into 
+the operations of the Water Resource Department as a distinct unit within the Department in order 
+to improve Operation and Maintenance (O&M) of modernized and rehabilitated irrigation 
+infrastructures.  The sub-component will assist in strengthening and establishing new water users 
+associations (WUAs), including operationalizing WUAs to undertake O&M, water distribution, 
+and asset rehabilitation works within their command areas.  
+ 
+Sub-component A.4: Converged Service Delivery at Grass-Root Level 
+ 
+For effective service delivery to farmers, all departments involved in the water sector need to 
+collaborate. This convergence for service delivery will be promoted through establishing and 
+strengthening Single Window Information and Knowledge Centers (SWIKCs), and facilitating 
+Community Collaborative Water Management (CCWM) at village level. CCWM will sensitize 
+local communities about the water situation and enable them to draw community level action 
+plans for sustainable use of water in their villages for all water users. 
+ 
+The overall component will be supported by information and communication technology (ICT) 
+Innovative ICT and new media solutions coupled with robust monitoring and evaluation systems 
+for real time submission of information related to the project activities will be designed, 
+developed and deployed under Component A in addition to leveraging on the existing ICT 
+solutions developed during IAMWARM.  In particular, specific ICT interventions to be 
+undertaken under this components will be:  (i) Operationalization and enhancement of Enterprise 
+
+
+Information Managemenget System platform developed under IAMWARMP through retroactive 
+financing and (ii) Implementation of Supervisory Control and Data Acquisition systems based 
+upon sensors based inputs for automation of at least one canal network. 
+ 
+Component B: Agriculture Productivity Enhancement, Diversification, and Value Addition 
+ 
+The interventions of this component are aimed at increasing productivity, promoting 
+diversification of agriculture production systems, and improving farmers➢❨  access to markets in 
+project sub-basins. The component will adopt climate-resilient approaches that promote 
+sustainable use of land and water resources. The component will consist of two sub-components:  
+(i) sustainable intensification and diversification of agriculture production systems; and (ii) 
+marketing, value-addition and post-harvest management.  
+ 
+Sub-component B.1: Sustainable intensification and diversification of agriculture production 
+systems 
+ 
+Sustainable intensification and diversification of agriculture production systems will be achieved 
+through a large scale program of awareness creation and on-farm demonstrations on new seeds 
+and promising technologies, capacity building and training activities; and by leveraging private 
+sector investments in water management and farm mechanization.  Climate risk resilience will be 
+built into crop and horticulture production systems by:  (a) promoting cultivation of short 
+duration, high yielding, drought-, pest- and disease-tolerant crops/varieties of pulses, maize, 
+oilseeds, millets, vegetables and fruits; (b) installation of micro irrigation drip and fertigation 
+systems; and (c) promoting water saving agronomic practices like the system of rice 
+intensification and the sustainable sugarcane initiative.  For linking production with market 
+demand, farmers will be supported and trained to grow those crops and commodities for which 
+significant market demand exists, including a shift from paddy to crops with low water 
+consumption in which Tamil Nadu is deficient.  ICT-based leveraged activities will be introduced 
+like E-velanmai, Farmer Cropping Advisory.  
+ 
+Animal husbandry activities will aim at improving production potentials of livestock through 
+adoption of sustainable and climate resilient animal husbandry practices (including fodder 
+cultivation) technologies, strengthening of input, extension, and service delivery systems, 
+establishing ICT based MIS and infrastructure strengthening and capacity building in breeding, 
+disease surveillance and food safety. 
+ 
+Fisheries activities will aim at improving fish productivity mainly in reservoirs, tanks and ponds 
+through demonstration of climate resilient modern technology packages such as: short production 
+cycle models involving improved fast growing fish varieties; improved reservoir fisheries 
+management; introduction of suitable formulated fish feed using locally available ingredients; 
+promotion of innovative technologies such as cage fish culture and pen fish farming in an 
+environmentally sustainable manner; and facilitation of suitable market linkages for better access 
+to markets.   
+ 
+Related to above activities, the project will finance the incremental requirements of contractual 
+subject matter experts and support staff, goods and equipment, consultancies, studies, trainings, 
+civil works, and incremental operating costs. The Project will also support the GoTN in 
+improving existing policies, regulations, and procedures to achieve a climate-resilient and 
+
+
+
+sustainable agriculture system by commissioning feasibility studies, preparing detailed action 
+plans and implementation guidelines.  
+ 
+Sub-component B.2: Value Addition and Post-Harvest Management 
+ 
+This subcomponent will aim at enhancing farmers' linkages to markets by providing alternative 
+marketing channels and improving farm level post-harvest management and value addition.  The 
+project will support the setting up of an Agribusiness Promotion Facility, development of farmer 
+producer organizations/companies, integration of commercial value chains of agricultural 
+commodities, and will facilitate public-private partnerships to enable direct buying arrangements.  
+Support will also be provided for modernization and upgrading of selected Regulated Markets 
+dealing with project produces and weekly farmers➢❨  markets/rural markets (Varashanthais) on 
+cost sharing basis, innovative pilots, institutional strengthening and capacity building of 
+Agriculture Marketing and Agribusiness Department. The GoTN is currently in the process of 
+amending the Agriculture Produce Market Act of 1987, which would bring in substantial reforms, 
+and among others, would create a conducive environment to development of more efficient 
+markets with extensive usage of latest ICT technologies. 
+ 
+Component C: Project Management Support 
+ 
+The project will adopt the model of multi-departmental coordination and convergence, and will 
+follow the general institutional structure of IAMWARM. The Multi-Disciplinary Project Unit 
+(MDPU) established under the IAMWARM will also serve as the management and coordination 
+unit for the proposed IAMP, with modifications as needed to be considered during project 
+preparation. The MDPU will be responsible for ensuring support to preparation and 
+implementation of overall project budget, sub-basin development plans, and implementation 
+progress reports by the line departments. The MDPU will provide M&E, procurement and 
+fiduciary support as needed to the project implementing agencies. 
+ 
+The activities to be undertaken under the component will also be supported by: i) implementation 
+of mobile application and associated back-end software tools for Geo Tagging and remote sensing 
+based monitoring of project outcomes and  ii) Implementation of GIS based data acquisition and 
+analysis system for studying emission of Methane and other Green House Gases (GHG) in project 
+area. Citizen Engagement including Grievance Redressal is to be done by respective department 
+as per agreed system.
+
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+The project will be implemented in 66 sub-basins, including the areas experiencing droughts, floods 
+and other climate/natural shocks, particularly in coastal areas. The project activities might  influence 
+a diverse set of habitats/ecosystems, including, coastal, plains, hilly, wetlands, rivers and sub-river 
+basins as explain below.
+
+B. Borrower’s Institutional Capacity for Safeguard Policies
+The primary implementing agency has developed some capacity in managing social and 
+environmental impacts under IAMWARM Project, which is the first phase to this project    but 
+remain weak when it comes to monitoring and reporting of environmental and social manageent 
+
+
+
+
+aspects. Moreover, officials, particularly engineers, who were engaged in the previous project may 
+move out due to transfers and this may require additional capacity building measures for the current 
+staff. The implementing agency has some familiarity in preparing secondary data based 
+environmental atlas for sub-basins, undertaking minor Social and Environmental Assessments, 
+preparing Environmental Status Reports and contracting special studies of the river basins in the 
+State. However, the second phase project will cover new sub-basins, a fresh full environmental and 
+social assessment would be required for which the borrower will prepare and share with the Bank a 
+detailed Terms of Reference. A multi-disciplinary project unit (including environmental and social 
+experts) is being set up to facilitate the preparation and implementation of this project and based on 
+experience of the previous project, will require additional support of external experts to facilitate the 
+assessment both during preparation and then during operational phase for implementing the 
+mitigation measures.
+
+C. Environmental and Social Safeguards Specialists on the Team
+Anupam Joshi (GEN06)
+Samuel Thangaraj (GTC06)
+
+D. POLICIES THAT MIGHT APPLY
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental Assessment 
+OP/BP 4.01
+
+Yes Significant physical investments are expected under 
+the project and although the nature of these 
+investments would be largely rehabilitation of 
+existing assets, improper construction could result in 
+adverse impacts. An Environmental and Social 
+Assessment will be undertaken and an 
+Environmental and Social Management Plans would 
+be developed for managing risks and maximize 
+environmental and social opportunities. These will 
+take into account earlier work and experiences of the 
+TN WRCP project and consideration of new 
+activities proposed in the TN IAMWARM project.
+
+Natural Habitats OP/BP 4.04 Yes This is triggered, as a large number of tanks will be 
+rehabilitated, including carrier system, which may 
+impact natural habitats, particularly wetlands. 
+Careful mapping using remote sensing will be 
+undertaken as part of conducting the environmental 
+assessment.
+
+Forests OP/BP 4.36 No No impacts on forests are expected and the project 
+will not affect existing forest management practices.
+
+Pest Management OP 4.09 Yes No pesticides and fertilizers are expected to be 
+financed directly by the project; however, there may 
+be induced impacts of increased fertilizer and 
+pesticide use due to improved agricultural 
+intensification and diversification. The project will 
+support scaling-up state-wide Integrated Pest 
+
+
+Management and Integrated Nutrient Management 
+efforts and support for safer and organic food 
+production and marketing. A pest management plan 
+will be prepared as part of the EA.
+
+Physical Cultural Resources 
+OP/BP 4.11
+
+TBD No significant adverse impacts on cultural property 
+expected, but this issue will be examined during the 
+ESA (particularly in relation to proper management 
+of any religious and other physical cultural property 
+associated with tanks during rehabilitation).
+
+Indigenous Peoples OP/BP 
+4.10
+
+TBD A Tribal Mapping of 66 sub-basins to identify areas 
+in the sub-basins that are categorized as belonging to 
+Schedule 5 areas where GoTN's Tribal Sub-Plans 
+and where Forest Rights Act are implemented  will 
+be undertaken as part of Social Assessment to 
+determine whether or not the OP/BP 4.10 is 
+triggered.
+
+Involuntary Resettlement OP/
+BP 4.12
+
+Yes Modernization of irrigation systems and 
+rehabilitation and required civil works are likely to 
+involve involuntary resettlement. Though efforts will 
+be made to avoid this, necessary structures and 
+processes to mitigate adverse impacts, if any will be 
+put in place in the Social Management Plan.
+
+Safety of Dams OP/BP 4.37 Yes The dam safety policy is triggered as some tanks 
+may have embankments higher than 15 m, though it 
+will be confirmed once tanks are identified. The 
+proposed project will draw technical resources from 
+the ongoing World Bank funded Dam Rehabilitation 
+and ImprovementProject (DRIP) in the State of 
+Tamil Nadu, including the participation of the Dam 
+Safety Review Panel. During preparation, the 
+specific needs for supporting safety of Dams and 
+tank systems will be assessed comprehensively and 
+interventions needed will be determined. This 
+includes the necessary monitoring system.
+
+Projects on International 
+Waterways OP/BP 7.50
+
+No The project does not fall on any international 
+waterways.
+
+Projects in Disputed Areas OP/
+BP 7.60
+
+No The project is not in any disputed areas.
+
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+29-Dec-2016
+2. Time frame for launching and completing the safeguard-related studies that may be 
+needed. The specific studies and their timing should be specified in the PAD-stage 
+ISDS.
+An Environmental and Social Assessment (ESA) shall be completed by November 30, 2016, which 
+
+
+will be for the entire project period. A number of safeguards instruments are expected to be 
+prepared. An Environment and Social Management Framework (ESMF) will be prepared, as all 
+investments and their locations would not be known by appraisal. An Environment Management 
+Plan (EMP) and a Social Management Plan (SMP) will be prepared by appraisal for at least one 
+large infrastructure sub-project. In addition, a Pest Management Plan (PMP) will be prepared that 
+will be applicable through the project period. Based on the assessment to trigger the policy on 
+Indigenous Peoples, an Indigenous Peoples Framework may be prepared.  Finally, A Resettlement 
+Action Plan (RAP) will also be prepared.

@@ -1,0 +1,1250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+North Cameroon Agriculture and Water Smart Landscapes Project (P166072) 
+
+ 
+ 
+
+  
+Jan 28, 2018 Page 1 of 25  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 25-Jan-2019 | Report No: PIDISDSC24140 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Cameroon P166072  Valorization of 
+Investments in the 
+Valley of the Benue 
+(P166072) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA Sep 16, 2019 Dec 20, 2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing MINEPAT MEADEN  
+
+ 
+
+Proposed Development Objective(s)  
+ 
+To contribute to the Regional Climate Resilience Investment Plan by improving irrigation services and sustaining climate 
+resilient agricultural productivity in the Benue River Valley. 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 200.00 
+
+Total Financing 200.00 
+
+of which IBRD/IDA 200.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 200.00 
+
+          IDA Credit 200.00 
+
+   
+ 
+
+Environmental Assessment Category Concept Review Decision 
+
+
+A - Full Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+ 
+ 
+
+B. Introduction and Context 
+
+ 
+Regional Context  
+
+The Niger Basin, located in West and Central Africa, is one of the major transboundary basins in Africa. Its 
+1.5 million km2 active hydrographic basin spans over the territory of nine countries: Benin, Burkina Faso, 
+Cameroon, Chad, Guinea, Ivory Coast, Mali, Niger, and Nigeria. Its population of 130 million inhabitants is 
+growing rapidly, expected to reach 180 million people by 2025. Except for Nigeria, most of the population in 
+the basin is rural and depends on agriculture, animal husbandry or fishing for its livelihood. 
+ 
+The value of the Niger River System resides in its contribution to water, food, energy, and job security, to 
+transport and to biodiversity. For thousands of years, the river, its tributaries and connected lakes and 
+wetlands have supported local populations with diverse water-dependent livelihoods such as flood-recession 
+agriculture, cattle grazing and drinking, fishing and hunting. In the Niger Basin Countries, agriculture (including 
+farming, livestock husbandry and fisheries) contributes 20 to 50 per cent of GDP and roughly two-third of the 
+population depends on it for its livelihood. Moreover, those mostly family fishing and agro-pastoral systems 
+are labor intensive and generate significant indirect employments (processing, trade and crafts). In a region 
+with a structural deficit in food production and increasing temperature and rainfall variability and uncertainty, 
+the river, its tributaries and connected groundwater resources are key to increase agricultural productivity and 
+resilience to climate change. In addition, the river system is important for the energy security of the region, 
+with an installed, partially integrated, hydro-power capacity of 2,000MW1. Finally, the Niger hydro-system 
+sustains some of the most significant biodiversity areas in the World, notably the Inner2 and Maritime Deltas 
+in Mali and Nigeria respectively, both Ramsar sites. 
+ 
+Yet the Niger hydro-system and the population, economies and biodiversity relying on it are vulnerable to 
+several climate and water-related shocks and stresses, many of them transboundary in nature. Managing 
+competing water demands, notably between upstream and downstream users and between different sectoral 
+will be one of the basin’s main development challenges in the coming decades as intensifying water use, while 
+necessary, will not be without impacts. Notably, it will be important to strike a balance between the regulation 
+of river flows (i.e. reservoirs) and increased water withdrawals for irrigation, hydropower and navigation, as is 
+the case of the Upper Niger, Medium Niger and the Benue (i.e. Chad, Cameroon and Nigeria) and the 
+preservation of the Maritime Delta ecosystem (i.e. biodiversity and ecological services: fishing) in Nigeria. 
+
+                                            
+1 World Bank, 2006: Water Resources Management & Development Opportunities in the Niger River Basin. Policy Note. Economic 
+and Sector Work. Washington, DC: World Bank. Nigeria is exporting electricity to Niger and Benin in the Niger Basin. 
+2 During the rainy season, the Inner Delta forms a large flood plain of 20,000 to 30,000 km2, facilitating the cultivation of rive, cotton 
+and wheat as well as cattle herding and fishing. The size of the flooded area is subject to strong annual variations, depending on the 
+discharge in the Upper Basin.  
+
+Priority should therefore be given to increasing the performance of existing infrastructure; 
+reducing/postponing the need to build new dams; as well as strengthening the Niger Basin authority (NBA)’s 
+capacity in its water allocation, planning and coordination of transboundary projects function.  
+ 
+In this context, the Government of Cameroon has made a request to the Niger Basin Authority to incorporate 
+the Lagdo dam into the Niger Basin Master Plan. The WB is currently supporting the master plan through a 
+Niger Basin regional program using the Series of Project (SOP) instrument. Phase 1 (Building Climate Resilience 
+in the Niger Basin, P161262) objective is to strengthen the Niger Basin Authority’s capacity for integrated, 
+transboundary water resources management, while subsequent phases/projects, including the proposed 
+operation, would be for country-level investments. Within the master plan integration, the development of 
+irrigation from the Lagdo dam is indicated for Cameroun.  
+
+Summary of regional potential water issues, per section of the Niger basin and country 
+
+Section of the Niger Basin / countries Main transboundary issues 
+
+Cameroon, Lower Niger and Benue (Chad, 
+Nigeria)  
+
+- Flood risk in Cameroon and Nigeria 
+- Land degradation in Cameroon and Chad, 
+
+contributing to sedimentation in 
+Cameroon and Nigeria 
+
+- Sub-optimal power generation from 
+existing dams in Nigeria (i.e. Kainji and 
+Jebba) and Cameroon (i.e. Lagdo) 
+
+-  
+
+Inner Delta (Mali): Wetland of international 
+significance (RAMSAR), providing fish, 
+pasture land and flood-recession agriculture 
+for more than 2 million people 
+ 
+
+- Vulnerable to a reduction of annual flood 
+and overall yearly inflows, that could result 
+from an increase in water withdrawals 
+from irrigation (i.e. “offices”); river flow 
+regulation from future dams (i.e. Fomi) 
+or/and climate change 
+
+Middle Niger (Mali, Niger, Benin, Burkina 
+Faso) 
+
+- Flooding particularly in Niger and Benin 
+- Erosion and Sedimentation in all countries 
+- Invasive Species (Water Jacinth) 
+
+Upper Niger (Guinea, Ivory Coast, Mali) - Moderate degradation of land and forest 
+cover (Guinea and Ivory Coast) 
+
+- Contamination from informal mining 
+(Guinea, Mali and Ivory Coast) 
+
+- Low water productivity in the “Offices” of 
+Mali, largest water user in the basin 
+
+- Sub-optimal power generation from 
+existing dams in Mali 
+
+Maritime Delta (Nigeria): wetland of 
+international significance, source of livelihood 
+to about 1 million fishermen 
+
+- Vulnerability to increase water 
+withdrawals and regulation from upstream 
+countries 
+
+- Invasive Species (Typha, Water Jacinth) 
+
+
+The proposed project is therefore proposed as the second of a Series of Projects under the Regional 
+Program. Through in country investments it will contribute to the implementation of targeted, interventions 
+for transboundary, integrated water resource management. 
+Country Context 
+
+ 
+
+A lower middle income country of about 24 million people, Cameroon is strategically located on the gulf of 
+Guinea. It is naturally well placed to play the role of a regional hub. With its 600 kilometer coastline, Cameroon 
+borders with six Central Africa countries3 which, with the exception of Nigeria, are members of the Economic 
+and Monetary Community of Central Africa (CEMAC by its French acronym). Its regional port of Douala serves 
+as an entry point to two strategic road corridors to Bangui and Ndjamena. Cameroon’s Far North region shares 
+with Chad, Niger and Nigeria access to Lake Chad, a basin traditionally important for livelihood in the region, 
+but also an area of competition for scarce resources including between farmers and pastoralists. Cameroon is 
+endowed with ample arable land, water, energy, and oil and mineral resources.  
+ 
+With a per capita Gross Domestic Product of US$1,374 (current prices) in 2017, the economy is largely driven 
+by its primary sector, agriculture and mineral resources, and benefits from its location in the Congo Basin, the 
+world’s second largest tropical forest zone, which provides an exceptional ecological diversity. The country’s 
+mineral wealth includes deposits of oil, natural gas, gold, iron, manganese and uranium. Crude petroleum is an 
+important resource accounting for 10 percent of GDP and being the main export product by value. Timber is the 
+second largest export product. Imports are dominated by manufactured goods and come mainly from Europe. 
+ 
+Despite having one of the most diversified economies in the CEMAC region, Cameroon’s economic activity 
+slowed in 2016. Growth has dipped to 3.7 percent by the end of 2017, compared to 4.4 percent in 2016. This 
+outcome is due to slower growth in oil production (+3 percent in 2016 against 37 percent in 2015) resulting from 
+the maturity of the main oil fields, and to the avian flu epidemic that has damaged the local poultry industry, 
+particularly in the West, which accounts for 80 percent of production. However, continued implementation of 
+the Government’s ambitious infrastructure plan and interventions to boost the agriculture and forestry sectors 
+have significantly contributed to sustained strong growth in public works and construction and services. Inflation 
+rose to 1.6 percent at the end of June 2016, largely based on the increased tax rate on alcohol (7.4 percent) and 
+tobacco in the 2015 budget law, and the 4.9 percent increase in prices for services, restaurants, and hotels. 
+ 
+Cameroon’s ruling party, the Cameroon People’s Democratic Movement (CPDM), has long dominated the 
+country’s political landscape and currently occupies 148 of the 180 seats in the National Assembly and 81 of 
+the 100 seats in the Senate, which was created in 2013.  Presidential elections are scheduled for 2018.  While 
+Cameroon has enjoyed peace for many decades in spite of its highly diverse population, it now faces an 
+increasingly challenging situation in its northern regions, where Boko Haram is waging a low intensity war.  This 
+has resulted in high levels of insecurity and violence, involving 2,276 fatalities in 2014-2015 alone, loss of 
+livestock, and risks associated with normal economic activities such as farming. Cameroon’s northern regions 
+are facing a humanitarian and economic challenge: The Office for the Coordination of Humanitarian Affairs 
+(OCHA) estimated the number of food insecure people in the northern regions to have increased from one 
+
+million in 2014 to 2.4 million in August 2016, including 253,000 children suffering from severe or moderate acute 
+malnutrition. The year 2017 has also been marked by high tensions in the northwest and southwest Anglophone 
+regions, which feel marginalized by the rest of the country. 
+ 
+The Government of Cameroon (GoC) long-term vision, Cameroon Vision 2035, is of an emerging, democratic 
+and united country in diversity. To operationalize this Vision, the Government adopted a Growth and 
+Employment Strategy (DSCE –Document de Stratégie pour la Croissance et l’Emploi) in 2009 and defined specific 
+objectives to be achieved by 2020, like to reduce poverty by less than 29 percent and by 10 percent in 2035. 
+The GoC has further adopted the United Nations 2030 Agenda for Sustainable Development. It also endorsed 
+the Paris Agreement under the United Nations Framework Convention on Climate Change and published 
+Cameroon’s Nationally Determined Contributions (NDC) setting out its contribution to climate change mitigation 
+and priorities for adaptation.  
+ 
+The DSCE identifies inadequate infrastructure and an unfavorable business environment as the main factors 
+impeding economic growth and employment creation. The agriculture sector, which currently employs about 
+70 percent of the active population in Cameroon (primarily in the informal sector), is regarded as the engine for 
+economic growth and job creation if it can be transformed from traditional farming to diversified and 
+commercially viable farming (see below). The DSCE recognizes the need for agricultural diversification, increased 
+productivity, and large-scale public investment projects in the sector. In fact, notwithstanding Cameroon’s 
+abundance of natural assets and tremendous climatic and land potential, the primary sector’s contribution to 
+growth is very limited, about one percentage point of GDP p.a., and is dominated by food crops grown by 
+smallholder farmers.  
+ 
+As population growth outpaces poverty reduction, the number of poor increased between 2007 and 2014 by 
+12 percent to 8.1 million people, with important regional disparities. The northern regions exhibit by far the 
+highest poverty rates in Cameroon, with an estimated 56 percent of the poor living in the North and Far North 
+regions alone. In these two northern regions poverty and inequality levels have steadily increased over time 
+relative to the rest of the country where poverty and inequality have declined. They are subject to multiple 
+poverty traps, which are documented extensively in the World Bank Systematic Country Diagnostic (SCD, Report 
+103098-CM)4, including low agriculture productivity, increasing vulnerability to climate change, poor 
+infrastructure, and limited access to health and education services.  
+ 
+Poverty incidence is correlated with agro-ecological zones. The northern regions of Cameroon, i.e., the four 
+poorest regions (the Far-North, the North, the North-West and the Adamawa), belong to three agro-ecological 
+zones – the Sudano-Sahelian, the Western Highlands, and the Guinea Savannah zones which together account 
+for 80 percent of all poor (see figure below). In the largely arid Sudano-Sahelian zone, comprising the Far North 
+and North regions, agricultural output (millet, maize, peanuts, and cotton) depends heavily on rainfall. Animal 
+production is also vulnerable to drought. In this zone 72 percent of the population or 56 percent of all poor live 
+below the poverty threshold. In the Western Highlands, comprising the North-West and West regions, there is 
+a cattle and coffee based system with corn, (coco) yams, potatoes, and peanuts as the main food crops. Thirty-
+nine percent of the population in this agro-ecological zone (but as much as 55 percent in the North-West region) 
+
+
+
+live below the poverty threshold representing 18 percent of all poor. Twenty percent of the poor live in the 
+remaining two agro-ecological zones. 
+ 
+ 
+Figure 1: Cameroon: incidence of poverty by agro-ecological zone  
+
+Social and economic gaps between 
+regions are likely to worsen as a result of 
+climate change. The Sudano-Sahelian area 
+(North and Extreme North) is the most 
+environmentally fragile zone in Cameroon. 
+It is particularly exposed to drought and 
+increased temperatures with serious 
+implications for the majority of inhabitants 
+who depend on agriculture and livestock 
+for their livelihoods. Regional climate 
+change projections suggest that an overall 
+decrease in the quantity of the water 
+available could exacerbate water 
+shortages in many rural areas of northern 
+Cameroon. The quality of water will also be 
+affected. An increase in temperatures and 
+greater dryness are likely to result in net 
+
+capillary movement and the salinization of both water and soils. Rice, one of Cameroon's main food imports, 
+grown in the north by both traditional and modern methods, will particularly be affected, but also other food 
+crops such as millet, sorghum and maize.  
+ 
+ 
+
+Sectoral and Institutional Context 
+ 
+
+Agriculture remains the backbone of Cameroon's economy, employing 70 percent of its workforce, while 
+providing 42 percent of its GDP and 30 percent of its export revenue. Blessed with fertile land and regularly 
+abundant rainfall in most regions, Cameroon produces a variety of agricultural commodities both for export and 
+for domestic consumption. Coffee and cocoa are grown in central and southern regions, bananas in 
+southwestern areas, and cotton in several northern provinces. In addition to export commodities, Cameroonian 
+farmers produce numerous subsistence crops for family consumption. Principal food crops include millet, 
+sorghum, peanuts, plantains, sweet potatoes, and manioc. Animal husbandry is practiced throughout the 
+country and is particularly important in northern provinces. The great majority of Cameroonian farmers are 
+small-holders, generally obtaining low yields from small plots of land using traditional methods: handheld hoes 
+and animals for draught power. Cash crop production is also done by small holders. Food crops contribute 64 
+percent to agricultural GDP, followed by livestock (13 percent), forestry (9 percent), industrial and export crops 
+(8 percent), and fisheries (6 percent). About 54 percent of all households have at least one member who owns 
+a crop field of about 2.4 hectares (ha) as documented in the DSCE.  
+ 
+
+Yet, a series of constraints have led Cameroon’s agriculture sector to be characterized by low productivity 
+and low-production subsistence farming. Declining soil fertility, limited use of fertilizer, low adoption of high 
+yielding varieties and improved farming techniques are among the core reasons for constrained yields. 
+Techniques and approaches to address these constraints exist, and Cameroon is blessed with a multitude of 
+high quality agricultural research institutions. Nevertheless, the adoption of improved practices remains limited, 
+as no functional extension system is in place, as evidenced by the size of the yield gaps. The main constraints 
+are: (i) Limited access to inputs (less than 7 kg/ha of fertilizers are used; the use of improved seeds is lower than 
+30 percent); (ii) Very limited mechanization: Cameroon has a ratio of 0.1 tractor/1,000 ha and a mechanization 
+ratio of only 0.1; (iii) Weak institutional capacity of Producer Organizatons (POs) associated with limited 
+storage/processing capacity and marketing infrastructure; (iv) Lack of storage and marketing infrastructure, 
+aggravated by the isolation of agricultural production areas because of the poor quality of rural roads, which 
+comprise 80 percent of the national network (only 5.2 percent or 4,200 out of 81,000 km are in good condition); 
+(vi) Limited access to credit/rural finance: POs and SMAEs have limited access to credit/ rural finance because 
+of their inability to present viable projects for financing, the (perceived) high cost of financing, and the absence 
+of specific financial services/instruments for their segment; and (vii) The size of traditional family farm 
+enterprises, of which 63 percent are too small (less than 2 ha) to profit from non intensive agriculture.  
+ 
+Meanwhile costly and poorly targeted subsidies do not benefit the poorest, distort the market and increase 
+food dependency. In an effort to mitigate the negative effects of the 2008 rise in food and fuel prices, the 
+Government launched a universal subsidy program (food and fuel), which by 2011 was costing the Government 
+around 2.7 percent of GDP. In 2013 more than US$100 million was spent to subsidize fish, wheat and rice alone. 
+These subsidies benefit the urban middle and upper class and only very small amounts (between 2 percent and 
+27 percent depending on the food item) benefit the poorest 40 percent. These persistent subsidies and the 
+attempts to stabilize the market through interventions act as a disincentive for local food production and not 
+only aggravate rural poverty, they also sustain the country’s dependency on food imports. In addition, as 
+Cameroon is well placed to serve a sub-region that has high purchasing power and is structurally deficient in 
+food, distortionary policies impact negatively on trade competitiveness. 
+ 
+Agriculture, livestock management and agro-forestry are not only sectors in which the majority of the poor 
+are engaged, they are also sectors of competitive advantage. This is based on three observations. The first is 
+that Cameroon has factor endowments rich in unskilled and semi-skilled labor and natural resources. Cameroon 
+has a unique bio-diversity and is the custodian of global public goods such as the rainforest in the Congo Basin. 
+Only 29 percent of arable land is cultivated, and below 3 percent of irrigable land is irrigated. It thus has a 
+comparative advantage in primary products, agriculture, environment and mining. The second is that high 
+indirect costs on doing business are less limiting on agriculture, pastoralism and agro-industry than they are on 
+more sophisticated manufacturing or high-tech, tradeable services. The third is that Cameroon does not meet 
+the internal nor regional demand for cereals, meat and animal products and the agricultural trade balance is 
+negative. 
+ 
+Improving the functioning of value chains for staple food crops is particularly important for poverty reduction. 
+Poor households spend a larger share of their budget on food than non-poor households do. Moreover 
+households in the two poorest wealth quintiles ‘specialize’ in the cultivation of food crops like maize, millet, 
+
+
+     
+
+sorghum, yams, banana, cassava, and beans. These crops are also the staple foods for the poorest households, 
+implying that improvements in production and commercialization for these crops would have the double benefit 
+of increasing farm incomes and reducing food prices for the urban poor who rely on food purchases. Many rural 
+poor will benefit from lower food prices as many are net food purchasers. Good results are already being 
+achieved by linking farmer cooperatives producing millet and sorghum with large industrial enterprises like 
+Guiness. The value chain for milk similarly offers great opportunities, as does the value chain for poultry, meat, 
+eggs or chickenfeed. 
+ 
+The presence of significant yield gaps for the most popular crops suggests scope for productivity increases. 
+Assessing actual crop yields against maximum attainable levels offers important insights into the performance 
+of agriculture and the potential for yield growth and expected productivity gains from agricultural investments 
+and policies, including land and water resources management. The yield gap for Cameroon is substantial. The 
+largest differences are for sweet potato, rice and cassava, with yield gaps of 78, 75 and 73 percent. Sorghum, 
+maize and potatoes also have sizeable yield gaps of respectively 63, 67 and 64 percent.5 
+ 
+In a context of improved yields, there is significant potential for the (domestic and regional) markets to absorb 
+increased food production. Already the demand for food in Cameroon exceeds supply as evidenced by the large 
+amount of food that is imported. Also the high levels of chronic malnutrition –particularly in the north of the 
+country, point in the direction of an unmet demand for food. Moreover, there is a large demand for food in the 
+region. Nigeria is a huge market and rice, maize and onions already find their way to markets in Nigeria, but also 
+in Gabon and the Democratic Republic of Congo. But even domestically the demand for food will rise rapidly 
+due to an annual population growth rate of 2.8 percent and increased urbanization. However, the formation of 
+a middle class will be accompanied by the demand for food products with a high income elasticity such as rice, 
+milk and milk products, eggs and meat. 
+ 
+
+On land issues, a main principle is lands belong to the State. The Government of Cameroon (GoC) has initiated 
+a land reform process over 10 years ago and a draft land law is currently being reviewed at the presidency 
+level. While the proposed law is not yet being shared outside the Government, preliminary analyses suggest 
+that it does not contain any major innovations likely to address the dysfunctions of the land sector. It does not 
+seem to be based on the definition of a fundamental land policy addressing issues across the various sectors 
+(agricultural, pastoral, forestry, environmental, industrial, urban). Moreover, the proposed law barely seems to 
+address the issue of recognition of customary land rights but rather there seems to be a desire to strengthen 
+the role of the State in land ownership and the constitution of public land reserves. It is, however, questionable 
+when the new land law would be adopted given the political sensitivity of land issues in a context of upcoming 
+presidential elections in 2018 and increasing tensions and fragile situations in several regions of the country. 
+ 
+Despite the many challenges it faces, the GoC is committed to increase investment in the agriculture sector 
+for poverty reduction and economic growth. A growth strategy that focuses on products cultivated by the 
+poorest has a greater likelihood of successful poverty reduction, and as the majority of the poor can be found 
+in the rural areas of northern Cameroon, a poverty reducing growth strategy would focus on the value chain 
+development of coarse grains (rice, maize, millet, and sorghum) but also livestock, beans and cotton, which is 
+
+     
+
+the main cash crop grown in the Northern regions. In this context, the GOC’s agriculture strategy is expressed 
+in three key national strategy and planning documents: (i) «Vision 2035» envisages agricultural growth beyond 
+5 percent by 20209; the DSCE foresees significant productivity increases in agriculture and livestock farming; (ii) 
+the 2005 - 2009 Rural Development Strategy and its 2013 update (“Document de Stratégie de Développement 
+du Secteur Rural,” - DSDSR) commit to a modernization of rural infrastructure and agricultural production and 
+sustainable management of natural resources; and (iii) Cameroon has engaged in the African Union’s 
+Comprehensive Africa Agriculture Development Program (CAADP), and with CAADP support, Cameroon is 
+currently finalizing its 2014-2020 National Agriculture Investment Program (“Plan National d’Investissement 
+Agricole,” - PNIA11).  
+ 
+
+Cameroon aims to articulate and implement a more robust public expenditure program to improve sector 
+performance. This would necessitate an examination of the national budget level benefiting the sector, which 
+currently remains below 5 percent of the total budget (compared with the CAADP target of 10 percent), as well 
+as a review of the quality of expenditure planning, allocation, and implementation. To this effect, the agriculture 
+sector ministries (MINADER and the Ministry of Livestock, Fisheries, and Animal Production) with support from 
+the Bank are currently finalizing an agriculture sector public expenditure review to identify bottlenecks, 
+inefficiencies, and deviations from the policy goals. The review, which is expected to be completed by the 
+effectiveness of the proposed project, will analyze growth of agriculture on a macroeconomic scale within the 
+framework of a computable general equilibrium model. This model will analyze the role of relative prices, public 
+expenditure, and exchange rates on the growth in the sector. This tool will also development partners to help 
+decide how to increase the financial resources dedicated to agricultural development. 
+ 
+Within this framework, the Government of Cameroon asked support from the World Bank to improve 
+irrigation services and sustain climate resilient agricultural productivity in the Benue River Valley, in the North 
+of Cameroon. One of the poorest regions in the country, highly populated, and with a history of immigration 
+pressure from the extreme North, the North region is within the Sudano-Sahelian Savanah agroecological zone. 
+Of the five agroecological zones of Cameroon, the Sudano-Sahelian (North and Extreme North) is the one with 
+the shortest rain-fed season (March to September, Figure 2 below).  
+ 
+
+     
+
+In this zone, the potential Evapotranspiration (ETP) is never fully satisfied by the amount of monthly rainfall, 
+inducing a permanent deficit (figure 3 below). This translates into water stress and reduced photosynthesis and 
+therefore yields. In this zone improved water storage, water harvesting, and irrigation are critical to improving 
+farm production. Improved water management also enhances the ability to withstand climatic shocks and is 
+commensurate with a strategy whereby the production of staples is promoted in rain-fed systems and 
+production of high value cereals (e.g.  rice), horticultural cops, and industrial crops in irrigated systems. With an 
+enormous untapped potential for irrigation (a 5,900 million m3 Lagdo reservoir) the Benué Valley if correctly 
+developed will have a significant impact in improving the life of hundreds of thousands of people through 
+economic growth, poverty reduction, social stabilization, and reduced vulnerability. 
+ 
+
+Figure 3 Thornthwaite water budget: annual data at Maroua-Salack, (1970-1985) 
+
+ 
+ 
+
+ 
+
+Different groups of poor people can be expected to benefit from increases in agricultural productivity in the 
+Benué Valley. Poor farmers will benefit from higher incomes brought about by productivity gains while non-
+farmers in rural areas benefit from spill-over gains. When increased agricultural productivity leads to increases 
+in food production, lower food prices will benefit the urban poor and net food buyers in rural areas, often the 
+poorest. This is not inconsequential. High transportation costs make food an imperfectly tradeable commodity. 
+An important transmission mechanism from agricultural productivity to aggregate growth is through the price 
+of food, as it allows sustaining lower labor costs in the rest of the economy. 
+ 
+The proposed project may qualify for a high adaptation and mitigation co-benefits in the form of adoption of 
+Climate Smart practices, reduction in irrigation energy use, reducing emissions from deforestation and forest 
+degradation and agricultural management activities that improve carbon pools. Project activities proposed 
+under components 1, 2 and 3 are included on the “List of activities eligible for classification as climate mitigation 
+finance” in the 2016 Joint Report on Multilateral Development Banks’ Climate Finance under category 4, sub-
+     
+
+category 4.1 and 4.2. In compliance to the corporate mandate included in the Environment Strategy endorsed 
+by the board in 2012, a preliminary GHG assessment using conservative boundary values has been performed 
+for this project using the Ex-Ante Carbon Balance Tool (EX-ACT).  Preliminary results show that the project 
+creates a total net carbon sequestration of 337,558 tCO2-eq. Watershed management provided the largest 
+potential for mitigation co-benefits. An updated GHG assessment will be performed during the appraisal stage. 
+ 
+ 
+
+Relationship to CPF 
+ 
+
+The project objective is fully consistent with the Cameroon Country Partnership Framework (CPF) for 2017-2021 
+to support poverty reduction and shared prosperity in Cameroon. The FY17-FY21 CPF succeeded the Cameroon 
+Country Partnership Strategy (FY10-FY13, report number - 52997), which was extended until FY14 by the 
+Progress and Learning Report considered by the Executive Directors in October 2012. The CPF draws on a 
+comprehensive Systematic Country Diagnostic (SCD, report 103098-CM), completed during FY16, which 
+identified constraints to achieving the World Bank’s Twin Goals of eliminating poverty and fostering shared 
+prosperity in a socially and environmentally sustainable way. Despite more than a decade of economic growth, 
+national poverty incidence has remained almost unchanged.  Poverty decreased slowly as a percentage of 
+population, from 40.2 percent in 2001 to 37.5 percent in 2014, and its incidence declined in urban areas from 
+17.9 percent to an estimated 8.9 percent during the same period.  In rural areas, on the other hand, the 
+percentage of poor increased from 52.1 percent to 56.8 percent.  Even though urban poverty declined 
+significantly in relative terms, the absolute number of urban poor declined only slightly, by 300,000, because 
+the urban population increased by approximately 4.1 million since 2001. In rural areas, higher poverty incidence 
+resulted in 1.1 million additional poor people. Overall, the absolute number of poor in Cameroon increased by 
+approximately 800,000 since 2001. 
+
+ 
+The CPF has concluded that in the short-term, the largest opportunity for increasing shared prosperity and 
+reducing acute poverty in Cameroon is an improvement in rural livelihoods, largely based on agriculture.  Eighty-
+five percent of all poor people live in the countryside. Of these a majority live in the Sudano-Sahelian areas of 
+the North and the Far North regions. Cameroon has a strong potential to increase agriculture productivity. It 
+has a comparative advantage in primary products based on a relative abundance of natural resources and 
+unskilled and semi-skilled labor. There is also significant unmet internal demand for cereals, meat and animal 
+products. The development of labor-intensive agro-industry could offer a path towards more diversified, 
+complex and higher value forms of manufacturing. Key issues include low agricultural yields, limited 
+infrastructure for transportation, delivery, and storage, as well as the need for improved irrigation and water 
+harvesting to improve farm production in some areas.  
+ 
+The proposed project addresses the key issues identified in the CPF and promotes natural resources and water 
+management, irrigation, and agriculture under a participatory landscapes approach, with a specific focus on 
+land tenure rights security.  Irrigation (as major investment component) will be expanded from reservoirs 
+already developed on the Benue River which would provide safeguard against climate change impacts and 
+increased occurrence of droughts. The supporting project components are aligned to development and 
+dissemination of new agricultural technologies, climate-resilient rainfed agriculture, enhanced market linkages 
+for small and marginal farmers, and improved natural resource management in the upper catchment areas of 
+
+the Benue River. Further the project will have positive impact in terms of environmental protection, and reduced 
+greenhouse emissions by disseminating high efficiency irrigation systems, particularly for high value crops, 
+which significantly reduce water consumption. The proposed project would also improve the sustainability and 
+reliability of rainfed agriculture and small-scale irrigated agriculture in the Benue River Valley downstream of 
+the Lagdo dam with better flood protection features. Thus the proposed project will be closely aligned to the 
+findings and recommendations contained in the CPF. 
+ 
+Link with other existing projects. The proposed Project builds on previous work and results of the Flood 
+Emergency Project (PULCI - P143940) for component 2 and 4, and will closely coordinate with the Agriculture 
+Investment and Market Development Project (PIDMA - P143417) for component 3. PULCI, following previous 
+work from PACA (P112635), is working to improve irrigation and flood protection in a sustainable manner for 
+the riverine population of the Far-North. Furthermore, the Bank is currently undertaking a AAA for increasing 
+climate smart agriculture in Northern Cameroon. In addition, the project will collaborate with the regional 
+initiative Building Climate Resilience in the Niger Basin (P161262) whose objective is to strengthen the Niger 
+Basin Authority’s capacity for integrated, transboundary water resources management, being the Benue valley 
+part of the Niger basin.” 
+ 
+ 
+C. Proposed Development Objective(s)  
+
+ 
+I. The Overall Series of Project Program  
+
+  
+
+The Program Development Objective is to strengthen NBA’s capacity for integrated, transboundary water 
+resources management and support the implementation of the Regional Climate Resilience Investment Plan 
+(CRIP).   
+  
+The program activities focus on two broad areas:   
+  
+Strengthening of ABN’s capacity for transboundary, integrated water resource management (WRM) investing 
+in Planning and feasibility studies, Environmental Information System and associated decision making tools, 
+Operationalization of the Water Charter, and Strengthening NBA’s operational capacity, dissemination of good 
+practices and project implementation support; and  
+  
+Support of the implementation of the CRIP focusing on transboundary activities. Among the numerous activities 
+planned in the CRIP two types of activities have been selected: activities aimed at improving the performance 
+and safety of large, existing transboundary infrastructure (mostly for hydropower and irrigation) in order to 
+postpone the need to develop further large dams and their potential damages on riparian countries and 
+measures to manage transboundary contributions to flood and sedimentation.   
+Among the potential activities are the following: (i) Improving the performance and safety of key existing 
+hydropower dams, such as, for example, the Kainji and Jebba dams in Nigeria, the Sotuba and Selinge dam in 
+Mali, and the Lagdo hydropower dam in Cameroon, with its interconnection to Chad; (ii) Improving water-use 
+efficiency of the “Office du Niger” in Mali; and (iii) Addressing Niger River sedimentation and recurrent flooding 
+in the “Moyen Niger” and “Benoué tributary” through water conservation measures in Burkina Faso, Cameroun 
+
+
+and Benin among others.  
+ 
+ 
+
+ 
+II.  Proposed Development Objective(s)  
+
+  
+
+The Project Development Objective (PDO) is to improve irrigation services and sustain climate resilient 
+agricultural productivity in the Benue River Valley located within the administrative region of North, in 
+Cameroon.   
+  
+This would be achieved through sustainable management of the water resources generated in the Benué River 
+catchment area and flowing to the reservoir impounded behind the Lagdo dam, as well as of the regulated river 
+flows downstream of the dam for irrigated agriculture. In addition, flood mitigation and protection measures 
+on the Benue River system downstream of the Lagdo dam will enable sustainable rain-fed agriculture in the river 
+valley. Support to livelihoods in the Lagdo reservoir and improved feed availability for livestock due to increased 
+production of crops would improve off farm rural incomes resulting in shared prosperity.   
+  
+ 
+Key Results (From PCN) 
+
+ 
+
+The Key Project Indicators (KPI) will be:  
+
+a) Area provided with new/improved irrigation and drainage services (in Has, Core Indicator); 
+b) Increase in irrigated  area (hectares) under vegetables as well as cereal crops; 
+c) Increase in climate resilient agricultural productivity (yield/ha) of various crops grown in the project 
+
+areas; 
+d) Number of farmers reached with agricultural assets or services.   
+
+ 
+ 
+ 
+D. Concept Description 
+
+ 
+
+1. Description 
+ 
+Introduction/Background: The project area covers the Benue river valley located in North Cameroon 
+Administrative Region, one of the poorest regions of the country. The Lagdo multipurpose dam was 
+constructed on the Benue River over the years 1978-1982. At completion, the storage volume in the reservoir 
+impounded behind the dam was about 7,700 million cubic meters. A hydropower plant was established with 
+72 MW installed capacity and allowance was made for provision of water for irrigation of about 11,000 ha 
+(about 6,000 ha along the right bank of the river and about 5,000 ha along the left bank of the river). The 
+hydropower station has been operating since 1982 but the irrigation development did not take place as 
+originally envisaged. About 800 ha were developed on the right bank in 1992. The reservoir storage volume 
+has been impacted over the last 30 years by sedimentation and currently the storage volume available is 
+
+
+
+ 
+The World Bank  
+North Cameroon Agriculture and Water Smart Landscapes Project (P166072) 
+
+ 
+ 
+
+  
+Jan 28, 2018 Page 15 of 25  
+
+     
+
+estimated to be about 5900 million cubic meters based on bathymetric surveys completed in 2005. The project 
+would support the sustainable management of the Benue watershed, the development of irrigated agriculture 
+on both banks of the river immediately downstream of the river as well as in the river valley below, and the 
+improvement of agriculture practices in the valley, including land tenure right management. In accordance with 
+World Bank OP 4.37, project financing would include aspects related to safe operation of the dam and 
+appurtenances. The total project cost is expected to be about US$ 200 million for a duration of seven years. 
+The project will have the following components. 
+ 
+
+Component 1: Watershed Management (US$ 5M IDA, US$ 10M regional IDA, US$ 15M Total) 
+ 
+
+The primary goal of this component is to reverse the process of degradation of the natural resource base and 
+improve the productive potential of natural resources and incomes of the rural households in the watershed 
+sustaining the Lagdo reservoir while improving the operation and safety of the dam. The secondary goal is to 
+maintain the quality and quantity of water of the reservoir through sustainable operation and maintenance. It 
+will finance watershed interventions, consulting services, technical assistance and equipment along the 
+following.  
+ 
+
+Watershed management: Prior to the construction of the dam and impoundment of the reservoir at Lagdo, the 
+population farmed the reservoir area after the recession of flood flows each year. After the impoundment some 
+of these farmers have moved to the periphery of the reservoir and have been cultivating there. Tillage of lands 
+and cultivation induces soil erosion in these areas resulting in sediment deposition in the reservoir. In addition, 
+the reservoir is an important source for fisheries development. Cutting of firewood to smoke the fish, a common 
+practice in Cameroon, resulted in deforestation further contributing to erosion and sedimentation in the 
+reservoir. This subcomponent will introduce sustainable practices to manage the watershed. It will mobilize 
+community participation in watershed development and management aimed at integrating land-water use to 
+reduce soil erosion, retain moisture and produce biomass, while enhancing incomes and livelihood options. 
+Non-arable land development: interventions will be aimed at (i) ecological rehabilitation of the catchment by 
+carrying out soil and water conservation measures through site specific treatment plans, and (ii) narrowing the 
+gap between biomass production and consumption in degraded areas. Arable land development: This 
+subcomponent will improve cropping systems through promoting adoption of new agronomic practices, and 
+fisheries, crop diversification, water harvesting technologies and optimal use of natural sources. Effort for 
+improving land tenure security as an incentive to use these new agronomic practices and technology will be 
+included in this subcomponent. Funds would be provided to secure appropriate expertise in this regard and to 
+implement the measures described above as appropriate. Funds would be provided to secure appropriate 
+expertise in this regard and to implement the measures described above as appropriate. This subcomponent 
+can be assigned Mitigation co-benefits as financed activities will lead to net reduction in GHG emissions. 
+ 
+Component 2: Water Infrastructure rehabilitation, development and maintenance (US$ 45M IDA, US$ 90M 
+regional IDA, US$ 135M Total) 
+ 
+The goal of this component is to rehabilitate and develop water infrastructure that will ensure dam operation 
+and safety downstream of Lagdo and allow irrigated agriculture in 11,000 ha, a potentially game changer for the 
+rural economy of the North of Cameroon. It will finance studies, consulting services, works and equipment along 
+
+
+     
+
+the following three subcomponents. This component may qualify for both climate change adaptation and 
+mitigation co-benefits . 
+ 
+Subcomponent 2a:  Sustainable operation and maintenance of Lagdo Dam and Reservoir Complex: The Lagdo 
+Reservoir impounded behind the Lagdo Dam provides water for power generation and irrigation of lands located 
+immediately below the dam on both banks of the river, and is designed to provide flood modulation as well. The 
+lake is also a resource for fisheries. Funds would be provided to improve the water inflow forecasts through 
+provision of updated electronic meteorological equipment in the catchment and to improve the modeling 
+capabilities of Eneo, the operator of the dam. (Eneo, the Energy Company of Cameroon, is responsible for power 
+generation and distribution in the country but has also been given the overall responsibility of Lagdo dam 
+operation – power generation, irrigation releases, flood releases, and safety of the dam).  The dam is owned by 
+the Government of Cameroon (MEADEN) with Eneo operating under an umbrella contract for energy generation 
+and distribution throughout the country with other assets as well.  Currently the dam is being inspected 
+periodically by a national expert panel. Funds would be provided to set up an independent dam safety panel 
+with specific Terms of Reference in accordance with Dam Safety Guidelines of the World Bank. The Dam was 
+built in early eighties. The international standards for design floods and flood evacuating mechanisms have 
+changed substantially during the last four decades. The Hydrologic computations for the dam/reservoir complex 
+would be revisited and if required the design floods would be revised on the basis of today’s standards. Hydraulic 
+computations would also be revised to ensure flood handling mechanisms are adequate to meet current 
+standards. Funds would be provided to carry out the required studies and analysis using reputed firms. Funds 
+would be provided to make any structural modifications required to the dam and spillway arising out of these 
+studies. Improved emergency preparedness plans would be prepared using up to date maps and technology for 
+a flooding early warning system. This sub-component may qualify for climate change adaptation co-benefits. 
+ 
+Subcomponent 2b: Irrigation infrastructure to utilize direct water releases available from the Reservoir 
+(11,000ha) – Provision was made in the original design of the Lagdo Dam Complex to provide irrigation water 
+to irrigate lands situated on both banks of the river immediately downstream of the river. Original designs 
+allowed for gravity irrigation of about 6,000 ha on the right bank and about 5,000 ha on the left bank. However, 
+only limited irrigation infrastructure was built along the right bank covering about 1,000 ha and no infrastructure 
+including release offtake was built on the left bank. In order to utilize the water resource asset already provided 
+for in the reservoir for agriculture development, funds would be provided to update the feasibility studies 
+carried out earlier covering the irrigation areas on both banks and to prepare detailed designs, cost estimates 
+and bid documents for the left bank infrastructure in its entirety. Notional cropping patterns will be developed 
+during project preparation on the basis of soil suitability, climate factors and irrigability. Funds would be 
+provided for the construction of all requisite infrastructure for the development of the 5,000 ha on the left bank 
+including the offtake at the dam.  
+ 
+On the right bank, infrastructure developed for the 1,000 ha requires rehabilitation and modernization.  Funds 
+would be provided to update the feasibility studies carried out earlier for the right bank as well as detailed 
+designs and cost estimates covering the total gravity command of 6,000 ha. Funds would be provided for 
+rehabilitation/modernization of irrigation infrastructure covering 1,000 ha. On the left bank the GoC intends to 
+have private-sector led commercial investors. Options of IFC supporting this investment are being considered 
+
+
+and will be further developed at preparation. The project will propose some legal mechanism to improve land 
+tenure right security for all the stakeholders involved in the irrigation schemes. Funds would be provided for 
+the construction of primary irrigation infrastructure covering the remaining 5,000 ha on the right bank.  
+ 
+Subcomponent 2c: Technical Assistance for Irrigation Management. This Subcomponent will address the 
+daunting challenge of ensuring the long-term viability of the irrigation and drainage services delivered on the 
+irrigation schemes.  The approach will be to implement a progressive management transfer to users’ regulated 
+bodies in the form of WUAs and to autonomous professional operators, either public or private.  The approach 
+will be first piloted in the right bank, which is the ‘first mover’, starting with the areas to be rehabilitated.  The 
+investments under this Subcomponent would support the development of a detailed training strategy with 
+associated learning materials to re-align existing WUAs and establish new ones to achieve a transformed 
+institutional structure for effective water management.  
+ 
+Component 3: Agriculture Production (US$ 40M, IDA) 
+ 
+The fundamental needs of Cameroon to increase production and enhance productivity in the North (especially 
+with irrigation and particularly of smallholders), reduce vulnerability, boost rural employment, and provide 
+environmental services come in a context where agriculture is challenged by extreme weather, increased 
+market risk, too-slow progress in raising rural incomes in some regions, and too-slow progress in improving 
+nutrition, especially for women and infants. Agriculture is the main activity of the households (88%) of the area. 
+Globally it is extensive agriculture with low production dominated by cereals (maize and sorgho), groundnut 
+and cowpea as food-crops and cotton as cash-crop. Within the riverbanks, small plots of onions, tomatoes and 
+other vegetables can be found. Social studies show an abundance of labor force. The markets are in Lagdo and 
+Ngong, being also intermediaries that re-sell the primary products in Garoua and Ngaoundere. This component 
+will focus on production, linking farmers to markets, and support services. It will finance grants, training, works, 
+equipment, workshops and studies along the following sub-components. 
+ 
+Subcomponent 3a: Climate Smart Agriculture – Climate-Smart Agriculture (CSA) is an approach for reorienting 
+agricultural systems under the new realities of climate change: (i) sustainably increasing agricultural productivity 
+to support equitable increases in incomes, food security and development; (ii) adapting and building resilience 
+to climate change; and (iii) developing opportunities to reduce GHG emissions from agriculture compared with 
+past trends. Activities will focus essentially on enhancing climate proofing while improving water and agriculture 
+productivity. Examples of these activities are the dissemination of Systems of Rice Intensification (SRI) 
+techniques, water saving technologies such as low pressure irrigation, mechanization services, improved soil 
+management, urea-deep placement, drought-resistant and hybrid seed varieties, Integrated Nutrient 
+Management (INM), Integrated Pest Management (IPM), organic farming techniques, and diversification into 
+high value crops such as pulses and millets, vegetables and other horticulture crops. The project will provide 
+farmers with training and technical assistance. A grant facility will finance small equipment, inputs, services 
+and/or activities to: (i) promote the adoption of priority technologies, (ii) strengthen producer-based 
+organizations, transfer knowledge and technologies; (iii) improve food safety and quality standards, and (iv) 
+improve handling, packaging and post-harvest management at the farm level. This sub-component may qualify 
+for climate change adaptation co-benefits. 
+
+Subcomponent 3b: Agribusiness and linking farmers to market – This subcomponent will focus on value 
+addition and forward linking farmers to markets under a productive alliance approach. Productive alliances are 
+collaborative arrangement between groups or producer organizations (POs) and an agribusiness within 
+particular value-chains for provision in a specified quantity, quality and time.  Four elements define the nature 
+of a Productive Alliance (PA), namely: a group of organized producers, a buyer, an investment in production and 
+marketing, and technical assistance. The project will finance outreach and promotional activities to identify POs, 
+commercial partners and private financing entities to form alliances, and formulate business proposals and 
+business plans. In order to become eligible for financing under the project, a business plan will have to be 
+financially feasible, and support one or more productive alliances. Grants would be that portion of the alliance’s 
+business plan that would be: (i) financed with proceeds from the proposed project; (ii) implemented by POs; (iii) 
+governed by agreements signed between the PO and the project; and (iv) include fixed capital (e.g., plant and 
+equipment, minor infrastructure), working capital and technical assistance expenditures. Examples of business 
+plans to be financed could be the following: the establishment of PO managed collection, dehusking and 
+processing center for rice or cereals, a sorting, grading and packaging facility for fresh vegetables, a grading and 
+processing center for cashew nuts. 
+ 
+Subcomponent 3c: Farm Service Centers – The project will finance a TA to promote a local network of private, 
+retail supply and farm service businesses Farm Service Centers (FSCs) throughout the project area. An 
+enterprise-based delivery of farm supplies and services, FSCs will be one-stop-shops that provide smallholder 
+farmers with agricultural and veterinary inputs, services and technologies that will help production and linkages 
+to markets. This highly adaptable model, has already been proven successful in several countries worldwide and 
+in the region, notably in Senegal and Ethiopia. Grants will be provided and applications reviewed and ranked on 
+a competitive basis to evaluate technical capacity, proposed business plan, and potential impacts.  FSCs can be 
+privately owned or owned by cooperatives or other types of producers associations. In addition, this 
+subcomponent will promote mechanization providing on-demand tractor services for smallholder farmers who 
+are relying on expensive and often unavailable manual labor through low-cost “Smart Tractor owners” that pairs 
+better off local tractors owners with labor-constrained farmers willing to pay for tractor services (tractor 
+“Uberization”). A booking system will allow farmers to request, schedule and prepay for tractor services, from 
+nearby Smart Tractor owners, through SMS messaging and mobile money. The subcomponent will provide 
+grants, studies and consultant services. Technical inputs and knowledge sharing for this component will be 
+provided (tentatively) by the Syngenta Foundation.  
+ 
+Component 4. Implementation (US$ 10M IDA) 
+ 
+Subcomponent 4a: Institutional Strengthening – The primary institution responsible for water resources 
+development and management in the North of Cameroon is MEADEN reporting to MINEPAT. The Government 
+has constituted a multi-disciplinary team to formulate this project. In order to formulate this project well and 
+implement it, MEADEN staff structure has to be modified and modernized. The current organogram of MEADEN 
+is being studied in detail to identify gaps and areas for strengthening in order to develop over the coming years 
+a modern up to international standards MEADEN, similar to the SAED (Société Nationale d’Aménagement et 
+d’Exploitation des Terres) approach in Senegal. MEADEN presently is a state-owned entreprise in charge of 
+
+irrigation service delivery as well as land allocation to farmers and land preparation  TORs are being prepared 
+and positions will be filled based on Job Descriptions acceptable to the Bank after the approval of the PCN. 
+Funds would be provided to support the training required to strengthen the skills of MEADEN staff both in the 
+country, and abroad.  
+The operation and maintenance of the new and rehabilitated/modernized irrigation systems would be carried 
+out jointly by MEADEN and the Water Users Associations to be set up under the project. MEADEN would be 
+responsible for the operation and maintenance of the primary canals and drains while the WUAs would be 
+responsible for the secondary and tertiary systems. For irrigation services to be effectively delivered, WUAs will 
+have to rely on a participatory design and the cooperation of all member farms, which entails paying irrigation 
+and WUA membership fees, signing water contracts with WUAs and attending WUA planning meetings.  
+ As several farms are headed by women, a study will be carried out during preparation to find the social 
+implications for female irrigators to honor their farm’s financial obligations to WUAs, attend WUA planning 
+meetings, and sign an annual contract for water delivery with the WUAs. The study will provide analyses and 
+recommendations to improve land tenure rights as well for both female and male irrigators. In addition, the 
+concept of WUAs is new to Cameroon. Funds would be provided to train the WUAs as well as to develop 
+appropriate legislation for the creation of the WUAs (this is already on-going with the PULCI project).  
+Government of Cameroon authorities undertook a study visit in January 2018 to visit the SAED  operations in 
+the Senegal river’s delta, where such WUAs are operating efficiently. Following the same model, funds would 
+be provided to develop similar arrangements between MEADEN and the WUAs. Irrigation infrastructure would 
+be provided with required instrumentation to enable MEADEN to monitor the performance of the WUAs on a 
+regular basis to ensure irrigation water is supplied to the farmers on a timely basis and agreed quantities are 
+delivered. 
+Subcomponent 4b: Project Implementation and M&E support – This subcomponent will set up a Project 
+
+Management Unit (PMU) to assist MEADEN in the day-to-day implementation of the project. Proposed structure 
+
+of the PMU with job descriptions will be developed and agreed with MEADEN before appraisal.  The core PMU 
+
+will be set up in MEADEN soon after the PCN approval. Funds would be provided to meet salaries and allowances 
+
+of PMU staff and to cover operation expenses. The GoC expressed interest in requesting a Project Advance. 
+
+These funds will be used among other things to make progress in setting up and strengthen the PMU 
+
+accordingly. In addition, baseline information will be collected before the start of the management of the 
+
+watershed and before the starting of the production activities in the area to allow an impact evaluation at the 
+
+end of the project life. 
+
+ 
+ 
+    
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+The project is located in the Sudano-sahelian zone of Cameroon, it is presumably the driest zone of the country. Rainfall 
+
+in this zone is highly variable with its onset very erratic and last for about 5 months (May-September). This zone is mostly 
+affected by land degradation. Land disputes and agropastoral conflicts are of a major concern because there are no 
+
+
+defined routes for cattle migration, and thus animals. Land degradation is due to pressures such as deforestation due to 
+expanding agriculture, fuel wood harvesting, bush fires, semi-intensive and extensive cattle rearing and farming. National 
+Park belongs to this zone and it is home to elephants, black rhinos, cheetahs, hyenas, population of hippos and other 
+wildlife. Porous borders and poor park protection make Faro extremely vulnerable to poachers, livestock, and habitat 
+destruction. 
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+Cameroon has a comprehensive Environmental and Social Impact Assessment (ESIA) law and regulations as well as 
+
+occupational safety regulations. The framework law No 96/12 of 5 August 1996 on environmental management highlights 
+in its article 17 the principle of environmental impact assessment. Two forms of public participation-stakeholder 
+engagement are required for ESIA by law: public consultations during the assessment stage and public hearings during the 
+review stage. Legal and administrative appeals are possible at all stages and for all decisions relating to ESIA. A relatively 
+mature central (Ministry of environment, interministerial Committee on the Environment, CIE decentralized 
+(municipalities, Divisional Committees for technical and administrative supervision of ESMP and ministry of environment 
+decentralized units) ESIA authorities are in place but they are understaffed. The CIE gives an opinion on the quality of 
+reports prior to their approval by the Minister. The decentralized units don’t have adequate financial provision. They lack 
+adequate equipment for fieldwork, and Senior staff lack personal vehicles. In 2017, the ESIA sub-directorate and 
+Environmental & Social Management Plan (ESMP) sub-directorate in the Ministry of Environment consist of six full-time 
+staff and 2-4-part time staff, of whom many are knowledgeable about the national ESIA system and the World Bank 
+Safeguards for which they received a substantial training. MAEDEN is not familiar with the World Bank operational 
+policies as this is its first Bank financed projects. It has an institutionalized GIS unit but does not have the necessary 
+technical knowledge and expertise in environmental and social issues in the region and as such has the technical capacity 
+to identify and flag any safeguards related concerns to the implementation of the safeguards instruments for national-
+level investments, should any arise during project implementation. To bridge this gap, the project will set up a Project 
+Management Unit (PMU) to assist MEADEN in the day-to-day implementation of the project. At the early stage of 
+preparation, two safeguards specialists (Social and Environmental) will be hired for the PMU. They will oversee the 
+preparation of the safeguard documents, liaise with local consultants, and coordinate the organization of the necessary 
+consultations with key concerned stakeholders and the in-country disclosure of the safeguards instruments. 
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+FNU Owono Owono, Social Specialist 
+Cyrille Valence Ngouana Kengne, Environmental Specialist 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The Project is proposed to be classified as Category 
+OP/BP 4.01 “A” due to potential downstream impacts 
+and negative potential environmental and social 
+impacts associated with development and/or 
+rehabilitation of irrigation infrastructure. A basin level 
+ESIA report that will include Cumulative Impact 
+Assessment (CIA) will be prepared during 
+implementation. However, a specific ESIA for the 
+
+
+n irrigation scheme (11,000 ha) will  be prepared 
+and disclosed before the decision meeting. The 
+specific ESIA will include a Gender Based Violence 
+assessment and occupational safety. These ESIAs will 
+inform the notification to Nigeria Government by the 
+GoC; ToRs of these studies are consulted upon in-
+country and cleared by the Bank. For the subprojects 
+to be implemented under the small grants of 
+component 3, which are not identified before 
+appraisal, an ESMF will be prepared and it shall 
+describe the roadmap for preparing sites specific. 
+Finally, a GRM will be prepared, consulted upon and 
+disclosed before project effectiveness.  
+  
+
+Performance Standards for Private Sector 
+Activities OP/BP 4.03 
+
+No  
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Although the project is not expected to intervene in 
+any critically important natural habitats, downstream 
+impacts, development of irrigation infrastructure may 
+affect areas requiring specific management 
+considerations such wildlife migration corridors. In 
+addition, this policy is triggered due to the presence of 
+three cynegetic zones (Campement des éléphants, 97 
+920 ha; ZIC 8 : Mayo Boulel, 35 040 ha ; ZIC 8 bis: 
+Louga, 8 320 ha) in the project area of influence. 
+Specific guidance will be provided to avoid significant 
+conversion or degradation of rivers and the EA will 
+identify and delineate areas of critical habitat and 
+ensured application of the mitigation hierarchy in 
+accordance with this policy for all project works. 
+
+Forests OP/BP 4.36 Yes 
+
+The project does not support commercial forest 
+exploitation. However, the Massif Forest of Ouro-
+Doukoudje may be affected due to the presence in the 
+project area of influence. Mitigation measures are 
+thus proposed as part of the ESMP. 
+
+Pest Management OP 4.09 Yes 
+
+Major interventions are planned to enhance 
+agricultural productivity and this may lead to an 
+increased use of pesticides and other agrochemicals. 
+An Integrated Pest Management Plan (IPMP) will be 
+prepared, consulted upon and disclosed before 
+appraisal. 
+
+Physical Cultural Resources OP/BP 4.11 Yes 
+
+Previous studies in the Region revealed local 
+significant heritage places such as graveyards. 
+Mitigation measures will be incorporated into the 
+disclosed ESMP including provisions for a detailed 
+Cultural Heritage Management Plan. A comprehensive 
+
+chance find procedure will be prepared as part of the 
+ESIA reports, embedded in the overall ESMPs, to that 
+end. 
+
+Indigenous Peoples OP/BP 4.10 No 
+
+There are no Indigenous Peoples in the project areas, 
+as defined by OP/BP 4.10. 
+ 
+  
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The client will prepare a Resettlement Policy 
+Framework (RPF) for all the entire project. The project 
+through its component 2 is likely to involve land 
+acquisition / involuntary resettlement and/or possible 
+restrictions of access to resources and livelihoods.  
+There are 3 clear distinct irrigation areas: (i) right bank 
+rehabilitation (1,000 ha), (ii) right bank new area 
+(5,000 ha) and (iii) left bank new area (5,000 ha). 
+Therefore:  
+(i)           a RAP will be prepared for the rehabilitation 
+area prior to appraisal.  
+(ii)          for the rest eventual new irrigation areas, the 
+resettlement process is at an advanced stage. The list 
+of people affected by the project (PAPs) already exists, 
+PAPs have received pecuniary compensation, a PAP 
+resettlement site is being developed and a Declaration 
+of Public Utility (DUP) exists for the eventual new 
+perimeters. The Government of Cameroon elaborated 
+the list of PAPs in 2010, a total of 1442 household 
+affected were recorded for 3093 properties (fields and 
+boxes) as provided in the decree n°2010/3445/PM of 
+December 15, 2010 relating to the compensation of 
+the victims by incorporating to the private domain of 
+the state lands downstream from the Lagdo 
+perimeters. All this documentation is being reviewed 
+and updated by a social audit that the client will 
+present to the World Bank team for review and 
+clearance prior to appraisal. In case, there will be new 
+households settled after 2010 (after the DUP), PAPs 
+will be compensated for those new assets (except 
+land) prior to resettlement. In case there will be new 
+constructions (houses, community infrastructures, 
+etc.) different from those already compensated in 
+2010 in the DUP area, PAPs will also be compensated 
+for these assets prior to resettlement. It is highly 
+expected social audit’s recommendations will propose 
+specific measures related to assistance for 
+resettlement (transportation costs coverage and 
+livelihoods assistance) to all PAPs to be resettled. 
+
+
+
+Upon approval, the final RAPs of these two new zones 
+(right bank new area (5,000 ha) and (iii) left bank new 
+area (5,000 ha)) in Lagdo will be prepared during 
+project implementation and cleared by the WB prior 
+to any works commence. 
+In addition, a GRM document for the project will be 
+prepared and disclosed before project effectiveness. 
+Finally, all subprojects under component 3 will be 
+submitted to an environmental and social screening 
+during the implementation stage and based on results 
+this would lead to Environmental and Social Impacts 
+assessments (ESIAs) or Environmental and Social 
+Impacts Notice (ESIN). 
+  
+
+Safety of Dams OP/BP 4.37 Yes 
+
+ 
+This policy is triggered because funds would be 
+provided to make any structural modifications 
+required to the dam and spillway arising out of these 
+studies. In addition, the project infrastructure 
+investments, including irrigation, will rely on the 
+performance of this existing dam. An independent 
+Panel of Experts with Dam Safety and Environmental 
+and Social expertise will be hired by MEADEN in 
+accordance with Dam Safety Guidelines of the World 
+Bank. The panel will comprise five specialists 
+(geotechnical, Hydrological, hydro-electro-mechanics, 
+environmental and social). Improved Emergency 
+Response Preparedness plans (ERP) would be 
+prepared using up to date maps and technology.  (i) 
+The draft TORs for the ERP will be ready before 
+appraisal; (ii) GoC will notify Nigeria and (iii) the Bank 
+will review existing dam auscultation reports, and any 
+other dam safety documents including the accessible 
+sections of the OM before the decision meeting. ENEO 
+established in 2010 a structured CSR including 
+Hygiene, safety and Environment Central Unit. It aslo 
+has an environmental and social policy (ESP #42 Rev 2 
+09/14) and has developed Safety and Environmental 
+and social performances for its operations. However, 
+the ERP and ESIA processes will assess the technical 
+capacity of ENEO at Lagdo Dam and Regional levels to 
+identify, flag and manage any safety, environmental 
+and social related concerns to the Lagdo dam 
+operation – power generation, irrigation releases, 
+flood releases, and safety of the dam. 
+
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+Yes 
+
+This policy is triggered because the Benue river  flows 
+over the Nigeria–Cameroon border, and the 
+Government of Cameroon (GoC) will notify Nigeria 
+before negotiations. There is a memorandum of 
+understanding on the need to maintain water in the 
+Benue Basin was signed between Cameroon and 
+Nigeria in 2016. 
+
+Projects in Disputed Areas OP/BP 7.60 No There are no disputed areas in the project areas. 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+Mar 28, 2018 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+In the previous stages PID/ISDS, the documents to be presented will be: 1) Resettlement Policy Framework for the whole 
+
+project and 2) Resettlement Action Plan and list of PAPs of the area  to be rehabilitated(1000ha). The other RAPs will be 
+prepared under project implementation.   
+GRM document for the project need to be prepared and disclosed before project approval.  
+ Consultants in charge of safeguard should be on board prior project appraisal, for insuring consultation and validation of 
+
+safeguards instruments. 
+ 
+ 

@@ -27,8 +27,7 @@ WB63	7	1	five-year	DATE
 WB63	7	2	2011-2015	DATE
 WB63	7	3	the National Assembly	ORG
 WB63	7	4	November, 2011	DATE
-WB63	8	1	6 Poverty	PERCENT
-WB63	8	2	Vietnam	GPE
+WB63	8	1	Vietnam	GPE
 WB63	9	1	only 15 percent	PERCENT
 WB63	9	2	half	CARDINAL
 WB63	9	3	Vietnam	GPE
@@ -148,18 +147,3 @@ WB63	60	9	OP	PERSON
 WB63	60	10	International Waterways OP/BP	ORG
 WB63	60	11	Disputed Areas OP/BP	FAC
 WB63	60	12	7.60	CARDINAL
-WB63	60	13	VII	ORG
-WB63	61	1	World Bank Contact	ORG
-WB63	61	2	Lan Thi	PERSON
-WB63	61	3	Ministry of Planning and Investment Contact	ORG
-WB63	61	4	Nguyen Thanh Duong	PERSON
-WB63	61	5	Department of Agriculture Economics	ORG
-WB63	61	6	6	CARDINAL
-WB63	61	7	6	CARDINAL
-WB63	62	1	The InfoShop The World Bank 1818 H Street	ORG
-WB63	62	2	NW	GPE
-WB63	62	3	Washington	GPE
-WB63	62	4	202	CARDINAL
-WB63	62	5	458	CARDINAL
-WB63	62	6	202	CARDINAL
-WB63	62	7	522-1500	CARDINAL

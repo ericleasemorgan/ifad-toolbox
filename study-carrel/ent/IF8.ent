@@ -1,1008 +1,256 @@
 id	sid	eid	entity	type
-IF8	1	1	Executive Board	ORG
-IF8	1	2	Claus Reiner Country Programme	ORG
-IF8	1	3	Latin America	LOC
-IF8	1	4	the Caribbean Division Tel	ORG
-IF8	2	1	06	CARDINAL
-IF8	2	2	5459 2797	TIME
-IF8	2	3	William Skinner	PERSON
-IF8	3	1	06	CARDINAL
-IF8	3	2	5459 2974	TIME
-IF8	3	3	10	CARDINAL
-IF8	3	4	December	DATE
-IF8	3	5	English	NORP
-IF8	3	6	the Argentine Republic	GPE
-IF8	3	7	acronyms ii Map	PERSON
-IF8	3	8	1	CARDINAL
-IF8	6	1	RB-COSOP 1 II	ORG
-IF8	7	1	1 A. Programme	PERCENT
-IF8	7	2	1 B. Programme	PERCENT
-IF8	7	3	2 C. Components	PERSON
-IF8	7	4	2	CARDINAL
-IF8	8	1	2	CARDINAL
-IF8	11	1	3	CARDINAL
-IF8	12	1	Supervision 4E.	ORG
-IF8	13	1	IFAD	ORG
-IF8	14	1	4 IV	MONEY
-IF8	15	1	4 A. Programme	PERCENT
-IF8	15	2	4 B. Programme	PERCENT
-IF8	15	3	4 C. Benefit	PERSON
-IF8	15	4	5	CARDINAL
-IF8	15	5	5	CARDINAL
-IF8	15	6	6	CARDINAL
-IF8	15	7	IFAD	ORG
-IF8	20	1	6	CARDINAL
-IF8	22	1	II	ORG
-IF8	23	1	MAI Ministry of Agroindustry PEA2 Federal and Participative Agri-	ORG
-IF8	23	2	2010/2016	DATE
-IF8	23	3	UCAR	ORG
-IF8	23	4	IFAD	ORG
-IF8	23	5	IFAD	ORG
-IF8	24	1	Argentine	NORP
-IF8	24	2	Rural Change Total	ORG
-IF8	24	3	US$25.45 million	MONEY
-IF8	24	4	IFAD	ORG
-IF8	24	5	US$12.30 million	MONEY
-IF8	24	6	IFAD	ORG
-IF8	24	7	US$1.02 million	MONEY
-IF8	24	8	IFAD	ORG
-IF8	24	9	18 years	DATE
-IF8	24	10	three years	DATE
-IF8	24	11	100 per cent	MONEY
-IF8	24	12	IFAD	ORG
-IF8	24	13	US$7.00 million	MONEY
-IF8	24	14	US$2.97 million	MONEY
-IF8	24	15	US$2.16 million	MONEY
-IF8	24	16	IFAD Cooperating	ORG
-IF8	24	17	IFAD EB 2016/LOT/P.18/Rev.1	ORG
-IF8	24	18	The Executive Board	ORG
-IF8	24	19	the Argentine Republic	GPE
-IF8	24	20	paragraph 33	DATE
-IF8	25	1	the Argentine Republic	GPE
-IF8	27	1	1	CARDINAL
-IF8	28	1	Argentina	GPE
-IF8	28	2	one	CARDINAL
-IF8	28	3	Latin America	LOC
-IF8	28	4	one	CARDINAL
-IF8	29	1	some 251,000	CARDINAL
-IF8	31	1	Argentina	GPE
-IF8	31	2	about 950,000	CARDINAL
-IF8	32	1	2010	DATE
-IF8	32	2	18 per cent	MONEY
-IF8	32	3	22 per cent	MONEY
-IF8	33	1	About 46,000	CARDINAL
-IF8	34	1	2	CARDINAL
-IF8	38	1	3	CARDINAL
-IF8	40	1	The Unit for Rural Change	ORG
-IF8	40	2	UCAR	ORG
-IF8	40	3	the Ministry of Agroindustry	ORG
-IF8	40	4	IFAD	ORG
-IF8	41	1	UCAR	ORG
-IF8	43	1	A. Programme	PERSON
-IF8	43	2	4	CARDINAL
-IF8	44	1	IFAD	ORG
-IF8	48	1	5	CARDINAL
-IF8	49	1	five	CARDINAL
-IF8	49	2	Chaco	GPE
-IF8	49	3	Formosa	GPE
-IF8	49	4	Neuquén	ORG
-IF8	49	5	Mendoza	ORG
-IF8	49	6	Santiago del Estero	ORG
-IF8	49	7	some 60 per cent	MONEY
-IF8	50	1	6	CARDINAL
-IF8	53	1	7	CARDINAL
-IF8	55	1	six-year	DATE
-IF8	55	2	8,000	CARDINAL
-IF8	56	1	C. Components	PERSON
-IF8	56	2	8	CARDINAL
-IF8	57	1	three	CARDINAL
-IF8	57	2	1	CARDINAL
-IF8	63	1	goat basin	LOC
-IF8	64	1	goat basin	PERSON
+IF8	1	1	the Argentine Republic	GPE
+IF8	1	2	Argentine Republic Executing	ORG
+IF8	1	3	Rural Change Total	ORG
+IF8	1	4	US$25.45 million	MONEY
+IF8	1	5	IFAD	ORG
+IF8	1	6	US$12.30 million	MONEY
+IF8	1	7	IFAD	ORG
+IF8	1	8	US$1.02 million	MONEY
+IF8	1	9	IFAD	ORG
+IF8	1	10	18 years	DATE
+IF8	1	11	three years	DATE
+IF8	1	12	100 per cent	MONEY
+IF8	1	13	IFAD	ORG
+IF8	1	14	US$7.00 million	MONEY
+IF8	1	15	US$2.97 million	MONEY
+IF8	1	16	US$2.16 million	MONEY
+IF8	1	17	IFAD Cooperating	ORG
+IF8	1	18	IFAD EB 2016/LOT/P.18/Rev.1	ORG
+IF8	1	19	The Executive Board	ORG
+IF8	1	20	the Argentine Republic	GPE
+IF8	1	21	paragraph 33	DATE
+IF8	2	1	the Argentine Republic	GPE
+IF8	4	1	1	CARDINAL
+IF8	5	1	Argentina	GPE
+IF8	5	2	one	CARDINAL
+IF8	5	3	Latin America	LOC
+IF8	5	4	one	CARDINAL
+IF8	6	1	some 251,000	CARDINAL
+IF8	8	1	Argentina	GPE
+IF8	8	2	about 950,000	CARDINAL
+IF8	9	1	2010	DATE
+IF8	9	2	18 per cent	MONEY
+IF8	9	3	22 per cent	MONEY
+IF8	10	1	About 46,000	CARDINAL
+IF8	11	1	2	CARDINAL
+IF8	15	1	3	CARDINAL
+IF8	17	1	The Unit for Rural Change	ORG
+IF8	17	2	UCAR	ORG
+IF8	17	3	the Ministry of Agroindustry	ORG
+IF8	17	4	IFAD	ORG
+IF8	18	1	UCAR	ORG
+IF8	20	1	A. Programme	PERSON
+IF8	20	2	4	CARDINAL
+IF8	21	1	IFAD	ORG
+IF8	25	1	5	CARDINAL
+IF8	26	1	five	CARDINAL
+IF8	26	2	Chaco	GPE
+IF8	26	3	Formosa	GPE
+IF8	26	4	Neuquén	ORG
+IF8	26	5	Mendoza	ORG
+IF8	26	6	Santiago del Estero	ORG
+IF8	26	7	some 60 per cent	MONEY
+IF8	27	1	6	CARDINAL
+IF8	30	1	7	CARDINAL
+IF8	32	1	six-year	DATE
+IF8	32	2	8,000	CARDINAL
+IF8	33	1	C. Components	PERSON
+IF8	33	2	8	CARDINAL
+IF8	34	1	three	CARDINAL
+IF8	34	2	1	CARDINAL
+IF8	40	1	goat basin	LOC
+IF8	41	1	goat basin	PERSON
+IF8	45	1	UCAR	ORG
+IF8	46	1	South-South	LOC
+IF8	46	2	SSTC	ORG
+IF8	47	1	III	ORG
+IF8	49	1	9	CARDINAL
+IF8	52	1	10	CARDINAL
+IF8	53	1	UCAR	ORG
+IF8	53	2	1	CARDINAL
+IF8	53	3	3	CARDINAL
+IF8	54	1	2	CARDINAL
+IF8	54	2	MAI	ORG
+IF8	56	1	3 11	DATE
+IF8	58	1	goat basin	LOC
+IF8	62	1	12	CARDINAL
+IF8	64	1	annual	DATE
+IF8	66	1	13	CARDINAL
+IF8	67	1	UCAR	ORG
+IF8	67	2	goat basin	LOC
 IF8	68	1	UCAR	ORG
-IF8	69	1	South-South	LOC
-IF8	69	2	SSTC	ORG
-IF8	70	1	III	ORG
-IF8	72	1	9	CARDINAL
-IF8	75	1	10	CARDINAL
+IF8	70	1	IFAD	ORG
+IF8	70	2	Results and Impact Management System	ORG
+IF8	74	1	14	CARDINAL
 IF8	76	1	UCAR	ORG
-IF8	76	2	1	CARDINAL
-IF8	76	3	3	CARDINAL
-IF8	77	1	2	CARDINAL
-IF8	77	2	MAI	ORG
-IF8	79	1	3 11	DATE
-IF8	81	1	goat basin	LOC
-IF8	85	1	12	CARDINAL
-IF8	87	1	annual	DATE
-IF8	89	1	13	CARDINAL
-IF8	90	1	UCAR	ORG
-IF8	90	2	goat basin	LOC
+IF8	77	1	UCAR	ORG
+IF8	77	2	IFAD	ORG
+IF8	77	3	2009	DATE
+IF8	79	1	UCAR	ORG
+IF8	79	2	IFAD	ORG
+IF8	81	1	15	CARDINAL
+IF8	83	1	IFAD	ORG
+IF8	83	2	United States	GPE
+IF8	83	3	the Central Bank of Argentina	ORG
+IF8	84	1	two	CARDINAL
+IF8	84	2	United States	GPE
+IF8	84	3	the Banco de la Nación Argentina	ORG
+IF8	84	4	two	CARDINAL
+IF8	84	5	United States	GPE
+IF8	84	6	Argentina	GPE
+IF8	86	1	Argentine	NORP
+IF8	86	2	UCAR	ORG
+IF8	87	1	Argentine	NORP
+IF8	88	1	16	CARDINAL
+IF8	90	1	IFAD	ORG
 IF8	91	1	UCAR	ORG
-IF8	93	1	IFAD	ORG
-IF8	93	2	Results and Impact Management System	ORG
-IF8	97	1	14	CARDINAL
-IF8	99	1	UCAR	ORG
-IF8	100	1	UCAR	ORG
-IF8	100	2	IFAD	ORG
-IF8	100	3	2009	DATE
-IF8	102	1	UCAR	ORG
-IF8	102	2	IFAD	ORG
-IF8	104	1	15	CARDINAL
+IF8	92	1	IFAD	ORG
+IF8	93	1	17	CARDINAL
+IF8	95	1	annually	DATE
+IF8	95	2	IFAD	ORG
+IF8	98	1	Annual	DATE
+IF8	98	2	IFAD	ORG
+IF8	98	3	six months of the end of each fiscal year	DATE
+IF8	99	1	4	CARDINAL
+IF8	100	1	18	CARDINAL
+IF8	101	1	IFAD	ORG
+IF8	101	2	IFAD	ORG
+IF8	101	3	UCAR	ORG
+IF8	103	1	IFAD	ORG
+IF8	104	1	19	CARDINAL
+IF8	105	1	SSTC	ORG
+IF8	105	2	500,000	MONEY
 IF8	106	1	IFAD	ORG
-IF8	106	2	United States	GPE
-IF8	106	3	the Central Bank of Argentina	ORG
-IF8	107	1	two	CARDINAL
-IF8	107	2	United States	GPE
-IF8	107	3	the Banco de la Nación Argentina	ORG
-IF8	107	4	two	CARDINAL
-IF8	107	5	United States	GPE
-IF8	107	6	Argentina	GPE
-IF8	109	1	Argentine	NORP
-IF8	109	2	UCAR	ORG
-IF8	110	1	Argentine	NORP
-IF8	111	1	16	CARDINAL
-IF8	113	1	IFAD	ORG
-IF8	114	1	UCAR	ORG
-IF8	115	1	IFAD	ORG
-IF8	116	1	17	CARDINAL
-IF8	118	1	annually	DATE
-IF8	118	2	IFAD	ORG
-IF8	121	1	Annual	DATE
-IF8	121	2	IFAD	ORG
-IF8	121	3	six months of the end of each fiscal year	DATE
-IF8	122	1	4	CARDINAL
-IF8	123	1	18	CARDINAL
-IF8	124	1	IFAD	ORG
-IF8	124	2	IFAD	ORG
-IF8	124	3	UCAR	ORG
-IF8	126	1	IFAD	ORG
-IF8	127	1	19	CARDINAL
-IF8	128	1	SSTC	ORG
-IF8	128	2	500,000	MONEY
-IF8	129	1	IFAD	ORG
-IF8	130	1	IFAD	ORG
-IF8	132	1	A. Programme	PERSON
-IF8	132	2	20	CARDINAL
-IF8	133	1	six years	DATE
-IF8	133	2	US$25.5 million	MONEY
-IF8	133	3	US$2.7 million	MONEY
-IF8	133	4	1	CARDINAL
-IF8	133	5	US$19.0 million	MONEY
-IF8	133	6	2	CARDINAL
-IF8	133	7	US$3.8 million	MONEY
-IF8	133	8	3	CARDINAL
-IF8	134	1	15	CARDINAL
-IF8	135	1	6 per cent	MONEY
-IF8	135	2	0.001 per cent	MONEY
-IF8	136	1	B. Programme	PERSON
-IF8	136	2	21	DATE
-IF8	137	1	US$7.0 million	MONEY
-IF8	137	2	US$3.0 million	MONEY
-IF8	137	3	IFAD	ORG
-IF8	137	4	US$12.3 million	MONEY
-IF8	137	5	US$1.0 million	MONEY
-IF8	137	6	SSTC	ORG
-IF8	137	7	US$2.2 million	MONEY
-IF8	138	1	1	CARDINAL
-IF8	138	2	2	CARDINAL
-IF8	139	1	1	CARDINAL
-IF8	139	2	Thousands	CARDINAL
-IF8	139	3	IFAD	ORG
-IF8	139	4	IFAD	ORG
-IF8	139	5	Beneficiaries Total Amount % Amount % Amount % Amount % Amount % Amount % 1	ORG
-IF8	140	1	1 796	CARDINAL
-IF8	141	1	10	CARDINAL
-IF8	141	2	2 160	CARDINAL
-IF8	141	3	11	CARDINAL
-IF8	141	4	75	WORK_OF_ART
-IF8	141	5	3	CARDINAL
-IF8	142	1	127 3 135	CARDINAL
-IF8	142	2	4 1 192	CARDINAL
-IF8	142	3	32 2	DATE
-IF8	142	4	329	CARDINAL
-IF8	142	5	62 - - 3 783 15	DATE
-IF8	142	6	12 300	CARDINAL
-IF8	142	7	48 1 017	CARDINAL
-IF8	142	8	972	CARDINAL
-IF8	142	9	12 2 160	CARDINAL
-IF8	142	10	5	CARDINAL
-IF8	142	11	2	CARDINAL
-IF8	142	12	Thousands	CARDINAL
-IF8	142	13	IFAD	ORG
-IF8	142	14	IFAD	ORG
-IF8	142	15	Beneficiaries Total Amount % Amount % Amount % Amount % Amount % Amount % 1	ORG
-IF8	143	1	9	CARDINAL
-IF8	143	2	643	CARDINAL
-IF8	143	3	4 2 160	CARDINAL
-IF8	143	4	2	CARDINAL
-IF8	144	1	123 100	CARDINAL
-IF8	144	2	10 3 338	CARDINAL
-IF8	144	3	97	CARDINAL
-IF8	144	4	3	CARDINAL
-IF8	145	1	725	CARDINAL
-IF8	146	1	662	CARDINAL
-IF8	146	2	615	CARDINAL
-IF8	146	3	400 100	CARDINAL
-IF8	147	1	989	CARDINAL
-IF8	147	2	1 523	CARDINAL
-IF8	147	3	61	CARDINAL
-IF8	147	4	7	CARDINAL
-IF8	148	1	71	CARDINAL
-IF8	148	2	660	CARDINAL
-IF8	148	3	3	CARDINAL
-IF8	148	4	12 300	CARDINAL
-IF8	148	5	48 1 017	CARDINAL
-IF8	148	6	972	CARDINAL
-IF8	148	7	12 2 160	CARDINAL
-IF8	148	8	C. Benefit	PERSON
-IF8	148	9	22	CARDINAL
-IF8	149	1	some 8,000	CARDINAL
-IF8	149	2	approximately 40,000	CARDINAL
-IF8	149	3	5,600	CARDINAL
-IF8	149	4	2,400	CARDINAL
-IF8	150	1	approximately 160	CARDINAL
-IF8	150	2	48	CARDINAL
-IF8	151	1	23	CARDINAL
-IF8	153	1	23.3 per cent	MONEY
-IF8	153	2	US$19.6 million	MONEY
-IF8	154	1	D. Sustainability 24	PERSON
-IF8	155	1	the goat basin	LOC
-IF8	155	2	1	CARDINAL
-IF8	155	3	SSTC	ORG
-IF8	156	1	E. Risk	PERSON
-IF8	156	2	25	CARDINAL
-IF8	158	1	UCAR	ORG
-IF8	158	2	the goat basin	LOC
-IF8	158	3	2015	DATE
-IF8	158	4	Transparency International Corruption Perceptions Index	EVENT
-IF8	158	5	32	DATE
-IF8	158	6	IFAD	ORG
-IF8	159	1	UCAR	ORG
-IF8	159	2	IFAD	ORG
-IF8	160	1	IFAD	ORG
-IF8	161	1	26	CARDINAL
-IF8	162	1	IFAD	ORG
-IF8	163	1	IFAD	ORG
-IF8	163	2	the IFAD Strategic Framework 2016-2025	ORG
-IF8	165	1	27	CARDINAL
-IF8	166	1	the Federal and Participative Agri-food	ORG
-IF8	166	2	2010/2016	DATE
-IF8	167	1	IFAD	ORG
-IF8	167	2	2010	DATE
-IF8	169	1	28	CARDINAL
-IF8	172	1	29	CARDINAL
-IF8	173	1	Argentina	GPE
-IF8	174	1	SSTC	ORG
-IF8	176	1	30	CARDINAL
-IF8	177	1	the Argentine Republic	GPE
-IF8	177	2	IFAD	ORG
-IF8	179	1	31	CARDINAL
-IF8	180	1	The Argentine Republic	GPE
-IF8	180	2	IFAD	ORG
-IF8	181	1	32	CARDINAL
-IF8	182	1	the Agreement Establishing IFAD	ORG
-IF8	183	1	VII	ORG
-IF8	184	1	33	CARDINAL
-IF8	185	1	the Executive Board	ORG
-IF8	185	2	the Argentine Republic	GPE
-IF8	185	3	twelve million	CARDINAL
-IF8	185	4	US$12,300,000	MONEY
-IF8	186	1	Fund	ORG
-IF8	186	2	the Argentine Republic	GPE
-IF8	186	3	one million seventeen thousand dollars	MONEY
-IF8	186	4	1,017,000	MONEY
-IF8	187	1	Kanayo F. Nwanze	PERSON
-IF8	187	2	Appendix	PERSON
-IF8	187	3	Convenio de financiación	FAC
-IF8	187	4	Programa de Desarrollo de las	WORK_OF_ART
-IF8	187	5	Cadenas Caprinas	PERSON
-IF8	187	6	29 de noviembre de 20167	PERSON
-IF8	187	7	Número	PERSON
-IF8	187	8	Préstamo	NORP
-IF8	187	9	Número de la Donación	PERSON
-IF8	187	10	Programa de Desarrollo de las	PERSON
-IF8	187	11	Cadenas Caprinas	PERSON
-IF8	187	12	PRODECCA	ORG
-IF8	187	13	La República Argentina	PERSON
-IF8	187	14	y El Fondo Internacional de Desarrollo Agrícola	ORG
-IF8	187	15	Fondo	WORK_OF_ART
-IF8	187	16	cada uno de ellos	PERSON
-IF8	187	17	la “Parte	WORK_OF_ART
-IF8	187	18	Partes	WORK_OF_ART
-IF8	187	19	acuerdan lo	PERSON
-IF8	187	20	1	CARDINAL
-IF8	188	1	Los siguientes	GPE
-IF8	188	2	Convenio	GPE
-IF8	188	3	Descripción	ORG
-IF8	188	4	el Cuadro de asignaciones	PERSON
-IF8	188	5	Anexo 2)	FAC
-IF8	188	6	Condiciones Generales	PERSON
-IF8	188	7	Fondo	GPE
-IF8	188	8	de abril de 2009	PERSON
-IF8	188	9	“Condiciones Generales”	WORK_OF_ART
-IF8	188	10	al presente Convenio	PERSON
-IF8	189	1	2	CARDINAL
-IF8	190	1	Las Condiciones Generales	PERSON
-IF8	190	2	al presente Convenio	PERSON
-IF8	190	3	como la	PERSON
-IF8	190	4	2	CARDINAL
-IF8	190	5	2	CARDINAL
-IF8	191	1	Convenio	GPE
-IF8	191	2	los términos	GPE
-IF8	191	3	Condiciones Generales	PERSON
-IF8	191	4	significado que	PERSON
-IF8	192	1	3	CARDINAL
-IF8	193	1	Convenio	GPE
-IF8	193	2	contra el Prestatario/Receptor	ORG
-IF8	193	3	el pago de	FAC
-IF8	193	4	iniciada al respecto	PERSON
-IF8	193	5	Convenio	GPE
-IF8	193	6	Condiciones Generales	PERSON
-IF8	193	7	de dicha	PERSON
-IF8	194	1	4	CARDINAL
-IF8	194	2	El Fondo	ORG
-IF8	194	3	Préstamo	ORG
-IF8	194	4	Donación al Prestatario/Receptor	LOC
-IF8	194	5	Financiamiento	GPE
-IF8	194	6	que el Prestatario	PERSON
-IF8	194	7	el Programa de	LOC
-IF8	194	8	Convenio	GPE
-IF8	195	1	Appendix	GPE
-IF8	195	2	2	CARDINAL
-IF8	195	3	1	CARDINAL
-IF8	196	1	A. El monto	PERSON
-IF8	196	2	Préstamo	LOC
-IF8	196	3	que es de	PERSON
-IF8	196	4	trescientos mil	ORG
-IF8	196	5	dólares de los Estados Unidos de América	PERSON
-IF8	197	1	B. El monto de la Donación	PERSON
-IF8	197	2	Estados Unidos de América	PERSON
-IF8	198	1	2	CARDINAL
-IF8	199	1	El Préstamo	PERSON
-IF8	199	2	al cien por ciento	PERSON
-IF8	199	3	100%	PERCENT
-IF8	200	1	El FIDA	ORG
-IF8	200	2	la tasa de interés	FAC
-IF8	200	3	de referencia de cada semestre	PERSON
-IF8	200	4	día hábil de enero	PERSON
-IF8	200	5	día hábil de julio	PERSON
-IF8	201	1	La tasa de interés de referencia	ORG
-IF8	201	2	USD	ORG
-IF8	201	3	más el margen del	ORG
-IF8	201	4	Banco Internacional de Reconstrucción y Fomento	ORG
-IF8	201	5	USD	ORG
-IF8	201	6	que tienen el mismo	PERSON
-IF8	201	7	de vencimiento	PERSON
-IF8	201	8	u otro	PERSON
-IF8	201	9	aprobado por	PERSON
-IF8	201	10	la Junta Ejecutiva	PERSON
-IF8	202	1	3	CARDINAL
-IF8	203	1	El Préstamo	ORG
-IF8	203	2	18	CARDINAL
-IF8	203	3	un	ORG
-IF8	203	4	de gracia de	PERSON
-IF8	203	5	3	CARDINAL
-IF8	203	6	que el Fondo	ORG
-IF8	203	7	haya determinado que	PERSON
-IF8	203	8	han	NORP
-IF8	204	1	4	CARDINAL
-IF8	205	1	La Moneda de Pago del Servicio	ORG
-IF8	205	2	Préstamo	NORP
-IF8	205	3	Estados Unidos de América	PERSON
-IF8	206	1	5	CARDINAL
-IF8	207	1	El Ejercicio Financiero	PERSON
-IF8	208	1	6	CARDINAL
-IF8	209	1	Préstamo	ORG
-IF8	209	2	1	CARDINAL
-IF8	209	3	1	CARDINAL
-IF8	210	1	El capital será	ORG
-IF8	210	2	30	CARDINAL
-IF8	210	3	3	CARDINAL
-IF8	210	4	de la fecha de cumplimiento de las	PERSON
-IF8	211	1	al Prestatario/Receptor	ORG
-IF8	212	1	7	CARDINAL
-IF8	213	1	El Prestatario/Receptor	ORG
-IF8	213	2	Receptora	PERSON
-IF8	213	3	Banco Central de la República Argentina	ORG
-IF8	213	4	Estados Unidos de América	PERSON
-IF8	213	5	USD	ORG
-IF8	214	1	Dichos recursos	PERSON
-IF8	214	2	serán transferidos	PERSON
-IF8	214	3	USD	ORG
-IF8	214	4	la UCAR	FAC
-IF8	214	5	Argentina	GPE
-IF8	214	6	los recursos del Préstamo y de la Donación	LOC
-IF8	215	1	8	CARDINAL
-IF8	216	1	La UCAR	ORG
-IF8	216	2	el Banco	ORG
-IF8	216	3	ARS	ORG
-IF8	217	1	9	CARDINAL
-IF8	218	1	Cada Unidad de Ejecución Provincial	PERSON
-IF8	218	2	UEP	ORG
-IF8	218	3	ARS para	ORG
-IF8	218	4	los fondos del Préstamo	GPE
-IF8	219	1	10	CARDINAL
-IF8	220	1	El Prestatario/Receptor	ORG
-IF8	220	2	de contrapartida para	ORG
-IF8	220	3	Programa	GPE
-IF8	220	4	Estados Unidos de América	PERSON
-IF8	220	5	7 000 000	PERCENT
-IF8	221	1	Appendix	GPE
-IF8	221	2	3	CARDINAL
-IF8	222	1	El Organismo Responsable del Programa	ORG
-IF8	222	2	el Ministerio de Agroindustria	PERSON
-IF8	222	3	Programa	GPE
-IF8	222	4	UCAR	ORG
-IF8	223	1	2	CARDINAL
-IF8	224	1	Parte en el Programa	WORK_OF_ART
-IF8	224	2	2.01	CARDINAL
-IF8	224	3	Condiciones Generales	PERSON
-IF8	224	4	Programa	GPE
-IF8	224	5	Sección C.1	WORK_OF_ART
-IF8	224	6	Organizaciones de Productores	PRODUCT
-IF8	224	7	OP	PERSON
-IF8	224	8	Programa	GPE
-IF8	225	1	3	CARDINAL
-IF8	226	1	Condiciones Generales	PERSON
-IF8	226	2	Revisión de Medio	PERSON
-IF8	226	3	Programa	GPE
-IF8	227	1	4	CARDINAL
-IF8	228	1	La Fecha de Terminación	PERSON
-IF8	228	2	Programa	GPE
-IF8	228	3	Convenio	GPE
-IF8	229	1	Sección D El Fondo	PERSON
-IF8	229	2	Programa	GPE
-IF8	230	1	1	CARDINAL
-IF8	231	1	Se considera que	PERSON
-IF8	231	2	los previstos	GPE
-IF8	231	3	Condiciones Generales	PERSON
-IF8	231	4	Convenio	GPE
-IF8	231	5	que cualquiera de las	PRODUCT
-IF8	231	6	Reglamento Operativo del Programa	FAC
-IF8	231	7	ROP	WORK_OF_ART
-IF8	231	8	haya sido objeto de cesión	PERSON
-IF8	231	9	renuncia	GPE
-IF8	231	10	suspensión	GPE
-IF8	231	11	enmienda u otra modificación	PERSON
-IF8	231	12	sin el	PERSON
-IF8	231	13	y el FIDA haya	LOC
-IF8	231	14	previa consulta y justificación del Prestatario/Receptor	LAW
-IF8	231	15	que tal cesión	PERSON
-IF8	231	16	para el Programa	PERSON
-IF8	232	1	2	CARDINAL
-IF8	233	1	Se considera que	PERSON
-IF8	233	2	Condiciones Generales	PERSON
-IF8	233	3	Que la	PERSON
-IF8	234	1	Que se haya nombrado	FAC
-IF8	234	2	al Responsable Técnico	PERSON
-IF8	234	3	Programa	GPE
-IF8	235	1	Que el FIDA haya aprobado	FAC
-IF8	235	2	Reglamento Operativo	PERSON
-IF8	235	3	Programa	GPE
-IF8	236	1	Que la	PERSON
-IF8	236	2	haya habilitado el	PERSON
-IF8	236	3	UEPEX	ORG
-IF8	236	4	Programa	GPE
-IF8	237	1	Appendix	GPE
-IF8	237	2	4 3	DATE
-IF8	238	1	El Prestatario/Receptor	ORG
-IF8	238	2	al Ministro de Hacienda	PERSON
-IF8	238	3	su	PERSON
-IF8	238	4	los efectos de la	GPE
-IF8	238	5	Sección 15.03 de las	FAC
-IF8	238	6	Condiciones Generales	PERSON
-IF8	239	1	4	CARDINAL
-IF8	240	1	indican	NORP
-IF8	240	2	que han de utilizarse para	ORG
-IF8	240	3	Convenio	GPE
-IF8	240	4	Por el Prestatario	PERSON
-IF8	240	5	Ministro de Hacienda	PERSON
-IF8	240	6	Italia El	ORG
-IF8	240	7	Convenio	GPE
-IF8	240	8	2	CARDINAL
-IF8	240	9	1	CARDINAL
-IF8	240	10	1	CARDINAL
-IF8	241	1	Representante autorizado	PERSON
-IF8	241	2	Kanayo F. Nwanze Presidente	PERSON
-IF8	241	3	5	CARDINAL
-IF8	241	4	34	CARDINAL
-IF8	242	1	Descripción	GPE
-IF8	242	2	Programa 1	DATE
-IF8	243	1	Programa	GPE
-IF8	244	1	Si bien el	PERSON
-IF8	244	2	Programa	GPE
-IF8	244	3	los recursos para inversiones	ORG
-IF8	244	4	las provincias de Chaco	PERSON
-IF8	244	5	Formosa y Santiago	PERSON
-IF8	244	6	Mendoza y Neuquén	PERSON
-IF8	244	7	zona Centro Sur	PERSON
-IF8	244	8	Área del Programa	WORK_OF_ART
-IF8	245	1	Serán	ORG
-IF8	245	2	Programa	GPE
-IF8	245	3	y productoras caprinas	PERSON
-IF8	245	4	cuyo	PERSON
-IF8	245	5	provenga principalmente de la	PERSON
-IF8	245	6	caprina	GPE
-IF8	245	7	jóvenes y comunidades	PERSON
-IF8	246	1	Los beneficiarios	GPE
-IF8	246	2	Programa	GPE
-IF8	246	3	familia de la agricultura familiar campesina	EVENT
-IF8	246	4	dentro de las cinco	PERSON
-IF8	246	5	de 200	PRODUCT
-IF8	246	6	la zona	PERSON
-IF8	246	7	320 madres	QUANTITY
-IF8	246	8	la zona Centro Sur	WORK_OF_ART
-IF8	246	9	el marco del Programa	ORG
-IF8	246	10	y iv	PERSON
-IF8	246	11	parte de una	ORG
-IF8	246	12	comunidad de	LOC
-IF8	247	1	2	CARDINAL
-IF8	248	1	Meta	ORG
-IF8	249	1	Programa	GPE
-IF8	250	1	3	CARDINAL
-IF8	252	1	Programa	GPE
-IF8	253	1	4	CARDINAL
-IF8	255	1	El Programa	ORG
-IF8	255	2	3	CARDINAL
-IF8	255	3	4.1	CARDINAL
-IF8	256	1	1	CARDINAL
-IF8	257	1	Desarrollo de mercados	PERSON
-IF8	257	2	y apoyo	PERSON
-IF8	259	1	4.1.1	CARDINAL
-IF8	260	1	1.1	CARDINAL
-IF8	261	1	Desarrollo de mercados	PERSON
-IF8	262	1	Las	GPE
-IF8	262	2	de preferencias del consumidor	PERSON
-IF8	262	3	para conocer	PERSON
-IF8	262	4	y otros para	ORG
-IF8	262	5	programas de compras públicas	PERSON
-IF8	264	1	1.2	CARDINAL
-IF8	265	1	Apoyo	PERSON
-IF8	266	1	Las	GPE
-IF8	266	2	de un	ORG
-IF8	266	3	adaptación de normativas del Servicio Nacional de Sanidad Animal y Calidad Agroalimentaria	ORG
-IF8	266	4	SENASA	ORG
-IF8	266	5	y apoyo	PERSON
-IF8	266	6	la incorporación de productos caprinos	ORG
-IF8	266	7	Alimentario Argentino	PERSON
-IF8	266	8	manejo de fondos	PERSON
-IF8	267	1	Appendix	GPE
-IF8	267	2	6 4.2	CARDINAL
-IF8	268	1	2	CARDINAL
-IF8	271	1	Por ello	PERSON
-IF8	271	2	el Programa	ORG
-IF8	271	3	apoyada por la UCAR	PERSON
-IF8	272	1	4.2.1	ORG
-IF8	273	1	2.1	CARDINAL
-IF8	275	1	Las	GPE
-IF8	275	2	que hagan	PERSON
-IF8	275	3	su	PERSON
-IF8	275	4	que serán traccionadores de la cadena	ORG
-IF8	275	5	conformación serán	NORP
-IF8	275	6	el ROP	ORG
-IF8	275	7	conformación de mesas de cuencas caprinas	FAC
-IF8	275	8	MC	PERSON
-IF8	275	9	mencionados y otros actores	ORG
-IF8	275	10	el objetivo de crear	ORG
-IF8	275	11	la gestión de mesas de cuenca	FAC
-IF8	275	12	planes de cuenca	PRODUCT
-IF8	275	13	monitoreo de la	PERSON
-IF8	276	1	4.2.2	CARDINAL
-IF8	277	1	2.2	CARDINAL
-IF8	279	1	Las	GPE
-IF8	279	2	por parte de las organizaciones de productores	PERSON
-IF8	279	3	Seguimiento	GPE
-IF8	279	4	Programa	GPE
-IF8	280	1	4.2.3	ORG
-IF8	281	1	2.3	CARDINAL
-IF8	283	1	Los proyectos	GPE
-IF8	284	1	el fin de aumentar la	FAC
-IF8	284	2	comercialización	GPE
-IF8	284	3	incluyendo	GPE
-IF8	284	4	infraestructura y bienes productivos	FAC
-IF8	284	5	asistencia técnica productiva	ORG
-IF8	284	6	escuelas de campo	PERSON
-IF8	284	7	parcelas demostrativas	PERSON
-IF8	284	8	incluyendo	GPE
-IF8	284	9	sobre aspectos de nutrición	ORG
-IF8	284	10	incluyendo preparación de alimentos	ORG
-IF8	284	11	y sanidad	GPE
-IF8	284	12	medidas de mitigación y adaptación al cambio climático	ORG
-IF8	284	13	uso eficiente de agua	PERSON
-IF8	285	1	4.2.4	CARDINAL
-IF8	286	1	2.4	CARDINAL
-IF8	287	1	Fondo de garantía para	ORG
-IF8	288	1	El Programa	ORG
-IF8	288	2	al crédito	PERSON
-IF8	289	1	una experiencia	ORG
-IF8	289	2	de una	ORG
-IF8	290	1	4.3	CARDINAL
-IF8	291	1	3	CARDINAL
-IF8	292	1	Gestión del Programa	PERSON
-IF8	293	1	Unidad Ejecutora Central	PERSON
-IF8	293	2	UEC	ORG
-IF8	294	1	Para la coordinación y	PERSON
-IF8	294	2	un Responsable Técnico	ORG
-IF8	294	3	Programa	GPE
-IF8	294	4	Programa	GPE
-IF8	294	5	Unidad	GPE
-IF8	294	6	UCAR	ORG
-IF8	294	7	apoyados por	PERSON
-IF8	294	8	servicios especializados de la UCAR	PERSON
-IF8	296	1	Para la coordinación y	PERSON
-IF8	298	1	Un	ORG
-IF8	298	2	Programa	GPE
-IF8	299	1	Programa	GPE
-IF8	300	1	Appendix	GPE
-IF8	300	2	7 35	DATE
-IF8	301	1	5	CARDINAL
-IF8	302	1	Organismo Responsable del Programa	ORG
-IF8	303	1	Será el Ministerio de Agroindustria del Prestatario/Receptor	ORG
-IF8	303	2	Programa	GPE
-IF8	303	3	UCAR	ORG
-IF8	304	1	6	CARDINAL
-IF8	305	1	Programa	GPE
-IF8	306	1	Programa	GPE
-IF8	306	2	Programa	GPE
-IF8	306	3	el Área de Gestión de Programas y Proyectos de la UCAR y de una UEP	ORG
-IF8	306	4	cada provincia que	PERSON
-IF8	306	5	adhiera al Programa	PERSON
-IF8	307	1	Dentro de las	PERSON
-IF8	307	2	Programa	GPE
-IF8	307	3	Plan de Adquisiciones y Contrataciones	WORK_OF_ART
-IF8	307	4	PAC	ORG
-IF8	307	5	como parte del Plan Operativo Anual	ORG
-IF8	307	6	POA	ORG
-IF8	307	7	y Contrataciones de la UCAR	PERSON
-IF8	308	1	7	CARDINAL
-IF8	310	1	Programa	LOC
-IF8	310	2	bajo dos	PERSON
-IF8	310	3	por medio de convenios	PERSON
-IF8	310	4	los gobiernos	FAC
-IF8	310	5	y ii	WORK_OF_ART
-IF8	310	6	forma directa	PERSON
-IF8	310	7	parte de la UCAR	PERSON
-IF8	310	8	1	CARDINAL
-IF8	311	1	8	CARDINAL
-IF8	312	1	La Unidad	ORG
-IF8	312	2	UCAR	ORG
-IF8	313	1	Programa	GPE
-IF8	313	2	los otros	FAC
-IF8	313	3	por el FIDA	FAC
-IF8	314	1	Dicha Área	PERSON
-IF8	314	2	financiera y adquisiciones	PERSON
-IF8	314	3	programación y presupuesto	PERSON
-IF8	314	4	y seguimiento y evaluación	FAC
-IF8	314	5	lo que implica	PERSON
-IF8	314	6	Áreas respectivas	PERSON
-IF8	315	1	La UCAR	ORG
-IF8	315	2	donde se constituirá una UEP	ORG
-IF8	316	1	Dentro de las	PERSON
-IF8	316	2	la UCAR	WORK_OF_ART
-IF8	316	3	el presupuesto	ORG
-IF8	316	4	del Ministerio de Agroindustria de los requerimientos de recursos	FAC
-IF8	316	5	Programa y tramitar su aprobación ante	FAC
-IF8	316	6	Ministerio de Hacienda y Finanzas Públicas	FAC
-IF8	316	7	Convenio	GPE
-IF8	316	8	Programa	GPE
-IF8	316	9	los procesos	PERSON
-IF8	316	10	y planificación de cuencas	FAC
-IF8	316	11	que incluyen conservar archivos	ORG
-IF8	316	12	llevar registros del	ORG
-IF8	316	13	Programa	LOC
-IF8	316	14	Auditoria General de la Nación	FAC
-IF8	316	15	y vi	PERSON
-IF8	316	16	acciones de fortalecimiento	PERSON
-IF8	317	1	los componentes	GPE
-IF8	317	2	la UCAR	FAC
-IF8	317	3	directa por la ejecución de las	PERSON
-IF8	317	4	1	CARDINAL
-IF8	318	1	9	CARDINAL
-IF8	319	1	Unidad Ejecutora Central	PERSON
-IF8	319	2	UEC	ORG
-IF8	320	1	Para la coordinación y	PERSON
-IF8	320	2	la UCAR	FAC
-IF8	320	3	un/a Responsable Técnico del Programa	ORG
-IF8	320	4	un	ORG
-IF8	320	5	seguimiento y evaluación	FAC
-IF8	320	6	un	ORG
-IF8	320	7	la zona	PERSON
-IF8	320	8	un	ORG
-IF8	320	9	un	ORG
-IF8	320	10	un	ORG
-IF8	320	11	un	ORG
-IF8	320	12	y un	ORG
-IF8	321	1	10	CARDINAL
-IF8	322	1	UEP	ORG
-IF8	323	1	Para la coordinación y	PERSON
-IF8	323	2	UEP	ORG
-IF8	323	3	la Provincia de Formosa	PERSON
-IF8	324	1	las provincias incorporarán dos	PERSON
-IF8	324	2	cada una	PERSON
-IF8	324	3	y experiencias serán	PERSON
-IF8	324	4	y gestión de emprendimientos	ORG
-IF8	324	5	caprina	GPE
-IF8	325	1	La UEP de Formosa	PERSON
-IF8	325	2	Programa	GPE
-IF8	325	3	Appendix	GPE
-IF8	325	4	8	CARDINAL
-IF8	325	5	caprina	GPE
-IF8	325	6	comercialización	GPE
-IF8	325	7	desarrollo	PERSON
-IF8	325	8	y fiduciario	QUANTITY
-IF8	326	1	OP	PERSON
-IF8	326	2	OP	PERSON
-IF8	327	1	Para ello	PERSON
-IF8	328	1	11	CARDINAL
-IF8	329	1	Organizaciones de Productores	ORG
-IF8	329	2	OP	PERSON
-IF8	330	1	Programa	GPE
-IF8	330	2	que serán	PERSON
-IF8	330	3	los actores	GPE
-IF8	330	4	la formulación y ejecución de los proyectos	FAC
-IF8	330	5	del Programa	ORG
-IF8	330	6	los productores	ORG
-IF8	330	7	cadenas de valor caprinas	ORG
-IF8	331	1	Los procesos de gestión financiera de los proyectos	GPE
-IF8	331	2	OP	PERSON
-IF8	331	3	incluyendo la adquisición de equipos	PERSON
-IF8	331	4	los recursos	GPE
-IF8	331	5	con el apoyo y acompañamiento de la UEP	PRODUCT
-IF8	332	1	12	CARDINAL
-IF8	333	1	Reglamento Operativo	PERSON
-IF8	333	2	Programa	GPE
-IF8	334	1	La UCAR preparará	ORG
-IF8	334	2	Programa	GPE
-IF8	334	3	Convenio y al ROP	PERSON
-IF8	335	1	El ROP	ORG
-IF8	335	2	los procedimientos	PRODUCT
-IF8	335	3	la transferencia de	PERSON
-IF8	335	4	OP	PERSON
-IF8	336	1	financiera y de adquisiciones	PERSON
-IF8	336	2	el apoyo del Área de Administración	ORG
-IF8	337	1	El ROP	ORG
-IF8	337	2	los procedimientos	GPE
-IF8	337	3	para las	PERSON
-IF8	337	4	y contrataciones del PRODECCA	PERSON
-IF8	338	1	el ROP	GPE
-IF8	338	2	ser modificado	GPE
-IF8	338	3	del Organismo	ORG
-IF8	340	1	36	CARDINAL
-IF8	341	1	Fondos de contrapartida 13	PERSON
-IF8	342	1	Programa	GPE
-IF8	342	2	el Prestatario/Receptor	ORG
-IF8	342	3	un monto total de USD 7,00 millones	ORG
-IF8	342	4	más	ORG
-IF8	342	5	los siguientes	GPE
-IF8	342	6	USD 5,81	ORG
-IF8	342	7	la categoría de Capitalización de OP	EVENT
-IF8	342	8	100%	PERCENT
-IF8	342	9	para lo que asignará	PERSON
-IF8	342	10	USD	ORG
-IF8	343	1	insumos para	ORG
-IF8	343	2	a la UEC y	LOC
-IF8	344	1	Appendix	GPE
-IF8	346	1	como los	ORG
-IF8	346	2	los rubros que	GPE
-IF8	346	3	Categoría	GPE
-IF8	346	4	Categoría Monto	PERSON
-IF8	346	5	USD	ORG
-IF8	346	6	Monto de la Donación	PERSON
-IF8	346	7	USD	ORG
-IF8	346	8	1	CARDINAL
-IF8	347	1	9 390	CARDINAL
-IF8	347	2	100%	PERCENT
-IF8	347	3	los impuestos 2	DATE
-IF8	348	1	insumos para	ORG
-IF8	348	2	123	CARDINAL
-IF8	348	3	100%	PERCENT
-IF8	348	4	los impuestos 3	DATE
-IF8	349	1	Asistencia técnica	PERSON
-IF8	349	2	1 725	CARDINAL
-IF8	349	3	100%	PERCENT
-IF8	349	4	los impuestos 4	EVENT
-IF8	350	1	662	CARDINAL
-IF8	350	2	615	CARDINAL
-IF8	350	3	100%	PERCENT
-IF8	350	4	los impuestos 5	DATE
-IF8	351	1	Crédito y fondos de garantía	PERSON
-IF8	351	2	400	CARDINAL
-IF8	351	3	100%	PERCENT
-IF8	351	4	12 300	CARDINAL
-IF8	351	5	Capitalización de organizaciones de productores	WORK_OF_ART
-IF8	351	6	los gastos	ORG
-IF8	351	7	los Proyectos Integrales	GPE
-IF8	351	8	incluyendo la capacitación y asistencia	PERSON
-IF8	351	9	para las OPs	PERSON
-IF8	351	10	los activos colectivos	ORG
-IF8	351	11	el capital de trabajo comercial	ORG
-IF8	351	12	de riesgo y seguros	PRODUCT
-IF8	351	13	y la asistencia técnica productiva	PERSON
-IF8	352	1	Por “Bienes	PERSON
-IF8	352	2	insumos para	ORG
-IF8	352	3	los gastos elegibles para	ORG
-IF8	352	4	los bienes	GPE
-IF8	352	5	la conformación y gestión de Mesas de Cuenca	FAC
-IF8	352	6	incluyendo la organización	PERSON
-IF8	353	1	los gastos elegibles para	ORG
-IF8	353	2	y asistencia	PERSON
-IF8	353	3	las acciones de preinversión de las actividades de las OPs	FAC
-IF8	353	4	y la contratación de	PERSON
-IF8	353	5	para la evaluación	PERSON
-IF8	353	6	Programa	GPE
-IF8	354	1	Appendix	GPE
-IF8	354	2	10	QUANTITY
-IF8	354	3	los gastos	ORG
-IF8	354	4	becas y educación financiera para el grupo objetivo	PRODUCT
-IF8	354	5	y capacitación	PRODUCT
-IF8	354	6	tanto para	ORG
-IF8	354	7	representantes de las OPs	PERSON
-IF8	354	8	participantes como para el personal de las UEPs	ORG
-IF8	355	1	los gastos	ORG
-IF8	355	2	fondos de garantía y para depósitos de aval	ORG
-IF8	355	3	financieras de segundo grado	LOC
-IF8	356	1	2	CARDINAL
-IF8	358	1	4.08a)ii	CARDINAL
-IF8	358	2	Condiciones Generales	PERSON
-IF8	358	3	los gastos hasta	GPE
-IF8	358	4	Convenio	NORP
-IF8	358	5	iniciales de desarrollo de los foros caprinos y de la Cooperación Sur Sur	ORG
-IF8	358	6	Bienes	GPE
-IF8	358	7	3	CARDINAL
-IF8	358	8	como de la donación	LOC
-IF8	358	9	podrán ser	PERSON
-IF8	359	1	Para	PERSON
-IF8	359	2	y respectivas	PERSON
-IF8	359	3	el visto bueno del FIDA	ORG
-IF8	360	1	El Prestatario/Receptor	ORG
-IF8	361	1	3	CARDINAL
-IF8	362	1	Costos de puesta	PERSON
-IF8	363	1	El retiro de fondos respecto de los costos de puesta	PERSON
-IF8	363	2	insumos para	ORG
-IF8	363	3	y “Asistencia	PERSON
-IF8	363	4	Préstamo	ORG
-IF8	363	5	realizados antes de satisfacer las	GPE
-IF8	363	6	previas para el retiro	PERSON
-IF8	363	7	un monto	PERSON
-IF8	364	1	Logical	PERSON
-IF8	364	2	Jerarquía de objetivos Indicadores	PERSON
-IF8	364	3	Familias	PERSON
-IF8	364	4	que han incrementado	PERSON
-IF8	364	5	5.600	CARDINAL
-IF8	364	6	70%	PERCENT
-IF8	364	7	1.680	CARDINAL
-IF8	364	8	30%	PERCENT
-IF8	364	9	Evaluación	GPE
-IF8	364	10	Programa Ficha de seguimiento	PERSON
-IF8	364	11	Anualmente Unidad Central de Ejecución	FAC
-IF8	364	12	UEC	ORG
-IF8	364	13	la AF	ORG
-IF8	364	14	la política nacional OBJETIVO DE	ORG
-IF8	364	15	cadenas de valor	ORG
-IF8	364	16	Familias	PRODUCT
-IF8	364	17	caprina	GPE
-IF8	364	18	al menos	FAC
-IF8	364	19	20%	PERCENT
-IF8	364	20	de la línea de base	PERSON
-IF8	364	21	Calificación	ORG
-IF8	364	22	6	CARDINAL
-IF8	364	23	Sostenibilidad de los grupos de comercialización formados	FAC
-IF8	364	24	2.4.4	CARDINAL
-IF8	364	25	que continúan funcionando	ORG
-IF8	364	26	3er	ORDINAL
-IF8	364	27	que comercia-lizan	PERSON
-IF8	364	28	de las OP 0	WORK_OF_ART
-IF8	364	29	1.680	CARDINAL
-IF8	364	30	5 80%	PERCENT
-IF8	364	31	6.400	CARDINAL
-IF8	364	32	80%	PERCENT
-IF8	364	33	1	CARDINAL
-IF8	365	1	Desarrollo de mercados y apoyo al	PERSON
-IF8	365	2	Posicionamiento y comercialización de productos caprinos	FAC
-IF8	365	3	Calificación	ORG
-IF8	365	4	6	CARDINAL
-IF8	365	5	benefician de	ORG
-IF8	365	6	mejorados	PERSON
-IF8	365	7	RIMS 2.4.1	ORG
-IF8	365	8	al mercado	PERSON
-IF8	366	1	compras públicas	PERSON
-IF8	366	2	alianzas estratégicas	GPE
-IF8	366	3	ferias	PERSON
-IF8	366	4	y transformadores	PERSON
-IF8	366	5	Sistema de SyE	FAC
-IF8	366	6	Programa	GPE
-IF8	366	7	Anualmente Semestralmente Coordinación del Programa Unidades	FAC
-IF8	366	8	con Gobiernos Provinciales	WORK_OF_ART
-IF8	366	9	1.1	CARDINAL
-IF8	366	10	adecuados para productos caprinos	ORG
-IF8	366	11	Número de	GPE
-IF8	367	1	faena	ORG
-IF8	367	2	y comercia-lización	PERSON
-IF8	368	1	ferias y supermercados)	PERSON
-IF8	368	2	RIMS 1.4.3	ORG
-IF8	368	3	0 6	CARDINAL
-IF8	368	4	Efecto	ORG
-IF8	368	5	1.2	CARDINAL
-IF8	368	6	OP	ORG
-IF8	368	7	que participan	ORG
-IF8	368	8	que disponen de nuevas capa- cidades	FAC
-IF8	368	9	64	CARDINAL
-IF8	368	10	600	CARDINAL
-IF8	368	11	Actas de foros caprinos	PERSON
-IF8	368	12	UCAR Se ofrece espacio de	PERSON
-IF8	368	13	las cadenas de valor	EVENT
-IF8	369	1	1.2	CARDINAL
-IF8	369	2	caprina	GPE
-IF8	369	3	la agricultura	ORG
-IF8	369	4	Cadenas de valor gestionadas de forma sistémica y participativa	WORK_OF_ART
-IF8	369	5	Número de mesas de cuenca	TIME
-IF8	369	6	que cuentan con la participación de Entes	PERSON
-IF8	369	7	por lo	PRODUCT
-IF8	369	8	0 8	CARDINAL
-IF8	369	9	Actas de mesas de	PERSON
-IF8	369	10	Actas de mesas de cuenca	PERSON
-IF8	369	11	Gobiernos Provinciales	PERSON
-IF8	369	12	2.1	CARDINAL
-IF8	369	13	Planes de Cuenca funcionando	ORG
-IF8	369	14	OP	ORG
-IF8	369	15	Mesa de Cuenca	ORG
-IF8	369	16	MC	PERSON
-IF8	369	17	0 144	CARDINAL
-IF8	369	18	OP	PERSON
-IF8	369	19	90%	PERCENT
-IF8	369	20	Efecto	ORG
-IF8	369	21	2.2	CARDINAL
-IF8	369	22	Organizaciones	PRODUCT
-IF8	369	23	Calificación	ORG
-IF8	369	24	6	CARDINAL
-IF8	369	25	Sostenibilidad de las Empresas	FAC
-IF8	369	26	2.5.2	CARDINAL
-IF8	369	27	un	ORG
-IF8	369	28	promedio de 2.0	FAC
-IF8	369	29	que funcionan después	PERSON
-IF8	369	30	3er	ORDINAL
-IF8	369	31	OP	PERSON
-IF8	369	32	80%	PERCENT
-IF8	369	33	102	CARDINAL
-IF8	369	34	OP	PERSON
-IF8	369	35	30%	PERCENT
-IF8	369	36	al inicio	PERSON
-IF8	369	37	Semestralmente	PERSON
-IF8	369	38	SemestralmenteProducto	ORG
-IF8	369	39	2.2	CARDINAL
-IF8	369	40	OP	ORG
-IF8	369	41	0 80	CARDINAL
-IF8	369	42	Calificación	ORG
-IF8	369	43	6	CARDINAL
-IF8	369	44	2.2.2	CARDINAL
-IF8	369	45	que cuentan con activos productivos	PERSON
-IF8	369	46	cabra mejorada	GPE
-IF8	369	47	que obtienen ingresos	PERSON
-IF8	369	48	3º	CARDINAL
-IF8	369	49	0 5	CARDINAL
-IF8	369	50	2,0	CARDINAL
-IF8	369	51	112	CARDINAL
-IF8	369	52	OP	PERSON
-IF8	369	53	70%	PERCENT
-IF8	369	54	Programa Fichas	ORG
-IF8	369	55	Sistema	GPE
-IF8	369	56	Programa	GPE
-IF8	370	1	Ambiental - UAS	ORG
-IF8	370	2	Programa Semestralmente Coordinación	FAC
-IF8	370	3	Programa Los	FAC
-IF8	371	1	1,5	QUANTITY
-IF8	371	2	por madre	PERSON
-IF8	371	3	verificada por las fichas	PERSON
-IF8	371	4	2.3	CARDINAL
-IF8	371	5	Inversiones	NORP
-IF8	371	6	y asistencia técnica provistos	ORG
-IF8	371	7	OP	ORG
-IF8	371	8	que ejecutan un	ORG
-IF8	371	9	RIMS 1.4.6	ORG
-IF8	371	10	OP	ORG
-IF8	371	11	160	CARDINAL
-IF8	371	12	160	CARDINAL
-IF8	371	13	2.4	CARDINAL
-IF8	371	14	Programa	GPE
-IF8	371	15	8	CARDINAL
-IF8	371	16	Sistema de SyE del Programa Semestralmente Coordinación	FAC
+IF8	107	1	IFAD	ORG
+IF8	109	1	A. Programme	PERSON
+IF8	109	2	20	CARDINAL
+IF8	110	1	six years	DATE
+IF8	110	2	US$25.5 million	MONEY
+IF8	110	3	US$2.7 million	MONEY
+IF8	110	4	1	CARDINAL
+IF8	110	5	US$19.0 million	MONEY
+IF8	110	6	2	CARDINAL
+IF8	110	7	US$3.8 million	MONEY
+IF8	110	8	3	CARDINAL
+IF8	111	1	15	CARDINAL
+IF8	112	1	6 per cent	MONEY
+IF8	112	2	0.001 per cent	MONEY
+IF8	113	1	B. Programme	PERSON
+IF8	113	2	21	DATE
+IF8	114	1	US$7.0 million	MONEY
+IF8	114	2	US$3.0 million	MONEY
+IF8	114	3	IFAD	ORG
+IF8	114	4	US$12.3 million	MONEY
+IF8	114	5	US$1.0 million	MONEY
+IF8	114	6	SSTC	ORG
+IF8	114	7	US$2.2 million	MONEY
+IF8	115	1	1	CARDINAL
+IF8	115	2	2	CARDINAL
+IF8	116	1	1	CARDINAL
+IF8	116	2	Thousands	CARDINAL
+IF8	116	3	IFAD	ORG
+IF8	116	4	IFAD	ORG
+IF8	116	5	Beneficiaries Total Amount % Amount % Amount % Amount % Amount % Amount % 1	ORG
+IF8	117	1	1 796	CARDINAL
+IF8	118	1	10	CARDINAL
+IF8	118	2	2 160	CARDINAL
+IF8	118	3	11	CARDINAL
+IF8	118	4	75	WORK_OF_ART
+IF8	118	5	3	CARDINAL
+IF8	119	1	127 3 135	CARDINAL
+IF8	119	2	4 1 192	CARDINAL
+IF8	119	3	32 2	DATE
+IF8	119	4	329	CARDINAL
+IF8	119	5	62 - - 3 783 15	DATE
+IF8	119	6	12 300	CARDINAL
+IF8	119	7	48 1 017	CARDINAL
+IF8	119	8	972	CARDINAL
+IF8	119	9	12 2 160	CARDINAL
+IF8	119	10	5	CARDINAL
+IF8	119	11	2	CARDINAL
+IF8	119	12	Thousands	CARDINAL
+IF8	119	13	IFAD	ORG
+IF8	119	14	IFAD	ORG
+IF8	119	15	Beneficiaries Total Amount % Amount % Amount % Amount % Amount % Amount % 1	ORG
+IF8	120	1	9	CARDINAL
+IF8	120	2	643	CARDINAL
+IF8	120	3	4 2 160	CARDINAL
+IF8	120	4	2	CARDINAL
+IF8	121	1	123 100	CARDINAL
+IF8	121	2	10 3 338	CARDINAL
+IF8	121	3	97	CARDINAL
+IF8	121	4	3	CARDINAL
+IF8	122	1	725	CARDINAL
+IF8	123	1	662	CARDINAL
+IF8	123	2	615	CARDINAL
+IF8	123	3	400 100	CARDINAL
+IF8	124	1	989	CARDINAL
+IF8	124	2	1 523	CARDINAL
+IF8	124	3	61	CARDINAL
+IF8	124	4	7	CARDINAL
+IF8	125	1	71	CARDINAL
+IF8	125	2	660	CARDINAL
+IF8	125	3	3	CARDINAL
+IF8	125	4	12 300	CARDINAL
+IF8	125	5	48 1 017	CARDINAL
+IF8	125	6	972	CARDINAL
+IF8	125	7	12 2 160	CARDINAL
+IF8	125	8	C. Benefit	PERSON
+IF8	125	9	22	CARDINAL
+IF8	126	1	some 8,000	CARDINAL
+IF8	126	2	approximately 40,000	CARDINAL
+IF8	126	3	5,600	CARDINAL
+IF8	126	4	2,400	CARDINAL
+IF8	127	1	approximately 160	CARDINAL
+IF8	127	2	48	CARDINAL
+IF8	128	1	23	CARDINAL
+IF8	130	1	23.3 per cent	MONEY
+IF8	130	2	US$19.6 million	MONEY
+IF8	131	1	D. Sustainability 24	PERSON
+IF8	132	1	the goat basin	LOC
+IF8	132	2	1	CARDINAL
+IF8	132	3	SSTC	ORG
+IF8	133	1	E. Risk	PERSON
+IF8	133	2	25	CARDINAL
+IF8	135	1	UCAR	ORG
+IF8	135	2	the goat basin	LOC
+IF8	135	3	2015	DATE
+IF8	135	4	Transparency International Corruption Perceptions Index	EVENT
+IF8	135	5	32	DATE
+IF8	135	6	IFAD	ORG
+IF8	136	1	UCAR	ORG
+IF8	136	2	IFAD	ORG
+IF8	137	1	IFAD	ORG
+IF8	138	1	26	CARDINAL
+IF8	139	1	IFAD	ORG
+IF8	140	1	IFAD	ORG
+IF8	140	2	the IFAD Strategic Framework 2016-2025	ORG
+IF8	142	1	27	CARDINAL
+IF8	143	1	the Federal and Participative Agri-food	ORG
+IF8	143	2	2010/2016	DATE
+IF8	144	1	IFAD	ORG
+IF8	144	2	2010	DATE
+IF8	146	1	28	CARDINAL
+IF8	149	1	29	CARDINAL
+IF8	150	1	Argentina	GPE
+IF8	151	1	SSTC	ORG
+IF8	153	1	30	CARDINAL
+IF8	154	1	the Argentine Republic	GPE
+IF8	154	2	IFAD	ORG
+IF8	156	1	31	CARDINAL
+IF8	157	1	The Argentine Republic	GPE
+IF8	157	2	IFAD	ORG
+IF8	158	1	32	CARDINAL
+IF8	159	1	the Agreement Establishing IFAD	ORG
+IF8	160	1	VII	ORG
+IF8	161	1	33	CARDINAL
+IF8	162	1	the Executive Board	ORG
+IF8	162	2	the Argentine Republic	GPE
+IF8	162	3	twelve million	CARDINAL
+IF8	162	4	US$12,300,000	MONEY
+IF8	163	1	Fund	ORG
+IF8	163	2	the Argentine Republic	GPE
+IF8	163	3	one million seventeen thousand dollars	MONEY
+IF8	163	4	1,017,000	MONEY
+IF8	164	1	Kanayo F. Nwanze	PERSON

@@ -6,11 +6,6 @@ WB14	1	4	13 Project	MONEY
 WB14	1	5	PID/ISDS	ORG
 WB14	1	6	Concept Stage	ORG
 WB14	1	7	26-Mar-2018	TIME
-WB14	1	8	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	1	9	P165873	ORG
-WB14	1	10	Feb 18, 2018	DATE
-WB14	1	11	2	CARDINAL
-WB14	1	12	13	CARDINAL
 WB14	2	1	Basic Project Data OPS TABLE Country Project ID Parent Project ID	ORG
 WB14	2	2	Samoa P165873 Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
 WB14	2	3	P165873)	ORG
@@ -23,11 +18,7 @@ WB14	3	4	0.00	CARDINAL
 WB14	3	5	Total World Bank Group	ORG
 WB14	3	6	21.00	CARDINAL
 WB14	3	7	World Bank	ORG
-WB14	3	8	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	3	9	P165873	ORG
-WB14	3	10	Feb 18, 2018	DATE
-WB14	3	11	3	CARDINAL
-WB14	3	12	13	CARDINAL
+WB14	3	8	INTRODUCTION	ORG
 WB14	4	1	Samoa	GPE
 WB14	4	2	Samoa	GPE
 WB14	4	3	Pacific Island Country	LOC
@@ -95,13 +86,9 @@ WB14	28	3	2017	DATE
 WB14	28	4	5	CARDINAL
 WB14	28	5	Samoa Bureau of Statistics	ORG
 WB14	28	6	Central Bank of Samoa	ORG
-WB14	28	7	P165873	ORG
-WB14	28	8	Feb 18, 2018	DATE
-WB14	28	9	4	CARDINAL
-WB14	28	10	13	CARDINAL
-WB14	28	11	2015	ORDINAL
-WB14	28	12	Samoa Agriculture Survey	ORG
-WB14	28	13	97 percent	PERCENT
+WB14	28	7	2015	ORDINAL
+WB14	28	8	Samoa Agriculture Survey	ORG
+WB14	28	9	97 percent	PERCENT
 WB14	30	1	Samoa	GPE
 WB14	30	2	between 2009 and 2015	DATE
 WB14	30	3	5.2 percent	PERCENT
@@ -153,13 +140,6 @@ WB14	50	2	more than 625 square yards	QUANTITY
 WB14	50	3	more than 20	CARDINAL
 WB14	50	4	more than 20	CARDINAL
 WB14	50	5	more than 20	CARDINAL
-WB14	51	1	8	CARDINAL
-WB14	51	2	9	CARDINAL
-WB14	51	3	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	51	4	P165873	ORG
-WB14	51	5	Feb 18, 2018	DATE
-WB14	51	6	5	CARDINAL
-WB14	51	7	13	CARDINAL
 WB14	53	1	Samoa	GPE
 WB14	54	1	the Ministry of Agriculture and Fisheries	ORG
 WB14	54	2	MAF	ORG
@@ -208,11 +188,6 @@ WB14	70	7	Tuvalu	PERSON
 WB14	70	8	one	CARDINAL
 WB14	70	9	the Pacific Islands Forum Fisheries Agency	ORG
 WB14	70	10	FFA	ORG
-WB14	72	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	72	2	P165873	ORG
-WB14	72	3	Feb 18, 2018	DATE
-WB14	72	4	6	CARDINAL
-WB14	72	5	13	CARDINAL
 WB14	73	1	Samoa	GPE
 WB14	73	2	International Development Association	ORG
 WB14	73	3	IDA	ORG
@@ -238,11 +213,6 @@ WB14	83	5	SPC	ORG
 WB14	83	6	the Nauru Agreement Office	ORG
 WB14	83	7	Pacific Islands Forum	LOC
 WB14	83	8	PIFS	ORG
-WB14	83	9	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	83	10	P165873	ORG
-WB14	83	11	Feb 18, 2018	DATE
-WB14	83	12	7	CARDINAL
-WB14	83	13	13	CARDINAL
 WB14	84	1	1	CARDINAL
 WB14	85	1	P115351	ORG
 WB14	85	2	last year	DATE
@@ -268,12 +238,7 @@ WB14	107	2	CBFMP	ORG
 WB14	107	3	1995	DATE
 WB14	108	1	CBFMP	ORG
 WB14	109	1	Over 100	CARDINAL
-WB14	110	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	110	2	P165873	ORG
-WB14	110	3	Feb 18, 2018	DATE
-WB14	110	4	8	CARDINAL
-WB14	110	5	13	CARDINAL
-WB14	110	6	cucumber	DATE
+WB14	110	1	cucumber	DATE
 WB14	112	1	GoS	GPE
 WB14	113	1	Samoa	GPE
 WB14	113	2	IDA	ORG
@@ -321,13 +286,8 @@ WB14	131	1	approximately 60%	PERCENT
 WB14	132	1	12	CARDINAL
 WB14	132	2	Upolu	ORG
 WB14	132	3	Savaii	ORG
-WB14	133	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	133	2	P165873	ORG
-WB14	133	3	Feb 18, 2018	DATE
-WB14	133	4	9	CARDINAL
-WB14	133	5	13	CARDINAL
-WB14	133	6	10,000 km2	QUANTITY
-WB14	133	7	131000 km2	QUANTITY
+WB14	133	1	10,000 km2	QUANTITY
+WB14	133	2	131000 km2	QUANTITY
 WB14	134	1	Samoa	GPE
 WB14	134	2	Apia (Upolu	ORG
 WB14	134	3	Savaii	PRODUCT
@@ -376,11 +336,6 @@ WB14	146	2	Thomas John Callander	PERSON
 WB14	146	3	Nicholas John Valentine	PERSON
 WB14	146	4	Safeguard Policies Triggered	ORG
 WB14	151	1	small veterinary laboratory	ORG
-WB14	151	2	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	151	3	P165873	ORG
-WB14	151	4	Feb 18, 2018	DATE
-WB14	151	5	10	CARDINAL
-WB14	151	6	13	CARDINAL
 WB14	153	1	Samoa	GPE
 WB14	155	1	ESMF	ORG
 WB14	155	2	the World Group’s Environmental, Health and Safety Guidelines	ORG
@@ -391,12 +346,8 @@ WB14	157	3	CERC	ORG
 WB14	157	4	the World Bank’s Rapid Response	ORG
 WB14	158	1	ESMF	ORG
 WB14	160	1	ESMF	ORG
-WB14	161	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	161	2	P165873	ORG
-WB14	161	3	Feb 18, 2018	DATE
-WB14	161	4	11	CARDINAL
-WB14	161	5	13	CARDINAL
-WB14	161	6	4.36	MONEY
+WB14	161	1	OP	PERSON
+WB14	161	2	4.36	MONEY
 WB14	164	1	ESMF	ORG
 WB14	165	1	4.09	CARDINAL
 WB14	165	2	SACEP Integrated Pest Management	ORG
@@ -414,12 +365,7 @@ WB14	170	1	OP	PERSON
 WB14	173	1	RPF	GPE
 WB14	176	1	4.37	CARDINAL
 WB14	177	1	International Waterways OP/BP	ORG
-WB14	178	1	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	178	2	P165873	ORG
-WB14	178	3	Feb 18, 2018	DATE
-WB14	178	4	12	CARDINAL
-WB14	178	5	13	CARDINAL
-WB14	178	6	Disputed Areas OP/BP	ORG
+WB14	178	1	Disputed Areas OP/BP	ORG
 WB14	179	1	E. Safeguard Preparation Plan Tentative	ORG
 WB14	179	2	Appraisal Stage PID/ISDS Aug	ORG
 WB14	180	1	Appraisal Stage PID/ISDS	ORG
@@ -428,20 +374,3 @@ WB14	180	3	Facility	PERSON
 WB14	180	4	E&S	ORG
 WB14	180	5	ESMF	ORG
 WB14	181	1	mid-August	DATE
-WB14	182	1	CONTACT POINT World Bank Stephane Forman	ORG
-WB14	182	2	Cary Anne Cadman Sr Agricultural Spec	ORG
-WB14	183	1	Borrower/Client/Recipient Ministry of Finance	ORG
-WB14	183	2	Implementing Agencies Ministry of Agriculture & Fisheriers	ORG
-WB14	183	3	David Hunter	PERSON
-WB14	183	4	The World Bank Samoa Agriculture & Fisheries Productivity and Marketing Project	ORG
-WB14	183	5	P165873	ORG
-WB14	183	6	Feb 18, 2018	DATE
-WB14	183	7	13	CARDINAL
-WB14	183	8	13	CARDINAL
-WB14	183	9	Washington	GPE
-WB14	183	10	202	CARDINAL
-WB14	183	11	473-1000	CARDINAL
-WB14	183	12	Stephane Forman	PERSON
-WB14	183	13	Cary Anne Cadman	PERSON
-WB14	183	14	Nathan M. Belete 22-Mar-2018	ORG
-WB14	183	15	Michel Kerf	PERSON

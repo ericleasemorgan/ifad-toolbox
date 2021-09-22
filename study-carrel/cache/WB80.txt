@@ -1,0 +1,938 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+CONCEPT STAGE
+Report No.: PIDISDSC18688
+
+Date Prepared/Updated: 03-Aug-2016
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Angola Project ID: P159052
+Parent 
+Project ID 
+(if any):
+
+Project Name: Angola: Commercial Agriculture Development Project (P159052)
+Region: AFRICA
+Estimated 
+Appraisal Date:
+
+17-Jan-2017 Estimated 
+Board Date:
+
+18-Apr-2017
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): Republic of Angola
+Implementing 
+Agency:
+
+Ministry of Agriculture
+
+Financing (in USD Million)
+Financing Source Amount
+Borrower 0.00
+International Bank for Reconstruction and Development 230.00
+Financing Gap 0.00
+Total Project Cost 230.00
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Concept 
+Review 
+Decision:
+
+Track II - The review did authorize the preparation to continue
+
+Is this a 
+Repeater 
+project?
+
+No
+
+Other Decision 
+(as needed):
+
+B. Introduction and Context
+
+Country Context
+
+1.  The Republic of Angola is still recovering from a turbulent past despite oil and mineral wealth. 
+With approximately 25.8 million inhabitants,  it is the seventh most populated country in Africa. 
+Angola is one of the largest oil exporters in the region, and is rich in diamonds and other mineral 
+resources. Angola became independent from Portugal in 1975, but was then engulfed in a 27-year 
+civil conflict, which ended with a peace accord in 2002. Despite the country➢❨ s upper-middle 
+income status with GDP per capita of US$5,400 in 2014, poverty remains pervasive with 30.1 
+percent of the population living below the international poverty line in 2008. 
+ 
+2.     Propelled by the end of the civil conflict and the expansion of the oil sector, the Angolan 
+economy posted an average growth rate of 12.5 percent between 2004 and 2008. This period of 
+high growth was interrupted by the 2008-09 global financial crisis. Following a slowdown 
+between 2009 and 2011, when GDP grew at 2.5 percent on average, fast growth resumed in 2012 
+(7.6 percent). 
+ 
+3.  Limited progress was made in improving social indicators during the oil boom years. Angola's 
+remarkable growth has not been equally shared. Large parts of the population lack access to basic 
+services. Life expectancy is 52.3 years and the country ranks 149th out of 188 in the Human 
+Development Index. Income inequality is high and marked disparities in regional and urban/rural 
+poverty persist. More than half of Angola➢❨ s poor are located in rural areas and depend almost 
+exclusively on agriculture for their livelihood. Among the most vulnerable groups in the country 
+are women-headed agriculture households, which represent 33 percent of agriculture households. 
+ 
+4.  Angola is experiencing a major macroeconomic shock due to the dramatic oil price drop since 
+2014. This is not surprising as oil represents about 30 percent of GDP, over 95 percent of export 
+earnings, and 75 percent of government revenue. The country faces a scarcity of foreign exchange 
+(FX), fiscal and external deficits, higher inflation and weakened economic activity. The impact on 
+households are considerable. Lower government expenditures and a reduced public sector wage 
+bill have resulted in reduced private consumption, compounded by the elimination of fuel 
+subsidies. Because of the crisis, GDP growth is forecasted at just 0.9 percent in 2016, followed by 
+a rebound of about 3 percent in 2017 . 
+ 
+5. The government has implemented bold fiscal measures since mid-2015 to address the effects of 
+the oil price drop, but challenges remain on the monetary front. A revised budget was adopted in 
+March 2015 to reflect the major shortfall in revenue, with oil prices dropping from US$80 in the 
+initial budget to US$40. The government cut capital expenditure by nearly half, and significantly 
+reduced fuel subsidies. The Strategy to Exit the Crisis brought further fiscal consolidation 
+measures such as the institution of a new tax on financial transactions and the cancellation of 
+double payments to former combatants. The adjustment however has not progressed much on the 
+monetary and external sector. Although interest rates have risen and the currency has devalued, 
+inflation reached 29.2 percent in May and the spread between the official and parallel exchange 
+rate has more than doubled. Imports have been contained and international reserves have been 
+kept high due to strong administrative controls on access to foreign exchange (FX). As a result, 
+companies are postponing investments and reducing production because they cannot import the 
+inputs needed. 
+ 
+6. Despite recent reforms, Angola➢❨ s investment climate remains challenging. The country 
+underperforms in competitiveness, business environment, and governance rankings. For example, 
+the World Economic Forum➢❨ s Global Competitiveness Report (GCR) 2014-2015 ranked 
+
+Angola 140th out of 144 economies while the country ranks 181st out of 189 economies in the 
+Doing Business 2016 report, suggesting a complex regulatory environment. Angola lags other 
+Sub-Saharan Africa countries in the 2015 Worldwide Governance Indicators. Recent reforms 
+include a reduction in the costs and requirements to start a business, a new Labor Code, and an 
+overhaul of investment policy. Other efforts are underway to modernize tax and customs 
+administration, and the justice sector. Well implemented, they could contribute to a more 
+effective and transparent government interaction with the private sector. However, institutional 
+weaknesses and governance issues defy reform implementation. Overall, Angola➢❨ s business 
+environment is characterized by cumbersome regulations, constrained competition and 
+considerable government presence in economic activity. Limited access to finance, poor 
+infrastructure, weak workforce skills and corruption are the main constraints mentioned by firms. 
+ 
+7. Diversifying the economy away from oil is an urgent priority and part of the Government➢❨ s 
+response to the oil price crisis. Dependency on oil leaves Angola vulnerable to price and 
+production shocks. For years, an overvalued exchange rate contributed to reduce the 
+competitiveness of the non-oil sectors. The government crisis response strategy, presented in 
+February 2016, aims at reducing the reliance on oil to generate revenues, substitute imports and 
+promote non-traditional exports. Agricultural production plays a large role in the government➢❨  
+strategy. Diversifying the economy will require economic transformation and eliminating 
+obstacles to private investment, as well as efficient use of government resources to address 
+infrastructure bottlenecks, and invest in human capital.
+Sectoral and Institutional Context
+8.  Angola➢❨ s agriculture potential remains largely untapped. The country has an abundance of 
+land, water, and diversity of climatic and soil conditions for the production of a large variety of 
+crops, but only 8 percent of its 58 million hectares of arable land is currently cultivated .  The 
+agricultural sector in Angola currently represents around 5 percent of GDP, compared to 57.7 
+percent for industry, including extractive, and 37.7 percent for services, and could contribute 
+more to employment creation, especially for the youth. Nonetheless, agriculture is the main 
+source of income for 90 percent of the 8.5 million Angolans living in rural areas (about 37 percent 
+of the population). 
+ 
+9.  Once a large exporter of coffee, cotton, sisal, sugar cane, bananas and tobacco, Angola➢❨ s 
+agriculture sector suffered widespread destruction during the conflict and has not fully recovered 
+since. Before the war the country was self-sufficient in all food crops except wheat. The exodus 
+of Portuguese settlers after independence and the ensuing civil war that ravaged the country 
+meant the loss of technical capacity and infrastructure destruction, cutting production areas from 
+markets. Roads, bridges and other rural infrastructure were largely destroyed. Large-scale 
+population displacement in rural areas and land mines➢❨ as many as 10 million➢❨ further 
+constrained the sector recovery.  
+ 
+10.  Production has been growing in recent years and the country has reached self-sufficiency in 
+sweet potatoes and manioc, but Angola still relies on imports for most of its food consumption 
+needs. For example, locally produced chicken supply only 40 percent of the local demand and 
+production is limited by the lack of feed. In general, Angola has greater opportunities to compete 
+with imports of perishable goods, including fruits, vegetables, and eggs, and local production of 
+these goods has increased in recent years. Statistics on agriculture production are unreliable and 
+outdated, but should improve with the planned agricultural census. According to MINAGRI 
+2013/2014 production data, major crops based on volume include sweet potatoes, cassava, 
+
+bananas, maize, pineapples, citrus fruits, beans, peanuts, and tomatoes. Agriculture exports 
+represent less than 0.8 percent of total exports. Excluding fish, where little value is added in 
+country, agriculture exports amount to just US$3.5 million. Coffee accounts for 43 percent, 
+followed by non-alcoholic beverages (32 percent), beer (9 percent), fruit juice (5 percent) and 
+medicinal plants (3 percent). The country is slowly opening new export markets including to 
+neighboring DRC. It recently restarted exporting bananas to Portugal, 42 years later, with a 
+shipment of 17 tons.  
+ 
+11. Smallholders represent over 80 percent of agriculture production and 92 percent of land under 
+cultivation. A small but growing formal distribution sector is establishing partnerships with local 
+producers to ensure quality supply of primarily fresh produce. Still, most agriculture production is 
+used for self-consumption or sold through informal channels. 
+ 
+12. Macroeconomic conditions and the business climate constrain private investment in 
+agriculture. An overvalued exchange rate in recent years and the current scarcity of foreign 
+exchange affect the sector competitiveness and hamper private investment. The challenging 
+business environment, including high cost of doing business, uncompetitive input markets, and 
+insecurity of land tenure, as well as government crowding out the private sector, further reduce 
+the sector➢❨ s attractiveness to private investors. However, based on discussions with private 
+operators, investment opportunities exist in the production and processing for products such as 
+horticulture, grains and beans, poultry and livestock, as well as aquaculture. While foreign 
+exchange shortages are resulting in some of these investments being put on hold, they could 
+materialize once macroeconomic conditions improve. New investment could bring much needed 
+capital and know-how to the commercial agriculture sector. 
+ 
+13. Access to finance is a serious hindrance to commercial agricultural development. 
+Notwithstanding the high credit growth from 2004 to 2014 (going from 5 percent to 22 percent of 
+GDP), the share of credit going to agriculture has remained very low at less than 5 percent of 
+overall credit provided. Additionally, despite the general increase in access to finance over the 
+five years between 2010 and 2014 (with an increase of two-thirds of branches, doubling of ATMs, 
+and tripling of Points of Sale), there has been a clear urban/rural divide in access with Luanda 
+accounting for the bulk of financial sector outreach. Specifically, Luanda, which has 27 percent of 
+the population, accounted for 83 percent of credit, 94 percent of deposits and the majority of bank 
+branches, ATMs and POS in 2015. Government programs such as the Angola Investe, offer 
+subsidized credit, guarantees and a public risk capital fund, however most supported projects 
+belong to non-agribusiness sectors and tend to be concentrated in Luanda. The Angola 
+Development Bank also offers some lines of credit to the agriculture sector. Finally, the enabling 
+environment for promoting agriculture finance (including agriculture insurance, warehouse 
+receipts, equipment leasing, moveable collateral registry) is yet to be developed. 
+ 
+14.  Infrastructure weaknesses hinder the creation of value addition through processing, and the 
+integration of small producers into value chains. Market linkages are constrained by poor road 
+and storage infrastructure. The total road network is about 76,000 km, many in need for 
+rehabilitation, and the road density is 6 km /100 kmÂ², one of the lowest in Southern Africa. The 
+rural access index is 42 percent, which is the fourth lowest in the world after South-Sudan, Chad 
+and Mali (WDI). Although the government has heavily invested in improving the transport 
+network over the last decade, including road and railways, limited budget is available for rural 
+roads. Moreover, the limited reach of the electricity grid and the high cost of operating generators 
+
+hamper the competitiveness of agribusiness, including agro-processing, irrigated agriculture, and 
+livestock. The sector also suffers from lack of other adequate dedicated public services and 
+infrastructure, such as phytosanitary and quality systems and commercial infrastructure. 
+ 
+15.   Lack of technical knowledge and access to inputs further constrain commercial agriculture 
+development. Poor agronomic practices, limited use of improved seeds, fertilizers, and irrigation 
+technology, undermine productivity, growth and diversification. Most agricultural inputs, 
+including fertilizers and machinery, are imported at high cost, and remain out of reach of small 
+producers. These shortcomings are compounded by the very low technical capacity all along the 
+value chain. 
+ 
+16. Responsibility for agriculture policy and program development falls under the Ministry of 
+Agriculture (MINAGRI). The Ministry is represented at the provincial level by the Provincial 
+Directorates of Agriculture (DPA), and at the municipal level by the EstaÃ§Ã£o de 
+Desenvolvimento AgrÃ¡rio (EDAs). MINAGRI➢❨ s capacity for program design and 
+implementation has room for significant improvement. The World Bank Market Oriented 
+Smallholder Agriculture Project (MOSAP), which closed in March 2016, and its follow up 
+Smallholder Agriculture Development and Commercialization Project (SADCP), approved by the 
+Board of Directors on July 5, 2016, include activities to strengthen MINAGRI➢❨ s capacity at the 
+local, provincial and national levels. This project will build on and complement these efforts. 
+ 
+17.   Other Government agencies are involved in the development of the agribusiness sector. 
+These include the Ministry of Economy, which manages the Angola Investe program to provide 
+subsidized credit to productive investments, the Angola Development Bank, the Ministry of 
+Commerce and Industry, which is in charge of investment promotion (through APIEX) and  the 
+agriculture commercialization program (PAPAGRO). Other relevant agencies include the 
+Ministry of Construction (for road construction), Ministry of Transport, and Ministry of Energy 
+and Water. The coordination among the various Government agencies in the implementation of 
+complex multisectoral projects to support agribusiness development needs substantial 
+strengthening. This is hindered by limited technical capacity and a centralized approach to 
+decision-making. 
+ 
+18.  In an effort to spur commercial agriculture, the government has invested in spatial approaches 
+and infrastructure development. Government-sponsored projects range from integrated socio-
+economic projects, following Israel➢❨ s Kibutz model (Aldeia Nova) to large-scale agro-
+industrial poles such as the 400,000 ha Capanda development pole, as well as irrigated perimeters 
+with plots for large, medium and small-scale producers. These projects are often financed by 
+foreign lines of credit, and management is frequently contracted out to foreign firms, which bring 
+the technology and know-how to run them. A state owned company, Gesterra, sponsors many of 
+these projects. While some of these projects have achieved productivity close to international 
+good practices , others are still not operational or have failed to attract private producers (e.g. 
+Family Aviculture Project). Overall, the financial and economic viability of these projects on a 
+purely commercial basis needs to be confirmed. Other government investments include 
+distribution centers and cold storage, some of which remain underutilized. Support infrastructure 
+is still insufficient and existing facilities need to be more effectively used. 
+ 
+19.  Low and declining public spending in agriculture highlights the need for mobilizing private 
+investment. The share of agriculture in the national budget declined from 1.10 percent in 2013 
+
+
+
+(US$701.76 million) to 0.41 percent (US$543.9 million) in 2015. In the current constrained fiscal 
+environment, there is a need to improve the effectiveness and efficiency of public expenditures to 
+develop strategic infrastructure, strengthen institutional capacity and improve research and 
+extension services, and support smallholders. More efforts are needed to attract private 
+investment and promote public-private partnerships under transparent criteria. The Commercial 
+Agriculture Development project will contribute to these goals. 
+ 
+20.  Weak public sector governance and poor capacity have considerably limited agriculture 
+development efforts in the past. These issues affect resource allocation across a range of key areas 
+in the agriculture sector, from access to land to financing of irrigation, agricultural infrastructure, 
+and inputs. For example, one bottleneck for investment in agriculture is secured land access: land 
+allocation procedures and coexistence of several legal systems for recognition and governance of 
+land rights in Angola (state law and traditional rights) weaken legal certainty and hinder the 
+sector➢❨ s development. To attract transformative private investments in the agriculture sector, 
+particular attention will need to be paid to: (i) legal and regulatory measures; (ii) institutional 
+mechanisms and delivery platforms; and (iii) transparency and social accountability. Besides 
+involving several agencies/departments within the Ministry of Agriculture, the Project will need 
+to work closely with, and reinforce the capacities of, several public institutions that have critical 
+influence on agricultural investment generation.
+Relationship to CAS/CPS/CPF
+21. Supporting integrated national economic diversification is one of the pillars in the Country 
+Partnership Strategy (CPS) FY14-16. Development of the agriculture sector, through productivity 
+increases and market linkages, is seen as an important source of growth, employment creation and 
+poverty reduction. Making progress toward the twin goals is found to be feasible building on the 
+adoption of pro-poor growth strategies and policies. The draft Performance and Learning Review 
+(PLR) envisions an extension of the CPS until FY18 and a reformulation of the objectives to 
+respond to the macroeconomic challenges emerging from the oil price drop. The draft PLR 
+maintains economic diversification as one of the key objectives of the CPS. A specific outcome 
+related to enhancing productivity and competitiveness in the agriculture sector has been proposed, 
+which is directly related to the activities of this project. 
+ 
+22.  This Project will also build synergies with other World Bank Group projects, such as the 
+Smallholder Agriculture Development and Commercialization Project (SACDP, P154447) and 
+Angola Statistics Project (P157671). Close coordination between the IFC and the Bank (IBRD) 
+will play an important role to mobilize investment, sector financing and PPPs, where each 
+institution will contribute on the basis of its respective mandates. 
+ 
+23.  Economic diversification and the development of commercial agriculture are critical 
+priorities for the government, as outlined in the National Development Plan (NDP) 2013-2017. 
+The National Development Plan seeks to promote an enlargement of the productive base to 
+increase employment, leveraging the country➢❨ s natural and human resources. It underscores the 
+role of the private sector as the engine of economic growth, with the public sector playing a 
+leveraging role. For the agriculture sector, the NDP objective is to achieve sustainable 
+development building on the country➢❨ s natural resources and competitive advantage to ensure 
+food security and self-sufficiency, as well as maximizing regional and international market 
+opportunities. Developing a competitive agriculture sector, with increased private investment and 
+market linkages for smallholders is an objective that will be supported by the activities of this 
+project. The project also contributes to the objectives of Angola➢❨ s Medium Term Agriculture 
+
+
+
+Development Plan 2013-2017, which seeks to foster agricultural and rural transformation, based 
+on the development of smallholder agriculture, cooperatives and public-private partnerships, as 
+well as contribute to the country➢❨ s industrialization.
+
+C.  Proposed Development Objective(s)
+
+Proposed Development Objective(s) (From PCN)
+24.  The proposed project development objective (PDO) is to promote commercial agriculture 
+development, increasing production and employment within selected value chains, in targeted 
+areas in Angola.
+
+Key Results (From PCN)
+25.  The project strategy to achieve the PDO is to support the transformation of Angola➢❨ s 
+agriculture towards a greater role for the private sector, building on existing programs, and 
+focusing on value chains with the largest growth and employment creation potential. More private 
+investment in agriculture is needed to increase production, productivity and commercialization, 
+and to help create employment opportunities for the Angolan poor. This will be achieved by 
+identifying and helping prepare Private-Public Partnerships (PPPs) ➢❨  private investment 
+opportunities in selected value chains, and providing support to Small and Medium Enterprises 
+(SMEs), including cooperatives, and producer organizations, in those value chains to increase 
+their production, productivity and linkages with larger firms. In order to create the conditions for 
+private investment the project will support investments in supporting infrastructure, as well as 
+improvements in the regulatory environment and government capacity to play a catalytic role for 
+the commercial agriculture sector development. 
+ 
+26.  Success in achieving the PDO will be measured by the following PDO-level indicators: (i) 
+increased investment in dollar terms; (ii) support infrastructure constructed or rehabilitated by the 
+project; and (iii) jobs created in the beneficiary firms. 
+ 
+27.  External factors may affect the realization of the PDO: (i) evolution of international markets 
+(e.g., commodities prices, growth, and external financing), (ii) security and/or disease outbreak in 
+Angola, and (iii) global warming, that may worsen droughts and lead to severe floods.
+
+D.  Concept Description
+
+28.  The overall approach is to foster commercial agriculture  through a set of integrated 
+investments in hard and soft infrastructure, and developing an enabling environment for private 
+participation in the sector. By simultaneously intervening along multiple dimensions, the project 
+aims to remove key constraints to business formation and strengthen the platform for growth in 
+high-potential value chains. World Bank support is required first to identify and prioritize these 
+investments; and to develop the capacity to procure them and manage their execution. The project 
+will also seek to mobilize private funds for the sector through PPPs and targeted investment 
+promotion. At the same time, the project will support activities to create more conducive 
+conditions for the future development of commercial agriculture, including regulatory reforms, 
+and strengthening of research capacity. Strong coordination among the government agencies 
+involved (agriculture, transport, energy, commerce, etc.) and building a constituency for the 
+project among public, private and non-governmental stakeholders will be necessary, as suggested 
+by previous experience in supporting integrated interventions along agriculture value chains. 
+ 
+
+29.  Initially, two value chains will be supported and this would be scaled up during the life of the 
+project to a maximum of five. Criteria for selecting value chains will be based on the 
+competitiveness of specific value chain segments, potential impact (on jobs, food production, 
+export diversification, and opportunities for upgrading), and readiness (existing production, 
+necessary investments, and sector organization). Identifying competitive value chains in Angola 
+will require a more in-depth analysis of demand, current cost structure and existing constraints. 
+Two initial value chains will be selected during preparation, in consultation with the Government 
+and private sector stakeholders. Existing studies of priority value chains for the Government, 
+including horticulture, livestock, chicken and dairy, and by extension maize and soy, provide 
+limited analysis on existing cost structures to assess their competitiveness. Preliminary work on 
+the poultry sector inspired by the value chain segmentation methodology identified opportunities 
+for competitive production of fresh chicken to supply the local market, provided reliable supply of 
+local feed can be secured (see Annex 3). The Government has requested initial focus on poultry 
+and by extension maize/soy as a priority due to growing demand, recent growth and the large 
+share of chicken in the country➢❨ s imports. Support to export-oriented value chains, such as 
+coffee, another government priority, also requires careful consideration of the competitiveness of 
+Angola vis-➃❫ -vis other countries. Analytical work supported by the project will inform public-
+private dialogue to agree on priority subsectors and constraints. The experience and capacity 
+developed by the project will enable supporting other value chains in the future. 
+ 
+30. The project will be geographically concentrated in the areas (to be defined during 
+preparation), with the highest agricultural potential to meet domestic consumption (as would be 
+the case for example in the poultry/maize/soy value chain) and export (e.g. coffee value chain). 
+Other factors to select geographic areas include having a critical mass of potential commercially 
+oriented producers, and access to downstream value chain activities and markets through 
+proximity to agrologistical networks and platforms. 
+ 
+31.  Moreover, the proposed project will ensure that: (1) equal opportunities and support will be 
+provided to women➢❨ s and youth groups to participate in several aspects of the project; (2) 
+training in gender awareness will be provided using appropriate media, language and gender-
+sensitive approaches and methods; and (3) a gender informed M&E system will be implemented, 
+will collect and present gender-disaggregated data on project beneficiaries. 
+ 
+32. Given the institutional weaknesses, governance, and other risks, a flexible and modular design 
+is called for. The project must remain flexible to potential delays in specific components, 
+changing implementation realities, and to the response of private sector supply and demand. It 
+should allow subcomponents to be removed or amended without compromising the overall 
+project framework and the causal chain of activities.  Starting with a focus on existing investment 
+opportunities and just two value chains will help test the approach while striving to deliver results 
+early on in the project. In parallel, efforts to build client project implementation capacity and to 
+improve the enabling environment will start.  Once key conditions   are established, such as: (i) 
+progress in business environment reforms, PPD, analytical and implementation capacity (ii) 
+selected area and pilot value chains under implementation, in compliance with all activities 
+planned for the first two years of the project life, work on other value chain will be undertaken (to 
+be defined during preparation). Therefore, the proposed time for the project implementation is 6 
+years. 
+ 
+33.  With an amount of $230 million,  the project will support commercial agriculture 
+
+
+development through three interrelated components: (1) Agribusiness development by means of 
+mobilizing investment, including PPPs, providing financial and non-financial support to value 
+chain actors and developing support infrastructure (rural roads, storage, irrigation, and energy); 
+(2) Support to create an enabling environment for commercial agriculture; and (3) Project 
+management, coordination, and public-private dialogue. 
+ 
+34.  Component 1 ➢❨  Agribusiness Development (US$ 190 million). This Component will 
+address the following challenges: (i) underinvestment by SMEs in inputs, technology and skills 
+development due to access to credit constraints and information failures; (ii) insufficient linkages 
+among value chain actors due to coordination and information failures and (iii) underprovision of 
+infrastructure oriented to underpin market-oriented agriculture. This component aims to mobilize 
+investments in agribusiness and support improvements in productivity, quality assurance and 
+market linkages through the following subcomponents: 
+ 
+35. Subcomponent 1.1 Technical and financial support to SMEs development.  This 
+subcomponent will have a value chain focus and will aim to (i) support SME development, 
+including market-ready producer groups and cooperatives, and help them overcome constraints in 
+access to credit and managerial/technical knowledge; and (ii) support links and partnerships 
+between large, medium and small-scale producers and purchasers through business alliances. As a 
+result of project investments, enhanced capabilities and links to larger firms, it is expected that 
+SMEs will be able to grow their business, improve productivity and quality, strengthen market 
+connections, and create jobs. An important aspect during preparation will be to assess the actual 
+size of the SME sector in the pilot value chains and adapt the intervention design to uptake, 
+capacity, and sustainability considerations. 
+ 
+(a) This subcomponent will provide support through a competitive  matching grant facility: 
+ 
+1. Provision of technical assistance for pre-investments. This window will provide financial 
+resources for the development of innovative business and linkages between small producers and 
+other actors along the value chain. 
+ 
+The competitive grant will provide ➢❨ startup➢❨  capital for promoting the introduction of new 
+sustainable practices and technologies, and processes that improve the competitiveness of 
+agricultural production by SMEs. The grant will consider three main levels of support to be 
+further defined during preparation. These could include: (i) extension and technology 
+development; (ii) studies for business alliances, including the formulation of business plans and 
+associated productive subprojects and pilots➢❨  investments; and (iii) capacity building for 
+entrepreneurs, individually or as member of a formal group (e.g. associations, cooperatives, 
+farmer organizations).  
+ 
+2. Establish a Matching Grant facility for Value Chain Development.  . This window will 
+finance investments based on the business plans directly linked to the selected value chains and 
+will have a geographical focus.  
+ 
+SMEs investments will be identified through a competitive process based on a review of feasible 
+business plans and selected proposals identifying SMEs financial contribution through a matching 
+grant (at least 60% of total investment, to be confirmed during preparation), and presenting social 
+environmental and economic sustainability analysis.  
+
+
+The grant will combine innovation with a focus on partnerships with the market and will consider 
+to implement investments designed based on business plans agreed with their business partners. 
+The objective of each proposal would be to reach the product specifications (quantity, quality, 
+delivery, etc.) agreed and established in the business plan. Eligible activities that would be 
+financed could include expenditures at the level of both individual producers and their 
+organizations (e.g. cooperatives), such as: (i) minor on-farm infrastructure and working capital, 
+(ii) technical assistance services, (iii) agriculture inputs, equipment, production facilities 
+(nurseries, greenhouses), (iv) value addition investments (post-harvest processing and storage, 
+packaging), soil and water conservation measures and (v) other minor infrastructure, e.g. off-farm 
+infrastructure for storage specific to the needs of the business alliance. If needed, the project will 
+provide additional training to improve their governance, organizational, managerial, business and 
+risk-management skills and to facilitate adoption of good agricultural and environmental 
+practices.  
+ 
+Eligible applicants would include: (i) organized producer organizations associations and related 
+farmers organizations with developed or developing linkages to agricultural value chains, and 
+supporting the development of smallholder farmers; (ii) agribusinesses linked with smallholders, 
+involved in processing, trading, and marketing of agricultural and food products/commodities 
+which help to improve the growth and competitiveness of smallholder farmers either directly to 
+farmers at the production stage, or further down the value chain as part of the processing chain of 
+agricultural commodities; (iii) input suppliers; (iv) nucleus commercial farms working with 
+smallholders; and (v) publicly and privately funded agricultural and industrial institutions and 
+trusts.   
+ 
+In addition, for mobilizing business alliance investments, the project will carry out a differentiated 
+communication and dissemination campaigns to: (i) inform potential stakeholders about the scope 
+and rules of the Project; (ii) the publication and dissemination of Project activities including, inter 
+alia, information on demand, approvals, procurement and results; and (iii) promote investments 
+and contract farming/buying contracts in agricultural sector value chains.  
+ 
+ (b) This subcomponent will also provide support to mobilize and select larger private investors. 
+ 
+1. Selected interventions will need to demonstrate (i) alignment with the value chain development 
+and (ii) potential impact on job creation. The stakeholders jointly with the PIU will develop 
+proposals to request select interventions that are not firm-specific but that benefit their segment of 
+the value chain and the value chain as a whole (i.e. common goods). 
+ 
+2. Following the Client➢❨ s and the Chamber of Commerce➢❨ s advice, the investors will need 
+to be strongly involved in crafting these proposals for interventions to ensure their commitment 
+aspect and consistency with the constraints faced by groups of firms in the VC. The project will 
+support the creation of a national committee composed of public and private sector stakeholders 
+that will be in charge of reviewing the requests for funds to finance catalytic activities, ensuring 
+that they conform with the strict eligibility criteria that will be imposed (e.g. demonstrate direct 
+contribution to the VC➢❨ s development and job creation) and selecting the best proposals that 
+receive project support. 
+ 
+36.  Subcomponent 1.3. Establish a Partial Credit Guarantee (PCG) fund to promote access to 
+
+
+credit for the project target groups. The fund is expected to lower the risk exposure of financial 
+institutions through a PCG arrangement and thus increase the incentives for financing agricultural 
+activities. The fund would target the agribusiness SMEs in the selected value chains for their 
+financing needs whether these are for fixed assets or for working capital. It would therefore 
+support matching grants beneficiaries to provide the contribution required to benefit from the 
+matching grants. It is anticipated that the project PCG fund will utilize the existing structure 
+established by the Angola Investe Program. However, a dedicated Fund for commercial 
+agriculture will be created and will be governed in accordance with applicable Bank Group➢❨ s 
+policies and the recently issued Principles for Public Credit Guarantee Schemes for MSME, with 
+IFC support. For participating banks wishing to benefit from the guarantee coverage, a 
+prequalification process will be undertaken.  
+ 
+Financial institution eligibility criteria will be transparent and open to all institutions that have an 
+interest to lend to the beneficiaries of the Project.  The PCG will cover 50 percent of the risk pari-
+pasu for loans to and it will be priced to cover the administration costs and risks it covers. 
+However, the PCG fees would be priced, so that the facility would remain sustainable after the 
+project conclusion and would continue to serve this market segment following project conclusion. 
+ 
+37. Eligibility criteria and selection processes for investment support may vary according to the 
+type of support required, and will be detailed during the preparation phase and described in the 
+Project Appraisal Document (PAD). 
+ 
+38. Subcomponent 1.3. Develop critical infrastructure. This subcomponent aims to (i) address 
+existing gaps in infrastructure (rural roads, post-harvest facilities, irrigation, and energy); (ii) 
+strengthening the capacity of public agencies to formulate, prepare and promote medium and 
+long-term public-private partnerships in the sector. Special focus will be given to the promotion 
+of climate smart agriculture approaches and renewable energy technologies. 
+ 
+39. This subcomponent will support infrastructure investments in selected value chains and 
+geographic areas of focus. It will leverage existing transport, logistics, energy, and irrigation 
+infrastructures to support improvements in agriculture production and productivity, reduce post-
+harvest losses, and connect production areas with markets: 
+ 
+- Construction and rehabilitation of feeder roads. Once geographic areas of focus have been 
+identified during preparation, a mapping will be conducted of existing road links and current gaps 
+between production areas and the main national road networks (for example, the Luanda-Malanje 
+corridor for the poultry/maize/soy value chain). Maximum length of rural roads supported by the 
+project will be no more than 50 km to the main road (to be confirmed during preparation). The 
+project will build on the existing Strategic Plan for the Rehabilitation of Tertiary Roads and the 
+National Integrated Plan for Accessibility, Mobility and Transport (PENAMT) by the Ministry of 
+Transport. 
+ 
+- Post-harvest facilities: support to landing docks infrastructure and rehabilitation/construction of 
+storage facilities to facilitate collection of production. 
+- Irrigation infrastructure: support to irrigation infrastructure including water storage facilities and 
+main canals will be agreed during preparation. Private investors will finance the construction of 
+secondary canals to their farms. 
+ 
+- Energy investments will be further explored during preparation phase, depending on 
+confirmation of targeted value chains and the degree of electrification of the selected geographic 
+areas of focus. Other sources of clean energy will also be explored. 
+ 
+40.  This subcomponent will also support the identification and assessment of existing 
+government storage and agro-industrial infrastructure amenable to private sector participation, as 
+well as other rural infrastructure and agribusiness services that could advantageously be 
+developed and implemented by private entities as PPP or as purely private investment. Whenever 
+the local conditions so require, opportunities for the use of PPPs for the integrated development 
+and management of rural facilities and services should be identified, particularly when those 
+facilities and services are apt to be co-funded by commercial and individual users. Following that 
+initial assessment, the project will support pre-feasibility studies for the 3-4 most promising 
+opportunities to enable the government to decide whether to move ahead with a PPP. This 
+subcomponent can also provide support to strengthen the legal framework for PPPs in Angola and 
+support capacity building efforts in this area. This would be done not as an isolated effort, but in 
+order to guarantee an adequate environment for private investment, and conditions for effective 
+definition of incentives for private investors to implement the government➢❨ s agricultural 
+policy. 
+ 
+41.  Component 2 ➢❨  Support to develop an enabling environment for commercial agriculture 
+(US$ 25 million). This component will focus on addressing challenges related to (i) existing gaps 
+in the Government strategy for commercial agriculture development and analytical capacity; (ii) 
+limited government investment generation capacity (iii) constraints in the agriculture input 
+markets; (iv) high costs and uncertainty of doing business, related to burdensome regulations and 
+procedures; and (iv) weaknesses in the agriculture research and development capacity. The 
+component will focus on strengthening the building blocks for creating a competitive commercial 
+agriculture sector, including strategy and regulatory reforms, as well as support to enhance 
+research and development (R&D) for the sector. 
+ 
+42.  Subcomponent 2.1 Support sector strategy development and enhance client analytical 
+capacity. This subcomponent will contribute to strengthen institutional capacity at MINAGRI to 
+develop strategies for competitive and sustainable agriculture value chain development based on 
+analysis of local, regional and global demand and existing competitive advantage. By doing so, it 
+will complement envisioned support by SADCP to strengthen the capacity of local, provincial, 
+and national units of the Ministry of Agriculture to provide services to smallholders in the areas 
+of irrigation, extension, market information, statistics and policy analysis. Specific areas of 
+support will be defined during preparation, but may include: (i) capacity building for evidence-
+based economic research, value chain segmentation analysis, and M&E; and (ii) technical 
+assistance to develop Climate Smart Agriculture Country Profile .  It could be an important 
+mechanism to build awareness of country options, facilitate dialogue, and help prioritize 
+investments to deliver on the ➢❨ triple win➢❨ , implementing agriculture and food production 
+practices that not only boost productivity but also enhance resilience and lower greenhouse gas 
+emissions, the three pillars that form the basis of climate smart agriculture. 
+ 
+In order to support the thinking on Government strategy, the project preparation advance will 
+fund the organization of a practitioners➢❨  forum on international experiences, including 
+successes and failures, in developing commercial agriculture with a special focus on value chain 
+approaches and agroindustrial poles. 
+
+
+43.  As part of this component, the project will also support the establishment of a team of 
+analysts at MINAGRI with strong skills in economic and market analysis. They will be in charge 
+of reviewing and validating the outputs of consultants hired previously by the Government, and in 
+assessing the experience of failed prior agribusiness initiatives. They will receive training on 
+value chain segmentation methodology and will conduct additional analysis as needed to identify 
+the most promising value chain segments for Angola and the existing binding constraints for their 
+development. This analysis will inform the discussions in the public-private dialogue platform 
+(Component 3). The team will formulate proposals for addressing such constraints in 
+collaboration with the relevant government agencies. This activity will be developed in 
+coordination with other Government efforts to develop skills to support economic diversification 
+strategies. 
+ 
+44.  Subcomponent 2.2 Promote investment opportunities. This subcomponent will work with the 
+recently established Agency for Investment and Export Promotion (APIEX) and MINAGRI➢❨ s 
+Technical Unit for Investment Promotion to strengthen investment promotion, facilitation and 
+aftercare in agribusiness. In particular, the project will support the compilation of a pipeline of 
+investment leads and build capacity for assisting investors during the process of establishing their 
+operations. Additionally, the project will assess current investor aftercare functions and provide 
+training and other capacity building activities to ensure client➢❨ s effective support to existing 
+investors, with the goal to encourage reinvestment. Technical assistance will be provided to 
+prepare information packages and implement targeted investor outreach efforts in the priority 
+value chains. Finally, the project will include additional support to the implementation of the 
+revamped Investment policy and legal framework, including an assessment of existing incentives. 
+ 
+45. Subcomponent 2.3 Improving the regulatory environment. This component will support key 
+regulatory and administrative reforms to remove barriers to private sector activity in agribusiness. 
+Strong emphasis will be given to ensure capacity for implementation of amended regulations is in 
+place and adequate monitoring systems are developed. In these, the project will focus on those 
+areas (i) have been identified as key constraints by analysis and private sector actors in the 
+priority value chains, and (ii) where there is clear government commitment. This subcomponent 
+will be closely coordinated with efforts to support regulatory improvements in the business 
+environment under the DPL series and other World Bank Advisory work, including support in the 
+areas measured by the Doing Business report. Areas for support will be confirmed based on the 
+value chains selected. The following four areas have been identified as problematic in initial 
+consultations with agribusiness private sector actors: 
+ 
+- Policy and competition barriers in agricultural inputs: limited supply and high costs of improved 
+seeds, fertilizers, and equipment is a critical constraint to increased productivity and production. 
+The project will support studies to assess existing constraints affecting input availability including 
+sector policies, tariffs, entry barriers and market competition. Recommendations emanating from 
+these studies will inform public-private dialogue and the development of actions to address 
+existing constraints. The project will provide technical assistance for implementation of these 
+actions. 
+ 
+- Trade facilitation and identification, classification and removal of Non-Tariff Barriers (NTBs): 
+Given Angola➢❨ s dependency on imports for food and agriculture inputs and the country➢❨ s 
+objective to develop exports as a way to diversify export revenues away from oil, an efficient 
+
+
+
+trade environment is essential. Building on ongoing reform efforts, the project will identify 
+activities that will further simplify trade logistics systems and services, focusing on reducing the 
+time and cost associated with international trade, through coordinated agency efforts. In addition, 
+NTBs in Angola severely hamper the import of key products and inputs. There is a strong need to 
+streamline NTBs, especially those related to agriculture. This exercise would include building 
+capacity for streamlining non-tariff measures (NTMs) and identifying and removing non-tariff 
+barriers, effective simplification of import-export procedures, and strengthening risk-management 
+approaches for SPS (Sanitary and Phytosanitary) and TBT (Technical Barriers to Trade) 
+measures. 
+ 
+- Land administration: This subcomponent will support targeted interventions to strengthen land 
+management and administration. Land in Angola is owned by the Government and the 2004 Land 
+Law (Lei de Terras de Angola, Lei 09/04) defines the mechanisms for the Government to grant 
+transferable land use rights for rural and urban land. The law recognizes customary uses, and the 
+Government can grant surface rights to individuals and entities. Land is a delicate issue in 
+Angola. It is estimated that 85-90% of the land is not registered due to weaknesses in land 
+administration institutions, among other factors. Given the magnitude of this challenge, the 
+project will focus on local level interventions based on needs identified in the priority value 
+chains and focus on transparent and fair procedures for land acquisition and regularization, 
+protecting communities➢❨  rights to land use and natural resources. The project will build on the 
+experience of the FAO implemented Land Project and will follow the ➢❨ principles for 
+responsible agriculture investments➢❨ . 
+ 
+- Regulatory reforms to promote agriculture finance: In addition to the catalytic interventions to 
+promote access to credit, the project would support reform efforts to improve the enabling 
+environment for agriculture finance. Activities will be defined during preparation, but may 
+include diagnosis and support to reforms to enable agricultural equipment leasing, establish a 
+moveable asset registry, warehouse receipts and commodities exchange development, and 
+agriculture insurance (including weather base d index insurance). 
+ 
+46.  Component 3 ➢❨  Project Management, Coordination and Public-Private Dialogue (PPD) 
+(US$ 15 million). This component will support the costs of establishing and funding the Project 
+Implementation Unit (PIU), which will be comprised of a technical team, supplemented by 
+external consultants, to manage the following activities: Project Manager, Financial Management, 
+Procurement, Social and Environmental Safeguards, Monitoring & Evaluation, Technology & 
+Information, among others. Lessons learnt from Bank operations in several weak and fragile 
+environments suggest that both Borrower and Bank teams typically tend to underestimate project 
+implementation costs, and run into associated difficulties. The team will re-visit the estimated 
+costs of implementation during project preparation. In addition, this component will address 
+existing weaknesses in implementation capacity, coordination, and public-private dialogue for 
+development of commercial agriculture by (i) providing capacity building and technical assistance 
+to the inter-agency working group to be created by MINAGRI to coordinate project activities, and 
+(ii) creating and implementing a PPD platform. 
+ 
+47. Subcomponent 3.1 Project Implementation Unit and coordination support. This component 
+will fund the activities of the Project Implementation Unit (PIU). Strong emphasis on capacity 
+building based on the experience from MOSAP will be included in this component. The MOSAP 
+PIU, which will remain in place for SADCP, will be used during project preparation, but the 
+
+
+client has requested creating a separate PIU for this project. This component will also provide 
+technical assistance and training to the inter-agency working group to be established by 
+MINAGRI to coordinate project implementation. Support may include successful experiences 
+from other countries in planning, development of action plans, and implementation monitoring, 
+among others. 
+ 
+48. Subcomponent 3.2. Establishing Public-Private Dialogue. The project will support increased 
+public-private dialogue specific to the agribusiness sector. An assessment will be conducted on 
+existing public-private dialogue mechanisms in Angola. Recommendations for establishing an 
+inclusive public-private dialogue platform, including institutional arrangements, will be 
+developed, followed by technical assistance for implementation. The objective of the dialogue 
+will be to ensure private sector inputs to sector policies and programs, including the identification 
+of priority value chains, identify specific constraints and remedy actions to increase private 
+investment, and assess implementation progress, as well as avenues to improve the effectiveness 
+of public investments. In addition to government and private sector, efforts will be undertaken to 
+ensure the maximum representativeness of the PPD including farmer organizations, as well as 
+other stakeholders as relevant, such as academia or civil society. Special attention will be given to 
+ensure the voice of women is well represented and the specific constraints for women in 
+agribusiness are discussed in the PPD.
+
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+49.  The project is expected to be at national scale however, specific geographic details of the exact 
+project footprint and its impacts will be determined during project preparation and will be reflected 
+in the safeguards documents (ESMF, ESIA, MP, RPF, and RAP, PMP, etc.).
+
+B. Borrower’s Institutional Capacity for Safeguard Policies
+50.  At the framework level, there are no relevant gaps between the Angolan environmental 
+legislation and the World Bank➢❨ s Safeguard policy and guidelines. The environmental legislation 
+in Angola is quite recent and inspired by the international Conventions that Angola takes part. In 
+regard to the environmental impact assessment, the existing Angolan regulatory framework covers 
+the most relevant principles and best practices, including public consultation and participation, 
+monitoring and licensing procedures. 
+ 
+51.  The Ministry of Agriculture (MINAGRI) through the Institute for Agriculture Development 
+(IDA) will be the lead implementing agency. IDA will have the responsibility of coordinating 
+implementation by hosting a Project Implementation Unit (PIU) with sub PIUs at Province level, 
+tasked with the responsibility of project coordination and management using Technical Assistance 
+(TA) when needed. MINAGRI has acquired reasonable experience in handling World Bank projects 
+that require Safeguards attention, such as MOSAP. Hence, Commercial Agriculture Development 
+Project will build up from the experience in safeguards management acquired by IDA-MINAGRI 
+during MOSAP implementation. Nonetheless, substantial capacity building and training will be 
+required to deal with this project Safeguards requirements, particularly in ensuring adequate 
+subproject screening and subsequent preparation of ESIA/ESMP and RAP as necessary.
+
+D. POLICIES THAT MIGHT APPLY
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental Assessment 
+OP/BP 4.01
+
+Yes The construction of rural roads, electricity and water 
+infrastructure for irrigation , including a series of 
+land administration reforms, under component 2.3, 
+may have adverse impacts on soil, water, air quality, 
+flora and fauna. Some of the adverse impacts may 
+include land right conflicts, soil erosion and water 
+logging, alteration of water flows due to irrigation 
+schemes, vegetation loss and fauna disturbance for 
+access road and power transmission construction, 
+risks to the human health by those handling 
+pesticides. Consequently the OB/BP4.01 is triggered 
+to comply with the Environmental Assessment 
+safeguard requirements. Specific geographic details 
+of the exact project footprint and its impacts are not 
+yet know and will be determined during project 
+preparation.  Hence, the recipient will prepare an 
+Environmental and Social Management Framework 
+(ESMF) to help mitigate the potential environmental 
+and social impacts by the direct and indirect 
+investments in the project selected areas and to guide 
+the preparation of ESIA and ESMP. The ESMF will 
+be consulted and disclosed both in-country and at the 
+Infoshop prior to appraisal.
+
+Natural Habitats OP/BP 4.04 Yes The project is not expected to invest in activities that 
+may have direct impacts on natural habitats. 
+However, rural roads improvements and water 
+infrastructure may happen in proximity to national 
+parks or protected areas and therefore lead to 
+downstream impacts that may affect ecosystem 
+services and functions provided by natural habitats. 
+Hence, OP/BP 4.04 is triggered and the ESMF will 
+include the specific provisions to prevent or mitigate 
+impacts on natural habitats.
+
+Forests OP/BP 4.36 Yes The Project will not have any direct or indirect 
+negative impacts on health and quality of forests, or 
+the health and safety of people who depends on 
+forests. However, clearance of vegetation for rural 
+roads improvements and water infrastructures may 
+require compensatory reforestation and tree 
+maintenance along the rehabilitated roads. OP/BP 
+4.36 is triggered and the ESMF will include specific 
+provisions to address the requirements.
+
+
+Pest Management OP 4.09 Yes Promotion of agriculture activities may include the 
+use of small quantities of pesticides, though expected 
+only at a small scale, to treat orchards and crops 
+against pest and infestations to enhance agriculture 
+productivity of project beneficiaries. Hence, OP/
+BP4.09 is triggered and a Pest Management Plan will 
+be prepared to help mitigate potential risks to human 
+health and to the environment using the integrated 
+pest management approaches.
+
+Physical Cultural Resources 
+OP/BP 4.11
+
+Yes The policy is triggered as project investments 
+involve infrastructures (roads, irrigation, electricity) 
+that may require large movements of earth in areas 
+likely to contain sites deemed physical cultural 
+resources by communities living there (e.g. holy sites 
+sacred graves, sacred forests, etc.). To ensure due 
+diligence, the ESMF will include a Chance Find 
+procedures that will be detailed in the ESIA/ESMP 
+then reflected in the constructor contracts.
+
+Indigenous Peoples OP/BP 
+4.10
+
+TBD
+
+Involuntary Resettlement OP/
+BP 4.12
+
+Yes The project will finance activities associated with 
+construction/ rehabilitation of small scale irrigation 
+infrastructures, rural roads, electricity transmission 
+lines that could necessitate involuntary land 
+acquisition resulting in physical of people and/or loss 
+of assets, means of livelihoods or resources. The 
+Borrower will prepare a Resettlement Policy 
+Framework (RPF) to adequately deal with issues of 
+land acquisition resulting with compensation and/or 
+the physical displacement of peoples. The RPF will 
+be consulted and disclosed both in-country and by 
+the Bank prior to appraisal. The RPF will include 
+detailed guidance for the preparation of site specific 
+Resettlement Action Plans (RAPs) prior or during 
+project implementation.
+
+Safety of Dams OP/BP 4.37 No
+
+Projects on International 
+Waterways OP/BP 7.50
+
+TBD The proposed project is not expected to engage in 
+large scale irrigation activities or other activities that 
+would adversely affect the quality or quantity of 
+water flow within shared waterways. 
+Notwithstanding, triggering this policy will be 
+determined once specific details of the project are 
+known.
+
+Projects in Disputed Areas OP/ No This policy is not triggered. The area in which the 
+Project will be implemented is not known to include 
+
+
+BP 7.60 any disputed areas, at this stage.
+
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+15-Sep-2016
+2. Time frame for launching and completing the safeguard-related studies that may be 
+needed. The specific studies and their timing should be specified in the PAD-stage 
+ISDS.
+The specific studies and their timing should be specified in the PAD-stage ISDS: September 2016 to 
+March 2017

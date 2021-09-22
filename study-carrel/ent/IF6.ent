@@ -1,1396 +1,385 @@
 id	sid	eid	entity	type
-IF6	1	1	Executive Board	ORG
-IF6	1	2	Hubert Boirard Country Programme	PERSON
-IF6	1	3	Tel	PERSON
-IF6	2	1	06	CARDINAL
-IF6	2	2	5459 2298	TIME
-IF6	2	3	h.boirard@ifad.org	CARDINAL
-IF6	3	1	06	CARDINAL
-IF6	3	2	5459 2092	TIME
-IF6	3	3	July 30 2015	DATE
-IF6	3	4	English	NORP
-IF6	3	5	the People’s Republic of Bangladesh	GPE
-IF6	3	6	the National Agricultural Technology Programme	ORG
-IF6	3	7	Phase II Project EB 2015/LOT/P.15 i Contents Abbreviations	WORK_OF_ART
-IF6	3	8	acronyms ii Map	PERSON
-IF6	3	9	1	CARDINAL
-IF6	5	1	1	CARDINAL
+IF6	1	1	the People’s Republic of Bangladesh	GPE
+IF6	1	2	the National Agricultural Technology Programme	ORG
+IF6	1	3	World Bank Borrower:	ORG
+IF6	1	4	Ministry of Agriculture Total	ORG
+IF6	1	5	US$214 million	MONEY
+IF6	1	6	IFAD	ORG
+IF6	1	7	17 million	CARDINAL
+IF6	1	8	approximately US$23.8 million	MONEY
+IF6	1	9	IFAD	ORG
+IF6	1	10	40 years	DATE
+IF6	1	11	10 years	DATE
+IF6	1	12	0.75 per cent	MONEY
+IF6	1	13	World Bank	ORG
+IF6	1	14	United States Agency for International Development	ORG
+IF6	1	15	World Bank	ORG
+IF6	1	16	US$176 million	MONEY
+IF6	1	17	US$7.4 million	MONEY
+IF6	1	18	US$6.7 million	MONEY
+IF6	1	19	US$6.5 million	MONEY
+IF6	1	20	World Bank Cooperating	ORG
+IF6	1	21	World Bank EB 2015/LOT/P.15 1	ORG
+IF6	1	22	The Executive Board	ORG
+IF6	1	23	the People’s Republic of Bangladesh	GPE
+IF6	1	24	the National Agricultural Technology Programme	ORG
+IF6	1	25	Phase II Project	WORK_OF_ART
+IF6	1	26	paragraph 55	DATE
+IF6	2	1	the National Agricultural Technology Programme	ORG
+IF6	2	2	the People’s Republic of Bangladesh I.	GPE
+IF6	4	1	1	CARDINAL
+IF6	5	1	the past 20 years	DATE
+IF6	5	2	the People’s Republic of Bangladesh	GPE
+IF6	5	3	2021	DATE
+IF6	6	1	annual	DATE
+IF6	6	2	about 6 per cent	MONEY
+IF6	6	3	between 2000 and 2013	DATE
+IF6	6	4	48.9	CARDINAL
+IF6	6	5	31.5	CARDINAL
+IF6	6	6	the first decade of the century	DATE
+IF6	6	7	some 16 million	CARDINAL
 IF6	7	1	2	CARDINAL
-IF6	8	1	2 B. Programme	PERCENT
-IF6	8	2	2 C. Components	PERSON
-IF6	8	3	2	CARDINAL
-IF6	9	1	4	CARDINAL
-IF6	10	1	4	DATE
-IF6	11	1	4 C. Planning	PERCENT
-IF6	11	2	5	CARDINAL
-IF6	11	3	D. Financial	ORG
-IF6	11	4	5	CARDINAL
-IF6	12	1	7 A. Programme	PERCENT
-IF6	12	2	7 B. Programme	PERCENT
-IF6	12	3	7 C. Summary	PERCENT
-IF6	12	4	8 D. Sustainability	PERCENT
-IF6	12	5	9	CARDINAL
-IF6	13	1	IFAD	ORG
-IF6	13	2	9	CARDINAL
-IF6	13	3	B. Alignment	ORG
-IF6	13	4	9 C. Innovations	PERCENT
-IF6	13	5	10	CARDINAL
-IF6	13	6	10	CARDINAL
-IF6	14	1	10	CARDINAL
-IF6	14	2	VII	ORG
-IF6	15	1	10	CARDINAL
-IF6	16	1	II	ORG
-IF6	17	1	BARC Bangladesh Agricultural Research Council	ORG
-IF6	17	2	COSOP	ORG
-IF6	17	3	DAE Department of Agricultural Extension	ORG
-IF6	17	4	MoA	DATE
-IF6	17	5	DLS Department of Livestock Services	ORG
-IF6	17	6	the Ministry of Fisheries	ORG
-IF6	17	7	Livestock) DoF Department of Fisheries	ORG
-IF6	17	8	the Ministry of Fisheries	ORG
-IF6	17	9	Livestock	ORG
-IF6	17	10	GAAP Governance and Accountability Action Plan HOPE Head of Procurement Entities ICT	WORK_OF_ART
-IF6	17	11	IDA International Development Association	ORG
-IF6	17	12	WB Group	ORG
-IF6	17	13	MoA Ministry	ORG
-IF6	17	14	Livestock NAEP National Agricultural Extension Policy NARS National Agricultural Research System NATP National Agricultural Technology Programme PACE Promoting Agricultural Commercialization and Enterprises Project PDO project	ORG
-IF6	17	15	PIM	ORG
-IF6	17	16	PIU	GPE
-IF6	17	17	SDR	ORG
-IF6	17	18	USAID United States Agency	ORG
-IF6	17	19	International Development EB 2015	ORG
-IF6	17	20	People’s Republic of	GPE
-IF6	17	21	World Bank Borrower:	ORG
-IF6	17	22	Ministry of Agriculture Total	ORG
-IF6	17	23	US$214 million	MONEY
-IF6	17	24	IFAD	ORG
-IF6	17	25	17 million	CARDINAL
-IF6	17	26	approximately US$23.8 million	MONEY
-IF6	17	27	IFAD	ORG
-IF6	17	28	40 years	DATE
-IF6	17	29	10 years	DATE
-IF6	17	30	0.75 per cent	MONEY
-IF6	17	31	World Bank	ORG
-IF6	17	32	United States Agency for International Development	ORG
-IF6	17	33	World Bank	ORG
-IF6	17	34	US$176 million	MONEY
-IF6	17	35	US$7.4 million	MONEY
-IF6	17	36	US$6.7 million	MONEY
-IF6	17	37	US$6.5 million	MONEY
-IF6	17	38	World Bank Cooperating	ORG
-IF6	17	39	World Bank EB 2015/LOT/P.15 1	ORG
-IF6	17	40	The Executive Board	ORG
-IF6	17	41	the People’s Republic of Bangladesh	GPE
-IF6	17	42	the National Agricultural Technology Programme	ORG
-IF6	17	43	Phase II Project	WORK_OF_ART
-IF6	17	44	paragraph 55	DATE
-IF6	18	1	the National Agricultural Technology Programme	ORG
-IF6	18	2	the People’s Republic of Bangladesh I.	GPE
-IF6	20	1	1	CARDINAL
-IF6	21	1	the past 20 years	DATE
-IF6	21	2	the People’s Republic of Bangladesh	GPE
-IF6	21	3	2021	DATE
-IF6	22	1	annual	DATE
-IF6	22	2	about 6 per cent	MONEY
-IF6	22	3	between 2000 and 2013	DATE
-IF6	22	4	48.9	CARDINAL
-IF6	22	5	31.5	CARDINAL
-IF6	22	6	the first decade of the century	DATE
-IF6	22	7	some 16 million	CARDINAL
-IF6	23	1	2	CARDINAL
-IF6	24	1	over 160 million	CARDINAL
-IF6	24	2	the Millennium Development Goals	FAC
-IF6	25	1	2013	DATE
-IF6	25	2	about US$1,000	MONEY
-IF6	28	1	3	CARDINAL
-IF6	29	1	about three quarters	CARDINAL
-IF6	30	1	the last decade	DATE
-IF6	30	2	around 35 per cent	MONEY
-IF6	30	3	three	CARDINAL
-IF6	31	1	4	CARDINAL
-IF6	32	1	the past decade	DATE
-IF6	32	2	17 per cent	MONEY
-IF6	33	1	Some 67	CARDINAL
-IF6	36	1	5	CARDINAL
-IF6	37	1	the National Agricultural Research System	ORG
-IF6	37	2	NARS	ORG
-IF6	39	1	National Agricultural Technology Programme	ORG
-IF6	39	2	second	ORDINAL
-IF6	39	3	three	CARDINAL
-IF6	39	4	EB 2015/LOT/P.15 2	ORG
-IF6	39	5	NARS	ORG
-IF6	40	1	6	CARDINAL
-IF6	41	1	two	CARDINAL
-IF6	41	2	2010-2021	DATE
-IF6	41	3	Sixth	ORDINAL
-IF6	41	4	Five-Year Plan	EVENT
-IF6	41	5	6th	ORDINAL
-IF6	41	6	the National Agricultural Extension Policy	ORG
-IF6	41	7	NAEP	ORG
-IF6	41	8	2012	DATE
-IF6	41	9	the Bangladesh Agricultural Research Council	ORG
-IF6	41	10	BARC	ORG
-IF6	41	11	2011	DATE
-IF6	42	1	7	CARDINAL
-IF6	43	1	Bangladesh	GPE
-IF6	46	1	8	CARDINAL
-IF6	48	1	three	CARDINAL
-IF6	48	2	64	CARDINAL
-IF6	48	3	third	ORDINAL
-IF6	49	1	NATP-II	ORG
-IF6	49	2	57	CARDINAL
-IF6	49	3	25	CARDINAL
-IF6	49	4	Bangladesh	GPE
-IF6	50	1	six-year	DATE
-IF6	50	2	up to 270	CARDINAL
-IF6	50	3	120	CARDINAL
-IF6	50	4	up to 150	CARDINAL
-IF6	52	1	9	CARDINAL
+IF6	8	1	over 160 million	CARDINAL
+IF6	8	2	the Millennium Development Goals	FAC
+IF6	9	1	2013	DATE
+IF6	9	2	about US$1,000	MONEY
+IF6	12	1	3	CARDINAL
+IF6	13	1	about three quarters	CARDINAL
+IF6	14	1	the last decade	DATE
+IF6	14	2	around 35 per cent	MONEY
+IF6	14	3	three	CARDINAL
+IF6	15	1	4	CARDINAL
+IF6	16	1	the past decade	DATE
+IF6	16	2	17 per cent	MONEY
+IF6	17	1	Some 67	CARDINAL
+IF6	20	1	5	CARDINAL
+IF6	21	1	the National Agricultural Research System	ORG
+IF6	21	2	NARS	ORG
+IF6	23	1	National Agricultural Technology Programme	ORG
+IF6	23	2	second	ORDINAL
+IF6	23	3	three	CARDINAL
+IF6	23	4	EB 2015/LOT/P.15 2	ORG
+IF6	23	5	NARS	ORG
+IF6	24	1	6	CARDINAL
+IF6	25	1	two	CARDINAL
+IF6	25	2	2010-2021	DATE
+IF6	25	3	Sixth	ORDINAL
+IF6	25	4	Five-Year Plan	EVENT
+IF6	25	5	6th	ORDINAL
+IF6	25	6	the National Agricultural Extension Policy	ORG
+IF6	25	7	NAEP	ORG
+IF6	25	8	2012	DATE
+IF6	25	9	the Bangladesh Agricultural Research Council	ORG
+IF6	25	10	BARC	ORG
+IF6	25	11	2011	DATE
+IF6	26	1	7	CARDINAL
+IF6	27	1	Bangladesh	GPE
+IF6	30	1	8	CARDINAL
+IF6	32	1	three	CARDINAL
+IF6	32	2	64	CARDINAL
+IF6	32	3	third	ORDINAL
+IF6	33	1	NATP-II	ORG
+IF6	33	2	57	CARDINAL
+IF6	33	3	25	CARDINAL
+IF6	33	4	Bangladesh	GPE
+IF6	34	1	six-year	DATE
+IF6	34	2	up to 270	CARDINAL
+IF6	34	3	120	CARDINAL
+IF6	34	4	up to 150	CARDINAL
+IF6	36	1	9	CARDINAL
+IF6	38	1	NATP-II	ORG
+IF6	40	1	B. Programme	ORG
+IF6	40	2	10	CARDINAL
+IF6	42	1	NARS	ORG
+IF6	43	1	C. Components/	PERSON
+IF6	43	2	11	CARDINAL
+IF6	47	1	2012 BARC Act	LAW
+IF6	48	1	12	CARDINAL
+IF6	50	1	AIF	PERSON
+IF6	51	1	AIF	PERSON
+IF6	52	1	3	CARDINAL
+IF6	52	2	AIF	GPE
+IF6	52	3	three	CARDINAL
+IF6	52	4	US$26.2 million	MONEY
+IF6	52	5	PBRG	ORG
+IF6	52	6	CRG	ORG
+IF6	52	7	US$17 million	MONEY
+IF6	52	8	US$4.6 million	MONEY
+IF6	53	1	NATP-II	ORG
+IF6	53	2	AIF	PERSON
+IF6	53	3	Bank	ORG
 IF6	54	1	NATP-II	ORG
-IF6	56	1	B. Programme	ORG
-IF6	56	2	10	CARDINAL
-IF6	58	1	NARS	ORG
-IF6	59	1	C. Components/	PERSON
-IF6	59	2	11	CARDINAL
-IF6	63	1	2012 BARC Act	LAW
-IF6	64	1	12	CARDINAL
-IF6	66	1	AIF	PERSON
-IF6	67	1	AIF	PERSON
-IF6	68	1	3	CARDINAL
-IF6	68	2	AIF	GPE
-IF6	68	3	three	CARDINAL
-IF6	68	4	US$26.2 million	MONEY
-IF6	68	5	PBRG	ORG
-IF6	68	6	CRG	ORG
-IF6	68	7	US$17 million	MONEY
-IF6	68	8	US$4.6 million	MONEY
-IF6	69	1	NATP-II	ORG
-IF6	69	2	AIF	PERSON
-IF6	69	3	Bank	ORG
-IF6	70	1	NATP-II	ORG
-IF6	70	2	IFAD	ORG
-IF6	70	3	Promoting Agricultural Commercialization and Enterprises	ORG
-IF6	70	4	(PACE).1 13	DATE
-IF6	71	1	2	CARDINAL
-IF6	72	1	the Department of Agricultural Extension	ORG
-IF6	73	1	14	CARDINAL
-IF6	74	1	3	CARDINAL
-IF6	76	1	NATP-II	ORG
-IF6	77	1	IFAD	ORG
-IF6	78	1	15	CARDINAL
-IF6	81	1	1	CARDINAL
-IF6	82	1	PACE	ORG
-IF6	82	2	PACE	ORG
-IF6	83	1	PACE	ORG
-IF6	84	1	4	CARDINAL
-IF6	85	1	16	CARDINAL
-IF6	86	1	5	CARDINAL
-IF6	87	1	the World Bank	ORG
-IF6	88	1	III	ORG
-IF6	90	1	17	CARDINAL
-IF6	91	1	NATP-II	ORG
-IF6	91	2	NATP-I.	ORG
-IF6	93	1	three	CARDINAL
-IF6	96	1	18	CARDINAL
-IF6	97	1	the Ministry of Finance	ORG
-IF6	98	1	the Ministry of Agriculture	ORG
-IF6	98	2	the Ministry of Fisheries	ORG
-IF6	99	1	Government of Bangladesh	ORG
-IF6	100	1	19	CARDINAL
-IF6	101	1	the Ministry of Agriculture and Ministry of Fisheries	ORG
-IF6	102	1	20	CARDINAL
-IF6	104	1	day	DATE
-IF6	104	2	the World Bank	ORG
-IF6	105	1	PIM	ORG
-IF6	105	2	NATP-II	ORG
-IF6	106	1	5	CARDINAL
-IF6	107	1	21	CARDINAL
-IF6	109	1	PIU	ORG
-IF6	110	1	the Ministry of Agriculture	ORG
-IF6	110	2	BARC	ORG
-IF6	110	3	the Department of Agricultural Extension	ORG
-IF6	110	4	PIU	GPE
-IF6	110	5	BARC	ORG
-IF6	110	6	1	CARDINAL
-IF6	110	7	the Department of Agricultural Extension	ORG
-IF6	110	8	2	CARDINAL
-IF6	111	1	the Ministry of Fisheries	ORG
-IF6	111	2	the Department of Fisheries	ORG
-IF6	111	3	the Department of Livestock Services	ORG
-IF6	111	4	PIU	GPE
-IF6	111	5	4	CARDINAL
-IF6	112	1	the Department of Fisheries	ORG
-IF6	112	2	Department of Livestock Services	ORG
-IF6	112	3	BARC	ORG
-IF6	113	1	5	CARDINAL
-IF6	114	1	C. Planning	PERSON
-IF6	114	2	22	DATE
-IF6	116	1	annual	DATE
-IF6	116	2	the Ministry of Finance	ORG
-IF6	116	3	the World Bank	ORG
-IF6	118	1	23	CARDINAL
-IF6	120	1	NATP-II	ORG
-IF6	121	1	NATP-II	ORG
-IF6	122	1	24	CARDINAL
-IF6	124	1	NATP-II	ORG
-IF6	125	1	ICT	ORG
-IF6	127	1	D. Financial	ORG
-IF6	127	2	25	CARDINAL
-IF6	128	1	World Bank	ORG
-IF6	131	1	26	CARDINAL
-IF6	132	1	NATP-II	ORG
-IF6	132	2	Bank	ORG
+IF6	54	2	IFAD	ORG
+IF6	54	3	Promoting Agricultural Commercialization and Enterprises	ORG
+IF6	54	4	(PACE).1 13	DATE
+IF6	55	1	2	CARDINAL
+IF6	56	1	the Department of Agricultural Extension	ORG
+IF6	57	1	14	CARDINAL
+IF6	58	1	3	CARDINAL
+IF6	60	1	NATP-II	ORG
+IF6	61	1	IFAD	ORG
+IF6	62	1	15	CARDINAL
+IF6	65	1	1	CARDINAL
+IF6	66	1	PACE	ORG
+IF6	66	2	PACE	ORG
+IF6	67	1	PACE	ORG
+IF6	68	1	4	CARDINAL
+IF6	69	1	16	CARDINAL
+IF6	70	1	5	CARDINAL
+IF6	71	1	the World Bank	ORG
+IF6	72	1	III	ORG
+IF6	74	1	17	CARDINAL
+IF6	75	1	NATP-II	ORG
+IF6	75	2	NATP-I.	ORG
+IF6	77	1	three	CARDINAL
+IF6	80	1	18	CARDINAL
+IF6	81	1	the Ministry of Finance	ORG
+IF6	82	1	the Ministry of Agriculture	ORG
+IF6	82	2	the Ministry of Fisheries	ORG
+IF6	83	1	Government of Bangladesh	ORG
+IF6	84	1	19	CARDINAL
+IF6	85	1	the Ministry of Agriculture and Ministry of Fisheries	ORG
+IF6	86	1	20	CARDINAL
+IF6	88	1	day	DATE
+IF6	88	2	the World Bank	ORG
+IF6	89	1	PIM	ORG
+IF6	89	2	NATP-II	ORG
+IF6	90	1	5	CARDINAL
+IF6	91	1	21	CARDINAL
+IF6	93	1	PIU	ORG
+IF6	94	1	the Ministry of Agriculture	ORG
+IF6	94	2	BARC	ORG
+IF6	94	3	the Department of Agricultural Extension	ORG
+IF6	94	4	PIU	GPE
+IF6	94	5	BARC	ORG
+IF6	94	6	1	CARDINAL
+IF6	94	7	the Department of Agricultural Extension	ORG
+IF6	94	8	2	CARDINAL
+IF6	95	1	the Ministry of Fisheries	ORG
+IF6	95	2	the Department of Fisheries	ORG
+IF6	95	3	the Department of Livestock Services	ORG
+IF6	95	4	PIU	GPE
+IF6	95	5	4	CARDINAL
+IF6	96	1	the Department of Fisheries	ORG
+IF6	96	2	Department of Livestock Services	ORG
+IF6	96	3	BARC	ORG
+IF6	97	1	5	CARDINAL
+IF6	98	1	C. Planning	PERSON
+IF6	98	2	22	DATE
+IF6	100	1	annual	DATE
+IF6	100	2	the Ministry of Finance	ORG
+IF6	100	3	the World Bank	ORG
+IF6	102	1	23	CARDINAL
+IF6	104	1	NATP-II	ORG
+IF6	105	1	NATP-II	ORG
+IF6	106	1	24	CARDINAL
+IF6	108	1	NATP-II	ORG
+IF6	109	1	ICT	ORG
+IF6	111	1	D. Financial	ORG
+IF6	111	2	25	CARDINAL
+IF6	112	1	World Bank	ORG
+IF6	115	1	26	CARDINAL
+IF6	116	1	NATP-II	ORG
+IF6	116	2	Bank	ORG
+IF6	116	3	IFAD	ORG
+IF6	118	1	12 months	DATE
+IF6	119	1	PIM	ORG
+IF6	121	1	Annual	DATE
+IF6	121	2	the Foreign Aided Project Audit Directorate	ORG
+IF6	122	1	27	CARDINAL
+IF6	124	1	the International Development Association	ORG
+IF6	124	2	IDA	ORG
+IF6	124	3	IFAD	ORG
+IF6	124	4	USAID	GPE
+IF6	124	5	three	CARDINAL
+IF6	127	1	IFAD	ORG
+IF6	127	2	the World Bank	ORG
+IF6	127	3	IFAD	ORG
+IF6	130	1	the first year	DATE
+IF6	130	2	Bank	ORG
+IF6	130	3	IFAD	ORG
+IF6	130	4	EB 2015/LOT/P.15 6	ORG
+IF6	130	5	one	CARDINAL
+IF6	130	6	six	CARDINAL
+IF6	131	1	28	CARDINAL
+IF6	132	1	IDA	ORG
+IF6	132	2	USAID	ORG
 IF6	132	3	IFAD	ORG
-IF6	134	1	12 months	DATE
-IF6	135	1	PIM	ORG
-IF6	137	1	Annual	DATE
-IF6	137	2	the Foreign Aided Project Audit Directorate	ORG
-IF6	138	1	27	CARDINAL
-IF6	140	1	the International Development Association	ORG
-IF6	140	2	IDA	ORG
-IF6	140	3	IFAD	ORG
-IF6	140	4	USAID	GPE
-IF6	140	5	three	CARDINAL
-IF6	143	1	IFAD	ORG
-IF6	143	2	the World Bank	ORG
-IF6	143	3	IFAD	ORG
-IF6	146	1	the first year	DATE
-IF6	146	2	Bank	ORG
-IF6	146	3	IFAD	ORG
-IF6	146	4	EB 2015/LOT/P.15 6	ORG
-IF6	146	5	one	CARDINAL
-IF6	146	6	six	CARDINAL
-IF6	147	1	28	CARDINAL
-IF6	148	1	IDA	ORG
-IF6	148	2	USAID	ORG
-IF6	148	3	IFAD	ORG
-IF6	148	4	the Government of Bangladesh	ORG
-IF6	149	1	third	ORDINAL
-IF6	149	2	the World Bank	ORG
-IF6	149	3	IFAD	ORG
-IF6	149	4	vii	ORG
-IF6	149	5	the World Bank	ORG
-IF6	149	6	IFAD	ORG
-IF6	150	1	3	CARDINAL
-IF6	150	2	the World Bank’s Project Appraisal Document	ORG
-IF6	151	1	29	CARDINAL
-IF6	153	1	the World Bank	ORG
-IF6	153	2	Guidelines: Procurement of Goods, Works and Non-Consulting Services	WORK_OF_ART
-IF6	153	3	IDA	ORG
-IF6	153	4	World Bank Borrowers	ORG
-IF6	153	5	July 2014	DATE
-IF6	153	6	Guidelines: Selection and Employment of Consulting Services	WORK_OF_ART
-IF6	153	7	IDA	ORG
-IF6	153	8	World Bank Borrowers	ORG
-IF6	153	9	July 2014	DATE
-IF6	153	10	Consultant Guidelines	ORG
-IF6	155	1	the Public Procurement Act 2006	LAW
-IF6	155	2	2006	DATE
-IF6	156	1	30	CARDINAL
-IF6	157	1	NATP-II	ORG
-IF6	157	2	the World Bank	ORG
-IF6	158	1	5	CARDINAL
-IF6	158	2	four	CARDINAL
-IF6	159	1	six	CARDINAL
-IF6	159	2	two	CARDINAL
-IF6	159	3	one	CARDINAL
-IF6	159	4	PIU	ORG
-IF6	160	1	the first 18 months	DATE
-IF6	161	1	four	CARDINAL
-IF6	161	2	BARC	ORG
-IF6	161	3	the Ministry of Agriculture	ORG
-IF6	162	1	31	CARDINAL
-IF6	164	1	annual	DATE
-IF6	164	2	six months	DATE
-IF6	164	3	the end of the fiscal year	DATE
-IF6	168	1	first	ORDINAL
-IF6	168	2	the end of the second year	DATE
-IF6	169	1	32	CARDINAL
-IF6	171	1	Lessons	ORG
-IF6	171	2	the last five years	DATE
-IF6	172	1	BARC	ORG
-IF6	172	2	Department of Fisheries	ORG
-IF6	172	3	Department of Livestock Services	ORG
-IF6	175	1	third	ORDINAL
-IF6	177	1	the Bank’s Disclosure Policy	ORG
-IF6	177	2	Right to Information Act	WORK_OF_ART
-IF6	178	1	33	CARDINAL
-IF6	180	1	NATP-II	ORG
-IF6	180	2	Governance and Accountability Action Plan	ORG
-IF6	180	3	GAAP	ORG
-IF6	182	1	Bank	ORG
-IF6	182	2	IFAD	ORG
-IF6	183	1	GAAP	ORG
-IF6	185	1	IFAD	ORG
-IF6	185	2	the World Bank	ORG
-IF6	187	1	A. Programme	PERSON
-IF6	187	2	35	DATE
-IF6	188	1	US$214 million	MONEY
-IF6	189	1	B. Programme	PERSON
-IF6	189	2	36	DATE
-IF6	190	1	US$214 million	MONEY
-IF6	190	2	US$23.8 million	MONEY
-IF6	190	3	IFAD	ORG
-IF6	191	1	The World Bank	ORG
-IF6	191	2	US$176 million	MONEY
-IF6	191	3	USAID	ORG
-IF6	191	4	US$7.4 million	MONEY
-IF6	192	1	NATP-II	ORG
-IF6	192	2	IFAD	ORG
-IF6	192	3	IDA	ORG
-IF6	193	1	2	CARDINAL
-IF6	193	2	Government of Bangladesh	ORG
-IF6	193	3	US$6.65 million	MONEY
-IF6	193	4	3 per cent	MONEY
-IF6	194	1	DOF	ORG
-IF6	194	2	DLS	ORG
-IF6	195	1	the Manpower Committee (Finance Division/Ministry of Finance	ORG
-IF6	197	1	IFAD	ORG
-IF6	197	2	World Bank	ORG
-IF6	197	3	Bangladesh Total Amount % Amount % Amount % Amount % Amount 1	ORG
-IF6	198	1	19.0 11.5	MONEY
-IF6	198	2	6.7	TIME
-IF6	199	1	2.3	CARDINAL
-IF6	200	1	17.0 4	CARDINAL
-IF6	201	1	0.5	CARDINAL
-IF6	202	1	World Bank	ORG
-IF6	202	2	0.5	CARDINAL
-IF6	202	3	0.5	CARDINAL
-IF6	202	4	23.8	CARDINAL
-IF6	202	5	82.2	CARDINAL
-IF6	202	6	3.5	CARDINAL
-IF6	202	7	6.7	CARDINAL
-IF6	202	8	3.1 214	TIME
-IF6	202	9	37	DATE
-IF6	204	1	US$6.5 million	MONEY
-IF6	205	1	C. Summary	PERSON
-IF6	205	2	38	CARDINAL
-IF6	207	1	over one million	CARDINAL
-IF6	210	1	Up to three million	CARDINAL
-IF6	210	2	NATP-II	ORG
-IF6	212	1	39	CARDINAL
-IF6	215	1	28 per cent	MONEY
-IF6	215	2	ERR	ORG
-IF6	215	3	31	DATE
-IF6	215	4	US$49.9 million	MONEY
-IF6	216	1	ERR	ORG
-IF6	216	2	10 per cent	MONEY
-IF6	216	3	10 per cent	MONEY
-IF6	217	1	D. Sustainability 40	PERSON
-IF6	218	1	NATP-II	ORG
-IF6	219	1	Farmers	ORG
-IF6	220	1	41	CARDINAL
-IF6	222	1	NATP-II	ORG
-IF6	224	1	3	CARDINAL
-IF6	224	2	AIF-1	GPE
-IF6	224	3	AIF-2	PRODUCT
-IF6	224	4	AIF-3	GPE
-IF6	225	1	12	CARDINAL
-IF6	226	1	9	CARDINAL
-IF6	226	2	42	CARDINAL
-IF6	227	1	NATP-II	ORG
-IF6	228	1	E. Risk	PERSON
-IF6	228	2	43	CARDINAL
-IF6	230	1	44	CARDINAL
-IF6	231	1	the Bangladesh Agricultural Research Council	ORG
-IF6	231	2	the Ministry of Fisheries	ORG
-IF6	231	3	NAEP	NORP
-IF6	232	1	NATP-II	ORG
-IF6	232	2	BARC	ORG
-IF6	233	1	NAEP	ORG
-IF6	235	1	45	CARDINAL
-IF6	236	1	four	CARDINAL
-IF6	236	2	two	CARDINAL
-IF6	239	1	NATP-II	ORG
-IF6	240	1	V. Corporate	ORG
-IF6	241	1	IFAD	ORG
-IF6	241	2	46	CARDINAL
-IF6	242	1	the IFAD Strategic Framework	ORG
-IF6	242	2	RB	ORG
-IF6	242	3	Bangladesh	ORG
-IF6	243	1	IFAD	ORG
-IF6	244	1	the World Bank	ORG
-IF6	246	1	B. Alignment	ORG
-IF6	246	2	47	CARDINAL
-IF6	247	1	the Government of Bangladesh	ORG
-IF6	247	2	Government	ORG
-IF6	249	1	NATP-II	ORG
-IF6	250	1	48	CARDINAL
-IF6	252	1	49	CARDINAL
-IF6	253	1	the World Bank	ORG
-IF6	253	2	USAID	GPE
-IF6	254	1	three	CARDINAL
-IF6	254	2	IFAD	ORG
-IF6	254	3	the Haor Infrastructure	ORG
-IF6	254	4	Livelihood Improvement Project	ORG
-IF6	255	1	10	CARDINAL
-IF6	255	2	C. Innovations	PERSON
-IF6	255	3	50	CARDINAL
-IF6	256	1	the Agricultural Innovation Fund	ORG
-IF6	257	1	AIF	PERSON
-IF6	259	1	51	CARDINAL
-IF6	264	1	the People’s Republic of Bangladesh	GPE
-IF6	264	2	IFAD	ORG
-IF6	266	1	53	CARDINAL
-IF6	267	1	IFAD	ORG
-IF6	268	1	54	CARDINAL
-IF6	269	1	the Agreement Establishing IFAD	ORG
-IF6	270	1	VII	ORG
-IF6	271	1	55	CARDINAL
-IF6	272	1	the Executive Board	ORG
-IF6	272	2	the People’s Republic of Bangladesh	GPE
-IF6	272	3	seventeen million	CARDINAL
-IF6	272	4	17,000,000	CARDINAL
-IF6	273	1	Kanayo F. Nwanze	PERSON
-IF6	273	2	Appendix	GPE
-IF6	273	3	National Agricultural Technology Programme	ORG
-IF6	273	4	29 June 2015	DATE
-IF6	273	5	National Agricultural Technology Programme	ORG
-IF6	273	6	The People’s Republic of Bangladesh	GPE
-IF6	273	7	the “Borrower	WORK_OF_ART
-IF6	273	8	the International Fund for Agricultural Development	ORG
-IF6	273	9	Fund	WORK_OF_ART
-IF6	273	10	IFAD	ORG
-IF6	273	11	Party	ORG
-IF6	273	12	Parties	WORK_OF_ART
-IF6	273	13	the International Development Association	ORG
-IF6	273	14	IDA	ORG
-IF6	273	15	Borrower	ORG
-IF6	273	16	Fund	ORG
-IF6	274	1	the Project Description and Implementation Arrangements	LAW
-IF6	274	2	1	CARDINAL
-IF6	274	3	2	CARDINAL
-IF6	275	1	2	CARDINAL
-IF6	276	1	29 April 2009	DATE
-IF6	276	2	3	CARDINAL
-IF6	277	1	General Conditions	ORG
-IF6	278	1	3	CARDINAL
-IF6	279	1	Borrower	ORG
-IF6	281	1	Loan	ORG
-IF6	281	2	seventeen million	CARDINAL
-IF6	282	1	2	CARDINAL
-IF6	283	1	Loan	ORG
-IF6	283	2	three	CARDINAL
-IF6	283	3	0.75%	PERCENT
-IF6	283	4	forty	DATE
-IF6	283	5	40) years	DATE
-IF6	283	6	ten	CARDINAL
-IF6	283	7	10) years	DATE
-IF6	284	1	Appendix	GPE
-IF6	285	1	The Loan Service Payment Currency	ORG
-IF6	285	2	the United States	GPE
-IF6	286	1	4	CARDINAL
-IF6	287	1	The first day	DATE
-IF6	287	2	Fiscal Year	EVENT
-IF6	287	3	1 July	DATE
-IF6	288	1	5	CARDINAL
-IF6	289	1	Loan	ORG
-IF6	289	2	each 15 February	DATE
-IF6	289	3	15 August	DATE
-IF6	290	1	6	CARDINAL
-IF6	291	1	Loan	ORG
-IF6	291	2	the Bangladesh Bank	ORG
-IF6	291	3	the “Central Bank of the Borrower”	ORG
-IF6	292	1	7	CARDINAL
-IF6	293	1	Bangladeshi Taka	ORG
-IF6	293	2	Loan	ORG
-IF6	294	1	IDA	ORG
-IF6	294	2	the Cooperating Institution	ORG
-IF6	294	3	Article III of the General Conditions	LAW
-IF6	296	1	Borrower	ORG
-IF6	296	2	Borrower	ORG
-IF6	296	3	the IDA Financing Agreement	LAW
-IF6	297	1	2	CARDINAL
-IF6	298	1	the IDA Financing Agreement	LAW
-IF6	299	1	3	CARDINAL
-IF6	300	1	General Conditions	ORG
-IF6	300	2	Section 7.05	LAW
-IF6	301	1	4	CARDINAL
-IF6	302	1	Economic Relations Division Ministry of Finance, Government of the People’s Republic of Bangladesh Sher-e-Bangla	ORG
-IF6	302	2	1207	DATE
-IF6	302	3	Bangladesh For the Fund: President International Fund for Agricultural Development	ORG
-IF6	302	4	44 00142	DATE
-IF6	302	5	Rome	GPE
-IF6	302	6	Italy	GPE
-IF6	302	7	English	LANGUAGE
-IF6	302	8	two	CARDINAL
-IF6	302	9	2	CARDINAL
-IF6	302	10	one	CARDINAL
-IF6	302	11	1	CARDINAL
-IF6	302	12	one	CARDINAL
-IF6	302	13	1	CARDINAL
-IF6	302	14	Borrower	ORG
-IF6	303	1	Appendix	GPE
-IF6	303	2	Appendix	GPE
-IF6	303	3	4 Schedule 1 Project Description and Implementation Arrangements	FAC
-IF6	303	4	Schedule 1	PRODUCT
-IF6	303	5	the IDA Financing Agreement	LAW
-IF6	303	6	Annex 1	FAC
-IF6	304	1	Schedule 2	LAW
-IF6	304	2	the IDA Financing Agreement	LAW
-IF6	305	1	Appendix	GPE
-IF6	305	2	1	CARDINAL
-IF6	307	1	Loan	ORG
-IF6	307	2	Loan	ORG
-IF6	307	3	Financed Inclusive of Taxes	ORG
-IF6	307	4	Goods	PERSON
-IF6	307	5	12%	PERCENT
-IF6	307	6	2	CARDINAL
-IF6	307	7	1(b)(i	CARDINAL
-IF6	307	8	600 000 12%	PERCENT
-IF6	307	9	3	CARDINAL
-IF6	307	10	2(i)(A	CARDINAL
-IF6	307	11	3(o)(A	CARDINAL
-IF6	307	12	4(i)(A	CARDINAL
-IF6	307	13	1 440	CARDINAL
-IF6	307	14	12%	PERCENT
-IF6	307	15	4	CARDINAL
-IF6	307	16	2(i)(B	CARDINAL
-IF6	307	17	3(o)(B	CARDINAL
-IF6	307	18	4(i)(B	CARDINAL
-IF6	307	19	390 000 12%	PERCENT
-IF6	307	20	Appendix	GPE
-IF6	307	21	National Agricultural Technology Program	ORG
-IF6	307	22	Phase II Project	WORK_OF_ART
-IF6	307	23	INTERNATIONAL DEVELOPMENT ASSOCIATION	ORG
-IF6	307	24	2015	DATE
-IF6	307	25	Appendix	GPE
-IF6	307	26	2015	DATE
-IF6	307	27	INTERNATIONAL DEVELOPMENT ASSOCIATION	ORG
-IF6	307	28	Association	WORK_OF_ART
-IF6	308	1	Association	ORG
-IF6	308	2	SDR 125,200,000	LAW
-IF6	308	3	Section 2.01	LAW
-IF6	308	4	Association	ORG
-IF6	308	5	the United States Agency for International Development Trust Fund	ORG
-IF6	308	6	USAID Trust Fund	ORG
-IF6	308	7	Association	ORG
-IF6	308	8	the USAID Trust Fund	ORG
-IF6	308	9	seven million four hundred	CARDINAL
-IF6	308	10	7,430,000	MONEY
-IF6	308	11	1(b)(ii	CARDINAL
-IF6	308	12	Grant Agreement	PERSON
-IF6	308	13	the International Fund for Agricultural Development	ORG
-IF6	308	14	IFAD	ORG
-IF6	308	15	IFAD	ORG
-IF6	308	16	twenty three million eight hundred sixty thousand Dollars	QUANTITY
-IF6	308	17	23,860,000	MONEY
-IF6	308	18	1.01	CARDINAL
-IF6	309	1	The General Conditions	ORG
-IF6	309	2	Appendix	GPE
-IF6	310	1	1.02	CARDINAL
-IF6	311	1	Appendix	GPE
-IF6	312	1	ARTICLE II —	PRODUCT
-IF6	313	1	Association	ORG
-IF6	313	2	one hundred and twenty five million two hundred thousand	CARDINAL
-IF6	313	3	Financing	WORK_OF_ART
-IF6	314	1	2.02	CARDINAL
-IF6	315	1	Section IV	ORG
-IF6	316	1	Appendix	GPE
-IF6	317	1	one-half	CARDINAL
-IF6	317	2	one percent	PERCENT
-IF6	317	3	1/2	CARDINAL
-IF6	317	4	1%	PERCENT
-IF6	318	1	2.04	CARDINAL
-IF6	319	1	Service Charge	ORG
-IF6	319	2	three-fourths	CARDINAL
-IF6	319	3	one percent	PERCENT
-IF6	319	4	3/4	CARDINAL
-IF6	319	5	1%	PERCENT
-IF6	320	1	2.05	CARDINAL
-IF6	321	1	February 15 and August 15 in each year	DATE
-IF6	322	1	2.06	CARDINAL
-IF6	324	1	2.07	CARDINAL
-IF6	326	1	3.01	CARDINAL
-IF6	328	1	Article IV of the General Conditions	ORG
-IF6	329	1	3.02	CARDINAL
-IF6	330	1	Section 3.01 of this Agreement	LAW
-IF6	330	2	Association	ORG
-IF6	330	3	Implementing Agencies	ORG
-IF6	330	4	Schedule 2	PRODUCT
-IF6	331	1	MOA	ORG
-IF6	331	2	BARC	ORG
-IF6	331	3	1	CARDINAL
-IF6	331	4	DAE	ORG
-IF6	331	5	2	CARDINAL
-IF6	331	6	3	CARDINAL
-IF6	331	7	DLS	ORG
-IF6	331	8	4	CARDINAL
-IF6	331	9	MOA	GPE
-IF6	331	10	5	CARDINAL
-IF6	332	1	ARTICLE IV —	ORG
-IF6	332	2	EFFECTIVENESS	ORG
-IF6	332	3	4.01	CARDINAL
-IF6	333	1	IFAD	ORG
-IF6	333	2	5	CARDINAL
-IF6	333	3	the Project Implementation Manual	ORG
-IF6	333	4	the Implementing Agencies	ORG
-IF6	333	5	Association	ORG
-IF6	334	1	4.02	CARDINAL
-IF6	335	1	ninety	CARDINAL
-IF6	335	2	90) days	DATE
-IF6	336	1	4.03	CARDINAL
-IF6	337	1	Section 8.05	LAW
-IF6	337	2	the General Conditions	ORG
-IF6	337	3	twenty	CARDINAL
-IF6	337	4	20) years	DATE
-IF6	338	1	5.01	CARDINAL
-IF6	339	1	the Economic Relations Division of the Recipient’s Ministry of Finance	ORG
-IF6	340	1	5.02	CARDINAL
-IF6	341	1	Economic Relations Division Ministry of Finance Government	ORG
-IF6	341	2	1207	DATE
-IF6	341	3	Bangladesh Facsimile	ORG
-IF6	341	4	88029180671 5.03	DATE
-IF6	342	1	International Development Association 1818	ORG
-IF6	342	2	N.W.	GPE
-IF6	343	1	Washington	GPE
-IF6	343	2	248423	CARDINAL
-IF6	343	3	MCI	ORG
-IF6	343	4	1	CARDINAL
-IF6	343	5	Washington	GPE
-IF6	344	1	AGREED	ORG
-IF6	344	2	People’s Republic of Bangladesh	GPE
-IF6	344	3	the day	DATE
-IF6	344	4	year first	DATE
-IF6	345	1	Appendix	GPE
-IF6	345	2	INTERNATIONAL DEVELOPMENT ASSOCIATION	ORG
-IF6	345	3	Appendix	GPE
-IF6	346	1	1	CARDINAL
-IF6	346	2	BARC	ORG
-IF6	346	3	the Implementing Agencies	ORG
-IF6	346	4	Grants	PERSON
-IF6	346	5	Grants	PERSON
-IF6	346	6	AIF-1/CRG	PRODUCT
-IF6	347	1	2	CARDINAL
-IF6	347	2	Supporting Crop Development Supporting DAE	WORK_OF_ART
-IF6	347	3	Appendix	GPE
-IF6	347	4	12	CARDINAL
-IF6	347	5	5	CARDINAL
-IF6	347	6	AIF-2	ORG
-IF6	347	7	Matching Grants	WORK_OF_ART
-IF6	347	8	AIF-3	GPE
-IF6	348	1	3	CARDINAL
-IF6	348	2	Matching Grants	WORK_OF_ART
-IF6	348	3	AIF-2	ORG
-IF6	348	4	Matching Grants	WORK_OF_ART
-IF6	348	5	AIF-3	GPE
-IF6	349	1	4	CARDINAL
-IF6	349	2	Appendix	GPE
-IF6	349	3	13	CARDINAL
-IF6	349	4	5	CARDINAL
-IF6	349	5	AIF-3	GPE
-IF6	350	1	5	CARDINAL
-IF6	350	2	GAAP	ORG
-IF6	351	1	Appendix	GPE
-IF6	351	2	14	CARDINAL
-IF6	354	1	no later than one month	DATE
-IF6	354	2	the Effective Date	WORK_OF_ART
-IF6	354	3	a Joint Project Steering Committee	LAW
-IF6	354	4	Association	ORG
-IF6	354	5	MoA	PERSON
-IF6	354	6	MoFL	ORG
-IF6	354	7	the Planning Commission	ORG
-IF6	354	8	each Implementing Agency	ORG
-IF6	354	9	annual	DATE
-IF6	354	10	Project Management Unit	ORG
-IF6	354	11	Association	ORG
-IF6	354	12	Association	ORG
-IF6	354	13	Association	ORG
-IF6	354	14	the Project Implementation Units	ORG
-IF6	355	1	2	CARDINAL
-IF6	356	1	no later than two months	DATE
-IF6	356	2	the Effective Date	WORK_OF_ART
-IF6	356	3	the Implementing Agencies	ORG
-IF6	356	4	Project Implementation Unit	ORG
-IF6	356	5	Association	ORG
-IF6	356	6	Association	ORG
-IF6	356	7	Association	ORG
-IF6	356	8	Appendix	GPE
-IF6	356	9	15	CARDINAL
-IF6	356	10	5	CARDINAL
-IF6	356	11	the Project Implementation Manual	ORG
-IF6	357	1	3	CARDINAL
-IF6	358	1	DAE	ORG
-IF6	358	2	HORTEX	ORG
-IF6	358	3	Association	ORG
-IF6	358	4	DAE	ORG
-IF6	361	1	the Project Implementation Manual	LAW
-IF6	361	2	Association	ORG
-IF6	362	1	2	CARDINAL
-IF6	364	1	3	CARDINAL
-IF6	365	1	Association	ORG
-IF6	365	2	the Project Implementation Manual	ORG
-IF6	366	1	C. Agricultural Innovation Fund Operational Guidelines and Procedures 1	ORG
-IF6	367	1	Association	ORG
-IF6	367	2	16	CARDINAL
-IF6	367	3	5	CARDINAL
-IF6	367	4	the Eligible Beneficiary	WORK_OF_ART
-IF6	367	5	the Agricultural Innovation Fund Operational Guidelines and Procedures	EVENT
-IF6	367	6	thirty percent	PERCENT
-IF6	367	7	30%	PERCENT
-IF6	367	8	the Matching Grant	PERSON
-IF6	367	9	AIF-2	GPE
-IF6	367	10	fifty percent	PERCENT
-IF6	367	11	50%	PERCENT
-IF6	367	12	the Matching Grant	PERSON
-IF6	367	13	AIF-3	GPE
-IF6	367	14	Association	ORG
-IF6	367	15	Grants or Matching Grants	WORK_OF_ART
-IF6	367	16	Subproject	ORG
-IF6	367	17	EMF	ORG
-IF6	367	18	SMF	ORG
-IF6	367	19	PMP	ORG
-IF6	367	20	Safeguards Assessment and Plan	ORG
-IF6	367	21	the Implementing Agency	ORG
-IF6	367	22	Association	ORG
-IF6	367	23	Subproject	ORG
-IF6	367	24	the Implementing Agency	ORG
-IF6	367	25	Subproject Financing	ORG
-IF6	367	26	the Subproject Financing Agreement	LAW
-IF6	368	1	2	CARDINAL
-IF6	369	1	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	369	2	Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	370	1	3	CARDINAL
-IF6	371	1	Association	ORG
-IF6	371	2	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	372	1	4	CARDINAL
-IF6	373	1	September 30, 2017	DATE
-IF6	373	2	Association	ORG
-IF6	373	3	third	ORDINAL
-IF6	373	4	Association	ORG
-IF6	373	5	two	CARDINAL
-IF6	373	6	2	CARDINAL
-IF6	373	7	one	CARDINAL
-IF6	373	8	Association	ORG
-IF6	373	9	Appendix	GPE
-IF6	373	10	17	CARDINAL
-IF6	373	11	5	CARDINAL
-IF6	373	12	July 31, 2018	DATE
-IF6	373	13	Association	ORG
-IF6	373	14	Association	ORG
-IF6	374	1	D. Environmental and	ORG
-IF6	374	2	1	CARDINAL
-IF6	375	1	EMF	ORG
-IF6	375	2	SMF	ORG
-IF6	375	3	PMP	ORG
-IF6	375	4	Safeguard Assessments	PERSON
-IF6	375	5	Plans	NORP
-IF6	376	1	2	CARDINAL
-IF6	377	1	Safeguard Assessment and Plan	ORG
-IF6	377	2	Subproject	ORG
-IF6	377	3	EMF	ORG
-IF6	377	4	SMF	ORG
-IF6	377	5	Safeguard Assessment and Plan	ORG
-IF6	377	6	EMF	ORG
-IF6	377	7	SMF	ORG
-IF6	377	8	the Association for review and approval	ORG
-IF6	377	9	Association	ORG
-IF6	377	10	Association	ORG
-IF6	377	11	Safeguard Assessment and Plan	ORG
-IF6	377	12	RAP	ORG
-IF6	377	13	Affected Persons	PERSON
-IF6	378	1	3	CARDINAL
-IF6	379	1	EMF	ORG
-IF6	379	2	SMF	ORG
-IF6	379	3	PMP	ORG
-IF6	379	4	Plans	NORP
-IF6	379	5	Association	ORG
-IF6	380	1	4	CARDINAL
-IF6	381	1	Association	ORG
-IF6	381	2	annual	DATE
-IF6	381	3	Association	ORG
-IF6	381	4	EMF	ORG
-IF6	381	5	SMF	ORG
-IF6	381	6	PMP	ORG
-IF6	381	7	Plans	NORP
-IF6	381	8	Appendix	GPE
-IF6	381	9	18	CARDINAL
-IF6	381	10	5	CARDINAL
-IF6	382	1	5	CARDINAL
-IF6	383	1	EMF	ORG
-IF6	383	2	SMF	ORG
-IF6	383	3	PMP	ORG
-IF6	384	1	E. Anti-Corruption	PERSON
-IF6	385	1	the Anti-Corruption Guidelines	ORG
-IF6	386	1	2	CARDINAL
-IF6	387	1	1	CARDINAL
-IF6	387	2	Association	ORG
-IF6	388	1	Section II	ORG
-IF6	391	1	Section 4.08 of the General Conditions	LAW
-IF6	391	2	Association	ORG
-IF6	391	3	the Project Implementation Manual	ORG
-IF6	392	1	quarter	DATE
-IF6	392	2	Association	ORG
-IF6	392	3	45) days	DATE
-IF6	393	1	2	CARDINAL
-IF6	394	1	1	CARDINAL
-IF6	394	2	later than four months	DATE
-IF6	394	3	the Effective Date	WORK_OF_ART
-IF6	394	4	third	ORDINAL
-IF6	394	5	Association	ORG
-IF6	396	1	Financial Management	ORG
-IF6	396	2	Financial Reports	ORG
-IF6	396	3	Audits 1	ORG
-IF6	397	1	Section 4.09	LAW
-IF6	397	2	the General Conditions	ORG
-IF6	398	1	Appendix	GPE
-IF6	398	2	19	CARDINAL
-IF6	399	1	Association	ORG
-IF6	399	2	the Project Report	ORG
-IF6	399	3	forty-five	CARDINAL
-IF6	399	4	45) days	DATE
-IF6	399	5	quarter	DATE
-IF6	399	6	the quarter	DATE
-IF6	399	7	Association	ORG
-IF6	400	1	3	CARDINAL
-IF6	401	1	Financial Statements	ORG
-IF6	401	2	Section 4.09	LAW
-IF6	401	3	the General Conditions	ORG
-IF6	402	1	one	CARDINAL
-IF6	402	2	1) fiscal year	DATE
-IF6	403	1	Association	ORG
-IF6	403	2	six	CARDINAL
-IF6	403	3	6) months	DATE
-IF6	407	1	Section I of the Procurement Guidelines	LAW
-IF6	407	2	Section	ORG
-IF6	408	1	2	CARDINAL
-IF6	409	1	the Consultant Guidelines	ORG
-IF6	410	1	3	CARDINAL
-IF6	411	1	Association of particular contracts	ORG
-IF6	411	2	Sections II	PRODUCT
-IF6	411	3	III	ORG
-IF6	411	4	Sections II	PERSON
-IF6	411	5	III	ORG
-IF6	411	6	IV	ORG
-IF6	411	7	the Consultant Guidelines	ORG
-IF6	413	1	1	CARDINAL
-IF6	413	2	International Competitive Bidding	ORG
-IF6	414	1	2	CARDINAL
-IF6	414	2	International Competitive Bidding	FAC
-IF6	415	1	2	CARDINAL
-IF6	416	1	Methods of Procurement of Goods	LAW
-IF6	417	1	International Competitive Bidding	ORG
-IF6	417	2	the Procurement Plan	WORK_OF_ART
-IF6	417	3	National Competitive Bidding	WORK_OF_ART
-IF6	417	4	3	CARDINAL
-IF6	417	5	Appendix	GPE
-IF6	418	1	3	CARDINAL
-IF6	419	1	National Competitive Bidding Procedures	ORG
-IF6	420	1	National Competitive Bidding	ORG
-IF6	420	2	Association	ORG
-IF6	420	3	1	CARDINAL
-IF6	420	4	two	CARDINAL
-IF6	420	5	2	CARDINAL
-IF6	421	1	C. Particular Methods of Procurement of Consultants’ Services 1	WORK_OF_ART
-IF6	423	1	2	CARDINAL
-IF6	424	1	2	CARDINAL
-IF6	425	1	Methods of Procurement of Consultants’ Services	LAW
-IF6	426	1	5.2	CARDINAL
-IF6	426	2	5.3	CARDINAL
-IF6	426	3	the Consultant Guidelines	ORG
-IF6	426	4	the Selection of Individual Consultants	ORG
-IF6	426	5	Association	ORG
-IF6	427	1	Section	ORG
-IF6	427	2	Selected Goods and Services	ORG
-IF6	427	3	the Project Implementation Manual	ORG
-IF6	428	1	Appendix	GPE
-IF6	428	2	21	CARDINAL
-IF6	428	3	the Association of Procurement Decisions	ORG
-IF6	428	4	the Association’s Prior Review	ORG
-IF6	429	1	Post Review	ORG
-IF6	429	2	Association	ORG
-IF6	433	1	Article II of the General Conditions	LAW
-IF6	433	2	Association	ORG
-IF6	433	3	the “World Bank Disbursement Guidelines for Projects	ORG
-IF6	433	4	May 2006	DATE
-IF6	433	5	Association	ORG
-IF6	433	6	2	CARDINAL
-IF6	434	1	2	CARDINAL
-IF6	435	1	Category	WORK_OF_ART
-IF6	435	2	Financing	PRODUCT
-IF6	435	3	Category	WORK_OF_ART
-IF6	435	4	Eligible Expenditures	WORK_OF_ART
-IF6	435	5	Taxes	PERSON
-IF6	435	6	1	CARDINAL
-IF6	435	7	Incremental Operating Costs	ORG
-IF6	435	8	11,750,000 88%	PERCENT
-IF6	435	9	3	CARDINAL
-IF6	435	10	2(i)(A	CARDINAL
-IF6	435	11	3(o)(A	CARDINAL
-IF6	435	12	4(i)(A	CARDINAL
-IF6	435	13	10,650,000 88%	PERCENT
-IF6	435	14	a Matching Grant	WORK_OF_ART
-IF6	435	15	4	CARDINAL
-IF6	435	16	2(i)(B	CARDINAL
-IF6	435	17	3(o)(B	CARDINAL
-IF6	435	18	4(i)(B	CARDINAL
-IF6	435	19	2,850,000	CARDINAL
-IF6	435	20	88%	PERCENT
-IF6	435	21	a Matching Grant	WORK_OF_ART
-IF6	435	22	5	CARDINAL
-IF6	435	23	400,000	CARDINAL
-IF6	435	24	Section 2.07 of the General Conditions TOTAL AMOUNT	LAW
-IF6	435	25	22	CARDINAL
-IF6	437	1	2	CARDINAL
-IF6	437	2	Association	ORG
-IF6	437	3	Association	ORG
-IF6	437	4	Category	ORG
-IF6	437	5	3	CARDINAL
-IF6	437	6	the AIF-2 Operational Guidelines and Procedures	ORG
-IF6	437	7	Association	ORG
-IF6	437	8	Category	ORG
-IF6	437	9	4	CARDINAL
-IF6	437	10	the AIF-3 Operational Guidelines and Procedures	LAW
-IF6	437	11	Association	ORG
-IF6	437	12	Association	ORG
-IF6	438	1	2	CARDINAL
-IF6	439	1	September 30, 2021	DATE
-IF6	440	1	12) months	DATE
-IF6	440	2	the Effective Date	WORK_OF_ART
-IF6	440	3	Association	ORG
-IF6	441	1	Appendix	GPE
-IF6	441	2	23	CARDINAL
-IF6	441	3	each February 15 and August 15	DATE
-IF6	441	4	August 15, 2021	DATE
-IF6	441	5	February 15, 2053	DATE
-IF6	441	6	1.5625%	PERCENT
-IF6	441	7	Association	ORG
-IF6	441	8	Section 3.03	LAW
-IF6	441	9	the General Conditions	ORG
-IF6	442	1	Appendix	GPE
-IF6	442	2	24	CARDINAL
-IF6	442	3	1	CARDINAL
-IF6	443	1	AIF-1/CRG	PRODUCT
-IF6	443	2	Agriculture Innovation Fund Window 1	ORG
-IF6	444	1	2	CARDINAL
-IF6	445	1	AIF-1/PBRG	ORG
-IF6	445	2	Agriculture Innovation Fund Window 1	ORG
-IF6	445	3	Performance Based Research	ORG
-IF6	446	1	3	CARDINAL
-IF6	447	1	Agriculture Innovation Fund Window 2	ORG
-IF6	448	1	4	CARDINAL
-IF6	449	1	Agriculture Innovation Fund Window 3	ORG
-IF6	450	1	5	CARDINAL
-IF6	451	1	AIF-1/CRG Operational Guidelines and Procedures	LAW
-IF6	451	2	AIF-1	PRODUCT
-IF6	451	3	CRG	PRODUCT
-IF6	451	4	Section	ORG
-IF6	451	5	1(b)(ii	CARDINAL
-IF6	452	1	6	CARDINAL
-IF6	453	1	AIF-1/PBRG Operational Guidelines and Procedures	ORG
-IF6	453	2	AIF-1	GPE
-IF6	453	3	Section	LAW
-IF6	453	4	Schedule 2	PRODUCT
-IF6	454	1	7	CARDINAL
-IF6	455	1	AIF-2 Operational Guidelines and Procedures	WORK_OF_ART
-IF6	455	2	AIF-2	ORG
-IF6	455	3	Section	ORG
-IF6	455	4	2(i)(A	CARDINAL
-IF6	455	5	3(o)(A	CARDINAL
-IF6	455	6	4(i)(A	CARDINAL
-IF6	455	7	AIF-2	ORG
-IF6	456	1	8	CARDINAL
-IF6	457	1	AIF-3 Operational Guidelines and Procedures	WORK_OF_ART
-IF6	457	2	AIF-3	ORG
-IF6	457	3	Section	ORG
-IF6	457	4	Matching Grants	PERSON
-IF6	457	5	2(i)(B	CARDINAL
-IF6	457	6	3(o)(B	CARDINAL
-IF6	457	7	4(i)(B	CARDINAL
-IF6	457	8	Section	ORG
-IF6	457	9	AIF-3	GPE
-IF6	458	1	9	CARDINAL
-IF6	459	1	Affected Person	WORK_OF_ART
-IF6	459	2	Appendix	GPE
-IF6	459	3	5	CARDINAL
-IF6	459	4	Affected Persons	WORK_OF_ART
-IF6	460	1	10	CARDINAL
-IF6	462	1	the Association 11	LAW
-IF6	463	1	Anti-Corruption Guidelines	LAW
-IF6	463	2	the “Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants	WORK_OF_ART
-IF6	463	3	October 15, 2006	DATE
-IF6	463	4	January 2011	DATE
-IF6	464	1	12	CARDINAL
-IF6	465	1	BARC	WORK_OF_ART
-IF6	465	2	the Bangladesh Agricultural Research Council	ORG
-IF6	465	3	1973	DATE
-IF6	465	4	1973	DATE
-IF6	465	5	2012 through the BARC Act	DATE
-IF6	465	6	2012	DATE
-IF6	466	1	13	CARDINAL
-IF6	467	1	Category	WORK_OF_ART
-IF6	467	2	Section IV	ORG
-IF6	468	1	14	CARDINAL
-IF6	469	1	IDA	ORG
-IF6	469	2	World Bank Borrowers	ORG
-IF6	469	3	January 2011(revised July 2014	DATE
-IF6	470	1	15	CARDINAL
-IF6	471	1	DAE	ORG
-IF6	471	2	the Department of Agricultural Extension	ORG
-IF6	471	3	MOA	ORG
-IF6	471	4	Association	ORG
-IF6	472	1	16	CARDINAL
-IF6	473	1	DLS	ORG
-IF6	473	2	the Department of Livestock Services	ORG
-IF6	473	3	MOFL	ORG
-IF6	473	4	Association	ORG
-IF6	474	1	17	CARDINAL
-IF6	475	1	the Department of Fisheries	ORG
-IF6	475	2	MOFL	ORG
-IF6	475	3	Association	ORG
-IF6	476	1	18	CARDINAL
-IF6	477	1	EIA	ORG
-IF6	477	2	EMF	ORG
-IF6	477	3	Section I.D of Schedule 2	ORG
-IF6	477	4	Association	ORG
-IF6	477	5	EIA	ORG
-IF6	478	1	19	CARDINAL
-IF6	479	1	Implementing Agency	ORG
-IF6	479	2	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	479	3	a Subproject Financing Agreement	LAW
-IF6	479	4	Implementing Agency	ORG
-IF6	480	1	20	CARDINAL
-IF6	481	1	EMF	ORG
-IF6	481	2	November 5, 2014	DATE
-IF6	481	3	November 18, 2014	DATE
-IF6	481	4	Appendix	GPE
-IF6	481	5	26	CARDINAL
-IF6	481	6	5	CARDINAL
-IF6	482	1	21	CARDINAL
-IF6	483	1	EMP	WORK_OF_ART
-IF6	483	2	EMF	ORG
-IF6	483	3	Section I.D of Schedule 2	ORG
-IF6	483	4	Association	ORG
-IF6	483	5	EMP	ORG
-IF6	484	1	22	CARDINAL
-IF6	485	1	the “International Development Association General Conditions for Credits and Grants”	ORG
-IF6	485	2	July 31, 2010	DATE
-IF6	486	1	23	CARDINAL
-IF6	487	1	GAAP	WORK_OF_ART
-IF6	487	2	Association	ORG
-IF6	487	3	May 10, 2015	DATE
-IF6	487	4	GAAP	ORG
-IF6	488	1	24	CARDINAL
-IF6	489	1	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	490	1	25	CARDINAL
-IF6	491	1	the Horticulture Export Development Foundation	ORG
-IF6	491	2	Association	ORG
-IF6	492	1	26	CARDINAL
-IF6	493	1	IFAD	ORG
-IF6	493	2	the International Fund for Agricultural Development	ORG
-IF6	494	1	27	CARDINAL
-IF6	495	1	IFAD Co-financing Loan Agreement	ORG
-IF6	495	2	IFAD	ORG
-IF6	495	3	23,860,000	MONEY
-IF6	496	1	28	CARDINAL
-IF6	497	1	BARC	ORG
-IF6	497	2	DAE	ORG
-IF6	497	3	DLS	ORG
-IF6	498	1	29	CARDINAL
-IF6	499	1	day	DATE
-IF6	499	2	Appendix	GPE
-IF6	499	3	5	CARDINAL
-IF6	499	4	PIM	ORG
-IF6	499	5	the Project Implementation Units	ORG
-IF6	500	1	30	CARDINAL
-IF6	501	1	Joint Project Steering Committee	ORG
-IF6	501	2	Section I.A.1(a	LAW
-IF6	502	1	31	CARDINAL
-IF6	503	1	Matching Grant	WORK_OF_ART
-IF6	503	2	Subproject	PRODUCT
-IF6	503	3	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	503	4	Matching Grants	WORK_OF_ART
-IF6	504	1	32	CARDINAL
-IF6	505	1	MOA	ORG
-IF6	505	2	the Recipient’s Ministry of Agriculture	ORG
-IF6	505	3	Association	ORG
-IF6	506	1	33	CARDINAL
-IF6	507	1	the Recipient’s Ministry of Fisheries and Livestock	ORG
-IF6	507	2	Association	ORG
-IF6	508	1	34	CARDINAL
-IF6	509	1	National Agricultural Research System	ORG
-IF6	509	2	twelve	CARDINAL
-IF6	509	3	BARC	ORG
-IF6	510	1	35	CARDINAL
-IF6	511	1	PMP	ORG
-IF6	511	2	November 5, 2014	DATE
-IF6	511	3	November 18, 2014	DATE
-IF6	512	1	36	CARDINAL
-IF6	513	1	Guidelines: Procurement of Goods, Works and Non-consulting Services	WORK_OF_ART
-IF6	513	2	IDA	ORG
-IF6	513	3	World Bank Borrowers	ORG
-IF6	513	4	January 2011	DATE
-IF6	513	5	July 2014	DATE
-IF6	514	1	37	CARDINAL
-IF6	515	1	2006	DATE
-IF6	516	1	24	CARDINAL
-IF6	516	2	August 2009	DATE
-IF6	516	3	Public Procurement Act	LAW
-IF6	516	4	1st Amendment	LAW
-IF6	516	5	2009	DATE
-IF6	517	1	38	CARDINAL
-IF6	518	1	May 9, 2015	DATE
-IF6	518	2	1.18	CARDINAL
-IF6	518	3	1.25	CARDINAL
-IF6	518	4	the Consultant Guidelines	ORG
-IF6	519	1	39	CARDINAL
-IF6	520	1	PIM	ORG
-IF6	520	2	Section I.B.1 of Schedule 2	LAW
-IF6	521	1	Appendix	GPE
-IF6	521	2	28	CARDINAL
-IF6	522	1	the Implementing Agencies	ORG
-IF6	522	2	Section I.A.2 of Schedule 2	ORG
-IF6	522	3	Project Implementation Units	WORK_OF_ART
-IF6	522	4	Project Implementation Units	ORG
-IF6	523	1	41	CARDINAL
-IF6	524	1	Section 1.A.1(b	ORG
-IF6	524	2	2	CARDINAL
-IF6	525	1	42	CARDINAL
-IF6	526	1	Project Preparation Advance	WORK_OF_ART
-IF6	526	2	Section 2.07	LAW
-IF6	526	3	the General Conditions	ORG
-IF6	526	4	Association	ORG
-IF6	526	5	Association	ORG
-IF6	526	6	February 16, 2015,	DATE
-IF6	526	7	March 3, 2015	DATE
-IF6	527	1	43	CARDINAL
-IF6	528	1	RAP	ORG
-IF6	528	2	SMF	ORG
-IF6	528	3	Section I.D of Schedule 2	ORG
-IF6	528	4	Association	ORG
-IF6	528	5	Affected Persons	PERSON
-IF6	528	6	RAP	ORG
-IF6	529	1	44	CARDINAL
-IF6	530	1	EIA	ORG
-IF6	530	2	SIA	ORG
-IF6	530	3	EMP	ORG
-IF6	530	4	SMP	ORG
-IF6	530	5	RAP	ORG
-IF6	530	6	SEVCDP	ORG
-IF6	530	7	TPDP	ORG
-IF6	530	8	EMF	ORG
-IF6	530	9	Section I.D	ORG
-IF6	531	1	45	CARDINAL
-IF6	532	1	fifty-seven	CARDINAL
-IF6	532	2	57	CARDINAL
-IF6	533	1	46	CARDINAL
-IF6	534	1	Implementing Agency	ORG
-IF6	534	2	the Procurement Plan	WORK_OF_ART
-IF6	535	1	47	CARDINAL
-IF6	536	1	SEVCDP	ORG
-IF6	536	2	Association	ORG
-IF6	536	3	SMF	ORG
-IF6	536	4	Small Ethnic Communities	ORG
-IF6	536	5	SMF	ORG
-IF6	536	6	Association	ORG
-IF6	537	1	Appendix	GPE
-IF6	537	2	29	CARDINAL
-IF6	538	1	SIA	ORG
-IF6	538	2	SMF	ORG
-IF6	538	3	Section I.D of Schedule 2	ORG
-IF6	538	4	Association	ORG
-IF6	538	5	SIA	ORG
-IF6	539	1	49	CARDINAL
-IF6	540	1	Small Ethnic Communities	WORK_OF_ART
-IF6	540	2	Bangla	GPE
-IF6	541	1	50	CARDINAL
-IF6	542	1	November 5, 2014	DATE
-IF6	542	2	November 18, 2014	DATE
-IF6	543	1	51	CARDINAL
-IF6	544	1	SMP	ORG
-IF6	544	2	SMF	ORG
-IF6	544	3	Section I.D of Schedule 2	ORG
-IF6	544	4	Association	ORG
-IF6	544	5	Association	ORG
-IF6	544	6	SMP	ORG
-IF6	545	1	Appendix	GPE
-IF6	545	2	30	CARDINAL
-IF6	546	1	a Subproject Financing Agreement	LAW
-IF6	547	1	53	CARDINAL
-IF6	548	1	Subproject Financing Agreement	LAW
-IF6	548	2	the Implementing Agency	ORG
-IF6	549	1	the Agricultural Innovation Fund Operational Guidelines and Procedures	ORG
-IF6	550	1	54	CARDINAL
-IF6	551	1	Association	ORG
-IF6	551	2	annual	DATE
-IF6	552	1	honoraria	GPE
-IF6	553	1	55	CARDINAL
-IF6	554	1	the United States Agency for International Development	ORG
-IF6	555	1	56	CARDINAL
-IF6	556	1	trustee	ORG
-IF6	556	2	USAID	GPE
-IF6	556	3	7,430,000	MONEY
-IF6	556	4	1(b)(ii	CARDINAL
-IF6	557	1	Logical	PERSON
-IF6	557	2	Baseline	ORG
-IF6	557	3	2014	DATE
-IF6	557	4	Annual	DATE
-IF6	557	5	Comments Year 1 Year 2 Year 3	DATE
-IF6	557	6	Year 4 Year 5 Year	DATE
-IF6	557	7	PDO Level Indicators 1	PRODUCT
-IF6	558	1	Rice	PERSON
-IF6	558	2	4.7	CARDINAL
-IF6	558	3	30.0	CARDINAL
-IF6	558	4	3.0	CARDINAL
-IF6	558	5	160	CARDINAL
-IF6	558	6	3.0	CARDINAL
-IF6	558	7	0.7	CARDINAL
-IF6	558	8	4.7	CARDINAL
-IF6	558	9	30.0	CARDINAL
-IF6	558	10	3.0	CARDINAL
-IF6	558	11	160	CARDINAL
-IF6	558	12	3.0	CARDINAL
-IF6	558	13	4.8	CARDINAL
-IF6	558	14	31.2	CARDINAL
-IF6	558	15	3.2	CARDINAL
-IF6	558	16	175	CARDINAL
-IF6	558	17	3.4	CARDINAL
-IF6	558	18	0.8	CARDINAL
-IF6	558	19	5.0	CARDINAL
-IF6	558	20	32.4	CARDINAL
-IF6	558	21	3.4	CARDINAL
-IF6	558	22	185	CARDINAL
-IF6	558	23	3.7	CARDINAL
-IF6	558	24	1.0	CARDINAL
-IF6	558	25	5.1	CARDINAL
-IF6	558	26	33.6	CARDINAL
-IF6	558	27	3.5	CARDINAL
-IF6	558	28	200	CARDINAL
-IF6	558	29	4.1	CARDINAL
-IF6	558	30	5.2	CARDINAL
-IF6	558	31	34.8	CARDINAL
-IF6	558	32	3.7	CARDINAL
-IF6	558	33	215	CARDINAL
-IF6	558	34	4.4	CARDINAL
-IF6	558	35	1.3	CARDINAL
-IF6	558	36	5.4	CARDINAL
-IF6	558	37	36.0	CARDINAL
-IF6	558	38	3.9	CARDINAL
-IF6	558	39	225	CARDINAL
-IF6	558	40	4.8	CARDINAL
-IF6	558	41	1.4	CARDINAL
-IF6	558	42	DAE	ORG
-IF6	558	43	DLS	ORG
-IF6	558	44	DOF district & Upazila	ORG
-IF6	558	45	Rice	PERSON
-IF6	558	46	Tomato	PERSON
-IF6	558	47	Tomato	PERSON
-IF6	558	48	Tomato	PERSON
-IF6	558	49	Tomato	PERSON
-IF6	558	50	Tomato	PERSON
-IF6	558	51	Tomato	PERSON
-IF6	558	52	Tomato	PERSON
-IF6	558	53	2	CARDINAL
-IF6	559	1	annually	DATE
-IF6	559	2	8,400	CARDINAL
-IF6	559	3	DAE	ORG
-IF6	559	4	DOF	ORG
-IF6	559	5	DLS Actual	ORG
-IF6	559	6	3	CARDINAL
-IF6	560	1	397,600	CARDINAL
-IF6	560	2	29%	PERCENT
-IF6	560	3	600,000	CARDINAL
-IF6	560	4	35%	PERCENT
-IF6	560	5	800,000	CARDINAL
-IF6	560	6	35%	PERCENT
-IF6	560	7	1,000,000	CARDINAL
-IF6	560	8	35%	PERCENT
-IF6	560	9	1,000,000	CARDINAL
-IF6	560	10	35%	PERCENT
-IF6	560	11	1,000,000	CARDINAL
-IF6	560	12	35%	PERCENT
-IF6	560	13	1,000,000	CARDINAL
-IF6	560	14	35%	PERCENT
-IF6	560	15	annual	DATE
-IF6	560	16	DAE	ORG
-IF6	560	17	DOF	ORG
-IF6	560	18	DLS	ORG
-IF6	560	19	1st	ORDINAL
-IF6	560	20	Baseline	ORG
-IF6	560	21	2014	DATE
-IF6	560	22	Annual	DATE
-IF6	560	23	Comments Year 1 Year 2 Year 3	DATE
-IF6	560	24	Year 4 Year 5 Year	DATE
-IF6	560	25	4	CARDINAL
-IF6	561	1	40	CARDINAL
-IF6	561	2	5	CARDINAL
-IF6	562	1	15	CARDINAL
-IF6	562	2	130	CARDINAL
-IF6	562	3	130	CARDINAL
-IF6	562	4	Semi-annual	DATE
-IF6	562	5	30	CARDINAL
-IF6	562	6	PBRG	ORG
-IF6	562	7	100	CARDINAL
-IF6	562	8	6	CARDINAL
-IF6	563	1	Farmers	ORG
-IF6	563	2	tbd %	PERCENT
-IF6	563	3	66%	PERCENT
-IF6	563	4	64%	PERCENT
-IF6	563	5	74%	PERCENT
-IF6	563	6	68%	PERCENT
-IF6	563	7	79%	PERCENT
-IF6	563	8	77%) 85%	PERCENT
-IF6	563	9	84%) 89%	PERCENT
-IF6	563	10	89%	PERCENT
-IF6	563	11	93%	PERCENT
-IF6	563	12	93%	PERCENT
-IF6	563	13	DOF	ORG
-IF6	563	14	DLS Actual	ORG
-IF6	563	15	7	CARDINAL
-IF6	564	1	at least 1	CARDINAL
-IF6	564	2	0	CARDINAL
-IF6	564	3	0	CARDINAL
-IF6	564	4	0%	PERCENT
-IF6	564	5	226,000	CARDINAL
-IF6	564	6	35%	PERCENT
-IF6	564	7	396,000	CARDINAL
-IF6	564	8	35%	PERCENT
-IF6	564	9	529,000	CARDINAL
-IF6	564	10	35%	PERCENT
-IF6	564	11	602,000	CARDINAL
-IF6	564	12	35%	PERCENT
-IF6	564	13	640,000	CARDINAL
-IF6	564	14	35%	PERCENT
-IF6	564	15	Semi-annual	DATE
-IF6	564	16	PIU DAE	ORG
-IF6	564	17	DOF	ORG
-IF6	564	18	DLS Actual	ORG
-IF6	564	19	8	CARDINAL
-IF6	565	1	15 30	CARDINAL
-IF6	565	2	95	CARDINAL
-IF6	565	3	120 140	CARDINAL
-IF6	565	4	Annual	DATE
-IF6	565	5	PIU DAE	ORG
-IF6	565	6	DOF	ORG
-IF6	565	7	Baseline	ORG
-IF6	565	8	2014	DATE
-IF6	565	9	Annual	DATE
-IF6	565	10	Comments Year 1 Year 2 Year 3	DATE
-IF6	565	11	Year 4 Year 5 Year	DATE
-IF6	565	12	9	DATE
-IF6	566	1	Agricultural Innovation Fund: Technology	ORG
-IF6	566	2	AIF-2&3	CARDINAL
-IF6	566	3	0	CARDINAL
-IF6	566	4	2,800	CARDINAL
-IF6	566	5	3,500	CARDINAL
-IF6	566	6	Semi-annual	DATE
-IF6	566	7	3,000	CARDINAL
-IF6	566	8	10	CARDINAL
-IF6	567	1	Client-days	DATE
-IF6	567	2	0	CARDINAL
-IF6	567	3	0%	PERCENT
-IF6	567	4	500,000	CARDINAL
-IF6	567	5	35%	PERCENT
-IF6	567	6	1,000,000	CARDINAL
-IF6	567	7	35%	PERCENT
-IF6	567	8	1,000,000	CARDINAL
-IF6	567	9	35%	PERCENT
-IF6	567	10	700,000	CARDINAL
-IF6	567	11	35%	PERCENT
-IF6	567	12	600,000	CARDINAL
-IF6	567	13	35%	PERCENT
-IF6	567	14	500,000	CARDINAL
-IF6	567	15	35%	PERCENT
-IF6	567	16	Semi-annual	DATE
-IF6	567	17	DAE	ORG
-IF6	567	18	DOF	ORG
+IF6	132	4	the Government of Bangladesh	ORG
+IF6	133	1	third	ORDINAL
+IF6	133	2	the World Bank	ORG
+IF6	133	3	IFAD	ORG
+IF6	133	4	vii	ORG
+IF6	133	5	the World Bank	ORG
+IF6	133	6	IFAD	ORG
+IF6	134	1	3	CARDINAL
+IF6	134	2	the World Bank’s Project Appraisal Document	ORG
+IF6	135	1	29	CARDINAL
+IF6	137	1	the World Bank	ORG
+IF6	137	2	Guidelines: Procurement of Goods, Works and Non-Consulting Services	WORK_OF_ART
+IF6	137	3	IDA	ORG
+IF6	137	4	World Bank Borrowers	ORG
+IF6	137	5	July 2014	DATE
+IF6	137	6	Guidelines: Selection and Employment of Consulting Services	WORK_OF_ART
+IF6	137	7	IDA	ORG
+IF6	137	8	World Bank Borrowers	ORG
+IF6	137	9	July 2014	DATE
+IF6	137	10	Consultant Guidelines	ORG
+IF6	139	1	the Public Procurement Act 2006	LAW
+IF6	139	2	2006	DATE
+IF6	140	1	30	CARDINAL
+IF6	141	1	NATP-II	ORG
+IF6	141	2	the World Bank	ORG
+IF6	142	1	5	CARDINAL
+IF6	142	2	four	CARDINAL
+IF6	143	1	six	CARDINAL
+IF6	143	2	two	CARDINAL
+IF6	143	3	one	CARDINAL
+IF6	143	4	PIU	ORG
+IF6	144	1	the first 18 months	DATE
+IF6	145	1	four	CARDINAL
+IF6	145	2	BARC	ORG
+IF6	145	3	the Ministry of Agriculture	ORG
+IF6	146	1	31	CARDINAL
+IF6	148	1	annual	DATE
+IF6	148	2	six months	DATE
+IF6	148	3	the end of the fiscal year	DATE
+IF6	152	1	first	ORDINAL
+IF6	152	2	the end of the second year	DATE
+IF6	153	1	32	CARDINAL
+IF6	155	1	Lessons	ORG
+IF6	155	2	the last five years	DATE
+IF6	156	1	BARC	ORG
+IF6	156	2	Department of Fisheries	ORG
+IF6	156	3	Department of Livestock Services	ORG
+IF6	159	1	third	ORDINAL
+IF6	161	1	the Bank’s Disclosure Policy	ORG
+IF6	161	2	Right to Information Act	WORK_OF_ART
+IF6	162	1	33	CARDINAL
+IF6	164	1	NATP-II	ORG
+IF6	164	2	Governance and Accountability Action Plan	ORG
+IF6	164	3	GAAP	ORG
+IF6	166	1	Bank	ORG
+IF6	166	2	IFAD	ORG
+IF6	167	1	GAAP	ORG
+IF6	169	1	IFAD	ORG
+IF6	169	2	the World Bank	ORG
+IF6	171	1	A. Programme	PERSON
+IF6	171	2	35	DATE
+IF6	172	1	US$214 million	MONEY
+IF6	173	1	B. Programme	PERSON
+IF6	173	2	36	DATE
+IF6	174	1	US$214 million	MONEY
+IF6	174	2	US$23.8 million	MONEY
+IF6	174	3	IFAD	ORG
+IF6	175	1	The World Bank	ORG
+IF6	175	2	US$176 million	MONEY
+IF6	175	3	USAID	ORG
+IF6	175	4	US$7.4 million	MONEY
+IF6	176	1	NATP-II	ORG
+IF6	176	2	IFAD	ORG
+IF6	176	3	IDA	ORG
+IF6	177	1	2	CARDINAL
+IF6	177	2	Government of Bangladesh	ORG
+IF6	177	3	US$6.65 million	MONEY
+IF6	177	4	3 per cent	MONEY
+IF6	178	1	DOF	ORG
+IF6	178	2	DLS	ORG
+IF6	179	1	the Manpower Committee (Finance Division/Ministry of Finance	ORG
+IF6	181	1	IFAD	ORG
+IF6	181	2	World Bank	ORG
+IF6	181	3	Bangladesh Total Amount % Amount % Amount % Amount % Amount 1	ORG
+IF6	182	1	19.0 11.5	MONEY
+IF6	182	2	6.7	TIME
+IF6	183	1	2.3	CARDINAL
+IF6	184	1	17.0 4	CARDINAL
+IF6	185	1	0.5	CARDINAL
+IF6	186	1	World Bank	ORG
+IF6	186	2	0.5	CARDINAL
+IF6	186	3	0.5	CARDINAL
+IF6	186	4	23.8	CARDINAL
+IF6	186	5	82.2	CARDINAL
+IF6	186	6	3.5	CARDINAL
+IF6	186	7	6.7	CARDINAL
+IF6	186	8	3.1 214	TIME
+IF6	186	9	37	DATE
+IF6	188	1	US$6.5 million	MONEY
+IF6	189	1	C. Summary	PERSON
+IF6	189	2	38	CARDINAL
+IF6	191	1	over one million	CARDINAL
+IF6	194	1	Up to three million	CARDINAL
+IF6	194	2	NATP-II	ORG
+IF6	196	1	39	CARDINAL
+IF6	199	1	28 per cent	MONEY
+IF6	199	2	ERR	ORG
+IF6	199	3	31	DATE
+IF6	199	4	US$49.9 million	MONEY
+IF6	200	1	ERR	ORG
+IF6	200	2	10 per cent	MONEY
+IF6	200	3	10 per cent	MONEY
+IF6	201	1	D. Sustainability 40	PERSON
+IF6	202	1	NATP-II	ORG
+IF6	203	1	Farmers	ORG
+IF6	204	1	41	CARDINAL
+IF6	206	1	NATP-II	ORG
+IF6	208	1	3	CARDINAL
+IF6	208	2	AIF-1	GPE
+IF6	208	3	AIF-2	PRODUCT
+IF6	208	4	AIF-3	GPE
+IF6	209	1	12	CARDINAL
+IF6	210	1	9	CARDINAL
+IF6	210	2	42	CARDINAL
+IF6	211	1	NATP-II	ORG
+IF6	212	1	E. Risk	PERSON
+IF6	212	2	43	CARDINAL
+IF6	214	1	44	CARDINAL
+IF6	215	1	the Bangladesh Agricultural Research Council	ORG
+IF6	215	2	the Ministry of Fisheries	ORG
+IF6	215	3	NAEP	NORP
+IF6	216	1	NATP-II	ORG
+IF6	216	2	BARC	ORG
+IF6	217	1	NAEP	ORG
+IF6	219	1	45	CARDINAL
+IF6	220	1	four	CARDINAL
+IF6	220	2	two	CARDINAL
+IF6	223	1	NATP-II	ORG
+IF6	224	1	V. Corporate	ORG
+IF6	225	1	IFAD	ORG
+IF6	225	2	46	CARDINAL
+IF6	226	1	the IFAD Strategic Framework	ORG
+IF6	226	2	RB	ORG
+IF6	226	3	Bangladesh	ORG
+IF6	227	1	IFAD	ORG
+IF6	228	1	the World Bank	ORG
+IF6	230	1	B. Alignment	ORG
+IF6	230	2	47	CARDINAL
+IF6	231	1	the Government of Bangladesh	ORG
+IF6	231	2	Government	ORG
+IF6	233	1	NATP-II	ORG
+IF6	234	1	48	CARDINAL
+IF6	236	1	49	CARDINAL
+IF6	237	1	the World Bank	ORG
+IF6	237	2	USAID	GPE
+IF6	238	1	three	CARDINAL
+IF6	238	2	IFAD	ORG
+IF6	238	3	the Haor Infrastructure	ORG
+IF6	238	4	Livelihood Improvement Project	ORG
+IF6	239	1	10	CARDINAL
+IF6	239	2	C. Innovations	PERSON
+IF6	239	3	50	CARDINAL
+IF6	240	1	the Agricultural Innovation Fund	ORG
+IF6	241	1	AIF	PERSON
+IF6	243	1	51	CARDINAL
+IF6	248	1	the People’s Republic of Bangladesh	GPE
+IF6	248	2	IFAD	ORG
+IF6	250	1	53	CARDINAL
+IF6	251	1	IFAD	ORG
+IF6	252	1	54	CARDINAL
+IF6	253	1	the Agreement Establishing IFAD	ORG
+IF6	254	1	VII	ORG
+IF6	255	1	55	CARDINAL
+IF6	256	1	the Executive Board	ORG
+IF6	256	2	the People’s Republic of Bangladesh	GPE
+IF6	256	3	seventeen million	CARDINAL
+IF6	256	4	17,000,000	CARDINAL
+IF6	257	1	Kanayo F. Nwanze	PERSON

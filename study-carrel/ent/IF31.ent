@@ -1,0 +1,466 @@
+id	sid	eid	entity	type
+IF31	1	1	the Republic of Cuba	GPE
+IF31	1	2	the Livestock Cooperatives Development Project	ORG
+IF31	1	3	the Central-Eastern Region Republic of	LOC
+IF31	1	4	the Central-Eastern Region	FAC
+IF31	1	5	IFAD Borrower: Republic of	ORG
+IF31	1	6	Cuba	GPE
+IF31	1	7	Ministry of Foreign Trade and Foreign Investment	ORG
+IF31	1	8	the Ministry of Agriculture Total	ORG
+IF31	1	9	US$50 million	MONEY
+IF31	1	10	IFAD	ORG
+IF31	1	11	EUR 10.9 million	MONEY
+IF31	1	12	approximately US$11.9 million	MONEY
+IF31	1	13	IFAD	ORG
+IF31	1	14	18 years	DATE
+IF31	1	15	three years	DATE
+IF31	1	16	100 per cent	MONEY
+IF31	1	17	IFAD	ORG
+IF31	1	18	French Development Agency Amount	ORG
+IF31	1	19	25 million	CARDINAL
+IF31	1	20	US$10 million	MONEY
+IF31	1	21	10 million	CARDINAL
+IF31	1	22	the Central Bank of Cuba	ORG
+IF31	1	23	IFAD Cooperating	ORG
+IF31	1	24	IFAD EB 2016/LOT/P.16/Rev.1 1	ORG
+IF31	1	25	The Executive Board	ORG
+IF31	1	26	the Republic of Cuba	GPE
+IF31	1	27	the Livestock Cooperatives Development Project	ORG
+IF31	1	28	the Central-Eastern Region	LOC
+IF31	1	29	58	CARDINAL
+IF31	2	1	the Republic of Cuba	GPE
+IF31	2	2	the Livestock Cooperatives Development Project	ORG
+IF31	2	3	the Central-Eastern Region	LOC
+IF31	4	1	1	CARDINAL
+IF31	5	1	Cuba	GPE
+IF31	5	2	2014	DATE
+IF31	5	3	11.2 million	CARDINAL
+IF31	5	4	23	CARDINAL
+IF31	6	1	2014	DATE
+IF31	6	2	Cuba	GPE
+IF31	6	3	US$80,656 million	MONEY
+IF31	6	4	US$7,186	MONEY
+IF31	7	1	Cuban	NORP
+IF31	7	2	the Cuban Convertible Peso	ORG
+IF31	7	3	CUC	ORG
+IF31	8	1	the World Food Programme	ORG
+IF31	8	2	WFP	ORG
+IF31	8	3	between 60 per cent	MONEY
+IF31	8	4	75 per cent	MONEY
+IF31	8	5	between 20 per cent	MONEY
+IF31	8	6	45 per cent	MONEY
+IF31	9	1	2	CARDINAL
+IF31	10	1	Cuba	GPE
+IF31	11	1	Latin America	LOC
+IF31	11	2	Caribbean	LOC
+IF31	12	1	2015	DATE
+IF31	12	2	Human Development Report	EVENT
+IF31	12	3	Cuba	GPE
+IF31	12	4	0.769	CARDINAL
+IF31	12	5	67th	ORDINAL
+IF31	12	6	188	CARDINAL
+IF31	13	1	Cuba	GPE
+IF31	13	2	0.744	CARDINAL
+IF31	14	1	3	CARDINAL
+IF31	15	1	Cuba	GPE
+IF31	15	2	about 4 per cent	MONEY
+IF31	15	3	approximately 20 per cent	MONEY
+IF31	15	4	16 per cent	MONEY
+IF31	16	1	over 90 per cent	MONEY
+IF31	16	2	70 per cent	MONEY
+IF31	17	1	80 per cent	MONEY
+IF31	17	2	2007	DATE
+IF31	17	3	60 per cent	MONEY
+IF31	17	4	2012	DATE
+IF31	20	1	4	CARDINAL
+IF31	21	1	the Cuban Government	ORG
+IF31	23	1	Cuba	GPE
+IF31	24	1	5	CARDINAL
+IF31	25	1	Cuba	GPE
+IF31	25	2	the 1990s	DATE
+IF31	27	1	982 million	CARDINAL
+IF31	27	2	1989	DATE
+IF31	27	3	434 million	CARDINAL
+IF31	27	4	2014	DATE
+IF31	27	5	271 thousand tons	QUANTITY
+IF31	27	6	1990	DATE
+IF31	27	7	119 thousand tons	QUANTITY
+IF31	27	8	2014	DATE
+IF31	28	1	2	CARDINAL
+IF31	28	2	6	CARDINAL
+IF31	29	1	Cuba	GPE
+IF31	30	1	April 2011	DATE
+IF31	30	2	Cuba	GPE
+IF31	30	3	the Economic and Social Policy Guidelines	ORG
+IF31	32	1	7	CARDINAL
+IF31	33	1	IFAD	ORG
+IF31	33	2	Cuba	GPE
+IF31	35	1	8	CARDINAL
+IF31	36	1	The Livestock Cooperatives Development Project	ORG
+IF31	36	2	the Central-Eastern Region	LOC
+IF31	37	1	nearly 50,000 tons	QUANTITY
+IF31	37	2	50 percent	PERCENT
+IF31	38	1	9	CARDINAL
+IF31	39	1	Cooperative Rural Development Project	ORG
+IF31	39	2	the Oriental Region (PRODECOR	LOC
+IF31	39	3	Las Tunas	GPE
+IF31	39	4	Holguín	GPE
+IF31	39	5	Granma	ORG
+IF31	39	6	Santiago de Cuba	FAC
+IF31	40	1	PRODECOR	GPE
+IF31	43	1	10	CARDINAL
+IF31	44	1	Camagüey	GPE
+IF31	44	2	four	CARDINAL
+IF31	44	3	Guaímaro, Sibanicú	ORG
+IF31	44	4	Camagüey	GPE
+IF31	44	5	Jimaguayú	PERSON
+IF31	45	1	45 per cent	MONEY
+IF31	45	2	57 per cent	MONEY
+IF31	46	1	cooperatives	ORG
+IF31	47	1	11	CARDINAL
+IF31	48	1	the 1990s	DATE
+IF31	48	2	Camagüey province	GPE
+IF31	50	1	12	CARDINAL
+IF31	51	1	11,500	CARDINAL
+IF31	51	2	105	CARDINAL
+IF31	51	3	cooperatives	ORG
+IF31	51	4	34,500	CARDINAL
+IF31	52	1	cooperatives	ORG
+IF31	52	2	cooperatives	ORG
+IF31	52	3	cooperatives	ORG
+IF31	53	1	13	CARDINAL
+IF31	54	1	cooperatives	ORG
+IF31	54	2	between 60 and 140	CARDINAL
+IF31	54	3	13 per cent	MONEY
+IF31	54	4	11 per cent	MONEY
+IF31	55	1	at least 20 per cent	MONEY
+IF31	55	2	cooperatives	ORG
+IF31	56	1	14	CARDINAL
+IF31	57	1	Three	CARDINAL
+IF31	57	2	cooperatives	ORG
+IF31	57	3	Cuba	GPE
+IF31	58	1	1963	DATE
+IF31	58	2	approximately 60 per cent	MONEY
+IF31	58	3	cooperatives	ORG
+IF31	59	1	1993	DATE
+IF31	60	1	approximately 30 per cent	MONEY
+IF31	60	2	cooperatives	ORG
+IF31	61	1	cooperatives	ORG
+IF31	61	2	1975	DATE
+IF31	61	3	3	CARDINAL
+IF31	61	4	approximately 10 per cent	MONEY
+IF31	61	5	cooperatives	ORG
+IF31	63	1	15	CARDINAL
+IF31	64	1	cooperatives	ORG
+IF31	65	1	cooperatives	ORG
+IF31	65	2	17 million	CARDINAL
+IF31	65	3	47 million liters	QUANTITY
+IF31	65	4	cooperatives	ORG
+IF31	65	5	5,000 tons	QUANTITY
+IF31	65	6	6,000 tons	QUANTITY
+IF31	66	1	C. Components	PERSON
+IF31	66	2	16	CARDINAL
+IF31	67	1	three	CARDINAL
+IF31	67	2	one	CARDINAL
+IF31	68	1	1	CARDINAL
+IF31	68	2	cooperatives	ORG
+IF31	69	1	2	CARDINAL
+IF31	70	1	3	CARDINAL
+IF31	71	1	1	CARDINAL
+IF31	74	1	annual	DATE
+IF31	74	2	600 liters	QUANTITY
+IF31	74	3	1,300 liters	QUANTITY
+IF31	74	4	7 per cent	MONEY
+IF31	74	5	4 per cent	MONEY
+IF31	74	6	cooperatives	ORG
+IF31	74	7	14 per cent	MONEY
+IF31	74	8	20 per cent	MONEY
+IF31	75	1	2	CARDINAL
+IF31	77	1	45 per cent	MONEY
+IF31	77	2	60 per cent	MONEY
+IF31	77	3	ii	PRODUCT
+IF31	77	4	4,000	CARDINAL
+IF31	77	5	8,000	CARDINAL
+IF31	77	6	200	CARDINAL
+IF31	78	1	3	CARDINAL
+IF31	79	1	3	CARDINAL
+IF31	80	1	Camagüey	GPE
+IF31	81	1	4	CARDINAL
+IF31	84	1	IFAD	ORG
+IF31	84	2	IFAD	ORG
+IF31	85	1	4	CARDINAL
+IF31	87	1	17	CARDINAL
+IF31	88	1	PRODECOR	GPE
+IF31	90	1	18	CARDINAL
+IF31	91	1	first	ORDINAL
+IF31	93	1	19	CARDINAL
+IF31	94	1	cooperatives	ORG
+IF31	94	2	the Bank for Credit and Trade	ORG
+IF31	95	1	PRODECOR	GPE
+IF31	96	1	the University of Camagüey	ORG
+IF31	97	1	20	CARDINAL
+IF31	98	1	three-year	DATE
+IF31	98	2	two to three years	DATE
+IF31	99	1	six years	DATE
+IF31	101	1	21	CARDINAL
+IF31	102	1	The Ministry of Foreign Trade and Foreign Investment	ORG
+IF31	103	1	the Ministry of Agriculture	ORG
+IF31	104	1	the Ministry of Agriculture	ORG
+IF31	104	2	the Livestock Business Group	ORG
+IF31	105	1	The Ministry of Agriculture	ORG
+IF31	105	2	the Ministry of Food Industry	ORG
+IF31	105	3	the Food Industry Business Group	ORG
+IF31	106	1	22	CARDINAL
+IF31	107	1	IFAD	ORG
+IF31	107	2	Cuba	GPE
+IF31	107	3	the Ministry of Agriculture	ORG
+IF31	107	4	PRODECOR	GPE
+IF31	108	1	South-South	NORP
+IF31	109	1	23	CARDINAL
+IF31	110	1	the Livestock Business Group	ORG
+IF31	110	2	Havana	GPE
+IF31	110	3	Camagüey	GPE
+IF31	111	1	24	CARDINAL
+IF31	112	1	cooperatives	ORG
+IF31	113	1	annual	DATE
+IF31	114	1	IFAD	ORG
+IF31	115	1	C. Planning	PERSON
+IF31	115	2	25	CARDINAL
+IF31	117	1	the first six months	DATE
+IF31	117	2	PRODECOR	GPE
+IF31	119	1	5	CARDINAL
+IF31	119	2	26	CARDINAL
+IF31	120	1	cooperatives	ORG
+IF31	122	1	27	CARDINAL
+IF31	123	1	The National Statistics and Information Office	ORG
+IF31	124	1	D. Financial	ORG
+IF31	124	2	28	CARDINAL
+IF31	126	1	IFAD	ORG
+IF31	126	2	the Ministry of Agriculture	ORG
+IF31	127	1	PRODECOR	GPE
+IF31	128	1	PRODECOR	GPE
+IF31	128	2	IFAD	ORG
+IF31	129	1	29	CARDINAL
+IF31	130	1	Cuba	GPE
+IF31	130	2	the Office of the Comptroller General	ORG
+IF31	130	3	the Ministry of Finance and Pricing	ORG
+IF31	130	4	the Ministry of Economy and Planning	ORG
+IF31	130	5	the Ministry of Foreign Trade and Foreign Investment	ORG
+IF31	132	1	the Livestock Business Group	ORG
+IF31	133	1	30	CARDINAL
+IF31	134	1	Cuba	GPE
+IF31	134	2	2015	DATE
+IF31	134	3	Transparency International Corruption Perceptions Index	EVENT
+IF31	134	4	47	DATE
+IF31	134	5	IFAD	ORG
+IF31	136	1	31	CARDINAL
+IF31	138	1	the Bank for Credit and Trade	ORG
+IF31	140	1	32	CARDINAL
+IF31	142	1	annual	DATE
+IF31	143	1	annual	DATE
+IF31	143	2	IFAD	ORG
+IF31	143	3	the International Standards on Auditing	LAW
+IF31	143	4	IFAD	ORG
+IF31	144	1	Annual	DATE
+IF31	144	2	IFAD	ORG
+IF31	144	3	six months	DATE
+IF31	144	4	the each fiscal year	DATE
+IF31	145	1	33	CARDINAL
+IF31	147	1	the Caribbean Citrus Anonymous Society	ORG
+IF31	147	2	the Ministry of Agriculture	ORG
+IF31	148	1	the Ministry of Agriculture’s Business Logistics Group	ORG
+IF31	148	2	the Livestock Insurance and Services Company	ORG
+IF31	149	1	IFAD	ORG
+IF31	150	1	IFAD	ORG
+IF31	151	1	34	CARDINAL
+IF31	153	1	IFAD	ORG
+IF31	153	2	zero	CARDINAL
+IF31	155	1	IFAD	ORG
+IF31	156	1	IFAD	ORG
+IF31	156	2	French Development Agency	ORG
+IF31	156	3	AFD	ORG
+IF31	156	4	AFD	ORG
+IF31	156	5	IFAD	ORG
+IF31	157	1	AFD	ORG
+IF31	157	2	annual	DATE
+IF31	157	3	AFD	ORG
+IF31	158	1	6	CARDINAL
+IF31	158	2	36	CARDINAL
+IF31	159	1	first	ORDINAL
+IF31	159	2	the first year	DATE
+IF31	161	1	annually	DATE
+IF31	162	1	37	CARDINAL
+IF31	163	1	the first 18 months	DATE
+IF31	163	2	first	ORDINAL
+IF31	163	3	the national coordination office	ORG
+IF31	163	4	annual	DATE
+IF31	164	1	F. Exceptions	PERSON
+IF31	164	2	the General Conditions for Agricultural Development Financing	ORG
+IF31	164	3	IFAD	ORG
+IF31	164	4	38	CARDINAL
+IF31	165	1	the Executive Board	ORG
+IF31	165	2	300,000	CARDINAL
+IF31	167	1	39	CARDINAL
+IF31	168	1	the Government of Cuba	ORG
+IF31	168	2	the General Conditions for Agricultural Development Financing	ORG
+IF31	168	3	three	CARDINAL
+IF31	168	4	article 9 of the Arbitration Rules 2012	LAW
+IF31	168	5	the Permanent Court of Arbitration	ORG
+IF31	171	1	40	CARDINAL
+IF31	172	1	US$47.5 million	MONEY
+IF31	172	2	US$50 million	MONEY
+IF31	173	1	5 per cent	MONEY
+IF31	174	1	1	CARDINAL
+IF31	174	2	Thousands	CARDINAL
+IF31	174	3	AFD	ORG
+IF31	174	4	Borrower/ counterpart1 Total Amount % Amount % Amount % Amount %	ORG
+IF31	174	5	1	CARDINAL
+IF31	175	1	7 940 67	CARDINAL
+IF31	175	2	18	CARDINAL
+IF31	175	3	937	CARDINAL
+IF31	175	4	62 2	DATE
+IF31	176	1	2 412	CARDINAL
+IF31	176	2	2 131	CARDINAL
+IF31	176	3	21	CARDINAL
+IF31	176	4	10 158 20 3	CARDINAL
+IF31	178	1	14	CARDINAL
+IF31	178	2	2 905	CARDINAL
+IF31	178	3	6	CARDINAL
+IF31	178	4	11	CARDINAL
+IF31	178	5	24	CARDINAL
+IF31	178	6	the Agreement Establishing IFAD	ORG
+IF31	178	7	the General Conditions for Agricultural Development Financing	ORG
+IF31	178	8	IFAD	ORG
+IF31	178	9	the International Monetary Fund	ORG
+IF31	179	1	Cuba	GPE
+IF31	180	1	the Central Bank of Cuba	ORG
+IF31	180	2	the United Nations Operational Rates of Exchange	ORG
+IF31	180	3	/CUP	MONEY
+IF31	180	4	1:1	CARDINAL
+IF31	180	5	US	GPE
+IF31	181	1	CUC	ORG
+IF31	181	2	/CUP	PRODUCT
+IF31	183	1	7	CARDINAL
+IF31	184	1	41	CARDINAL
+IF31	185	1	IFAD	ORG
+IF31	185	2	US$11.9 million	MONEY
+IF31	185	3	AFD	ORG
+IF31	185	4	25 million	CARDINAL
+IF31	185	5	approximately US$28.1 million	MONEY
+IF31	185	6	Government	ORG
+IF31	185	7	US$10 million	MONEY
+IF31	186	1	42	CARDINAL
+IF31	187	1	IFAD	ORG
+IF31	187	2	AFD	ORG
+IF31	187	3	1	CARDINAL
+IF31	187	4	2	CARDINAL
+IF31	187	5	3	CARDINAL
+IF31	187	6	AFD	ORG
+IF31	187	7	4	CARDINAL
+IF31	187	8	IFAD	ORG
+IF31	189	1	2	CARDINAL
+IF31	189	2	Thousands	CARDINAL
+IF31	189	3	IFAD	ORG
+IF31	189	4	AFD	ORG
+IF31	189	5	Borrower/	NORP
+IF31	189	6	Total Amount % Amount % Amount % Amount % 1	ORG
+IF31	190	1	10 415	CARDINAL
+IF31	191	1	685	CARDINAL
+IF31	191	2	6	CARDINAL
+IF31	191	3	3	CARDINAL
+IF31	192	1	190 2 318	CARDINAL
+IF31	192	2	36 4	TIME
+IF31	193	1	610	CARDINAL
+IF31	193	2	4	CARDINAL
+IF31	193	3	774	CARDINAL
+IF31	193	4	4	CARDINAL
+IF31	193	5	11	CARDINAL
+IF31	193	6	24	CARDINAL
+IF31	193	7	43	CARDINAL
+IF31	195	1	44	CARDINAL
+IF31	196	1	Cuba	GPE
+IF31	197	1	38 per cent	MONEY
+IF31	197	2	87 per cent	MONEY
+IF31	197	3	cooperatives	ORG
+IF31	197	4	cooperatives	ORG
+IF31	198	1	45	CARDINAL
+IF31	199	1	14.8 per cent	MONEY
+IF31	199	2	US$26 million	MONEY
+IF31	200	1	D. Sustainability 46	PERSON
+IF31	202	1	the Bank for Credit and Trade	ORG
+IF31	203	1	8	CARDINAL
+IF31	203	2	47	CARDINAL
+IF31	204	1	Cuba	GPE
+IF31	208	1	cooperatives	ORG
+IF31	208	2	Government	ORG
+IF31	210	1	PRODECOR	GPE
+IF31	211	1	IFAD	ORG
+IF31	212	1	48	CARDINAL
+IF31	213	1	IFAD	ORG
+IF31	213	2	2016-2025	DATE
+IF31	214	1	IFAD	ORG
+IF31	214	2	cooperatives	ORG
+IF31	216	1	49	CARDINAL
+IF31	217	1	the Economic and Social Policy Guidelines	ORG
+IF31	218	1	cooperatives	ORG
+IF31	219	1	Cuba	GPE
+IF31	219	2	the United Nations Framework Convention on Climate Change	ORG
+IF31	221	1	50	CARDINAL
+IF31	222	1	IFAD	ORG
+IF31	222	2	the United Nations Development Programme	ORG
+IF31	222	3	UNDP	ORG
+IF31	222	4	WFP	ORG
+IF31	222	5	Food and Agriculture Organization	ORG
+IF31	222	6	the United Nations	ORG
+IF31	222	7	FAO	ORG
+IF31	222	8	the United Nations Industrial Development Organization	ORG
+IF31	222	9	UNIDO	ORG
+IF31	222	10	the European Union	ORG
+IF31	223	1	two	CARDINAL
+IF31	223	2	UNDP	PERSON
+IF31	223	3	the European Union	ORG
+IF31	223	4	the Swiss Agency for Development and Cooperation	ORG
+IF31	225	1	51	CARDINAL
+IF31	226	1	cooperatives	ORG
+IF31	227	1	10	CARDINAL
+IF31	227	2	four	CARDINAL
+IF31	227	3	9	CARDINAL
+IF31	227	4	10	CARDINAL
+IF31	230	1	52	CARDINAL
+IF31	231	1	Camagüey	GPE
+IF31	231	2	Ciego de Ávila	ORG
+IF31	231	3	Las Tunas	GPE
+IF31	233	1	53	CARDINAL
+IF31	234	1	the Ministry of Agriculture	ORG
+IF31	234	2	the Ministry of Foreign Trade and Foreign Investment	ORG
+IF31	234	3	the Ministry of Food Industry	ORG
+IF31	234	4	the Ministry of Science, Technology and Environment	ORG
+IF31	234	5	the Ministry of Economy and Planning	ORG
+IF31	234	6	the National Institute of Water Resources	ORG
+IF31	234	7	the National Statistics and Information Office	ORG
+IF31	234	8	the Central Bank of Cuba	ORG
+IF31	234	9	the Bank for Credit and Trade	ORG
+IF31	234	10	IFAD	ORG
+IF31	234	11	AFD	ORG
+IF31	235	1	the Bank for Credit and Trade	ORG
+IF31	235	2	Cuban	NORP
+IF31	236	1	54	CARDINAL
+IF31	237	1	Government	ORG
+IF31	237	2	IFAD	ORG
+IF31	237	3	the Economic and Social Policy Guidelines	ORG
+IF31	239	1	55	CARDINAL
+IF31	240	1	the Republic of Cuba	GPE
+IF31	240	2	IFAD	ORG
+IF31	242	1	56	CARDINAL
+IF31	243	1	The Republic of Cuba	GPE
+IF31	243	2	IFAD	ORG
+IF31	244	1	57	CARDINAL
+IF31	245	1	the Agreement Establishing IFAD	ORG
+IF31	246	1	VII	ORG
+IF31	247	1	58	CARDINAL
+IF31	248	1	the Executive Board	ORG
+IF31	248	2	the Republic of Cuba	GPE
+IF31	248	3	ten million nine hundred thousand	CARDINAL
+IF31	248	4	10,900,000	CARDINAL
+IF31	248	5	US$11.9 million	MONEY
+IF31	249	1	Kanayo F. Nwanze	PERSON

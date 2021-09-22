@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Guinea Bissau Emergency Food Security Project (P174336) 
+
+ 
+ 
+
+  
+ Page 1 of 10  
+
+     
+
+ 
+ 
+      
+
+ 
+
+Project Information Document (PID) 
+ 
+
+ 
+
+Appraisal Stage | Date Prepared/Updated: 06-Jul-2020 | Report No: PIDA29687 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASIC INFORMATION 
+
+ 
+OPS_TABLE_BASIC_DATA 
+  A. Basic Project Data 
+
+Country Project ID Project Name Parent Project ID (if any) 
+
+Guinea-Bissau P174336 Guinea Bissau Emergency 
+Food Security Project 
+
+ 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+AFRICA WEST 18-Jun-2020 28-Jul-2020 Agriculture and Food 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Ministry of Agriculture 
+and Rural Development 
+
+ 
+
+ 
+Proposed Development Objective(s) 
+ 
+(i) to support increased food crop production; and (ii) increase access to food for consumption by food insecure 
+households in Guinea Bissau 
+
+ 
+Components 
+
+Support to Agricultural Production 
+Support to Community Safety Nets 
+Support to Risk Mitigation 
+Project Management 
+Contingent Emergency Response 
+
+ 
+OPS_TABLE_FCC The processing of this project is applying the policy requirements exceptions for situations of urgent need of 
+assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.     
+Yes 
+
+ 
+
+PROJECT FINANCING DATA (US$, Millions) 
+   
+
+SUMMARY-NewFin1  
+ 
+
+Total Project Cost 15.00 
+
+Total Financing 15.00 
+
+of which IBRD/IDA 15.00 
+
+Financing Gap 0.00 
+
+ 
+   
+DETAILS-NewFinEn h1 
+
+
+World Bank Group Financing 
+
+     International Development Association (IDA) 15.00 
+
+          IDA Grant 15.00 
+
+    
+
+Environmental and Social Risk Classification 
+
+Moderate 
+   
+Decision 
+
+The review did authorize the team to appraise and negotiate     
+ 
+ 
+B. Introduction and Context 
+
+ 
+Country Context 
+
+1. Guinea-Bissau is one of the most fragile countries in Sub-Saharan Africa, plagued by political 
+turmoil and coup d’états since independence in 1974. Between 2000 and the present, the country has 
+had 16 Prime-Ministers appointed to lead different Governments. The internal instability, often 
+associated with problems in the political and military structure of the country, has prevented the 
+formation of stable and accountable institutions and had devastating effects on the economy.   
+
+2. The incidence of poverty is high, with over 69 percent of the population living below the poverty 
+line (2011 PPP at US$1.90 per person per day), making it one of the poorest countries in the world. 
+Poverty is more entrenched in rural areas where it is compounded by deprivation of social services, human 
+capital, and infrastructure. Average real GDP growth, although modest, improved from 0.3 percent per 
+year in 2013 to 6 percent per year in 20171, mainly driven by increased global demand for cashew nuts - 
+the country’s main export crop. Per capita GDP is now estimated at US$780, although the Gini coefficient 
+is high (sharply increasing from 0.35 in 2002 to 0.5 in 2010), pointing to high levels of inequality- with 
+economic growth mostly benefiting the top income group. The country ranks 178th out of 189 countries 
+on the 2019 United Nations Development Program (UNDP) Human Development Index, and thus falls 
+under the low human development category. 
+
+3. The impact of COVID-19 on the overall economy is expected to be severe. The main transmission 
+channels include external (falling global cashew demand and price, tighter financial conditions, and low 
+oil prices) reduced remittances, and domestic (economic disruptions caused by lockdowns and direct 
+health impact of a wider spread of COVID-19). Health sector capacity is low and government effectiveness 
+is weak. Guinea-Bissau has no fiscal and financial sector buffers to counter a sharp economic downturn, 
+but it benefits from regional monetary buffers in the short-term. In the baseline scenario where 
+lockdowns are short-lived, growth is projected to decline from 4.6 percent in 2019 to -1.5 percent in 2020 
+and the fiscal deficit to increase from 5.1 to 6.2 percent. In the downside scenario, where lockdowns are 
+sustained, growth would decline to -3.1 percent in 2020. The crisis could undo the modest gains made in 
+poverty reduction2. 
+
+ 
+1 Declined to 3.8 percent in 2018 due to a sharp drop in cashew production and somewhat lower international cashew prices. 
+2 Guinea-Bissau: The Economic Impact of the COVID-19 Global Crisis. World Bank Note (April 30, 2020). 
+
+
+4. Although Guinea Bissau has mineral resource endowments that could generate substantial 
+revenues and greatly contribute to economic growth and development, agriculture is still the mainstay 
+of the country’s economy. Over 80 percent of population relies on agriculture for their livelihood and the 
+sector employs close to 70 percent of the country’s work force (most of whom are women)3. The sector, 
+driven by cashew nut production, generates most - 95 percent - of the country’s foreign exchange, 17 
+percent of fiscal revenues, and accounts for over 47 percent of GDP. 
+
+5. Guinea-Bissau is one of the countries that are most vulnerable to climate change. Recent climate 
+scenarios portend significant changes in the climate of Guinea-Bissau. These scenarios systematically 
+signal increased average daily temperatures of up to +1.4°C for the period 2016-2045, potentially reaching 
+up to +2.2°C in the 2046-2075 period, per a low emissions assumption. Under a high emissions scenario, 
+the changes are in the order of +1.6°C to +3.1°C for the period 2046 to 2075. These changes are expected 
+to lead to a dramatic reduction in rainfall, with serious implications on agriculture, especially production 
+of rice, the main staple. 
+
+Sectoral and Institutional Context 
+ 
+
+6. Agriculture (defined as crops, fisheries, livestock and forestry) is the dominant sector in the 
+economy, contributing about 47.5 percent of GDP. Agriculture represents the primary source of income 
+for 85 percent of the population and provides the livelihood for most of the poor. Within agriculture, the 
+production and export of raw cashew nut is the dominant sector, acting as the main source of income for 
+more than two thirds of households and for virtually all smallholders in the country. It also accounts for 
+more than 95 percent of total export revenue and 17 percent of its fiscal revenues. High concentration in 
+and dependence on cashew nuts exposes the country’s economy to both external and internal shocks on 
+the sector.   
+
+7. While the favorable ecological and climatic conditions render more than 60 percent of the total 
+land area suitable for crop production, less than 12 percent is currently under permanent or seasonal 
+cultivation. Years of instability destroyed household capacity as well as productive relationships, 
+traditional markets, infrastructure, and social and economic institutions that support the sector. In 
+addition, chronic public sector underinvestment in agriculture (less than 1 percent of GDP) undermines 
+delivery of public goods and as a result, the sector is characterized by low productivity - with yields of key 
+crops lagging behind those of the country’s regional peers (for example: 320 kilograms per hectare for 
+cashew nuts compared to 520 kilograms per hectare in Cote d’Ivoire; and 1.7 tons per hectare for rice, 
+compared to 4 tons per hectare in Senegal). Any increases in aggregate production have largely been 
+achieved through area expansion, rather than improvements in total factor productivity and average 
+annual sector growth has barely kept pace with population growth.  
+
+8. A confluence of the comparatively superior benefits from cashew production (see Table 1), gaps in 
+the land property law (which incentivize tree planting as a way of strengthening tenure security), and lack 
+of an enabling environment4, has  over the last four decades, mediated a strong shift in the country’s 
+agriculture production system towards cashew production.  
+
+ 
+3 Female employment in agriculture in Guinea Bissau was 70.7 percent in 2019, compared with 65.8 percent for male 
+employment-http://datatopics.worldbank.org/gender/country/guinea-bissau 
+4 Including poor infrastructure, constrained access to inputs, technology, knowledge, markets, capital and availability of skilled 
+labor. 
+
+
+Table 1. Comparative advantage of the cashew crop in relation to main crops in Guinea-Bissau. 
+
+Crop option Days spent Added value per day (CFA) Advantage compared with cashew (CFA) 
+
+Paddy rice 312 232 -2,478 
+Pluvial rice 109 177 -2,533 
+Maize 70 1657 -1,053 
+Sorghum 94 870 -1,840 
+Millet 114 618 -2,092 
+Peanuts 78 660 -2,050 
+Cotton 115 987 -1,723 
+Cashew 118 2710 0 
+
+9. From 14,000 ha in 1978, area under cashew cultivation has expanded at an average annual growth 
+rate of 8 percent and now stands at 223,000 ha, which is about 56 percent of total area (about 400,000 
+ha) under cultivation. Most farming households maintain a disproportionately higher share of their 
+cultivated area under the perennial cashew, devoting the rest to food production- mainly rice, sorghum, 
+millet, maize, peanut, and cassava. Farmers also use income from cashew sales to finance the purchase 
+of agricultural inputs necessary to produce the food crops. 
+
+10. Low average productivity5 and the already smaller acreage devoted to food crops, constrains, not 
+only the production of amounts of food crops enough to meet farming households’ food requirements, 
+but also the generation of marketable surpluses that could feed into the domestic market. 
+Consequently, most farmers are also net food buyers and yet again use cashew nut proceeds to meet, in 
+some cases up to 6 months of their food needs. Because of insufficient domestic production, the country, 
+as a whole, relies on imports to bridge the gaps in domestic production. These food imports are mostly 
+financed by forex revenues accruing from cashew exports. 
+
+11. Guinea Bissau’s food security is therefore intimately tied to the cashew nut sector and any market 
+volatilities or shocks to the cashew sector, are wired to have wide ranging implications on food security. 
+The COVID-19 pandemic vividly spotlights these links. The country is now reeling from the effects of 
+COVID-19 related cashew value chain disruptions on food security. Among others, due to stalled cashew 
+sales: (i) most farmers cannot access necessary input and now face the dire prospect of not engaging in 
+the forthcoming food crop growing season; (ii) those who rely on cashew sales and wages from the cashew 
+value chain to meet some of their food security requirements are already experiencing challenges in 
+accessing food; and (iii) food imports required to fill the demand gaps, are expected to be constrained by 
+the limited foreign exchange reserves as a result of both the delayed cashew sales as well as the expected 
+lower prices. The prevailing political uncertainty exacerbates these food security challenges. 
+
+12. Government strategies acknowledge the risk posed by the high concentration in and high 
+dependence of the economy on a single commodity. Within its limited resource and capacity constraints, 
+the Government has been increasingly intentional in supporting more diversified agricultural production 
+to wean the country off the raw cashew nut sector. The Government, with support from the World Bank 
+Group has also supported the emergence of a cashew processing industry to reduce marketing risks and 
+to help the country capture a larger share of final cashew prices through value addition. In the specific 
+case of the ongoing COVID-19 pandemic, Government has made available about US$0.65 million to help 
+16,359 agricultural households to access input for the coming cropping season. There are also ongoing 
+discussions with the International Fund for Agriculture Development (IFAD) for a US$43.8 million project 
+
+ 
+5 Mainly due to limited access to advisory services, inputs, technologies, financing, and poor physical infrastructure. 
+
+
+targeting diversification of production (some of the proceeds of which could go towards supporting 
+increased food production in the short to medium term), as well as the African Development Bank for 
+assistance with responding to the food security challenge and to support the cashew campaign. In 
+addition, the Government also used the WAEMU/Central Bank facility to borrow FCFA 15 billion to support 
+the cashew marketing campaign implemented through an MOU with the five locally based commercial 
+banks. This operation contributes to these  efforts and will focus on: (i) provision of agricultural input 
+(seed, fertilizer, small equipment, and labor) necessary to engage in food production in the short term; 
+(ii) provision of a community safety net tied to a public works program; and (iii) developing market risk 
+reduction strategies for the raw cashew nut sector. 
+
+C. Proposed Development Objective(s)  
+
+13. The objectives of the project are: (i) to support increased food crop production; and (ii) increase 
+access to food for consumption by food insecure households in Guinea Bissau. 
+
+Key Results 
+
+14. The Project is expected to: (i) reach 50,000 farming households with agricultural assets or services; 
+(ii) contribute to the production of 205,000 metric tons of food crops; and (iii) provide immediate 
+conditional cash support to 10,000 poor beneficiaries through participation in public works (cash-for-
+work). Overall, the Project is expected to reach 378,000 beneficiaries, at least 50 percent of whom will be 
+women. 
+
+D. Project Description  
+ 
+
+15. The proposed project seeks to urgently support the government of Guinea Bissau to proactively 
+mitigate the short-to-medium-term food security challenges that the country is expected to face, as result 
+of COVID-19 impacts on cashew nut production and marketing and on food production and prices. In 
+addition, financing will be provided to strengthen the resilience of the cashew sector to market risks.  The 
+project will be organized around five components as described below. 
+
+Component 1: Support to Agricultural Production (US$10.0 million) 
+
+16. The objective of this component is to support an accelerated supply response focused on 
+preserving/restoring the productive capacity of 50,000 eligible farming households to enable them to 
+effectively engage in continued and expanded production of key staple foods in the short - to medium -
+term (6-24 months). The project will finance: (i) procurement and distribution of improved seeds and 
+planting materials, with a focus on key food crops and vegetables; (ii) access to necessary farm equipment 
+and labor; and (iii) provision of requisite advisory services in support of improved production, productivity 
+and production system resilience to climate change. Special focus will be provided to market gardening, 
+an important farming activity in the urban and peri-urban areas, which is mainly a women’s vocation. 
+Where deemed critical to household food security, the project will support livestock services, including 
+vaccination, deworming, and disease management. In addition, support under this component will go 
+towards promoting climate-smart agriculture (CSA) techniques and practices, drought-resistant seeds, 
+and capacity-building of the farmers.  
+
+Component 2: Support to Community Safety Nets (US$2.5 million) 
+
+17. The COVID-19 pandemic shock on the cashew nut sector is expected to lead to job losses along the 
+value chain.  The impact of these job losses is expected to be greater for the multitude of unskilled laborers  
+
+in the value chain, for whom the daily labor wages are the only source of income for household food 
+security. The anticipated escalation in food prices (partly due to projected lower domestic production and 
+higher import prices), is expected to amplify the shock on their household food security.  
+
+18. Investment under this component is to ensure household food security for sections of the 
+communities affected by job losses, by mitigating the expected shortfalls in their incomes through support 
+for public works community-level works. This activity will target 10,000 beneficiaries, and its focus will be 
+on establishing public assets that would contribute to or enhance the impact of support under Component 
+1 as well as those that foster adaptation to climate change. These could include support to the distribution 
+of inputs, rehabilitation of storage facilities, opening of access roads to agriculturally productive areas, 
+public irrigation infrastructure, construction of local markets, rehabilitation of rice fields, etc. Presence of 
+clear post operation maintenance mechanisms will be key in choice of public works to be funded to ensure 
+sustainability. The daily wages for the cash-for-work activities will be below the local level for unskilled 
+labor thus providing an ‘in-built” self-targeting mechanism for the conditional cash transfers that would 
+also ensure that the public works do not compete with agriculture for seasonal labor. Where high levels 
+of structural unemployment dictate against self-targeting, beneficiary selection will be guided by local 
+leadership. Beneficiary selection would be sensitive to gender considerations. 
+
+Component 3: Support to Risk Mitigation (US$1.5 million) 
+
+19. The COVID-19 pandemic, has unveiled the significant vulnerability of Guinea Bissau’s economy to 
+shocks, occasioned by high dependence on the quasi monoculture of a singular crop. While diversification 
+is the ultimate panacea for this vulnerability, a number of ex-ante risk management measures (e.g. 
+forward contracting, insurance, hedging, improved storage, etc.) as well as ex-post risk management 
+instruments (e.g. contingent risk financing) can reduce the specific vulnerabilities of the cashew sector to 
+market risks. The proposal is to explore the feasibility, and then pilot the implementation of locally 
+appropriate market risk management measures for the cashew sector. This would serve to strengthen the 
+resilience of the sector to market risks that the sector is increasingly exposed to (e.g. a price drop in 2018, 
+current disruptions to the global supply chains) and would lay the ground for a sustainable recovery.  
+
+Component 4:  Project Management (US$1.0 million).   
+
+20. The objective of this component is to support MARD in facilitating   efficient implementation of 
+project activities and tracking of results. The component will finance activities related to project 
+coordination and management, including developing annual work plans and budgets, financial 
+management (FM) and procurement, safeguards compliance, project monitoring and evaluation (M&E), 
+citizen engagement as well as a Grievance Redress Mechanism (GRM).    
+
+Component 5: Contingent Emergency Response (US$0 million) 
+
+21. This zero-cost, contingent emergency response component (CERC) will finance eligible expenditures 
+in case of natural or man-made crises, disasters, severe economic shocks, or other crises and emergencies 
+in Guinea Bissau. Implementation of this component will follow a detailed Contingent Emergency 
+Response Implementation Plan (CERIP) satisfactory to the World Bank that will be prepared for each 
+eligible crisis. 
+
+.
+
+.  
+
+
+
+ 
+
+Legal Operational Policies 
+
+            Triggered? 
+
+Projects on International Waterways OP 7.50             No  
+
+Projects in Disputed Areas OP 7.60             No  
+
+ 
+
+Summary of Assessment of Environmental and Social Risks and Impacts 
+. 
+
+22. The project is expected to have positive impacts by targeting mitigation of food crisis due to the 
+COVID-19 pandemic outbreak through the support of crop diversification, helping smallholders to find 
+alternative income besides from cashew value chain production, provide a community safety net tied to 
+public works program; and support market risk reduction for raw cashew nuts. As project locations are 
+yet to be agreed upon, an Environment and Social Management Framework (ESMF) will be prepared 
+covering environmental and social risks and impacts caused by the civil works, use of pesticides and 
+fertilizers and generation of waste during the implementation of the project. The ESMF sets out the 
+principles, rules, guidelines and procedures to assess the impacts from civil works provided by the project 
+and help guide the preparation of site-specific (Environment and Social Impact Assessments (ESIAs) and 
+Environment and Social Management Plans (ESMPs). It includes screening, measures and plans to reduce, 
+mitigate and/or offset adverse risks and impacts, provisions for estimating and budgeting the costs of such 
+measures, and information on the Ministry of Agriculture and Rural Development (MARD) responsible for 
+addressing project risks and impacts, including on its capacity to manage environmental and social risks 
+and impacts of the project activities. The ESMF will include general Environment Health and Safety 
+Guidelines (EHSGs), Good International Industry Practice (GIIP) and Occupational Health and Safety (OHS) 
+measures for the identified sub-projects. In addition, a Pest Management Plan (PMP) will also be 
+developed for proper handling and use of pesticides. The recipient will also prepare an Environmental and 
+Social Commitment Plan (ESCP), with the support of the Bank. The ESCP will include the commitment and 
+the timeline for the preparation of subsequent ESIAs. 
+
+E. Implementation 
+ 
+
+Institutional and Implementation Arrangements 
+ 
+
+23. Project implementation will be the responsibility of MARD, through a Project Coordination Unit 
+(PCU) to be set up in MARD with project support. The primary responsibility of this PCU will be: (i) ensuring 
+coordination, timeliness and technical soundness of implementation; (ii) contracting of implementation 
+support partners; (iii) monitoring implementation and reporting to the Bank. For these functions, the PCU 
+will be staffed with a competitively selected Coordinator, Agricultural Specialist, Monitoring and 
+Evaluation expert, Environment and Social Safeguards specialists, Procurement Specialist, Financial 
+Management Specialist, as well as a Communication Specialist. The PCU will also work closely with 
+technical staff from the relevant MARD directorates, to provide backstopping support to implementation. 
+The relevant MARD staff will be identified as part of the assessment that would need to be conducted. As 
+needs arise, other expertise would be hired into the MARD-PCU.  
+
+24. Because of potential delays in establishing a functional PCU against a backdrop of the emergency 
+nature of the operation, project implementation will start with the support of the Food and Agriculture 
+
+
+Organization (FAO) which will manage Component 1 and Component 2 implementation in close 
+collaboration with the MARD. In this context, FAO will support the sourcing and distribution of production 
+inputs, provision of advisory services to beneficiary farmers, and identification of eligible beneficiaries 
+under the cash-for-work activities, overseeing implementation of the cash-for-work activities and 
+payments to beneficiaries. Similarly, project procurement and financial management will be initially 
+delegated to the Project Implementation Unit of an on-going IDA-financed Safety Net and Basic Services 
+Project (P163901), established within the Ministry of Economy, Planning and Regional Integration. Once 
+the PCU under MARD is fully functional, it will take full charge of implementation, including for Component 
+3 activities. 
+
+25. A Project Steering Committee (PSC), chaired by the Minister, MARD (or his/her representative), will 
+be established to provide general oversight of the project. The PSC will include representatives from the 
+Ministries of Economy and Finance, Trade, Social Affairs, cashew sector stakeholders, FAO6, and other 
+entities deemed relevant. The PSC will be responsible for providing overall implementation and policy 
+guidance. The PSC will meet four times a year. 
+
+ 

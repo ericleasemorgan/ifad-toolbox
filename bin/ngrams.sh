@@ -10,7 +10,7 @@
 
 # pre-declare; tricky
 declare -A INSTITUTIONS 
-INSTITUTIONS=([IFAD]="./corpora/author-IFAD.txt" [World-Bank]="./corpora/author-World-Bank.txt" [IDB]="./corpora/author-IDB.txt" [AsDB]="./corpora/author-AsDB.txt" [AfDB]="./corpora/author-AfDB.txt")
+INSTITUTIONS=([IFAD]="./corpora/author-IFAD.txt" [WORLD-BANK]="./corpora/author-WORLD-BANK.txt" [IDB]="./corpora/author-IDB.txt" [ASDB]="./corpora/author-ASDB.txt" [AFDB]="./corpora/author-AFDB.txt")
 
 # configure
 NGRAMS='./bin/ngrams.py'
@@ -44,8 +44,18 @@ find $DIRECTORY -type f | sort | while read FILE; do
 	NUMERATOR=$( $NGRAMS $FILE $N | grep -c $PATTERN )
 	echo "          count: $NUMERATOR" >&2
 	
-	# get the corpus; tricky
-	for KEY in "${!INSTITUTIONS[@]}"; do if [[ $BASENAME = *${KEY}* ]]; then CORPUS=${INSTITUTIONS[$KEY]}; fi; done	
+	# get the corpus; too tricky
+	if [[ $DIRECTORY = 'subcorpora' ]]; then
+		for KEY in "${!INSTITUTIONS[@]}"; do
+			if [[ $BASENAME = *${KEY}* ]]; then
+				CORPUS=${INSTITUTIONS[$KEY]}
+			fi
+		done
+	elif [[ $DIRECTORY = 'corpora' ]]; then CORPUS=$FILE
+	else
+		echo "Error: Unknown value for directory ($DIRECTORY). Call Eric." >&2
+		exit
+	fi
 	echo "         corpus: $CORPUS" >&2
 
 	# echo the size of the corpus

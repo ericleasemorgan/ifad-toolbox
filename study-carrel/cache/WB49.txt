@@ -1,0 +1,642 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+Page 1 of 13
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+ADDITIONAL FINANCING
+Report No.: PIDISDSA20175
+
+Date Prepared/Updated: 23-Jan-2017
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Congo, Democratic Republic 
+of
+
+Project ID: P159037
+
+Parent 
+Project ID 
+(if any):
+
+P092724
+
+Project Name: DRC Agriculture Rehabilitation and Recovery AF (P159037)
+Parent Project 
+Name:
+
+DRC - Agriculture Rehabilitation and Recovery Support (P092724)
+
+Region: AFRICA
+Estimated 
+Appraisal Date:
+
+23-Jan-2017 Estimated 
+Board Date:
+
+15-Mar-2017
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): DRC Ministry of Finance
+Implementing 
+Agency:
+
+PARRSA PIU
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 0.00
+International Development Association (IDA) 75.00
+Total Project Cost 75.00
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Appraisal 
+Review 
+Decision (from 
+Decision Note):
+
+The review did authorize the team to appraise and negotiate
+
+Other Decision: The Decision Meeting granted a conditional authorization to proceed with 
+appraisal subject to resolution of the outstanding safeguard issues and RVP 
+approval of the exception waiver.
+
+Is this a 
+Repeater 
+
+No
+?
+
+B.   Introduction and Context
+
+Country Context
+Between 2010 and 2014, the overall economy grew at 7.7 percent and the extractive industry 
+grew at 25 percent , making the DRC one of Africa's fastest growing economies. Extractive 
+industry exports account for about 95 percent of DRC➢❨ s exports.  While mining revenues have 
+contributed to strong macroeconomic growth and poverty reduction, high export concentration 
+exposes the country to exogenous shocks and instability .  The recent trends of falling world 
+commodity prices, lower export revenues, and the associated slow-down in DRC➢❨ s mining 
+sector have contributed to a tight fiscal environment. In this context, the government has placed 
+significant priority to economic diversification and has identified the Agriculture sector, 
+DRC➢❨ s second biggest sector- as a key sector for expanding its export base and buffering the 
+economy against oil price shocks. 
+ 
+Despite high rates of macroeconomic growth, poverty and malnutrition remains widespread in 
+DRC.  The national poverty rate is 64 percent, with poverty rates only slightly higher in rural 
+areas (65 percent) relative to urban areas (62 percent). Almost one quarter of children are 
+underweight. In rural areas, deficiencies in food storage and market access create seasonal food 
+shortages. In urban areas, import tariffs (commonly 10 percent) and low domestic production, 
+thus requiring sizable food imports, result in food prices that are amongst the highest in Africa.  
+About six million people are classified as food insecure in the country. 
+ 
+Climate change will exacerbate droughts, floods, and other extreme weather events. Although the 
+Congo basin seems to be less exposed than dryer parts of Africa, Congolese farmers are 
+particularly poor and isolated, therefore vulnerable to climate impacts and other external shocks. 
+ 
+In addition, DRC is undergoing a process of decentralization. Last year, the number of provinces 
+officially grew from 11 to 26. Equateur Province, where PARRSA is located, has been sub-
+divided into five new Provinces, three of them falling under the project area (Sud Ubangi, Nord 
+Ubangi, and Mongala). Within the decentralization process, the provincial services of the 
+ministries are being revitalized to better serve the rural population. However, some new provinces 
+lack the structures and fiscal resources to function independently. Consequently there is a need for 
+new investments, including agriculture investments, to make these new provinces more fiscally 
+secure. 
+ 
+Socio-Political System. Following the African Union led dialogue, the 2016 elections were 
+postponed and a second more inclusive dialogue led by the Conference Episcopale Nationale du 
+Congo (CENCO) is still underway but has already achieved an agreement for a new government 
+of national unity and a commitment from the President to not run for a third term. Presidential 
+elections are expected to be held in December 2017, but this date has been viewed as not credible. 
+The majority of the provinces are under-resourced (human and financial) and ill equipped. As a 
+result, the majority of the provinces have increased taxes in order to cover their operational costs. 
+Democratic process in the DRC faces a myriad of challenges, including a legacy of exploitation 
+and conflict, lack of physical and communications infrastructure, extreme poverty and continuing 
+pockets of insecurity.  
+ 
+
+
+
+Page 3 of 13
+
+Governance system, conflict and institutional fragility. The factors blocking an economic 
+development in the country include: (a) a crisis resulting from contested 2011 election results; (b) 
+weak governance; and (c) the weakness of state institutions in implementing appropriate policies. 
+As a result, the agricultural sector is operating in an environment of fragile socio-political context, 
+low quality human capacity with an outdated skills base, an unattractive business environment, 
+rent based economy with low agricultural productivity, dilapidated infrastructure and under 
+developed service markets (agricultural inputs, logistics services, financial services). 
+ 
+Enabling environment and tax burden. The macroeconomic indicators for the country have 
+remained relatively stable with annual inflation stable at 1.6 percent over the past 5 years. Real 
+interest rates have remained at about 17 percent. This is illustrative of a business enabling 
+environment which is characterized by: (i) high import taxes; (ii) high sales taxes; (iii) unofficial 
+taxes levied across road, rail, river and air transport; (iii) high port handling fees; (iii) unreliable 
+electricity supply; (iv) corruption; (v) ➢❨ red tape➢❨  bureaucratic procedures that make it more 
+costly to close a transaction or sell a product; and (vi) very high logistical hurdles and costs. In 
+addition, the agricultural sector has outdated laws and regulations on seed, land, food quality and 
+control. Because of poor transport infrastructure, it is much harder to reach markets and the net 
+effect is reduced competitiveness of domestically produced products in local, national and 
+regional markets. Under-developed input markets and fragmented value chains further reduce the 
+competitiveness of locally produced commodities, but itpresents opportunities for private 
+investors.
+Sectoral and institutional Context
+Agriculture currently accounts for about 20 percent of GDP and employs some 70-75 percent of 
+the economically active population. Related agro-industries employ another 10 percent of the 
+population. Jobs in agriculture tend to be informal, with low value added per worker (US$227/
+year ), often providing only for subsistence. Agriculture and other sectors are hampered by the 
+fact that DRC is recovering from more than 15 years of civil war, which has created serious 
+infrastructure and institutional vacuums. The country faces systematic challenges in its business 
+environment and enabling services such as rural connectivity, power infrastructure, and extension 
+systems. Public spending is constrained by weak budgetary processes, inefficiencies, and poor 
+coordination. 
+ 
+The Government➢❨ s objective is to reduce rural poverty by 2020 by restoring and modernizing 
+agricultural production systems, improving nutrition and food security, and mobilizing significant 
+public and private sector investments. In recent years, agriculture has become a top priority for 
+DRC Government as evidenced by the allocation of 8 percent of total budget in 2016 (up from 3 
+percent) in line with the Africa Heads of State Maputo Declaration. The 2013 Programme 
+National d➢❨ Investissements Agricoles (PNIA), with a total estimated cost of US$5.7 billion 
+over seven years, builds upon five pillars: (i) fostering value chains and agribusiness; (ii) 
+achieving food security; (iii) enhancing research, extension, and training; (iv) improving sector 
+governance, gender participation and institutional capacity; and (v) adapting to climate change. In 
+2014, the Government launched the agro industrial park strategy to boost agribusiness and 
+agroindustry, and attract private investments in the sector. 
+ 
+The proposed AF project is aligned with the Country Assistance Strategy (CAS) for DRC as it 
+aims at contributing significantly to the Government➢❨ s efforts to alleviate extreme poverty and 
+malnutrition (MDG1). It is also fully aligned with the fourth outcome of the CAS FY13-16, 
+
+
+
+Page 4 of 13
+
+addressing fragility through ➢❨ increased agriculture productivity and production and access to 
+markets➢❨ . It is also consistent with major strategic initiatives for DRC, the Great Lakes region, 
+and sub-Saharan Africa, including the second pillar (vulnerability and resilience) of the World 
+Bank➢❨ s Africa Strategy and Africa Climate Business Plan. By supporting the development of 
+agricultural value chains with strong economic potential, the proposed AF project is in line with 
+the national strategy of DRC and the Comprehensive Africa Agriculture Development Program 
+(CAADP). 
+ 
+Several policy documents govern the agriculture sector, including the National Agriculture 
+Investment Plan (NAIP), the Agricultural Code, a new proposal for Integrated Rural Development 
+Centers, and the Agro-industrial Action Plan. In practice, ownership of these policies at the 
+provincial level ➢❨  and even occasionally at the central level ➢❨  is low.  There is weak 
+coordination and harmonization across the different policies and implementing agencies, and 
+human, technical, and financial capacity to implement agricultural strategies is poor. 
+ 
+DRC➢❨ s green revolution will require a technological leapfrog combined with progress on 
+cross-cutting infrastructure, institutional and business climate issues in order to facilitate private 
+investment and access to markets. From an operational perspective, DRC➢❨ s green revolution 
+would pursue a two-track approach: (i) enabling traditional small-scale farmers to transition from 
+subsistence farming to small holder commercial farming ; and (ii) promoting private investment 
+in commercial agriculture using modern technologies geared toward mechanized farming and 
+agro-processing for domestic and regional markets. 
+ 
+DRC➢❨ s agro-industrial action plan (2015) proposes to privatize several government-owned 
+farms, establish agro-industrial parks across all provinces, and has identified 60 abandoned   
+farms for development. A focus on large commercial farms has the advantage of tackling many 
+constraints simultaneously to promote faster growth in a challenging environment, albeit in a 
+limited geographical area. Concentrating resources and political will in specific commercial zones 
+can also serve to demonstrate the benefits of specific policy interventions, so that these could be 
+scaled up.  Furthermore, incorporating smallholders into agro-industrial revitalization schemes 
+will be critical for promoting peace, stability, and inclusive growth.
+
+C.  Proposed Development Objective(s)
+
+Original Project Development Objective(s) - Parent
+The project development objective (PDO) is to increase agricultural productivity and improve 
+marketing of crops, and animal products by smallholder farmers in targeted areas.
+
+Proposed Project Development Objective(s) - Additional Financing
+To increase agricultural productivity and improve marketing of crops and animal products crops 
+and animal products in targeted areas.
+
+Key Results 
+
+D.  Project Description
+
+The proposed Additional Financing will provide additional resources to reinforce the basic 
+production capacity (staple crops and livestock) of smallholder farmers in three provinces to 
+
+
+
+Page 5 of 13
+
+ensure food and nutrition security, relaunch the perennial crops production and embark on 
+commercial farming by selling surplus production on local markets. The AF will support the re-
+emergence of a sustainable mixed farming system which is prevalent in the project areas. It will 
+also revamp the extension and advisory services in the project areas giving a more prominent role 
+to government institutions and involving the private sector. The AF will also assist the 
+Government in setting up a sustainable feeder roads maintenance program and strengthening 
+agriculture research and development. The AF will introduce information and communication 
+technologies at different levels of the activities to enable mobile banking, remote sensing and 
+other innovations to the beneficiaries. It will also expand a demand driven matching grant facility 
+and combine it with free technical assistance so different actors can fully participate in the project 
+activities. Finally the proposed AF also aims to promote climate adaptation (new technologies and 
+management practices) and build community resilience (micro projects storage facilities, 
+warehouses, processing centers, nurseries etc.). A partnership with the Central African Forest 
+Initiative (CAFI) Fund is to be confirmed. The potential CAFI financing in the amount of US
+$3.64 million as a grant would help enhance the environment benefits of the subprojects and 
+increase the project efforts to reduce or mitigate deforestation and forest degradation.
+
+Component Name
+Component 1: Improving agricultural and animal production
+Comments (optional)
+Component 1 will consolidate and further develop the activities undertaken under the parent 
+project which sought to increase the capacity of smallholder farmers in targeted areas to produce 
+staple crops and small stock including chicken. The scope will be broadened to include the two 
+additional territories and perennial crops like coffee and cocoa. The AF will support the private 
+sector or small private enterprises interested in investing in commercial crops.  Cross-cutting 
+issues such as nutrition, gender, climate smart agriculture, and employment will be fully 
+embedded into the AF activities..
+
+Component Name
+Component 2: Improving marketing infrastructure
+Comments (optional)
+Component 2 aims to continue with the rehabilitation and maintenance of feeder roads and 
+construction of key local markets and storage facilities across the three provinces with a focus on 
+building capacity at local and provincial levels to ensure that all infrastructure investments are 
+maintained and sustainable.
+
+Component Name
+Component 3: Capacity Building support to the Ministry of Agriculture and Ministry of Rural 
+Development, and project management
+Comments (optional)
+Component 3 will support the government efforts to: (i) re-engineer the national agriculture 
+extension and advisory services so it is responsive and inclusive (non-governmental 
+organizations, private sector and producer organizations as advisory service providers); (ii) 
+strengthen the planning, coordination and monitoring and evaluation capacity at national and 
+provincial levels (statistics and georeferenced data system); and (iii) strengthen the agricultural 
+research and development for efficiency and effectiveness gains in their service delivery and 
+conduct a skills needs assessment in the areas of agribusiness and agronomy; (iv) introduce 
+
+
+
+Page 6 of 13
+
+landscape management planning at local and provincial levels to support climate adaptation and 
+community resilience; and (v) manage the project.
+
+E.  Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+
+The Additional Financing will be implemented in South Ubangi, North Ubangi, Mongala and 
+Kinshasa.
+
+F.  Environmental and Social Safeguards Specialists
+
+Abdoulaye Gadiere (GEN07)
+Antoine V. Lema (GSU05)
+Claude Lina Lobo (GENDR)
+Lucienne M. M'Baipor (GSU01)
+
+II. Implementation
+Institutional and Implementation Arrangements
+The same structure that governed the implementation of the parent project will remain, with a 
+National Project Implementation Coordination Unit in Kinshasa and three Project Implementation 
+units at provincial level, one per each newly created province. The delegated management contractor 
+will be responsible for implementing the infrastructure component with an extension of UNOPS 
+contract. For each province, a provincial coordination monitoring committee will be established to 
+oversee the project's planning process and implementation.
+
+III. Safeguard Policies that might apply
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental 
+Assessment OP/BP 
+4.01
+
+Yes Project activities will generate impacts on environment, 
+especially the ones relating to the rehabilitation and 
+maintenance of feeder roads and construction of key local 
+markets. In addition to this, the ongoing operation intends to 
+fund sub-projects such as storage facilities, warehouses, 
+processing centers, nurseries, etc. These activities will 
+unquestionably induce adverse impacts on environmental 
+components. However, adverse impacts are expected to be 
+moderate, site specific and easily manageable. Besides, the 
+exact locations of these investments are unknown to date. 
+Consequently, an Environmental and social Assessment 
+Framework (ESMF) which is the proper safeguard instrument 
+in such a case has been prepared, reviewed, consulted upon 
+and disclosed both in DRC on January 13, 2017 and at the 
+Infoshop on January 17, 2017.
+
+Natural Habitats OP/
+BP 4.04
+
+Yes This policy is triggered in the preventive way because of the 
+potential of the project to cause loss or degradation of natural 
+habitats, whether directly or indirectly. This policy is also 
+triggered to draw attention when activities may be undertaken 
+
+
+
+Page 7 of 13
+
+near Natural habitats, with the possibility to impact them. The 
+ESMF was prepared in line with the OP/BP4.01 includes a 
+section handling this matter.
+
+Forests OP/BP 4.36 Yes The policy on Forests is triggered preventively as the project 
+will be implemented in forested areas with the possibility of 
+impact on the natural or plantation forests, and/or can bring 
+some changes in management or protection of these forests. 
+This is to avoid any significant conversion (loss) or 
+degradation. This concern was taken in account in the ESMF.
+
+Pest Management OP 
+4.09
+
+Yes Activities in the component 1 aims to improve agricultural and 
+animal production where the main focus will be on improved 
+access to fertilizers, pesticides, veterinary drugs and access to 
+high quality and affordable agro-veterinary services. 
+Consequently an Integrated Pest Management Plan (IPMP) 
+about the safe use of agricultural pesticides and a promotion of 
+the use of biological or environmental control methods was 
+developed as a separate document. This safeguard tool has 
+been reviewed, consulted upon and disclosed within DRC and 
+at the Infoshop respectively on January 13 and January 17, 
+2017.
+
+Physical Cultural 
+Resources OP/BP 
+4.11
+
+Yes In order to anticipate and to be sure that all the precautions 
+have been taken to protect and safeguard physical cultural 
+resources, a section addressing these concerns was included in 
+the ESMF.  This is because activities related to the 
+rehabilitation and the maintenance of feeder roads and other 
+infrastructure works will induce excavations with potential 
+discoveries of physical cultural resources.
+
+Indigenous Peoples 
+OP/BP 4.10
+
+Yes As the project is focusing mainly on rural areas, and as there 
+are Indigenous People in the project area, the Indigenous 
+People Policy Framework (IPPF) of the parent project has been 
+updated. Once the project site is clearly identified, the project 
+will prepare an Indigenous Peoples Plan (IPP).
+
+Involuntary 
+Resettlement OP/BP 
+4.12
+
+Yes This policy is triggered because of the potential restriction of 
+access to assets or sources of livelihood as a result of the 
+proposed project activities. Since the exact geographic 
+coverage of proposed activities is still to be determined, the 
+Resettlement Policy Framework (RPF) of the parent project 
+has been updated by the Borrower for the project to clearly 
+outline the basic principles and guidelines for mitigating any 
+potential impact that may require compensation in the event of 
+land acquisition and in some cases involuntary resettlement in 
+the broad sense.
+
+Safety of Dams OP/
+BP 4.37
+
+No The project will not finance dam works or activities associated 
+to existing dams.
+
+Projects on 
+International 
+
+Yes Projects on International Waterways OP/BP 7.50 is triggered 
+because of planned irrigation activities. An exception to the 
+
+
+
+Page 8 of 13
+
+Waterways OP/BP 
+7.50
+
+Riparian Notification Requirement under OP 7.50 (Projects on 
+International Waterways) was approved by the RVP on 
+December 15, 2016. Due diligence was also completed under 
+the parent project and an exception to the Riparian Notification 
+Requirement was approved by the RVP on Oct 27, 2009..
+
+Projects in Disputed 
+Areas OP/BP 7.60
+
+No The project will not be located in a Disputed Area.
+
+IV. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify 
+
+and describe any potential large scale,  significant and/or irreversible impacts:
+The Additional Financing will support activities related to the rehabilitation and the maintenance 
+of feeder roads, the construction of key local markets, storage facilities, warehouses, processing 
+centers, nurseries, etc. These civil works will unquestionably induce environmental and social 
+adverse impacts in terms of trees cutting, dust, noise, waste management, and security and health 
+issues both for populations and for employees. However, most of adverse impacts associated with 
+these investments will likely be site-specific, so manageable at an acceptable level.  
+In addition, those civil works will take place in forested areas. Potential adverse impacts could 
+occur on forests and natural resources. The civil works could also induce impacts on Physical 
+cultural resources.  
+ 
+On social level, the rehabilitation/maintenance of feeder roads and the construction of local 
+markets as well as warehouses may induce the displacement of populations. In addition, 
+Indigenous people are present within areas where some civil works will be undertaken with the 
+possibility to some adverse impacts on them.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities 
+in the project area:
+Anticipated negative environmental and social impacts of the project would result mainly from 
+civil works associated with rural roads rehabilitation, but also from increase and intensified crop 
+production. The consequence would be change in routine activities, use of fertilizers and 
+pesticides, generation of solid and liquid waste, acquisition/taking of private land. In addition, the 
+potential use of quarry materials for consolidation of rural roads could also be sources of negative 
+impacts on both the natural and physical environment, which will require restoration actions after 
+use.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse 
+impacts.
+Not relevant.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described.
+The project remains EA category B and triggers eight safeguards policies which are OP/BP 4.01; 
+OP/BP 4.04, OP/BP4.36; OP4.09; OP/BP4.11, OP/BP7.50; OP/BP4.10 and OP/PB 4.12.   
+ 
+Considering that the exact geographic locations of project specific interventions are not yet 
+determined with certainty, the Borrower updated four environmental and social safeguards 
+instruments, namely an Environmental and Social Management Framework (ESMF), a 
+
+
+
+Page 9 of 13
+
+Resettlement Policy Framework (RPF), the Indigenous People Policy Framework (IPPF) and a 
+Pest Management Plan (PMP) in compliance with the core requirements of the triggered 
+safeguards policies : OP/BP 4.01 (Environmental Assessment), OP 4.09 (Pest Management), OP/
+BP.4.10 (Indigenous People) and OP/BP 4.12 (Involuntary Resettlement).  The ESMF has also 
+made provision to address basic requirements from both OP/BP 4.36 (forestry) and OP/BP 4.04 
+(Natural Habitats). Both the ESMF and the PMP were reviewed and cleared by the Bank and the 
+Government and disclosed both in-country on January 13, 2017 and at the InfoShop on January 
+17, 2017. The RPF and the IPPF was were also reviewed and cleared by the Bank, and disclosed 
+both in-country on  January 13, 2017 and at the InfoShop on  January 17, 2017. 
+ 
+During the parent project implementation, screening of sub-projects has taken place to ensure 
+proper identification and mitigation of any adverse impacts. Consequently, many ESIA, RAP and 
+IPPs have been prepared, disclosed and implemented as guidance/guidelines prior to activities 
+implementation. As the parent project, the ongoing AF will follow the same process regarding the 
+safeguard aspects.  
+ 
+There is a recently recruited safeguards specialist in the PIU, who is familiar with project activities 
+in the parent project, he has also been implicated in the preparation stage. For Component 2, the 
+Contractor (UNOPS) has equally recruited a safeguards specialist, as well as the Netherlands 
+Development Organization (Stichting Nederlandse Vrijwilligers/SNV) that implemented the IPP 
+of the parent project, also has a safeguards specialist in the team. To supervise the implementation 
+of social measures, it is recommended that the project recruit a social expert. 
+All the environmental and social safeguard specialists involved in the team will ensure that all the 
+sub-projects to be financed under the AF are in full compliance with Bank safeguards policies and 
+in line with the national regulatory framework. Furthermore, the National Agency in charge of 
+environmental impact assessment and safeguards monitoring (Agence Congolaise de 
+l➢❨ Environnementale-ACE) is also involved in the environmental and social aspects monitoring.  
+ 
+Lastly, the safeguards specialists at the World Bank, part of the project team, will ensure that all 
+the project staff are trained on safeguards on the one hand and will be part on supervision missions 
+on the other hand with the aim to make sure safeguards aspects are properly handled.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure 
+on safeguard policies, with an emphasis on potentially affected people.
+The key stakeholders are the beneficiary communities, Ministries in charge of Agriculture, 
+fisheries and livestock, rural development, transport, Environment and sustainable development 
+(and their relevant agencies/departments), municipalities, NGOs and other relevant institutions. 
+ 
+One of the key principles of this project from the outset was to foster participation of all relevant 
+stakeholders. This approach will be sustained throughout project implementation. The 
+environmental and social assessment studies, namely the ESMF, IPMP. IPPF and RPF, were also 
+carried out according to the same principle, using broad-based public consultation approach, 
+involving the above stakeholder groups. The objective was to raise awareness of project activities 
+and impacts and foster ownership on their part. All the relevant bodies have been adequately 
+informed of the Project. Concerns of the communities and some details of consultations have been 
+taken into account in the body of the different reports and other results provided as Annexes. The 
+key concerns raised during the consultation process included: (i) permanent information and 
+sensitization of the population, (ii) compensation process for those impacted by the project, (iii) 
+participation of local population as employee on works they qualify for, (iv) the involvement of 
+
+
+
+Page 10 of 13
+
+NGOs and state technical services during the execution of works. All these concerns have been 
+addressed in the alternatives proposed through the developed safeguards instruments.
+
+B. Disclosure Requirements
+
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank 28-Nov-2016
+
+Date of submission to InfoShop 17-Jan-2017
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors
+
+"In country" Disclosure
+Congo, Democratic Republic of 13-Jan-2017
+Comments:
+
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank 22-Nov-2016
+
+Date of submission to InfoShop 17-Jan-2017
+"In country" Disclosure
+
+Congo, Democratic Republic of 13-Jan-2017
+Comments:
+
+Indigenous Peoples Development Plan/Framework
+Date of receipt by the Bank 27-Nov-2016
+
+Date of submission to InfoShop 17-Jan-2017
+"In country" Disclosure
+
+Congo, Democratic Republic of 13-Jan-2017
+Comments:
+
+Pest Management Plan
+Was the document disclosed prior to appraisal? Yes
+Date of receipt by the Bank 20-Nov-2016
+
+Date of submission to InfoShop 17-Jan-2017
+"In country" Disclosure
+
+Congo, Democratic Republic of 13-Jan-2017
+Comments:
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the 
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+
+

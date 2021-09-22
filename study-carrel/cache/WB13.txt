@@ -1,0 +1,898 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+APPRAISAL STAGE
+Report No.: PIDISDSA20709
+
+Date Prepared/Updated: 08-Feb-2017
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: Maldives Project ID: P157801
+Parent 
+Project ID 
+(if any):
+
+Project Name: Sustainable Fisheries Resources Development Project (Fourth South West Indian 
+Ocean Fisheries Governance and Shared Growth Project) (P157801)
+
+Region: SOUTH ASIA
+Estimated 
+Appraisal Date:
+
+10-Jan-2017 Estimated 
+Board Date:
+
+10-Apr-2017
+
+Practice Area
+(Lead):
+
+Environment & Natural 
+Resources
+
+Lending 
+Instrument:
+
+Investment Project Financing
+
+Borrower(s): Government of Maldives
+Implementing 
+Agency:
+
+Ministry of Fisheries and Agriculture
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 0.00
+IDA Grant 1.50
+IDA recommitted as a Grant 16.50
+Financing Gap 0.00
+Total Project Cost 18.00
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Appraisal 
+Review 
+Decision (from 
+Decision Note):
+
+The review did authorize the team to appraise and negotiate
+
+Other Decision:
+Is this a 
+Repeater 
+project?
+
+No
+
+B.   Introduction and Context
+
+Country Context
+Maldives and eleven other countries border the waters of the South West Indian Ocean (SWIO) 
+➢❨  the island nations of Comoros, Madagascar, Mauritius and Seychelles; and seven mainland 
+countries: France, Kenya, Mozambique, Somalia, South Africa, Tanzania and Yemen. Together 
+these countries are members of the South West Indian Ocean Fisheries Commission (SWIOFC), a 
+regional fisheries body. The SWIO marine fisheries are part of a larger marine ecosystem shared 
+by all countries of the region. They are a regional public good, whose health and sustainability 
+require regional coordination to limit the negative and enhance the positive externalities yielded 
+by national activities, especially on the migratory fish species, such as tuna. Conservation and 
+sustainable harvesting of the regional public goods in particular, and the shared ecosystem in 
+general are central to the economy of the island countries in SWIO region.  
+ 
+Fisheries sector accounts for a substantial portion of Gross Domestic Product (GDP) of the SWIO 
+countries. Seafood export from these countries was approximately US$2.7 billion in 2014. Local 
+industrial fisheries (mainly shrimp) and tuna processing constitute a substantial part of 
+employment, income and foreign exchange earnings. Aquaculture and recreational fishing (sport 
+fishing and diving) are rapidly growing industries and growing source of revenues in several of 
+these countries. Fisheries, especially small-scale and subsistence fisheries play an important role 
+for the livelihoods of estimated 107 million people living within 100 kilometers of the coast in the 
+SWIO countries. They are often among the most vulnerable communities with high exposure to 
+climate change impacts. The fisheries sector is a major contributor to nutritional health and food 
+security in the SWIO region, especially for poor coastal communities with limited alternatives to 
+fish for animal protein, as well as essential nutrients, vitamins, minerals and trace elements. 
+ 
+Maldives, comprising of 26 atolls of 1,190 small coral islands of which 188 are inhabited by a 
+local population of 338,434, has successfully built on its extraordinary natural assets to promote 
+growth and socio-economic development. This was achieved mainly by developing a successful 
+high-end tourism sector, whose sizeable rents have been redistributed to the population to address 
+its development challenges. GDP per capita increased from US$268 in 1980 to US$7,681 in 2014 
+(highest in South Asia), mainly driven by tourism and non-tradable tourism related activities. 
+Incidence of poverty in Maldives is in line with that of an upper middle-income country, and its 
+human development index is second only to Sri Lanka among the countries in South Asia. The 
+share of the population living with less than US$1.25 a day was 4.9 percent in 2010, whereas the 
+corresponding share using the US$2 a day poverty line was 17.02 percent in 2010. 
+  
+Despite this outstanding performance, the pace of poverty reduction has been below potential; and 
+the level of inequality remains a major challenge. Limited job opportunities and skill-
+endowments, especially for women and youth might have played an important role in limiting 
+contribution of growth to poverty reduction. In particular, lack of growth in fisheries is an 
+important cause of the limited impact of growth to poverty reduction, especially in the atolls away 
+from MalÃ©.   
+ 
+The World Bank➢❨ s Systematic Country Diagnostic, 2015 (SCD) provides a snapshot of the 
+inherent vulnerabilities of Maldives➢❨  development program including immediate concerns 
+about the fiscal, environmental and social sustainability. Due to its macro-economic vulnerability, 
+given the small size, it is important to look for economic diversification away from tourism and 
+
+heavy reliance on imports; and to promote an inclusive development of the labor market with 
+particular opportunities for women and youth. There is a need to augment climate-proofing of the 
+economy as climate change could cause annual economic losses of more than 12 percent of GDP 
+by 2100. Emphasis on environment and natural resources management, especially preventing 
+damage and pollution of the coral reefs is important to sustain and increase climate resilience of 
+tourism and fisheries, the crucial components of the national economy.
+Sectoral and institutional Context
+An estimated 28 percent of the SWIO regional fish stocks are over-exploited or depleted 
+(especially the high-value resources, such as shrimp, lobster, and sea cucumber). A further 40 
+percent of stock are fully exploited (SWIOFC, 2011) from overfishing by industrial vessels and 
+artisanal fishers, and widespread use of destructive equipment and techniques (such as dynamite 
+or beach seines). Critical ecosystems, already weakened by land-based pollution are further 
+endangered by loss of biodiversity, and destruction of coral reefs and mangroves; and 
+consequently the coastal resource base is acutely threatened. As a result, it was estimated that 
+SWIO coastal states incurred annual losses of US$225 million in 2008. Furthermore, a weak 
+investment and business climate, coupled with limited or underperforming infrastructure and 
+services, significantly constrain industrial and artisanal private sector development.  
+ 
+As small-scale fisheries modernize, the limited potential of many coastal fisheries will require 
+that fishing effort be reduced to become sustainable. This will generally translate into fewer 
+vessels or jobs in harvesting operations, and require that attention be devoted to alternative 
+livelihood opportunities in post-harvest value addition, aquaculture, and recreational fisheries or 
+in other sectors. Reduction or elimination of destructive fishing is also a significant governance 
+and social challenge.  
+ 
+The fisheries sector in the SWIO is already largely regional, with each country➢❨ s decision 
+affecting other countries➢❨  activities. In particular, large national investments, such as ports, 
+fishing fleets, or processing plants, are competing against each other. Regional coordination is 
+therefore needed to avoid conflicts and suboptimal sectoral investments, and to promote equitable 
+distribution of wealth. Furthermore, several technical aspects of the sector are regional in nature 
+(e.g., monitoring, control and surveillance, safety at sea), and their implementation, at the least, 
+has to be coordinated at a regional level. The countries also face common constraints with regard 
+to their fisheries sector: weak governance, weak human and institutional capacity, and a fragile 
+business environment. The SWIO countries will therefore benefit from addressing these 
+challenges jointly. They already use regional platforms to share their experience in implementing 
+more sustainable and economically viable fisheries policies and practices, including the Indian 
+Ocean Tuna Commission (IOTC) and SWIOFC. Greater regional cohesion will enhance the 
+countries➢❨  voice in international fora as well as in negotiating fishing-related agreements, 
+where decisions made have significant impacts on the fisheries sector of the SWIO countries. 
+ 
+The SWIO countries have repeatedly called for attention to regional collaboration in the sector, 
+recognizing the important contribution by the marine fisheries to regional and national goals: 
+poverty reduction, food security, economic growth, balance of payments, and the value of natural 
+capital. In response, major donors (the European Union, EU; France; the Global Environment 
+Facility, GEF; and the World Wide Fund for Nature, WWF) and the World Bank have all 
+supported regional fisheries programs in the recent past.  Consolidating and expanding past 
+projects and analytical advice, the World Bank committed in-principle to finance the multiple 
+
+
+South West Indian Ocean Fisheries Governance and Shared Growth (SWIOFish) series of 
+projects (SOP) in 2015. Three consecutive series of projects are expected: SWIOFish Phase 1 
+during 2015-21 (hereafter referred as the SWIOFish SOP); SWIOFish Phase 2 during 2022-27; 
+and SWIOFish Phase 3 during 2028-32. Under the first series, the First South West Indian Ocean 
+Fisheries Governance and Shared Growth Project (SWIOFish1) was approved in 2015 (covering 
+Comoros, Mozambique, Tanzania and the Indian Ocean Commission). The second project 
+covering Madagascar and the Indian Ocean Tuna Commission) and the third project covering 
+Seychelles are expected to be approved in 2017. Maldives is the fourth planned project in the 
+SWIOFish, to be followed by similar country-level projects in Somalia, Mauritius and Kenya (all 
+expected to be approved in FY18). 
+ 
+At the national level, the fisheries sector is a critical contributor to the national economy and an 
+important economic activity in all of Maldives➢❨  inhabited islands. In 2015, primary fisheries 
+accounted directly for 1.4 percent of GDP {excluding manufacturing (3.5% of GDP); wholesale 
+and retail trade (4.7%) and transport (8.7%) where fisheries has a major role} and 11 percent of 
+employment. The sector generated US$140 million in export revenue in 2015 (and a high of US
+$161 million 2013), which is amost all of Maldives physical exports. Although the relative 
+importance of the fisheries sector has declined since the late 1970s (due to the rapid growth of 
+tourism), its role in the economy remains significant, including in providing food and nutrition 
+security and as a source of livelihood and employment in remote islands without a major tourism 
+facility. In the atolls away from MalÃ©, 30 percent of the household heads work in fisheries.  
+ 
+Although the country benefits from vast fishing resources spread over 923,000 square kilometer 
+of exclusive economic zone (EEZ), the total fish catch has declined from 185,923 tons in 2005 to 
+127,350 tons by 2015; and direct employment reduced from around 14,000 in 2001 to less than 
+9,000 persons now. The bulk of fisheries catch (up to 95 percent) are skipjack and yellowfin tuna. 
+The Maldivian tuna is considered a premium product due to high quality fish stocks, pristine 
+water, and sustainable fishing methods. Reef fishes, which account for 5 (average) to 16 percent 
+(in low ➢❨ tuna years➢❨ ) of catch are mainly used for domestic consumption and supply to 
+resorts, but export is rising (especially for grouper, sea-cucumber and aquarium fish). The tuna 
+fishery, especially the skipjack ➢❨ pole and line➢❨  fishery has been recognized as one of the 
+most environmentally responsible fishery operations in the world (certified by the Marine 
+Stewardship Council, MSC), a dimension that has helped maintain the higher than usual export 
+prices in recent past. 
+ 
+Sustainable and diversified development of the fisheries sector is part of the Government of 
+Maldives➢❨  vision, which encourages economic growth based on a diversified economy and 
+aims at increased job opportunities. The Ministry of Fisheries and Agriculture (MoFA), with 
+support from the Japan International Cooperation Agency (JICA), is preparing a Master Plan for 
+Sustainable Fisheries to: (a) update and implement fisheries management plans including 
+diversification; (b) strengthen the country➢❨ s monitoring, control and surveillance systems; (c) 
+establish a better knowledge of the impacts of climate change on the fisheries sector; (d) reduce 
+the excessive use of live bait in tuna fishery; and (e) address the heavy exploitation of export-
+oriented reef fishery.  
+ 
+The business-as-usual (BAU) scenario suggests that the fishery sector is threatened, and the 
+income and jobs from the sector is at risk. The challenges of the fisheries sector are threefold. 
+First, given the dependence of so many island people on fisheries, sustenance of capture fishery at 
+
+about 120,000 tons and maintaining an export of about 60 percent of the catch are important for 
+the national income and welfare of fishers and their families. Measures, such as compliance with 
+the IOTC recommendations on improved surveillance and monitoring, or improved monitoring 
+and generation of evidence to justify continuation of MSC certification, will be important to 
+sustain exports and premium export prices. Operationalization of the Government of Maldives➢❨  
+decision to focus on all value-added processing of tuna, and a quality control limit for tuna fishing 
+are also required. Other challenges include inefficient use of infrastructure, inadequate 
+distribution, and lack of access to finance to invest in fisheries value chains. 
+ 
+Second, there is a need to ensure sustainability of live-bait and reef fishing. The high value tuna 
+fisheries sector is dependent on live-baits and reef ecosystem. Excessive reef fishing as well as 
+capture of live-baits (for tuna fisheries) is considered threats to coral reefs. Anecdotal evidence 
+suggests that capture of groupers is already unsustainable. Diversification and consequent 
+(partial) shift away from capture fishery is important on three accounts: (a) to minimize impacts 
+on coral reefs, and to sustain the reef fish population, especially groupers; (b) ensure sustenance 
+of the capture fishery to protect jobs and income of most of the households who are currently 
+engaged in fisheries and associated vocations; and create alternatives for households who will not 
+be able to continue in capture fishery; and, (c) to create dependable income and growth 
+opportunities for communities and individuals who have gradually been excluded from the 
+mainstay tuna fishing and related local processing operations, and who are involved in 
+opportunistic reef fishing.  
+ 
+The opportunities for diversification are, however, limited. Mariculture appears to be the only 
+substantial opportunity, for benefiting the communities, reducing the excessive pressure from reef 
+or bait fishing; and providing meaningful employment opportunities for individuals, including 
+women and youth currently outside the gainfully employed workforce. Some initial mariculture 
+works had been experimented so far: with pearl oysters, Maldivian clownfish, and brown marbled 
+groupers. A private aquaculture farm is producing sea cucumbers, producing the larvae in 
+hatcheries before growing them in lagoons. The future development of mariculture, however, is 
+hindered by limited availability of fingerlings/juveniles, feed, financing and appropriate 
+technology.  
+ 
+Third, inclusive development of fisheries sector is important for substantive job creation. Towards 
+this, mariculture, diversified capture of relatively deep-sea species and aquarium fishery appear to 
+be ideal for Maldives. These have the potential to grow, and contribute to the reduction of 
+unemployment among inhabitants of remote atolls. In implementing such a program, however, 
+special attention needs to be given to the establishment of gender sensitive policy and regulatory 
+framework, the establishment of benefit sharing mechanisms for the natural resources to be 
+managed and, capacity building of atoll councils and small businesses. 
+ 
+While Maldives➢❨  fisheries sector represents an undeniable engine of inclusive growth for the 
+country, its sustainability and future will depend on three important and interrelated factors: (a) 
+better and more transparent governance over fishing through all aspects of the value chain 
+including post-harvest processing; (b) ensuring that greater value is captured across the value 
+chain and that wealth generation opportunities are shared with marine resources dependent 
+communities, especially youth and women; and (c) improved livelihoods and meaningful income 
+opportunities for communities in the remote atolls, who should squarely be at the center of future 
+sustainable mariculture development efforts. 
+
+
+Fisheries in Maldives is intricately connected with the wellbeing of the regional fishery stock. In 
+spite of using sustainable fishing practices, the capture of tuna has come down from 184,000 tons 
+to 127,000 tons ➢❨  arguably due to the diminishing stock in the Indian Ocean as a whole. In 
+recent years, Maldives was focusing on yellowfin tuna as one way of offsetting the reducing catch 
+of skipjack tuna. In spite of practicing sustainable fishing in the Maldivian waters, the yellowfin 
+tuna population in the Indian Ocean Region has shrunk, and the IOTC has now specified reduced 
+quota for yellowfin catch. It is evident that these regional level issues have had implication at the 
+national level. The tuna stock in the Indian Ocean is somewhat at risk, and it is expected that tuna 
+catch will reduce further in the coming years.  
+ 
+The best option for Maldives is to work with other countries to ensure sustainable practices over 
+all of the Indian Ocean Region. At the same time, Maldives needs to (a) augment its own systems, 
+procedures, compliance mechanisms, and skills to retain the ➢❨ environmentally sustainable➢❨  
+branding to capture premium price in international markets, and (b) offer to share the knowledge 
+of its own systems, procedures, compliance mechanisms, and the ➢❨ environmentally 
+sustainable➢❨  fishing technology to the other countries. By demonstrating higher capture of 
+value and premium price, Maldives can demonstrate to the other countries that conservation 
+indeed pays.  
+ 
+Nevertheless, Maldives will need to grow, and this need threatens other parts of the ecosystem 
+even if tuna fishing is at the current sustainable level. Maldives cannot afford to espouse the cause 
+of conservation of tuna fishery (in its own waters and in the region) and at the same t ime destroy/
+diminish reef fishery. Therefore, diversification into mariculture and consequent (partial) shift 
+away from capture fishery (in particular for new entrants) is important on two accounts: (a) to 
+minimize impacts on coral reefs, and to sustain the reef fish population, especially groupers; (b) to 
+create dependable income and growth opportunities for communities and future generations, 
+especially women who had been gradually excluded from the mainstay tuna fishing and related 
+local processing operations, and youth who are involved in opportunistic reef fishing. The agenda 
+of conservation of reef and waters, reef fishery, and development of mariculture as the best 
+diversification option, therefore are closely linked to the regional conservation agenda.  
+ 
+As discussed above, a Regional IDA investment in Maldives is a crucial part of the SWIOFish 
+SOP. SWIOFish1 and SWIOFish2 mention specific investment in Maldives. Maldives is currently 
+co-chairing (and will take over as chair in 2017) the SWIOFC, and is participating in the 
+SWIOFish Bureau meetings, the Scientific Committee Meetings, meetings of the Working Group 
+on Fisheries Data and Statistics, meetings of the Working Party on Cooperation and Coordination 
+in Tuna Fisheries; and the overall SWIOFC meetings including annual SWIOFC Sessions ➢❨  all 
+supported by SWIOFish1. Maldives also benefits from SWIOFish1 regional support to develop a 
+National Observer Program, in line with the IOTC➢❨ s recommendations, to eventually be able to 
+participate in the SWIOFC Countries➢❨  Regional Observers Program. Under SWIOFish2, 
+Maldives will benefit from training by IOTC Secretariat➢❨ s technical teams to better implement 
+Maldives➢❨  international fisheries obligations under the IOTC, such as the Port States➢❨  
+Measures to combat Illegal, Unreported and Unregulated fishing. 
+ 
+In essence, an investment in sustainable fisheries resources development in Maldives will be 
+beneficial to the countries in South-West Indian Ocean region, due to (i) economies of scale from 
+
+shared infrastructure, technologies, and knowledge; (ii) positive externalities yielded by national 
+activities to avoid the ➢❨ tragedy of the commons➢❨  scenario; (iii) addressing common 
+constraints jointly through regional platforms and workshops; (iv) greater regional cohesion in the 
+international fora as well as in negotiations of fishing-related agreements where decisions need to 
+be collective and impacts are shared; and, (v) upgraded value-chain linkages by collectively 
+helping their fisheries sector integrate into more competitive value chain.
+
+C.  Proposed Development Objective(s)
+
+Development Objective(s)
+To improve management of fisheries at regional and national levels including support to establish 
+mariculture in targeted atolls in the Maldives.
+
+Key Results 
+The project seeks to achieve the following key results: 
+(a) Compliance rate of SWIO countries with IOTC resolutions (Regional-level Indicator; 
+same as SWIOFish2 indicator)  
+(b) Vessels complying with IOTC and European Union requirements on monitoring and 
+reporting (Regional-level Indicator) 
+(c) Value of production from mariculture 
+(d) Direct project beneficiaries (of which share of female beneficiaries) 
+(e) Share of target beneficiaries with rating ➢❨ satisfied➢❨  or above on project 
+interventions.
+
+D.  Project Description
+
+The proposed project is the fourth in the SWIOFish SOP. As articulated in the SOP description, a 
+central thrust of the SOP is that while the challenges are regional in nature, addressing them 
+requires action at the national level, which will yield regional benefits, enhance ownership and 
+efficiency, and strengthen national institutions to help enhance the overall health of fisheries in 
+the region. The project components are directly linked to the wellbeing of the regional fishery 
+stock. Other than ➢❨ Project Management, Monitoring and Evaluation➢❨ , the project will 
+consist of two components ➢❨  one will focus on improving the currently inadequately managed 
+capture fishery, and the other one will support diversifying the fisheries economy so that 
+sufficient jobs and income are created outside capture fishery to reduce stress on the regionally 
+shared fish stock. Both components will build improved resilience in Maldives.  
+ 
+Component A: Augmentation of Institutional Capacity for Marine Fisheries Management. This 
+component seeks to enhance the Government➢❨ s capacity to implement a more effective 
+monitoring of fisheries sector and internal control system of key marine fisheries value chains, 
+and will focus on delivery of the Indian Ocean Regional agenda (as well as the intended 
+adaptation agenda) of improving the overall fisheries management, marine zoning for long-term 
+benefits, and a longer-term plan to establish and operationalize in-country skill and capacity 
+building activities, essential for sustenance and growth of the fishery sector in Maldives. The four 
+sub-components include: (A1) Development of key fisheries management and planning 
+instruments including updating fisheries policy and legislative framework, zoning covering the 
+entire Maldivian EEZ, and support to grouper fish management, coral reef and reef fishery 
+management plans which are essential for regional conservation and improved compliance with 
+
+IOTC recommended conservation and management measures; (A2) Development and 
+implementation of fisheries management activities to ensure  compliance with IOTC and EU 
+requirements, including expanded MCS, vessel registration and monitoring systems, electronic 
+observer systems and augmentation of related reporting systems for commercial marine fisheries; 
+collaboration with the SWIO Sub-Regional Fisheries Monitoring Centers; and, support and 
+facilitation to regional agencies and international actors on the common agenda of conservation 
+and management measures; (A3) Support to long-term program for fisheries management 
+including sampling programs for tuna and recreational fish species, stock assessments and 
+conservation zone surveys which will contribute to regional assessments and subsequent actions; 
+and preparation of protocols disease surveillance, and quality control of brood stocks and fish 
+feed; (A4) Fisheries sector capacity building including short and medium-term training, 
+development of curriculum and teaching aids, collaboration with National Geographic 
+Information System (GIS), and development and operation of a fisheries management information 
+system ➢❨  all focusing on strengthening local and national skills that will contribute to national 
+and SWIO Region agenda related to fishery management and consequent diversification into 
+mariculture.  
+ 
+Component B: Support to Mariculture and Diversification of Fisheries. Potential economic 
+growth from diversification of capture fishery and from mariculture are pre-requisites for 
+sustenance of the capture fishery resources in the Maldivian EEZ. However, mariculture is 
+nascent in Maldives; and to be able to develop this sector, research, demonstration and provision 
+of extension services will play key roles in addition to the three primary inputs: seeds, feed and 
+access to finance. The four sub-components, therefore, include:  (B1) Development and 
+demonstration of mariculture production and technology package, including completion and 
+operationalization of, and preparation of medium-term operations plans and service standards for 
+the Maniyafushi research and development facility (MRDF) as a center of excellence for the 
+entire SWIO region; development and demonstration of technology packages for mariculture 
+species; and market studies in support of mariculture choices; (B2) Promotion of mariculture out-
+grower schemes and seafood growth clusters, including assessment of carrying capacity and 
+supporting community custodianship of the coral reef resources, start-up investments including 
+training, advisory support and compliance monitoring in out-grower farms, technical support to 
+small enterprises for establishing out-grower contractual arrangements between small producers 
+and larger private sector aggregators, and studies to help develop gender actions in mariculture; 
+(B3) Supporting design, construction and operation of a multi-species hatchery including breeder 
+stock development programs and professional training plans; and, (B4) Scoping of long-term 
+marine fisheries diversification studies including planning and scoping of studies related to 
+technology packages and conservation plans for new marine species to be explored in future.  
+ 
+ 
+Component C: Project Management, Monitoring and Evaluation (US$2.15 million).  This 
+component would provide equipment, technical assistance, training, and incremental operating 
+cost to strengthen the overall administrative capacity and capability of the Ministry of Fisheries 
+and Agriculture and its Project Management Unit (PMU) to manage, implement, and monitor and 
+evaluate project activities. Specifically, support will include staffing and operation of the PMU; 
+establishment of adequate financial management and procurement management systems; 
+implementation of the communication plan and grievance redress activities; monitoring and 
+evaluation (M&E) and third party audits; preparation and implementation of specific 
+environmental impact assessments as per the national laws; coordination with other ministries 
+
+such as the Ministry of Environment and Energy and the private sector; special evaluation studies; 
+and sharing of monitoring protocols, evaluation studies and specific experience of implementation 
+of various aspects of fisheries management activities that are of interest with SWIO Region 
+countries.
+
+Component Name
+Augmentation of Institutional Capacity for Marine Fisheries Management
+Comments (optional)
+
+Component Name
+Support to Mariculture and Diversification of Fisheries
+Comments (optional)
+
+Component Name
+Project Management, Monitoring and Evaluation
+Comments (optional)
+
+E.  Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+
+Maldives is an island nation in the Indian Ocean oriented north-south off India's Lakshadweep 
+Islands. The Maldives consists of 1,192 coral islands grouped in a double chain of 26 atolls. The 
+country➢❨ s atolls encompass a territory spread over roughly 90,000 square km, making it one of 
+the world's most geographically dispersed countries.  Of the 1,192 islands, 188 are inhabited by 
+the country➢❨ s population, with an average of 5-10 islands in each atoll being inhabited islands 
+that have infrastructure such as housing, roads and other facilities built in. The country➢❨ s total 
+land area is estimated to approximately 300 square km, with islands varying in size from 0.5 to 
+5.0 square km. A significant number of uninhabited islands in each atoll have also been converted 
+to resorts and tourism facilities as well as house infrastructure such as industrial facilities and 
+airports. 
+ 
+The atolls are composed of live coral reefs and sand bars, situated atop a submerged ridge 960km 
+long that rises abruptly from the depths of the Indian Ocean. Maldives is noted as the country 
+placed at the lowest elevation in the world, with maximum and average natural ground levels of 
+only 2.4 m and 1.5 m above sea level, respectively. More than 80 per cent of the country's land is 
+composed of coral islands which rise less than one meter above sea level. The islands consist of 
+coral, sea grass, seaweed, mangrove and sand dune ecosystems which are of great ecological and 
+socio-economic significance. Maldives is home to a number ecologically sensitive marine habitats 
+in shallow and intertidal zones which have been designated as protected areas by the Ministry of 
+Environment and Energy (MEE) and these regions and any activities in their vicinity are 
+stringently monitored and managed. 
+ 
+Climatic conditions in the Maldives belong to the tropical-monsoon category with temperatures 
+ranging between 24Â°C and 33Â°C throughout the year. Climatic conditions in the Maldives is 
+
+
+predominantly affected by the large landmass of South Asia situated to the north. The presence of 
+this landmass causes differential heating of land and water. These factors set off a rush of 
+moisture-rich air from the Indian Ocean over South Asia, resulting in the southwest monsoon. 
+Two seasons dominate Maldives' weather: the dry season associated with the winter northeastern 
+monsoon and the rainy season which brings strong winds and storms. The shift from the dry 
+northeast monsoon to the moist southwest monsoon occurs during April and May and the 
+southwest monsoon Maldives in the beginning of June and lasts until the end of August. Annual 
+rainfall averages 254cm in the north and 381cm in the south, with the southern region 
+experiencing more rain.  
+ 
+The project focuses on the whole nation. The island of Maniyafushi where the project will finance 
+the augmentation of the infrastructure of the Maniyafushi Research Centre, is an uninhabited 
+island and the airport island located in South MalÃ© Atoll, where the physical infrastructure has 
+already been set up. The establishment and subsequent operation of mariculture out grower farms 
+(in the remote northern atolls, selected specifically to avoid any potential impacts corals and water 
+quality).
+
+F.  Environmental and Social Safeguards Specialists
+
+Mokshana Nerandika Wijeyeratne (GEN06)
+
+Susrutha Pradeep Goonesekera (GSU06)
+
+II. Implementation
+Institutional and Implementation Arrangements
+The Ministry of Fisheries and Agriculture (MoFA) has the mandate, jurisdiction and experience in 
+managing fisheries, and will lead project implementation. The MoFA has implemented or 
+participated in implementation of Bank-financed projects several years ago, not in the recent past. 
+While MoFA has a large mandate, it has limited staff. A dedicated Project Management Unit (PMU) 
+has therefore been established within MoFA, with adequate number of technical staff, including 
+expert staff on mariculture development, extension, research, and market studies; environmental and 
+social management; financial management, procurement, communication, monitoring and evaluation. 
+ 
+The responsibilities of MoFA including the Steering Committee include providing national policy 
+and implementation framework; approval of the project and securing the required budget from the 
+Ministry of Finance and Treasury (MoFT); approval of the project➢❨ s overall annual action plans 
+and annual budgets; and overall implementation oversight. MoFA will ensure that most of the project 
+activities are duly executed by its regular divisions and field offices. MoFA has also prepared a 
+Project Implementation Plan (PIP), which describes the project activities and their estimated costs, 
+allocation of implementation responsibilities, procurement and financial management arrangements 
+and plans, to guide implementation. 
+ 
+The PMU mimics the organizational structure of the MoFA. This is important because: (a) the actual 
+execution of project activities will take place using the MoFA divisions and their field offices, and a 
+clear coordination between the PMU and the relevant MoFA division is needed, as PMU staff will be 
+deputed in those divisions and field offices; (b) an appropriate part of the additional expertise and 
+staff recruited under the PMU will be absorbed in the respective MoFA divisions at closure of the 
+project for long-term improvement of institutional capacity; (c) even if most of the staff will be 
+
+recruited from market (including expatriate consultants given the shortage of qualified fisheries 
+experts in Maldives), the organizational structure of the PMU will allow MoFA to depute permanent 
+staff of regular divisions to the PMU in a manner that staff can make career progressions and based 
+on performance can return to their parent divisions when the deputation is over.  
+ 
+The PMU will be responsible for project implementation, facilitating statutory clearances, including 
+environmental permits; procurement of works, goods and services; and implementation of specific 
+capacity building activities as per the PIP. PMU staff working on procurement, financial 
+management, knowledge management, monitoring and evaluation will be located in MalÃ© while all 
+other PMU functions, including fisheries management, fisheries compliance, marine research, and 
+mariculture will be co-located with the MoFA divisions at MalÃ© or at the field (including at the 
+offices of Island Councils) and/or the offices of MRC, MRDF, or the site of the multi-species 
+hatchery. The PMU, through its marine research, fisheries management, and compliance cells, will 
+support MoFA for its retained role in coordinating with IOC, IOTC, SWIO Region countries; and 
+through its central cell, will provide research and logistics support to MoFA in its incoming role of 
+chairing the SWIOFC. 
+ 
+The PMU will collaborate with and seek support and partnerships with a range of other agencies to 
+strengthen the capacity of the main implementing actors. These will include international knowledge 
+centers, including the World Aquaculture Alliance; academic and research institutes including the 
+Maldives National University; private sector business houses and industries including the Maldives 
+National Chamber of Commerce and Industry; civil society groups, atoll level community 
+organizations and other government departments responsible for development and protection of 
+marine resources (such as the Ministry of Environment and Energy).
+
+III. Safeguard Policies that might apply
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental 
+Assessment OP/BP 
+4.01
+
+Yes The project was categorized as an Environmental Category B 
+project, due to the potential, unless avoided, of direct and 
+indirect impacts flowing from physical interventions such as 
+(a) establishment of a multi-species hatchery; (b) augmentation 
+of the infrastructure of the Maniyafushi Research and 
+Development Facility (MRDF); and (c) establishment and 
+operation of out grower farms for mariculture in different 
+atolls. To avoid, mitigate and/or manage such potential 
+environmental impacts, an Environmental and Social 
+management Framework (ESMF) has been prepared, which 
+provides detailed analysis of the scale of due diligence 
+required (such as specific guidance site selection, preparation 
+of environmental assessments, environmental management 
+plans, etc.) as may be required, or generic but appropriate 
+avoidance and environmental mitigation measures in the 
+project. Specific standalone environmental impact assessments 
+(and subsequent permits from the Ministry of Environment and 
+Energy) will also be needed for the multi-species hatchery; 
+augmentation of the infrastructure of the MRDF; and out 
+grower farms for mariculture. The ESMF provides budgets to 
+
+
+prepare such environmental impact assessments (which contain 
+the respective environmental management plans). A standalone 
+EA (including the relevant environmental management plan) 
+has already been prepared for the quality assurance, quarantine 
+and disease control research laboratory of the MRDF (which a 
+front-runner intervention) and has been annexed to the ESMF 
+and disclosed accordingly.
+
+Natural Habitats OP/
+BP 4.04
+
+Yes This policy was triggered as all of the islands in Maldives are 
+surrounded by coral reefs, with some reefs, island and waters 
+around being legally protected; and it is important to avoid any 
+significant impacts on these natural resources. As per the 
+criteria included in the ESMF, the project design avoids any 
+activity in and around of the protected marine or terrestrial 
+areas. The ESMF has in place the due diligence measures to 
+avoid or reduce the impacts on coral reefs, marine ecosystems 
+and associated fauna and flora during the establishment and 
+subsequent operation of mariculture out grower farms (in the 
+remote atolls, selected specifically to avoid impacts on corals 
+and water quality). The project will not involve the 
+introduction of any non-native/naturalized species for the 
+purpose of mariculture.
+
+Forests OP/BP 4.36 No There are no areas classified as forests in Maldives. Any 
+potential impacts on island or sea vegetation (such as sea grass, 
+seaweed) are covered through OP/BP 4.01.
+
+Pest Management OP 
+4.09
+
+No This policy is not triggered as the project will not finance the 
+purchase, use or promotion of any pesticides, herbicides or 
+similar other synthetic chemicals.
+
+Physical Cultural 
+Resources OP/BP 
+4.11
+
+No No project-supported activities are expected in the vicinity of 
+or will affect physical cultural resources, as defined by OP/
+BP4.11. All sites of physical cultural resources value in the 
+Maldives are already designated and mandated as protected 
+areas where no physical interventions can take place. Measures 
+for safeguard chance finds have been included as part of 
+mitigation measures defined in the ESMF.
+
+Indigenous Peoples 
+OP/BP 4.10
+
+No This policy is not triggered as there are no identifiable 
+indigenous communities in the project locations (islands and 
+atolls).
+
+Involuntary 
+Resettlement OP/BP 
+4.12
+
+No No involuntary resettlement from land, livelihood or access to 
+livelihood is expected in the project. Project activities such as 
+capacity-building, research, MRDF, quality control and disease 
+surveillance, establishment of household-level mariculture out-
+grower farms do not give rise to any involuntary resettlement 
+from land, livelihood or access to natural resources. However, 
+there remains a possibility of indirect impacts that could arise 
+if the marine zoning, zoning plans, and conservation plans for 
+reef fishes financed by the project proposes restrictions on 
+
+
+non-sustainable practices, establishment of new conservation 
+areas if any, or increased level of enforcement of management 
+regulations for existing conservation areas. In all such cases 
+the short-term economic and/or livelihood interests of local 
+communities currently engaged in activities that rapidly 
+deplete resources including fish stock could be impacted. 
+Although the OP4.12 explicitly provides exemption to actions 
+such as natural resources management, or preparation of 
+fisheries management plans, the ESMF contains a framework 
+compliant with the principles of OP4.12, to specify that any 
+activity which has the chance of adverse impact on citizens and 
+communities, or any chance of restricting traditional access to 
+natural resources will be excluded from the project (throughout 
+during implementation), and the process of preparation of 
+zoning and other fisheries sector conservation plans will 
+employ participation and citizen engagement. The policies and 
+priorities that drives preparation of any zoning plans and 
+regulations, conservation plans and/or strategies in Maldives 
+are to protect the rights, claims and access of Maldivian 
+citizens to the territorial waters of Maldives. These principles 
+are also be strictly adhered to by the project, and all such 
+zoning plans and conservation regulations will require 
+approval of the Atoll Councils. Therefore, it is not conceivable 
+that any restriction of access to traditionally used natural 
+resources will be restricted by zoning plans, regulations, 
+conservation plans and enforcement supported by the project. 
+Further, while the exact locations and potential impacts of all 
+activities, especially the mariculture grow-out facilities, are not 
+yet known, the ESMF and the site specific social assessments 
+will guide these sets of activities.
+
+Safety of Dams OP/
+BP 4.37
+
+No This policy is not triggered as there will be no activities that 
+invest on dams or water retention structures.
+
+Projects on 
+International 
+Waterways OP/BP 
+7.50
+
+No This policy is not triggered as there will be no activities in 
+international waterways or activities that will have impacts on 
+international waterways.
+
+Projects in Disputed 
+Areas OP/BP 7.60
+
+No The policy is not applicable because there are no disputed 
+areas in Maldives.
+
+IV. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify 
+
+and describe any potential large scale,  significant and/or irreversible impacts:
+While the project is classified as environmental category B, the project is expected to bring 
+positive environmental benefits to the project areas as the entire design of the project is based on 
+the need to conserve the marine resources, avoid and stop unsustainable capture and yields, 
+
+
+comply with the best regional and international standards, and diversify into mariculture as an 
+alternative to threatened reef fisheries. The project will not lead to potential large scale significant 
+and/or irreversible impact as the impacts will be largely localized to project sites and can be 
+managed via stringent due diligence and adherence to national and international sectoral standards. 
+Specific standalone environmental impact assessments and subsequent permits from the Ministry 
+of Environment will be needed for the (i) multi-species hatchery; (ii) augmentation of the 
+infrastructure of the Maniyafushi Research Centre; and (iii) out grower farms for mariculture and 
+it is through these assessments that site specific impacts will be identified. 
+ 
+The project will support the establishment of infrastructure such as training and research centers 
+and laboratories as well as infrastructure to conduct mariculture activities such as fish cadges and/
+or pens. These could, unless carefully managed and mitigated, lead to localized environmental 
+impacts typical to civil works, such as the generation of construction wastes, generation of dust, 
+noise, etc., and occupational and safety impacts that will be managed accordingly. The civil works 
+contracts may involve the use of expatriate/ migrant/ non-local labor but no influx related issues 
+are expected - two out of the three islands involved are uninhabited (therefore, there is no host 
+community), and the work at the Airport Island/ Hulumale will be expansion of an existing small 
+building to create the required laboratory facility. 
+ 
+The project will finance start-up investments into household-level aquaculture/mariculture 
+production, for example, cage cultivation of native/naturalized fish species. Operations of the 
+multi species hatchery, and the MRDF could also pose potential operational impacts. During 
+mariculture operations, typical environmental impacts include eutrophication from feeds and 
+effluents, release of antifouling chemicals and antibiotics, and impacts introduction of alien 
+invasive species. The project, in conformity with the Maldivian national environmental regulations 
+will support mariculture of native/naturalized species. Careful site selection of grow-out 
+mariculture farms will avoid eutrophication, pollutant loading on undersea surfaces, and use or 
+accumulation of synthetic pollutants. Other impacts include scenarios of fish escaping from farms 
+may compete with wild stocks, or transfer of parasites and diseases, or genetic interaction between 
+escaped farmed fish and wild fish stocks. However such site-specific impacts will be regulated, 
+controlled and managed, especially through specific EA/EMP that will be undertaken, and 
+incorporating stringent measures for mitigating and managing operational impacts in the design 
+and operation of the grow-out mariculture farms. Mariculture is not entirely new to the Maldives; 
+in the last decade two projects have been initiated in the islands, for which EAs were undertaken, 
+and the recommended mitigation and management measures were undertaken. Similar EAs will be 
+prepared for the grow-out mariculture farms, which will also comply with the requirements under 
+Maldives➢❨  own regulatory framework.  
+ 
+While the project does not envisage any adverse social impacts, some of the Component 1 
+activities may lead to possible restrictions in access and increased cost to some fishers. Sub-
+Components A1 and A3 in particular seek to improve the regulatory and management practices of 
+the fishing industry but, in doing so, may restrict access to fisheries resources and could reduce 
+income for some fishers. However, given that any fishery management plan will, by its 
+characteristic intent, will try to curb overexploitation of fish stock without exception, the 
+management plans (sub-components A1 and A3) will need to adopt a transparent and participatory 
+process of agreement on the actions  to be included in the management plans. 
+ 
+Overall, there is no potential large-scale, significant and/or irreversible impacts likely from the 
+project.
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities 
+in the project area:
+The social and environmental impacts of the proposed project is deemed to be positive and 
+sustainable in the long term. The project is also expected to improve the overall socio-economic 
+status of the communities, including youth and women, as a result of the potential opportunities 
+via employment creation and livelihood activities.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse 
+impacts.
+No alternatives have been considered, predominantly as the fisheries sector, after tourism, is the 
+main source of livelihood and income generation in the Maldives and the proposed project 
+activities will provide the most environmentally sound management options of the sector in 
+comparison to current practices.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described.
+An Environmental and Social Management Framework (ESMF) in lieu of an overall project-
+specific Environmental Assessment (EA) and a Social Assessment (SA) has been prepared as 
+details of all specific sites and design of the project➢❨ s physical interventions are not known. A 
+standalone EA has already been prepared for the quality assurance, quarantine and disease control 
+research laboratory, which is a front runner intervention and is annexed to the ESMF and disclosed 
+accordingly.  The ESMF outlines detailed guidelines of measures for environmental and social risk 
+mitigation and institutional arrangements for conducting environmental and social assessment, 
+instruction to the preparation of Environmental and Social Assessments (ESIAs), Environmental 
+and Social Management Plans (ESMPs), and other such measures as well as implementation and 
+monitoring. 
+ 
+All interventions will be subject to an environmental and social screening with the objective to: (a) 
+determine the anticipated environmental and social impacts, risks and opportunities of sub-project; 
+and (ii) determine if the anticipated impacts and public concerns warrant further analysis, and if so 
+to recommend the appropriate type and extent of Environmental and Social Assessments needed as 
+per the criteria set in the ESMF. The ESMF also provides the screening and selection criteria for 
+household-level mariculture out-grower farms. 
+ 
+The ESMF takes the applicable safeguard policies into account as well as the national 
+environmental requirements and World Bank environmental Health and Safety Guidelines, which 
+serves as a guide to the level of environmental and social analysis and mitigation required for all 
+interventions supported by the project that will have any potential to cause negative environmental 
+and social impacts; and thereby ensure compliance with the World Bank➢❨ s safeguard policies 
+and the relevant national regulations during implementation.  
+ 
+The implementing agency of the project, the MoFA, has not led implementation of any World 
+Bank-financed project the recent years. Capacity within MoFA to manage environmental and 
+social risks within a project setting is be limited. Therefore, in the Project Management Unit 
+(PMU) set up for implementation of this project, staffing includes an Environmental and Social 
+Officer with relevant technical and sectoral expertise to take up the role of environmental and 
+social coordinator.  S/he will report to the Project Director and will work closely with the assigned 
+PMU team, the Ministry of Environment and Energy, the Island Councils, the Environmental 
+Protection Agency, and will be responsible for ensuring the overall implementation of the ESMF. 
+
+
+S/he will liaise with other agencies, contractors and consultants at the activity levels to implement 
+the required mitigation and management measures. The E&S Coordinator will be responsible for 
+monitoring and evaluation of implementation of the environmental and social management plans, 
+and will prepare regular reports on compliance and status of performance indicators. The Island 
+Councils will be the first level of contact for any grievance/feedback for the community, and the 
+E&S Coordinator will work closely with the Island Councils to redress any grievance. The E&S 
+Coordinator will lead to orient PMU and MoFA staff, consultants and contractors on the ESMF 
+and on operationalization of the ESMF for each of the project activities. 
+ 
+The project will provide training in environmental and social management to improve institutional 
+capacity. The cost for monitoring and supervising the implementation of environmental and social 
+project regulations have been integrated into the overall project investment cost. In addition, the 
+project will also provide capacity building to potential operators of out grower farms on 
+maintaining a good mariculture environment, and mitigating and managing potential 
+environmental impacts during the operation.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure 
+on safeguard policies, with an emphasis on potentially affected people.
+The key stakeholders included fisherpersons, fishing vessel-owners, fisherpersons➢❨  
+associations, exporters and transporters involved in export of capture tuna and reef fishes, and 
+relevant government officials. The MoFA organized elaborate discussions and consultations with 
+these key stakeholder groups during November 2015 ➢❨  September 2016. The ESMF has been 
+developed based on suggestions and recommendations from these key stakeholder groups. The 
+project activities do not lead to adverse social or involuntary resettlement impacts, and 
+consequently, there is no adversely affected person. The ESMF document was disclosed prior to 
+appraisal of the project. Specific consultations at national, atoll and island levels will continue 
+during implementation of the project, including during preparation of activity-specific 
+environmental and social assessments.
+
+B. Disclosure Requirements
+
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank 17-Jan-2017
+
+Date of submission to InfoShop 18-Jan-2017
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors
+
+"In country" Disclosure
+Maldives 17-Jan-2017
+Comments: The Environmental and Social Management Framework (ESMF) is available in the 
+
+website of the Ministry of Fisheries and Agriculture (http://www.fishagri.gov.mv/
+images/download/MSFDP/msfd-esmf-january-17-2017.pdf).
+
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the 
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+

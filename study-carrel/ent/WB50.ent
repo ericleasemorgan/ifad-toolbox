@@ -4,9 +4,7 @@ WB50	1	2	Feb 28, 2019 Page 1	DATE
 WB50	1	3	13 Combined Project Information Documents / Integrated Safeguards Datasheet	ORG
 WB50	1	4	PID/ISDS	ORG
 WB50	1	5	04-Apr-2019 | Report	WORK_OF_ART
-WB50	1	6	Feb 28, 2019	DATE
-WB50	1	7	2	CARDINAL
-WB50	1	8	13	CARDINAL
+WB50	1	6	PIDISDSA26271 BASIC INFORMATION	ORG
 WB50	2	1	Basic Project Data Country Project ID Project Name Parent Project	ORG
 WB50	2	2	Benin P167678 Benin	PERSON
 WB50	2	3	Gazetted Forests Management Project Region Estimated Appraisal Date Estimated Board Date Practice Area	ORG
@@ -88,19 +86,16 @@ WB50	18	4	Nigeria	GPE
 WB50	18	5	some 20 percent	PERCENT
 WB50	18	6	25 percent	PERCENT
 WB50	19	1	Benin CPF 2018	PERSON
-WB50	19	2	The World Bank Benin:	ORG
-WB50	19	3	P167678	PERSON
-WB50	19	4	Feb 28, 2019 Page 4 of 13	DATE
-WB50	19	5	the Classified Estate Domain	ORG
-WB50	19	6	the Central State	LOC
-WB50	19	7	the Directorate General of Water, Forests and Hunting	ORG
-WB50	19	8	Direction Générale des Eaux et Forêts et Chasse	PERSON
-WB50	19	9	the National Office for Wood	ORG
-WB50	19	10	Office National du Bois	ORG
-WB50	19	11	the National Center for the Management of Wildlife	ORG
-WB50	19	12	three	CARDINAL
-WB50	19	13	the Ministry of Environment and Sustainable Development	ORG
-WB50	19	14	Ministère du Cadre de Vie	PERSON
+WB50	19	2	the Classified Estate Domain	ORG
+WB50	19	3	the Central State	LOC
+WB50	19	4	the Directorate General of Water, Forests and Hunting	ORG
+WB50	19	5	Direction Générale des Eaux et Forêts et Chasse	PERSON
+WB50	19	6	the National Office for Wood	ORG
+WB50	19	7	Office National du Bois	ORG
+WB50	19	8	the National Center for the Management of Wildlife	ORG
+WB50	19	9	three	CARDINAL
+WB50	19	10	the Ministry of Environment and Sustainable Development	ORG
+WB50	19	11	Ministère du Cadre de Vie	PERSON
 WB50	20	1	CED	ORG
 WB50	20	2	39	CARDINAL
 WB50	20	3	seven	CARDINAL
@@ -153,12 +148,7 @@ WB50	32	1	half	CARDINAL
 WB50	32	2	Gazetted Forests	ORG
 WB50	34	1	C. Proposed Development	PERSON
 WB50	34	2	PAD	ORG
-WB50	34	3	The World Bank Benin:	ORG
-WB50	34	4	P167678	PERSON
-WB50	34	5	Feb 28, 2019	DATE
-WB50	34	6	5	CARDINAL
-WB50	34	7	13	CARDINAL
-WB50	34	8	NTFP	ORG
+WB50	34	3	NTFP	ORG
 WB50	35	1	metric tons	QUANTITY
 WB50	36	1	three	CARDINAL
 WB50	36	2	Communities	LOC
@@ -190,128 +180,103 @@ WB50	47	3	GFMP	ORG
 WB50	47	4	Program	ORG
 WB50	48	1	Technical Forests Management Units	ORG
 WB50	49	1	GFM	ORG
-WB50	51	1	The World Bank Benin:	ORG
-WB50	51	2	Feb 28, 2019 Page 6 of 13	DATE
-WB50	52	1	F. Project	ORG
-WB50	53	1	G. Environmental	PERSON
-WB50	53	2	Abdoulaye Gadiere	PERSON
-WB50	53	3	Marie Mathilda Coulibaly Zombre	PERSON
-WB50	53	4	Social Specialist	ORG
-WB50	58	1	Environmental and	ORG
-WB50	58	2	Benin	PERSON
-WB50	58	3	Bank	ORG
-WB50	58	4	March 12, 2019	DATE
-WB50	60	1	Natural Habitats	LOC
-WB50	60	2	The World Bank Benin:	ORG
-WB50	60	3	Feb 28, 2019	DATE
-WB50	60	4	13	CARDINAL
-WB50	61	1	ESMF	ORG
-WB50	62	1	OP	PERSON
-WB50	63	1	Government	ORG
-WB50	63	2	annually	DATE
-WB50	63	3	65,000 to 250	CARDINAL
-WB50	63	4	Alibori Supérieur	PERSON
-WB50	63	5	Ouémé Superieur	PERSON
-WB50	63	6	Lama	PERSON
-WB50	64	1	ESMF	ORG
-WB50	65	1	4.09	CARDINAL
-WB50	66	1	O4.09	ORG
-WB50	67	1	Pest Management	ORG
-WB50	67	2	ESMF	ORG
-WB50	68	1	IGA	ORG
-WB50	70	1	ESMF	ORG
-WB50	71	1	Peoples OP/BP	ORG
-WB50	72	1	OP	PERSON
-WB50	74	1	a Process Framework	PRODUCT
-WB50	75	1	The World Bank Benin:	ORG
-WB50	75	2	P167678	PERSON
-WB50	75	3	Feb 28, 2019 Page 8 of 13	DATE
-WB50	75	4	Benin	PERSON
-WB50	75	5	Bank	ORG
-WB50	75	6	March 13, 2019	DATE
-WB50	77	1	International Waterways OP/BP	ORG
-WB50	78	1	Disputed Areas OP/BP	ORG
-WB50	78	2	a Disputed Area	LOC
-WB50	87	1	2	CARDINAL
-WB50	92	1	3	CARDINAL
-WB50	94	1	N/A 4	ORG
-WB50	97	1	Borrower	ORG
+WB50	51	1	F. Project	ORG
+WB50	52	1	G. Environmental	PERSON
+WB50	52	2	Abdoulaye Gadiere	PERSON
+WB50	52	3	Marie Mathilda Coulibaly Zombre	PERSON
+WB50	52	4	Social Specialist	ORG
+WB50	57	1	Environmental and	ORG
+WB50	57	2	Benin	PERSON
+WB50	57	3	Bank	ORG
+WB50	57	4	March 12, 2019	DATE
+WB50	59	1	Natural Habitats	LOC
+WB50	59	2	The World Bank Benin:	ORG
+WB50	59	3	Feb 28, 2019	DATE
+WB50	59	4	13	CARDINAL
+WB50	60	1	ESMF	ORG
+WB50	61	1	OP	PERSON
+WB50	62	1	Government	ORG
+WB50	62	2	annually	DATE
+WB50	62	3	65,000 to 250	CARDINAL
+WB50	62	4	Alibori Supérieur	PERSON
+WB50	62	5	Ouémé Superieur	PERSON
+WB50	62	6	Lama	PERSON
+WB50	63	1	ESMF	ORG
+WB50	64	1	4.09	CARDINAL
+WB50	65	1	O4.09	ORG
+WB50	66	1	Pest Management	ORG
+WB50	66	2	ESMF	ORG
+WB50	67	1	IGA	ORG
+WB50	69	1	ESMF	ORG
+WB50	70	1	Peoples OP/BP	ORG
+WB50	71	1	OP	PERSON
+WB50	73	1	a Process Framework	PRODUCT
+WB50	74	1	The World Bank Benin:	ORG
+WB50	74	2	P167678	PERSON
+WB50	74	3	Feb 28, 2019 Page 8 of 13	DATE
+WB50	74	4	Benin	PERSON
+WB50	74	5	Bank	ORG
+WB50	74	6	March 13, 2019	DATE
+WB50	76	1	International Waterways OP/BP	ORG
+WB50	77	1	Disputed Areas OP/BP	ORG
+WB50	77	2	a Disputed Area	LOC
+WB50	86	1	2	CARDINAL
+WB50	91	1	3	CARDINAL
+WB50	93	1	N/A 4	ORG
+WB50	96	1	Borrower	ORG
+WB50	96	2	two	CARDINAL
+WB50	96	3	Environmental and	ORG
+WB50	96	4	OP/BP 4.01	ORG
+WB50	96	5	4.09	CARDINAL
+WB50	96	6	Pest Management	ORG
+WB50	96	7	OP/BP 4.12	ORG
+WB50	97	1	ESMF	ORG
 WB50	97	2	two	CARDINAL
-WB50	97	3	Environmental and	ORG
-WB50	97	4	OP/BP 4.01	ORG
-WB50	97	5	4.09	CARDINAL
-WB50	97	6	Pest Management	ORG
-WB50	97	7	OP/BP 4.12	ORG
-WB50	98	1	ESMF	ORG
-WB50	98	2	two	CARDINAL
-WB50	98	3	Natural Habitats and Forests	ORG
-WB50	100	1	The World Bank Benin: Gazetted Forests Management Project	ORG
-WB50	100	2	P167678	PERSON
-WB50	100	3	Feb 28, 2019	DATE
-WB50	100	4	9	CARDINAL
-WB50	100	5	13	CARDINAL
-WB50	100	6	ESMF	ORG
-WB50	100	7	OP4.11	PRODUCT
-WB50	101	1	ESMF	ORG
-WB50	102	1	Pest	ORG
-WB50	103	1	first	ORDINAL
-WB50	105	1	Environmental and Social Management	ORG
-WB50	107	1	The Process Framework	ORG
-WB50	108	1	Bank	ORG
-WB50	108	2	PIU	ORG
-WB50	109	1	ABE(Beninese Environment Agency	ORG
-WB50	112	1	5	CARDINAL
-WB50	117	1	the Civil Society Organizations	ORG
-WB50	117	2	CSO	ORG
-WB50	119	1	ABE	ORG
-WB50	119	2	February,2019	WORK_OF_ART
-WB50	121	1	The World Bank Benin:	ORG
-WB50	121	2	Feb 28, 2019 Page 10 of 13	DATE
+WB50	97	3	Natural Habitats and Forests	ORG
+WB50	99	1	ESMF	ORG
+WB50	99	2	OP4.11	PRODUCT
+WB50	100	1	ESMF	ORG
+WB50	101	1	Pest	ORG
+WB50	102	1	first	ORDINAL
+WB50	104	1	Environmental and Social Management	ORG
+WB50	106	1	The Process Framework	ORG
+WB50	107	1	Bank	ORG
+WB50	107	2	PIU	ORG
+WB50	108	1	ABE(Beninese Environment Agency	ORG
+WB50	111	1	5	CARDINAL
+WB50	116	1	the Civil Society Organizations	ORG
+WB50	116	2	CSO	ORG
+WB50	118	1	ABE	ORG
+WB50	118	2	February,2019	WORK_OF_ART
+WB50	121	1	the Bank Date	ORG
+WB50	121	2	20-Feb-2019 08-Mar-2019	TIME
+WB50	121	3	Disclosure OPS_RA_D ISCL OSURE_T ABLE Resettlement Action Plan/Framework/Policy Process Date	WORK_OF_ART
+WB50	121	4	the Bank Date	ORG
+WB50	121	5	Disclosure Benin	WORK_OF_ART
+WB50	121	6	ISCL	ORG
 WB50	122	1	the Bank Date	ORG
-WB50	122	2	20-Feb-2019 08-Mar-2019	TIME
-WB50	122	3	Disclosure OPS_RA_D ISCL OSURE_T ABLE Resettlement Action Plan/Framework/Policy Process Date	WORK_OF_ART
-WB50	122	4	the Bank Date	ORG
-WB50	122	5	Disclosure Benin	WORK_OF_ART
-WB50	122	6	ISCL	ORG
-WB50	123	1	the Bank Date	ORG
-WB50	123	2	Disclosure OPS_PM_ PC R_TAB LE If the project	WORK_OF_ART
-WB50	123	3	the Environmental Assessment/Audit	ORG
-WB50	123	4	EMP	ORG
-WB50	124	1	N/A The World Bank	ORG
-WB50	124	2	Feb 28, 2019	DATE
-WB50	124	3	11	CARDINAL
-WB50	124	4	13 C. Compliance Monitoring Indicators	PERCENT
-WB50	124	5	ISDS	ORG
-WB50	124	6	EMP	ORG
-WB50	125	1	the Regional Environment Unit	ORG
-WB50	125	2	EA	PERSON
-WB50	126	1	EMP	ORG
-WB50	127	1	NH_C	PERSON
-WB50	127	2	BLE OP/BP	ORG
-WB50	128	1	Bank	ORG
-WB50	129	1	PM_C	PERSON
-WB50	129	2	4.09 - Pest Management	PERCENT
-WB50	134	1	NA	ORG
-WB50	134	2	PCR_C OM	ORG
-WB50	134	3	OP	PERSON
-WB50	136	1	BP	ORG
-WB50	137	1	Regional	ORG
-WB50	138	1	The World Bank Benin:	ORG
-WB50	138	2	Feb 28, 2019	DATE
-WB50	138	3	12	CARDINAL
-WB50	138	4	13	CARDINAL
-WB50	138	5	OPS_F	GPE
-WB50	138	6	BLE OP/BP	ORG
+WB50	122	2	Disclosure OPS_PM_ PC R_TAB LE If the project	WORK_OF_ART
+WB50	122	3	the Environmental Assessment/Audit	ORG
+WB50	122	4	EMP	ORG
+WB50	123	1	N/A C. Compliance Monitoring Indicators	ORG
+WB50	123	2	ISDS	ORG
+WB50	123	3	EMP	ORG
+WB50	124	1	the Regional Environment Unit	ORG
+WB50	124	2	EA	PERSON
+WB50	125	1	EMP	ORG
+WB50	126	1	NH_C	PERSON
+WB50	126	2	BLE OP/BP	ORG
+WB50	127	1	Bank	ORG
+WB50	128	1	PM_C	PERSON
+WB50	128	2	4.09 - Pest Management	PERCENT
+WB50	133	1	NA	ORG
+WB50	133	2	PCR_C OM	ORG
+WB50	133	3	OP	PERSON
+WB50	135	1	BP	ORG
+WB50	136	1	Regional	ORG
+WB50	137	1	OPS_F	GPE
+WB50	137	2	BLE OP/BP	ORG
+WB50	138	1	NA	ORG
 WB50	139	1	NA	ORG
 WB50	140	1	NA	ORG
-WB50	141	1	NA	ORG
-WB50	141	2	the World Bank	ORG
-WB50	149	1	The World Bank Benin:	ORG
-WB50	149	2	Feb 28, 2019 Page 13 of 13	DATE
-WB50	149	3	severin_nsia2002@yahoo.fr	PERSON
-WB50	149	4	NW	GPE
-WB50	149	5	Washington	GPE
-WB50	149	6	202	CARDINAL
-WB50	149	7	473-1000	CARDINAL
-WB50	149	8	Salimata D. Follea	PERSON
-WB50	149	9	Maria Sarraf	PERSON
+WB50	140	2	the World Bank	ORG

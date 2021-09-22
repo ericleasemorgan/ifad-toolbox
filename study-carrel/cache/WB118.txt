@@ -1,0 +1,1221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Maharashtra Project on Climate Resilient Agriculture (P160408) 
+
+ 
+ 
+
+  
+Dec 21, 2016 Page 1 of 19  
+
+     
+
+ 
+
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
+ 
+
+Project Information Document/  
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 22-Jan-2017 | Report No: PIDISDSC20715 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+India P160408  Maharashtra Project on 
+Climate Resilient 
+Agriculture (P160408) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA Jun 05, 2017 Aug 24, 2017 Agriculture 
+
+Lending Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Republic of India Ministry of Agriculture, 
+Government of Maharashtra 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+To enhance climate-resilience and profitability of smallholder farming systems in selected districts of Maharashtra. 
+
+ 
+
+ Financing (in USD Million) 
+
+ 
+
+Financing Source Amount  
+
+Borrower  120.00  
+
+International Bank for Reconstruction and Development  480.00  
+
+Total Project Cost  600.00  
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+ 
+
+ 
+ 
+Other Decision (as needed) 
+ 
+ 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+1. India is one of the fastest growing economies in the world, ranked among the top ten highest GDP countries, and is 
+
+the world’s second most populous country. During the past two decades, India’s GDP grew at an average of 7 
+
+percent annually. Poverty incidence declined on average by 1.5 percentage points per year during 2005–10 and 
+
+improvements in key development indicators have been remarkable. However, following years of impressive 
+
+economic growth and poverty alleviation, India is now at a critical juncture in its paths towards becoming an 
+
+economic powerhouse and is facing important development challenges and structural constraints to a more 
+
+inclusive growth and a more sustainable development. India remains home to 263 million poor people (most of 
+
+which reside in rural areas) living on less than US$1.90/day and the economic growth has not generated jobs fast 
+
+enough to absorb labor out of agriculture and low productivity rural jobs. To address these challenges, the 
+
+Government of India (GoI) through its 12th Five-Year Plan (FY2013-17) put forward an ambitious goal for accelerated 
+
+economic growth, poverty reduction, job creation, and environmental management. The plan foresees during this 
+
+period an annual GDP growth of 8.2 percent, a reduction in poverty rate by 10 percentage points, 50 million new 
+
+jobs – and an annual growth in the agriculture and allied rural sectors of 4 percent. 
+
+ 
+2. Climate change may impede socioeconomic development within India and increasing investment in adaptation 
+
+measures to reduce vulnerability will be essential to maintaining economic growth. India’s rapid growth has 
+
+increased its prominence on the global stage and drawn attention to its climate mitigation and adaptation efforts. 
+
+The country has shown leadership in global efforts to limit climate change and is among the early countries to have 
+
+ratified the Paris Agreement on Climate Change (in October 2016). Analyses of the country’s historic climate data 
+
+support the extent of the change taking place: an increase in mean annual temperature (0.56°C between 1901 and 
+
+2007), as well as a decrease in seasonal mean rainfall with more frequent extreme rainfall events. Looking ahead, 
+
+temperatures are projected to increase further and at a faster rate than before (by 1.7-2.0
+o
+C by the 2030s), coupled 
+
+with an overall increase in monsoon rainfall (with an increase in geographic variability) and extreme precipitation 
+
+events (with an increase in rainfall intensity). India shows an increasing trend in its per capita emission of GHGs, 
+
+though current per capita levels are still among the lowest in the world (2.44 tCO2 equivalent per capita in 2012, 
+
+against global average of 5.5 tCO2 equivalent). In absolute terms, India remains one of the largest GHG emitters, 
+
+with its agriculture sector the second largest contributor (around 18 percent of the country’s total GHG emissions).  
+
+ 
+3. Agriculture sector growth is essential in achieving India’s development goals: the sector currently accounts for 14 
+
+percent of national GDP and is a source of livelihood for more than half of the population. More than two thirds of 
+
+the country’s poor live in rural areas, and their chance of getting out of poverty directly depends on the 
+
+performance of agriculture and allied rural sectors. The success of ongoing massive rural-urban transformation will 
+
+also depend on improved connectivity of rural areas to cities, enhanced agriculture productivity and value chains for 
+
+agricultural products and off-farm job creation in rural areas, which would temper down current massive migrations 
+
+to urban areas. The agriculture sector also has a major potential for reducing GHG emissions and improving 
+
+environmental management through enhanced soil and water conservation and climate-resilient farm management 
+
+practices.  
+
+ 
+4. Over the past two decades, the agriculture sector has performed below its potential and has not yet met the 
+
+envisaged growth targets. In the 1990s and 2000s, the annual agriculture growth rate was around 3-3.5 percent, and 
+
+
+dropped even below 2 percent per annum during 2013-15, due to low productivity, growing water and land scarcity, 
+
+rising labor costs, and declining international commodity prices, exacerbated by the late onset of monsoon rainfall 
+
+and increase rainfall intensity. While overall rainfall is projected to increase, its distribution over time and space is 
+
+likely to become much more erratic, thereby leading to increasingly frequent droughts and floods. Unless significant 
+
+efforts to capitalize on the projected increase in rainfall are made to improve water conservation and soil moisture 
+
+management, water scarcity at farm level will remain a key impediment to achieving higher levels of crop and water 
+
+productivity. 
+
+ 
+5. Going forward, five inter-related and strategic shifts are required to achieve the 4 percent annual growth target 
+
+set by GoI for agriculture and transform the sector into a modern food system: (i) a shift away from food grain 
+
+production targets towards diversification into high-value horticulture and livestock products; (ii) a shift away from 
+
+pure focus on physical productivity (yields) towards resilience and stability of agriculture to deal with the effects of 
+
+climate change and short-term weather anomalies; (iii) a shift away  from a focus on on-farm production towards 
+
+value addition in the post-harvest segments of the food value chains; (iv) a shift away from a calorie focused 
+
+production structure towards nutrition sensitive agriculture, and (v) a shift away from increasing irrigation water 
+
+supply towards improved water use efficiency. The proposed project is designed to directly contribute to this 
+
+structural transformation process by supporting several of those strategic shifts with a focus on building climate 
+
+resilience in the agriculture sector in the State of Maharashtra.  
+
+ 
+Sectoral and Institutional Context 
+ 
+6. The State of Maharashtra is one of the economic growth engines of the country:  it is the top-ranked state in terms 
+
+of contribution to the national GDP (14.4 percent, 2014-15) and has witnessed an average economic growth rate of 
+
+over 8 percent per annum over the last decade. With 9.3 percent of country’s population and 9.4 percent of the 
+
+country’s geographic area, Maharashtra is also the second largest state in India. Structurally, Maharashtra is more 
+
+urbanized and industrialized compared to the rest of the country and economic contributions of the industries and 
+
+of the services sectors are much larger than that of agriculture and allied sectors (which account for only 11 
+
+percent). However, the agriculture sector remains central to Maharashtra’s economic and political landscape, and 
+
+growth in the sector is critical for the state as over 50 percent of its population depends on agriculture.  
+
+ 
+7. In Maharashtra, agriculture has grown at an annual average of 6.4 percent from 2004-05 to 2011-12, but growth in 
+
+the sector fluctuates heavily and is depending on highly erratic rainfall during any particular year and rainfall 
+
+variability over time. The distribution of rainfall is highly uneven within the state and ranges from over 4,000 mm per 
+
+annum in coastal areas to less than 400 mm in some of the most arid districts. Agriculture remains the highest user 
+
+of freshwater, withdrawing more than 80 per cent of the surface and groundwater (“blue water”) available to the 
+
+state. Since the continuation of the State’s strong economic growth performance would have to be supported by 
+
+higher water availability in all three sectors of the economy, there is a need for Maharashtra to better manage its 
+
+water resources and in particular to enhance the efficiency of the water used for agriculture and focus on increasing 
+
+the availability and use by the agriculture sector of “green water” (rainwater stored in the soil as soil moisture). 
+
+Severe consecutive droughts experienced in large parts of Maharashtra over the last two years have considerably 
+
+affected the state’s agricultural performance and social fabric in rural areas, and have prompted the highest-level 
+
+state authorities to declare “drought-proofing” of agriculture a key development priority for Maharashtra. 
+
+
+8. Maharashtra’s agriculture is dominated by small and marginal farmers with an average farm size of 1.44 ha. Most 
+
+of the agricultural production is rain-fed, with less than 20 percent of the arable land under irrigation. Farmers’ 
+
+annual production covers two seasons: kharif crops planted at the onset of the monsoon rainfall and ravi crops 
+
+planted at the beginning of the winter season. Due to the broad range of agro climatic zones and soil types 
+
+encountered, the state’s agricultural production is fairly diverse. Crop production is dominated by food grains, i.e. 
+
+cereals (mostly rice, sorghum or jowar, maize) and pulses (chickpea or gram, pidgeon pea or tur). For oilseed crops, 
+
+soybean remains by far the most important commodity. Cotton and sugarcane, whose production is relatively 
+
+water-intensive, are the two cash crops most commonly found in Maharashtra’s farming systems (the State is 
+
+among the largest producers of cotton and sugarcane in the country).  
+
+ 
+9. The area under cultivation for cereals has declined since 2000, with a considerable drop in the production of 
+
+sorghum (though naturally better adapted to dryer conditions than other cereals) and a shift from food grains 
+
+towards cash crops has been observed, with an increase in the area for cotton and sugarcane. Since 2000, an 
+
+upsurge in the production of high-value horticulture crops has been observed, and today, the State of Maharashtra 
+
+has emerged as one of the country largest producers of fruits (mango, citrus, grapes, pomegranate) and vegetables 
+
+(onion, tomato). Overall, crop productivity has increased over time but remains at relatively low levels (2013-14, 
+
+non-drought year:  sorghum 814 kg/ha; soybean 1,214 kg/ha; cotton 361 kg/ha). Yield gaps for several key crops are 
+
+still significant, reflecting the need for a mix of sector policies and investments to promote research on climate-
+
+adapted varieties, irrigation for a more efficient on-farm use of water, and extension services for the adoption of 
+
+climate-resilient agronomic practices and technologies – i.e. for building climate resilience in Maharashtra’s farming 
+
+systems.   
+
+ 
+10. In 2008, GoI released the National Action Plan on Climate Change (NAPCC), and directed the States to develop 
+
+State Action Plans on Climate Change guided by and consistent with the structure and strategies of the NAPCC. The 
+
+GoM took a pioneering step towards formulating the Maharashtra State Adaptation Action Plan on Climate Change 
+
+(MSAAPCC) by commissioning a comprehensive vulnerability assessment study which included the task of 
+
+generating model-based climate projections specific to the State’s geography. The MSAAPCC seeks to address the 
+
+urgent need to integrate climate change concerns into the State’s overall development strategy, thus assisting in 
+
+building long term climate resilience and enabling adaptation to the likelihood of risks arising from climate change. 
+
+The MSAAPCC climate modelling results for 2030, 2050 and 2070, show that temperature and rainfall are projected 
+
+to increase across the State of Maharashtra, with important regional variations – resulting, on balance, in potentially 
+
+significant adverse impacts on agriculture performance.  
+
+ 
+11. The annual mean temperature in Maharashtra is projected to increase by around 1.3-1.5
+
+o
+C by the 2030s; the 
+
+projected increase in monsoon rainfall by the 2030s ranges from 13-30% across the state. These analytical findings 
+
+from the MSAAPCC are consistent with the findings of the Fifth Assessment Report of the Intergovernmental Panel 
+
+on Climate Change (IPCC). The effects of these longer term climate trends on sectors like agriculture or water, 
+
+effectively signaling a shift in climatic conditions, will be further aggravated by the projected increase in the 
+
+frequency of extreme climate events (droughts, hailstorms, floods, delays in the onset of monsoons, higher rainfall 
+
+intensity) already experienced in Maharashtra over recent past, as illustrated by the 3 severe droughts that hit the 
+
+state over the past 5 years.  
+
+ 
+
+
+12. The GoI has designed a number of policy initiatives and programs aligned with the recommendations from the 
+
+NAPCC program and the state-level action plans, including the National Initiative on Climate Resilient Agriculture 
+
+(NICRA) to promote the development of climate-resilient villages; the Pardhan Mantri Krishi Sinchayee Yojana 
+
+(PMKSY) Program to promote efficient irrigation practices and improve water use efficiency; the Jalyukt Shivar 
+
+Abhiyan (JSA) Program on watershed and drought management; the Integrated Watershed Management Program 
+
+(IWMP) on natural resources conservation; as well as India’s Intended Nationally Determined Contribution (INDC) as 
+
+presented to the COP21 in Paris to address the adverse effects of climate change. Against this background, the GoM 
+
+is committed to further support and implement those policies in Maharashtra and sees the proposed project as an 
+
+opportunity to contribute to the implementation of policies in support of the climate agenda. 
+
+ 
+13. Higher level authorities in the state of Maharashtra have recently embraced a new paradigm for the agricultural 
+
+sector which now needs to be mainstreamed across institutions and stakeholders. It is built around the recognition 
+
+and understanding of climate change and climate variability as the “new normal”; this in turn, requires a structural 
+
+shift in the approach to sustainable agriculture growth based on longer-term adaptive interventions (reforms, 
+
+investments, capacity development) to build climate-resilience in agriculture – in addition to focusing primarily on 
+
+shorter-term emergency responses to recurring natural disasters. The Bank is very well placed to provide value-
+
+added to the GoM in establishing this new paradigm through its experience with climate-resilient agriculture 
+
+elsewhere, its capacity to work multi-sectorally, and to apply cutting-edge knowledge at scale in support of changes 
+
+in policies and strategies to promote climate adaptation and mitigation, and generate climate co-benefits.  
+
+ 
+Relationship to CPF 
+ 
+14. The proposed project is fully consistent with the India Country Partnership Strategy (CPS) for FY2013–17 to 
+
+support poverty reduction and shared prosperity in India. In line with the pillar for Transformation, the project 
+
+promotes inclusive rural growth, development and dissemination of new agricultural technologies, climate-resilient 
+
+agriculture, enhanced market linkages for small and marginal farmers, and improved water and natural resource 
+
+management (Outcome 2.4). Further, the proposed project will have a positive impact in terms of: (i) environmental 
+
+protection by enhancing the management of soil and water resources, (ii) reduced greenhouse gas emissions by 
+
+disseminating high efficiency irrigation systems, and (iii) promoting diversification into high value crops (Outcomes 
+
+2.5 and 2.6). The project will also contribute to the Inclusion pillar of the CPS by enhancing the livelihoods of small 
+
+and marginal farmers through crop diversification, enhanced market access (Outcome 3.6), and by improving local 
+
+communities’ ability to manage droughts and floods through enhanced design and restoration of irrigation 
+
+infrastructure with better flood protection features (Outcome 3.8).  
+
+ 
+15. The project is fully aligned with the Bank’s Climate Change Action Plan (CCAP) which explicitly highlights climate-
+
+resilient agriculture and water management as key priorities for climate adaptation in the South Asia Region (SAR). 
+
+CCAP also advocates that transformative action on climate change requires partnerships with client countries to 
+
+mobilize additional capital for mitigation and adaptation action, which the project proposes to achieve with 
+
+potential co-financing from the GoM as well as from the Green Climate Fund (GCF) through IFC’s 2030 Water 
+
+Resources Program. The project will directly contribute to WBG’s commitment to increase the climate-related share 
+
+of its portfolio from 21 to 28 percent by 2020 in response to client demand.  
+
+  
+
+16. The project is based on a multi sector approach and will require close collaboration across the Bank’s Global 
+
+Practices and Units (Agriculture, Water, Trade & Competitiveness, Climate Change, and Disaster Risk Management) 
+
+in the design and throughout implementation. Close collaboration during planning and implementation will be 
+
+sought with thematically related on-going/pipeline projects and initiatives (e.g. Maharashtra Agricultural 
+
+Competitiveness Project - MACP, P120836; India Climate Change Mitigation Action Support, P162119; National 
+
+Groundwater Management Improvement Program, P158119). Collaboration with IFC is secured through the 
+
+inclusion on the project team of technical staff from IFC’s 2030 Water Resources Group (2030WRG) and efforts to 
+
+develop co-financing arrangements with possible funding from the Green Climate Fund (GCF).  
+
+ 
+C. Proposed Development Objective(s)  
+
+ 
+17. The PDO is to enhance climate-resilience and profitability of smallholder farming systems in selected districts of 
+
+Maharashtra. 
+
+ 
+18. Direct project beneficiaries will be small farmers (households with 1.0 to 2.0 ha of farm land) and marginal farmers 
+
+(less than 1.0 ha), who will gain from knowledge and technology transfer, and access to assets to enhance climate 
+
+resilience on their farms, as well as increased revenue from crop diversification and participation in emerging value 
+
+chains. Farmer producer companies (FPCs) and small and medium agro-entrepreneurs (SMEs) will also benefit from 
+
+the project through climate-resilient investments in value chain development, support with the promotion of 
+
+backward and forward linkages, and access to business development and incubation services. The project will also 
+
+directly benefit local institutions and agencies (e.g. agricultural research and extension, technical advisory services) 
+
+through capacity development on climate resilience. State Agriculture Universities (SAU), various line departments, 
+
+government agencies and other institutions at district and sub district level will also benefit through a strategic 
+
+partnership with the project towards mainstreaming climate resilience in agriculture.  
+
+   
+B. Key Results 
+ 
+
+19. The following Key Performance Indicators (KPI) are proposed for measuring the core outcomes of the project:  
+
+a. KPI #1 - Resilience: Farmers adopting climate-resilient agricultural technologies [Corporate Results 
+
+Indicator] 
+
+b. KPI #2 - Resilience: Area provided with micro irrigation systems [Corporate Results Indicator]  
+
+a. KPI #3 - Resilience: Average on-farm soil organic carbon content 
+
+b. KPI #4 - Profitability: Average farm income  
+
+c. KPI #5 - Direct beneficiaries: Farmers reached with agricultural assets or services (by gender) [Corporate 
+
+Results Indicator] 
+
+ 
+D. Concept Description 
+
+ 
+20. Project area. The proposed project will be implemented in the 15 districts of the Mrathwada and Vidarbha regions 
+
+that have been most affected by the recurrent monsoon failures of recent years. These districts account for a total 
+
+population of 30.2 million people and a project area of around 3.5 million ha. Out of a total of 18,000 villages in the 
+
+districts selected, the project will cover 5,000 villages characterized by a high climate-vulnerability index and low 
+
+HDI; this includes about 1,000 villages located in the Purna river basin tract and showing very high levels of soil 
+
+salinity and sodicity. Managed spill-over effects are expected for a range project activities and outputs to villages not 
+
+covered by the project. Most of the project area is located in Maharashtra’s semi-arid agro climatic zones. The vast 
+
+majority of rural households in the project districts are small and marginal farmers whose livelihood depends for 
+
+more than 90 percent on rainfed agriculture.  
+
+ 
+21. Cropping patterns in the selected districts are dominated by cereals (mostly sorghum and millet), pulses and 
+
+oilseeds (soybean). While cotton remains the main cash crop, more and more farmers are growing fruit trees to 
+
+secure their farm income. Unlike in some other parts of Maharashtra where groundwater shortage has become an 
+
+acute problem, in the project area only 55 percent of the total groundwater potential has been harnessed. However, 
+
+poor management of surface water and lack of in situ storage in the project area have aggravated the impact on 
+
+agriculture from the severe consecutive droughts that have hit Maharashtra in the past couple of years. 
+
+ 
+22. Project rationale and alternatives considered. The proposed project results from a clear understanding at the 
+
+highest level of authority in the state that Maharashtra needs a comprehensive, long-term and systematic approach 
+
+to managing and coping with climate change and variability. In the past, emergency responses to increasingly 
+
+frequent climate events have yielded only limited results: such short-term approach did not significantly boost 
+
+agriculture sector performance, prevent further deterioration of the socio-economic fabric in rural areas (exodus, 
+
+farmer suicides), or lead to an increase in farmer income and prosperity. Thus, given the climate projections that 
+
+indicate severe impact on the agriculture and water sectors in Maharashtra under status quo, the new paradigm to 
+
+addressing climate adaptation and mitigation in the agriculture and food system is essential.  
+
+ 
+23. In addition to the short-term disaster management approach, a policy-based project approach was considered to 
+
+address the impact of climate change on agriculture. Such approach would aim at reforming policies, including those 
+
+that encourage the rapid expansion of water-intensive crops resulting in the depletion of groundwater resources. 
+
+This approach was not pursued, since the selected project area presents distinct agro-hydrological features (e.g. no 
+
+rice is grown in the project area and the sugarcane grown in the selected districts represents less than 3 percent of 
+
+the state-level production). Importantly, the key policies impacting the selected project area relate to markets, and 
+
+on these, Maharashtra has been among the most progressive states in terms of implementing policy reform. The 
+
+remaining policies are beyond the State mandate, controlled by the central government, and these mostly relate to 
+
+the distorting minimum support prices for selected commodities, which by and large are not growth in the project.  
+
+ 
+24. Finally, a watershed-based approach was considered for the project, with a stronger focus on natural resources 
+
+management. This approach was eventually discarded since it would not sufficiently focus on farm-level adaptation 
+
+and mitigation issues nor would it provide the support for value chain development, a key part of the 
+
+comprehensive approach needed to provide the market outlets and input supplies required to incentivize farmers to 
+
+adopt resilient crops and agronomic practices. 
+
+ 
+25. In line with GoM request, the proposed project, as represented in the graph below, is built around a comprehensive, 
+
+multi sector approach that focuses specifically on building resilience in agriculture through the scaling up of tested 
+
+technologies and practices, while generating the following interdependent triple win solutions:  
+
+a. enhanced water security at farm level - through the adoption of technologies for a more efficient use of 
+
+water for agriculture, and the increase in water storage capacity (surface and sub-surface) and 
+
+improvement in water distribution structures to address on-farm water availability and reduce the risks 
+
+associated with intra- and inter seasonal climate variability;  
+
+b. improved soil health - through the adoption of good agricultural practices to improve soil fertility, soil 
+
+nutrient management, and promote soil carbon sequestration; and  
+
+c. increased farm productivity and crop diversification - through the adoption of climate-resilient seed 
+
+varieties (short maturity, drought and heat resistant, salt tolerant) and market-oriented crops with a 
+
+clear potential for income security derived from the integration of farmers in corresponding value-
+
+chains.  
+
+ 
+
+Strategic Overview, Thematic Linkages and expected Achievements of the PoCRA  
+
+ 
+
+ 
+26. Sustainable pathways to resilience. Enhancing climate-resilience in agriculture involves the integration of 
+
+adaptation, mitigation, and other practices in agriculture that increase the capacity of the farmer and his/her 
+
+production system to respond to various climate-related disturbances by resisting or tolerating the damage and 
+
+recovering quickly. To ensure the sustainability of the comprehensive on-farm and off-farm interventions required 
+
+to build resilience in agriculture, there is a need to strengthen institutions, in particular at the local level, and 
+
+improve their capacity to plan for adaptation to evolving climatic conditions and induce a change in local practices.  
+
+ 
+27. In addition, the successful adoption of climate-resilient farming practices will largely depend on the farmer’s 
+
+perception of income gains from the new technologies, as profitability remains the most important incentive for 
+
+change at farm level. To that effect, crop diversification, access to knowledge and farm assets needs to be 
+
+
+accompanied by more market opportunities, which can be achieved through improved participation of organized 
+
+smallholders in the corresponding value chains and the mobilization of private sector (e.g. agri business SMEs).  
+
+ 
+28. Finally, generating cutting-edge knowledge on climate change and its impact on key sectors such as agriculture and 
+
+water is key to providing strong analytical underpinnings for policies on climate adaptation and mitigation – which 
+
+still need better implementation in Maharashtra (and the rest of the country), despite the state being a frontrunner 
+
+in India on the reform agenda for climate change.      
+
+ 
+29. Leveraging financial resources. Implementing climate-resilient practices at a scale to cover the targeted 5,000 
+
+villages in a saturation mode with watershed treatment and on-farm technologies requires an estimated total costs 
+
+of well over US$2 billion. The tentative budget for the proposed project is US$600 million, with US$480 million from 
+
+IBRD and US$120 million from GoI/GoM. This represents an average budget envelope of US$20,000 per village and 
+
+year. A contribution from project beneficiaries towards technologies adopted and assets acquired from the project 
+
+will be subsequently factored in, on the basis of the cost-sharing norms applied in other GoM programs and 
+
+projects. Therefore, a major task during project preparation will consist in strategically prioritizing interventions 
+
+planned in each cluster of around 10 villages, selecting results-based investments to be financed, and phasing in 
+
+activities to be implemented in a given cluster.  
+
+ 
+30. Against this background, the GoM is seeking to leverage its own resources and the IBRD funding with 
+
+complementary funding from the Green Climate Fund (GCF). IFC’s 2030 Water Resources Group is currently 
+
+supporting the GoM’s efforts to access GCF grant funding in the range of US$250 million to scale up climate 
+
+adaptation in Maharashtra rain-fed agriculture. During project preparation, Bank and 2030WRG staff will work as 
+
+one project team and explore with counterparts possible co-financing arrangements between the IBRD funding and 
+
+the GCF grant.  
+
+  
+31. Project overview. The proposed project seeks to introduce transformational changes in the agriculture sector by 
+
+scaling-up proven technologies and good agricultural practices that contribute to building climate resilience and 
+
+enhancing farm income. The project will promote the transfer of technologies for climate adaptation and mitigation 
+
+at farm level and will support targeted interventions and limited physical investments in the catchment area to 
+
+promote the use of surface water over groundwater. To enhance farmer income, the project will support activities 
+
+aimed at linking organized smallholders with agri-food SMEs and accessing new market opportunities enhancing 
+
+their participation in commodity value chains.  
+
+  
+32. Finally, for the sustainability of the comprehensive approach proposed to build resilience in agriculture, the project 
+
+will enhance the capacity of institutions and agencies at various levels to mainstream resilience (in particular in 
+agricultural services for smallholders), develop strategic partnerships with national and international entities, and 
+help generate evidence-based knowledge to advance the policy agenda on climate change and vulnerability.  To 
+achieve the PDO and KPI targets, the project is designed around the four components described below.    
+
+ 
+Component A: Promoting Climate-resilient Agricultural Systems (US$ XXX million) 
+  
+
+33. The objective of this component is to build climate-resilience in agricultural production systems through a series of 
+activities at farm level, complemented by interventions in catchment areas. Mini watershed plans will be developed 
+early to provide a road map for investment priorities and the implementation of related activities. This component 
+
+
+
+will focus on: (i) scaling-up the adoption by farmers of climate-resilient agricultural practices aimed at improving soil 
+health and water-use efficiency; and (ii) catchment area treatment to promote the use of “green water” for 
+agriculture over “blue water”, and improve the availability of water at farm level. This component contributes 
+directly to the PDO by promoting the transfer of climate resilient technologies at farm level (KPI #1), supporting the 
+development of micro-irrigation systems (KPI #2) and encouraging farmers to adopt practices that enhance soil 
+health (KPI #3). 
+
+  
+34. Participatory development of mini watershed plans. In line with the Maharashtra Groundwater Development and 
+
+Management Act (2009, effective from 2013) which promotes the watershed as participatory planning unit, this 
+component will finance the development of some 500 mini watershed plans, each covering a cluster of 8 to 12 
+villages and an area of around 5,000 ha. Mini watershed plans are comprehensive multi-year activity and local 
+investment tools for planning and monitoring. They include a comprehensive resource mapping, a rapid appraisal of 
+stakeholders taking into account gender specificities, and participatory water budgeting to inform on possible 
+investments in irrigation and drainage, and water resources management. Those plans will serve as a road map for 
+the implementation of subsequent activities and investments under the proposed project. 
+
+  
+35. Technology transfer and climate-resilient agriculture practices for a sustainable soil and water management.  To 
+
+enhance increase water productivity and achieve water security at farm level, the component will scale-up the 
+adoption of technologies and practices aimed at maximizing the use of surface water for agriculture, at managing 
+groundwater resources in a sustainable manner, and at getting “more crop per drop”. To that effect, the component 
+will finance the adoption of in-situ soil moisture conservation practices, and the expansion of micro irrigation 
+systems (primarily drip and sprinkler irrigation), including water supply structures and drainage facilities. The 
+component will also help improve on-farm water availability through selected investments at catchment level (as 
+prioritized in the mini watershed plan) to increase surface and sub-surface water storage capacity. To that effect and 
+in close coordination with the Chief Minister’s Program on watershed and drought management (Jalyukt Shivar 
+Abhiyan), the project will finance drainage line treatment, the improvement of water courses, the construction of 
+new and desilting of existing water harvesting structures (e.g. farm and community ponds), and the construction of 
+groundwater recharge structures. Agronomic practices promoted under this component in support of improved soil 
+moisture management will include, among other, contour bunding, broad-bed furrow and conservation furrow 
+cultivation. The component will also support efforts towards a more rigorous monitoring of the quality of the water 
+available for agriculture. 
+
+ 
+36. To improve on-farm soil fertility and micronutrient management, the component will scale-up the adoption of 
+
+climate-resilient agricultural practices aimed at: (i) increasing the soil organic matter content, and (ii) sustaining a 
+viable agriculture on the naturally saline and sodic farm soils prevailing in parts of the project area. Conventional 
+methods to address soil salinity and soil sodicity (i.e. land reclamation with widespread application of gypsum or 
+lime) will be reviewed for their economic sustainability and financial viability in the local context, and used only 
+where significant and long term net benefits can be expected. Good agricultural practices aimed at improving soil 
+health have been successfully tested in other programs in Maharashtra and beyond (e.g. NICRA) and include 
+biomass mulching, residue recycling, manure management, conservation tillage, in-situ moisture conservation and 
+others.  
+
+  
+Component B: Climate-resilient Post-harvest Management and Value Chain Promotion (US$ XXX million) 
+ 
+
+37. The objective of this component is to enhance climate resilience beyond farm gate and provide end-to-end solutions 
+in selected commodity value chains. To ensure successful crop diversification, the component will help: (i) develop 
+
+smallholder-inclusive value chains for climate-resilient commodities, and (ii) overcome constraints in the seed supply 
+chain. In line with GoM priorities, this component will focus on Farmer Producer Companies (FPCs) as major drivers 
+of change in the agri-food system. An increase in farm income remains the key driver of change and a pre-
+requirement for the adoption of the climate-resilient technologies and good agricultural practices promoted under 
+Component A. Thus, this component will directly contribute to the PDO by creating opportunities for increasing the 
+revenue of small and marginal farmers (KP #4) through crop diversification and their participation in selected value 
+chains.  
+
+   
+38. Promoting Farmer Producer Companies. This component will build on the outcomes of other GoM programs and 
+
+projects that have focused on FPCs as agent of change (e.g. MACP). A rapid appraisal exercise, with mapping, 
+profiling and capacity needs assessment of the 420 FPCs in the project area (most of them in early development 
+stage), will provide the basis for a series of activities tailored to the growth potential of existing FPCs. The 
+component will also support the development of farmer-group based organizations into entrepreneurial, market-
+oriented, financially sustainable companies with the capacity to perform selected value-adding activities and deliver 
+a range of services (e.g climate-related technical advisory services, training on climate adaptation and mitigation 
+practices in post-harvest management). The component will support viable mechanisms to further consolidate and 
+set up new business linkages for FPCs with private sector (e.g. exporters, seed companies, farm machinery, agro-
+input suppliers, and financial institutions). For the professionalization of FPCs, the project will explore a 
+collaboration with IFC’s Agribusiness Leadership Program and/or Business Edge Program. Eligible FPCs will also 
+benefit from participating in the incubation program of the proposed Climate Innovation Center (see Component C). 
+
+  
+39. Strengthening emerging value-chains for climate-resilient commodities. The selection of agricultural value chains for 
+
+end-to-end solutions (from agricultural research to consumer markets) will be finalized by the PMU during project 
+preparation. Pulses and oilseeds are emerging as potential priority commodities for end-to-end solutions. In 
+addition, the component will support value-chains emerging in the project area following farmers’ production 
+diversification to include higher-value commodities, in particular fruit trees (more climate-resilient than annual 
+crops given their deeper root system). The component will also support viable investments in product aggregation, 
+handling, transformation and marketing (e.g. collection centers, grading and packaging units, cold storage facilities, 
+ICT-based market information systems). Priority will be given to investments that promote the use of green 
+technologies (including solar energy). Value-chain financing and specifically access to finance and financial services 
+for value chain actors will be explored under this component 
+
+  
+40. Improving the performance of the supply chain for climate-resilient seeds. The adequate supply of seeds with short 
+
+duration, drought-, salinity- or heat-tolerant features, is a key priority for the GoM’s in its strategy to build climate 
+resilience in the agriculture sector. The seed industry in MH is largely segmented, with private seed companies 
+mainly focusing on the high value, low volume seeds (e.g. cotton, sugar cane, GM and hybrid varieties), while public 
+sector seed corporations dominate the market for low value, high volume seeds (e.g. cereals, pulses and oilseeds). 
+The component will address the need for increasing the availability of seeds, given farmers’ evolving demand 
+resulting from the recommendations of the district-level contingency plans triggered by climate events (e.g. delays 
+in onset of monsoon rains call for different crop mix). To address the shortage of breeder seeds, the component will 
+assess the SAU’s breeder seeds programs and support solutions aimed at enhancing their performance (including 
+developing linkages with FPCs for seed multiplication). This component will also seek to support key actors in the 
+seed supply chain such as the Maharashtra State Seed Corporation who plays a unique role in the production and 
+distribution of climate-resilient certified seeds for small and marginal farmers (e.g. pulses and oilseeds). It will also 
+finance the development of a limited number of seed processing and storing hubs in strategic locations of the 
+project area. 
+
+ 
+Component C: Institutional Development, Knowledge and Policies for a Climate-resilient Agriculture (US$ XXX million) 
+ 
+
+41. The objective of this component is to ensure sustainability in the approach proposed for building climate resilience 
+through a longer term adaptive management of agriculture, soil and water resources, by: (i) strengthening the 
+capacity of existing institutions to design and deliver agro-technical and climate advisory services, (ii) establishing a 
+Climate Innovation Center, and (iii) promoting an evidence-based policy dialogue on climate resilience. Successful 
+implementation of the activities in this component will contribute to achieving the PDO by increasing the outreach 
+of institutions and agencies promoting climate-resilient agriculture in the project area (KPI #5) and generating 
+spillover effects to farming communities from other villages in the project area not covered by project activities.   
+
+ 
+42. Sustainability and institutional capacity development. To ensure the sustainability of the comprehensive approach 
+
+on climate-resilient agriculture proposed in this project, this component will support the development and 
+implementation of a capacity development program for district and local level stakeholders. This component will 
+mainstream climate-resilience in the strategic objectives of institutions and agencies involved in the delivery of 
+services to small and marginal farmers. At district level, the project will work closely with the Superintendent District 
+Agricultural Offices (SDAOs) and build their capacity to coordinate and monitor the implementation of the climate-
+resilience agenda on the ground. At state level, the project will develop partnerships with the SAUs and support 
+existing programs for the development and field-testing of emerging agricultural technologies and practices for 
+climate-adaption of dryland farming systems. The component will also promote knowledge and learning exchanges 
+on climate-resilience with national/international entities such as ICRISAT, CRIDA, the Indian Institute of Science, the 
+Indian Meteorological Department, the Australian Centre for International Agricultural Research (ACIAR), the 
+Australian Water Partnership (AWP), and the Carbon Management and Sequestration Center (CMASC, Ohio State 
+University).  
+
+ 
+43. Maharashtra Climate Innovation Center (CIC). This component will finance the planning, launch and start-up phase 
+
+for a CIC until it operates in a self-sustained manner. The CIC will support local private sector capacity – with focus 
+on entrepreneurs and SMEs – to commercialize and deploy emerging technologies and business models in growing 
+climate sectors (e.g. climate-resilient agriculture, water, energy) to provide local solutions to climate change. The CIC 
+will offer services tailored to local needs and conditions among a suite of tools which includes: access to latest 
+technology information and market intelligence, fee-based business advisory and other incubation/coaching support 
+services, and tailored proof-of-concept grant and seed investment financing to prove and scale early-stage firms and 
+concepts. The CIC will draw on local and international expertise to support the GoM with the review and formulation 
+of policies and strategies relevant to climate change and climate resilient, in particular as linked to the agri-food 
+sectors. During project preparation, the PMU will commission a feasibility study for the CIC; it will be followed up 
+during early project implementation with the development of a detailed CIC business and financial plan to be 
+submitted for approval to the relevant authorities.  The CIC will be established with technical guidance from the 
+Bank’s Climate Technology Program. 
+
+  
+44. Knowledge and policies. This component will finance a range of analytical studies aimed at updating and 
+
+disseminating existing knowledge on a range of issues related to climate resilience and agriculture. Such studies will 
+provide the analytical underpinnings to improve the policy and strategy framework required to further enhance 
+resilience in the agri-food system in Maharashtra (and beyond). This component will support efforts towards a multi 
+stakeholder dialogue on policies promoting climate resilience in agriculture, as well as direct payments to farmers 
+for environmental services (e.g. soil carbon sequestration, groundwater conservation). This component will also  
+look at reliable ways to quantify potential mitigation benefits from activities promoted by the project and aim at 
+
+
+
+providing a pathway to carbon financing. The component will also finance the development of a state-of-the art 
+climate and agro-hydrological model that supports policy-makers Maharashtra by: (i) making projections on the level 
+of sustainable withdrawal of surface and groundwater in a given watershed under various climate and land use 
+scenarios, (ii) generating suitability maps for Managed Aquifer Recharge (MAR), and (iii) assessing the magnitude of 
+MAR in the project area.  
+
+  
+Component D: Project Management (US$ XXX million) 
+ 
+
+45. This component will primarily finance the project’s incremental operating costs.  A PMU has been set up by the 
+Department of Agriculture (GoM) and tasked with the overall management of the project, while ensuring smooth 
+coordination of activity implementation by various agencies and strategic partners. Given the transformative nature 
+of the project, institutional coordination within and across the relevant sectors is emerging as a critical task in 
+developing an effective project implementation mechanism. The PMU will be responsible for compiling an annual 
+Activity Plan and Work Program and develop the corresponding budget proposal to be submitted for approval to the 
+Project Steering Committee.  
+
+ 
+46. The PMU will ensure that all project activities are implemented in line with the provisions in the official project 
+
+documents; in particular, the PMU will be in charge of financial management, project procurement, and safeguards 
+compliance. The component will support all activities related to project communication, public awareness and 
+outreach, including the development of a comprehensive project web site. It will finance the services of specialized 
+consultant firms to develop and implement a comprehensive project impact evaluation (including all surveys). 
+Further, the project will promote the intensive use of ICT across components; to that effect, this component will 
+finance both ICT goods and specialized consultant services. The project’s M&E system will be ICT-based, enabling the 
+PIU to access project information and data from the field in real-time. ICT will also be used to facilitate the feedback 
+from project beneficiaries on project activities planned/under implementation (citizen engagement), and will be 
+mainstreamed in the project’s grievance and redress mechanism. 
+ 
+
+ 
+    
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known) 
+
+ 
+Maharashtra is one of India’s most prosperous states, with a population of 114 million. Yet, it has some of India’s poorest 
+
+people, four of its 36 districts are among India’s 106 most backward. Agriculture and industry form the mainstay of the 
+state's economy. Most of the cultivable land is still rain-fed, relying heavily on the southwest monsoon rains. Districts in 
+eastern Maharashtra on the Deccan plateau are particularly prone to drought. The net irrigated area is only 30.77 million 
+Ha or about 16% of cultivable land. In Maharashtra, main crops include rice (although not grown in the project area), 
+jowar, bajra, pulses, vegetables and onions. The main cash crops include cotton, sugarcane (though the project area 
+accounts for only 3 percent of the state sugar cane production), turmeric, and several oilseeds. Amravati and Yavatmal, 
+respectively in Vidharba region are the largest orange and cotton growing districts. 
+The Project will be implemented in two main regions:  Vidharbha  and Marathwada comprising some 5,000 villages - 
+
+selected for their high climate vulnerability index and low HDI; in addition, about 1,000 of these villages are characterized 
+by high levels of soil salinity and sodicity. The project area is characterized by a substantial spatial and temporal rainfall 
+variation and scarcity of water resources . These are increasingly exacerbated by frequent droughts associated with 
+climate change and high human pressure on natural resources.  
+
+
+The proposed project is premised on the fact that climate changes are quite inevitable and that it affects all the 
+households  much more on the livelihoods of the poor and vulnerable sections. Further, it is well recognized that the 
+households/ communities in the rain fed agriculture are quite diverse and heterogeneous with several sub groups 
+identifiable based on several factors – resource endowment, gender, ethnicity ( scheduled tribes), castes (scheduled 
+castes), religious minorities and geographical setting ( forests, hills, coastal areas). Each of these subgroups gets affected 
+differently and has differential capacity for participation. Lastly, to ensure a village/ community spread resilience, group / 
+collective action would be essential which demands substantial outreach efforts. Given this scenario, following issues 
+emerge as significant: local participation, institutional linkages and communication outreach. 
+ 
+
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies 
+
+ 
+GoM has established a PMU, with a full time environmental specialist, to guide and coordinate preparation of 
+
+environmental and social management framework (ESMF) of the project. A consultant firm has also been brought on 
+board by GoM to prepare the ESMF together with the project implementation plan (PIP). During project implementation, 
+there will also be environment specialists at the District PMUs in Akola and Aurangabad. GoM has experience with 
+implementing World Bank funded projects, in similar sectors, such as Maharashtra Agriculture Competitiveness Project 
+and Maharashtra Water Sector Improvement Project. For these projects, GoM is already implementing various tools for 
+managing environmental and social issues, such as ESMF. Therefore, there is good borrower orientation and sensitivity to 
+implement Bank’s safeguards. 
+The project, through the safeguards instruments, will also put in place a capacity building program for staff, and project 
+
+beneficiaries to ensure successful implementation of ESMF and IPM plan, and compliance with the Bank’s safeguards 
+policies. A full understanding of the capacity-building need is expected once the draft ESMF is prepared.  
+ 
+
+ 
+C. Environmental and Social Safeguards Specialists on the Team 
+
+ 
+Suryanarayana Satish, Anupam Joshi, Sharlene Jehanbux Chichgar 
+
+ 
+D. Policies that might apply 
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+OP 4.01 is triggered because the project involves a 
+series of interventions for increasing productivity, 
+enhancing resilience, and agriculture value chain 
+development.  Investments to be supported under the 
+project will not lead to any major irreversible impacts, 
+however, if not designed effectively,  may generate 
+impacts such as soil degradation, water pollution, 
+biodiversity conservation, labor safety issues. (these 
+are mostly temporary by nature and site specific).  
+ 
+The project will also have positive impacts on the 
+environment and natural resource base of the project 
+area such as drought-proofing rain-fed agriculture in 
+the semi-arid regions, prevention of soil degradation, 
+
+increase of soil moisture and in biomass and organic 
+matter of soil, decrease of run-off and soil losses, 
+increased climate resilience and annual water 
+availability. All mitigation measures would be carefully 
+designed in order to enhance the positive impacts, and 
+ensure sustainability of investments. 
+ 
+Overall, the project related impacts are mostly 
+positive, hence it has been classified as category B. At 
+this very juncture, the scope and location of the 
+interventions are not known. Hence, an Environmental 
+and Social Management Framework (ESMF) is being 
+prepared which outlines the process for future 
+subprojects to ensure that they are environmentally 
+and socially sound, sustainable, and in line with GoM 
+and World Bank operational safeguards policies. 
+
+Natural Habitats OP/BP 4.04 Yes 
+
+Project financed investments are not expected to 
+intervene in any critical natural habitats. The project 
+areas contain some essential ecosystems with rich 
+biodiversity, and a number of wildlife sanctuaries such 
+as Jayakwadi Bird Sanctuary, in Marathwada, and 
+Bhamragarh, Bor, Charpala, Chikhaladara Wildlife 
+Sanctuary. There are also a number of tiger habitats 
+such as Tadoba Andhari Tiger Project, Melghat Tiger 
+Project, Pench Tiger Reserve located in Vidarbha 
+region. 
+ 
+As details of the exact sites of the proposed 
+investments are yet to be known, and investments 
+involving civil works may be located within the 
+proximity of these areas OP 4.04 is triggered. The 
+ESMF would include all adequate measures for 
+avoidance, mitigation of impacts and preventive 
+measures for negative effects on natural habitats.  
+ 
+
+Forests OP/BP 4.36 No 
+
+Project financed activities will not support 
+afforestation, reforestation or pasture improvement 
+activities. The project will not encroach on forest land 
+or change the management of forest resources. 
+
+Pest Management OP 4.09 Yes 
+
+The policy is triggered because investments targeted 
+at increasing agricultural productivity and climate-
+resilient agronomic practices may encourage the use 
+of pesticides. There is therefore a need to promote the 
+use of integrated pest management techniques, 
+including the safe use, storage and disposal of agro-
+chemicals. The ESMF will aim at providing as much 
+
+
+
+information as possible on biological approaches to 
+pest management. The project will prepare and 
+promote an Integrated Pest Management Plan. 
+
+Physical Cultural Resources OP/BP 4.11 TBD 
+
+The project is not expected to have an impact on 
+physical cultural resources, as it will be implemented 
+in areas where agriculture is already practiced. 
+However, the project area comprises of Aurangabad 
+district, which contains many historical structures and 
+UNESCO world heritage sites.  
+The project will ascertain through preparation, if there 
+is evidence that the project location sites would 
+contain features of archeological, historical or cultural 
+significance.  Following which, the ESMF would include 
+provisions of chance finds to be followed by 
+implementing partners, on the proper management of 
+physical cultural resources if discovered during project 
+implementation.  
+ 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+There are 2.7 million Scheduled Tribe population in 
+the 15 project districts which account to about 8% of 
+the total population. Further, 27 Tehsils spread across 
+11 districts are covered under the Fifth Schedule of 
+the Indian Constitution which provides a variety of 
+safeguards for the tribals. Given this, the project 
+triggers the Bank’s Operational Policy (OP) 4.10 on 
+Indigenous Peoples.  However, the next step on 
+deploying the instrument- Tribal Peoples Plan (TPP) or 
+Tribal Peoples Planning Framework (TPPF)— needs to 
+be decided. 
+
+Involuntary Resettlement OP/BP 4.12 TBD 
+
+Once the project interventions are firmed up and the 
+Social Assessment Study is completed, a decision can 
+be made on whether lands are required and the 
+methods of scuring thereof. 
+
+Safety of Dams OP/BP 4.37 No 
+
+OP 4.37 is not triggered as the project investments will 
+not support construction, or rely on performance of an 
+existing dam >15m height. The project will not  
+support rehabilitation of existing or building any new 
+irrigation schemes originating from existing dams in 
+the State 
+ 
+The project may include construction of small check 
+dams. The potential adverse safety and security 
+impacts will be addressed in the ESMF which will 
+include adequate measures to ensure that the design, 
+construction and the maintenance of the small dams 
+will be done by qualified engineers.  
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+OP 7.5 is not triggered as no international waterways 
+are involved. 
+
+Projects in Disputed Areas OP/BP 7.60 No NA 
+
+ 
+E. Safeguard Preparation Plan  
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+May 05, 2017 
+ 
+
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+Project has initiated efforts towards the conducting a comprehensive Environmental and Social Assessment. This is 
+
+expected to result in: (i) Integrated Environmental and Social Management Framework (ESMF); (ii) Tribal People Plan/ 
+Framework, as appropriate; (iii) Resettlement Policy Framework (RPF), if need be; (iv) IPM/IPNM plans.  A Terms of 
+reference (TOR) for the conduction of assessments and preparation of the ESMF  has been prepared by the PMU.  
+ 
+The ESMF will provide essential baseline data, confirm policies that are triggered, assess likely impacts of the project 
+
+interventions. The ESMF will also propose mitigation measures for any adverse impacts that may be envisaged through 
+the design and construction phases of various interventions. Recommendations for strengthening institutional capacity, 
+and estimate the budget required for the implementation will also be included. While the assessments will be 
+participatory with due and extensive consultations with all the stakeholders, especially, the poor and vulnerable farming 
+community. Further, the ESMF will also outline arrangements for consultations with the stakeholders and disclosures 
+thereof both during preparation as well as implementation phases.   
+ 
+ All safeguards studies shall be completed and the ESMF publicly disclosed by April 15, 2017. 
+ 
+ 

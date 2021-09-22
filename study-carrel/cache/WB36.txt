@@ -1,0 +1,692 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+The World Bank  
+Serbia: Competitive Agriculture Project (CAP) (P167634) 
+
+ 
+ 
+
+  
+Jan 08, 2019 Page 1 of 13  
+
+     
+
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Project Information Document (PID) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 06-Jun-2019 | Report No: PIDISDSC25635 
+
+BASIC INFORMATION 
+
+ 
+
+  A. Basic Project Data OPS TABLE 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+Serbia P167634  Serbia: Competitive 
+Agriculture Project 
+(SCAP) (P167634) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+EUROPE AND CENTRAL ASIA Sep 02, 2019 Nov 21, 2019 Agriculture 
+
+Financing Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Ministry of Finance Ministry of Agriculture, 
+Forestry and Water 
+Management 
+
+ 
+
+ 
+
+Proposed Development Objective(s)  
+ 
+Improve market access for small and medium agricultural producers in Serbia 
+
+  
+PROJECT FINANCING DATA (US$, Millions) 
+
+        
+
+SUMMARY-N ewFin1 
+ 
+
+Total Project Cost 50.00 
+
+Total Financing 50.00 
+
+of which IBRD/IDA 50.00 
+
+Financing Gap 0.00 
+ 
+
+ 
+
+DETAILS-NewFinEn h1 
+
+World Bank Group Financing 
+
+     International Bank for Reconstruction and Development (IBRD) 50.00 
+
+   
+ 
+
+Environmental and Social Risk Classification Concept Review Decision 
+
+Moderate  Track II-The review did authorize the preparation to 
+continue 
+
+ 
+
+    
+ 
+Other Decision (as needed) 
+
+ 
+ 
+ 
+
+B. Introduction and Context 
+ 
+Country Context 
+
+ 
+1. Following years of recession and slow growth, the Serbian economy expanded by 1.8 percent, on average, over 
+the previous three years (2015–2017), while a stronger growth of 3.5 percent was estimated for 2018. Over the previous 
+three years, growth started to recover on the back of higher investment (average annual growth of 8.3 percent) and strong 
+growth of exports (up 10.7 percent annually in real terms). Consumption recovered as well, but at a slower pace (at 1 
+percent annually in real terms). Growth of the industry and services sectors contributed most to the overall growth of the 
+economy over the previous three years, while agriculture had a negative contribution to growth in 2015 and 2017. For 
+2018, growth was broad-based with all three major sectors growing faster than last year. As a result, the growth in 2018 
+reached 4.2 percent. The medium-term growth projections depend crucially on deeper and timelier structural reforms 
+and progress with European Union (EU) accession. 
+ 
+2. The Government of Serbia (GOS) has implemented a successful fiscal adjustment but economic vulnerabilities 
+remain. In 2014, the GOS adopted an ambitious fiscal consolidation and structural reform program supported by the 
+International Monetary Fund (IMF) and the World Bank. In the short term, the program focused on the control of 
+aggregate wage and pension expenditures, improvements in tax administration, and reductions in subsidies to state 
+owned enterprises. The implementation of these measures led to the reduction of budget deficits in 2015–2016 and 
+budget surplus of 1.2 percent of gross domestic product (GDP) in 2017 and 0.5 percent of GDP in 2018, underpinned by 
+strong revenue collection and lower than planned public spending ensuing, among others, from the interest payment 
+savings and under-execution of public investment. As a result of prudent fiscal policies, public debt continues to decline 
+and stood at 54.3 percent of GDP (at the end of December 2018), and is expected to continue declining during 2019, albeit 
+at a slower pace. However, the country remains vulnerable to spillovers from regional developments and market volatility, 
+thus ensuring fiscal sustainability and supporting private sector development, growth, and formal employment are 
+important for Serbia’s economic performance in the long term. 
+ 
+3. Over this same period, the prospects for accession to the EU provided an impetus for a broad spectrum of 
+reforms. In November 2007, Serbia initiated a Stabilization and Association Agreement with the EU. In 2012, it was granted 
+an EU candidate status. Since the formal start of the accession negotiations in 2014, progress has evolved largely following 
+its predicted trajectory. As of December 2018, Serbia opened 16 out of 35 chapters of the EU’s Acquis Communautaire, of 
+which two are provisionally closed. 
+ 
+4. Regional disparities of living standards are evident. There is a high degree of variability of living standards within 
+the country, with 25 percent of the population of Serbia (close to 1.8 million people) being at risk of poverty. Municipalities 
+in the Southern and Eastern part of Serbia have high poverty incidence as compared to the rest of the country, with risk 
+of poverty rates ranging between 13 and 63 percent within these regions. Better understanding of these geographic 
+disparities can help the Government of Serbia design and target policies and programs to support growth, jobs, poverty 
+reduction and social inclusion.   
+ 
+
+Sectoral and Institutional Context1 
+ 
+5. Agriculture plays an important role in the economy of Serbia. Agriculture is the third largest sector, accounting 
+for around 6 percent of GDP and 19 percent of formal employment, and the most important export sector, representing 
+23 percent of total exports. The impressive growth of exports of both primary and processed food products provides 
+evidence of the competitiveness of Serbian production in international markets and of significant potential to further 
+leverage the sector’s growth to create jobs and income. From 2005 to 2016, the country’s exports of primary food and 
+beverage products increased 148 percent and of processed food products increased 83 percent. In 2016, Serbia 
+accumulated an agricultural trade surplus of US$650 million in primary products and of US$525 million in processed food 
+and beverage products. 
+ 
+6. Agriculture is undergoing a process of structural transformation towards a modern agri-food system. Primary 
+agriculture, an important source of income and employment in the past, has diminished its contribution to the rapidly 
+diversifying economy of Serbia. The declining share of primary agriculture in GDP and employment signals a process of 
+transformation that provides ample opportunities for developing a modern, dynamic and more competitive agri-food 
+system, able to generate better jobs up and downstream and improve income and livelihoods in the rural space. 
+Improvements in labor and land productivity have contributed towards the expansion of agricultural output in Serbia. This 
+is important as it leads to an increase in the supply of raw materials at lower costs to agri-processors, which in turn 
+supports a much larger scale of operation, promotes horizontal integration, and reduces overall costs, all factors that 
+increase the competitiveness of the whole agri-food system, as the country prepares for EU accession. Improving 
+productivity is more than just raising yields and decreasing costs; it is also about raising food quality, moving into higher 
+value products by using improved technology and practices2. 
+ 
+7. Sector growth is geographically differentiated and narrow based in terms of composition of production. Growth 
+patterns in agriculture are influenced by regional disparities in sector performance and composition, with a positive sector 
+growth in the Northwestern parts of the country and contraction of production in Southeastern Serbia. The autonomous 
+province of Vojvodina, in the North, is the key driver of agricultural output in Serbia, with 43 percent contribution to 
+national agricultural GDP (in 2014) with large scale production of commodities. Between 2003 and 2013, crop output in 
+Serbia expanded, mainly due to increased production in Vojvodina, as the other three regions recorded only a marginal 
+expansion or even a decline (South and East Serbia). Livestock output declined over the same period, with all regions, 
+except Vojvodina, recording contraction rates between 24 percent (Sumadija and West Serbia) and 33 percent (South and 
+East Serbia). In the same period, livestock output in Vojvodina increased by around 13 percent.  
+ 
+8. Despite regional comparative advantages, structural factors underpin the regional disparities. There are 
+important structural limitations to agriculture in Serbia - very small and fragmented land holdings, ageing and declining 
+farm labor force, low efficiency and productivity, low use of technology, high labor intensity, low financial liquidity and 
+capital availability for investment (especially for smallholders) and outdated production management practices. Despite 
+all of these, economic opportunities exist in rural areas. Cereals, vegetable oils and edible fruit have historically driven 
+growth of agricultural production and exports, with Vojvodina’s larger producers benefiting the most. Only one percent 
+of the farms in Serbia have 50 hectares or more of land and most of them are in Vojvodina3, while farmers who own less 
+
+                                            
+1 This section borrows from the World Bank Group Sector Study “New Opportunities and Old Constraints: The Context for Agriculture Sector 
+Development in Serbia” by Garry Christensen (2016) as well as from a recently completed Agriculture Public Expenditure Review by Demetris 
+Psaltopoulos and Svetlana Edmeades. 
+2 World Bank. 2019. Harvesting Prosperity: Technology and productivity Growth in Agriculture”.  
+3 Only one percent of farms in South Serbia cultivate more than 50ha of land, while in Vojvodina, 10 percent of farms cultivate more than 50ha of 
+land.  
+
+
+
+than 5 hectares of land account for 78 percent of all holdings and 25 percent of the total cultivated area in Serbia and are 
+concentrated in the South and East Serbia.  
+ 
+9. Broadening the scope for sector growth to include small and medium scale producers may be key to sector 
+transformation. Although fragmented farm structures are often perceived as a challenge to scale economies and 
+competitiveness, with high transaction costs preventing the many small producers from engaging in markets, in the case 
+of Serbia, recent public expenditure analysis shows that smallholders4 are the most technically efficient producers in the 
+country and hence, supporting their development can improve sector growth. Hence, consolidation at the product level, 
+through aggregation and economic clusters, may hold the key to development, enabling the specialization of small 
+efficient units and their integration into broader value chains. Middle size farms, which are often seen as the drivers of 
+growth in the sector, are found to be the worst performers in terms of technical efficiency in Serbia, posing a question on 
+the adequacy of the enabling environment for their agricultural development. These producer segments also specialize in 
+agricultural products that are not scale intensive yet can hold important value proposition and drive the generation of 
+jobs and growth in rural areas. Improving the enabling environment to support the productive inclusion of small and 
+medium scale producers can drive the process of structural transformation of agri-food systems in Serbia.  
+ 
+10. Rethinking and redirecting policy instruments and incentives can increase the speed of sector transformation. 
+Agricultural budget support has been aligned with the EU budget support framework, and a Directorate for Agrarian 
+Payments has been established to administer national direct payments (subsidies) and rural development investments 
+(both national and EU Instrument for Pre-Accession and Assistance for Rural Development (IPARD) grants). Subsidies and 
+transfers dominate agricultural spending (2011-2017) and, on average, account for 82 percent of sector expenditure. They 
+are found to negatively affect sector productivity and efficiency and are thought to contribute towards freezing the current 
+dual farm structure. Emphasis on area and headage payments5 reduce the incentives to increase productivity, preserve 
+farm structures dominated by smaller farms and do not contribute to the acceleration of the structural transformation 
+process6. Further, coupled output subsidies distort the allocation of productive resources. When the above are combined 
+with the low (at least until 2017) level of funds dedicated to rural development, including the provision of public goods 
+(agricultural infrastructure, R&D, advisory services, etc.), it creates a policy framework which constrains farm restructuring 
+and the potential of smaller and medium-sized farms, that currently dominate Serbian agriculture, to increase their size, 
+modernize production systems, benefit from expanding markets and contribute to a competitive agri-food sector and to 
+a vibrant rural economy. 
+ 
+11. Despite ample EU resources, productive investments, through rural development grants, are underutilized. 
+IPARD funds in the amount of EUR230 million (including national co-financing) have been allocated to Serbia for the 
+programming period of 2014-2020 in annual instalments. Serbia has received accreditation for 2 of the 11 IPARD 
+measures7. Although the scope of these measures is broad, actual number of beneficiaries is limited, with most small and 
+medium scale producers not being able to take advantage of this productive support due to the complex application 
+process and the requirement for upfront financing. A key constraint in the uptake of IPARD grant support is the complexity 
+of the application process, due to the numerous requirements which applicants often can’t fulfill, added to limited capacity 
+in the Directorate for Agrarian Payments for review and approval. In addition, a limiting factor is the requirement of an 
+upfront payment of the full grant amount by the applicant, which assumes availability of financial resources, with 
+
+                                            
+4 In the context of Serbia, small producers are those with an economic size of up to 8,000 euros; medium producers are those with an economic size 
+between 8,000 and 25,000 euros. 
+5 Criticized for not relying on objective and valid baseline indicators, as well as the poor definition of eligibility criteria (Bogdanov et al., 2017) 
+6 It is noted that leased agricultural land is excluded from farm support (Bogdanov, 2016). 
+7 Accredited measures in 2018 are Investments in Physical Assets of Agricultural Holdings and Investments in Physical Assets for Processing and 
+Marketing of Agriculture and Fisheries Products; 2 more are planned for accreditation in 2019 - Farm diversification and business development and 
+Technical assistance; and 2 additional ones for 2020 – LIDER program for local development and organic production.  
+
+
+
+reimbursement of 50 percent after all investment criteria have been fulfilled, ex post. This requirement alone makes IPARD 
+grants difficult to access for the majority of small and medium scale producers in Serbia. 
+ 
+12. National program resources can shift the sector equilibrium from low productivity to high value for small and 
+medium scale producers in Serbia and encourage convergence of the National and EU programs over time. For rural 
+development grants, boundaries are established between eligible beneficiaries of the national rural development program 
+and those eligible to apply for IPARD support, based on either size or production potential. All producers not eligible for 
+IPARD support, are eligible for national program support. Reaching out with national investment funds to the small and 
+medium producers of Serbia, especially in the South and Southeast of Serbia, can improve these producers’ productive 
+inclusion and competitiveness, and enable them to actively participate in the process of structural transformation of 
+agriculture in Serbia and preparing them for EU accession.  
+ 
+13. Improving financial inclusion for productive investments can stimulate broader private sector participation. 
+While around two thirds of adults in rural areas in Serbia have accounts with financial institutions, only 14% of them have 
+loans to operate, start or expand farm and small business activities. Most medium and larger farmers and medium/larger 
+SMEs have access to finance as banks have the right expertise, systems and products to serve these agricultural segments 
+profitably. However, smaller farmers have very limited access to bank financing and mostly rely on off takers and input 
+suppliers to finance their inputs. This type of value chain financing does not cover longer term funding for equipment, 
+machinery and is currently decreasing as these players try to re-focus on their core business. The long-term goal is the 
+development of efficient, competitive markets, producing to EU standards which requires better inclusion of small-scale 
+producers (among them women and youth) in modern supply chains, an increase in investments in machinery, equipment 
+and knowledge as well as the modernization of processing and marketing. For this to be achieved, however, public funds 
+are not sufficient resources and bank financing can play a catalyst role in the further development and competitiveness 
+of the sector. 
+ 
+14. A combination of targeted public incentives and private financing can improve sector productivity and 
+competitiveness. A policy mix that focuses on the improvement of competitiveness and value addition capacity of the 
+agri-food system in Serbia can have important sectoral and economy-wide growth effects by inducing positive spillovers 
+to other economic sectors and contributing to employment, poverty reduction and economic prosperity of rural areas. 
+The public expenditure analysis has shown that direct payments do not promote technical efficiency and productivity 
+growth and slow down the structural transformation in Serbian agriculture. Reducing the direct payments envelope and 
+significantly increasing the rural development one (including advisory and farm extension services and R&D) is therefore 
+paramount for improving the performance of the sector. To enable that, a different set of financial mechanisms may be 
+required, to enable small and medium scale producers to access finance and participate in productive decisions, such as 
+matching grants8 and public guarantee funds that reduce the risk to producers and other financial institutions, hence 
+stimulating financial and productive inclusion. At present, small farmers do not have financial records, do not have 
+business plans, they find bank requirements challenging and, most importantly, they lack collateral. Matching grants and 
+technical assistance (TA) can create the conditions for banks to finance investments of farmers that are not their typical 
+clients. Matching grants can create the required equity for the banks and TA can ensure bankability of the business plan 
+
+                                            
+8 Matching grants are an instrument aimed at promoting private sector development which has been used extensively over the past years, in 
+particular for agriculture development. A matching grant is defined as a one-off, non-reimbursable transfer to project beneficiaries, for a specific 
+purpose, based on the condition that the recipient makes a contribution for the same purpose. These grants can be used for a variety of activities 
+including technical assistance, investment in assets or financing of working capital. Total grant financing dedicated to agriculture reaches 650 million 
+USD or almost twice the volume of those outside of agriculture. In addition, the proportion of matching grants projects supporting agriculture has 
+significantly increased in the 2000s. Recent interest for this instrument to support agriculture might be due to growing concerns about other forms 
+of support which distort financial markets such as interest rate subsidies, as well to the compatibility of such agricultural subsidies with World Trade 
+Organization requirements.  
+
+
+
+
+and prepare the client to approach the bank. Finally, if commercial banks require additional safeguards for their 
+investments, they will be able to access credit guarantees to be soon provided by the Development Credit Authority 
+(USAID Guarantee Program) and European Investment Fund (EIF) including risk sharing through a new IFC project. 
+ 
+15. Greater resilience to climate and market risks can further boost the overall sector performance. The reliance on 
+agricultural commodities increases Serbia’s exposure to price volatility, which added to the increasing number of extreme 
+climatic events in Serbia (droughts and floods) further exacerbates agricultural growth volatility. Projected increases in 
+temperatures and declines in precipitation will affect rainfed crops, which dominate Serbian agriculture. Production is 
+concentrated in the north (Vojvodina), where crops are vulnerable to decreasing precipitation and increasing 
+temperatures, primarily during the summer growing season. Rainfed maize may decline by as much as 58 percent due to 
+reduced rainfall and higher temperatures in summer. Increases in temperature have already brought about increases in 
+fungal diseases and pests that reduce crop production. Cereals and fruits are the most important agricultural products in 
+terms of production area and economic output; fruit production is particularly vulnerable to spring frost, hail, extremely 
+low winter temperatures, low precipitation and/or heavy rainfall events9. Hence, diversifying the sector base has 
+important climate mitigation (reducing risks) and climate adaption (improving resilience) implications for the country.  
+ 
+16. As Serbia advances in the process of sector transformation and alignment to EU acquis, the effectiveness of 
+public service delivery becomes critical to improving sector performance. Serbia has committed to align its national 
+agricultural policy to the Common Agricultural Policy (CAP) of the EU by the date of accession. To this end, the country is 
+required to have all the necessary systems in place to manage and receive funds from the EU and to make payments to 
+beneficiaries in Serbia in accordance with EU rules and procedures. An Integrated Administration and Control System 
+(IACS), along with other tools, are necessary for the efficient utilization and monitoring of support funds. Systems for 
+monitoring results (and not only expenditures) will also be required by the reformed CAP, starting in 2020. EU membership 
+unlocks significant financial assistance to farmers under the EU’s CAP, yet it also imposes stricter food safety and other 
+trade-related requirements to agricultural production. Enhancements in digital approaches can improve targeting, 
+efficiency of spending, food safety monitoring, as well as support the governance structure of the sector.  The innovation 
+environment in Serbia would need to be strengthened and uptake of emerging digital technologies by farmers improved 
+to help lower transaction costs and facilitate information access about best farming practices, inputs, prices, access to 
+credit and markets. This will improve transparency, reduce innovation hurdles and support an enabling environment for 
+productive and financial inclusion of agricultural producers in Serbia. 
+ 
+
+Relationship to CPF 
+ 
+17. The proposed project is consistent with the Serbia Country Partnership Framework (CPF) for the period of FY16-
+20. While the SCD identified agriculture as a priority sector for the twin goals, the CPF did not originally envisage an 
+operation because of counterpart readiness. However, engagement with a new team at the MAFWM demonstrates a new 
+strategic drive and opportunity to make an impact. Therefore, as part of the program update permitted under the PLR, 
+the Bank decided to re-engage in this sector. Through productive investments targeting small and medium scale producers 
+and strengthening the information systems of the agricultural sector, the project aims at increasing sector 
+competitiveness, while providing economic opportunities in rural areas, as the country moves closer to EU membership. 
+The Performance and Learning Review (PLR) of the CPF identifies agriculture as one of the high priorities for the 
+Government with an important dimension of shared prosperity. The project is also aligned with the strategic goals of the 
+National Agricultural and Rural Development (NARD) strategy for 2014-2024: i) growth of production and income stability; 
+ii) growth of competitiveness with adjustments to domestic and foreign markets requirements and technical-technological 
+
+
+promotion of the sector; iii) sustainable management of resources and environment protection; iv) promotion of quality 
+of life in rural areas and poverty reduction; v) efficient management of public policies and promotion of institutional 
+framework for development of agriculture and rural development. 
+ 
+ 
+C. Proposed Development Objective(s)  
+
+ 
+18. To improve access to markets and information systems for agricultural producers in Serbia.  
+ 
+This will be achieved through a) improving productivity of small and medium scale farmers by strengthening advisory 
+and technical support; b) supporting market access of small and medium scale farmers (including finance and business 
+planning capacity); c) improving government systems to strengthen the enabling environment for all agricultural 
+producers (including capacity building for the Ministry, information systems, data platform). 
+ 
+Key Results (From PCN) 
+ 
+
+19. The project will achieve the following results: 
+ 
+
+(i) Productivity10: Increase in gross value added per utilized agricultural area 
+ 
+
+(ii) Competitiveness11: Increase in the share of production sold by project beneficiaries 
+ 
+
+(iii) Financial inclusion12: Number of beneficiaries accessing commercial bank loans for their productive 
+investments (disaggregated by gender)  
+ 
+
+(iv) Use of information systems13: Number of unique users of the integrated information platform (disaggregated 
+by gender) 
+
+ 
+D. Concept Description 
+
+ 
+A. Concept 
+ 
+20. Scope: The project will support the Government of Serbia with the implementation of the National Agriculture 
+and Rural Development Program. This will complement Serbia’s on-going efforts to align its national programs to the EU 
+CAP programs. In particular, the project will provide financial and technical support to all productive investments in 
+agriculture in Serbia through the national rural development program14 and will not participate in the financing of direct 
+payments (subsidies). This delimits the scope of project interventions outside of all IPARD measures that the country has 
+been accredited for or plans to be accredited for and puts it in the center of national rural development program.  
+ 
+
+                                            
+10 Improved on-farm productivity (use of better management practices, climate smart agriculture, etc.) 
+11 Improved linkages between producers and buyers/markets (volume, quality and uniformity of production, value and volume of sales, market 
+segmentation strategies, etc.; building entrepreneurial capacity of the production units) 
+12 Improved access to finance to drive the process of value-addition on and off-farm (enable investments in equipment, small infrastructure, technical 
+assistance, and other services that improve the competitiveness of the production units) 
+13 Improved information systems for decision making at the level of the Ministry of Agriculture Forestry and Water Management (MAFWM) and 
+information flow with agricultural producers 
+14 In 2018, the program received 8,000 applications from small and medium scale producers.  
+
+21. Beneficiaries: Small and medium scale agricultural production units (including producers, producer groups, 
+agribusinesses/agro-processors that can provide direct link to smallholder farmers) that have or can have commercial 
+focus and are not covered by accredited IPARD measures. Although large producers will not be directly targeted, the 
+project will also benefit them with the enabling environment it will create through the improvements in information 
+systems and the financial services provided. Small and medium size producers are defined by the economic size of holding 
+expressed in euros of standard output. For the purposes of this project and the context of Serbia, small producers are 
+those with an economic size of up to 8,000 euros; medium producers are those with an economic size between 8,000 and 
+25,000 euros. 
+ 
+
+ 
+Description 
+ 
+22. The project activities are structured into three Components. Component 1 will focus on improving the productive 
+and entrepreneurial capacity of small and medium farmers by supporting business and financial planning for productive 
+investments, as well as supporting market access and strengthening sector competitiveness. Component 2 will focus on 
+improving the capacity of the Ministry of Agriculture, Forestry and Water Management (MAFWM) to provide core public 
+goods for improving sector performance. This includes establishing and information system aligned with EU CAP 
+requirements to enable evidence-based policy making and monitoring of results, enhance market information for 
+stakeholders and build capacity for regulatory roles aligned with EU CAP. Component 3 will focus on project management. 
+ 
+23. By addressing sector needs at the level of producers (Component 1) and the MAFWM (Component 2), the project 
+will support a broader policy reform process in the agriculture sector through: i) improved targeting of policy instruments 
+to different typologies of producers, ii) strengthened enabling environment for investment for small and medium 
+agricultural producers, by improving the delivery of services to these productive segments (advisory, financial, 
+information, etc.), iii) improving the monitoring of public resources and their utilization, as well as sector performance. It 
+is expected that this will bring about a significant shift in the utilization of public resources in agriculture from subsidies 
+(direct payments) to rural development investments.  
+ 
+ 
+Component 1: Improving the value-added of agriculture (US$35 million) 
+ 
+24. The objective of this component is to improve the economic performance of small and medium agricultural 
+producers in Serbia on- and off-farm. The component will support the building of entrepreneurial capacity of agricultural 
+producers through the integration of production decisions with market requirements and technical and financial services. 
+Activities will focus on improving land and labor productivity, broaden access to productive assets, technology, 
+information, and credit, diversification of agricultural products, and access to markets, including traceability and 
+differentiation strategies. Unlocking agricultural finance for productive investments, strengthening productive and 
+entrepreneurial capacity of producers, developing short value chains and market linkages will stimulate economic 
+activities in rural areas and can lead to the creation of jobs. It will also create capacity for better absorption of IPARD funds 
+for improving the rural development of Serbia, while also strengthening alignment to EU CAP. 
+ 
+25. The component is structured into two sub-components: (i) Improving entrepreneurial capacity – focusing on 
+capacity building activities required to formulate business plans, investment decisions and financial support, from public 
+and private sources; (ii) Improving productivity and competitiveness – comprising investments in equipment and technical 
+assistance to support their implementation. The detailed description of the sub-components is provided below.  
+ 
+
+
+
+Sub-component 1.1: Improving productive and entrepreneurial capacity (US$5 million) 
+ 
+26. This sub-component will focus on technical assistance to producers, producer groups and agri-businesses for the 
+formulation of business plans that normally bundle three key elements: i) investment in equipment, ii) working capital, 
+and iii) technical assitance for productivity improvement and entrepreneurial capacity. The sub-component will finance 
+the preparation and implementation of business plans for proposed investments, including: (i) business skills and 
+organizational training for small-scale producers; (ii) preparation of subprojects, including information on financial cash 
+flow as per bank requirements, including the formulation of matching grants15 for capital investments in equipment, 
+machinery, processing units16, packaging, storage, etc., (iii) specific technical studies and consultancies that would 
+contribute to the implementation and the execution of approved business plans; (iv) a communication strategy designed 
+to raise awareness of and stimulate participation of the SME agribusinesses in the project; (v) support banks with 
+developing methodologies suitable for assessing credit for the types of investments and beneficiaries of the project.  
+ 
+27. The scope of the business plan will depend on the capacity of producers and the complexity of the sought 
+investment. Activities will take place on- and off-farm. To enable greater participation of potential beneficiaries, emphasis 
+will be placed on improving the entrepreneurial capacity of producers by providing technical assistance and seed capital 
+for analysis of investment options. The business plans will also include public good/ compliance elemtns (environemntal 
+and social aspects, food dafety compliance, etc.). Strict eligibility criteria will be set forth to enable the participation of 
+small and medium producers. The selection and eligibility criteria and the governance and management aspects of the 
+matching grants will be detailed in a Grant Operational Manual to be formulated during project prepration.  
+ 
+Sub-component 1.2: Improving productivity and competitiveness (US$30 million) 
+ 
+28. This sub-component will focus on improving the productivity and competitiveness of project beneficiaries through 
+specific investments, as defined in the business plans and implemented through matching grants (defined in Component 
+1). The total cost of the business plan depends on the type of investment, the amount of working capital and the scope of 
+the technical assistance. This cost also varies by the productive activity and the typology of the producers. For example, 
+in Montenegro (under the MIDAS project), the total cost for agricultural producers ranges between 10,000 and 70,000 
+euros, while for agricultural processors it ranges between 50,000 and 250,000 euros. In Kosovo, the range for producers 
+ranges between 10,000 and 100,000 euros, while for processors it is between 30,000 and 400,000 euros. The project will 
+finance only a share of this cost (through a marching grant of typically 50%), as a one time incentive to leverage private 
+investment, including own resources and/or credit. 
+ 
+29. The sub-component will finance i) the use of good environmental and agricultural practices to improve on-farm 
+productivity, ii) in on-farm inputs and equipment required for the optimizatoin of production and/or diversification, as 
+well as technical advice for the use inputs, technologies, alternatives, etc., iii) support digital agriculture approaches to 
+improve productivity on-farm and enhance linkages between producers and markets, iv) support compliance with food 
+safety standards, traceability, geographic denomination of origin and other market-related activities as part of the 
+improvement of the competitive position of beneficiaries; v) carry out market demand assessments to identify differential 
+market potential for products; vi) support beneficiary participation in trade fairs and other events; vii) support the 
+commercialization of agricultural products by improving access to medium-term finance, providing start-up capital for 
+
+                                            
+15 There is a strong public good argument for using matching grants – stimulate cross compliance (improving enviornmental outcomes), stimulate 
+use of innovations, new technologies, development of skills, modernization, horizontal integration, financial inclusion. Through the project, capacity 
+for the use of matching grants will be improved in the sector, which can lead to a consecutive better absorption of IPARD grants. 
+16 Under IPARD grants, investment grants for processing facilities is only provided for new structures; national rural development program can provide 
+investments for rehabilitation and upgrade of existent facilities.  
+
+
+
+     
+
+small- and medium-sized farms involved in productive partnerships, and by ensuring the availability of financing for value 
+chain support. Considering the high risk of lending to small producers, the project will support the enabling environment 
+for de-risking by working with existent public credit guarantee funds. There are various guarantee schemes applicable to 
+Serbian agriculture and, in particular, the EIF and DCA17, which the project seeks to leverage as a risk mitigating mechanism 
+for crowing-in private investment through lending by commercial banks.  
+ 
+ 
+Component 2: Improving the capacity of MAFWM to support modern agriculture (US$10 million) 
+ 
+30. The objective of this component is to improve capacity of MAFWM and related agencies to facilitate the enabling 
+environment for improved sector performance through evidence-based policy making and provision of public goods, such 
+as information systems and open data platforms. A digital platform for decision making18 will benefit all agricultural 
+producers of Serbia, whether they apply for support through IPARD or national program or don’t. A unique registry 
+system19 would be required to support decision making and to also support pension reform efforts in the country.   
+ 
+Sub-component 2.1: Improving information systems 
+ 
+31. This sub-component will support the Ministry of Agriculture Forestry and Water Management (MAFWM) to 
+modernize its information systems and strengthen its decision-making capacity, through the improvement of hardware, 
+software and human capacity for information support to the sector. Modernizing the information systems is critical in the 
+process of alignment to EU CAP, including sanitary and phytosanitary (SPS) delivery and monitoring, advisory information, 
+land parceling (LPIS), paying agency data management, etc. In addition, the project will support a digital producer 
+identification card (“one card”) to enable the better monitoring of the access to resources, support services and 
+information by all farmers in the country. The project will finance the following: i) technical assistance to improve the 
+coordination within and across existing information systems across Directorates and enhance delivery of information for 
+decision making at different levels; ii) acquisition of hardware and software to improve the scope, functionality and 
+compatibility of information systems and establish digital data collection and processing of current paper-based processes. 
+ 
+32. The project will also assist the Ministry of Agriculture Forestry and Water Management (MAFWM) with technical 
+assistance to develop capacity to assess the demand, structure, and modalities for agricultural Guarantee agency in Serbia, 
+similar to these in other neighboring and EU countries, with the potential of establishing in the medium term such a 
+guarantee agency (state-owned or PPP). Options to capitalize the guarantees would also be part of the assessment. 
+ 
+ 
+Sub-component 2.2: Open data platform 
+ 
+33. This sub-component will establish an open, public information platform where key information is accessible to all 
+agriculture stakeholders. The project will finance the software, hardware and technical assistance required for the set-up 
+
+                                            
+17 Two public donor guarantee schemes with agricultural windows are expected to be available in early 2020 – European Investment Fund (EIF) 
+(backed by EU funding) and the DCA (guarantee facility of USAID), still under negotiations with MAFWM – and can be tapped on by commercial banks 
+in the first couple of years of project implementation. IFC is already engaged with the EIF. Although a public guarantee fund exists in Serbia (the 
+Serbian Development Fund, SDF), it is weak and does not cater to agriculture. Hence, a capacity building (through a TA) activity may be warranted 
+under the project to provide guidance on future needs by the public sector for unlocking private investment in agriculture. 
+18 A PHRD grant on strengthening M&E capacity of MAFWM, implemented in parallel to this project, will support this platform thro ugh capacity 
+building within the Ministry and technical assistance, as needed. 
+19 For example, only farm household applying for IPARD grants are registered in the national farm registry (around 335,000), excluding a large number 
+of agricultural producers. 
+
+
+and functionality of the platform. Access to important production and market information, including weather variables, 
+prices of key products, etc. is critical for on and off-farm decisions. This platform can also be a support system for advisory 
+services in Serbia and can link to digital approaches on farm, ensuring a two-way communication on plan and animal 
+health, and other risks that can constrain agricultural competitiveness. Maintaining the content and enabling public access 
+to this platform is a key role that the Ministry can play in the enabling environment for agricultural sector transformation.  
+ 
+34. A digital information platform can play an important role for the spatial tracking and connectivity of production 
+and market demand, thus contributing to improved positioning of products, sales and overall competitiveness. In addition, 
+by including weather and climate information modeling, the project could contribute to early warning systems, helping 
+producers to better prepare and adapt to changing climatic conditions. The project will use existing digital agriculture tools 
+and will collaborate with private sector IT companies for finetuning electronic delivery mechanisms for monitoring 
+production, access to technical information, traceability of goods and identification of market opportunities.  
+ 
+Component 3: Project Management, Monitoring and Evaluation (US$5 million) 
+ 
+35. This component will support the establishment of a project management team (PMT) in the Directorate of 
+Agrarian Payments (DAP) and capacity needs related to project implementation, as well as project monitoring, including 
+a comprehensive baseline, mid-term review and a final impact assessment of project investments.  
+ 
+    
+ 
+Legal Operational Policies                                  Triggered? 
+
+Projects on International Waterways OP 7.50 No 
+
+Projects in Disputed Areas OP 7.60 No 
+
+ 
+Summary of Screening of Environmental and Social Risks and Impacts 
+
+ 
+The project is classified as Moderate Risk taking in account the low risk nature of the interventions, the limitations on 
+implementation capacity, the application of environmentally friendly practices and new technologies, and the difficulty 
+of enforcing workers’ rights in multiple SME agribusinesses. No adverse impacts such as involuntary land acquisition, 
+impacts on community health and safety, on cultural heritage, are expected. Some of the project funded activities may 
+include support to small scale community agriculture that is undertaken within areas under some level of environmental 
+protection. The project will introduce new technologies and support improvement of technical knowledge and skills of 
+beneficiaries on, amongst other, water and energy efficiency, pollution prevention and best practice use of herbicides 
+and pesticides. The project’s anticipated social impacts are predominantly positive, such as increased income and 
+employment in the agricultural sector as well as protection from climate related economic losses for farmers through the 
+introduction of an early warning system. As labor informality is prevalent in the agricultural sector, the Borrower will 
+prepare Labor Management Procedures to manage risks related to workers’ rights in project supported agribusinesses. 
+The environmental and social screening criteria developed for the agricultural grant schemes and the credit guarantee 
+fund will screen for relevant risks and apply mitigation hierarchy. 
+
+ 
+
+ 
+ 

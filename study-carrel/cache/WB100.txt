@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED 
+SAFEGUARDS DATA SHEET (PID/ISDS)  
+
+CONCEPT STAGE
+Report No.: PIDISDSC15495
+
+Date Prepared/Updated: 28-Dec-2015
+I. BASIC INFORMATION
+
+  A.  Basic Project Data
+
+Country: India Project ID: P155617
+Parent 
+Project ID 
+(if any):
+
+Project Name: Assam Agribusiness and Rural Transformation Project (P155617)
+Region: SOUTH ASIA
+Estimated 
+Appraisal Date:
+
+05-Sep-2016 Estimated 
+Board Date:
+
+22-Dec-2016
+
+Practice Area
+(Lead):
+
+Agriculture Lending 
+Instrument:
+
+Investment Project Financing
+
+Sector(s): Agricultural extension and research (20%), Agro-industry, marketing, and trade 
+(30%), Crops (20%), General agriculture, fishing and forestry sector (20%), 
+Animal production (10%)
+
+Theme(s): Rural markets (40%), Rural services and infrastructure (40%), Trade facilitation 
+and market access (20%)
+
+Borrower(s): Republic of India
+Implementing 
+Agency:
+
+Assam Rural Infrastructure and Agricultural Services (ARIAS) Society
+
+Financing (in USD Million)
+Financing Source Amount
+BORROWER/RECIPIENT 50.00
+International Development Association (IDA) 200.00
+Total Project Cost 250.00
+
+Environmental 
+Category:
+
+B - Partial Assessment
+
+Concept 
+Review 
+Decision:
+
+Track II - The review did authorize the preparation to continue
+
+Is this a 
+Repeater 
+project?
+
+No
+
+Other Decision 
+
+
+
+(as needed):
+
+B. Introduction and Context
+
+Country Context
+1.      During the last decade, India’s economy expanded at an average annual rate of 7.6 percent, 
+and projections are for the high growth rate to continue.  Despite the headline figures on growth, 
+concerns linger about the pattern of growth. India continues to face daunting challenges in 
+reducing the number of poor, creating jobs, and achieving shared prosperity. Long term 
+agricultural growth remains volatile, fluctuating around 3 percent per year.  With India’s labor 
+force predominantly in rural areas, and about 68 percent employed in agriculture, the political, 
+social and economic importance of agriculture continues. 
+ 
+2.      The Government of India (GoI) recognizes the important role of agriculture in the ongoing 
+rural-urban transformation process and the potential it represents as an important source of growth 
+and job creation.  The GoI also recognizes the necessity of strategic shifts for structural 
+transformation of Indian agriculture to tap into this potential of growth and job creation.  These 
+shifts reflect underlying trends in demand for food and factors affecting the supply of agriculture 
+produce, and include:  (i) a shift away from a focus on foodgrain production towards 
+diversification into high value agriculture production of fruits, vegetables, dairy, etc.; (ii) a shift 
+away from a focus on on-farm production towards value addition in the post-harvest segments of 
+agriculture value chains; (iii) a shift away from a focus on productivity towards resilience of 
+agriculture production systems for addressing the effects of climate change; and (iv) a shift away 
+from a focus on agriculture production towards nutrition sensitive agriculture. 
+ 
+3.       To facilitate these four shifts, GoI has launched a number of policies and initiatives since 
+2014. These include, among others, a technology driven second green revolution with a focus on 
+higher productivity and diversification; a “National Adaptation Fund” to meet the challenges on 
+climate change; a nationwide District Level Incubation and Accelerator Programme” focusing on 
+micro, small and medium enterprise (MSME) sector; and a scheme for promotion of a National 
+Agricultural Market to accelerate the integrated development of agriculture marketing and trade. 
+ 
+4. Consumer demand for food commodities in India is rapidly changing, fueled by strong 
+economic growth.  The structural shift in consumption pattern away from cereals to high value 
+agricultural commodities is seen both in rural and urban areas.  This in turn is generating growing 
+domestic demand for higher quality/value agricultural commodities (including animal proteins) as 
+the share of cereals and staples in food expenditure declines, whilst that of animal proteins, fruits 
+and vegetables increases.  This provides opportunities for farmers to obtain higher incomes from 
+increasingly smaller holdings. 
+ 
+5. Signaled by changes in consumers’ food baskets, India’s agriculture and agri-food marketing 
+system is poised for a profound transformation.  The agri-food marketing system is changing from 
+ad hoc transactions towards coordinated systems like cooperatives, producers’ associations and 
+contract farming.  Public policy has been proactive in facilitating this transformation.  The central 
+and state governments have taken important policy initiatives, such as de-regulation of food 
+industry, enactment of an integrated food law, de-monopolization of agricultural markets, 
+reduction in excise duties on manufactured food products, and priority sector lending to food 
+industry to strengthen agriculture-industry linkages. 
+
+Food processing is a “sunrise sector” and its share in GDP is on a continuous rise, with a 
+compound annual growth rate of 8.4 percent. According to the Annual Survey of Industries 
+2012-13 the food processing sector ranks first amongst all industry groups, both in terms of total 
+number of factories (16%) and  number of factories in operation (16%), and third in terms of total 
+output (12%), next only to ‘coke and refined petroleum products’ and ‘basic metals’.  More 
+importantly, this sector is the largest employer amongst all industry groups, accounting for 11.59 
+per cent of industry employment in India.  Its employment intensity can be seen by the fact that 
+for every INR 1 million invested, 18 direct jobs and 64 indirect jobs are created in organized food 
+processing industry.  Furthermore, food in India has an economic multiplier of 2-2.5, thus 
+implying that not only the food products industry can be the antidote for India’s jobless growth, 
+but that such a scenario may come at a relatively low (fixed capital) cost. 
+ 
+7. Transition to high value commodities and opportunities in agro-food processing underscores 
+the enormous potential for commercialization and income growth in agriculture (including small 
+holder) as production, consumption and trade shift from traditional food crops to horticulture and 
+other non-traditional (high value) commodities.  Moreover, relative to other countries, India has 
+considerable comparative advantages in having a very large (growing and largely un-tapped) 
+domestic market, which reduces reliance on exports as the principal driver for near term 
+agriculture growth.  Nonetheless, beyond the domestic market there are also strong comparative 
+and competitive advantages in developing high value agricultural trade, which is currently 
+negligible.
+Sectoral and Institutional Context
+8. In Assam, agriculture and related sectors are the principal occupation of the vast majority of 
+rural population in terms of employment and livelihood. About 90 percent of state’s population 
+lives in rural areas and is mostly dependent on agriculture for their livelihoods.  Agriculture and 
+the allied sectors directly or indirectly support more than 75 percent of the population, providing 
+employment to about 50 percent of the total workforce.  While the average operational holding in 
+India is 1.10 hectare, Assam’s farmer families are predominantly small and marginal (85%) with 
+an average land holding of only 0.63 hectare. 
+ 
+9.      The recently concluded the Assam Agricultural Competitiveness Project (AACP) was 
+instrumental in increasing cropping intensity, on-farm productivity and diversification of 
+agriculture in the state. Supported by AACP and other Government of Assam (GoA) initiatives, 
+high value horticulture has seen a significant growth in production - the annual growth rate of 
+production of fruits, spices and vegetables was 19.2, 6.4 and 72.2 percent respectively in the last 
+decade, with Assam contributing significantly to national production in commodities like ginger, 
+banana, pineapple, litchi, etc. As such AACP has laid the foundations for long term agriculture 
+transformation in the state by shifting the focus from rice production towards diversification into 
+high value agriculture production (vegetables, spices, fish, dairy etc.).  This move towards higher 
+value products offers opportunities to increase contribution of agriculture to Assam’s growth. 
+ 
+10. Diversification to higher value commodities and opportunities in specialized commodities 
+reflect significant opportunities and challenges for farming communities in Assam:  growing 
+specialized commodities would need adoption of rapidly changing technologies and quality 
+standards.  Smallholder farmers face significant challenges in learning about and adopting rapidly 
+changing agriculture technologies.  The Bank supported AACP has successfully introduced the 
+Agricultural Technology Management Agency (ATMA) model, a participatory, decentralized 
+
+
+
+planning, funding and implementation of technology dissemination to district, block and village 
+levels in partnerships with farmer groups, and different line departments.  While the ATMA 
+platform has introduced improvements in technology transfer and demand driven extension, the 
+current approach focuses mainly on production related issues.  Its capacity needs to be 
+strengthened to enhance the ability of farmers to adopt efficient and market led production and 
+post-harvest practices for meeting the volume, timing and quality requirements of different 
+markets. 
+ 
+11. The key constraints in structural transformation of agriculture in Assam are limited market 
+access, poor post-harvest handling infrastructure and fragmented supply chains:  agriculture 
+marketing in Assam is characterized by a multiplicity of regulatory authorities in the state (viz., 
+local panchayats, municipalities and state agriculture marketing board).  Reforms would be 
+needed not only to harmonize the regulatory regime in the state, but also for the development of 
+alternative marketing options for farmers.  The supply chain is characterized by the dominance of 
+middlemen at different levels, involving pre-harvest contractors, forwarding agents, commission 
+agents, wholesalers, sub-wholesalers and retailers.  The existence of multiple intermediaries 
+causes prices to snowball with each transaction.  Despite the comparative production advantage in 
+agriculture and allied commodities, and emerging marketing opportunities, conversion of this 
+advantage into competitive food processing industries has proved to be a challenge in the state.  
+There is low investment in assets and limited technology penetration across the food processing 
+sector in the state, even though this sector contributes about 22 percent of the industrial output 
+and represents 26 percent of gross value add of the state.  The food processing sector is largely 
+unorganized and operates on a small scale.  Facilitating the development of organized Micro, 
+Small and Medium Enterprises (MSME) both for value addition and job creation, would require 
+handholding, business facilitation services, and facilitation of access to financing, along with 
+critical regulatory changes for agro and allied MSMEs to flourish in the state. 
+ 
+12.     GoA recognizes that creating conditions for agriculture based rural transformation in the 
+long term would require:  (i) a shift away from a focus on on-farm production towards value 
+addition in the post-harvest segments of agriculture value-chains; (ii) a focus on productivity 
+towards resilience of agriculture production systems in order to deal with the effects of climate 
+change; and (iii) creating the necessary conditions for the emergence of a dynamic agri-business 
+and enterprise sector in Assam.  Furthermore, GoA at the highest level is committed to 
+transforming the agriculture and allied sector to a more commercial and market oriented 
+production; promoting MSMEs and implementing necessary reforms for realizing the project 
+goals. GoA has also stated its intention that this project will form the nucleus of a much larger 
+government agribusiness and rural transformation program. Fundamentally this will involve 
+mainstreaming of project’s initiatives in government programs and policies as well as 
+convergence of various public programs to deliver along the objectives enshrined in this project. 
+Especially the government will oversee the refocusing and strengthening of training and human 
+resources program to support (agriculture) enterprise development activities in Assam.
+Relationship to CAS/CPS/CPF
+13.   The proposed World Bank support to this project is consistent with the current Country 
+Partnership Strategy (CPS) for India (2013-2017). The CPS outlines Bank support to India under 
+the three pillars of integration, transformation and inclusion with a cross-cutting focus on 
+improving governance, environmental sustainability and gender equality.  The proposed project is 
+aligned along at least two of these three pillars – transformation, and integration.  Under 
+transformation, the project will directly help achieve one of the intended outcomes of the CPS, 
+
+
+
+which is increase investor confidence and inward financial flows into the agriculture sector (CPS 
+para 43).  The broader objective would be to instill a collective entrepreneurial spirit where 
+producers shift from being “price takers” of primary produce, with no or very little influence over 
+the market to being more business and value focused.  A key project thrust will be on enhancing 
+agglomeration of producers to improve economies of scale in producing, processing and 
+marketing.  In parallel with this, the project will support agriculture and livestock productivity 
+(including value and incomes) through essential technology transfer in production and improved 
+post-harvest and market operations, and also explore and pilot possible financing modalities to 
+support entrepreneurship and agri-business (CPS outcome 2.4 para 86 and 89).  Overall, the 
+support of the project to the development of higher value commodities and more efficient supply 
+chains will underpin ongoing structural transformation of the economy (CPS para 34).  Under 
+integration, the project offers the opportunity to increase gross state domestic product (GSDP) 
+growth by stimulating private sector investment and agri-enterprise development in Assam, a 
+special category state. (CPS, Outcome 1.4).  
+ 
+14.   The project will also leverage the pent-up demand and natural resource advantages of the 
+state as well as improve the investment climate (CPS para 72).  In particular, the focus will be on 
+processed food, agribusiness, logistics and infrastructure, and MSME finance and insurance. The 
+project will establish a new standard of excellence for entrepreneurship and business skills 
+training by improving skills and knowledge transfer from trainers to MSMEs (CPS, Outcome 
+1.3). Furthermore, the proposed project is aligned with the WBG’s goal of promoting shared 
+prosperity.
+
+C.  Proposed Development Objective(s)
+
+Proposed Development Objective(s) (From PCN)
+15. The proposed Project Development Objective (PDO) is to “increase value-added and 
+improve resilience in the production and processing of selected agriculture commodities, focusing 
+on small farmers and agro-entrepreneurs in targeted districts”.  
+ 
+16. Project beneficiaries will include farmers and entrepreneurs especially in the MSME 
+segment.  Others would include farmer producer organizations, sector management companies, 
+and other value chain participants.  During preparation, specific attention would be given to 
+gender inclusion in project design and implementation arrangements. The methodology followed 
+to identify targeted districts is elaborated in the Annex 3, attached to the PCN.
+
+Key Results (From PCN)
+17. The Key Project Indicators (KPI) will be:  
+ 
+a) Increase in value addition by agri-enterprises; 
+b) New agri-enterprises established in the targeted districts; 
+c) Number of jobs created, including for women (percent); 
+d) Increase in value of agricultural marketed output per farm (in formal partnership);  
+e) Increase in market oriented production – (% of farmer and area under cultivation); and  
+f) Direct project beneficiaries (number), of which female (percentage).
+
+D.  Concept Description
+
+18.   The proposed project would support, value addition in the production and post-harvest 
+segments of selected agriculture value-chains; facilitate agribusiness investments through 
+
+
+inclusive business models that provide opportunities to small farmers as well as stimulate the 
+establishment of new small and medium agribusiness enterprises; and support resilience of 
+agriculture production systems in order to better manage increasing production and commercial 
+risks associated with climate change, in the targeted districts . The project would adopt a cluster 
+strategy within the targeted districts to generate economies of scale; promote vertical and 
+horizontal links between local agricultural enterprises; enable diffusion of innovations; leverage 
+network externalities; and channel public support for services and infrastructure. By adopting a 
+cluster approach, the project would enable all the value chain participants to develop competitive 
+and innovative products that meet market demands rapidly and successfully. 
+ 
+19.    The project would achieve the PDO by:  (i) promoting investments in agri-enterprises, 
+reducing the business and transaction costs, facilitating access to finance for agribusiness 
+entrepreneurs, and, where appropriate, push for process, regulatory and/or policy change; (ii) 
+supporting the development of a modern supply chain; improved information communication 
+technologies (ICT) based farm information and intelligence services, and alternative marketing 
+channels; and (iii) improving producer’s access to knowledge, technologies and infrastructure so 
+that they are able to respond to market opportunities and climate variability. 
+ 
+20.    By simultaneously intervening along multiple dimensions of the growth nexus (business 
+environment, key infrastructure, access to basic services, local governance), the proposed project 
+aims to remove key constraints to business development and strengthen the platform for growth in 
+agriculture and allied sectors within targeted districts.  By doing so, it will contribute to the key 
+aspects of the GoI, GoA and the Bank’s CPS strategic objectives related to faster and broader 
+agriculture sector growth and inclusive development. In line with the PDO, the project will have 
+the following components. 
+ 
+Component A: Support to Agri Enterprise Development 
+ 
+21. The focus of this component to enhance the pace of agricultural enterprise growth and 
+employment in the targeted districts.  This would be done by establishing a cohesive institutional 
+platform, and securing increased private sector investment in the development of value chains, 
+processing and marketing in the targeted districts. 
+ 
+Component B: Farm - Market Infrastructure Development 
+ 
+22. The focus of this component is to establish a modern supply chain from farm to market that 
+would enable farmers and other value chain participants to access new markets. This would be 
+done by enabling secondary and tertiary processing that creates higher value for the produce; 
+improving value realization at the farm level through improved sorting, grading and packing of 
+produce that enhances the average price realized; supporting a supply chain infrastructure that 
+prevents wastage and value erosion in transportation, and allows access to more distant markets; 
+and supporting the development and up-gradation of basic and agriculture-specific infrastructure, 
+including transportation linkages, warehousing capacity and wholesale market facilities. 
+ 
+Component C: Market-led Production and Resilience Enhancement 
+ 
+23.  The focus of this component is to enable farmers in the targeted districts to take advantage of 
+the rapidly changing consumer demand and ensuring resilience of agriculture production systems 
+
+
+in order to better manage increasing production and risks associated with climate change.  This 
+would be done by diversification of their farm production; and introduction of climate resilient 
+solutions. 
+ 
+Component D: Project Management, Monitoring and Learning 
+ 
+24. This component will ensure effective implementation of the project activities and monitor and 
+evaluate project implementation progress, outputs and outcomes, building on implementation 
+experience of AACP.  The component will support: (i) establishment and operations of a Project 
+Coordination Unit (PCU), which will oversee and coordinate activities of the implementing 
+agencies of the project; (ii) establishment and operations of Project Implementation Units in the 
+respective implementing agencies; and (iii) setting up of a monitoring and evaluation (M&E) 
+system for the project, including a project management information system, and contracting an 
+external M&E agency to monitor project activities and impact. This component will also finance 
+dedicated staffing for the project activities, consultancies, training and related material, office 
+equipment, and incremental operational costs. The Project will provide investment and technical 
+support for the establishment of a sound management information system and information and 
+communication technology (ICT) systems and accompanying capacity strengthening of key 
+personnel. 
+ 
+25.      Green House Gas (GHG) Accounting: In accordance with guidelines for IDA 17 projects, 
+GHG accounting for the proposed Project will be undertaken during the preparation phase. This 
+analysis will help to measure the impact of the project on the GHG footprint and also guide 
+investments that contribute to climate mitigation, given that world-over agriculture investments 
+account of 25% of the GHG emissions. The conceptual framework of the proposed project 
+indicates there could be reduced GHG emissions and carbon sequestration benefits as a result of 
+interventions such as adoption of improved cropland management, plant nutrient management and 
+conservation farming practices, soil health/fertility enhancement, whereas increased emissions 
+and decreased carbon stocks could result from cropland expansion and increased electricity and 
+fuel consumption during past harvest management, processing and transportation.  There is a 
+paucity of specific carbon accounting data for the agri-horticulture sector.  The implementing 
+agency will coordinate with the relevant departments to collect the relevant data for these 
+analyses.  Furthermore, the recently concluded AACP and other government and donor-aided 
+projects will provide a basis for developing carbon balance estimates for the proposed project.  
+This accounting exercise will be undertaken using established methodologies that are consistent 
+with the international best practice to measure GHG emissions in the proposed project.  The ex-
+ante carbon balance tool developed by FAO has been selected as the primary tool for GHG 
+accounting in agriculture. The analysis will be carried out by a World Bank team during the 
+project preparation phase in close collaboration with state government counterparts and will be 
+finalized by project appraisal.
+
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard 
+analysis (if known)
+Though the project location and boundaries are yet to be established, it is expected to cover most of 
+the state, and would comprise of critical landscape features, ranging from hills and mountains on the 
+one hand and floodplains and wetlands on the other. Water quality in Assam has often come under 
+scrutiny for presence of natural fluorides, iron and arsenic. Assam is also endowed with a good forest 
+
+
+cover and rich biodiversity that is well protected with several designated Protected Areas. The 
+project will support small infrastructure development including rural roads that may require land and 
+leading to minimal adverse impact on people including those who belong to Schedule Tribe, 
+Schedule Caste and other vulnerable groups. Proposed agri-infrastructure development under the 
+project could have adverse impacts on natural features, such as, wetlands, if not sited and built 
+appropriately. Disposal of construction waste would require monitoring, as it could block natural 
+drainage channels if dumped casually. Such impacts would necessitate an Environmental and Social 
+Assessment (ESA) and management plans and/or framework for managing adverse environmental 
+and social impacts and risks.
+
+B. Borrower’s Institutional Capacity for Safeguard Policies
+The state is well versed with the Bank’s safeguard policies, as it has, over the past several years, 
+implemented the World Bank funded projects including the recently concluded Assam Agricultural 
+Competitiveness Project (AACP) wherein the safeguards have been rated as Highly Satisfactory in 
+the Implementation Completion and Results Report. The ARIAS society, earlier supported under 
+AACP would be responsible for implementing the project’s environmental and social safeguards. 
+ARIAS Society would be suitably staffed for this purpose. An ESA will be undertaken that would 
+identify the potential adverse environmental and social impacts and risks. The ESA would develop 
+and include an Environment and Social Management Framework (ESMF) that would have 
+appropriate mitigation guidance for complying with the Bank’s safeguard polices. The proposed 
+ESMF would draw from the experience of implementing the existing one for AACP and build upon 
+new activities that would be supported under this project, including wider dissemination and use of 
+the Integrated Pest Management Plan developed under AACP. A good reporting mechanism on 
+safeguards already exists in AACP and will be continued. At present all project locations are not 
+known, therefore the use of framework is proposed. The ESA would be undertaken based on a 
+sample of locations covering most of the proposed investment activities under the project. Therefore, 
+even though the nature and scope of investment activities would be known, it may so happen that 
+actual physical locations may not be known until an advanced stage of preparation. Therefore, an 
+ESA will be done during preparation but an ESMF would be used during implementation. As far as 
+possible and as the project design evolves, the borrower would ensure that some of the sampling 
+locations and sites for the ESA are actual locations/sites proposed for project interventions. In 
+addition, the proposed ESMF would include a screening mechanism that would allow for preparation 
+of specific EMPs to mitigate adverse impacts of infrastructure investments, once exact location and 
+design of infrastructure activities are identified. These would be particularly required for rural feeder 
+roads, rural markets and supply chain infrastructure. At this stage, neither the scope and nature of 
+infrastructure investments nor the locations are known. By appraisal, the borrower will develop site-
+specific EMPs for infrastructure whose locations have been determined and detailed technical 
+designs completed.
+
+C. Environmental and Social Safeguards Specialists on the Team
+Anupam Joshi (GEN06)
+Mridula Singh (GSU06)
+
+D. POLICIES THAT MIGHT APPLY
+
+Safeguard Policies Triggered? Explanation (Optional)
+Environmental Assessment Yes An ESA is required as the project is likely to support 
+
+new activities that were not included in the recently 
+
+
+
+OP/BP 4.01 completed AACP.
+
+Natural Habitats OP/BP 4.04 Yes The State has a widespread network of naturally 
+occurring wetlands (beels) and would require 
+mapping of potential impacts through project 
+supported infrastructure and other agricultural 
+investments.
+
+Forests OP/BP 4.36 No The project is unlikely to bring any management 
+changes to the State’s forest resources that are 
+governed under a robust national law.
+
+Pest Management OP 4.09 Yes There is likelihood of use of pesticides and other 
+agrochemicals once project investments are realized. 
+The project would promote the wider use of the Pest 
+Management Plan and Integrated Pest Management 
+Plan that was developed under AACP.
+
+Physical Cultural Resources 
+OP/BP 4.11
+
+No The project will not impact any physical, cultural 
+and/or religious sites and will be implemented in 
+areas where agriculture is already practiced.
+
+Indigenous Peoples OP/BP 
+4.10
+
+Yes The policy is triggered, accordingly a Tribal 
+Development Framework will be prepared to address 
+impact. It will also include an action plan to ensure 
+that equal opportunities are provided to access 
+benefits.
+
+Involuntary Resettlement OP/
+BP 4.12
+
+Yes The policy is triggered as land may be required for 
+the small infrastructure and rural roads. Resettlement 
+Policy Framework including Social Management 
+Framework will be prepared.
+
+Safety of Dams OP/BP 4.37 No The project will not support construction, 
+refurbishment and replacement of equipment etc. of 
+any dams. It also does not support rehabilitation of 
+existing or building any new irrigation schemes 
+originating from existing dams in the State.
+
+Projects on International 
+Waterways OP/BP 7.50
+
+TBD During project preparation applicability of this policy 
+would be determined based on a technical analysis.
+
+Projects in Disputed Areas OP/
+BP 7.60
+
+No Project activities do not fall in any disputed areas.
+
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+01-Sep-2016
+2. Time frame for launching and completing the safeguard-related studies that may be 
+needed. The specific studies and their timing should be specified in the PAD-stage 
+ISDS.
+The safeguards documentation would require four to six months for completion from the time it is 
+started. We expect it to be ready by September 2016.
+
+

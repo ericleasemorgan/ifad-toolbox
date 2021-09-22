@@ -1,9 +1,6 @@
 id	sid	eid	entity	type
 WB10	1	1	World Bank Document	ORG
 WB10	1	2	Second	ORDINAL
-WB10	1	3	Second	ORDINAL
-WB10	1	4	2	CARDINAL
-WB10	1	5	8	CARDINAL
 WB10	2	1	Basic Project Data OPS TABLE Country Project ID Project Name Parent Project	ORG
 WB10	2	2	Benin P166115	PERSON
 WB10	2	3	Second	ORDINAL
@@ -29,8 +26,6 @@ WB10	3	14	PID	ORG
 WB10	3	15	the IDA Credit	ORG
 WB10	3	16	US$ 15 million	MONEY
 WB10	3	17	US$ 180 million	MONEY
-WB10	4	1	The World Bank Benin Second Fiscal Reform and Growth DPF	ORG
-WB10	4	2	3	CARDINAL
 WB10	5	1	approximately US$830	MONEY
 WB10	5	2	2017	DATE
 WB10	6	1	about 50 percent	PERCENT
@@ -51,11 +46,7 @@ WB10	15	2	DSA	ORG
 WB10	15	3	Benin	PERSON
 WB10	16	1	Benin	ORG
 WB10	17	1	second	ORDINAL
-WB10	18	1	The World Bank Benin Second Fiscal Reform and Growth DPF	ORG
-WB10	18	2	4	CARDINAL
-WB10	18	3	8	CARDINAL
-WB10	18	4	CPF	ORG
-WB10	18	5	the World Bank	ORG
+WB10	18	1	the World Bank	ORG
 WB10	19	1	The Country Partnership Strategy	ORG
 WB10	19	2	CPS	ORG
 WB10	20	1	75774-BJ	CARDINAL
@@ -81,9 +72,7 @@ WB10	28	2	Benin	PERSON
 WB10	30	1	first	ORDINAL
 WB10	31	1	second	ORDINAL
 WB10	33	1	third	ORDINAL
-WB10	34	1	5	CARDINAL
-WB10	34	2	8	CARDINAL
-WB10	34	3	1	CARDINAL
+WB10	34	1	1	CARDINAL
 WB10	35	1	2016	DATE
 WB10	35	2	almost 20 percent	PERCENT
 WB10	35	3	1.9 percent	PERCENT
@@ -104,10 +93,8 @@ WB10	51	1	Euro	FAC
 WB10	52	1	PBG	ORG
 WB10	54	1	the Net Present Value	ORG
 WB10	55	1	E. Implementation Institutional and Implementation Arrangements	ORG
-WB10	55	2	6	CARDINAL
-WB10	55	3	8	CARDINAL
-WB10	55	4	The Ministry of Economy and Finance	ORG
-WB10	55	5	FRG	ORG
+WB10	55	2	The Ministry of Economy and Finance	ORG
+WB10	55	3	FRG	ORG
 WB10	56	1	Cellule de Suivi des Programmes	ORG
 WB10	56	2	CSPEF	ORG
 WB10	58	1	CSPEF	ORG
@@ -138,9 +125,6 @@ WB10	72	2	Benin	ORG
 WB10	72	3	only 6 percent	PERCENT
 WB10	76	1	9	CARDINAL
 WB10	80	1	10	CARDINAL
-WB10	82	1	The World Bank Benin Second Fiscal Reform and Growth	ORG
-WB10	82	2	7	CARDINAL
-WB10	82	3	8	CARDINAL
 WB10	84	1	DPF	ORG
 WB10	84	2	Benin	PERSON
 WB10	85	1	the last 20 years	DATE
@@ -148,14 +132,3 @@ WB10	88	1	98-30	CARDINAL
 WB10	88	2	Decree N	ORG
 WB10	91	1	G. Risks	PERSON
 WB10	93	1	IDA	ORG
-WB10	95	1	The World Bank Benin Second Fiscal Reform and Growth DPF	ORG
-WB10	95	2	8	CARDINAL
-WB10	95	3	8	CARDINAL
-WB10	95	4	CONTACT POINT World Bank	ORG
-WB10	95	5	Andrea Coppola	PERSON
-WB10	95	6	Benin Implementing Agencies Ministry of Economy and Finance	ORG
-WB10	95	7	Washington	GPE
-WB10	95	8	202	CARDINAL
-WB10	95	9	473-1000	CARDINAL
-WB10	95	10	Andrea Coppola	PERSON
-WB10	95	11	Pierre Laporte 25-Jul-2018	PERSON

@@ -1,0 +1,854 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+ 
+
+The World Bank  
+AP Integrated Irrigation& Agriculture Transformation Project (P160463) 
+
+ 
+
+ 
+
+  
+Feb14, 2017 Page 1 of 17 
+
+ 
+
+Project Information Document/ 
+Integrated Safeguards Data Sheet (PID/ISDS) 
+
+ 
+ 
+
+Concept Stage | Date Prepared/Updated: 11-Nov-2016 | Report No: PIDISDSC19733 
+
+
+  BASIC INFORMATION 
+   
+
+  A. Basic Project Data 
+
+Country Project ID Parent Project ID (if any) Project Name 
+
+India P160463  AP Integrated Irrigation 
+& Agriculture 
+Transformation Project 
+(P160463) 
+
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead) 
+
+SOUTH ASIA March 1, 2018 Jul 26, 2018 Agriculture 
+
+Lending Instrument Borrower(s) Implementing Agency  
+
+Investment Project Financing Department of Economic 
+Affairs 
+
+Government of Andhra 
+Pradesh 
+
+ 
+
+ 
+
+ Financing (in USD Million) 
+
+ 
+
+Financing Source Amount  
+
+Borrower   68.08  
+
+International Bank for Reconstruction and Development  170.00  
+
+Total Project Cost  238.08  
+
+Environmental Assessment Category Concept Review Decision 
+
+B-Partial Assessment  
+  
+
+Have the Safeguards oversight and clearance functions been transferred to the Practice Manager? (Will not be 
+disclosed) 
+No 
+ 
+
+Other Decision (as needed) 
+ 
+
+Type here to enter text 
+ 
+B. Introduction and Context 
+ 
+Country Context 
+ 
+1. India has sustained economic growth during last decade: India’s Gross Domestic Product (GDP) for 2016-17 is 
+estimated at 7.6 percent, higher than the 7.2 percent for the preceding year, but lower than the projected 8.1-8.5 
+percent for this year
+
+1
+. Sustained economic growth during the last decade, however, has contributed to annual decline in 
+
+poverty by 1.5 percent, but income inequality has continued to persist. Emerging as one of the fastest growing 
+economies, there has been significant upturn in key development indicators. Life expectancy at birth increased to 68 
+
+                                            
+1
+Economic Survey 2016-17 
+
+
+
+ 
+Years in 2014 from a low of 54 in 1980. India's per capita gross national income increased by about 338 percent between 
+1980 and 2014, from $1,255 in 1980 to $5,497 in 2014. As a result, India has climbed five notches to 130th rank in 
+Human Development Index among 188 countries in 2014
+
+2
+.  
+
+2. Reducing poverty and creating jobs can fuel economy: Sustained economic growth notwithstanding, India 
+remains home to 263 million poor people (80% of whom reside in rural areas) living on less than US$1.90/day. Expansion 
+of the economy in recent decades has largely resulted in jobless growth. For addressing these issues, Govt. of A.P has set 
+an ambitious goal of achieving an annual growth rate of 8.2 percent, reducing poverty by 10 percent (poverty in the 
+State is on a decline and currently stands at 9.2%, as per Socio-Economic Survey 2016-17), and creating 50 million new 
+jobs.. It has been argued that adequate attention to agriculture could fuel growth, create  jobs and reduce poverty. In 
+the wake of consecutive low monsoon rainfall and consequent decline in farm productivity, agriculture has served a 
+wake-up call, demanding attention from policy makers. 
+
+3. Agriculture sector continues to lag behind: The issues of inclusive growth and gainful employment are major 
+challenges in rural areas where two-thirds of the workforce resides. About 66 percent of the labor force is employed in 
+agriculture sector which accounts for 14 percent of GDP, and is saddled with problems of uncertain growth. Per capita 
+land and water availability is decreasing while high intensity rainfall events and dry spells are increasing. Land and labor 
+productivity continues to be low. 
+
+4. Agriculture growth is essential in achieving India’s development goals: During the last 25 years, agriculture 
+sector has not achieved the envisaged growth targets. In 1990s and 2000s, the annual agriculture growth rate was 
+around 3-3.5 percent and declined to less than 1 percent in the last two years (2014-16) due to technology fatigue, 
+degradation of land and water resources, growing water scarcity, exacerbated by two consecutive droughts, floods, 
+cyclones, heat waves, and declining international commodity prices. The growth in agriculture sector in 2015-16 has 
+continued to be lower than the average of the last decade, mainly due to a second successive year of lower-than-normal 
+monsoon. Report from the Department of Agriculture, Cooperation and Farmers Welfare for 2015-16 indicates that the 
+production of food-grains and oil-seeds is likely to decrease by 0.5 and 4.1 percent respectively, while that of fruits and 
+vegetables is likely to witness a marginal increase. 
+
+5. To fuel the agrarian economy, strategic shifts in agriculture would  be aimed  (based on the Socio-economic 
+Survey 2016-17 projections) at: (i) towards high value vegetables, fruits, livestock and fish products; (ii) towards value 
+addition in post-harvest segments; (iii) towards diversification and resilience of farming systems to address climate 
+change effects; (iv) towards nutrition sensitive agriculture; and (v) finally a shift towards improved water use efficiency. 
+
+6. Many new schemes have been launched to effect the proposed shifts in agriculture: Pradhan Mantri Krishi 
+Sinchai Yojana will fast track irrigation coverage and improve water use efficiency in rural areas; Parmparagat Krishi 
+Vikas Yojana aims to reduce input costs by promoting organic farming; Pashudhan Sanjivani, Nakul Swasthya Patra, and 
+E-Pashudhan Haat have been proposed to improve livestock productivity. There is an enormous potential for harvesting 
+gains from transformation of irrigated agriculture as production, consumption and agribusiness shift from traditional 
+cereal crops to horticulture, livestock and fish production. India has a comparative advantage in having a very large and 
+largely untapped domestic market, which reduces reliance on exports as the principal driver and consumer of agriculture 
+growth. 
+
+ 
+Sectoral and Institutional Context 
+ 
+7. Andhra Pradesh is a leading reforming economy: Bifurcated on June 2, 2014, the present state of Andhra 
+Pradesh (AP) is a middle income state with an average per capita annual income of INR 107,532 which is 15 percent 
+higher than the national average. The state accounts for 4.95 percent of India’s land mass, 4.09 percent of its population 
+and 4.44 percent of its GDP. AP is predominantly a rural state with 70.4 percent population living in villages and 
+dependent on agriculture as the main source of livelihood. Despite severe challenges following the division of AP into 
+two states in 2014 (AP and Telangana), the state has recorded appreciable progress in terms of the objective of 
+achieving inclusive growth with noteworthy performance in both development and welfare sectors. In 2015-16, the 
+Gross State Domestic Product (GSDP) grew at the rate of 10.99 percent, compared to corresponding growth rate of 7.2 
+percent for the country. 
+
+8. The sector-wise growth rate is equally impressive. At 2011-12 constant prices, agriculture grew by 8.4 percent, 
+compared to industry by 11.13 percent and services sector by 11.39 percent. The per capita income of AP at current 
+prices registered a growth of 12.38 percent over 2014-15. This has led to decline in the incidence of poverty from 45 
+percent in 1993-94 to 9.2 percent in 2015-16
+
+3
+. AP is recognized as one of India’s leading reforming states and in the last 
+
+two decades has achieved significant development outcomes through sustained policy and institutional reform 
+programs in which the World Bank has been an important development partner. Rich in natural and human resources, 
+the state is keen to leverage its strengths through specific growth strategies tailored to achieve double digit growth. 
+
+9. Agriculture sector has performed below capacity: The performance of the state agriculture sector, which 
+accounts for 27.6 percent of the state GDP and employs 62 percent of the work force, has been a cause of concern. 
+Between 1999-00 and 2013-14 agriculture grew at around 2.1 percent per annum with most of this growth coming from 
+livestock, horticulture and fisheries sub-sectors. In 2015-16 these sub-sectors respectively contributed 26, 25 and 15 
+percent to the Agriculture State Domestic Product (AgSDP). Land use pattern is critical for agriculture growth, only 38.31 
+percent of the state’s geographical area is net sown (6.23 million hectares). Majority of the farmers are small and 
+marginal with average landholdings of 1.06 hectare (ha). The main crops are rice, groundnut, sugarcane, cotton, maize 
+and Bengal gram. Due to seasonality and scarcity of water supply, cultivation is mostly limited to only one crop per plot 
+per year, with a cropping intensity of 126 percent.  
+
+10. The productivity of major crops has remained largely stagnant: The reason for low productivity is because AP is 
+one of the severely water stressed states of India with an average annual rainfall of 966 millimeters, and a coastline of 
+974 kilometers that is vulnerable to cyclones. Agriculture in AP is highly exposed to extreme weather events like 
+droughts, untimely and high intensity rains, floods, cyclones and hailstorms. Increasing erratic weather aberrations and 
+climate change are likely to exacerbate vulnerability of agricultural sector. Of the net sown area of 6.23 million ha in the 
+state, 3.15 million ha is presently irrigated through a combination of canals, wells, tanks, ponds and other sources. 
+Although 40,817 tanks cover a command area of 2.56 million ha, the actual area irrigated by tanks has declined 
+significantly from about 1 million ha in 1990 (24% of irrigated area at that time) to 0.26 million ha in 2015 (8.4% of 
+irrigated area).  
+
+11. Irrigation is the key to revival of the agriculture sector: Due to deficient maintenance and management of the 
+tank systems, as a result of which most tanks are performing well below the capacity, the actual area irrigated to 
+potential created varies between 35-55 percent depending on rainfall. Some 35,376 tanks having a command area of 
+0.32 million ha have been transferred from Panchayat Raj Department to Minor Irrigation Department. The rapid spread 
+of groundwater irrigation has been an additional contributing factor to the decline in tank irrigation, and has also led to 
+a serious depletion of groundwater resources across large parts of the state. Since most of the tanks are in rainfed areas 
+
+                                        
+ 
+
+with limited possibilities of providing other systems of surface irrigation, their decline poses a serious threat to the 
+fragile agricultural economy of these areas.  
+
+12. Poorer farmers, often found at the tail-end of dilapidated tank/pond systems (Small Scale Community Based 
+Irrigation Systems- SSCBI Systems) and lacking resources to access groundwater irrigation amidst low and falling water 
+tables, are particularly affected. In response to the difficulties being faced by the agriculture sector, the State 
+Government has substantially expanded capital investments for modernizing irrigation infrastructure since 2006-07.  The 
+Government has also taken steps to strengthen participatory irrigation management and AP was the first state in the 
+country to adopt participatory irrigation management (PIM) following enactment of the Andhra Pradesh Farmers 
+Management of Irrigation Systems (APFMIS) Act in 1997.  About 6,400 Water User Associations (WUAs) were formed 
+which collect water taxes for meeting operation and maintenance (O&M) costs of tanks.  
+
+13. Institutional development through capacity building has contributed to the success of PIM, a process that has 
+been significantly supported by externally funded projects. The Bank-supported AP Community Based Tank 
+Management Project (APCBTMP), which concluded in July 2016, has made significant development impacts in the state 
+by rehabilitating 2,157 tanks, which resulted in 32 percent increase in tank command area and contributed to increase in 
+paddy, maize and groundnut productivity by 36, 72 and 97 percent, respectively. In addition, tank rehabilitation resulted 
+in 388 percent increase in fish productivity. 
+
+14. Agriculture sector is in need of a paradigm shift: The negative consequences of low agriculture yields extend 
+from precarious incomes of farmers to large tracts of land locked in low value agriculture, despite growing demands for 
+high value products such as fruits, vegetables, and livestock products. According to NSS data4, the average annual 
+income of the median farmer net of production costs (of 1 hectare) from cultivation is less than INR 20,000 in 17 states, 
+including Andhra Pradesh. Add high cost of cultivation, growing indebtedness, climate uncertainty, ineffective 
+procurement, insufficient storage space and market linkages, and it makes agriculture an increasingly uneconomical 
+activity.5 The crisis in agriculture sector is evidenced by the ‘Crop holiday’ (farmers abstained from farming) observed by 
+farmers of East Godavari district in an area of 85,050 acres in Kharif 2011, which is further reflected in continuing 
+suicides by farmers in the state. During 2015, 516 suicides by farmers were recorded in AP
+
+6
+. 
+
+15. Primary Sector Mission seeks institutional convergence for maximizing profitability: To pull agriculture from its 
+current abysmal condition, AP requires a new paradigm with the following components: increasing productivity by 
+getting “more from less” especially in relation to water; prioritizing the cultivation of less water-intensive crops, 
+especially pulses and oil-seeds, supported by a favorable price regime that incorporates the full social benefits of 
+producing such crops, and backed by a market-linked value chain. To effect a paradigm shift, GoAP has proposed the 
+Primary Sector Mission to converge independently operating sub-sectors viz., agriculture, horticulture, fishery, and 
+agribusiness into an integrated farming system for maximizing profitability of small and marginal farmers from a unit of 
+arable land. The proposed project will showcase an alternate approach for leveraging capacities of relevant departments 
+to improve farm incomes, and make agriculture resilient to climate change.  For a clear understanding at the highest 
+level of authority in the state to prevent further deterioration of the socio-economic fabric in rural areas (exodus, farmer 
+suicides), a more comprehensive, longer term approach based around adaptive management in agriculture is required – 
+particularly given the climate projections and their impact on the agriculture and water sectors in AP. The GoAP has 
+evaluated the results of different initiatives taken during the previous years to develop a comprehensive long term 
+strategy aimed at making agriculture in the state productive, profitable, sustainable and climate resilient. The state has 
+
+also realized that a mono-cropping production system based on capital intensive irrigation infrastructure and 
+technologies has its limitations under the present circumstances with climate variables.    
+
+16. To unlock the full potential of agriculture sector growth, AP has stressed a strong need for policies and programs 
+to focus on: (i) improvement of water use efficiency; (ii) intensification of cropping systems and diversification to high 
+value crops and commodities; (iii) enhancement of post-harvest management and value addition; and (iv) improvement 
+of the resilience of agriculture system in order to deal with increasing threats of climate change. By reorganizing PIM 
+with regular administrative systems, AP envisions realizing the full potential of its water sector reforms by achieving a 20 
+percent increase in water use efficiency over the next five years. 
+
+Relationship to CPF 
+ 
+17. The proposed project is fully consistent with the India Country Partnership Strategy (CPS): The proposed 
+project is fully consistent with the India Country Partnership Strategy (CPS) for FY 2013–17 to support poverty reduction 
+and shared prosperity in India. The proposed project is aligned with two key pillars of CPS – ‘transformation’ and 
+‘inclusion’. In line with ‘transformation’, the project aims to promote inclusive rural growth, development and 
+dissemination of new agricultural and water management technologies, climate-resilient agriculture, enhanced market 
+linkages for small and marginal farmers, and improved water and natural resource management (CPS Outcome 2.4). The 
+proposed project will have positive impact in terms of environmental protection, and reduced greenhouse gas emissions 
+by disseminating high efficiency irrigation systems, and promoting diversification to pulses and high value crops, which 
+significantly reduce water and carbon footprint of agriculture (CPS Outcomes 2.5/2.6). 
+
+18. The project is aligned with the Bank’s transformative and inclusive criteria:  With respect to ‘inclusion’, the 
+project aims to enhance the livelihoods of small and marginal farmers through crop diversification, enhanced market 
+access (CPS Outcome 3.6), and also by improving disaster management abilities of GoAP and local communities through 
+enhanced design and restoration of smallholder irrigation infrastructure with better drought proofing and flood 
+protection features (CPS Outcome 3.8).  
+
+19. The proposed project will directly contribute to the achievement of 5 out of 17 United Nations’ Sustainable 
+Development Goals (SDG), namely:  
+
+Goal 2 – End hunger, achieve food security and improved nutrition and ote sustainable agriculture, by enhancing 
+income, food security, and nutrition of large number of rural population, where majority of AP’s poor reside. 
+
+Goal 6 – Ensure availability and sustainable management of water and sanitation for all by investing in irrigation 
+infrastructure, promoting a whole range of water saving technologies for irrigated agriculture, which uses 
+about 75 percent of all water in the state. 
+
+Goal 8 – Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent 
+work for all by promoting a broad-based agriculture growth and employment in rural areas, where more than 
+two-third of country’s population are employed. 
+
+Goal 9 – Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation by 
+rehabilitating and modernizing irrigation infrastructure (supply canals, water tanks) with enhanced resilience 
+features of flood protection in about 1,211 tanks. 
+
+Goal 13 – Take urgent action to combat climate change and its impacts and reduce GHG effects of agriculture production 
+by promoting a wide range of water saving technologies and agricultural practices (SRI, micro-irrigation), 
+expanding areas under pulses and high value crops, which consume less water, and also by enhancing 
+awareness-raising, human and institutional capacity on climate change mitigation, adaptation, and impact 
+reduction. 
+
+ 
+20. The project will also coordinate with other Bank-supported projects in Andhra Pradesh and at national level 
+including Assam Agriculture project, Maharashtra Agricultural Competitiveness Project, Andhra Pradesh-Telangana 
+Water Sector Improvement Project, National Hydrology Project, and National Groundwater Improvement Project to 
+ensure synergy and enhance long-term project impact. 
+
+ 
+
+C. Proposed Development Objective(s)     
+ 
+
+The Project Development Objective is to enhance agricultural productivity, profitability and resilience of Small Scale 
+Community Based Irrigation Systems (SSCBI Systems)
+
+7
+in selected districts of Andhra Pradesh.  
+
+ 
+21. The project beneficiaries will include small and marginal farmers, water users associations, farmer producer 
+organizations, and other agro-entrepreneurs. During project preparation, specific target areas will be identified and 
+specific interventions will be designed to benefit women and other vulnerable groups.  
+
+ 
+ 
+
+Key Results (From PCN) 
+ 
+
+22.  The following 5 Key Performance Indicators (KPI) are proposed to measure key outcomes of the project: 
+
+(i) KP#1: Number of Farmers / farmer groups adopting resilient technologies and practices –(such as  Agriculture Technology,  
+
+water  productivity/efficiency)  (Corporate Result Indicator) 
+
+(ii) KP#2: Percentage increase in irrigation supply in the project area / selected tank command area  
+
+(iii) KP#3: Percentage increase in productivity (for selected crops, vegetables and fisheries), and  percentage increase in 
+
+returns from two selected agriculture commodities over the baseline value through development of supply chain 
+
+(iv) KP#4: Number of farmers benefitted through increased access to agricultural assets and services – disaggregated by 
+
+gender   
+
+(v) KP#5: GHG: Change in incremental value to various Carbon stock assessments in selected plots (Corporate Result 
+
+Indicator) 
+
+D. Concept Description 
+ 
+
+. Description 
+ 
+23. Project Rationale: The proposed project is seized of GoAP initiatives in ameliorating the current distress in the 
+state farm sector. The biggest challenge for the state is to pull farmers out of the current crises. To achieve food and 
+nutritional security, the issues related to growing water scarcity, degrading land resources, high cost of cultivation, 
+stagnant farm productivity, and the impacts of climate change need to be systematically addressed. AP with 13 districts 
+and 6 agro-climate zones has great potential for growth and profitability in agriculture and allied sectors (fisheries & 
+horticulture). This is what the project seeks to realize by providing transformative direction to the agriculture sector by 
+packaging and up-scaling relevant technologies and appropriate practices, and by supporting reforms (Primary Sector 
+Mission) that could support more effective policies and management practices to improve the productivity of 
+agriculture, animal husbandry, and fisheries to increase net benefits, and improve equity and livelihoods 
+
+24. Alternative considered:  
+
+25. In line with the Government of India’s policy imperative on getting ‘more from less’, especially in relation to 
+water, the project proposes to improve SSCBI for realizing underutilized potential of decentralised irrigation system for 
+benefitting small and marginal farmers for producing less water-intensive crops, especially pulses and oil-seeds, and 
+creating a favorable procurement ecosystem towards improved profitability under emerging specter of climate change. 
+ 
+
+ 
+ 
+
+ 
+26. Innovative design: The project design is consequently built on the key lessons learnt from the APCBTMP 
+and from similar projects in other States (Karnataka, Tamil Nadu, Maharashtra), clubbed with the emerging need of 
+integrating with climate variables, and value addition to the SSCBI Systems for reducing farm-level water footprints, 
+and for enhancing carbon stock in farmers’ fields in providing a strategic direction to develop climate-resilient 
+sustainable production systems. The innovative aspects will include improved designs of smallholder irrigation 
+infrastructure for efficient capture, storage and delivery of rain water, strong focus on improving water-use 
+efficiency, recent advances in intensification and diversification of agriculture, agri-entrepreneurship, and 
+movement toward climate resilient agriculture with relevant agriculture-water related investments and substantial 
+improvements of participatory irrigation management practices.  
+ 
+27. Improved resilience of agriculture production systems is expected to be achieved under the project 
+through improving soil organic carbon, higher water use efficiency, reducing crop water footprints through 
+diversification, and increased adoption of technologies and practices for optimizing and sustaining productivity. 
+Project activities will be complimented by the use of innovative information and communication technology (ICT) for 
+enhanced efficiencies and faster turnaround time for delivering services to project beneficiaries, and new media 
+technologies for real time reporting and data sharing among project teams working at different levels. 
+ 
+28. The total project cost is expected to be around US$ 238 million, of which the World Bank will finance US$ 
+170 million (70 percent of total project cost) and the GoAP will finance US$ 68 million (30 percent of total project 
+cost). The project activities will cover the entire state of Andhra Pradesh (its individual components will cover 
+different geographic areas) and will be implemented over a six-year period. The project activities would be grouped 
+into four main components: (i) Improving Irrigated Agriculture Efficiency at Farm Level; (ii) Promoting Adaptive 
+Sustainable Agriculture Practices; (iii) Post-harvest Management, Market and Agribusiness Promotion; and (iv) 
+Project Management and Capacity Building. The individual components have been detailed below.  
+
+ 
+Component A: Improving Irrigated Agriculture Efficiency at Farm level  (approx. US$ 110 million) 
+
+ 
+29. This component would improve SSCBI systems to strengthen the integrated farming system (in which 
+growing crops, agro-forestry and rearing of livestock co-exist) with reduced water footprints. It will consist of four 
+inter-related sub-components: (i) institutional strengthening and capacity building (ii) improving Small Scale 
+Community Based Irrigation System (SSCBI System) performance and resilience; (iii) improving water productivity 
+and efficiency; and (iv) building synergy with the Primary Sector Mission (on agriculture, fishery, horticulture, 
+livestock and irrigation). 
+
+ 
+Sub-component A.1: Institutional Strengthening and Capacity Building 
+
+ 
+30. The sub-component would focus on engaging communities through water users’ associations (WUAs) in 
+social engineering of project interventions. The Participatory Irrigation Management (PIM) will follow a distinct 
+approach where better operation and maintenance (O&M) of rehabilitated smallholder tank systems will be 
+dovetailed with irrigation outreach based on reduced water footprints through adaptive agriculture practices 
+(Component B) at the farm level.This sub-component will also sensitize water users and ensure that a desired level 
+of greenhouse gas (GHG) emission is managed at the tank level. Water use efficiency will be the leitmotif for 
+creating a culture for ‘more crops, per drop’ through community based institutions for assuming greater 
+responsibility towards making water-conserving crop choices for water conservation and management. The sub-
+component will support in strengthening the existing WUAs and establish new WUAs for effectively developing all 
+aspects related to efficient in situ water conservation and management practices. The component would enhance 
+
+WUA capacity in grounding the concept at the farm level. 
+ 
+31. In addition, the sub-component would relate to mobilizing water users for collective action through the 
+vehicle of WUAs for ensuring local level participation in planning, implementing and managing the SSCBI facilities as 
+well as establishing backward and forward farm-linkages with the external government, private sector and non-
+government agencies. The proposed project would expand the scope of ‘SSCBI” beyond the ‘crop irrigation’ into 
+others - fisheries, animal husbandry and domestic users. The spheres of intervention would include: (i) Policy and 
+Governance - educating and enabling enactment of the existing legislative provisions and  exploring new vistas for 
+establishing relation between different sets of water users; (ii) Physical and Engineering- creation of assets, 
+including capacity building support for designing and implementing construction, as well as managing procurement, 
+finance and quality control; (iii) Operation and Maintenance (O&M) involving physical sustainability and improved 
+irrigation performance leading to enhanced production/productivity, incomes and food security; (iv) Social 
+mobilisation - local level organizational development including leadership building and problem solving approaches, 
+empowerment of poor and vulnerable sections such as women, Scheduled Castes, Scheduled Tribes etc., and 
+provision of capacity support and capacity building including observation and study tours; and (v) Economic - fixing 
+and collection of water tariff and building of a corpus to enable further modernization and diversification, market 
+penetration to enable establishing backward and forward linkages; and the related book keeping.  
+
+ 
+Sub-component A.2: Improving  Small Scale Community Based Irrigation (SSCBI) System Performance and 
+Resilience 
+
+ 
+32. This sub-component will modernize irrigation infrastructure, including SSCBI systems and irrigation canals 
+within a defined catchment and also use a cascading management approach. The modernization of irrigation 
+infrastructure will focus on improving the bulk water delivery to irrigation systems through rehabilitation and 
+modernization of approximately 1,211 smallholder irrigation structures. The expected works will include 
+modernization of control structures (diversion weirs), supply channels, cross-masonry structures, de-silting
+
+8
+ of 
+
+feeder and supply channels, construction of recharge well structures and strengthening and up-gradation of tank 
+bunds, installation of flow measurement devices, up-gradation of distribution systems, improvements of irrigation 
+and drainage canals, and introduction of modern quality testing devices to determine soil compaction parameters, 
+as well as modern quality testing devices for meticulously maintaining specified cover to reinforcement steel in the 
+construction of reinforced concrete structures for long term durability.In addition, relevant catchment treatment 
+approaches will be considered for reduced siltation, reliable and dependable flow to cascade SSCBI systems. 
+
+ 
+Sub-component A.3: Improving Water Productivity and Efficiency 
+ 
+33. The objective of this sub-component will be to promote water saving technologies such as drip and 
+sprinkler systems, and for implementing Participatory Groundwater Management (PGM) at assessment unit level. 
+The investments will include catchment and command area treatment of SSCBI systems, including construction of 
+group based mini-irrigation schemes (dug wells, shallow tube wells, water harvesting and groundwater recharging 
+systems).For drought proofing and capturing flood waters, cascades will be linked. Robust automation systems will 
+be demonstrated, which will enable spatial homogeneity in water delivery in these systems.  
+34. Conjunctive use of surface and groundwater will be coordinated with crop planning and water budgeting. 
+
+                                            
+8
+Considering economic and environmental perspectives, desilting of the tank will be limited only to remove silt from the tank bed to 
+
+use for raising and strengthening tank bund during the rehabilitation of tank bund in such a way that sufficient area upstream of 
+
+sluices is de-silted on priority to ensure free flow of water towards the sluices. 
+
+
+Water sharing by groundwater users (with surplus water) with those without irrigation source will be promoted; and 
+pipelines provided for efficient water distribution (as implemented in APCBTMP). Consolidation and linking of 
+groundwater sources piloted in Anantapur district under the World Bank supported AP Drought Adaptation 
+Initiative will be encouraged. All development and improvement activities will be included in an Integrated Water 
+Resource Conservation and Management Plan (IWRCMP). A basin level ridge to valley treatment for water 
+conservation and management in convergence with the activities of all the primary stakeholders and implementing 
+departments will be undertaken. 
+
+ 
+Sub-component A.4: Building Synergy with Primary Sector Mission 
+
+ 
+35. For effective service delivery to farmers, various departments and entities involved in water, agriculture 
+and related sub-sectors need to collaborate. For achieving this GoAP is working towards forming a consortium of 
+knowledge stakeholders, including relevant state line departments, knowledge institutions, civil society 
+organizations and other relevant national and international organizations to support planning, implementation and 
+monitoring the activities of the Primary Sector Mission. The project will provide support to policy and institutional 
+reforms for enhancing institutional capacities of relevant departments. The sub-component will provide incentives 
+for capital investments, including through unlocking opportunities for crowding-in private sector investments. 
+Support will also be provided for guiding, designing and implementing holistic strategy for the Primary Sector 
+Mission.  
+ 
+
+36. As an innovative design feature, the project will use information and communication technology (ICT) 
+tools, sensors and remote sensing in two ways – (i) leveraging Internet of Things (IoT) technologies combined with 
+sensors to remotely capture data and information on various aspects pertaining to minor irrigation systems such as 
+water flows, water quality and (ii) use ICT and remote sensing products for monitoring and evaluation (M&E). 
+ 
+Component B: Promoting Adaptive Sustainable Agriculture Practices (approx. US$ 79 million) 
+ 
+37. This component aims to improve productivity of the tank systems and enhance resilience of agriculture 
+production systems for increasing production and managing risks associated with climate variables. This would be 
+achieved by diversification of farm production, introduction of climate resilient solutions, improving value 
+realization at the farm level through improved post-harvest management, and strengthening farmer-market 
+linkages. The component will provide incentives for capital investments by unlocking opportunities for crowding-in 
+private sector investments. This component will have three sub-components: (i) Promoting climate smart 
+diversified agriculture production systems; (ii) Innovation and technology transfer for fishery production; and (iii) 
+Post-harvest management, marketing and agribusiness promotion.  
+ 
+Subcomponent B.1: Climate Smart Diversified Agriculture Production Systems  
+ 
+38. Sustainable intensification and diversification of crop and horticulture production systems will be achieved 
+by awareness creation, on-farm demonstrations on new seeds and promising technologies, capacity building and 
+training activities; and by leveraging private sector investments in water management and farm mechanization. 
+Climate risk resilience will be built in agriculture production systems by promoting crop diversification from rice to 
+low water requiring pulses, maize, oilseeds, millets, vegetables and fruits; cultivation of high yielding, short 
+duration, drought-, pest- and disease-tolerant crop varieties/hybrids; complementary agronomic practices; and 
+building ability to withstand biotic and abiotic stress through a large scale program of demonstrations, and training 
+activities as well as investments in farm implements and resource saving technologies like micro irrigation systems 
+
+
+
+to enhance water use efficiency and land productivity.  Component interventions will focus on irrigated command 
+areas of the project, and   will also cover the rain fed areas in the project villages and cascades. The project will 
+support operationalization of web-based integrated weather forecasting and water management system to 
+provide real time crop advisories, including water, pest and disease stress, and implementation of mitigation 
+measures and contingency plans. A baseline of Green House Gas (GHG) emissions from agriculture production 
+systems will be established and would be regularly monitored for changes during the project period.  
+ 
+39. The project will focus on increasing farm productivity by reducing ‘input’ costs and enhancing ‘output’ 
+from farming systems on a sustainable basis. This will be achieved by (a) adopting diversified cropping system on 
+‘navdanya’
+
+9
+ pattern to buffer weather anomalies; (b) promoting comprehensive, crop specific sustainable 
+
+agricultural package of practices; (c) installation of integrated weather forecasting systems to provide weather-
+based crop advisories in selected smallholder irrigation cluster areas; and (d) developing a mechanism to quantify 
+crop resilience to climate variability, and creating a baseline for quantifying soil organic carbon and GHG emission 
+from crop production systems. 
+  
+Subcomponent B.2: Innovation and Technology Transfer for Fishery Production 
+ 
+40. Fish production has registered an average annual growth rate of 9.92 per cent in AP. Building on this, the 
+component aims at improving fish productivity and profitability in the project tanks and ponds which offer high 
+economic opportunities and benefits. The GoAP accords top priority to fisheries development in the state, and has 
+released the Fisheries Policy and Plan for 2015-2020. Under this policy, the government has approved the fiscal 
+benefits covering several sections of the industry, including production, processing, marketing and disease 
+management for stimulating development of the fishery sector. 
+ 
+41. The subcomponent will focus on strengthening research-extension linkages in order to improve farmers’ 
+access to technology, and support participation of fish farmers in value chains. Project aims to promote innovative, 
+climate resilient, and modern technology packages in production, post-harvest management and marketing. The 
+project will (i) support multiplication of improved germplasm for quality seed production, (ii) introduce suitably 
+formulated fish feed using locally available ingredients; (iii) demonstrate semi-intensive and intensive production 
+models at appropriate locations in ponds; (iv) promote improved fish production techniques in irrigation tanks 
+including innovative technologies such as cage culture in an environmentally sustainable manner; and build 
+institutional capacity of the fishery sector. The project will facilitate suitable linkages for better access to markets, 
+and support measures for maintaining hygienic conditions throughout the fish value chain. 
+ 
+Component C: Post-harvest Management, Market and Agribusiness Promotion (approx. US$ 32 million) 
+ 
+42. This subcomponent will enhance farmers’ linkages to markets by providing alternate marketing channels 
+and promoting farm level aggregation, post-harvest management and value addition. The project will support 
+organizing producers into farmer producer organizations (FPOs) and companies (FPCs); develop their capacity and 
+skills for accessing wider input and output markets; and investment support to the FPOs for establishing common 
+service centers for aggregating grains and horticulture produce. The expected benefits to the FPO members are 
+higher prices through a combination of larger critical mass of saleable produce, thereby providing economies of 
+scale, savings in transaction costs, and strengthened negotiation positions, coupled with the added value achieved 
+
+                                            
+9
+‘Navdanya’ means nine seeds (a traditional diversified cropping system which includes cereals, millets, and pulses), a system of 
+
+farming that produces food while enhancing biodiversity, building soil fertility and conserving water. 
+
+
+
+through primary grading and packing. The project will support integration of producer organizations in commercial 
+value chains of agricultural commodities, and facilitate public-private partnerships to enable direct buying 
+arrangements.  Key strategy will be market oriented agricultural production through collective marketing by 
+farmer producer organizations. 
+ 
+43. For mitigating price risks the project will support operationalization of Negotiable Warehouse Receipts in 
+AP. For promoting agri-business ecosystem in the state, an Agri-Business Promotion Facility (ABPF) will be 
+established. The ABPF activities will include conducting market and value chain studies on the identified 
+commodities; establishing and operating mentorship programs; scouting new technologies (including climate 
+resilient technologies); assisting small and medium private entrepreneurs to prepare business and financial 
+proposals; and providing business planning and incubation services to emerging agri-entrepreneurs.  
+ 
+44. The value chain for selected commodities will help to increase the share of farmers in wholesale and retail 
+prices of the commodity. Some of the measures to achieve this include farmers’ participation in commodity 
+exchanges, establishing storage infrastructure starting from primary, intermediate and transit warehouses for 
+value addition. For high value crops, emphasis would be laid on demand based production, post-harvest 
+processing, and creating forward linkages for direct marketing. Such a production and marketing system would be 
+aimed at encouraging farmers to diversify into high value crops for additional income. 
+ 
+
+Component D: Project Management and Capacity Building (approx. US$ 16 million) 
+ 
+45. The objective of this component is to ensure smooth implementation of project activities, as well as 
+monitoring of, and learning from project processes and outputs. Activities to be financed include: (i) setting up, 
+supporting and capacity building of project management unit (PMU) to align with the project components at the 
+state and district level; (ii) project monitoring, evaluation and promotion of learning culture at the PMU level; (iii) 
+documentation of project processes and experience on a rolling basis, and its dissemination to the wider 
+development community for cross-learning and sharing; (iv) hiring services of an external M&E agency as 
+consultants for the duration of the project for creating a feed-back loop for improving project thrust and 
+implementation; and (v) providing support for emerging needs and innovations during implementation; and 
+networking with partner organizations, external professional agencies and the World Bank. 
+ 
+
+  SAFEGUARDS 
+
+ 
+A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)     
+
+ 
+Andhra Pradesh is located on the east coast in peninsular India facing the Bay of Bengal. The State has three 
+physiographic zones, the hilly region (having Nallamalai, Erramalai hills and the Eastern Ghats having an altitude of 500 
+to 1400 m); the plateau (having an altitude of 100 m to 1000 m) and the deltas of rivers (between the Eastern Ghats 
+and the Sea Coast).  It has a coast line of 974 km and its major rivers are   Krishna, Godavari, Tungabhadra. It has about 
+21% of the geographical area under forest cover with 6 National Parks and 21 Wildlife Sanctuaries. It has an ancient 
+religious/cultural heritage and Tirupati is one of the most popular temples in the country. 
+ 
+The state is drained by three major perennial rivers viz. Godavari, Krishna and Pennar, several other medium and small 
+rivers. In total 40 rivers drain into the sea. Rainfall varies from 560 mm in the Rayalaseema region to about 1200 mm in 
+the northeastern coastal part of the state. The State receives about 66% of rainfall from south-west monsoon (June-
+
+
+\and about 25% from north-east monsoon (October-December). The stage of ground water development is 
+around 70%. Six Agro-Climatic Zones are recognized – Scarce Rainfall Zone, Southern Zone, North Coastal Zone, 
+Godavari Zone, Krishna Zone and High Altitude Zone. The state experiences frequent storms, floods particularly in 
+coastal areas and drought in the Rayalseema region 
+ 
+The project activities will involve investing on repair and rehabilitation of about   1200 tanks spread across the  state.  
+The interventions will include: improving water assets, modernizing irrigation infrastructure, improving water 
+productivity, promoting adaptive sustainable agricultural practices, enhancing fisheries production and climate friendly 
+agri business promotion.  Andhra Pradesh (erstwhile undivided) is known to be a leading consumer of agrochemicals in 
+the country with 24% share and 21% share in pesticides alone. 
+
+ 
+B. Borrower’s Institutional Capacity for Safeguard Policies     
+
+ 
+Safeguard issues revolve around augmenting and/ or re-engineering the existing minor irrigation tanks along with 
+water conveyance system and other associated activities related to enhancing production, productivity and incomes in 
+the spheres of agriculture and fisheries.  The key intervention relates ensuring bridging of the gaps between designed 
+and actual irrigable area with participation by the local water using communities.  Major challenge thus lies in 
+mobilizing the local tank based community towards group action and establishing linkages with other public and 
+private sector institutions. This has been addressed successfully under the first project (Andhra Pradesh Community 
+Managed Tank Project) with the help of an Environmental and Social Management Framework (ESMF). The proposed 
+project would build on the same, but taking into account the latest legislative developments and expanded scope of 
+the interventions, into agriculture and fisheries. Environment Management Plans (EMP) will be prepared for tanks that 
+are known to be rehabilitated by appraisal. In addition, the project will develop a Pest Management Plan (PMP). All this 
+points to adequate capacity for safeguards management with the borrower.  
+ 
+The previous project has put in place a robust systems   in place and capacities are developed for managing the social 
+and environmental impacts. Adequate number of experienced professionals too have been deployed for managing the 
+ESMF.  However, as the follow on project’s scope is enhanced both in terms of the number of tanks and the 
+interventions, GOAP has already initiated efforts towards re-visiting the ESMF. The learnings drawn the 
+implementation experiences of the first project will be fed into this revision.  
+
+ 
+D. Policies that might apply     
+
+ 
+
+Safeguard Policies Triggered? Explanation (Optional) 
+
+Environmental Assessment OP/BP 4.01 Yes 
+
+The physical investments under the project would be 
+largely on rehabilitation of existing water assets 
+where improper construction could result in adverse 
+impacts. The investments under productivity 
+enhancement through sustainable agriculture 
+practices could result in positive impacts with 
+effective planning an implementation. 
+
+
+An Environmental and Social Assessment will be 
+undertaken and a Social and Environmental 
+Management Framework will be developed for 
+managing risks and maximizing the environmental 
+and social opportunities. These will take into account 
+experiences and learnings from the previous phase.  
+ 
+
+Natural Habitats OP/BP 4.04 TBD 
+The rehabilitation of tanks may impact natural 
+habitats such wetlands, which will be determined 
+during EA. 
+
+Forests OP/BP 4.36 No 
+The project interventions are not expected to impact 
+the forest areas. 
+
+Pest Management OP 4.09 Yes 
+
+The project will not directly finance pesticides but the 
+improved irrigation and crop diversification may 
+result in increased use of pesticides. The project will 
+work in synergy with the state primary sector mission 
+and focus on climate smart agriculture production 
+system which will promote the non-chemical package 
+of practices. A Pest Management Plan (PMP) will be 
+prepared for the project. 
+
+Physical Cultural Resources OP/BP 4.11 No 
+
+No significant adverse impacts on cultural property 
+expected, but this issue will be examined during the 
+ESA and appropriate measures will be put in place to 
+deal with any chance findings. 
+
+Indigenous Peoples OP/BP 4.10 Yes 
+
+AP state has a tribal population of 2.7 million 
+amounting to 5.5% of the total population. A few 
+pockets in three districts are predominantly inhabited 
+by tribals and are covered under the Fifth Schedule of 
+the Indian Constitution. So, project areas is likely to 
+have tribal population. However,   investment plans 
+are currently not known. Hence, to address such 
+situations wherein the project is likely to be taken up 
+in tribal areas, a Tribal Peoples Planning Framework 
+(TPPF) will be prepared. 
+
+Involuntary Resettlement OP/BP 4.12 Yes 
+
+The project will not and need not resort to 
+involuntary acquisition of lands as the existing 
+irrigation tanks will focus of repair and rehabilitation. 
+However, cases of encroachers on /within the Tanks 
+cannot be ruled out. To address this, a Resettlement 
+Policy Framework will be prepared. 
+
+Safety of Dams OP/BP 4.37 Yes 
+
+Some of the tanks could be large with high 
+embankments above 10 m. The heights of the 
+embankments will be known by appraisal for 
+ensuring that appropriate mitigation measures are 
+put in place for addressing any potential adverse 
+environmental impact. This policy was also triggered 
+
+
+
+ 
+
+during the previous phase and arrangements were 
+put in place.  Already, a robust mechanism exist in 
+the state, which will be further strengthened. Three 
+region-wise Dam Safety Panels (DSPs) were 
+constituted by the Government to function with 
+technical guidance from the Chief Engineer, Central 
+Designs Organization. 
+The project will seek better coordination with the 
+Dam Safety Panel and processes. The project will also 
+support safety enhancement of tank systems as part 
+of tank rehabilitation. 
+ 
+
+Projects on International Waterways 
+OP/BP 7.50 
+
+No 
+The project does not fall on any international 
+waterways. 
+
+Projects in Disputed Areas OP/BP 7.60 No The project is not in any disputed areas. 
+
+ 
+E. Safeguard Preparation Plan      
+
+ 
+Tentative target date for preparing the Appraisal Stage PID/ISDS 
+ 
+
+May 31, 2017 
+ 
+Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and 
+their timing should be specified in the Appraisal Stage PID/ISDS 
+ 
+GoAP will undertake social and environmental assessment so as to revise the existing environmental and social 
+management frameworks (ESMF), in conformity with applicable Bank policies as well as the national and state legal 
+stipulations. EMPs will be prepared for tanks that are known to be rehabilitated by appraisal. Apart from the 
+comprehensive ESMF, the following independent documents-- Resettlement Policy Framework (RPF) and Tribal People 
+Plan Framework (TPPF) – will also be prepared. These are expected to be completed by end August 2017. 
+
+ 

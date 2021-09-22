@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World Bank Document
+
+
+PROGRAM INFORMATION DOCUMENT (PID) 
+
+APPRAISAL STAGE 
+
+September 25, 2017 
+
+Report No.:  AB7900 
+
+ 
+
+Operation Name 
+
+ 
+
+Region AFRICA 
+
+Country Niger 
+
+Sector Agriculture (30%); Extractives Industry (25%); Banking 
+
+Institutions (5%); Energy (15%); Telecom (15%); and 
+
+Governance (10%) 
+
+Operation ID P163318 
+
+Lending Instrument Development Policy Lending 
+
+Borrower(s) THE REPUBLIC OF NIGER 
+
+Implementing Agency MINISTRY OF PLANNING 
+
+Date PID Prepared September 25, 2017 
+
+Estimated Date of Appraisal October 17, 2017 
+
+Estimated Date of Board Approval December 5, 2017 
+
+Corporate Review Decision Proceed to Appraisal/Negotiations 
+
+ 
+
+ Country and Sector Background 
+ 
+
+1. Niger’s economy is undiversified, heavily relying on agriculture and the extractive 
+industries. Agriculture is main driver of growth and accounts for 40 percent of GDP. The vast 
+
+majority of Niger’s population and the poor live in rural areas and earn their living from 
+
+agriculture. However, agricultural productivity is low due to very low uptake of modern inputs 
+
+and poor extension services.  Niger has significant mineral wealth, including uranium and gold, 
+
+and has started exporting refined oil products. These three products account for approximately 70 
+
+percent of total export values. The extractive industry accounts for 10-15 percent of government 
+
+revenue.  
+
+2. Growth is volatile owing to frequent external shocks of different nature. Shocks 
+impacting on the economy include security challenges, the Nigerian crisis, unfavorable weather 
+
+conditions and commodity prices. Security challenges disrupted economic activities with 
+
+growing social and humanitarian pressures linked to the flow of hundreds of thousand refugees 
+
+and internally-displaced people. The economic downturn in Nigeria impacted export 
+
+performance. Unfavorable weather conditions impacted agriculture, and depressed commodity 
+
+prices adversely affected growth and revenue in the extractive industries.       
+
+3. Although declining, poverty remains high, and is more pronounced in rural areas. Poverty 
+incidence declined from 53.7 percent in 2005 to 44.5 percent in 2014. Despite the decline in 
+
+overall poverty incidence, the rural poor became poorer relative to their urban counterparts 
+
+during the same period. Their per capita consumption relative to that of the urban poor declined 
+
+from 60 percent to 43 percent. Lack of economic diversification, volatile agricultural growth, 
+
+low access to physical and institutional infrastructure, and a weak human capital base limit 
+
+economic opportunities, especially in rural area. 
+
+ 
+
+ Key development issues and rationale for Bank involvement  
+ 
+
+4. A key objective of the Government of Niger is to focus on supporting rural growth, given 
+the concentration of the poor in rural areas. Agriculture would be the leading sector supported by 
+
+the government’s 3N initiative with a special focus on agro-industry, public investment in 
+
+infrastructure and the social sectors. Niger is predominantly a rural economy and the majority of 
+
+the population earn their living from agriculture. Agriculture is the main contributor to GDP but 
+
+agricultural productivity is low compared to the secondary and tertiary sectors, to other countries 
+
+in the region.1 The sector is handicapped by inadequate extension services,2 limited use of 
+
+equipment and modern inputs, limited control of water, a weak organization of producers, and 
+
+declines in soil fertility. Extremely low access to rural finance is identified as one of the key 
+
+impediments to modern inputs, marketing channels and logistics—including inadequate storage 
+
+facilities and ability to process agricultural products which also account for low productivity in 
+
+agriculture. Strengthening of the links between the extractive industry and the local economy is 
+
+also considered a key factor to rural growth. The greatest potential for the extractive industry 
+
+social and economic contribution is in job creation either through local subcontracting and/or 
+
+through the development of the informal mining sector, such as gold panning and small-scale 
+
+mining. A framework needs to be established to formalize the local content in the sector and the 
+
+artisanal mining sector needs to be formalized and better organized. Community development 
+
+aimed at providing social infrastructure (roads, schools, hospitals, and mining cities) also 
+
+enhances the benefits for the rural population. They provide an alternative to rural employment.  
+
+5. Counterfactual analyses show that significant gains could be made if inefficiencies in 
+infrastructure were fixed. Niger could grow by as much as 4.5 percentage points per capita if it 
+
+expands and improves its infrastructure. Power would contribute around 1.51 percentage points 
+
+to per capita growth if generation capacity and national access rates—which as of today are 
+
+among the lowest in the region—were increased. ICT would also make an important contribution 
+
+to economic prospects (1.31 percentage points), provided the mobile phone and Internet markets 
+
+continue expanding.3 Creating a favorable environment for the private sector to invest in these 
+
+sectors, improving access of the rural population to electricity and mobile/internet, and making 
+
+sure that the NIGELEC, the state-owned company in electricity, remains financially viable are 
+
+the main objectives of the Government.    
+
+6. Niger’s domestic revenue is low, and is among the lowest in the WAEMU. One of the 
+key challenges facing Niger is the need for increasing its tax revenue. First it will help continue 
+
+financing Niger’s development challenges and avoid painful fiscal consolidation through cuts in 
+
+expenditures as has been the case in the past years. Second, the current vicious circle of 
+
+increasing public debt and interest payments represents a risk that would only be mitigated in the 
+
+medium term under the assumption of a tightening fiscal stance. Government data show that tax 
+
+         
+
+expenditures and exemptions from the investment code -only - increased from 0.5 percent to 0.9 
+
+percent of GDP between 2014 and 2015. A World Bank study showed that for customs revenues 
+
+only, over the five years from 2011 to 2016, exemptions represented 47 percent of customs 
+
+revenue, on average, peaking at 54 percent in 2015.4  
+
+7. Niger’s macroeconomic framework remains adequate for the proposed operation. Growth 
+is expected to be moderate averaging 4.5-5 percent in 2017-19 driven by agriculture and mining. 
+
+To contain the substantial fiscal deficit of 7.5 percent in 2017, explained partly by security-
+
+related spending, the government has initiated a process of fiscal consolidation which aims to 
+
+bring Niger in line with the WAEMU fiscal target by 2020. The tax revenue measures included 
+
+in this programmatic series support this consolidation effort.  This risk of debt distress is 
+
+moderate. The macro policy framework is underpinned by the continued implementation of the 
+
+International Monetary Fund (IMF) Extended Credit Facility (ECF) program and the 
+
+macroeconomic anchor offered by Niger’s membership in the West African Economic and 
+
+Monetary Union (WAEMU). Downside risks predominate and are mainly related to the 
+
+vulnerability and exposure of the economy to weather, security, Nigeria’s economy and 
+
+commodity prices. 
+
+ 
+
+ Proposed Objective 
+ 
+
+8. The proposed operation is the first of a series of two development policy operations to be 
+disbursed over 2017-2018 under IDA 18. The operation will provide financial support to Niger 
+
+as the authorities implement the (Plan de Développement Economique et Social) PDES II .   
+
+9. The proposed series is fully aligned with the government’s development strategy and 
+priorities as articulated in the PDES II.  It is designed to advance a number of key PDES II 
+
+objectives. Pillar 1 supports the PDES II ’s objective of “Food security and sustainable 
+
+agricultural development” by focusing on agricultural productivity and the dissemination of 
+
+context-relevant farming practices. The focus on the extractive industry in Pillar 1 supports the 
+
+PDES II’s objective of “A competitive and diversified economy” by strengthening the linkages 
+
+between the extractive industries with the rural economy. The focus on rural finance under Pillar 
+
+1 and infrastructure under Pillar 2 supports the PDES II’s objective of “A competitive and 
+
+diversified economy”. Pillar 3, supports the PDES II’s objective of “Governance, Peace and 
+
+Security”.    
+
+ 
+
+ Preliminary Description 
+ 
+
+10. The program development objective (PDO) is to foster rural growth. This will be 
+achieved through a series of cross-cutting reform measures grouped in two pillars. The first pillar 
+
+is “Increasing rural productivity growth”. It aims to (i) enhance the use of modern inputs and 
+
+improve access to extension services systems; (ii) strengthen the linkages between the extractive 
+
+industries and the local economy, and; (iii) deepen rural finance penetration. The second pillar is 
+
+“Supporting growth-enabling sectors”. It aims to (i) develop a framework favorable to ICT 
+
+                                                 
+4
+ Draft: Informal trade and customs revenue losses in Niger, (2017). 
+
+
+
+investment, mainly in rural areas; (ii) improve the financial and the technical performance of 
+
+NIGELEC5, and; (iii) broaden the tax base by rationalizing tax expenditure and exemption 
+
+regimes  
+
+ 
+
+ Poverty and Social Impacts and Environment Aspects 
+ 
+
+11. Many of the actions supported by the proposed operation are expected to have positive 
+poverty reduction and welfare enhancement impacts. Improvements in the agricultural input 
+
+supply chain (seeds and fertilizers) and on the extension service delivery will contribute to higher 
+
+agricultural yields and therefore to improved food security while reducing economic 
+
+vulnerability of rural households. Artisanal and small-scale mining (ASM) is an important source 
+
+for jobs for the rural population, and a way for many to complement agricultural incomes. In 
+
+particular, the development of community projects financed by the extractive industry will 
+
+impact positively the rural population. In addition, enforcement of existing regulation in the 
+
+extractive industry will allow the development of a strategy to address the social, health and 
+
+safety issues that are currently encountered in the artisanal mining areas: the child labor, the 
+
+dangerous and unhealthy working conditions resulting in frequent accidents (collapsing tunnels 
+
+and pits), the absence of adequate personal protective equipment. Greater access to rural finance 
+
+will help producers access more economic opportunities.  
+
+12. The development of the electricity and ICT sectors will create small business 
+opportunities while complementing other initiatives to improve rural welfare. Potential negative 
+
+impact on the poor of the tariff adjustment is mitigated. The majority of the poor does not have 
+
+access and use electricity. In addition, there is already a tariff system that protects to the poor. 
+
+Nonetheless, a PSIA will be conducted during calendar year 2018 by the NECALEP to assess the 
+
+impact of the electricity measures and inform the government policy in the sector. Access to 
+
+internet and mobile through the USF will allow for the expansion of e-voucher supporting social 
+
+protection and subsidy programs targeting the poor.    
+
+13. Some actions supported by the proposed series are expected to have a positive impact on 
+gender equality. The development of an action plan to better integrate Extractive Industries into 
+
+the national economy envisages among other objectives the advancement of women in the sector. 
+
+The formalization of the ASM will protect women and children for whom harsh working and 
+
+living conditions are the norm The impact on gender of the prior actions on agriculture, rural 
+
+finance, electricity and ICT will not be directly linked to the prior actions. However, their impact 
+
+could benefit female-headed more proportionately given their more pronounced vulnerability if 
+
+directed to hem. Increased access to electricity and broadband network is expected to benefit 
+
+female-headed households who are more in need of new economic opportunities more 
+
+proportionately. Similarly, the education and health reforms will allow the Government and 
+
+public agencies to expand social services, which are critically important to women and female-
+
+headed households.  
+
+ 
+Environment Aspects  
+
+ 
+
+14. The proposed operation is likely to have positive effect on the Niger’s environment, 
+forests, or other natural resources. Unregulated or poorly regulated artisanal mining activities in 
+
+the extractive industries have resulted in significant environmental destruction. Such adverse 
+
+impacts have been considered by the Government which has prepared a Strategic Environmental 
+
+and Social Assessment (SESA) to identify and address negative (enhance positive) 
+
+environmental and social impacts along the entire mining value chain. The SESA provides 
+
+strategic guidance for enhancing environmental sustainability and social equity of the sector as a 
+
+whole and specific recommendations to be incorporated into national policies and programs. The 
+
+formalization of artisanal mining is likely to reduce such adverse impacts on the environment. 
+
+Similarly, a stronger regulation and control of the quality of agricultural inputs will reduce 
+
+potential environmental risks borne by unregulated seeds or fertilizers. The prior actions 
+
+supporting the development of ICT, rural finance and the social sectors are not likely to have 
+
+significant impacts on environment and forests 
+
+ 
+
+Tentative financing 
+
+ 
+
+Source: ($m.) 
+
+BORROWER/RECIPIENT 0.00 
+
+International Development Association (IDA) 120 
+
+Borrower/Recipient  
+
+IBRD 
+
+Others (specify) 
+
+ 
+
+ Total 120 
+
+ 

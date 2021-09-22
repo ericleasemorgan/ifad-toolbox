@@ -44,6 +44,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 World Bank Document
 
 
@@ -53,82 +62,6 @@ NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364)
 
  
  
-
-  
-Mar 07, 2017 Page 1 of 19  
-
-     
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- O
-
-n
-ly
-
- 
-
- 
-
- 
- 
-      
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
 Project Information Document/  
 Integrated Safeguards Data Sheet (PID/ISDS) 
 
@@ -136,104 +69,6 @@ Integrated Safeguards Data Sheet (PID/ISDS)
  
 
 Concept Stage | Date Prepared/Updated: 07-Mar-2017 | Report No: PIDISDSC19562 
-
-P
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-P
-
-u
-b
-lic
-
- D
-is
-
-cl
-o
-su
-
-re
- A
-
-u
-th
-
-o
-ri
-ze
-
-d
-
-
 
  
 The World Bank PROJECT CONCEPT NOTE 
@@ -276,36 +111,6 @@ may not otherwise be disclosed without World Bank authorization.
  
 The World Bank PROJECT CONCEPT NOTE 
 NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page i 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
-      
 BASIC INFORMATION 
 
  
@@ -407,31 +212,6 @@ NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364)
  
  
 
-Jan 05, 2017   Page ii 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
 For Loans/Credits/Others (US$M) 
 
  
@@ -515,32 +295,6 @@ Agriculture
  
 The World Bank PROJECT CONCEPT NOTE 
 NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page iii 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
 
  
 
@@ -672,137 +426,8 @@ Approval  Nov 14, 2017 Nov 14, 2017
  
 Expenditures 
 
- 
-
-Source of Funds Preparation Expenses to Date (USD) 
-
-Bank Executed Trust Funds    
-
- 
-Team 
-
- 
-Bank Staff 
-
-Name Role Specialization Unit 
-
-Ahmed Shawky M. Abdel Team Leader(ADM  Irrigation & WRM GWA06 
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page v 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
-Ghany Responsible) 
-
-Shambhu Prasad Uprety 
-
-Procurement 
-
-Specialist(ADM 
-
-Responsible) 
-
- Procurement GGO06 
-
-Yogesh Bom Malla 
-Financial Management 
-
-Specialist 
- Financial management GGO24 
-
-Drona Raj Ghimire Environmental Specialist  Environment safeguards GEN06 
-
-Hiromi Yamaguchi Team Member  Processing consultant GFA03 
-
-Joop Stoutjesdijk Team Member  Irrigation Engineering GWA02 
-
-Jun Zeng Safeguards Specialist  Social Development & Safeguards GSU06 
-
-Junko Funahashi Counsel  Legal LEGES 
-
-Purna Bahadur Chhetri Team Member  Co-TTL, Agriculture GFA12 
-
-Rekha Shreesh Safeguards Specialist  Social Safeguards GSURR 
-
-Satish Kumar Shivakumar Team Member  Finance Officer WFALA 
-
-Tara Shrestha Team Member  Assistance SACNP 
-
-Zakia B. Chummun Team Member  Operations GWA06 
-
- 
-Extended Team 
-
-Name Title Organization  Location 
-
-    
- 
- 
- 
-
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 6 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 B. Introduction and Context 
  
@@ -854,39 +479,6 @@ Existing farmers are generally unable to benefit from existing modern technologi
 6. The pressing priority is thus to improve agricultural productivity and foster diversification towards 
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 7 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
 high-value products to secure food security for a growing population and to improve rural incomes. 
  
 Public investment in improving irrigation is becoming paramount for transforming the agriculture sector  
@@ -930,39 +522,6 @@ through concentrated investment in irrigation. Also one of the key management go
 expand farmer ownership and operation of irrigation schemes as irrigation is vital to the national 
 agricultural production and economic transformation.   
 
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 8 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 Basic Tenets of Irrigation Policy 2013
 
@@ -1022,39 +581,6 @@ areas to boost crop production, leading to food self-sufficiency, employment gen
 
  
 
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 9 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 reduction.  There are four themes under this DoI goal:  
 a) Rehabilitation of existing FMISs;   
@@ -1148,39 +674,6 @@ projects mostly in the hills and Terai region. The Rani-Jamara-Kulariaya Irrigat
 Babai IP, Sikta IP, Bagmati IP are examples of such large-size undertakings.  The development/modernization 
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 10 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
 of medium to small schemes (below 300 ha in hills and below 2,000 ha in Terai) are implemented by the 
 Medium Irrigation Project (MIP) and the Non-Conventional Irrigation Technology Project (NITP).  At present, 
 the MIP has about 250 new irrigation projects in the pipeline with a combined cultivable command area 
@@ -1230,38 +723,6 @@ projects, namely: (1) Irrigation and WRM Project, which is a collaboration of th
 Practices (IWRMP, IDA US$114m, closing in June 2018, targets 26,808 hectares); and (2) Modernization of Rani-
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 11 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 Jamara-Kulariya Irrigation Scheme-Phase 1 (MoRJKIP, IDA US$40m, due to close in September 2017, targets 
 14,300 hectares).    The Performance and Learning Review (PLR) of the CPS, conducted in October 2016, has 
@@ -1317,41 +778,6 @@ litre/second/hectare.  The lack of bulk inter-seasonal water storage needs to be
 the modernization of the system down to the farm level, in order to optimize canal storage and irrigation 
 scheduling, thus optimize the root-zone moisture across the crop-growth stages. 
 
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 12 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
- 
 2. Second, the WUAs function is not supposed to stop at the main-system level.  There is a need to utilize the 
 
 immense potential for JPM in the Rani-Jamara-Kulariya community, building on the creation and 
@@ -1389,43 +815,6 @@ management and monitoring and evaluation.
     
 
   SAFEGUARDS 
-
- 
-
-Note to Task Teams: The following sections are system generated and can only be edited online in the Portal. 
- 
-
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 13 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
 
  
 
@@ -1483,38 +872,6 @@ ongoing MoRJKIP- Phase 1.  The recent safeguard rating under Phase 1 is moderate
 specialist recruited under the project, a Local Environmental Monitoring Committee (LEMC) was formed. LEMC 
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 14 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 consisted of representatives from environmental stakeholders in the area such as Bardia National Park, community forest 
 users group, district forest and NGO, played positive roles in monitoring and providing advices / guidance with regard to 
@@ -1577,39 +934,6 @@ During project preparation, impacts on natural habitat
 and biodiversity will be assessed and appropriate 
 
 
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 15 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
-
 mitigations as part of EA and EMP, (or if necessary, 
 Stand-alone Biodiversity Management Plan) will be 
 prepared.  
@@ -1668,39 +992,6 @@ VCDP will be prepared for project locations known by
 appraisal while VCDF will be the guiding document for 
 the remaining works.  
 
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 16 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
- 
 
 Involuntary Resettlement OP/BP 4.12 Yes 
 
@@ -1766,38 +1057,6 @@ Ahmed Shawky M. Abdel Ghany
 Sr Water Resources Spec. 
  
 
-
-
- 
-The World Bank PROJECT CONCEPT NOTE 
-NP Modernization of Rani Jamara Kulariya Irrigation Scheme - Phase 2 (P158364) 
-
- 
- 
-
-Jan 05, 2017   Page 17 
- 
-
-F
-o
-r 
-
-O
-ff
-ic
-
-ia
-l 
-U
-
-s
-e
- 
-
-O
-n
-ly
-
  
 
  
@@ -1815,60 +1074,4 @@ Nepal
  
 
  
-
-Implementing Agencies 
- 
-
-Department of Irrigation 
-
-Rajendra  Prasad Adhikari 
-
-Director General, Department of Irrigation 
-
-rjkip@hotmail.com 
- 
- 
-
-FOR MORE INFORMATION CONTACT 
-
-The World Bank 
-
-1818 H Street, NW 
-
-Washington, D.C. 20433 
-
-Telephone: (202) 473-1000 
-
-Web: http://www.worldbank.org/projects  
-
- 
-
- 
-
-APPROVAL 
-
-Task Team Leader(s): Ahmed Shawky M. Abdel Ghany 
- 
-
-  Approved By 
-APPROVALTBL 
-
-Safeguards Advisor: Maged Mahmoud Hamed  
-
-Practice Manager/Manager: Meike van Ginneken  
-
-Country Director: Qimiao Fan  
-    
-
- 
- 
-
- 
- 
- 
-
-Note to Task Teams: End of system generated content, document is editable from here. 
-
-http://www.worldbank.org/projects
-
 
